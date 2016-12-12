@@ -1,0 +1,96 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>496</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Sarskilt-tandvardsbidrag</origFileName>
+    <parallel_text xml:lang="eng" location="sarskilt-tandvardsbidrag.html"/>
+    <parallel_text xml:lang="fit" location="sarskilt-tandvardsbidrag.html"/>
+    <parallel_text xml:lang="sme" location="sarskilt-tandvardsbidrag.html"/>
+    <parallel_text xml:lang="swe" location="sarskilt-tandvardsbidrag.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Hammashuollon erityistuki / Särskilt tandvårdsbidrag - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Suomeksi / Finska</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="nob">Hammashuollon erityistukiSärskilt tandvårdsbidrag</p>
+    <p xml:lang="nno">Skriv ut (ca 2 sidor)</p>
+    <p type="title">Ennalta ehkäisevän hammashuollon tuki</p>
+    <p>Jos sinulla on hampaisiin vaikuttava sairaus, voit tarvita ennalta ehkäisevää hammashoitoa. Silloin sinulla voi olla oikeus hammashuollon erityistukeen (STB). Tukea voit saada, jos sinulla on esimerkiksi sairaus, joka aiheuttaa hampaiden syöpymisvaurioita. Jotta hammaslääkäri tai suuhygienisti saavat tiedon siitä, että potilaalla on oikeus hammashuollon erityistukeen, hänen on osoitettava sairauttaan koskeva lääkärintodistus.</p>
+    <p>Hammashuollon erityistuki täydentää yleistä hammashuoltotukea. Jos potilas saa erityistukea, hän on myös oikeutettu yleiseen hammashuoltotukeen.</p>
+    <p>Hammashuollon erityistuki on 600 kruunua puolessa vuodessa ja summa vähennetään hammashoidon maksun yhteydessä. Hammashuollon erityistuki on käytettävä viimeistään 30. kesäkuuta ja vastaavasti 31. joulukuuta vuosittain.</p>
+    <p type="title">Mihin voi saada tukea?</p>
+    <p>Hammashuollon erityistukea voi saada vain ennalta ehkäisevään hammashuoltoon. Siihen lasketaan kuuluvaksi kaiken tyyppiset tutkimukset ja joitakin hoitoja, joiden tarkoituksena on ehkäistä hammassairauksia ja vaivoja, kuten esimerkiksi puhdistus, fluoraus sekä suuhygieniaa ja ravintoa koskeva opastus.</p>
+    <p>Muista hammashoidoista maksetaan tavalliseen tapaan.</p>
+    <p type="title">Kenellä on oikeus hammashuollon erityistukeen?</p>
+    <p>Hammashuollon erityistukea voi saada, jos potilaalla on esimerkiksi</p>
+    <list>
+      <p type="listitem">kystinen fibroosi</p>
+      <p type="listitem">vaikea krooninen keuhkoahtauma, KOL</p>
+      <p type="listitem">suolistosairaudet haavainen paksusuolen tulehdus ja Crohnin tauti ja heikentynyt suolen toiminta</p>
+      <p type="listitem">hampaiden syöpyminen (eroosio) esimerkiksi anoreksian, bulimian tai ruokatorven refluksitauti</p>
+      <p type="listitem">vaikeasti hoidettava diabetes</p>
+      <p type="listitem" xml:lang="eng">dialyysihoito</p>
+      <p type="listitem">heikentynyt immuunijärjestelmä esimerkiksi elinsiirron tai lääkehoidon jälkeen</p>
+      <p type="listitem">Sjögrenin oireyhtymä</p>
+    </list>
+    <p>Hammashuollon erityistukea voi saada myös alla olevista syistä johtuvasta suun kuivuudesta</p>
+    <list>
+      <p type="listitem">pitkäaikainen lääkehoito</p>
+      <p type="listitem">pään tai kaulan alueelle annettu sädehoito</p>
+    </list>
+    <p type="title">Miten hammashuollon erityistukea voi saada?</p>
+    <p>Hammashuollon eritystuen maksaa Vakuutuskassa (Försäkringskassan). Tietoa siitä, miten tukea haetaan, voi saada siltä lääkäriltä, hammaslääkäriltä tai suuhygienistiltä, jonka luona käyt.</p>
+    <p>Paras tapa saada tietää, onko oikeutettu hammashuollon erityistukeen, on puhua oman lääkärin tai hammaslääkärin kanssa. Vakuutuskassa vaatii useimmiten lääkärintodistuksen, joka vahvistaa kyseisen sairauden tai potilaan vaivat. Joskus lääkärintodistusta ei tarvita, jos hammashoidon potilastiedoissa on merkintä siitä, mikä sairaus potilaalla on. Hammaslääkäri tai suuhygienisti päättää, onko hänellä tarvittavat tiedot todistuksen lähettämiseksi Vakuutuskassaan hammashuollon erityistuen saamiseksi. Lääkärintodistus ei yleensä saa olla kolmea kuukautta vanhempi ensikäynnillä hammaslääkärin tai suuhygienistin vastaanotolla.</p>
+    <p>Hammashuollon erityistuki koskee kaikkia Vakuutuskassaan liittyneitä hoidon tarjoajia. Jos potilas vaihtaa hammaslääkäriä tai suuhygienistiä, hänellä on myös jatkossa oikeus hammashuollon erityistukeen. Joskus lääkärintodistus on uusittava riippuen siitä, mikä sairaus potilaalla on.</p>
+    <p>Potilas voi itse hakea hammashuollon erityistukea suoraan Vakuutuskassasta. Silloin sen myöntämiseen voi kulua enemmän aikaa. Lisätietoja on Vakuutuskassan verkkosivulla.</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="nno">http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Sarskilt-tandvardsbidrag/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut (ca 2 sidor)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2013-02-11</p>
+    <p xml:lang="ger">Skribent:</p>
+    <p xml:lang="smj"><em type="italic">Kirjoittaja: </em>Inger Stenberg, ylihammaslääkäri ja arvioiva hammaslääkäri, Västra Götalandsregionen </p>
+    <p xml:lang="swe">Redaktör:</p>
+    <p>
+      <em type="italic">Toimittaja: </em>
+    </p>
+    <p xml:lang="smj">Ingemar Karlsson Gadea, 1177 Vårdguiden</p>
+    <p xml:lang="swe">Granskare:</p>
+    <p xml:lang="swe"><em type="italic">Tarkastaja: </em>Gunnel Håkansson, hammashuollon strategi, Landstinget Kronoberg, Växjö </p>
+    <p>Artikkelin sisältö on myös 1177.se -verkkopalvelun toimituksen ja toimitusneuvoston muokkaama, tarkastama ja hyväksymä.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>

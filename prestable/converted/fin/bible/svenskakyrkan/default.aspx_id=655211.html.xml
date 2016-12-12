@@ -1,0 +1,37 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>172</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=655211</origFileName>
+    <parallel_text location="default.aspx_id=767249.html" xml:lang="sma"/>
+    <parallel_text location="default.aspx_id=767273.html" xml:lang="sme"/>
+    <parallel_text location="default.aspx_id=766403.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Kaste - Svenska kyrkan - Om oss</p>
+    <p type="title">Kaste</p>
+    <p type="title">Pieni lapsi on syntynyt maailmaan. Sitä haluamme juhlia yhdessä tuomalla lapsen kasteelle.</p>
+    <p>Lapsen vanhemmalle kaste voi ilmentää kiitollisuutta siitä, että on saanut juuri tämän pienen ihmisen lapsekseen.</p>
+    <p>Lupaus</p>
+    <p>Kasteeseen liittyy lupaus siitä, että Jumala on elämässämme läsnä joka hetki riippumatta siitä, mitä se tuo tullessaan. Läpi kirkon historian kaste on ollut näkyvä todiste siitä, että jokainen ihminen kuuluu Jumalan yhteyteen.</p>
+    <p>Kastejumalanpalvelus on ilon ja elämän juhla. Kastettava tuodaan Jumalan eteen, hänen, joka antoi meille elämän ja joka iloitsee siitä kanssamme. Jumala haluaa pysyä lähellämme läpi koko elämän. Hän haluaa vapauttaa meidät kaikesta mikä lamauttaa ja näin hän vapauttaa meidät elämään.</p>
+    <p>Nuoren kaste</p>
+    <p>Suurin osa Ruotsin kirkossa kastetuista on pieniä lapsia. Yhä useammin kuitenkin myös nuoria sekä nuoria aikuisia hakeutuu kastettaviksi, yleensä rippikoulun yhteydessä tai jos henkilö on osallistunut kristinuskoa pohtivaan keskusteluryhmään.</p>
+    <p>Kaste ja jäsenyys</p>
+    <p>Kaste on Ruotsin kirkon jäsenyyden perusta. Toisessa kristillisessä yhteisössä kasteen saanut on myös tervetullut Ruotsin kirkon jäseneksi, uutta kastetta ei vaadita. Ruotsin kirkon järjestyksen mukaan kaste on voimassa läpi elämän.</p>
+  </body>
+</document>

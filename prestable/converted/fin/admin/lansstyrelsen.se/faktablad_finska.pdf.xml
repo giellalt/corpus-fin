@@ -1,0 +1,280 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1077</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/SiteCollectionDocuments/Sv/manniska-och-samhalle/integration/Faktablad%20finska.pdf</origFileName>
+    <parallel_text location="faktablad_sydsamiska.pdf" xml:lang="sma"/>
+    <parallel_text location="faktablad_nordsamiska.pdf" xml:lang="sme"/>
+    <parallel_text location="faktablad_lulesamiska.pdf" xml:lang="smj"/>
+    <parallel_text location="faktablad_meankieli.pdf" xml:lang="swe"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104790 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="sma">KANSALLISTEN VÄHEMMISTÖJEN OIKEUKSIA VAHVISTETAAN</p>
+    <p xml:lang="sma">TIETOLEHTINEN</p>
+    <p>
+      <em type="italic">Hallitus esitteli maaliskuussa 2009 uuden </em>
+    </p>
+    <p>
+      <em type="italic">vähemmistöpoliittisen strategian esityksessään </em>
+    </p>
+    <p>
+      <em type="italic">Tunnustamisesta omaan valtaan – Hallituksen kansallisia </em>
+    </p>
+    <p>
+      <em type="italic">vähemmistöjä koskeva strategia (esitys 2008/2009:158). </em>
+    </p>
+    <p>
+      <em type="italic">Strategia merkitsee useita muutoksia, jotka koskevat </em>
+    </p>
+    <p>
+      <em type="italic">kansallisten vähemmistöjen oikeuksien vahvistamista ja </em>
+    </p>
+    <p>
+      <em type="italic">vähemmistöpolitiikan toteuttamisambitioiden parantamista. </em>
+    </p>
+    <p>
+      <em type="italic">Hallitus panostaa 70 miljoonaa kruunua uudistukseen, jota </em>
+    </p>
+    <p>
+      <em type="italic">aletaan toteuttaa vuodesta 2010. Vähemmistöpolitiikan </em>
+    </p>
+    <p>
+      <em type="italic">budjetiksi tulee täten runsaat 80 miljoonaa kruunua. </em>
+    </p>
+    <p><em type="italic">Valtiopäivät hyväksyivät esityksen 10. kesäkuuta 2009.</em> </p>
+    <p xml:lang="sma">TAUSTA</p>
+    <p>Vähemmistöpolitiikasta tuli oma politiikan alue</p>
+    <p>vuonna 2000, kun Ruotsi ratifioi Euroopan</p>
+    <p>neuvoston kansallisten vähemmistöjen suojelua</p>
+    <p>koskevan puiteyleissopimuksen ja Alueellisia</p>
+    <p>kieliä tai vähemmistökieliä koskevan</p>
+    <p>Eurooppalaisen peruskirjan. Ruotsin</p>
+    <p>vähemmistöpolitiikan tavoitteena on antaa suoja</p>
+    <p>kansallisille vähemmistöille, vahvistaa niiden</p>
+    <p>vaikutusmahdollisuuksia ja tukea historiallisia</p>
+    <p>vähemmistökieliä, niin että ne säilyvät elävinä.</p>
+    <p>Ruotsin kansalliset vähemmistöt ovat juutalaiset,</p>
+    <p>romanit, ruotsinsuomalaiset, saamelaiset ja</p>
+    <p>tornionlaaksolaiset. Vähemmistökielet ovat jiddiš,</p>
+    <p>meänkieli, romani, saame ja suomi.</p>
+    <p>Kokemus osoittaa, että vähemmistöpoliittisia</p>
+    <p>tavoitteita on vaikea saavuttaa ja että</p>
+    <p>kansallisten vähemmistöjen tarpeita ei ole otettu</p>
+    <p>huomioon riittävässä määrin.  Euroopan neuvosto on Ruotsin</p>
+    <p>vähemmistöpolitiikkaa tarkastaessaan</p>
+    <p>huomauttanut parannusten tarpeesta monella</p>
+    <p>alueella.</p>
+    <p>Hallituksen vähemmistöpoliittinen strategia</p>
+    <p>sisältää sen vuoksi toimia, joiden tarkoituksena</p>
+    <p>on:</p>
+    <p type="listitem">•  turvata Euroopan neuvoston vähemmistösopimusten parempi</p>
+    <p>noudattaminen</p>
+    <p type="listitem">•  seurata paremmin vähemmistöpolitiikan toteuttamista</p>
+    <p type="listitem">•  toimia kansallisten vähemmistöjen syrjinnän ja uhanalaisuuden vastustamiseksi</p>
+    <p type="listitem">•  vahvistaa kansallisten vähemmistöjen omaa valtaa ja vaikutusmahdollisuuksia sekä</p>
+    <p type="listitem">•  edistää kansallisten vähemmistökielten säilymistä.</p>
+    <p xml:lang="sma">KANSALLISTEN VÄHEMMISTÖJEN OIKEUKSIA VAHVISTETAAN</p>
+    <p xml:lang="sma">UUSI LAKI KANSALLISISTA VÄHEMMISTÖISTÄ</p>
+    <p>Uusi laki kansallisista vähemmistöistä ja</p>
+    <p>vähemmistökielistä (SFS 2009:724) korvaa nykyiset</p>
+    <p>lait oikeudesta käyttää saamea ja suomea ja</p>
+    <p xml:lang="fkv">meänkieltä (1999:1175, 1999:1176). Muutoksia</p>
+    <p>tehdään myös Saamelaiskäräjistä annettuun lakiin</p>
+    <p>(SFS 1992:1433) ja sosiaalipalvelulakiin (SFS</p>
+    <p>2001:453). Lakimuutokset tulevat voimaan 1.</p>
+    <p>tammikuuta 2010.</p>
+    <p>Ruotsin kansainväliset velvoitteet merkitsevät, että</p>
+    <p>tietyt vähemmistöjä koskevat oikeudet on toteutettava</p>
+    <p>koko maassa. Uusi laki koskee sen vuoksi kaikkia</p>
+    <p>kansallisia vähemmistöjä. Viranomaisille määrätään</p>
+    <p>velvollisuus tiedottaa kansallisille vähemmistöille</p>
+    <p>uuden lain mukaisista oikeuksista. Kansallisten</p>
+    <p xml:lang="fkv">vähemmistökielten suojelemisesta ja edistämisestä</p>
+    <p>tulee voimaan erityinen vastuu. Kansallisten</p>
+    <p>vähemmistöjen mahdollisuuksia säilyttää kulttuurinsa</p>
+    <p>Ruotsissa ja kehittää sitä on edistettävä, samoin kuin</p>
+    <p>lasten kulttuuri-identiteetin ja oman</p>
+    <p>vähemmistökielen kehittymistä.</p>
+    <p xml:lang="sma">HALLINTOALUEITA LAAJENNETAAN</p>
+    <p>Vahvistettua vähemmistösuojaa, joka nykyisin koskee</p>
+    <p>meänkieltä, saamea ja suomea seitsemässä</p>
+    <p>Norrbottenin kunnassa – ns. hallintoalueilla –</p>
+    <p>laajennetaan maantieteellisesti käsittämään useampia</p>
+    <p>kuntia. Tämä merkitsee, että entistä useammat voivat</p>
+    <p>käyttää saamea ja suomea yhteyksissään viranomaisiin</p>
+    <p>ja että entistä useammat saavat oikeuden</p>
+    <p>esikoulutoimintaan ja vanhustenhuoltoon kokonaan tai</p>
+    <p>osittain saamen ja suomen kielellä.</p>
+    <p>Suomen kielen hallintoaluetta laajennetaan 18</p>
+    <p>kuntaan. Nämä ovat: Botkyrka, Eskilstuna,</p>
+    <p xml:lang="dan">Hallstahammar, Haninge, Huddinge, Håbo, Köping,</p>
+    <p xml:lang="smn">Sigtuna, Solna, Södertälje, Tierp, Tukholma,</p>
+    <p xml:lang="sma">Upplands Väsby, Upplands-Bro, Uppsala, Älvkarleby,</p>
+    <p>Österåker ja Östhammar. Jo aikaisemmin</p>
+    <p>hallintoalueeseen ovat kuuluneet Haaparanta,</p>
+    <p>Jällivaara, Kiiruna, Pajala ja Övertorneå.</p>
+    <p>Saamen kielen hallintoaluetta laajennetaan 13</p>
+    <p>kuntaan. Nämä ovat: Arvidsjaur, Berg, Härjedalen,</p>
+    <p xml:lang="sma">Lycksele, Malå, Sorsele, Storuman, Strömsund,</p>
+    <p xml:lang="sma">Uumaja, Vilhelmina, Åre, Älvdalen ja Östersund. Jo</p>
+    <p>aikaisemmin hallintoalueeseen ovat kuuluneet</p>
+    <p xml:lang="smj">Arjeplog, Jokkmokk, Jällivaara ja Kiiruna.</p>
+    <p xml:lang="fkv">Meänkielen hallintoaluetta ei laajenneta. Alueeseen</p>
+    <p>kuuluvat edelleen seuraavat kunnat: Haaparanta,</p>
+    <p>Jällivaara, Kiiruna, Pajala ja Övertorneå.</p>
+    <p>Kyseiset kunnat saavat valtionavustusta uusien</p>
+    <p>määräysten aiheuttamiin lisäkustannuksiin. Myös</p>
+    <p>muut kuin tässä luetellut kunnat voivat</p>
+    <p>vapaaehtoisesti liittyä hallintoalueeseen ja saavat siten</p>
+    <p>oikeuden valtionavustukseen. Hallitus päättää</p>
+    <p>vapaaehtoisesta hallintoalueeseen liittymisestä sen</p>
+    <p>jälkeen, kun kunta on hakenut sitä.</p>
+    <p xml:lang="sma">VAHVISTETUT OIKEUDET HALLINTOALUEIDEN ULKOPUOLELLA</p>
+    <p>Yksityisillä henkilöillä on oikeus käyttää meänkieltä,</p>
+    <p>saamea ja suomea yhteyksissään viranomaisiin, jos</p>
+    <p>asian voi käsitellä vähemmistökieltä hallitseva</p>
+    <p>työntekijä. Yksityisille henkilöille on myös annettava</p>
+    <p>mahdollisuus meänkieliseen, saamenkieliseen ja</p>
+    <p>suomenkieliseen vanhustenhuoltoon, jos kunnassa on</p>
+    <p>kyseisiä kieliä hallitsevaa henkilökuntaa.</p>
+    <p>Hallintoviranomaisten tulee sen vuoksi toimia niin,</p>
+    <p>että käytettävissä on meänkieltä, saamea ja suomea</p>
+    <p>hallitsevaa henkilökuntaa siellä, missä se on tarpeen</p>
+    <p>yhteyksissä viranomaiseen tai vanhusten hoivaan.</p>
+    <p>Tämä merkitsee muutosta sosiaalipalvelulakiin.</p>
+    <p>Yksityisillä henkilöillä on aina oikeus käyttää saamea</p>
+    <p xml:lang="fkv">ja suomea kirjallisissa yhteyksissään Valtiopäivien</p>
+    <p xml:lang="fkv">asiamiehiin, Oikeuskansleriin, Vakuutuskassaan,</p>
+    <p>Verovirastoon ja Syrjintäasiamieheen asioissa, joissa</p>
+    <p>yksityinen on osapuoli tai osapuolen edustaja.</p>
+    <p xml:lang="sma">KANSALLISTEN VÄHEMMISTÖJEN OIKEUKSIA VAHVISTETAAN</p>
+    <p xml:lang="sma">SELKEÄMPI VIRANOMAISVASTUU</p>
+    <p>Euroopan neuvoston vähemmistösopimusten</p>
+    <p>vähemmistösopimusten mukaiset velvoitteensa.</p>
+    <p>Kansallisten vähemmistöjen</p>
+    <p>noudattamista on tarpeen parantaa viranomaisten</p>
+    <p>vastuuta selkeyttämällä. Tukholman läänin</p>
+    <p>lääninhallitus ja Saamelaiskäräjät saavat sen vuoksi</p>
+    <p>vähemmistöpolitiikan toteuttamisen seurantavastuun.</p>
+    <p>Näiden viranomaisten tulee myös neuvonnan,</p>
+    <p>tiedotuksen ja muun senkaltaisen toiminnan avulla</p>
+    <p>auttaa muita hallintoviranomaisia lain soveltamisessa</p>
+    <p>ja yhteistoiminnassa kyseessä olevien kuntien kanssa</p>
+    <p>koordinoida hallintoalueiden laajentaminen.</p>
+    <p>Tukholman läänin lääninhallitus ja Saamelaiskäräjät</p>
+    <p>saavat tehtäväkseen järjestää toimia, jotka lisäävät</p>
+    <p>tietoa ja tietoisuutta kansallisista vähemmistöistä ja</p>
+    <p>Ruotsin kansainoikeudellisista velvoitteista.</p>
+    <p>Saamelaiskäräjät saavat myös tehtäväkseen luoda</p>
+    <p>kansallisia vähemmistöjä koskevan verkkosivuston ja</p>
+    <p>vastata siitä.</p>
+    <p>Saamelaiskäräjien on vastaisuudessa vahvistettava</p>
+    <p>saamen kieltä koskevan työn tavoitteet – tehtävä ei ole</p>
+    <p>pelkästään johtaa työtä. Valtiopäivät ja hallitus voivat</p>
+    <p>muotoilla kansallisen kielipolitiikan kokonaisvaltaiset</p>
+    <p>tavoitteet, mutta Saamelaiskäräjillä tulee olla vastuu</p>
+    <p>saamen kieltä koskevan työn sisäisten tavoitteiden</p>
+    <p>muotoilemisesta.</p>
+    <p>Syrjintäasiamiehen tulee jatkaa työtään, jota se tekee</p>
+    <p>kansallisten vähemmistöjen keskuudessa näiden</p>
+    <p>oikeuksien edistämiseksi. Uusi syrjintälaki (SFS</p>
+    <p>2008:567) antaa Syrjintäasiamiehelle hyvät</p>
+    <p>edellytykset toimia vastaisuudessakin yhtäläisten</p>
+    <p>oikeuksien ja mahdollisuuksien saamiseksi</p>
+    <p>kansallisille vähemmistöille mm. lisäämällä näiden</p>
+    <p>ryhmien keskuudessa tietoa syrjintäkysymyksistä.</p>
+    <p>vaikuttamismahdollisuuksien parantaminen onkin</p>
+    <p>keskeinen seikka, jotta ryhmien tarpeet saadaan</p>
+    <p>näkyville yhteiskunnassa.</p>
+    <p>Kansallisten vähemmistöjen oikeudesta</p>
+    <p>vaikuttamiseen säädetään kansallisista</p>
+    <p>vähemmistöistä ja vähemmistökielistä annetussa</p>
+    <p>laissa. On erityisen tärkeätä, että kansalliset</p>
+    <p>vähemmistöt saavat mahdollisuuden neuvonpitoon</p>
+    <p>paikallisella tasolla, koska monet yksityisiä henkilöitä</p>
+    <p>koskevat päätökset tehdään juuri siellä.</p>
+    <p>Kansallisia vähemmistöjä edustavien järjestöjen</p>
+    <p>järjestötukea korotetaan myös budjettivuodesta 2010</p>
+    <p>lähtien. On erityisen tärkeätä priorisoida kansallisten</p>
+    <p>vähemmistöjen edellytyksiä luoda toimivia</p>
+    <p>neuvonpitomalleja hallintoalueilla.</p>
+    <p xml:lang="sma">VAIKUTTAMISMAHDOLLISUUKSIEN PARANTAMINEN</p>
+    <p>Kansallisten vähemmistöjen omaa valtaa ja</p>
+    <p>vaikuttamismahdollisuuksia täytyy lisätä, jotta Ruotsi</p>
+    <p>pystyisi paremmin toteuttamaan</p>
+    <p xml:lang="sma">VÄHEMMISTÖKIELTEN VAHVISTAMISEEN TÄHTÄÄVÄT TOIMET</p>
+    <p>Kansallisten vähemmistökielten tulevaisuus Ruotsissa</p>
+    <p>on epävarma. Eräät kielistä, mm. eteläsaame, ovat</p>
+    <p>vakavasti uhanalaisia. Kansallisten vähemmistökielten</p>
+    <p>vahvistamiseksi, säilyttämiseksi ja revitalisoimiseksi</p>
+    <p>tarvitaan aktiivisia toimia. Kielen revitalisoiminen</p>
+    <p>merkitsee toimenpiteitä, joiden avulla uhanalainen</p>
+    <p>kieli alkaa uudelleen elpyä mm. niin, että useammat</p>
+    <p>alkavat puhua sitä.</p>
+    <p>Niiden toimien lisäksi, jotka toteutetaan helpottamaan</p>
+    <p>yksityisten henkilöiden mahdollisuuksia käyttää</p>
+    <p>vähemmistökieltä yhteyksissään viranomaisiin,</p>
+    <p>perustetaan eteläsaamen alueelle myös kaksi saamen</p>
+    <p>kielen keskusta, Östersundiin ja Tärnäbyhyn.</p>
+    <p>Saamelaiskäräjistä tulee näiden kielikeskusten</p>
+    <p>päämies, ja keskusten tehtävänä on harjoittaa</p>
+    <p>ulospäin suuntautuvaa toimintaa saamen kielen</p>
+    <p>käytön kehittämiseksi ja siihen innostamiseksi.</p>
+    <p xml:lang="sma">KANSALLISTEN VÄHEMMISTÖJEN OIKEUKSIA VAHVISTETAAN</p>
+    <p>Hallitus varaa erityisiä varoja kansallisten</p>
+    <p>vähemmistökielten revitalisointitoimiin</p>
+    <p>budjettivuodesta 2010 lähtien. Varat tulee käyttää</p>
+    <p>yksityisiin henkilöihin suuntautuviin toimiin, ja ne</p>
+    <p>jakaa hallituksen määräämä viranomainen</p>
+    <p>hakemuksen pohjalta. Kansallisten</p>
+    <p>vähemmistökielten kielenhuoltotoimiin varataan</p>
+    <p>lisää varoja ja aluksi priorisoidaan erityisesti</p>
+    <p>meänkieltä. Saamen kielen vahvistamiseksi lisätään</p>
+    <p>myös integroitua saamen opetusta vuodesta 2010</p>
+    <p>lähtien. (Integroitua saamen opetusta järjestävät</p>
+    <p>kunnalliset peruskoulut. Se merkitsee, että oppilaat</p>
+    <p>voivat saada opetusta, jossa on saamelaista</p>
+    <p>sisältöä, ja saamen kielen opetusta sen opetuksen</p>
+    <p>lisäksi, jota he saavat saamen kielen</p>
+    <p>äidinkielenopetuksena.)</p>
+    <p xml:lang="sma">VÄHEMMISTÖKIELISET PAIKANNIMET</p>
+    <p>Vähemmistökieliset paikannimet ovat arvokas osa</p>
+    <p>kulttuuriperintöä ja yhteiskunnan edustajien tulee</p>
+    <p>suojella niitä aktiivisesti. Tievirasto saa</p>
+    <p>tehtäväkseen lisätä vähemmistökielisiä</p>
+    <p>paikannimikylttejä, jotta tämä kulttuuriperintö tulisi</p>
+    <p>näkyväksi. Valtiollisten ja kunnallisten</p>
+    <p>viranomaisten tulee suojella vähemmistökielisiä</p>
+    <p>paikannimiä ja saattaa vähemmistökielet näkyviksi</p>
+    <p>kylttien ja muiden merkkien avulla.</p>
+    <p>Vähemmistökielisiä paikannimiä tulee käyttää myös</p>
+    <p>postitoimipaikkojen nimissä.  LISÄTIETOJA Lisätietoja kansallisista vähemmistöistä,</p>
+    <p>vähemmistöpolitiikasta, vähemmistösopimuksista ja</p>
+    <p>hallituksen esityksestä 2008/09:58 on hallituksen</p>
+    <p>verkkosivuilla</p>
+    <p xml:lang="fkv"><em type="italic">www.manskligarattigheter.se ja</em> </p>
+    <p xml:lang="dan">
+      <em type="italic">www.regeringen.se/integration </em>
+    </p>
+    <p>Hallituksen esityksen voi myös ostaa Valtiopäivien</p>
+    <p>painatustoimistosta, puh. 08-786 5810 tai ladata</p>
+    <p>hallituksen verkkosivult<em type="italic">a www.regeringen.se</em>  </p>
+    <p>Asiasisältöä koskeviin kysymyksiin vastaa</p>
+    <p>Integraatio- ja tasa-arvoministeriön Syrjintäasiain</p>
+    <p>yksikkö, puh. 08-405 10 00.</p>
+  </body>
+</document>
