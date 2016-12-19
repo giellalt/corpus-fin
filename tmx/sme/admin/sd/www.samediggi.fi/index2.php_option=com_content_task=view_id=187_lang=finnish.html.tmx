@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=187_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien yleinen toimisto on muuttanut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki almmolaš doaimmahat lea fárren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien yleinen toimisto on muuttanut toisiin tiloihin Inarin Riutulaan (Vasatokan kiinteistö).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki almmolaš doaimmahat lea fárren ođđa báikái Anára Rivdolai (Vasatokka dállu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi osoite on Angelintie 696, 99870 Inari. Kieli- ja koulutus- ja oppimateriaalitoimistot sijaitsevat Inarin kirkonkylän keskustassa, osoitteessa Lehtolantie 1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa adreassa lea Angelintie 696, 99870 Anár. Gielladoaimmahat sihke skuvlen- ja oahppamateriáladoaimmahat leat Anára kirkosiidda guovddážis, adreassas Lehtolantie 1.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

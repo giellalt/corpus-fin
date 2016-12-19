@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=232_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo kolttasaamelaisesta lakista !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo nuorttâsämmilâš kaperist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kolttasaamelaisilla on neljä erilaista lakkimallia, joilla on erityinen merkitys.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nuorttâsämmilijn láá nelji sierâlágán kappeermaali, main lii eromâš merhâšume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutakin lakkia saa käyttää vain tiettyyn siviilisäätyyn kuuluva henkilö.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieškote-uv kappeer uážžu kevttiđ tuše tiätu siiviilsiätun kullee olmooš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus / kuvaus / leikkaus: Eeva Nykänen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stivrim / kuvvim / čuoppâm: Eeva Nykänen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyevtittâs: Säämi máttááttâskuávdáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 2,12</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 2,12</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

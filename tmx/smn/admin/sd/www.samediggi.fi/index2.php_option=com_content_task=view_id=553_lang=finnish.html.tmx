@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=553_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ivaloisten Votkaturistit Sajoksessa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puđâldâsteatter Ivaloiset Sajosist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarilainen harrastajateatteri Ivaloiset esittää Aimo Vuorisen käsikirjoittaman näytelmän Votkaturistit Sajoksen Dolla-Salissa torstaina 2.2.2012 klo 19.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarlâš puđâldâsteatter Ivaloiset oovdânpuáhtá Aimo Vuoris čáállám čáitálduv Votkaturistit Sajos Dolla-Salist tuorâstuv 2.2.2012 tme 19.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liput ovelta klo 18 alkaen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Liipuid uuvsâst tme 18 rääjist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaaja: Ritva Savela.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stivrejeijee: Ritva Savela.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

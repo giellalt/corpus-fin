@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">klemetti.25.08.13_fin.txt.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesäloman jälkeen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geasseluomu maŋŋel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesäloma on ohi ja olen ollut ensimmäisen viikon töissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geasseluopmu lea meaddel ja lean leamaš vuosttaš vahku barggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viikko alkoi työtilanteen läpikäymisellä, budjettiriihen tilanteen selvittämisellä ja kokouksilla Inarissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vahkku álggii bargodili čađa mannamiin, bušeahttaráđđádallamiid čielggademiin ja čoakkámiin Anáris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapasin Inarissa Lapin yliopiston hallituksen, jolle kerroin saamelaistutkimuksen tarpeista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Deiven Anáris Lappi universiteahta stivrra, masa muitalin sámi dutkama dárbbuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapasin lisäksi metsähallituksen sekä maa- ja metsätalousministeriön edustajia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Deaivvadin dasa lassin Meahcceráđđehusa ja eanan- ja meahccedoalloministeriija ovddasteddjiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokouksen aiheena oli saamelaiskäräjien ja Metsähallituksen välinen yhteistyö.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoakkáma fáddán lei sámedikki ja Meahcceráđđehusa gaskavuođa ovttasbargu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtiovaranministeriön (VM) esitys ensi vuoden budjetiksi ei lupaa hyvää saamelaiskulttuurille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruhtaministeriija (RM) evttohus boahtte jagi bušeahttan ii lohpit buori sámi kultuvrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien varsinaisen toiminnan rahoitusta ei esitetä leikattavaksi, mikä tietenkin on iloinen asia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki aitosaš doaimma ruhtadeapmi ii evttohuvvo čuhppojuvvot, mii dieđusge illudahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun muuten tarkastelee valtiovarainministeriön budjettiesitystä, niin saamelaiskulttuurin kannalta asiat eivät olekaan niin auvoisia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go muđuid lohká ruhtaministeriija bušeahttaárvalusa de dat ii leatge šat nu buorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielenelvytysohjelman toteuttamiselle ei esitetä senttiäkään - eikä koko ohjelmaa ole vieläkään edes hyväksytty ! ! !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela ealáskahttinprográmma olláhuhttimii ii evttohuvvo senttege – iige prográmma leat vel obba dohkkehuvvonge ! ! !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syy ei ole kuitenkaan yksin valtiovarainministeriön - opetus- ja kulttuuriministeriö (OKM) ei ollut edes esittänyt budjettiesityksessään rahaa saamen kielten elvyttämisohjelman toimeenpanoon eikä ohjelmaa ylipäätään mainittu sanallakaan ministeriön budjettiehdotuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sivva ii leat goitge akto ruhtaministeriijas – oahpahus- ja kulturministeriija ii lean oba evttohange bušeahttaárvalusastis ruđa sámegiela ealáskahttinprográmma olláhuhttimii iige prográmma obanassiige namuhuvvo sániinge ministeriija bušeahttaárvalusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ministeriön toiminta herättää suurta huolta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahus- ja kulturministeriija (OKM) doaibma bohciidahttá stuora fuola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen pyytänyt hallintoamme olemaan välittömästi yhteydessä OKM:ään saamen kielten elvyttämisohjelmasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean bivdán hálddahusa váldit dakkaviđe oktavuođa OKM:ái sámegiela ealáskahttinprográmmas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Budjettiesitys tuo muitakin huolenaiheita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bušeahttaárvalus buktá earánai fuola fáttáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on tällä viikolla lähestynyt oikeusministeriötä ja opetus- ja kulttuuriministeriötä valtiovarainministeriön budjettiehdotuksesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea dán vahku lahkonan vuoigatvuohtaministeriija ja oahpahus- ja kulturministeriija ruhtaministeriija bušeahttaárvalusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurin tukea suunnitellaan leikattavaksi - taas kerran.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kultuvrra doarjja plánejuvvo čuhppojuvvot – vuohon oktii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>VM:n ehdotuksen mukaan vuonna 2014 sitä leikataan tosiasiallisesti peräti 60 000 euroa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RM:a árvalusa mielde jagi 2014 dat čuhppojuvvo duohtaáššis ollásii 60 000 euroin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 2014 Suomen valtion hallinnoitavaksi ja jaettavaksi lankeava pohjoismainen saamen kielitekopalkinto (Gollegiella), kaikkinen kuluineen 30 000 euroa, katetaan opetus- ja kulttuuriministeriön ilmoituksen mukaan saamelaisen kulttuurin ja taiteen tukemiseen tarkoitetusta määrärahasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 2014 Suoma stáhta hálddašeami ja juohkima várás boahtti davviriikkalaš sámi Gollegiella-bálkkašupmi, buot goluidisguin sulaid 30 000 euro, gokčojuvvo oahpahus- ja kulturministeriija ilmmuhusa mielde sámi kultuvrra ja dáidaga doarjumii dárkkuhuvvon mearreruđas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen lisäksi Taikalamppu – lastenkulttuuriverkoston toimikausi päättyy vuoden 2013 lopussa kuten myös sille osoitettu valtion rahoitus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin Diidalámpa-mánáidkulturfierpmádaga doaibmabadji nohká jagi 2013 loahpas dego maid dasa čujuhuvvon stáhtaruhtadeapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien yhteydessä toimiva saamelainen lastenkulttuurikeskus on toiminut Taikalamppu-verkostoon kuuluvan Lapin lastenkulttuuriverkoston jäsenenä saaden sitä kautta vuosittain noin 30 000 euroa valtionavustusta toimintaansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki olis sámi mánáidkulturguovddáš lea doaibman Diidalámppa-fierpmádahkii gullan Lappi mánáidkulturguovddáža lahttun ja lea ožžon dan bakte jahkásaččat sulaid 30 000 euro stáhtadoarjaga doaibmasis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä avustus lakkaa vuoden 2013 lopussa Taikalampun toimintakauden päättymisen myötä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát doarjja nohká jagi 2013 loahpas Diidalámppa doaibmabaji nohkama mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vähennys heikentäisi erityisesti saamelaisen lastenkulttuurikeskuksen toimintaedellytyksiä ja ellei valtio ei pyörrä budjettiesityksiään näiltä osin, niin lastenkulttuurikeskuksen toiminta voi loppua kokonaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahpádus heajudivččii earenoamážit sámi mánáidkulturguovddáža doaibmaeavttuid ja jos stáhta ii nuppástuhte bušeahttaárvalusas dákko bakte, de mánáidkulturguovddáža doaibma sáhttá nohkat obbanaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rahoituksen väheneminen vaikuttaisi myös saamelaiseen kulttuurimäärärahaan, alkuperäiskansojen elokuvakeskukseen ja - musiikkikeskukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruhtadeami unnun váikkuhivččii maid sámi kulturmearreruhtii, álgoálbmogiid ealligovvaguovddážii ja musihkkaguovddážii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä on pöyristyttävää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea stáhta guovllus issoras dahku, sáhtálii dadjat juo ahte dat cegge vuovttaid dain geain vuovttat leat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>60 000 euron leikkaus saamelaiselta kulttuurilta ja taiteelta ei paranna valtion budjettia millään muotoa, mutta leikkauksella on kauaskantoinen vaikutus mm. saamelaislasten palvelujen saamiseen, siis saamelaislasten oikeuksien kannalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>60 000 euro čuohppan sámi kultuvrras ja dáidagis ii buorit stáhta bušeahta mainnage lágiin, muhto čuohppamis leat guhkesáigásaš váikkuhusat ee. sámimánáid bálvalusaid oažžumii, nappo sámi mánáid vuoigatavuođaid dáfus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on kuluvan vuoden aikana vedonnut useaan otteeseen neuvotteluissaan opetus- ja kulttuuriministeriön edustajien kanssa saamelaisen lastenkulttuurikeskuksen rahoituksen turvaamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea nohkavaš jagi áigge ráđđádallan oahpahus- ja kulturministeriija ovddasteddjiiguin máŋgga háve ja doarjalan sámi mánáidkulturguovddáža ruhtadeami dorvvasteami várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikuttaa vahvasti siltä, että vetoomukset ovat menneet kuuroille korville.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Orru leame nu, ahte dát doarjaleapmi lea mannan bealjehis beljiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>VM leikkaisi myös muuten saamelaislapsilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RM čuohpalii maid muđuid sámi mánáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli- ja kulttuuripesätoimintaan suunnattua rahoitusta leikattaisiin 400 000 eurolla - eli toiminta pienenisi nykyisestä alle puoleen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giella- ja kulturbeassedoibmaruhta čuhppojuvvo 400 000 euroin – dehege doaibma unnulii dálážis badjel beliin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on vaatinut rahoituksen pitämistä vähintään nykyisellään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea gáibidan ruhtadeami doallama unnimusat dálá dásis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitys on suorastaan järkyttävä nykyisessä tilanteessa, jossa saamen kieltä suunnitellaan elvytettäväksi ja Suomi on kansainvälisesti sitoutunut saamen kielten elvyttämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohus lea njulgestaga hui morašlaš dilis, mas sámegiella plánejuvvo ealáskahttojuvvot ja Suopma lea riikkaidgaskasaččat čatnasan sámegielaid ealáskahttimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen ollut budjetinleikkaussuunnitelmista yhteydessä suoraan myös poliittisiin virkamiehiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean leamaš bušeahttačuohppanplánain oktavuođas njuolga maid politihkalaš virgeolbmuide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>VM:n esitys olisi kohtalokas saamelaiskulttuurille ja saamen kielten elvyttämiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RM:a evttohus livččii vuorrádus sámi kultuvrii ja sámegiela ealásḱahttimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtion on löydettävä säästöjä muualta kuin saamelaislapsilta ja - nuorilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhta galgá gávdnat seasttuid eará sajes go sámi mánáin ja nuorain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syksy on hyvin kiireinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čakča lea hui hohpolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensi viikolla lähden Jokkmokkiin Ruotsin saamelaiskäräjien vaalikauden avajaisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boahtte vahku vuolggán Johkamohkkái Ruoŧa sámedikki válgaáigodaga virggálaš rahpamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin kuningas osallistuu avajaisiin ja avaa vaalikauden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧa gonagas oassálastá rahpamii ja rahpá válgaáigodaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osallistun avajaisten yhteydessä järjestettävään pyöreän pöydän keskusteluun saamelaisten maaoikeuksista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oassálasttán rahpamiid olis ordnejuvvon jorbabeavdde ságastallamii sámii eananvuoigatvuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyskuun alussa on hyvin paljon tärkeitä kokouksia tiedossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čakčamánu álggus leat boahtime hui dehálaš čoakkámat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjälakityöryhmä pitää viimeiset kokouksensa syyskuussa ja jättää lakiehdotuksensa oikeusministerille ja ehdotusten vaikutustenarvioinnin on myös ehdittävä valmistua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggelága ođasnuhttinbargojoavku doallá maŋimus čoakkámiid čakčamánu mielde ja guođđá láhkaevttohusas vuoigatvuohtaministarii ja evttohusaid váikkuhusaidárvvoštallan galgá maid gearggahuvvot gárvvisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lokakuun alussa alkaa metsähallituslain tarkistaminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Golggotmánu álggus álgá meahcceráđđehuslága dárkkisteapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maa- ja metsätalousministeriön asettaman työryhmätyöskentelyn tarkoituksena metsähallituslain saamelaisten osallistumisoikeuden lisäämistä koskevien pykälien tarkistaminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanan- ja meahccedoalloministeriija ásahan bargojoavkku ulbmilin lea meahcceráđđehuslága paragráfaid dárkkisteapmi, mii guoská sápmelaččaid oassálastinvuoigatvuođa lasiheapmi eanangeavaheamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmän työskentely on tiivistä, koska metsähallituslain on valmistuttava vuoden loppuun mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavkku bargamii lea unnán áigi go ja bargojoavku ferte leahtuin dahkat evttohusas daningo meahcceráđđehusláhka galgá gárvánit jagi loahpa rádjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla 8(j)-työryhmä kokoontuu syksyllä myös tiiviisti valmistelemaan bd-strategian ja toimintaohjelman toimeenpanoa sekä kantoja kansainväliseen artikla 8(j)-työryhmän osapuolikokoukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Artihkal 8(j)-bargojoavku galgá maid čoahkkanit čakčat gárvet bd-strategiija ja doaibmaprográmma olláhuhttima ja oainnuid riikkaidgaskasaš artihkal 8(j)-bargojoavkku oassebeallečoakkámii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syksyllä on myös saamelaisen parlamentaarisen neuvoston täysistunto, jolloin tullaan tarkastelemaan erityisesti saamen kieliyhteistyön uudelleenorganisointia ja pohjoismaisen saamelaissopimuksen jatkoneuvottelujen edistymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čakčat lea maid sámi parlamentáralaš ráđi dievasčoakkán, mas geahčaduvvo earenoamážit sámi giellaovttasbarggu ođđasit organiseren ja davviriikkalaš sámi soahpamuša joatkkaráđđádallamiid ovdáneapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaisen saamelaissopimuksen jatkoneuvottelut jatkuvat syksyllä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkalaš sámi soahpamuša joatkkaráđđádallamat joatkahuvvet čakčat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neuvottelut ovat edenneet tuskastuttavan hitaasti eikä mistään ole vielä sovittu vaan sopimusteksteistä käydään yhä valmistelevia keskusteluja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđádallamat leat ovdánan duskkástuhtti njozet iige mastege leat vel šihtton muhto soahpamušdeavsttas leat ain válmmaštalli ságastallamat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät myös odottaa valtioneuvostolta etenemistä ILO 169-sopimuksen ratifioinnissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi vuordá maid stáhtaráđis ovdáneami ILO 169-soahpamuša ratifiseremis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jotta sopimus voidaan ratifioida tällä hallituskaudella, syksyllä on tehtävä ratkaisuja ja aloitettava ratifiointiesteiden poistaminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vai soahpamuš sáhttá ratifiserejuvvot dán ráđđehusbaji áigge, de čakčat galget dahkkojuvvot čovdosat ja álggahuvvot ratifiserenáruid jávkadeapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huolestuttavaa ratifioinnin kannalta on se, että Suomi on päättänyt olla hakematta YK:n turvallisuusneuvostoon vuonna 2015.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fuolastuhtti ratifiserema dáfus lea dat, ahte Suopma lea mearridan, ahte dat ii oza ON:a dorvvolašvuohtaráđđái jagi 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi on jo luovuttanut kansainvälisesti - Suomi ei pyri enää olemaan ihmisoikeuksien kansainvälinen mallimaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma lea juo vuollánan riikkaidgaskasaččat – Suopma ii vigga šat leat olmmošrivttiid riikkaidgaskasaš málleriika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toivon, että kyse on vain väliaikaisesta väsymyksestä raskaan YK:n turvallisuusneuvostokampanjan jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sávan, ahte jearaldat lea dušše gaskaboddasaš váibamis lossa ON:a dorvvolašvuohtakampánnja maŋŋel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hanskoja ei kannata lyödä tiskiin liian nopeasti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iihal galggale vuollánit ilá jođánit dánge áššis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syksyllä on tarkoitus saada saamelaiskäräjien omaa toimintaa vihdoinkin kehitettyä ja hyväksyä saamelaiskäräjien henkilöstöpoliittinen ohjelma sekä yhdenvertaisuus- ja tasa-arvosuunnitelmat ja aloittaa niiden toimeenpano.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čakčat lea ulbmil oažžut sámedikki iežas doaimma viimmat ovdánit. Dán jagi mielde galget ovddiduvvot ja dohkkehuvvot sámedikki persovdnapolitihkalaš prográmma sihke ovttaveardásašvuohta- ja dásseárvoplánat ja dađistaga álggahuvvot daid olláhuhttin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien talousarviot on päätetty hyväksyä budjettivuotta edeltävän vuoden lopussa, siis ensi vuoden budjettiesitys hyväksytään tämän vuoden lopussa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki bušeahttaárvalusat leat mearriduvvon dohkkehuvvot ovddit jagi loahpas, nappo boahtte jagi bušeahttaárvalus dohkkehuvvo dán jagi loahpas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se uudistaa asian valmistelua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat ođasnuhttá ášši válmmaštallama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää syksyn jatkoa tapiontuulten lähestyessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buori čavčča joatkaga ramádaga guvlui.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

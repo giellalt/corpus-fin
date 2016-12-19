@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">abortti.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortti tarkoittaa raskauden keskeyttämistä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårttå merkaj iesselisvuodav boarkkit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aborttia harkitsevalla voi olla mielessään monenlaisia kysymyksiä, joista on mahdollista keskustella ja joihin voi saada vastauksia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ájádallá abårtåv dahkat de soajtti edna gatjálvisá. Valla máhttá agev soabmásijn gávnadit vásstádusájt åttjudit ietjas gatjálvisájda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä koskee myös poikaa, joka on saattanut tytön raskaaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guosská aj gesi l soabmásav iesselissan dahkam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin tekemiseen voi olla monia eri syitä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå sihtá abårtåv dahkat de soajttá oare ednaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhtenä syynä voi olla se, että tyttö ei tunne olevansa valmis synnyttämään lasta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot danen gå ietjas ij gärggogin dåbdå.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voi tuntea olevansa liian nuori, tai että raskaus ei sovi elämäntilanteeseen juuri sillä hetkellä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Adná ietjas ilá nuorran jali ij hieba ietjas viessomin jur dalloj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkä raskaus on saanut alkunsa ihmisen kanssa, jonka kanssa ei halua lapsia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Márjju gejna l iesselissan sjaddam ij la gejna sidá mánáv adnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytöllä on oikeus aborttiin selittämättä kellekään, syystä riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Riektá l abårtåv dahkat ja ij dárbaha iehtjádij tjielggit, juska vil oarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä on säädetty aborttilaissa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjáledum la abårttålágan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytöllä on myös oikeus muuttaa mieltään koska tahansa ennen varsinaista aborttia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Riektá l aj rievddat akta goassa abårtå åvddåla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortti ei vaikeuta raskaaksi tulemista tulevaisuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårtåv dahkat ij dagá dav gássjelabbon iesselissan sjaddat boahtteájge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin tekemiselle ei myöskään ole ikärajaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij ga gávnnu áldarmierre abårtåv dagátjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen aborttia</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårtå åvddåla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aborttia harkitsevalla voi olla mielessään monenlaisia kysymyksiä, ja silloin on hyvä puhua asiasta jonkun kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gänna ájádallá abårtåv dahkat soajtti edna gatjálvisá ja de márjju l buorre soabmásijn ságastit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aborttia suunnittelevalle tarjotaan aina apua ja tukea, sekä ennen että jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårtå gáktuj agev fáladuvvá doarjja ja viehkke, goappátjagá åvddål ja maŋŋela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös jonkun raskaaksi saattanut voi halutessaan tavata jonkun, jonka kanssa voi puhua.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gut soabmásav iesselissan la dahkam máhttá aj gávnadit soabmásijn jus sihtá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tyttö tekee päätöksen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Niejdda gut mierret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytön ja pojan on hyvä keskustella asiasta yhdessä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Agev la buorre ságastit gejna l iesselissan sjaddam, gåktu sihtá dahkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos mahdollista, olisi myös hyvä, jos päätös voitaisiin tehdä yhdessä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus la máhttelis de l aj buorre aktan mierredit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos päätöksestä ei olla samaa mieltä, raskaana oleva tyttö tekee aina lopullisen päätöksen abortista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla jus ij ájgás boade, de agev la iesselis niejdda, gut mierret jus galggá abårtåv dahkat jali ij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytön raskaaksi tehneellä ei ole yksinoikeutta tehdä päätöstä abortista tai vauvan synnyttämisestä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gut l soabmásav iesselissan dahkam, ij la riektá aktu mierredit jus galggá abårtåv dahkat jali mánáv riegádahttet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin tekevän kumppani</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guojmmen gesi abårtåv dahká</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olipa päätös abortista yhteinen tai ei, se voi olla kumppanille raskas kokemus.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Juska vil märrádus abårtå birra l aktisasj jali ij, de guojmmen soajttá vájves vásadus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aborttiklinikoilla ja nuorisovastaanotoilla on mahdollisuus keskustella jonkun kanssa, joko yhdessä tai erikseen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goappátjagá abårttåduostudagájn ja nuorajduostudagájn máhttá soabmásijn gávnadit gejna ságas, juogu de goappátja aktan jali aktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin jälkeen olo voi olla sekä helpottunut että surullinen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårtå maŋŋela máhttá goappátjagá gähppánimev ja håjev dåbddåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunteet ja ajatukset voivat vaihdella ajan myötä, joskus vielä pitkän ajan kuluttua abortin tekemisen jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dåbdo ja ájádusá máhtti målsudit ájge milta ja muhttijn esski båhti maŋebut abårtå maŋŋela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Halutessaan keskustella jonkun kanssa voi ottaa yhteyttä esimerkiksi nuorisovastaanottoon vielä pitkänkin ajan kuluttua.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ihka vil ájgge l vássám, de máhttá aktavuodav válldet buojkulvissan nuorajduostudagájn ságastittjat dåbdoj birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Milloin abortin voi tehdä ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goassa máhttá abårtåv dahkat ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskaana olevalla on oikeus tehdä abortti 18. raskausviikkoon saakka tarvitsematta kertoa syytä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gitta 18 iesselisvuohtavahko rádjáj la riektá abårtåv dahkat váni ij aktasik giehttot manen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>18. raskausviikon jälkeen abortin tekemiseen tarvitaan Sosiaalihallinnon erityislupa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>18 iesselisvuohtavahko maŋŋela rávkaduvvá loahpe Sosiálastivras abårtåv dagátjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskauden voi keskeyttää tällöin vain erityisen painavasta syystä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dakkir loabev oadtju val jus li sierralágásj oare abårttåj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syynä voi olla esimerkiksi hyvin nuori ikä, alkoholi- tai huumeongelmat, raiskaus tai jos sikiöllä epäillään olevan vakava vamma tai epämuodostuma.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvisá dasi máhtti årrot gå l sieldes nuorra, li gassjelisvuoda alkoholajn jali drogaj, l illastuvvam jali ågen la muhtem tjavgga vahák jali ij la iemeláhkáj åvdeduvvam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Missä abortti tehdään ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gånnå abårtåv dahká ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortti tehdään aina sairaalassa tai muulla erikoisklinikalla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårttå agev dagáduvvá skihpadåben jali ietjá tjiehppeklinijkajn, ij máhte buojkulvissan abårtåv dahkat nuorajduostudagán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aborttia ei voi tehdä esimerkiksi nuorisovastaanotolla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla jus diehtá l iesselissan ja ájádallá abårtåv dahkat de máhttá aktavuodav válldet nuorajduostudagájn rádev oattjotjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tietää olevansa raskaana ja harkitsee aborttia, voi kuitenkin ottaa yhteyttä nuorisovastaanottoon saadakseen apua.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj mannat varresvuohtaguovdátjij jali gynekologaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voi myös mennä terveyskeskukseen tai gynekologin vastaanotolle.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhtti aj viehkedit aktavuodav válldet abårttåduostudagájn skihpadåben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aborttia harkitseva voi myös soittaa itse suoraan aborttivastaanottoon ja varata ajan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj iesj riŋŋgit njuolgga abårttåduostudahkaj ja ájgev diŋŋgot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tietää haluavansa abortin, aika kannattaa varata mahdollisimman pian, sillä joillakin vastaanotoilla aikaa voi joutua odottamaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus diehtá sihtá abårtåv dahkat de l buorre ájgev diŋŋgot nåv ruvva máhttelis danen gå muhttijn máhtti vuorddemájge muhtem duostudagájn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuinka abortti tehdään ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gåktu abårttå dagáduvvá ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortti voidaan tehdä usealla eri tavalla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårttå máhttá umassláhkáj dagáduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Menetelmä riippuu siitä, kuinka pitkälle raskaus on edennyt.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Makkir vuogij milta dagáduvvá mierreduvvá man guhka ájgge l vássám iesselisvuodan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskauden kesto lasketaan viimeisten kuukautisten alkamispäivästä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Åtsådittjat makkir iesselisvuohtavahkon la vuododuvvá maŋemus läjbboma vuostasj biejves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskausviikkoa ei siis lasketa hedelmöitysajankohdasta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij de riekkni almma sahkanimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhdeksänteen raskausviikkoon saakka</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gitta avtse vahkkuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskaus voidaan keskeyttää lääkkeillä yhdeksänteen raskausviikkoon saakka.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gitta avtse vahkkuj máhttá abårtåv dahkat dálkkasij viehkken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tätä kutsutaan lääkkeelliseksi keskeytykseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gåhtjudallá medisijnalasj abårttån.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joissakin paikoissa tätä menetelmää käytetään enintään raskausviikkoon 12 saakka.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhtem sajijn tjärdda aneduvvá lågenanguovte vahkuj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin keskeytys aloitetaan aborttiklinikalla ottamalla tabletti, joka ei ole sama kuin jälkiehkäisypilleri.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Oadtju tablehtav abårttåduostudagán, dát ij la sämmi gå hähkka-p-tablähtta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkkeen oton jälkeen saa lähteä kotiin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå l tablehtav bårråm de oadtju häjmmaj mannat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairaalaan palataan 1-2 päivän kuluttua, jolloin otetaan tabletteja suun kautta tai emättimeen laitetaan tabletteja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Avta jali guovte biejve maŋŋela boahtá ruoptus duostudahkaj oattjotjit ådå dálkkasav, juogu de tablähttan majt njiella jali biejaduvvá guoddnáj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairaalaan jäädään muutamaksi tunniksi, jolloin kohtu alkaa tyhjentyä verisenä vuotona.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ganugasstá de duostudagán maŋŋela ja moadda tijma duogen varddegoahtá ja iesselisvuohta boarkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tyhjentyminen voi aiheuttaa kipua, johon voi saada kivunlievitystä ja myöhemmin samana päivänä voi lähteä kotiin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá bávtjájdallat valla dasi oadtju bávtjasgiehpedimev ja maŋebut sämmi biejve häjmmaj manná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskeytyksen voi tehdä myös kotona, jolloin kyseessä on niin sanottu kotikeskeytys.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttelis la aj abårtåv hejman tjadádit, nåv gåhtjodum häjmmaabårttån.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tässä tapauksessa myös toiset tabletit otetaan kotona.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>De nuppe vuoro tablehtajt ja hejman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kotikeskeytyksen suorittajan täytyy olla vähintään 18-vuotias ja hänen on oltava toisen aikuisen seurassa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Loabeduvátjit häjmmaabårtåv dahkat de hähttu binnemusát 18 jage vuoras ja ietjas lunna l ietjá ållessjattuk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutaman viikon kuluttua abortista käydään jälkitarkastuksessa gynekologin tai kätilön luona, jolloin tehdään uusi raskaustesti ja keskustellaan tuntemuksista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Moadda vahko abårtå maŋŋela ådåsis gynekologa jali gáhppeliddje lunna manát dagátjit ådå iesselisvuohtaåtsådimev ja giehtutjit gåktu viessu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vasta tämän jälkeen lääkkeellinen keskeytys katsotaan täysin suoritetuksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Iesski dalloj medisijnalasj abårttå aneduvvá ållu tjadádum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus tehdään myös tutkimus sen tarkistamiseksi, ettei kohtuun ole jäänyt istukan jäämiä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn aj åtsådibme dagáduvvá gehtjadittjat vaj e buojkulvissan plasentas bátsidusá gávnnu skoadon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos jäämiä löytyy, on tehtävä niin sanottu kaavinta, jossa jäljellä olevat osat imetään varovasti pois.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus da gávnnuji de máhttá nåv gåhtjodum ráhpom dagáduvvat ja de njamáduvvi oase ma li báhtsam várrogit ierit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarvittaessa kaavinta tehdään nukutuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaj dav dahkat de jábmeduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskausviikkoon 12 saakka voidaan tehdä niin sanottu kirurginen abortti, jossa suoritetaan kaavinta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gitta 12 vahkkuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leikkaus tehdään nukutuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gitta 12 vahko vahkkujj, máhttá dahkat nåv gåhtjodum tjuollam abårttån, dalloj ráhpom de dagáduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri vie kohtuun instrumentin, johon on liitetty imu.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjuollambåttå l jábmedum. Dåktår tsahká instrumentav skåhtuj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sikiö ja istukka imetään varovasti kohdusta ulos.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Várrogit åhke ja plasännta njamáduvvá skoados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko toimenpide kestää noin 20 minuuttia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Oalle abårttå gihtja 20 minuvta bájken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimenpiteen jälkeen jäädään lepäämään sairaalaan muutamaksi tunniksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Maŋŋela ganut duostudagán moadda tijma vuojŋgadittjat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutaman viikon kuluttua käydään mahdollisesti jälkitarkastuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Moadda vahko maŋebut muhttijn ådåsismanádibme dagáduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskausviikot 12–18</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>12 vahko maŋŋela ja gitta 18 vahkuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskausviikon 12 jälkeen abortti tehdään kahdessa vaiheessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Maŋŋela 12 vahko de abårttå hähttu guovten lávken dagáduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensin vastaanotolla otetaan lääke, joka vastaa varhaisessa abortissa käytettävää lääkettä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duostudagán vatteduvvá vuostak dálkkasa ma la sämmi tablähtta tjerdas ma aneduvvi árra abårtån.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaksi päivää myöhemmin palataan klinikalle ja otetaan uusia lääkkeitä, jotka laukaisevat kohdun supistukset ja saavat aikaan synnytyksen käynnistymisen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guovte biejve maŋŋela boahtá ruoptus duostudahkaj ja vatteduvvá ådå dálkkasa ma álgadi skoado aktijgiessemijt vaj åhke suojmma ålgus boahtá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortti on kuin pieni synnytys, joka voi olla yhtä kivulias kuin normaali synnytys.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sjimustahttá unnepriegádahttemijn ja máhttá bávtjájdallat sämmiláhkáj gå mánáv riegádahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimenpiteen kesto voi vaihdella muutamasta tunnista useaan vuorokauteen, mutta useimmiten se on ohi yhden vuorokauden kuluessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ájgge mij rávkaduvvá målsut, moattet tijmas gitta moatte jánndurij valla ienemusájda jánndura sinna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko toimenpiteen ajan ollaan sairaalassa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dav ájgen la skihpadåben sisitjáledum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun abortti on valmis, lääkäri tutkii kohdun.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå abårttå l dagádum de dåktår skoadov åtsåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kohdussa on jäämiä istukasta, voidaan suorittaa kohdun kaavinta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus plasentas bátsidusá li de máhttá skoados ráhpom dárbulasj årrot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutaman viikon kuluttua abortista käydään mahdollisesti jälkitarkastuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Moadda vahko abårtå maŋŋela máhttá muhttijn ådåsismanádit skihpadåben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskausviikot 18</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>18 vahko maŋŋela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskausviikon 18 jälkeen abortin voi tehdä vain erityisen painavasta syystä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>18 vahko maŋŋela galggá sierra oarre abårtåv dahkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortti tehdään samalla tavoin kuin raskausviikon 12 jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårttå dagáduvvá sämmiláhkáj gå 12 vahko maŋŋela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä abortti maksaa ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Majt abårttå máksá ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin hinta voi vaihdella asuinpaikasta riippuen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Majt máksá abårtåv dahkat målsut jur gånnå rijkan årru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monissa paikoissa abortti tehdään ilmaiseksi alle 20-vuotiaille.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Moatten sajen ij dárbaha majdek mákset jus ij la 20 jage ållim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksullisen abortin hinta on noin 300 kruunua iästä riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaj mákset de máksá bájken 300 kråvnå juska vil man vuoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos haluaa tietää oman asuinpaikan tarkan hinnan, sitä voi kysyä nuorisovastaanotosta tai äitiysneuvolasta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus sihtá diehtet jur majt máksá gånnå iesj årru, de máhttá gatjádit soabmásis nuorajduostudagán jali gáhppeliddjeduostudagán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voi myös ottaa yhteyttä aborttiklinikkaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj aktavuodav válldet abårttåduostudagájn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Täytyykö vanhemmille tai huoltajille kertoa ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Hähttuji gus äjgáda jali sujttoaddne diedojt oadtjot ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaanottojen henkilökunnalla on vaitiolovelvollisuus.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Barggijn duostudagájn la sjávovälggogisvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aborttia suunnittelevalla on kuitenkin hyvä olla joku, joka voi tukea sekä ennen aborttia että sen jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla jus galggá abårtåv dahkat de l buorre jus soames máhttá doarjjan årrot abårtå åvddål ja maŋŋela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilökunta ehdottaakin yleensä nuorille, että vanhemmille tai muille huoltajille kerrottaisiin abortista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus la nuorra de bargge álu oajvvadi äjgáda jali ietjá sujttoaddne oadtju diehtet abårtåv la dagátjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos abortista ei voi kertoa kotona, siitä voi ehkä kertoa jollekin toiselle aikuiselle, johon luottaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ij hejman máhte giehttot abårtåv la dagátjit de márjju máhttá giehttot iehtjádij gesi åssku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kyseessä voi olla aikuinen sisarus, sukulainen, kuraattori tai koulun terveydenhoitaja tai joku muu, joka voi tarjota tukea.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot ållessjattuk oarbben, beraj, kuratåvrrå ja skihpasujtár skåvlån jali ietjá ulmusj gut máhttá doarjodit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos vanhemmat tai muut huoltajat ottavat yhteyttä, tilanne arvioidaan tapauskohtaisesti muun muassa nuoren omien toiveiden, olosuhteiden ja iän mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus äjgádij jali ietjá sujttoaddnij aktavuodav váldeduvvá de mierreduvvá vidjurij milta ja vuododuvvá iehtjádij siegen majt iesj sihtá, vidjurijs ja man vuoras la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä lähempänä nuori on 18. ikävuotta, sitä pienempi oikeus huoltajalla on tietää tai ottaa yhteyttä terveydenhuoltoon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dadi lagábut 18 jage vuoras la dadi binnebut la äjgádin jali ietjá sujttoaddnen riektá diedojt oadtjot ietjas aktavuodaj birra sujtujn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmissa tapauksissa asian käsittelystä voidaan keskustella henkilökunnan kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemusát máhttá ságastallat gåktu dahkat barggij maj gávnat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos vanhempiin tai huoltajiin otetaan yhteyttä, nuori saa aina tietää siitä ensin itse.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus äjgádij jali sujttoaddnij aktavuodav váldeduvvá de agev iesj vuostak diededuvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos vanhemmat tai huoltajat eivät missään tapauksessa saa tietää abortista, koska sillä voisi olla nuorelle negatiivisia seurauksia, henkilöstö ei ota heihin yhteyttä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus la nåvti vaj ietjas äjgáda jali sujttoaddne e åbbå oattjo diehtet jut abårtåv sihtá dahkat, dajna gå juojddá allasis máhttá sjaddat, de sujttobargge e aktavuodav sijájn válde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin tekeminen ei saa johtaa tilanteeseen, jossa voi joutua vaikeuksiin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårtåv dahkat ij galga tjuovvusav vaddet aktak vájves vidjurijda sjaddá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä tapauksessa on mahdollista saada apua kuraattorilta tai muulta tukihenkilöltä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá de ienni viehkev kuratåvrås jali ietjá doarjjaulmutjis oadtjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin jälkeen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårtå maŋŋela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin jälkeen on hyvä levätä muutaman päivän ajan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buorre l vuojŋadit biejvijt abårtå maŋŋela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäisten päivien ja jopa runsaan viikon ajan voi tuntua kipua, joka vastaa kuukautiskierron kramppeja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vuostasj biejvijn ja gitta vahkkuj máhttá báktjit, vargga degu läjbbombáktjasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutama viikko abortin jälkeen ilmenee verenvuotoa kuukautisten tapaan tai enemmän.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vahko abårtå maŋŋela álu varddá vargga degu l läjbbom jali márjju ienebuv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuodon kesto vaihtelee henkilöstä toiseen ja riippuu käytetystä aborttimenetelmästä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Man guhkev varddá rievddá ulmutjis ulmutjij ja makkir abårttå.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verenvuodon aikana ei pidä harrastaa seksiä, käyttää tamponia tai uida, koska voi saada tulehduksen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Nåv guhkev gå varddá ij galga seksav adnet, tampuvnav adnet jali lávggot danen gå máhttá infeksjåvnåv oadtjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset palaavat yleensä neljästä kuuteen viikon sisällä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Läjbbom álu boahtá ruoptus nielje gitta gudá vahko maŋŋela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin jälkeen jotkut tuntevat olonsa helpottuneeksi, kun taas toiset voivat olla surullisia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårtå maŋŋela muhtema dåbddi gähppánimev gå iehtjáda håjev dåbddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunteet voivat vaihdella vielä pitkänkin ajan kuluttua abortin jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj målsudit daj dåbdoj gaskan ja muhttijn esski båhti maŋebut abårtå maŋŋela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikka abortista olisi kulunut jo pitkä aika, voi ottaa yhteyttä vastaanottoon ja kertoa tunteistaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Juska vil guhka ájgge l vássám de máhttá aktavuodav válldet duostudagájn ságastittjat ietjas dåbdoj birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteyttä voi ottaa siihen klinikkaan, jossa abortti on tehty, tai esimerkiksi nuorisovastaanottoon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá dav dahkat duostudagán gånnå abårttå dagáduváj jali buojkulvissan nuorajduostudagán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ei ehkä tunne olevansa valmis, on liian nuori tai raskaus ei sovi elämäntilanteeseen juuri sillä hetkellä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn l dan duogen gå ij ietjas váseda gärggok, l ilá nuorra jali ij hiebá ietjas viessomin jur dalloj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkä raskaus on saanut alkunsa ihmisen kanssa, jonka kanssa ei halua lapsia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Márjju gejna l aktan iesselissan sjaddam ij la gejna sidá mánáv oadtjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytöllä on oikeus aborttiin selittämättä kellekään, syystä riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Juska vil oarre de l riektá abårtåv dahkat váni darbaha ietjas tjielggit ietjá ulmutjij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä on säädetty aborttilaissa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjáledum la abårttålágan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytöllä on myös oikeus muuttaa mieltään koska tahansa ennen varsinaista aborttia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Riektá l aj ietjas rievddat akta goassa abårtå åvddåla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortin tekemiselle ei ole ikärajaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij gávnnu áldarmierre dagátjit abårtåv.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

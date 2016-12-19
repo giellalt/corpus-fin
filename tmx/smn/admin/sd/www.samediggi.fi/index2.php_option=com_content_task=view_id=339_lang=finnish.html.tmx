@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=339_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät julistaa saamelaisen kulttuurimäärärahan haettavaksi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kulttuurtorjui uuccâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>osoitteella:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>čujottâssáin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät / Kulttuurilautakunta,</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge, Kulttuurlävdikodde,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hakulomakkeita ja lisätietoja saa vs. kulttuurisihteeriltä puh.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uuccâmluámáttuvâid já lasetiäđuid finnee vs. kulttuurčällest puh..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>010 839 3134 sekä sähköpostiosoitteella anne.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>010 839 3134 sehe šleđgâpoostâst anne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lansman (a) samediggi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>lansman (a) samediggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>fi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>fi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lomakkeet ja ohjeet ovat myös tulostettavissa Saamelaiskäräjien verkkosivuilta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luámáttuvâid puáhtá meiddei printtiđ Sämitige internetsiijđoin</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

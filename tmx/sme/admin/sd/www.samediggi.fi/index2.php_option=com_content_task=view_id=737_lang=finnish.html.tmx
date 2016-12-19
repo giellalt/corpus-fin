@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=737_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät hakee toimistosihteerin sijaista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ohcá doaimmahatčálli sadjásačča ekonomiijakantuvrii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät hakee toimistosihteerin sijaista taloustoimistoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ohcá doaimmahatčálli sadjásačča ekonomiijakantuvrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työ alkaa heti ja kestää 30.11.2013 asti, mahdollisesti pitempäänkin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargu álgá dalán ja bistá 30.11.2013 rádjai, vejolaččat guhkibutge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimistosihteerin päätehtävänä on hoitaa saamelaiskäräjien maksuliikennettä ja palkanmaksua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmahatčálli váldobargun lea fuolahit sámedikki rehkegiid ja bálkkáid máksimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos olet kiinnostunut tehtävästä, ota yhteyttä saamelaiskäräjien hallintopäällikkö Juha Guttormiin, puh. 010 839 3102.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juos leat beroštuvvan barggus, váldde oktavuođa sámedikki hálddahushoavda Juha Guttormii, tel. 010 839 3102.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=251_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo jäniksestä !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njoammil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanha saamelainen tarina jäniksestä, joka ei viitsinyt rakentaa itsellensä pesää</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo njoammila birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Musiikki: ” Metsästä löysin jäniksen ” (trad.) Ilmari ja Tauno, Hannikainen, Radio-ork., HKI</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boares sápmelaš máinnas njoammilis, guhte ii viššan hukset alcces beasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus, YLE Sámi Radio, YLE TV2, 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámi oahpahusguovddáš, YLE Sámi Radio, YLE TV2, 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 1,05</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 1,05</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

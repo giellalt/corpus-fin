@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">klemetti.11.03.15_fin.txt.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viimeinen blogipäivitys ja surutyön alku Kirjoitan tätä tunnekuohussa pyydän lukijaa ymmärtämään sen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimus bloggačálus ja morašbarrgu álgu Čálán dán blogga bahča dovdduid siste ja bivddán lohkki ipmirdit dan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Blogini tulee näin yöaikaan, koska halusin saada ilmoitettua välittömästi ja saada myös itselleni rauhan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mu blogga boahttá ná ihkku, daningo háliidin ilmmuhit áššis dakkaviđe ja oažžut maid alccesan ráfi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen myös yrittänyt koota ajatuksiani, mikä on tässä sekavassa tilanteessa vienyt aikaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mun lean maid geahččalan čohkket iežan jurdagiid, mii lea dán seahkkedilis dolvon áiggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen tänään lähettänyt kirjeen saamelaiskäräjille ja pyytänyt eroa saamelaiskäräjien puheenjohtajan tehtävästä ja kaikista luottamustehtävistä, joihin minut on saamelaiskäräjien edustajana nimetty.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mun lean odne sádden reivve sámediggái ja bivdán earu sámedikki ságadoalli barggus ja buot luohttámušbargguin, maidda mun lean sámedikki ovddasteaddjin nammaduvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen lähettänyt myös kirjeen valtioneuvostolle, jossa olen pyytänyt eroa saamelaiskäräjien jäsenyydestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean sádden maid reivve stáhtaráđđái, mas lean bivdán earu sámedikki lahttuvuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä jää siis viimeiseksi blogikirjoituksekseni saamelaiskäräjien puheenjohtajana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát báhcá nappo mu maŋimus bloggačálusin sámedikki ságadoallin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>En koskaan kuvitellut, että jättäisin saamelaiskäräjät tällaisella tavalla ja näin ikävissä tunnelmissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>In lean goassige govahallan, ahte guođálin sámedikki dáinna lágiin ja ná ahkidis dovdamušaid siste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulin saamelaiskäräjille tarkoituksenani luoda saamelaisille parempaa tulevaisuutta, mutta eduskunta on tehnyt nämä tavoitteet tyhjäksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bohten sámediggái ulbmiliin duddjot sápmelaččaide buoret boahtteáiggi, muhto riikkabeaivvit lea dahkan dáid ulbmiliid duššin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen hyvin pettynyt, surullinen ja vihainen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean hui behtton, morašlaš ja vasáškan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähtö ei ole kunniakas, mutta voin ainakin sanoa että minulla on saamelainen identiteetti, arvot ja periaatteet jäljellä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuolgin ii soaitte leat gutnálaš, muhto sáhtán aŋkke dadjat ahte mus lea sápmelaš iešdovdu, árvvut ja prinsihpat báhcán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se ei valitettavasti kuitenkaan lohduta ketään muita kun minua ja lapsiani.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat ii dađi bahábut jeđđe geange eará go mu ja mánáidan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä päivä on ollut kuin pahin painajaiseni.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát beaivi lea dego mu vearrámus deattán niehku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmieni edessä on vilahtanut saamelaiskulttuurin rikas historia ja epävarmempaa epävarmempi tulevaisuus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mu čalmmiid ovddas lea livkkihan sámi kultuvrra rikkes historjá ja eahpesihkkarit sihkarmeahttun boahtteáigi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien puheenjohtajisto seurasi eduskunnan istuntoa ja tapaamisemme tänään iltapäivällä oikeusministeri Anna-Maja Henrikssonin ja minun osaltani tapaaminen jäi viimeiseksi saamelaiskäräjien puheenjohtajana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ságadoallit čuvvo riikkabeivviid dievasčoakkáma ja deaivvadeapmi odne eahketbeaivve vuoigatvuohtaministtar Anna-Maja Henrikssona ja mu buohta deaivvadeapmi bázii maŋimussan sámedikki ságadoallin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiitin häntä tekemästään työstä saamelaisten eteen ja esimerkillisestä ja hienosta yhteistyöstä saamelaiskäräjien kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giiten su bargan barggus sápmelaččaid buorrin ja ovdamearkkalaš ja fiinna ovttasbarggus sámedikkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapaaminen oli meille kaikille raskas ja olimme kaikki hyvin pettyneitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Deaivvadeapmi lei midjiide buohkaide lossat ja leimmet buohkat hui behtton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olemme oikeusministerin kanssa eläneet saamelaiskäräjälaista ja Ilo 169:stä kolmen vuoden ajan melkein päivittäin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ledne vuoigatvuohtaministariin eallán sámediggelágas ja ILO 169:s golbma jagi measta beaivválaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Teimme kaikkemme.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dagaime visot maid basttiime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mutta se ei urheilutermein sanottuna riittänyt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto dat faláštallantearpmáiguin ii lean nohkka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olo on tyhjä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ferte dadjat, ahte lean guorranan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olimme kaikki järkyttyneitä eduskunnan päätöksestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii leimmet buohkat soasihan riikkabeivviid mearrádusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuret puolueet pettivät hallitusohjelman ja saamelaiset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuora bellodagat behtte ráđđehusprográmma ja sápmelaččaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitus kaatui omin äänin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđehus gopmanii iežas jienaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä on Suomen poliittisen historian suuri ja ikävä erikoisuus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea Suoma politihkalaš historjjá stuora ja ahkidis earenoamášvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henriksson teki tässä tilanteessa ainoan oikean ratkaisun ja veti saamelaiskäräjälain pois eduskunnasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Henriksson barggai dán dilis áidna rievttes čovdosa ja gesii sámediggelága eret riikkabeivviid gieđahallamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin erikoisuus on kenties se, että muutama saamelaiskäräjäjäsen (jotka eivät edes käy juurikaan kokouksissa) ovat vedonneet, että Suomi ratifioisi ILO 169-sopimuksen ilman mitään reunaehtoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorimus earenoamášvuohta soaitá leat dat, ahte muhtin sámediggelahtut (geat eai mana oba sámedikki dievasčoakkámiinge) leat doarjalan, ahte Suopma ratifiserelii ILO 169-soahpamuša almmá mangelágán ravdaeavttuid haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Melkoinen Ilo-rykimä on kalkkiviivoilla iskenyt joihinkin saamelaisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oalle stuora Ilo-rahkan lea geasuhan muhtin sápmelaččaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsää ei nähdä puilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuovddi ii oainne muorain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Minä en voi tässä tilanteessa suositella, että Suomi ratifioisi ILO 169-sopimuksen, koska se on arvojeni ja yleiskokouksen päätöksien vastaista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mun in sáhte dán dilis ávžžuhit, ahte Suopma ratifiserelii ILO 169-soahpamuša, daningo dat ii leat mu árvvuid ja dievasčoakkáma mearrádusaid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ILO 169-sopimus ja saamelaiskäräjälain uudistus on nivottu yhteen myös hallituksen esityksessä Ilo 169-sopimuksen ratifioimiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ILO 169-soahpamuš ja sámediggelága ođasnuhttin leaba njađđojuvvon oktii maid ráđđehusa evttohusas Ilo 169-soahpamuša ratifiserema várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos Suomi ratifioisi nyt sopimuksen, se pesisi kätensä ja voisi kansainvälisillä areenoilla kehua omaa erinomaisuuttaan alkuperäiskansaoikeuksien edistämisessä ratifioidessaan sopimuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos Suopma ratifiserelii dál soahpamuša, de dat basalii gieđaidis ja sáhtálii riikkaidgaskasaš arenain rámpot iežaset earenoamásvuođa álgoálbmotvuoigatvuođaid ovddideamis ratifiseredettiinis soahpamuša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen ratifiointiin vetoavat pelaavat suoraan niiden pussiin, jotka vastustavat saamelaisia alkuperäiskansana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soahpamuša ratifiserejeaddjit doarjalit njuolga daid sehkkii, geat vuostálastet sápmelaččaid álgoálbmogin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi ei ole aiemmin voinut ratifioida sopimusta, koska se ei ole halunnut antaa saamelaisille sopimuksen edellyttämiä alkuperäiskansaoikeuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma ii leat ovdal sáhttán ratifiseren soahpamuša, daningo dat ii leat háliidan addit sápmelaččaide soahpamuša eaktudan álgoálbmotvuoigatvuođaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nyt sopimuksen ratifioinnin kannattajat haluavat antaa tukensa sopimuksen ratifioinnille, vaikka sopimuksen suojan piiriin tulisi etnisesti suomalaisia eikä yhteistoimintavelvoitetta ei olisi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál soahpamuša ratifiserema guottiheaddjit háliidit addit doarjaga soahpamuša ratifiseremii, vaikko soahpamuša suoji ollái boađále etnihkalaš suopmelaččat iige ovttasbargangeatnegasvuođat oba livččege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen oikeusjärjestys on lähtenyt siitä, että lainsäädäntö tulee saattaa sopimuksen ratifioinnin edellyttämälle tasolle ennen kuin sopimus voidaan ratifioida.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma riektevuogádat lea vuolgán das, ahte láhkaásaheapmi galgá dolvojuvvot soahpamuša ratifiserema gáibidan dássái ovdalgo soahpamuš sáhttá ratifiserejuvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos sopimus ratifioitaisiin nyt, siitä tulisi korvaamatonta vahinkoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos soahpamuš ratifiserejuvvo dál, de das šattalii buhttemeahttun vahát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi liittyisi sopimukseen tuomatta mitään lisä-arvoa saamelaiskulttuurin suojelemiselle tukien saamelaisten assimilaatiota.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma laktásivččii soahpamuššii nu ahte ii buvttale maidege lassiárvvuid sámi kultuvrra suodjaleami várás ja doarjjulii sápmelaččaid assimilašuvnna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilo 169-sopimuksessa on artikla 1, jossa säädetään siitä mihin sopimusta sovelletaan ja artiklat 6,14 ja 15 yhteistoimintavelvoitteesta ja maa- ja vesioikeuksista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ilo 169-soahpamušas lea artihkal 1, mas mearriduvvo mot soahpamuš guoskaduvvo ja artihkkalat 6, 14 ja 15 ovttasbargangeatnegasvuođas ja eanan- ja čáhcevuoigatvuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nyt nämä kaikki oikeudet tulisivat vapaaksi riistaksi käytännössä melkein kaikille kotiseutualueen asukkaille, eli toteutuisi juuri se, mitä ” statuksettomiksi saamelaisiksi ” itsenään kutsuvat suomalaiset ja Lapin kansanedustajat ovat halunneet, Enontekiön ja Inarin kunnista puhumattakaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál dát vuoigatvuođat šattale friddja oapmin ja geavadis measta buot ruovttuguovllu orruide, dehege de olláhuvalii jur dat, maid ” stauskeahtes sápmelažžan ” iežaset gohčodan suopmelaččat ja Lappi riikkabeaiveáirasat leat háliidan, Eanodaga ja Anára suohkaniin oba humakeahttáge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset pelaisivat suoraan valtion ansaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččat spealale njuolga stáhta gillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien alasajo on jo alkanut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki vulosvuodjin lea juo álgán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Manhattan myytiin aikoinaan kolonialisteille muutamasta lasihelmestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Manhattan vuvdojuvvui kolonialisttaide dolin muhtin bearraliin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Minulle meidän tunturimme ovat tätä tärkeämmät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Munnje min duoddarat leat buot dehálepmosat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mihin nämä kompromissit ja Suomen hännystely loppuu ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Masa dát kompromissat ja Suoma njoallun nohká ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ailun sanoin ” pohjoisempaan emme enää pääse ”.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áillohačča sániiguin ” davvelii eat šat beasa ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arktinen alue lämpenee, idässä ja lännessä on rajat vastassa, etelään emme pääse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árktalaš guovlu lieggana, nuortin ja oarjin leat rájit ovddas, luksa eat šat beasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilo 169-sopimuksen toimeenpanosta raportoidaan viiden vuoden välein.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ilo 169-soahpamuša olláhuhttimis raporterejuvvo viđa jagi gaskkaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitään ei tarvitsisi tapahtua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mihkkege ii dárbbahivčče dáhpáhuvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi hyvin tunnetusti jättää täyttämättä kansainväliset velvoitteensa – eli asiantuntijakomitean suositukset voidaan sivuuttaa samoin kuin YK:n ihmisoikeuskomitean suosituksetkin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma lea beakkán das, ahte dat guođđá deavddekeahttá riikkaidgaskasaš geatnegasvuođaidis – dehege áššedovdikomitea ávžžuhusat sáhttet meaddelmannojuvvot seamma ládje go ON:a olmmošriektekomitea ávžžuhusatnai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä saamelaiset tekevät Ilo-sopimuksella enää tämän jälkeen ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mot sápmelaččat ávkahuvvet Ilo-soahpamušain šat dán maŋŋel ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä hyötyä saamelaisille on, että saamelaiset käyvät sankoin joukoin valittamassa Genevessä, että Suomi suorittaa kulttuurista kansanmurhaa, etenkin jos se on itse ollut luomassa sille edellytykset tukemalla ILO 169-sopimuksen ratifiointia ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii ávkkiid sápmelaččaide lea, ahte sápmelaččat mannet válvin váidaleame Geneves, ahte Suopma olláhuhttá kultuvrralaš olmmošgoddima, eandalit jos dat lea duddjome eavttuid dasa eavttuid nu ahte doarju ILO 169-soahpamuša ratifiserema ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos Suomi ratifioisi ILO 169-sopimuksen nytkin, pohjoismaisen saamelaissopimuksen merkitys katoaisi, koska Suomi olisi sopimukseen liittymisen yhteydessä määrittänyt saamelaismääritelmän sisällön ja maa-, ja vesi- ja elinkeino-oikeuksien tason.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos Suopma ratifiserelii ILO 169-soahpamuša dálnai, de davviriikkalaš sámi soahpamuša mearkkašupmi láhppolii, daningo Suopma livččii soahpamuššii čátnaseami oktavuođas meroštallan sápmelašmeroštallama sisdoalu ja eanan-, čáhce- ja ealáhusvuoigatvuođaid dási.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaismääritelmän ja KHO:n ennakkopäätöksen vaikutukset eivät näy radikaalisti vielä näissä vaaleissa, mutta jo muutamassa kaudessa saamelaiskäräjät voi korvautua etnisesti suomalaisilla, lappalaisveroa kunniakkaasti maksaneiden suomalaisten jälkeläisillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelašmeroštallama ja AHR:a ovdadáhpáhusa váikkuhusat eai vuhtto stuorrát vel dáin válggain, muhto juo muhtin bajis sámediggi sáhttá buhttejuvvot etnihkalaččat suopmalaččaiguin, lappalašvearu gutnálaččat máksán suopmelaččaid maŋisboahttiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ajatelkaa hyvät saamelaiset järjellänne, Lisman ministereitä meillä on riittänyt Hyvärisestä lähtien.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jurddahallet buorit sápmelaččat, Lismmá ministarat mis leat leamaš doarvái Hyvärisä rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen tutkijana monesti miettinyt, miltä kulttuurin viimeiseltä edustajalta on tuntunut tai niiltä tutkijoilta, jotka ovat seuranneet alkuperäiskansan sulautumista valtakulttuuriin, kuten valitettavan usein 1900-luvun antropologisissa tutkimuksissa tuotiin esille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean dutkin máŋgii jurddahallan, mot kultuvrra maŋimus ovddasteaddjis lea orron dehe dain dutkiin, geat leat čuvvon álgoálbmoga suddama váldoálbmogii, dego dađi bahábut oalle dávjá 1900-logu antropologalaš dutkamušain lea bukton ovdan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>En ole koskaan kuvitellutkaan, että joutuisin itse seuraamaan samanlaista kehitystä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>In leat goassige govahallange, ahte šattalin čuovvut seammalágán gárganeami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen haudannut kaksi veljeä ja isäni.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean hávdádan iežan guokte vielja ja áhči.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joudun elinaikanani näkemään ilmastonmuutoksen tuhot ja näkemään, kuinka saamelaiskulttuuri haudataan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Šattan eallinahkán áigge oaidnit dálkkádatrievdama duššademiid ja oaidnit mot sámi kultuvra hávdáduvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä oli viimeinen mahdollisuus turvata saamelaiskulttuuri.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lei maŋimus vejolašvuohta dorvvastit sámi kultuvrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ja Suomi menetti sen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ja dál Suopma lea dan massán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiitän kaikkia saamelaisia, blogini lukijoita, saamelaiskäräjien työntekijöitä ja yhteistyökumppaneita näistä yhteisistä vuosista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giittán buot sápmelaččaid, mu blogga lohkkiid, sámedikki bargiid ja ovttasbargoguimmiid dáin oktasaš jagiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pidän blogiani avoinna kommenteille vielä jonkin aikaa ennen kuin se suljen sen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doalan iežan blogga rabasin vel muhtin áigge ovdal go steŋgen dan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jään nyt vuosilomalle odottamaan yleiskokouksen koolle kutsumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bázán dál jahkelupmui vuordit dievasčoakkáma čoahkkái bovdema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli eduskunta käsittelee ILO 169-sopimusta, menen keskustelua seuraamaan, koska haluan katsoa tämän loppuun asti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos riikkabeaivvit gieđahallá ILO 169-soahpamuša, de manan čuovvut ságastallama, daningo háliidan geahččat dán loahpa rádjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>En ryhdy kommentoimaan eduskunnan käymää keskustelua tätä tarkemmin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>In riema kommenteret riikkabeivviid olis leamaš ságastallama dán dárkileappot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisvastaisuus ja rasismi jää historiaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelašvuostásašvuohta ja rasisma báhcá historjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallituksen esityksen vastustajien loukkaavien sanojen toistaminen ei tässä mielentilassa ole hyödyllistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđehusa evttohusa vuostálastiid bávččagahtti sániid geardduheapmi ii dán mielladilis leat ávkkálaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Haluaisin unohtaa ne, mutta ihmisen mieli ei ole valitettavasti rakennettu niin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Háliidivččen daid vajálduhttit, muhto dađi bahábut olbmo jierbmi ii leat nu ráhkaduvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä oli elämäni suurin järkytys.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lei mu eallináigge stuorimus ja eanemus guoskkaheaddji dáhpáhus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulen tästä selviämään - se on pakko - mutta mitä tuleville sukupolville tapahtuu ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boađán dás beassat ovddos – dat lea bággu – muhto mii dáhpáhuvvá boahtte buolvvaide ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on suurin pelkoni.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat lea mu stuorimus ballu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osa voi pitää minua rintamakarkurina.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtimat sáhttet atnit mu dego livččen báhtareame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mutta mitä muuta mahdollisuutta minulla ei enää ole osoittaa saamelaiskäräjien kantaa kun eroaminen – kaikki muut keinot on jo käytetty ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto mii eará vejolašvuođaid mus lea šat eará čujuhit go earráneami – buot eará vuogit leat juo adnon ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset eivät ole kuin kuminauha.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččat eai leat dego gummebaddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raja meillekin tulee vastaan, ja minun rajani on tässä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Misdahan maid boahtá rádji vuostá, ja mu rádji lea dás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liitän blogiini vielä tiedoksenne myöhemmin eronpyyntöni (käännökset eivät ole valmiit) saamelaiskäräjien luottamustehtävistä ja saamelaiskäräjien jäsenyydestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mun lavttán bloggai diehtun vel maŋŋelaš iežan earrobivdaga sámedikki luohttámušdoaimmain ja sámedikki lahttuvuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ja vielä varmistukseksi: en ole edelleenkään ole ehdolla tulevissa saamelaiskäräjävaaleissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ja vel sihkkarastima dihte: in leat velge áigume evttohassan boahtte sámediggeválggaide.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

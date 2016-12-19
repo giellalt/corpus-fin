@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=500_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaalien ehdokasasettelu päättyy 5.8.2011</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki válggaid evttohasbidjan nohká 5.8.2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdokkaan saamelaiskäräjien vaaleihin voi asettaa vähintään kolme äänioikeutettua saamelaista jättämällä vaalilautakunnalle asianmukaisesti täytetyn ja allekirjoitetun ehdokashakemuksen viimeistään 5.8.2011 ennen kello 16.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohasa sámedikki válggaide sáhttet bidjat uhcimustá golbma jietnavuoigadahtton sápmelačča guođđimiin válgalávdegoddái áššáigullevaččat devdojuvvon ja vuolláičállojuvvon evttohasohcamuša maŋimustá 5.8.2011 ovdal diibmu 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hakemuslomakkeita on tulostettavissa Saamelaiskäräjien www-samediggi.fi sivuilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanskoviid fidne Sámediggi www-samediggi.fi siidduin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lomakkeita voi myös pyytää vaalilautakunnan toimistosta puhelin 010 839 3143 tai sähköpostitse Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skoviid sáhttá maiddái bivdit válgalávdegotti doaimmahagas telefovdna 010 839 3143 dahje e-poastta bokte Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

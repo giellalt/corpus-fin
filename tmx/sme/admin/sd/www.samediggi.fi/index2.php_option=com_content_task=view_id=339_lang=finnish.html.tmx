@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=339_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät julistaa saamelaisen kulttuurimäärärahan haettavaksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturmearreruđa ohcan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät julistaa tästä määrärahasta myönnettävät avustukset haettaviksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi almmuha ohcanláhkai doarjagiid, mat mieđihuvvojit dán mearreruđas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avustushakemukset on toimitettava kulttuurilautakunnalle viimeistään 30. marraskuuta 2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doarjjaohcamušaid galgá doaimmahit kulturlávdegoddái maŋimustá 30. skábmamánu 2009 rádjai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>osoitteella:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>čujuhusain:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät / Kulttuurilautakunta,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi / Kulturlávdegoddi,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kulttuurisihteeriltä puh. 010 839 3134 sekä sähköpostiosoitteella anne.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanskoviid ja lassedieđuid fidne vs. kulturčállis tel. 010 839 3134 ja sihke šleađgapoastta bokte anne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lansman (a) samediggi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>lansman (a) samediggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>fi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>fi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lomakkeet ja ohjeet ovat myös tulostettavissa Saamelaiskäräjien verkkosivuilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skoviid ja rávvagiid sáhttá maiddái čálihit Sámedikki internetsiidduin</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

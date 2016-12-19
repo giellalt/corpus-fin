@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=615_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sofia Jannok ja Nanook esiintyvät Ijahis Idjassa Sajoksessa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sofia Jannok ja Nanook Ijahis idjii Anárii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ijahis idja näyttää tänä kesänä entistä kansainvälisemmän puolensa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ijahis idja čájeha dán gease ain eanet riikkaidgaskasašvuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Festivaalin pääesiintyjäksi on saatu saamelaisen popin prinsessa Sofia Jannok Ruotsista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Festivála váldoloaiddasteaddjin leat ožžon sámi pop-musihka prinseassa Sofia Jannok Ruoŧas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaukaisimmat vieraat tänä vuonna saapuvat Grönlannista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán jagáš guossit, geat bohtet guhkkelepmosis, bohtet Ruonáeatnamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ijahis idjassa esiintyy rock-yhtye Nanook joka esittää laulunsa grönlannin kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ijahis ijas loaiddasta rock-joavku Nanook mii lávlu Ruonáeatnama gielain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoa Ijahis Idjan ohjelmasta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ijahis ija olles prográmma gávdno čujuhusas</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=248_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo nuorista saamelaisnaisista laavulla !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo nuorra sámenissoniin lávus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Fiktiivinen video nuorista saamelaisnaisista laavulla, jossa tulen sijasta onkin tietokone, kännykkä, sohva ja mikrouuni.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fiktiivvalaš video nuorra sámenissoniin lávus, gos dola sajis leatge dihtor, mátketelefovdna, suffá ja mikrouvdna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaiskäräjät, YLE TV2, One Minute Jr..</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámediggi, YLE TV2, One Minute Jr..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 1,04</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 1,04</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">bovdehus_kacc_povdim_kutsu.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät järjestää saamelaisten kansallispäivän juhlan Inarin Siida museossa 6.2.2010 klo 17.00-20.00.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge uárnee säämi aalmugpeeivi juhle Aanaar Sijdâmuseost 6.2.2010 tme 17.00-20.00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapahtuma on ulkona revontuliteatterissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tilálâšvuotâ lii olgon kuovsâkkâsteatterist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelmassa on musiikkia, ruokailua ja seurustelua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohjelmist muusik, purâdem já siärvástâllâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsille järjestetään mm. laskettelua ja poroajelua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Párnáid läjiduvvoo el. čierâstâllâm, já ergivyeijim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät järjestää bussikuljetukset Hetasta, Utsjoelta ja Vuotsosta Inariin sekä takaisin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge uárnee bussisáátuid Hettaast, Ucjuuvâst já Vuáčust Anarân sehe maasâd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuljetuksen hinta on 10 € henkilöltä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sáátu hadde lii 10 € ulmust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautumiset juhlaan ja kuljetuksiin viimeistään perjantaina 29.1.2010 puh.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almottâtmeh juuhlán já sáttoid majemustáá vástuppeeivi 29.1.2010 puh..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0504350177 tai kaisa.tapiola@samediggi.fi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>0504350177 tâi kaisa.tapiola@samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervetuloa !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyereestpuáttim !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien puheenjohtaja Klemetti Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige saavâjođetteijee Juvá Leemit, Klemetti Näkkäläjärvi</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

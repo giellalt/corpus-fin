@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=511_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervetuloa kielenelvytysiltaan !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tiervâpuáttim kielâiâláskittemehidân !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen elvytysohjelmaa suunnitteleva työryhmä kokoontuu Inarissa 29.-30.08 ja kutsuu kaikki kielen tulevaisuudesta ja elvyttämisestä kiinnostuneet keskustelemaan, kertomaan omista kokemuksistaan, kuulemaan muiden kokemuksia ja tekemään ehdotuksia kielenelvytysohjelmaa suunnittelevalle työryhmälle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämikielâ iäláskittemohjelm vuávájeijee pargojuávkku čokkân Anarist 29.-30.8. já puávdee puohâid, kiäh láá perustum sämikielâ puátteevuođâst já iäláskitmist, savâstâllâđ, muštâliđ jieijâs vuáttámušâin, kuldâliđ iärásij vuáttámušâid já toohâđ iävtuttâsâid kielâ iäláskittemohjelm pargojuávkun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki ovat tervetulleita avoimeen illanviettoon Inarin Kultahoviin maanantaina 29.08. klo 19 alkaen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puohah láá pyereestpuáttám ávus ehidân Aanaar Kultahovin vuossaargâ 29.08. tme 19 rääjist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilaisuudessa on yllätysohjelmaa ja lisäksi tilaisuudessa voi vapaasti esittää musiikki- tai muuta kulttuuriohjelmaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tilálâšvuođâst lii še oláttâsohjelm já ton lasseen tobbeen lii máhđulâšvuotâ rijjâ oovdânpyehtiđ muusik- tâi eres kulttuurohjelm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kahvi- ja teetarjoilu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Káhvástâllâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TERVETULOA MUKAAN !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>TIERVÂPUÁTTIM FÁÁRUN !</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

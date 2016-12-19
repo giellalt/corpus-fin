@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">samedikki_lahkasanit_2005.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä sanasto on koottu alun alkaen Saamelaiskäräjien koulutus- ja oppimateriaalilautakunnan työnä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát sátnelistu lea čohkkejuvvon álgoálggos Sámedikki skuvlen- ja oahppomateriálalávdegotti bargun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen jälkeen Saamen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan maŋŋel Sámi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kielineuvosto on Pohjoismaisen kielineuvoston myöntämällä projektituella valmistanut sanaston julkaisua varten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>giellaráđđi lea Davviriikkalaš giellaráđi juolludan prošeaktaruđa vehkiin gárvvistan sátnelisttu almmustahttima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanaston</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnelisttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kokoajana ja projektityöntekijänä on ollut Oula Valkeapää ja ammatillisena asiantuntijana työssä on ollut mukana Esko Aikio.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>čohkkejeaddjin ja prošeaktabargin lea leamaš Oula Valkeapää ja fágalaš áššedovdin barggus lea leamaš mielde Esko Aikio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös Kotimaisten kielten tutkimuskeskus on osallistunut kieliasiantuntijana tähän työhön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái Ruovttueatnangielaid dutkanguovddáš lea oassálastán giellaáššedovdin dán bargui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Projektin tavoitteena on ollut koota lakisanasto, joka luettelee aakkosellisessa järjestyksessä alan erikoissanastoa ja termejä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prošeavtta ulbmilin lea leamaš čohkket láhkasátnelisttu, mii logahallá alfabehtalaš ortnegis suorggi spesiálasániid ja tearpmaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastossa hakusanat ovat suomen kielellä ja vastineet pohjoissaamen, ruotsin ja norjan kielillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnelisttus ohcansánit leat suomagillii ja vástagat davvisámegillii, ruoŧagillii ja dárogillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieli on sijoitettu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiella lea biddjon vuosttamužžan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ensimmäiseksi lähinnä projektihistoriallisista ja käytännön syistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>prošeaktahistorjjálaš ja geavatlaš sivaid dihtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutoin vastinekielten järjestys vastaa Tekniikan</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muđui vásttasániid ortnet vástida Tekniikan Sanastokeskus tearbmabáŋkkus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastokeskuksen termipankissa käytettyä järjestystä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>geavahuvvon ortnega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lainmuutosten vuoksi vanhaksi käyneiden hakusanojen perään on laitettu sulkujen sisään tähti (esim. "</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhkarievdademiid dihtii boarásmuvvan sániid maŋŋái lea biddjon násti ruođuid sisa (omd. “ puolustusneuvosto (*) ”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>puolustusneuvosto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaisia sanoja on suhteellisen paljon muun muassa holhouslainsäädännön kokonaisuudistuksesta johtuen. Tällaisia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sánit leat oalle olu ee. hovdenláhkaásaheami ollislaš ođasmahttima sivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>vanhentuneita sanoja ei ole kuitenkaan katsottu aiheelliseksi poistaa sanastosta, koska niihin edelleen voi törmätä esimerkiksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár boarásmuvvan sániid ii goittotge leat leamaš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>valitusasioiden ja lakiehdotusten yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dárbbašlaš guođđit eret sátnelisttus, go dat gávdnojit ain omd. váidalusáššiid ja láhkaevttohusaid oktavuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomenkielisten hakusanojen perään on laitettu viittauksia ns. vieruskäsitteisiin, esim. " adoptiolapsi (vrt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomagielat ohcansániid maŋŋái lea biddjon čujuhus ng. báldadoahpagiidda, omd. “ adoptiolapsi (vrt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kasvattilapsi,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>kasvattilapsi, ottolapsi) ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ottolapsi) " sekä synonyymeihin (esim. " akkusatorinen periaate (ks.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sihke synonymaide (omd. akkusatorinen periaate (ks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>syyteperiaate) ")</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>syyteperiaate) ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamenkielisten sanojen osalta on merkitty lihavoiduilla kirjaimilla ne sanat, joiden käyttö olisi suositeltavaa silloin, kun</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat sániid dáfus lea merkejuvvon buoiduduvvon bustávain dat sánit, mat ávžžuhuvvojit geavahit dalle go geavahusas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>käytettävissä olisi useampia sanoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>livččejit eanet molssaeavttolaš sánit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joidenkin sanojen perään on sulkujen sisään laitetuilla lyhenteillä merkitty, mikäli sanaa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtin sániid maŋŋái lea ruođuid sisa biddjon oanádusain merkejuvvon, jus sáni geavahit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>käytetään ainoastaan Norjan (Nor), Ruotsin (Sve) tai Suomen (Fin) puolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dušše Norggas (Nor), Ruoŧas (Sve) dahje Suomas (Fin).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli sanan perässä ei ole tällaista merkintää,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus sáni maŋis ii leat dákkár merkejupmi, de dat geavahuvvo oppa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>käytetään sitä koko pohjoissaamen kielialueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>davvisámegielat guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsinkielisessä osuudessa on sanojen perään sulkujen sisään laitetuilla lyhenteillä merkitty suomenruotsalaiset (Fin) ja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧagielat oasis lea sániid maŋŋái ruođuid sisa biddjon oanádusain merkejuvvon Suoma beale ruoŧagielat (Fin) ja Ruoŧa beale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>riikinruotsalaiset (Sve) sanat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ruoŧagielat (Sve) sánit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli sanan perässä ei ole em. merkintää, käytetään sitä koko kielialueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus sáni maŋis ii leat dát merkejupmi, de dan geavahit olles giellaguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Norjankielisessä osuudessa ongelmana on ollut, ettei luotettavaa lähdeaineistoa ole ollut saatavissa riittävästi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dárogielat oasis váttisvuohtan lea leamašan dat, ahte eai leat doarvái luohtehahtti gáldut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ongelmana on</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váttisvuohtan lea leamašan maiddái,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ollut myös, ettei ole ollut käytettävissä norjan kielen täydellisesti hallitsevaa asiantuntijaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ahte geavahusas ii leat leamašan dakkár áššedovdi, gii hálddaša dárogiela dievaslaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi on otettava huomioon, että</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin galgá váldit vuhtii, ahte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>norjalainen yhteiskunta poikkeaa suomalaisesta selvästi enemmän kuin ruotsalainen yhteiskunta, mitä lainkäyttöön ja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>norgalaš servodat earrána suopmelaš servodagas čielgasit eanet go ruoŧŧelaš servodat, go jurddašit láhkageavahusa ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>oikeudellisiin instituutioihin tulee.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>vuoigatvuođalaš institušuvnnaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tästä syystä ja alan erikoissanakirjojen puutteen vuoksi norjankieliset vastineet ovatkin</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán sivas ja suorggi spesiálasátnegirjjiid váiluma dihtii dárogielat vástagat leatge mánggaid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>monien sanojen kohdalla pikemminkin eräänlaisia likiarvoja kuin täydellisiä käännöksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sániid bokte buorebutge muhtinlágán lahkaárvvut go dievaslaš jorgalusat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>norjankielistä vastinetta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtin sániide ii goittotge leat dárogielat vástagat.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=472_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutus esillä alkuperäiskansafoorumin oheistapahtumassa</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>ŠkoouŠlʼjumuš leäi tän alggmeerfoorum riõššum såbbar äŠššen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen ja Ecuadorin pysyvät edustustot, Ecuadorin kulttuuriperintöministeriö sekä Suomen saamelaiskäräjät järjestivät yhdessä YK:n alkuperäiskansafoorumin 10. istunnon oheistapahtuman, jonka teemoina olivat alkuperäiskansojen koulutus ja oikeus osallistua päätöksentekoon.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>LääŠddjânnam da Ecuadoor põõšši eeŠttkâŠsttõõzz, Ecuadoor kultturpreeddanministeria di LääŠddjânnam sääŠmteŠǧǧ rieŠšše õõutsââŠjest ʼM:i alggmeerfoorum 10. såbbar, koonn äŠššen leŠjje alggmeerai škoouŠlʼjumuš da vuõiggâdvuõtt vuässõõttâd tuŠmmstõktuõjju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapahtuma järjestettiin New Yorkissa torstaina 19. toukokuuta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Såbbrõõššâmpoodd rieŠššeš New Yorkist nelljdpeeiŠv vueŠssmannu 19. peeiŠv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivutapahtuman seitsenkymmenhenkinen yleisö osallistui keskusteluun aktiivisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sååbbarpoodd oođâs lij lääŠddǩiõŠlle:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=233_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo Anni-Saarasta ja saamenpuvusta !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo Anni-Saarast já sämimáccuhist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anni-Saaralle saamenpuku on paras, läheinen ja erittäin tärkeä vaate.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anni-Saaran sämimááccuh lii pyeremus, vááimuvuálááš já uáli tehálâš piivtâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päähenkilöt: Anni-Saara ja Aslak Paltto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Váldu-ilmuuh: Anni-Saara já Aslak Paltto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus / leikkaus: Anneli Lappalainen, kuvaus: Kauko Mustonen, Anneli Lappalainen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stivrim / čuoppâm: Anneli Lappalainen, kuvvim: Kauko Mustonen, Anneli Lappalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyevtittâs: Säämi máttááttâskuávdáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 2,05</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 2,05</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

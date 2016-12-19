@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=241_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo saamenpuvun pukemisesta !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo, mo galgá gárvodit sámegáktái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ingá, Ánne ja Niiles pääsevät ripille ja pukevat saamenpuvut päälleen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ingá, Ánne ja Niillas besset rihpaide ja gárvodit sámegáktái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pukeminen ei kuitenkaan ole kovin helppoa, vaan tarkkaa työtä, johon tarvitaan apua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gárvodeapmi ii goit leat nu álki, baicce dárkkes bargu, masa dárbbašuvvo veahkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Musiikki: Pentti Kusmin, käännös: Birit Vuolab</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Musihkka: Pentti Kusmin, jorgalus: Birit Vuolab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 3,11</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 3,11</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

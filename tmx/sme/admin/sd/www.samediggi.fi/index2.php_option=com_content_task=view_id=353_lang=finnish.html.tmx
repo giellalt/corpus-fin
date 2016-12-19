@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=353_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautuminen Saamelaisnuorten taidetapahtumaan on alkanut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhanáigi Sámenuoraid dáiddadáhpáhussii lea álgán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuman ilmoittautumisaika on alkanut ja kestää maaliskuun viidenteen päivään asti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámenuoraid dáiddadáhpáhusa almmuhanáigi lea álgán ja bistá njukčamánu viđat beaivvi rádjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taidetapahtuma järjestetään Rovaniemellä nuorisotila Mondella ja sen teemana on musiikki kaikissa lajeissaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáiddadáhpáhus ordnejuvvo Roavvenjárggas nuoraidbáiki Mondes ja temán lea musihkka dan buot surggiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Almmuhanskovvi ilmoittautumislomake 2010 ps</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>NJUOLGGADUSAT NJUOLGÂDUSAH SEÂTTM ’ ’ ŽŽ. SÄÄNNÖT 2010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraa saamelaiskäräjien nettisivuja !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čuovo sámedikki neahttasiidduid !</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

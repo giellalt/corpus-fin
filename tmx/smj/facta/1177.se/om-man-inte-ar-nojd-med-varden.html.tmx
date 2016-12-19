@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">om-man-inte-ar-nojd-med-varden.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Julevusámegiella / Lulesamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>JulevusámegiellaLulesamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ij la sujtujn dudálasjOm man inte är nöjd med vården</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita tapoja valittaa (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>(ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita tapoja valittaa (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>(ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitkä ovat määräykset ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mij la fámon ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitkä ovat määräykset ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mij la fámon ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinulla on oikeus valittaa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Rievtesvuohta la gujddit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveyden- ja sairaanhoidon potilaana sinulla on oikeus saada kunnioittavaa kohtelua ja ymmärrettävää tietoa terveydentilastasi ja sinulle ehdotettavista tutkimuksista ja hoidoista. Sinulla on oikeus saada hyvää, korkealaatuista hoitoa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntan varresvuohta- ja skihpasujton la riektá duostoduvvat roattujn ja oadtjot dádjadahtte diededimev varresvuohtavidjurij ja åtsådimij ja dálkudimij birra ma oajvvaduvvi Galggá oadtjot buorre sujtov buorre kvalitehtajn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos et ole tyytyväinen saamaasi hoitoon tai jos olet tyytymätön saamaasi kohteluun, sinulla on oikeus valittaa ja antaa palautetta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ij la dudálasj sujtujn majt la oadtjum jalik gujddi duostodimijn, de l riektá gujddit ja vuojnojt åvddåmbuktet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitus voi koskea kaikkea mahdollista pienistä ongelmista sellaisiin vaikeisiin tilanteisiin, jotka ovat johtaneet pysyviin vammoihin tai kuolemantapaukseen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá guosskat unnep gássjelisvuodajs vidjurij gitta vaddásijda ma li båhtusijt vaddám stuoves vahagijt jali jábmemav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit myös tehdä ilmoituksen, jonka tarkoituksena on parantaa toiminnan laatua.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj bajedimev dahkat dåjmav buoredittjat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valituksen voi tehdä useaan eri elimeen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gávnnuji edna instánsa gåsi máhttá gujddit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voi olla hyvä pyytää valitukseen kirjallinen vastaus, jotta voit lukea vastauksen rauhassa väärinkäsitysten välttämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gujddidijn ádnu tjálalasj vásstádusáv vaj sietton bässá låhkåt ja dajna boastodádjadusáv garvvet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valita suoraan hoitohenkilöstölle</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gujddit sujttobarggijda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On hyvä kääntyä ensisijaisesti suoraan sen lääkärin tai muun hoitohenkilöstön puoleen, joka on suorittanut tutkimukset ja antanut hoidon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vuostatjin la buorre aktavuodav válldet dåktårijn jali ietjá sujttobárggijn gudi li åtsådam ja dálkudam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällä tavoin voidaan usein selvittää pelkät väärinkäsitykset ja epäselvyydet ja pienentää uusiutumisen riskiä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dan láhkáj máhtti oalle boastodádjadusá tjielggat ja vádá binnut vádáv vat dáhpáduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit myös aina kääntyä sen yksikön päällikön puoleen, jossa olet saanut hoidon, esimerkiksi ortopedin vastaanoton päällikön puoleen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj agev aktavuodav válldet åssudagáåjvijn gånnå sujtov oattjoj, buojkulvissan ortopedaduostudagá doajmmaåjvijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunnallisessa terveyden- ja sairaanhoidossa, kuten esimerkiksi kotisairaanhoidossa, voit kääntyä kunnan lääketieteellisesti vastuullisen sairaanhoitajan (MAS) puoleen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Kommuvna varresvuohta- ja skihpasujto hárráj buojkulvissan häjmmaskihpasujtto de aktavuodav válldá dálkas åvdåsvásstediddje skihpasujtárijn, nåv gåhtjoduvvam MAS, kommuvnan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se, mikä on maakäräjien ja mikä kunnan järjestämää hoitoa, vaihtelee maan eri osissa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mij la lánndadiggedåjmadum ja kommuvna sujtto iereda sierra guovlojn rijkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit kysyä kunnastasi tai maakäräjiltä, kuka vastaa hoidosta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá gatjádit ietjas kommuvnas jali lánndadikkes gut sujtos åvdåsvásstet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta vastaa useimmiten yksinkertaisesta kotisairaanhoidosta, kun taas maakäräjät vastaavat vaativammasta kotisairaanhoidosta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemusát kommuvnna åvdåsvásstet álkkep häjmmasujtos ja lánndadigge sujtti dárkkelap skihpasujtov hejman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunta (Patientnämnden)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntasiebrreráde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunta (Patientnämnden)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntasiebrreráde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ottaa vastaan valituksia</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duosstu gujddimijt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksi elin, jolle voit antaa palautetta, on potilaslautakunta. Sitä kutsutaan joskus luottamuslautakunnaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Instánnsa masi máhttá vuojnojt åvddånbuktet la patiänntasiebrreráde, mij muhttijn gåhtjoduvvá åskeldimsiebrreráden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunnan tehtävänä on lisätä terveyden- ja sairaanhoidon potilasturvallisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntasiebrreráde galggá doarjodit alla patiänntasihkarvuodav varresvuohta-ja skihpasujton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä lautakunta pitää olla kaikissa maakäräjäkunnissa, ja se ottaa vastaan valituksia ja palautetta mm. kohtelusta, diagnooseista, lääkityksestä, maksuista, salassapitokysymyksistä ja hoitotakuusta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Siebrreráde galggá gávnnut gájkka lánndadikkijn duostotjit gujddimijt ja vuojnojt iehtjádij siegen duostomij, diagnosaj, dálkudibme, mávso, sekretässagátjálvisájda ja sujttogarantiddja birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lautakunnan jäsenet ovat poliitikkoja, mutta valituksia käsittelevät virkamiehet.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Siebrreráden li politijkkára ja virggeulmutja giehtadalli gujddimijt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lautakunnan poliitikoilla ja virkamiehillä on vaitiolovelvollisuus.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Siebrreráde politijkkárijn ja virggeulmutjijn la sjávovälggogisvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunta on terveyden- ja sairaanhoidon toimijoista riippumaton, eikä sen puoleen kääntyminen ja kysymyksien tai valituksien esittäminen maksa mitään.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntasiebrreráde l aktijmahtes varresvuohta-ja skihpasujtos ja ij majdik mávse dajna aktavuodav válldet gatjálvisáj jali gujddimij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveyden- ja sairaanhoidon lisäksi potilaslautakunnan toiminta-alueeseen kuuluvat myös maakäräjien järjestämä hammashoito ja yksityinen hammashoito, jonka maakäräjät maksavat kokonaan tai osittain.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ietján gå varresvuohta-ja skihpasujtto de patiänttasiebrreráde doajmmaguovllo l aj bádnesujtto mij dåjmaduvvá lánndadikkes ja priváhttabádnesujtto mij biednigahteduvvá ållåsit jali muhtem märráj lánndadikkes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen lisäksi siihen kuuluvat kuntien järjestämä tai kuntien kanssa tehtyjen sopimusten mukainen terveyden- ja sairaanhoito ja yleinen sosiaalipalvelulain mukainen hoito, jota annetaan sellaisen terveyden- ja sairaanhoidon yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duodden la varresvuohta-skihpasujtto ma kommuvnajs dåjmaduvvi, jali såbadusá milta kommuvnaj, ja álmmuk hukso Sosiáladievnastuslága milta mav oadtju dakkir varresvuohta-ja skihpasujton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunnalta voi saada apua esimerkiksi</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntasiebrrerádes máhttá buojkulvissan viehkev oadtjot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saadaksesi tietoa, jota tarvitset voidaksesi valvoa etujasi terveyden- ja sairaanhoidossa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>diededimijn majt dárbaj ájmujda váldátjit ietjas berustimijt varresvuohta- ja skihpasujton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saadaksesi yhteyden hoitohenkilöstöön</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>aktavuoda sujttobarggij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>löytääksesi oikean viranomaisen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>gávnnat riekta fábmudahkaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>raportoidaksesi hoidonantajalle ja hoitoyksiköille havainnoista ja poikkeamista, joihin potilas on reagoinut.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>sujttovaddijda ja sujttoåssudagájda diededit ájttsagijt ja ärránijt masi alvaduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sekä suulliset että kirjalliset valitukset selvitetään</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goappátjagá njálmálasj ja tjálalasj gujddima guroadaláduvvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunnalle voi sekä soittaa että lähettää kirjallisia valituksia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá goappátjagá riŋŋgit ja rádjat tjálalasj gujddimijt patiänntasiebrrerádáj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Virkamiehet vastaavat siitä, että valitukset selvitetään tai että niitä selvittämään kytketään oikea elin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Virggeulmutja gähttji gujddima guoradáláduvi jali riekta instánsajn aktavuodav váldeduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunnalla ei ole valtuuksia ratkaista, onko sairaanhoitohenkilöstö tehnyt jonkin virheen vai ei.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntasiebrreráden älla riektá mierredit jus skihpabargge li juojddá mäddám jali ij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen ratkaiseminen on sen sijaan toiminnasta vastaavien tai viranomaisten kuten Sosiaalihallituksen asia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienni l ássje doajmmaåvdåsvásstediddjijda jali fábmudagájda nåv gåk Sosiálstivrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunnan yhteystietojen tulee löytyä sieltä, missä olet saanut hoitoa sekä maakäräjien omilta verkkosivuilta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Aktavuohtadiedo patiänntasiebrrerádáj galggi gávnnut gånnå la sujtov vattedum ja lánndadikkij ietjas webbabielijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IVO (Hoidon ja hoivan tarkastuslaitos)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IVO (Hoidon ja hoivan tarkastuslaitos)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valvoo laatua ja turvallisuutta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gáhttit kvalitehtav ja sihkarvuodav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inspektionen för vård och omsorg, IVO.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra l gáhttifábmudahka varresvuohta- ja skihpasujttuj ja sujnni iehtjádij siegen dåjmajt åvdedittjat patiänntasihkarvuodav, duostudit vahágijt ja gádodit vádájt sujton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>, Hoidon ja hoivan tarkastuslaitos on terveyden- ja sairaanhoidon valvontaviranomainen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra galggá tjalmostahttet årijda majt li sjaddam, nåv gåhtjoduvvam vuogádakvige, ja mij máhttá dagáduvvat vaj ij galga ådåsis sjaddat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen tehtävänä on varmistaa, että saat turvallista ja laadukasta hoitoa, jota harjoitetaan lakeja ja määräyksiä noudattaen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrraj máhttá dáhpádusáv jali aktugasj virggeulmutjijt bajedit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näistä tehtävistä vastasi aiemmin Sosiaalihallitus.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Bajedimen ij dárbaha diededit gänna jali gejn li åvdåsvásstádus dáhpadusás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvän ja turvallisen hoidon ja hoivan harjoittamisesta ovat vastuussa hoidon esimiehet ja heidän toimintansa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gájka gudi gulluji varresvuohta- ja skihpasujttobarggijda, juska vil barggi kommuvnan, lánndadikken jali priváhtta sujttovidnudagán, máhtti bájeduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IVO:lle voi tehdä ilmoituksen, jos on joutunut hoitovirheen uhriksi tai kokenut puutteita potilasturvallisuudessa terveyden- ja sairaanhoidossa tai hammashoidossa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Bajedibme máhttá guosskat lájtov organisasjåvnå vuossti jali gájkkásasj vánesvuohtaj patiänntasihkarvuodan majt la dárbulasj divudit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IVO tutkii tapauksen, mutta ei tarkastele pelkästään terveyden- ja sairaanhoitohenkilöstön toimintaa vaan kokonaisuutta, ja pohtii, mikä meni pieleen ja miksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gujddimusá galggi guoradaláduvvat gáttoj ja vuorddemusáj dagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi se selvittää, mitä hoidon tarjoajan tulee tehdä vastaavan tapauksen toistumisen välttämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij iesj dárbaha diehtet gut la juojddá boasstot dahkam jali mij la dåmajdimen boasstot sjaddam ájnat nuoges la bajedit dáhpádusáv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoituksen seurauksena IVO voi kohdistaa arvostelua terveyskeskusta, sairaalaa, hammaslääkäriä, vanhusten hoitoa tai terveyden- ja sairaanhoitohenkilöstöä kohtaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra máhttá lájttet goappátjagá organisasjåvnåv, buojkulvissan lánndadikkev, ja aktugattjajt sujttobarggijs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IVO voi myös vaatia hoidonantajaa suorittamaan toimia, joilla voidaan ehkäistä samankaltaiset tapahtumat.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj dagáduvvat vájku ij gávnnu aktak bajedibme jali gujddimus patientajs jali lahkaulmutjijs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoituksen voi tehdä kaikista terveyden- ja sairaanhoidon piiriin kuuluvista henkilöistä, riippumatta siitä, työskentelevätkö he kunnan, maakäräjien vai yksityisen hoitoyrityksen palveluksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus la dárbulasj patiänntasikarvuohtaj de Sosiálastivrra máhttá aj njuolgadusájt almoditmajt organisasjåvnnå hähttu tjuovvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IVO ei tutki yleensä kahta vuotta vanhempia tapahtumia eikä IVO:n päätöksistä voi valittaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra máhttá aj mierredit guodet ássjijt patiänntasiebrrerádaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sekä ilmoitus IVO:lle että IVO:n päätös ovat julkisia asiakirjoja, jotka kaikki halukkaat voivat lukea.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivra märrádusá e máhte gujddiduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitä vastoin potilasasiakirjat ja muut vastaavat, selvitykseen kuuluvat asiakirjat ovat salassapitosuojan alaisia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Bajedime dáhpádusájs ma máhtti årrot ássjálattja guodeduvvi polijssaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoitus tapahtumista, jotka voivat olla rikollisia, tehdään poliisille.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvissan la gå skihpasujttobargge guoddaluvvi seksuálalasj illastimij jali tsabbmema birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kyse voi olla esimerkiksi siitä, että sairaanhoitohenkilöstöä syytetään seksuaalisesta väkivallasta tai pahoinpitelystä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goappátjagá bajedibme Sosiálastivrraj ja Sosiálastivra märrádusá li almulasj ássjepáhppárá majt gájka gudi sihti máhtti låhkåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos IVO katsoo, että terveyden- ja sairaanhoidon henkilöstöön kuuluva on osoittautunut sopimattomaksi ammattiin, siitä tehdään erityinen selvitys.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntajournála ja sjimugis guoradallama ássjepáhppará gis sekretessas gåbtjåduvvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä voi johtaa edelleen siihen, että IVO tekee ilmoituksen hoitohenkilöstöstä Terveyden- ja sairaanhoidon vastuulautakuntaan (HSAN).</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra giehtadallá nåv gåhtjodum Lex Maria-bajedimijt, gå sujtto iesj galggá bajedit alvos dáhpádusájt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IVO käsittelee myös Lex Maria - ilmoitukset, eli hoidonantajan itse ilmoittamat tapahtumat, jotka ovat johtaneet tai olisivat voineet johtaa vakavaan vaaratilanteeseen sekä Lex Sarah - ilmoitukset, eli raportit väärinkäytöksistä tai väärinkäytösten riskeistä sosiaalipalveluiden alalla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Lex-Maria- bajedibme galggá guoraduvvat nannodittjat patiänntasihkarvuodav. Máhttá doalvvot vaj Sosiálastivrra bajet sujttobarggijt Varresvuohta-ja skihpasujto åvdåsvsstádussiebrrerádáj, HSAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveyden- ja sairaanhoidon vastuulautakunta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Varresvuohta-ja skihpasujto åvdåsvásstádussiebrreráde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>HSAN on valtiollinen, tuomioistuintyyppinen viranomainen, joka valvoo terveyden- ja sairaanhoidon henkilöstön toimivaltakysymyksiä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sosiálastivrra, Justitieoahttse ja Justitiekansler val máhtti bajedit Varresvuohta-ja skihpasujto åvdåsvásstádussiebrrerádáj, HSAN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vain IVO., Oikeusasiamies ja Oikeuskansleri voivat tehdä ilmoituksen Terveyden- ja sairaanhoidon vastuulautakuntaan (HSAN).</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>ruoptus válldet duodastusáv dåktåris jali skihpasujttáris gut la ietjas bargov nievret sujttim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoituksen uudesta laillistamisesta, uudesta toimivallasta ja koeajasta voi tehdä asianosainen ammatinharjoittaja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>dahkat gähttjalimájgev, mij la gå dåktår jali skihpasujtár hähttu gähttjon årrot gitta gålmå jahkáj, ja sierralágásj plána vuododuvvá dan ájgen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>HSAN voi käsitellä ja päättää</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>ráddjit jali sisi giesset dåktåra rievtesvuodav dálkkasijt tjállet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>peruuttaa huonosti työnsä hoitavan lääkärin tai sairaanhoitajan laillistuksen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Merkaj dáhpádusáv sujton ja huvso Inspeksjåvnnåj bajet majt la vásedam sujton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>määrätä koeajan, mikä merkitsee, että lääkärin tai sairaanhoitajan on oltava valvonnan alaisena kolmen vuoden ajan, ja että tänä aikana laaditaan erityissuunnitelma</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dåjma galggi mieddemijt ja vánesvuodajt ma sujton ja huvson ietja bajedit sujto ja huvso Inspeksjåvnnåj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>rajoittaa lääkärin oikeutta määrätä lääkkeitä tai peruuttaa se.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ådå fábmudahka máhttá aj iesj álgadit dagojt åtsådittjat ja dåbelijtjuovvot kvalitehtav ja sihkarvuodav sujton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita tapoja valittaa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vuoge vil gujddit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita tapoja valittaa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vuoge vil gujddit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poliisi, potilasjärjestöt ja poliitikot</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Polijssa, patiänntaorganisasjåvnå ja politijkkára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos hoidossa on mielestäsi tehty rikos, voit tehdä rikosilmoituksen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus adná bahádahko la dagádum sujton de máhttá polijssabajedimev dahkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoitus voi koskea esimerkiksi kuolemantuottamusta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Bajedibme máhttá buojkulvissan guosskat nuppe ulmutja jábmemij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsissa on erittäin epätavallista, että tällaiset ilmoitukset johtavat syytteisiin ja langettavaan tuomioon, koska rikoslainsäädännössä vaaditaan ns. tahallisuus tai vakava varomattomuus, jotta rikoksesta voidaan rangaista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Svierigin dakkir bajedime vuorjját doalvvu guoddalibmáj ja duobbmuj danen gå vierredahkoláhka ásadibme, rávkká ájggomusá jali alvos dierbigisvuodav stráffitjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilasjärjestöt voivat joskus auttaa valituksia koskevien asioiden käsittelyssä Ne voivat tietyissä tapauksissa arvioida, mille elimelle on parasta esittää vaatimuksensa, ja auttaa myös ilmoituksen laatimisessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntaorganisasjåvnå máhtti muhttijn viehkedit giehtadallat ássjijt ma gujddimussaj gulluji. Muhttijn máhtti árvustallat makkir instánssaj l buoremus åvddånbuktet ietjas gujddimusájt ja aj viehkedit tjállet bajedimev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syrjintäasiamies (DO) työskentelee syrjinnän vastustamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Nuppástimoahttse, DO, barggá nuppástime vuosstij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos olet mielestäsi saanut epäasiallista erikoiskohtelua sukupuolen, sukupuoli-identiteetin, sukupuolen ilmaisemisen, iän, etniseen ryhmään kuulumisen, uskonnon tai muun uskonkäsityksen, toimintarajoitteen tai seksuaalisen suuntautumisen vuoksi, voit tehdä siitä ilmoituksen syrjintäasiamiehelle.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus adná ietjas ij la objektijvalattjat giehtadaládum sjierves, sjiervveidentitehtas, sjiervvedåbddomerkas, álldaris, álmmuktjerdak sierratjerdas, jáhkkudagás jali ietjá jáhkkovuojnos, sáhtusvuodas ja seksuálalasj tjerdas, de dát máhttá DO:aj bajeduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On aina mahdollista esittää valituksia sairaanhoidosta päättäville poliitikoille, joilla on poliittinen vastuu maakäräjillä tai kunnassa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Agev la máhttelis gujddimusájt åvddånbuktet skihpasujttopolitijkkárijda gejn li politijkalasj åvdåsvásstádus lánndadikken jali kommuvnan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joissakin maakäräjäkunnissa on erityisiä potilasasiamiehiä, joita joskus nimitetään myös potilasopastajiksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhtem lánndadikkijn gávnnuji sierralágásj patiänntaoahttse, gudi muhttijn aj gåhtjudalli patiänntaoahttsen jali patiänntabagádiddjen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos esimerkiksi tunnet saaneesi huonoa kohtelua tai olet muutoin tyytymätön hoitoon, voit ottaa yhteyttä heihin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus buojkulvissan adná ietjas nievret duostodum jali ietjáláhkáj la asjmen sujtujn de máhttá sijájn aktavuodav válldet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilasasiamies voi auttaa ja neuvoa eteenpäin, jos et ole tyytyväinen vastaukseen tai kohteluun sen jälkeen, kun olet ensin kääntynyt suoraan sairaanhoitohenkilöstön puoleen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntaoahttse máhttá viehkedit ja vuosedit åvddålijguovlluj jus ij la dudálasj vásstádusájn jali duosstomijn gå l vuostak aktavuodav válldám skihpasujttobarggijda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita tapoja valittaa (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>(ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dåjmadiddje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko sisältö on myös 1177 Vårdguiden - verkkosivuston toimituksen ja toimitusneuvoston työstämä, tarkistama ja hyväksymä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ingemar Karlsson Gadea, 1177 Vårdguiden</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

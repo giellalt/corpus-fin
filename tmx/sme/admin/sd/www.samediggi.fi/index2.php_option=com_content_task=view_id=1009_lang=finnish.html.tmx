@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1009_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous 24.2.2015</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki čoahkkin 24.2.2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vuoden ensimmäinen kokous on seurattavissa internetissä osoitteessa:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki jagi vuosttas čoahkkima sáhttá čuovvut interneahtas čujuhusas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousta voi seurata myös kokoussalissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkima sáhttá čuovvut maiddái čoahkkinsáles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokous alkaa Sajoksessa kello 10.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkin álgá Sajosis dmu 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokouksen asialistalla on puheenjohtajien katsaus, saamelaiskäräjien kertomus vuodelta 2014, selvitykset saamenkielisen oppimateriaalimäärärahan, saamelaisen kulttuurimäärärahan ja saamelaisen sosiaali- ja terveysmäärärahan käytöstä sekä eron myöntäminen Ilmari Tapiolalle ja uuden jäsenen nimeäminen sosiaali- ja terveyslautakuntaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkima áššelisttus leat ságajođiheaddji geahčastat, sámedikki muitalus jagis 2014, čilgehusat sámegielat oahppamateriálamearreruđa, sámi kulturmearreruđa ja sámi sosiála- ja dearvvasvuohtamearreruđa geavaheamis sihke earu mieđiheapmi Ilmari Tapiolai ja ođđa lahtu nammadeapmi sosiála- ja dearvvasvuohtalávdegoddái.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

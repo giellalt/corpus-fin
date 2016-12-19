@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">obsskylt_avlaing_kondom_resa_finska.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Milloin tahansa voi kaikkea sattua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko goas sáhttá vaikko mii dáhpáhuvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Älä unohda suojata itseäsi HIV:ltä, hepatiitti B:ltä, tippurilta ja muilta tarttuvilta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ale vajálduhte suddjet iežat hiv, hepatit B, gonorrea ja ieža</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sukupuolitaudeilta ollessasi ulkomailla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>seksuálalaččat njommodávddaid go leat olgoriikkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ota aina mukaan omat kondomit matkalle, sillä ollessasi ulkomailla voi tuottaa hankaluuksia ostaa kondomeja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldde álo mielde iežat kondomaid reaissus. Sáhttá leahkit váttis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää matkaa !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buorre mátki !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhdessä vapaaehtoisjärjestöjen kanssa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttasbargu eaktodáhtolaš organisašuvnnaiguin</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

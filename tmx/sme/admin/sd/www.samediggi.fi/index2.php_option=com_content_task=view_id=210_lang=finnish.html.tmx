@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=210_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo pohjoissaamen kielen aakkosista !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo davvisámegiela bustávain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamen kielen aakkoset eroavat jonkin verran suomen kielen kirjaimistosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiela bustávat leat veahá earálágánat go suomagiela bustávat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso ja opettele ääntämään !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča ja oahpahala cealkit !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámi oahpahusguovddáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 1,25</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 1,25</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

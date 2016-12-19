@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=729_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nils-Aslak Valkeapää - 70 vuotta syntymästä näyttely Sajoksessa 6.9.13 saakka</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nils-Aslak Valkeapää - 70 jagi riegadeamis čájáhus Sajosis gitta 6.9.2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rovaniemen kaupunginkirjaston Lappi-osaston / Suomen saamelaisen erikoiskirjaston " Nils-Aslak Valkeapää - 70 vuotta syntymästä " - näyttely tuo esille sitä, kuinka monipuolinen taiteilija ja vaikuttaja Nils-Aslak Valkeapää oli monilla elämän aloilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Roavenjárgga gávppoga girjeráju Lappi-ossodat / Suoma sápmelaččaid erenomašgirjeráju " Nils-Aslak Valkeapää - 70 jagi riegadeamis " - čájáhus buktá ovdan mán mánggabealát dáiddár ja váikkuheaddji Nils-Aslak Valkeapää lei máŋgga eallima suorggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyttely on esillä Sajoksen aulassa 27.7.-6.9.2013 Sajoksen ja kirjaston aukioloaikana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čájáhus lea oaidnimis Sajosa váldofeaskkiris 27.7.-6.9.2013 Sajosa ja girjeráju rabasáiggiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassedieđut.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

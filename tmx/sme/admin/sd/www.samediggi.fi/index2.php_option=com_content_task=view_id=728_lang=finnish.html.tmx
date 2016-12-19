@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=728_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapin kamariorkesterin kamarisinfoniakonsertti " Kvaliteettia Keski-Euroopasta " esitetään Sajoksessa perjantaina 6.9.2013 klo 19.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lappi gámmirsinfoniakonsearta " Kvaliteahtta Gaska-Eurohpas " Sajosis bearjadaga 6.9.2013 dii 19.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Upea mahdollisuus nauttia kamarimusiikista parhaimpaan ruskan aikaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fiinna vejolašvuohta návddašit gámmirmusihkkas buoremus ruškki áigge.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=747_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät ja Enontekiön kunta kartoittavat pohjoissaamen kielipesän tarvetta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge já Iänuduv kieldâ kärttejeh tavesämikielâ kielâpiervâl táárbu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät hakee opetus- ja kulttuuriministeriöltä valtionavustusta kielipesä- ja kielikylpykerhotoimintaa varten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge ocá máttááttâs- já kulttuurministeriöst staatâtorjuu kielâpiervâl- já kielâlávgumkerhotooimâ várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulevan toiminnan suunnittelua varten Saamelaiskäräjät ja Enontekiön kunta kartoittavat saamelaisperheiden halukkuutta osallistua pohjoissaamenkieliseen kielipesätoimintaan Enontekiön kunnan alueella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puáttee tooimâ vuávám várás Sämitigge já Iänuduv kieldâ kärttejeh sämiperrui halulâšvuođâ uásálistiđ tavesämikielâlii kielâpiervâltooimân Iänuduv kieldâ kuávlust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lataa kysely</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luođii koijâdâllâm</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

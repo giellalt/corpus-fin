@@ -1,0 +1,1008 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">vad-kostar-lakemedel-pa-recept.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij dïhte lea ? (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitkä ovat määräykset ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij dïhte lea ? (ca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitkä ovat määräykset ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij dïhte lea ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij dïhte lea ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtio subventoi, antaa ts.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaarjelimmie jolle maaksovi vööste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>taloudellista tukea lääkkeisiin ja eräisiin muihin tuotteisiin, joita tarvitaan tiettyjen sairauksien hoitoon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staate subvensjovnerade, dïhte sæjhta jiehtedh ekonomeles dåarjoem vadta, gosse daalhkesh daarpesje jïh naan jeatjah vaaroeh maam maahta daarpesjidh gosse såemies skïemtjelassem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin osa reseptilääkkeistä kuuluu tämän tuen piiriin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes daalhkesh mah reseptine tjaalasåvva lea subvensjovnereme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Subventio määritellään lääke-etuuksista annetussa laissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Subvensjovnem Lagen om läkemedelsförmåner bïhkede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lain tarjoamaa tukea korkeiden kulujen kattamiseksi kutsutaan suurkustannussuojaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte vaarjelimmie jolle maaksovi vööste maam laake vadta beajjetjen gohtje jollemaaksovevaarjelimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lain mukaan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laaken mietie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>useimmista lääkkeistä, e-pillereistä ja avannehoitotarvikkeista saa alennusta ns. suurkustannusportaan mukaan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>rabadtem åådtje dan mietie maam gohtje jollemaaksovitråahpam jeenjemes daalhkesi åvteste, p-pillere jïh stomiartihkelh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tietyt käyttötarvikkeet, joita tarvitaan lääkkeiden saattamiseksi elimistöön ja lääkityksen omavalvontaan, kuten verensokerin mittaukseen käytettävät liuskat, ovat maksuttomia</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ij maam akt maeksieh åtnoeartihkeli åvteste mejtie daarpesje gosse kråahpese daalhkesidie buakta jïh jijtje medisinererem vååksje, vusiehtimmien gaavhtan heerrehkh förredïjnegemöölemasse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tiettyjen elintarvikkeiden korkeiden hintojen kattamiseksi saa erityistukea alle 16-vuotiaille lapsille.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>åådtje sjïere vaarjelimmien jolle maaksovi vööste såemies beapmojde maanide nuerebe 16 jaepien båeries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hinta ja tuki</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åasah jïh subvensjovne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hinnoista ja tuesta päättää Hammashuolto- ja lääke-etuusvirasto, TLV.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tandvårds- och Läkemedelsförmånsverket, TLV, dïhte dan reereme mij åasaj jïh subvensjovni bïjre sjæjsjale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuesta päättäessään TLV arvioi, vastaako lääkkeestä saatava hyöty sen subvennoinnista aiheutuvia kustannuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse TLV edtja subvensjovnem bïjre sjæjsjalidh dellie daalhkesem vuartesje jis aevhkiem vadta mij dïhte maaksove mij båata jis dam subvensjovnerede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyöty voi olla esimerkiksi parempi terveys ja pidempi elinikä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aevhkie maahta vuesiehtimmien gaavhtan årrodh buerebe healsoe jïh guhkebe jielemegåhkoem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TLV arvioi myös, voiko lääkkeen käyttö pienentää yhteiskunnalle esimerkiksi leikkauksista, sairauslomista tai vanhustenhuollosta aiheutuvia kustannuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TLV aaj vuarjesje jis åtnoem daalhkesistie maahta siebriedahken maaksovh vaeniedidh, vuesiehtimmien gaavhtan operasjovnh, skïemtjetjaelemh jallh voeresehokse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkeyritykset voivat itse päättää lääkkeen myymisestä ilman suurkustannussuojaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daalhkesesïelth maehtieh jïjtje veeljedh daalhkesem doekedh jollemaaksovevaarjelimmiem ålkoelisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin hinnoittelu on vapaa, ts. lääkeyritykset määräävät hinnan itse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie åasam frijje, dïhte sæjhta jiehtedh daalhkesesïelte jïjtje åasam sjæjsjele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lääke ei kuulu suurkustannussuojan piiriin, se on maksettava kokonaan itse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daalhkesi åvteste mij ij leah jollemaaksovevaarjelimmesne åådtje jïjtje abpe maaksovem maeksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osaa lääkkeistä tuetaan rajoitetusti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan daalhkesh maehtieh gaertjiedamme subvensjovnem utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä merkitsee, että lääkettä subventoidaan vain tietylle potilasryhmälle tai tietyn sairauden hoidossa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte sæjhta jiehtedh daalhkese lea subvensjovneradamme sjïere skïemtijedåahkan jallh edtja sjïere skïemtjelassem båehtjierdidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TLV:llä ja FASS:lla on omat verkkosivut, joilta voi tarkistaa, subventoidaanko lääkettä vai ei.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TLV jïh FASS webbesijjieh utnieh gusnie maahta vuejnedh jis daalhkesem lea subvensjovneradamme jallh ij leah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Halvin vaihtokelpoinen lääke</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aelpemes alternatijve mïsse maahta målsodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus samasta lääkkeestä on tarjolla useita samanarvoisia vaihtoehtoja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene gååvnese jienebe seammavierhtegs alternatijvh akte daalhkesasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niitä kutsutaan rinnakkaisvalmisteiksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejtie gohtje generikeles daalhkesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niissä on sama määrä vaikuttavaa ainetta tai aineita, ja niillä on sama teho.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej sisvege seamma jïjnjh seamma ïebne jallh ïebneste jïh seamma effektem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne voivat kuitenkin näyttää erilaisilta ja sisältää erilaisia lisäaineita, esimerkiksi säilöntäaineita.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte maehtieh vååjnodh ovmessie vuekine jïh ovmessie sisvege utnedh, vuesiehtimmien gaavhtan konserveremevierhtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rinnakkaislääkkeet voivat olla eri lääkeyritysten valmistamia ja ne voivat olla erihintaisia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah maehtieh ovmessie daalhkessïelti luvhtie båetedh jïh ovmessie åesieh utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nämä vaihtoehdot ovat keskenään vaihdettavissa apteekeissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah alternatijvh maehtieh sinsitnine målsodh apotehkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin lääkevirasto päättää, mitä lääkkeitä saa vaihtaa toiseen vastaavaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea Läkemedelsverket mij nænnoste mah daalhkesh jeatjine åådtje målsodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos myynnissä on useita rinnakkaislääkkeitä ja reseptiin merkitty ei ole niistä halvin, apteekin tulee vaihtaa se vaihtoehtoon, jonka hinta on markkinoiden alin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis jïjnjh generikeles daalhkesh gååvnesieh jïh dam maam reseptesne tjaaleme ij leah aelhpemes tjuerieh dah apotehkh dejtie målsodh alternatijvese mij lea maarhnan aelpemes åasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vain halvin vaihtoehto on kokonaan subventoitu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea barre dïhte aelpemes alternatijve maam lea ellies subvensjovnereme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiakas voi ostaa reseptissä määrätyn, kalliimman lääkkeen, mutta silloin hintojen erotus on maksettava itse, sillä se ei sisälly suurkustannussuojaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta veeljedh dam dovrebe daalhkesem åestedh maam reseptesne tjaaleme, mohte dellie tjuara jïjtje gaskemaaksovem maeksedh, dïhte ij leah meatan jollemaaksovevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos asiakas ei halua sitä vaihtoehtoa, johon apteekki vaihtaa lääkkeen, eikä myöskään sitä, joka on määrätty reseptissä, hän voi valita toisen rinnakkaisvalmisteen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij sïjhth dam alternatijvem mïsse apotehke molse jïh ij dam maam reseptesne tjaaleme maahta jeatjah generikeles alternatijvem veeljedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin lääke on kuitenkin maksettava kokonaan itse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte dellie tjuara jïjtje gaajhkem maeksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vain reseptissä määrätty lääke ja halvin vaihtokelpoinen lääke ovat subventoituja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Barre dïhte mij reseptesne jïh aelpemes daalhkesem mïsse maahta målsodh mij lea subvensjovnesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perusteena on, että kenenkään ei tarvitse maksaa lääkkeestä enempää kuin välttämätöntä, jos on olemassa useampia samantyyppisiä, erihintaisia lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan sjïekenistie ij naan edtjh jienebe maeksedh enn daerpies jis gååvnesieh jienebh seamma såarhtesne ovmessie åeside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos asiakkaan on lääketieteellisistä syistä käytettävä tietyn valmistajan lääkettä, lääkäri voi reseptiin tekemällään merkinnällä kieltää lääkkeen vaihdon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis medisijnen sjïekenistie tjuara daalhkesem sjïere fabrikateste nåhtadidh maahta dåaktere dam reseptese tjaeledh ij maehtieh daalhkesem målsodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin asiakkaan ei tarvitse maksaa lisäkustannusta edellyttäen, että lääke kuuluu suurkustannussuojan piiriin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie ij daarpesjh dam lissie-åasam maeksedh jis daalhkesem lea jollemaaksovevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääketieteellisiä syitä voivat esimerkiksi olla allergia jonkin tabletin väriaineelle tai että potilaan on vaikea avata tietty pakkaus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Medisijnen sjïeke maahta vuesiehtimmien gaavhtan årrodh jis allergijeles klaerieïebnen vööste maam tabledtesne gååvnese jallh jis gïerve sjïere aeskiem rïhpestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kauden tuote</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Boelhken vaaroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TLV päättää joka kuukausi voimassa olevat hinnat lääkeyritysten haettua hintamuutoksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TLV sjæjsjele guktie dah åasah sjidtieh mænngan daalhkesesïelth åasajeatjatehtemem ohtsedamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkkeen hinta voi muuttua hakemuksesta joka kuukausi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daalhkesen åasa maahta, ohtsemen mænngan, fïerhten asken jeatjahtehtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Halvinta rinnakkaisvalmistevaihtoehtoa kutsutaan nimellä kauden tuote.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Generiken daalhkesi bïjre dïhte alternatijve man vueliehkommes åasa dïhte lea boelhken sæjjasadtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TLV ilmoittaa apteekeille, mikä vaihtoehto on kauden tuote ja mihin apteekin tulee vaihtaa lääke.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TLV apotehkide bæjhkohte mah alternatijvh mah leah boelhken sæjjasadtje jïh mejtie edtjieh målsodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TVL päättää myös kahdesta varavaihtoehdosta, joihin voi vaihtaa, jos kauden tuote loppuu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>TLV aaj göökte reservealternatijvi bïjre bæjhkohte jis boelhken sæjjasadtje nåhka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mihin vaihtoehtoon apteekit vaihtavat lääkkeen, voi siis vaihdella kuukaudesta toiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte maahta askeste askese jeatjahtehtedh mij alternatijvese apotehkh målsodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kauden tuotteen tarkoituksena on, että ne verovarat, jotka on tarkoitettu lääkkeiden subventointiin, riittävät mahdollisimman pitkälle ja mahdollisimman monelle.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Boelhken sæjjasadtje dan gaavhtan dah skaehtievierhtieh mah daalhkesen subvensjovnese juhtieh edtjieh ryöhkedh dan jijnjemasse jïh dan gellie goh gåarede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kauden tuote on sama kaikissa apteekeissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Boelhken sæjjasadtje lea seamma gaajhkine apotehkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus voi kuitenkin käydä, että apteekki on ostanut liian suuren määrän kauden tuotetta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene apotehke feerh jïjnjh åesteme boelhken sæjjasadtjeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä tapauksessa apteekki voi myydä sitä myös seuraavan kuukauden aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie apotehke åådtje dam doekedh båetijen asken aaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä merkitsee, että yhdessä apteekissa voidaan tarjota edellisen kuukauden tuotetta ja toisessa kuluvan kuukauden tuotetta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Destie båata maahta dovne öövteben asken sæjjasadtjem aktene apotehkesne jïh daan asken sæjjasadtjem jeatja apotehkesne faaleldahkine åadtjodh..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näillä kahdella tuotteella voi olla eri hinta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah göökte vaaroeh maehtieh ovmessie åasah utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollemaaksovevaarjelimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollemaaksovevaarjelimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksu enintään 2 200 kruunua vuodessa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes 2 200 kråvnah fïerhtene jaepesne maaksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja tarkoittaa, että asiakas maksaa lääkkeistä enintään 2 200 kruunua vuoden aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollemaaksovevaarjelimmien tjïrrh jeenjemes 2 200 kråvnah maaksa boelhkesne mij lea jaepiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tätä kutsutaan suurkustannuskaudeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte jaepie jollemaaksoveboelhkem gohtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja koskee reseptilääkkeitä, joita TLV:n päätöksen mukaan subventoidaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollemaaksovevaarjelimmie daalhkesidie mejtie reseptesne åådtje jïh mejtie TLV lea mieriesovveme edtja subvensjovneradidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se koskee myös käyttötarvikkeita, joita saa ns. apuvälinekortilla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea aaj åtnoeartihkelh mejtie maam gohtje viehkievierhtiekåarhtesne åådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmista reseptilääkkeistä maksetaan joka kerta ns. omavastuuosuus kunnes on maksanut 2 200 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes daalhkesi åvteste maaksa dam maam gohtje jïjtjemaaksovem fïerhten aejkien gosse dejtie reseptesne veedtjie goske 2 200 kråvnah jaksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sama koskee avannepotilaan hoidossa tarvittavia käyttötarvikkeita.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seammalaakan åtnoeartihkelidie maam daarpesje gosse stomijem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osasta lääkkeitä ei makseta lainkaan omavastuuosuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhth daalhkesijstie ij naan jïjtjemaaksovem maeksieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos diabeteksen hoidossa tarvitaan insuliinia, se on maksutonta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis insulinebåehtjierdimmie diabetesem åtna dellie ij maam akt insulinen åvteste maeksieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos potilas on sairastunut tartuntatautilain mukaiseen sairauteen, maakäräjät maksavat kaikki niiden lääkkeiden kulut, jotka pienentävät tarttuvuutta, esimerkiksi virusta heikentävät hiv-lääkkeet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis skïemtjelassem åtna mij suetievaarjelimmielaaken nuelesne laantedigkie maaksa abpe åasam daalhkesen åvteste mij laanestimmiem vaenede, vuesiehtimmien gaavhtan viruseheerreden daalhkesh hiv:en vööste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jotkut maakäräjät maksavat tiettyjen lääkkeiden ja tiettyjen potilasryhmien omavastuuosuuden kokonaan tai osittain, tämä koskee esimerkiksi nuorten naisen e-pillereitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies laantedigkie abpe jallh bieliem jïjtjemaaksovistie muvhti daalhkesi jïh skïemtjijedåehkiej åvteste maaksa, vuesiehtimmien gaavhtan p-pillerem noere nyjsenæjjide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käyttötarvikkeet, joita tarvitaan lääkeaineiden saattamiseksi elimistöön ja lääkityksen omavalvontaan, ovat maksuttomia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij maeksieh åtnoeartihkeli åvteste maam daarpesje gosse kråahpese daalhkesidie vaalta jïh jïjtje medisineeremem vååksje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkkejä tällaisista tuotteista ovat ruiskut ja verensokerin mittaukseen käytettävät liuskat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmieh dagkerh åtnoeartihkelidie leah stritjkh jïh tsåarah vïrredïjneghmööleminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Omavastuuosuus suurkustannusportaan mukaan</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïjtjemaaksove jollemaaksovetråahpen mietie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun vuoden kestävä suurkustannuskausi alkaa, asiakas maksaa kaikki lääkkeiden ja avanteen hoitoon tarkoitettujen tarvikkeiden kulut itse, kunnes hän on maksanut yhteensä 1 100 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse aalka jollemaaksoveboelhkem jaepesne abpe åasam daalhkesi jïh stomiartihkeli åvteste goske ektesne lea maakseme 1 100 kråvnah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen jälkeen omavastuuosuus pienenee asteittain ns. suurkustannusportaan mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan jïjtjemaaksovem unnede daltesi mietie dejnie maam gohtje jollemaaksovetråahpen mietie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokaisen uuden ostoksen osalta aloitetaan siitä kustannuksesta, johon on päätynyt edellisen ostoksen yhteydessä, ja noustaan portaita ylöspäin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fïerhte orre åesteme aalka dehtie maaksovistie maam jakseme gosse minngemes aejkien maam akt åasteme jïh bæjjese tråahpen mietie guatsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun on maksettu 2 200 kruunua, suurkustannuskauden aikana ei tarvitse enää maksaa enempää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse 2 200 kråvnah maakseme dellie ij daarpesjh vielie maeksedh boelhkesne mij aajmene jollemaaksoveboelhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Edellytyksenä on, että ostetut lääkkeet kuuluvat suurkustannussuojan piiriin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah daalhkesh mejtie veedtjie tjuerieh meatan årrodh jollemaaksovevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun suurkustannuskausi päättyy, aloitetaan seuraavalla ostokerralla alusta huolimatta siitä, missä kohtaa suurkustannusporrasta asiakas on.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse jollemaaksoveboelhke orreje, aalka vihthorre boelhkem gosse vihth åesiestidh, seamma saaht gusnie lea jollemaaksovetråahpesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin suurkustannusporras toimii</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie jollemaaksovetråahpa jåhta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkekustannukset yhteensä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektine daalhkeseåasah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksu enintään</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes maaksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taulukko osoittaa, kuinka suurkustannussuoja alentaa kuluja asteittain.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tabelle vuesehte guktie jollemaaksovevaarjelimmie daltesinie åasam vaenede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityiselintarvikkeet lapsille</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjïere beapmoeh maanide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös alle 16-vuotiaalle lapselle tarkoitetut elintarvikkeet ovat subventoituja, jos lapsella on tietty sairaus, esimerkiksi keliakia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aaj beapmoeh maanide mah nuerebe 16 jaepieh jïh sjïere skïemtjelassh utnieh, vuesiehtimmien gaavhtan glutenintoleranse, lea subvensjovneradamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elintarvikkeet määrätään ns. elintarvikereseptillä ja niitä voi saada enintään 90 päiväksi kerralla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah beapmoeh olkese tjaalasåvva dïsse maam gohtje beapmoehöörnemisnie, jïh åådtje dejtie veedtjedh guhkemes 90 biejjieh fïerhten aejkien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Omavastuuosuus on joka kerta 120 kruunua, mutta tätä maksua ei lasketa suurkustannussuojaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maaksa jïjtjemaaksovem 120 kråvnah fïerhten aejkien, men ij leah dïhte meatan jollemaaksovevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paljonko kerralla saa ostaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Man jïjnjh åådtje fïerhten aejkien åestedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuojan nojalla ei voi ostaa kuinka paljon tahansa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij maehtieh man jïjnjh jollemaaksovevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ostettavan määrän tulee olla tarkoitettu riittämään 90 päiväksi, ts.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam maam åådtje åestedh edtja soejkesjen mietie 90 biejjieh ryöhkoeh, dïhte sæjhta jiehtedh medtie golme askh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>noin kolmeksi kuukaudeksi. Ehkäisyvälineet, esimerkiksi e-pillerit ja - ruiskut, ovat poikkeuksia tästä kolmen kuukauden säännöstä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Preventijvevierhtieh, vuesiehtimmien gaavhtan p-pillerh jïh p-stratjkh eah leah meatan dennie golmeaskenjoelkedassesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos reseptillä voi hakea lääkkeitä useamman kerran, uuden erän voi hakea vasta sitten, kun on kulunut kaksi kolmasosaa siitä ajasta, jonka lääkkeen lasketaan riittävän edellisen kerran jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis gellien aejkien åådtje resepetsne vïedtjedh ij maehtieh vielie veedtjedh åvteli göökte golmehts dehtie tïjjeste maam daalhkesh edtjieh ryöhkedh dehtie minngemes vïedtjemistie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on esimerkiksi hakenut lääkkeitä kolmen kuukauden käyttöä varten, on siis täytynyt kulua kaksi kuukautta ennen kuin reseptillä saa lisää lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan jis daalhkesidie veedtjeme mejtie edtjieh golme askh ryöhkedh dellie tjuara göökte askh vaasedh åvteli åådtje viht reseptesne vïedtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kerralla voi ostaa enemmän kuin yhden reseptillä olevan lääke-erän, mutta silloin on maksettava täysi hinta siitä osasta, joka ylittää kolmen kuukauden käytön.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta åadtjodh stuerebe veahkam enn akte veahka akten aejkien åestedh, bene dellie tjuara ellies åasam maeksedh dam veahkam mij jienebe golme askh åtnoste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lääkäri on kirjoittanut reseptiin, että lääkkeiden haun välillä on oltava tietyn pituinen aika, lääkettä ei voi saada useammin kuin lääkäri on ilmoittanut.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere lea reseptesne tjaaleme tjuara boelhkem vaasedh vïedtjemi gaskem ij maehtieh vïedtjedh daamhtajommes enn dåaktere tjaaleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisistä syistä, esimerkiksi pitkän ulkomailla oleskelun vuoksi, lääkkeitä voi hakea suurkustannussuojan nojalla kolmea kuukautta pitemmäksi ajaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis joekoen sjïekh åtna, vuesiehtimmien gaavhtan edtja ålkoelaantesne guhkiem årrodh, maahta daalhkesh jollemaaksovevaarjelimmesne guhkebe goh golme askh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin oleskelu tulee kuitenkin pystyä todistamaan esimerkiksi matka-asiakirjoin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bene dellie tjuara dam vihtiestidh, vuesiehtimmien gaavhtan feelemeleahpine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Milloin suurkustannussuoja on voimassa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie jollemaaksovevaarjelimmie nåhtede ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jotta suurkustannussuoja olisi voimassa, lääkkeen määräävän henkilön on ilmoitettava reseptissä työpaikkansa lukukelpoisella viivakoodilla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juktie maehtedh jollemaaksovevaarjelimmiem nåhtadidh dïhte gie reseptem tjaala tjuara sov barkoesijjiem reseptesne sïevekoden hammoe maam maahta lohkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos resepti koskee rajoitetusti subventoitavaa lääkettä, määräävän henkilön on ilmoitettava reseptissä, että suurkustannussuoja on voimassa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis reseptesne daalhkesem gaertjiedamme subvensjovnine tjuara tjaelije aaj reseptesne tjaeledh edtja jollemaaksovevaarjelimmesne årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja koskee sitä, joka asuu tai on työsuhteessa Ruotsissa, tai jolla on eurooppalainen sairausvakuutuskortti toisesta ETA-maasta tai Sveitsistä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollemaaksovevaarjelimmie dejtie gie Sveerjesne årroeminie jallh barkeminie jallh dïhte gie europeijen skïemtjetjïrkemekåarhtem åtna jeatjah EES-laanteste jallh Schweiz:ste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eurooppalainen sairausvakuutuskortti tulee näyttää sekä lääkärissä että apteekissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte europeijen skïemtjetjïrkemekåarhtem edtja dovne dåakteren luvnie jïh apotehkesne vuesiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsilla on sopimus myös tiettyjen Euroopan ulkopuolisten maiden – Algerian, Australian ja Kanadan Quebeckin osavaltion – kanssa, mikä merkitsee, että lääke-etuudet koskevat näiden maiden kansalaisia, jos he tarvitsevat lääkkeitä ollessaan Ruotsissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sveerje aaj latjkoem åtna muvhtine laantine Europan ålkoelisnie; Algeriet, Australien jïh Quebec Kanadisnie, mïj sæjhta jiehtedh daalhkeseaevhkiem aaj otnegidie dehtie laantijste jis dah daalhkesh daarpesjieh gosse Sveerjesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikilla alle 18-vuotiailla samassa taloudessa asuvilla lapsilla, jotka ts. ovat kirjoilla samassa asunto-osoitteessa, on yhteinen suurkustannussuoja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh maanah nuerebe 18 jaepieh seamma gåetesne, dïhte sæjhta jiehtedh seamma årromesijjesne tjaalasovveme, lea ektesne jollemaaksovevaarjelimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä merkitsee, että kaikkien lasten omavastuuosuudet lasketaan yhteen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte sæjhta jiehtedh gaajhkh maanaj jïjtjemaaksovh ektine ryöknoe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin ollen biologisilla sisaruksilla, jotka ovat kirjoilla eri osoitteissa, on kaikilla oma suurkustannussuoja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte sæjhta jiehtedh biologijen åerpenh gïeh ovmessie årromesijjine tjaalasovveme dellie fïerhten maana lea jïjtse jollemaaksovevaarjelimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannustietokanta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollemaaksovedatabase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkkeen ostajan ei tarvitse itse olla selvillä siitä, millä summalla hän on ostanut lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij daarpesjh jïjtje daejredh man jïjnjh lea maakseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki suurkustannussuojaan kuuluvat ostot rekisteröidään ns. suurkustannustietokantaan, jota ylläpitää valtiollinen Ehälsomyndigheten (E-terveys viranomainen).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dennie maam gohtje jollemaaksovedatabsesne, mij staaten sïelte Apotekens Service AB gïetede, gaajhkh åastemh registreradidh jollemaaksovevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järjestelmä seuraa, kuinka paljon omavastuuosuuksia on maksettu, ja laskee aina oston yhteydessä suurkustannusportaan mukaisen alennuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Systeme gïetede man jïjnjh fïerhten aejkien lea jïjtjemaaksovem maakseme jïh ryöknoe man stoerre rabadte sjædta jollemaaksovetråahpan mietie fïerhten aejkien maam akt åestedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikilla apteekeilla on käytössä sama tietokanta, joten ei ole merkitystä sillä, missä apteekissa asioi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh apotehkh lea seamma databasesne dannasinie maahta gaajhkh apotehkine daalhkesh åestedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannustietokantaan liittyminen on vapaaehtoista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte jïjtjevyljehke jis sæjhta jollemaaksovedatabasesne meatan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietokantaan rekisteröidään nimi, henkilötunnus, ostopäivä, mistä apteekista reseptilääkkeet on noudettu, paljonko asiakas on maksanut, mihin määrään asiakas on päässyt suurkustannussuojaa laskettaessa ja suurkustannuskauden aloituspäivämäärä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejtie mejtie databasese registrerede lea nomme, persovnenummere, datume gåessie åesteme, mij apotehkide reseptem viedtjeme, man jïjnjh dan åvteste maakseme, man jïjnjh jollemaaksovevaarjelimmesne jakseme jïh aalkoedatume jollemaaksoveboelhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rekisteröitäviä tietoja käytetään vain oikean alennuksen määrittämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam bïevnesem maam registrerede ajve nuhtjesåvva guktie edtja reaktoe rabadtem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietoja saaduista lääkkeistä tai reseptin kirjoittaneesta lääkäristä ei rekisteröidä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij naan bïevnesh registreredh dan bïjre magkerh daalhkesh lea åådtjeme jallh mij dåaktaridie reseptem tjaaleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiakas voi koska tahansa pyytää otteen suurkustannustietokannassa olevista itseä ja lapsiaan koskevista tiedoista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta gåess ' akt tjaatsegem jollemaaksovedatabaseste gihtjedh jïh åådtje daejredh mah bïevnesh desnie gååvnesieh dov bïjre jïh dej maanaj bïjre mejtie åelieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän voi tehdä täyttämällä ja lähettämälle lomakkeen Ehälsomyndigheten:ille (E-terveys viranomainen).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie goerem dievhtedh jïh dam Apotekens Service AB:se seedtedh, mestie aaj goerem åådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietokannan ulkopuolelle jääminen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljedh ålkoelisnie årrodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiakas voi halutessaan päättää, että hänen tietojaan ei tallenneta suurkustannustietokantaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta veeljedh ij meatan årroeh jollemaaksovedaatabasesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun asiakas tällöin ostaa lääkkeitä, jotka kuuluvat suurkustannussuojan piiriin, apteekki antaa kuitin, jota kutsutaan nimellä suurkustannustodistus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie leahpam åådtje maam gohtje jollemaaksovevihtiestimmie apotehkesne gosse daalhkesh åasta mij jollemaaksovevaarjelimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Todistuksesta ilmenee maksetun omavastuuosuuden kokonaismäärä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollemaaksovevihtiestimmeste tjåådtje man stoerre jïjtjemaaksovem ektesne maakseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tärkeää pitää tallessa viimeisin suurkustannustodistus ja esittää se yhdessä reseptin kanssa lääkkeitä ostettaessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles minngemes jollemaaksovevihtiestimmiem spååredh jïh dam vuesehte resepten ektesne gosse edtja daalhkesh åestedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Apteekin tulee saada tietää, millä suurkustannusportaan tasolla asiakas on, jotta tämä saa oikean alennuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Apotehke daarpesje daejredh mij daltesisnie jollemaaksovetråahpesne juktie reaktoe rabadtem åådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laatija ja toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelije jïh redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117 Vårdguiden – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh sisvege lea gïetedamme, goerehtamme jïh dåhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

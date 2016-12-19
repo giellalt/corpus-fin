@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=529_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arkistolaitoksen tehtävänä on varmistaa kansalliseen kulttuuriperintöön kuuluvien asiakirjojen säilyminen, niiden käytettävyyden parantaminen sekä alan tutkimus- ja kehittämistoiminta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árkiivalágádusa doaibman lea sihkkarastit álbmotlaš kulturárbái gullevaš áššebáhpáriid seailluheami, daid anolašvuoña buorideapmi sihke dán suorggi dutkan- ja ovddidandoaibma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arkistolaitos muodostuu Kansallisarkistosta ja seitsemästä maakunta-arkistosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árkiivalágádussii gullet Álbmotlaš arkiiva (Kansallisarkisto) ja čieža eanagotti arkiivva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tehtävä on vakituinen, palvelussuhde alkaa 1.1.2012</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fásta bargu, bálvalusgaskavuohta álgá 1.1.2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hakuaika päättyy: 11.11.2011 16.00</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanáigi nohká: 11.11.2011 16.00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Virka on viraston yhteinen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgi lea virgedoaimmahaga oktasaš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisää</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>eambbo</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

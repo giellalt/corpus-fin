@@ -1,0 +1,832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">finsktrk.htm.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkollisvaalit 18. syyskuuta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljeme skiereden 18 b: n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinä valitset.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne dihte mij åadtjoeh veeljedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin kirkossa on yli 7 miljoonaa jäsentä ja sen kantavana voimana ovat ihmiset, jotka haluavat osaltaan jakaa vastuuta ja kehittää ja muokata kirkon tulevaisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sveerjen gärhkosne 7,2 miljonh lihtsegh, jih almetjh meatan mejtie diedtem utnieh gärhkoem öövtiedidh båetije beajjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>18. syyskuuta kaikilla Ruotsissa kirjoissa olevilla 16 vuotta täyttäneillä jäsenillä on mahdollisuus vaikuttaa siihen, keiden vastuulle Ruotsin kirkon ohjaaminen annetaan neljäksi tulevaksi vuodeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skiereden 18.b:n gaajhkh lihtsegh mah 16 jaepien båeries sjidteme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin kirkon toiminta on monipuolista ja se kattaa laajan kentän.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sveerjen gärhkoe sjiere barkoem åtna jih joekoen jijnjnh barkoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkko haluaa olla yhteenkuuluvuuden, hengellisyyden ja Jumala-yhteyden kohtauspaikka, jossa on tilaa kysymyksille ja keskusteluille.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoe säjhta sijjie årrodh gyhtjelasside jih soptsestimmide, sijjie gusnie ektesne årrodh, voejkenem jih Jupmelem gaavnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkko, joka antaa toivoa ja myötävaikuttaa ihmisten henkiseen terveyteen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoe mij gaahpene jih dihte barka almetjidie mah nåake utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avoin ja läsnäoleva kirkko, joka on heikompien puolella ja jossa kristillinen ja humaani arvoperusta toteutetaan käytännön toiminnassa, niin täällä kotona kuin ulkomailla, niin ilossa kuin surussa, niin arjessa kuin juhlassa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gusnie vierhtiemaadtoe kristeldahken mietie jih guktie almetjh hijven ussjedh nemhtie edtja gärhkoe barkedh, daesnie mijjen rijhkesne jih ålkoelaantine, aavosne jih sårkosne, aarkebiejjine jih aejlegsbiejjine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mihin Ruotsin kirkon tulee käyttää voimansa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gusne edtja Sveerjen gärhkoe stööremes barkoem biejedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katastrofien ja onnettomuuksien jälkihoito ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sijjine årrodh gusnie goerpe jih ovlahkoe ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaste, konfirmaatio, vihkiminen ja hautaaminen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kristedh, skylledh, pruvredh jih boernedidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käynnit vanhusten, sairaiden ja yksinäisten luona ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voeres, skiemtjes jih oktegs almetjh gaavnedidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pakolaiskysymykset ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gyhtjelassine mejtie almetjh jeatja laanteste diekie juhteme ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joulun, pääsiäisen ja helluntain vietto ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jåvlem, påaskem jih pinsem heevehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristötyö ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Byjresebarkoe ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkkorakennusten hoitaminen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoegåetieh urriestidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Reilu kauppa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Riekteslaakan åesistidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasten ja nuorten musiikkitoiminta ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Musigkebarkoe maanide jih noere almetjidie ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkollisvaalit 18. syyskuuta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljeme skiereden 18 b:n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkollisvaaleissa 18. syyskuuta jäsenet voivat valita, mihin Ruotsin kirkon tulee käyttää voimansa neljänä seuraavana vuotena.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljemisnie skiereden 18b:n datne veeljh mejnie Sveerjen gärhkoe edtja båetije nieljie jaepine barkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kenelle haluat antaa luottamuksesi ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Giesse luhpiem vedtieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalipäivänä äänestetään äänestyskortissa ilmoitetussa vaalihuoneistossa. Äänivaltaiset jäsenet saavat äänestyskortin postitse viimeistään 31. elokuuta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemebiejjesne gielem biejh veeljemetjiehtjelisnie gusnie dihte lea, daam gieleleahpesne tjaalasovveme jih daam påasten tjirrh åadjoeh minngemes mietsken 31 b:n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kortissa kerrotaan lisäksi, onko vaalipäivänä erityisiä äänten vastaanottopaikkoja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Desnie aaj tjaalasovveme jis veeljemebiejjesne sjiere gieledåastoesijjie gååvnesh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestää voi myös ennen vaalipäivää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne aaj maahtah veeljemebiejjien åvtelen gielem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkollisvaalit käsittävät kolme tai neljä vaalia</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljeme golme jallh niejljie veeljeme leah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkollisvaaleissa (kyrkoval) äänestetään kolmessa tai neljässä vaalissa. Sen ratkaisee kotiseurakunnan paikallinen organisaatio:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljemisnie golme jallh nieljie veeljemisnie gielem biejh, guktie vååjnoe dov lihkesbijre åårganisasjovnesne dennie gärhkoetjåangkesne gusne datne årroeminie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1) kirkkovaltuusto (kyrkofullmäktige) tai välittömillä vaaleilla valittu kirkkoneuvosto (direktvalt kyrkoråd)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>1) gärhkoeståvroe jallh dallegh veeljeme gärhkoeraerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkkovaltuustossa ja kirkkoneuvostossa käsitellään seurakunnan toimintaa ja tavoitteita koskevia asioita.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie gyhtjelassine barkieh mejtie dov gärhkoetjåangkesne vihkeles leah, vuesehte gaavhtan barkojne mejnie barkoeminie jih magkeres ulmieh gärhkoetjåangkoe edtja jaksedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2) yhtymän yhteinen kirkkovaltuusto (samfällda kyrkofullmäktige)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>2) ektine gärhkoeståvrojne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun kyse on taloudesta ja hallinnosta, usea seurakunta toimii monesti yhteistyössä yhtymässä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jijnjh aejkieh gellie gärhkoetjåangkoeh ekonomijen jih administrasjovnine ektesne barkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteinen kirkkovaltuusto päättäätaloudesta, kiinteistöasioista yms.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektie gärhkoeståvroe nännosti vierhtiej jih gåetiej bijre jih nimhtemes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3) hiippakuntavaltuusto (stiftsfullmäktige)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>3) Stifteståvroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin kirkko on jaettu kolmeentoista hiippakuntaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sveerjen gärhkoe golmeluhkie stiftine juakeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunkin hiippakunnan johdossa on piispa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fierhtene stifte bispem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksi hiippakunnan tehtävistä on tukea seurakuntia niiden toiminnan kehittämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stiften diedte lea gärhkoetjåangkoeh duedtedh jih barkoem öövtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4) kirkolliskokous (Kyrkomötet)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>4) Gärhkoetjåahkoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkolliskokous on Ruotsin kirkon korkein päättävä elin ja siinä on 251 jäsentä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoetjåahkoe lea gärhkoen jillemes nännoestimmie åårgane 251 lihtsegi gujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siellä ratkaistaan yhteiset asiat, jotka koskevat esimerkiksi kirkon säännöstöä ja kasteeseen, konfirmaatioon, vihkimiseen ja hautaukseen liittyviä kysymyksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daesnie ektie gyhtjelssi bijre nänneostieh vuesehte gaavhtan gärhkoen tjaaleh-luhpieh, jih dovne dah gyhtjelassh kristedh, skylledh, pruvredh jih boernedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyskortista näkyy, missä vaaleissa saa äänestää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Magkeres veeljeme datne maahtah darjodh veeljemeleahpesne lohkh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Välittömät vaalit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dallegh veeljeme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansallinen taso</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naasjovne daltese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkolliskokous</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoetjåahkoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkkohallitus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeståvroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alueellinen taso</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Reegijovne daltese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hiippakuntavaltuusto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stiftedeaveståvroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hiippakuntahallitus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stifteståvroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikallinen taso</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lihkes bijre daltese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikallinen taso, kun seurakunta ei kuulu yhtymään</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lihkes bijre daltese gosse gärhkoetjåangkoeh eah leah meatan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikallinen taso, kun seurakunta kuuluu yhtymään</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lihkes bijre daltese gosse gärhkoetjåangkoe meatan leah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhtymän yhteinen kirkkovaltuusto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektie gärhkoedeaveståvroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkkolautakunta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoemoenehtse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkkovaltuusto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoedeaveståvroe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkkoneuvosto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeraerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Välittömillä vaaleilla valittu kirkkoneuvosto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dalleghveeljeme gärhkoeraerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkonkokous</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoetjåahkoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se toimii</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie edtja årrodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Harmaat ruudut = elimet, joita vaalit koskevat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kraevies skaavhtegh = dah åårganh mejtie mijjieh gärhkoeveeljemasse veeljin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokovalkeat ja - harmaat ruudut = päättävät elimet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Deave veelkes jih kraevies skaavhtegh = dah nännoestimmieh åårganh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viivoitetut ruudut = toimeenpanevat elimet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah krosseskaavtegh = dah barkoe åårganh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Välittömillä vaaleilla valittu kirkkoneuvosto on sekä päättävä että toimeenpaneva elin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeraerie mejtie dallegh veeljeme dah dovne nännoestimmie jih barkoe åårganh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänioikeutettu saa äänestää kolmessa tai neljässä vaalissa, ts. kirkolliskokoukseen, hiippakuntavaltuustoon ja yhteen tai kahteen paikalliseen elimeen sen mukaan, kuuluuko seurakunta johonkin yhtymään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne gieh åadtja veeljedh nuepiem åtna golme jallh njieljie veeljeminie gielem biejedh, Gärhkoetjåahkose, stiftedeaveståvrose jih akten jallh göökten lihkesbijre åårganide jih jis gärhkoe-tjåangkose ektesne lea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestäminen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkollisvaaleissa äänestetään suurin piirtein samoin kuin yleisissä vaaleissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gielem vedtedh seamma vuekine goh dah siejhme veeljeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos äänestää ennen vaalipäivää tai erityisessä äänten vastaanottopaikassa, on käytettävä äänestyskorttia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne tjoerh gieleleahpam nuhtjedh jis veeljemebiejjien åvtelen gielem vedttieh jih jis sjiere gieledåastoesijjine gielem vedth..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikka äänestää vaalihuoneistossa, äänestyskortti tulee ottaa mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis veeljemetjiehtjelisnie gielem vedth dellie aaj tjoerh gieleleahpam meatan vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalipäivänä 18. syyskuuta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemebiejjesne skiereden 18 b:n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalihuoneistossa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemetjiehtjelisnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyskortissa lukee, missä vaalihuoneistossa (vallokal) voi äänestää ja milloin se on auki.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gieleleahpesne maahtah lohkedh gusnie veeljemetjiehtjele jih gåessie dihte gaahpene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisessä äänten vastaanottopaikassa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjiere gieledåastoesijjie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus järjestetään myös erityisiä äänten vastaanottopaikkoja (särskilt röstmottagningsställe).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene aaj sjiere gieledåastoesijjie tsegksovveme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos sellaisia on vaalipäivänä, niiden sijainnista ja aukioloajoista ilmoitetaan äänestyskortissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis naemhtemes gååvnesh veeljemebiejjesne dellie maahtah gieleleahpesne lohkedh gusnie sijjie jih gåessie gaahpene leah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen vaalipäivää</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Veeljemebiejjien åvtelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimistot koko maassa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ekspedisjovnh abpe rijhkesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5. syyskuuta–14. syyskuuta voi koko maassa äänestää ennakkoon kirkkoherranvirastoissa ja seurakuntatoimistoissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Skiereden 5 b:n jih 14 b:n gaskoeh maahtah gielem åvtelen vedtedh pastors- / jih gärhkoetjåangkoe-ekspedisjovnine abpe rijhkesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja saa seurakunnasta, jossa haluaa äänestää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vielie saernieh maahtah åadtjodh dov gärhkoetjåangkosne gusnie gielem sijhth vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityiset äänten vastaanottopaikat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjiere gieledåastoesijjie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennakkoäänestystä varten on myös saatettu järjestää erityisiä äänten vastaanottopaikkoja (särskilt röstmottagningsställe).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maehtieh dovne sjiere gieledåastoesijjie utnedh gusnie gielem maahtah vedtedh gieleveeljemebiejjien åvtelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietoja eri mahdollisuuksista saa omasta seurakunnasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bieljelh dov gärhkoetjåangkoem jih govlh magkeres nuepieh åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjeäänestys</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prievien tjirrh gielem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksi ennakkoäänestystapa on kirjeäänestys (brevröstning).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatja vuekiem åtna prievien tjirrh gielem veeljemen åvtelen vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siihen tarvitaan ns. kirjeäänestyspaketti (brevröstningspaket), jonka voi tilata kirkkoherranvirastosta tai seurakuntatoimistosta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie ” prieviegielevadtesem ” darpesjh utnedh jih daam pastors- / gärhkoetjåangkoste maahtah dängkodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se sisältää kaiken tarvittavan, mm. tyhjiä vaalilippuja, jotka voi täyttää itse.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejnie sisvegisnie gaajhkem gaavnh, dovne gåaroes veeljemeleahpa mejtie jijtje maahtah tjaeledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavallisesti siltä nimeämisryhmältä, jota aikoo äänestää, voi kuitenkin saada painettuja vaalilippuja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Siejmetji maahtah gieleleahpah åadtjodh mejtie joe tjaalassovveme nomineringsdåehkeste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjeäänen on oltava perillä viimeistään 14. syyskuuta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dov prieviegielem tjoeverin skiereden 14b:n åvtelen utnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestys valtuutetun välityksellä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dijren tjirrh gielem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestäminen valtuutetun välityksellä (budröstning) tehdään samalla tavoin kuin kirjeäänestys, mutta se on tarkoitettu etupäässä niille, jotka ovat aikoneet äänestää vaalihuoneistossa mutta joilla on este vaalipäivänä. ”</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dijren tjirrh gielem vedtedh seamma vuekine goh prievien tjirrh, daate voestemes vuekie disse gie gieletjiehtjelisnie edtja gielem vedtedh men ij maehtieh veeljemebiejjesne. ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjeäänestyspaketti ” sisältää myös kaiken sen, mitä tarvitaan äänestettäessä valtuutetun välityksellä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pieviegielevadtesen ” sisvegisnie gaajhkem gaavnh gosse gielem dijren tjirrh vedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keitä voi äänestää ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Giejtie gielem vedtedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkollisvaaleissa äänestetään nimeämisryhmää (nomineringsgrupp), joka vastaa yleisten vaalien puoluetta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gärhkoeveeljemisnie nomineringsdåehkese gielem vedth, seamma goh paartijjh siejhme veeljemisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestäessään voi myös valita henkilön, siis merkitä nimeämisryhmän listalle rastin sen ehdokkaan kohdalle, jonka mieluiten haluaa tulevan valituksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne aaj maahtah gielem aajne almetjasse vedtedh, kroessem biejh kaandidatese nomineringedåehkien lästosne disse giem eermes sijhth veeljedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nimeämisryhmät tiedottavat itse siitä, miten ne haluaisivat kirkon työskentelevän ja toimivan ja mihin Ruotsin kirkon tulisi käyttää voimansa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nomineringedåehkieh jijtje saernieh vedtieh guktie gärhkoe edtja barkedh båetije biejjine, gusnie Sveerjen gärhkoe edtja faamoem biejedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valittavissa olevat ryhmät saa yleensä tietää omasta seurakunnastaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Giejdie dåehkide gielem vedtedh maahtah siejmetji gärhkoetjåangkoen tjirrh daejredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luettelot on julkaistu myös Internet-osoitteessa www.svenskakyrkan.se.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lästoeh aaj daesnie gååvnesh www.svenskakyrkan.se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalitulokset</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mejtie veeljeme vuesehte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alustavat tulokset julkaistaan vaalihuoneistojen suljettua ovensa Internet-osoitteessa www.svenskakyrkan.se sitä mukaa, kun laskenta edistyy.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Annjebodts veeljemevuesehte maahtah www.svenskakyrkan.se vuartasjidh dan männgan gosse ryökneme, gåessie veeljemetjiehtjelh gaaptjeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lopullinen tulos julkaistaan mm. sivulla www.svenskakyrkan.se, kun hiippakunnat ovat tarkistaneet kaikki äänimäärät.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Minngemes vuesiehtimmie maahtah vuejnedh daesnie www.svenskakyrkan.se gosse stifth vihth gaajhkh gielh ryökneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyskortti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dov gieleleahpa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänivaltaisille jäsenille lähetetään äänestyskortti (röstkort) joka on perillä viimeistään 31. elokuuta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Datne gie gielem åadtjh vedtedh galka minngemes mietsken 31 b. n gieleleahpam gåatan åadtjome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyskorttiin on merkitty yksilölliset tiedot siitä, missä vaaleissa saa äänestää ja missä ja milloin äänestäminen on mahdollista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gieleleahpesne laavenjassh dov bijre tjaaleme jih mejtie veeljemindie åadtjh veeljedh, jih gusnie jih gåessie åadtjh veeljedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos äänestyskortti on kadonnut tai jos siinä on virheitä, tulee ottaa yhteys kirkkohallitukseen, Kyrkostyrelsen, Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Informationsservice), tai tilata uusi osoitteesta www.svenskakyrkan.se.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis gieleleahpam dasseme jallh miste sisvege, dellie maahtah Gärhkoeståvrose bieljelidh, Svenskakyrkan 751 70 Uppsala, 018-16 96 00 (Saernieviehkie), jallh orre dängkodh daesnie www.svenskakyrkan.se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös sen, joka ei ole saanut äänestyskorttia ollenkaan mutta joka on mielestään äänestyskelpoinen, tulee ottaa yhteys kirkkohallitukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dihte gie ij naan gieleleahpam åadtjome, dihte aaj gärhkoeståvroem bieljele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyskortti lähetetään väestökirjoissa olevaan osoitteeseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gieleleahpam dov tjaalessäjjan sedtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kopio äänestyskortista (dubblettröstkort) voidaan faksata siihen seurakuntaan, jossa äänestää, ja Ruotsin kirkon ulkomaanseurakuntiin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gieleleahpam maam guelmiehtehteme maehtieh faaksen tjirrh sedtedh gärhkoetjåangkose gusnie gielem vedth jih Sveerjen gärhkoen ålkolaantengärhkoetjåangkose.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

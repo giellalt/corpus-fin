@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=344_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toiminnanohjaaja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doiammajođiheaddji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien yhteydessä toimii Saamelainen lastenkulttuurikeskus, joka on osa Lapin lastenkulttuurikeskusverkostoa ja sitä kautta myös valtakunnallisen Taikalamppu – verkoston jäsen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki oktavuođas doaibmá Sámi mánáidkulturguovddáš, mii lea Lappi mánáidkulturfierpmádaga oassi ja dan bokte maiddái riikkaviidosaš Taikalamppu – fierpmádaga lahttu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toiminnanohjaajan jäädessä virkavapaalle Saamelaiskäräjät ilmoittaa haettavaksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmajođiheaddji bázedettiin virgefriijavuhtii Sámediggi almmuha ohcanláhkai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>toiminnanohjaajan sijaisuuden 20.1. – 29.11.2010 väliseksi ajaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>doaimmajođiheaddji sadjásašvuođa 20.1. – 29.11.2010 gaskasaš áigái.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=206_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo saamelaisten parlamentista, Saamelaiskäräjistä !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo sámiid parlamentta, Sámedikki birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tamperelainen Matti tulee Saamenmaahan ja haluaa tutustua Saamelaiskäräjien toimintaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tamperelaš Matti boahtá Sápmái ja hálida oahpásmuvvat Sámedikki doaimmaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matti tapaa mm..</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Matti deaivá ee. Sámedikki ságajođiheaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien puheenjohtajan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadallan: Suvi West, govven / čuohppan: Anja Ahola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaiskäräjät 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámediggi 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 3,45</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 3,45</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

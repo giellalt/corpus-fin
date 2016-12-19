@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=222_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo yheispohjoismaisesta kirjastoautosta !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo ohtsâštave-eennâmlii kirjerájuautost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen ja Norjan rajalla, Tenon varressa kulkee kirjastoauto.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ já Taažâ rääjist, Tiänu piälláin jotá kirjerájuauto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auto kiertelee kylissä ja kouluissa valtakuntien rajojen yli.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Auto juuđâš siijdâin já škoovlâin väldikudij raajij paijeel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päähenkilöt: Päivi Laivamaa, Sisko Länsman, Nuorgamin ala-asteen oppilaat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Váldu-ulmuuh: Päivi Laivamaa, Sisko Länsman, Njuárgám vyelitääsi uáppeeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus: Päivi Magga, kuvaus / leikkaus: Kauko Mustonen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stivrim: Päivi Magga, kuvvim / čuoppâm: Kauko Mustonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyevtittâs: Säämi máttááttâskuávdáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 2,05</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 2,05</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

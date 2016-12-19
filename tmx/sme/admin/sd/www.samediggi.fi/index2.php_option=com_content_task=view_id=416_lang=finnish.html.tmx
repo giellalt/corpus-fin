@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=416_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ulkoalue</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Šillju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuurikeskuksen piha-alue soveltuu erilaisiin ulkoilmatilaisuuksiin, esimerkiksi messutilaisuuksien ulko-osastojen ja musiikkifestareiden tarpeisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturguovddáža šilljobiras heive bures earálágan olgodáhpáhusaide, ovdamearkka dihte meassuid olgoossodagaid ja musihkkafestiválaid dárbbuide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus Sajos sijaitsee Juutuajoen rannalla, keskellä Inarin kýlää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáš lea Juvdujoga gáttis gasku Anára gili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarijärvelle on matkaa noin 200 metriä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárjávregáddái lea mátki sullii 200 mehtera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pihamaalla on runsaasti pysäköintitilaa kokous- ja tapahtuma-asiakkaiden käyttöön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Šiljus lea ollu parkerensadji čoahkkin- ja eará áššehaččaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sajoksen ravintola Lyeme palvelee ulkoilmatapahtumien aikana festariravintolana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sajosa restoráŋŋa Galla doaibmá olgodáhpáhusaid áigge festiválrestoráŋŋan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ravintolassa on täydet anniskeluoikeudet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Restoráŋŋas leat dievas addalanvuoigatvuođat.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

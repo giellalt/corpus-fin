@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=156_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegielat oahppamateriálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, äidinkieli</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eatnigiella Girjjálašvuohta Davvisámegiella vieris giellan Badjeskuvlla matematihkka Vuolleskuvlla matematihkka Fysihkka ja kemiija Deavvašvuođadiehtu Biologiija Biras- ja luonddudiehtu Eatnandiehtu Oskkoldat ja eallinoaidnu Historjá ja servodatdiehtu Duodji Eará materiálat Ruovttudoallu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Girjjálašvuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, terveystieto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Deavvašvuođadiehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, biologia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biologiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, ympäristö- ja luonnontieto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biras- ja luonddudiehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, uskonto ja elämänkatsomus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oskkoldat ja eallinoaidnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, historia ja yhteiskunta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Historjá ja servodatdiehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, käsityö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duodji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, muut materiaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará materiálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, kotitalous</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttudoallu</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

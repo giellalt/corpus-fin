@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=296_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tekee tiehallinnolle aloitteen Nellimin tien peruskorjaamisesta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge taha alguu Njellim maađij vuáđulâš tivomist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ivalosta Nellimiin johtava tie tulisi peruskorjata pikimmiten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Avelist Njellimân jottee maađij kolgâččij forgâbalij tivvoođ vuáđulávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyisellään tie on mutkainen, huonokuntoinen ja pääosiltaan päällystämätöntä hiekkatietä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tááláš maađij lii muálkkáá, hyenes oornigist já iänááš uásild luávdihánnáá čievrâmaađij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tekee tiehallinnolle aloitteen Nellimin tien peruskorjauksesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge taha maađijhaldâttâsân alguu Njellim maađij vuáđulâš tivomist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloite lähetetään tiedoksi myös Tasavallan Presidentin kansliaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalgâ vuolgâttuvvoo tiättun meiddei Täsivääldi President kanslian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiasta päätti Nellimissä keskiviikkona 24. kesäkuuta kokoontunut saamelaiskäräjien täysistunto.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ääšist meridij Njellimist koskoho 24. kesimáánu čokkânâm sämitige tievâsčuákkim.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

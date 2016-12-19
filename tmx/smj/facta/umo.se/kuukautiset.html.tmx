@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kuukautiset.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset tarkoittavat kohdusta poistuvaa verenvuotoa, joka toistuu tytöillä enemmän tai vähemmän säännöllisesti murrosiästä alkaen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Liejbbe la varddem skoados majt niejda oadtju åbbå dájvvalakkoj pubertehta rájes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset ovat merkki tytölle, että hänen kehonsa on lisääntymiskykyinen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Liejbbe la rubmaha vuohke vuosedit pubertehtan la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytön munasarjoista irtoaa kerran kuukaudessa munasolu murrosiästä vaihdevuosiin saakka.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Niejddan álu månneluovvanibme l fert máno pubertehta rájes gitta klimakteriaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Munasolun hedelmöittymiseksi emättimeen on päästävä siittiöitä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Avtabále gå månneluovvanibme de tsuodtsa skoadon assu duostotjit månev jus sahkkiduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin nainen voi tulla raskaaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sahkkiduvátjit månne hähttu sájojt guodnán oadjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos munasolu ei hedelmöity, kohdun limakalvo poistuu kohdusta vuotona.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá de iesselissan sjaddat, valla jus månne ij sahkkiduvá de skoahtosjnjárttjá boahtá ålgus varddemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tästä käytetään nimitystä kuukautiset.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dat la liejbbe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska kuukautiset alkavat ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goassa läjbbogoahtá ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautisten alkamisaika vaihtelee yksilöllisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Makkir álldarin läjbbogoahtá l umasslágásj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä johtuu siitä, että jokaisen murrosikä on erilainen. Murrosiän varhaista tai myöhäistä alkamisaikaa ei voi hallita.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Danen gå gájka pubertähttaj båhti sierra ájge Jus pubertehtaj boahtá árrat jali maŋŋet de ij la mavga majt máhttá stivrrit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset alkavat keskimäärin 12–14 vuoden iässä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemusá álu läjbbogåhti 12 -14 jagágin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset voivat alkaa jo yhdeksän vuoden iässä tai vasta 16-vuotiaana, mikä on täysin normaalia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla máhttá läjbbogoahtet juo 9 jagágin jali esski 16 jagágin váni juoga l boasstot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuukautiset eivät ole alkaneet 16–17 vuoden ikään mennessä, on syytä mennä lääkäriin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ij la vuostasj läjbbomav oadtjum gå l 16-17 jagák de galggá dåktårin manádit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäiset kuukautiset voivat tulla yllätyksenä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vuostasj läjbbom máhttá boahtet hähkkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se voi olla ahdistavaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá vájvven dåbddut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkä kellään luokkatoverilla ei vielä ole kuukautisia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Márjju ij la aktak klássan läjbbogoahtám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautissuojan valinta voi huolestuttaa, ja niistä puhuminen aikuisten kanssa saattaa nolottaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Márjju ájádallá makkir suojev adnet ja ihkap la vájválasj sáhkadit muhtem ållessjattugijn dan birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toisaalta ensimmäiset kuukautiset voivat olla jotain, mitä on jo kauan odottanut.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Soajttá vuostasj läjbbomav la hálijdam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmilla kavereilla ne ovat jo alkaneet, ja tuntuu helpottuneelta kuulua lopultakin samaan " jengiin ".</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemus rádna márjju li läjbbogoahtám ja gähppánimev dåbddå gå vijmak la akta “ juohkusin ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuinka paljon vuotoa tulee ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Man ednagav varddá ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuodon määrä ja kesto vaihtelevat henkilöstä toiseen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Man ednagav varddá rievddá ulmutjis ulmutjij, jur gåk rievddá galla biejve läjbbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautisten aikana verta vuotaa tavallisesti noin 20–80 millilitraa, eli korkeintaan desilitran verran.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Läjbbomin varddá 20-80 millilijttara varra, de vargga ienemusát desilijttarav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vereen sekoittuu kehon nesteitä ja kohdun limakalvoa, vuotoa näyttää olevan enemmän kuin sitä oikeasti on.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå varra segaduvvá rumájlåssjkusijn ja sjnjártjájn skoados álu dåbddu ienebun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuoto voi tuntua runsaalta, vaikka itse asiassa se ei sitä olisikaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Moatte adni sij varddi ednagav vájku ij la nåv enas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuukautissuoja on vaihdettava niin usein, että siitä on runsaasti vaivaa tai jos joutuu käyttämään kaksinkertaista terveyssidettä, jotta vuoto ei tulisi läpi, puhutaan runsaasta vuodosta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dárbaj målssot liejbbesuojev dájvvalakkoj jut vájveduvvá jali jus hähttu adnet guovtegerdak liejbbesuojev vaj ij varde tjadá de l dujna nåv gåhtjodum valjes liejbbe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Runsas vuoto johtuu usein siitä, että kohdussa on runsaasti ainetta, joka liuottaa verihyytymiä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Boahtá dassta vaj gávnnu enas avtat ábnnasis skoadon låsjkijdahttá giellomvaráv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä heikentää veren hyytymistä ja aiheuttaa runsaampaa vuotoa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dahká vaj varddema e binno ja ienebuv varddá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Runsaan kuukautisvuodon vuoksi olo voi tuntua väsyneeltä ja voimattomalta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ednagav varddá de máhttá dåbddåt vájbbasav ja fámodisvuodav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä johtuu alhaisista veriarvoista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Le gå varraárvvo l vuollegasj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Runsaista kuukautisista kärsivä voi ottaa yhteyttä kouluterveydenhuoltoon, nuorisovastaanottoon tai terveyskeskukseen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus la valjes liejbbe de máhttá skåvllåvarresvuohtasujttujn, nuorajduostudagájn jali varresvuohtaguovdátjijn aktavuodav válldet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri voi määrätä hoidoksi pillereitä, joilla vuotoa voi hillitä, esimerkiksi ehkäisypillerit.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Viehkev oadtju tablehtaj ma binnedi varddemav, buojkulvissan p-tablehta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuorena kuukautiskierto on tavallisesti epäsäännöllinen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå l läjbbogoahtám de l dábálasj dat la målsudahkes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se tarkoittaa sitä, että kuukautiset eivät tule joka kuukausi samaan aikaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dat javllá, jut ij boade sämmi ájge juohkka máno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleensä kierto tasaantuu itsestään ajan myötä niin, että jokainen kuukautiskierto, eli aika kuukautisten alusta seuraavien alkuun, kestää 21–35 päivää.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemusájda álu duolliduvvá maŋenagi vaj juohkka liejbbegasska, biejvve gå läjbbogoahtá gitta boahtte liejbe álgguj, li 21-35 biejve gaskan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiskiertoa kannattaa tarkkailla merkitsemällä päivämäärät kalenteriin tai muuhun muistivihkoon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buorre l gähttjat liejbev gå tjállá biejvijt rijmmuj jali ietjá tjálálvisgirjjáj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se auttaa pysymään selvillä kuukautiskierron säännöllisyydestä ja seuraavien kuukautisten alkamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>De álkket vuojnná jus liejbbe boahtá dájvvalakkoj ja de diehtet boahtte máno liejbev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin on myös helppo huomata, jos kuukautiset ovat myöhässä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>De älvvá aj jus liejbbe la maŋŋunam muhtem máno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joillakin naisilla kuukautiset saattavat olla epäsäännölliset koko elämän ajan, eikä se ole vaarallista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhtemijn la agev målsudahkes liejbbe, ij la vádálasj valla jus vájvalussjá, de liejbbe boahtá dájvvalakkoj buojkulvissan p-tablehtaj viehkken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset myöhässä tai poissa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Maŋŋunam jali gáhtom liejbbe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luonnollinen syy kuukautisten poisjäämiseen on raskaus.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Luondulasj oarre gå liejbbe gáhtu l, iesselissan la sjaddam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskaus edellyttää, että emättimeen on päässyt siittiöitä, mikä tapahtuu yleensä aina yhdynnässä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Iesselissan sjaddat gå sájojt la oadtjum guoddnáj, ja vargga agev narggema baktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos harrastaa hyväilyseksiä, ja sormissa on tuoretta spermaa, jonka vie suoraan emättimeen, on olemassa riski tulla raskaaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus adná njávkadimseksav ja varás sájo li tjuvdijn ja dalága dajt biedjá guoddnáj de l aj vádá iesselissan sjaddat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuukautisten poisjäämisen uskoo voivan johtua raskaudesta, kannattaa tehdä raskaustesti.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus jáhkká liejbbe l gáhtum danen gå iesselissan la sjaddam de l buorre iesselisåtsådimev dahkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskaustestin voi ostaa apteekista, monista tavarataloista ja lähikaupoista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Iesselisåtsådime oasstá dálkasboargálin ja moatten biebbmoboargálin ja dievnastusboargálin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testin voi myös tehdä ilmaiseksi nuorisovastaanotolla tai äitiysneuvolassa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj åtsådimev mávsodak nuorajduostudagán jali iednijsujttoguovdátjin dahkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Stressi, ympäristön muutos tai laihduttaminen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Strässa, birásmålssom jali livvodibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautisten poisjäämiseen voi olla monia muitakin syitä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Liejbbe máhttá aj moattelágásj årijs gáhtot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuukautiset ovat vain muutaman viikon myöhässä tai jäävät tulematta yhtenä tai kahtena kuukautena, syynä voivat olla monet erilaiset asiat, kuten ympäristön muutos tai väliaikainen stressi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus läjbbom ber moadda vahko maŋŋunam jali gáhtu avtav jali guokta máno de máhtti umasse oare dasi, buojkulvissan birásmålssom jali l gasskabåddåsattjat stressidum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuukautiset jäävät pois pitemmäksi aikaa, kannattaa hakeutua tutkimuksiin ja selvittää syy.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus liejbbe gáhto guhkep ájgev de l buorre åtsådit oarev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syynä voi olla esimerkiksi voimakas stressi, pahoinvointi, kova treenaus, laihduttaminen, syömishäiriöt tai jokin sairaus.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dan oarre máhttá årrot buojkulvissan ilá sieldes stressidum, nievret viessu, hárjjidallá ednagit, li bårråmgássjelisvuoda jali muhtem dávdda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on kehon tapa sanoa, että jotain on vialla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Le rubmaha vuohke diededit juoga l boasstot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tuntuu, että tarvitsee apua tai tukea ongelmien ratkaisuun, voi kääntyä esimerkiksi kouluterveydenhuollon tai nuorisovastaanoton puoleen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dåbddå viehkev jali dårjav dárbaj ietjas tjuolmajt tjoavddet de máhttá buojkulvissan skåvllåvarresvuohtasujtujn jali nuorajduostudagájn aktavuodav válldet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuukautiset jäävät pois yli kuudeksi kuukaudeksi, kannattaa aina ottaa yhteyttä esimerkiksi nuorisovastaanottoon tai terveyskeskuksen lääkäriin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus liejbbe gáhtu ienep gå biellejagev de agev galggá dåktårijn aktavuodav válldet buojkulvissan nuorajduostudagán jali varresvuohtaguovdátjin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautisten poisjäämistä voidaan selvittää muun muassa verikokeella, jolla mitataan hormonipitoisuuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Viehkev de oadtju åtsådit manen ij boade, máhttá muhttijn varraåtsådimijt guodet ma mihttiji hormonaoasev varán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarvittaessa lääkäri voi määrätä tabletteja, jotka käynnistävät kuukautiset uudelleen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus la dárbulasj de máhttá tablehtajt oadtjot ma liejbev álgadi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiskivut ja PMS</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vájve liejbe åvddåla – ‘ PMS ’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Noin viikkoa ennen kuukautisten alkua kehoon kertyy nestettä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Bájken vahko liejbe åvddåla ja gitta álggemij de låsjkosednakvuohta rubmahin lassán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän seurauksena rinnat voivat aristaa ja keho tuntua turvonneelta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dahká jut njittje bávtjesti ja máhttá dåbddåt båhtånimev rubmahin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tätä kutsutaan premenstruaaliseksi syndroomaksi, PMS.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gåhtjudallá åvddåliejbbedåbddo, ‘ PMS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oireyhtymä johtuu kehon hormoneista, ja se voi aiheuttaa kiukkuisuutta, ärtymystä tai alakuloisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>’ Hormona li dan oarre ja dahki jut suhttá, gähppadit båstådalá jali hådju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi voi ilmetä päänsärkyä, makeanhimoa tai näppylöitä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj oajvveluottudagáv oadtjot, njálgugijt hálijdit jali tjásmagisájt oadtjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmiten PMS-oireet ovat pahimmillaan kolmesta neljään päivää ennen kuukautisia ja häviävät kuukautisten alkaessa, mutta niitä voi ilmetä myös kuukautisten aikana.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemusájda gudi dåbddi ‘ PMS:av ’ álu la värámus gålmmå gitta nielje biejvij liejbe åvddål ja gáhtot gå läjbbogoahtá, valla máhttá aj bissot muhtem biejvev läjbodijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liikunta ja rentoutusharjoitukset voivat helpottaa PMS-oireita.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>’ PMS. ’ - vájve máhtti aj buorránit jus labut jali luossjvedimhárjjidusájt dahká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oireisina päivinä kannattaa myös nukkua riittävästi, ottaa rauhallisesti ja yrittää välttää stressiä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buorre l aj ednagit oadet ja gähttjalit sierraláhkaj sietton årrot ja ij stressit dájt biejvijt gå dåbddå vájvijt.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

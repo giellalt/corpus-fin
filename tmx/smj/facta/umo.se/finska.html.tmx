@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">finska.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>UMO – nuorisovastaanotto verkossa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>UMO – nuorajduostudahka värmmádagán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>UMO:n aihealueet:</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ássje UMOn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Väkivalta ja loukkaaminen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Nievret viedjet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkoholi, tupakka, huumeet</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vierredahko ja vuoledime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Minä</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mån</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksi</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Rumáj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rakkaus ja ystävyys</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jårggålibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Abortti tarkoittaa raskauden keskeyttämistä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gielak gähttjam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ahdistuksella tarkoitetaan voimakasta, pelonsekaista tai huolestunutta tunnetilaa, joka tuntuu koko kehossa, ja jota useimmat joskus kokevat.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ietjassujtto máná</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alakuloisuus</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Njuolgadusá ja rievtesvuoda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alakuloisuuden, surullisuuden, ahdistuksen tai toivottomuuden tunteet ovat luonnollinen osa elämää.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Abårttå merkaj iesselisvuodav boarkkit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus saattaa olla päiviä, jolloin mikään ei huvita, mikään ei tunnu hauskalta tai mielessä pyörii monenlaisia asioita.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ájádallá abårtåv dahkat de soajtti edna gatjálvisá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaiset tunteet menevät usein ohi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla máhttá agev soabmásijn gávnadit vásstádusájt åttjudit ietjas gatjálvisájda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kurjaa oloa voi kohentaa eri tavoin itse, tai hakea tarvittaessa apua.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guosská aj gesi l soabmásav iesselissan dahkam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkoholijuomiin kuuluvat muun muassa olut, viini ja väkevät alkoholijuomat.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Alkoholajn miejnniduvvá juhkusa nåv gåk vuola, vijnna ja sprijtta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkoholia juodaan maun vuoksi tai päihtymyksen saavuttamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ålos dav juhki danen gå la njálgge jali vuoladuvátjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkoholin käytöllä voi kuitenkin olla monenlaisia vakavia haittavaikutuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla alkohola máhttá aj moatteláhkáj vádálasj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se voi aiheuttaa vammoja ja sairauksia tai saada ajautumaan vaikeisiin tai vaarallisiin tilanteisiin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá vahágijt ja dávdajt buktet, nuppe oassáj dahká vaj vájves jali vádálasj vidjurijda sjaddá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joillekin alkoholin käyttö aiheuttaa ahdistuneisuutta ja pahoinvointia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhtema goavgedi ja nievret viessu gå juhki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkäisypilleri</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Bunestime, tjullàsa ja hångel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkäisypilleri on tyttöjen ehkäisymenetelmä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus ij la dav dahkam márjju ájádallá dan birra ja hálijt dav dahkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkäisypillereillä tarkoitetaan useimmiten yhdistelmäehkäisypillereitä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Avtabále gå máhttá dåbddut vehik balon vuostasj tjullásij jali hångelij. Gåktu dal ájn dahká gå hångli ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne sisältävät kahta eri hormonia, estrogeenia ja progesteronia (keltarauhashormonia), jotka muun muassa estävät ovulaation ja siten myös raskaaksi tulemisen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buohtjaskuovddo l skuovddo hármmis asidis lateksis (gummi) majt máhttá giesset buohtjaj jali seksagávnnáj jus ájggu seksav adnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eka kerta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goavgge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen ensimmäisiä seksuaalisia kokeiluja toisen kanssa monet ovat harjoittaneet itsetyydytystä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goavgge l garra dåbddo hujás ja balos mav ålles rumáj dåbddå, ja majt ienemusá muhtem bále dåbddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On luonnollista, että ensimmäinen seksikokemus toisen kanssa herättää monenlaisia ajatuksia ja odotuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goavgge máhttá vájvedit, valla galggá huoman gähttjalit dahkat majt sihtá ja ij garvvet vidjurijs massta jáhkká goavget.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hiivatulehdus</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guopparinfeksjåvnnå vuollevájmon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Emättimen limakalvolla elää normaalisti hiivasieni.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guoppar gávnnu luondulattjat ienemusájn vuollevájmon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus hiivasieni voi yltyä liikakasvuun ja aiheuttaa tulehduksen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn ienet ja de máhttá vájvijt vaddet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä on hyvin yleistä varsinkin tytöillä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Le sieldes dábálasj niejdajn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kolme neljästä tytöstä kärsii jossain vaiheessa elämäänsä hiivatulehduksesta, ja monilla se toistuu useita kertoja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Nieljet niejdas gålmå muhtem bále viessomin guopparinfeksjåvnås vájvástuvvi ja moaddásijda moaddi ruoptus boahtá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös pojat voivat saada hiivatulehduksen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Bárne aj máhtti guopparinfeksjåvnåv oadtjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hiivatulehdus on vaaraton, mutta se voi aiheuttaa kutinaa ja kirvelyä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guopparinfeksjåvnnå ij la vádálasj valla máhttá vájvedit danen gå álu sagŋet ja gihpot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Itsetunto tarkoittaa tietoisuutta itsestä ja omasta arvosta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn dåbddåt håjev, ballat jali dåbddåt dårvodisvuodav la luondulasj oasse viessomin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Itsetunto ei liity lainkaan siihen, kuinka hyvin tai huonosti ihminen menestyy, vaan kysymys on oman itsensä hyväksymisestä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvissan máhttá årrot biejve gå ij majdek nagá, ij mige dåbddu suohttasin jali gå ednagit usjudallá. Ienemusát dåbdo vássi ájge milta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Itsensä arvostamista voi kehittää.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gávnnuji dago mav iesj máhttá dahkat buorebut väjátjit, ja viehkke gávnnu jus dav dárbaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jälkiehkäisypilleri</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Iesjdåbddo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jälkiehkäisypilleri on tabletti, jonka tyttö voi ottaa ehkäistäkseen raskauden.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Iesjdåbddo l ájádusá ietjas birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jälkiehkäisy ei ole tavanomainen ehkäisykeino, eli sitä ei käytetä suojana ennen yhdyntää tai sen aikana.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij la dan birra jus la tjiehppe vaj tjuorbbe juojddá dagátjit, ájnat dåbddåt árvulattjat val gávnnut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jälkiehkäisytablettia tulisi käyttää vain viimeisenä hätäkeinona eikä säännölliseen raskauden ehkäisyyn.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dåbddåt ulmusj dåhkki dav máhttá hárjjidallat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiusatuksi joutuminen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gätjástusá nannusap iesjdåbdduj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joutuessaan kiusatuksi saattaa helposti alkaa tuntea olonsa surulliseksi ja alakuloiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gávnnuji ednaga majt máhttá dahkat nannitjit ietjas iesjdåbdov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kenenkään ei tarvitsisi joutua piiloutumaan kiusaamisen vuoksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dála li muhtem dago majt máhttá gähttjalit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>š Kiusatuksi joutuminen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>š Gätjástusá nannusap iesjdåbdduj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiusaaminen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ietjas åtsådit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiusaamisella tarkoitetaan sitä, kun joku joutuu ympärillä olevien ihmisten huonon kohtelun kohteeksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus la seksav adnám váni preventijvvanävoj dagi de l agev buorre ietjas åtsådit sjiervvedávdajda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksittäiset erimielisyydet eivät ole kiusaamista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gåktu gähttjalibme dagáduvvá mierreduvvá makkir sjiervvedávdaj ietjas åtsåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun ilkeää kohtelua tapahtuu toistuvasti, ja se aiheuttaa kiusatulle harmia ja pahaa mieltä, puhutaan kiusaamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Álu vaddá gådtjå- jali varraåtsådimev. Jus åtsåt sjiervvedávddaj mij gávnnu soahpomsuodjelágan de ij dárbaha mavga mákset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>š Kiusaaminen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>š Ietjas åtsådit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kondomi on ohut lateksinen (kuminen) pussi, joka voidaan asettaa peniksen tai seksilelun päälle seksiä harrastettaessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Liejbbe la varddem skoados majt niejda oadtju åbbå dájvvalakkoj pubertehta rájes. Liejbbe la rubmaha vuohke vuosedit pubertehtan la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Nuppástibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset tarkoittavat kohdusta poistuvaa verenvuotoa, joka toistuu tytöillä enemmän tai vähemmän säännöllisesti murrosiästä alkaen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå nuppástuvvá ulmutjijs birrusin, de gåhtjudallá nuppástibmen. Ájnegis bahás dáhpádus ij la nuppástibme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautiset ovat merkki tytölle, että hänen kehonsa on lisääntymiskykyinen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Nuppástibme l gå moaddi dáhpáduvvá ja dahká gut nuppástuvvá nievret viessu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Murrosikä alkaa yleensä 10–13-vuotiaana.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå nuppástuvvá de l gähppat ráfedisvuodav dåbddågoahtet ja nievret viessot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Murrosiän aikana vartalo kehittyy lapsesta aikuiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn bájnasj viessomav nåv ednagit vaj oadtju nievrep iesjdåbdov ja gähttjal gárvvet vidjurijt gånnå máhttá iejvvit gejt nuppásti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi ääni ja sukupuolielimet muuttuvat, kasvoihin saattaa ilmaantua näppylöitä ja kiinnostus seksiin herää.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij aktak galga dárbahit tjiehkádit danen gå iehtjada nuppásti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pussailu, suutelu ja hyväily</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>P-tablähtta li preventijvvanävo tablähttahámen niejdajda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monet tykkäävät pussailusta, suutelusta ja hyväilystä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhtem ájgen 10 ja 13 jage gaskan ienemusá pubertähttaj ålliji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne ovat asioita, joista moni nuori haaveilee ja odottaa pääsevänsä kokemaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Pubertehtan rumáj åvdeduvvá mánás ållessjattugij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Samanaikaisesti ensimmäinen suudelma tai hyväily saattaa hermostuttaa. Miten oikeastaan hyväillään ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvissan giella ja sjiervve rievddá, oadtju tjásmagisájt ja seksas miellogis sjaddagoahtá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksitautitestit</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Seksa vuostasj bále</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testimenetelmä riippuu testattavasta seksitaudista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemusá li álu onanerim åvddål gå iehtjádijn seksav adni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Usein testit otetaan virtsanäytteestä tai verikokeesta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemusájn li vuostasj seksuálalasj vásádus ietjajnis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos testattava seksitauti on tartuntasuojalain mukaan ilmoitettava tauti, testi on ilmainen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Le dábálasj li edna ájádusá ja vuorddemusá gåktu dåbddu gå vuostasj bále seksav adnet ietjá ulmutjijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksuaalinen suuntautuminen - bi, hetero, homo</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>š Seksa vuostasj bále</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksuaalinen suuntautuminen tarkoittaa rakastumisen tai seksuaalisen kiinnostuksen kohdetta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Seksuálak tjerda birra makkir sjiervve ulmutjijn gejda gierru jali seksuálalattjat lijkku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmiset voivat olla bi-, hetero- tai homoseksuaaleja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá biseksuálak, heteroseksuálak jali homoseksuálak årrot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tupakoiva ihminen imee itseensä tuhansia myrkyllisiä aineita.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Suovastibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vinkkejä itsetunnon kohentamiseen</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå dubágajt suovas de njammá moadda tuvsán sälggás ábnnasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Omaa itsetuntoaan voi kohentaa monin eri tavoin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Suovastibme máhttá båhtusav vaddet umasslágásj vahágijda ja dávdajda, ja bájken fert nubbe ulmusj gut suovas jábmá árabut gå majt sån lij dahkam váni suovastime dagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tässä muutamia kokeilunarvoisia vinkkejä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Huoman la dábálasj suovastahtjá danen gå sihtá årrot buossjen jali fávrron årrot.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

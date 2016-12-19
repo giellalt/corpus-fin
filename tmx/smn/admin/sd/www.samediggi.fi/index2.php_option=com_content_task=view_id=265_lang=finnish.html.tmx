@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=265_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ijahis Idja musiikkifestivaali elokuussa 2009</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ijâttis Ijjâ muusikfestivaalâ porgemáánust 2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansojen musiikkifestivaali Ijahis Idja järjestetään ensi vuonna elokuun 21.-23. päivinä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugij muusikfestivaalâ Ijâttis Ijjâ uárnejuvvoo puáttee ive porgemáánu 21.-23. peeivij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Festivaalia on järjestetty vuodesta 2004 lähtien ja sen ajankohtana on aiemmin ollut toukokuun loppu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Festivaalâ lii uárnejum ive 2004 rääjist já ovdebijn iivijn vyesimáánu loopâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Festivaalin ohjelmarunko säilyy ennallaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Festivaalâ ohjelmvuávám piso siämmáálágánin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mukana ohjelmassa tulee olemaan sekä saamelaista että muiden alkuperäiskansojen musiikkia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohjelmist puátá leđe mieldi sehe säämi já eres algâaalmugij muusik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja: www.ijahisidja.fi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasetiäđuh: www.ijahisidja.fi.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

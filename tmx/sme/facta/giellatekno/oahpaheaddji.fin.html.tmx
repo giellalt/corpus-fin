@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">oahpaheaddji.fin.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opettajalle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpaheaddjái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kodin suomeksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoktot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tästä löytyvät linkit pohjoissaamen opettajille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás leat liŋkkat davvisámegiela oahpaheddjiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>OAHPA-davvi - Interaktiiviset ohjelmat, joilla voit harjoitella sanoja ja kielioppia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>OAHPA-davvi - Interaktiivalaš prográmmat maiguin sáhttá hárjehallat sániid ja grammatihka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oahpa-ohjelmien käyttöohje</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpa-prográmmaid bagadus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielioppi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dušše vuođđohámit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanojen taivutusparadigmat - Tietokone antaa haluamasi sananan taivutusparadigma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čájeha sániid listun, juoga mii sáhttá leat ávkin jus ii dieđe mo sátni čállojuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korpus haku – hae sanoja tekstipankista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Korpus ohcan – oza sániid teakstačoakkáldagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>GEO - paikannimet kielestä toiseen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>GEO - báikenamat gielas gillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tästä löyty lista ohjelmien asentamisesta koulun tietokonevastuuhenkilölle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás lea sajáiduhttinlistu skuvlla dihtorovddasvástideaddji várás.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

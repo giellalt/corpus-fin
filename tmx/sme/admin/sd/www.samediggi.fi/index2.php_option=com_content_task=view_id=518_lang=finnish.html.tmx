@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=518_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kielelliset oikeudet eivät toteudu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid gielalaš vuoigatvuođat eai ollašuva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>I varapuheenjohtaja Irja Seurujärvi-Kari korosti puheessaan kielenelvytysseminaarissa 13.9.2011 sitä, että saamelaisten kielelliset oikeudet eivät toteudu Suomessa perustuslain tarkoittamalla tavalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>I várreságadoalli Irja Seurujärvi-Kari deattuhii sáhkavuorustis giellaealáskahttinsemináras 13.9.2011 dan, ahte sápmelaččaid gielalaš vuoigatvuođat eai ollašuva Suoma vuođđolágas oaivvilduvvon vuogi mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>I varapuheenjohtaja Irja Seurujärvi-Kari</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njuolggoliŋka I várreságadoalli Irja Seurujärvi-Kari suomagielat sáhkavurrui 13.9.2011</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

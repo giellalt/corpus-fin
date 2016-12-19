@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=454_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n alkuperäiskansojen oikeuksia koskeva julistus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugijd kyeskee julgáštus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ulkoasianministeriö on käännättänyt YK:n julistuksen alkuperäiskansoja koskevista oikeuksista suomen kielelle ja saamenkielinen käännös on työn alla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olgoašijministeriö lii jurgâlittám OA julgáštus suomâkielân, mii kuáská algâaalmugij vuoigâdvuođâid já sämikielâlâš jurgâlus lii pargo vyelni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 2007 hyväksytty alkuperäiskansoja koskeva julistus (United Nations Declaration on the Rights of Indigenous Peoples) on Suomen valtiota velvoittava asiakirja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 2007 tuhhiittum algâaalmugijd kyeskee julgáštus (United Nations Declaration on the Rights of Indigenous Peoples) lii Suomâ staatâ kenigittee äššikirje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansoja koskeva julistus on poliittinen asiakirja ja Suomi oli aktiivisesti tukemassa julistuksen hyväksymistä YK:ssa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugijd kyeskee julgáštus lii poolitlâš äššikirje já Suomâ lâi aktiivlávt tuárjumin julgáštus tuhhiittem OA:st.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

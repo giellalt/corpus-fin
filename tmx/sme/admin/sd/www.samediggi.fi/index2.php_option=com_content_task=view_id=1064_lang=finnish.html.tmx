@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1064_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät antoi stipendejä Saamelaisalueen koulutuskeskuksesta valmistuneille</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi attii stipeanddaid Sámi oahpahusguovddážis válmmaštuvvan oahppiide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät antoi stipendin neljälle Saamelaisalueen koulutuskeskuksesta valmistuneelle ahkeralle saamen kielen opiskelijalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi attii stipeandda njealji viššalis sámegiela oahppái, geat válmmaštuvve Sámi oahpahusguovddážis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisalueen koulutuskeskuksen kevätjuhlaa vietettiin keskiviikkona kesäkuun kolmantena päivänä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahusguovddáža giđđafeasta dollojuvvui gaskavahku geassemánu goalmmát beaivve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien stipendin saivat seuraavat opiskelijat:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki stipeanddda ožžo čuovvovaš stuđeanttat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Markus Laiti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiella: Markus Laiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame: Jari Linjama</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiella: Jari Linjama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät toivottaa onnea ja hyvää kesälomaa kaikille !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi sávvá lihku ja buori geasseluomu buohkaide !</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

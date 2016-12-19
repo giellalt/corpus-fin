@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=999_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kansallispäivän juhlia voi seurata live stream lähetyksenä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi álbmotbeaivvi ávvudeami sáhttá čuovvut maid njuolgga streamsáttan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät järjestää Saamelaisten kansallispäivän juhlan Inarin Saamelaiskulttuurikeskus Sajoksessa perjantaina 6.2.2015 klo 17.00 - 19.00.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lágida Sámiid álbmotbeaivvi ávvudeami Anára Sámekulturguovddáš Sajosis bearjadaga 6.2.2015 diibmu 17.00 - 19.00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsille on Sajoksen pihalla poroajelua, tulistelua ja syötävää klo 15.30 - 17.00.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáide lea Sajosa šiljus herggiin vuodjin, dolastallan ja borramuš diibmu 15.30 - 17.00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tarjoaa kahvia ja pientä syötävää klo 16.00 - 17.00 Sajoksen aulassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi fállá káfe ja juoga smávva, maid borastit, diibmu 16.00 - 17.00 Sajosa aulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Juhlaa voi seurata myös live stream lähetyksenä osoitteessa: www.sogku.fi/live.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dilálašvuođa sáhttá čuovvut maid streamsáttan neahta bokte: www.sogku.fi/live.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassedieđut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasten ohjelma:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáid prográmma:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

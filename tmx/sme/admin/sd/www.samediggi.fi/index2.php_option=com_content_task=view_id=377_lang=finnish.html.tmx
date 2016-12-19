@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=377_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus Sajos sijaitsee Saamenmaan sydämessä, Inarin kylässä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekulturguovddáš Sajos lea Sámeeatnama váimmus, gasku Anára gili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikallisten ihmisten kalavarastona kutsuttu Juutuanjoki, erämainen Inarijärvi, taruhohtoinen Otsamotunturi sekä monipuolinen Inarin retkeilyalue antavat puitteet Suomen saamelaiskulttuurin keskuksena tunnetulle Inarille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Báikkálaš olbmuid guollevuorkán gohčoduvvon Juvdujohka, meahcceguovllu Anárjávri, mystihkalaš Ohcomaš ja Anára máŋggabealat vánddardanguovlu addet fiinna rámaid Anárii, mii lea dovddus Suoma sámekultuvrra guovddážin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso Sajoksen sijainti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča Sajosa sajádaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tee tarjouspyyntö.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Daga fálaldatbivdaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus Sajos</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekulturguovddáš Sajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteistyössä:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttasbargoguoibmi:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

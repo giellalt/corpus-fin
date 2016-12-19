@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">djur-och-natur.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eläimet ja luonto - Länsstyrelsen Skåne</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eallit ja luondu - Länsstyrelsen Skåne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eläimet ja luonto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eallit ja luondu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verkkokartta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Webkárta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloitussivu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álginsiidu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eläimet ja luonto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eallit ja luondu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietojen jakaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juoge informašuvnna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eläimet ja luonto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eallit ja luondu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus toimii läänin arvokkaiden kasvien, eläinten ja luonnonympäristöjen säilyttämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra bargá vai leana divrras šattut, eallit ja luonddubirrasat galget seailluhuvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä merkitsee muun muassa lajien ja luonnonympäristöjen inventointia, luonnonympäristöön mahdollisesti vaikuttavien toimintojen toimilupien tarkkaa harkintaa sekä luonnonsuojelualueiden perustamista ja hoitamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat mearkkaša ahte ee. inventeret šlájaid ja luonddubirrasiid, geahččalit lobiid doaimmain mat sáhttet váikkuhit luonddubirrasii sihke cegget ja dikšut luonddureserváhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luonnonsuojelualueet ja kansallispuistot ovat käytettävissä ulkoiluun ja luontoelämysten hankkimiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luonddureser-váhtta ja luonddupárkkat leat dárkkuhuvvon olgoleahkimii ja luonddunávddašeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus on vastuussa läänin eläinsuojelusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivrras lea vástu leana elliidsuodjaleamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimimme ennaltaehkäisevästi eläinten hyvinvoinnin takaamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii bargat ovdaeastademiin vai eallit galget veadjit bures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voimme päättää eläinten huostaanotosta, jos niitä kohdellaan kaltoin, tai kieltää tiettyä henkilöä pitämästä eläimiä tai tiettyä eläinlajia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii sáhttit mearridit elliid áittardeamis jus dat sorbmanit dehe gieldit olbmo atnimis elliid dehe dihto eallišlája.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eläinsuojelu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Elliidsuodjaleapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eläinsuojelulaissa on perusluonteisia määräyksiä siitä, että eläimiä tulee kohdella hyvin ja suojella sairauksilta sekä tarpeettomilta kärsimyksiltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Elliidsuodjalanlágas leat vuđolaš mearrádusat got eallit galget dikšojuvvot ja suodjaluvvot buozasvuođa ja dárbbatmeahttun gilláma vuostá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus suorittaa eläinsuojelutarkastuksia läänin alueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra dahká elliidsuodjalankontrollaid birra leana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos jotakin eläintä on hoidettu huonosti, voimme päättää sen huostaanotosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus ealli gieđahallojuvvo heajuid mii sáhttit mearridit ahte dat galgá áittarduvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos epäilet jotakin eläintä hoidettavan huonosti, ota yhteys lääninhallitukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus don eahpidat ahte ealli healbadit don galggat váldit aktavuođa Leanastivrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalastus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guolasteapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus vastaa kalastuselinkeinon ja urheilukalastuksen kehittämisestä alueellaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivrras lea vástu ahte guolleealáhus ja friddjaáiggeguolásteapmi ovdána guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elinvoimaisten kalakantojen luomiseksi ja säilyttämiseksi lääninhallitus tukee eri kalanhoitohankkeita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđasit luovvan dehe seailluhan dihte ealas guollenáli Leanastivra dorjo sierra guolledikšunprošeavttaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimimme myös hyvien kalastusedellytysten luomiseksi perustamalla kalanhoitoalueita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii bargat maid buriid guolástanvejolašvuođaid buorrin háhkamin guolledikšunguovlluid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallituksen tulee pitää huolta siitä, että kalastuksen säännöstelyssä otetaan huomioon alueelliset intressit.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra galgá oaidnit ahte guolásteami muddemat váldet vuhtii báikkálaš beroštumi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suojeltava luonto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suodjaluvvon luondu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallituksen vastuulla on luoda, hoitaa ja hallinnoida luonnon- ja kulttuurinsuojelualueita, kansallispuistoja ja vaellusreittejä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra lea vástus luovvat, dikšut ja hálddašit luonddu- ja kulturreserváhta, našunálapárkkaid ja vájaldangeainnuid duoddaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luontoa voidaan suojella monilla tavoin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gávdnojit máŋga vuogi suddjet luonddu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansallispuisto on tehokkain suojelumuoto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luonddupárka lea nannoseamos suddjenvuohki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on suuri yhtenäinen, tietyn maisematyypin alue, jota suojellaan luonnontilassaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat lea stuorit oktilaš oassi dihto eanadatdiippas mii suddjejuvvo dan lunddolaš hámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luonnonsuojelualue on taas tavallisin suojelumuoto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luonddureserváhtta lea dábáleamos suddjenvuohki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se voidaan perustaa biologisen monimuotoisuuden, arvokkaiden luonnonympäristöjen säilyttämiseksi tai ulkoilualueiden tarpeen tyydyttämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat sáhttá ráhkaduvvot seailluhan dihte biologalaš máŋggalágánvuođa, árvvolaš luonddubirrasiid dehe gohcit guovllu dárbbu friddjaáiggeeallimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ulkoilu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Friddjaáiggeeallin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus toimii monimuotoisen ulkoilutoiminnon ylläpitämiseksi läänissä ja kaikille vapaan pääsyn luontoon takaamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanstivra bargá vai leanas galgá leahkit rikkis friddjaáiggeeallin ja ahte luondu galgá leahkit rabas buohkaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osa hoitamistamme luonnonalueista on sopeutettu niin, että niihin on helppo päästä pyörätuolilla ja lastenvaunuilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oassi dain luondduguovlluin maid mii dikšut leat heivehuvvon nu ahte jorristuoluin dehe mánnávávnnain lea álki lihkadit doppe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsissa kaikilla on mahdollisuus liikkua luonnossa ns. jokamiehenoikeuden nojalla, jossa pääsääntönä on ” älä häiritse - älä tuhoa ”.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧas lea erenomáš vejolašvuohta lihkadit luonddus nu gohčoduvvon juohkeolbmovuoigatvuođa jelgii gos oaivenjuolggadus lea “ ii ráfehuhttit – ii billistit ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokamiehenoikeus on voimassa myös luonnonsuojelualueilla, mutta se voi olla tietyissä tapauksissa rajattu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juohkeolbmovuoigatvuohta lea vuoimmis maid luonddureserváhtain, muhto sáhttá dihto dáhpáhusain leahkit ráddjejuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uhatut kasvit ja eläimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Uhkiduvvon šattut ja eallit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus toimii läänin arvokkaiden kasvien ja eläinten suojelemiseksi ja säilyttämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra bargá vai leana divrras šattut ja eallit galget seailluhuvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laadimme toimenpideohjelmia uhanalaisten eläin- ja kasvilajien suojelemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii váldit sadjosii doaibmabidjoprográmmaid uhkiduvvon ealli- ja šaddošlájaid suddjemii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos jokin kasvi- tai eläinlaji on rauhoitettu, et saa poimia, kerätä tai vahingoittaa sitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus muhtin šlája lea ráfáiduhtton don it oaččo čoaggit dehe vahágahttit šattu dehe ealli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös monien kasvi- ja eläinlajien elinympäristön vahingoittaminen on kielletty.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋgga šlája dáfus lea gildojuvvon vahágahttit daid eallinbirrasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsästys ja riista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahcásteapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsästyslaissa sanotaan, että kaikki riista, mukaan lukien munat ja pesät, ovat rauhoitettuja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bivdolágas namuhuvvo ahte buot meahci vallji, dasa gullojit maid daid monit ja beasit, leat ráfáiduhtton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä merkitsee, että riistaa voi metsästää ainoastaan silloin kun metsästyslainsäädäntö sallii sen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat mearkkaša ahte meahci valji ožžo beare bivdit meahcástanlágaásaheami jelgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsissa kiinteistönomistajalla on normaalisti metsästysoikeus kiinteistöön kuuluvilla mailla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧas dálloeaiggádis lea dábálaččat riekti bivdit dan eatnamis mii gullo dállui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poikkeuksia tästä periaatteesta ovat kuitenkin tietyt uhanalaiset tai harvinaiset eläinlajit.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihto áitojuvvon dehe hárvenaš eallišlájat leat goit dan prinsihpa olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus tiedottaa määräyksistä metsästäjille ja maanomistajille, rekisteröi metsästysalueita, myöntää lupia sekä kerää tilastoja ja tekee yhteenvetoja niistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra informere bivdiid ja eanaeaiggádiid, registrere bivdoguovlluid, juohká liseanssaid sihke čohkke ja ovttastahttá báhčinstatistihka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hoidamme myös riistan vahingoittumisen estämistä koskevaan suojametsästykseen liittyviä asioita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mis huolahit maid áššiin mat guoskkahit suodjalusbivddu eastalan dihte meahccevalljivahágiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus vastaa läänin suurten petoeläinten hallinnointia koskevista asioista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivrras lea vástu leana stuora meahcielliid hálddašeamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavoitteena on, että eläinten tulee elää elinvoimaisina kantoina samalla kun pyrimme minimoimaan niiden mahdollisesti aiheuttamat vahingot.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ulbmilin lea ahte eallit galget leahkit ealas náliin, seamma áigge mii háliidit uhcidit daid problemaid maid dat sáhttet dagahit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuriin petoeläimiin kuuluvat karhu, susi, ilves, ahma ja maakotka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuora meahcielliide gullojit bierdna, návdi, albbas, geatki ja goaskin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus suorittaa inventointeja vuosittain ja päättää esimerkiksi ennaltaehkäisevistä toimenpiteistä, suoja- ja lupametsästyksistä sekä valvoo mahdollista luvatonta metsästystä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra dahká jahkásaččat inventeremiid ja mearrida ovdamearkka dihte eastadan doaibmabijuid, suodjalusbivddu ja liseansa-bivddu ja fákte vejolaš lobihis bivddu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käsittelemme lisäksi petoeläinten aiheuttamiin riistavahinkoihin liittyviä asioita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan lassin mii gieđahallat meahcieallivahátáššiid maid meahcieallit leat dagahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Moottoriliikenne luonnossa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mohtortrafiika luonddus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus sääntelee ja valvoo maastossa lumettomalla maalla suoritettavaa ajoa sekä moottorikelkka- ja vesiskootteriliikennettä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra mudde ja čuovvu bievlaeananvuodjima meahcis sihke muohtaskohter ja čáhceskohter-trafihka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkoituksena on estää moottoriliikenteen aiheuttamat häiriöt sekä maaperään, kasvillisuuteen, ulkoilutoimintaan, eläimistöön, poronhoitoon sekä maa- ja metsätalouteen kohdistuvat vahingot.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dárkkuhus lea ahte mohtortrafihka ii galgga ráfehuhttit dehe vahágahttit eatnamiid, šattolaš-vuođa, olgoleahkineallima, elliid eallima, boazodoalu, eanandoalu dehe meahccedoalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maastoajo lumettomalla maalla on kielletty koko Ruotsissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahcce-vuodjin bievlan lea gildojuvvon olles Ruoŧas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Moottorikelkkaa saa käyttää vain lumen peittämällä maalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muohtaskohtera oažžu vuodjit beare eatnamiin gos lea valjit muohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Moottorikelkalla ajamista on rajoitettu tietyillä alueilla, ennen kaikkea tuntureilla, kieltämällä sen käyttö moottorikelkkareittien ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihto guovlluin, erenomážiid duoddaris, skohtertrafihka lea muddejuvvon skohter-gieldduin skohtergeinnodagaid olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vesiskootteria saa ajaa vain yleisillä väylillä ja lääninhallituksen hyväksymillä alueilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čáhceskohtera oažžu vuodjit beare almmolaš vuodjin-geainnuid mielde ja guovlluin maid Leanastivra lea dohkkehan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kommentoi sivua</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čielggat siiddu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Piilota kommenttilomake</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čiega čielggadanskovi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raportoi sivulla oleva vika</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čielggat siiddu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii váldit mielanis vuostá du oainnuid ju gávnnat feaillaid dán siiddus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Du čilgehus sáddejuvvo siidovásttolaš doaimmaheaddjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čielggadeapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syötä seuraava koodi lähettääksesi kommenttisi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biepma sisa vulobeale kooda vai sáhtát sáddet čilgehusa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luo uusi kuva</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttit ođđa gova</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

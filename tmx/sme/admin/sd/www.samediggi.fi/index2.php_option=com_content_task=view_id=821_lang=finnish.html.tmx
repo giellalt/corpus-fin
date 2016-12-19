@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=821_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi nuorisoneuvosto on asetettu Uumajassa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa nuoraidráđđi lea ásahuvvon Upmis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous asetti nuorisoneuvoston toimikaudeksi 2014-2015 kokouksessaan Uumajassa 19.2.2014.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki čoahkkin ásahii nuoraidráđi doaibmaáigodahkii 2014-2015 čoahkkimisttis Upmis 19.2.2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuorisoneuvostoa edusti kokouksessa Niila Rahko.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuoraidráđi lei ovttasteamen čoahkkimis Niila Rahko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuorisoneuvosto 2014-2015</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuoraidráđđi 2014-2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jäsenet:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lahttut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niila Rahko, puheenjohtaja - varajäsen Mikkel Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Niila Rahko, ságadoalli - várrelahtu Mikkel Näkkäläjärvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiantuntijajäsenet:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššedovdilahtut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jouna Näkkälä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Pinja Pieski</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

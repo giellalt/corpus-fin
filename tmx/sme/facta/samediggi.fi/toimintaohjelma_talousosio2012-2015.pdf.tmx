@@ -1,0 +1,3640 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">toimintaohjelma_talousosio2012-2015.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyväksytty saamelaiskäräjien kokouksessa 20.6.2012.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dohkkehuvvon sámedikki čoahkkimis 20.6.2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjäkauden haasteet ja mahdollisuudet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggebaji hástalusat ja vejolašvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toiminnan yleiset tavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki doaimma almmolaš ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.1 Saamelaisten yhteisöllisyyden kehittäminen 3.2.2 Saamelaisen perinteisen tiedon turvaaminen 3.2.3 Saamelaisen kulttuuriympäristön turvaaminen 3.2.4 Saamelaiskulttuurin elinvoimaisuuden turvaaminen koko maassa 3.2.5 Saamelaiskäräjien vaalijärjestelmän kehittäminen 3.2.6 Saamelaiskäräjien oman toiminnan kehittäminen 3.2.7 Saamelaiskäräjien edunvalvonnan kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.1 Sámiid searválastima ovddieapmi 3.2.2 Sámi árbevirolaš dieđu dorvvasteapmi 3.2.3 Sámi kulturbirrasa dorvvasteapmi 3.2.4 Sámekultuvrra eallinfámu dorvvasteapmi olles riikkas 3.2.5 Sámedikki válgaortnega ovddideapmi 3.2.6 Sámedikki iežas doaimma ovddideapmi 3.2.7 Sámedikki ovddugohcima ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.1 Saamelainen elinkeinopolitiikka 3.3.2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3. Sektormieldásaš dárkilis ulbmilat 3.3.1 Sámi ealáhuspolitihkka 3.3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen elinvoimaisuuden turvaaminen 3.3.3 Saamelaislasten ja - nuorten aseman kehittäminen 3.3.4 Saamenkielisten sosiaali- ja terveyspalvelujen kehittäminen 3.3.5 Saamelaisten kulttuuripalvelujen ja taide-elämän kehittäminen 3.3.6 Saamelaisopetuksen ja korkeakoulutuksen kehittäminen 3.3.7 Saamelaisen parlamentaarisen neuvoston toiminnan kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela eallinfámu dorvvasteapmi 3.3.3 Sámemánáid ja - nuoraid sajádaga ovddideapmi 3.3.4 Sámegielat sosiála- ja dearvvasvuohtabálvalusaid ovddideapmi 3.3.5 Sámiid kulturbálvalusaid ja dáiddaeallima ovddideapmi 3.3.6 Sámeoahpahusa ja alit oahpahusa ovddideapmi 3.3.7 Sámi parlamentáralaš ráđi doaimma ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toimintaohjelman ja taloussuunnitelman 2012-15 rakenne</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ekonomiijaplána 2012-15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten asema</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid sajádat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset ovat alkuperäiskansa, jolla on oma historia, kieli, kulttuuri, elinkeinot, elämäntapa ja identiteetti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámit leat eamiálbmot, mas lea iežas historjá, giella, kultuvra, ealáhusat, eallinvuohki ja identitehta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vuonna 2011 keräämien tietojen mukaan Suomessa on 9.919 saamelaista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki jagi 2011 čoaggán dieđuid mielde Suomas leat 9.919 sápmelačča.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten lukumäärä on viimeisen neljän vuoden aikana kasvanut noin 569:lla, lisäystä on tapahtunut nimenomaan saamelaisalueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid lohkumearri lea maŋimuš njealje jage áigge lassánan sullii 569:in, lasáhus lea dáhpáhuvvan namalassii sámeguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualueella, joka käsittää Enontekiön, Inarin ja Utsjoen kuntien alueen sekä Sodankylän kunnassa sijaitsevan Lapin paliskunnan alueen, asuu 3.459 saamelaista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovllus, mii sisdoallá Eanodaga, Anára ja Ohcejoga gielddaid ja maiddái Soađegili gielddas leahkki Lappi bálgosa, ásset 3.459 sápmelačča.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alue on laajuudeltaan 35.000 km².</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovlu lea viidodaga dáfus 35.000 km².</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset ovat kotiseutualueellaan kolmasosan vähemmistönä alueen noin 11.000 asukkaasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámit leat ruovttuguovllus goalmmátoasi vehádahkan guovllu sullii 11.000 ássis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vain Utsjoen kunnassa saamelaiset ovat enemmistönä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dušše Ohcejoga gielddas sámit leat eanetlohkun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaisista jo noin 65 % (6.460) asuu saamelaisalueen ulkopuolella, heistä 653 ulkomailla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma sámiin jo sullii 65 % (6.460) ássá sámeguovllu olggobealde, sis 653 olgoriikkain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ainoa saamelaisenemmistöinen kunta Utsjoki on menettänyt saamelaisväestöä suhteellisesti eniten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áidna sámeeanetlogu gielda Ohcejohka lea manahan sápmelaččaid eanemusat earáid ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siellä saamelaisten osuus kunnan kokonaisväestöstä on nyt noin 60 % kun se vielä vuosituhannen vaihteessa oli yli 70 %.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doppe sámiid ossodat gieldda oppalašálbmogis lea dál sullii 60 % go dat vel jahkeduháha molsašumis lei badjel 70 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva 1 Saamelaisten lukumäärä vuoden 2011 vaaleissa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Govva 1 Sámiid lohkumearri jagi 2011 válggain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yli 45-vuotiaista saamelaisista 64 % asuu saamelaisalueella ja alle 45-vuotiaista 67 % asuu saamelaisalueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Badjel 45-jahkásaš sápmelaččain 64 % ássá sámeguovllus ja vuollái 45-jahkásaččain 67 % ássá sámeguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alle kymmenen vuotiaista lapsista yli 70 % asuu saamelaisalueen ulkopuolella ja vastaavasti yli 75- vuotiaista 85 % asuu saamelaisalueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuollái logi jahkásaš mánáin badjel 70 % ássá sámeguovllu olggobealde ja vástideaddjiláhkai badjel 75- jahkásaččain 85 % ássá sámeguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin ollen reilu enemmistö lapsista, nuorista ja parhaassa työiässä olevista aikuisista asuu saamelaisalueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nappo ráhpadis eanetlohku mánáin, nuorain ja rávesolbmuin, geat leat báres bargoagis, ássá sámeguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa puhutaan kolmea saamen kieltä: pohjoissaamea, inarinsaamea ja koltansaamea.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas hállet golbma sámegiela: davvisámegiela, anárašgiela ja nuortalašgiela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamea puhuu alle puolet saamelaisista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela hállá vuollái bealli sámiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamea puhuu 70–80 % sekä inarinsaamea ja koltansaamea kumpaakin alle 15 % saamenkielisistä saamelaisista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiela hállá 70–80 % sihke anárašgiela ja nuortalašgiela goappáge vuollái 15 % sámegielat sámiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielellä tarkoitetaan saamen kielilain mukaan kaikkia Suomessa puhuttavia saamen kieliä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielain dárkkuhuvvojit sámi giellalága mielde Suomas hállon buot sámegielat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslaki turvaa saamelaisille Suomen ainoana alkuperäiskansana oikeuden omaan kieleen ja kulttuuriin ja niitä koskevaan itsehallintoon saamelaisalueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoláhka sihkkarastá sámiide Suoma áidna eamiálbmogin vuoigatvuođa iežas gillii ja kultuvrai ja dan guoskevaš iešráđđemii sámeguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuuriin luetaan kuuluvaksi saamen kieli, kulttuuriperintö, käsityöperinnekulttuuri-ilmaukset sekä perinteiset saamelaiselinkeinot kuten poronhoito, kalastus, keräily ja metsästys.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekultuvrai lohkkojit gullat sámegiella, kulturárbi, sámeduodji ja maiddái árbevirolaš sámeealáhusat nugo boazodoallu, guolásteapmi, čoaggin ja meahcásteapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisia koskevat keskeiset kansainväliset sopimukset ja muut kansainväliset ihmisoikeusvelvoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid guoski mearkkašahtti riikkaidgaskasaš soahpamušat ja eará riikkaidgaskasaš olmmošvuoigatvuohtageatnegasvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi on ratifioinut useita alkuperäiskansojen oikeuksia tukevia kansainvälisiä sopimuksia, kuten kansalais- ja poliittisia oikeuksia koskevan yleissopimuksen (KP-sopimus), taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen (TSS-sopimus), biodiversiteettisopimuksen, kansallisten vähemmistöjen suojelua koskevan puiteyleissopimuksen (vähemmistöpuiteyleissopimus), lapsen oikeuksia koskevan yleissopimuksen (lapsen oikeuksien sopimus), Euroopan Neuvoston alueellisia ja vähemmistökieliä koskevan eurooppalaisen peruskirjan kulttuuriilmaisujen moninaisuuden suojelemisesta ja edistämisestä tehdyn Unescon yleissopimuksen (kulttuuriilmauksien suojelusopimus) ja Eurooppalaiseen maisemayleissopimuksen (maisemayleissopimus), mutta saamelaisten kulttuurin, perinteisten elinkeinojen ja saamen kielen asema ei ole siltikään riittävän turvattu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma lea ratifieren máŋggaid eamiálbmogiid vuoigatvuođaid doarju riikkaidgaskasaš soahpamušaid, nugo siviila- ja politihkalaš vuoigatvuođaid guoski oktasašsoahpamuša (KP-sopimus), ekonomalaš, sosiálalaš ja čuvgehuslaš vuoigatvuođaid guoski riikkaidgaskasaš oktasašsoahpamuša (TSS-sopimus), biodiversitehtasoahpamuša, álbmotlaš vehádagaid suodjaleami guoski rápmaoktasašsoahpamuša (vähemmistöpuiteyleissopimus), máná vuoigatvuođaid guoski oktasašsoahpamuša (lapsen oikeuksien sopimus), Eurohpa Ráđi guovllu ja vehádatgielaid guoski eurohpalaš vuođđogirjji kulturalbmanemiid máŋggabealatvuođa gáhttemis ja ovddideamis dahkkon Unesco oktasašsoahpamuša (kulttuuri-ilmauksien suojelusopimus) ja Eurohpalaš duovddaoktasašsoahpamuša (maisemayleissopimus), muhto sámiid kultuvrra, árbevirolaš ealáhusaid ja sámegiela sajádat ii leat dattege doarvái sihkkaraston.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n yleiskokous on hyväksynyt vuonna 2007 yleiskokouksessaan alkuperäiskansojen oikeuksien julistuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ON:id oktasaščoahkkin lea dohkkehan jagi 2007 oktasaščoahkkimis eamiálbmogiid vuoigatvuođaid julggaštusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi on allekirjoittanut julistuksen ja sitoutunut julistuksen toimeenpanoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma lea vuolláičállán julggaštusa ja čatnasan julggaštusa ollašuhttimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus on ennen kaikkea Suomea moraalisesti velvoittava.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Julggaštus geatnegahttá Suoma lagamustá morálalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus edellyttää, että valtiot ja alkuperäiskansat omien instituutioidensa kautta tekevät yhteistyötä ja neuvottelevat vilpittömin mielin saadakseen alkuperäiskansojen ennakkosuostumuksen sellaisissa hallinnollisissa ja lainsäädännöllisissä asioissa, jotka vaikuttavat alkuperäiskansoihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Julggaštus eaktuda, ahte stáhtat ja eamiálbmogat iežaset ásahusaid bokte barget ovttasbarggu ja ráđđádallet vuiges mielain oažžun dihte eamiálbmogiid ovdamiehtama dakkár hálddahuslaš ja láhkaásahuslaš áššiin, mat váikkuhit eamiálbmogiidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus tunnustaa alkuperäiskansojen itsemääräämisoikeuden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Julggaštus dovddasta eamiálbmogiid iešmearridanvuoigatvuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus tunnustaa alkuperäiskansojen oikeuden tavoitella sellaista taloudellista ja sosiaalista kehitystä, joka vastaa alkuperäiskansojen omia näkemyksiään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Julggaštus dovddasta eamiálbmogiid vuoigatvuođa oččodit dakkár ekonomalaš ja sosiálalaš ovdáneami, mii vástida eamiálbmogiid iežaset oainnuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen itsemääräämisoikeus KP-sopimus, 1 artikla 1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid iešmearridanvuoigatvuohta KP-soahpamuš, 1 artikla 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikilla kansoilla on itsemääräämisoikeus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot álbmogiin lea iešmearridanvuoigtavuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän oikeuden nojalla ne määräävät vapaasti poliittisen asennoitumisensa ja harjoittavat vapaasti taloudellisten, sosiaalisten ja sivistyksellisten olojensa kehittämistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán vuoigatvuođa vuođul dat mearridit friddja politihkalaš jurddašeamis ja ollašuhttet friddja ekonomalaš, sosiálalaš ja čuvgehuslaš diliid ovddideami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansat voivat vapaasti käyttää luonnonrikkauksiaan ja - varojaan omiin tarkoituksiinsa, mikäli se ei vahingoita yhteisen edun periaatteelle perustuvan kansainvälisen taloudellisen yhteistyön ja kansainvälisen oikeuden velvoituksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álbmogat sáhttet friddja geavahit luondduriggodagaid ja - váriid iežaset dárkkuhusaide, juos dat ii vahágahte oktasaš ovddu prinsihpai vuođđudeaddji riikkaidgaskasaš ekonomalaš ovttasbarggu ja riikkaidgaskasaš vuoigatvuođa geatnegasvuođaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Missään tapauksessa ei kansalta saa riistää sen omia elinehtoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mange dáhpáhusas ii álbmogis oaččo rivvet sin iežaset eallineavttuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkien tämän yleissopimuksen sopimusvaltioiden, mukaan lukien ne valtiot, jotka ovat vastuussa itsemääräämisoikeutta vailla olevien alueiden ja huoltohallintoalueiden hallinnosta, tulee edistää itsemääräämisoikeuden toteuttamista ja kunnioittaa tätä oikeutta Yhdistyneiden Kansakuntien peruskirjan määräysten mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot dán oktasašsoahpamuša soahpamušriikkat, fárrui lohkamiin daid stáhtaid, mat vástidit dakkár guovlluid ja fuolahushálddahusguovlluid hálddahusas, main ii leat iešmearridanvuoigatvuohta, galget ovddidit iešmearridanvuoigatvuođa ollašuhttima ja gudnejahttit dán vuoigatvuođa Ovttastuvvan Nášuvnnaid vuođđogirjji mearrádusaid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansajulistus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eamiálbmotjulggaštus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla 3: Alkuperäiskansoilla on itsemääräämisoikeus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Artikla 3: Eamiálbmogiin lea iešmearridanvuoigatvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän oikeuden perusteella ne määräävät vapaasti poliittisen asemansa ja kehittävät vapaasti taloudellisia, sosiaalisia ja sivistyksellisiä olojaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán vuoigatvuođa vuođul dat mearridit friddja politihkalaš sajádagas ja ovddidit friddja ekonomalaš, sosiálalaš ja čuvgehuslaš diliid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten itsemääräämisoikeus ei toteudu tyydyttävällä tavalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid iešmearridanvuoigatvuohta ii ollašuva duhtadahttiláhkai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten itsemääräämisoikeus ei toteudu perinteisen saamelaiselinkeinojen, saamelaisten kotiseutualueen luonnonvarojen, maan- ja veden tai maankäytön ohjauksessa ja hallinnossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid iešmearridanvuoigatvuohta ii ollašuvá árbevirolaš sámeealáhusaid, sámiid ruovttuguovllu luondduriggodagaid, eana- ja čáhce- dahje eanageavaheami stivremis ja hálddahusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SopS 7-8/1976 Sops 6/1976 SopS 78/1994 SopS 2/1998 SopS 60/1991 SopS 23/1998 SopS 17/2007 SopS 14/2006 levä YK:n alkuperäiskansojen erityisraportoija James Anayan raportti suosituksineen luovutettiin YK:n ihmisoikeusneuvostolle 13.1.2011.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SopS 7-8/1976 Sops 6/1976 SopS 78/1994 SopS 2/1998 SopS 60/1991 SopS 23/1998 SopS 17/2007 SopS 14/2006 Sámiid sajádaga eamiálbmogin Ruoŧas, Norggas ja Suomas giehtadalli ON:id eamiálbmogiid sierraraporterejeaddji James Anaya raporta ávžžuhusaiguin luohpaduvvui ON:id olmmošvuoigatvuohtaráđđái 13.1.2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raportissaan Anaya kiinnitti huomiota mm. saamelaisten itsehallinnon kehittämistarpeisiin ja suositteli Suomea ratifioimaan ILO 169-sopimuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Raporttas Anaya giddii fuopmášumi ee. sámiid iešráđđema ovddidandárbbuide ja ávžžuhii Suoma ratifieret ILO 169-soahpamuša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansaraportoija kehotti Suomea parantamaan saamelaisten itsemääräämisoikeutta, siirtämään tehtäviä saamelaiskäräjille asioissa, jotka koskevat saamelaisten perinteisiä elinkeinoja, kulttuuria, kieltä ja maaoikeuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eamiálbmotraporterejeaddji ávžžuhii Suoma buoridit sámiid iešmearridanvuoigatvuođa, sirdit bargguid sámediggái áššiin, mat gusket sámiid árbevirolaš ealáhusaid, kultuvrra, giela ja eanavuoigatvuođaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen valtion tulisi turvata saamelaiskäräjille riittävät resurssit toimia ja tehostamaan toimia saame kielten elvyttämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma stáhta galggašii sihkkarastit sámediggái doarvái resurssaid doaibmat ja beavttálmahttit doaimmaid sámegielaid ealáskahttima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi on sitoutunut raportin suositusten toimeenpanoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma lea čatnasan raportta ávžžuhusaid ollašuhttimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kolmas saamelaisparlamentaarikkojen konferenssi vuonna 2011 vaati julistuksessaan mm. saamelaisten itsemääräämisoikeuden toteuttamista, riittäviä resursseja saamelaiskäräjille ja saamen kielen, kulttuurin ja elinkeinojen tukemiseen, oikeutta maahan, veteen ja luonnonvaroihin sekä kiirehti Ilo-sopimuksen ratifiointia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Goalmmát sámeparlamentarihkáriid konfereansa jagi 2011 gáibidii julggaštusas ee. sámiid iešmearridanvuoigatvuođa ollašuhttima, doarvái resurssaid sámediggái ja sámegiela, kultuvrra ja ealáhusaid doarjumii, vuoigatvuođa eatnamii, čáhcái ja luondduváriide ja maiddái hoahpuhii ILO-soahpamuša ratifierema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan Unionin komissio on 20.11.2008 hyväksynyt tiedonannon Euroopan unioni ja arktinen alue.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eurohpa Uniovnna komissio lea 20.11.2008 dohkkehan dieđuaddima Eurohpa uniovdna ja árktalaš guovlu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedonannossa Euroopan Unioni sitoutuu jatkuvaan dialogiin arktisten alkuperäiskansojen kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđuaddimis Eurohpa Uniovdna čatnasa jotkkolaš dialogai árktalaš eamiálbmogiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedonannossa todetaan myös, että EU:n tulisi pohtia miten alkuperäiskansojen osallisuus järjestetään osana EU:n pohjoisen ulottuvuuden politiikkaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđuaddimis gávnnahuvvo maiddái, ahte EU galggašii guorahallat mo eamiálbmogiid osolašvuohta lágiduvvo EU davvi dimenšuvnna politihka oassin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan parlamentti teki 20.1.2011 päätöksen EU:n kestävästä politiikasta pohjoisessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eurohpa parlameanta dagai 20.1.2011 mearrádusa EU suvdilis politihkas davvin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Parlamentti vetoaa Suomeen ja Ruotsiin, jotta ne ratifioisivat ILO 169-sopimuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Parlameanta doarjala Supmii ja Ruŧŧii, vuoi dat ratifierešedje ILO 169-soahpamuša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Parlamentti myös vaati, että alkuperäiskansojen on osallistuttava kiinteämmin politiikkojen suunnitteluun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Parlameanta maiddái gáibidii, ahte eamiálbmogat galget oassálastit lávgagut politihkariid plánemii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansakulttuurien ja - kielien turvaaminen edellyttää erityistoimenpiteitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eamiálbmotkultuvrraid ja - gielaid sihkkarastin eaktuda sierradoaibmabijuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen Euroopan unionin liittymisasiakirjan osana on saamelaisia koskeva pöytäkirja nro 3, jolla sopimuspuolet tunnustavat Suomella ja Ruotsilla kansallisen ja kansainvälisen oikeuden mukaan olevat velvoitteet ja sitoumukset saamelaisiin nähden saamelaisten elinkeinojen, kielen, kulttuurin ja elämäntavan säilyttämiseksi ja kehittämiseksi sekä katsovat, että perinteinen saamelaiskulttuuri ja saamelaiselinkeinot ovat riippuvaisia luontaiselinkeinoista kuten poronhoidosta saamelaisten perinteisillä alueilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma Eurohpa uniovnna searvanáššebáhpára oassin lea sámiid guoskevaš beavdegirji nr 3, mainna soahpamušoassebealit dovddastit, ahte Suomas ja Ruoŧas leat álbmotlaš ja riikkaidgaskasaš vuoigatvuođa mielde geatnegasvuođat ja čatnasumit sámiid hárrái sámiid ealáhusaid, giela, kultuvrra ja eallinvuogi seailluheami ja ovddideami várás sihke oaivvildit, ahte árbevirolaš sámekultuvra ja sámeealáhusat leat gitta luondduealáhusain nugo boazodoalus sámiid árbevirolaš eatnamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liittymisasiakirja on otettu osaksi nk. Lissabonin sopimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Searvanáššebábir lea váldon oassin ng. Lissabon soahpamuša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaispöytäkirjan 1 artiklan mukaan sen estämättä, mitä EY:n perustamissopimuksessa määrätään, saamelaisille saadaan myöntää yksinoikeuksia poronhoidon harjoittamiseen perinteisillä saamelaisalueilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámebeavdegirjji 1 artikla mielde dan easttekeahttá, mii EY vuođđudansoahpamušas mearriduvvo, sámiide oažžu mieđihit oktovuoigatvuođaid boazodoaluin bargamii árbevirolaš sámeguovlluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällainen uudistus voidaan siten toteuttaa kansallisesti ilman EU:n suostumusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár ođastusa lea vejolaš dasto ollašuhttit álbmotlaččat almmá EU miehtama haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artiklan 2 mukaisesti pöytäkirjaa voidaan laajentaa koskemaan muitakin perinteisiin saamelaiselinkeinoihin liittyviä saamelaisten yksinoikeuksia, mikä kuitenkin edellyttää kaikkien sopimuspuolten suostumuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Artikla 2 mielde beavdegirjji lea vejolaš viiddidit, ahte dat guoská árbevirolaš sámeealáhusaide gulavaš sámiid earáge oktovuoigatvuođaid, mii goittotge eaktuda buot soahpamušoassebeliid miehtama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa perustuslain toteutumista lainsäädäntöhankkeissa valvoo perustuslakivaliokunta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas vuođđolága ollašuvvama láhkaásahanfidnuin gohcá vuođđoláhkaváljagoddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valiokunnan kannanoton saamelaisten oikeusasemasta linjaavat lainsäädännön valmistelua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váljagotti bealiváldimit sámiid vuoigatvuohtasajádagas linjádit láhkaásaheami válmmaštallama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslakivaliokunnan kannanotot huomioidaan saamelaiskäräjien edunvalvonnassa ja lausunnoissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoláhkaváljagotti bealiváldimat váldojit vuhtii sámedikki ovddugohcimis ja cealkámušain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien oman toiminnan ja edunvalvonnan lähtökohtana on Suomen kansainvälisten velvoitteiden ja kansainvälisten alkuperäiskansa- ja ihmisoikeuksien toteutumista valvovien elimien suosituksien toteutumisen edistäminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki iežas doaimma ja ovddugohcima vuolggasadjin lea Suoma riikkaidgaskasaš geatnegasvuođaid ja riikkaidgaskasaš eamiálbmot- ja olmmošvuoigatvuođaid ollašuvvama gohcci orgánaid ávžžuhusaid ollašuvvama ovddideapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.4.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimikauden lähtökohdat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabaji vuolggasajit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääministeri Jyrki Kataisen hallituksen hallitusohjelmassa valtioneuvosto on sitoutunut turvaamaan saamelaiskäräjien toimintaedellytykset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaiveministtar Jyrki Katainen ráđđehusa ráđđehusprográmmas stáhtaráđđi lea čatnasan sihkkarastit sámedikki doaibmaneavttuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitusohjelmassa asetetaan tavoitteeksi ILO 169-sopimuksen ratifiointi ensimmäistä kertaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđehusprográmmas biddjo ulbmilin ILO 169 soahpamuša ratifieren vuosttas háve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitus sitoutuu myös kehittämään maankäyttöä ohjaavaa lainsäädäntöä selkiyttämällä ja osallistumalla alkuperäiskansoja koskevaan kansainväliseen yhteistyöhön alkuperäiskansojen tosiasiallisen suojelun vahvistamiseksi Hallitusohjelmassa sitoudutaan toteuttamaan saamen kielten elvyttämisohjelma, sen resursointi ja luomaan pysyvä toimintamalli saamen kielten elvyttämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđehus čatnasa maiddái ovddidit eanageavaheami stivrejeaddji láhkaásaheami nu ahte čielggasmahttá ja oassálastá eamiálbmogiid guoski riikkaidgaskasaš ovttasbargui eamiálbmogiid duođalaš suodjaleami nannema dihtii. Ráđđehusprográmmas čatnasuvvo dasa, ahte ollašuhtto sámegielaid ealáskahttinprográmma, dan resurseren ja ráhkaduvvo fásta doaibmamálle sámegielaid ealáskahttima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitus sitoutuu turvaamaan sosiaali- ja terveyspalveluita saamen kielellä ja laatimaan kansallisen kielistrategia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđehus čatnasa sihkkarastit sosiála- ja dearvvasvuohtabálvalusaid sámegielain ja ráhkadit álbmotlaš giellastrategiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Strategiassa ja kehittämisessä kiinnitetään erityistä huomiota saa-men, romanikielen sekä viittomakielen asemaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Strategiijas ja ovddideamis giddejuvvo erenomáš fuopmášupmi sáme-, románagiela ja maiddái seavagiela sajádahkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Biodiversiteettistrategian toimeenpanossa sitoudutaan turvaamaan saamelainen kulttuurinen tapa ja perinne käyttää luontoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biodiversitehtastrategiija ollašuhttimis čatnasuvvo dasa, ahte sihkkarasto sápmelaš kulturvuohki ja árbevierru geavahit luonddu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitusohjelman linjaukset toteutuessaan parantavat saamelaiskäräjien toimintaedellytyksiä ja turvaavat saamen kielen ja kulttuurin säilymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđehusprográmma linjjá meroštallamiid ollašuvadettiin, buorránit sámedikki doaibmaneavttut ja maiddái sámegiela ja kultuvrra seailun sihkkarasto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaivoslaki (621/2011) ja vesilaki (587/2011) on uudistettu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruvkeláhka (621/2011) ja čáhceláhka (587/2011) leat ođasmahtton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lakeihin on otettu nk. saamelaiskulttuurin heikentämisen suoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lágaide lea váldon ng. sámekultuvrra heajudeami suodji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslakivaliokunta on linjannut, että saamelaisia koskeviin erityislakeihin tulee ottaa ns. saamelaiskulttuurin heikentämisen suoja kaivoslain ja vesilain esimerkin mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoláhkaváljagoddi lea linjádan, ahte sámiid guoski sierralágaide galgá váldit ng. sámekultuvrra heajudeami suoji ruvkelága ja čáhcelága ovdamearkka mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaivoslain mukaan kullanhuuhdonta-, malminetsintä- tai kaivoslupaa ei tule myöntää, jos luvan mukainen toiminta yksin tai yhdessä muiden vastaavien lupien tai alueiden muiden käyttömuotojen kanssa heikentäisi saamelaisten kotiseutualueella olennaisia edellytyksiä harjoittaa perinteisiä saamelaiselinkeinoja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruvkelága mielde golledoidin-, málbmaohcan- dahje ruvkelobi ii galgga mieđihit, jos lobi mieldásaš doaibma okto dahje ovttas eará vástideaddji lobiid dahje guovlluid eará geavahanhámiiguin heajudivčče sámiid ruovttuguovllus dehalaš eavttuid bargat árbevirolaš sámee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>taikka muutoin ylläpitää ja kehittää saamelaiskulttuuria.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>aláhusaiguin dahje muđui bajásdoallat ja ovddidit sámekultuvrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen, Norjan ja Ruotsin valtiot neuvottelevat parhaillaan pohjoismaisen saamelaissopimuksen ratifioimiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma, Norgga ja Ruoŧa stáhtat ráđđádallet bárrásiin davviriikkalaš sámesoahpamuša ratifierema várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kolmen maan saamelaiskäräjillä on edustajat kansallisissa neuvotteluvaltuuskunnissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Golmma riikka sámedikkis leat ovddasteaddjit álbmotlaš ráđđádallansáttagottiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neuvottelut on tarkoitus saada valmiiksi viimeistään vuonna 2015.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđádallamiid lea dárkkuhus oažžut gárvvisin maŋimustá jagi 2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen parlamentaarinen neuvosto on kokouksessaan 14.4.2010 päättänyt, että saamelaiset muodostavat yhteisen kannan pohjoismaisen saamelaissopimuksen jatkoneuvotteluissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi parlamentáralaš ráđđi lea čoahkkimis 14.4.2010 mearridan, ahte sámit ráhkadit oktasaš oainnu davviriikkalaš sámesoahpamuša joatkkaráđđádallamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristöministeriön asettama kansallinen artikla 8(j)-työryhmä on luovuttanut esityksensä saamelaisten luonnon monimuotoisuuteen liittyvän perinteisen tiedon suojelemiseksi, elvyttämiseksi ja turvaamiseksi Suomen kansainvälisten velvoitteiden mu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Birasministeriija ásahan álbmotlaš artikla 8(j)bargojoavku lea luohpadan evttohusa, mii guoská sámiid luonddu máŋggahámatvuhtii gulavaš árbevirolaš dieđu suodjaleami, ealáskahttima ja sihkkarastima Suoma riikkaidgaskasaš geatnegasvuođaid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismainen saamelaissopimus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkalaš sámesoahpamuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteispohjoismainen asiantuntijaryhmä luovutti marraskuussa 2005 ehdotuksen pohjoismaiseksi saamelaissopimukseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkaid oktasaš áššedovdijoavku luohpadii skábmamánus 2005 evttohusa davviriikkalaš sámesoahpamuššan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen tarkoituksena on vahvistaa ja lujittaa saamelaisten oikeuksia siten, että he voivat säilyttää ja kehittää kieltään, kulttuuriaan, elinkeinojaan ja yhteiskuntaelämäänsä niin, että valtionrajat mahdollisimman vähän häiritsevät sitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soahpamuša dárkkuhussan lea nannet ja gievrudit sámiid vuoigatvuođaid nu, ahte dat sáhttet seailluhit ja ovddidit giela, kultuvrra, ealáhusaid ja servodateallima nu, ahte stáhtaráját nu uhcán go vejolaš heađuštit dan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden tulee yhteistyössä saamelaiskäräjien kanssa edistää valtionrajojen suuntautuvan toiminnan kannalta merkityksellisen lainsäädännön ja muun sääntelyn jatkuvaa harmonisointia. Vesilaki</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtat galget ovttasbarggus sámedikkiiguin ovddidit stáhta rájáide guoskevaš doaimma dáfus mearkkašahtti láhkaásaheami ja eará ásaheami jotkkolaš oktiiheiveheami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>toteudu, koska saamelaisten kaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>toteudu, koska saamelaisten mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmä antoi 28 tärkeää toimenpide-esitystä ja 11 suositusta eri ministeriöille ja viranomaisille saamelaisten perinteisen tiedon suojelemiseksi, elvyttämiseksi ja palauttamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavku attii 28 dehalaš doaibmabiddjoevttohusa ja 11 ávžžuhusa sierra ministeriijaide ja virgeoapmahaččaide sámiid árbevirolaš dieđu suodjaleami, ealáskahttima ja máhcaheami várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Loppuraportti huomioidaan Suomen luonnon monimuotoisuuden ja kestävän käytön strategian ja toimintaohjelman valmistelussa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loahpparaporta váldo vuhtii Suoma luonddu máŋggahámatvuođa ja suvdilis geavaheami strategiija ja doaibmaprográmma válmmaštallamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetus- ja kulttuuriministeriön asettama työryhmä luovutti esityksensä saamen kielten elvytysohjelmaksi maaliskuussa 2012.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahus- ja kulturministeriija ásahan bargojoavku luohpadii evttohusa sámegielaid ealáskahttinprográmman njukčamánus 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmä esittää mm. että kielipesätoiminta vakiinnutetaan ja laajennetaan, saamen kielen opetusta kehitetään koko maassa, koltansaamen elvyttämiseksi toteutetaan erityistoimenpiteitä, saamenkielistä radio-, televisio- ja internetsisältöjä lisätään huomattavasti ja saamelaistaiteen ja kulttuurin tukea lisätään nykyisestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavku evttoha ee. ahte giellabeassedoaibma stáđásmahtto ja viiddiduvvo, sámegiela oahpahus ovddiduvvo olles riikkas, nuortalašgiela ealáskahttima várás ollašuhttojit sierradoaibmabijut, sámegielat radio-, televisio- ja internetsisdoalut lasihuvvojit dovdomassii ja sámedáidaga ja kultuvrra doarjja lasihuvvo dalážis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kataisen hallituksen toimikautena on tarkoitus uudistaa kalastuslaki, Tenojoen kalastusta ohjaava valtiosopimus, laki Metsähallituksesta, maastoliikenne-, luonnonsuojelu-, erämaa- ympäristönsuojelu-, maankäyttö ja rakennus-, ja ympäristövaikutusten arvioinnista annettu laki.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Katainen ráđđehusa doaibmabaji lea dárkkuhus ođasmahttit guolástuslága, Deanu guollebivddu stivrejeaddji stáhtasoahpamuša, lága Meahciráđđehusas, meahccejohtalus-, luonddusuodjalan-, meahcceguovlo- birassuodjalan-, eanageavahan- ja huksen-, ja birasváikkuhusaid árvvoštallamis addon lága.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi hallitus valmistelee kunnallishallinnon ja sosiaali- ja terveyspalvelujen rakenneuudistusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin ráđđehus válmmaštallá gielddahálddahusa ja sosiála- ja dearvvasvuohtabálvalusaid ráhkadusođastusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1.5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toiminnan arvot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki doaimma almmolaš ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toiminnan arvot vahva saamelainen identiteetti saamen kielten elinvoimaisuus saamelainen kulttuuri ja kulttuuriperintö perinteisten elinkeinojen elinvoimaisuus saamelainen luontoyhteys</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ekonomiijaplána 2012-15 nana sámi identitehta sámegielaid eallinfápmu sámekultuvra ja kulturárbi árbevirolaš ealáhusaid eallinfápmu sámi luondduoktavuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saamelainen kulttuurimaisema saamelaisten kestävän kehityksen ja biologisen monimuotoisuuden turvaaminen saamelainen tasa-arvo ja yhdenvertaisuus yhteisöllisyys saamelaisten perinteiden ylläpitäminen ja perinteisen tiedon elvyttäminen ja turvaaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sámi kulturduovdda sámiid suvdilis ovdáneami ja biologalaš máŋggahámatvuođa sihkkarastin sámi dásseárvu ja ovttaveardásašvuohta searválastin sámiid árbevieruid doalaheapmi ja árbevirolaš dieđu ealáskahttin ja sihkkarastin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjäkauden haasteet ja mahdollisuudet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggebaji hástalusat ja vejolašvuođat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuuri on siirtynyt sukupolvelta toiselle valtakulttuuriin paineessa ja säilyttänyt elinvoimaisuutensa yhteiskunnallisesti muutospaineista huolimatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kultuvra lea sirdásan buolvvas nubbái váldokultuvrra deattu vuolde ja seailluhan eallinfámu servodagas nuppástusdeattus fuolakeahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuuri on luontosidonnan kulttuuri.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekultuvra lea lundui čatnasan kultuvra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Globalisaation ja teollistuneen maailman tuomat uhat uhkaavat horjuttavat ihmisen ja luonnon välistä tasapainoa myös saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Globalisášuvnna ja industriijamáilmmi buktán áitagat heailluhit olbmo ja luonddu gaskasaš dássedeattu maiddái sámiid ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmastonmuutos, sen tuomat kielteiset vaikutukset luonnon monimuotoisuuteen ja kulttuurin harjoittamisedellytyksiin, uudet tulokaslajit ja luonnonresurssien laajamittaisen hyödyntämisen kiihtyminen arktisella alueella uhkaavat saamelaiskulttuurin ja arktisten alkuperäiskansojen tulevaisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálkkádatnuppástus, dan buktin negatiivvalaš váikkuhusat luonddu máŋggahámatvuhtii ja kultuvrra doalahaneavttuide, ođđa boahttišlájat ja luondduresurssaid viiddes ávkingeavaheami lassáneapmi árktalaš guovllus áitet sámekultuvrra ja árktalaš eamiálbmogiid boahttevuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Teollistuneen maailman elintason ylläpitäminen ja uuden teknologian kehitys ovat tuoneet suuren kiinnostuksen myös saamelaisten kotiseutualueen kaivosmineraaleihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Industriijamáilmmi eallindási doalaheapmi ja ođđa teknologiija ovdáneapmi leat buktán stuorra beroštumi maiddái sámiid ruovttuguovllu ruvkeminerálaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiinnostus arktisiin luonnonresursseihin tuo tarpeen myös uusille infrastruktuuriratkaisulle, jotka voivat uhata saamelaiskulttuurin tulevaisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beroštupmi árktalaš luondduresurssaidda buktá dárbbu maiddái ođđa infrastruktuvračovdosii, mat sáhttet áitit sámekultuvrra boahttevuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ILO 169-sopimuksen ratifiointi on paras mahdollisuus turvata saamelaisten kotiseutualueen luonnon ja ihmisen tasapainon säilyminen myös tuleville sukupolville ja turvata saamelaiskulttuurin säilyminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ILO 169 soahpamuša ratifieren lea buoremus vuohki sihkkarastit sámiid ruovttuguovllu luonddu ja olbmo dássedeattu seailuma maiddái boahttevaš buolvvaide ja sihkkarastit sámekultuvrra seailuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmastonmuutospolitiikkaan vaikuttaminen niin kansallisesti kuin kansainvälisestikin tulee olemaan tärkeä osa saamelaiskäräjien toimintakauden työtä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálkkádatnuppástuspolitihkai váikkuheapmi nu álbmotlaččat go riikkaidgaskasaččatge boahtá leat sámedikki doaibmabaji barggu dehalaš oassi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten oikeudellinen asema on perustuslaissa vahva.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid vuoigatvuođalaš sajádat lea vuođđolágas nanus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen ratifioimat kansainväliset ihmisoikeussopimukset suojelevat saamelaiskulttuuria, mutta sopimuksia valvovien elinten suositukset jäävät pääosin toteuttamatta Suomessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma ratifieren riikkaidgaskasaš olmmošvuoigatvuohtasoahpamušat suodjalit sámekultuvrra, muhto soahpamušaid gohcci orgánaid ávžžuhusat báhcet váldooasis ollašuvakeahttá Suomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudellinen suoja ei kuitenkaan toteudu riittävästi koska saamelaiskulttuurin suojasta eli ole määrätty perinteisiä saamelaiselinkeinoja ohjaavassa lainsäädännössä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuoigatvuođalaš suodji ii goittotge ollašuva doarvái go sámekultuvrra suojis ii leat mearriduvvon árbevirolaš sámeealáhusaid stivrejeaddji láhkaásaheamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perinteiset saamelaiselinkeinot ovat saamelaiskulttuurin ydintä ja tukevat perinteisten saamen kielen käyttöympäristöjen säilymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árbevirolaš sámeealáhusat leat sámekultuvrra váimmus ja dorjot sámegiela árbevirolaš geavahanbirrasiid seailuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saamelaisilla on vahva osaaminen perinteisten elinkeinojen harjoittamisesta ja perinteiset elinkeinot ovat säilyttäneet perinteisen harjoittamismallinsa nykypäivään asti kaikista yhteiskunnallisista muutospaineista huolimatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiin lea nana máhttin árbevirolaš ealáhusaiguin bargamis ja árbevirolaš ealáhusat leat seailluhan árbevirolaš bargomálle otnáža rádjai buot servodaga nuppástusdeattuin fuolakeahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perinteiset saamelaiselinkeinot ovat saamelaiskulttuurin vahvuus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árbevirolaš sámeealáhusat leat sámekultuvrra nanusvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuoret haluavat päästä perinteisten saamelaiselinkeinojen pariin siirtämään omaa kulttuuriaan sukupolvelta toiselle turvaten saamelaiskulttuurin jatkuvuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámenuorat háliidit beassat árbevirolaš sámeealáhusaide sirdin dihtii iežaset kultuvrra buolvvas nubbái sihkkarastimiin ná sámekultuvrra jotkkolašvuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuri osa saamelaisista saa kuitenkin toimeentulonsa uudenaikaisista elinkeinoista ja ammateista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorra oassi sámiin oažžu goittotge áigáiboađu ođđaáigásaš ealáhusain ja ámmáhiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiselle elämäntavalle on ollut tyypillistä toimeentulon koostuminen monista eri tulolähteistä ja perinne jatkuu erilaisten yhdistelmäelinkeinojen muodossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi eallinvuohkái leamašan mihtilmas áigáiboađu háhkan máŋggaid sierra boahtogálduin ja árbevierru joatkašuvvá iešguđetlágan lotnolasealáhusaid hámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uudenaikaisten elinkeinojen, kuten matkailun, luovien alojen ja hyvinvointipalvelujen, yhdistäminen perinteisiin ansaintamalleihin auttavat saamelaisten kotiseutualueen elinvoimaisuuden säilymistä ja antavat nuorille tilaisuuden jäädä tai palata kotiseudulleen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđaáigásaš ealáhusaid, nugo turismma, kreatiivva surggiid ja buorredillebálvalusaid, laktin árbevirolaš dienasmálliide veahkeha sámiid ruovttuguovllu eallinfámu seailuma ja fállá nuoraide dilálašvuođa báhcit dahje máhccat ruovttuguvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä edellyttää kuitenkin saamelaisten mahdollisuutta itse ohjata elinolojaan ja tukea elinkeinopolitiikan kautta saamelaiskulttuurin kannalta keskeisiä elementtejä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat eaktuda goittotge sámiid vejolašvuođa ieš stivret eallindiliid ja doarjut ealáhuspolitihka bokte sámekultuvrra dáfus guovddáš elemeanttaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiselinkeinoista ainoastaan poronhoito ja käsityöt ovat yksistään kannattavia elinkeinoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámeealáhusain dušše boazodoallu ja duodji leat oktonassii gánnáhahtti ealáhusat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut perinteiset saamelaiselinkeinot ovat nykyisin sivuelinkeinoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará árbevirolaš sámeealáhusat leat dán áigge siidoealáhusat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalastusta ja metsästystä harjoittavista saamelaisista ei ole tilastoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guolásteaddji ja meahcásteaddji sámiid birra eai leat statistihkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen käsityön harjoittajista ei ole olemassa myöskään tilastoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái sámi duojáriid birra eai leat statistihkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiselinkeinojen suojan turvaaminen lainsäädännössä, hallinnossa ja resursoinnissa on saamelaiskulttuurin ja kielen säilymisen edellytys.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámeealáhusaid suoji sihkkarastin láhkaásaheamis, hálddahusas ja resurseremis lea sámekultuvrra ja giela seailuma eaktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elinkeinorakenteen muuttuminen, saamen kielen vaihtuminen suomen kieleen, saamelaiselinkeinojen heikko kannattavuus ja saamelaisten muutto pois saamelaisten kotiseutualueelta uhkaavat saamelaisten ja saamelaiskulttuurin kotiseutualueen elinvoimaisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ealáhusráhkadusa nuppástuvvan, sámegiela rievdan suomagillii, sámeealáhusaid heajos gánnáhahttivuohta ja sámiid fárren eret sámiid ruovttuguovllus áitet sámiid ja sámekultuvrra ruovttuguovllu eallinfámu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteys saamelaiselinkeinoihin, - kieleen, perinteiseen luonnonkäyttöön ja perinteiseen tietoon heikkenee saamelaisten kotiseutualueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuohta sámeealáhusaide, - gillii, árbevirolaš luonddugeavaheapmái ja árbevirolaš dihtui hedjona sámiid ruovttuguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muuttaessaan saamelaisten kotiseutualueen ulkopuolelle saamelaiset menettävät lainsäädännöllisen oikeutensa liikkua ja käyttää luontoa tietyillä alueilla menettäen yhteyden perinteisiin sukualueisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fárredettiin sámiid ruovttuguovllu olggobeallái sámit masset lágas ásahuvvon vuoigatvuođa johtalit ja geavahit luonddu dihto guovlluin, ja manahit oktavuođa árbevirolaš sohkaguovlluide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualueen ulkopuolella asuvat saamelaiset ovat mahdollisuus myös saamelaisten kotiseutualueen ja saamelaisen yhteiskunnan kehittymisen kannalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovllu olggobealde ássi sámit leat vejolašvuohta maiddái sámiid ruovttuguovllu ja sámi servodaga ovdáneami dáfus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kotiseutualueen ulkopuolella asuu korkeakoulutettua saamelaisväestöä, joilla on paljon annettavaa saamelaiskulttuurin tulevaisuuden turvaamiselle jos saamelaiskäräjät osaa yhdistää saamelaisten kotiseutualueen ulkopuolella asuvat yhdessä turvaamaan saamelaiskulttuurin tulevaisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttuguovllu olggobealde ássá allagit skuvlejuvvon sámeálbmot, geain lea olu addinláhkai sámekultuvrra boahttevuođa sihkkarastimii jos sámediggi máhttá laktit sámiid ruovttuguovllu olggobealde ássiid ovttasráđiid sihkkarastit sámekultuvrra boahttevuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimikauden haasteena tulee olemaan edellytyksien luominen saamelaisten paluumuutolle saamelaisten kotiseutualueelle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabaji hástalussan boahtá leat vejolašvuođaid láhčin sámiid ruovttoluotta fárremii sámiid ruovttuguvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualue ja nyky-yhteiskunnan haasteet tarvitsevat yhä enemmän korkeasti koulutettua työvoimaa ja lapsia ja nuoria, joille voidaan siirtää saamen kieltä ja saamelaiskulttuuria.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovlu ja dálá servodaga hástalusat dárbbašit ain eanet allagit skuvlejuvvon bargofámu ja mánáid ja nuoraid, geaidda sáhttá sirdit sámegiela ja sámekultuvrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki Suomessa puhuttavat saamen kielet ovat uhanalaisia, erityisesti pienemmät inarin- ja koltansaame.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot Suomas hállon sámegielat leat áitatvuložat, erenomážit uhcit gielat anáraš- ja nuortalašgiella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uhanalaistumiskehitys jatkuu, jollei saamelaisten kielellisiä oikeuksia voida turvata niin saamelaisten kotiseutualueella kuin sen ulkopuolellakin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áitatvuložin šaddan joatkašuvvá, jos sámiid gielalaš vuoigatvuođaid ii sáhte sihkkarastit nu sámiid ruovttuguovllus go dan olggobealdege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäröivän yhteiskunnan nopea muuttuminen ja globalisaatio luovat uuden terminologian tarvetta nopeastikin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Servodaga johtilis nuppástuvvan ja globalisašuvdna dagahit ođđa terminologiija dárbbu johtilitge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uuden terminologian kehittäminen ja opettaminen niin lapsille, nuorille kuin aikuisväestöllekin on tärkeää ja siihen tulee panostaa, jotta saamen kieli säilyy kielenä, jota voi käyttää kaikissa eri yhteiskunnan toiminnoissa eikä kieli jää vain perinteisten elinkeinojen, sosiaalisen elämän ja arkipäivän kieleksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa terminologiija ovddideapmi ja oahpaheapmi nu mánáide, nuoraide go rávesolbmuide lea dehalaš ja dasa galgá bidjat deattu, vuoi sámegiella seailu giellan, man sáhttá geavahit buot servodaga sierra doaimmain iige giella báze dušše árbevirolaš ealáhusaid, sosiálalaš eallima ja árgabeaivve giellan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurin turvaaminen edellyttää lisää resursseja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekultuvrra sihkkarastin eaktuda lasi resurssaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Resurssien turvaaminen onkin toimikauden yksi suurimmista haasteista kansainvälisestä talouskriisistä johtuen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Resurssaid sihkkarastin leage doaibmabaji okta stuorámus hástalusain riikkaidgaskasaš ekonomiijakriissa dihtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilman lisäresursseja saamelaiskäräjien toimintaan, saamen kielen ja kulttuurin suojaan, perinteisen tiedon ja saamelaiselinkeinojen turvaamiseen saamelaiskäräjien toimintaohjelman tavoitteita ei voida riittävästi toteuttaa eikä luoda saamelaisille parempaa asemaa tulevaisuuteen nähden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmá lassiresurssaid haga sámedikki doibmii, sámegiela ja kultuvrra suodjái, árbevirolaš dieđu ja sáme-ealáhusaid sihkkarastimii sámedikki doaibmaprográmma ulbmiliid ii sáhte doarvái ollašuhttit iige láhčit sámiide buoret sajádaga boahttevuođa hárrái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen musiikki, joiku, erityisesti luohti, livđe sekä leudd, saamenkieli ja kertomaperinne, perinteiset elinkeinot, yhteisöllisyys, käsityö, taide ja luontosuhde ovat saamelaiskulttuurin ydintä, kulttuurin vahvuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi musihkka, juoigan, erenomážit luohti, livđe sihke leudd, sámegiella ja máinnastanárbi, árbevirolaš ealáhusat, searválasvuohta, duodji, dáidda ja luondogaskavuohta leat sámekultuvrra váimmus, kultuvrra nanusvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toiminnan suurena haasteena onkin turvata saamelaiskulttuurin ytimen säilyminen ja kehittyminen omaehtoisesti globalisoituvassa maailmassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekultuvrra doaimma stuorra hástalussan leage sihkkarastit sámekultuvrra váibmosa seailuma ja ovdáneami iežas eavttuid mielde máilmmis, mii šaddá ain eanet globálan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjille perustettu nuorisoneuvosto luo uuden mahdollisuuden huomioida saamelaiskäräjien työssä yhä paremmin saamelaislasten ja – nuorten tarpeita ja kehittää saamelaiskäräjien omaa toimintaa ja edunvalvontaa huomioimaan uuden saamelaisen nuorisokulttuurin ja saamelaislasten ja – nuorten erityistarpeita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggái vuođđuduvvon nuoraidráđđi láhčá ođđa vejolašvuođa váldit vuhtii sámedikki barggus ain buorebut sámemánáid ja – nuoraid dárbbuid ja ovddidit sámedikki iežas doaimma ja ovddugohcima fuopmášit ođđa sámi nuoraidkultuvrra ja sámemánáid ja – nuoraid sierradárbbuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten tietoisuus omista oikeuksistaan alkuperäiskansana on vahvistunut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid diđolašvuohta iežaset vuoigatvuođain eamiálbmogin lea nanosmuvvan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhdenvertaisuuslain ja vähemmistövaltuutetun tehtävän myötä saamelaisten mahdollisuudet saada oikeutta ja turvata omia oikeuksiaan ovat parantuneet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttaveardásašvuohtalága ja vehádatáittardeaddji barggu mielde sámiid vejolašvuođat oažžut vuoigatvuođa ja sihkkarastit iežaset vuoigatvuođaid leat buorránan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten oikeusasema muodostuu kuitenkin usean eri lain ja kansainvälisen sopimuksen nojalla ja oikeuksien kokonaissuojan hahmottaminen on vaikeaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid vuoigatvuohtasajádat čohkiida goittotge máŋgga sierra lága ja riikkaidgaskasaš soahpamuša vuođul ja vuoigatvuođaid oppalašsuoji hábmen lea váttis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien tuleekin tuottaa tietoa ymmärrettävästi ja helposti saamelaisten oikeuksista niin saamelaisten kotiseutualueella kuin sen ulkopuolellakin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi galgáge buvttihit dieđuid áddehahttiláhkai ja álkit sámiid vuoigatvuođain nu sámiid ruovttuguovllus go dan olggobealdege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toiminnan yleiset tavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki doaimma almmolaš ulbmilat Sámedikki doaimma ulbmilin lea leat sámiid doarjjan ja veahkkin sihkkarastimiin sámiid vuođđovuoigatvuođaid ollašuvvama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintaa kehitetään siten, että saamelaiset voivat lähestyä yhä helpommin saamelaiskäräjiä ja saamelaiskäräjät on läsnä saamelaisten arjess saamelaisten kotiseutualueen kunnissa, sen ulkopuolellakin ja sosiaalisessa mediassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibma ovddiduvvo nu, ahte sámit sáhttet lahkonit ain álkibut sámedikki ja sámediggi lea oasálažžan sámiid árggas sámiid ruovttuguovllu gielddain, dan olggobealdege ja sosiálalaš medias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät toimii läheisessä yhteistyössä perinteisten saamelaiselinkeinojen harjoittajien, saamelaisyhdistysten ja instituutioiden kanssa saamelaisten aseman parantamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi doaibmá lagaš ovttasbarggus árbevirolaš sámeealáhusbargiiguin, sámeservviiguin ja ásahusaiguin sámiid sajádaga ovddideapmin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien viestintää ja julkisuuskuvaa parannetaan ja lisätään saamelaiskäräjien toiminnan tunnettavuutta saamelaisten ja keskeisten sidosryhmien keskuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki diehtojuohkin ja almmusvuohtagovva buoriduvvojit ja lasihuvvo sámedikki doaimma dovddusvuohta sámiid ja guovddáš čanasjoavkkuid gaskavuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät toimii siten, että toimintaohjelma toteutuu täysmääräisesti ja kaikkea saamelaiskäräjien toimintaa ohjaa saamelaiskäräjien arvot ja saamelaiskulttuurin mukainen tapa toimia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi doaibmá nu, ahte doaibmaprográmma ollašuvvá dievasmearálaččat ja sámedikki buot doaimma jođihit sámedikki árvvut ja sámekultuvrra mieldásaš vuohki doaibmat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimikauden päätavotteiden toteutuminen tukee vahvasti toimikauden yksityiskohtaisten tavoitteiden toteutumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabaji váldoulbmiliid ollašuvvan doarju nannosit doaibmabaji dárkilis ulbmiliid ollašuvvama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät turvaa kaikessa toiminnassan saamen kielen, kulttuurin ja saamelaisten kotiseutualueen elinvoimaisuutta saamelaiskulttuurinmukaisesti ja huolehtii saamelaisten elinmahdollisuuksien parantamisesta tasapuolisesti koko saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi sihkkarastá buot doaimmas sámegiela, kultuvrra ja sámiid ruovttuguovllu eallinfámu sámekultuvrra mielde ja fuolaha sámiid eallinvejolašvuođaid buorideamis ovttaárvosaččat olles sámiid ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät edistää saamelaisten kielellisten ja kulttuuristen oikeuksien toteutumista myös saamelaisten kotiseutualueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ovddida sámiid gielalaš ja kultuvrralaš vuoigatvuođaid ollašuvvama maiddái sámiid ruovttuguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavoitteena on, että saamelaiskäräjillä olisi toimipisteet kaikissa saamelaisten kotiseutualueen kunnissa ja saamelaisten kotiseutualueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ulbmilin lea, ahte sámedikkis livčče doaibmabáikkit buot sámiid ruovttuguovllu gielddain ja sámiid ruovttuguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintaohjelman tavotteiden toteutumista seurataan vuosittain saamelaiskäräjien toimintakertomuksen käsittelyn yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmaprográmma ulbmiliid ollašuvvan čuvvojuvvo jahkásaččat sámedikki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintaohjelman toteuttamisesta vastaavat kaikki saamelaiskäräjien elimet ja henkilöstö omalla toimialallaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>doaibmačilgehusa gieđahallama oktavuođas. Doaibmaprográmma ollašuhttimis vástidit sámedikki buot orgánat ja bargoveahka iežaset doaibmasurggiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelma on laadittu suomeksi ja saameksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmma lea ráhkaduvvon suomagillii ja sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintaohjelman toteuttaminen edellyttää uusia taloudellisia resursseja ja saamelaiskäräjien oman toiminnan kehittämistä ja tehostamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmaprográmma ollašuhttin eaktuda ođđa ekonomalaš resurssaid ja sámedikki iežas doaimma ovddideami ja beavttálmahttima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjäkauden päätavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggebaji váldoulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toimikauden 2012-2015 tavoitteena on turvata saamen kielen ja kulttuurin elinvoimaisuus koko maassa, valvoa saamelaisten alkuperäiskansaoikeuksien toteutumista ja parantaa saamelaisten lainsäädännöllistä asemaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki doaibmabaji 2012-2015 ulbmilin lea sihkkarastit sámegiela ja kultuvrra eallinfámu olles riikkas, gohcit sámiid eamiálbmotvuoigatvuođaid ollašuvvama ja buoridit sámiid lágas ásahuvvon sajádaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjäkauden 2012–15 päätavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggebaji 2012–15 váldoulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten asema, kansainväliset sopimukset ja arvot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid sajádat, riikkaidgaskasaš soahpamušat ja árvvut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toiminnan yleiset tavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki doaimma almmolaš ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjäkauden 2012-15 päätavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggebaji 2012-15 váldoulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaisen saamelaissopimuksen ratifioiminen 3. Saamelaiskäräjälain ja - asetuksen uudistaminen sekä saamelaismääritelmän muuttaminen 4. Saamelaisten itsemääräämisoikeuden toteutuminen täysmääräisesti 5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1. ILO 169-soahpamuša ratifieren 2. Davviriikkalaš sámesoahpamuša ratifieren 3. Sámediggelága ja - ásahusa ođasmahttin sihke sápmelašmeroštallama nuppástuhttin 4. Sámiid iešráđđenvuoigatvuođa ollašuvvan dievasmearálaččat 5. Katainen ráđđehusprográmma sámemerkejumiid ollašuvvan dievasmearálaččat 6. Sámegielaid ealáskahttinprográmma ollašuhttima álggaheapmi 7. Álbmotlaš artikla 8(j) - bargojoavkku evttohusaid ollašuhttin 8. Eamiálbmotjulggaštusa ollašuhttin Suomas 9. Sámekultuvrra ja árbevirolaš ealáhusaid suoji ollašuvvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurin ja perinteisten elinkeinojen suojan toteutuminen 10.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>mukaisesti kaikkiin saamelaisia koskeviin erityislakeihin 11.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekultuvrra heajudeami suoji olaheapmi čáhcelága mielde sámiid guoski buot sierralágaide 11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualueen ja perinteisten elinkeinojen elinvoimaisuuden turvaaminen 12.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovllu ja árbevirolaš ealáhusaid eallinfámu sihkkarastin 12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poismuuton vähentäminen ja paluumuuton lisääminen saamelaisten kotiseutualueelle 13.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eret fárrema geahpedeapmi ja ruovttoluotta fárrema lasiheapmi sámiid ruovttuguvlui 13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielellisten ja kulttuuristen oikeuksien toteutuminen koko maassa 14.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gielalaš ja kultuvrralaš vuoigatvuođaid ollašuvvan olles riikkas 14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisen parlamentaarisen neuvoston tehokas toiminta 15.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi parlamentáralaš ráđi beaktilis doaibman 15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen ja saamenkielisen opetuksen aseman, saavutettavuuden ja saamelaisen sisällön kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela ja sámegielat oahpahusa sajádaga, oažžuma ja sámi sisdoalu ovddideapmi 16. Sámi buorredili ja oasálasvuođa ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>16.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteiset yksityiskohtaiset tavoitteet Sektorikohtaiset yksityiskohtaiset tavoitteet 1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Saamelaisten hyvinvoinnin ja osallisuuden kehittäminen 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilo-169-sopimus on ratifioitu Suomen valtion ja saamelaiskäräjien yhteistyöllä vuoteen 2015 mennessä ja saamelaisten oikeudet maahan ja veteen on ratkaistu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ilo-169-soahpamuš lea ratifierejuvvon Suoma stáhta ja sámedikki ovttasbargguin jagi 2015 rádjai ja sámiid vuoigatvuođat eatnamii ja čáhcái leat čovdon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaisen saamelaissopimuksen jatkoneuvottelut on saatu valmiiksi kolmen maan saamelaiskäräjien ja valtioiden hyvällä yhteistyöllä ja sopimus on ratifioitu Suomessa saamelaiskäräjien tuella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkalaš sámesoahpamuša joatkkaráđđádallamat leat gárvvásman golmma riikka sámedikkiid ja stáhtaid buorre ovttasbargguin ja soahpamuš lea ratifierejuvvon Suomas sámedikki doarjagiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismainen saamelaissopimus noudattaa mahdollisimman pitkälti asiantuntijatyöryhmän antamaa ehdotusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkalaš sámesoahpamuš čuovvu nu guhkás go vejolaš áššedovdibargojoavkku addin evttohusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjälaki ja - asetus on uudistettu saamelaiskäräjien esitysten mukaisesti ja kehittämällä saamelaisten itsemääräämisoikeutta Suomen kansainvälisten velvoitteiden mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggeláhka ja - ásahus leat ođasmahtton sámedikki evttohusaid mielde ja ovddiduvvon sámiid iešmearridanvuoigatvuohta Suoma riikkaidgaskasaš geatnegasvuođaid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaismääritelmä on muutettu vastaamaan saamelaiskäräjien kantaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelašmeroštallan lea nuppástuhtton vástidit sámedikki oainnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laki ja – asetus astuu voimaan viimeistään vuonna 2014. 4.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka ja – ásahus bohtet fápmui maŋimustá jagi 2014. 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten itsemääräämisoikeus toteutuu täysmääräisesti Suomen kansainvälisten velvoitteiden mukaisesti saamelaisten elinkeinojen, saamenkielisten palvelujen ja saamelaisopetuksen ohjauksessa, saamelaisen kulttuuriperinnön hallinnoinnissa ja kulttuuriilmausten turvaamisessa, saamenkielisten palvelujen rahoituksessa ja saamelaiskäräjien toiminnassa vuoteen 2015 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid iešmearridanvuoigatvuohta ollašuvvá dievasmearálaččat Suoma riikkaidgaskasaš geatnegasvuođaid mielde sámiid ealáhusaid, sámegielat bálvalusaid ja sámeoahpahusa jođiheamis, sámi kulturárbbi hálddašeamis ja kulturalbmonemiid sihkkarastimis, sámegielat bálvalusaid ruhtadeamis ja sámedikki doaimmas jagi 2015 rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääministeri Jyrki Kataisen hallitusohjelman saamelaiskirjaukset ovat toteutuneet täysmääräisesti Suomen valtion ja saamelaiskäräjien hyvällä yhteistyöllä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaiveministtar Jyrki Katainen ráđđehusprográmma sámemerkejumit leat ollašuvvan dievasmearálaččat Suoma stáhta ja sámedikki buori ovttasbargguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>6.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielten elvyttämisohjelman toimenpiteet on aloitettu ja resursoitu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielaid ealáskahttinprográmma doaibmabijut leat álggahuvvon ja resurserejuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pysyvä malli saamen kielten elvyttämiseksi on luotu saamelaiskäräjien ja Suomen valtion yhteistyöllä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bissovaš málle sámegielaid ealáskahttima várás lea ráhkaduvvon sámedikki ja Suoma stáhta ovttasbargguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>7.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansallisen artikla 8(j)-työryhmän loppuraportin toimenpide-ehdotukset ja suositukset on toteutettu 8.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álbmotlaš artikla 8(j)-bargojoavkku loahpparaportta doaibmabiddjoevttohusat ja ávžžuhusat leat ollašuhtton 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansajulistus on toimeenpantu Suomessa Suomen valtion ja saamelaiskäräjien yhteistyöllä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eamiálbmotjulggaštus lea ollašuhtton Suomas Suoma stáhta ja sámedikki ovttasbargguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>9.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurin ja saamelaisten perinteisten elinkeinojen suoja toteutuu elinkeinoja ja maankäyttöä ohjaavassa lainsäädännössä, hallinnossa ja resursoinnissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekultuvrra ja sámiid árbevirolaš ealáhusaid suodji ollašuvvá ealáhusaid ja eanageavaheami stivrejeaddji láhkaásaheamis, hálddahusas ja resurseremis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurin heikentämisen suoja vesilain mukaisesti on otettu kaikkiin saamelaisia koskeviin erityislakeihin vuoteen 2015 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekultuvrra heajudeami suodji čáhcelága mielde lea váldon sámiid guoski buot sierralágaide jagi 2015 rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lainsäädäntö- ja kehittämishankkeet eivät heikennä saamenkielisiä palveluja ja saamelaisten oikeuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhkaásahan- ja ovddidanfidnut eai heajut sámegielat bálvalusaid ja sámiid vuoigatvuođaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien esitykset kunnallishallinnon rakenneuudistukseksi ovat toteutuneet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki evttohusat gielddahálddahusa ráhkadusođastussan leat ollašuvvan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualueen ja perinteisten elinkeinojen elinvoimaisuus on turvattu ja saamelaisnuoret pääsevät perinteisten elinkeinojen pariin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovllu ja árbevirolaš ealáhusaid eallinfápmu lea sihkkaraston ja sámenuorat besset árbevirolaš ealáhusaid ollái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>12.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten poismuutto saamelaisten kotiseutualueelta vähenee ja saamelaisten paluumuutto saamelaisten kotiseutualueelle lisääntyy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid eretfárren sámiid ruovttuguovllus geahppána ja sámiid ruovttoluotta fárren sámiid ruovttuguvlui lassána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kielelliset ja kulttuuriset oikeudet toteutuvat koko maassa asuinpaikasta riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid gielalaš ja kultuvrralaš vuoigatvuođat ollašuvvet olles riikkas ássanbáikkis fuolakeahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen parlamentaarinen neuvosto hoitaa tehokkaasti saamelaisten kansainvälistä edunvalvontaa ja toimii saamelaisten yhdyssiteenä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi parlamentáralaš ráđđi dikšu beaktilit sámiid riikkaidgaskasaš ovddugohcima ja doaibmá sámiid oktavuođaid bajásdoallin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Venäjän saamelaiset osallistuvat tasa-arvoisesti neuvoston toimintaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruošša sámit oassálastet dásseárvosaččat ráđi doibmii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tasokas kielen opetus mahdollistetaan koko maassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Alladássásaš giela oahpahus dahkko vejolažžan olles riikkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kehitetään opetuksen saamelaista sisältöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buoriduvvo oahpahusa sámesisdoallu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>16.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten hyvinvointia ja osallisuutta edistetään vahvistamalla omakielisten ja kulttuurin perustuvien, laadukkaiden hyvinvointipalvelujen tarjontaa sekä turvaamalla osaavan, ammattitaitoisen henkilöstön saatavuus ja riittävä rahoitustaso.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid buorredilli ja osolašvuohta buoriduvvojit nu, ahte nannejuvvojit iežasgielat ja kulturvuđot, alladássásaš buorredillebálvalusaid fálaldat sihke sihkkarasto čeahpes, ámmátdáiddolaš bargoveaga oažžun ja doarvái buorre ruhtadandássi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kauden yhteiset yksityiskohtaiset tavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmabaji oktasaš dárkilis ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjäkauden yhteiset ja sektorikohtaiset yksityiskohtaiset tavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggebaji oktasaš ja sektormieldásaš dárkilis ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.1 Saamelaisten yhteisöllisyyden kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.1 Sámiid searválastima ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät toimii läheisessä yhteistyössä kolttien kyläkokouksen, perinteisten saamelaiselinkeinojen harjoittajien, saamelaiselinkeinojärjestöjen ja saamelaisen kansalaisyhteiskunnan kanssa saamelaisten aseman parantamiseksi ja kuulee sidosryhmiä oman toimintansa kehittämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi doaibmá lagaš ovttasbarggus nuortalaččaid siidačoahkkimiin, olbmuiguin geat barget árbevirolaš sámi ealáhusaiguin, sámeealáhusservviiguin ja sápmelaš álbmotláhttoservodagain buoridan dihte sámiid sajádaga ja gullá čanasjoavkkuid ovddidan dihte iežas doaimma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät järjestää eri puolilla saamelaisten kotiseutualuetta ja sen ulkopuolella alueen saamelaisten kuulemistilaisuuksia ja kuulee alueen saamelaisten tarpeita kehittääkseen omaa toimintaansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi ordne miehtá sámiid ruovttuguovllu ja dan olggobealde guovllu sámiid gullandilálašvuođaid ja gullá guovllu sámiid dárbbuid ovddidan dihte iežas doaimma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien järjestämät tapahtumat ja sellaiset tapahtumat, joissa saamelaiskäräjät on osajärjestäjänä, järjestetään saamelaiskulttuurin ja saamelaisten arvojen mukaisesti tukien saamelaisten yhteisöllisyyttä ja luoden saamelaisille luonnollisia kohtaamispaikkoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ordnen dáhpáhusat ja dakkár dáhpáhusat, main sámediggi lea mielordnejeaddjin, ordnejuvvojit sámekultuvrra ja sámi árvvuid mielde nu ahte dat duvdet sápmelaččaid oktiigullevašvuođa ja ráhkadit sápmelaččaide lunddolaš deaivvadanbáikkiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät laatii saamelaisen sukupolviohjelman saamelaiskäräjien eri lautakuntien yhteistyöllä, jossa käsitellään eri sukupolvien erityiskysymyksiä ja tarpeita, erityisesti saamelaislasten-, nuorten ja iäkkäiden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi ráhkada ovttasbarggus sámedikki lávdegottiiguin sápmelaš sohkabuolvaprográmma, mas gieđahallojuvvojit sohkabuolvvaid sierragažaldagat ja - dárbbut, earenoamážit sámemánáid, - nuoraid ja - vuorasolbmuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelma valmistuu vuoden 2013 aikana o Saamelaiskäräjien rahoittamat palvelut ja toiminnot järjestetään saamelaiskulttuurin mukaisesti huomioiden saamelaiset arvot ja tukien eri sukupolvien välistä vuorovaikusta ja saamelaiskulttuurin perinteitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmma gárvána jagi 2013 áigge. o Sámedikki ruhtadan doaimmat ja bálvalusat ordnejuvvojit sámekultuvrra mielde ja dat váldet vuhtii sápmelaš árvvuid ja duvdet iešguđet sohkabuolvvaid gaskasaš vuorrováikkuhusa ja sámekultuvrra árbevieruid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät perustaa ns. saamelainen kansalaisaloitteen, eli luo-daan saamelaisille mahdollisuus aloitteen tekemiseen saamelaiskäräjien kokoukselle mahdollisimman helhelposti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi álggaha ng. sápmelaš álbmotlahttoálgaga, nappo addojuvvo sámiide vejolašvuohta dahkat álgaga sámedikki čoahkkimii nu álkit go vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Tarjotaan aktiivisesti saamelaisnuorille mahdollisuuksia tutustua työelämään saamelaiskäräjillä ja suorittaa opintoihin sisältyvä harjoittelu saamelaiskäräjillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Fállojuvvojit aktiivvalaččat sámenuoraide vejolašvuođat oahpásmuvvat bargoeallimii sámedikkis ja čađahit oahpuide gullevaš hárjehallama sámedikkis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.2 Saamelaisen perinteisen tiedon turvaaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.2 Sámi árbevirolaš dieđu dorvvasteapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät osallistuu tehokkaasti Suomen luonnon monimuotoisuuden ja kestävän käytön strategian ja toimintaohjelman 2012-2020 toimeenpanoon, seurantaan ja vaikuttavuuden arviointiin ja edistää saamelaisia koskevien tavoitteiden pikaista toteutumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi oassálastá beaktilit Suoma luonddu máŋggahámatvuođa suodjaleami ja suvdilis geavaheami álbmotlaš strategiija ja doaibmanprográmma 2012-2020 ollašuhttimii, čuovvumii ja dan váikkuhanmuni árvvoštallamii ja ovddida sápmelaččaid guoski ulbmiliid jođánis ollašuhttima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjille on turvattu riittävät resurssit osallistua strategian ja toimintaohjelman toteuttamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggái leat sihkkaraston doarvái resurssat strategiija ja doaibmanprográmma ollašuhttimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät osallistuu tehokkaasti ja vaikuttavasti Nagoyan pöytäkirjan ratifiointiprosessiin ja toimeenpanoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi oassálastá beaktilit ja váikkuhanfámolaččat Nagoya beavdegirjji ratifierenprosessii ja ollašuhttimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Perinteisen tiedon elvytyshankkeiden toteutus on alkanut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Árbevirolaš dieđu ealáskahttinfidnuid ollašuhttin lea álgán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät huomioi omassa toiminnassaan saamelaisen perinteisen tiedon tarpeet ja edistää perinteisen tiedon säilymistä, siirtymistä ja kehittymistä tuleville sukupolville kaikessa toiminnassaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi váldá vuhtii iežas doaimmas sámi árbevirolaš dieđu dárbbuid ja ovddida árbevirolaš dieđu seailuma, sirdáseami ja ovdáneami boahttevaš sohkabuolvvaide buot doaimmainis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät edistää ja luo edellytyksiä saamelaisten perinteisen tiedon tutkimuskeskuksen perustamiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi ovddida ja láhčá vejolašvuođaid sámiid árbevirolaš dieđu dutkanguovddáža ásaheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.3 Saamelaisen kulttuuriympäristön turvaaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.3 Sámi kulturbirrasa dorvvasteapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaisten kotiseutualueen maankäytön ohjauksessa noudatetaan täysmääräisesti biodiversiteettisopimuksen Akwé: Kon - ohjeita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biologalaš máŋggahámatvuođa guoski oktasašsoahpamuššii gullevaš Nagoya beavdegirji geenariggodagaid oažžumis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten luonnon monimuotoisuuteen liittyvä perinteinen tieto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid luonddu máŋggahámatvuhtii gulavaš árbevirolaš diehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Biodiversiteettisopimuksen artikla 8(j)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biodiversitehtasoahpamuša artihkal 8(j)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusosapuolien tulee kansallisen lainsäädäntönsä mukaisesti kunnioittaa, suojella ja ylläpitää biologisen monimuotoisuuden suojelun ja kestävän käytön kannalta merkittävää alkuperäiskansojen ja perinteisen elämänmuodon omaavien paikallisyhteisöjen tietämystä, innovaatioita ja käytäntöjä, sekä edistää ja laajentaa niiden soveltamista tämän tietämyksen, innovaatioiden ja käytäntöjen omistajien luvalla ja myötävaikutuksella sekä rohkaista tämän tietämyksen, innovaatioiden ja käytäntöjen käytöstä saatujen hyötyjen tasapuolista jakamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soahpamušoassebealit galget álbmotlaš láhkaásaheami mielde gudnejahttit, gáhttet ja doalahit biologalaš máŋggahámatvuođa suodjaleami ja suvdilis geavaheami dáfus mearkkašahtti eamiálbmogiid ja árbevirolaš eallinvuogi máhtti báikkálašservošiid dieđuid, innovašuvnnaid ja geavadiid, ja maiddái ovddidit ja viiddidit daid heiveheami dán dieđu, innovašuvnnaid ja geavadiid oamasteaddjiid lobiin ja miehteváikkuhusain ja maiddái roahkasmahttit dáid dieđuid, innovašuvnnaid ja geavadiid geavaheamis ožžojuvvon ávkkiid dássebeallásaš juohkima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen luonnon monimuotoisuuteen liittyvä perinteinen tieto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid luonddu máŋggahámatvuhtii gulavaš árbevirolaš diehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen luonnon monimuotoisuuteen liittyvä perinteinen tieto ilmenee saamelaisessa luonnon-käytössä ja perinteisten saamelaiselinkeinojen harjoittamisessa eli poronhoidossa, kalastuksessa, metsästyksessä, keräilyssä ja käsityössä sekä luontosuhteessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid luonddu máŋggahámatvuhtii gulavaš árbevirolaš diehtu albmana earenoamážit sápmelaš luonddugeavaheamis ja árbevirolaš sámi ealáhusain mat leat boazodoallu, guolásteapmi, meahccebivdu, čoaggin ja duodji ja maiddái birasgaskavuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tieto välittyy saamen kielen luontoon, maastoon, säähän, poronhoitoon, käsitöihin, pyyntiin ja kalastukseen liittyvässä terminologiassa sekä saamenkielisissä paikannimissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Diehtu sirdása sámegiela lundui, meahccái, dálkái, boazodollui, duodjái, bivdui ja guolásteapmái gulavaš terminologiija ja sámegielat báikenamaid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perinteistä tietoa siirretään tietoisen opettamisen, vanhemmilta sukupolvilta saadun mallin, joikujen ja suullisen kertomaperinteen kautta sekä poronhoito-, kalastus-, keräily käsityö- ja metsästyskäytänteissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árbevirolaš diehtu sirdojuvvo diđolaš oahpaheami, boarrásut sohkabuolvvain árbejuvvon málle, luđiid ja njálmmálaš muitalanárbevieru bokte ja maiddái boazodoalu, guolásteami, čoaggima, duoji ja meahccebivddu geavadiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>toteudu, koska saamelaisten</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>toteudu, koska saamelaisten o Sámiid ruovttuguovllu eanangeavaheami stivremis heivehuvvojit ollislaččat biodiversitehtasoahpamuša Akwé: Kon - rávvagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saatavuudesta sekä niiden käytöstä saatavien hyötyjen oikeudenmukaisesta ja tasapuolisesta jaosta o Saamelaiskäräjät toimii kestävän kehityksen ilmastonmuutosta hilliten mukaisesti kaikessa toiminnassaan turvaten saamelaisten kotiseutualueen elinvoimaisuuden ja saamelaiskulttuurin säilymisen myös tuleville sukupolville.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi doaibma suvdilis ovdáneami vuođul ja caggá dálkkádatrievdadeami buot doaimmainis ja seammás dorvvasta sámiid ruovttuguovllu eallinfámu ja sámekultuvrra seailuma maiddái boahttevaš sohkabuolvvaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät osallistuu aktiivisesti ja vaikuttavasti uhanalaisten luontotyyppien tilan parantamiseksi laaditun toimintasuunnitelman toteuttamiseen, seurantaan ja uhanalaisten luontotyyppien tilan arviointiin saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi oassálastá beaktilit ja váikkuhanfámolaččat uhkivuloš luonddutiippaid dili buorideami várás ráhkaduvvon doaibmanplána ollašuhttimii, čuovvumii ja uhkivuloš luonddutiippaid dili guorahallamii sámiid ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät edistää Eurooppalaisen maisemayleissopimuksen toimeenpanoa ja osallistuu aktiivisesti ja vaikuttaen maisemayleissopimusyhteistyöhön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi ovddida Eurohpalaš duovddaoktasašsoahpamuša (Eurooppalainen maisemayleissopimus) ollašuhttima ja oassálastá aktiivvalaččat ja váikkuha duovddaoktasašsoahpamuša oktasašbargui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva: Klemetti Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Govva: Klemetti Näkkäläjärvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät osallistuu tehokkaasti ja vaikuttavasti ilmastonmuutospäätöksentekoon ja ilmastonmuutoksen sopeutumispoliitikkojen laadintaan ja toteuttamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi oassálastá beaktilit ja váikkuhanfámolaččat dálkkádatrievdadeami mearrádusdahkamii ja dálkkádatrievdadeapmái vuogáiduvvanpolitihkaid ráhkadeapmái ja ollašuhttimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät huolehtii, että kaivoslain ja vesilain saamelaiskulttuurin heikentämissuojat toteutuvat täysmääräisesti käytännössä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi bearráigeahččá, ahte ruvkelága ja čáhcelága sámekultuvrra heajudansuojit ollašuvvet dievasmearálaččat geavadis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät osallistuu kaivos- ja vesilain mukaiseen vaikutustenarviointiin tehokkaasti, vaikuttavasti ja asiantuntevasti kuullen alueen saamelaisia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi oassálastá ruvke- ja čáhcelágas eaktuduvvon váikkuhusárvvoštallamiidda beaktilit, váikkuhanfámolaččat ja áššedovdamušain ja gullá guovllu sámiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjille on turvattu riittävät resurssit kaivoslain toimeenpanoa varten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggái leat sihkkaraston doarvái resurssat ruvkelága ollašuhttima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät osallistuu tehokkaasti ja vaikuttavasti kansallisen kestävän kehityksen strategian ja yhteiskuntasitoumuksen valmisteluun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi oassálastá beaktilit ja váikkuhanfámolaččat álbmotlaš suvdilis ovdáneami strategiija ja servodatčatnasumi válmmaštallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät valmistelee Suomen valtion rahoituksella kansalliseen strategiaan liitettävän, viranomaisia velvoittavan, saamelaisen kestävän kehityksen strategian.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi válmmaštallá Suoma stáhta ruhtademiin sámi suvdilis ovdáneami strategiija mii geatnegahttá virgeoapmahaččaid ja laktojuvvo oassin álbmotlaš strategiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.4 Saamelaiskulttuurin elinvoimaisuuden turvaaminen koko maassa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.4 Sámekultuvrra eallinfámu dorvvasteapmi olles riikkas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjille luodaan virka, jonka tehtäviin kuuluu saamelaisten kotiseutualueen ulkopuolella asuvien saamelaisten oikeusaseman ja saamenkielisten palvelujen ja osallistumisen edistäminen, yhteydenpito saamelaisyhdistysten kanssa ja saamelaiskäräjien oman toiminnan kehittäminen saamelaisten kotiseutualueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggái ásahuvvo virgi, man bargguide gullá sámiid ruovttoguovllu olggobealde ássi sámiid riektesajádaga ja sámegielat bálvalusaid ja oassálastima ovddideapmi, oktavuođa doallan sámeservviiguin ja sámedikki iežas doaimma ovddideapmi sámiid ruovttuguovllu olggobealde. o Sámediggi vuođđuda ovttasbarggus oahpahus- ja kulturministeriijain, oaivegávpoga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät perustaa yhteistyössä opetus- ja kulttuuriministeriön, pääkaupunkiseudun kuntien ja saamelaisyhdistysten kanssa saamelaiskulttuurikeskuksen pääkaupunkiseudulle saamelaisten kohtaamispaikaksi, saamelaiskäräjien yhdeksi toimipaikaksi ja saamenkielisten palvelujen ja kerhotoiminnan järjestämispaikaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>gielddaiguin ja sámeservviiguin sámekulturguovddáža oaivegávpotguvlui sámiid deaivvadanbáikin, sámedikki oktan doaibmabáikin ja sámegielat bálvalusaid ja searvedoaimma ordnensadjin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaisten kotiseutualueen ulkopuolella asuvien saamelaisten yhteyttä saamelaisten kotiseutualueeseen ja saamelaiskulttuurin ja sen harjoittamiseen tuetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámiid ruovttuguovllu olggobeale sámiid oktavuohta sámiid ruovttuguvlui ja sámekultuvrii ja dan hárjeheapmái dorjojuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät luo edellytyksiä varsinaisessa toiminnassaan ja järjestää projektitoiminnassaan kurssi- ja kerhomuotoista toimintaa, jolla mahdollistetaan saamelaisten kotiseutualueen ulkopuolella asuvien lasten ja nuorten mahdollisuudet tutustua muihin saamelaislapsiin ja - nuoriin ja saamelaisten kotiseutualueeseen sekä kehittää osaamistaan liittyen perinteisiin saamelaiselinkeinoihin, kulttuuri-ilmauksiin ja perinteiseen tietoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi lágida vejolašvuođaid dan aitosaš doaimma olis ja ordne prošeaktadoaimmainis kursa- ja searvehápmásaš doaimma, mainna dahkko vejolažžan sámiid ruovttuguovllu olggobealde ássi mánáide ja nuoraide oahpásmuvvat eará sámemánáide ja - nuoraide ja sámiid ruovttuguvlui ja maiddái ovddidit iežaset máhtu sámi ealáhusain, kulturalbmanemiin ja árbevirolaš dieđus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva: Pirita Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Govva: Pirita Näkkäläjärvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.5 Saamelaiskäräjien vaalijärjestelmän kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.5 Sámedikki válgaortnega ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjälain ja - asetuksen uudistamisen yhteydessä uudistetaan vaalijärjestelmä saamelaiskäräjien tekemien ehdotusten pohjalta parlamentaariseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggelága ja - ásahusa ođadeami oktavuođas ođaduvvo válgaortnet sámedikki evttohusaid vuođul parlamentáralažžan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien vaalien ajankohtaa muutetaan siten, että vaalit käydään samaan aikaan Norjan ja Ruotsin saamelaiskäräjävaalien kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggeválggaid áigemuddu rievdaduvvo nu, ahte válggat ordnejuvvojit oktanis Norgga ja Ruoŧa sámediggeválggaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Seuraavissa saamelaiskäräjävaaleissa otetaan käyttöön sähköinen äänestäminen, kiertävä äänestysauto saamelaisten kotiseutualueella sekä ennakkoäänestys postin avulla koko maassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Čuovvovaš sámediggeválggain váldo atnui elektrovnnalaš jienasteapmi, johtti jienastanbiila sámiid ruovttuguovllus ja ovddalgihtii jienasteapmi poastta bokte olles riikkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Valmistaudutaan vuoden 2015 saamelaiskäräjävaalien järjestämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ráhkkanuvvo jagi 2015 sámediggeválggaid ordnemii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.6 Saamelaiskäräjien oman toiminnan kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.6 Sámedikki iežas doaimma ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjille perustetaan tiedottajan virka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggái ásahuvvo dieđiheaddji virgi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tiedottaa aktiivisesti toiminnastaan ja ajankohtaisista saamelaisten oikeuksiin liittyvistä asioista kotisivuilla, mediassa ja sosiaalisessa mediassa saameksi ja suomeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi dieđiha aktiivvalaččat iežas doaimma ja áigeguovdilis sámiid rivttiide guoskevaš áššiid birra iežas ruovttusiidduin, medias ja sosiálalaš medias sáme- ja suomagillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät kehittää niin sisäistä kuin ulkoistakin tiedottamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ovddida siskkáldas ja olgguldas dieđiheami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedottamista suunnataan myös sidosryhmille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđiheapmi čujuhuvvo maiddái čanasjoavkkuide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien tiedottamista kehitetään vuorovaikutteiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki dieđiheami ovddideamis biddjo deaddu vuorrováikkuhussii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kotisivuja kehitetään vuorovaikutteisemmaksi ja lähestyttävämmiksi saamen kielellä ja suomeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ruovttusiiddut rievdaduvvojit interaktiivalaččabun ja dakkárin, ahte daid lea álkit lahkonit nu sáme- ja suomagillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kotisivuille luodaan tietopaketti saamelaisten oikeuksista saamelaisten kotiseutualueella ja sen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ruovttusiidduide čohkkejuvvo diehtobáhkka sámiid rivttiin sámiid ruovttuguovllus ja dan olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät palvelee saamelaisia tasa-arvoisesti kaikilla Suomessa puhuttavilla saamen kielillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi bálvala sámiid dásseárvosaččat buot Suomas hubmojuvvon sámegielaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjillä on riittävät resurssit toimia ja saamelaiskulttuuri Sajos palvelee saamelaisia kaikkien saamelaisten avoimena kulttuurikeskuksena ja saamelaisten parlamenttitalona.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikkis leat doarvái resurssat doaibmat ja sámekulturguovddáš Sajos bálvala sápmelaččaid buot sápmelaččaide rabas kulturguovddážin ja sámiid parlameantadállun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien toimintaa kehitetään siten, että saamelaiskäräjillä on toimipaikat kaikissa saamelaisten kotiseutualueen kunnissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki doaibma ovddiduvvo dainna lágiin, ahte sámedikkis leat doaibmabáikkit buot sámiid ruovttuguovllu gielddain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien virkamiehet ja korvausta saavat luottamushenkilöt ovat saamelaisten tavattavissa helposti ja yhteydenottoja varten on mahdollisuus pyytää soittoaikaa virkamiehiltä, jotta yhteydenotosta ei tule saamelaisille kuluja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki virgeolbmot ja luohttámušolbmot geat ožžot buhtadusaid leat sámiid deaivamis álkit ja oktavuođaváldima váras lea vejolaš sihtat riŋgenáiggi virgeolbmuin, vai oktavuođaváldimis eai šatta golut sápmelaččaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien henkilöstöpoliittinen ohjelma ja yhdenvertaisuus- ja tasaarvosuunnitelmat valmistuvat vuoden 2013 alussa ja ne valmistellaan yhteistyössä henkilöstön kanssa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki bargoveahkapolitihkalaš prográmma ja ovttaveardásaš- ja dásseárvoplánat gárvánit jagi 2013 álggus ja dat válmmaštallojit ovttas bargoveagain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien henkilöstö- ja taloushallintoa kehitetään tehokkaaksi huomioiden lainsäädännön ja uusien henkilöstö- ja taloushallintokäytänteiden kehittyminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki bargoveahka- ja ekonomiijahálddahus ovddiduvvo beaktilin ja das váldo vuhtii láhkaásaheami ja ođđa bargo- ja ekonomiijahálddahusgeavadiid nuppástupmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät siirtyy sähköisiin henkilöstöhallinnon ja asiakirjahallinnon palveluihin vuoteen 2015 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi sirdása elektrovnnalaš bargoveahkahálddahusa ja áššebábirhálddahusa bálvalusaide jagi 2015 rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva 2 Saamelaiskäräjät 2012-2015 o Saamelaiskäräjien palkkiojärjestelmä uudistetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Govva 2 Sámediggi 2012-2015 o Sámedikki bargoortnet ođaduvvo sámediggelága ja - ásahusa ođadeami oktavuođas beaktilin, demokráhtalažžan ja parlamentáralažžan ja das váldo vuhtii láhkaásaheami ja hálddahusa geavadiid nuppástupmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien parlamentaarista ohjausta ja edunvalvontaa kehitetään vahvistamalla varapuheenjohtajien ja saamelaiskäräjien hallituksen asemaa ja luodaan edellytykset poliittisen toiminnan tehostumiselle palkkiojärjestelmän avulla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki bálkáhanvuogádat ođaduvvo. Sámedikki parlamentáralaš stivren ja ovddugohcin ovddiduvvojit dainna lágiin, ahte várreságadoalli ja sámedikki stivrra sajádat nannejuvvojit bálkáhanvuogádagain vai politihkalaš doaibma beavttálmuvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien henkilöstöresursseja vahvistetaan taloussuunnitelman mukaisesti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki bargoveahkaresurssat nannejuvvojit ekonomiijaplána mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2.7 Saamelaiskäräjien edunvalvonnan kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.2.7 Sámedikki ovddugohcima ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien edunvalvonta on avointa, asiantuntevaa, tehokasta, tuloksellista ja vaikuttavaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki ovddugohcin lea rabas, áššedovdi, beaktil, boađuslaš ja váikkuheaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Edunvalvonnassa edistetään Suomen kansainvälisten velvoitteiden ja keskeisten ihmisoikeuksien toteutumista valvovien elinten suositusten toteutumista saamelaiskäräjien toimintaohjelman mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>olmmošvuoigatvuođaid ollašuvvama bearráigeahčči orgánaid ávžžuhusaid ollašuvvan sámedikki doaibmanprográmma mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Edunvalvonnassa keskitytään erityisesti saamelaisia koskevien lainsäädännön kehittämishankkeisiin vaikuttamiseen ja saamelaisten kotiseutualueen elinvoimaisuuden parantamiseen saamelaiskulttuurinmukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddugohcimis lea deaddu eandaliige sámiid guoski láhkaásaheami ovddidanfidnuide váikkuheamis ja sámiid ruovttuguovllu eallinfámu buorideamis sáme-i kultuvrra mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sidosryhmäyhteistyötä eri viranomaisten kanssa jatketaan ja kehitetään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čanasjoavkoovttasbargu iešguđet eiseválddiiguin jotkojuvvo ja ovddiduvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Edunvalvontaa Euroopan Unioniin kehitetään ja parannetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddugohcin Eurohpá Uniovdnii ovddiduvvo ja buoriduvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät käy aktiivista dialogia EU:n kanssa saamelaisia koskevista asioista pyrkien vaikuttamaan EU:n päätöksentekoon yhteistyössä SPN:n kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ságastallá aktiivvalaččat EU:in áššiin mat gusket sápmelaččaide ja viggá váikkuhit EU mearrádusdahkamii ovttasbarggus SPR:in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Osallistutaan hallitusneuvotteluihin vuonna 2015 ja vaikutetaan tehokkaasti hallitusohjelman saamelaiskirjauksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Oassálastá ráđđehusráđđádallamiidda jagi 2015 ja váikkuha beaktilit ráđđehusprográmma sápmelašmerkejumiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3 Sektormieldásaš dárkilis ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sektorikohtaiset yksityiskohtaiset tavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sektormieldásaš dárkilis ulbmilatOktasaš dárkilis ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjäkauden yhteiset ja sektorikohtaiset yksityiskohtaiset tavoitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggebaji oktasaš ja sektormieldásaš dárkilis ulbmilat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.1 Saamelainen elinkeinopolitiikka</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3.1 Sámi ealáhuspolitihkka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjille perustetaan elinkeino- ja oikeuslautakunnan alaisuuteen valtion rahoituksella saamelainen elinkeinorahasto, jolla tuetaan saamelaisten perinteisten elinkeinojen harjoittamista (poronhoito, kalastus, metsästys, keräily ja käsityö) ja niihin liittyvien uusien saamelaiskulttuurinmukaisten elinkeinomuotojen kehittymistä, kuten pienimuotoisen ekologisen matkailun ja perinteisten elinkeinojen tuotteiden jalostamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggái ásahuvvo ealáhus- ja vuoigatvuohtalávdegotti vuollái stáhta doarjagiin sámi ealáhusfoanda, mainna duvdojuvvojit sámiid árbevirolaš ealáhusat (boazodoallu, guolásteapmi, meahccebivdu, čoaggin ja duodji) ja daidda gullevaš ođđa ealáhushámiid ovdáneapmi, degomat unnamahtosaš ekologalaš turisma ja árbevirolaš ealáhusaid buktagiid ovddosdikšun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisesti tuetaan saamelaisnuorten pääsyä perinteisten saamelaiselinkeinojen pariin ja saamelaista naisyrittäjyyttä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Earenoamážit duvdojuvvojit sámenuorat vai sii beasašedje fárrui árbevirolaš ealáhusaide ja sámenissoniid fitnodagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjille luodaan ns. puskurirahasto, jotta saamelaiskäräjät voi hakea rahoitusta EU-projektien käynnistämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggái ásahuvvo ng. vuođđofoanda (suom. puskurirahasto), vai sámediggi sáhttá ohcat ruhtadeami EU-prošeavttaid álggaheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Haetaan rahoitusta EU:n rakennerahasto-ohjelmilta toimintaohjelman tavoitteiden toteuttamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohccojuvvo ruhtadeapmi EU ráhkadusfoandaprográmmain doaibmanprográmma ulbmiliid ollašuhttima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien elinkeinopoliittista toimintaa parannetaan perustamalla uusia virkoja ja osallistumalla aktiivisesti saamelaiselinkeinojen kehittämiseen edunvalvonnalla, luomalla kehittämishankkeilla ja hyvällä yhteistyöllä perinteisten saamelaisten elinkeinonharjoittajien kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki ealáhuspolitihkalaš doaibma buoriduvvo dainna lágiin, ahte ásahuvvojit ođđa virggit ja oassálastojuvvo aktiivvalaččat sámi ealáhusaid ovddideapmái ovddugohcimiin, ovddidanfidnuiguin ja buriin ovttasbargguin olbmuiguin, geat hárjehit árbevirolaš ealáhusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Porotalouden- ja luontaiselinkeinojen rahoituslakiin esitetään paimennustukea saamelaisen poronhoitomallin tukemiseksi ja säilyttämiseksi sekä petovahinkojen ennaltaehkäisemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Boazodoalu ja luondduealáhusaid ruhtadanláhkii evttohuvvo guođohandoarjja sápmelaš boazodoallovuogi doarjuma ja seailluheami dihte ja spirevahágiid eastadeami dihte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Kalastuslain kokonaisuudistuksessa turvataan saamelaisten ikimuistoiset nautintaoikeuden koko saamelaisten kotiseutualueella, saamelaisen kalastusperinteen ja - kulttuurin säilyminen sekä saamelaisten erityisperusteisten kalastusoikeuksien säilyminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Guolástanlága oppalašođastusas dorvvastuvvojit sámiid áigahaš návddašanvuoigatvuođat olles sámiid ruovttuguovllus, sámiid guolástanárbevieru ja - kultuvrra seailun ja sápmelaččaid guolásteami sierravuoigatvuođaid seailun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien täysmääräinen ja vaikuttava osallistuminen sekä Tenon saamelaisten kalastusperinne ja kalastusoikeudet turvataan Tenojoen kalastussopimussopimusneuvotteluissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki dievasmearálaš ja váikkuheaddji oassálastin ja maiddái Deanu sápmelaččaid guolástanárbevierru ja guolástanvuoigatvuođat dorvvastuvvojit Deanu guolástansoahpamušráđđádallamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Tuetaan ja luodaan edellytyksiä saamelaiskulttuurinmukaiseen perinteisten elinkeinojen o ammatilliseen opetukseen ja tuetaan erityisesti oppisopimuskoulutuksen kehittymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Dorjojuvvojit ja ráhkaduvvojit vejolašvuođat sámi árbevirolaš ealáhusaid ámmátlaš oahpahussii ja dorjojuvvo earenoamážit oahppasoahpamušskuvlejumi ovdáneapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Kehitetään ja edistetään olosuhteita, jotka tukevat saamelaisten perinteisten elinkeinojen ja niiden liitännäiselinkeinojen harjoittamista edunvalvonnalla ja kehittämistoiminnalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Dorjojuvvo ja ovddiduvvo dakkár dilli, mii duvdá sápmelaš árbevirolaš ealáhusaid ja daid siidoealáhusaid ovddugohcimiin ja ovddidandoaimmain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Edistetään polttoaineveron palauttamista perinteisten saamelaiselinkeinojen harjoittajille</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddiduvvo boaldámušvearu máhcaheapmi árbevirolaš sámi ealáhusaid hárjeheaddjiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen elinvoimaisuuden turvaaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela eallinfámu dorvvasteapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaisen parlamentaarisen neuvoston yhteispohjoismaisen saamen kielen tutkimus- ja ammatti / resurssikeskuksen pysyvä rahoitus varmistetaan hankeaikana ja toiminnasta tulee vakinaista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámi parlamentáralaš ráđi davviriikkalaš sámegiela dutkan- ja ámmát / resursaguovddáža</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hankkeen pohjalta on luotu pysyvä malli saamen kieliyhteistyön järjestämiseksi SPN:ssä ja saamelaiskäräjien toiminnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fidnu vuođul lea ráhkaduvvon bissovaš málle sámegiela ovttasbarggu ordnema várás SPR:s ja sámedikki doaimmas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamen kielten nykytilaa koskeva selvitystyö pyritään saamaan valmiiksi vuonna 2013.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámegielaid dálá dili guoskevaš čielggadanbargu geahččaluvvo oažžut gárvvisin jagi 2013 áigge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielilain toteutumisen arviointi on aloitettu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela giellalága ollašuvvama guorahallan lea álggahuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Edunvalvonnassa keskitytään erityisesti perinteisten saamen kielenkäyttöympäristöjen säilyttämiseen ja tukemiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddugohcimis deaddu lea eandaliige árbevirolaš sámegiela giellageavahanbirrasiid seailluheamis ja doarjumis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuetaan saamen kielen käytön lisääntymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dorjojuvvo sámegiela geavaheami lassáneapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen käyttömahdollisuuksia vahvistetaan kaikilla elämän alueilla ja saamen kielen säilymistä, kehittymistä ja siirtymistä uudelle sukupolvelle tuetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela geavahanvejolašvuođat nannejuvvojit buot eallinsurggiin ja sámegiela seailun, gárggiideapmi ja sirdáseapmi ođđa sohkabulvii dorjojuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamen kielilaki toteutuu täysmääräisesti ja saamelaiskäräjät valvoo tehokkaasti ja vaikuttavasti kielilain toteutumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámi giellaláhka ollašuvvá dievasmearalaččat ja sámediggi bearráigeahččá beaktilit ja váikkuhanfámolaččat giellalága ollašuvvama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielilakiselvityksen toimenpide-esitykset on toteutettu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela giellaláhkačielggadeami doaibmabidjoevttohusat leat ollašuhtton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamen kielen toimistoa kehitetään saamen kielen huollon ja kielipolitiikan asiantuntijaelimeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámegiela doaimmahat ovddiduvvo sámegiela gáhttema ja giellapolitihka áššedovdiorgánan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamenkielisen sanastotyön ja uudissanojen kehittämisen mahdollisuuksia vahvistetaan, erityisesti kieliteknologian avulla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat sátnerádjobarggu ja ođđasániid ovddideami vejolašvuođat nannejuvvojit, earenoamážit giellateknologiijain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Inarin- ja koltansaamen asemaa parannetaan tasa-arvoiseksi kieleksi koulutuksessa, tutkinnoissa, saamelaiskäräjien toiminnassa ja julkisessa elämässä pohjoissaamen rinnalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sámedikki doaimmas ja almmolaš eallimis davvisámegiela báldii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamenkielen toimistoon perustetaan kolme uutta kääntäjän virkaa, inarin-, koltan- ja pohjoissaamen kielille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela doaimmahahkii ásahuvvo golbma ođđa jorgaleaddji virggi anáraš-, nuortalaš- ja davvisámegielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiselle kieltä elvyttävälle kielipesä- ja kerhotoiminnalle laaditaan yhtenäiset kriteerit ja kielipesäsuunnitelmat saamelaiskäräjien johdolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámegiela ealáskahtti giellabeasse- ja searvedoibmii ráhkaduvvojit oktasaš kriterat ja giellabeasseplánat sámedikki jođiheami vuolde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Kieltä elvyttävää kielipesätoimintaa järjestetään jokaisessa saamelaisten kotiseutualueen kunnassa ja saamelaisten kotiseutualueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Giela ealáskahtti giellabeassedoaibma ordnejuvvo guđege sámiid ruovttuguovllu gielddas ja sámiid ruovttuguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Kielineuvoston alaisuuteen luodaan määräraha, jolla tuetaan aikuisen saamelaisväestön suullisen ja / tai kirjallisen saamen kielen taidon hankintaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Giellaráđi vuollái ásahuvvo mearreruhta, mainna doarjut rávesolbmuid njálmmálaš ja/dahje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.3 Saamelaislasten ja - nuorten aseman kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3.3 Sámemánáid ja - nuoraid sajádaga ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjien nuorisoneuvoston alaisuuteen on perustettu saamelainen nuorisomääräraha.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámedikki nuoraidráđi vuollái lea vuođđuduvvon sápmelaš nuoraidmearreruhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Nuorisoneuvoston alaisuuteen perustetaan Ofelaš-hanke, jolle taataan riittävät resurssit saamelaisella nuorisomäärärahalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Nuoraidráđi vuollái álggahuvvo Ofelaš-fidnu, masa dáhkiduvvojit doarvái resurssat nuoraidmearreruđain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaislasten- ja nuorten tarpeet huomioidaan saamelaiskäräjien kaikessa toiminnassa. o Saamelaiskäräjien nuorisoneuvoston tosiasialliset vaikutusmahdollisuudet turvataan ja nuorisoneuvoston toimintaa ja tunnettavuutta kehitetään saamelaisnuorten aseman asiantuntijaelimeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámemánáid- ja nuoraid dárbbut váldojuvvojit vuhtii sámedikki buot doaimmain o Sámedikki nuoraidráđi duođalaš váikkuhanvejolašvuođat dorvvastuvvojit ja nuoraidráđi doaibma ja dovddusvuohta ovddiduvvo sámenuoraid dili áššedovdiorgánan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamenkielistä ja saamelaiskulttuurinmukaista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámegielat ja - kulturmieldásaš searve- ja astoáiggedoaibma ovddiduvvo ja dorjojuvvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva: Petra Biret Magga-Vars kerho- ja vapaa-ajantoi-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Govva: Petra Biret Magga-Vars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Luodaan edellytykset sille, että saamelaisnuoret</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ráhkaduvvojit vejolašvuođat dasa, ahte sámenuorat sáhttet báhcit sámiid ruovttuguvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaisesta lastenkulttuurikeskuksesta MÁNNU:sta luodaan osa saamelaiskäräjien pysyvää toimintaa ja toiminnalle on riittävät resurssit.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámemánáid kulturguovddážis MÁNNUs dahkko oassi sámedikki bissovaš doaimma ja doibmii leat doarvái resurssat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintaa lisätään ja kehitetään saamelaisten kotiseutualueella ja ulotetaan keskuksen toimintaa myös saamelaisten kotiseutualueen ulkopuolelle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibma lasihuvvo ja ovddiduvvo sámiid ruovttuguovllus ja guovddáža doaibma olahuvvo sámiid ruovttuguovllu olggobeallái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.4 Saamenkielisten sosiaali- ja terveyspalvelujen kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3.4 Sámegielat sosiála- ja dearvvašvuohtabálvalusaid ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>MÁNNU pyrkii toiminnallaan vahvistamaan saamelaislasten- ja nuorten identiteettiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>MÁNNU viggá doaimmainis doarjut sámemánáid ja - nuoraid identitehta ovdáneami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käytännön yhteistyötahoina toimivat pääsääntöisesti koulut, päiväkodit ja kielipesät, joiden kautta projektin kohderyhmä, saamelaisalueen alle 18 – vuotiaat saamelaislapset ja nuoret, tavoitetaan vaivattomasti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttasbargin doibmet váldoáššis skuvllat, beaiveruovttut ja giellabeasit, maid bokte prošeavtta ulbmiljoavku, sámeguovllu vuollái 18 jahkásaš sámemánát ja nuorat juksojit njuovžilit..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toiminnallaan MÁNNU edistää saamelaisen perinteisen tiedon siirtymistä nuoremmille sukupolville.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmain MÁNNU ovddida sámi árbevirolaš dieđu sirdáseami nuorat sohkabuolvvaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuurin tuntemus tukee lasten ja nuorten saamelaisidentiteetin vahvistumista, joka on edellytys saamen kielen - kulttuurin säilymiselle o Saamenkielisten sosiaali- ja terveyspalvelujen tuottamiseen varatun määrärahan myöntämisestä säädetään lailla, määrärahaa on nostettu saamelaiskäräjien taloussuunnitelman mukaisesti ja rahoitus myönnetään saamelaisten itsemääräämisoikeuden mukaisesti saamelaiskäräjien toimiessa valtionapuviranomaisena.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kultuvrra dovdamuš veahkeha mánáid ja nuoraid sámeidentitehta nanosmuvvama, mii lea eaktun sámekultuvrra seailumii ja o Sámegielat sosiála- ja dearvvašvuohtabálvalusaid buvttadeapmái várrejuvvon mearreruđa mieđiheamis heivehuvvo lágain, mearreruhta lea bajiduvvon sámedikki ekonomiijaplána mielde ja ruhtadeapmi mieđihuvvo sápmelaččaid iešmearridanvuoigatvuođa mielde go sámediggi doaibmá stáhtaveahkkeeiseváldin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Määrärahan myöntämiselle laaditaan vaalikausittainen suunnitelma.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearreruđa mieđiheapmái ráhkaduvvo válgabadjeguovdasaš plána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Edunvalvonnassa ja saamelaiskäräjien omassa toiminnassa luodaan edellytykset koko saamelaisväestön laadukkaille, saamenkielisille ja saamelaiskulttuurinmukaisille sosiaali- ja terveyspalveluille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddugohcimis ja sámedikki iežas doaimmas ráhkaduvvojit vejolašvuođat olles sámeálbmoga alladássásaš, sámegielat ja sámekulturmieldásaš sosiála- ja dearvvašvuođabálvalusaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteistyötä saamelaisten kotiseutualueen kuntien ja palveluntuottajien kanssa saamenkielisten sosiaali- ja terveyspalvelujen parantamiseksi jatketaan tehokkaasti ja vaikuttavasti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttasbargu sámiid ruovttuguovllu gielddaiguin ja bálvalusaid buvttadeaddjiiguin jotkojuvvo beaktilit ja váikkuhanfámolaččat buoridan dihte sámegielat sosiála- ja dearvvašvuođabálvalusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Vaikutetaan aktiivisesti, tehokkaasti ja vaikuttavasti sosiaali- ja terveyshuollon lainsäädännön ja hallinnon kehittämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Váikkuhuvvo aktiivvalaččat, beaktilit ja váikkuhanfámolaččat sosiála- ja dearvvašvuođafuolahusa láhkaásaheami ja hálddahusa ovddideapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Luodaan edellytykset saamelaisten perinteisten elinkeinojen harjoittajien työterveyshuollolle, sijaisavulle ja toimeentulolle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ráhkaduvvojit vejolašvuođat sápmelaš árbevirolaš ealáhusaid hárjeheaddjiid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Tuetaan saamenkielisten sosiaali- ja terveyspalvelujen kehittämistä raja-alueyhteistyöllä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Dorjojuvvo sámegielat sosiála- ja dearvvašvuođabálvalusaid ovddideapmi rádjeguovloovttasbargguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Pohjois-Suomen sosiaalialan osaamiskeskuksen, saamelaisyksikön toimintaedellytyksiä vahvistetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Davvi-Suoma sosiálasuorggi máhttinguovddáža sápmelašovttadaga doaibmanvejolašvuođat nannejuvvojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.5 Saamelaisten kulttuuripalvelujen ja taide-elämän kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3.5 Sámiid kulturbálvalusaid ja dáiddaeallima ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Edistetään arvolisäveron laskemista saamen käsityöltä ja taiteelta 9 % saamelaiskäräjien edunvalvonnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddiduvvo árvolassevearu vuolideapmi sámi duojis ja dáidagis 9 % sámedikki ovddugohcimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Laaditaan saamelaiskäräjien taide- ja käsityöpoliittinen ohjelma vuoden 2012 aikana kuullen saamelaistaiteilijoita ja käsityöntekijöitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Gárvvistuvvo sámedikki dáidda- ja duodjepolitihkalaš prográmma jagi 2012 áigge masa gullat sámedáiddáriid ja duojáriid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelman laatimista varten palkataan työntekijä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmma gárvvisteami várás bálkáhuvvo bargi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamenkielisen kulttuurin edistämiseen ja saamelaisjärjestöjen toimintaan varattua määrärahaa nostetaan taloussuunnitelman mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámegielat kultuvrra ovddideapmái ja sámeservviid doibmii várrejuvvon mearreruhta bajiduvvo ekonomiijaplána mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Uudistetaan saamelaisen kulttuurimäärärahan hakuprosessia tehokkaammaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ođaduvvo sápmelaš kulturmearreruđa ohcanproseassa beaktileabbon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuurilautakunta laatii saamelaiskäräjien toimintaohjelman perustalta vuodesta 2013 lähtien vuosittaiset tavoitteet saamelaiselle kulttuurimäärärahalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturlávdegoddi gárvvista sámedikki doaibmanprográmma vuođul jagi 2013 rájes jahkásaš ulbmiliid sápmelaš kulturmearreruhtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät edistää ja luo omalta osaltaan edellytykset sille, että Suomi ratifioi Unescon aineettoman kulttuuriperinnön suojelusopimuksen mahdollisimman pian o Tuetaan saa-melaisten kulttuuri-ilmausten säilymistä, kehittymistä ja elvyttämistä saamelaiskäräjien edunvalvonnassa ja omassa toiminnassa o Saamelaisessa kulttuurimäärärahan myöntämisessä ja edunvalvonnassa luodaan edellytykset sille, että saamenkielisen ja saamelaiskulttuurinmukaisen lasten- ja nuorten kirjallisuuden, multimediatuotannon ja muiden palvelujen määrä ja saatavuus kasvaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi ovddida ja iežas bealis ráhkada vejolašvuođaid dasa, ahte Suopma ratifisere Unesco immateriála kulturárbbi suodjalansoahpamuša jođáneamos lági mielde. o Dorjojuvvo sápmelaš kulturalbmanemiid seailun, ovdáneapmi ja ealáskahttin sámedikki ovddugohcima vuolde ja iežas doaimmas. o Sápmelaš kulturmearreruđa mieđiheamis ja ovddugohcimis ráhkaduvvojit vejolašvuođat dasa, ahte sámegielat ja sámekulturmieldásaš mánáid- ja nuoraidgirjjálašvuođa, multimediabuvttadusa ja eará bálvalusaid mearri ja oažžumuš lassána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Tuetaan edunvalvonnassa Saamelaismuseo Siidan kehittymistä, resursointia ja tehtävien siirtämistä Museovirastolta Siidalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Dorjojuvvo ovddugohcimis Sámemusea Siidda ovdáneapmi, resurssaidjuohkin ja bargguid sirdin Museovirastos Siidii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Luodaan edellytykset kolttakulttuurikeskuksen perustamiselle Sevettijärvelle yhteistyössä kolttien kyläkokouksen kanssa ja tuetaan keskuksen toimintaa ja vaikuttavuutta luomalla saamelaiskäräjien omia toimintoja keskuksen yhteyteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ráhkaduvvojit vejolašvuođat nuortalaškulturguovddáža vuođđudeami várás Čeavetjávrái ovttasbarggus nuortalaččaid siidačoahkkimiin ja dorjojuvvo guovddáža doaibma ja váikkuhannávccat lágidemiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurissa perinteinen kulttuuri-ilmaus tarkoittaa joikumusiikkia, saamen käsityötä, saamelaistaidetta, kertomaperinnettä ja myyttejä, kirjallisuutta, saamenkielisiä paikannimiä sekä saamelaista rakennusperinnettä (mm. kodat, kammit, erityyppiset aitat).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kultuvrras árbevirolaš kulturalbmaneapmi oaivvilda luođi, sámi duoji, sámi dáidaga, muitalanárbevieru ja myhtaid, girjjálašvuođa, sámegielat báikenamaid ja sápmelaš huksenárbi (ee. goađit, gámmet, iešguđetlágan áittit).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi saamelaiseen muinaisuskoon kuuluva uhraaminen seidoille on kulttuuri-ilmaus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan lassin dološ oskui gullan oaffaruššan siiddiide lea kulturalbmaneapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uudemmat kulttuuriilmaukset tarkoittavat modernia saamelaismusiikkia, teatteria ja elokuvataidetta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđasut kulturalbmaneamit dárkkuhit modearna sámemusihka, teáhtera ja filbmadáidaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>toteudu, koska saamelaisten o Luodaan edellytyksiä saamenkielisen sanomalehdistön ja verkkomedian kehittymiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>toteudu, koska saamelaisten sámedikki iežas doaimmaid guovddáža oktavuhtii. o Lágiduvvojit vejolašvuođat sámegielat aviissaid ja neahttamedia ovdáneapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Luodaan edellytykset saamenkielisen ohjelmatarjonnan lisääntymiselle radiossa ja TV:ssä, erityisenä painopisteenä saamenkielisen ja kulttuurinmukaisen lasten- ja nuortenohjelmien merkittävä lisääntyminen sekä saamelaisradion kuuluvuusalueen laajentamiselle kaupunkeihin palvelemaan suurempaa osaa saamelaisista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Lágiduvvojit vejolašvuođat sámegielat prográmmafálaldaga lasiheapmái radios ja TV:s, earenoamáš deaddočuokkisin dat, ahte sámegielat ja - kulturmieldásaš mánáid- ja nuoraidprográmmat lassánit ja sámeradio guláhatguovlu viidu gávpogiidda bálvalit stuorát oasi sámiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikutetaan tehokkaasti ja vaikuttavasti Yleisradion saamenkielisten palvelujen rahoituksen lisäämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váikkuhuvvo beaktilit ja váikkuhanfámolaččat Yleisradio sámegielat bálvalusaid ruhtadeami lasiheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjät tukee saamelaiskulttuuri Sajoksen saamelaiskulttuuripalvelujen kehittymistä ja järjestää saamelaisia kulttuuripalveluita myös muissa saamelaisten kotiseutualueen kunnissa ja kotiseutualueen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggi duvdá sámekulturguovddáš Sajosa sámekulturbálvalusaid ovdáneami ja ordne sápmelaš kulturbálvalusaid maiddái eará sámiid ruovttuguovllu gielddain ja ruovttuguovllu olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Sajoksen aseman vahvistaminen, kehittäminen ja tunnetuksi tekeminen saamelaisten vireänä ja omaehtoisena toimintakeskuksena sekä elävänä ja monipuolisena tapahtumatalona. o Sajoksen johtamis- ja markkinointi- sekä sen vakituisten Kuva: Anni Näkkäläjärvi toimijoiden välisen yhteistoimintamallin suunnittelu ja sovitun mallin toimeenpano ja kehittäminen ja yhteistoimintamallin toiminta- ja henkilöstöresurssien turvaaminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sajosa sajádaga nannen, ovddideapmi ja dovddusin dahkan sápmelaččaid virkkos ja iehčanas doaibmaguovddážin ja eallinfámolaš ja máŋggabealat dáhpáhusdállun o Sajosa jođihan- ja márkanastin- sihke dan fásta doaibmiid gaskasaš ovttasbargomálle plánen ja Govva: Anni Näkkäläjärvi sohppojuvvon málle ollašuhttin ja ovddideapmi ja ovttasbargomálle doaibman- ja bargoveahkaresurssaid dorvvasteapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Alkuperäiskansojen elokuvakeskuksen toimintaa jatketaan ja kehitetään ja sen toimintaa ulotetaan myös saamelaisten kotiseutualueen ulkopuolelle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Eamiálbmogiid filbmaguovddáža doaimma jotket ja ovddidit ja dan doaibma olahuvvo maiddái sámiid ruovttuguovllu olggobeallái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaismusiikkikeskuksen toimintaa jatketaan ja kehitetään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámemusihkkaguovddáža doaimma jotket ja ovddidit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Yhteistyötä tehdään evankelis-luterilaisen kirkon ja ortodoksisen kirkon kanssa saamenkielisten palvelujen parantamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Dahkko ovttasbargu evangelalaš-luteralaš girkuin ja ortodoksalaš girkkuin buoridan dihte sámegielat bálvalusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tehdään yhteistyötä myös elämänkatsomuksellisten järjestöjen kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dahkko ovttasbargu maiddái eallinoinnolaš servviiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.6 Saamelaisopetuksen ja korkeakoulutuksen kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3.6 Sámeoahpahusa ja alit oahpahusa ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaisen oppimateriaalin valmistamiseksi osoitettua määrärahaa korotetaan saamelaiskäräjien esitysten mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sápmelaš oahppamateriála buvttadeami várás čujuhuvvon mearreruhta bajiduvvo sámedikki evttohusaid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarin- ja koltansaamenkielisten oppimateriaalien määrää lisätään merkittävästi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anáraš- ja nuortalašgielat oahppamateriála mearri lasihuvvo dovdomassii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamen kielen ja saamenkielistä perusopetusta varten valmistetaan saamelaisen kulttuurin huomioon ottavat Saamelaisopetuksen opetussuunnitelman perusteet, jonka avulla opetuksen sisältöjä ja tuntijakoja yhtenäistetään ja suunnitelmallinen kielen elvyttäminen opetuksen avulla tehdään mahdolliseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámegiela ja sámegielat vuođđooahpahusa várás ráhkaduvvo Sámeoahpahusa oahppoplána vuođuštusat, mii váldá vuhtii sámekultuvrra ja mainna oahpahusa sisdoallu ja diibmojuohku dahkko oktilažžan ja ulbmillaš giela ealáskahttin oahpahusain dahkko vejolažžan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Utsjoen saamelaislukion säilymistä tuetaan ja luodaan edellytykset saamelaislukion toiminnan kehittymiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ohcejoga sámelogahaga seailuma dorjojuvvo ja lágiduvvojit vejolašvuođat sámelogahaga doaimma ovdáneapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luodaan edellytykset saamenkieliselle opetukselle lukiossa ja saamenkielisen ylioppilaskokeiden suorittamiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lágiduvvojit vejolašvuođat sámegielat oahpahussii logahagain ja sámegielat studeantačállosiid čađaheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Kehitetään yhteistyössä eri oppilaitosten kanssa kieltä elvyttävän toiminnan opetusta ja erityispedagogiikkaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddiduvvo ovttas eará oahppolágádusaiguin giellaealáskahttindoaimma oahpahusa ja sierrapedagogihka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Edistetään SPN:n saamelaisyliopistohanketta, jotta saamelaisnuoret voivat saada korkeakokoilutusta saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Ovddiduvvo SPR:a sámi universitehtaprošeakta, man bokte sámenuorat sáhttet oažžut allaskuvlaoahpu sámiid ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaiskäräjille perustetaan saamelaisopetuksen kehittämis- ja resurssikeskus, joka palvelee ja avustaa koulutuksen järjestäjiä saamen kielen ja saamenkielisen opetuksen kehittämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámediggái ásahuvvo sámeoahpahusa ovddidan- ja resursaguovddáš, mii bálvala ja veahkeha skuvlejumi ordnejeaddjiid sámegiela ja sámegielat oahpahusa ovddideamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjille osoitetaan varoja opetusta tukevan tiedotuksen ja pedagogisen neuvonnan hoitamiseen ja saamelaisopetuksen valtakunnallisena kehittäjänä ja koordinaattorina toimimiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggái čujuhuvvo ruhtadeapmi dieđiheami ja pedagogalaš ráđđeaddima dikšumii ja doibmii sámeoahpahusa riikkadási ovddideaddjin ja koordináhtorin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamen kielen ja saamenkielisen opetuksen erityisrahoitus (L 29.12.2009/1705, 45 § 1 mom.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámegiela ja sámegielat oahpahusa sierraruhtadeapmi (L 29.12.2009/1705, 45 § 1 mom.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>laajennetaan koskemaan myös niitä saamelaisten kotiseutualueen ulkopuolisia kuntia, joissa on huomattava saamelaisväestö.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>viiddiduvvo guoskat maiddái daid sámiid ruovttuguovllu olggobeale gielddaid, main orru fuomášahtti sápmelaš álbmot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mahdollistetaan kokoaikaisten saamen kielen opettajan virkojen perustamisen myös kotiseutualueen ulkopuolelle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dahkko vejolažžan ollesáigásaš sámegiela oahpaheaddjivirggiid ásaheapmi maiddái ruovttuguovllu olggobeallái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Luodaan edellytyksiä saamenkielisten aineen- ja luokanopettajien koulutuksen, täydennyskoulutuksen ja muuntokoulutuksen lisäämiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Lágiduvvojit vejolašvuođat sámegielat ávnnas- ja luohkáoahpaheaddjiskuvlejupmái, dievasmahttinskuvlejumi ja nuppástusskuvlejumi lasiheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaista opettajakoulutusta kehitetään siten, että siinä otetaan huomioon saamelaisopetuksen erityistarpeet, saamelaiskulttuurinmukaisuus, saamelaisten perinteinen tieto sekä kaksikielisyys- ja kaksikulttuurisuuspedagogiikka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaš oahpaheaddjiskuvlejupmi ovddiduvvo dan láhkai, ahte das váldo vuhtii sámeoahpahusa sierradárbbut, sámekultuvra, sápmelaččaid árbevirolaš diehtu ja guovttegielat- ja guovttekultuvrralašpedagogihka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Käynnistetään saamelaisopetuksen arviointihanke.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Álggahuvvo sámeoahpahusa árvvoštallanfidnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3.7 Saamelaisen parlamentaarisen neuvoston toiminnan kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.3.7 Sámi parlamentáralaš ráđi doaimma ovddideapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o SPN:lle on delegoitu julkisen vallan tehtäviä pohjoismaisessa saamelaissopimuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o SPR:i leat delegerejuvvon almmolaš válddi doaimmat davviriikkalaš sámesoahpamušas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suhde saamelaiskäräjien toimintaan on määritetty saamelaiskäräjien työjärjestyksessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gaskavuohta sámedikki doibmii leat meroštallojuvvon sámedikki bargoortnegis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SPN huolehtii ja johtaa saamelaisten kansainvälisestä edustamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SPR fuolaha ja jođiha sápmelaččaid riikkaidgaskasaš ovddasteami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o SPN edistää ja seuraa toiminnassaan Kirkkoniemen kolmannen saamelaisparlamentaarikkojen julistuksen toteutumista o SPN:n edistää ja seuraa YK:n alkuperäiskansaraportoija James Anayan saamelaisväestön tilaa Suomessa, Ruotsissa, Norjassa ja Venäjällä käsitelleiden raporttien suositusten toteutumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o SPR ovddida ja čuovvu doaimmastis Girkonjárgga goalmmát sámeparlamentarihkkáriid julggaštusa ollašuvvama. o SPR ovddida ja čuovvu ON eamiálbmotraportevrra James Anaya raporttaid ávžžuhusaid ollašuvvama sámeálbmoga dilis Suomas, Ruoŧas, Norggas ja Ruoššas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Suomen saamelaiskäräjät osallistuu SPN:n kautta arktiseen ja Barentsin alueen yhteistyöhön, kansainväliseen ilmastopoliittiseen ja biodiversiteettipäätöksentekoon, WIPO:n toimintaan, pohjoisen ulottavuuden ja pohjoismaiseen yhteistyöhön sekä alkuperäiskansayhteistyöhön YK:ssä tehokkaasti ja vaikuttaen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Suoma sámediggi oassálastá SPR:a bokte arktalaš ja Barentsguovllu ovttasbargui, riikkaidgaskasaš dálkkádatpolitihkalaš ja biodiversitehtamearrádusdahkamii, WIPO doibmii, davviguovllu ja davviriikkalaš ovttasbargui ja eamiálbmogiid ovttasbargui ON:s beaktilit ja váikkuhanfámolaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o SPN:llä pysyvä sihteeristö ja oma budjetti vuoteen 2015 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o SPR:s lea fásta čállingoddi ja iežas bušeahtta jagi 2015 rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaiskäräjille on turvattu resurssit osallistua täyspainoisesti SPN:n toimintaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dorvvastuvvon resurssat oassálastit dievasmearálaččat SPR:a doibmii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o SPN:n alaisuudessa toimii nuorisolautakunta sekä tarvittava määrä muita lautakuntia SPN:n tehtävien tehokasta hoitamista varten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o SPR:a vuollásažžan doaibmá nuoraidlávdegoddi ja dárbbašlaš mearri eará lávdegottit vai SPR:a barggut dikšojuvvošedje beaktilit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>010-030 HENKILÖSTÖN PALKAT (sis. myös palkan sivukulut)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>010-030 BARGIID BÁLKKÁT (sisttisdoallá maiddái bálkká lavttagoluid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleinen toimisto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovddášdoaimmahat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyinen henkilöstö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálá bargit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0101 Puheenjohtaja 89.000,- 92.000,- 100.000,- 0102 Hallintopäällikkö 71.000,- 73.000,- 75.000,- 0103 Lakimiessihteeri 70.000,- 72.000,- 74.000,- 0104 Kulttuurisihteeri 50.000,- 51.000,- 52.000,- 0105 Sosiaali- ja terveyssihteeri 56.000,- 58.000,- 59.000,- 0106 Taloussihteeri 54.000,- 55.000,- 56.000,- 0107 Hallintosihteeri 42.000,- 43.000,- 44.000,- 0108 Toimistosihteeri 40.000,- 41.000,- 42.000,- 0109 Puheenjohtajan avustaja 52.000,- 53.000,- 54.000,- 524.000,- 538.000,- 556.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0101 Ságadoalli 89.000,- 92.000,- 100.000,- 0102 Hálddahushoavda 71.000,- 73.000,- 75.000,- 0103 Láhkačálli 70.000,- 72.000,- 74.000,- 0104 Kulturčálli 50.000,- 51.000,- 52.000,- 0105 Sosiála- ja dearvvašvuohtačálli 56.000,- 58.000,- 59.000,- 0106 Ekonomiijačálli 54.000,- 55.000,- 56.000,- 0107 Hálddahusčálli 42.000,- 43.000,- 44.000,- 0108 Doaimmahatčálli 40.000,- 41.000,- 42.000,- 0109 Ságadoalli veahkki 52.000,- 53.000,- 54.000,- 524.000,- 538.000,- 556.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitellut uudet virat (nimikkeet alustavia)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plánejuvvon ođđa virggit (álgonamahusat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0110 I varapuheenjohtaja 80.000,- 82.000,- 84.000,- 0111 II varapuheenjohtaja 40.000,- 42.000,- 43.000,- 0112 Kaivosasiain sihteeri 56.000,- 58.000,- 59.000,- 0113 Ympäristösihteeri 56.000,- 58.000,- 59.000,- 0114 Elinkeinosihteeri 56.000,- 58.000,- 59.000,- 0115 Kansainvälisten asiain sihteeri 56.000,- 58.000,- 59.000,- 0116 Tiedottaja 53.000,- 54.000,- 55.000,- 0117 Esittelijä (saam. alueen ulkopuoliset asiat) 56.000,- 58.000,- 59.000,- 0118 Toimistosihteeri 40.000,- 41.000,- 42.000,- 493.000,- 509.000,- 519.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0110 I várreságadoalli 80.000,- 82.000,- 84.000,- 0111 II várreságadoalli 40.000,- 42.000,- 43.000,- 0112 Ruvkeáššiid čálli 56.000,- 58.000,- 59.000,- 0113 Birasčálli 56.000,- 58.000,- 59.000,- 0114 Ealáhusčálli 56.000,- 58.000,- 59.000,- 0115 Riikkaidgaskasaš áššiid čálli 56.000,- 58.000,- 59.000,- 0116 Dieđiheaddji 53.000,- 54.000,- 55.000,- 0117 Áššemeannudeaddji (sámeguovllu olggobeale áššit) 56.000,- 58.000,- 59.000,- 0118 Doaimmahatčálli 40.000,- 41.000,- 42.000,- 493.000,- 509.000,- 519.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimisto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela doaimmahat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyinen henkilöstö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálá bargit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0210 Saamen kieliturvasihteeri 67.000,- 69.000,- 71.000,- 0211 Saamen kieliasiain sihteeri 53.000,- 54.000,- 55.000,- 0212 I Kielenkääntäjä (ps) 57.000,- 58.000,- 59.000,- 0213 II Kielenkääntäjä (ps) 54.000,- 55.000,- 56.000,- 0214 III Kielenkääntäjä (ps) 56.000,- 57.000,- 58.000,- 0215 IV Kielenkääntäjä (ps) 53.000,- 54.000,- 55.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0210 Gielladorvočálli 67.000,- 69.000,- 71.000,- 0211 Sámi giellaáššiid čálli 53.000,- 54.000,- 55.000,- 0212 I Giellajorgaleaddji (ds) 57.000,- 58.000,- 59.000,- 0213 II Giellajorgaleaddji (ds) 54.000,- 55.000,- 56.000,- 0214 III Giellajorgaleaddji (ds) 56.000,- 57.000,- 58.000,- 0215 IV Giellajorgaleaddji (ds) 53.000,- 54.000,- 55.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0216 Kielenkääntäjä (is) 52.000,- 53.000,- 54.000,- 0217 Kielenkääntäjä (ks) 52.000,- 53.000,- 54.000,- 444.000,- 453.000,- 462.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0216 Giellajorgaleaddji (ag) 52.000,- 53.000,- 54.000,- 0217 Giellajorgaleaddji (ng) 52.000,- 53.000,- 54.000,- 444.000,- 453.000,- 462.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitellut uudet virat (nimikkeet alustavia)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plánejuvvon ođđa virggit (álgonamahusat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0218 Kielenkääntäjä (ps) 54.000,- 55.000,- 56.000,- 0219 Kielenkääntäjä (is) 54.000,- 55.000,- 56.000,- 0120 Kielenkääntäjä (ks) 54.000,- 55.000,- 56.000,- 162.000,- 165.000,- 168.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0218 Giellajorgaleaddji (ds) 54.000,- 55.000,- 56.000,- 0219 Giellajorgaleaddji (ag) 54.000,- 55.000,- 56.000,- 0120 Giellajorgaleaddji (ng) 54.000,- 55.000,- 56.000,- 162.000,- 165.000,- 168.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutus- ja oppimateriaalitoimisto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvlen- ja oahppamateriáladoaimmahat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyinen henkilöstö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálá bargit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0311 Koulutussihteeri 68.000,- 70.000,- 72.000,- 0312 Oppimateriaalisihteeri 60.000,- 61.000,- 63.000,- 0313 Oppimateriaalisuunnittelija 50.000,- 51.000,- 52.000,- 0314 Toimistosihteeri 42.000,- 43.000,- 44.000,- 220.000,- 225.000,- 231.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0311 Skuvlenčálli 68.000,- 70.000,- 72.000,- 0312 Oahppamateriálačálli 60.000,- 61.000,- 63.000,- 0313 Oahppamateriálaplánejeaddji 50.000,- 51.000,- 52.000,- 0314 Doaimmahatčálli 42.000,- 43.000,- 44.000,- 220.000,- 225.000,- 231.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitellut uudet virat (nimikkeet alustavia)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plánejuvvon ođđa virggit (álgonamahusat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0315 Koulutussuunnittelija 52.000,- 53.000,- 54.000,- 0316 Oppimateriaalityöntekijä (is) 50.000,- 51.000,- 52.000,- 0317 Oppimateriaalityöntekijä (ks) 50.000,- 51.000,- 52.000,- 152.000,- 155.000,- 158.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0315 Skuvlenplánejeaddji 52.000,- 53.000,- 54.000,- 0316 Oahppamateriálabargi (ag) 50.000,- 51.000,- 52.000,- 0317 Oahppamateriálabargi (ng) 50.000,- 51.000,- 52.000,- 152.000,- 155.000,- 158.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>051 Kokouspalkkiot 25.000,- 26.000,- 27.000,- 052 Ansionmenetyskorvaukset 17.000,- 18.000,- 19.000,- 053 Tulkkauspalkkiot 65.000,- 66.000,- 67.000,- 054 Muut palkkiot (mm. hallituksen jäs.) 40.000,- 42.000,- 44.000,- 147.000,- 152.000,- 157.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>051 Čoahkkinbálkkát 25.000,- 26.000,- 27.000,- 052 Dienasmassinbuhtadusat 17.000,- 18.000,- 19.000,- 053 Dulkonbálkkát 65.000,- 66.000,- 67.000,- 054 Eará bálkkát (ee. stivralahtut) 40.000,- 42.000,- 44.000,- 147.000,- 152.000,- 157.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>korjaus ja kunn. pito 9.000,- 11.000,- 13.000,- 064 ATK-laitteet 20.000,- 25.000,- 30.000,- 065 ATK-ohjelmistot 20.000,- 25.000,- 30.000,- 066 Muut koneet ja laitteet sekä kalusteet 15.000,- 15.000,- 15.000,- 067 Toimistotarvikkeet 13.000,- 15.000,- 17.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>061 Doaibmalanjaid láiggut (earret Sajosa láiggut) 18.000,- 19.000,- 20.000,- 062 Kopierenmášeniid láiggut 15.000,- 16.000,- 17.000,- 063 Mášeniid ja rusttegiid divvun ja bajásdoallan 9.000,- 11.000,- 13.000,- 064 ADG-rusttegat 20.000,- 25.000,- 30.000,- 065 ADG-prográmmat 20.000,- 25.000,- 30.000,- 066 Eará mášenat ja rusttegat sihke viessogálvvut 15.000,- 15.000,- 15.000,- 067 Doaimmahatdárbašat 13.000,- 15.000,- 17.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>palvelut 12.000,- 12.000,- 13.000,- 069 Tele- ja puh. palvelut 30.000,- 32.000,- 34.000,- 070 Tietoliikennemaksut 12.000,- 13.000,- 14.000,- 071 Postimaksut 7.000,- 8.000,- 9.000,- 072 Pankkien palvelumaksut 2.000,- 2.000,- 3.000,- 073 Muut tstomenot 5.000,- 5.000,- 5.000,- 178.000,- 198.000,- 220.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>068 Kopieren- ja čatnanbálvalusat 12.000,- 12.000,- 13.000,- 069 Tele- ja tlf. bálvalusat 30.000,- 32.000,- 34.000,- 070 Diehtojohtolatmávssut 12.000,- 13.000,- 14.000,- 071 Poastamávssut 7.000,- 8.000,- 9.000,- 072 Báŋkkuid bálvalanmávssut 2.000,- 2.000,- 3.000,- 073 Eará doaimmahatgolut 5.000,- 5.000,- 5.000,- 178.000,- 198.000,- 220.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>081 Saamelaiskäräjien kokous 4-5 kok.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>081 Sámedikki čoahkkin 4-5 čoahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>30.000,- 33.000,- 35.000,- 082 Hallitus 10 kok.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>30.000,- 33.000,- 35.000,- 082 Stivra 10 čoahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>25.000,- 26.000,- 27.000,- 083 Lautakunnat 5 kpl, 6-8 kok./ltk 40.000,- 42.000,- 43.000,- 084 Omat työryhmät ja seminaarit 20.000,- 22.000,- 24.000,- 085 Ulkopuoliset työryhmät 10.000,- 10.000,- 11.000,- 125.000,- 133.000,- 140.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>25.000,- 26.000,- 27.000,- 083 Lávdegottit 5 st., 6-8 čoahk./ldg 40.000,- 42.000,- 43.000,- 084 Iežas bargojoavkkut ja seminárat 20.000,- 22.000,- 24.000,- 085 Olggobeale bargojoavkkut 10.000,- 10.000,- 11.000,- 125.000,- 133.000,- 140.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>091 Sidosryhmätoiminta 120.000,- 125.000,- 130.000,- 092 Tiedotustoiminta 20.000,- 20.000,- 20.000,- 093 Koulutus 20.000,- 22.000,- 24.000,- 094 Terveyspalvelut 18.000,- 19.000,- 20.000,- 095 Ravitsemispalvelut 25.000,- 25.000,- 27.000,- 096 Painotuotteet ja lehti-ilmoitukset 25.000.- 27.000,- 30.000,- 097 Muut menot 50.000,- 52.000,- 54.000,- 278.000,- 295.000,- 315.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>091 Čanasjoavkodoaibma 120.000,- 125.000,- 130.000,- 092 Dieđihandoaibma 20.000,- 20.000,- 20.000,- 093 Skuvlejupmi 20.000,- 22.000,- 24.000,- 094 Dearvvašvuođabálvalusat 18.000,- 19.000,- 20.000,- 095 Biebmanbálvalusat 25.000,- 25.000,- 27.000,- 096 Preantagálvvut ja aviisaalmmuhusat 25.000.- 27.000,- 30.000,- 097 Eará golut 50.000,- 52.000,- 54.000,- 278.000,- 295.000,- 315.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyinen henkilöstö (määräaikaisia)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálá bargit (mearreáigásaččat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitellut uudet virat (nimikkeet alustavia)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plánejuvvon ođđa virggit (álgonamahusat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0106 Sajoksen johtaja (Sakä:n osuus) 41.000,- 42.000,- 43.000,- 0107 Markkinointisihteeri 50.000,- 51.000,- 52.000,- 0108 Tuotantosihteeri 48.000,- 49.000,- 50.000,- 0109 Info-työntekijä 40.000,- 41.000,- 42.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0106 Sajosa hoavda (Sámedikki ossodat) 41.000,- 42.000,- 43.000,- 0107 Márkanastinčálli 50.000,- 51.000,- 52.000,- 0108 Buvttadančálli 48.000,- 49.000,- 50.000,- 0109 Info-bargi 40.000,- 41.000,- 42.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0110 Laitoshuoltaja (50 % 18.000,- 19.000,- 19.000,- 197.000,- 202.000,- 206.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0110 Lágádusfuolaheaddji (50 % 18.000,- 19.000,- 19.000,- 197.000,- 202.000,- 206.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0111 Sajoksen vuokrat 1.521.000,- 1.566.000,- 1.612.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0111 Sajosa láiggut 1.521.000,- 1.566.000,- 1.612.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0112 Muut toimintamenot 80.000,- 85.000,- 85.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0112 Eará doaibmagolut 80.000,- 85.000,- 85.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>011 SAAMEN KIELEN YLLÄPITÄMINEN JA KEHITTÄMINEN 360.000,- 365.000,- 370.000,- (erillinen esitys OM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>011 SÁMEGIELA DOALAHEAPMI JA OVDDIDEAPMI 360.000,- 365.000,- 370.000,- (sierra evttohus OM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>012 EUROOPAN UNIONIN RAKENNE- RAHASTO-OHJELMAT 80.000,- 80.000,- 80.000,- (omarahoitusosuus saamelaishankkeista)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>012 EUROHPA UNIOVNNA RÁHKADUS- FOANDA-PROGRÁMMAT 80.000,- 80.000,- 80.000,- (iežasruhtadanoassi sámefidnuin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0131 Saamelaisen parlamentaarisen neuvoston toimintakulut 40.000,- 80.000,- 100.000,- 0132 Osuus saamen kielen lautakunnan toimintakuluista 100.000,- 100.000,- 100.000,- 0133 Muu kansainvälinen toiminta 30.000,- 30.000,- 30.000,- 170.000,- 210.000,- 230.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0131 Sámi parlamentáralaš ráđi doaibmagolut 40.000,- 80.000,- 100.000,- 0132 Oassi sámegiela lávdegotti doaibmagoluin 100.000,- 100.000,- 100.000,- 0133 Eará riikkaidgaskasaš doaibma 30.000,- 30.000,- 30.000,- 170.000,- 210.000,- 230.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>015 SAAMELAINEN ELINKEINO- TOIMINTA (erillinen esitys TEM:lle) 500.000,- 500.000,- 500.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>015 SÁPMELAŠ EALÁHUS- DOAIBMA (sierra evttohus BEM:ii) 500.000,- 500.000,- 500.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>016 SAAMELAINEN NUORISO- 130.000,- 140.000,- 150.000,- NEUVOSTO (sis.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>016 SÁPMELAŠ NUORAID- 130.000,- 140.000,- 150.000,- RÁĐĐI (sist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>nuorisosihteerin palkkakulut) (erillinen esitys OKM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>nuoraidčálli bálkágolut) (sierra evttohus OKM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>017 SAAMELAINEN NUORISO- 100.000,- 110.000,- 120.000,- MÄÄRÄRAHA (erillinen esitys OKM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>017 SÁPMELAŠ NUORAID- 100.000,- 110.000,- 120.000,- MEARRERUHTA (sierra evttohus OKM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>018 SAAMELAISEN KULTTUURIN TUKEMINEN (erilliset esitykset OKM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>018 SÁMEKULTUVRRA DOARJUN (sierra evttohusat OKM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0181 Saamelaiskulttuurin ja - yhdistysten tukeminen (nk. saamelaiskulttuurimääräraha) 625.000,- 630.000,- 635.000,- 0182 Alkuperäiskansojen elokuvakeskus 200.000,- 210.000,- 220.000,- 0183 Saamelaismusiikkikeskus 200.000,- 210.000,- 220.000,- 0184 Saamelainen lastenkulttuurikeskus 120.000,- 125.000,- 130.000,- 1.145.000,- 1.175.000,- 1.205.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0181 Sámekultuvrra ja - servviid doarjun (ng. sápmelaš kulturmearreruhta) 625.000,- 630.000,- 635.000,- 0182 Eamiálbmogiid filbmaguovddáš 200.000,- 210.000,- 220.000,- 0183 Sámemusihkkaguovddáš 200.000,- 210.000,- 220.000,- 0184 Sámi mánáidkulturguovddáš 120.000,- 125.000,- 130.000,- 1.145.000,- 1.175.000,- 1.205.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>019 SAAMENKIELISEN OPPIMATERIAALIN 541.000,- 545.000,- 550.000,- TUOTTAMINEN (erillinen esitys OKM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>019 SÁMEGIELAT OAHPPAMATERIÁLA 541.000,- 545.000,- 550.000,- BUVTTADEAPMI (sierra evttohus OKM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>020 SAAMEN KIELEN JA KULTTUURIN 1.450.000,- 1.500.000,- 1.550.000,- ELVYTYSTOIMINTA (erillinen esitys OKM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>020 SÁMEGIELA JA - KULTUVRRA 1.450.000,- 1.500.000,- 1.550.000,- EALÁSKAHTTINDOAIBMA (sierra evttohus OKM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>021 SAAMELAISNUORTEN TAIDE- 30.000,- 32.000,- 33.000,- TAPAHTUMA (erillinen esitys OKM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>021 SÁMENUORAID DÁIDDA- 30.000,- 32.000,- 33.000,- DÁHPÁHUS (sierra evttohus OKM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>022 SAAMENKIELISTEN SOSIAALI- JA 1.950.000,- 1.960.000,- 1.970.000,- TERVEYSPALVELUJEN TUOTTAMINEN (erillinen esitys STM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>022 SÁMEGIELAT SOSIÁLA- JA 1.950.000,- 1.960.000,- 1.970.000,- DEARVVAŠVUOĐABÁLVALUSAID BUVTTADEAPMI (sierra evttohus SDM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyinen henkilöstö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálá bargit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitellut uudet virat (nimikkeet alustavia)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plánejuvvon ođđa virggit (álgonamahusat)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>0232 II Suunnittelija 56.000,- 57.000,- 59.000,- 0233 Muut toimintamenot 30.000,- 32.000,- 34.000,- 86.000,- 89.000,- 93.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>0232 II Plánejeaddji 56.000,- 57.000,- 59.000,- 0233 Eará doaibmagolut 30.000,- 32.000,- 34.000,- 86.000,- 89.000,- 93.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>024 SAAMELAISTEN TERVEYDEN 150.000,- 152.000,- 154.000,- EDISTÄMINEN (sis.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>024 SÁPMELAČČAID DEARVVAŠVUOĐA 150.000,- 152.000,- 154.000,- OVDDIDEAPMI (sis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suunnittelijan palkkakulut) (erillinen esitys STM:lle)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>plánejeaddji bálkágolut) (sierra evttohus SDM:ii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulot (valtionavustukset) 11.520.000,- 11.887.000,- 12.447.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boađut (stáhtadoarjagat) 11.520.000,- 11.887.000,- 12.447.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtionavustukset oikeusministeriön pääluokasta (kohdat 01-014) 5.382.000,- 5.627.000,- 6.030.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtadoarjagat vuoigatvuohtaministeriija oaiveluohkás (čuoggát 01-014) 5.382.000,- 5.627.000,- 6.030.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtionavustus työvoima- ja elinkeino- ministeriön pääluokasta (kohta 015) 500.000,- 500.000,- 500.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtadoarjagat bargofápmo- ja ealáhus- ministeriija oaiveluohkás (čuokkis 015) 500.000,- 500.000,- 500.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtionavustukset opetus- ja kulttuuri- ministeriön pääluokasta (kohdat 016-022) 3.396.000,- 3.502.000,- 3.608.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtadoarjagat oahpahus- ja kultur- ministeriija oaiveluohkás (čuoggát 016-022) 3.396.000,- 3.502.000,- 3.608.000,-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtionavustukset sosiaali- ja terveysministeriön pääluokasta (kohdat 023-024) 2.242.000,- 2.258.000,- 2.309.000,-</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtadoarjagat sosiála- ja dearvvašvuohtaministeriija oaiveluohkás (čuoggát 023-024) 2.242.000,- 2.258.000,- 2.309.000,-</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

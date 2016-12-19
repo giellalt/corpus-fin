@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=54_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalilautakunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vaal-luŠvddkåŠdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous asetti kokouksessaan 2/2014 vaalilautakunnan valmistelemaan ja toimeenpanemaan saamelaiskäräjien vuonna 2015 pidettävät vaalit.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>SääŠmteeŠǧǧ sååbbar vaŠlljii såbbrest 2/2014 vaal-luŠvddkååŠdd valmštõõllâd da tiuŠddepiijjâd sääŠmteeŠǧǧ eeŠjj 2015 vaalid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jäsenet:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Luʹvddkådda koʹlle täk-aa vuässla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Janne Näkkäläjärvi, puheenjohtaja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuässla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veikko Feodoroff, varapuheenjohtaja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Veikko Feodoroff, vpk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilökohtaiset varajäsenet:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vääʹrrvuässla:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

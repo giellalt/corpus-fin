@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">patientlagen.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Julevusámegiella / Lulesamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>JulevusámegiellaLulesamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>PatiänntaláhkaPatientlagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinun pitäisi ymmärtää tiedot (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válljit rabás sujtov ålles rijkan (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avohoitopaikka valittavissa koko maan alueelta (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ådå medisijnalasj merustallam (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi lääketieteellinen arvio (ca 1 sida)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot umassláhkáj jus dån dárbaha remissav (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli et ole tyytyväinen hoitoosi (ca 1 sida)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dån illa dudálasj (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslaki on laadittu potilaita varten.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntaláhka l dagádum dunji gut la patiännta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslain mukaan sinulle tulee antaa tietoa sairaudestasi ja siihen saatavilla olevista hoitovaihtoehdoista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Danna buojkoduvvá dån galga diedov oadtjot duv skibádagá birra ja makkir dálkudime gávnnuji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin voit itse osallistua hoitoasi koskeviin päätöksiin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>De dån aj máhtá oassálasstet ja mierredit duv sujto birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinulle tulee antaa tietoa myös siitä, missä tarvitsemaasi hoitoa on tarjolla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån galga aj diedov oadtjot gånnå máhtá válljit sujtov majt dárbaha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinun pitäisi ymmärtää tiedot (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válljit rabás sujtov ålles rijkan (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avohoitopaikka valittavissa koko maan alueelta (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ådå medisijnalasj merustallam (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi lääketieteellinen arvio (ca 1 sida)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot umassláhkáj jus dån dárbaha remissav (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli et ole tyytyväinen hoitoosi (ca 1 sida)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dån illa dudálasj (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinun pitäisi ymmärtää tiedot</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Diededibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinun pitäisi ymmärtää tiedot</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Diededibme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hoitohenkilöstön on annettava sinulle tarvitsemasi tiedot henkilöllisyydestäsi ja taustastasi riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vájku gut dån la ja makkir vidjura dujna li de sujttobargge galggi vaddet dujni diedojt majt dárbaha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saatat esimerkiksi tarvita tulkkia tai kirjallisia tietoja, jotta ymmärrät, kuinka tutkimus tehdään.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Merkaj buojkulvissan dån márjju dárbaha dålkåv jali tjálalasj diededimev, dádjadittjat gåktu åtsådibme galggá sjaddat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Annettavat tiedot tulee sovittaa tilanteesi ja edellytystesi mukaan, jotta pystyt ymmärtämään tiedot ja osallistumaan omaan hoitoosi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Diededibme galggá hiebadum duv vidjurij ja ietjat åvdeldimijda. Ájnas la vaj galga dádjadit ja oassálasstet duv sujton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitset itse, kuinka aktiivisesti haluat osallistua omaan hoitoosi, mutta sinulla on aina oikeus omien toiveittesi kertomiseen.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån iesj vállji man aktijvalasj dån sidá årrot, valla dujna l agev máhttelisvuohta javllat majt sidá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun tunnet ymmärtäneesi, mitä vaihtoehtoja ja mahdollisuuksia on tarjolla, voit antaa suostumuksesi hoitoon tai ilmaista hyväksymisesi jollain muulla tavalla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå dåbdå dån dádjada makkir alternatijva ja máhttelisvuoda li dujna de máhtá miededit, jali juogaláhkáj javllat gåktu sidá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit myös kieltäytyä sinulle tarjottavasta hoidosta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån máhtá aj válljit vuornnot sujttuj mij fáladuvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikka olisitkin antanut suostumuksesi tiettyyn hoitoon, sinun on mahdollista muuttaa mieltäsi asiasta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vájku la aj miededam muhtem sujtuj de máhtá rievddadit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös lapsille tulee antaa mahdollisuus ilmaista mielipiteensä omasta hoidostaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mánán aj galggá årrot máhttelisvuohta ietjas vuojnov javllat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pienten lasten kohdalla tämä voi tapahtua yhdessä lapsen huoltajien kanssa, mutta mitä isommasta lapsesta on kysymys, sitä tärkeämpää on, että hän saa itse osallistua hoitoonsa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus mánná l unnagasj de máhttá dagáduvvat aktan máná sujttoaddnijn, valla dadi vuorrasap mánna l dadi ájnasabbo l sån oadtju oassálasstet ietjas sujton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsen tulee ymmärtää hänelle annetut tiedot, jotta hän pystyy osallistumaan aktiivisesti omaan hoitoonsa ja tekemään sitä koskevia päätöksiä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vaj máhtá aktijvalasj årrot sujton ja mierredit la ájnas mánná aj dádjat diededimev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Millaisia tietoja potilaalle voidaan antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Majt máhttá diededibme sisanedit ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaana sinun tulee saada tietoa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån galga oadtjot diededimev birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>omasta terveydentilastasisaatavilla</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>duv varresvuohtavijor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>olevista tutkimus- ja hoitotavoista</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>makkir barggovuoge gávnnuji åtsådibmáj, sujttuj ja dálkudibmáj makkir viehkkenävo gávnnuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saatavilla olevista apuvälineistä</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>goassa máhtá vuorddet sujtov oadtjot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>hoidon odotettavissa olevasta tuloksesta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>majt dálkudibme ja sujtto vuordeduvvá båhtusin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>mahdollisista komplikaatioista ja sivuvaikutuksista</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>makkir vádá ådå skibádagájda ja tjuovvobájnatjimijda gávnnuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>mahdollisesti tarvittavasta jälkihoidosta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>gåktu maŋŋelsujtto, majt márjju dárbaha, sjaddá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sairauden tai vamman ehkäisytavoista</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>makkir barggovuoge gávnnuji hierdittjat skibádagáv jali vahágav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Försäkringskassanin mahdollisuuksista kertoa muussa ETA-maassa tai Sveitsissä annettavasta hoidosta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>máhttelisvuoda Oadjodåjmadagán oadtjot ienep diededimev sujtov åhtsåt EES-rijkan jali Schweizan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joissain tapauksissa läheisesi voivat tarvita hoitoasi koskevia tietoja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Muhttijn márjju duv lagámusá dárbahi diededimev oadtjot duv sujto birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Salassapitosäännösten vuoksi tietoja voidaan antaa läheisillesi ainoastaan läsnäollessasi tai suostumuksellasi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sekretessa diehti lagámusá val máhtti diededuvvat jus iesj oassálastá manádimen jali l miededam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Akuuttitilanteissa, jolloin et voi antaa suostumustasi hoitoon esimerkiksi tajuttomuuden takia, sinua hoidetaan joka tapauksessa, mikäli henkesi on vaarassa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Hähkka vidjurijn, jus dån buojkulvissan la jámálguvvam ja ij máhte miededit, de huoman sujtov oattjo jus duv hägga l nihtedum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avohoitopaikka valittavissa koko maan alueelta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válljit rabás sujtov ålles rijkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avohoitopaikka valittavissa koko maan alueelta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válljit rabás sujtov ålles rijkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaana sinulle tulee antaa tietoa siitä, millaista hoitoa asuinpaikkasi maakäräjäkunta voi tarjota, ja mikäli hoitoa on mahdollista saada muiden maakäräjäkuntien alueella.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån galga oadtjot diededimev birra makkir sujtov duv lánndadigge máhttá fállat ja jus dån máhtá sujtov oadtjot ietja lánndadikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit myös valita avohoitopaikan mistä tahansa Ruotsissa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla máhtá aj válljit rábássujtov akta gånnå Svierigin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit siis valita, missä terveyskeskuksessa tai erikoissairaanhoidon avovastaanotolla haluat käydä tutkimuksissa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Merkaj dån máhtá válljit sujttoguovdátjav jali rabás spesialisstaduostudagáv manádibmáj jali åtsådibmáj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erikoissairaanhoidon avovastaanoton toimenpiteitä ovat esimerkiksi kaihileikkaukset.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buojkulvis rabás spesialisstasujttuj la gråstarratjuollama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hoidonantajan voi valita joko julkisten tai yksityisten terveyspalvelujen puolelta, kunhan hoito on maakäräjäkunnan rahoittamaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij la ájnas jus sujttovadde l almulasj jali priváhtta gå sujtto l lánndadikkes biednigahtedum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietyn terveyskeskuksen valintaa kutsutaan joskus listaukseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válljit sujttoguovdátji gullut muhttijn gåhtjoduvvá tjáledibmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit kuitenkin käydä missä tahansa terveyskeskuksessa koko Ruotsissa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla dujna l agev máhttelisvuohta mannat akta makkir sujttoguovdátji sidá ålles Svierigin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveyskeskuksesta on mahdollista saada myös omalääkäri.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sujttoguovdátjin máhtá aj válljit stuoves dåktåraktavuodav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erikoissairaanhoidon avohoitopaikaksi voi valita myös muiden maakäräjäkuntien alueella sijaitsevan aluesairaalan, esimerkiksi syöpähoidon seurantaa varten.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån máhtá aj válljit aleprabássujtov dajvakskihpadåben ietjá lánndadikken, buojkulvissan bårredávda gehtjadibme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaan tarpeet etusijalla</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duv medisijnalasj dárbo mierredi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun haet hoitoa muiden maakäräjäkuntien alueelta, lääketieteelliset tarpeesi ratkaisevat hoitoajankohdan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gå sujtov åtså ietjá lánndadikken de duv medisijnalasj dárbo mierredi goassa sujtov oattjo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääketieteelliset tarpeet arvioi lääkäri.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duv medisijnalasj dárbo dåktåris merustaláduvvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avohoitoa annetaan kaikille tasavertaisesti riippumatta siitä, missä he ovat kirjoilla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån galgá oadtjot rabássujtov sämmi vidjurijda gå gájka gudi li álmmuktjáledum dan lánndadikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi avohoidon potilasmaksu on siis samansuuruinen kaikille.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Merkaj buojkulvissan dån mávsá sämmi madev patiänntamákson gå gájkka iehtjáda gudi rabássujtov åhtsi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli valitset toisen maakäräjäkunnan alueella annettavan hoidon, vastaat itse matkoistasi ja asumisestasi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån hähttu iesj räjsojt ja viessomav mákset gå vállji sujtov ietjá lánndadikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toisen maakäräjäkunnan alueelta tulevana potilaana et kuulu hoitoa antavan maakäräjäkunnan hoitotakuun piiriin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dån, gut boadá ietjá lánndadikkes, ij sujttogarantiddjas gåbtjåduvá lánndadikken majt vállji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi lääketieteellinen arvio</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ådå medisijnalasj merustallam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi lääketieteellinen arvio</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ådå medisijnalasj merustallam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli sinulla on hengenvaarallinen tai erityisen vakava sairaus tai vamma ja sinun on tehtävä vaikeita lääketieteellisiä päätöksiä, voit pyytää uutta lääketieteellistä arviota tehtäväksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dujna l hägganihtte jali sierraláhkáj tjavgga skibádahka jali vahák ja galga gássjelis medisijnalasj märrádusájt mierredit de máhtá rávkkat ådå medisijnalasj merustallamav oadtjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arvion tekee muu kuin sinua jo hoitava lääkäri, joko asuinpaikkasi maakäräjäkunnassa tai muussa maakäräjäkunnassa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dav oattjo ietjá dåktåris gå iemelágasj dåktåris, juogo de duv häjmmalánndadikken jali ietjá lánndadikken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asuinpaikkasi maakäräjäkunta maksaa uuden lääketieteellisen arvion.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Duv häjmmalánndadigge máksá gålojt ådå medisijnalasj merustallama åvdås.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähetteen tarve vaihtelee</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot umassláhkáj jus dån dárbaha remissav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähetteen tarve vaihtelee</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot umassláhkáj jus dån dárbaha remissav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli avoimeen erikoissairaanhoitoon vaaditaan lähete, sinun tulee hankkia se terveyskeskuksestasi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus remissa rávkaduvvá rabás spesialisstasujttuj duv häjmmalánndadikken jali dan lánndadikken gånnå sujtov åtså de hähttu remissav adnet duv sujttoguovdátjis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli et ole tyytyväinen hoitoosi</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dån illa dudálasj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli et ole tyytyväinen hoitoosi</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dån illa dudálasj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokaisessa maakäräjäkunnassa on potilaslautakunta, jonka tehtävä on auttaa sinua siinä tapauksessa, että et tunne saavasi osallistua omaan hoitoosi tai et ole muulla tavoin tyytyväinen hoitoosi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Juohkka lánndadikken gávnnu patiänntasiebrreráde mij galggá duv viehkedit jus dån ij dåbdå oasálasjvuodav duv sujton jali ietjáláhkáj illa sujtujn dudálasj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilaslautakunta voi esimerkiksi auttaa sinua saamaan yhteyden vastaavaan hoitohenkilöstöön ja antaa sinulle tietoa siitä, kuinka voit tehdä ilmoituksen tapahtuneesta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Patiänntasiebrreráde máhttá buojkulvissan duv viehkedit sahkadit åvdåsvásste sujttobargij ja diededimev oadtjot gåktu máhtá diededit majt la vásedam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sinun pitäisi ymmärtää tiedot (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Válljit rabás sujtov ålles rijkan (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avohoitopaikka valittavissa koko maan alueelta (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ådå medisijnalasj merustallam (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi lääketieteellinen arvio (ca 1 sida)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá årrot umassláhkáj jus dån dárbaha remissav (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli et ole tyytyväinen hoitoosi (ca 1 sida)</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus dån illa dudálasj (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoittaja ja toimittaja: Ingemar Karlsson Gadea, 1177 Vårdguiden﻿</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjálle ja dåjmadiddje: Ingemar Karlsson Gadea, 1177 Vårdguiden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tekstin sisältö on 1177 Vårdguiden - toimituksen tarkastama ja hyväksymä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gájkka sisadno l aj giehtadaládum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

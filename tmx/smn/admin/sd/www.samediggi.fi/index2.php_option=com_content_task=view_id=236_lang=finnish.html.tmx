@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=236_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo Tenon lohipadosta !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo Tiänu luosâpuáđust</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesän tullessa Ilmari ja hänen poikansa Raine pystyttävät Tenojokeen perinteisen lohipadon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko keesi puátá, te Ilmar kandâinis Rainein cegâttává Tiänun ärbivuáválii luosâpuáđu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Padon pystyttäminen on työlästä hommaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puáđu ceeggâdmist lii korrâ pargo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalastajat: Ilmari ja Raine Tapiola</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuálásteijeeh: Ilmari já Raine Tapiola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 3,40</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 3,40</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

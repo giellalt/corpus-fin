@@ -1,0 +1,1920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=788_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansoja koskevat kansainväliset sopimukset ja julistukset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugáid kyeskee aalmugijkoskâsiih sopâmušah já julgáštušah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän sivun lyhytosoite on www.samediggi.fi/kvsopimukset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taan siijđo uánihis čujottâs lii www.samediggi.fi/kvsopimukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansainväliset ihmisoikeussopimukset ovat valtiosopimuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalmugijkoskâsiih olmoošvuoigâdvuotsopâmušah láá staatâsopâmušah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne ratifioidaan Suomessa säätämällä sopimuksen määräykset sisältävä asetus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taid ratifisisteh Suomâst aasâtmáin asâttâs, mii ana sistees sopâmuš miärádâsâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeussopimuksia tulee huomioida Suomessa uudistettaessa lainsäädäntöä, oikeuskäytännössä sekä erityisesti perustuslakivaliokunnan kannanotoissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmoošvuoigâdvuotsopâmušâid kalga Suomâst väldiđ vuotân talle ko uđâsmiteh lahâasâttem, riehtivuáháduvvâst sehe eromâšávt vuáđulahâváljukode peleväldimijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten tosiasiallinen suoja muodostuu kansainvälisten sopimusten ja kansallisen lainsäädännön takaamista oikeuksista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilij tuođâlâš syeji šadda vuoigâdvuođâin, maid aalmugijkoskâsiih sopâmušah já aalmuglâš lahâasâttem tähideh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeussopimusten toimeenpanoa valvovat kansainväliset asiantuntijaelimet.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmoošvuoigâdvuotsopâmušâi olášuttem koceh aalmugijkoskâsiih äššitobdeeorgaaneh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen tulee raportoida elimille säännöllisesti sopimuksen toimeenpanosta Suomessa ja siitä, miten se on ottanut huomioon kansainvälisten sopimusten toimeenpanoa valvovien elimien suositukset.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ kalga raportistiđ orgaanáid merikoskâsávt sopâmuš olášutmist Suomâst já tast, maht tot lii váldám vuotân aalmugijkoskâsij sopâmušâi olášuttem koccee orgaanij avžuuttâsâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Määräaikaisraportoinnista vastaa Suomessa ulkoasianministeriö, joka kuulee eri ministeriöitä, viranomaisia, saamelaiskäräjiä ja kansalaisjärjestöjä raportin laatimista varten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Merikoskâsâš rapotistmist västid Suomâst olgoašijministeriö, mii kulá sierâ ministeriöid, virgeomâhâid, sämitige já aalmuglâšseervijd raapoort rähtim várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusten toimeenpanoa valvovat elimet voivat myös vierailla Suomessa ja kuulla eri sidosryhmiä raporttejaan varten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušâi olášuttem koccee orgaaneh pyehtih meid kolliđ Suomâ já kuullâđ sierâ čonâsjuávhuid raportij várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden määräaikaisraporttien lisäksi elimet vastaanottavat alkuperäiskansoilta ja kansalaisjärjestöjä lausuntoja ja näkemyksiä sopimusten toimeenpanosta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Staatâi merikoskâsâš raportij lasseen orgaaneh väldih vuástá algâaalmugijn já aalmuglâšseervijn ciälkkámušâid já uáinuid sopâmušâi olášutmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät raportoi ministeriöille ja suoraan ihmisoikeuksia valvoville elimille saamelaisten oikeuksista ja kanslianvälisten sopimusten toimeenpanosta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge raportist ministeriöid já njuolgist olmoošvuoigâdvuođâid koccee orgaanáid sämmilij vuoigâdvuođâin já aalmugijkoskâsij sopâmušâi olášutmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lausunnoissaan saamelaiskäräjät esittää kansallisen lainsäädännön kehittämistä kansainvälisten velvoitteiden ja ihmisoikeuksia valvovien elinten suositusten mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ciälkkámušâinis sämitigge oovdânpuáhtá aalmuglii lahâasâttem ovdedem aalmugijkoskâsij kenigâsvuođâi já olmoošvuoigâdvuođâi koccee orgaanij avžuuttâsâi miäldásávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät myös osallistuu ihmisoikeuksia käsittelevien kansainvälisten sopimusten laadintaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge meid uásálist olmoošvuoigâdvuođâid kieđâvuššee aalmugijkoskâsij sopâmušâi rähtimân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhdistyneiden kansakuntien (YK) sopimukset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovtâstum aalmugij (OA) sopâmušah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>KP-sopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>KP-sopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi on ratifioinut kansalais- ja poliittisia oikeuksia koskevan yleissopimuksen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ lii ratifisistâm aalmugjeessân- já poolitlâš vuoigâdvuođáid kyeskee almossopâmuš (KP-sopimus) ive 197 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>vuonna 1976. KP-sopimus on osa Suomen oikeusjärjestelmää, ja on voimassa laintasoisena ja siten välittömästi sovellettava ja sitova oikeuslähde.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>KP-sopâmuš lii uási Suomâ riehtivuáháduv, já lii vyeimist laavâtääsist já návt njuolgist heiviittettee já čannee riehtikäldee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>KP-sopimuksen toimeenpanoa valvoo YK:n ihmisoikeuskomitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>KP-sopâmuš olášuttem kocá OA olmoošvuoigâdvuotkomitea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen mukaan myös yksityishenkilöt voivat valittaa ihmisoikeuskomitealle KP-sopimuksen rikkomuksista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš mield meid ovtâskâsulmuuh pyehtih väidiđ olmoošvuoigâdvuotkomitean KP-sopâmuš rikkomušâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 1 artikla takaa kaikille kansoille itsemääräämisoikeuden, jonka nojalla ne määräävät vapaasti poliittisen asennoitumisensa ja harjoittavat vapaasti taloudellisten, sosiaalisten ja sivistyksellisten olojensa kehittämistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 1 artikla täähid puoh almugáid jiešmeridemvuoigâdvuođâ, mon vuáđuld toh merideh rijjâ poolitlâš vuáhádumes já hárjutteh rijjâ ekonomâlij, sosiaallij já čuovviittâslij tiilij ovdedem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeuskomitea on vahvistanut, että sopimuksen 1 artikla koskee myös alkuperäiskansoja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmoošvuoigâdvuotkomitea lii nanodâm, ete sopâmuš 1 artikla kuáská meid algâaalmugáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>KP-sopimuksen 27 artiklan mukaan niissä valtioissa, joissa on kansallisia, uskonnollisia tai kielellisiä vähemmistöjä, tällaisiin vähemmistöihin kuuluvilta henkilöiltä ei saa kieltää oikeutta yhdessä muiden ryhmänsä jäsenten kanssa nauttia omasta kulttuuristaan, tunnustaa ja harjoittaa omaa uskontoaan tai käyttää omaa kieltään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>KP-sopâmuš 27 artikla mield tain staatâin, main láá aalmugliih, oskoldâhliih teikâ kielâliih ucceeblovoh, tágáráid ucceeblovoid kullee ulmuid ij uážu kieldiđ vuoigâdvuođâ oovtâst eres juávhu jesânijguin navdâšiđ jieijâs kulttuurist, tubdâstiđ já hárjuttiđ jieijâs oskolduv teikâ kevttiđ jieijâs kielâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla turvaa saamelaisten oikeuden nauttia yhdessä ryhmänsä kanssa omasta kulttuuristaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla tuurvâst sämmilij vuoigâdvuođâ navdâšiđ oovtâst juávhoinis jieijâs kulttuurist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeuskomitea on KP-sopimuksen 27 artiklan tulkinnan osalta katsonut, että säännöksessä tarkoitettua kieltämistä voi olla esimerkiksi sellainen maan tai luonnonvarojen kilpaileva käyttö, joka estää alkuperäiskansojen elinkeinojen menestymisen alueella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmoošvuoigâdvuotkomitea lii KP-sopâmuš 27 artikla tulkkum uásild keččâm, ete njuolgâdusâst uáivildum kieldim puáhtá leđe ovdâmerkkân taggaar eennâm teikâ luánduvarij kištottellee kevttim, mii iästá algâaalmugij iäláttâs miänástum kuávlust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n ihmisoikeuskomitean vuonna 1994 antaman yleiskommentin nro 23 (50) mukaan sopimuksen artikla 27 edellyttää sanamuodostaan huolimatta myös positiivisia erityistoimia vähemmistöön kuuluvien kulttuurioikeuksin suojelemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>OA olmoošvuoigâdvuotkomitea ive 1994 adelem almoskomment nr 23 (50) mield sopâmuš artikla 27 váátá sänihäämist peerusthánnáá meid positiivlâš sierânâstooimâid ucceeblohon kullei kulttuurvuoigâdvuođâi suojâlmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleiskommentin mukaan alkuperäiskansojen kulttuurimuodon katsotaan kattavan myös niiden maan käyttöön perustuvan elämäntavan ja perinteiset elinkeinot kuten metsästyksen, kalastuksen ja poronhoidon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almoskomment mield keččih, ete algâaalmugij kulttuurhäämi luávdá meid tai eennâmkiävtun vuáđuduvvee eellimtäävi já ärbivuáválijd iäláttâsâid tego miäcástem, kuálástem já puásuituálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuurin suojeleminen edellyttää myös, että vähemmistöyhteisöjen edustajat saavat tehokkaasti osallistua heihin vaikuttavaan päätöksentekoon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kulttuur suojâlem váátá meid, ete ucceeblohosiärváduvâi ovdâsteijeeh uážžuh pehtilávt uásálistiđ sijjân vaikutteijee miärádâsrähtimân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TSS-sopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>TSS-sopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>) vuonna 1976.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ lii ratifisistâm ekonomâlijd, sosiaallijd já čuovviittâslijd vuoigâdvuođáid kyeskee almossopâmuš (TSS-sopâmuš) ive 1976.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa valvoo taloudellisten, sosiaalisten ja sivistyksellisten oikeuksien komitea (</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem kocá ekonomâlij, sosiaallij já čuovviittâslij vuoigâdvuođâi komitea (TSS-komitea).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi on ratifioinut sopimuksen valinnaisen pöytäkirjan yksilövalituksista ja se</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ lii ratifisistâm sopâmuš valjimiävtulii pevdikirje ohtâgâsväidimijn já tot šadda v uáimán 30.4.2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valituksia voivat tehdä yksityishenkilöt tai yksityishenkilöiden ryhmät, jotka väittävät kyseisen sopimusvaltion loukanneen heidän yleissopimuksessa tunnustettuja taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksiaan, (2 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Väidimijd pyehtih toohâđ ovtâskâsulmuuh teikâ ovtâskâsulmui juávhuh, moh eteh, ete koččâmâšâst leijee sopâmušstaatâ lii luávkkám sii almossopâmušâst tubdâstum ekonomâlijd, sosiaallijd já čuovviittâslijd vuoigâdvuođâid, (2 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitukset tehdään TSS-komitealle (1 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Väidimeh tahhojeh TSS-komitean (1 artikla)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen artikla 1 on samanlainen KP-sopimuksen 1 artiklan kanssa taaten kansoille itsemääräämisoikeuden.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš artikla 1 lii siämmáálágán KP-sopâmuš 1 artikláin täähidmáin návt almugáid jiešmeridemvuoigâdvuođâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen artikla 15 takaa jokaiselle oikeuden osallistua kulttuurielämään, nauttia sen eduista sekä nauttia tieteellisten, kirjallisten tai taiteellisten tuotteidensa henkisille ja aineellisille eduille suodusta suojasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš artikla 15 täähid juáhážân vuoigâdvuođâ uásálistiđ kulttuurelimân, navdâšiđ tom hiäđuin sehe navdâšiđ syejeest, mii lii suovvum sii tieđâlij, kirjálij teikâ taaiđâlij ráhtusij jiegâlâš já materiaallâš hiäđoid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rotusyrjintäsopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Näliolgoštemsopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 1970</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 1970 ratifisistem jyehilágán näliolgoštem meddâlistmân kyeskee aalmugijkoskâsâš almossopâmuš suoijâl ovtâskâs ulmuid etnisâš tuávvážân vuáđuduvvee olgooštmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa valvoo rotusyrjintäkomitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem kocá näliolgoštemkomitea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 1 artikla kieltää rotuun, ihonväriin, syntyperään tai etnisyyteen perustuvan syrjinnän.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 1 artikla kiäldá náálán, liškeiivnán, suhâ- teikâ etnisâš tuávvážân vuáđuduvvee olgoštem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artiklan mukaan rotusyrjinnäksi ei ole katsottava sellaisia erityisiä toimenpiteitä, joiden tarkoituksen on turvata näiden ryhmien ja yksilöiden yhtäläiset oikeudet ja mahdollisuudet nauttia ja käyttää ihmisoikeuksia ja perusvapauksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla mield näliolgooštmin ij koolgâ keččâđ tagarijd sierânâstooimâid, moi ulmen lii turvâstiđ tai juávhui já ovtâskâs ulmui oovtviärdásâš vuoigâdvuođâid já máhđulâšvuođâid navdâšiđ já kevttiđ olmoošvuoigâdvuođâid já vuađuluovâsvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 2 artiklan mukaan valtioiden on ryhdyttävä toimenpiteisiin rotusyrjinnän poistamiseksi ja kieltämään rotuvihaan yllyttämisen (artikla 4).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 2 artikla mield staatah kalgeh riemmâđ toimáid näliolgoštem meddâlistmân já kieldiđ näliolgooštmân kihtâlem (artikla 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi liittyi lasten oikeuksien</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Párnái vuoigâdvuođâi almossopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>vuonna 1991.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ seervâi párnáá vuoigâdvuođâi almossopâmušân ive 1991.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen noudattamista ja lapsen oikeuksien toteutumista seuraa YK:n lapsen oikeuksien komitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš nuávdittem já párnái vuoigâdvuođâi olášum čuávu OA párnái vuoigâdvuođâi komitea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus koskee alle 18-vuotiata.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš kuáská vuálá 18-ihásijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa lasten oikeuksien toteutumista seuraa ja edistää lapsiasiavaltuutettu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst párnái vuoigâdvuođâi olášum čuávu já oovded pärniäššiváldálâš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 30 artikla on samansisältöinen kuin KP-sopimuksen 27 artikla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 30 artikla lii siämmáásiskáldâsâš ko KP-sopâmuš 27 artikla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artiklan mukaan alkuperäiskansaan kuuluvalta lapselta ei saa kieltää oikeutta nauttia yhdessä ryhmän muiden jäsenten kanssa omasta kulttuuristaan, tunnustaa ja harjoittaa omaa uskontoaan tai käyttää omaa kieltään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla mield algâaalmugân kullee párnáást ij uážu kieldiđ vuoigâdvuođâ navdâšiđ oovtâst juávhu eres jesânijguin jieijâs kulttuurist, tubdâstiđ já hárjuttiđ jieijâs oskolduv teikâ kevttiđ jieijâs kielâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 2 artikla kieltää lasten syrjinnän heidän mm. kielen ja syntyperän perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 2 artikla kiäldá párnái olgoštem el. sii kielâ já suhâtuávááš vuáđuld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 17 artiklan mukaan valtioiden on taattava että lapset saavat tietoa monista eri lähteistä Valtioiden tulee rohkaista tiedotusvälineitä kiinnittämään erityistä huomiota tai alkuperäiskansalasten kielellisiin tarpeisiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 17 artikla mield staatah kalgeh tähidiđ ete párnááh uážžuh tiäđu maaŋgâ sierâ käldein. Staatah kalgeh ruokâsmittiđ tieđettemniävvuid kiddiđ eromâš huámášume algâaalmugpárnái kielâlâš tárboid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 29 artiklan mukaan lasten opetuksen tulee perustua mm. ihmisoikeuksien ja perusvapauksien sekä Yhdistyneiden kansakuntien peruskirjan periaatteiden kunnioittamisen kehittämiseen ja kunnioituksen edistämiseen lapsen vanhempia, omaa sivistyksellistä identiteettiä, kieltä ja arvoja kohtaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 29 artikla mield párnái máttááttâs kalga vuáđuduđ el. olmoošvuoigâdvuođâi já vuáđuluovâsvuođâi sehe Ovtâstum aalmugij vuáđukirje prinsiipij kunnijâttem oovdedmân já kunnijâttem oovdedmân párnái vanhimij, jieijâs čuovviittâslâš identiteet, kielâ já áárvui kuáttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkinaisten naisten syrjinnän poistamista käsittelevä yleissopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almossopâmuš, mii kieđâvuš jyehilágán nisonij olgooštem meddâlistem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa vuonna 1986.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ratifisistii Suomâst ive 1986.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa valvoo naisten syrjinnän poistamista käsittelevä komitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem kocá komitea, mii kieđâvuš nisonij olgoštem meddâlistem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus ei sisällä erityisesti alkuperäiskansanaisia koskevia määräyksiä, mutta sopimuksen toimeenpanoa valvova komitea on suosituksissaan kiinnittänyt erityisesti huomiota alkuperäiskansanaisten yhtäläisiin mahdollisuuksiin osallistua yhteiskuntaelämään ja saada tasa-arvoista palvelua ja kohtelua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ij ana sistees eromâšávt algâaalmugnisonáid kyeskee miärádâsâid, mutâ sopâmuš olášuttem koccee komitea lii avžuuttâsâin kiddim eromâš huámášume algâaalmugnisonij oovtviärdásâš máhđulâšvuođáid uásálistiđ ohtsâškodde-elimân já finniđ täsiárvusâš palvâlem já kohtâlem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus kieltää naisten syrjinnän ja velvoittaa edistämään naisten tasa-arvon toteutumista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš kiäldá nisonij olgoštem já kenigit ovdediđ nisonij täsiáárvu olášum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Biodiversiteettisopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Biodiversiteetsopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>astui Suomessa voimaan vuonna 1994.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Biologilâš maaŋgâhámásâšvuotân kyeskee almossopâmuš šoodâi vuáimán Suomâst ive 199 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa ei valvo ihmisoikeussopimuksista poiketen erityinen komitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem ij koce olmoošvuoigâdvuođâin spiekâstmáin sierânâs komitea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanon seuraamiseksi ja sopimuksen kehittämiseksi sopimuksen ratifioineet valtiot (osapuolet) pitävät kahden vuoden välein osapuolikokouksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem čuávum já sopâmuš ovdedem várás staatah (uásipeleh), moh láá ratifisistâm sopâmuš, tuálih kyevti ive kooskâi uásipeličuákkimijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa seurataan maaraportein.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem čuávuh staatâi raportij peht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>iodiversiteettistrategian ja sitä tukevan toimintaohjelman avulla</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst sopâmuš olášuteh luándusuojâlemlahâaasâtmist sehe staatârääđi tuhhiittem biodiversiteetstrategia já tom tuárjoo toimâohjelm vievâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa edistää eri sidosryhmien edustajista koostuva nk. biodiversiteettityöryhmä sekä sen alainen artikla 8(j)-asiantuntijatyöryhmä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem ovdedeh sierâ čanosjuávhui ovdâsteijei nk. biodiversiteetpargojuávkku sehe ton vuálásâš artikla 8(j)-äššitobdeepargojuávkku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa sopimuksen alkuperäiskansa- ja paikallisyhteisöjä käsittelevät artiklat koskevat saamelaisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst sopâmuš algâaalmug- já páihálâš siärváduvvâid kieđâvuššee artiklah kyeskih sämmilijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen artikla 8(j) velvoittaa Suomea kunnioittamaan, suojelemaan ja ylläpitämään saamelaisten biologisen monimuotoisuuden suojelun ja kestävän käytön kannalta merkittävää tietämystä sekä rohkaista tämän tietämyksen, innovaatioiden ja käytäntöjen käytöstä saatujen hyötyjen tasapuolista jakamista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš artikla 8(j) kenigit Suomâ kunnijâttiđ, suojâliđ já paijeentoollâđ sämmilij biologilâš maaŋgâhámásâšvuođâ suojâlem já pištee kiävtu tááhust merhâšittee tiäđu sehe ruokâsmittiđ taan tiäđu, innovaatioi já vuáháduvâi kiävtust finnejum hiäđui täsipiälásâš jyehim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla 10(c) edellyttää, että Suomi suojelee ja kannustaa biologisten resurssien perinteistä käyttöä perinteisten kulttuuristen tapojen mukaisesti, jotka soveltuvat suojelun ja kestävän käytön vaatimuksiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla 10(c) váátá, ete Suomâ suoijâl já movtijdit biologilâš resurssij ärbivuáválâš kiävtu ärbivuáválij kulttuurlij taavij miäldásávt, moh heivejeh suojâlem já pištee kiävtu vátámâššáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ILO:n yleissopimus nro 111 työmarkkinoilla ja ammatin harjoittamisen yhteydessä tapahtuvasta syrjinnästä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>ILO almossopâmuš nr 111 olgooštmist, mii tábáhtuvá pargomarkkânijn já áámmát hárjuttem ohtâvuođâst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi ratifioi sopimuksen vuonna 1970 (SopS 63/1970).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ ratifisistij sopâmuš ive 1970 (SopS 63/1970).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus on hyväksytty vuonna 1958</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>S opâmuš lii tuhhiittum ive 1958.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus käsittelee syrjinnän kieltoa työmarkkinoilla ja ammatin harjoittamisen yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš kieđâvuš olgooštem kieldim pargomarkkânijn já áámmát hárjuttem ohtâvuođâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus kieltää mm..</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš kiäldá el.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Etniseen alkuperään perustuvan syrjinnän työmarkkinoilla ja ammatin harjoittamisen yhteydessä (1 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>etnisâš tuávvážân vuáđuduvvee olgoštem pargomarkkânijn já áámmát hárjuttem ohtâvuođâst (1 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen artiklan 5 mukaan erityisiä suojelu- ja auttamistoimenpiteitä, joihin on ryhdyttävä ILO:n sopimusten tai suositusten johdosta, ei ole pidettävä syrjintänä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš artikla 5 mield sierânâs suojâlem- já išedemtooimâid, moid kalga riemmâđ ILO sopâmušâi teikâ avžuuttâsâi tááhust, ij koolgâ toollâđ olgooštmin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi samassa artiklassa nimenomaisesti määrätään, että syrjintänä ei pidetä sellaisia erityistoimenpiteitä, jotka ovat tarpeen sellaisten henkilöiden tarpeiden turvaamiseksi, jotka tarvitsevat erityistä apua tai tukea esimerkiksi kulttuurisen asemansa perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasseen siämmáá artiklast eidu merideh, ete tagarijd sierânâstooimâid iä toolâ olgooštmin, moh láá tárbuliih tagarij ulmui táárbui tuurvâstmân, kiäh tarbâšeh sierânâs iše teikâ torjuu ovdâmerkkân kulttuurlâš sajattuv vuáđuld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen EU:n liittymissopimuksen pöytäkirja nro 3 saamelaisista</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ EU servâmsopâmuš pevdikirje nr 3 sämmilijn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>isäpöytäkirja nro 3 käsittelee saamelaisten oikeuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ EU servâmsopâmuš lasepevdikirje nr 3 kieđâvuš sämmilij vuoigâdvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirja on osa EU:n perussopimusta eli nk. Lissabonin sopimusta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pevdikirje lii EU vuáđusopâmuš ađai nk. Lissabon sopâmuš uási.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirja tunnustaa, että Suomella, Norjalla ja Ruotsilla on kansallisen ja kansainvälisen oikeuden nojalla olevat velvoitteet ja sitoumukset saamelaisiin nähden.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pevdikirje tuubdâst, ete Suomâst, Taažâst já Ruotâst láá aalmuglâš já aalmugijkoskâsâš vuoigâdvuođâ vuáđuld kenigâsvuođah já čonâsmeh sämmilij kuáttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusosapuolet myös ottavat huomioon, että Suomi, Norja ja Ruotsi ovat sitoutuneet saamelaisten elinkeinojen, kielen, kulttuurin ja elämäntavan säilyttämiseen ja kehittämiseen ja katsovat, että perinteinen saamelaiskulttuuri ja saamelaiselinkeinot ovat riippuvaisia luontaiselinkeinoista, kuten poronhoidosta, saamelaisten perinteisillä asuinalueilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušuásipeleh meid vääldih vuotân, ete Suomâ, Taažâ já Ruotâ láá čonâdâttâm sämmilij iäláttâsâi, kielâ, kulttuur já eellimtäävi siäilutmân já oovdedmân já keččih, ete ärbivuáválâš sämikulttuur já sämi-iäláttâsah láá sorjoliih luánduiäláttâsâin, tego puásuituálust, sämmilij ärbivuáválâš eellimkuávluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäpöytäkirjan 1 mukaan sen estämättä, mitä EY:n perustamissopimuksessa määrätään, saamelaisille saadaan myöntää yksinoikeuksia poronhoidon harjoittamiseen perinteisillä saamelaisalueilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasepevdikirje 1 mield tom estihánnáá, maid EY vuáđudemsopâmušâst merideh, sämmiláid uážžu mieđettiđ priivaatvuoigâdvuođâid puásuituálu háárjutmân ärbivuáválâš sämikuávluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen artiklan 2 mukaan pöytäkirjaa voidaan laajentaa koskemaan muitakin perinteisiin saamelaiselinkeinoihin liittyviä saamelaisten yksinoikeuksia niiden vastaisen kehityksen huomioon ottamiseksi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš artikla 2 mield pevdikirje puáhtá vijđediđ kuoskâđ eres-uv ärbivuáválâš sämiäláttâssáid lohtâseijee sämmilij priivaatvuoigâdvuođáid tai vuástásâš ovdedem vuotân väldimân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan ihmisoikeussopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Euroop Rääđi sopâmušah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan neuvoston ihmisoikeussopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Euroop olmoošvuoigâdvuotsopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>hyväksyttiin vuonna 1950 ja astui voimaan vuonna 1953.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Euroop rääđi olmoošvuoigâdvuotsopâmuš tuhhiittui ive 1950 já šoodâi vuáimán ive 1953.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusta on täydennetty ja muutettu lisäpöytäkirjoilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš lii tievâsmittum já rievdâdum lasepevdikirjijguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus koskee Euroopan Neuvoston jäsenmaita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš kuáská Euroop Rääđi jeessânenâmáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan neuvostoon kuuluu 47 valtiota, joista 28 Euroopan unionin jäsenmaata.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Euroop rááđán kuleh 47 staatâd, main 28 Euroop union jeessânenâmid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan neuvosto on poliittinen ja ihmisoikeusjärjestö.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Euroop rääđi lii poolitlâš já olmoošvuoigâdvuotservi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimukseen liittyneet valtiot sitoutuvat takaamaan jokaiselle lainkäyttövaltaansa kuuluvalle ihmiselle sopimuksessa turvatut oikeudet ja vapaudet.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušân siärvám staatah čonâdâteh tähidiđ jyehi lavâkevttimváldásis kullee olmožân sopâmušâst turvâstum vuoigâdvuođâid já rijjâvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeussopimuksessa turvatut oikeudet kuuluvat siis kaikille, myös ulkomaalaisille riippumatta esimerkiksi siitä, ovatko he jonkin muun Euroopan neuvoston jäsenvaltion kansalaisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmoošvuoigâdvuotsopâmušâst turvâstum vuoigâdvuođah kuleh tastoo puohháid, meid olgoeennâmlijd peerusthánnáá ovdâmerkkân tast, et láá-uv sij mottoom eres Euroop rääđi jeessânstaatâ aalmugjesâneh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toteutumista valvoo Euroopan neuvoston ihmisoikeustuomioistuin, joka ratkaisee yksilövalituksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášume kocá Euroop rääđi olmoošvuoigâdvuottuámustovli, mii čuávdá ohtâgâsväidimijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 8 artiklan mukaan jokaisella on oikeus yksityis- ja perhe-elämän suojaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 8 artikla mield juáhhást lii vuoigâdvuotâ priivaat- já peerâeellim suáján.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen 14 §:n mukaan kielletään syrjintä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš 14 § mield kieldih olgoštem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan ihmisoikeustuomioistuin on tulkinnut sopimuksen 14 artiklaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Euroop olmoošvuoigâdvuottuámustovli lii tulkkum sopâmuš 14 artikla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Thlimmenos-tapauksessa vuonna 2000 tuomioistuin on ratkaissut että 14 artiklan mukaista oikeutta olla tulematta syrjityksi ihmisoikeussopimuksessa turvattujen oikeuksien nauttimisessa loukataan, kun valtiot kohtelevat eri tavalla samankaltaisessa tilanteessa olevia ihmisiä ilman objektiivista ja kohtuullista perustetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Thlimmenos-tábáhtusâst ive 2000 tuámustovli lii čuávdám ete staatah luávkkájeh 14 artikla miäldásâš vuoigâdvuođâ, mon mield olmooš uážžu leđe šodâhánnáá olgoštuđ olmoošvuoigâdvuotsopâmušâst turvâstum vuoigâdvuođâi naavdâšmist, talle ko staatah kohtâleh siämmáálágán tiileest leijee ulmuid eresnáál objektiivlâš já kuáhtulâš vuáđđusttáá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeutta olla tulematta syrjityksi ihmisoikeussopimuksessa turvattujen oikeuksien nauttimisessa loukataan myös, kun valtiot ilman objektiivista ja kohtuullista perustetta kieltäytyvät kohtelemasta eri tavoin ihmisiä, jotka ovat merkityksellisellä tavalla erilaisessa tilanteessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuoigâdvuođâ, mon mield olmooš uážžu leđe šodâhánnáá olgoštuđ olmoošvuoigâdvuotsopâmušâst turvâstum vuoigâdvuođâi naavdâšmist, luávkkájeh meid, ko staatah objektiivlâš já kuáhtulâš vuáđđusttáá piettâleh kohtâlmist eresnáál ulmuid, kiäh láá merhâšitteenáál ereslágán tiileest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vähemmistöpuitesopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ucceeblohoraamisopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ratifioitiin Suomessa vuonna 1998.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalmuglij ucceeblovoi suojâlmân kyeskee almossopâmuš ratifisistii Suomâst ive 199 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa seuraa asiantuntijoista koostuva neuvoa-antavatakomitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem čuávvu ravvimkomitea, mii čuággán äššitobdein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea antaa suosituksensa sopimuksen toimeenpanemiseksi ministerineuvostolle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Komitea addel avžuuttâsâid sopâmuš olášuttem várás ministerrááđán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ministerineuvosto antaa komitean suositusten pohjalta suositukset jäsenvaltioille sopimuksen toimeenpanemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ministerrääđi addel komitea avžuuttâsâi vuáđuld avžuuttâsâid jeessânstaatáid sopâmuš olášuttem várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus käsittelee kansallisten vähemmistöjen kielellisiä ja kulttuurisia oikeuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš kieđâvuš aalmuglij ucceeblovoi kielâlijd já kulttuurlijd vuoigâdvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset luetaan kansalliseksi vähemmistöksi sopimuksen piirissä kuten esimerkiksi romanit ja suomenruotsalaisetkin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilijd loheh aalmuglâš ucceeblohhoon sopâmuš pirrâsist tego ovdâmerkkân romanijd já suomâruátálijd-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen viidennessä artiklassa sopimuspuolet sitoutuvat edistämään olosuhteita, jotka ovat tarpeellisia, jotta kansallisiin vähemmistöihin kuuluvat henkilöt voivat ylläpitää ja kehittää kulttuuriaan sekä säilyttää identiteettinsä oleelliset perustekijät: heidän uskontonsa, kielensä, perinnäistapansa ja kulttuuriperintönsä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš viiđâd artiklast sopâmušpeleh čonâdâteh ovdediđ tiilijd, moh láá tárbuliih, vâi aalmuglâš ucceeblohon kullee ulmuuh pyehtih paijeentoollâđ já ovdediđ kulttuuris sehe siäiluttiđ identiteetis čielgâ vuáđutahheid: sii oskolduv, kielâ, ärbivyevi já kulttuuräärbi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla myös edellyttää valtioiden suojelevan kansallisia vähemmistöjä vastentahtoiselta sulauttamiselta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla meid váátá staatâid suojâliđ aalmuglijd ucceeblovoid illámielâlâš suddâlutmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla 6 edellyttää valtion ryhtyvän toimenpiteisiin sellaisten henkilöiden suojelemiseksi, jotka voivat joutua syrjinnän tai vihamielisyyden kohteeksi mm. etnisen alkuperän ja kielen perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla 6 váátá, ete staatâ riämá toimáid tagarij ulmui suojâlmân, kiäh pyehtih šoddâđ olgoštem teikâ vajemielâlâšvuođâ čuosâttâhhân el. etnisâš tuávváá já kielâ vuáđuld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen artikla 10 takaa saamelaisille oikeuden käyttää saamen kieltä yksityisesti ja julkisesti, suullisesti ja kirjallisesti sekä oppia omaa kieltään (artikla 14).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš artikla 10 täähid sämmiláid vuoigâdvuođâ kevttiđ sämikielâ priivaatlávt já almolávt, njálmálávt já kirjálávt sehe oppâđ jieijâs kielâ (artikla 14).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansallisella vähemmistöön kuuluvalla henkilöllä on myös oikeus käyttää omakielisiä nimiään (11 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalmuglâš ucceeblohon kullee ulmust lii meid vuoigâdvuotâ kevttiđ suu jiejâskielâlâš noomâid (11 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neuvoa-antava komitea on julkaissut kolme temaattista yleiskommenttia sopimusvaltioiden määräaikaisraportteihin ja komitean havaintoihin pohjautuen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Staatah kalgeh meid riemmâđ toimáid máttááttâs já tutkâmuš syergist aalmuglij ucceeblovoidis kulttuurân, historján, kielân já oskoldâhân kyeskee tiäđu siäilutmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alueellisia ja vähemmistökieliä koskeva</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuávlulijd já ucceeblovokieláid kyeskee vuáđukirje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>astui voimaan Suomessa vuonna 1998.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuávlulijd já ucceeblovokieláid kyeskee Eurooplâš vuáđukirje šoodâi vuáimán Suomâst ive 1998.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen tavoitteena on suojella pieniä katoamassa olevia kieliä, joita sopimusvaltioiden kansalaiset perinteisesti käyttävät valtioissaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ulmen lii suojâliđ uccâ kielâid moh láá lappuumin, maid sopâmušstaatâi aalmugjesâneh ärbivuáválávt kevttih staatâinis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Peruskirja ei siten koske esimerkiksi maahanmuuttajien kieliä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuáđukirje ij návt kuáská ovdâmerkkân enâmânvärrejeijei kieláid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa seuraa asiantuntijakomitea, joka antaa suosituksensa Euroopan Neuvoston ministerikomitealle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem čuávvu äššitobdeekomitea, mii addel avžuuttâsâidis Euroop Rääđi ministerkomitean.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea antaa suositukset jäsenvaltioille sopimuksen toimeenpanemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Komitea addel avžuuttâsâid jeessânstaatáid sopâmuš olášutmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen artiklassa 7 valtiot sitoutuvat luomaan olosuhteet, jotka mahdollistavat vähemmistökielen säilymisen ja sitoutuvat poistamaan rajoitukset, jotka estävät vähemmistökieliä menestymästä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš artiklast 7 staatah čonâdâteh lääččiđ tiilijd, moh taheh máhđulâžžân ucceeblovokielâ siäilum já čonâdâteh meddâlistiđ raijiittâsâid, moh estih ucceeblovokielâid miänástuđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alueellisia kieliä tai vähemmistökieliä koskevia erityistoimia ei katsota laajemmin käytettyjä kieliä puhuvan väestön syrjinnäksi, jos näiden toimien tavoitteena on edistää tasa-arvoa kyseistä kieltä käyttävien ja muun väestön välillä tai asianmukaisesti huomioida näiden kielien erityisasema.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuávlulijd kieláid teikâ ucceeblovokieláid kyeskee sierânâstooimah iä onnuu, ete toh láá vijđásubbooht kiävttum kielâi sárnoo aalmug olgoštem, jis tâi tooimâi ulmen lii ovdediđ täsiáárvu tom kielâ kevttei já eres aalmug kooskâst teikâ ääšimiäldásávt väldiđ vuotân tai kielâi sierânâssajattuv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla edellyttää valtioiden huolehtivan siitä, ettei olemassa olevat tai uudet hallinnolliset rajat muodosta estettä vähemmistökielen edistämiselle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla váátá, ete staatah huolâtteh tast, ete jo lemin teikâ uđđâ haaldâtliih rääjih iä räähti estuu ucceeblovokielâ oovdedmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikla 8 edellyttää että vähemmistökielisille on saatavissa omakielistä koulutusta esi-, perus-, toisen asteen ja korkeakouluopetuksessa sekä varmistamaan alueellisten kielten tai vähemmistökielten taustalla olevan historian ja kulttuurin opetuksen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikla 8 váátá, ete ucceeblovokielâláid lii finnimnáál jieijâskielâlâš škovlim ovdâ-, vuáđu-, nube tääsi já ollâškovlâmáttááttâsâst sehe visásmittiđ kuávlulij kielâi teikâ ucceeblovokielâi tyehin leijee historjá já kulttuur máttááttâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artiklojen 9 ja 10 mukaan vähemmistökieltä tulee voida käyttää oikeus-, hallinto- ja viranomaisasioinnissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artiklai 9 já 10 mield ucceeblovokielâ kalga pyehtiđ kevttiđ riehti-, haldâttâh- já virgeomâhâšášástâlmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden tulee myös varmistaa, että valtiossa on vähemmistökielisiä joukkoviestimiä (artikla 11).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Staatah kalgeh meid visásmittiđ, ete staatâst láá ucceeblovokielâliih juávkkuviestâdemniävuh (artikla 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maisemayleissopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Enâdâhalmossopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>astui Suomessa voimaan vuonna 2006.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eurooplâš enâdâhalmossopâmuš šoodâi Suomâst vuáimán ive 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen näkyvin vaikutus on ollut Eurooppalaisen maisemapalkinnon myöntäminen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš enâmustáá uáinojeijee vaikuttâs lii lamaš Eurooplâš enâdâhpalhâšume mieđettem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa valvoo asiantuntijakomitea ja ministerikomitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem koceh äššitobdeekomitea já ministerkomitea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa sopimusta on toimeenpantu mm. luonnonsuojelulaissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst sopâmuš lii olášuttum el. luándusuojâlemlaavâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maisemayleissopimuksen 5 artiklassa kukin sopimuspuoli sitoutuu mm. tunnustamaan lainsäädännössään maisemat olennaiseksi osaksi ihmisten ympäristöä, yhteisen kulttuuri- ja luonnonperinnön monimuotoisuuden ilmentymäksi ja identiteettinsä perustaksi, laatimaan ja toteuttamaan erityistoimenpiteiden avulla maisemansuojeluun, - hoitoon ja - suunnitteluun tähtäävää maisemapolitiikkaa sekä sisällyttämään maisemanäkökohdat alue- ja kaupunkisuunnittelupolitiikkaansa sekä kulttuuri-, ympäristö-, maatalous-, sosiaali- ja talouspolitiikkaansa ja muihin toimintaohjelmiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Enâdâhalmossopâmuš 5 artiklast jieškote-uv sopâmušpeeli čonâdât el. tubdâstiđ lahâaasâtmistis, ete enâduvah láá ulmui pirrâduv merhâšittee uási, ohtâsâš kulttuur- já luánduäärbi maaŋgâhámásâšvuođâ olgospyehtim já identiteetis vuáđu, lääččiđ já olášuttiđ sierânâstooimâi vievâst enâduvsuojâlmân, - tiipšon já – vuáváámân čyeccee enâdâhpolitiik sehe siskálmittiđ enâdâhvuotânväldimijd kuávlu- já kaavpugvuávámpolitiikân sehe kulttuur-, pirrâdâh-, eennâmtuálu-, sosiaal- já ekonomiapolitiikân já eres toimâohjelmáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusosapuolet voivat ottaa käyttöön menettelytapoja, joiden mukaisesti yleisö, paikallis- ja alueviranomaiset ja muut asianosaiset voivat osallistua tämän maisemapolitiikan määrittelemiseen ja toteuttamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušuásipeleh pyehtih väldiđ kiävtun monâttâlmijd, moi miäldásávt aalmug, páihálâš já kuávluvirgeomâhááh já eres äššiomâhááh pyehtih uásálistiđ taam enâdâhpolitiik miäruštâlmân já olášutmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artiklassa 9 sopimusosapuolet kannustavat valtioiden rajat ylittävää paikallis- ja alueyhteistyötä ja tarvittaessa valmistelevat ja toteuttavat yhteisiä maisemaohjelmia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artiklast 9 sopâmušuásipeleh movtijditeh staatâi raajijd rastâldittee páihálâš- já kuávluoovtâstpargo já táárbu mield valmâštâleh já olášuteh ohtsijd enâdâhohjelmijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Unescon sopimukset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Unesco sopâmušah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuuri-ilmauksien suojelusopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kulttuurolgospyehtimij suojâlemsopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>on astunut Suomessa voimaan vuonna 2007.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kulttuurolgospyehtimij suojâlemsopâmuš lii Suomâst šoddâm vuáimán ive 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuuri-ilmauksien suojelusopimuksen tavoitteena on suojella ja edistää kulttuurien moninaisuutta (1 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kulttuurolgospyehtimij suojâlemsopâmuš ulmen lii suojâliđ já ovdediđ kulttuurij maangâhámásâšvuođâ (1 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen mukaan kulttuuri-ilmaisujen moninaisuuden suojeleminen ja edistäminen edellyttää kaikkien kulttuurien, myös vähemmistöön kuuluvien henkilöiden ja alkuperäiskansojen kulttuurien yhdenvertaisuuden ja kunnioittamisen tunnustamista (2 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš mield kulttuur-olgospyehtimij maaŋgâhámásâšvuođâ suojâlem já ovdedem váátá puoh kulttuurij, meid ucceeblohon kullee ulmui já algâaalmugij kulttuurij oovtviärdásâšvuođâ já kunnijâttem tubdâstem (2 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusosapuolten tulee ryhtyä toimiin kulttuuri-ilmauksien suojelemiseksi ja turvaamiseksi (6 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušuásipeleh kalgeh riemmâđ toimáid kulttuurolgospyehtimij suojâlmân já turviimân (6 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suojelusopimus määrittää kulttuuri-ilmaisut yksilöiden, ryhmien ja yhteisöjen luovuuden tuloksena syntyneiksi ilmaisuiksi, joilla on kulttuurinen sisältö (4 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suojâlemsopâmuš miäruštâl, ete kulttuurolgospyehtimeh láá ovtâskâsulmui, juávhui já siärváduvâi kreatiivlâšvuođâ puátusin šoddâm olgospyehtimeh, main lii kulttuurlâš siskáldâs (4 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurissa perinteinen kulttuuri-ilmaus tarkoittaa joikumusiikkia, saamen käsityötä, saamelaistaidetta, kertomaperinnettä ja myyttejä, kirjallisuutta, saamenkielisiä paikannimiä sekä saamelaista rakennusperinnettä (mm. kodat, kammit, erityyppiset aitat).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämikulttuurist ärbivuáválâš kulttuurolgospyehtimeh uáivildeh juoigâm, sämityeje, sämitaiđuu, mainâstemäärbi já oskomušâid, kirjálâšvuođâ, sämikielâlijd päikkinoomâid sehe sämmilâš huksimäärbi (el. kuáđih, lavŋekuáđih, ereslágán ääitih).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi saamelaiseen muinaisuskoon kuuluva uhraaminen seidoille on kulttuuri-ilmaus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasseen sämmilâš toovlášoskoldâhân kullee uhredem sieidijd lii kulttuurolgospyehtim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uudemmat kulttuuri-ilmaukset tarkoittavat modernia saamelaismusiikkia, teatteria ja elokuvataidetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uđđâsumoseh kulttuurolgospyehtimeh uáivildeh modern sämimuusik, teatter já elleekovetaiđuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aineettoman kulttuuriperinnön</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aamnâsttâs kulttuuräärbi suojâlemsopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>astui Suomessa voimaan vuonna 2013.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aamnâsttâs kulttuuräärbi suojâlemsopâmuš šoodâi vuáimán Suomâst ive 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanosta vastaa opetus- ja kulttuuriministeriö.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášutmist västid máttááttâs- já kulttuurministeriö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen toimeenpanoa valvoo hallitusten välinen aineettoman kulttuuriperinnön suojelukomitea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš olášuttem kocá haldâttâsâi koskâsâš aamnâsttâs kulttuuräärbi suojâlemkomitea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus tunnustaa että alkuperäiskansoilla on tärkeä rooli aineettoman kulttuuriperinnön tuottamisessa, suojelemisessa, ylläpitämisessä ja uudelleenluomisessa ja siten myös kulttuurisen moninaisuuden ja inhimillisen luovuuden edistämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš tuubdâst ete algâaalmugijn lii tergâdis uási aamnâsttâs kulttuuräärbi pyevtitmist, suojâlmist, paijeentolâmist já uđđâsisträhtimist já návt meid kulttuurlâš maaŋgâhámásâšvuođâ já olmoošlâš kreatiivlâšvuođâ oovdedmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen tavoitteena on suojella aineetonta kulttuuriperintöä ja varmistaa asianomaisten yhteisöjen, ryhmien ja yksilöiden kulttuuriperinnön kunnioittaminen (artikla 1).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ulmen lii suojâliđ aamnâsttâs kulttuuräärbi já visásmittiđ äššiomâhâš siärváduvâi, juávhui já ovtâskâsulmui kulttuuräärbi kunnijâttem (artikla 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aineeton kulttuuriperintö tarkoittaa sopimuksen 2 artiklan mukaan mm. käytäntöjä, kuvauksia, ilmauksia, tietoa, taitoja – sekä niihin liittyviä välineitä, esineitä, artefakteja ja kulttuurisia tiloja – jotka yhteisöt, ryhmät ja joissain tapauksissa yksityishenkilöt tunnustavat osaksi kulttuuriperintöään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aamnâsttâs kulttuurärbi uáivild sopâmuš 2 artikla mield el. vuáháduvâid, kuvviimijd, olgospyehtimijd, tiäđu, tááiđuid – sehe tooid kullee piergâsijd, tiiŋgâid, artefaktijd já kulttuurlâš tiilijd – maid siärváduvah, juávhuh já motomijn tábáhtusâin ovtâskâsulmuuh tubdâsteh uássin sii kulttuuräärbi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tätä aineetonta kulttuuriperintöä, joka siirtyy sukupolvelta toiselle, yhteisöt ja ryhmät luovat jatkuvasti uudelleen suhteessa ympäristöönsä, vuorovaikutuksessa luonnon ja oman historiansa kanssa, ja se tuo heille tunteen identiteetistä ja jatkuvuudesta, edistäen siten kulttuurisen moninaisuuden ja inhimillisen luovuuden kunnioitusta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taam aamnâsttâs kulttuuräärbi, mii sirdášuvá suhâpuolvâst nuubán, siärváduvah já juávhuh rähtih eivi uđđâsist sii pirrâs háárán, vuáruvaikuttâsâst luánduin já jieijâs historjáin, já tot puáhtá sijjân tobdo identiteetist já jotkuuvâšvuođâst, já návt oovded kulttuurlâš maaŋgâhámásâšvuođâ já olmoošlâš kreatiivlâšvuođâ kunnijâttem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aineettoman kulttuuriperinnön piiriin kuuluvat mm.:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aamnâsttâs kulttuuräärbi pirrâdâhân kuleh el:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(a) suullinen perinne ja ilmaisu, mukaan lukien kieli aineettoman kulttuuriperinnön välineenä;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>(a) njálmálâš ärbi já olgospyehtim, mieldi luhâmáin kielâ aamnâsttâs kulttuuräärbi niävvun;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(b) esittävät taiteet;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>(b) oovdânpyehtee taiđuuh;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(c) sosiaaliset käytännöt, rituaalit ja juhlatilaisuudet;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>(c) sosiaalliih vuáháduvah, rituaaleh já juhletilálâšvuođah;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(d) luontoon ja maailmankaikkeuteen liittyvä tieto ja käytännöt;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>(d) luándun já maailmubâlâšvuotân lohtâseijee tiätu já vuáháduvah;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(e) perinteiset käsityöläistaidot.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>(e) ärbivuáváliih kietâtyejitááiđuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen osapuolten tulee ryhtyä tarvittaviin toimiin aineettoman kulttuuriperinnön suojelemiseksi omalla alueellaan ja tunnistaa ja määritellä alueellaan esiintyvän aineettoman kulttuuriperinnön eri elementit yhteistyössä sidosryhmien kanssa (11 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš uásipeleh kalgeh riemmâđ tárbulijd toimáid aamnâsttâs kulttuuräärbi suojâlmân jieijâs kuávlust já tubdâđ já miäruštâllâđ kuávlustis tiättoo aamnâsttâs kulttuuräärbi jieškote-uv elementeh oovtâstpargoost čanosjuávhuiguin (11 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osapuolten tulee myös luetteloida valtiossa esiintyvää aineetonta kulttuuriperintöä (12 artikla).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uásipeleh kalgeh meid pieijâđ luvâttâlmân staatâ kuávlust tiättoo aamnâsttâs kulttuuräärbi (12 artikla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistukset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštušah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeuksien yleismaailmallinen julistus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmoošvuoigâdvuođâi almosmaailmlâš julgáštuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 1948 hyväksytty YK:n ihmisoikeuksien yleismaailmallinen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 1948 tuhhiittum OA olmoošvuoigâdvuođâi almosmaailmlâš julgáštu š lii aalmugijkoskâsij olmoošvuoigâdvuođâi vuáđu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>on kansainvälisten ihmisoikeuksien perusta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puoh maailm staatah láá keevâtlávt tuhhiittâm tom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki maailman valtiot ovat käytännössä hyväksyneet sen. Vaikka julistus ei olekaan valtiosopimus, sillä on juridista velvoittavuutta koska sen pohjalta on kehitetty kansainvälisiä sopimuksia ihmisoikeuksien parantamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Veikâ julgáštuš ij lah staatâsopâmuš, tast lii riehtiopâlâš kenigitteevuotâ ko ton vuáđuld láá ovdedum aalmugijkoskâsiih sopâmušah olmoošvuoigâdvuođâi pyereedmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus ei käsittele erikseen alkuperäiskansojen ja vähemmistöjen oikeuksia, mutta takaa kaikille kansaryhmille samat oikeudet ja velvollisuudet sekä ja tasa-arvoiset mahdollisuudet elää oman kulttuurinsa mukaisesti ilman syrjintää ja mielivaltaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš ij kieđâvuš sierâ algâaalmugij já ucceeblovoi vuoigâdvuođâid, mutâ täähid puoh aalmugjuávhoid siämmáá vuoigâdvuođâid já kenigâsvuođâid sehe täsiárvusijd máhđulâšvuođâid eelliđ jieijâs kulttuur miäldásávt olgoštemttáá já mielâväldittáá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansajulistus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugjulgáštuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n yleiskokous hyväksyi vuonna 2007 pitkään valmistellun</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>OA almosčuákkim tuhhiittij ive 2007 kuhháá valmâštâllum j ulgáštuš algâaalmugij vuoigâdvuođâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi hyväksyi julistuksen ilman varaumia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ tuhhiittij julgáštuš väridâsttáá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus kokoaa elementtejä olemassa olevista kansainvälisistä sopimuksista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš čuákkee elementijd vyeimist leijee aalmugijkoskâsâš sopâmušâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistuksen toimeenpanoa seuraa ja edistää YK:n ihmisoikeusneuvoston alaisuudessa toimiva alkuperäiskansaraportoija.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš olášuttem čuávvu já oovded OA olmoošvuoigâdvuoträäđi vuálásâžžân tuáimee algâaalmugraportistee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raportoija antaa yleisiä suosituksia alkuperäiskansojen oikeuksien kehittämiseksi sekä selvittää alkuperäiskansojen oikeuksien toteutumista kunkin valtion alueella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Raportistee addel almos avžuuttâsâid algâaalmugij vuoigâdvuođâi oovdedmân sehe čielgee algâaalmugij vuoigâdvuođâi olášum jieškote-uv staatâ kuávlust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistuksen toimeenpanoa seurataan myös alkuperäiskansojen pysyvän foorumin vuosittaisissa kokouksissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš olášuttem čuávvuh meid algâaalmugij pisovâš foorum ihásijn čuákkimijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistuksen keskeiset artiklat koskevat alkuperäiskansojen itsemääräämisoikeutta, oikeutta omaan kieleen ja kulttuuriin, valtioiden vastuuta alkuperäiskansakulttuurinen turvaamisessa, alkuperäiskansojen oikeutta luonnonvaroihin sekä julistus kieltää kaikenlaisen alkuperäiskansojen sulauttamispyrkimykset.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš tehálumoseh artiklah kyeskih algâaalmugij jiešmeridemvuoigâdvuotân, vuoigâdvuotân jieijâs kielân já kulttuurân, staatâi ovdâsvástádâsân algâaalmugkulttuurij turviimist, algâaalmugij vuoigâdvuotân luánduvaarijn sehe julgáštuš kiäldá jyehilágán viggâmušâid suddâluttiđ algâaalmugijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansajulistus on otettu muutaman maan lainsäädäntöön, mutta suureksi osaksi valtiot ovat pitäneet julistusta vain moraalisesti velvoittavana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugjulgáštuš lii valdum muáddi staatâ lahâaasâtmân, mutâ iänááš uássin staatah láá annaam julgáštuš tuše mooraallávt kenigitten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n alkuperäiskansaraportoija professori James Anaya on arvioinut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>OA algâaalmugraportistee professor James Anaya lii árvuštâllâm suu raportist OA almosčuákkimân algâaalmugjulgáštuš olášuttem já merhâšume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n yleiskokouksen päätöksillä on laillisia velvoitteita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>OA almosčuákkim miärádâsâin láá lavâliih kenigâsvuođah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anayan mukaan julistus ilmentää globaalia konsensusta alkuperäiskansaoikeuksien sisällöstä ja velvoitetta edistää ihmisoikeuksia YK:n sopimusten mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anaya mield julgáštuš čáittá maailmvijđosâš ohtsâšibárdâs algâaalmugvuoigâdvuođâi siskáldâsâst ja kenigâsvuođâ ovdediđ olmoošvuoigâdvuođâid OA sopâmušâi miäldásávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joistakin julistuksen osa-alueista kuten syrjimättömyys, kulttuurin koskemattomuus, omaisuus ja itsemääräämisoikeus on tulossa osa kansainvälisen tavanomaisen oikeuden normia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Motomeh julgáštuš uásisyergih tego olgooštmettumvuotâ, kulttuur koskâmettumvuotâ, omâdâh já jiešmeridemvuoigâdvuotâ láá šoddâmin uássin aalmugijkoskâsâš táválii vuoigâdvuođâ noormâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus myös pohjautuu useisiin valtioiden ratifioimiin ihmisoikeussopimuksiin, jotka ovat valtioita laillisesti velvoittavia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš meid vuáđuduvá maaŋgáid staatâi ratifisitem olmoošvuoigâdvuotsopâmušáid, moh láá staatâid lavâlávt kenigitteeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistuksen johdanto-osassa nimenomaan todetaan, että alkuperäiskansat ovat kohdanneet historian aikana epäoikeudenmukaisuutta, mikä on estänyt heitä turvaamasta ja kehittämästä omaa kulttuuriaan ja heikentänyt heidän oikeuksiaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš laiđiittâsuásist aainâs páhudeh, ete algâaalmugeh láá kuáhtám historjá ääigi epivuoigâdvuođâlâšvuođâ, mii lii iästám sii turviimist já oovdedmist jieijâs kulttuur já hiäjusmittám sii vuoigâdvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anaya myös korostaa, että alkuperäiskansajulistus kokoaa ne ihmisoikeudet, joita alkuperäiskansoilla olisi tullut olla osana ihmiskuntaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anaya meid tiädut, ete algâaalmugjulgáštuš čuákkee taid olmoošvuoigâdvuođâid, moh algâaalmugijn liččii koolgâm leđe uássin olmooškode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansajulistuksen tarkoituksena on korjata näitä historiallisia epäkohtia</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugjulgáštuš ulmen lii tivvoođ taid historjálijd puástuvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansainvälisten ihmisoikeussopimusten tulkinnasta ja soveltamisesta vastaavat ihmisoikeuselimet ovat usein kiinnittäneet ratkaisuissansa huomiota julistuksen velvoitteisiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalmugijkoskâsij olmoošvuoigâdvuođâsopâmušâi tulkkuumist já heiviitmist västideijee olmoošvuoigâdvuođâorgaaneh láá távjá kiddim čuávdusijnis huámášume julgáštuš kenigâsvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansajulistuksen velvoitteisiin viitataan erityisesti asioissa, jotka koskevat syrjimättömyyttä, kulttuurista koskemattomuutta ja itsemääräämisoikeutta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugjulgáštuš kenigâsvuođáid čujotteh eromâšávt aašijn, moh kyeskih olgooštmettumvuotân, kulttuurlâš kuoskâmettumvuotân já jiešmeridemvuoigâdvuotân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansajulistuksella on merkittävää normatiivista arvoa sen korkean legitimiteettiasteen vuoksi, koska merkittävä enemmistö YK:n yleiskokouksesta hyväksyi julistuksen ja alkuperäiskansayhteisö tukee julistusta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâaalmugjulgáštušâst lii merhâšittee raavâlâš árvu ton ollâ lavâlâšvuođâ tiet, tastko OA almosčuákkim merhâšittee eenâbloho tuhhiittij julgáštuš já algâaalmugsiärvádâh tuárju julgáštuš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>RIO +20-julistus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>RIO +20-julgáštuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rio the Janeirossa vuonna 2012 pidetty kestävän kehityksen konferenssi hyväksyi loppujulistuksen ”</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Rio the Janeirost ive 2012 toollum pištee ovdánem konferens tuhhiittij loppâjulgáštuš ” The Future We Want ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokous on vuonna 1992 pidetyn kestävän kehityksen konferenssin seurantakokous.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuákkim lii ive 1992 toollum pištee ovdánem konferens čuávvumčuákkim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuoden 1992 kokous oli hyvin merkittävä, koska silloin hyväksyttiin mm. biodiversiteettisopimus, ilmastonsuojelusopimus sekä kestävän kehityksen tavoitteet (Agenda 21).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 1992 čuákkim lâi uáli merhâšittee, ko talle tuhhiittii el. biodiversiteetsopâmuš, šoŋŋâduvsuojâlemsopâmuš sehe pištee ovdánem uulmijd (Agenda 21).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa kestävää kehitystä on edistetty mm..</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst pištee ovdánem láá ovdedâm el.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kansallisella kestävän kehityksen strategialla ja yhteiskuntasitoumuksell</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>aalmuglâš pištee ovdánem strategiain já ohtsâškoddečonâsmáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rio +20 kokouksen loppuasiakirja käsittelee erityisesti vihreää taloutta, köyhyyden vähentämistä ja kestävän kehityksen periaatteita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Rio +20 čuákkim loppâäššikirje kieđâvuš eromâšávt ruánáá ekonomia, kievhisvuođâ kepidem já pištee ovdánem prinsiipijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös alkuperäiskansojen oikeudet on tuotu esille julistuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meid algâaalmugij vuoidâdvuođah láá oovdânpuohtum julgáštušâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rion julistus painottaa, että kestävän kehityksen toteuttaminen edellyttää alkuperäiskansojen aktiivista ja vaikuttavaa osallistumista kestävän kehityksen edistämiseksi kaikilla tasoilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Rio julgáštuš tiädut, ete pištee ovdánem olášuttem váátá algâaalmugij aktiivlâš já vaikutteijee uásálistem pištee ovdánem oovdedmân puoh taasijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rion julistus myös tunnustaa YK:n alkuperäiskansajulistuksen merkityksen ja sen, että julistus tulee huomioida kestävän kehityksen strategioiden toimeenpanossa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Rio julgáštuš meid tuubdâst OA algâaalmugjulgáštuš merhâšume já tom, ete julgáštuš kalga vädiđ vuotân pištee ovdánem strategiai olášutmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rion julistus edellyttää valtioiden tukevan alkuperäiskansojen identiteettiä, kulttuuria, kulttuuriperintöä, perinteistä tietoa ja tapoja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Rio julgáštuš váátá, ete staatah tuárjuh algâaalmugij identiteet, kulttuur, kulttuuräärbi, ärbivuáválâš tiäđu já taavijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistus korostaa tarvetta tukea alkuperäiskansojen kestävän kehityksen mukaisia elinkeinomuotoja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš tiädut táárbu tuárjuđ algâaalmugij pištee ovdánem miäldásijd iäláttâshaamijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Unescon kulttuurista moninaisuutta koskeva yleismaailmallinen julistus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Unesco kulttuurlii maaŋgâhámásâšvuotân kyeskee almosmaailmlâš julgáštuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>on luonut perustan aineettoman kulttuuriperinnön ja kulttuuri-ilmauksien suojelusopimuksille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Unesco almosčuákkim tuhhiittem julgáštuš lii lááččám vuáđu aamnâsttâs kulttuuräärbi já kulttuurolgospyehtimij suojâlemsopâmuššáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistuksen artiklassa 4 todetaan, että kulttuurisen moninaisuuden puolustaminen on eettisesti välttämätöntä ja erottamaton osa ihmisarvon kunnioittamista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Julgáštuš artiklast 4 páhudeh, ete kulttuurlii maaŋgâhámásâšvuođâ piäluštem lii eettisávt velttidmettum já iärutmettum olmoošáárvu kunnijâttem uási.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siihen sisältyy sitoutuminen ihmisoikeuksiin ja perusvapauksiin, erityisesti vähemmistöihin ja alkuperäiskansoihin kuuluvien ihmisten oikeuksiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toos kulá čonâdâttâm olmoošvuoigâdvuođáid já vuáđurijjâvuođáid, eromâšávt vuoigâdvuođáid, moh kuleh ucceeblovoi já algâaalmugij ulmuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julistuksen toteuttamissuunnitelman kohdassa 14 Unescon jäsenvaltiot sitoutuvat ryhtymään toimiin erityisesti alkuperäiskansojen perinteisen tietämyksen kunnioittamiseksi ja säilyttämiseksi, sen arvon tunnustamiseksi varsinkin ympäristönsuojelussa ja luonnonvarojen hallinnoinnissa, sekä nykyaikaisen tieteen ja paikallisen tietämyksen hyödyntämisessä toisiaan täydentävästi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>J ulgáštuš olášuttemvuávám saajeest 14 Unesco jeessânstaatah čonâdâteh riemmâđ toimáid eromâšávt algâaalmugij ärbivuáválâš tiäđu kunnijâtmân já siäilutmân, ton áárvu tuubdâstmân eromâšávt pirâssuojâlmist já luánduvarij haaldâšmist, sehe tááláá tiettuu já páihálâš tiäđu ävkkin anemist nuuvt ete toh tievâsmiteh nubijdis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ratifioimattomat ja valmisteilla olevat sopimukset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušah, moh iä lah ratifisistum já moh láá valmâštemnaál</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ILO 169-sopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>ILO 169-sopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>alkuperäiskansojen ja heimokansojen oikeuksista on hyväksytty vuonna 1989.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalmugijkoskâsâš pargoseervi ILO sopâmuš nr 169 algâaalmugij já hiäimuaalmugij vuoigâdvuođâin lii tuhhiittum ive 1989.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen ovat ratifioineet pohjoismaista Norja ja Tanska.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš lává ratifisistâm tave-enâmijn Taažâ já Tanska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen ratifiointi on ollut Suomen ihmisoikeuspoliittisen tavoitteena pitkään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ratifisistem lii lamaš Suomâ olmoošvuoigâd-vuođâpooliitlii ulmen kuhháá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen ratifiointi otettiin ensimmäisen kerran tavoitteeksi pääministeri Jyrki Kataisen hallitusohjelmaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ratifisistem valdui vuossâmuu keerdi ulmen uáiviminister Jyrki Katais haldâttâsohjelmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen keskeisimmät artiklat 14 ja 15 käsittelevät alkuperäiskansojen oikeutta maahan, veteen ja luonnonvaroihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš tehálumoseh artiklah 14 já 15 kieđâvušeh algâaalmugij vuoigâdvuođâ enâmân, čáácán já luánduvaarijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa oikeusministeriö on selvittänyt vuonna 2012 sopimuksen ratifiointiesteiden poistamista lähettämällä asiasta lausuntopyynnön ministeriöille ja saamelaiskäräjille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst riehtiministeriö lii selvâttâm ive 2012 sopâmuš ratifisistemiästui meddâlistem vuolgâtmáin ääšist ciälkkámušpivdem ministeriöid já sämitiigán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät totesi lausunnossaan että Suomella on hyvät edellytykset ratifioida sopimus ja kiirehti ratifiointiprosessin aloittamista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge páhudij ciälkkámušâstis ete Suomâst láá šiev iävtuh ratifisistiđ sopâmuš já huáputtij ratifisistemproosees algâttem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät myös totesi, että maa- ja vesioikeudet koskevat saamelaisten kotiseutualuetta ja valtion hallinnassa olevia maa- ja vesialueita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge meid páhudij, ete eennâm- já čäcivuoigâdvuođah kyeskih sämikuávlun já staatâ haldâšem eennâm- já čäcikuávluid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen ratifiointi on saamelaiskäräjien vaalikauden kärkitavoite.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ratifisistem lii sämitige vaaljâpaje uáiviulme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksen ratifiointi ei ole kuitenkaan vielä edennyt.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmuš ratifisistem ij lah kuittâg vala ovdánâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nagoyan pöytäkirja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nagoya pevdikirje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>geenivarojen saatavuudesta ja hyötyjen oikeudenmukaisesta jaosta hyväksyttiin vuonna 2010 biodiversiteettisopimuksen osapuolikokouksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nagoya pevdikirje geenivarij finnimvuođâst já aavhij vuoigâdvuođâlâš jyehimist tuhhiittui ive 2010 biodiversiteetsopâmuš uásipeličuákkimist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirja täydentää biodiversiteettisopimuksen artiklaa 17, joka käsittelee myös geenivarojen satavuutta ja hyötyjen jakoa sekä artiklaa 8(J), joka käsittelee alkuperäiskansojen ja perinteisen elämänmuodon omaavien paikallisyhteisöjen luonnon monimuotoisuuteen liittyvää perinteistä tietoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pevdikirje tievâsmit biodiversiteetsopâmuš artikla 17, mii kieđâvuš meid geenivarij finnimvuođâ já aavhij jyehim sehe artikla 8(J), mii kieđâvuš algâaalmugij já ärbivuáválii eellimhäämi omâsteijee páihálâšsiärvusij luándu maaŋgâhámásâšvuotân lohtâseijee ärbivuáválâš tiäđu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi allekirjoitti pöytäkirjan vuonna 2011 ja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ vuáláčaalij pevdikirje ive 2011 já valmâštâl eidu pevdikirje ratifisistem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ratifiointia valmistelevan työryhmän on tarkoitus saada esityksensä valmiiksi vuoden 2014 puolivälissä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ratifisistem valmâštâllee pargojuávhu lii tárguttâs finniđ iävtuttâsis valmâšin ive 2014 pelimuddoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nagoyan pöytäkirja on tärkeä alkuperäiskansoille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nagoya pevdikirje lii tergâdis algâaalmugáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>pöytäkirjan johdanto-osiossa valtiot panevat merkille YK:n alkuperäiskansojen oikeuksia koskevan julistuksen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pevdikirje laiđiittâsuásist staatah pieijih meerhân OA algâaalmugij vuoigâdvuođáid kyeskee julgáštuš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirjan artiklat 5, 6 7, 11 ja 12 käsittelevät erityisesti alkuperäiskansojen oikeuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pevdikirje artiklah 5, 6 7, 11 já 12 kieđâvušeh eromâšávt algâaalmugij vuoigâdvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirjan mukaan alkuperäiskansojen hallussa olevaa geenivaroihin liittyvää perinteistä tietoa voidaan käyttää vain alkuperäisansan ennakkosuostumuksella tai hyväksynnällä ja sitä saatavat hyödyt on jaettava oikeudenmukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pevdikirje mield algâaalmugij omâstem geenivaarijd lohtâseijee ärbivuáválâš tiäđu puáhtá kevttiđ tuše algâaalmug munemietâmâššáin teikâ tuhhiitmáin já tast finnee aavhijd kalga jyehiđ vuoigâdvuođâlávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismainen saamelaissopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tave-eennâmlâš sämisopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>vuonna 2005.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalmugijkoskâsâš äššitobdeepargojuávkku luovâttij iävtuttâsis tave-eennâmlâš sämisopâmušân ive 2005.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtiosopimusneuvottelut Suomen, Norjan ja Ruotsin valtioiden kanssa sopimuksen viimeistelemiseksi ja hyväksymiseksi aloitettiin vuonna 2011.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Staatâsopâmušráđádâlmijd Suomâ, Taažâ já Ruotâ staatâiguin sopâmuš sessiistem já tuhhiittem várás algâttii ive 2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne on tarkoitus saada päätökseen vuoden 2015 loppuun mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lii tárguttâs, ete taid finnejeh loopân ive 2015 loopâ räi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiantuntijatyöryhmän esittämän sopimusluonnoksen tavoitteena on harmonisoida saamelaisia koskevaa lainsäädäntöä, luoda edellytykset saamen kielen, kulttuurin ja saamelaiselinkeinojen kehittymiselle siten, että valtion rajat estävät saamelaisten yhteistyötä mahdollisimman vähän.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Äššitobdeepargojuávhu iävtuttem sopâmušhammiittâs ulmen lii oohtânheiviittiđ sämmiláid kyeskee lahâasâttem, lääččiđ iävtuid sämikielâ, kulttuur já sämi-iäláttâsâi ovdánem várás nuuvt, ete staatâ rääjih estih sämmilij ohtsâšpargo nuuvt uccáá ko máhđulâš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusluonnos kokoaa keskeisiä velvoitteita muista kansainvälisistä sopimuksista ja julistuksista kuten ILO 169-sopimuksesta ja alkuperäiskansajulistuksesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušhammiittâs čuákkee tergâdis kenigâsvuođâid eres aalmugijkoskâsâš sopâmušâin já julgáštušâin tego ILO 169-sopâmušâst já algâaalmugjulgáštušâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaiskäräjillä on kolme edustajaa valtioneuvoston nimittämässä neuvotteluvaltuuskunnassa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ sämitiggeest láá kulmâ ovdâsteijee staatârääđi nomâttem ráđádâllâmairâskoddeest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien edustajilla on puheoikeus sopimusneuvotteluissa sekä oikeus jättää näkemyksensä pöytäkirjaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige ovdâsteijein lii sárnumvuoigâdvuotâ sopâmušráđádâlmijn sehe vuoigâdvuotâ kyeđđiđ uáivilis pevdikiirján.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien ja Venäjän saamelaisten yhteistyöelin saamelainen parlamentaarinen neuvosto on sopinut, että saamelaiset neuvottelevat yhtenä kansana neuvotteluissa ja että saamelaisten yhteiset kannat sovitaan SPN:ssä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige já Ruošâ sämmilij ohtsâšpargo-orgaan säämi parlamentaarlâš rääđi lii sooppâm, ete sämmiliih ráđádâleh ohtân aalmugin ráđádâlmijn já ete sämmilij ohtsiih uáivileh suáppojeh SPR:st.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>WIPO:n instrumentti perinteisen tiedon, kansanperinteen ja geenivarojen suojelemiseksi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>WIPO instrument ärbivuáválii tiäđu, aalmugärbivyevi já geenivarij suojâlem várás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>WIPO eli maailman henkisen omaisuuden järjestö (engl.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>WIPO ađai maailm jiegâlii omâduv ornijdâh (eŋgâl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>) on Yhdistyneiden kansakuntien erityisjärjestö.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>World Intellectual Property Organisation) lii Ovtâstum aalmugij sierânâsornijdâh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen valtio on WIPO:n jäsen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ staatâ lii WIPO jeessân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>WIPO:n pääasiallisena tehtävänä on edistää sellaisten toimenpiteiden kehittämistä, joiden on määrä helpottaa henkisen omaisuuden tehokasta suojaamista kaikkialla maailmassa ja yhdenmukaistaa kansallista lainsäädäntöä tällä alalla; rohkaista kansainvälisten henkisen omaisuuden suojaamisen edistämistä tarkoittavien sopimusten solmimista ja huolehtia henkisen omaisuuden kansainvälisen suojelun helpottamisesta sekä tarvittaessa rekisteröinnistä tällä alalla sekä rekisteröintiä koskevien tietojen julkisuuteen saattamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>WIPO válduášálâš pargon lii ovdediđ tagarij tooimâi ovdedem, moi tárguttâs lii älkkeedittiđ jiegâlii omâduv pehtilis suojâlem ubâ mailmist já oovtnálásittiđ aalmuglii lahâasâttem taan syergist; ruokâsmittiđ tagarij aalmugijkoskâsij sopâmušâi rähtim, moh uáivildeh jiegâlii omâduv suojâlem ovdedem já huolâttiđ jiegâlii omâduv aalmugijkoskâsâš suojâlem älkkeeditmist sehe táárbu mield registeristmist taan syergist sehe registeristmân kyeskee tiäđui almostittem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SPN on tarkkailijana WIPO:n</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>SPR lii tárkkojeijen WIPO Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional knowledge and folklore (IGC.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>eli valtioiden välisessä komiteassa henkisestä omaisuudesta, geenivaroista, perinteisestä tiedosta ja kansanperinteestä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>- komiteast ađai staatâi koskâsâš komiteast jiegâlii omâduvvâst, geenivaarijn, ärbivuáválâš tiäđust já aalmugärbivyevist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitean tehtävänä on valmistella sopimusteksti kansainvälisen instrumentin tai instrumenttien saamiseksi geenivarojen, perinteisen tiedon ja kansanperinteen suojelemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Komitea pargon lii valmâštâllâđ sopâmušteevstâ aalmugijkoskâsâš instrument teikâ instrumentij finniimân geenivarij, ärbivuáválii tiäđu já aalmugärbivyevi suojâlem várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laillisen instrumentin valmistelu on kestänyt pitkään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lavâlii instrument valmâštâllâm lii pištám kuhháá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavoitteena on saada esitys laillisen / laillisten instrumenttien luomiseksi komitean toimikauden 2014/2015 aikana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ulmen lii finniđ oovdânpyehtim lavâlâš / lavâlij instrumentij rähtimân komitea toimâpaje 2014/2015 ääigi.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

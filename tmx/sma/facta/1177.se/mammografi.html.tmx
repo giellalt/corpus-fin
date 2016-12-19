@@ -1,0 +1,1096 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">mammografi.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi tutkimus on tarpeen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje dejtie goerehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se käy (ca 4 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie darjodh (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi tutkimus on tarpeen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje dejtie goerehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se käy (ca 4 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie darjodh (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleistä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografia on rintojen röntgenkuvaustutkimus erityisellä röntgentekniikalla, jolla saadaan yksityiskohtaisia kuvia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mammografije lea röntgenegoerehtimmie njammijste sjïere röntgeneteknihkine mij guvvieh, ræjhkoes smaave biehkide, vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimus voidaan tehdä ennalta ehkäisevässä tarkoituksessa terveystutkimuksena, eli ns. seulontana, tai naisen itsensä tai lääkärin huomattua rinnassa jonkin muutoksen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmie maahta åvtelhbodti darjodh goh healsoegoerehtimmie, guktie gohtje screeninge, jallh gosse nyjsenæjja jallh dåaktere jeatjahtehtemh njammine damteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografiaa ei saa tehdä terveystarkastuksena, jos nainen on raskaana tai jos lääkäri epäilee, että rinnassa on märkäpesäke.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij byöroeh mammografijegoerehtimmiem darjodh healsoevaaksjoemisnie jis nåajsan jallh jis dåaktere såvma naaremem njamman sisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valmistelut</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvtebarkoe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitään erityisiä valmisteluja ei tarvitse tehdä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij daarpesjh sjïere vuekine dïsse ryöjredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miten tutkimus tehdään ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie goerehtimmie jåhta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimus tehdään usein mammografiayksikössä, joka voi olla erillinen yksikkö tai osa sairaalan röntgenosastoa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmiem daamhtaj mammografijesijjesne dorje, mij maahta frijjes årrodh jallh röntgenegoevtesisnie skïemtjegåetesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografiatutkimuksia tehdään myös erityisillä rintavastaanotoilla ja eräissä terveyskeskuksissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mammografijem maahta aaj darjodh sjïere njammadåastoevisnie jïh naaken hoksejarngine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensin röntgenhoitaja kysyy muun muassa, onko rinnoissa ollut vaivoja tai käyttääkö kuvattava hormoneja sisältäviä lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes åådtje naan gyhtjelassh vaestiedidh röntgeneskïemtjesåjhteristie jis dåeriesmoerh njammijste jallh jis daalhkesh vaalta man sisnie hormonh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitten kuvattava saa riisua ylävartalon paljaaksi ja sairaanhoitaja tutkii rinnat silmämääräisesti etsien mahdollisia näkyviä muutoksia, kuten esimerkiksi suurehkoja syntymämerkkejä tai arpia aikaisemmista leikkauksista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan edtja bijjiebolleste vaarjoeh noeledh jïh skïemtjesåjhtere njammide vuartesje jïh tjaala jis naan jeatjahtehtemh mah vååjnoes, vuesiehtimmieh stuerebe reakedsplïejhkh jallh aerieh operasjovnijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne voivat näkyä röntgenkuvissa ja vaikeuttaa arviointia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejtie maehtieh röntgeneguvviem vuesiehtieh jïh dejstie goerehtimmiem sturredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Röntgentutkimuksen aikana seistään ja asetetaan rinta kerrallaan levylle, jossa on ns. kuvailmaisin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjåådtje goerehtimmien tjïrrh, jïh aktem njammam beaja pleahtjose, jïh dan sisnie guvviedetektovre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rintaa puristetaan toisella levyllä niin, että rinnasta tulee melko litteä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njammam jeatjah pleahtjojne deadta guktie pleahtjoeh sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin kuvasta tulee selkeä ja samalla säteilyannos voidaan pitää alhaisena.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Destie tjïelkes guvvie sjædta seamma aejkien vuelebe gadtjijhdosem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käsivartta pidetään ylhäällä nojaamassa laitetta vasten sen ajan, kun otetaan kahdesta kolmeen kuvaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lutnjie gïetem bæjjese jïh apparaaten vööste njihkie mearan göökte, golme guvvieh vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitten sama menettely toistetaan toiselle rinnalle.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan seammalaakan mubpiem njammam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rinnan puristaminen kasaan voi tuntua epämiellyttävältä tai sattua pienen hetken.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta ånnetji saejrehte gosse njammam deadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miltä tutkimuksen jälkeen tuntuu ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie dan mænngan damta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimuksen jälkeen vointi on sama kuin ennenkin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmien mænngan dellie goh daamhtaj damta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi tutkimus on tarpeen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje dejtie goerehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi tutkimus on tarpeen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje dejtie goerehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kyhmyt on helpoin tuntea suihkussa, kun rinnat on saippuoitu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aelhkemes tjuglieh damtedh stratjkesne gosse njammide såapadamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nosta käsivartta ja tunnustele rinnat ja kainalokuoppa perusteellisesti suorin sormin ja kevyin painalluksin...</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gïetem lutnjh, njammide jïh gaejnjelen vuelesne damth staajhk soermigujmie jïh dïedtesth...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>... tee pieniä pyöriviä liikkeitä, kierros kierrokselta koko rinnan alueella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>... darjoeh smaave svïhtjemh gievlesne, bïjre abpe njamman bïjre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloita nännin ympäriltä ja lopeta kainalokuoppaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aelkieh njidtjievaahteren bïjre jïh orrijh gaejnjelen vuelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rintojen röntgenkuvaus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njammide röntgeninie goerehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografiatutkimuksessa rinnat röntgenkuvataan tekniikalla, jolla saadaan hyvin yksityiskohtaisia kuvia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mammografijegoerehtimmesne njammide röntgenidh, teknihkine mij dan buerie guvvieh vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografia tehdään joko ennalta ehkäisevänä terveystutkimuksena, ns. seulontana, tai siksi, että nainen itse tai lääkäri on tuntenut rinnassa uuden kyhmyn.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mammografijem heerredimmien gaavhtan dorje healsoevååksjeminie, guktie gohtje screeningen, jallh jis nyjsenæjja jallh dåaktere orre tjugliem damtiji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuosittain Ruotsissa tehdään yli 500 000 rintaröntgentutkimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fïerhten jaepien jienebe 500 000 goerehtimmieh Sveerjesne njammaröntgeninie dorje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Menetelmä rintasyövän varhaiseen havaitsemiseen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuekie njammacancerem aareh aajhtsedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sosiaalihallitus suosittaa mammografiaa 40–74-vuotiaille naisille.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sosiaaleståvroe juvnehte mammografijem nyjsenæjjide 40 - 74 jaepiej gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maakäräjät tarjoaa kaikille 50–69-vuotiaille naisille mahdollisuuden käydä mammografiatutkimuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Laantedigkie faala gaajhkide nyjsenæjjide 50 - 69 jaepiej gaskem nuepiem mammografijegoerehtimmiem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmissa lääneissä tarjotaan tutkimusta lisäksi 40–74-vuotiaille, mutta tutkimusten aloittamisikä ja tutkimusajanjaksojen kesto vaihtelevat.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes leenine aaj dåehkide 40 - 74 jaepiej gaskem goerehtimmiem faelieh, mohte joekehts leah gåessie aalka dejtie faaledh jïh man guhkiem goerehtimmine jåerhkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuoremmille naisille tutkimuksia tehdään tavallisesti puolentoista vuoden välein.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nuerebe nyjsenæjjide daamhtaj goerehte fïerhten akte jïh bielie jaepien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhemmat naiset kutsutaan useimmiten joka toinen vuosi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Båarasåaboe fïerhten mubpien jaepien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näissä terveystarkastuksissa rintasyöpäkasvain voidaan havaita ennen kuin se aiheuttaa mitään oireita tai ennen kuin sitä edes voi tuntea rinnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejnie healsoevååksjeminie maahta njammacanceretumörem aajhtsedh åvteli dam damta jallh åvteli maahta dam njammesne damtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tieteelliset tutkimukset ovat osoittaneet, että mammografian käsittäneisiin terveystarkastuksiin osallistuneilla naisilla kuolleisuus rintasyöpään vähenee 40 prosenttia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daajroes goerehtimmieh leah vuesiehtamme nyjsenæjjide gieh healsoegoerehtimmiem mammografijine meatan dejtie njammacanceren jaamedahkeste 40 procenth vaenede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myöhään tehdyn löydöksen vaara on, että syöpä on ehtinyt levitä, ja silloin tarvitaan enemmän ja vaikeampia hoitoja kuin jos kasvain havaitaan varhain.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis seente dam aajhtsi dellie vaahrese båata cancere lea haasenamme, jïh dellie jienebh jïh geervebe båehtjierdimmiem daarpesje jalhts jis tumörem aareh aajhtsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunnustele rintojasi säännöllisesti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Doehtehth njammide jaabnan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naisen rintojen koostumus ei ole tasainen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nyjsenæjjan njammah ij leah jïebne konsistense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se johtuu siitä, että rinnoissa on sekä maitorauhasia että rasvakudosta, minkä johdosta ne tuntuvat epätasaisilta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan gaavhtan desnie dovne mielhkiereavsah jïh buejtieh, jïh dan gaavhtan njammide ij lea jïebne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>50 vuoden iässä rinnat pehmenevät, koska maitorauhaset taantuvat ja niiden tilalle tulee rasvakudosta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>50-jaepieh låhkosne njammah myövhkebe sjidtieh gosse mielhkiereavsah sjidtieh buejtide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naisen kuukautiskierron aikana tapahtuvat hormonimuutokset vaikuttavat rintoihin, ja siksi rinnat voivat tuntua aivan erilaisilta sen mukaan, milloin niitä tutkitaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah hormonejeatjahtehtemh mah deahpadieh nyjsenæjjan gujnelemmiecykelisnie njammide tsevtsieh jïh dan gaavhtan eah seammalaakan årroeh abpe tïjjem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuukautisten viimeisen päivän jälkeinen päivä voi olla hyvä päivä tunnustella rintoja itse, koska silloin rinnat ovat yleensä pehmeät ja helpot tutkia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Biejjien mænngan gujnelemmien minngemes biejjie lea buerie biejjie jïjtje njammide goerehtidh, dan gaavhtan njammah myövhkes jïh aelhkies goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkien naisten täytyy tutkia rintojaan säännöllisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh nyjsenæjjah byöroeh dej njammah jaabnan goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kannattaa valita tietty päivä kuukaudessa, jotta voi helpommin verrata tuntemuksiaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjiehteles aktem biejjiem askesne veeljedh juktie aelhkebe mohtedidh maam damta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvä tilaisuus voi olla suihkussa, koska tunnustelu on helpompaa rintojen ollessa saippuoituina.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjiehteles sijjie lea stratjkesne dannasinie aelhkebe njammide doehtede gosse tjoelem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunnustelu tulisi tehdä sekä seisten että makuuasennossa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Eeremes edtja dejtie doehtedidh dovne gosse tjåådtje jïh gosse vealesje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvänlaatuiset kyhmyt tavallisia</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme ov-feerlege tjugliejgujmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kyhmyn tai tiivistymän löytyminen kudoksesta saattaa aiheuttaa levottomuutta, mutta useimmiten kyseessä on hyvänlaatuinen muutos, erityisesti nuorilla naisilla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis tjugliem jallh jeatjah båaloeh aajhtsa maahta aerkies sjïdtedh, mohte daamhtemes lea buerielaakan jeatjahtehtemh, joekoen nuerebe nyjsenæjjine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se voi olla kysta, ts. nestetäyteinen rakkula, tai sidekudoksen hyvänlaatuinen paksunnos.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte maahta cystam årrodh, dïhte sæjhta jiehtedh boejege mij tjaatsijes, jallh buerielaakan protneme njaltjan nuelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkärin täytyy tutkia kaikki muutokset</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh jeatjahtehtemh edtja dåaktere goerehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutos rintarauhasessa voi olla kuitenkin rintasyövän aiheuttama.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatjahtehteme njammareavsesne maahta aaj njammacanceristie båata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rintasyöpä kuuluu naisten yleisimpiin syöpämuotoihin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njammacancere aktem daamhtemes cancerehammojste nyjseni gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsissa noin 7 000 naista ja 40 miestä saa vuosittain rintasyövän.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fïerhten jaepien medtie 7 000 nyjsenh jïh 40 kaarrh njammacancerem åadtjoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rintasyövän riski kasvaa iän myötä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaahra njammacancerem åådtje aalteren mietie jeanede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rintasyövän tavallinen oire on kyhmy rinnassa tai kainalokuopassa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme symtovme njammacancerine lea tjuglie njammesne jallh gaejnjielisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toinen oire on nännin tai rinnan ihon vetäytyminen sisään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatja njammavaahtere jallh njaltja njamman sïjse sigkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Epätavallisempia oireita ovat rinnan selittämätön punoitus tai turvotus, parantumaton haavauma tai verensekaisen nesteen vuotaminen nännistä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij leah dan daamhtaj jis njamma rööpses, garres, bankes jallh sååjrehke sjædta, saejriem åådtje, jallh njammavaahteristie vïrretjaatsije galka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkiin rinnoissa ilmeneviin muutoksiin täytyy suhtautua vakavasti ja antaa ne lääkärin tutkittavaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh jeatjahtehtemh njammine edtja itjmine vaeltedh jïh dåaktere edtja dejtie goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin voi hakeutua terveyskeskukseen, naisten terveyskeskukseen tai erityiselle rintavastaanotolle, joita on eräissä suurissa sairaaloissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta satnem bïeljelidh hoksejarngese, nyjsenehealsoehoksese jallh sjïere njammadåastoevasse maam stuerebe skïemtjegåetine gååvnese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri tunnustelee rintoja tarkasti ja päättää, tehdäänkö mammografiatutkimus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere eensilaakan njammide gaajesje jïh vierhtede jis mammografijegoerehtimmiem edtja darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se käy</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie darjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se käy</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie darjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rinta kerrallaan asetetaan levylle, joka sisältää kasetin röntgenfilmeineen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åådtje aktem njammam pleahtjose bïejedh, dan sisnie kassedte röntgenefilmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitten rinta puristetaan litteäksi ja otetaan kahdesta kolmeen kuvaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan njammam deemtjie jïh göökte jallh golme guvvieh vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarvitaan erikoisröntgenlaite</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjïere röntgeneapparatem daarpesje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografia tehdään usein mammografiayksikössä, joka voi olla erillinen yksikkö tai osa sairaalan röntgenosastoa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmiem daamhtaj mammografijesijjesne dorje, mij maahta frijjes årrodh jallh röntgenegoevtesisnie skïemtjegåetesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimuksia tehdään myös erityisillä rintavastaanotoilla ja eräissä terveyskeskuksissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmiem maahta aaj darjodh sjïere njammadåastoevisnie jïh naaken hoksejarngine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käytettävä röntgenlaite on erityisesti muotoiltu ottamaan hyviä kuvia rintakudoksesta heikon röntgensäteilyn avulla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Röntgeneapparate maam nåhtede lea sjïerelaakan hammoedamme juktie buerie guvvieh njammijste vedtedh viehkine viesjies röntgenegadtjijh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eräissä tapauksissa voidaan havaita jopa vain muutaman millimetrin kokoisia syöpäkasvaimia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtien aejkien maahta canceretumörh aajhtsedh mah leah barre måedtie millimeeterh stoerre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se käy</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie darjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitään erityisiä valmisteluja ei tarvitse tehdä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij daarpesjh sjïere vuekine dïsse ryöjredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensin tutkittava vastaa muutamiin kysymyksiin ja kertoo, onko rinnoissa ollut vaivoja tai käyttääkö hän hormoneja sisältäviä lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes åådtje naan gyhtjelassh vaestiedidh jis dåeriesmoerh njammijste jallh jis daalhkesh vaalta mej sisnie hormonh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitten saa riisua ylävartalon paljaaksi ja sairaanhoitaja tutkii rinnat silmämääräisesti etsien mahdollisia näkyviä muutoksia, kuten esimerkiksi suurehkoja syntymämerkkejä tai arpia aikaisemmista leikkauksista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan edtja bijjiebolleste vaarjoeh noeledh jïh skïemtjesåjhtere njammide vuartesje jïh tjaala jis naan jeatjahtehtemh mah vååjnoes, vuesiehtimmieh stuerebe reakedsplïejhkh jallh aerieh operasjovnijste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne voivat näkyä röntgenkuvissa ja voidaan virheellisesti tulkita syöpäkasvaimiksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah maehtieh röntgeneguvvine vuesiehtidh jïh destie maahta båajhtoehlaakan vïenhtedh dïhte canceretumöre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitten kuvattava siirtyy röntgenlaitteen ääreen ja seisoo sen edessä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan röntgeneapparatese vaadtsa jïh dan uvte tjöödtjehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rinta kerrallaan asetetaan levylle, jossa on kuvailmaisin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njammam pleahtjose beaja gusnie guvviedetektovre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rintaa puristetaan sitten läpinäkyvällä levyllä, jota painetaan rintaa vasten.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Njamma dïedtese pleahtjojne viehkine maam våålese dïedtele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käsivartta pidetään ylhäällä nojaamassa laitetta vasten sen ajan, kun otetaan kahdesta kolmeen kuvaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Lutnjie gïetem bæjjese jïh apparaaten vööste njihkie mearan göökte, golme guvvieh vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tärkeää olla aivan liikkumatta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles eevre dåadtjele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitten sama menettely toistetaan toiselle rinnalle.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan seammalaakan mubpiem njammam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko tutkimukseen kuluu noin 15–30 minuuttia, varsinainen kuvaus kestää viidestä kymmeneen minuuttia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmiem 15-30 minudth vaalta, vïjhteste låhkan minudth guvvedeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miltä mammografia tuntuu ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie mammografijjem damta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rinnan puristaminen litteäksi voi tuntua epämiellyttävältä tai sattua pienen hetken.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta ånnetji saejrehte gosse njammam deadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mutta se täytyy tehdä, koska siten kuvan laadusta tulee parempi ja tutkimuksesta varmempi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte tjuara naemhtie darjodh, juktie guvvie buerebe kvalitehtem åådtje jïh goerehtimmie vihtiesåbpoe sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi voidaan käyttää pienempää säteilyannosta kuin jos rintaa ei puristettaisi litteäksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aaj maahta vuelebe gadtjijhdovsem nåhtede jïlhts jis ij njammam dïedtelh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus tarvitaan uusi tutkimus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtien aejkien åådtje bååstide båetedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmiten mammografiakuvat tulkitsee kaksi röntgenlääkäriä toisistaan riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtaj göökte röntgenedåakterh dejtie mammografijeguvvide vuartasjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä lisää tulkinnan varmuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte vihtiesvoetem jeanede vuartasjimmesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos he löytävät jotakin poikkeavaa, kuvattava kutsutaan uuteen tutkimukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dah maam akt gaevnieh mij ij leah guktie edtja, dellie åådtje orre goerehtæmman båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin otetaan lisää mammografiakuvia ja usein kuvattava tutkitaan myös ultraäänitutkimuksella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie mammografijeguvvieh lissine vaalta jïh aaj ultratjoejine goerehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri saattaa ottaa myös näytteen muutoksesta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere maahta aaj pryövem jeatjahtehtemistie vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos muutos on pieni ja vaikea tunnustella, näyte voidaan ottaa uuden mammografian tai ultraäänitutkimuksen yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis lea onne jeatjahtehteme maam lea gïerve damtedh maahta pryövoem vaeltedh orre mammografijine ektesne jallh ultratjoeje viehkine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutokseen pistetään ohut neula, jolla imetään solunäyte.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sigkies naaloem rijtie jeatjahtehtemasse jïh cellepryövoem olkese njamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte lähetetään mikroskooppitutkimuksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövemasse mikroskopijen goerehtæmman seedtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki tämä tehdään, jotta saadaan varmuus siitä, onko kyseessä syöpä vai ei.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkem dam dorje juktie vihties årrodh jis lea cancere jallh ij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografiatutkimuksen vastaus lähetetään suoraan kotiin kahden viikon kuluessa, jos tutkittava on kutsuttu terveystarkastukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaestiedasse mammografijegoeretimmeste rïkte gåatan seedtie göökte våhkoeh raejesne jis lea orreme maam gohtje healsoevaaksjomisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittava kutsutaan uudestaan mammografiaan, hän saa tiedon tutkimustuloksesta lääkäriltään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis lea remitteereme mammografijese åådtje vaestiedassem goerehtimmeste altese dåakteren luvhtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hormonihoito voi vaikeuttaa tulkintaa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hormonebåehtjierdimmie maahta vuarjasjimmiem gïervebe darjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jotkut naiset saavat vaihdevuosien aikana tai niiden jälkeen hormonihoitoa tai syövät e-pillereitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naan nyjsenh hormonebåehtjierdimmiem åadtjoeh klimakterijen åvteli jallh mænngan jallh p-pillerem vaeltieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaiset hoidot vaikuttavat rintakudokseen tiivistäen sitä, mikä vaikeuttaa mammografiakuvien tulkintaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dagkeres båehtjierdimmie njammide tsevtsie guktie dam söökebe sjædta jïh dellie mammografijeguvviem gïervebe viertiestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siksi on tärkeää kertoa, jos käyttää hormoneja sisältäviä lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan gaavhtan vihkeles dam jiehtedh jis daalhkesh vaalta man hormonesisvege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimus ei ole vaarallinen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmie ij leah vaahreles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Säteilymäärä, jolle mammografiatutkimuksessa altistutaan, on niin pieni, ettei sen katsota aiheuttavan mitään riskejä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte gadtjijhveahka maam åadtjoeh mammografijegoerehtimmesne lea dan onne ij vïenhth dïhte vaahra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi tekniikkaa kehitetään koko ajan säteilyannosten pienentämiseksi entisestään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Teknihkem aaj evtede guktie gadtjijhveahkam unniedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografiatutkimuksista ei siis tule jäädä pois, kun niihin on kutsuttu tai jos itse havaitsee muutoksen rinnassaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij edtjh steevrijh mammografijegoerehtimmiem darjodh gosse tæjmoem åådtje, jallh jis jeatjahtehtemem njammesne aajhtsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografiatutkimus onnistuu aivan hyvin myös, vaikka tutkittavalla olisi rintaimplantti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Hijven gåarede mammografijine goerehtidh jïlhts njammaimplantatem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitään vaaraa implantin rikkoutumisesta ei ole, mutta jos rintaa ei voida puristaa litteäksi samalla tavalla kuin ilman implanttia, voidaan tarvita yksilöllisesti sopeutettu tutkimus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij naan vaahra implantatide eerjieh, mohte jis ij gåaredh njammide deemtjedh seamma nyjsenæjjaj implantati bielelen maahta individuellen sjïehtedamme goerehtimmiem daarpesjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Usein mammografiaa täydennetään rintojen tunnustelulla ja ultraäänitutkimuksella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtaj aaj mammografijem lissiehtidh njammide damtedh jïh ultratjoejine goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keitä ei tule tutkia mammografialla ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gie ij edtjh mammografijine goerehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun nainen on hyvin nuori, hänet on yleensä tarpeen tutkia ultraäänellä mammografian sijasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse noere dellie daarpesje ultratjoejine goerehtidh jïh ij mammografijine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se johtuu siitä, että rinnan rauhaskudos on niin tiivistä, että mammografiakuvista tulee vaikeita tulkita.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte dan gaavhtan njammide dan söökes guktie gïerve mammografijeguvvide viertiestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin ultraäänellä saadaan varmempi vastaus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ultratjoeje vihtiesåbpoe vaestiedassem vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lääkäri epäilee, että rinnassa on märkäpesäke, mammografiaa ei tavallisesti tehdä, koska silloin rinnan puristaminen litteäksi on kivuliasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere såvma naaremem njammesne gååvnese ij provhkh mammografijem dellie darjodh juktie baektjede njammam deemtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen sijaan on hyvä käydä ultraäänitutkimuksessa, jossa nähdään, onko rinnassa tyhjennystä edellyttävä paise.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie hijven ultratjoejegoerehtimmiem darjodh, juktie vuajna jis sïeje desnie jïh dam olkese daarpesjidh döömedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun tulehdus on hoidettu, täytyy sitä vastoin tehdä mammografiatutkimus.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse ovlemem båehtjierdamme byöroe mammografijem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on erityisen tärkeää, jos tutkittava on iäkäs.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea joekoen vihkeles jis båarasåbpoe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskaana olevalle naiselle ei tehdä terveystarkastuksena terveystutkimusta eli ns. seulontaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis nåajsan ij edtjh starnegoerehtimmiem tjïrrehtidh, guktie gohtje screening, mammografijine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos rinnasta löydetään muutos, täytyy aina ottaa yhteys terveydenhuoltoon ja antaa pikaisesti tutkia itsensä, vaikka onkin raskaana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte jis jeatjahtehtemem aajhtsa njammesne edtja åålegh hoksem bïeljelidh guktie varki goerehtimmiem darjodh, jilhts nåajsan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin tutkimus aloitetaan ultraäänellä ja sitä täydennetään tarvittaessa mammografialla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie pråvhka goerehtimmie ultratjoejine aalka jïh dan mænngan mammografijine jis daarpesje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi tutkimus on tarpeen ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje dejtie goerehtidh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se käy (ca 4 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie darjodh (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkastaja: Laszlo Tabar, lääkäri, professori, radiologian erikoislääkäri Falunin sairaalassa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtæjja: Laszlo Tabar, dåaktere, professovre, radiologijen spesialiste Falu:en skïemtjegåetesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117 Vårdguiden – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh sisvegisnie lea barkeme, goerehtamme jïh dååhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

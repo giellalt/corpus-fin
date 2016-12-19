@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=247_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pilvi aloittaa yliopistossa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Pilvi álggaha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo Pilvistä joka aloittaa saamelaisen kulttuurin opinnot !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo Pilvi birra, guhte álggaha sámi kultuvrra oahpuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen Pilvi haluaa tutustua paremmin juuriinsa ja lähtee opiskelemaan Oulun yliopistoon saamelaista kultuuria.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaš Pilvi hálida oahpásmuvvat buorebut máttuidasas ja vuolgá stuđeret Oulu universitehttii sámi kultuvrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus: Suvi West, kuvaus: Juha Säkkinen, leikkaus: Anja Ahola</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadallan: Suvi West, govven: Juha Säkkinen, čuohppan: Anja Ahola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaiskäräjät 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámediggi 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 1,40</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 1,40</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

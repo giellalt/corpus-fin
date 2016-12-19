@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=337_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuma 2010 Rovaniemellä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säminuorâi taaidâtábáhtus 2010 Ruávinjaargâst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuma 2010 järjestetään Rovaniemellä kaksipäiväisenä tapahtumana maaliskuussa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säminuorâi taaidâtábáhtus 2010 uárnejuvvoo Ruávinjaargâst njuhčâmáánust kyevtipiäivásâš tábáhtussân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien koulutus- ja oppimateriaalitoimisto aloittaa parhaillaan taidetapahtuman järjestelyitä yhteistyössä Rovaniemen kaupungin kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige škovlim- já oppâmateriaaltoimâttâh lii porgâškyetmin taaidâtábáhtus orniimijn ovtâspargoost Ruávinjaargâ kaavpugáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luvassa on värikäs saamelaisnuorten kulttuuri- ja taideharrastusten juhla !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puátimin lii ivnáás säminuorâi kulttuur- já taaidâjuhle !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraa nettiuutisia</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuávu nettiuđđâsijd</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

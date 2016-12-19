@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=616_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous antoi lausunnon kalastuslain kokonaisuudistuksesta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige čuákkim adelij ciälkkámuš kuálástuslaavâ olesuđâsmitmist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maa- ja metsätalousministeriö on pyytänyt saamelaiskäräjiltä lausuntoa kalastuslain kokonaisuudistusta valmistelleen työryhmän mietinnöstä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eennâm- já meccituáluministeriö lii pivdám sämitiggeest ciälkkámuš kuálástuslaavâ olesuđâsmittem valmâštellee pargojuávhu smiettâmušâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lausuntopyynnön mukaan mietinnön perusteella laaditaan ministeriön virkamiestyönä ehdotus hallituksen esitykseksi kalastuslaiksi noin vuoden kuluessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ciälkkámušpivdem mield smiettâmuš vuáđuld ráhtoo ministeriö virgealmaipargon iävtuttâs stiivrâ iävtuttâssân kuálástuslaahân suullân ive keččin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous päätti keskiviikkona 20.6.2012 antaa asiassa seuraavan lausunnon:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige čuákkim meridij koskoho 20.6.2012 adeliđ ääšist čuávuváá ciälkkámuš:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

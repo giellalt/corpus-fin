@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">miljo-och-klimat.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristö ja ilmasto - Länsstyrelsen Skåne</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biras ja klimahtta - Länsstyrelsen Skåne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristö ja ilmasto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biras ja klimahtta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verkkokartta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Webkárta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloitussivu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álginsiidu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristö ja ilmasto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biras ja klimahtta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietojen jakaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juoge informašuvnna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristö ja ilmasto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biras ja klimahtta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koordinoimme ympäristötyötä, vastaamme tiedottamisesta ja tiedon levittämisestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivrras lea dehálaš rolla go lea jearaldat leana biras- ja klimáhttabarggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimimme lisäksi ympäristötavoitteiden saavuttamiseksi sekä ympäristövalvonnan ja vesihallinnon tehtävissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii bálddalastit birasbarggu, informeret ja biđget dieđu sihke bargat birasulbmiliin, birasbajilgeahčuin ja čáhcehálddahusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päätämme myös lupien myöntämisestä ympäristöön vaikuttaville toiminnoille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan lassin mii mearridit lobiid doaimmaide mat váikkuhit birrasii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eduskunta on päättänyt yhtenäisestä ympäristöpolitiikasta kestävän kehityksen aikaansaamiseksi Ruotsissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkabeaivvit leat mearridan čohkkejuvvon biraspolitihkas bistevaš Ruoŧa váste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleistavoitteena on se, että tuleva sukupolvi saa käyttöönsä yhteiskunnan, jossa suuret ympäristöongelmat on ratkaistu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ollislaš ulbmil lea ahte boahttevaš buolva galgá beassat váldit háldosis servodaga gos stuora birasproblemat leat čovdojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallituksen tehtävänä on koordinoida työ Ruotsin ympäristölaatutavoitteiden saavuttamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivrras lea bargun buohtastahttit báikkálaš barggu joksan dihte Ruoŧa biraskvalitehtaulbmiliid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin ympäristölaatutavoitteet:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧa biraskvalitehtaulbmilat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rajattu ilmastovaikutus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráddjejuvvon birasváikkuheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhdas ilma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beare lunddolaš suvrun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vain luonnollinen happamoituminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mirkokeahtes biras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myrkytön ympäristö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suddjejeaddji ozongeardi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suojaava otsonikerros</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sihkkar suonjardanbiras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Turvallinen säteily-ympäristö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii mangelágán liiggáššaddan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elävät meret ja vesistöt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ealas jávrrit ja čázádagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvänlaatuinen pohjavesi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buorre kvaliteahtta vuođđočázis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tasapainoiset meret sekä elävä rannikko ja saaristo</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearra balánssas sihke ealas riddu ja suologuovlu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuhisevat kosteikkoalueet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Livki vujot eatnamat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elävät metsät</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ealas meahcit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rehevä viljelymaisema</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rikkis gilvineatnadat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurenmoinen tunturimaisema</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Válljugas duottarbiras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvä asuinympäristö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buorre orrojuvvon biras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Virkeä kasvisto ja eläimistö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rikkis šaddo- ja elliidriika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveydensuojelu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvašvuođasuodji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus toimii sekä sisä- että ulkotiloissa piilevien terveysriskien havaitsemiseksi, ennalta ehkäisemiseksi ja poistamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra bargá áican, eastalan ja jávkadan dihte dearvvašvuođaváraid birrasis, sihke olgun ahte siste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveydensuojelun tarkoituksena on estää ihmisten sairastuminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvašvuođasuodji galgá eastit olbmuid buohccámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiinnitämme huomiota muun muassa meluun, tärinöihin, ilmansaasteisiin ja säteilyyn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii geahččat earet eará ruoja, sparkasa, áibmonuoskkidemiid ja suonjardeami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallituksen tehtäviin kuuluu myös kuntien toiminnan koordinointi ja seuranta terveydensuojelualueella sekä neuvojen antaminen kunnille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivrra bargui gullo maid buohtastahttit ja čuovvut gielddaid doaimmaid dearvvašvuođasuodjesuorggis sihke addit gielddaide ráđiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunnan tekemistä terveydensuojelupäätöksistä voi valittaa lääninhallitukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gielddalaš dearvvasvuođasuodjemearrádusa sáhttá váidalit Leanastivrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmasto ja energia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Klimáhtta ja energiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus koordinoi kasvihuonekaasupäästöjen vähentämiseen tähtäävän alueellisen työn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra buohtastahttá báikkálaš barggu unnidemiin šaddoviessogássabázahusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus on yhdessä läänin kuntien, viranomaisten ja elinkeinoelämän kanssa suunnitellut ilmasto- ja energiastrategian, joka osoittaa, miten me voimme myötävaikuttaa ilmastotavoitteiden saavuttamiseen ja energiajärjestelmän muuttamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra lea ovttas leana gielddaiguin, eiseválddiiguin ja fitnodateallimiin gárvvistan klimáhtta- ja energiijastrategiija mii vuoseha mot mii galgat nákcet joksat klimáhttaulbmiliid ja energiijanuppástuhttima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimimme myös yhteiskunnan sopeuttamiseksi muuttuneeseen ilmastoon. Meidän tulee muun muassa valmistautua merenpinnan kohoamiseen ja tulvien lisääntymiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii bargat maid heivehemiin servodaga rievdan klimáhttii, earet eará mii fertet ráhkkanit ahte mearragiera loktana ja dulvvit lassánit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristön tila</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Birrasa dilli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus koordinoi läänin ympäristövalvonnan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivra buohtastahttá birasbearráigeahču leanas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristön tilan tutkiminen ja jatkuva seuraaminen on tärkeä osa ympäristötyötämme.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dutkan ja botkkakeahtes birrasa dili čuovvun lea dehálaš oassi min birasbarggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuloksia käytetään muun muassa ympäristötavoitetyön seurantaan, mutta myös uusien ympäristöuhkien havaitsemiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bohtosat geavahuvvojit earet eará čuovvut barggu birasulbmila ektui muhto maid áican dihte ođđa birasáitagiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valvonta on pitkäjännitteistä, koska usein tarvitaan pitkällä aikajaksolla tehtyjä mittauksia, jotta voitaisiin selvittää, johtuuko muutos ihmisen vaikutuksesta vai luonnollisesta vaihtelusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bajilgeahčču lea guhkesáigásaš daningo dávjá dárbbahuvvo mihtideamit guhkit áigodagaid oaidnin dihte leago rievdama sivvan olmmošlaš váikkuhus vai lunddolaš variašuvdna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vesi ja veden käyttö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čáhci ja čáhcegeavaheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vesivaroja pitää suojella, jotta voisimme taata kestävän ja turvallisen vesihuollon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čáhcevárit fertejit suodjaluvvot vai mii galgat oažžut guhkesáigásaš ja sihkkar čáhcefuolaheami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsi on jaettu viiteen vesialueeseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧŧa lea juhkkojuvvon viđa čáhceguvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokaiselta alueelta on valittu yksi lääninhallitus alueen veden laadun valvontavastuussa olevaksi vesiviranomaiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Okta leanastivra juohke guovllus lea namuhuvvon čáhceeiseváldin mas lea vástu hálddašit čáhcebirrasa kvalitehta guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veden laatuun vaikuttavat toiminnat ja toimenpiteet, ns. vesitoiminta, tarvitsevat yleensä toimiluvan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmat ja doaibmabijut mat váikkuhit čáhcái, nu gohčoduvvon čáhcedoaimma, dárbbahit dábálaččat lobi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkkejä vesitoiminnasta ovat voimalaitos- ja säännöstelypadot, veteen rakennettavat eri rakenteet, kuten sillat ja tunnelit, ruoppaukset ja vedenotot esimerkiksi juomavesitarkoitukseen ja kasteluun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearka čáhcedoaimmas lea fápmorusttet- ja dulvadanbuođut, sierra huksehusat čázis dego šalddit ja tunnelat, mođi coggan ja čáhceváldin ovdamearkka dihte juhkančáhcedárkkuhussii ja njuoskadeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristöön vaikuttavat toiminnat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaimmat birasváikkuhusain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallituksella on ympäristölupavaltuuskunta, joka voi myöntää luvan ympäristökaaren mukaiselle ympäristölle vaaralliselle toiminnalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leanastivrras lea birasdutkansáttagoddi mii sáhttá addit lobi birasváralaš doibmii birasbálkka (miljöbalken) jelgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkkejä ympäristölle vaarallisesta toiminnasta ovat pintakäsittelylaitokset, valimot, paperitehtaat, tuuli- ja lämpövoimalat ja muut energialaitokset, sahalaitokset, jätelaitokset, jätevedenpuhdistamot, sora- ja kiviainesten ottopaikat sekä kaivokset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearka birasváralaš doaimmain leat bajošgiehtaguššanlágádusat, leikkohagat, báberfabrihkat, bieggafápmorusttegat, liekkasrusttegat ja eará energiijalágádusat, sahenrusttegat, bázahuslágádusat, čáhcebohcciráidnenlágádusat, čievra- ja bákteváldinbáikkit sihke ruvkkit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokaisessa kunnassa on kunnallinen, ympäristölle vaarallista toimintaa valvova paikallinen ympäristöviranomainen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juohke gielddas lea maid gielddalaš biraseiseváldi mii dikšu birasváralaš doaimma báikkálaš bearráigeahču.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Annamme tukea ja ohjeita kunnallisille ympäristöviranomaisille sekä seuraamme ja arvioimme heidän toimintaansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii addit doarjaga ja ráđiid gielddalaš biraseiseválddiide sihke čuovvut ja veardidit sin doaimma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääninhallitus tutkii sen lisäksi aikaisempien sukupolvien aiheuttamia maan ja veden saastumisia ja työskentelee niiden saneeraamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan lassin Leanastivra dutká ovddit buolvvaid nuoskkidemiid eatnamis ja čázis ja bargá daid rádjamiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kommentoi sivua</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čielggat siiddu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Piilota kommenttilomake</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čiega čielggadanskovi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raportoi sivulla oleva vika</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čielggat siiddu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii váldit mielanis vuostá du oainnuid ju gávnnat feaillaid dán siiddus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Du čilgehus sáddejuvvo siidovásttolaš doaimmaheaddjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čielggadeapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syötä seuraava koodi lähettääksesi kommenttisi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biepma sisa vulobeale kooda vai sáhtát sáddet čilgehusa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luo uusi kuva</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttit ođđa gova</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

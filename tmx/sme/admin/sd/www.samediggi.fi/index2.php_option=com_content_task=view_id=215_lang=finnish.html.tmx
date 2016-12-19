@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=215_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo Inarinsaamenkielen tilasta !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo anárašgiela dili birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Räppäri Amoc alias Mikkâl Antti Morottaja tekee musiikkia inarinsaamen kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rap artista Amoc alias Mikkâl Antti Morottaja dahká musihka anárašgillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Amocin ja räpin kautta myös lapset kiinnostuvat kielen puhumisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Amoca ja rap musihka bokte maid mánát beroštišgohtet giela hállamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus / leikkaus: Ima Aikio-Arianaick, kuvaus: Antti Kyrö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bagadallan / čuohppan: Ima Aikio-Arianaick, govven: Antti Kyrö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2004</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámi oahpahusguovddáš 2004</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

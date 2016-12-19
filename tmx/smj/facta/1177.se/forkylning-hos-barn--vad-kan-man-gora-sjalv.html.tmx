@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">forkylning-hos-barn--vad-kan-man-gora-sjalv.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Julevusámegiella / Lulesamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>JulevusámegiellaLulesamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gatjáda rádev (ca. 1 sida)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuhaa, yskää ja joskus kuumetta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Snuohpa, gåsås ja muhttijn báhkan buolli (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuhaa, yskää ja joskus kuumetta</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Snuohpa, gåsås ja muhttijn báhkan buolli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsen on helpompi hengittää, jos hänen pääpuoltaan kohotetaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Snuohpa, gåsås ja muhttijn báhkan buolli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sängyn pääpuolta voi kohottaa asettamalla patjan alle ylimääräisiä tyynyjä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá bajedit senga oajvvebielev gå láhtjá duodde oajvevuolij bålståra vuolen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Flunssaan sairastuneet lapset ovat usein muutaman päivän voimattomia, väsyneitä tai alakuloisia ja itkuisia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máná gudi li snuobav oadtjum li álu dellasa, vájbbasa, vehik håjen ja smággiji vuostasj biejvijt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tyypillisiä oireita ovat tukkoinen tai vuotava nenä ja kurkkukipu tai korvakipu.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Álu li siján njunnje buodosam jali gålgge snuohpa ja máhtti smággit ja tjåddågijs jali bielljenávlak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oireisiin voi kuulua myös yskä tai kuume.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Siján máhtti aj vehikgåsås ja muhttijn feber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nenäerite on aluksi kirkasta ja läpinäkyvää. Muutaman päivän kuluttua se muuttuu paksummaksi ja väriltään joko keltaiseksi tai vihreäksi.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Álgon la snuohpa álu sjerrat ja sjádnjat ja muhtem biejvij duogen suohku, ja viskut jali ruonut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Flunssaisen lapsen vointi on yleensä huonoimmillaan ensimmäisinä sairauspäivinä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Le snuoba vuostasj biejvijn gå mánná nievremusát vädjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Flunssa menee yleensä ohi itsestään viikon tai kahden kuluessa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Avta jali guovte vahko duogen snuohpa álu ietjastis gáhtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavallisen flunssan aiheuttaja on virus. Viruksia vastaan ei ole olemassa lääkkeitä, jotka voisivat nopeuttaa lapsen paranemista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Oarre dábálasj snuohpaj la virus, ja virusij ij gávnnu dálkkasa ma viehkedi vaj mánná ruvábut väddjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuumeisten ja huonovointisten lasten tulee pysyä kotona</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máná gudi báhkan buolli ja li dellasaäljodime ﷽﷽lasj snuohpaj lsuogotjit lulun hejman årrot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuumeisten, huonovointisten ja väsyneiden lasten tulee jäädä kotiin lepäämään.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mánájn gudi báhkan buolli jali li vájvbbasa ja dellasa lulun hejman årrot ja vuojŋadit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavallisesti lasten pitää myös saada olla kotona ensimmäinen kuumeeton päivä, ilman että lapsi on saanut kuumetta alentavaa lääkettä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ållo máná dárbahi aj hejman årrot vuostasj biejvev gå i e des báhkan buole, e ge febervuolediddje dálkkasijt das bårå.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasten tulee olla niin pirteitä, että heillä on riittävästi energiaa olla esikoulussa tai koulussa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dárbahi väddját vaj ällji åvddåskåvlåjn jali skåvlåjn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lepo on tärkeää</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dárbbo l vuojŋadit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapselle tulee antaa mahdollisuus levätä, mutta tämän ei tarvitse pysytellä sängyssä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dibddet mánáv vuojŋadit la buorre, vájku ij dárbaha sengan vällahit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleensä lapsi tuntee itse, paljonko hän jaksaa olla jalkeilla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mánná iesj dåbddå man ednagav náhká juolgij nanna årrot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nukkuminen ja hengittäminen saattavat helpottua, jos pään alla on muutama lisätyyny.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá dåbddut giehpep vuojŋŋat ja oadet muhtem duodde oajvevuolij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä pätee etenkin vanhempiin lapsiin, jotka makaavat paikoillaan.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Åvdemusát vuorrasap mánájda gudi vuojŋadi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vauvoja voi päivällä pitää kantoliinassa, babysitterissä tai sylissä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Smávmánájt máhttá guodde valugin, babysitterin jali asken adnet biejven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lempiruokaa ja lisäjuomaa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Härsskobiebbmo ja duodde jugos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monien lasten ruokahalu heikkenee flunssan aikana.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ållo mánán li nievrep bårråmhállo gå iemeláhkáj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapselle kannattaa antaa sellaista ruokaa, josta tämä pitää, esimerkiksi velliä, jogurttia tai jäätelöä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá mánnáj vaddet dakkirijt majt hálijt, buojkulvissan jubtsav, yoghurtav jali galmágav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsella on kuumetta, hänelle on hyvä antaa lisäjuomaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus mánná báhkan buollá de l buorre duodde juhkusav vaddet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keittosuolaliuosta tai nenäsumutetta tukkoiseen nenään</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sálltelåssjkusav jali njunnjespraddjav buododum njunnjáj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsen nenä on tukossa, tukkoista nenää voi avata sumuttamalla tai tiputtamalla nenään keittosuolaliuosta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus máná njunnje l buododum de máhttá goajkkot jali spraddjijt sálttelåssjkusav njunnjáj, mij snuobav njárbbi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Samalla nenästä voi hellävaraisesti myös poistaa limaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Oadtju aj ierit snuobas bátsidisájt árjjogis vuogijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keittosuolaliuosta on saatavilla apteekeissa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sálltelåssjkos gávnnu dálkasboargálin oasstet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liuoksen voi valmistaa myös itse sekoittamalla millilitran – yhden maustemitallisen – suolaa desilitraan vettä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá aj iesj låssjkusav dahkat gå låsjkot millilijtarav – ruddamihtav – sáltes desilijttarijn tjátjes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keittosuolaliuosta voi tiputtaa lapsen nenään pumpulitupon avulla.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Goajkodittjat sálltelåssjkusav máná njunnjáj máhttá bomulloduhpov adnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikeampaan nenän tukkoisuuteen voi lapselle antaa turvotusta lievittäviä nenätippoja tai nenäsumutetta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gássjelap njunnjebuodosimen máhttá mánnáj giehpediddje njunnjegoajkádisájt vaddet jali njunnjespraddjav mij unnet båhtånimev njunjen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nenäsumutteita ja nenätippoja on tarjolla eri ikäisille lapsille.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dá dálkkasa gávnnuji oasstet dálkastjáladak ja e galga ienep gå lågev biejve aktelattjat aneduvvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pakkauksesta käy ilmi, minkä ikäiselle tuote on tarkoitettu.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Njunnjespradja ja njunnjegoajkádisá li hiebadum umasslágásj álldarij milta, mij diededuvvá skurpon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Reseptittä saatavat kuumetta alentavat lääkkeet</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dálkastjáladak báhkkavuolediddje dálkkasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuumeen hoitoon tarvitaan harvoin kuumetta alentavia lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Báhkav vuorjját dárbaj báhkkavuolediddje dálkkasij dálkudit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsen kuume kestää yleensä vain muutaman päivän, eikä tavallisesti ole vakavaa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ienemus máná gudi báhkan buolli muhtem biejvijt váni merkaj juoga l vádálasj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuumetta alentavia lääkkeitä voidaan kuitenkin antaa, jos lapsen vointi on kuumeen vuoksi huonontunut merkittävästi, esimerkiksi jos lapsella on kipuja kehossa tai hän on ärtyisä tai jos lapsi syö, juo tai nukkuu huonosti, tai hänen on vaikea rauhoittua iltaisin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Valla máhttá báhkkavuolediddje dálkkasav vaddet jus mánná tjielggasit nievret vädjá báhkan buollemis, buojkulvissan sujna l bávtjas rubmahin, smággi, nievrebut bårrå ja juhká, nievret oadá jali gássjel la oaddát iehkedis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alle kuuden kuukauden ikäisiä lapsia ei saa hoitaa kuumetta alentavilla lääkkeillä ennen kuin on ottanut yhteyttä sairaanhoitoon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij galga dálkudit mánájt gudi li nuorabu gå guhtta máno gudi báhkan buolli váni vuostak sujtujn aktavuodav válldet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yli kolmen kuukauden ikäisten lasten hoitoon voi käyttää parasetamolia sisältäviä lääkkeitä, esimerkiksi Alvedonia tai Panodilia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Báhkan buollemij gávnnu mánájda gudi li vuorrasappo gå gålmå máno dálkkasa ma sisanedi paracetamolav, buojkulvissan Alvedon jali Panodil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yli kuuden kuukauden ikäisille voidaan antaa ibuprofeenia sisältävää Ipreniä, jota saa apteekista ilman reseptiä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Guhtta máno rájes máná máhtti oadtjot Iprenav jali Ibumetinav, ma li dálkastjáladak ja sisanedi ibuprofenav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkkeitä on saatavilla nestemäisenä tai peräpuikkoina, jotka sisältävät oikean annoksen pienelle lapselle.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dálkkasa gávnnuji låssjkusin jali bahtablähttan duolla dálkasnárijn smávva mánájda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhemmille lapsille on saatavilla myös tabletteja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vuorrasap mánájda gávnnuji aj tablehta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Noudata tarkasti pakkauksen ohjeita.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Tjuovo vattugit bagádusájt skuorpon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Älä yhdistele eri lääkkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ale aktida umasslágásj dálkkasijt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alle 18-vuotiaille lapsille ei saa antaa asetyylisalisyylihappoa sisältäviä kuumetta alentavia lääkkeitä, kuten Magnecyliä, Treoa tai Albyliä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máná vuollelin 18 jage ja gudi báhkan buolli e galga báhkkavuolediddje dálkkasijt bårråt acetylsalisyrajn, buojkulvissan Magnecyl, Treo jali Albyl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Reseptittä saatavat yskänlääkkeet</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dálkastjáladak gåsåsdálkkasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Reseptittä saatavien yskänlääkkeiden teho ei ole kovin hyvä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dálkastjáladak gåsåsdálkkasa e álu buoreda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsella on yskä, on tärkeää, että lapsi yskii liman ulos keuhkoputkista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus mánná la gåssåsis de l ájnas mánná gåsså slijvev ålgus rájnnitjit gurggusav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yskää lievittävät lääkkeet vaikeuttavat liman yskimistä ulos keuhkoputkista.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gåsåsgiehpediddje dálkkasa dahki gásselap mánnáj slijvev ålgus gåssåt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Limaa irrottavien lääkkeiden teho on puolestaan epävarma.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Ij diehttu jus slijvvegiehpediddje dálkkasa viehkedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yskän lievittämiseksi voi sen sijaan kokeilla lämpimän tai viileän juotavan antamista lapselle.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Giehpedittjat gåssåsåv máhttá dan sadjáj gähttjalit vaddet liegga jali galmma juhkusav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alle kaksivuotiaille lapsille ei saa koskaan antaa yskänlääkettä ilman että on ensin ottanut yhteyttä lääkäriin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mánájda vuollelin guokta jage ij goassak galga gåsåsdálkkasav vaddet åvddål vuostak la dåktårijn aktavuodav válldám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miten tartunnan leviämistä voi estää ?</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gåktu galggá garvvet soahpom oabllán ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tartunnan leviämisen estämiseksi on hyvä opettaa lapset aivastamaan ja yskimään kyynärtaipeeseen ja käyttämään paperinenäliinoja.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Vaj ij mánná galga iehtjádijt soahpot de la buorre mánájt åhpaditt giehtagávvaj gassnet ja gåssåt ja páhpersagárdagájt adnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On hyvä pitää huoli, että lapset pesevät kätensä useamman kerran päivässä.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhttá gähttjat vaj giedajt bassi moaddi bäjvváj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yritä opettaa lapsi olemaan kaivamatta nenäänsä tai hieromaan silmiään.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gähttjala aj mánáv åhpadit ij njunjev jali tjalmijt duohttat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Virus tarttuu ja leviää helpoimmin sitä kautta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Le gånnå virusa giehpemusát dähppu ja oablláni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tartunnan leviämistä voi ehkäistä myös niin, että lapset eivät leiki flunssaan sairastuneiden kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Soahpomoabllom binnu aj jus máná e ståga lahkalakkoj gejna l snuohpa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anna lasten olla ulkona mahdollisimman paljon, myös talvella.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dibde mánájt ålggon årrot nåv ednagit gå máhttelis, dálven aj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muista, että ympäristön tupakansavulle altistuvat lapset sairastuvat flunssaan helpommin.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Mujttit, máná gudi dubáksuovvaj boadádalli, birrasin álkkebut sjaddi snuohpasa snuobav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkä tarpeen ottaa yhteys sairaanhoitoon</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Soajttá dárbaj sujtujn aktavuodav válldet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On erittäin tärkeää tarkkailla lapsen yleisvointia.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Buorre l årrot oalle ájttsis gåktu mánná vädjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsi vaikuttaa väsyneeltä eikä jaksa juoda, on välittömästi otettava yhteys terveyskeskukseen tai akuuttivastaanottoon.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Galggá dalága varresvuohtaguovdátjin jali hähkkaduostudagájn aktavuodav válldet jus mánná vuojnnet la vájbas ja ij vieje juhkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsi tarvitsee hoitoa myös silloin, jos hänellä on hengitysvaikeuksia tai yskä, joka pahenee ja kuulostaa haukkuvalta.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Sämmi l aj jus mánán la gássjel vuojŋŋat jali jus mánán la gåsås mij värrán, sierraláhkáj jus gullu ietjáláhkáj / skällande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsen korvasta valuu nestettä, tulee ottaa yhteyttä terveyskeskukseen tai päivystykseen, jotta lapsen korvat saadaan tutkittua.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus låsjkos gålggå bieljes lulu aktavuodav válldet varresvuohtaguovdátjijn jali hähkkaduostudagájn, vaj mánná åtsåduvvá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsella on korvakipuja eivätkä nämä mene ohi, tulee vuorokauden kuluessa ottaa yhteyttä terveyskeskukseen tutkimusta varten.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Jus mánán la bielljenávlak, ja ij buorrána, de luluj aktavuodav válldet varresvuohtaguovdátjijn vaj mánná jánndura sinna åtsådibmá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kysy neuvoa</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gatjáda rádev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit soittaa ympäri vuorokauden sairaanhoitajalle ja kysyä neuvoa.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Máhtá aj jánndura birra skihpasujttárijn ságastit ja rádev oadtjot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Soita numeroon 1177.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Skuolka 1177.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sieltä voidaan kertoa, mihin terveyskeskukseen kuulut.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Snuohpa, gåsås ja muhttijn báhkan buolli (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Dåjmadiddje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117. se – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="smj">
+        <seg>Gájkka sisadno l aj giehtadaládum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

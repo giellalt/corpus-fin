@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">morfa.fin.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morfa-ohjelmien avulla pääsee systemaattisesti harjoittelemaan sanataivutusta, joko eriksesn (Morfa-S) tai lausekontekstssa, niin että myös oppii missä yhteydessä pitää käyttää kyseistä sanaa (Morfa-C).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dás beassá systemáhtalaččat hárjehallat sátnesojaheami - juogo eaŋkilsátnin (Morfa-S) dahje cealkagis nu ahte son maid oahppá makkár oktavuođas galgá geavahit sátnehámiid (Morfa-C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanaluokka, lue enemmän alempana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátneluohkká, loga eanet vuolábealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vartalotyyppi (Morfa-S): parillis-, pariton- tai supistumavartalo, tai kaikki kolme.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máddagat (Morfa-S): bárrastávval-, bárahisstávval- dahje kontrákta máddagat, dahje buot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiettyjen oppikirjojen sanasto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihto oahppagirjji sátnevuorká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Norjankielinen käännös, jos painaa tuntematonta sanaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oažžu dárogiel jorgalusa go deaddila sániid maid ii ipmir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Apu: Jos antaa väärän vastauksen, niin ohjelma tarjoa apua oikean vastauksen muodustamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Veahkki: Go čállá boastut, de fállojuvvo veahkki sojaheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanaluokat, joiden kanssa voi työskenellä, ovat substantiivit, adjektiivit, verbit, pronominit ja lukusanat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátneluohkát maiguin sáhttá bargat, leat substantiivvat, adjektiivvat, vearbbat, pronomenat ja logut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Substantiivit: nominatiivin monikko ja kaikki sijamuodot, sanat annetaan joko yksikössä tai monikossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Substantiivvat: nominatiiva máŋggaidlohku ja buot kásusat, vuođđosánit sáhttet leat sihke ovttaidlogus ja máŋggaidlogus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verbit: indikatiivin preesens ja preteriti, prefekti, konditionaali, potentiaali, imperatiivi ja gerundi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vearbbat: indikatiiva preseansa ja preterihtta, prefeakta, konditionála, potentiála, imperatiiva ja gerunda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Adjektiivit: attributin tai predikatiivin vertailumuodot.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Adjektiivvat: attribuhttan dahje predikatiivan veardidemiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morfa-S:ssa on samat mahdollisuudet, mutto myös eri sijamuodoissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Morfa-S:s leat seammá, muhto máŋgga kásusis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pronominit: persoonapronominit, deiktiset pronominit, relatiivi-, refleksiivi- ja resiprookkipronominit, kaikissa sijamuodoissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Pronomenat: persovnnalaš, čujuheaddji, relatiiva, refleksiiva ja resiproka, buot kasusiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lukusanat kymmeneen asti monessa sijamuodossa, myös attribuuttina.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lohkosánit gitta 10 rádjai máŋgga kásusis, maid attribuhttan substantiivii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kollektiivilukujen ja järjestyslukujen sijataivutus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkelogut ja ortnetlogut kásussojahemiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morfa-S:n taso 1:ssä luvut ovat vain yksikössä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Morfa-S 1-dásis 1 leat logut dušše ovttaidlogus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. taso sisältää myös lukusanojen monikkomuotoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2-dássi sisttisdoallá maid loguid máŋggaidlogus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morfa-C:ssa on lukusanojen taivutus sekä yksikössä ja monikossa kymmeneen asti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Morfa-C sisttisdoallá loguid sihke ovttaidlogus ja máŋggaidlogus gitta 10 rádjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Linkki: MORFA-S sanat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liŋka: MORFA-S sánit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Linkki: MORFA-C lauseet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liŋka: MORFA-C cealkagat</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

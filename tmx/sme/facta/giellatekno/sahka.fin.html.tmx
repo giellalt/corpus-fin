@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">sahka.fin.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskustelut ovat:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ságastallamat leat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sahka on interaktiivinen keskusteluohjelma.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sahka lea interaktiivvalaš ságastallan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oppilas pääsee keskustelemaan tietokoneen kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppi beassá ságastallat dihtoriin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavoitteena on harjoitella verbitaivutusta ja sijamuotojen käyttöä, ja laajentaa sanastoa. Sen takia pitää vastata kokonaisella lauseella, ja yleensä myös vastata samalla verbillä kun kysymyksessä on esitetty, esim.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ulbmil lea hárjehallat vearbasojaheami, kasusgeavaheami ja nannet sátnevuorkká, ja dan dihte ferte vástidit olles cealkagiin, ja dábálaččat geavahit seammá vearbba go jearaldagas, omd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Usein tietokone antaa myös avoin kysymys.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Jugat go gáfe ? - Gal mun jugan. / In juga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä voi myös olla sanalista (esim.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dávjá leat rabas jearaldagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ruokalista tai piirrostus).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vejolaččat lea sátnelistu (omd. borramušmenya dahje tevnnet).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muihin vastauksiin on mahdollista vastata mitä vain, jos vain vastaus on muuten oikein.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará jearaldagaide sáhttá vástidit maid beare, muhto ferte geavahit rivttes kasusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Omd.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Omd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelma huomauttaa tavallisimmista virhetyyppeistä, mutta monta virhettä jää huomaamatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmma fuomášuhttá vuosttažettiin muhtun dábálaš giellameattáhusaid, muhto ii juohke meattáhusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskustelut ovat:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ságastallamat leat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oahpásmuvvan Kárii (tavalliset kysymykset henkilökohtaisista asioista).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpásmuvvan Kárii (dábálaš jearaldagat persovnnalaš áššiin).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Guossis (missä oppilas pääse käyttämään kaksikkoa (" moai ") ja myös harjoittelemaan lokatiivia ja illatiivia, lopussa myös akkusatiivia.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guossis (Dás beassá geavahit duála (" moai ") ja maid hárjehallat lokatiivva ja illatiivva. Loahpas lea maid akkusatiiva.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Borramušgávppis (Harjoitella akkusatiivia.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Borramušgávppis (Hárjehallat akkusatiivva.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Linkki Sahka-ohjelmaan</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liŋka Sahka-prográmmii</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

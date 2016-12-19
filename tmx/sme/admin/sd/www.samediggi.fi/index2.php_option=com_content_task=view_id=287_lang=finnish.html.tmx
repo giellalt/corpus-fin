@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=287_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien yleisessä toimistossa haettavana olleen kulttuurisihteerin viransijaiseksi on otettu musiikin maisteri Anna Näkkäläjärvi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki almmolaš doaimmahagas ohcanláhkai leamašan kulturčálli virgesadjásažžan lea váldojuvvon musihka magisttar Anna Näkkäläjärvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näkkäläjärvi aloittaa tehtävässään 18. toukokuuta 2009.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Näkkäläjärvi álggaha barggustis miessemánu 18. beaivve 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hänen toimipaikkansa on Saamelaiskäräjien yleisessä toimistossa Inarin Riutulassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Su doaibmabáiki lea Sámedikki almmolaš doaimmahagas Anára Rivdolis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viransijaisuutta määräaikaan mennessä haki Anna Näkkäläjärven lisäksi neljä muuta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgesadjásašvuođa áigemeari rádjai ohce Anna Näkkäläjärvi lassin njeallje eará ohcci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja hallintopäällikkö Juha Guttomilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassidieđut hálddahushoavda Juha Guttormis.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
