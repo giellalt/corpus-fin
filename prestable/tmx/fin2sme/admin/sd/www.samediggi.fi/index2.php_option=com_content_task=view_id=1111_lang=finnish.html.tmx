@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1111_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen korkeakoulu järjestää luennon Sajoksessa to 24.9.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi allaskuvla doallá logaldallama Sajosis du 24.9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen korkeakoulu järjestää luentosarjan maakunnissa, josta yksi luento pidetään Inarissa Sajoksessa to 24.9 klo 10-10-45.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi allaskuvla doallá logaldallanraiddu, mas okta oassi lea Anáris du 24.9. dmu 10.00-10.45.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luennon aiheena on nuorten identiteetin rakentuminen konfirmaatiopukeutumisen kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Logaldallama doallá Seija Somby: Konfirmašuvdna nuoraid identiteahta huksen gárvodemiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luento on kaikille avoin ja on pohjoissaameksi. Luennon pitää Seija Somby.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Logaldallan lea davvisámegillii ja dat lea buohkaide rabas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järjestäjä: Saamelaisalueen koulutuskeskus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ordnedeaddji: Sámi oahpahusguovddáš.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1008 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">vavnadsprov_av_prostata_prostatabiopsi.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åedtjiepryövenasse prostateste – prostatabiopsijeVävnadsprov av prostata - prostatabiopsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi näyte on syytä antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie goerehtimmiem daarpesje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se tehdään (ca 4 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie dorje (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi näyte on syytä antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie goerehtimmiem daarpesje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se tehdään (ca 4 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie dorje (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleistä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhasen kudosnäytteessä eli biopsiassa lääkäri ottaa eturauhasesta hyvin pieniä kudospalasia tutkimusta varten.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åedtjiepryövenasse prostateste, jallh prostatabiopsije, dåaktere vaalta dan onn ' ohtje stuhtjh åedtjeste prostateste guktie maahta dejtie goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen avulla lääkäri voi tutkia, onko eturauhasessa syöpäsoluja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta pryövenassem åadtjodh darjodh juktie dåaktere sæjhta goerehtidh jis cancerecellh gååvnesieh prostatareavseste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte lähetetään laboratorioon analysoitavaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenasse laboratijumese seedtie gusnie dam analyseeredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Analyysin valmistuttua lääkäri ilmoittaa tutkimustuloksen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere beavna pryövenassen resultaatem dan mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valmistelut</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ryöjredimmieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen kudosnäytteen ottamista tutkittava ottaa tavallisesti antibioottitabletin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse åedtjiepryövenassem vaalta åådtje daamhtaj antibiotikatabledtem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus tutkittava saa myös kotiin lähtiessään tabletin, jonka hän ottaa muutaman tunnin kuluttua näytteenoton jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene aaj åådtje antibiotikatabledtem meatan gåetide maam edtja vaeltedh måedtie tæjmoeh goerehtimmien mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tablettien ottaminen on erittäin tärkeää tulehduksen ehkäisemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan vihkeles dejtie tabledtide vaeltedh guktie infeksjovnem heerredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittava on allerginen jollekin antibiootille, siitä tulee kertoa ennen tutkimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis allergijeles naan såarhte antibiotikan vööste, dellie vihkeles dam jiehtedh goerehtimmien åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittavalla on diabetes, synnynnäinen sydänvika tai jonkinlainen läppävika, on tärkeää ilmoittaa siitä vastaanotolle hyvissä ajoin ennen tutkimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis diabetesem åtna, reakasovveme vaajmoefïejline jallh naan såarhte vaejvieh vaajmoeklaffigujmie lea aaj vihkeles dam dåastoevasse jiehtedh guhkiem goerehtimmien åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä koskee myös niitä, jotka käyttävät verta ohentavia lääkkeitä tai kortisonitabletteja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte aaj jis båehtjierdeminie vïrresiegkes medisijnine jallh kortisontabledtigujmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Juuri ennen toimenpidettä tutkittavan tulee käydä WC:ssä ja tyhjentää virtsarakko ja suoli.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Raakte goerehtimmien åvteli ohtjegåatan mænna tjåelieh döömedh jïh gadtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuinka näyte otetaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie goerehtimmiem dorje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimuksen aikana tutkittava makaa tutkimuspöydällä vasemmalla kyljellään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse goerehteminie dellie garrah bielesne britsesne vealesje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri aloittaa tutkimuksen tunnustelemalla eturauhasta sormella peräsuolen kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere aalka prostatam damtedh soermine maadthtjåelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän jälkeen peräsuolen sisään muutaman senttimetrin syvyyteen työnnetään varovasti ultraäänianturi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan ultratjoerestavem mojhteleslaakan naan centimeeterh maadthtjåelien sïjse rijtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimenpide ei ole kivulias, mutta saattaa tuntua hieman epämiellyttävältä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij baektjedh mohte ånnetji ovmurries damta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraäänianturissa olevan kanavan kautta lääkäri vie sisään neulan, jonka avulla eturauhasesta otetaan koepaloja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Kanalen tjïrrh ultratjoejestavesne dåaktere naaloem rijtie mïsse nuhtjie pryövenassh prostateste vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmat kokevat toimenpiteen vain hieman tai ei lainkaan kivuliaana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemidie ånnetji jallh ij naan baaktjese demtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mutta jos tutkittava tuntee kipua, eturauhaseen voi saada paikallispuudutuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte jis veanhta dïhte baektjede dellie maahta lokalbedövningem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteenotto kestää noin 15 minuuttia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmie medtie luhkievïjhte minudth vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miltä tutkimuksen jälkeen tuntuu ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie dan mænngan ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimenpiteen jälkeen siemennesteessä, virtsassa tai ulosteessa voi näkyä verta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte daamhtaj vïrre sjædta sædesne, gadtjesne jallh bejhkesne dan mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on täysin vaaratonta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte ij leah væhta mij akt båajhtode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Välittömästi toimenpiteen jälkeen voi tuntua kipua ja virtsaamistarvetta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta ånnetji baektjiedidh jïh damta goh sæjhta gadtjedh ryöktesth dan mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi näyte on syytä antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie goerehtimmiem daarpesje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi näyte on syytä antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie goerehtimmiem daarpesje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte otetaan eturauhasesta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenasse prostatareaveste vaeltiesåvva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhanen on rauhanen, joka on virtsarakon alapuolella virtsaputken yläosan ympärillä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prostata lea reavsa man gadtjegïrsen bijjiemes bielien bïjre ryöktesh gadtjebollenjen nuelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhasen tehtävänä on tuottaa siittiöiden kuljettamiseen tarvittavaa nestettä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prostatareavsan funksjovne lea feelemejuhtese spermiji åvteste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhasesta otettavasta kudosnäytteestä voidaan tutkia, onko siinä syöpäsoluja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta åadtjodh åedtjiepryövneassem vedtedh guktie goerehte jis dan sisnie cancerecellh gååvnesieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kudosnäyte koostuu hyvin pienistä kudospaloista, jotka tutkitaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åedtjiepryövenasse lea onn ' ohtje stuhtjh åedtjeste maam olkese vaalta jïh dejtie goerehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kudosnäytettä kutsutaan myös biopsiaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åedtjiepryövnassh aaj gohtje biopsije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensin muita tutkimuksia</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Voestes jeatjah goerehtimmieh dorje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kudosnäytteen ottamiseen voi olla kaksi syytä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea uvtemes göökte tsiehkine åedtjiepryövnassh pruvhkieh vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toinen on se, että ns. PSA-arvo on kohonnut.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aktem daejstie lea gosse PSA-vierhtiem jeanene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA on eturauhasen tuottama aine, jota erittyy verenkiertoon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA lea ïebne maam prostatesne produseereme jïh vïrrese båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA-pitoisuus voidaan tarkistaa tavallisella verikokeella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme vïrrepryövenassine maahta PSA-vierhtiem vaaksjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA-arvo voi kohota, jos eturauhanen on suurentunut.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA-vierhtie maahta bijjiemdidh jis prostatastuaranimmiem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita PSA-pitoisuuden kohoamisen syitä voi olla eturauhasen tulehdus mutta myös syöpä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatjah sjïekh jollene PSA-vierhtide maahta jis infeksjovnem jallh inflammasjovnem prostatesne, mohte aaj jis prostatacancerem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohonnut PSA-arvo ei siten aina merkitse eturauhassyöpää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollene PSA ij leah vihties prostatacancere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toinen näytteenoton syy on kovettuma eturauhasessa, mikä voi olla merkki eturauhassyövästä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mubpie tsiehkie jis garrese prostatesne gååvnese, mij maahta væhtam prostatacancerasse årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhasesta kovettuman lääkäri on löytänyt tunnustellessaan eturauhasta sormella peräsuolen kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam garrebe tjugliem lea dåaktere aajhtseme gosse prostatareavsam soermine doehtehtamme tjåelien tjïrrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhanen sijaitsee muutaman senttimetrin päässä peräaukosta lähellä suolen etuseinämää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prostata lea naan centimeeterh bæjjese jïh dan lïhke tjåelien åvtevïedtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleensä eturauhanen tuntuu täysin sileältä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtaj prostatareavsam eevre jalke damta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kudosnäytteiden mikroskooppitutkimus</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åedtjiebæhtah mikroskopesne goerehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhasesta otetut kudosnäytteet tutkitaan mikroskoopilla, jolloin saadaan selville, onko kyseessä eturauhassyöpä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah åedtjiebæhtah mah prostatareavseste vaalta seedtie mikroskopijen goerehtæmman maam vaestede jis cancerem prostatesne gååvnesieh jallh ij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syöpäkudos arvioidaan sitten Gleasonin luokituksen mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cancereåedtjiem dan mænngan vuarjesje skalan mietie man nomme Gleason.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se tehdään</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie dorje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se tehdään</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie dorje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tärkeä esivalmistelu antibiooteilla</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Antibiotika vihkeles ryöjredimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kudosnäytteen oton yhteydessä otetaan yleensä antibioottitabletti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse åedtjiepryövenassem vaalta daamhtaj antibiotikatabledtem åådtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus tutkittava saa myös kotiin lähtiessään tabletin, jonka hän ottaa muutaman tunnin kuluttua näytteenoton jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene åådtje aaj antibiotikatabledtem meatan gåatan maam edtja måedtie tæjmoeh goerehtimmien mænngan vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tablettien ottaminen on erittäin tärkeää tulehduksen ehkäisemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan vihkeles dejtie tabledtide vaeltedh juktie infeksjovnem heerredidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittava on allerginen jollekin antibiootille, kuten penisilliinille, on tärkeää ottaa yhteyttä tutkimuksen suorittavaan klinikkaan tai vastaanottoon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis allergijen såemies såerhte antibiotikam, vuesiehtimmien gaavhtan penicilline, dellie vihkeles klinihkem jallh dåastoevassem gaskesadtedh gusnie goerehtimmiem edtja darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkityksen muutos voi olla tarpeen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Medisinereme maahta tjoeredh jeatjahtehtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittava käyttää verenohennuslääkkeenä Warania, tästä tulisi ilmoittaa vastaanottoon vähintään viikkoa ennen tutkimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis vïrreseagkanamme medisijnem vaalta såarhteste Waran edtja dåastoevasse dam jiehtedh unnemes våhkoem goerehtimmien åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veren INR-arvon täytyy ehtiä korjautua, veren tulee ts. hyytyä normaalisti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PK-vierhtie vïrresne tjuara hïnnedh korrigeredh, dïhte sæjhta jiehtedh vïrre edtja maehtedh gyölledh goh sïejhme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Warania määrännyt lääkäri varmistaa, että annosta voi pienentää ennen tutkimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea dïhte dåaktere maam Waran ordinereeme maam edtja bïhkedidh edtja dovsem unniedidh goerehtimmien åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaanoton tulee lisäksi tietää hyvissä ajoin etukäteen, onko tutkittavalla läppävika, synnynnäinen sydänvika tai tekoläppä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåastove tjuara aaj guhkiem åvteli daejredh jis fiejlh vaajmoeklaffine åtna, reakasovveme vaajmoefïejlem åtna jallh klaffeprotesem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sama koskee tutkittavaa, jolla on ollut bakteeritulehdus sydänläpissä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seamma jis bakterijeinfeksjovnem vaajmoeklaffine åtneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittavalla on diabetes tai jos hän käyttää kortisonitabletteja, on tärkeää ilmoittaa tästäkin vastaanottoon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis diabetesem åtna jallh kortisontabledtigujmie båehtjierdeminie lea aaj vihkeles dåastoevasse jiehtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Antibioottihoito tulee mukauttaa kunkin erityisten vaivojen mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Antibiotikabåehtjierdimmmiem tjuara fïerhten persovnen sjïere vaejvide sjïehtedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimus on nopea</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmie varki jåhta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimus kestää noin viisitoista minuuttia, ja se voidaan usein tehdä ilman puudutusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmie medtie vïjhteluhkie minudth vaalta jïh maahta daamhtaj dam bedövningem namhtah darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kyseessä on suhteellisen yksinkertainen ja nopea toimenpide, joka voidaan suorittaa lähes kaikille.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte aelhkie jïh varki goerehtimmie maam mahte gaajhkesh maehtieh tjïrrehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Juuri ennen toimenpidettä tutkittavan tulee käydä WC:ssä ja tyhjentää virtsarakko ja suoli.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ryöktesh goerehtimmien åvteli ohtjegåatan mænna tjåelieh döömedh jïh gadtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joissakin sairaaloissa tutkittavalle saatetaan ennen tutkimusta antaa mikroperäruiske, joka otetaan kotona ennen toimenpidettä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies skïemtjegåetine maahta goerehtimmien åvteli mikrolavemangem åådtjeme maam edtja gåetesne vaalteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimuksen aikana tutkittava makaa tutkimuspöydällä vasemmalla kyljellään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse goerehteminie dellie garrah bielesne britsesne vealesje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alaruumis riisutaan paljaaksi ja sukuelimet peitetään pyyhkeellä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vueliekråahpe vaarjohts jïh njaamelijnie dïrregh gaptja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri aloittaa tutkimuksen tunnustelemalla eturauhasta sormella peräsuolen kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere aalka prostatam damtedh soermine maadthtjåelesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhanen on yleensä sileä, kiinteä ja hieman joustava.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Prostatam sïejhme jalke, tjïrkes jïh ånnetji elastistihks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhasen kovuus ja kyhmyisyys voivat olla syövän merkkejä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis prostata garrebe jïh tjuglebe goh daamhtaj dejtie maehtieh cancerem vuesiehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraäänellä kuva eturauhasesta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ultratjoeje guvviem prostateste vadta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunnustelun jälkeen eturauhanen tutkitaan ultraäänellä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan prosatam ultratjoejen viehkine goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraäänianturi viedään varovasti pieni matka peräsuolen sisään, ja lääkäri tutkii eturauhasta muutaman minuutin ajan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte maam gohtje ultratjoejestave mojhteleslaakan åenehks boelhketjem maadthtjåalan rijtie, jïh dåaktere måedtie minudth prostatam goerehte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraäänianturi on noin 20 cm pitkä, mutta vain sen uloin osa viedään peräsuoleen muutaman senttimetrin veran.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ultratjoejestave lea medtie 20 centimeterh guhkies, mohte dïhte barre gietjie maam måedtie centimeeterh rijtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anturin läpimitta on noin 2,5 cm..</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staven diametetere lea medtie 2,5 centimeterh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anturi sisältää ultraäänilähettimen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Staven sisnie ultratjoejeseedtese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se lähettää ääniaaltoja, jotka palautuvat takaisin kehon eri kudoksista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte tjoejebaaroeh olkese seedtie maam dan mænngan organijste kråahpen sisnie reflekteeredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraääniaallot siirretään tietokoneelle, joka muodostaa niistä kuvan. Lääkäri näkee kuvan näytöllä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ultratjoejebaaroeh datovrasse juhtieh maam dejtie jeatjahtahta gåvvan maam dåaktere maahta guvviesjermesne vuejnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on mustavalkoinen ja esittää poikkileikkauksen eturauhasesta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guvvie tjeehpesveelkes jïh vuesehte prostatam tjïrretjoehpeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kudosnäyte otetaan neulalla</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åedtjieh olkese vaalta biopsijenaalojne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuvauksen jälkeen rauhasesta otetaan kudosnäytteitä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan åedtjiepryövenassh reavseste vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraäänianturissa on kanava, johon biopsineula viedään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ultratjoejestavesne kanaale gååvnese gusnie biopsijenaaloem rijtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neulan halkaisija on muutama millimetri.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naaloe naan millimeterh diameterisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neula työnnetään suolen limakalvon läpi eturauhaseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dam tjåelien njevlieskïelten tjïrrh prostatan sïjse baskedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraäänikuvan avulla lääkäri pystyy ohjaamaan neulan oikeaan kohtaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ultratjoejeguvvien viehkine guvviesjermesne maahta dåaktere naaloem rïektes siktedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neulassa on säiliö, joka pistetään nopeasti eturauhasen sisään ja täytetään eturauhaskudoksella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naalosne læhtetjem gååvnese maam varki prostatan sïjse baska jïh prostataåedtjeste deavhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleensä lääkäri ottaa useita koepaloja eri puolilta eturauhasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtajommes dåaktere gellien aejkien baska guktie pryövenassh ovmessie sijjeste prostatesne vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koepaloja otetaan yleensä 8–12 kappaletta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme gaskem gaektsie jïh luhkiegöökte pryövenassh vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimenpide voi tuntua hieman epämiellyttävältä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta ånnetji nåake damtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ultraäänianturi ei tee kipeää, mutta toimenpide voi tuntua hieman epämiellyttävältä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij dïhte ultratjoejestave bååktjese vedtieh mohte ånnetji nåake maahta gujht damtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun se painetaan eturauhasta vasten, voi tuntua virtsaamistarvetta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse dam prostaten vööste dïedteste maahta damtedh guktie sæjhta gadtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen vuoksi rakko kannattaa tyhjentää ennen tutkimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte dan gaavhtan hijven jis gadtjeme goerehtimmien åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kudosnäytteiden ottaminen neulalla voi tuntua epämiellyttävältä ja joskus kivuliaalta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse åedtjiebæhtah biopsijenaalojne vaalta dellie maahta nåake damtedh jïh muvhtene aaj bååktjese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähes jokainen toimenpiteen läpikäynyt on kokenut vain lievää kipua tai ei lainkaan kipua.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mahte gaajhkh gïeh leah pryövenassevaaltemisnie orreme jeehtin dah barre ånnetji bååktjesem damteme jallh ij bååktjesem damth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kipu on hyvin voimakasta, toimenpiteessä voidaan käyttää paikallispuudutetta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nuepie gååvnese lokalbedövnigem åadtjodh jis baektjiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimenpiteen jälkeen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ussjedh goerehtimmien mænngan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Runsas nesteen nauttiminen huuhtelee virtsarakkoa ja auttaa ehkäisemään virtsatietulehduksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Juktie gadtjegïrseinfeksjovnem heerrede dellie hijven jïjnjh jovkedh guktie bollenjem reejnie skuvledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komplikaatiot ja riskit</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Komplikasjovnh jïh vaahrah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimuksen jälkeen siemennesteessä, virtsassa ja ulosteessa saattaa esiintyä verta, mikä on täysin vaaratonta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vïrre tjoglenassine, gadtjesne jïh bejhkesne lea sïejhme dagkere goerehtimmien mænngan jïh ij leah væhta mij akt båajhtode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Välittömästi toimenpiteen jälkeen voi tuntua kipua ja virtsaamistarvetta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj ånnetji bååktjesem damtedh jïh sæjhta gadtjedh ryöktesth dan mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siemennesteessä voi esiintyä verta jopa useamman viikon ajan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vïrre tjoglenassine maahta guhkiem årrodh, muvhtene gellie våhkoeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veri virtsasta ja ulosteesta häviää yleensä muutamassa päivässä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vïrre gadtjesne jïh bejhkesne pråvhka måedtie biejjiej raejesne orrije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkäisevästä antibiootista huolimatta voi tutkimuksen jälkeen joskus saada bakteerin aiheuttaman tulehduksen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïlhts antibiotikam åådtjeme heerredimmien gaavhtan maahta såemies aejkien infeksjovnem åadtjodh bakterijistie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Riski on suurin viikko tutkimuksen jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaahra stööremes våhkoem goerehtimmien mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkimuksen jälkeen nousee korkea kuume ja olo tuntuu sairaalta, tulee ottaa heti yhteys lääkäriin tai hakeutua ensiapuun.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis jolle vaejliem åådtje jïh skïemtjes damta edtja dåaktarasse gaskesadtedh jallh akutedåastoevasse vuelkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi näyte on syytä antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie goerehtimmiem daarpesje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin se tehdään (ca 4 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie dorje (ca. 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laatinut: Fredrik Sunden, munuaisiin ja virtsateihin erikoistunut lääkäri, Kirurgian klinikka, Helsingborgin sairaala</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelije: Fredrik Sundén, dåaktere, spesialiseereme tjiermieh jïh urinvägar, Kirurgiska klinihke, Helsingborgs skïemtjegåetie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuvittaja: Kari C. Toverud, sertifioitu lääketieteen kuvittaja, Oslo, Norja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Katti Björklund, 1177 Vårdguiden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117 Vårdguiden – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh sisvege lea aaj gïetedamme, goerehtamme jïh dåhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

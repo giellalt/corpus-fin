@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=354_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuma lähestyy</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámenuoraid dáiddadáhpáhus lahkona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtumaan on ilmoittautunut 24 musiikin esittäjää tai ryhmää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámenuoraid dáiddadáhpáhussii leat almmuhuvvon 24 musihkkára dahje musihkkajoavkku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitykset ovat rockia, laulua, joikua, rappia ja instrumentaalimusiikkia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmmat leat rock-, lávlla-, luohte-, rap- ja instrumentálamusihkka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautumisia on tullut kaikista saamelaisten kotiseutualueen kunnista ja Rovaniemeltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuheamit leat boahtán sámiid ruovttuguovllu buot gielddain ja Roavvenjárggas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapahtumaan järjestetään kuljetukset kaikista kotiseutualueen kunnista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ordne dáhpáhussii linjábiilasáhtuid ruovttuguovllu gielddain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkemmat tiedot kuljetuksista, majoituksesta ja ruokailuista toimitetaan kouluille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dárkkilut dieđut sáhtuin, ijastallamis ja borademiin doaimmahuvvojit skuvllaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedot tulevat myös nettiin, seuraa www.samediggi.fi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđut almmuhuvvojit maid neahtas, čuovo www.samediggi.fi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja tästä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassedieđut dás.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

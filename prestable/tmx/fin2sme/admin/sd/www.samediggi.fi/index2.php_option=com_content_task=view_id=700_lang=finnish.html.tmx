@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=700_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kulttuurilautakunta jakoi vuoden 2013 kulttuuriavustukset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki kulturlávdegoddi jugii čoahkkimisttis 31.1. – 1.2.2013 jagi 2013 Sámedikki kulturdoarjagiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtion talousarviossa saamelaiskielisen kulttuurin edistämiseen ja saamelaisjärjestöjen toimintaan (ns. saamelainen kulttuurimääräraha) vuodelle 2013 on osoitettu 182 000 euroa, josta 10 650 euroa Utsjoen saamelaiskirkkotupien ylläpitoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhta bušeahtas sámegielat kultuvrra ovddideapmái ja sámeservviid doaibmamii (ng. sápmelaš kulturmearreruhta) jahkái 2013 lea čujuhuvvon 182 000 euro, mas 10 650 euro Ohcejoga sámegirkostobuid bajásdoalu várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varsinaisena kulttuuritukena myönnettiin yhteensä 96 600 €, yhdistysten toiminta-avustuksina 54 600 € ja julkaisutukena 27 800 €. Varsinaisessa kultturituessa avustuksia myönnettiin kullekin sektorille seuraavasti: kirjallisuus 8 600 €, musiikki 12 000 €, käsityö (duodji) 12 500 €, muu kulttuurituki 39 300 €, kulttuuritapahtumat 18 000 €, teatteri 3 000 €, matka-avustus 2 300 € ja kuvataide 900 €.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áitosaš kulturdoarjjan mieđihuvvui oktiibuot 96 600 €, sámeservviid doaibmadoarjagin 54 600 € ja almmustahttindoarjagin 27 800 €. Áitosaš kulturdoarjagis veahkkeruđat mieđihuvvojedje guđege doaibmasuorgái čuovvovaččat: girjjálašvuohta 8 600 €, musihkka 12 000 €, duodji 12 500 €, eará kulturdoarjja 39 300 €, kulturdáhpáhusat 18 000 €, teáhter 3 000 €, mátkeveahkkeruhta 2 300 € ja govvadáidda 900 €.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen kulttuurimääräraha 2013</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaš kulturmearreruhta 2013</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

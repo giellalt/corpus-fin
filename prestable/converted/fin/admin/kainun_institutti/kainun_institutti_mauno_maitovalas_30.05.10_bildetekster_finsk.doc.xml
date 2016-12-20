@@ -10,9 +10,10 @@ Aga+-003026
     <translator>
       <person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/>
     </translator>
-    <wordcount>421</wordcount>
+    <wordcount>413</wordcount>
+    <conversion_status type="standard"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
     <multilingual/>
@@ -20,7 +21,7 @@ Aga+-003026
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p xml:lang="nno">Aga+-003026.jpg</p>
@@ -113,8 +114,8 @@ Aga+-003026
     <p>Hiljaista taltioimista</p>
     <p xml:lang="eng">Peaceful recordings</p>
     <p xml:lang="eng">All these photos must have a photographer name as (Photo: Anna Koivisto)</p>
-    <p xml:lang="nob">Aleksandr Agafonov med sitt mannskap fra Shirshov Institute of Russian Academy of Science (Foto: Anna Koivisto) Belukha festival i Kolezhma, 2006 (Foto: Anna Koivisto) Venter på melkehvaler i Mäkisaari (Foto: Anna Koivisto) Hydrofone r som senkes ned i vannet s lydverden (Foto: Anna Koivisto) På en p omor båt (Foto: Anna Koivisto) Det <em type="italic">nobleness </em>av en stein (Foto: Anna Koivisto) Forberelse av Belug a festival i Kolezhma (Foto: Anna Koivisto) Stillheten (Foto: Anna Koivisto) David improviserer (Foto: Anna Koivisto) En klipp blomstrer (Foto: Anna Koivisto) Jenter fra bygda Kolezhma (Foto: Anna Koivisto) Multer (Foto: Anna Koivisto) Et ikonhjørn i et herberge (Foto: Anna Koivisto) J.I Judin faren til kollektiven Kolezhma </p>
-    <p xml:lang="nno">( Foto: Anna Koivisto) Den merkelige varme i nord (Foto: Anna Koivisto) Bygda lever (Foto: Anna Koivisto) Forbikjørninger (Foto: Anna Koivisto) Ekspedisjonen til Mäkisaari (Foto: Anna Koivisto) Kolezhma supermarked (Foto: Anna Koivisto) L age rhus for tang fra kollektiv perioden En stein klanger En klarinett inviterer Fredelig opptak</p>
+    <p xml:lang="nno">Aleksandr Agafonov med sitt mannskap fra Shirshov Institute of Russian Academy of Science (Foto: Anna Koivisto) Belukha festival i Kolezhma, 2006 (Foto: Anna Koivisto) Venter på melkehvaler i Mäkisaari (Foto: Anna Koivisto) Hydrofoner som senkes ned i vannets lydverden (Foto: Anna Koivisto) På en pomor båt (Foto: Anna Koivisto) Det <em type="italic">nobleness </em>av en stein (Foto: Anna Koivisto) Forberelse av Beluga festival i Kolezhma (Foto: Anna Koivisto) Stillheten (Foto: Anna Koivisto) David improviserer (Foto: Anna Koivisto) En klipp blomstrer (Foto: Anna Koivisto) Jenter fra bygda Kolezhma (Foto: Anna Koivisto) Multer (Foto: Anna Koivisto) Et ikonhjørn i et herberge (Foto: Anna Koivisto) J.I Judin faren til kollektiven Kolezhma </p>
+    <p xml:lang="nno">(Foto: Anna Koivisto) Den merkelige varme i nord (Foto: Anna Koivisto) Bygda lever (Foto: Anna Koivisto) Forbikjørninger (Foto: Anna Koivisto) Ekspedisjonen til Mäkisaari (Foto: Anna Koivisto) Kolezhma supermarked (Foto: Anna Koivisto) Lagerhus for tang fra kollektivperioden En stein klanger En klarinett inviterer Fredelig opptak</p>
     <p xml:lang="smj">kuvatekstit3.doc</p>
   </body>
 </document>

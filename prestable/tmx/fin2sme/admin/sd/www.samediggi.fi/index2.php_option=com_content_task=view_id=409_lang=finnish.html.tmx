@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=409_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääsali (yhdistetty)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldosále (ovttastahttojuvvon)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sajoksen Pääsali soveltuu kongresseihin, konsertteihin ja teatteriesityksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sajosa váldosále heive kongreassaide, konsearttaide ja teáhterčájáhusaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääsali muodostuu Auditorio Dollasta ja sen takana olevasta, siirtoseinällä erotettavasta Monitoimisali Dollagáddista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldosále čohkiida Auditoria Dolas ja Máŋggadoaimmasále Dollagáttis, mii lea auditoria bálddas ja man sáhttá dárbbu mielde sirdinseinniin sirret auditorias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääsali on Sajoksen suurin yhtenäinen kokoontumistila.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldosále lea Sajosa stuorámus oktilaš čoahkkananbáiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääsali on muunneltavissa MAKSI- ja SHOW - muotoihin käyttäjän tarpeiden mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldosále sáhttá rievdadit MAKSI- ja SHOW - hámiide dárbbu mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Salin kokonaispinta-ala: 417 m2 (pituus n. 27,5 m x leveys 17 m)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Sále olles viidodat: 417 m2 (guhkkodat s. 27,5 m x govdodat s.17 m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>MAKSI-muoto 430 henkilölle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>MAKSI-hápmi 430 olbmui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongresseihin, koulutuksiin, luentoihin ja tilaisuuksiin, joissa tarvitaan runsaasti istumapaikkoja yleisölle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassaide, skuvlejupmái, logaldallamiidda ja dilálašvuođaide, main dárbbaša ollu čohkkánsajiid geahččiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Katsomo: Kiinteät istuinpaikat nousevassa katsomossa 190 henkilölle + tasalattialla irtotuoleja 234 henkilölle + 6 paikkaa luennoitsijoille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Geahččiidsadji: Stuolut 190 olbmui + dásseláhttis 234 luovos stuolu + 6 báikki logaldalliide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikkoja yhteensä 430 henkilölle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sadji oktiibuot 430 olbmui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Näyttämö:n. 50 m2 (leveys 12 m x syvyys 4 m).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Lávdi: s. 50m2 (govdodat 12 m x čikŋodat 4 m).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SHOW-muoto 190 - 254 henkilölle Konsertteihin, show-esityksiin, teatteriesityksiin tai tilaisuuksiin, joissa tarvitaan erityisen suurta näyttämöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SHOW-hápmi 190 - 254 olbmui Konsearttaide, show-čájáhusaide, teáhterčájáhusaide dahje dilálašvuođaide, main dárbbaša erenomáš stuorra lávddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Katsomo: kiinteät istuinpaikat nousevassa katsomossa 190 henkilölle (9 istuinriviä), jolloin saadaan suurin mahdollinen näyttämötila</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Geahččiidsadji: 190 čohkkánsaji (9 gurgadasa), nu ahte oažžut nu stuorra lávddi go vejolaš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Näyttämö: 270 m2 (leveys 17 m x syvyys 16 m)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Lávdi: 270 m2 (govdodat 17 m x čikŋodat 16 m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>TAI lisätään hieman istuinpaikkoja ja vähennetään näyttämöä:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>DAHJE lasihuvvojit veahá čohkkánsajit ja lávdi unniduvvo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Katsomo: kiinteät istuinpaikat nousevassa katsomossa 254 henkilölle istuinpaikka (12 istuinriviä).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Geahččiidsadji: čohkkánsajit 254 olbmui (12 gurgadasa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katsomo perusmuodossaan, monitoimisali näyttämönä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahččiidsadji vuođđohámis, máŋggadoaimmasále lávdin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Näyttämö: 200 m2: leveys 17 m x syvyys 12,5 m.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Lávdi: 200 m2: govdodat 17 m x čikŋodat 12,5 m.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Dokumenttikamera * Videoneuvotteludekki</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>TEKNIHKKA JA RUSTTEGAT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Blu-ray - soitin, DVD. / VHS-yhdistelmäsoitin</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Dokumeantakamera * Videoráđđádallandekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Äänentoisto * Äänitysmahdollisuus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Jienanannen * Báddenvejolašvuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Sähkökäyttöisen valkokankaan koko: 5 m x 12,5 m * Harmaa &amp; valkoinen taustakangas 6 m x 18 m</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Elektrovnnalaš vilgesšearpma sturrodat: 5 m x 12,5 m * Ránes &amp; vilges duogáššearbma 6 m x 18 m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Fläppitaulu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Blohkkatávval</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Puhujapönttö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Sárdnestuollu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Nauhoitus- ja simultaanitulkkausmahdollisuus viidelle kielelle (viisi kiinteää tulkkauskoppia);</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Bádden- ja simultánadulkonvejolašvuohta viđa gillii (vihtta giddes dulkonlanjaža)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sajoksen Kokous- ja tapahtumapalvelut järjestää saamen kielten tulkit.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sajosa Čoahkkin- ja dáhpáhusbálvalusat ordne sámegiela dulkkaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Tulkkauskoppien koot: 2 kpl x 9,5 m2, 2 kpl x 6 m2 ja 1 kpl x 8 m2</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Dulkonlanjažiid sturrodagat: 2 st x 9,5 m², 2 st x 6 m² ja 1 st x 8 m²</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Tanssimatto näyttämölle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Dánsaláhtterátnu lávdái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Kokoustarjoilut l ue lisää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Čoahkkinfáladeamit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>MUUTA HUOMIOITAVAA:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>EARÁ FUOMÁŠANVEARA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Pääsalissa anniskeluoikeudet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>* Fuolahussisamannan njuolga váldosále lávdái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>* Huoltosisäänkäynti (oven leveys 2,2 m) suoraan pääsalin näyttämölle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Uvssa govdodat 2,2 m.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

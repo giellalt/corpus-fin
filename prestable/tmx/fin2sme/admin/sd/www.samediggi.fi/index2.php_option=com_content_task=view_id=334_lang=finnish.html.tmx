@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=334_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen nimikilpailu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáža nammagilvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät järjestää avoimen nimikilpailun, jonka tarkoituksena on löytää Inarin kirkonkylään vuonna 2012 valmistuvalle Saamelaiskulttuurikeskukselle sen tarkoitusta ja toimintaa ilmentävä nimi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lágida rabas nammagilvvu, man dárkkuhussan lea gávdnat Sámi kulturguovddážii, mii válmmaštuvvá Anára kirkosiidii j. 2012, dan oaivila ja doaimma govvideaddji nama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailuaika on 8.10.– 9.11.2009.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvoáigi lea 8.10.– 9.11.2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>hankkeen taustaa ja kilpailun säännöt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>fidnu duogáš ja gilvvu njuolggadusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen esittely</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáža ovdanbuktin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarin kirkonkylään Juutuanjoen rannalle rakennettavaan saamelaiskulttuurikeskukseen tulee toimitilat Saamelaiskäräjille, saamelaiskulttuuriin liittyvälle monipuoliselle toiminnalle sekä saamelaiselle opetus- ja tutkimustoiminnalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddážii, mii huksejuvvo Anára kirkosiidii Juvdujoga gáddái, bohtet doaibmalanjat Sámediggái, sámekultuvrai gulavaš máŋggabealat doaimmaide ja maiddái sámi oahpahus- ja dutkandoibmii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näiden lisäksi rakennuksen keskeisiä tiloja ovat monitoimi- ja palveluaulan ympärille ryhmittyvät yhteistilat: esiintymis-, kokous- ja monitoimitilat sekä ravintola.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáid lassin vistti dehalaš doaibmasajit leat oktasašlanjat: loaiddastan-, čoahkkin- ja máŋggadoaibmalanjat ja restauráŋŋa, mat leat sajuštuvvan máŋggadoaimma- ja bálvalusfeaskára birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteistilojen käyttö on tärkeä osa kaikkea kulttuurikeskuksen toimintaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktasašlanjaid geavaheapmi lea kulturguovddáža buot doaimmaid dehalaš oassi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen tarkoituksena on luoda saamelaisille paremmat edellytykset omaehtoisesti ylläpitää ja kehittää kieltään, kulttuuriaan ja elinkeinotoimintaansa, hoitaa ja kehittää kulttuuri-itsehallintoaan sekä tukea saamelaisten yleisten elinolojen kehittymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáža dárkkuhussan lea láhčit sámiide buoret dilálašvuođaid iežas eavttuiguin doalahit ja ovddidit giela, kultuvrra ja ealáhusdoaimma, dikšut ja ovddidit kulturiešráđđema ja maiddái duvdit sámiid almmolaš eallineavttuid ovdáneami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi keskuksen tarkoituksena on parantaa mahdollisuuksia levittää ja saada tietoa saamelaisista alkuperäiskansana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin guovddáža dárkkuhussan lea buoridit vejolašvuođaid juohkit ja oažžut dieđuid sámiin eamiálbmogin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus on ensisijaisesti tarkoitettu saamelaisten omaa käyttöä varten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáš lea ovdasajis dárkkuhuvvon sámiid iežaset geavaheami várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siitä on määrä tulla Suomen saamelaisten itsehallinnon sekä elävän ja kehittyvän saamelaiskulttuurin symboli, jonka keskeisenä toiminnallisena tarkoituksena on sekä vaalia perinteistä kulttuuria että kehittää ja uudistaa saamelaista yhteiskuntaelämää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Das lea oaivil boahtit Suoma sámiid iešráđđema ja maiddái ealli ja ovdáneaddji sámekultuvrra symbolan, man guovddáš doaibman lea sihke gáhttet árbevirolaš kultuvrra ja maiddái ovddidit ja ođasmahttit sámi servodateallima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Selostetun päätarkoituksensa ohella kulttuurikeskus tarjoaa laajojen, uudenaikaisten ja tasokkaiden yhteiskäyttötilojen (kokous-, auditorio-, monitoimi- ja esiintymistilat sekä studiotilat) ansiosta erinomaiset mahdollisuudet järjestää ainutlaatuisessa ympäristössä monenlaisia kokouksia, konferensseja ja tapahtumia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čilgejuvvon váldodárkkuhusa lassin kulturguovddáš fállá viiddis, ođđaáigásaš ja alladássásaš oktasašgeavahanlanjaid (čoahkkin-, auditorio-, máŋggadoaibma- ja loaiddastansajiid ja studiolanjaid) dihte erenomáš vejolašvuođaid lágidit áidnalunddot birrasis máŋggalágan čoahkkimiid, konfereanssaid ja dáhpáhusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus on siten samanaikaisesti sekä Suomen saamelaisten parlamenttitalo että kulttuuri-, koulutus- ja osaamiskeskittymä ja myös tapahtumatalo erilaisine kokouksineen, musiikki-, elokuva- ja teatteriesityksineen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáš lea dasto seamma áigge nu Suoma sámiid parlameantadállu go kultur-, skuvlen- ja máhttinguovddáš ja maiddái dáhpáhusdállu iešguđetlágan čoahkkimiiguin, musihkka-, filbma- ja teáhterloaiddastemiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toisiinsa limittyen nämä osatoiminnot tukevat toisiaan sisältöineen ja tiloineen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuppiide laktásan oassedoaimmat dorjot nuppiideaset sisdoaluid ja lanjadagaid beales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuurikeskuksen rakennuttaa ja omistaa Senaatti-kiinteistöt ja sen bruttopinta-ala on noin 4 800 m².</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáža hukseha ja oamasta Senaatti-giddodagat ja dan bruttoviidodat lea sullii 4 800 m².</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rakennushankkeen kustannusarvio on noin 12 miljoonaa euroa, josta EU-rahoituksen osuus on 5 miljoonaa euroa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Huksenfidnu goasttádusárvu lea sullii 12 miljovnna euro, mas EU-ruhtadeami oassi lea 5 miljovnna euro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuurikeskuksen rakentaminen alkaa keväällä 2010 ja sen tulisi valmistua vuoden 2012 alkuun mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáža huksen álgá giđđat 2010 ja dat galggašii gárvánit jagi 2012 álggu rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen päävuokralaisena toimii Saamelaiskäräjät, joka vuokraa edelleen tiloja muille käyttäjille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kulturguovddáža váldoláigolažžan doaibmá Sámediggi, mii láigoha lanjaid eará geavaheaddjiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisalueen koulutuskeskus on Saamelaiskäräjien ohella talon toinen pääkäyttäjä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahusguovddáš lea Sámedikki lassin dálu nubbi váldogeavaheaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita talon käyttäjiä ovat Inarin kunnan kirjastotoimi, Sámi Duodji ry (saamelaiskäsityöntekijöiden yhdistys), SámiSoster ry (saamelaisten sosiaali- ja terveysalan yhdistys), Lapin lääninhallitus sekä perustettavat Saamelaisarkisto ja ravintola.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálu eará geavaheaddjit leat Anára gieldda girjerádjodoaibma, Sámi Duodji rs (sámeduojáriid searvi), SámiSoster rs (sámiid sosiála- ja dearvvasvuođasuorggi searvi), Lappi leanaráđđehus ja Sámeárkiiva ja restauráŋŋa, mat vuođđuduvvojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nimikilpailun säännöt:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nammagilvvu njuolggadusat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailun tarkoituksena on löytää Inarin kirkonkylään rakennettavalle saamelaiskulttuurikeskukselle sen tarkoitusta ja toimintaa ilmentävä nimi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvvu dárkkuhussan lea gávdnat Sámi kulturguovddážii, mii huksejuvvo Anára kirkosiidii, dan dárkkuhusa ja doaimma govvideaddji nama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailun järjestäjänä toimii Saamelaiskäräjät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvvu lágideaddjin doaibmá Sámediggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailu on kaikille avoin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvu lea rabas buohkaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailuaika on 8.10. – 9.11.2009.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvoáigi lea 8.10. – 9.11.2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailuehdotusten on oltava perillä 9.11.2009 klo 16.00 mennessä sääntöjen 5. kohdassa mainitussa osoitteessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvoevttohusat galget joavdat 9.11.2009 dmu 16.00 rádjai njuolggadusaid 5. čuoggás namuhuvvon čujuhussii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Määräajan jälkeen saapuneita ehdotuksia ei huomioida.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearreáigge maŋŋá boahtán evttohusat eai váldojuvvo vuhtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailuun osallistutaan postitse lähettämällä nimiehdotus ja osallistujan yhteystiedot osoitteeseen Saamelaiskäräjät, Angelintie 696, 99870 Inari.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvui oassálasto nu ahte poastta fáro sáddejuvvojit nammaevttohus ja oassálasti oktavuohtadieđut čujuhussii Saamelaiskäräjät, Angelintie 696, 99870 Inari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjekuoreen merkitään tunnus ” Nimikilpailu ”.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Konfeluhttii merkejuvvo dovddaldat ” Nammagilvu ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puolueettomuuden turvaamiseksi osallistujan yhteystiedot eli nimi, osoite, puhelinnumero ja sähköpostiosoite liitetään ehdotukseen erillisessä, suljetussa kirjekuoressa, joka avataan arvostelun päätyttyä ja kilpailun lopputuloksen selvittyä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bealehisvuođa sihkkarastima dihte oassálasti oktavuohtadieđut, nappo namma, čujuhus, telefonnummir ja šleađgapoastačujuhus laktojit evttohussii sierra, giddejuvvon konfeluhtas, mii rahppojuvvo árvvoštallama nogadettiin ja gilvvu loahppabohtosa čielggadettiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muulla tavoin toimitetut ehdotukset hylätään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará láhkai doaimmahuvvon evttohusat hilgojuvvojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>6.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilötietoja käsitellään vain nimikilpailun yhteydessä, eikä niitä luovuteta edelleen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Persovdnadieđut gieđahallojit dušše nammagilvvu oktavuođas, eaige dat luohpaduvvo viidásabbot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki tiedot hävitetään kilpailun päätyttyä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot dieđut duššaduvvojit gilvvu nogadettiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>7.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailuun voi osallistua useammalla kuin yhdellä ehdotuksella ja ne voi lähettää samassa kirjekuoressa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvui sáhttá oassálastit eanet go ovttain evttohusain ja daid sáhttá sáddet seamma konfeluhtas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>8.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nimiehdotuksen tulee olla saamenkielinen, mieluummin pohjois-, inarin- tai koltansaamenkielinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nammaevttohus galgá leat sámegielat, millosepmosit davvisáme-, anáraš- dahje nuortalašgielat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdotusta voi perustella myös suomen kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohusa sáhttá vuođustallat maiddái suomagillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>9.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nimelle asetettavat vaatimukset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nammii biddjon gáibádusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>a. Nimikilpailulla haetaan saamelaiskulttuurikeskukselle lyhyttä, ytimekästä, mieleenpainuvaa ja erottuvaa saamenkielistä nimeä, joka ilmentää kulttuurikeskuksen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a. Nammagilvvuin ohcco Sámi kulturguovddážii oanehis, deaivilis, milliibáhcci ja čalmmus sámegielat namma, mii govvida kulturguovddáža</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- kulttuurista tarkoitusperää ja merkitystä,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- kultuvrralaš duogáža ja mearkkašumi,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- saamelaista omaleimaisuutta,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- sámi iešlági,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- laajaa ja monipuolista toimintaa sekä sen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- viiddis ja máŋggabealat doaimma ja dan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- arkkitehtuurista muotokieltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- arkitektuvrralaš hápmegiela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>b.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdotuksissa on huomioitava nimen kirjoitusasu ja lausuminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohusain galgá váldit vuhtii nama čállinhámi ja dadjama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nimen on oltava helposti eri kielillä lausuttavissa ja luontevasti taivutettavissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nama galgá sáhttit álkket sierra gielain dadjat ja njuovžilit sojahit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen toivotaan soveltuvan myös kansainväliseen ja sähköiseen käyttöön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sávvo, ahte dat heive maiddái riikkaidgaskasaš ja elektrihkalaš geavaheapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>c. Nimiehdotukset on perusteltava.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>c. Nammaevttohusaid galgá vuođustallat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkintolautakunta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkkašupmelávdegoddi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>a. Kilpailun ratkaisee 10-jäseninen palkintolautakunta, johon kuuluu yksi edustaja jokaisesta kulttuurikeskuksen käyttäjäorganisaatiosta (yhteensä 8 edustajaa) sekä edustaja Senaatti-kiinteistöistä ja kulttuurikeskuksen arkkitehtuurikilpailun voittaneesta suunnittelijaryhmästä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a. Gilvvu čoavdá 10-lahttosaš bálkkašupmelávdegoddi, masa gullet okta ovddasteaddji kulturguovddáža juohke geavaheaddjiorganisašuvnnas (oktiibuot 8 ovddasteaddji) ja maiddái ovddasteaddji Senaatti-giddodagain ja kulturguovddáža arkitektuvragilvvu vuoitán plánejeaddjijoavkkus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>b.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkintolautakunta valitsee keskuudestaan puheenjohtajan ja varapuheenjohtajan sekä ottaa itselleen sihteerin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkkašupmelávdegoddi vállje gaskavuođas ságajođiheaddji ja várreságajođiheaddji ja maiddái váldá alcces čálli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>c. Lautakunta voi valita keskuudestaan työvaliokunnan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>c. Lávdegoddi sáhttá válljet gaskavuođastis bargováljagotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lautakunta ja sen mahdollinen työvaliokunta voivat tarvittaessa käyttää työssään asiantuntijoita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lávdegoddi ja dan vejolaš bargováljagoddi sáhttet dárbbu mielde geavahit barggus áššedovdiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailuehdotukset arvostellaan nimettöminä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvoevttohusat árvvoštallojit namaheapmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voittajaksi valitaan parhaiten nimelle asetetut vaatimukset täyttävä ehdotus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuoitin válljejuvvo buoremusat nammii ásahuvvon gáibádusaid deavdi evttohus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailun järjestäjällä on kuitenkin niin halutessaan oikeus olla valitsematta voittajaksi mitään ehdotusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvvu lágideaddjis lea goittotge nu hálidettiin vuoigatvuohta leat válljekeahttá vuoitin mange evttohusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>12.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkinnot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkkašumit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>a. Voittajaehdotuksen tekijä palkitaan 1 000 eurolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a. Vuoitievttohusa bargi bálkkašuvvo 1 000 euroin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toiseksi tullut ehdotus lunastetaan 200 eurolla ja kolmanneksi tullut 100 eurolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nubbin boahtán evttohus lodnojuvvo 200 euroin ja goalmmádin boahtán 100 euroin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>b.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos useampi osallistuja on ehdottanut samaa nimeä, palkinto jaetaan heidän kesken.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos máŋga oassálasti leat evttohan seamma nama, bálkkašupmi juhkko sin gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailun järjestäjä saa kaikki oikeudet kolmeen ensimmäiseksi sijoittuneeseen ehdotukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvvu lágideaddji oažžu buot vuoigatvuođaid golmma buoremussan válljejuvvon evttohussii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järjestäjällä on myös oikeus muuttaa tai olla käyttämättä nimeä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lágideaddjis lea maiddái vuoigatvuohta nuppástuhttit dahje leat geavatkeahttá nama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailua koskevat mahdolliset kysymykset tulee toimittaa sähköpostitse saamelaiskulttuurikeskushankkeen projektipäällikkö Juha Guttormille osoitteeseen Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvvu guoski vejolaš jearaldagaid galgá doaimmahit šleađgapoasttain Sámi kulturguovddášfidnu prošeaktahoavda Juha Guttormii čujuhussii Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15.10.2009 klo 16.00 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15.10.2009 dmu 16.00 rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaukset kysymyksiin lähetetään kysyjän ilmoittamaan sähköpostiosoitteeseen 21.10.2009 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vástádusat gažaldagaide sáddejuvvojit jearri almmuhan šleađgapoastačujuhussii 21.10.2009 rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liitteet: Saamelaiskulttuurikeskuksen arkkitehtuurikilpailun ohjelma ja kilpailun arvostelupöytäkirja sekä viimeisimmät luonnoskuvat ja – piirustukset arkkitehtuurikilpailun voittaneesta ađa – nimisestä ehdotuksesta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mildosat: Sámi kulturguovddáža arkitektuvragilvvu prográmma ja gilvvu árvvoštallanbeavdegirji ja maiddái maŋimuš hámusgovat ja – tevnnegat arkitektuvragilvvu vuoitán ađa – nammasaš evttohusas.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

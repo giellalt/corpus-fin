@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1203_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeusministeriö kerää näkemyksiä kielellisten oikeuksien toteutumisesta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Riehtiministeriö čuággá uáinuid kielâlij vuoigâdvuođâi olášuumist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeusministeriö kerää näkemyksiä kielellisten oikeuksien toteutumisesta Suomessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Riehtiministeriö čuággá uáinuid kielâlij vuoigâdvuođâi olášuumist Suomâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit osallistua verkkokyselyyn otakantaa. fi- sivuilla: https://uusi.otakantaa.fi/fi/hankkeet/1 /</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puávtáh väldiđ uási viermikoijâdâllâmân tääbbin: https://uusi.otakantaa.fi/fi/hankkeet/1 /</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

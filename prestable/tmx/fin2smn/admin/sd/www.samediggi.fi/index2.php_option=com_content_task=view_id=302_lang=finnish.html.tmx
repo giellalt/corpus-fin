@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=302_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtâvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus Sajos</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilavaraukset ja markkinointi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Av-teknikko Janne Lappalainen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimitilahuolto / Vahtimestari</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Laitoshuoltaja Pirkko Pieski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimitilahuoltaja Pauli Saijets</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toimistosihteeri Ritva Tammela</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

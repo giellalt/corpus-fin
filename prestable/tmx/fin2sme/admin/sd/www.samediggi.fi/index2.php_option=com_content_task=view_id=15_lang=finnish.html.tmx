@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=15_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien esitteitä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki dieđihančállosat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien tuottamaa esitemateriaalia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki buvttadan dieđihanmáteriala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitteitä voi tilata Saamelaiskäräjien Inarin toimipisteestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđihančállosiid sáhttá diŋgot Sámedikki Anára doaibmabáikkis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset Suomessa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekulturguovddáš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Los Sámis en Finlandia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámit Suomas</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

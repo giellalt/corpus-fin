@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=220_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo lumiteatterista !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo muotâteatterist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ante-pojan isä rakentaa joka talvi lumiteatteria Skábmagovat-elokuvafestivaalia varten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ante-kaandâ eeči huksee jyehi täälvi muotâteatter Skammâkoveh-elleekovefestivaal várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Teatteri rakennetaan jäästä ja lumesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Teatter huksejuvvoo jieŋâst já muottust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällä kertaa Ante haluaa olla mukana rakennustöissä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taan tove Ante haalijd leđe mieldi huksimpargoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päähenkilöt: Ante ja Oula Heatta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Váldu-ulmuuh: Ante já Oula Heatta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus, YLE Sámi Radio, YLE TV2, 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyevtittâs: Säämi máttááttâskuávdáš, YLE Sámi Radio, YLE TV2, 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 2,20</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 2,20</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

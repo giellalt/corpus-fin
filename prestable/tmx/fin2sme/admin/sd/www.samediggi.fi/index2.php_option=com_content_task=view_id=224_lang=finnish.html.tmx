@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=224_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kolttalaulu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuortalaš lávlla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo kolttasaamelaisten perinteisestä laulutavasta !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo nuortalaččaid árbevirolaš lávlunvuogis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leudd eli kolttalaulu on perinteinen kolttasaamelainen laulutapa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leudd dahjege nuortalaš lávlla lea árbevirolaš nuortalaš lávlunvuohki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leuddata voi mitä vain ja missä vain.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leuddat sáhttá maid beare ja gos beare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Filmissä tutustutaan Eliakseen sekä hänen lapsenlapseensa Hennaan ja heidän suhteeseensa leuddiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Filmmas oahpásmuvvat Eliasii sihke su áddjubii Hennai ja sudno gaskavuhtii leuddii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámi oahpahusguovddáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 2,18 min.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 2,18 min.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

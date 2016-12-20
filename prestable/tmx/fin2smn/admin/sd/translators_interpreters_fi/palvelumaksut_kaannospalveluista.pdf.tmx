@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">palvelumaksut_kaannospalveluista.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saamen kielen toimiston palvelujen maksullisuudesta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>sämikielâ toimâttuv palvâlusâi mávsulâšvuođâst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tätä päätöstä sovelletaan saamen kielen toimiston (L 1086/2003, Valtioneuvoston asetus saamen kielilain täytäntöönpanosta 12.2.2004/108, A 1727/95) palveluista perittäviin maksuihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taat miärádâs heiviittuvvoo sämikielâ toimâttuv (L 1086/2003, Staatârääđi asâttâs säämi kielâlaavâ olášutmist 12.2.2004/108, A 1727/95) máávsuin, moh piärrojeh palvâlusâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston antamasta käännöksestä peritään palkkiota suomesta saameksi taikka päinvastoin 65 euroa sivulta 2000 merkkiä, ei sisällä välimerkkejä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämikielâ toimâttuv adelem jurgâlusâst piärroo máksu suomâkielâst sämikielân tâi nubijkejij 65 eurod siijđost 2000 merkkâd, mii ij toolâ siste koskâmeerhâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos käännettävä teksti on tavanomaista vaikeampi, käännöspalkkio voidaan periä enintään 50 %:lla korotettuna samoin kuin kiireellisen työn käännöspalkkiota voidaan korottaa enintään 50%:lla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis jurgâlum tekstâ lii táváliist vaigâdub, te jurgâlemmáávsu puáhtá luptiđ enâmustáá 50 % siämmáá ko huápulii pargo jurgâlemmáávsu puáhtá luptiđ enâmustáá 50 %.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoen kunnan viranomaisille annettavista saamen kielilain (1086/03) mukaisista käännöksistä ei peritä maksua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ucjuv kieldâ virgeomâháid adelum säämi kielâlaavâ (1086/03) miäldásijn jurgâlusâin ij perruu máksu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut palvelut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eres palvâlusah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston antamista muista kielellisistä palveista ja tulkkauspalveluista peritään tuntiveloitus, joka on 50 euroa jokaiselta alkavalta tunnilta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämikielâ toimâttuv adelem eres kielâlijn palvâlusâin já tulkkumpalvâlusâin piärroo tijmemáksu, mii lii 50 eurod jyehi älgee tiijmest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voimaantulo</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuáimánpuáttim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä päätös tulee voimaan 1 päivänä tammikuuta 2011. --- Hyväksytty 1.3.1996 saamelaiskäräjien kokouksessa, muutokset hyväksytty 22.2.2005 ja 17.9.2010.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>--- Tuhhiittum 1.3.1996 sämitige čuákkimist, nubástusah tuhhiittum 22.2.2005 já 17.9.2010.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

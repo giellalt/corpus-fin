@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=796_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät kartoittaa saamenkielisen kielipesätoiminnan tarvetta Jyväskylän ja Tampereen seudulla</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi kárte sámegielat giellabeassedoaimma dárbbu Jyväskylä ja Tampere guovllus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät kartoittaa saamelaisperheiden saamenkielisen toiminnan tarvetta Sisä-Suomessa, Jyväskylän ja Tampereen seudulla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi kárte sámebearrašiid dárbbuid sámegielat doaimmaide Sis-Suomas, Jyväskylä ja Tampere guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kartoitus koskee saamelaislasten kielipesä- ja kielikylpytoimintaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kárten guoská sámemánáid giellabeasse- dahje giellariekkesdoaimmaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät hakee vuosittain opetus- ja kulttuuriministeriöltä valtionavustusta saamelaisten kielipesä- ja kielikylpykerhotoimintaa varten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ohcá jahkásaččat oahpahus- ja kulturministeriijas stáhtadoarjaga sámiid giellabeasse- ja giellalávgunriekkesdoaimma várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pyydämme kaikkia kielipesätoiminnasta tai kielikylpykerhotoiminnasta kiinnostuneita vastaamaan tähän kyselyyn 7.2. mennessä: https://www.webropolsurveys.com/S/D3106C7A0DA780EF.par</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii sihtat buohkaid, geat leat beroštuvvan giellabeassedoaimmas dahje giellalávgunriekkesdoaimmas, vástidit dán jearahallamii 7.2. rádjai: https://www.webropolsurveys.com/S/C0DA0D0891BAB828.par</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

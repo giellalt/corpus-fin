@@ -1,0 +1,904 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=787_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten oikeuksia käsittelevät ihmisoikeuselinten uusimmat suositukset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid vuoigatvuođaid gieđahalli olmmošriekteorgánaid ođđaseamos ávžžuhusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän sivun lyhytosoite on: www.samediggi.fi/suositukset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán siiddu oanehisčujuhus lea: www.samediggi.fi/suositukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Orgána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuosi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jahki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n ihmisoikeuskomitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ON:id olmmošriektekomitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansalais- ja poliittisia oikeuksia koskeva yleissopimus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Siviila- ja politihkalaš vuoigatvuođaid guoski oktasaš-soahpamuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusvaltion tulisi edistää saamelaisten oikeuksien toteutumista vahvistamalla saamelaisten edustuksellisten instituutioiden, kuten saamelaiskäräjien, päätöksentekovaltaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soahpamušriika galggašii ovddidit sámiid vuoigatvuođaid ollašuvvama nannemiin sámiid álbmotválljen institušuvnnaid, nugo sámedikki, mearridanválddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusvaltion tulisi lisätä ponnistelujaan lainsäädäntömuutosten tekemiseksi saamelaisten oikeuksien täysimittaiseksi takaamiseksi heidän perinteisillä alueillaan varmistamalla, että saamelaisyhteisöjen oikeutta vapaaseen, ennalta tapahtuvaan ja informoituun osallistumiseen heitä koskeviin poliittisiin prosesseihin ja kehittämishankkeisiin noudatetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soahpamušriika galggašii lasihit rahčamiid láhkaásahannuppástusaid bargama várás sámiid vuoigatvuođaid dievasmearálaš dáhkideami dihtii sin árbevirolaš guovlluin nu ahte sihkkarasto čuovvun mii guoská sámeservošiid vuoigatvuođa friija, ovddalgihtii dáhpáhuvvi ja informerejuvvon oassálastimii sin guoski politihkalaš proseassaidda ja ovddidanfidnuide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusvaltion tulisi myös ryhtyä asianmukaisiin toimiin edistääkseen, siinä laajuudessa kuin on mahdollista, kaikkien saamelaislasten oikeutta saada opetusta omalla kielellään sopimusvaltion alueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soahpamušriika galggašii maiddái álgit áššáigulavaš doaimmaide ovddideami dihtii, dan viidodagas go lea vejolaš, buot sámemánáid vuoigatvuođa oažžut oahpahusa iežas gielain soahpamušriikkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taloudellisten, sosiaalisten ja sivistyksellisten oikeuksien komitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ekonomalaš, sosiálalaš ja čuvgehuslaš vuoigatvuođaid komitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskeva yleissopimus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ekonomalaš, sosiálalaš ja čuvgehuslaš vuoigatvuođaid guoski oktasaš-soahpamuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea kehottaa sopimusvaltiota toteuttamaan kaikki tarvittavat toimet, joilla varmistetaan, että metsänhakkuut ja muu toiminta, joita yksityiset tällä hetkellä harjoittavat saamelaisten kotiseutualueella, eivät rajoita saamelaisten oikeutta ylläpitää ja kehittää perinteistä kulttuuriaan ja elämäntapaansa, erityisesti poronhoitoa, eivätkä heidän taloudellisten, sosiaalisten ja sivistyksellisten oikeuksiensa käyttöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea ávžžuha soahpamušriikka ollašuhttit buot dárbbašlaš doaimmaid, maiguin sihkkarasto, ahte vuovdečuollamat ja eará doaibma, maid priváhta oassebealit dál ollašuhttet sámiid ruovttuguovllus, eai ráddje sámiid vuoigatvuođa doalahit ja ovddidit árbevirolaš kultuvrra ja eallinvuogi, erenomážit boazodoalu, eaige ráddje sin ekonomalaš, sosiálalaš ja čuvgehuslaš vuoigatvuođaid geavaheami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi komitea kehottaa sopimusvaltiota - neuvotellen asiasta tiiviisti kaikkien osapuolten kanssa, saamelaiskäräjät mukaan lukien - löytämään asianmukaisen ratkaisun kysymykseen maanomistuksesta ja - käytöstä saamelaisten kotiseutualueella sekä ratifioimaan pikaisesti itsenäisten maiden alkuperäis- ja heimokansoja koskevan ILO:n yleissopimuksen N:o 169.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin komitea ávžžuha soahpamušriikka - ráđđádallat áššis lávgalaga buot oassebeliiguin, nu ahte sámediggi mielde - gávdnan dihtii áššáigulavaš čovdosa gažaldahkii eanaoamastusas ja - geavaheamis sámiid ruovttuguovllus sihke ratifiseret farggamusat eamiálbmogiid guoski ILO:a oktasašsoahpamuša N:o 169.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rotusyrjintäkomitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nállevealahankomitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkinaisen rotusyrjinnän poistamista koskeva kansainvälinen yleissopimus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buotlágan nálleveala-heami eretváldima guoski riikkaid-gaskasaš oktasaš-soahpamuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea suosittelee, että sopimusvaltio saamelaiskäräjistä annettua lakia uudistaessaan lisää saamelaiskäräjien päätösvaltaa saamelaisten kulttuuri-itsehallintoon liittyvissä asioissa, mukaan lukien oikeudet, jotka liittyvät maan ja luonnonvarojen käyttöön saamelaisten perinteisesti asuttamilla alueilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea ávžžuha, ahte soahpamušriika sámedikkis addon lága ođasmahtedettiin lasiha sámedikki mearridanválddi sámiid kulturiešráđđemii gulavaš áššiin, nu ahte vuoigatvuođat mielde, mat gullet eatnama ja luondduriggodagaid geavaheapmái sámiid árbevirolaččat ássan guovlluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>12.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea suosittelee, että kun sopimusvaltio määrittelee, kenellä on äänioikeus saamelais- käräjien vaaleissa, se antaa asianmukaisen painoarvon saamelaisten itsemääräämisoikeudelle, joka liittyy heidän asemaansa Suomessa, heidän oikeudelleen määrätä omasta jäsenyydestään ja oikeudelleen siihen, ettei heitä pakkosulauteta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea ávžžuha, ahte go soahpamušriika meroštallá, geas lea jienastanvuoigatvuohta sámedikki válggain, dat addá áššáigulavaš deattu sámiid iešmearridanvuoigatvuhtii, mii laktasa sin sajádahkii Suomas, sin vuoigatvuhtii mearridit iežas lahttovuođas ja vuoigatvuhtii dasa, ahte sii eai veagalsuddaduvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea suosittelee, että sopimusvaltio ottaa tässä yhteydessä huomioon Kansainvälisen työjärjestön yleissopimuksen nro 169, jonka sopimusvaltio on sitoutunut ratifioimaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea ávžžuha, ahte soahpamušriika vuhtiiváldá dán oktavuođas Riikkaidgaskasaš bargoorganisašuvnna oktasašsoahpamuša nr 169, man soahpamušriika lea čatnasan ratifiseret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi komitea suosittelee, että sopimusvaltio ryhtyy asianmukaisiin toimiin suojellakseen saamelaisten perinteistä poronhoitoelinkeinoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin komitea ávžžuha, ahte soahpamušriika álgá áššáigulavaš doaimmaide suodjalan dihtii sámiid árbevirolaš boazoealáhusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14 Komitea suosittelee myös, että sopimusvaltio tosiasiallisesti varmistaa saamenkielisten sosiaali- ja terveydenhuollon palvelujen saatavuuden saamelaisille näiden koti- seutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14 Komitea ávžžuha maiddái, ahte soahpamušriika duođalaččat sihkkarastá sámegielat sosiála- ja dearvvasvuođafuolahusa bálvalusaid fálaldaga sámiide sin ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi komitea suosittelee, että sopimusvaltio jouduttaa opetus- ja kulttuuriministeriön ehdottaman, saamen kielen edistämiseksi ja suojelemiseksi tarkoitetun elvytysohjelman toteuttamista, myös joukkoviestimissä, koulutuksessa, sosiaali- ja terveyspalveluissa ja kulttuurin alalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin komitea ávžžuha, ahte soahpamušriika jođálmahttá oahpahus- ja kulturministeriija evttohan, sámegiela ovddideapmin ja suodjaleapmin dárkkuhuvvon ealáskahttinprográmma ollašuhttima, maiddái mediain, skuvlejumis, sosiála- ja dearvvasvuohtabálvalusain ja kultuvrra suorggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsen oikeuksien komitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáid vuoigatvuođaid komite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasten oikeuksien yleissopimus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáid vuoigatvuođaid oktasašsoahpamuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>63.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>63.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea suosittelee, että sopimusvaltio:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea ávžžuha, ahte soahpamušriika:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>a) seuraa ja arvioi romani- ja saamelaislasten oikeuksien huomioon ottamista kansallisissa suunnitelmissa ja ohjelmissa;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>a) čuovvu ja árvoštallá romána- ja sámemánáid vuoigatvuođaid vuhtiiváldima sisriikkalaš plánain ja prográmmain;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>b) varmistaa, että romani- ja saamelaislapsilla, myös saamelaisalueen ulkopuolella asuvilla saamelaislapsilla, on oikeus kulttuurisensitiivisiin koulutus- ja terveydenhuoltopalveluihin omalla kielellään;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b) sihkkarastá, ahte romána- ja sámemánáin, maiddái sámeguovllu olggobealde ássi sámemánáin, lea vuoigatvuohta kultursensitiivvalaš oahpahus- ja dearvvasvuođafuolahusbálvalusaide iežas gielain;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>c) tiivistää yhteistyötään Ruotsin ja Norjan hallitusten kanssa muun muassa asioissa, jotka koskevat koulujen opetussuunnitelmia, opettajien koulutusta, opettajien materiaalin tuottamista ja mediasisällön tuottamista saamelaislapsia varten;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>c) buorida ovttasbarggu Ruoŧa ja Norgga ráđđehusaiguin earret eará áššiin, mat gusket skuvllaid oahppaplánaid, oahpaheaddjiid skuvlema, oahpaheaddjiid materiála buvttadeami ja mediasisdoalu buvttadeami sámemánáid várás;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>d) ottaa huomioon komitean yleisen huomautuksen no. 11 (2009) alkuperäiskansojen lapsista ja heidän yleissopimuksen mukaisista oikeuksistaan (CRC.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>d) vuhtiiváldá komitea oktasaš fuopmášahttima no. 11 (2009) eamiálbmogiid mánáin ja sin oktasašsoahpamuša mieldásaš vuoigatvuođain (CRC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>/ C / GC/11); ja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>/ C / GC/11); ja e) ratifisere ILO:a oktasašsoahpamuša no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>e) ratifioi ILOn yleissopimuksen no. 169 itsenäisten maiden alkuperäis- ja heimokansoista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>169 eamiálbmotsoahpamuša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naisten syrjinnän poistamista käsittelevä komitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nissoniid vealaheami eretváldima gieđahalli komitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkinaisten naisten syrjinnän poistamista käsittelevä yleissopimu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nissoniid buotlágan vealaheami eretváldima gieđahalli oktasašsoahpamuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>37.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>34.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea suosittaa, että osapuoli</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea ávžžuha soahpamušriikka sihkkarastit, ahte sámenissoniidda lágiduvvojit áššáigulavaš sosiála- ja dearvvasvuođafuolahusa bálvalusat, nu ahte lassánandearvvasvuođabálvalusat mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>a) varmistaa, että sukupuolinäkökulma on valtavirtaistettu kaikkiin saamelaisia koskeviin poliitikkoihin ja ohjelmiin,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat bivdá soahpamušriikka sihkkarastit, ahte sohkabealleperspektiiva gullá sámiid guoski buot politihkai ja prográmmaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>b) hyväksyy konkreettisia toimenpiteitä tavoitteenaan lisätä saamelaisnaisten edustusta poliittisessa ja julkisessa elämässä sekä saamelaisyhteisössä että koko yhteiskunnassa,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea movttiidahttá soahpamušriikka ovddidit doaibmabijuid, maiguin eretváldojit sámenissoniidda guoski buotlágan vealaheapmi ja veahkaváldi, nu ahte ovttasbargu ovddalgihtii doaibmá sámeservošiin ja dakkár plánaid ráhkadeapmi, maiguin lasihuvvo nissoniid ovddastus sihke sin servošiin ja maiddái olles suopmelaš servodagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ILO:n asiantuntijakomitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ILO:a áššedovdikomitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilon yleissopimus nro 111</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ilo:a oktasaš-soahpamuš nr 111</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten pääsy perinteisiin elinkeinoihin</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid beassan árbevirolaš ealáhusaide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea pyytää Suomea tiedottamaan saamelaisten ammatillisesta koulutuksesta ja miten se on edistänyt saamelaisten perinteisten elinkeinojen harjoittamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea bivdá Suoma dieđihit sámiid ámmátlaš oahpahusas ja mo dat lea ovddidan sámiid árbevirolaš ealáhusaid ollašuhttima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Komitea myös pyytää Suomea osoittamaan miten laajasti se on ottanut huomioon saamelaisten maahan perustuvat elinkeinot ja elämäntavan toimeenpannessaan erilaisia projekteja ja erilaisia toimenpiteitä saamelaiskäräjien kanssa varmistaakseen saamelaisten pääsyn perinteisiin elinkeinoihin ja millä keinoin nämä tavoitteet on saavutettu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Komitea maiddái bivdá Suoma duođaštit man viidát dat lea vuhtiiváldán sámiid eatnamii vuođđudeaddji ealáhusaid ja eallinvuogi álggahettiin sierralágan prošeavttaid ja sierralágan doaibmabijuid sámedikkiin sihkkarastima dihtii sámiid beassama árbevirolaš ealáhusaide ja maid vugiiguin dát ulbmilat leat ollašuhtton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan Neuvoston ministerikomitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eurohpá Ráđi ministtarkomitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansallisten vähemmistöjen suojelua koskeva yleissopimus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álbmotlaš vehádagaid suodjaleami guoski oktasaš-soahpamuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ottaen huomioon hallituksen aikomus ratifioida ILOn yleissopimus nro 169 olisi ryhdyttävä pikaisiin toimiin, joilla käynnistetään pysähtyneet neuvottelut saamelaisten kotiseutualueen maaoikeuksista ja aloitetaan uudelleen rakentava vuoropuhelu saamelaiskäräjien kanssa, jotta asiaan liittyvä oikeudellinen epävarmuus saadaan ratkaistuksi;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>váldimiin vuhtii ráđđehusa áigumuša ratifiseret ILO:a oktasašsoahpamuša nr 169 galggašii álgit farggamusat doaimmaide, maiguin álggahuvvojit bissánan ráđđádallamat sámiid ruovttuguovllu eanavuoigatvuođain ja álggahuvvo ođđasit mávssolaš ságastallan sámedikkiin, vuoi áššái gulavaš vuoigatvuođalaš eahpesihkkarvuohta čoavdašuvvá;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>olisi ryhdyttävä asianmukaisiin toimiin, joilla varmistetaan, että kansallisiin vähemmistöihin kuuluvia henkilöitä koskevia erilaisia kuulemisjärjestelmiä ja - menettelyjä täydennetään ja järjestetään uudelleen selkeiden viestintäkanavien tarjoamiseksi, ja olisi parannettava vähemmistöjen, myös lukumääräisesti pienimpien vähemmistöjen, edustajien mahdollisuuksia vaikuttaa tosiasiallisesti päätöksentekoprosessiin;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>galggašii joatkit, nu ahte sámedikkiin ráđđádallo, ulbmillaš doaimmaid, maiguin figgojuvvo doarvái buorre ruhtadeami ja sámegielaid ealáskahttinprográmma beaktilis ollašuhttima vehkiin eastadit sámegielaid jávkama almmolaš eallimis dálá eanet, ja galggašii investeret áššáigulavaš skuvlendoaimmaide, maiguin sihkkarastojit, ahte sámit ožžot dálá buorebut sámegielat almmolaš bálvalusaid; galggašii álgit áššáigulavaš doaimmaide, maiguin sihkkarastojit, ahte álbmotlaš vehádagaide gulavaš olbmuid guoski iešguđetlágan gullangeavadat ja - meannudeamit dievasmahttojit ja lágiduvvo ođđasit čielga diehtojuohkinkanálaid fállan, ja galggašii buoridit vehádagaid, maiddái lohkumeari dáfus smávit vehádagaid, ovddasteaddjiid vejolašvuođaid váikkuhit duođalaččat mearrádusbarganproseassai;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>olisi järjestettävä lisätukea vähemmistöjen joukkoviestimille, erityisesti venäjän- ja saamenkielisille viestimille, jotta kyseiset vähemmistökielet olisivat asianmukaisesti läsnä painetuissa ja sähköisissä joukkoviestimissä;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>galggašii ordnet lassidoarjaga vehádagaid joavkomediaidda, erenomážit ruošša- ja sámegielat mediaidda, vuoi guoskevaš vehádatgielat livčče áššáigulavaččat fárus prentejuvvon ja elektrovnnalaš joavkomediain; galggašii láhčit hálddahussii sierra vuogádaga, man bargun lea leat oktavuođas sámedikkiin sámiid guoski buot áššiin ja heivehit oktii ráđđehusa čielga bealiváldimiid ovddideami sámiid dáfus mearkkašahtti gažaldagain;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>olisi ryhdyttävä asianmukaisiin toimiin etenkin korkea-asteen koulutuksen, ammattikoulutuksen ja asianomaisten palvelukseenottokäytäntöjen muuttamisen osalta, jotta saataisiin lisätyksi kansallisiin vähemmistöihin kuuluvien henkilöiden määrää virallisilla työmarkkinoilla, valtionhallinto mukaan lukien</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>galggašii álgit áššáigulavaš doaimmaide eandalitge alladási skuvlejumi, ámmátskuvlema ja áššáigulavaš bálvalussii váldingeavadiid rievdadeami oasil, vuoi sáhtášii lasihit álbmotlaš vehádagaide gulavaš olbmuid meari virggálaš bargomárkaniin, nu ahte stáhtahálddahus lea fárus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan Neuvoston ministerikomitea</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eurohpá Ráđi ministtarkomitea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alueellisia ja vähemmistökieliä koskeva peruskirj</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovllu- ja vehádatgielaid guoski vuođđogirji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. vahvistavat edelleen saamenkielistä koulutusta, erityisesti kehittämällä järjestelmällisen politiikan ja pitkän aikavälin rahoitussuunnitelman,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1. nannejit viidásabbot sámegielat skuvlejumi, erenomážit ovddidemiin systemáhtalaš politihka ja guhkes áigge ruhtadanplána,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. ryhtyvät pikaisesti toimiin suojellakseen ja edistääkseen inarin- ja koltansaamea, jotka ovat erityisenuhanalaisia kieliä, varsinkin järjestämällä pysyvästi toimivia kielipesiä,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2. álget farggamusat doaimmaide suodjalan ja ovddidan dihtii anáraš- ja nuortalašgiela, mat leat erenomáš áitatvuloš gielat, eandalitge ordnemiin fásta doaibmi giellabesiid,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3. toteuttavat lisätoimia varmistaakseen ruotsin- ja saamenkielisten sosiaali- ja terveydenhuoltopalvelujen saatavuuden,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3. ollašuhttet lassidoaimmaid sihkkarastima dihtii ruoŧa- ja sámegielat sosiála- ja dearvvasvuođafuolahus-bálvalusaid fálaldaga,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5. ryhtyvät toimiin lisätäkseen tietoisuutta Suomen alueellisista ja vähemmistökielistä ja suvaitsevaisuutta niitä kohtaan, sekä kaikkien koulutusasteiden yleisten opetussuunnitelmien että joukkoviestinten avulla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5. álget doaimmaide lasihan dihtii diđolašvuođa Suoma guovllu- ja vehádatgielain ja utnolašvuođa daid ektui, sihke buot skuvlendásiid almmolaš oahppaplánaid ja joavkomediaid vehkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan neuvoston ihmisoikeuskomissaari</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eurohpá Ráđi olmmošriekte-komissára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(komissaarin tehtävänä on edistää tietämystä ja kunnioitusta ihmisoikeuksia kohtaan Euroopan neuvoston jäsenmaissa)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(komissára bargun lea ovddidit diđolašvuođa ja gudnejahttima olmmošvuoigatvuođaid hárrái Eurohpá ráđi lahttoriikkain)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>122.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>122.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen perustuslaki on tunnustanut saamelaisten aseman Suomen alkuperäiskansana ja taannut heille erityiset kulttuuriset ja kielelliset oikeudet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma vuođđoláhka lea dovddastan sámiid sajádaga Suoma eamiálbmogin ja dáhkidan sidjiide erenomáš kultuvrralaš ja gielalaš vuoigatvuođaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeuksien tunnustaminen ei kuitenkaan toistaiseksi ole ulottunut maanomistus- eikä poronhoito-oikeuksiin, vaikka YK:n julistus alkuperäiskansojen oikeuksista ja ILO:n sopimus nro 169 selvästi antavat oikeuksia näillä alueilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuoigatvuođaid dovddasteapmi ii goittotge doisttažii leat ollán eanaoamastus- iige boazodoallorivttiide, vaikke ON:id julggaštus eamiálbmogiid vuoigatvuođain ja ILO:a soahpamuš nr 169 čielgasit addet vuoigatvuođaid dáid viidodagain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeusvaltuutettu huomauttaa, että Suomen valmistelut ILO:n sopimuksen nro 169 ratifioimiseksi ovat kestäneet jo yli 20 vuotta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriekteáittardeaddji fuopmášahttá, ahte Suoma válmmaštallamat ILO:a soahpamuša nr 169 ratifiserema dihtii leat bistán jo badjel 20 jagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskeinen kysymys ovat erityistoimenpiteet, joita saamelaisten taloudellisten ja kulttuuristen alkuperäiskansaoikeuksien varmistaminen edellyttää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovddáš gažaldahkan leat sierradoaibmabijut, maid sámiid ekonomalaš ja kultuvrralaš eamiálbmotvuoigatvuođaid sihkkarastin eaktuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansainvälisen ihmisoikeuslainsäädännön mukaan erityistoimenpiteet voivat olla perusteltuja kyseisessä tilanteessa edellyttäen, että ne ovat oikeassa suhteessa tavoiteltuihin hyväksyttäviin päämääriin nähden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkaidgaskasaš olmmošriekteláhkaásaheami mielde sierradoaibmabijut sáhttet leat vuođustallon namuhuvvon dilis dainna eavttuin, ahte dat leat rivttes gaskavuođas plánejuvvon ja dohkkehuvvon mihttomeriid ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeusvaltuutettu korostaa, että ratifiointiprosessia ei tule pitää nollasumapelinä, jossa vain toinen osapuoli voittaa, vaan myös valtaväestön maankäyttöoikeudet ja oikeus harjoittaa elinkeinoja tulee ottaa huomioon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriekteáittardeaddji deattuha, ahte ratifiserenproseassa ii galgga atnit nollasubmespeallun, mas dušše nubbi oassebealli vuoitá, muhto maiddái váldoálbmoga eanageavahanvuoigatvuođaid ja vuoigatvuođa ollašuhttit ealáhusaid galgá vuhtiiváldit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>123.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>123.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeusvaltuutettu kehottaa Suomea ratifioimaan ILO:n sopimuksen nro 169 ja tunnustamaan saamelaisten maankäyttöoikeudet ja oikeuden harjoittaa perinteistä poronhoitoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriekteáittardeaddji ávžžuha Suoma ratifiseret ILO:a soahpamuša nr 169 ja dovddastit sámiid eanageavahanvuoigatvuo-đaid ja vuoigatvuođa ollašuhttit árbevirolaš boazodoalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muiden lakiuudistustarpeiden yhtenäinen käsittely edellyttää eri ministeriöiden tiivistä yhteistyötä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará láhkaođastusdárbbuid oktilaš gieđahallan eaktuda sierra ministeriijaid lávga ovttasbarggu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä helpottaisi myös neuvotteluja saamelaisedustajien kanssa, joilla on oltava merkittävä rooli ratifiointiprosessissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat álkidahtášii maiddái ráđđádallamiid sámeovddasteaddjiiguin, geain galgá leat mearkkašahtti rolla ratifiserenproseassas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdotus eduskunnan ja saamelaiskäräjien yhteisen ratifiointityöryhmän perustamisesta on todella harkitsemisen arvoinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohus riikkabeivviid ja sámedikki oktasaš ratifiserenbargojoavkku vuođđudeamis lea duođaige vihkkedallama árvosaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallituksen uudistaminen tarjoaa myös mahdollisuuden löytää innovatiivisia ratkaisuja esillä oleviin kysymyksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehusa ođasmahttin fállá maiddái vejolašvuođa gávdnat innovatiivvalaš čovdosiid dáláš gažaldagaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Meneillään olevissa neuvotteluissa pohjoismaisen saamelaissopimuksen aikaansaamiseksi painotetaan, että saamelaiskysymys ylittää valtioiden rajat, ja neuvotteluissa saatetaan korostaa myönteisiä käytäntöjä ja mahdollisuuksia yhdenmukaistettuun lähestymistapaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jođus leahkki ráđđádallamiin davviriikkalaš sámesoahpamuša áigáioažžuma várás deattuhuvvo, ahte sámegažaldat rasttilda riikkaid rájáid, ja ráđđádallamiin lea vejolaš deattuhit positiivvalaš geavadiid ja vejolašvuođaid sullalas lahkonanvuohkái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan rasismin ja suvaitsemattomuuden vastainen komissio</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eurohpá rasismma ja utnohisvuođa vuostásaš komišuvdna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(komissio on Euroopan Neuvoston alainen elin, jonka tehtävänä on toimia rasismia, etnistä syrjintää, muukalaisvihaa ja suvaitsemattomuutta vastaan ihmisoikeuksien edistämisen hengessä.)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(komišuvdna lea Eurohpá Ráđi vuollásaš orgána, man bargun lea doaibmat rasismma, etnihkalaš vealaheami, vierroolmmošvaši ja utnohisvuođa vuostá olmmoš-vuoigatvuođaid ovddideami vuoiŋŋas.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskulttuurin ja tämän vähemmistön merkityksen käsittelemiseksi kouluopetuksessa ja pyrkivät lisäämään tietoisuutta saamelaiskansasta enemmistön keskuudessa mm. tietoa lisäävin kampanjoin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ECRI ávžžuha, ahte Suoma virgeoapmahaččat álget doaibmabijuide sámekultuvrra ja dán vehádaga mearkkašumi gieđahallamii skuvlaoahpahusas ja geahččalit lasihit diđolašvuođa sámeálbmogis eanetlogu gaskavuođas ee. diehtojuohkin kampánjjaid bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ECRI kannustaa Suomen viranomaisia seuraamaan saamen kielilain ja saamelaisten äidinkielistä opetusta koskevan oikeuden toteutumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ECRI movttiidahttá Suoma virgeoapmahaččaid čuovvut sámi giellalága ja sámiid eatnigielat oahpahusa guoski vuoigatvuođa ollašuvvama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ECRI suosittaa, että viranomaiset ryhtyvät tarpeellisiin toimiin varmistaakseen näiden oikeuksien tyydyttävän toteutumisen yhteistyössä saamelaisen edustajien kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ECRI ávžžuha, ahte virgeoapmahaččat álget dárbbašlaš doaimmaide sihkkarastima dihtii ahte dát vuoigatvuođat duhtadahtti - láhkai ollašuvvet ovttasbarggus sámi ovddasteaddjiiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>52.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>52.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ECRI kannustaa Suomen viranomaisia jatkamaan toimintaansa saamen kielten elvyttämiseksi ja suosittaa, että tätä varten koulutetaan riittävä määrä opettajia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ECRI movttiidahttá Suoma virgeoapmahaččaid joatkit doaimma sámegielaid ealáskahttima dihtii ja ávžžuha, ahte dán várás skuvlejuvvojit doarvái oahpaheaddjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ECRI suosittaa, että Suomen viranomaiset ryhtyvät lisätoimiin sen varmistamiseksi, että saamen kieliä opetetaan sekä saamelaisten kotiseutualueella että sen ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ECRI ávžžuha, ahte Suoma virgeoapmahaččat álget lassidoaimmaide dan sihkkarastima várás, ahte sámegielat oahpahuvvojit sihke sámiid ruovttuguovllus ja dan olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ECRI suosittaa, että Suomen viranomaiset varaavat riittävät taloudelliset ja henkilöresurssit näihin pyrkimyksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ECRI ávžžuha, ahte Suoma virgeoapmahaččat várrejit doarvái ekonomalaš ja bargiresurssaid dáid figgamušaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>106.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>106.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskulttuurin ja tämän vähemmistön merkityksen käsittelemiseksi kouluopetuksessa hyödyntäen ECRI:n yleistä politiikkaa koskevaa suositusta n:o 10, joka koskee rasismin ja rotusyrjinnän vastustamista koulussa ja koulun avulla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ECRI ávžžuha, ahte Suoma virgeoapmahaččat álget doaibmabijuide sámekultuvrra ja dán vehádaga mearkkašumi gieđahallama várás skuvlaoahpahusas ávkkástallamiin ECRI:a almmolaš politihka guoski ávžžuhusa n:o 10, mii guoská rasismma ja nállevealaheami vuostálastima skuvllas ja skuvlla vehkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskansaa koskevan yleisen tietoisuuden lisäämiseksi enemmistön piirissä esim. tälle väestölle suunnatuin tietoa lisäävin kampanjoin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin ECRI ávžžuha, ahte Suoma virgeoapmahaččat álget doaibmabijuide sámeálbmoga guoski almmolaš diđolašvuođa lasiheami várás eanetlogu gaskavuođas omd. dán álbmotjovkui dárkkuhuvvon diehtojuohkin kampánjjaid bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n alkuperäiskansaraportoija</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ON:id eamiálbmot-raporterejeaddji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YK:n alkuperäiskansojen oikeuksia koskeva julistus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ON:id eamiálbmogiid vuoigatvuođaid guoski julggaštus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>75. Erityisraportoija suosittelee, että Pohjoismaat jatkavat ja tehostavat ponnistelujaan saamelaiskansojen itsemääräämisoikeuden sekä aiempaa aidompien vaikuttamismahdollisuuksien toteuttamiseksi heitä koskevan päätöksenteon osalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>75. Sierraraporterejeaddji ávžžuha, ahte Davviriikkat jotket ja beavttálmahttet rahčamiid sámeálbmoga iešmearridanvuoigatvuođa sihke duođalut váikkuhanvejolašvuođaid ollašuhttima várás sin guoski mearrádusbargama oasil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä tavoite voidaan jossain määrin saavuttaa aiempaa tehokkaammilla kuulemismenettelyillä, joilla varmistetaan, että saamelaisiin välittömästi vaikuttavia päätöksiä ei tehdä ilman heidän vapaaehtoista ja tietoon perustuvaa etukäteissuostumustaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán ulbmila sáhttá muhtin muddui juksat ovddibu beaktilut gullanmeannudemiin, mainna sihkkarasto, ahte sámiide njuolgga váikkuheaddji mearrádusat eai bargo almmá sin eaktodáhtolaš ja dihtui vuođđudeaddji ovddalgihtii miehtama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi valtioiden tulisi harkita yhdessä saamelaiskäräjien kanssa määrättyjen alueiden rajaamista siten, että saamelaiskäräjät toimisivat niiden puitteissa ensisijaisena tai yksinomaisena päätöksentekijöinä etenkin saamelaisia koskevissa kysymyksissä, myös saamelaisten maa-alueisiin, kieliin, perinteisiin elinkeinoihin ja kulttuureihin liittyvissä asioissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin stáhtat galggašedje vihkkedallat ovttas sámedikkiin mearriduvvon viidodagaid rádjema nu, ahte sámediggi doaimmašii daid olis dehaleamos dahje áidna vejolaš mearrádusdahkkin eandalitge sámiid guoski gažaldagain, maiddái sámiid eanaviidodagaide, gielaide, árbevirolaš ealáhusaide ja kultuvrraidda gulavaš áššiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>76.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>76.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisraportoija suorittelee, että Pohjoismaat ja erityisesti Ruotsi tekisivät tarvittavat uudistukset, joilla varmistetaan saamelaiskäräjien – saamelaiskansojen ylimpänä edustuselimenä – aiempaa suurempi itsenäisyys suhteessa valtion laitoksiin ja viranomaisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sierraraporterejeaddji ávžžuha, ahte Davviriikkat ja erenomážit Ruoŧŧa barggašedje dárbbašlaš ođastusaid, maiguin sihkkarasto sámedikki – sámeálbmoga bajimuš álbmotválljenorgánan – ovddit stuorát iehčanasvuohta stáhta lágádusaid ja virgeoapmahaččaid ektui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tavoitteena saamelaiskäräjien itsenäisen päätöksentekovallan kasvattaminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ulbmilin sámedikki iehčanas mearrádinválddi lasiheapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>77. Pohjoismaiden tulisi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin ne voivat tehokkaasti toteuttaa itsehallinnollisia tehtäviään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>77. Davviriikkat galggašedje ordnet sámediggái doarvái ruhtadeami, mainna dat sáhttet beaktilit ollašuhttit iešráđđenbargguid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisesti olisi järjestettävä aiempaa enemmän rahoitusta saamelaiskäräjien itsenäisesti yksilöimille, kehittämille ja toteuttamille hakkeille ja aloitteille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erenomážit galggašii ordnet ovddit eanet ruhtadeami sámedikki iehčanasat namuhan, ovddidan ja ollašuhttán fidnuide ja álgagiidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden tulisi kehittää sopivat menettelytavat yhteydenpitoon saamelaiskäräjien kanssa tämän tavoitteen toteuttamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtat galggašedje ovddidit heivvolaš meannudanvugiid oktavuođadoallamii sámedikkiin dán ulbmila ollašuhttima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>83.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>83.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen tulisi tehostaa toimiaan saamelaisten maa-alueita ja luonnonvaroja koskevien oikeuksien selvittämiseksi ja turvaamiseksi juridisessa mielessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma galggašii beavttálmahttit doaimmaid sámiid eanaviidodagaid ja luondduriggodagaid guoski vuoigatvuođaid čielggadeami ja sihkkarastima várás juridihkalaš mielas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen tulisi erityisesti varmistaa saamelaisten harjoittaman poronhoidon erityisaseman turvaaminen ottaen huomioon kyseisen elinkeinon keskeinen merkitys saamelaisten kulttuurille ja perinnölle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma galggašii erenomážit sihkkarastit sámiid ollašuhttán boazodoalu sierrasajádaga dorvvasteami vuhtiiváldimiin guoskevaš ealáhusa guovddáš mearkkašumi sámiid kultuvrai ja árbevirrui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>84. Luonnonvarojen hyödyntämisen saamelaisalueilla mahdollistavien lainsäädännöllisten ja hallinnollisten mekanismien tulisi olla soveltuvien kansainvälisten normien mukaisia, myös silloin, kun ne koskevat näiden toimien vaikutusten kohteena olevien alkuperäisyhteisöjen asianmukaista kuulemista sekä vapaaehtoista ja tietoon perustuvaa etukäteissuostumusta, vaikutusten lieventämiseksi tarvittavia toimia, korvauksia ja hyötyjen jakamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>84. Luondduriggodagaid ávkingeavaheami sámeguovlluin vejolažžan dahkki láhkaásahuslaš ja hálddahuslaš mekanismmat galggašedje leat heivvolaš riikkaidgaskasaš norpmaid mielde, maiddái dalle, go dat gusket dáid doaimmaid váikkuhusaid čuozáhahkan leahkki eamiálbmotservošiid áššáigulavaš gullama sihke eaktodáhtolaš ja dihtui vuođđudeaddji ovddalgihtii miehtama, váikkuhusaid láivudeapmái dárbbašuvvon doaimmaid, buhtadusaid ja ávkkiid juohkima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>85. Pohjoismaiden tulisi saamelaiskäräjien kanssa neuvotellen koordinoida toimenpiteitä, joilla pyritään hillitsemään ilmastonmuutoksen haitallisia vaikutuksia saamelaisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>85. Davviriikkat galggašedje sámedikkiin ráđđádallamiin koordineret doaibmabijuid, maiguin geahččaluvvo dálkkádatnuppástusa vahátlaš váikkuhusaid goahcan sámiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Samalla tulisi varmistaa, että uusiutuvien energianlähteiden käytön edistämiseksi tehtävillä toimenpiteillä, kuten tuulipuistojen rakentamisella, ei itsessään ole haitallista vaikutusta saamelaisten elinkeinoihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seamma háve galggašii sihkkarastit, ahte ođasmuvvi energiijagálduid geavaheami ovddideami várás bargon doaibmabijuin, nugo bieggapárkkaid huksemiin, eai daninassii leat vahátlaš váikkuhusat sámiid ealáhusaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>86.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>86.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaiden tulee pyrkiä pitämään poronhoitoalueiden petoeläinpopulaatiot paliskuntien sietämillä tasoilla, ja petoeläinten aiheuttamat vahingot tulee korvata poronhoitajille täysimääräisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkat galget figgat doallat boazodoalloguovlluid boraspirepopulašuvnnaid bálgosiid gierdan dásis, ja boraspiriid dagahan vahágiid galgá buhttet badjealbmáide dievasmearálaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>87.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>87.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisraportoija suosittelee, että Pohjoismaat ja saamelaiskäräjät tehostavat yhteisiä ponnistelujaan saamelaiskielten elvyttämiseksi ja vahvistavat saamelaiskielten ja - kulttuurin koulutusohjelmia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sierraraporterejeaddji ávžžuha, ahte Davviriikkat ja sámediggi beavttálmahttet oktasaš rahčamiid sámegielaid ealáskahttima várás ja nannejit sámegielaid ja - kultuvrra skuvlen-prográmmaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden tulee välittömästi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin näiden tavoitteiden saavuttamiseksi voidaan toteuttaa yhteisesti sovitut toimenpiteet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtat galget njuolgga ordnet sámediggái doarvái ruhtadeami, mainna dáid ulbmiliid juksama dihte sáhttá ollašuhttit oktasaččat sohppon doaibmabijuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden tulisi myös lisätä saamentaitoisten opettajien saatavuutta ja lukumäärää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtat galggašedje maiddái lasihit sámegieldáiddolaš oahpaheaddjiid oažžuma ja lohkumeari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi valtioiden tulisi pyrkiä vahvistamaan saamelaiskielten käyttöä tuomioistuimessa ja muiden viranomaisten kanssa asioitaessa ja parantaa edelleen julkisten palvelujen saatavuutta saamelaiskielillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin stáhtat galggašedje figgat nannet sámegielaid geavaheami duopmostuolus ja eará virgeoapmahaččaiguin áššiiddikšumis ja buoridit viidásabbot almmolaš bálvalusaid oažžuma sámegielaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>88.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>88.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden ja saamelaiskäräjien tulisi yhteistoimin kehittää ja toteuttaa toimenpiteitä yleisen tietoisuuden lisäämiseksi saamelaiskansoista mediassa ja suuren yleisön keskuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtat ja sámediggi galggašedje ovttaráđálaččat ovddidit ja ollašuhttit doaibmabijuid almmolaš diđolašvuođa lasiheami dihte sámeálbmogiin medias ja viiddes olmmošjoavkku gaskavuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaista tietoisuuden lisäämistä tulisi edistää muun muassa perus- ja keskiasteen koulujen sekä yliopistojen opetusohjelmissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár diđolašvuođa lasiheami galggašii ovddidit earret eará vuođđo- ja gaskadási skuvllaid sihke universitehtaid oahpahusprográmmain.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

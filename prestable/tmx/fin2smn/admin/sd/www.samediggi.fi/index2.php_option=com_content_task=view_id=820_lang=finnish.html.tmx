@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=820_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuuri</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taaiđâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa on kolme joikuperinnettä: pohjoissaamelainen luohti, inarinsaamelainen livđe ja kolttasaamelainen leuŠdd.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst láá kulmâ juáigusärbivyevi: tavesämmilâš luohti, anarâš livđe já nuorttâlâš leuŠdd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perinteinen joiku on alkujaan ollut saamelaisten riitteihin sidonnainen ja luonnonkansoille tyypillinen ilmaisumuoto henkimaailman ja reaalimaailman ilmentymä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ärbivuáválâš juáigus lii algâaalgâst lamaš sämmilij riitijn čonnâšum já luándualmugáid tijpâlâš olgospyehtimhäämi já jieggâmaailm já tuođâlâš maailm tiettumhäämi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiut ovat osana arjen rutiineja ja sosiaalisia tilanteita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáiguseh láá uássin aargâ rutiinijd já sosiaallâš tilálâšvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poronhoidossa joiulla on karkotettu petoja ja luotu suhdetta paimennettavan eläimen ja ihmisen välille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puásuituálust juáigusáin láá kovŋim piäđuid já lááččám koskâvuođâ ellee, mon paimândeh, já ulmuu kooskân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiuilla opetetaan nuorempaa sukupolvea henkilöistä ja sukulaisuusjärjestelmästä, luonnosta, paikoista, poronhoitotavoista ja eläimistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigusijguin máttáátteh nuorâb suhâpuolvâ ulmuin já hiäimuvuotâvuáháduvvâst, luándust, paaihijn, puásuituálutaavijn já ellein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joikujen aiheet kumpuavat yhteisön merkkihenkilöistä, historiallisista tapahtumista, poronhoidosta, luonnonympäristöstä ja eläimistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigusij fáádáh šaddeh siärváduv merkkâulmuin, historjálâš tábáhtusâin, puásuituálust, luándupirrâsist já ellein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiut ilmentävät sosiaalista järjestelmää ja kulttuurista jatkuvuutta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáiguseh čäittih sosiaallâš vuáháduv já kulttuurlâš jotkuuvâšvuođâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi lasten joiut ovat variaatioita vanhempien joiuista, jotka ovat puolestaan variaatioita heidän omien vanhempien joiuista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâmerkkân párnái juáiguseh láá variaatioh vanhimij juáigusijn, moh láá pelestis variaatioh sii jieijâs vanhimij juáigusijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsien synnyttyä, joiku on annettu kuin ristimänimen muodossa ensin yksinkertaisena melodiana (tovdna) myöhemmin henkilöjoiuksi rikastettuna.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko párnááh láá šoddâm, juáigus lii adelum tego ristânoomâ häämist vistig oovtkiärdánis nuottân maŋeláá riggodum olmoošjuáigusin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä perinne on miltei kadonnut Suomen saamelaisten keskuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taat ärbivyehi lii masa lappum Suomâ sämmilij juávhust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiussa ei ole aina sanoja (dajahusat), melodia ja äänenkäyttö ovat silloin keskiössä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigusijn iä lah ain säänih, talle nuottâ já jienâkevttim láá kuávdâháást.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Länsisaamelainen tyyli joikata on ilmaisultaan voimakkaampaa ja äänenkäyttö vaihtelee nopeammin kuin itäsaamelaisessa joikaustyylissä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Viestârsämmilâš stijlâ juoigâd lii olgospyehtim peeleest vuáimálub já jienâkevttim molsâšuvá jotelubbooht ko nuorttâsämmilâš juoigâmstiijlâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen Sámi Grand Prix osakilpailun voittaja 2014, joikaaja Petra Magga-Vars</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ Sámi Grand Prix uásikišto vyeittee 2014, jyeigee Petra Magga-Vars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisessa musiikkiperinteessä ei käytetä juurikaan instrumentteja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilâš muusikärbivyevist iä keevti masa ollágin instrumentijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyisin joikuesitystä voidaan tahdittaa muinaisella shamaanien käyttämällä noitarummulla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tááláá ääigi juáigus puáhtá tahtâdiđ rumbuin, mii lâi tovle nuáidij kiävtust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen ohella tunnetaan 3-5-sormireikäinen pilli, fádnobiipa, joka tehtiin väinönputken versosta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ton lasseen tobdeh 3-5-suormâräigásâš piili, mii rahtui puurrâmrääsi versost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös helistimiä tiedetään käytetyn.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meid skilânâs tietih kevttum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsinsaamelainen Maj-Lis Skaltje on teoksessaan Luondu juoiggaha kuvannut joikua seuraavasti (2005):</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ruotâsämmilâš Maj-Lis Skaltje lii suu čallust Luondu juoiggaha kuvvim juáigus čuávuvávt (2005):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku on poron nuotti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus lii poccuu nuottâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku on saanut sointunsa lintujen, jokien ja tuulten äänistä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus lii finnim nuotâs luudij, juuvâi já piegâi jienâst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku on lyhentänyt pitkiä pimeitä talviöitä,</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus lii uánidám kuhes sevŋis tälvi-iijâid,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>on ollut kaverina laajoilla erämailla,</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>lii lamaš skipárin vijđes meccikuávluin,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>on antanut voimaa kun mieli on alakuloinen ja työ raskasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>lii adelâm vyeimi ko mielâ lii šlunde já pargo lussâd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku on iloa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus lii ilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku säilyttää ihmisen nuorena.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus ana ulmuu nuorrân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku on muistamiskeino, yhteisilo ja tapa osoittaa rakkautta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus lii muštemvyehi, ohtsâšilo já vyehi čäittiđ rähisvuođâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joiku ulottuu pitemmälle kuin sanat, lähentää ja yhdistää suvut, ystävykset ja ihmissukupolvet.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus uulât olgoláá ko säänih, aldeed já ovtâstit hiäimuid, skipárijd já olmoošsuhâpuolvâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös ne jotka ovat jo jättäneet tämän maailman</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meid taid kiäh láá jo kuáđđám taam maailm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen joikuperinne oli vaarassa kadota.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilâš juoigâmärbivyehi lâi vaarâst lappuđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kristinusko piti joikua hyvin pitkään paheellisena ja sitä on myös halveksittu valtakulttuurin taholta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ristâosko oonij juoigâm viehâ kuhháá pahhaan já tot lii meid hálbášum väldikulttuur peeleest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa joiun arvostus alkoi kasvaa myös suomalaisten keskuudessa saamelaisten suuren taiteilijan Nils Aslak Valkeapään (Á illohaš) taiteen myötä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst juáigus áárvust anneem aalgij šoddâđ meid syemmilij juávhust sämmilij stuorrâ taaiđâr Nils Aslak Valkeapää (Áillohaš) taiđuu mield..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Áillohaš toi joiuin yhteiskunnallisesti hyväksytetyksi ja arvostetuksi taidemuodoksi ja osoitti joikuperinteen joustavuuden ja kehittymisen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Áillohaš puovtij juoigâm ohtsâškodálávt tuhhiittum já áárvust oonnum taaiđâhäämmin já čaaitij juoigâmärbivyevi njyebžilvuođâ já ovdánem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Áillohaš toi joikuperinteeseen vaikutteita jazzista ja muista musiikkityyleistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Áillohaš puovtij juoigâmärbivuáhán vaikuttâsâid jazzist já eres muusikstiijlâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisyhteisön ja taiteilijoiden aktiivisen työn tuloksena joikuperinne on alkanut elpyä ja joikua opetetaan myös kouluissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämisiärváduv já taaiđârij aktiivlâš pargo puátusin juoigâmärbivyehi lii álgám iälláđ já juoigâm máttáátteh meid škoovlâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kristinusko ei suhtaudu enää kielteisesti joikuun ja joikua on myös kuulunut kirkoissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ristâosko ij ane innig kieldee koskâvuođâ juoigâmân já juáigus lii kullum meid kiirhoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joikua kuulee käytännössä vain Yle Sápmin ohjelmissa muutamia valtakunnallisia konsertteja tai ohjelmataltiointeja lukuun ottamatta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juáigus kulloo keevâtlávt tuše Yle Säämi ohjelmijn muádi väldikodálâš konsert teikâ ohjelmvuárhá vuotânväldihánnáá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joikuperinne on kuitenkin edelleen uhanalainen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juoigâmärbivyehi lii kuittâg ain-uv uhkevuálásâš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työelämä, poismuutto saamelaisten kotiseutualueelta ja kielenvaihto ovat vaikuttaneet saamelaisten keskuudessa joiun kuuluvuuteen ja käyttöön.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargoeellim, meddâlvarrim sämikuávlust já kielâmolsom láá vaikuttâm sämmilij juávhust juoigâm kulluumân já kiävtun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisilla joikaajilla on oma kattojärjestönsä, Sámi juoigiid searvi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilijn jyeigein lii jieijâs káttuservi, Sámi juoigiid searvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin joikutapahtuma on vuosittain Norjan Kautokeinossa pääsiäisen aikaan järjestettävä Sámi Grand Prix-kilpailu, jossa valitaan vuoden parhaat joikuesitykset.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuárráámus juoigâmtábáhtus lii Sámi Grand Prix-kišto, mii uárnejuvvoo ihásávt Taažâ Kuovdâkiäinust pessijái ääigi. Tobbeen väljejuvvojeh ive pyeremusah jyeigeeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Moderni saamelaismusiikki</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tááláš sämimuusik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykysaamelasismusiikki ammentaa vahvasti perinteisestä joiusta ja ilmentäen uusia ilmaisuntapoja ja saamelaiskulttuurin kehittymistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tááláš sämimuusik váldá vaikuttâsâid ärbivuáválâš juáigusist já čáittá uđđâ olgospyehtimvuovijd já sämikulttuur ovdánem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1960-luvulta lähtien saamenkielinen musiikki alkoi seurata ajan trendejä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1960-lovo rääjist sämikielâlâš muusik aalgij čuávvuđ ääigi ovdánemsuundijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tänä päivänä saameksi tehdään rockia, poppia, etnoa, heviä, tanssimusiikkia, teknoa, lastenlauluja, virsiä ja rap-musiikkia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taan ääigi sämikielân čuojâtteh rock, pop, etno, hevi, tanssâmuusik, tekno, párnáilavluid, saalmâid já rap-muusik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisesti saamenkielinen rap-musiikki on saanut huomiota myös kansallisella tasolla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eromâšávt sämikielâlâš rap-muusik lii finnim huámášume meid aalmuglâš tääsist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaameksi rappäävä Amoc</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâlâš rappar Amoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielinen kirjallisperinne on nuorta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämikielâlâš kirjálâšvuotâärbivyehi lii nuorâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarinankerronta ja suullinen kertomaperinne on ollut tärkeä osa saamelaista kulttuuria ja tiedonsiirtoa sukupolvelta toiselle ja luonut pohjan saamenkielisen kirjallisuuden synnylle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsij mainâstem já njálmálâš mainâstemärbivyehi láá lamaš sämmilâš kulttuur já tiäđusirdem tergâdiih uásih suhâpuolvâst nuubán já lááččám vuáđu sämikielâlii kirjálâšvuođâ šoddâmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäiset saamenkieliset julkaisut olivat Ruotsissa vuonna 1619 painetut kaksi uskonnollista kirjasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuossâmuuh sämikielâliih almostitmeh lijjii Ruotâst ive 1619 teddilum kyehti oskoldâhlii kirjáá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen pohjoissaamenkielinen kaunokirjallinen teos oli ruotsinsaamelaisen Johan Turin kirjoittama ja kuvittama kirja vuodelta 1910 Muitalus sámiid birra, joka on kertomus porosaamelaisten elämästä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuossâmuš tavesämikielâlâš čaabâkirjálâš kirje lâi ruotâsämmilii Johan Turi čáállám já kuvvim kirje ivveest 1910 Muitalus sámiid birra, mii lii muštâlus puásuisämmilij elimist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Turi halusi omien sanojensa mukaan kertoa viranomaisille millainen on saamelaisten elämä ja olosuhteet, jotta viranomaiset tulisivat niistä tietoisiksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Turi halijdij jieijâs saanij mield muštâliđ virgeomâháid ete maggaar lii sämmilij eellim já tile, vâi virgeomâhááh šaddeh tiettiđ tain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Turi kuvaa kirjassaan hyvin tarkasti saamelaisten elämää, historiaa ja saamelaisten kansanperinnettä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Turi kovvee kirjestis uáli tárkká sämmilij eellim, historjá já sämmilij aalmugärbivyevi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös kirjailija, taiteilija ja poronhoitaja, Ruotsin Jällivaarasta kotoisin oleva Nils Nilsson Skum kuvasi saamelaista luonnonympäristöä ja poronhoitoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meid čällee, taaiđâr já puásuituállee, Ruotâ Vääččirist meddâl leijee Nils Nilsson Skum kuvvij sämmilâš luándupirrâs já puásuituálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hänen kerrottiin hinnoitelleen teoksensakin niissä kuvatun poroluvun perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lii ettum, ete sun piejâi hade suu kiirjijd tain kovvejum puásuilovo vuáđuld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Läpimurtonsa Skum, ennen kaikkea teoksellaan Same sita - samebyn (1938).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalmug tiäđulâšvuotân Skum poođij vuosâsajasávt kiirjijn Same sita - samebyn (1938).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaisalueella ensimmäinen merkittävä saamenkielinen kaunokirjallinen teos oli outakoskelaisen opettajan Hans-Aslak Guttormin kokoelmateos Koccam spalli (Herännyt tuulispää 1941).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ sämikuávlust vuossâmuš merhâšittee sämikielâlâš čaabâkirjálâš kirje lâi vuovdâkuoškâlii máttáátteijee Hans-Aslak Guttorm nurâldâh Koccam spalli (Koccám spälli 1941).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokoelmassaan Guttorm kehitti myös pohjoissaamen kirjallista kieltä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nurâlduvvâstis Guttorm ovdedij meid tavesämikielâ kirjálâš kielâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen kirjakielen kehittyessä ja saamelaisyhteisön kulttuurisen heräämisen myötä saamelaiskirjallisuus alkoi kehittyä 1970-luvun alusta lähtien.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämikielâ kirjekielâ ovdánmijn já sämisiärváduv kulttuurlâš moránem mield sämikirjálâšvuotâ aalgij ovdániđ 1970-lovo aalgâ rääjist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuudesta tuli keino kuvat yhteiskunnan epäkohtia ja suomalaistamisprosessin vaikutuksia saamelaisiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuođâst šoodâi vyehi kuvviđ ohtsâškode tuhhitmettum tiilijd já lädijduttemproosees vaikuttâsâid sämmilijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirsti Palton esikoisromaani Voijaa minun poroni (Guhtoset dearvan min bohccot) oli Finlandia-ehdokkaana vuonna 1986.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirsti Palto vuossâmuš roomaan Guhtoset dearvan min bohccot (Kuáđuttus tiervân mii poccuuh) lâi Finlandia-iävtukkâssân ive 1986.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nils-Aslak Valkeapään runoeepos Aurinko, isäni (Beaivi, áhčážan, 1988) voitti Pohjoismaiden neuvoston kirjallisuuspalkinnon vuonna 1991.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nils-Aslak Valkeapää tihtârááhtus Beaivi, áhčážan (Piäiváš, iäččám), 1988 vuoitij Tave-enâmij rääđi kirjálâšvuođâpalhâšume ive 1991.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa ei toimi saamenkielistä kirjallisuutta kustantavaa kustantamoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâst ij tooimâ kuástideijee, mii kuástid sämikielâlâš kirjálâšvuođâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Norjassa toimi Davvi Girji kustantaa myös Suomen saamelaisten tekemiä teoksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taažâst tuáimee Davvi Girji kuástid meid Suomâ sämmilij čáállám kiirjijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuuden kehittymistä vaikeuttavat pienet markkinat erityisesti inarin- ja koltansaamenkielisessä kaunokirjallisuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuođâ ovdánem taheh vaigâdin uccâ markkâneh eromâšávt anarâš- já nuorttâlâškielâlâš čaabâkirjálâšvuođâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyisin kaunokirjallisuutta käännetään valtakielten ja saamen kielten välillä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tááláá ääigi čaabâkirjálâšvuođâ jurgâleh väldikielâi já sämikielâi kooskâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuvataide</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kovetaaiđâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäisiä saamelaisia kuvataitelijoita olivat kirjailija Juhan Turi sekä norjansaamelainen John Savio.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuossâmuuh sämmiliih kovetaaiđâreh lijjii čällee Juhan Turi sehe taažâsämmilâš John Savio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1900-luvun alussa elänyt Savio tuli tunnetuksi puupiirroksistaan, jotka esittävät perinteisiä saamelaisia aiheita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1900-lovo aalgâst iällám Savio šoodâi tobdosin muorâsárgusijnis, moh oovdânpyehtih ärbivuáválijd sämifáádáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisen kuvataiteen kultakauden aloitti Nils Aslak Valkeapää saamen kansan mytologioista ja luontosuhteesta kertovilla tauluillaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilii kovetaiđuu kollepaje algâttij Nils Aslak Valkeapää sämiaalmug myytâin já luándukoskâvuođâst muštâleijee tavluidiskuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuvataide ammentaa inspiraationsa nykyisinkin niin kalliopiirroksista, shamanismista, luonnosta kuin käsityöperinteestäkin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kovetaaiđâ váldá movtijdem tääl-uv nuuvt källeesárgusijn, nuáidioskoost, luándust ko tyejiärbivyevist-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyisin kuvataiteella kuvataan yhä enemmän määrin saamelaisten kokemia yhteiskunnallisia epäkohtia ja suomalaistamispolitiikan vaikutuksia saamelaisyhteisöön.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tááláá ääigi kovetaiđuu vievâst kovvejeh ain eenâb ohtsâškodálijd tuhhitmettum tiilijd, maid sämmiliih láá feerim já lädijduttempolitiik vaikuttâsâid sämisiärvádâhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisesti Inarissa asuva Merja Aletta Ranttila on tunnettu shamanismia ja mytologiaa käsittelevistä maalauksistaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eromâšávt Anarist ässee Merja Aletta Ranttila lii tobdos nuáidiosko já myytâid kieđâvuššee maalâkuvijnis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perinteisesti taidetta on piirretty poronnahkoihin, nykyisin taidetta tehdään hyvin monille ja monella eri materiaalilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ärbivuáválávt taiđuu láá sárgum puásuinahkijd, tääl taiđuu rähtih viehâ maaŋgáid materiaalijd já maaŋgâlágán materiaalijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisesta tanssiperinteestä on säilynyt vain kolttasaamelaisten katrilli, joka on saanut vaikutteita venäläisestä tanssiperinteestä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilâš tanssâärbivyehist lii siäilum tuše nuorttâlâšâi katrilli, mii lii finnim vaikuttâsâid ruošâ tanssâärbivyevist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katrillia opetetaan Inarin kouluissa ja Sevettijärvellä ja Nellimissä on omat katrilliryhmänsä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Katrilli máttáátteh Aanaar škoovlâin já Čevetjäävrist já Njellimist láá jieijâs katrillijuávhuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On oletettavissa että saamelaisilla on ollut shamanistiseen muinaisuskoon ja pyyntiin liittyvä tanssiperinne, mutta siitä ei ole jäänyt jäljelle tietoja saamelaisen kansanperinteeseen eikä kirjallisuuteen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nabdemist lii, ete sämmilijn lii lamaš toovlâš nuáidioskon já pivdon lohtâseijee tanssâärbivyehi, mutâ tast ij lah pááccám tiäđuid sämmilij aalmugärbivuáhán ige kirjálâšvuotân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elokuva ja dokumentti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Elleekove já dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elokuvataiteesta ja dokumenteista on tullut keino kertoa saamelaiskulttuurista ja sen perinteistä sekä kuvat valtakulttuurien toimien vaikutuksista saamelaiskulttuuriin ja yksittäisiin saamelaissukuihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Elleekovetaiđust já dokumentijn lii šoddâm vyehi mainâstiđ sämikulttuurist já ton ärbivuovijn sehe kuvviđ väldikulttuurij tooimâi vaikuttâsâin sämikulttuurân já ovtâskâs sämisuvváid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteiskunnallinen ilmaisu on vahva osa saamelaista elokuva- ja dokumenttitaidetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtsâškodálâš olgospyehtim lii noonâ uási sämmilâš elleekove- já dokumenttaiđuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisen elokuvan aika alkoi vuonna 1987, jolloin Nils Gaup ohjasi elokuvan Tiennäyttäjä (Ofelaš).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilii elleekove äigi aalgij ive 1987, kuás Nils Gaup stivrij elleekove Tiennäyttäjä (Ofelaš).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elokuva oli Oscar-ehdokkaana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Elleekove lâi Oscar-iävtukkâssân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiselokuvan ” uusi aalto ” 2000-luvun alussa on nostanut esiin uuden ohjaajapolven.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilâš elleekove ” uđđâ pááru ” 2000-lovo aalgâst lii pajedâm oovdân uđđâ stivrejeijeesuhâpuolvâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nousua on vauhdittanut elokuva-alan lisääntynyt koulutus pohjoisessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Elleekovesyergi škovlim lasanem tavveen lii išedâm pajedem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuosittain tammikuussa Inarissa järjestettävä alkuperäiskansojen elokuvafestivaali Skábmagovat (” Kaamoksen kuvia ”) on saamelaiselokuvan keskeinen foorumi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ihásávt uđđâivemáánust Anarist uárnejum algâaalmugij ellekovefestivaal Skábmagovat (” Skammâkoveh ”) lii sämmilii elleekove merhâšittee foorum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleisradio aloitti säännölliset saamenkieliset radiolähetykset Suomessa vuoden 1947 lokakuussa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Yleisradio algâttij merikoskâsijd sämikielâlijd radiovuolgâttâsâid Suomâst ive 1947 roovvâdmáánust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelmassa oli aluksi hengellistä ohjelmaa sekä ajankohtaisia uutisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohjelmist lijjii aalgâst vuoiŋâlâš ohjelm sehe äigikyevdilis uđđâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyisin saamen radio, Yle Sápmi, on edelleen tärkein saamenkielinen tiedotusväline Suomen saamelaisille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tääl sämiradio, Yle Sápmi, lii ain tergâdumos sämikielâlâš tieđettemniävvu Suomâ sämmilijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yle Sápmi lähettää ohjelmaa pohjois-, inarin- ja koltansaameksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>vuolgât ohjelm tavesämi-, anarâš- já nuorttâlâškielân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yle Sápmi on myös tärkeä kirjallinen media, koska tärkeimmät uutiset on kirjoitettuina Yle Sápmin kotisivuille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Yle Sápmi lii meid tergâdis kirjálâš media, ko tergâdumoseh uđđâseh láá čallum Yle Sápmi päikkisiijđoid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yle Sápmi on melkein ainoa media, jossa saa kuulla saamelaista joikuperinnettä ja uuta saamelaista musiikkia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Yle Sápmi lii masa áinoo media, kost puáhtá kuullâđ sämmilâš juoigâmäärbi já uđđâ sämmilâš muusik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yle Sápmi sai saamelaiskäräjien saamen kielineuvoston myöntämän saamen kieliteko - palkinnon vuonna 2013.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Yle Sápmi finnij sämitige säämi kielârääđi mieđettem säämi kielâtaho – palhâšume ive 2013.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleisradion on lain mukaan osana yhteiskunnallista palvelutoimintaa tuotettava palveluita saamen kielillä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>mield uássin ohtsâškodálâš palvâlemtooimâ pyevtittiđ palvâlusâid sämikielân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteispohjoismaiset saamenkieliset tv-uutiset, Ođđasat, alkoivat vuoden 2002 alussa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtsâštave-eennâmliih sämikielâliih tv-uđđâseh, Ođđasat, algii ive 2002 aalgâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne tuotetaan yhteistyönä Suomen Yle Sámi Radion, Norjan NRK Sámi Radion ja Ruotsin SVT Sápmin kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taid pyevtitteh ohtsâšpargon Suomâ Yle Säämi Radioin, Taažâ NRK Säämi Radioin já Ruotâ SVT Sápmijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syksyllä 2013 Yleisradio aloitti omien saamenkielisten tv-uutisten lähettämisen valtakunnan verkossa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čohčuv 2013 Yleisradio algâttij jieijâs sämikielâlij tv-uđđâsij vuolgâttem väldikode viermist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yle Sápmi tuottaa Suomen ainoaa saamenkielistä lastenohjelmaa, Unna Junnáa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Yle Sápmi pyevtit Suomâ áinoo sämikielâlâš párnáiohjelm, Unna Junná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sápmelaš oli Suomen ensimmäinen saamenkielinen aikakausilehti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sápmelaš lâi Suomâ vuossâmuš sämikielâlâš äigipajelostâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se ilmestyi pohjoissaameksi vuosina 1935–2002.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot almostui tavesämikielân iivijn 1935–2002.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyisin ainoa saamen kielinen sanomalehti on Norjassa ilmestyvä Avvir, joka ilmestyy kaksi kertaa viikossa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tääl áinoo sämikielâlâš aavis lii Taažâst almostuvvee Avvir, mii almostuvá kuohtii ohhoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkielen yhdistys (Anarâškielâ Servi) on julkaissut Anarâš-lehteä vuodesta 1987.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâ Servi lii almostittâm Anarâš-loostâ ive 1987 rääjist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 2011 annettu asetus sanomalehdistön tuesta mahdollisti ensimmäisen kerran yhteiskunnallisen tuen myöntämiselle saamenkielisen sanomalehtiaineiston tuottamiselle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 2011 adelum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen suvun laulun on sanoittanut ensimmäinen saamelainen valtiopäivämies Isak Saba ja säveltänyt norjalainen säveltäjä Arne Sørlie.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>asâttâs avisij torjust toovâi máhđulâžžân vuossâmuu keerdi ohtsâškodálâš torjuu mieđettem sämikielâlâš aavisamnâstuv pyevtitmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lipun punainen ympyrä kuvaa aurinkoa ja sininen kuuta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toorjâ lii mieđettum asâttâs vuáimánšoddâm maŋa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansallislaulun melodia hyväksyttiin saamelaisten 14. konferenssissa Helsingissä 1992.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>, mii pyevtit sämikielâlijd uđđâsijd sehe teddilum loostân ete viärmán.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

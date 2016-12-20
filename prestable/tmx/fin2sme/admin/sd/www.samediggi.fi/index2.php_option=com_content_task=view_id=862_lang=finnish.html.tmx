@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=862_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisarkiston kesän 2014 aukioloajat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi arkiiva lea rabas geassit 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisarkisto on auki melkein koko kesän, lukuun ottamatta viikkoja 27 (30.6.-4.7.2014) ja 30 (21.7.-26.7.2014).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi arkiiva lea rabas masa oalle geasi eret vahkkuid 27 (30.6.-4.7.2014) ja 30 (21.7.-26.7.2014).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesätyöntekijänä Saamelaisarkistossa on Salla Pirjetä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geassibargin Sámi arkiivvas lea Sallamaria Pirjetä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Häneen voi olla yhteydessä sopiessa vierailuaikaa Saamelaisarkistoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhtát váldit sutnje oktavuođa go soabat galledanáiggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero on 050 376 4182 ja sähköpostiosoite sallamaria.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Telefonnummir lea 050 376 4182 ja e-poastačujuhus sallamaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>pirjeta (at) narc.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>pirjeta (at) narc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>fi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>fi</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

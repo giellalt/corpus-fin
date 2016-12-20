@@ -1,0 +1,145 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>836</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Patientlagen</origFileName>
+    <parallel_text xml:lang="eng" location="patientlagen.html"/>
+    <parallel_text xml:lang="fit" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmf" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmn" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmy-rka" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="patientlagen.html"/>
+    <parallel_text xml:lang="sma" location="patientlagen.html"/>
+    <parallel_text xml:lang="sme" location="patientlagen.html"/>
+    <parallel_text xml:lang="smj" location="patientlagen.html"/>
+    <parallel_text xml:lang="swe" location="patientlagen.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Potilaslaki / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Suomeksi / Finska</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="nob">PotilaslakiPatientlagen</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>Sinun pitäisi ymmärtää tiedot (ca 2 sidor)</p>
+    <p>Avohoitopaikka valittavissa koko maan alueelta (ca 2 sidor)</p>
+    <p>Uusi lääketieteellinen arvio (ca 1 sida)</p>
+    <p xml:lang="nno">Lähetteen tarve vaihtelee (ca 1 sida)</p>
+    <p>Mikäli et ole tyytyväinen hoitoosi (ca 1 sida)</p>
+    <p>Potilaslaki on laadittu potilaita varten. Potilaslain mukaan sinulle tulee antaa tietoa sairaudestasi ja siihen saatavilla olevista hoitovaihtoehdoista. Näin voit itse osallistua hoitoasi koskeviin päätöksiin. Sinulle tulee antaa tietoa myös siitä, missä tarvitsemaasi hoitoa on tarjolla.</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>Sinun pitäisi ymmärtää tiedot (ca 2 sidor)</p>
+    <p>Avohoitopaikka valittavissa koko maan alueelta (ca 2 sidor)</p>
+    <p>Uusi lääketieteellinen arvio (ca 1 sida)</p>
+    <p xml:lang="nno">Lähetteen tarve vaihtelee (ca 1 sida)</p>
+    <p>Mikäli et ole tyytyväinen hoitoosi (ca 1 sida)</p>
+    <p type="title" xml:lang="swe">Hitta i artikeln</p>
+    <p type="title">Sinun pitäisi ymmärtää tiedot</p>
+    <p type="title">Sinun pitäisi ymmärtää tiedot</p>
+    <p>Hoitohenkilöstön on annettava sinulle tarvitsemasi tiedot henkilöllisyydestäsi ja taustastasi riippumatta. Saatat esimerkiksi tarvita tulkkia tai kirjallisia tietoja, jotta ymmärrät, kuinka tutkimus tehdään.</p>
+    <p>Annettavat tiedot tulee sovittaa tilanteesi ja edellytystesi mukaan, jotta pystyt ymmärtämään tiedot ja osallistumaan omaan hoitoosi. Valitset itse, kuinka aktiivisesti haluat osallistua omaan hoitoosi, mutta sinulla on aina oikeus omien toiveittesi kertomiseen.</p>
+    <p>Kun tunnet ymmärtäneesi, mitä vaihtoehtoja ja mahdollisuuksia on tarjolla, voit antaa suostumuksesi hoitoon tai ilmaista hyväksymisesi jollain muulla tavalla. Voit myös kieltäytyä sinulle tarjottavasta hoidosta. Vaikka olisitkin antanut suostumuksesi tiettyyn hoitoon, sinun on mahdollista muuttaa mieltäsi asiasta.</p>
+    <p>Myös lapsille tulee antaa mahdollisuus ilmaista mielipiteensä omasta hoidostaan. Pienten lasten kohdalla tämä voi tapahtua yhdessä lapsen huoltajien kanssa, mutta mitä isommasta lapsesta on kysymys, sitä tärkeämpää on, että hän saa itse osallistua hoitoonsa. Lapsen tulee ymmärtää hänelle annetut tiedot, jotta hän pystyy osallistumaan aktiivisesti omaan hoitoonsa ja tekemään sitä koskevia päätöksiä.</p>
+    <p type="title">Millaisia tietoja potilaalle voidaan antaa?</p>
+    <p>Potilaana sinun tulee saada tietoa</p>
+    <list>
+      <p type="listitem">omasta terveydentilastasisaatavilla</p>
+      <p type="listitem">olevista tutkimus- ja hoitotavoista</p>
+      <p type="listitem">saatavilla olevista apuvälineistä</p>
+      <p type="listitem">arvioidusta hoitoajankohdasta</p>
+      <p type="listitem">hoidon odotettavissa olevasta tuloksesta</p>
+      <p type="listitem">mahdollisista komplikaatioista ja sivuvaikutuksista</p>
+      <p type="listitem">mahdollisesti tarvittavasta jälkihoidosta</p>
+      <p type="listitem">sairauden tai vamman ehkäisytavoista</p>
+      <p type="listitem">Försäkringskassanin mahdollisuuksista kertoa muussa ETA-maassa tai Sveitsissä annettavasta hoidosta.</p>
+    </list>
+    <p>Joissain tapauksissa läheisesi voivat tarvita hoitoasi koskevia tietoja. Salassapitosäännösten vuoksi tietoja voidaan antaa läheisillesi ainoastaan läsnäollessasi tai suostumuksellasi.</p>
+    <p>Akuuttitilanteissa, jolloin et voi antaa suostumustasi hoitoon esimerkiksi tajuttomuuden takia, sinua hoidetaan joka tapauksessa, mikäli henkesi on vaarassa.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p type="title">Avohoitopaikka valittavissa koko maan alueelta</p>
+    <p type="title">Avohoitopaikka valittavissa koko maan alueelta</p>
+    <p>Potilaana sinulle tulee antaa tietoa siitä, millaista hoitoa asuinpaikkasi maakäräjäkunta voi tarjota, ja mikäli hoitoa on mahdollista saada muiden maakäräjäkuntien alueella.</p>
+    <p>Voit myös valita avohoitopaikan mistä tahansa Ruotsissa. Voit siis valita, missä terveyskeskuksessa tai erikoissairaanhoidon avovastaanotolla haluat käydä tutkimuksissa. Erikoissairaanhoidon avovastaanoton toimenpiteitä ovat esimerkiksi kaihileikkaukset.</p>
+    <p>Hoidonantajan voi valita joko julkisten tai yksityisten terveyspalvelujen puolelta, kunhan hoito on maakäräjäkunnan rahoittamaa.</p>
+    <p>Tietyn terveyskeskuksen valintaa kutsutaan joskus listaukseksi. Voit kuitenkin käydä missä tahansa terveyskeskuksessa koko Ruotsissa. Terveyskeskuksesta on mahdollista saada myös omalääkäri.</p>
+    <p>Erikoissairaanhoidon avohoitopaikaksi voi valita myös muiden maakäräjäkuntien alueella sijaitsevan aluesairaalan, esimerkiksi syöpähoidon seurantaa varten.</p>
+    <p type="title">Potilaan tarpeet etusijalla</p>
+    <p>Kun haet hoitoa muiden maakäräjäkuntien alueelta, lääketieteelliset tarpeesi ratkaisevat hoitoajankohdan. Lääketieteelliset tarpeet arvioi lääkäri. Avohoitoa annetaan kaikille tasavertaisesti riippumatta siitä, missä he ovat kirjoilla. Esimerkiksi avohoidon potilasmaksu on siis samansuuruinen kaikille. Mikäli valitset toisen maakäräjäkunnan alueella annettavan hoidon, vastaat itse matkoistasi ja asumisestasi.</p>
+    <p>Toisen maakäräjäkunnan alueelta tulevana potilaana et kuulu hoitoa antavan maakäräjäkunnan hoitotakuun piiriin.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p type="title">Uusi lääketieteellinen arvio</p>
+    <p type="title">Uusi lääketieteellinen arvio</p>
+    <p>Mikäli sinulla on hengenvaarallinen tai erityisen vakava sairaus tai vamma ja sinun on tehtävä vaikeita lääketieteellisiä päätöksiä, voit pyytää uutta lääketieteellistä arviota tehtäväksi. Arvion tekee muu kuin sinua jo hoitava lääkäri, joko asuinpaikkasi maakäräjäkunnassa tai muussa maakäräjäkunnassa.</p>
+    <p>Asuinpaikkasi maakäräjäkunta maksaa uuden lääketieteellisen arvion.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p type="title">Lähetteen tarve vaihtelee</p>
+    <p type="title">Lähetteen tarve vaihtelee</p>
+    <p>Mikäli avoimeen erikoissairaanhoitoon vaaditaan lähete, sinun tulee hankkia se terveyskeskuksestasi.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p type="title">Mikäli et ole tyytyväinen hoitoosi</p>
+    <p type="title">Mikäli et ole tyytyväinen hoitoosi</p>
+    <p>Jokaisessa maakäräjäkunnassa on potilaslautakunta, jonka tehtävä on auttaa sinua siinä tapauksessa, että et tunne saavasi osallistua omaan hoitoosi tai et ole muulla tavoin tyytyväinen hoitoosi. Potilaslautakunta voi esimerkiksi auttaa sinua saamaan yhteyden vastaavaan hoitohenkilöstöön ja antaa sinulle tietoa siitä, kuinka voit tehdä ilmoituksen tapahtuneesta.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="nno">http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Patientlagen/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>Sinun pitäisi ymmärtää tiedot (ca 2 sidor)</p>
+    <p>Avohoitopaikka valittavissa koko maan alueelta (ca 2 sidor)</p>
+    <p>Uusi lääketieteellinen arvio (ca 1 sida)</p>
+    <p xml:lang="nno">Lähetteen tarve vaihtelee (ca 1 sida)</p>
+    <p>Mikäli et ole tyytyväinen hoitoosi (ca 1 sida)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2015-01-18</p>
+    <p xml:lang="swe">Skribent och redaktör:</p>
+    <p><em type="italic">Kirjoittaja ja toimittaja: </em>Ingemar Karlsson Gadea, 1177 Vårdguiden﻿ </p>
+    <p xml:lang="swe">Granskare:</p>
+    <p xml:lang="nob"><em type="italic">Tarkastaja: </em>Hasse Knutsson, käsittelijä, hoito- ja hoivaosasto, Sveriges Kommuner och Landsting, Stockholm </p>
+    <p>Tekstin sisältö on 1177 Vårdguiden -toimituksen tarkastama ja hyväksymä.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>

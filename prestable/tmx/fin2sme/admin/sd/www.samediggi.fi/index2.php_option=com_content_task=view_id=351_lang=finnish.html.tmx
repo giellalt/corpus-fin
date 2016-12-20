@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=351_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuma Rovaniemellä 7.-8.4.2010</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámenuoraid dáiddadáhpáhus Roavvenjárggas 7.-8.4.2010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sámenuoraid dáiddadáhpáhus / Saamelaisnuorten taidetapahtuma järjestetään kaksipäiväisenä tapahtumana Rovaniemellä nuorisotila Mondella keskellä kaupunkia huhtikuun 7.-8. päivinä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámenuoraid dáiddadáhpáhus lágiduvvo guovttebeaivásaš dáhpáhussan Roavvenjárggas nuoraidbáiki Mondes guovdugávpoga cuoŋománu 7.-8. beivviid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtakunnallista Nuori Kulttuuri – tapahtumaa ei järjestetä tänä vuonna lainkaan, joten Saamelaisnuorten taidetapahtuma on oma itsenäinen tapahtumansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkadási Nuorra Kultuvra – dáhpáhus ii lágiduvvo dán jagi olláge, nu ahte Sámenuoraid dáiddadáhpáhus lea iehčanas dáhpáhus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapahtuman teemana on musiikki.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáhpáhusa temán lea musihkka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuma - tiedote 27.1.2010</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámenuoraid dáiddadáhpáhus - dieđáhus 27.01.2010</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

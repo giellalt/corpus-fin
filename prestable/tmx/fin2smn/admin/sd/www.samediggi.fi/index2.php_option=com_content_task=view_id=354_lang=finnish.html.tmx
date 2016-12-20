@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=354_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuma lähestyy</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säminuorâi taaidâtábáhtus aldan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtumaan on ilmoittautunut 24 musiikin esittäjää tai ryhmää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säminuorâi taaidâtábáhtusân láá almottâttâm 24 musijkkárid tâi muusikjuávkkud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitykset ovat rockia, laulua, joikua, rappia ja instrumentaalimusiikkia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muusikpitáh láá rock, lávlum, juoigâm, rapp já instrumentaalmuusik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautumisia on tullut kaikista saamelaisten kotiseutualueen kunnista ja Rovaniemeltä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almottâtmeh láá puáttám puohâin sämikuávlu kieldâin já Ruávinjaargâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapahtumaan järjestetään kuljetukset kaikista kotiseutualueen kunnista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tábáhtusân uárnejuvvojeh sáátuh puohâin sämikuávlu kieldâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkemmat tiedot kuljetuksista, majoituksesta ja ruokailuista toimitetaan kouluille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tärhibeh tiäđuh sáátuin, ijâstâlmist já puurâdmijn toimâttuvvojeh škovláid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedot tulevat myös nettiin, seuraa www.samediggi.fi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tiäđuh piäijojeh meiddei neetin, čuávu www.samediggi.fi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja tästä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasetiäđuh täst.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=60_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamenkielisiä oppimateriaaleja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat oahppamateriálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tuottaa ja rahoittaa saamenkielisiä oppimateriaaleja esi- ja perusopetuksen, lukioiden, ammatillisen ja aikuiskoulutuksen tarpeisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi buvttada ja ruhtada sámegielat oahppamateriálaid ovdaoahpahusa, vuođđooahpahusa, logahagaid, ámmát- ja rávesolbmuidskuvlema dárbbuide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on laatinut vuosittain tarkistettavan pitemmän aikavälin suunnitelman, jonka mukaisesti materiaaleja tuotetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea ráhkadan jahkásaččat dárkkistuvvon guhkitáigge plána, man mielde materiálat buvttaduvvojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja antaa Saamelaiskäräjien koulutus- ja oppimateriaalitoimisto Inarissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassidieđuid addá Sámedikki skuvlen- ja oahppamateriáladoaimmahat Anáris. Doaimmahaga čujuhus Sajos, 99870 Anár.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgielat oahppamateriálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuortalašgielat oahppamateriálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegielat oahppamateriálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oppimateriaaleja internetissä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppamateriálat interneahtas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opettajan materiaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpaheaddji materiálat</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,672 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">patientavgifter.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiella / Nordsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maid oažžu máksit ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máksokeahtes dearvvašvuođa – ja buohccedikšun (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä terveyden- ja sairaanhoidosta joutuu maksamaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maid oažžu máksit ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(ca 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä terveyden- ja sairaanhoidosta joutuu maksamaan ? (ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máksokeahtes dearvvašvuođa – ja buohccedikšun (ca 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä terveyden- ja sairaanhoidosta joutuu maksamaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maid oažžu máksit ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä terveyden- ja sairaanhoidosta joutuu maksamaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maid oažžu máksit ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin terveyden- ja sairaanhoito kustannetaan suurimmaksi osaksi maakäräjä- ja kunnallisveroilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanadikke- ja gielddalašvearut ruhtadit eanaš oasi dearvvašvuođa ja buohccedikšuma Ruoŧas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksu, joka maksetaan itse esimerkiksi lääkärikäynneistä, on vain pieni osa hoidon todellisista kustannuksista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máksu mii máksojuvvo ovdamearkka dihte doavttergalledeamis lea beare oassi dan duođalaš goluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä ei koske kokonaan yksityistä hoitoa, kuten esimerkiksi plastiikkakirurgiaa, jolle ei ole lääketieteellistä perustetta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat ii guoskka ollásit priváhta divššu, ovdamearkka dihte plástakirurgiija mii ii leat medisiinnalaččat ákkastallon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin kaikki kustannukset maksetaan itse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle buohcci máksá olles golu ieš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eri maakäräjillä ja kunnissa eri maksuja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sierra eanadikkiin ja gielddain sierra mávssut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maakäräjät ja kunnat voivat suurelta osin päättää itse, mitä maksuja lääkärikäynneistä ja muista hoitopalveluista maksetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanadikkit ja gielddat sáhttet stuorimus oassái ieža mearridit maid mávssuid galgá máksojuvvot doavttergalledemiin ja eará bálvalusain divššus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurelta osin maksut ovat suunnilleen samat eri maakäräjillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mealgadii leat mávssut oalle seammalágánat sierra eanadikkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos hoidontarve on suuri, on olemassa suurkustannussuoja, jota selostetaan tarkemmin seuraavassa luvussa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dárbbaha olu divššu lea leahkime allagollosuodji, mii čilgejuvvo dárkileappot boahtte kapihttalis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveyden- ja sairaanhoito on maksutonta alle 20-vuotiaille lähes kaikissa maakäräjäkunnissa ja kaikilla alueilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvašvuođa- ja buohccedikšun lea nuvttá measta buot eanadikkiin ja guovlluin jus lea vuollái 20 jagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraavat ohjeelliset maksut ovat voimassa julkisessa hoidossa ja yksityisillä hoidonantajilla, joilla on sopimus maakäräjien kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuolábeale jorba mávssut gusket almmolaš divššu ja priváhta dikšoaddi geas lea soahpamuš eanadikkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairaalassaolosta maksetaan vuorokausimaksu, joka lain mukaan saa olla enintään 100 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go lea buohcceviesus buohcci máksá jándormávssu mii lága jelgii oažžu leahkit alimustá 100 ruvnna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkärikäynnin maksu terveyskeskuksessa on 100–300 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go galleda doaktáris dearvvašvuođaguovddážis máksu variere 100 ja 300 ruvnna gaskkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Gynekologilla ja lastenlääkärillä käynnin maksu vaihtelee 200 ja 350 kruunun välillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Galledeapmi gynekologa ja mánáiddoaktára luhtte máksu variere rievdá 200 ja 350 ruvnna gaskkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos näillä lääkärikäynneillä saa lähetteen röntgentutkimukseen ja muun vastaavaan, niistä ei yleensä peritä lisämaksua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus daid galledemiid aktavuođas oažžu sáddaga röntgenii dehe dan sullásažžii ii láve dárbbahit máksit maidege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käynnit muilla erikoislääkäreillä maksavat 150–350 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Galledettiin eará doavtterspesialisttaid luhtte máksu variere 150 ja 350 gaskkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käynti sairaalan akuuttivastaanotolla voi maksaa 220–380 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Galledeapmi fáhkkavuostáváldimis buohcceviesus sáhttá máksit 220-380 ruvnna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairaanhoitajalla ja lääkintävoimistelijalla käynti voi maksaa 50–220 kruunua kerralta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Galledeapmi buohccedikšára ja buohccegymnastta luhtte sáhttá máksit 50-220 ruvnna galledeamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mammografia rintasyövän seulontatutkimuksena ja kohdunkaulan solukoe, ns. gynekologinen terveystarkastus, voi maksaa enintään 200 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mammongráfa áican dihte árrat raddeborašdávdda ja vástideaddji seallaiskkusdutkan goaŧŧonjálmmis, nu gohčoduvvon gynekologalaš dearvvašvuođadárkkisteapmi, sáhttá máksit gitta 200 ruvdnui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jotkin maakäräjät perivät maksun kuljetuksista ambulanssilla tai helikopterilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihto eanadikkit váldet mávssu ambulánssa ja helikoptergivttain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osa maakäräjistä maksaa käyntimaksuja takaisin, jos hoitoa on joutunut odottamaan tietyn ajan sovittua enemmän.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtin eanadikkit mákset ruovttoluotta galledanmávssu jus lea ferten vuordit dihto áiggi badjel dan sohppojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos sopimatonta aikaa ei peruuteta tai jos tutkittava ei saavu käynnille sovittuun aikaan, joutuu silti maksamaan käyntimaksun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus ii gieldde áiggi mii ii heive dehe ii boađe sohppojuvvon áigái sáhttá geatnegahttot goittotge máksit galledanmávssu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muilla hoidonantajilla voi olla toiset taksat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus ovttaskas vállje rabas dehe giddejuvvon divššu eará eanadikkis go gosa lea sisa-čállojuvvon ovttaskas máksá daid buohccemávssuid mat leat vuoimmis dan eanadikkis gos oažžu divššu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muilla hoidonantajilla voi olla toiset taksat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará dikšuaddiin sáhttet leahkit eará távsttat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksuehdot voivat olla täysin erilaiset, jos hoidettavalla on sairausvakuutus täysin yksityisesti tai työnantajansa kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat geas lea ollásit priváhtta dehe bargoaddi bakte lea buohccedikšundáhkádus sáhttá leahkit ollásit eará eavttut maid mávssuid galgá máksit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hoitoon, jota sairaanhoitajat antavat kunnallisessa terveyden- ja sairaanhoidossa pitkäaikaisia sairauksia sairastaville vanhuksille, sovelletaan erilaisia taksoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gielddalaš dearvvašvuođas ja buohccedivššus, mii guoská boarrásiid guhkesáigásaš buozalmasain, leat sierra távsttat divššuin maid buohccedivššár addá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin kuntien ja maakäräjien verkkosivustolla on kuntien, maakäräjien ja alueiden osoitteet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧa Gielddaid ja Eanadikkiid webbáikkis leat adreassat gielddaide, eanadiggái ja guovlluide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näillä on ajankohtaiset ja tarkat tiedot maksuista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dain lea áigeguovdilis ja dárkilis informašuvdna sin mávssuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ulkomaiden kansalaisten maksut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mávssut olgoriikka riikkavuložiidda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ulkomaiden kansalaisilla on oikeus akuuttiin hoitoon Ruotsissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olgoriikka riikkavuložiin lea riekti fáhkkadikšui Ruoŧas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>EU-maasta, ETA-maasta tai Sveitsistä olevalla on oltava eurooppalainen sairausvakuutuskortti, EU-kortti, jolla osoitetaan oikeus akuuttihoitoon tavallisten potilasmaksujen mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus boahtá nuppi EU-riikkas, EES-riikkas dehe Sveitsas galgá leahkit eurohpalaš buohccedáhkáduskoarta, EU-koarta, vai sáhttá čájehit ahte lea riekti fáhkka dikšui dábálaš buohccemávssuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos korttia ei ole, on maksettava kaikki hoitokulut itse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus ii leat dat sáhttá šaddat máksit olles dikšungolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos hoitoon hakeutuva sen sijaan haluaa muuta kuin akuuttihoitoa eikä halua maksaa enempää kuin potilasmaksun, hänellä on oltava todistus siitä, että kotimaa maksaa hoidon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus háliida oažžut divššu mii ii leat fáhkka iige hálit máksit eanet go buohccemávssu galgá leahkit duođaštus man čájeha ahte ruovtturiika máksá divššu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos todistus puuttuu, kaikki kustannukset maksetaan itse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dat váilu dalle ferte máksit olles dikšungolu ieš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmat muualta kuin EU:sta, ETA-alueelta tai Sveitsistä olevat joutuvat maksamaan kaikki hoitokulunsa itse, vaikka kyseessä olisi akuuttihoito.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eatnasat geat bohtet riikkain olggobealde EU., EES ja Sveitsa ožžot máksit olles dikšungolu ieža vaikko livččiige jearaldagas fáhkka dikšun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos ruotsalainen sairastuu ulkomailla</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus ruoŧŧelažžan skihppá olgoriikkas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eurooppalainen sairausvakuutuskortti, jonka voi tilata Vakuutuskassasta antaa Ruotsin kansalaisille oikeuden akuuttihoitoon muissa EU- ja ETA-maissa ja Sveitsissä samoilla taloudellisilla ehdoilla kuin kyseisen maan omille asukkaille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eurohpalaš buohccedáhkáduskoarta, man sáhttá diŋgot Dáhkádusgássas, addá Ruoŧa riikkavuložii rievtti fáhkka dikšui eará EU-, EES- riikkas ja Sveitsas seamma ekonomalaš eavttuiguin mat gusket riikka iežas orruid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaissa korttia ei tarvitse esittää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkain ii dárbbat čájehit koartta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tarvitaan hoitoa muissa maissa kuin EU- ja ETA-maissa tai Sveitsissä, useimmiten ei saa korvauksia kuluistaan sen enempää Ruotsista kuin siitä maasta, jossa oleskelee.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dárbbaha divššu olggobealde EU., EES ja Sveitsa sáhttá eanaš riikkain oažžut goluidis buhtaduvvot, leago Ruoŧas dehe eará riikkas gos galleda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siksi on tärkeätä, että on yksityinen matkavakuutus, joka kattaa esimerkiksi kuljetuksien kustannukset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Danin lea dehálaš ahte lea priváhta reaisodáhkádus mii gokčá goluid ovdamearkka dihte givtta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kotivakuutukseen sisältyy usein matkaturva, joka kattaa osan kustannuksista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus olbmoš lea ruovttudáhkádus láve das dábálaččat leahkit reaisosuodji mii gokčá oasi goluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vakuutuskassan verkkosivustolla on lisätietoja hoidon saamisesta ulkomailla oltaessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáhkádusgássa webbáikkis lea lasse informašuvdna divššus go lea olgoriikkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Terveyden- ja sairaanhoidon maksuille on olemassa yläraja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea leahkime rádji man olu dárbbaha máksit dearvvašvuođa- ja buohccedivššus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitä nimitetään suurkustannussuojaksi, ja se on rakenteeltaan samanlainen kaikissa maakäräjäkunnissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat gohčoduvvo allagollosuodji ja lea hábmejuvvon seamma ládje juohke eanadikkis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on voimassa myös silloin, jos hakee hoitoa muusta maakäräjäkunnasta tai muulta alueelta kuin sieltä missä asuu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat guoská maid jus ohcá divššu eará eanadikkis dehe guovllus gos ieš orru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja tarkoittaa, että kahdentoista kuukauden aikana joutuu maksamaan potilasmaksuja enintään 1100 kruunua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Allagollosuodji mearkkaša ahte olmmoš máksá 12 mánu siste 1100 ruvnna buohccemávssu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laskenta aloitetaan ensimmäisestä käynnistä katsomatta siihen, mihin aikaan vuodesta se tehdään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat rehkenasto vuosttaš galledeamis, beroškeahttá goas jagis dat dahkko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun henkilö on maksanut 1100 kruunua, hän saa vapaakortin, joka on voimassa kahdentoista kuukauden jaksosta jäljellä olevan ajan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go olmmoš lea máksán 1100 ruvnna de oažžu friddja koartta mii lea vuoimmis loahppa guoktenuppelot mánnoáigodaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun kaksitoista kuukautta on kulunut, joutuu taas maksamaan käynneistään, kunnes 1100 kruunua on täyttynyt seuraavan kerran.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go guoktenuppelot mánu leat gollan, ovttaskas álgá fas máksit dasságo olle 1100 ruvdnui boahtte hávi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja ei useimmiten kata</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Allagollosuodji ii govčča dávjjimus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>päivämaksuja, joita maksetaan oltaessa sairaalahoidossa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>mávssuid maid mii mákso beaivái go lea buohcceviesus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>rokotuksia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>boahkuhemiid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>todistuksia ja terveystarkastuksia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>duođaštusa ja dearvvašvuođadutkamiid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>muuta ehkäisevää hoitoa, kuten esimerkiksi mammografiaseulontoja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>eará eastaleaddji divššu, ovdamearkka dihte mammongráfadárkkisteami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>käyttämättä jätetyn käynnin kustannuksia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>mávssu eret báhcán galledeamis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sairauskertomuksen kopiointikuluja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>journálamáŋggus goluid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>toimitusmaksuja, jotka peritään luotolla maksamisesta tai kotiin lähetettävästä laskusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>mat váldo jus máksá kredihtain dehe oažžu rehkega sáddejuvvot ruoktot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hammashoidossa sairaanhoidon suurkustannussuoja ei useimmiten ole voimassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bátnedivššus dávjjimus ii leat vuoimmis buohccedivššu allagollosuodji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen sijaan suurkustannussuoja saattaa olla voimassa hammashoidossa, jos henkilö tarvitsee pitkän ajan paljon hoitoa päivittäisessä elämässään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan sadjái sáhttá allagollosuodji guoskat bátnedivššu jus olbmoš leat stuora ja guhkesáigásaš dárbu persovnnalaš dikšui su beaivválaš eallimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurkustannussuoja voi olla voimassa myös silloin, kun on kyseessä sairaus, jonka lääketieteelliseen hoitoon sisältyy hammashoito.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Allagollosuodji sáhttá maid leahkit vuoimmis jus olbmoš lea skibasvuohta gos bátnedikšun lea oassi medisiinnalaš dálkkodeamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kyseessä on sairaus, joka lisää hammasvaurioiden riskiä tai jos asianomaisella on vaikeuksia hoitaa suuhygieniaansa, on mahdollista saada hammashoitoa, josta peritään suurkustannussuojan piiriin kuuluva hoitomaksu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus olbmoš lea skibasvuohta mii mielddisbuktá lassánan riskka bátnevahágiidda dehe jus olbmoš lea váttisvuohta dikšut iežas njálbmehygiena sáhttá oažžut maid bátnedivššu buohccedikšomáksui mii gullo allagollosuoji vuollái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäreiden, sairaanhoitajien tai muun hoitohenkilöstön määräämien lääkkeiden osalta on voimassa suurkustannussuoja, jonka mukaan lääkkeistä joutuu maksamaan vain 2200 kruunua kahdentoista kuukauden aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálkasiidda maid doavttir, buohccedikšárat dehe eará dohkálaš divššus lea čállán, lea leahkime allagollosuodji mii mearkkaša ahte dárbbaha máksit eanemus 2200 guovttenuppelot-áigodagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tähän suurkustannussuojaan eivät sisälly ilman reseptiä myytävät lääkkeet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rešeavttakeahtes dálkasat eai gullo dán allagollosuodjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen lisäksi on olemassa suurkustannussuoja, joka koskee sairaankuljetuksia ja maakäräjien määräämiä teknisiä apuvälineitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan lassin lea leahkime allagollosuodji buohccereaissuide ja teknalaš veahkkeneavvuide mat mearriduvvo eanadikkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Säännöt voivat siis vaihdella eri maakäräjäkunnissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat mearkkaša ahte njuolggadusat soitet varieret sierra eanadikkiid gaskkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksuton terveyden- ja sairaanhoito</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máksokeahtes dearvvašvuođa – ja buohccedikšun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksuton terveyden- ja sairaanhoito</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máksokeahtes dearvvašvuođa – ja buohccedikšun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietty terveyden- ja sairaanhoito voi olla täysin maksutonta joissakin maakäräjäkunnissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihto dearvvašvuođa- ja buohccedikšun sáhttá leahkit áibbas nuvttá muhtin eanadikkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näillä hoitokäynneillä määrättävistä lääkkeistä joutuu sen sijaan maksamaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálkasiid mat čállojit dáid dikšungalledemiid áigge ferte goittotge máksit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äitiys- ja lastenneuvolakäynnit (Ruotsissa MVC ja BVC) ovat maksuttomia koko maassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Galledeamit eadnedikšun- ja mánnádikšunvuostáváldimiin (MVC ja BVC) leat nuvttá olles riikkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kouluterveydenhuollossa ei makseta käyntimaksuja ja niillä annetut rokotukset ovat maksuttomia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvladearvvašvuođadivššus ii dárbbat máksit ja boahkuheamit mat fállojuvvojit leat nuvttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmissa maakäräjäkunnissa lapset ja alle 20-vuotiaat nuoret eivät maksa terveydenhuollon avohoidoista, kuten esim. käynneistä terveyskeskuksessa ja nuorisovastaanotolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanas eanadikkiin mánát ja nuorat vuollái 20 jagi eai mávsse mangelágán mávssu rabas dearvvašvuođa- ja buohccedivššus, ovdamearkka dihte galledettiin dearvvašvuođaguovddážis ja nuoraidvuostáváldimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hoidon ja lääkkeet, joita tarvitaan tartuntatautilain mukaisissa ns. yleisvaarallisissa sairauksissa, saa maksutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dikšuma ja dálkasiid mat dárbbahuvvojit go dikšojuvvo nu gohčoduvvon almmolašváralaš skibasvuođa Njoammunsuodjelága jelgii oažžu nuvttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä terveyden- ja sairaanhoidosta joutuu maksamaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maid oažžu máksit ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>(ca 4 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117 Vårdguiden – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1177 Vårdguiden redakšuvdna ja redakšuvdnaráđđi lea heivehan, dárkkistan ja dohkkehan buot sisdoalu.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

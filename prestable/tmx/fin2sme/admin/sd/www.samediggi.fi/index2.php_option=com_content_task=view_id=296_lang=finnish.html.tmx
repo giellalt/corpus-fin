@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=296_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tekee tiehallinnolle aloitteen Nellimin tien peruskorjaamisesta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geaidnohálddahussii álgga Njellima geainnu divodeamis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ivalosta Nellimiin johtava tie tulisi peruskorjata pikimmiten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Avvilis Njellimii johtti geaidnu galggašii fárggamusat divvojuvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyisellään tie on mutkainen, huonokuntoinen ja pääosiltaan päällystämätöntä hiekkatietä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geaidnu lea mohkkái, heajos ortnegis ja stuorámus oasis sáttogeaidnu gokčasa haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tekee tiehallinnolle aloitteen Nellimin tien peruskorjauksesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi dahká geaidnohálddahussii álgaga Njellima geainnu vuđolaš divodeamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloite lähetetään tiedoksi myös Tasavallan Presidentin kansliaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álgga sáddejuvvo maiddái diehtun Dásseválddi Presidentta kansliijai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiasta päätti Nellimissä keskiviikkona 24. kesäkuuta kokoontunut saamelaiskäräjien täysistunto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššis mearridii sámedikki dievasčoahkkin, mii dollojuvvui Njellimis gaskavahku 24.6.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

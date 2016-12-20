@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=246_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo citysaamelaisesta Helgasta jonka sisko tulee käymään kylässä !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo citysápmelačča Helga birra, gean oabbá boahtá galledit su.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoen saamelainen Helga tykkää asua Helsingissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcejoga sápmelaš Helga liiko ássat Helssegis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hänen isosiskonsa Suvi taas ei ymmärrä mikä kaupungissa kiehtoo.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Su stuorraoabbá Suvi fas ii ádde mii gávpogis geasuha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sisarukset viettävät päivän pääkaupungissa rennoin ottein.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oappážat golaheaba ovtta beaivvi oaivegávpogis geahppa mielain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaiskäräjät 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámediggi 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 3,30</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 3,30</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

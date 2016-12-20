@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=206_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo saamelaisten parlamentista, Saamelaiskäräjistä !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo sämmilij parlameentâst, Sämitiggeest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tamperelainen Matti tulee Saamenmaahan ja haluaa tutustua Saamelaiskäräjien toimintaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tamperelâš Matti puátá Sáámán já haalijd uápásmuđ Sämitige tooimân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matti tapaa mm..</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Matti kuáhtáá el.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien puheenjohtajan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige saavâjođetteijee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaiskäräjät 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyevtittâs: Sämitigge 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 3,45</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 3,45</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">psa.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vïrrepryövenasse: PSABlodprov: PSA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi näyte on syytä antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje pryövenassem vadta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi näyte on syytä antaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mannasinie daarpesje pryövenassem vadta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Milloin PSA-näyte annetaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie pryövenassem PSA:en gaavhtan vadta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA on verikoe, joka kuuluu eturauhasta tutkittaessa mahdollisesti tehtäviin tutkimuksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA vïrrepryövenasse mij goerehtimmine mah tjuara darjodh gosse prostatam goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus PSA-näyte otetaan virtsatievaivojen takia, joiden lääkäri epäilee johtuvan eturauhasesta, jos esimerkiksi on tiheä virtsaamistarve ja samanaikaisesti heikko virtsasuihku.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhten aejkien PSA-pryövenassem vadta jis gadtjeåerine tjoeperdimmie mij dåaktere såvma prostateste båata, vuesiehtimmien gaavhtan jis daamhtetje tjuara gadtjedh seamma aejkien sjeapsjoeh gosse gadtjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA-näyte voidaan ottaa myös silloin, jos lääkäri tuntee eturauhasta tutkiessaan muutoksia, jotka voivat aiheuttaa monia erilaisia vaivoja ja sairauksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj PSA-pryövenassem vedtedh jis dåaktere damta naan jeatjahtehtemh prostatesne gosse dam goerehte, jeatjahtehtemh mejnie maahta tjoeperdidh jïh mestie skeamtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tärkeätä tietää, että PSA-arvon kohoaminen ei merkitse eturauhassyöpää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vihkeles daajra jis jollebe PSA-vierhtiem åådtje ij seamma goh prostatacancere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA:n lievään tai kohtalaiseen kohoamiseen on yleensä muu, vaaraton syy.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sïejhme smaave jeatjahtehtemh PSA:este båetieh jeatjah fåantojste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Samoin normaali PSA-arvo ei myöskään voi täysin sulkea pois eturauhassyöpää.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Seamma vuekine sïejhme vierhteste maahta jiehtedh ij leah prostatacancere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulokset on aina arvioitava potilaan vaivojen ja muiden tutkimusten tulosten perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Illeldahkem tjuara iktegisth vierhtiedidh destie mejnie tjoeperde jïh mah jeatjah goerehtimmieh vuesiehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kahdella tai useammalla miespuolisella sukulaisella on ollut eturauhassyöpä, syöpään sairastumisen riski on suurempi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis göökte jallh jienebh almah prostatacancerem utnieh fuelhkesne, dellie stuerebe vaahra skeamtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä tapauksessa PSA-näyte suositellaan otettavaksi joka vuosi 40–50 vuoden iästä 70 vuoden ikään asti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan gaavhtan evtede, edtja ahkedh PSA-pryövenasside vaeltedh 40-50 jaepiej raejeste 70 jaepieh raajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA-arvo mitataan myös eturauhassyövän hoidon aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA aaj möölie gosse prostatacancerem båehtjerde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos hoito auttaa, PSA-arvo laskee.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis viehkiem båehtjierdimmine dellie PSA-vierhtiem vualanidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA-näytteen edut ja haitat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aevhkieh jïh slearesh PSA-pryövenassine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA-näytettä ei oteta rutiininomaisesti miesten yleisenä terveystarkastuksena, jotta hyvin varhaiset eturauhassyövän muutokset voitaisiin havaita.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij PSA-pryövenassem vaeltieh goh sïejhme healsoevaaksjome almide sæjhta vuejnedh jis dah dan aareh hammoe prostatacancerem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä johtuu siitä, että juuri eturauhassyövän varhaisten muotojen havaitseminen ja hoito eivät aina ole etu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij iktegisth aevhkie aejhtsieh dah aareh hammoeh prostatacancerh jïh dejtie båehtjierdidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hoidoista voi olla pysyviä haittavaikutuksia, esimerkiksi impotenssi ja pidätyskyvyttömyys miehillä, joilla eturauhassyöpä ei milloinkaan olisi voinut kehittyä vakavaksi sairaudeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Båehtjierdimmijste impotensem jïh inkontinensem maehtieh almide sjïdtedh gusnie prostatacancere ij hinnh dan stoerre skaaram darjodh jïh ålvas skïemtjelassese evtiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eturauhasen syöpäkasvain voi kasvaa joko hitaasti aiheuttamatta vaivaa tai nopeasti ja levitä elimistön muihin osiin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cancerenaareme prostatesne maahta seejnelaakan sjïdtedh jïh destie ij tjoeperh jallh dïhte maahta varki sjïdtedh jïh jeatjah sijjide kråahpesne haasenidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varhaisessa vaiheessa näitä kahta syöpätyyppiä ei voi erottaa, minkä vuoksi riskinä on saada hoitoa syöpämuotoon, josta ei välttämättä olisi ilmennyt lainkaan oireita koko elinaikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Aareh deahpadimmesne ij maehtieh dejtie göökte cancerehammojde juekedh jïh vaahra dan gaavhtan aalka cancerehammoem båehtjierdidh mestie ij dan jieliedisnie tjoeperdh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monet miehet haluavat kuitenkin käydä tutkimuksessa selvittämässä, onko heillä eturauhassyöpä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïjnjh almah sijhtieh dam goerehtidh jïh sijhtieh daejrieh jis prostatacancerem utnieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen kuin päätät PSA-näytteen jättämisestä voi olla hyvä perehtyä lähemmin varhain havaitun kasvaimen hoidon etuihin ja haittoihin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åvteli nænnoste jis galka PSA-pryövenassem vedtedh, hijven daejredh jienebh båehtjierdimmien aevhkiej jïh sleari bïjre jis aalka aareh aajhtseme naarenem båehtjierdidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tämän jälkeen haluat jatkaa ja keskustella lääkärin kanssa, varaa aika omasta terveyskeskuksestasi tai työterveyshuollosta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sæjhta dan mænngan vijresåbpoe vaedtsedh jïh dåakterinie rååresjidh galka tæjmoem dængkodh hoksejarngesne jallh sïeltehealsoehoksesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikä PSA on ja missä sitä on ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij lea PSA jïh gusnie gååvnese ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA on lyhenne sanoista prostataspesifinen antigeeni.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA åeniedimmie prostataspecifikt antigen:este.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on eturauhasen tuottama proteiini, jota erittyy siemennesteen mukana siemensyöksyssä ja joka tekee siittiöistä liikkuvampia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte lea proteijne maam prostatareavsesne sjædta jïh boetje-goglenassem dåerede jïh destie spermijh jienebe svihtjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA:ta on normaalisti pieniä määriä veressäkin, ja juuri tätä pitoisuutta mitataan PSA-näytteestä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ånnetji PSA daamhtaj vïrresne gååvnesieh, jïh dam PSA-pryövenassine mïetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syövän lisäksi eturauhasessa esiintyy useita tavallisia muutoksia, joiden vuoksi veren PSA-pitoisuus voi nousta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Canceren lissine gååvnesieh jïjnjh daamhtaj jeatjahtehtemh prostastesne mejstie PSA-veaha maahta jeananidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi hyvänlaatuinen eturauhasen suurentuma tai tulehdus eli prostatiitti, voi aiheuttaa sen, että eturauhanen erittää verenkiertoon enemmän PSA:ta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan buerie prostatastueriedimmie jïh jis prostatareavsam ovleme, guktie gohtje prosatite, destie jienebh PSA-vïrrese atjkieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Iän myötä useimpien miesten veren PSA-pitoisuus nousee eturauhasen koon suuretessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaepiej mietie PSA-veahka ånnetji jeanane jeenjemes almine dan gaavhtan prostatareavsa stuerede gosse båarasåbpoe sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin osa veren PSA:sta on sitoutunut erilaisiin proteiineihin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Stööremes veahka PSA vïrresne lea ovmessie proteineridie tjatneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veressä on kuitenkin hieman myös vapaata, sitoutumatonta PSA:ta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte gååvnese aaj onne veahka frijjes, ov-tjatneme PSA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun PSA:n kohtalaisen kohoamisen syy on jokin muu kuin syöpä, vapaata PSA:ta on veressä enemmän.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse jeatjah sjïekh goh cancere PSA-stueriedimmien duekesne, pråvhka jienebe frijjes PSA:em vïrresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siksi se antaa lääkärille tietynlaista osviittaa mitata sitoutuneen ja vapaan PSA:n suhde.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan gaavhtan maahta dam dåaktererasse naaken bïhkedimmiem vedtedh gosse mööledh jïh tjatnemidie jïh ov-tjatneme PSA:idie sjïehteladtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuinka näyte otetaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie pryövenassem vaalta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte otetaan käsivarresta ohuella neulalla, joka pistetään verisuoneen, laskimoon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassem gïeteste vaalta viehkine sigkies naaloe maam vïrreåaran, venese, baska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämäntyyppistä verikoetta nimitetään laskimoverikokeeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dannasinie dam vïrrepryövenassem gohtje, venöse pryövenasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte voidaan ottaa mihin vuorokauden aikaan hyvänsä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassem maahta gåessŠakt dygnesne vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen näytteen ottamista on istuttava 15 minuutin ajan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Galka 15 minudth tjahkasjidh åvteli pryövenassem vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muuten ei tarvitse valmistautua mitenkään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij naan jeatjah ryöjredimmieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos eturauhaseen tehdään kirurgisia toimenpiteitä, PSA-arvo kohoaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis kirurgijen darjomem dorje prostatesne dellie PSA-vierhtie jeanene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin on odotettava vähintään 10 päivää, ennen kuin PSA-näytettä kannattaa ottaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åådtje dellie vaenemes 10 biejjieh vuertedh åvteli PSA-pryövenassem vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA-arvo ei kohoa, jos lääkäri pelkästään tunnustelee eturauhasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere barre prostatam doehtede dellie ij PSA-vierhtiem tsevtsieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vastaukset tulevat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie vaestiedassem åådtje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte lähetetään sairaalan laboratorioon tutkimuksia varten.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassem skïemtjegåetien laboratorijumese seedtie gusnie dam analyseeredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit sopia lääkärin kanssa, milloin ja miten haluat tietää tutkimustulokset.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta sov dåakterem seamadamme gåessie jïh guktie galka illeldahkem pryövenasseste åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri saa laboratoriovastaukset 1–2 päivän kuluessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere pråvhka vaestiedassem laboratorijumeste åådtje tïjjemieresne, akte jallh göökte biejjieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuinka tutkimustuloksia tulkitaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie pryövenassen vaestiedassem toelhkedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulokset on aina arvioitava potilaan vaivojen ja muiden tutkimusten tulosten perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Illeldahkem tjuara iktegisth vierhtiedidh destie mejnie tjoeperde jïh mah jeatjah goerehtimmieh vuesiehtieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veren PSA-arvo on erilainen eri miehillä, myös niillä, joilla ei ole eturauhasvaivoja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>PSA-vierhtie vïrresne ovmessie almaj gaskem jeatjahtehtedh, aaj almaj gaskem gïeh eah prostatine tjoeperdh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jotta lääkärillä olisi jokin vertailukohde tutkimustulosten arvioinnissa, käytetään apuna ns. viitearvoja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere edtja maehtedh mejnie akt mohtedidh dellie pråvhka maam gohtje referensevierhtie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PSA:n osalta kohonneeksi arvoksi voidaan laskea yli kolme mikrogrammaa litralta (3 μg / l).</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis PSA-vierhtie jollebe 3 mikrogramh lïjhterisnie dellie jeanane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mistä korkeat arvot voivat johtua ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jolle vierhtieh, mestie dah båetieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Noin yhdellä kymmenestä keski-ikäisestä miehestä PSA-arvo on koholla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Medtie akte luhkeste almah åådtje jollebe PSA-vierhtiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleinen syy lievästi kohonneisiin arvoihin on hyvänlaatuinen eturauhasen suurentuma.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhts sjïeke ånnetji jeananamme vierhtide lea buerie prostatastueriedimmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arvot voivat olla koholla myös eturauhastulehduksen, ns. kroonisen prostatiitin vuoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeananamme vierhtieh maahta aaj åadtjodh jis lea prostatam ovleme, guktie gohtje kronijen prostatite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavallinen virtsatietulehduskin voi nostaa PSA-arvoa tilapäisesti, mutta voimakkaasti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhts gadtjeåerieovleme maahta jollebe PSA:em vedtedh, mohte ij dan guhkiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos asianomainen ei kykene virtsaamaan ja tyhjentämään virtsarakkoaan, PSA-arvo voi myös kohota tilapäisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis naan sjïekeste ij maehtieh gadtjedh jallh gadtjeboejem eensilaakan döömedh, maahta aaj boelhkem jollebe PSA-vierhtiem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on vaikea tyhjentää rakko ja sinne jää jatkuvasti runsaasti virtsaa, puhutaan virtsaummesta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåeriesmoere gadtjeboejem döömie guktie gadtje aajmene boejesne dam gohtje sveerjengïelesne urinstämma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohonneet arvot voivat johtua myös eturauhassyövästä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jollebe vierhtieh aaj prostatacanceristie båetieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niistä, joilla PSA-arvo on koholla, syöpä löydetään noin kolmannekselta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejstie giej jollebe PSA medtie gåalmehts cancerem gaavna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vapaan ja sitoutuneen PSA:n suhde voi antaa lääkärille tiettyä osviittaa hyvänlaatuisten eturauhasvaivojen erottamiseksi eturauhassyövästä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie lea frijjes jïh tjatneme PSA:i gaskem maahta dåakterasse naaken bïhkedimmiem vedtedh gosse edtja juekedh buerie prostatatjoeperdimmide jïh prostatacancerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niistä, jotka käyvät monen vuoden aikana useita kertoja testeissä, noin yhdellä neljästä on sellainen PSA-arvo, jonka perusteella on aihetta tehdä lisätutkimuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dejstie gïeh goerehtamme jïjnjh aejkieh jaepiej tjïrrh, medtie akte njealjiste PSA-vierhtiem åtna maam tjuara lïhkebe goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos PSA-arvo on korkea, lääkäri tekee yleensä ultraäänitutkimuksen ja ottaa eturauhasesta näytteen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis PSA-pryövenasse vuesehte jolle vierhtiem, dellie dåaktere pråvhka aktem vielie goerehtimmiem darjodh ultratjoejine jïh pryövenassem vaeltedh prostatareavseste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lääkäri havaitsee syövän, se voidaan hoitaa leikkauksella, sädehoidolla tai hormonihoidolla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis dåaktere cancerem aajhtsa maahta dam båehtjierdidh operasjovnine, gadtjijinie jallh hormonebåehtjierdimmine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mistä matalat arvot voivat johtua ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuelebe vierhtieh, mestie dah båetieh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matalat arvot puhuvat eturauhassyöpää vastaan, vaikka sitä ei täysin varmasti voida sulkea pois pelkän PSA-näytteen perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuelebe vierhtieh jeahta ij prostatacancerem, jïlhts barre PSA-pryövenasse maahta dam vaestiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos eturauhanen poistetaan leikkauksella, PSA-arvo laskee tuskin mitattavissa olevalle tasolle.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis prostatam operasjovnine laahpehti dellie PSA-vierhtie vualanidh guktie mahte ij maehtieh dam mööledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matalaa PSA-arvoa voidaan siis käyttää mittana sille, että leikkaus on tehonnut hyvin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuelebe PSA-vierhtie maahta aaj mööleminie utnedh jis operasjovne hijven effekte åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös kahdessa muussa hoitomuodossa, sädehoidossa ja hormonihoidossa, alentunut PSA-arvo on yleensä merkki siitä, että hoito on tehonnut hyvin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dej göökte jeatjah båehtjierdimmievuekine, gadtjijh jïh hormonebåehtjierdimmie, pruvhkieh vuelebe PSA-vierhtie buerie væhta årrodh båehtjierdimmiem jåhta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laatinut: Martin Enander, lääkäri, yleislääketieteen spesialisti, Sundsvall</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tjaelije: Martin Enander, dåaktere, spesialiste sïejhmemedicijnisnie, Saedtievaellie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117. se – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh sisvegisnie lea barkeme, goerehtamme jïh dååhkesjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

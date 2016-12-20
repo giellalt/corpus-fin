@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=274_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautuminen Saamelaisnuorten taidetapahtumaan alkanut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhanáigi Sámenuoraid dáiddadáhpáhussii álgán</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautuminen Vuotsossa maaliskuun 26. päivänä järjestettävään Saamelaisnuorten taidetapahtumaan on alkanut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhanáigi Sámenuoraid dáiddadáhpáhussii, mii ordnejuvvo Vuohčus njukčamánu 26. beaivve, lea álgán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapahtuman teemoina ovat teatteri ja lyhytelokuva.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáhpáhusa temán leat teáhter ja oanehisfilbma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautuminen teatterikilpailuun päättyy 2.3. ja elokuvafestivaaliin 13.3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhanáigi teáhtergilvui nohká 2.3. ja filbmafestiválii 13.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkempia tietoja ilmoittautumisesta tästä:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dárkilut dieđut dáhpáhussii almmuheamis dás:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taidetapahtuman 2009 säännöt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáiddadáhpáhusa 2009 njuolggadusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautuminen _koltansaame_2009</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuheamit_2009</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

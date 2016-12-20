@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=100_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Latnjavárremiid ja gáffefállama ordnemiid dihte bivdit du / din almmuhit oassálastimis 15.4. rádjái čujuhussii: Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi sávvá didjiide buresboahtima Anárii 17.4.2008 seminárii, mii gieđahallá ILO soahpámuša nr 169 ratifiereneavttuid, sápmelaččaid eanavuoigatvuohtagažaldagaid ja guovlohálddahusođasmahttima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>dahje telefonaian: 016-665 011.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Programma gávdno dán liŋkkas.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

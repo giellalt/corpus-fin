@@ -1,0 +1,752 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">klemetti.25.01-2.15_fin.txt.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset vs. kansanedustajien Lappi ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččat vs. riikkabeaiveovddasteddjiid Sápmi ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uudenvuodenlupaukseni päivittää blogia useammin on ainakin alkamassa hyvin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđajagilohpádussan beaivádit blogga dávjjibut lea aŋkke álgime bures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tähän blogiin kasautuu viimeaikaisten esillä olleiden asioiden johdosta myös ennen joulua tapahtuneita asioita, joita on välttämätöntä kommentoida viimeaikaisten tapahtumien johdosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán bloggai čoahkkanit maiddái maŋimus áiggiid ovdan leamaš áššiid dihte ovdalaš juovllaid dáhpáhuvvan áššit, maid lea vealtameahttun kommenteret dáid maŋimus áiggiid dáhpáhusaid dihte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Entisen kansanedustajan, Esko-Juhani Tennilän, kirjoitus ILO 169-sopimuksesta ja Lapin kansanedustajista on noussut keskusteluun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovddeš riikkabeaiveáirasa, Esko-Juhani Tennilä, čálus ILO 169-soahpamušas ja davimus Suoma riikkabeaiveáirasiin lea loktanan ságastallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tennilän mukaan Lapin kansanedustajat eivät kannata sopimuksen ratifiointia, koska saamelaisten äänillä ei pääse eduskuntaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tennilä mielde Lappi riikkabeaiveáirasat eai guottit soahpamuša ratifiserema, daningo sápmelaččaid jienaiguin ii beasa riikkabeivviide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäisen kauden kansanedustajat Lohi ja Autto närkästyivät Tennilän kirjoituksesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš baji riikkabeaiveáirasat Lohi ja Autto eattuiga Tennilä čállosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lohi ja Autto hakevat jatkokautta eduskuntaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lohi ja Autto ohcaba joatkkabaji riikkabeivviide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastakkainasettelu lappilaisten ja saamelaisten välille nostettiin taas esille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuostálagaid ásaheapmi lappilaččaid ja sápmelaččaid gaskii loktejuvvui fas ovdan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viime saamelaiskäräjien vaalien yhteydessä kerätyn tilaston mukaan saamelaisten kotiseutualueella, saamenmaalla, asui täysi-ikäisiä saamelaisia n. 2400.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mannan sámedikki válggaid olis čoggojun statistihka mielde sápmelaččaid ruovttuguovllus, Sámis, orro dievasahkásaš sápmelaččat s. 2400.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko Lapissa saamelaisia on ehkä noin 3000.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oba Lappis sápmelaččat soitet leat sulaid 3000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viime vaaleissa pienimmällä äänimäärällä Lapista valittu kansanedustaja sai hieman yli 3000 ääntä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mannan válggain unnimus jietnameriin Lappis válljejuvvon riikkabeaiveáirras oaččui badjelaš 3000 jiena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualueella äänioikeutettuja on n. 10 000.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovllus jietnaválddálaččat leat sulaid 10 000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapin vaalipiirissä äänioikeutettuja on yli 160 000.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lappi válgabiirres leat badjelaš 160 000 jietnaválddálaš olbmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matematiikka on aika selvä ja tukee Tennilän kirjoitusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Matematihkka lea oalle čielggas ja dat doarju Tennilä čállosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvin erikoista on kuitenkin se, että miten saamelaisten oikeuksista ja oikeuksien kehittämisen vastuksesta on noussut niin keskeinen osa Lapin kansanedustajien toimintaa ja julkista esiintymistä, vaikka asia koskettaa loppujen lopuksi rajattua maantieteellistä aluetta ja vain osaa Lapin vaalipiiriä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hui ártet lea goitge dat, ahte manin sápmelaččaid vuoigatvuođain ja vuoigatvuođaid ovddideami vuostálastimis lea šaddan Lappi riikkabeaiveáirasiid doaimma ja almmolaš meannudeami nu guovddáš oassi, vaikko ášši guoskkaha loahpaloahpas ráddjejuvvon geográfalaš guovllu ja dušše Lappi válgabiirre dihto oasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuri osa Lapin kansanedustajien yhteisistä kirjoituksista ja kannanotoista koskee nimenlomaa saamelaisia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuora oassi Lappi riikkabeaiveáirasiid oktasaš čállosiin ja oainnuin guoská namalassii sápmelaččaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Herääkin kysymys, että onko saamelaisasiat ylikorostuneet Lapin kansanedustajien julkisissa esiintymisissä ottaen huomioon Lapin vaalipirin laajuuden.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bohciidanai gažaldat, leatgo sápmelaš áššit ožžon badjelmeare deattu Lappi riikkabeaiveáirasiid oidnosii boahtimiin go váldá vuhtii Lappi válgabiirre viidodaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkittua tietoa asiasta ei ole, mutta vaalikentillä kiertäneenä käsitykseni on, että suurinta osaa äänestäjistä kiinnostavat Lapissa aivan muut asiat kuin saamelaisasiat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dutkojun diehtu áššis ii leat, muhto go lean johtán válgagittiin, de mu ipmárdus lea, ahte jienasteddjiid beroštahttet Davvi-Suomas aivve eará áššit go sámi áššit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aliarvioivatko Lapin kansanedustajat lappilaisia äänestäjiä ja heidän näkemyksiään perus- ja ihmisoikeuksista ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leatgo Lappi riikkabeaiveáirasat duođaidge jienasteddjiid áššiid vuodjime ja hejošitgo dat jienasteddjiid ja sin olmmošriekteipmárdusaid ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uskallan väittää, että suurelle osalle äänestäjistä saamelaisten oikeuksien parantamisella ei ole mitään merkitystä, osa haluaa että asia ratkaistaisiin pian ja osa kannattaa oikeusaseman kehittämistä – ja pieni osa vastustaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duosttan juobe nágget, ahte eatnasiidda jienasteddjiin sámi vuoigatvuođaid buorideamis ii leat mihkkege mearkkašumiid, oassi háliida ášši čovdojuvvot fargga, muhtin oassi guottiha riektesajádaga buorideami – ja unna oasáš vuostálastá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elämmekö edelleen siinä karvalakkilähetystöjen yhteiskunnassa ja annammeko lehtikirjoitusten ja sosiaalisen median paineen määrätä meitä ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eallitgo ain bealljosgahpersáttagottiid servodagas ja additgo aviisačállosiid ja sosiála media deattu mearridit min ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos edellä mainittujen lähteiden perusteella muodostaa poliittisen näkemyksensä, siitä voi tulla skitsofreninen eikä sillä ole välttämättä mitään yhtymäkohtaan siihen elämään, missä äänestäjät elävät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos ovddabealde namuhuvvon gálduid vuođul hábme politihkalaš oainnus, das sáhttá šaddat skitsofrenalaš, iige das leat vealtakeahttá mihkkege guoskkahansajiid dan eallimii, mas jienasteaddjit ellet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisasiat nousevat esille vaalikamppailussa, eduskunnassa ja Lapissa, koska niin Lapin kansanedustajat kuin osa Lapin medioistakin nostaa niitä esille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi áššit badjánit ovdan válgagiccus, riikkabeivviid olis ja davimus Suomas, daningo Lappi riikkabeaiveáirasat ja oassi Davvi-Suoma mediain čalmmustahttet daid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tästä muodostuu kierre, joka tuntuu olevan melkein ikiliikkuja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Das šaddá jorribotnji, mii orru leame measta juo álotjohtti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luulen, että suuri osa äänestäjistä haluaisi, että jatkossa Lapin kansanedustajat ajaisivat kaikkien lappilaisten asiaa ja oikeuksia asiakysymyksiin keskittyen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jáhkán, ahte eanas jienasteddjiin háliidivčče, ahte boahtteáigge davimus Suoma riikkabeaiveáirasat ovddidivčče buot davvisuopmelaš áššiid ja vuoigatvuođaid nu ahte sii vuojulduvvet áššegažaldagaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastakkainasettelu lappilaisten ja saamelaisten välille ei edistä Lapin, ei saamelaisten eikä eduskunnan asemaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lappilaččaid ja sápmelaččaid ásaheapmi vuostálagaid ii ovddit davimus Suoma, ii sápmelaččaid iige riikkabeivviid sajádaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on johdonmukaisesti linjannut, että saamelaisten oikeuksien edistäminen ei ole keneltäkään Lapin asukkaalta pois eikä heikennä heidän oikeuksiaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea jearggalaččat linnjen, ahte sápmelaččaid vuoigatvuođaid ovddideapmi ii váldde geasge Lappi guovllu orrus maidege eret iige dat heajut sin vuoigatvuođaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitettavasti saamelaiskäräjien käsitys ei ole päässyt julkisuuteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dađi bahábut Sámedikki oaidnu ii leat beassan almmolašvuhtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päinvastoin - edelleen halutaan luoda tietoisesti vastakkainasettelua saamelaisten ja valtaväestön välille ja että saamelaisten oikeuksien edistäminen olisi muilta pois.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuppe gežiid - ain háliiduvvo duddjojuvvot vásedin govva, ahte sápmelaččat ja váldoálbmot livcce gaccalagaid juohke áššis ja ahte sápmelaččaid vuoigatvuođaid ovddideapmi doalvvulii earáin juoidá eret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ajatustapa on surullinen, vanhanaikainen ja ylläpitää mielikuvaa etnisten ryhmien välisestä ristiriidoista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jurddahanvuohki lea morašlaš, dološáigásaš ja doalaha miellagova etnihkalaš joavkkuid gaskavuođa soahpameahttunvuođain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olin ajatellut, että saamelaiskäräjien päätös hyväksyä selitys ILO 169-sopimuksen artiklasta 14, joka oli vastoin aikaisempia saamelaiskäräjien päätöksiä, olisi rauhoittanut tilannetta ja saanut myös Lapin kansanedustajat ja muut tahot tulemaan saamelaisia vastaan samoin kuin saamelaiset tulivat viranomaisia ja Suomen valtiota vastaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ledjen jurddahallan, ahte sámedikki mearrádus dohkkehit čilgehusa ILO 169-soahpamuša artihkkalis 14, mii lei vuostá ovddit sámedikki mearrádusaid, livččii ráfohan dili ja ožžon maid Lappi riikkabeaiveáirasiid ja eará beliid boahtit sápmelaččaid ovddal seamma ládje go sápmelaččat bohte eiseválddiid ja Suoma stáhta ovddal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toiveeni vaikuttaa turhalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mu sávaldat ii oro šaddame duohtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitkään saamelaiskäräjien tekemät kädenojennukset sille, että voisimme luoda yhdessä uutta ja parantaa nykyistä tilannetta, eivät kaikille tahoille – kuten Lapin kansanedustajille kelpaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eai matge sámedikki dahkan gieđageigemiid dasa, ahte sáhtáleimmet duddjot ovttas ođđasa ja buoridit dálá dili, eai buot beliide – dego Lappi riikkabeaiveovddasteddjiide, dohkke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on tehnyt suuria kompromisseja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea dahkan stuora kompromissaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksei samaa odoteta muilta ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Manne dán seamma ii galgga vuordit earáin ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansanedustajat Autto ja Lohi loukkaantuivat Tennilän kolumnista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nu, riikkabeaiveáirasat Autto ja Lohi loavkahuvvaba Tennilä kolumnnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pidän Tennilän kirjoitusta hyvin perusteellisena ja asiantuntevana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anán Tennilä čállosa hui bures ákkastallon ja áššedovdamušain čállojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auton ja Lohen vastauksissa nousi esille hyvin mielenkiintoisia asioita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Autto ja Lohi vástádusas badjáne ovdan hui miellagiddevaš áššit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansanedustajien Autton ja Lohen mukaan saamelaiskäräjillä ei ole legitemiteettiä edustaa kaikkia saamelaisia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkabeaiveáirasiid Autto ja Lohi mielde Sámedikkis ii leat legimiteahtta ovddastit buot sápmelaččaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keitä saamelaiskäräjät sitten edustaa ja mikä taho edustaa näitä ” muita saamelaisia ” ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geaid sámediggi dasto ovddasta ja mii beliid ovddasta dáid ” eará sápmelaččaid ” ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapin kansanedustajatko ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lappi riikkabeaiveáirasatgo ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten alkuperäiskansa-asemasta ja saamelaisesta kulttuuri-itsehallinnosta säädetään perustuslaissa ja tarkemmin saamelaiskäräjälaissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččaid álgoálbmotsajádagas ja sámi kulturiešstivrejumis mearriduvvo vuođđolágas ja dárkileappot sámediggelágas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansanedustajilla on sananvapaus, mutta perustuslain mukaan kansanedustajien on noudatettava perustuslakia ja muita säädettyjä lakeja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkabeaiveáirasiin lea sátnefriddjavuohta, muhto vuođđolága mielde riikkabeaiveáirasat galget doahttalit vuođđolága ja eará ásahuvvon lágaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslain kiistäminen, vieläpä perustuslakivaliokunnan jäseneltä on painava kannanotto, jota ei voi tulkita yksittäiseksi heitoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđolága šiitin, earenoamážit vuođđoláhkaváljagotti lahtus lea vuoimmálaš beali váldin, man ii sáhte dulkot ovttaskas bállahastimin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslakivaliokunnan jäsen Lohi perustelee kannanottoaan asemallaan Lapin kansanedustajana ja asemoi itsensä saamelaiskulttuurin asiantuntijaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoláhkaváljagotti lahttu Lohi ákkastallá oainnus sajádagainis Lappi riikkabeaiveáirasin ja sajusta iežas sámi kultuvrra áššedovdin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tässä retoriikassa maantieteellinen kotipaikkansa johdosta Lapin kansanedustajien puheenvuoroilla ja näkemyksillä tulee olla suurempi painoarvo kuin muiden kansanedustajien, valtioneuvoston tai saamelaiskäräjien näkemyksillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán retorihkas geográfalaš ruovttubáikkiset vuođul Lappi riikkabeaiveáirasiid sáhkavuoruin ja oainnuin galgá leat stuorit deaddoárvu go eará riikkabeaiveáirasiid, stáhtaráđi dehe sámedikki oainnuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaisilla väitteillä luodaan tietoisesti ja tahallaan mielikuvaa saamen kansan yhtenäisyyden heikkenemisestä, luodaan todellisuuteen perustumattomia ristiriitoja saamelaisryhmien välille ja halutaan hajottaa saamen kansaa heikentämällä tietoisesti saamelaisen kulttuuri-itsehallinnon asemaa ja yhteneväisyyttä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár čuoččuhusaiguin duddjojuvvo diđolaččat ja vásedin miellagova sámi álbmoga ovttamielalašvuođa hedjoneamis, duddjojuvvojit duođalašvuhtii gullameahttun soahpameahttunvuođat sápmelaš joavkkuid gaskii ja háliiduvvo háddjejuvvot sámi álbmot nu ahte diđolaččat geahnohuhttojuvvo sámi kulturiešstivrema sajádat ja oktilašvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auton ja Lohen vastineessa todetaan, että Lapin kansanedustajat ovat kuin ovatkin edistäneet saamelaisten asemaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Autto ja Lohi vástádusas daddjojuvvo, ahte Lappi riikkabeaiveáirasat leat - birzzit bárzzit - ovddidan sápmelaččaid dili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Omien näkemystensä mukaan he ovat tukeneet kielipesien lisäämistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iežaset oainnuid mielde sii leat dorjon giellabesiid lasiheami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesät ovat tärkeitä, mutta niiden tukeminen onkin poliittisesti helppoa, kielipesärahoitus menee kunnille ja palvelun tuottajille eikä rahasumma ole kovin suuri.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellabeasit leat dehálaččat, muhto daid doarjun lea politihkalaččat álki, giellabeasseruhtadeapmi manná suohkaniidda ja bálvalusaid buvttadeddjiide iige ruhtasubmi lea beare stuoris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Analoginen edistysaskel Lapin kansanedustajien retoriikassa lienee se, että kun saamelaiskäräjillä ei ole heidän mielestään legimiteettiä edustaa saamelaisia, niin kielipesien hoitaminen siirretään kunnille ja muille toimijoille kuin saamelaiskäräjille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Analogalaš ovdánanlávki Lappi riikkabeaiveáirasiid retorihkas leš dat, ahte go sámedikkis ii leat sin mielas legimiteahtta ovddastit sápmelaččaid, de giellabesiid dikšun sirdojuvvo suohkaniidda ja eará doibmiide go sámediggái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesien tarpeesta on laaja poliittinen yksimielisyys.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellabesiid dárbbus lea viiddes politihkalaš ovttamielalašvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesistä on valtioneuvoston päätös osana saamen kielten elvytysohjelmaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellabesiin lea stáhtaráđi mearrádus sámegielaid ealáskahttinprográmma oassin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Autton ja Lohen pohdiskelusta voi vetää sen johtopäätöksen, että kun saamelaisten oikeuksien edistäminen on vain saamelaislasten kielten elvyttämistä, saamelaiset ovat tässä katsontakannassa vain kielellinen vähemmistö.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Autto ja Lohi guorahallamušas sáhttá dahkat dan jurddabohtosa, ahte go sápmelaččaid vuoigatvuođaid ovddideapmi máksá dušše sámi mánáid gielaid ealáskahttima, de sápmelaččat leat dán oaidninvuogi mielde dušše gielalaš vehádat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesät ovat todella tärkeitä saamen kielen elvyttämiseksi, mutta samanaikaisesti meillä on laaja joukko äidinkieleltään saamea puhuvia lapsia, jotka eivät pääse saamenkieliseen päivähoitoon tai opetukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellabeasit leat duođaid dehálaččat sámegielaid ealáskahttima várás, muhto oktanaga mis leat hui stuora joavku eatnigiellanis sámegiela hubmi mánát, geat eai beasa sámegielalaš beaivedikšui dehe oahpahussii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos saamen kieli halutaan säilyttää elävänä äidinkielenä, pelkkä kielipesätoiminnan tukeminen ei siihen riitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos sámegiella háliiduvvo seailluhuvvot ealli eatnigiellan, de duššefal giellabeassedoaimma doarjun ii leat dasa nohkka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen odottanut Lapin kansanedustajien esiintuloa myös saamelaisten perinteisten elinkeinojen oikeuksien edistämistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean vuordán Lappi riikkabeaiveáirasiid oidnosii boahtima maid sápmelaččaid árbevirolaš ealáhusaid vuoigatvuođaid ovddideamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se taitaa olla kuitenkin poliittisesti liian arka aihe.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat dáidá leat goitge politihkalaččat liiggás hearkkes fáddá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen seurannut nyt seitsemän vuoden ajan valiokuntatyöskentelyä ja ollut hyvin erilaisissa kuulemisessa, saanut vastata mitä kummallisimpiin väitteisiin ja kysymyksiin ja kuullut että valiokuntatyöskentelyssä on jopa esitelty minun etnistä sukuhistoriaani.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean čuvvon dál čieža jagi váljagoddebargama ja lean leamaš hui sierralágán gullamiin, lean šaddan vástidit mađi ártegeabbo čuoččuhusaide ja gažaldagaide ja lean gullan ahte váljagoddebargamis lea čájehuvvon juobe mu etnihkalaš sohkahistorjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloittaessani tehtävääni saamelaiskäräjien presidenttinä olin sinisilmäinen ja kuvittelin perustuslakivaliokunnan olevan päivänpolitiikan ulkopuolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álggahettiin bargon sámedikki presideantan ledjen alitčalmmat ja govahallen vuođđoláhkaváljagotti leat beaivválaš politihka olggobealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ajatus on nyt seitsemän vuoden jälkeen naiivi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jurdda lea dál čieža jagi geahčen naiiva - mánnálaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valiokunnassa näkyvät poliittiset tavoitteet, omat äänestäjät ja pyrkimykset aivan samalla tavalla kuin eduskunnassakin tai missä tahansa poliittisessa elimessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váljagottis vuhttojit politihkalaš ulbmilat, iežaset jienasteaddjit ja viggamušat aivve seamma ládje go riikkabeivviidnai olis dehe man beare politihkalaš orgánas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslakivaliokunta on Suomen ylin perustuslain tulkintaelin ja käyttää hyvin merkittävää valtaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoláhkaváljagoddi lea Suoma alimus vuođđolága dulkonorgána ja geavaha hui mávssolaš válddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa on aika ajoin keskusteltu siitä, että Suomessa tulisi ottaa käyttöön perustuslakituomioistuin, joka olisi irrallinen päivänpolitiikasta ja joka tutkisi asioita vain juridiikan kannalta ottamatta huomioon puoluepolitiikkaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas lea gaskkohagaid ságastallojuvvon das, ahte Suopma galggalii váldit atnui vuođđoláhkaduopmostuolu, mii livččii sierra beaivvi politihkas ja mii dutkkalii áššiid juridihka dáfus iige váldde vuhtii bellodatpolitihka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslakivaliokunta joutuu luottamaan kuulemaansa, ja tällöin kuultaviksi tahoiksi valituilla tahoilla on merkittävä vaikutus valiokunnan kantaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoláhkaváljagoddi šaddá luohttit dasa, maid gullá, ja dalle gullamii bovdejuvvon beliin lea mearkkašahtti váikkuhus váljagotti oidnui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuultavia tahoja ei valita avoimesti ja esimerkiksi saamelaisten oikeuksista on kuultu niin viranomaisia, yksityishenkilöitä kuin yhdistyksiäkin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gullamii bovdejuvvon bealit eai válljejuvvo rahpasit ja ovdamearkka dihte sámiid vuoigatvuođain váljagoddi lea gullan eiseválddiid, priváhtaolbmuid nugo servviid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtiolainsäädäntöoikeuden professori Tuomas Ojanen ja saman alan dosentti Juha Lavapuro ovatkin kirjoittaneet perustuslakivaliokunnasta vuonna 2013, että “ valiokunta on kuitenkin kokoonpantu poliittisten voimasuhteiden mukaan kansanedustajista ja on ylipäätään eduskunnan toimielin, jonka päätöksenteon riippumattomuudesta ei ole mitään oikeudellisia takeita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtaláhkaásahanrievtti professor Tuomas Ojanen ja seamma suorggi doseanta Juha Lavapuro leabanai čállán vuođđoláhkaváljagottis jagi 2013, ahte ” váljagoddi lea goitge čohkkejuvvon politihkalaš vuoibmagaskavuođaid mielde riikkabeaiveáirasiin ja lea oppalohkái riikkabeivviid doaibmaorgána, man mearrádusdahkama sorjjasmeahttunvuođas ii leat mihkkege juridihkalaš dáhkádusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansainvälisesti valiokunta näyttäytyy lähinnä kummajaisena, jonka toiminnassa on monia perustuslakikysymysten asianmukaisen ratkaisun ja perustuslakivalvonnan uskottavuuden kannalta ongelmallisia piirteitä. ”</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkaidgaskasaččat váljagoddi čájeha iežas gummálažžan, man barggus leat máŋggat vuođđoláhkagažaldagaid áššáigullevaš čovdosa ja vuođđoláhkaváljagotti jáhkehahttivuođa dáfus problemáhtalaš iešvuođat. ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslakivaliokunta käsittelee kaikki saamelaisten oikeuksia käsitteleviä lakeja ja on saamelaiskäräjille hyvin tärkeä valiokunta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđoláhkaváljagoddi gieđahallá buot lágaid, mat gieđahallet sápmelaččaid vuoigatvuođaid, ja lea danin sámediggái hui dehálaš váljagoddi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On kuitenkin syytä pohtia, tulisiko perustuslainmukaisuuden valvonta järjestää nykyistä irrallisemmin puoluepolitiikasta ja selvittää muitakin vaihtoehtoja, kuten perustuslakituomioistuimen perustamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gánnáha goitge suokkardit, galggaliigo vuođđolága lágalašvuođa bearráigeahčču sirrejuvvot dáláža čielgaseappot bellodatpolitihkas ja čielggadit earánai molssaeavttuid, dego vuođđoláhkaduopmostuolu vuođđudeami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa myllätään niin kunta- ja aluehallintoa kuin oikeuslaitostakin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomashan moivejuvvo suohkan- ja guovlohálddahus nugo riektelágádus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pitäisikö uudistustyötä jatkaa myös perustuslainmukaisuuden valvonnan osalta ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Galggaliigo ođasnuhttinbargu jotkojuvvot maiddái vuođđolágálašvuođa bearráigeahču buohta ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapin kansanedustajat ovat kunnostautuneet muidenkin ulostulojen merkeissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lappi riikkabeaiveáirasat leat muđuidge goargguhan iežaset oidnosii boahtimiin ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapin Kansa uutisoi ennen joulua että kansanedustaja Eeva-Maija Maijala aikoo hakeutua saamelaiskäräjiin vaaliluetteloon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lapin Kansa čálii ovdalaš juovllaid ahte riikkabeaiveáirras Eeva-Maria Maijala ohcališgoahta sámedikki válgalogahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokaisella itsensä saamelaiseksi kokevalla on oikeus hakuetua saamelaiskäräjien vaaliluetteloon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juohkeovttas gii dovdá iežas sápmelažžan lea vuoigatvuohta ohcalit sámedikki válgalogahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän hakeutumisen tekee juridisesti ja poliittisesti mielenkiintoiseksi sen, että Maijala on uutisoinut hakeutumisensa näyttävästi todeten samalla vastustavansa saamelaiskäräjälain uudistamista erityisesti saamelaismääritelmän osalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán ohcaleami dahká juridihkalaččat ja politihkalaččat miellagiddevažžan dat, ahte Maijala lea hálidan dahkat ohcaleamis oinnolaš ođđasa ja lea seammas cealkán iežas vuostálastit sámediggelága ođasnuhttima earenoamážit sápmelaš meroštallama dihte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hän on viime kädessä päättämässä eduskunnassa hyväksytäänkö uusi saamelaiskäräjälaki ja saamelaismääritelmä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sonhan lea ieš mearrideame riikkabeivviid olis dohkkehuvvogo ođđa sámediggeláhka ja sápmelašmeroštallan ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On hyvin surullista, että saamelaiskäräjien vaaliluetteloon hakeutumista halutaan käyttää poliittisen julkisuuden hakemiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea hui morašlaš, ahte sámedikki válgalogahallamii ohcaleapmi háliiduvvo adnojuvvot politihkalaš beaggima ohcamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi hän ei voi tehdä hakemusta ilman mediakampanjaa ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Manin son ii sáhte dahkat ohcamuša almmá mediakampánnja haga ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudellisesti tämä on erikoinen kysymys, koska Suomessa on vallan kolmijako-oppi ja Korkein hallinto-oikeus päättää viime kädessä siitä, kuka pääsee saamelaiskäräjien vaaliluetteloon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juridihkalaččat dát lea earenoamáš gažaldat, daningo Suomas lea válddi golmmajuohkooahppa ja Alimus hálddahusriekti mearrida loahpalaččat das, gii beassá sámedikki válgalogahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska Maijala on tuonut asian julkisuuteen, kyse ei ole enää yksityishenkilön hakeutumisesta vaaliluetteloon, vaan kansanedustajan hakeutumisesta saamelaiskäräjien vaaliluetteloon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Daningo Maijala lea buktán ášši almmolašvuhtii, de gažaldat ii leatge ovttaskas olbmo ohcaleamis válgalogahallamii, muhto riikkabeaiveáirasa ohcaleamis sámedikki válgalogahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapin Kansan uutisen perusteella hakeutuminen tapahtuu ennen kaikkea poliittisista syistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lapin Kansa ođđasa vuođul ohcaleapmi dáhpáhuvvá earenoamážit politihkalaš ákkaid geažil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uutisen perusteella kyseessä olisi Maijalan ensimmäinen kerta kun hän hakeutuu saamelaiskäräjien vaaliluetteloon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđasa vuođul gažaldagas livččii Maijala vuosttaš geardi go son ohcala sámedikki válgalogahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Herääkin kysymys, että miksi juuri viime vuonna hän halusi hakeutua vaaliluetteloon ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdan badjána gažaldat, ahte manin son háliidii juste diimmá bealde ohcalit sámedikki válgalogahallamii ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siihen ja sen edeltäjän saamelaisvaltuuskunnan vaaliluetteloon on voinut hakeutua koko Maijalan aikuisiän.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa ja dan ovddasmanni sámi parlameantta válgalogahallamii lea sáhttán ohcalit oba Maijala ráves olbmo agi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaaliluettelo ei ole julkinen, vaan salassa pidettävä ja saamelaisille todella tärkeä asia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki válgalogahallan ii leat almmolaš, muhto dat galgá dollojuvvot čiegusin, ja dat lea sápmelaččaide duođaid dehálaš ášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällä halutaan estää tilanteen politisoituminen ja kunnioittaa henkilöiden yksityisyyttä ja korostaa sitä, että vaaliluettelo on erillinen kokonaisuus saamelaiskäräjien arkisesta toiminnasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáinna háliiduvvo caggojuvvot dili politihkalažžan šaddan ja gudnejahttojuvvot olbmuid priváhtavuohta ja deattuhuvvot dat, ahte válgalogahallan lea sierra ollisvuohta sámedikki árgabeaivve barggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät ei halua, että vaaliluetteloa käytetään poliittisiin tarkoitusperiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ii hálit, ahte válgalogahallan adnojuvvo politihkalaš ulbmiliidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on vain ja ainoastaan vaalien toimittamista varten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat lea aivve ja duššefal válggaid doaimmaheami várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa etniset luettelot ovat laittomia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas etnihkalaš logahallamat leat lágaheamit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on ollut hyvin tarkka siitä, että vaaliluettelo pysyy lain mukaisesti salaisena ja se on myös saamelaisille tärkeä asia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea leamaš hui dárki das, ahte válgalogahallan bissu lága mielde suollemassan ja dat lea maid sápmelaččaide hui dehálaš ášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki julkisuuteen tuodut tiedot saamelaiskäräjien vaaliluetteloon hakeutumisesta heikentävät vaaliluettelon salassa pysymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot almmolašvuhtii buktojun dieđut sámedikki válgalogahallamii ohcaleamis heajudit válgalogahallama suollemassan doallama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuontisjärvellä 25.1.2015</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuottesjávrres 25.1.2015</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

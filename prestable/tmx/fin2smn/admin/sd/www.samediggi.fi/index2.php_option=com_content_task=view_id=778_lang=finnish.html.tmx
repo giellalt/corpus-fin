@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=778_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliteko - palkinto Yle Sápmille</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige ive 2013 kielâtaho - palhešume Yle Sápmin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on myöntänyt saamen kieliteko – palkinnon Yle Sápmille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge lii mieđettâm Säämi kielâtaho- palhâšume Yle Sápmin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkinto myönnetään joka toinen vuosi saamen kielen aseman ja saamenkielisten palvelujen edistämiseksi tehdystä ansiokkaasta työstä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Palhâšume mieđettuvvoo jyehi nubbe ive sämikielâ sajattuv já sämikielâlij palvâlusâi oovdedmân porgum ánsulâš pargoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliteko - palkinto 2013 on Outi Pieskin kaksi maalausta " Nuvvos Áiligas ", maa sulaa " ja " Kultamaa ".</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi kielâtaho - palhâšume 2013 lii Outi Pieski kyehti maalâkove ” Nuvvos Áiligas, eennâm suddá ” já ” Kolle-eennâm ”.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

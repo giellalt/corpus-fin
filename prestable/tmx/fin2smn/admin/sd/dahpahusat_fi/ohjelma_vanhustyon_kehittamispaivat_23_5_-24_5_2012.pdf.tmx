@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">ohjelma_vanhustyon_kehittamispaivat_23_5_-24_5_2012.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SAAMELAISEN VANHUSTYÖN KEHITTÄMISPÄIVÄT 23–24.5.2012, Saamelaiskulttuurikeskus Sajos, Inari</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>SÄÄMI PUÁRÁSIJPARGO OVDEDEMPEEIVIH 23–24.5.2012, Säämi kulttuurkuávdáš Sajos, Aanaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 8.00 – Kulttuurikeskus Sajoksen esittely halukkaille</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 8.00 – Kulttuurkuávdáš Saijoos oovdânpyehtim halulijd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 8.30 – 9.15 Tervetulokahvit, Sajoksen aula</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 8.30 – 9.15 Pyereestpuáttimkähvi, Saijoos aula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 9.15 – 9.45 Päivien aloitussanat, pj.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 9.15 – 9.45 Peeivij algâttemsäänih, sj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arto Pohjanrinne, Sosiaali- ja terveyslautakunta, Saamelaiskäräjät.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Arto Pohjanrinne, Sosiaal- já tiervâsvuođâlävdikodde, Sämitigge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SaKaste- Saamelaisten sosiaali- ja terveyspalvelujen kehittämisrakennehanke.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>SaKaste- Sämmilij sosiaal- já tiervâsvuođâpalvâlusâi ovdedemrááhtusproojeekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Irmeli Moilanen, projektikoordinaattori, SaKaste-hanke</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Irmeli Moilanen, proojektkoordinaattor, SaKaste-proojekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 9.45 – 10.45 Etenevät muistisairaudet saamelaisväestössä, Anne Remes, neurologian erikoislääkäri, professori, Itä-Suomen yliopisto.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 9.45 – 10.45 Ovdáneijee muštopuácuvuođah sämiaalmugist, Anne Remes, neurologia spesiaaltuáhtár, professor, Nuorttâ-Suomâ ollâopâttâh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskustelua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Savâstâllâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 10.45 – 11.45 Saamelaisen muistisairaan hoito, Heidi Eriksen, Utsjoen johtava terveyskeskuslääkäri.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 10.45 – 11.45 Sämmilâš muštopyeccee tipšo, Heidi Eriksen, Ucjuv njunoš tiervâsvuođâkuávdáštuáhtár.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskustelua</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Savâstâllâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 11.45 – 12.30 Lounas (omakustanteinen).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 11.45 – 12.30 Purâdem (jieškuástádlâš).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ravintola Galla, kulttuurikeskus Sajos</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Raavâdviäsu Galla, kulttuurkuávdáš Sajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 12.30 – 13.30 Ikäihmisen kohtaaminen lääkärin työssä Enontekiöllä, Taina Korhonen, Enontekiön terveyskeskuslääkäri.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 12.30 – 13.30 Elilâmulmuu kuáhtám tuáhtár pargoost Iänuduvâst, Taina Korhonen, Iänuduv tiervâsvuođâkuávdáštuáhtár.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 13.30 -13.45 Saamelaisen omaishoitajan puheenvuoro: Mitä arki on kotona, kun hoidat muistisairasta ?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 13.30 -13.45 Säämi omâhâštipšoo sahâvuáru: Maggaar argâ lii pääihist, ko tipšoh muštopyeccee ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 13.45 – 14.00 Saamenkielisten kotipalvelutyöntekijöiden kokemuksia: Arjen tilanteita kotipalvelutyössä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 13.45 – 14.00 Sämikielâlij päikkipalvâluspargei vuáttámušah: Aargâ tilálâšvuođah päikkipalvâluspargoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskustelun ohjaajana Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Savâstâllâm stivrejeijen Pia Ruotsala, sosiaal- já tiervâsvuođâčällee, Sämitigge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 14.00 – 14.45 Kahvitauko.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 14.00 – 14.45 Kähvipuddâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sajoksen aula.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Saijoos aula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 14.45 – 16.30 Saamenkielisten muistisairaiden hoitotilanne saamelaisten kotiseutualueen kunnissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 14.45 – 16.30 Sämikielâlij muštopyeccei tipšotile sämikuávlu kieldâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntien puheenvuorot.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kieldâi sahâvuáruh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä on suunnitteilla ?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maid láá vuáváámin ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miten kieli ja kulttuuri huomioidaan palveluprosesseissa ?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maht kielâ já kulttuur váldojeh vuotân palvâlusprosessijn ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joonas Sippola, sosiaaliohjaaja, Enontekiö Mirja Laiti, avohoidon johtaja, Inari Anitta Kaisanlahti, vanhustyön johtaja, Sodankylä Heidi Eriksen, johtava terveyskeskuslääkäri, Utsjoki Keskustelua</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Joonas Sippola, sosiaalstivrejeijee, Iänudâh Mirja Laiti, ávustipšo jođetteijee, Aanaar Anitta Kaisanlahti, puárásijpargo jođetteijee, Suáđigil Heidi Eriksen, njunoš tiervâsvuođâkuávdáštuáhtár, Ucjuuhâ Savâstâllâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 18.30 – 21.00 Päivällinen Inarin Kultahovissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 18.30 – 21.00 Eehidmáláseh Aanaar Kultahovist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hotelli Inarin Kultahovin kulttuurisensitiivinen toiminta-ajatus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Hooteel Aanaar Kultahovi kulttuursensitiivlâš toimâjuurdâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaisu Nikula, hotellin johtaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kaisu Nikula, hooteel jođetteijee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 9.00 – 10.00 Vanhustyön kehittäminen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 9.00 – 10.00 Puárásijpargo ovdedem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Prosessien mallintamisen merkitys vanhustyössä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Prosessij myensteristem merhâšume puárásijpargoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inga Mukku, vanhustyön koordinaattori, PaKaste 2, Rovaniemi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Inga Mukku, puárásijpargo koordinaattor, PaKaste 2, Ruávinjargâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 10.00 – 10.15 Kahvitauko, Sajoksen aula</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 10.00 – 10.15 Kähvipuddâ, Saijoos aula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 10.15 – 12.00 Ryhmätyöt.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 10.15 – 12.00 Juávkkupargoh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavoitteena saamenkielisen muistisairaan hoitoketjun mallintaminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ulmen sämikielâlâš muštopyeccee tipšorááiđu myensteristem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- Mihin tarvitaan tukea ?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>- Moos taarbâš torjuu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- Mitä muistisairaan arki on ja miten sitä voidaan tukea ?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>- Maggaar muštopyeccee argâ lii já maht tom puáhtá tuárjuđ ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- Mitä lähdetään kehittämään ?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>- Maid kalga oovdedškyettiđ ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 12.00 – 13.00 Lounas (omakustanteinen).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 12.00 – 13.00 Purâdem (jieškuástádlâš).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ravintola Galla, kulttuurikeskus Sajos</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Raavâdviäsu Galla, kulttuurkuávdáš Sajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 13.00 – 14.00 Ryhmätyöt jatkuu</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 13.00 – 14.00 Juávkkupargoh juátkojeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 14.00 – 15.00 Ryhmätöiden esitys.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 14.00 – 15.00 Juávkkupargoi oovdânpyehtim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ristenrauna Magga, toiminnanjohtaja Sàmi Soster ry.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ristenrauna Magga, tooimâjođetteijee Sámi Soster ry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>, Irmeli Moilanen, hankekoordinaattori, SaKaste-hanke ja Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>, Irmeli Moilanen, proojektkoordinaattor, SaKasteproojekt já Pia Ruotsala, sosiaal- já tiervâsvuođâčällee, Sämitigge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 15.00 – 15.15 Kahvitauko, Ravintola Galla</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 15.00 – 15.15 Kähvipuddâ, Raavâdviäsu Galla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>klo 15.15 – 16.00 Kehittämispäivien yhteenveto ja saamelaisen muistisairaan hoitopolun kehittämiskohteiden määrittely.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tme 15.15 – 16.00 Ovdedempeeivij čuákánkiäsu já säämi muštopyeccee tipšopálgá ovdedemčuásáttuvâi miäruštâllâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jatkotyöskentelystä sopiminen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jotkâporgâmist sooppâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ristenrauna Magga, toiminnanjohtaja Sàmi Soster ry Irmeli Moilanen, hankekoordinaattori, SaKaste-hanke ja Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ristenrauna Magga, tooimâjođetteijee Sámi Soster ry Irmeli Moilanen, proojektkoordinaattor, SaKaste-proojekt já Pia Ruotsala, sosiaal- já tiervâsvuođâčällee, Sämitigge</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

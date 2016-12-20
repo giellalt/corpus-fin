@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=247_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pilvi aloittaa yliopistossa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pilvi aalgât ollâopâttuvâst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo Pilvistä joka aloittaa saamelaisen kulttuurin opinnot !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo Piilvist kote aalgât säämi kulttuur oopâid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen Pilvi haluaa tutustua paremmin juuriinsa ja lähtee opiskelemaan Oulun yliopistoon saamelaista kultuuria.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilâš Pilvi haalijd uápásmuđ pyerebeht madduidis já vuálgá luuhâđ Oulu ollâopâttâhân säämi kultuur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus: Suvi West, kuvaus: Juha Säkkinen, leikkaus: Anja Ahola</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stivrim: Suvi West, kuvvim: Juha Säkkinen, čuoppâm: Anja Ahola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaiskäräjät 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyevtittâs: Sämitigge 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 1,40</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 1,40</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=163_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielilain toteutuminen vuosina 2004 - 2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellalága ollašuvvan jagiiin 2004-2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielilain toteutuminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktiigeassu davvisámegillii:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>vuosina 2004-2006</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellalága ollašuvvan jagiin 2004-2006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielineuvoston kertomus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellaráđi muitalus Sámediggái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjille saamen kielilain</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sámi giellalága ollašuvvamis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sivuja: 383</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>siiddut: 383</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raporttia voi tilata Saamelaiskäräjien</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Raportta sáhttá diŋgot nuvttá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimistosta maksutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki Sámegiela doaimmahagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi 2008</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

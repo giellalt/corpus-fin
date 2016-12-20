@@ -1,0 +1,560 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">klemetti.29.09.13_fin.txt.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikkelinpäivänä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mihkkalmasbeaivve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Blogini päivitys on jäänyt vähiin tältä syksyltä – olen siitä pahoillani.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mu bloggan beiven lea báhcán oba mihá unnánažžan dán čavčča – šállošan dan sakka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palasin viime viikolla kahden viikon syyslomalta takaisin töihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máhccen mannan vahku guovtti vahku čakčaluomus fas bargui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lomani aikana työt kasaantuivat ja työmatkat ovat vieneet suuresti aikaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luomu áigge barggut čoahkkane ja bargomátkkit leat dolvon olu áiggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Blogini käsittelee työtäni saamelaiskäräjien puheenjohtajana, mutta kommentoin kuitenkin tästäkin huolimatta hieman väitöskirjastani käytyä keskustelua keskustelupalstoilla, jottei asia vaikuta virkatyöhöni.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bloggan gieđahallá bargon sámedikki ságadoallin, muhto kommenteren dásnai fuolakeahttá ságastallanspálttain leamaš ságastallama mu nákkosgirjjis vai ášši ii váikkut iežan virgebargui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleisin kommentti oli, miksi väitöskirjaani ei ole julkaistu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dábálaččamus kommeanta lei, manin nákkosgirján ii leat almmustuhttojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Akateemisen hyväksymisprosessin mukaan yliopisto määrää väitöstutkimukselle kaksi esitarkastajaa ja nämä antavat lausuntonsa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Akademalaš dohkkehanproseassa mielde universiteahtta mearrida nákkosdutkamuššii guokte ovdadárkkisteaddji ja soai addiba cealkámušaska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli esitarkastajat puoltavat tutkimuksen hyväksymistä opinnäytteeksi tohtorin tutkintoa varten, niin he antavat väittelyluvan, ja samalla väittelylupa on myös väitöskirjan julkaisulupa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos ovdadárkkisteaddjeguovttos guottiheaba dutkamuša dohkkeheami oahppočájánassan doaktára dutkosa várás, de soai addiba nákkahallanlobi, ja seammas nákkahallanlohpi lea maid nákkosgirjji almmustuhttinlohpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Väitöskirjoja ei kuitenkaan tarvitse julkaista Suomessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nákkosgirjjiid ii goitge dárbbat almmustuhttit Suomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kävin neuvotteluja kesällä hyvinkin pitkään erään kustantamon kanssa väitöskirjani julkaisemisesta, mutta kustantamo vetäytyi hankkeesta viime metreillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Šiehtadallen geasset hui guhká muhtin girjegoasttádusain nákkosgirján deaddileamis, muhto girjegoasttádus geassádii fidnus aivve loahpas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesälomien ja ajanpuutteen johdosta ei ollut enää mahdollisuutta etsiä toista kustantajaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geasseluomuid ja áigevátnivuođa geažil ii lean šat vejolašvuohta ohcat eará goasttideaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myöskään väitöstilaisuutta ei voitu siirtää, koska väitöspäivä oli sovittu vastaväittäjän ja kustoksen kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nákkosdilálašvuođage ii sáhttán sirdit, daningo nákkosbeaivi lei šihtton vuostánákkahalliin ja kustosiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä kaikkineen oli syynä siihen, väitöskirjaani ei julkaistu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát buohkanassii lei sivvan dasa, ahte nákkosgirján ii almmustuhtton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Väitöskirjasta on toimitettu Oulun yliopistoon ja kansalliskirjastoon (ts.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nákkosgirjjis leat doaimmahuvvon Oulu universitehttii ja álbmotgirjerádjui (ns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Helsingin yliopiston kirjastoon) yhteensä 31 kappaletta, eli väitöskirjani on luettavissa myös kirjastossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Helssega universiteahta girjerádjui) oktiibuot 31 gáhppálaga, nu ahte nákkosgirjji sáhttá lohkat maid girjerájus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkoituksenani on julkaista väitöstutkimukseni myös kirjana ja yritän - mikäli työkiireiltäni ehdin – neuvotella kustantajien kanssa kirjan julkaisemisesta vielä tämän syksyn aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mu ulbmilin lea deaddilahttit nákkosdutkamuša maid girjin ja geahččalan – jos bargohoahpuin gearggan – ráđđádallat girjegoasttádusaiguin girjji deaddileamis vel dan čavčča áigge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toinen keskusteluaihe liittyi siihen, miksi lisensiaatintutkimukseni on luottamuksellinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nubbi ságastallanfáddá laktásii dasa, manin lisensiáhtadutkamuššan lea luhtolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pidin sen väitöstutkimukseni ajan luottamuksellisena, koska käytin väitöskirjassani lisensiaatintutkimuksen aineistoa ja tuloksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dollen dan nákkosdutkama áigge luhtolažžan danin go atnen nákkosgirjjistan lisensiáhtadutkamuššan materiála ja bohtosiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisensiaatintutkimukseni on nyt vapaasti lainattavissa Oulun yliopiston kirjastosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lisensiáhtadutkamuššan lea dál lupmosit luoikkaheamis Oulu universiteahta girjerájus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuningas Kaarle Kustaa pitämässä tervehdyspuhetta Ruotsin saamelaiskäräjien avajaisissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gonagas Garl Gustav doallame dearvvahussága Ruoŧa sámedikki rahpandoaluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen lomaa osallistuin Ruotsin saamelaiskäräjien virallisiin avajaisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdal luomu oassálasten Ruoŧa sámedikki virggálaš rahpandoaluide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avajaisissa pitämäni puhe löytyy saamelaiskäräjien kotisivuilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rahpandilálašvuođas mu doallan sáhka gávdno sámedikkiruovttusiidduin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin valtion saamelaisasioista vastaava ministeri Erland Erlandsson nosti mielestäni puheessaan kaksi tärkeää asiaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧa stáhta sámiáššiid ministtar Erland Erlandssona válddii ságastis ovdan guokte mu mielas dehálaš ášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uudistetussa Ruotsin perustuslaissa saamelaiset on mainittu ensimmäisen kerran kansana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođasnuhtton Ruoŧa vuođđolágas sápmelaččat leat namuhuvvon vuosttaš geardde álbmogin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toisena positiivisena asia oli se, että Ruotsin valtio aikoo saamelaistoimijoita konsultoituaan laatia virallisen saamelaispolitiikkaohjelman vielä tämän syksyn aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nubbi positiivvalaš áššin lei dat, ahte Ruoŧa stáhta áigu dan maŋŋel go lea gullan sápmelaš doibmiid ráhkadit virggálaš sámi politihkkaprográmma vel dán čavčča áigge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On kiinnostavaa nähdä miten tämä avaus välittyy pohjoismaisen saamelaissopimuksen jatkoneuvotteluihin ja tuleeko Ruotsin saamelaiskäräjistä valtiosta täysin riippumaton itsehallintoelin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea beroštahtti oaidnit mot dát áigumuš sirdása davviriikkalaš sámi soahpamuša joatkkašiehtadallamiidda ja boahtágo Ruoŧa sámedikkis stáhtas dievaslaččat sorjjasmeahttun iešráđđenorgána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsin saamelaiskäräjien hallituksen uusi ja SPN:n tuleva puheenjohtaja Håkan Jonsson.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruoŧa sámedikki stivrra ođđa ja SPR:a boahttevaš ságadoalli Håkan Jonsson.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hän aikoo nostaa SPN:n seuraavan toimikauden asialistalle kaivos- ja maankäyttöasiat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Son áigu loktet SPR:a čuovvovaš doaibmaáigodaga áššelistui ruvke- ja eanangeavahanáššiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä viikko on kulunut autossa, lentokoneessa ja kokouksissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán vahku lean čohkkán biillas, girdis ja čoakkámiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Minulla oli tällä viikolla kaksi saamelaiskäräjälakityöryhmän kokousta Helsingissä, joiden välissä oli pohjoismaisen saamelaissopimuksen jatkoneuvottelut Koutokeinossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mus ledje dán vahku guokte sámediggeláhkabargojoavkku čoakkáma Helssegis, maid gaskkas davviriikkalaš sámi soahpamuša joatkkašiehtadallamat Guovdageainnus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjälain uudistamista valmistellut työryhmä sai työnsä päätökseen annetun määräajan puitteissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggelága ođasnuhttima válmmaštallan bargojoavku gearggahii barggus dasa biddjon mearreáiggi olis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työ eteni rakentavasti ja hyvässä yhteistyössä eikä eriäviä mielipiteitä jätetty mietintöön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargu ovdánii huksejeaddji vuogi mielde ja buori ovttasbarggu vuoiŋŋas eaige sierra oaivilat guđđon smiehttamuššii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmä työskenteli hyvin tehokkaasti helpottaen myös asian jatkovalmistelua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavku barggai hui áhpasit ja dat álkidahtii maid ášši joatkkaválmmaštallama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitys on laadittu hallituksen esityksen muotoon ja työryhmä on tehnyt esitysten vaikutustenarvioinnin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohus lea ráhkaduvvon ráđđehusa evttohusa hápmái ja bargojoavku lea dahkan evttohusa váikkuhusaid árvvoštallama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tässä vaiheessa en voi vielä kommentoida tämän tarkemmin työryhmän esityksiä, koska mietintöä ei ole vielä luovutettu oikeusministerille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán muttos in diehttelas sáhte kommenteret dán dárkileappot bargojoavkku evttohusaid, daningo smiehttamuš ii leat vel luobahuvvon vuoigatvuohtaministarii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mietintö luovutetaan oikeusministerille valitettavasti vasta lokakuun lopussa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Smiehttamuš luobahuvvo ministarii dađi bahábut easka golggotmánu loahpas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopivaa yhteistä ajankohtaa ei löytynyt aiemmin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Heivvolaš oktasaš áigi ii gávdnon dađi ovdal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaisen saamelaissopimuksen jatkoneuvotteluja käytiin tiistaina ja keskiviikkona Koutokeinossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkalaš sámi soahpamušas joatkkašiehtadallamat ledje fas disdaga ja gaskavahkko Guovdageainnus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Edistyksestä ei voi juuri puhua, mutta keskustelua oli paljon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdáneamis ii gal jur sáhte hupmat, muhto ságastallan dat gal lei olu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olin ehdottanut, että neuvottelut olisi siirretty myöhemmälle syksyyn, koska Norjan suurkäräjävaalit ja saamelaiskäräjävaalit on vasta käyty ja jatkoneuvotteluille olisi tärkeää saada poliittinen tuki ja ohjaus myös vaalien jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ledjen evttohan, ahte šiehtadallamat livčče maŋiduvvon maŋŋelii čakčii, daningo Norgga stuoradiggeválggat ja sámediggeválggat lea leamaš easkabáliid ja šiehtadallamiidda livččii dehálaš oažžut politihkalaš doarjaga ja stivrema maid válggaid maŋŋel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neuvottelut kuitenkin pidettiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Šiehtadallamat goit dollojuvvoje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kävimme läpi lukuja 1, 2 ja 3 ja valtiot jättivät useita varaumia sopimusartikloihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Manaimet čađa kapihttaliid 1, 2 ja 3 ja stáhtat guđđe máŋggaid várrejumiid soahpamušartihkkaliidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioiden edustajien pyynnöstä Norjan, Ruotsin ja Suomen saamelaiskäräjät esittelivät kokouksessa omaa asemaansa ja tehtäviään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhta ovddasteddjiid dáhtu mielde Norgga, Ruoŧa ja Suoma sámedikkit bukte geahčastaga iežaset sajádagas ja bargguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioilla on petraamista tämänkin suhteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtain lea buoridanmunni dán dáfusge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jatkoneuvotteluja on käyty nyt 2 ž vuotta, ja vasta tässä vaiheessa valtiot tunnustavat toimivansa puutteellisen tiedon varassa saamelaisasioiden kehittämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Joatkkašiehtadallamat lea leamaš jođus bealgoalmmat jagi, ja easka dán muttos stáhtat dovddastit iežaset bargat váilevaš dieđu veagas sámi áššiid gárgeheamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaisessa tilanteessa on vaikea kuvitella, että saamelaissopimusehdotus valmistuu määräajassa, vuoden 2015 loppuun mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkár dilis lea váttis govahallat, ahte sámi soahpamuš – evttohus gárvána dasa biddjon mearreáigge siste, jagi 2015 lohppii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julkisuudessa on - ja aivan syystäkin - keskusteltu saamelaisen kielipesätoiminnan rahoituksen leikkauksesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmolašvuođas lea – ja aivve buori ákka mieldenai – ságastallon sámi giellabeassedoaimma ruhtadeami unnideamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eduskunnasta saamieni tietojen mukaan kielipesätoimintaan olisi nyt tulossa ensi vuodelle 600 000 euroa, joista osa veikkausvaroista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iežan oažžun dieđuid mielde riikkabeivviid guovllus giellabeassedoibmii livččii dál boahtime boahtte jahkái 600 000 euro, main oassi dihppenvuoitoruđain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eduskunta yrittää löytää vielä 100 000 euroa jottei toimintaa jouduta leikkaamaan, mm.. Lapin kansanedustajat ovat olleet asiassa aktiivisia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkabeaivvit geahččala vel gávdnat 100 000 euro lasi ruđa, vai doaimma ii dárbbahivčče unnidit, ee. Lappi riikkabeaivveovddasteaddjit leat leamaš áššis aktiivvalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen todella iloinen, että rahaa on löytymässä, eikä saamelaislapsia jätetä tyhjän päälle ensi vuonna ja hyvin alkanut saamen kielten elvyttäminen ei pysähtyisi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean duođaid ilus go ruhta lea gávdnome eaige sámi mánát báze dušši nala boahtte jagi ja bures álgán sámegielaid ealáskahttin ii bisánivčče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko prosessi on ollut melko surullista seurattavaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oba proseassa lea leamaš oalle morašlaš čuovvut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kyse ei olisi vakavista asioista niin sitä voisi kutsua melkeinpä farssiksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jos jearaldat ii livčče duođalaš áššiin, de dan sáhtálii gohčodit measta juo fársan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisen huolestuttavan kuvan tilanne antaa opetus- ja kulttuuriministeriöstä, jonka vastuulla edelleenkin hyväksymätön saamen kielten elvyttämisohjelma ja kielipesäasiat ovat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hui fuolastuhtti gova dilli addá oahpahus- ja kulturministeriijas, man ovddasvástádussii gullet velnai dohkkekeahttá báhcán sámegielaid ealáskahttinprográmma ja giellabeasseáššit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ministeriön tulee parantaa ja tehostaa toimintaansa, jotta se voi hoitaa vastuualueelleen kuuluvat tehtävät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ministeriija galgá buoridit ja beavttálmahttit barggus, vai dat bastá dikšu iežas ovddasvástádussuorggi bargguid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on esittänyt, että kielipesätoiminnasta ja sen rahoituksesta säädettäisiin lailla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea evttohan, ahte giellabeassedoaimmas ja dan ruhtadeamis mearriduvvolii lágain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pidän sitä välttämätöntä, jotta tällainen tilanne ei enää toistuisi ja rahoitus ja toiminta voidaan saada pysyvälle pohjalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anán dan vealtameahttumin, vai dákkár dilli ii šat ođasnuva ja vai ruhtadeapmi ja doaibma ožžojuvvoba bissovaš vuođu nala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pitemmän aikavälin tavoitteena on, että kielipesätoiminta tekisi itsensä tarpeettomaksi ja tulevaa sukupolvi voisi siirtyä suoraan saamenkieliseen päivähoitoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkit áigegaskka ulbmilin lea, ahte giellabeassedoaibma dagalii iežas dárbbatmeahttumin ja boahttevaš buolva sáhtálii sirdásit njuolga sámegiel beaivedikšui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensi viikko jatkuu yhtä kiireisenä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boahtte vahku lea maid liikká hohpolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maanantaina on saamelaiskäräjien hallituksen kokous.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánnodaga lea sámedikki stivrra čoakkán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokous käsittelee saamelaiskäräjille tehtyä työsuojeluilmoitusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoakkán gieđahallá sámediggái dahkkon bargosuodjalanilmmuhusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiistaina on työryhmän ensimmäinen kokous, joka valmistelee metsähallituslain uudistamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Disdaga lea bargojoavkku vuosttaš čoakkán, mii válbme meahcceráđđehuslága ođasnuhttima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän työryhmän tarkoituksena on lisätä saamelaisten osallistumisoikeutta ns. valtion maa- ja vesialueiden käyttöä koskevassa päätöksentekomenettelyssä saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán bargojoavkku ulbmilin lea lasihit sámiid oassálastinrivttiid lasiheami ng. stáhta eanan- ja čáhcevuoigatvuođaid geavahusas sámiid ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokous pidetään Helsingissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoakkán dollojuvvo Helssegis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Helsingistä jatkan Kiirunaan saamelaisen parlamentaarisen hallituksen kokoukseen ja neuvoston yleisistuntoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Helssegis dollen Gironii sámi parlamentáralaš ráđi stivrra ja dievasčoakkámii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neuvoston puheenjohtajuus siirtyy Norjan saamelaiskäräjiltä Ruotsin saamelaiskäräjille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđi ságadoallivuohta sirdása Norgga sámedikkis Ruoŧa sámediggái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perjantaina lähden viikoksi Montrealiin kansainväliseen artikla 8j-työryhmän kokoukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bearjadaga vuolggán vahkkui Montrealii riikkaidgaskasaš artihkal 8j-bargojoavkku čoakkámii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokouksen kulkua voi seurata myös netistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoakkáma sáhttá čuovvut maid neahtas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät järjestää Montrealissa oheistapahtuman, jonka aiheena on artikla 8(j):n soveltaminen Suomessa sekä Akwé: Kon - ohjeet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi oprdne Montrealis oalgedáhpáhusa, man fáddán lea artihkal 8(j):a heiveheapmi Suomas sihke Akwé: Kon – rávvagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>29.9.2013 Vuontisjärvellä Klemetti Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>29.9.2013 Vuottesjávrris Juvvá Lemet</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

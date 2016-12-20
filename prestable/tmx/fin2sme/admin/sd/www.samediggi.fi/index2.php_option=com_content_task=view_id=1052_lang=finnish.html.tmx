@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1052_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääsemme jälleen nauttimaan saamelaisesta lasten ja nuorten teatterista !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii illudit fás go beassat návddašit Tana kulturskuvlla teahter-čájalmasain !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsille ja nuorille tarjolla teatteria torstaina 28.5.2015 SAJOKSESSA, INARISSA.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SÁMI MÁNÁIDE JA NUORAIDE TEAHTER-FÁLÁDAGAT ANÁRIS DUORASDAGA 28.5.2015 SAJOS KULTURGUOVDDAŽIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasten näytös: Rakastunut pilvi klo 10.00 (kesto 40 min) Nuorten näytös (5. lk &amp;gt; ylöspäin): Tyttö jota kukaan ei voinut kiusata klo 12.15 (kesto 80 min)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáid čájalmas: Ráhkasnuvvan bálva dii 10.00 (bistá 40 min) Nuoraid čájalmas (5. klassa rájes – bajasguvllui): Nieida gean oktage ii sáhtan givssiidit dii 12.15(bistá 80 min) Čájalmasat leat nuvttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytökset ovat ilmaisia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järjestää: MÁNNU saamelainen lastenkulttuurikeskus / saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ordne MÁNNU sámi mánáidkulturguovddaš / Sámediggi</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=656_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>26.11.2012, alkaen klo 9.45, Saamelaiskulttuurikeskus Sajos, Inari</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>26.11.2012, tme 9.45 rääjist, Säämi kulttuurkuávdáš Sajos, Aanaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutsumme kaikki saamelaistoimijat pohtimaan tulevaisuuden painopisteitä ja kehittämään apurahojen kohdentamista yhteisölle tärkeisiin hankkeisiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Povdip puoh sämituáimeid suogârdâllâđ puátteevuođâ tiäddučuágástuvâid já ovdediđ išeruuđâi čuosâttem siärvusáid tehálâš projektáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seminaarin aamupäivä käytetään hakumenettelyn sekä kulttuurimäärärahan teknisten ohjeiden parissa sekä kuullaan eri rahoituslähteistä ja iltapäivällä aloitamme alustuksella Saamelaiskäräjien " taide-, käsityö ja kulttuuripoliittisesta " - ohjelmaluonnoksesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Seminaar iiđeedpeeivi kevttip uuccâmlattiimân sehe kulttuurmeriruuđâ teknisâš ravvuid sehe kuullâp jieškote-uv ruttâdemkäldein já eehidpeeivi algâttep vuáđusavváin Sämitige " taaidâ-, tyeji já kulttuurpoolitlâš " ohjelmhammiittâsâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelma</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohjelm</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

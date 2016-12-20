@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=775_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutsu saamelaisnuorten konferenssiin</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bovdehus sámenuoraid konferensii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervetuloa Saamelaiskäräjien nuorisoneuvoston järjestämään saamelaisnuorten konferenssiin saamelaiskulttuurikeskus Sajokseen Inariin 6.-7.2.2014.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buresboahtin sámenuoraid konferensii sámekulturguovddáš Sajosii Anárii 6.-7.2.2014. Konfereanssa lágida Suoma Sámedikki nuoraidráđđi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Konferenssin aiheena on suvaitsevaisuus sekä saamelaisnuorten identiteetti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Konfereanssa fáddán lea utnolašvuohta ja sámenuoraid identitehta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Konferenssin iltaohjelmana on saamelaismusiikkia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Konfereanssa eahketprográmmas lea sámemusihkka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Konferenssi on maksuton ja se on avoin kaikille kiinnostuneille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Konfereansa lea nuvttá ja dat lea rabas buohkaide geat leat beroštuvvan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautumiset viimeistään 24.1.2014.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuheamit maŋimustá 24.1.2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittautumiset ja lisätietoa:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuheamit ja lassidieđut:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

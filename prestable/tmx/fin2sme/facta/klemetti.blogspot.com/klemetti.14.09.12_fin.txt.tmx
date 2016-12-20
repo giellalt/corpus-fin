@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">klemetti.14.09.12_fin.txt.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomalais-ugrilaisten kansojen maailmankongressista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma-ugralaš álbmogiid máilmmikongreassas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomalais-ugrilaisten kansojen maailmankongressi pidettiin 4.-8.9.2012 Siófokissa, Unkarissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma-ugralaš álbmogiid máilmmikongreassa dollojuvvui 4.-8.9.2012 Siófokis, Uŋgaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressi järjestettiin nyt kuudetta kertaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassa lágiduvvui dál guđat geardde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen ja Venäjän saamelaiset edustivat kongressissa saamen kansaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma ja Ruošša beale sápmelaččat ovddaste kongreassas sámi álbmoga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressin teemana olivat kieli ja ihmiset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassa fáddán ledje giella ja olbmot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressille toivat tervehdyksensä Unkarin, Suomen ja Viron presidentit.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongressii bukte dearvvuođagaideaset Uŋgara, Suoma ja Estte presideanttat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Venäjän presidentti ei kongressiin osallistunut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruošša presideanta ii oassálastán kongressii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen Tasavallan presidentti toi puheessaan esille myös saamelaisten lainsäädännöllisen aseman Suomessa sekä saamen kielten elvyttämisohjelman laatimisen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma dásseválddi presideanta buvttii ságastis ovdan maid sápmelaččaid láhkasajádaga Suomas sihke sámegiela ealáskahttinprográmma ráhkadeami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toin kongressiin saamen kansan tervehdyksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bukten kongressii sámi álbmoga dearvvahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhe löytyy kotisivuiltamme puheet 2012-osiosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhka gávdno min ruovttusiidduin ságat 2012-ossodagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käsittelin puheessani saamelaisten asemaa erityisesti Venäjällä, ilmastonmuutosta sekä asenneilmapiiriä saamelaisia kohtaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gieđahallen sáhkavuorustan sápmelaččaid sajádaga earenoamážit Ruoššas, dálkkádatrievdama sihke doaladuvvanvuoiŋŋa sápmelaččaid guovdu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nostin esille erityisesti Suomessa nousseet kaksi saamelaiskulttuuria uhkaavaa liikettä: Ilo 169-sopimuksen ratifiointia vastustavan liikkeen sekä saamelaisiksi itsensä lukevan suomalaisväestö-liikkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bukten albmosii earenoamážit Suomas guokte guokte lihkadusa, mat uhkidit sámi kultuvrra: Ilo 169-soahpamuša ratifiserema vuostálasti lihkadus sihke láddelašálbmot-lihkadus, gean ovddasteaddjit gohčodit iežaset sápmelažžan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi Norjassa kveenit ovat vaatineet itselleen alkuperäiskansa-asemaa, vaikka ne eivät täytä alkuperäiskansan tunnusmerkistöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin kveanat leat gáibidan alcceseaset álgoálbmotsajádaga, vaikko dat eai deavdde álgoálbmoga dovdomearkkaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän vaatimuksen toi esille myös kveenien edustaja omassa puheessaan kongressissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán gáibádusa kveanaid ovddasteaddji maid buvttii ovdan iežas ságastis kongreassas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osallistuin nyt kolmatta kertaa suomalais-ugrilaisten kansojen maailmankongressiin, joka viettää nyt 20-vuotisjuhlaansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oassálasten dál goalmmát háve suoma-ugralaš álbmogiid máilmmikongressii, mii doallá dál 20-jagi ávvudanjagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressi herätti paljon ajatuksia ja kehittämistarpeita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassa boktalii olu jurdagiid ja gárgehandárbbuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressissa kävi selkeästi ilmi, että kaikki kansat eivät ole tasa-arvoisessa asemassa edelleenkään suomalais-ugrilaisten kansojen yhteistyössä vaan kansallisvaltiot ohjaavat yhteistyötä hyvin tehokkaasti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassas bođii čielgasit ovdan, ahte buot álbmogat eai leat velge dásseárvosaš sajádagas suoma-ugralaš álbmogiid ovttasbarggus, muhto álbmotstáhtat stivrejit ovttasbarggu hui áhpasit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressin virallisina kielinä ovat kaksi ei-suomalais-ugrilaista kieltä: englanti ja venäjä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassa virggálaš giellan leaba guokte ii-suoma-ugralaš giela: eŋgelas- ja ruoššagiella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtakielten dominointi näkyi kongressissa selvästi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldogielaid mearrideaddji hálddašeapmi vuhttui kongreassas hui čielgasit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>En voinut esimerkiksi pitää puhettani saameksi, koska tulkkia eivät kongressin järjestäjät järjestäneet ja saamelaisilla olisi pitänyt olla oma tulkki mukana – siihen meillä ei ollut varaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>In sáhtán omd. doallat iežan sáhkavuoru sámegillii, daningo lágidaddjit eai ordnen dulkoma ja sámiin livččii galgan leat iežas dulka fárus – dasa mis fas ii lean ráđđi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressissa kuultiin paljon korupuheita, kauniita sanoja kielen ja kulttuurin merkityksestä niin presidenteiltä kuin kansoiltakin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassas gulloje olu čikŋaságat, fiinna sánit giela ja kultuvrra mearkkašumis nu stáhtanjunnošiin go bás álbmogaččaid ovddasteddjiinnai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korupuheiden tasolle kongressi jäikin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čikŋaságaid dássái kongreassa báziinai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressin julistus oli siitä mielenkiintoinen, että siinä osoitettiin toimenpiteitä vain kansoille ja kansalaisjärjestöille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassa julggaštus lei dan dáfus mielaidgeassi, ahte das čujuhuvvoje doaibmabijut dušše álbmogiidda ja álbmotservviide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten edustaja loppuasiakirjaa valmistelleessa työryhmässä vaati loppuasiakirjaan valtioille velvoitteita mm. kehittää alkuperäiskansoja ja vähemmistöjä suojelevaa lainsäädäntöä, resursoimaan kielen ja kulttuurin elvytystyötä ja ratifioimaan ja toimeenpanemaan alkuperäiskansoja ja vähemmistöjä suojelevaa lainsäädäntöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččaid ovddasteaddji loahppaáššegirjji válmmáštallan bargojoavkkus gáibidii loahppaáššegirjái stáhtii geatnegasvuođaid ee. gárgehit lágaid, mat suddjejit álgoálbmogiid ja vehádagaid, bidjat návccaid giela ja kultuvrra ealáskahttinbargui ja ratifiseret ja olláhuhttit lágaid, mat suodjalit álgoálbmogiid ja vehádagaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdotukset olivat ilmeisesti liian radikaaleja valtioille ja saamelaisten esitykset sivuutettiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohusat ledje várra liiggás radikálat stáhtaide ja sámi álbmoga evttohusat hilgojuvvoje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioilta ei vaadita minkäänlaisia toimenpiteitä suomalais-ugrilaisten kielten ja kulttuurien turvaamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtain eai gáibiduvvo mangelágán doaibmabijut suoma-ugralaš álbmogiid gielaid ja kultuvrraid dorvvasteami várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Loppuasiakirja kumisee tyhjyyttään ja jäänee nopeasti unholaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loahppaáššegirji dávista guovdnjasit guorusvuođas geažil ja vajálduvvá jođánit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraavan kerran kongressi järjestetään Suomessa neljän vuoden päästä– toista kertaa maailmankongressin historiassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čuovvovaš háve kongreassa lágiduvvo Suomas njealji jagi geahčen – nuppe háve máilmmikongreassa historjjás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Minä edustan saamelaisia konsultaatiokomiteassa, joka piti ensimmäisen kokouksensa kongressin yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mun ovddastan sápmelaččaid konsultašuvdnakomiteas, mii doalai vuosttaš čoakkáma kongreassa olis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdotin konsultaatiokomitean sihteeristölle, että seuraava kongressi järjestettäisiin Inarissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohin konsultašuvdnakomitea čállingoddái, ahte čuovvovaš kongreassa dollojuvvolii Anáris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressia ei ole koskaan järjestetty saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassa ii leat goassige dollojuvvon Sámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen Suomen järjestämä kongressi pidettiin Helsingissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš Suoma lágidan kongreassa dollojuvvui Helssegis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa asuu kaksi suomalais-ugrilaista kansaa, suomalaiset ja saamelaiset, ja jo tästäkin syystä kongressi tulisi järjestää saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas orrot guokte suoma-ugralaš álbmoga, suopmelaččat ja sápmelaččat, ja juo dán geažil kongreassa galggalii lágiduvvot Sámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitettavasti suomalais-ugrilaisessa yhteistyössä päätöksiä ei vaan tehdä muita kansoja kuullen vaan pienessä piirissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dađi bahábut suoma-ugralaš álbmogiid ovttasbarggus mearrádusat eai fal dahkko nu ahte gulaskuddet eará álbmogiid muhto mearrádusat bargojuvvojit unna biirreža olis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Konsultaatiokomitean kokouksessa ei ilmoitettu tarkemmin missä seuraava maailmankongressi pidetään ja minulle ja useimmille jäi se käsitys, että konsultaatiokomitean seuraava kokouksessa päätetään maailmankongressin pitopaikasta ja että Siófokin maailmankongressi päättää vain missä maassa maailmankongressi pidetään, entisen tavan mukaisesti kuten esimerkiksi edellisessä maailmankongressissa meneteltiin Hanti-Mansiassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Konsultašuvdnakomitea čoakkámis ii ilmmuhuvvon dárkileappot gos čuovvovaš máilmmikongreassa dollojuvvo ja munnje eatnasiidda čoakkánoasseváldiin bázii dat oaidnu, ahte dárkilit čoakkánbáikkis mearriduvvo čuovvovaš konsultašuvdnakomitea čoakkámis ja Siófoka máilmmikongreassa mearriduvvo dušše man riikkas máilmmikongreassa dollojuvvo, dego omd. ovdditge máilmmikongreassas Hanti-Mansias meannuduvvui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yön aikana oli ehtinyt tapahtua paljon - kongressin viimeisenä päivänä Suomi ilmoitti että seuraava maailmankongressi järjestetään Lahdessa – ilman, että asiaa olisi valmisteltu tai että siitä olisi keskusteltu saamelaisten tai edes Suomen valtuuskunnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ija áigge lei háhppehan dáhpáhuvvat olu – kongreassa maŋimus beaivve Suopma ilmmuhii, ahte čuovvovaš máilmmikongreassa dollojuvvo Lahtis – almmá dan haga, ahte ášši livččii válmmaštallojuvvon dehe ahte das livččii oba ságastallojuvvonge sápmelaččaid dehe oba Suoma sáttagottisge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen valtuuskunta ei edes kokoontunut kertaakaan kongressin aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma sáttagoddi ii oba čoahkkanan oktege kongreassa áigge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitys oli ilmeisen hyvin valmisteltu mysteerisessä ns. ” Lahti-työryhmässä ”, koska Lahtea esitti eduskunnan puhemies Eero Heinäluoma ja Suomi oli tuonut Lahtea esittelevän videon mukanaan kongressiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohus lei vissásit bures válmmaštallojuvvon mysteralaš nd. ” Lahti-bargojoavkkus ”, daningo riikkabeivviid sáhkaolmmái Eero Heinäluoma evttohii Lahti doallanbáikin ja Suopma lei buktán kongressii video, mii máinnui Lahti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen jälkeen Inaria ei voinut enää edes ehdottaa maailmankongressin pitopaikaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan maŋŋel Anár ii sáhttán oba evttohuvvotge máilmmikongreassa doallanbáikin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erikoista junttapolitiikkaa demokratian mallimaalta Suomelta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Demoktariija málleriikan iežas gohčodan Suomas earenoamáš politihkalaš bággenvuohki vuodjit čađa iežas oainnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomalais-ugrilaisen yhteistyön tavoitteet ovat yleviä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma-ugralaš ovttasbarggu ulbmilat leat allagat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressin tavoitteena on mm. edistää yhteistyötä suomalais-ugrilaisten kansojen kesken sekä suomalais-ugrilaisten ja muiden kansojen välillä, vastustaa suomalais-ugrilaisten kansojen kulttuurista ja kielellistä sulautumista sekä edistää kansainvälisten normien toteutumista ihmisoikeuksien, kansojen itsemääräämisoikeuden ja alkuperäiskansojen oikeuksien alalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassa ulbmilin lea ee. ovddidit suoma-ugralaš álbmogiid gaskavuođa ovttasbarggu dego maid eará álbmogiiguin, vuostálastit suoma-ugralaš álbmogiid kultuvrralaš ja gielalaš assimilašuvnna sihke ovddidit riikkaidgaskasaš norpmaid olláhuvvama olmmošrivttiid, álbmogiid iešmearridanrievtti ja álgoálbmogiid rivttiid surggiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Demokraattinen päätöksenteko ja pienten kansojen näkemyksien huomioiminen ei tähän yhteistyöhön näytä kuuluvan korulauseista ja hienoista tavoitteista huolimatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Demokráhtalaš mearrádusdahkan ja unna álbmogaččaid oainnuid vuhtii váldin ii oro gullame dán ovttasbargui čikŋacealkagiin ja fiinna ulbmiliin fuolakeahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Millainen on suomalais-ugrilaisten kansojen yhteistyön tulevaisuus ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Makkár lea suoma-ugralaš álbmogiid ovttasbarggu boahtteáigi ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osallistuin ensimmäisen kerran maailmankongressiin vuonna 1996 ja silloin tutkijana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oassálasten vuosttaš háve máilmmikogresii jagi 1996 ja dalle ledjen dutki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin se oli aivan erilainen maailmansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle dat lei aivve sierralágán máilbmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kongressissa äänestettiin, keskustelu oli vilkasta ja kansojen edustajat myös väittelivät välillä kiivaastikin kokouksissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kongreassas jienastuvvui, ságasallan lei ealaskas ja álbmogiid ovddasteaddjit maid digaštalle gaskkohagaid giivátge čoakkámiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nyt kansat toivat vain tervehdyksensä, kiitoksensa ja esityksiä eri jaostoissa – muuten sihteeristön esitykset hyväksyttiin sellaisenaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál álbmogat bukte dušše dearvvahusaideaset, giitosiiddiset ja evttohusaideaset sierra juhkosiin – muđuid čállingotti evttohusat dohkkehuvvoje dakkáražžan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aionkin viedä seuraavaan saamelaisen parlamentaarisen neuvoston kokouksen käsiteltäväksi mitä saamelaiset haluavat yhteistyöltä – ja onko suomalais-ugrilaisten kansojen yhteistyö enää saamelaisia varten, koska saamelaisia ei kohdella yhteistyössä kansana eikä maailmankongressin julistuksilla ole mitään merkitystä valtioilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áiggonnai doalvut čuovvovaš sámi parlamentáralaš ráđi čoakkáma gieđahallama várás maid sápmelaččat hálidit ovttasbarggus – ja leago suoma-ugralaš álbmogiid ovttasbargu šat sápmelaččaid várás, daningo ovttasbarggus sápmelaččat eai meannuduvvo álbmogin iige máilmmikongreassa julggaštusain leat mihkkege mearkkašumiid stáhtaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Unkarissa ollessani Norjan valtiollisessa saamelaisradiossa, NRK:ssa, uutisointiin pohjoismaisesta saamen kieliyhteistyöstä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go ledjen Uŋgaris, de Norgga sámi rádios, NRK:s, lei ráhkaduvvon ođas davviriikkalaš sámi giellaovttasbarggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uutisessa Norjan saamelaiskäräjien puheenjohtaja Egil Olli arvosteli Suomen saamelaiskäräjiä ja sen toimintaa tässä asiassa aika merkittävästi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđasis Norgga sámedikki presideanta Egil Olli árvvoštalai Suoma sámedikki ja dan doaimma dán áššis mearkkašahtti ládje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen itse yrittänyt olla solidaarinen muita saamelaiskäräjiä kohtaan ja mahdollisen kritiikin toisten saamelaiskäräjien toimintaa kohtaan olen tuonut esille saamelaisen parlamentaarisen neuvoston kokouksissa, joka on saamelaiskäräjien ja Venäjän saamelaisjärjestöjen yhteistyöelin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean ieš geahččalan leat solidáralaš eará sámedikkiid ektui ja vejolaš kritihka eará sámedikkiid doaimma ektui lean buktán ovdan sámi parlamentáralaš ráđi čoakkámiin, mii lea sámedikkiid ja Ruošša sámi servviid ovttasbargoorgána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen, Ruotsin ja Norjan saamelaiskäräjät on saanut rahoitusta yhteispohjoismaisen kieliyhteistyön uudelleenorganisointia varten Euroopan unionilta ns. InterregSápmi-ohjelmasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma, Ruoŧa ja Norgga sámedikkit leat ožžon ruhtadeami oktasaš davviriikkalaš giellaovttasbarggu ođđasitorganisma várás Eurohpá Uniovnnas nd.. InterregSápmi-prográmmas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ongelmana on, että rahoitusta saa vain maksettuja kuluja vastaan noin 8 kuukauden päästä kulujen syntymisestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buncarin lea, ahte ruhtadeapmi ožžojuvvo dušše máksojun goluid vuostá sulaid 8 mánu geahčen goluid šaddamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaiskäräjillä on käynnissä jo nyt muutamia muita projekteja ja mikäli kieliyhteistyö-projekti aloitettaisiin nyt, se aiheuttaisi valtavan kassavirtaongelman saamelaiskäräjille ja joutuisimme joko irtisanomaan henkilöstöä, lopettamaan muut projektit tai lopettamaan kokousten pitämisen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma sámedikkis leat johttáhuvvon juo dál muhtin prošeavttat ja jos giellaovttasbargoprošeakta álggahuvvolii dál, de dat dagahivččii stuora gássarávdnjeproblema sámediggái ja šattalemmet juogo lihccut bargiid, heaittihit eará prošeavttaid dehe heaitit doallames čoakkámiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikään näistä vaihtoehdoista ei ole mahdollinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mihkkege dáin molssaeavttuin ii leat vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilanne oli tiedossa jo viime keväänä, ja hankkeesta vastaavat virkamiehet ovat hakeneet rahoitusta niin opetus- ja kulttuuriministeriöltä kuin oikeusministeriöltäkin, jotta projekti voisi alkaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dilli lei juo dieđus mannan giđa, ja fidnus ovddasvástideaddji virgeolbmot leat ohcan ruhtadeami oahpahus- ja kulturministeriijas go vuoigatvuohtaministeriijasge, vai prošeakta sáhtálii álgit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rahoitustarve olisi 140 000 euroa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruhtadandárbu livččii 140 000 euro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Norjan saamelaiskäräjät on ystävällisesti tarjonnut Suomen saamelaiskäräjille lainaa, mutta oikeusministeriön mukaan saamelaiskäräjät ei voi lainata rahaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Norgga sámediggi lea ustitlaččat fállan Suoma sámediggái loana, muhto vuoigatvuohtaministeriija mielde sámediggi ii sáhte lonet ruđa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaiskäräjien budjetti on pienin kolmen maan saamelaiskäräjien budjeteista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma sámedikki bušeahtta lea unnimus golmma sámedikki bušeahtain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaiskäräjät on puun ja kuoren välissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma sámediggi lea muora ja bárkku gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olemme jatkuvasti selvittämässä mahdollisuuksia saada rahoitusta kieliyhteistyön uudelleen organisoinnin käynnistämiseen, mutta tilanne ei näytä hyvältä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii čielggadit geažos áigge vejolašvuođaid oažžut ruhtadeami giellaovttasbarggu ođđasitorganiserema johttáheapmái, muhto dilli ii oro leame beare čuovgat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilannetta on selvitetty saamelaisen parlamentaarisen neuvoston hallitukselle ja on toki ikävää, että ymmärrystä Suomen saamelaiskäräjien tilanteeseen ei löydy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dilli lea čilgejuvvon sámi parlamentáralaš ráđi stivrii ja lea duođaid ahkit, ahte ipmárdus Suoma sámedikki dillái ii gávdno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Itse asiassa kerroin jo saamelaisen parlamentaarisen neuvoston konferenssissa viime vuoden marraskuussa Kirkkoniemessä, että Euroopan unionin talouskriisi voi aiheuttaa Suomen valtiolle budjettileikkauksen, jolla voi todella suuria vaikutuksia saamelaiskäräjien toimintaan ja pohjoismaiseen yhteistyöhön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iešalddes muitalin juo sámi parlamentáralaš ráđi konfereanssas diimma skábmamánus Girkonjárggas, ahte Eurohpá uniovnna ruhtaroassu sáhttá dagahit Suoma stáhtii bušeahta čuohppama, mii sáhttá maid váikkuhit sakkarat sámedikki bargui ja davviriikkalaš ovttasbargui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi asia tämän ei olisi siis pitänyt olla Ollille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa ášši dat ii nappo galgan lean Ollii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen muuttanut blogini kommentointikäytänteitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean rievdadan blokka kommenterengeavadiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jatkossa blogiani voi kommentoida vain rekisteröityneet käyttäjät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boahttevuođas mu blokka sáhttet kommenteret dušše registreren geavaheaddjit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tein muutoksen siksi, että netti on täynnä mahdollisuuksia anonyymiin kommentointiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dahken rievdadusa danin go neahtas leat dievva vejolašvuođat anonyma kommenteremii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Haluan blogini kommentoinnin pysyvän asialinjalla ja toivon rekisteröitymisen lisäävän keskustelua myös blogissani – on mukavampi keskustella sellaisten ihmisten kanssa, joilla on nimi ja identiteetti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálidan, ahte mu blokka kommenteren bissu áššelinnjás ja sávan registrerema lasihit ságastallama maid blokkastan – lea suohttasit ságastallat dakkár olbmuiguin, geain lea namma ja identiteahta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuontisjärvellä 14.9.2012</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuottesjávrres 14.9.2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Klemetti Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juvvá Lemet</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

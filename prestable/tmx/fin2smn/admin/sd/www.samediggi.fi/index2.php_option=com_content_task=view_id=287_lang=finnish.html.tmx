@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=287_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anna Näkkäläjärvestä vs. kulttuurisihteeri</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anna Näkkäläjärvist vs. kulttuurčällee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien yleisessä toimistossa haettavana olleen kulttuurisihteerin viransijaiseksi on otettu musiikin maisteri Anna Näkkäläjärvi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige almos toimâttuvâst uuccâmnáálá lamaš kulttuurčällee virgesajasâžžân lii valdum muusik maister Anna Näkkäläjärvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näkkäläjärvi aloittaa tehtävässään 18. toukokuuta 2009.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Näkkäläjärvi aalgât pargostis 18. vyesimáánu 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hänen toimipaikkansa on Saamelaiskäräjien yleisessä toimistossa Inarin Riutulassa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suu toimâsaje lii Sämitige almos toimâttuvâst Aanaar Rivdulist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viransijaisuutta määräaikaan mennessä haki Anna Näkkäläjärven lisäksi neljä muuta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Virgesajasâšvuođâ meriááigán uccii Anna Näkkäläjärvi lasseen nelji eres ulmuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja hallintopäällikkö Juha Guttomilta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasetiäđuid haldâttâshovdâ Juha Guttormist.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

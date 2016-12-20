@@ -1,11 +1,12 @@
 <document xml:lang="fin" id="no_id">
   <header>
-    <title/>
+    <title>Saamelaiskulttuurikeskus Sajos saa oman postimerkin</title>
     <genre code="admin"/>
     <author>
       <unknown/>
     </author>
-    <wordcount>376</wordcount>
+    <year>2012</year>
+    <wordcount>330</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
@@ -22,7 +23,6 @@
     <version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="sms">9.1.2012</p>
     <p>
       <em type="bold">Saamelaiskulttuurikeskus Sajos saa oman postimerkin </em>
     </p>
@@ -52,13 +52,5 @@
     <p>
       <em type="bold">Lisätietoja: </em>
     </p>
-    <p>Itella  Posti  Oy</p>
-    <p type="listitem">  kehitysjohtaja  Markku  Penttinen,  puh. 020 451 5519, markku.penttinen@posti.fi</p>
-    <p type="listitem">  tuotepäällikkö  Petri  Pohjolainen,  puh. 020 451 5572, petri.pohjolainen@posti.fi</p>
-    <p type="listitem" xml:lang="smn">  tuotepäällikkö  Tommi  Kantola, puh. 020 451 5531, tommi.kantola@posti.fi</p>
-    <p>Itella  Viestintä</p>
-    <p type="listitem" xml:lang="smn">  viestintäpäällikkö  Sara Lindström, puh. 050 566 6851, sara.lindstrom@itella.com</p>
-    <p>Kuvamateriaalia  tiedotusvälineiden  käyttöön:</p>
-    <p xml:lang="smn">http://digilibrary.itella.com/?cart=617-bcajkdbcib&amp;language=FI</p>
   </body>
 </document>

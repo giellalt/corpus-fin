@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">ogoninflammation-hos-barn.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiella / Nordsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čalbmevuolššit mánáin - maid sáhttá ieš dahkat ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ögoninflammation hos barn - vad kan man göra själv ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pese silmä sideharsolla tai vanulapulla ulkonurkasta sisäänpäin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Basa čalmmi kompressoriin dehe bumbolduhkuin olggut čalbmegeažis siskkibu guvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmätulehdus paranee yleensä viikossa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Manná dávjá badjel vahkus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasten silmätulehdus on yleinen vaiva, jota esiintyy usein flunssan kaltaisen virustartunnan yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čalbmevuolššit mánáin leat dábálaččat, dávjá virusinfekšuvnna oktavuođas dego nuorvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmän valkuaiset punoittavat ja ärtyvät, ja silmistä vuotaa tahmeaa, useimmiten kellertävää nestettä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čalbmevielgadas ruvssoda ja erdo ja čalmmis golgá ruddi, mii dávjá lea fiskat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmä näyttää tavallisesti turvonneelta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dábálaččat čalbmi orru bohtas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmiten silmätulehdus paranee viikossa ilman hoitoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanas buorrána vahkus divššukeahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmätulehdus tarttuu herkästi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čalbmevuolši njoammu álkit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapset voivat saada silmätulehduksen myös muista syistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánát sáhttet oažžut vuolšši čalmmiide eará sivaid dihte nai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syynä voi olla allerginen reaktio tai että lapsi on loukannut silmänsä tai saanut siihen roskan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sivvan dasa sáhttá leahkit allergiijareakšuvdna dehe ahte mánná lea vahágahttán čalmmi dehe ožžon riba čalbmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulehdus on kehon puolustautumiskeino.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuolši lea goruda vuohki bealuštit iežas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voiko lapsi mennä esikouluun ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttágo mánná mannat ovdaskuvlii ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lievästi flunssainen lapsi, jonka silmät punoittavat ja rähmivät, voi mennä esikouluun, jos lapsen yleisvointi on hyvä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánná geas lea čalbmevuolši ja leat rukses čalmmit ja veháš durddas vuožus unnánaš nuorvvu oktavuođas ii dárbbat leahkit eret ovdaskuvllas jus muđui veadjá bures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esikouluun menevän lapsen on oltava niin pirteä, että hän jaksaa osallistua siellä kaikkeen toimintaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánát geat vázzet ovdaskuvlla galget leahkit nu virkot ahte sii nagodit oassálastit buot doaimmaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Allergian aiheuttamista silmävaivoista kärsivien lasten ei myöskään tarvitse pysytellä kotona.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánát geain lea allergiijaváttut čalmmiin eaige dárbbat leahkit ruovttus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsen tulee olla kotona, jos silmät rähmivät voimakkaasti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánná ferte bissut ruovttus jus čalbmi lea sidjon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsen silmät liimautuvat kiinni, ja rähmivä silmä täytyy pyyhkiä puhtaaksi monta kertaa päivässä, lapsi on saanut voimakkaan tartunnan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus máná čalbmi ruddo gitta ja ferte sihkut sieja čalmmis máŋgii beaivvis lea mánás garra infekšuvdna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmiten molemmat silmät ärtyvät ja saattavat rähmiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanas goappeš čalmmit leat erdon ja siedja sáhttá golgat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsen tulee tällöin olla kotona, toisaalta suuren tartuntariskin vuoksi, toisaalta siksi, että lapsen silmä pitää puhdistaa useita kertoja päivässä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánná ferte dalle leahkit eret ovdaskuvllas oassái daningo dat njoammu, oassái daningo máná čalmmi ferte bassat máŋgii beaivvis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsi voi palata lapsiryhmään vasta sitten, kun voimakkain tulehdus on mennyt ohi ja silmän rähmiminen loppunut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánná sáhttá fas mannat mánnájovkui go garra vuolši lea buorránan iige čalmmis leat šat siedja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmäinfektio tarttuu herkimmin pienten lasten keskuudessa, koska lapset leikkivät niin lähellä toisiaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čalbmevuolši njoammu álkit una mánážiid olis daningo sii stohket nu lahka nuppiideaset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tartunta leviää mm. kun tartunnan saanut lapsi hieroo silmiään ja tämän jälkeen koskee leluja tai toisia lapsia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njoammun viidu earet eará go mánná ruvve čalmmiidis ja dasto váldá ájanasaid dehe gitta eará mánáide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koululaiset eivät ole yhtä läheisessä kontaktissa toistensa kanssa, mutta heidänkin saattaa olla hyvä pysytellä kotona, jos silmät ovat ärtyneet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvlamánáin ii leat seamma lahka oktavuohta muhto garra čalbmeinfekšuvnnas sáhttet sii goit dárbbahit leahkit ruovttus jus čalmmit leat erdon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmien puhdistus vedellä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Basa čalmmi čáziin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsen silmät rähmivät, ne on hyvä pestä tavallisella vedellä niin usein kuin on tarpeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus mánás lea siedja čalmmiin lea buorre bassat čalmmi ráinnasin nu dávjá go dárbbahuvvo dábálaš čáziin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pese silmä sideharsolla tai vanulapulla ulkonurkasta sisäänpäin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geavtte kompressora dehe bumbola ja basa olggul olggut čalbmegeažis siskkibu guvlui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huolehdi käsien puhtaudesta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leage fuolalaš giehtabuhtisvuođain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kädet on silmätartuntojen ehkäisemiseksi pestävä huolella, jos joutuu olemaan flunssaisten keskuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eastin dihte čalbmeinfekšuvnnaid lea buorre leahkit fuolalaš giehtabassamiin jus máŋgasiin birrasis lea nuorvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sekä kotona että esikoulussa on myös hyvä vaihtaa käsipyyhkeet usein.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea maid buorre jus sihke ruovttus ja ovdaskuvllas molsojuvvo sihkaldagat dávjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastasyntyneet lapset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njuorat mánát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tavallista, että vastasyntyneiden lasten silmiin kertyy kellertävää eritettä. Tämä johtuu siitä, että vastasyntyneiden kyynelkanavat ovat ahtaammat kuin vanhempien lasten ja aikuisten.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dábálaš ahte njuorat mánáin lea fiskeslágan vuožus čalmmiin, man sivvan lea ahte sis leat baskkit ganjalkanálat go boarrásit mánáin ja ráves olbmuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pese silmä ulkonurkasta sisäänpäin vedessä tai keittosuolaliuoksessa kostutetulla sideharsolla tai vanulapulla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Basa čalmmi ráinnasin olggut čalbmegeažis siskkibu guvlui kompressoriin dehe bumbolduhkuin mii lea láktaduvvon loika hátnáčáziin dehe sálteluvvosiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Milloin tarpeen ottaa yhteys sairaanhoitoon</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soaitá dárbbahit váldit oktavuođa divššuin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos silmätulehdus ei ole parantunut viikossa, saatetaan hoitoon tarvita antibiootteja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čalbmevuolššit mat eai leat buorránan vahkus sáhttet dárbbahit dikšuma antibiotihkain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin voi ottaa yhteyttä terveyskeskukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá váldit oktavuođa dearvvašvuođaguovddážiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kahden päivän lääkitsemisen jälkeen tartuntavaaraa ei enää ole ja lapsi voi mennä takaisin esikouluun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovtti beaivvi antibiotihka dikšuma maŋŋel infekšuvdna ii darvan šat ja mánná sáhttá mannat fas ovdaskuvlii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteydenottoa sairaanhoitoon ei pidä viivyttää, jos lapsi on saanut voimakkaan, runsaasti rähmivän tartunnan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii galgga vuordit oktavuođa váldimiin dearvvašvuođaguovddážiin jus mánás lea garra vuolši ja boahtá olu siedja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sama pätee silloin, kun lapsen silmät aristavat valoa tai jos tällä on vaikeita flunssaoireita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seamma guoská jus mánná lea hearki čuvgii dehe sus leat váddásit nuorvováivvit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos lapsella on ankaria kipuja vain toisessa silmässä ja jos lapsen epäillään loukanneen silmänsä, sairaanhoitoon tulee ottaa yhteyttä viipymättä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus mánás leat váttis váivvit beare nuppi čalmmis ja eahpida ahte mánná lea loavkidan čalmmi ii galgga maid vuordit oktavuođa váldimiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos vastasyntyneellä lapsella on silmätulehdus, tulee yhteyttä ottaa sairaanhoitoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus njuorat mánás lea čalbmevuolši galgá váldit oktavuođa divššuin dakkaviđe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairaanhoitoneuvontaan voi soittaa koska tahansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá álot riŋget buohccedikšorávahahkii oažžun dihte ráđiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálli: Elin Åkerblom, buohccidivššár, Stockholm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117 Vårdguiden – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1177 Vårdguiden redakšuvdna ja redakšuvdnaráđđi leat maid heivehan, dárkkistan ja dohkkehan buot sisdoalu.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

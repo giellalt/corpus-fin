@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=357_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pekka Aikio johtaa saamelaiskäräjien vaalilautakuntaa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Pekka Aikio jođiha sámedikki válgalávdegotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vuotsolainen jäsen Pekka Aikio valittiin seuraavien saamelaiskäräjävaalien vaalilautakunnan puheenjohtajaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki vuohččulaš lahttu Pekka Aikio válljejuvvui čuovvovaš sámediggeválggaid válgalávdegotti ságadoallin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut valitut vaalilautakunnan jäsenet ovat Juha Magga Enontekiöltä (varajäsen Nils Henrik Valkeapää), Maria Sofia Aikio Utsjoelta (varajäsen Vieno Länsman), Marjaana Aikio Inarista (varajäsen Oula Valkeapää) ja Ilmari Laiti Inarista (varajäsen Marja Männistö).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Válljejuvvon válgalávdegotti eará lahtut leat Juha Magga Eanodagas (várrelahttu Nils Henrik Valkeapää), Maria Sofia Aikio Ohcejogas (várrelahttu Vieno Länsman), Marjaana Aikio Anáris (várrelahttu Oula Valkeapää) ja Ilmari Laiti Anáris (várrelahttu Marja Männistö).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pekka Aikion varajäseneksi nimettiin Päivi Magga Vuotsosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Pekka Aikio várrelahttun nammaduvvui Päivi Magga Vuohčus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien seuraavat vaalit toimitetaan syksyllä 2011.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki čuovvovaš válggat doaimmahuvvojit čakčat 2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näissä vaaleissa valitaan saamelaiskäräjät vaalikaudeksi 2012-2015.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáin válggain válljejuvvo sámediggi válgabadjái 2012-2015.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">palkinto_diplomi_kaara_2.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliteko – palkinto on saamen käsityö (duodji), jonka valmistajan on valinnut Sami Duodji ry..</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>kääri Säämi kielâtaho – palhâšume lii säämi tyeji, mon rähtee lii valjim Sami Duo-dji ry..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkinto on käsityö, koivun pahkasta valmistettu kaara ja sen on valmistanut duojár, lehtori ilmari laiti Inarista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Palhâšume lii tyeji, suáhipäähist rahtum kääri já ton lii ráhtám tuáijár, lehtor ilmari laiti Anarist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaara on pui-nen ruoka-astia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kääri lii muorâst rahtum purrâmâšlitte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisilla on perinteisesti ollut useampia kaaroja eri ruokalajien säilyttämiselle tai tarjolle asettamiselle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilijn láá ärbivuáválávt lamaš maaŋgah käärih jieškote-uv purrâmâšâi siäilutmân tâi fálusin piejâmân.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

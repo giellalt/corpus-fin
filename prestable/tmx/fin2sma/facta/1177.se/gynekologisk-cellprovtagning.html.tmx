@@ -1,0 +1,1328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">gynekologisk-cellprovtagning.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Åarjelsaemiengiele / Sydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SuomeksiFinska</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>ÅarjelsaemiengieleSydsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektiedimmie (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naiset kutsutaan säännöllisesti (ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkien ei tarvitse antaa näytettä (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies eah daarpesjh pryövenassem vedtedh (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin tutkimus tehdään (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie goerehtimmiem darjodh (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vastaukset tulevat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie vaestiedassem åådtje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naiset kutsutaan säännöllisesti (ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkien ei tarvitse antaa näytettä (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies eah daarpesjh pryövenassem vedtedh (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin tutkimus tehdään (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie goerehtimmiem darjodh (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vastaukset tulevat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie vaestiedassem åådtje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiivistelmä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektiedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiivistelmä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ektiedimmie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohdunkaulan syöpää vastaan voi suojautua antamalla säännöllisesti gynekologisen solunäytteen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse daamhtaj gynekologijen cellepryövenassem vadta maahta boernengåetiecanceren vööste vaarjelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solunäyte otetaan emättimen pohjan kohdunnapukasta, ja se voi osoittaa varhain mahdollisia solumuutoksia, jotka voisivat johtaa kohdunkaulan syöpään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenassem boernengåetientappeste vaalta jïh maahta aareh vuesiehtidh jis cellejeatjahtehtemh åtna mestie maahta boernengåetietjeahpohkencancerem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmat havaituista solumuutoksista ovat lieviä muutoksia, jotka paranevat itsekseen, mutta osa joudutaan poistamaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes cellejeatjahtehtemh mejtie aajhtsa leah geehpebe jeatjahtehtemh mejtie sjïdtehtidh, mohte naan dejstie tjuara destie vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvin harvoissa tapauksissa solunäyte saattaa osoittaa, että tutkittavalla on syöpä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Joekoen sveekes aamhtesinie maahta cellepryövenasse vuesehte cancerem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin syöpä on yleensä varhaisessa vaiheessa, ja hoito voi olla helppoa eikä aiheuta paljon sivuvaikutuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie pråvhka cancere aalkovisnie orre jïh båehtjierdimmie maahta aelhkebe sjïdtedh jïh vaenie lissiehdåårresinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ruotsissa naiset kutsutaan säännöllisesti gynekologisen solunäytteen ottoon eli ns. seulontaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nyjsenæjjah Sveerjesne daamhtaj gynekologijen cellepryövenasesvaaltemasse bööresuvvieh, maam gohtje screeninge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>23–50-vuotiaat naiset kutsutaan joka kolmas vuosi; sen jälkeen viiden vuoden välein, kunnes he täyttävät 60 vuotta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis 23 jïh 50 jaepiej gaskem dellie gohtjeme fïerhten gåalmeden jaepien båata. Dan mænngan daamhtaj fïerhten vïjhteden jaepien goske 60 jaepien båeries sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yli 50-vuotiaiden osalta rutiinit voivat olla hieman erilaisia sen mukaan, missä päin maata asuu.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis båarasåbpoe 50 jaepieh maahta rutijnh ovmessie vuekine årrodh dan mietie gusnie årroeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solunäytteen voi antaa myös ollessaan muista syistä kätilön tai gynekologin vastaanotolla gynekologisessa tutkimuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj cellepryövenassem vedtedh gosse tsegkietnien jallh gynekologen luvnie jis gynekologijen goerehtimmiem darjoeh jeatjah sjïekenistie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitään erityisiä valmisteluja ei tarvitse tehdä, mutta olisi hyvä pidättäytyä yhdynnästä ja voiteiden käytöstä sukupuolielimissä vuorokautta ennen tutkimusta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij daarpesjh maam akt sjïere åvtelhbodti darjodh, mohte hijven jis idtji boetjeme jallh såemies badtjam nåhtadamme dygnem goerehtimmien åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muuten näytteen tulkinta voi vaikeutua.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïlhts pryövenassem maahta gïervebe sjïdtedh lohkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytettä ei myöskään saa antaa kuukautisten aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij edtjh pryövenassem vedtedh gosse gujnelemmiem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miten tutkimus tehdään ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie goerehtimmiem darjodh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen näytteen ottoa riisutaan alaruumis paljaaksi ja asetutaan gynekologiseen tutkimustuoliin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse pryövenassem edtja vaeltedh tjuara vaarjoeh noeledh vueliekråahpesne jïh gynekologijen goerehtimmiestovlese tjihkedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri tai kätilö voi ottaa näytteen hieman eri tavoin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dåaktere jallh tsegkietnie maahta pryövenassem vaeltedh ovmessie vuekine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmiten käytetään pientä lastaa, jota vedetään pitkin kohdunnapukkaa ja sitten pientä pehmeää harjaa kohdunkaulan kanavan alimmassa osassa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Damtemes ohtje spatelem nåhtede mij boernengåetietappen vööste deehkehtidh jïh dan mænngan ohtje seepine boernengåetiekanalen vueliehkommes bielesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Usein näytteenoton yhteydessä tutkittavalle esitetään myös muutamia kysymyksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtaj aaj naan gyhtjelasside vaestiedidh gosse pryövenassem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaukset ovat tärkeitä, jotta näyte voidaan analysoida oikealla tavalla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaestiedassh lea vihkeles guktie pryövenassem reaktoe vuekine analyseeredh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tutkimus ei satu ja sen tekemiseen kuluu vain muutamia minuutteja.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmie ij bååktjedh jïh barre måedtie minudtine tjïrrehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solunäytteestä saa vastauksen yleensä kuudessa viikossa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenassen vaestiedassem daamhtaj pråvhka åadtjodh govhte våhkoej mïeresne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miltä tutkimuksen jälkeen tuntuu ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie damta dan mænngan ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen otto on vaaratonta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij naan vaahrah pryövenassine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus voi esiintyä pientä verenvuotoa, mutta se on vaaratonta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene maahta ånnetji bertedh mohte ij leah vaahreles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikä on gynekologinen solunäyte ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij lea gynekologijen cellepryövenasse ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikä on gynekologinen solunäyte ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij lea gynekologijen cellepryövenasse ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Gynekologinen solunäyte on näyte, joka otetaan kohdunnapukasta, ts.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenassem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kohdunkaulan alimmasta osasta, joka avautuu emättimeen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gynekologijen cellepryövenasse lea pryövenasse maam boernengåetien vueliehkommes bieleste vaalta maam gohtje boernengåetietappe jïh mij tsïnnese gietjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte voi osoittaa varhain, onko olemassa solumuutoksia, jotka voivat johtaa kohdunkaulan syöpään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenasse maahta aareh vuesiehtidh jis cellejeatjahtehtemh åtna mestie maahta boernengåetietjeapohkecancerem åadtjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmat havaituista solumuutoksista ovat lieviä ja paranevat itsekseen, mutta osa joudutaan poistamaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes cellejeatjahtehtemh mejtie aajhtsa leah geehpebe jeatjahtehtemh mejtie jïjtje sjïdtehtidh, mohte naan dejstie tjuara destie vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte voi myös osoittaa syövän, joskin se on hyvin harvinaista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenasse maahta cancerem vuesiehtidh, mohte dïhte joekoen sveekes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Antamalla säännöllisesti solunäytteen saa vahvan suojan kohdunkaulan syöpää vastaan, koska solumuutokset voidaan löytää ennen niiden kehittymistä syöväksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis daamhtaj cellepryövenassem vadta åådtje tjarki vaarjelimmiem boernengåetiecancerem vööste dan mietie cellejeatjahtehtemidie aajhtsa åvteli cancerem sjïdtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solunäyte on otetaan kohdunkaulan alimmasta osasta, emättimeen avautuvasta kohdunnapukasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenassem vueliehkommes boernengåetietjeahpohken bieleste vaalta, boernengåetietappeste mij tsïnnese gietjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Livmoder = Kohtu Äggstock = Munasarja Livmoderhals = Kohdunkaula Livmodertapp = Kohdunnapukka Slida = Emätin</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Livmoder = Boernengåetie Äggstock = Munniestuehkie Livmoderhals = Boernengåetietjeapohke Livmodertapp = Boernengåetietappe Slida = Tsïnne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Säännölliset tarkastukset</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaabnan vååksjedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Gynekologisen solunäytteen otto kuuluu terveystarkastuksiin eli ns. seulontoihin, joihin naiset kutsutaan Ruotsissa säännöllisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gynekologijen cellepryövenasse meatan dennie healsoevååksjeminie, maam gohtje screeninge, maam nyjsenæjjide Sveerjesne jaabnan böörie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seulontojen ansiosta solumuutokset voidaan havaita ja hoitaa varhain, mikä on johtanut siihen, että kohdunkaulan syövästä on tullut merkittävästi harvinaisempi 40 viime vuoden aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellejeatjahtehtemh maahta dellie aajhtsedh jïh aareh båehtjierdidh, destie sjædta boernengåetietjeapohkecancere vaenede dej minngemes 40 jaepieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solunäytteet muissa tilanteissa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenasse jeatjah tsiehkine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Gynekologisen solunäytteen voi antaa myös ollessaan muista syistä kätilön tai gynekologin vastaanotolla gynekologisessa tutkimuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aaj gynekologijen cellepryövenassem vedtedh gosse tsegkietnien jallh gynekologen luvnie jïh gynekologijen goerehtimmiem darjodh jeatjah sjïekenistie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus solunäyte voi olla osa gynekologin selvitystyötä, jos on esimerkiksi esiintynyt kuukautisvuotohäiriöitä, mutta se voi silti olla sopiva tilaisuus antaa seulontanäyte.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Muvhtene maahta cellepryövenasse bieliem gynekologen goerehtimmeste jis vuesiehtimmien gaavhtan bertedh, bene maahta hijven årrodh aaj screeningepryövenassem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on sopivaa, jos muutenkin olisi pian aika antaa näyte tai jos jokin aikaisempi solunäytekontrolli on jäänyt tekemättä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Sjïehteles jis edtja pryövenassem vedtedh, jallh jis tïjje dam dellie darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solumuutokset ja syöpä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellejeatjahtehtemh jïh cancere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solumuutokset voivat johtua bakteerien aiheuttamasta ärsytyksestä limakalvolla tai tilapäisestä virustartunnasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellejeatjahtehtemh maehtieh sjïdtedh jis irritasjovne njevlieskïeltesne mij bakterijistie jallh viruseinfeksjovneste sjædta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on tavallisin solumuutostyyppi ja voi parantua itsekseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtemes type cellejeatjahtehtemistie maahta jïjtje sjïdtehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toisia solumuutoksia, jotka voisivat johtaa kohdunkaulan syöpään, voidaan poistaa vähäisellä toimenpiteellä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeatjah cellejeatjahtehtemh mestie boernengåetiecancerem sjædta, maahta unnebe operasjovnine laahpehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittavan solunäyte ei ole normaali, tehdään selvitys ja usein hänet kutsutaan silloin lääkärin tutkimuksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis cellepryövenassem åtna mij ij leah normaale dellie goerehtimmiem darjodh jïh dellie dåakteregoerehtæmman gohtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin hänelle voidaan ehdottaa, että solumuutokset poistetaan tai että voidaan odottaa ja katsoa, paranevatko muutokset itsekseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie maahta evtiedidh dah cellejeatjahtehtemh laahpehtidh jallh vuertedh jïh vuejnedh jis dah jeatjahtehtemh jïjtje sjïdtehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solumuutoksen kehittyminen kohdunkaulan syöväksi kestää yleensä pitkän ajan, tavallisesti kymmenestä viiteentoista vuotta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guhkiem åvteli cellejeatjahtehtemh boenengåetiecancerem sjidtieh, daamhtemes luhkie jallh luhkievïjhte jaepieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On hyvin epätavallista, että solunäytteen otossa havaitaan jo kehittynyt syöpä, mutta niin käy joissakin yksittäistapauksissa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte dan ovsïejhme joe evtiedamme cancerem aajhtsa gosse cellepryövenassem vaeltedh, mohte gujht deahpede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin syöpä on yleensä varhaisessa vaiheessa, jolloin hoito voi olla helppoa ja siitä voi olla vähemmän sivuvaikutuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie pråvhka cancerem aareh stadijumesne årrodh jïh båehtjierdimmie maahta aelhkebe sjædta vaenie lissiehdåårresinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuosittain vajaat 450 ruotsalaista naista saa kohdunkaulan syövän ja paljon useampi, noin 30 000 naista, saa tiedon, että heillä on solumuutoksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Fïerhten jaepien mahte 450 sveerjen nyjsenæjjah boernengåetiecancerem åadtjoeh, mearan jïjnjebh, medtie 30 000 nyjsenæjjah dïerem åadtjoeh dej cellejeatjahtehtemh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naiset kutsutaan säännöllisesti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nyjsenæjjah jaabnan gohtje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naiset kutsutaan säännöllisesti</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nyjsenæjjah jaabnan gohtje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naiset kutsutaan kolmen vuoden välein</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nyjsenæjjah fïerhten gåalmeden jaepien gohtje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki 23–50-vuotiaat naiset kutsutaan antamaan solunäyte joka kolmas vuosi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh nyjsenæjjah 23 jïh 50 jaepiej gaskem åadtjoeh gohtjemem cellepryövenassese fïerhten gåalmeden jaepien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän jälkeen 50–60-vuotiaat kutsutaan joka viides vuosi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan gohtjemem åådtje fïerhten vïjhteden jaepien gosse 50 jïh 60 jaepiej gaskem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yli 50-vuotiaiden osalta kutsujen väli voi vaihdella asuinpaikkakunnan mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis båarasåbpoe 50 jaepeste maahta tïjje gohtjemi gaskem jeatjahtahta destie gusnie laantesne årroeminie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne jotka ovat aikaisemmin saaneet hoitoa solumuutosten vuoksi, saattavat tarvita solunäytekontrolleja myös 60 ikävuoden jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nyjsenæjjah gïeh aarebi leah cellejeatjahtehtemi åvteste gïetedamme maehtieh cellepryövenassevååksjemh daarpesjidh aaj mænngan 60 jaepiej ïlleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutsu lähetetään siihen osoitteeseen, jossa asianomainen on kirjoilla, ja osallistuminen on aina vapaaehtoista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gohtjemem adressese seedtie gusnie åålmegetjaaleme jïh frijjes jis sæjhta meatan årrodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Millä vastaanotolla näyte otetaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mij dåastoevidie pryövenassem vedtedh ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutsun saaneelta näytteen ottaa kätilö lähimmällä kätilövastaanotolla, josta käytetään myös nimitystä äitiysneuvola.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse gohtjemem åådtjeme cellepryövenassem tsegkietnie vaalta lïhkemes tsegkietniedåastoevisnie maam aaj gohtje ietniehoksejarnge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmissa tapauksissa on varattu valmiiksi kellonaika, jonka voi tarvittaessa vaihtaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtemes sjïere tïjjem åådtje maam maahta jeatjahtehtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eräillä paikkakunnilla ajanvarauksen voi vaihtaa myös toiselle vastaanotolle.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies sijjine maahta aaj tïjjem dængkodh jeatjah dåastoevisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos solunäyte annetaan gynekologisen tutkimuksen yhteydessä esimerkiksi gynekologilla tai ehkäisyneuvonnan yhteydessä, tapana on myös rekisteröidä näytteet niin, että tutkittava saa seuraavan kutsun solunäytekontrolliin, kun on kulunut kolmesta viiteen vuotta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis cellepryövenassem vadta gosse gynekologijen goerehtimmiem darjodh, vuesiehtimmien gaavhtan gynekologesne jallh gosse preventijvevierhtiejgujmie raeriestidh, pryövenasside registreradidh guktie aaj faalenassem cellepryövenassevååksjemasse gosse golme jallh vïjhte jaepieh vaaseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkien ei tarvitse antaa näytettä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies eah daarpesjh pryövenassem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkien ei tarvitse antaa näytettä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies eah daarpesjh pryövenassem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutsua eivät saa alle 23- ja yli 60-vuotiaat</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah gïeh nuerebe 23 jïh båarasåbpoe 60 eah gohtjesuvvieh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solumuutokset ovat sellaisinaan melko tavallisia ennen 23 ikävuotta, mutta niin nuorilta naisilta useimmat muutokset häviävät itsekseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis nuerebe 23 jaepieh ij cellepryövenasside gohtjesuvvieh. Cellejeatjahtehtemh gååvnesieh gujht åvteli 23 jaepien båeries, mohte jeenjemes gaarvanieh dej noere nyjsenæjjine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohdunkaulan syövän kehittyminen niin nuorena on äärimmäisen harvinaista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte ekstremeles ovdaamhtaj boernengåetietjeapohkecancerem evtiedidh dan aareh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos 60 vuotta täyttänyt on osallistunut gynekologiseen solunäytekontrolliin ja useat näytteet ovat olleet normaaleja, riski kohdunkaulan syövän kehittymiseen myöhemmällä iällä on hyvin pieni.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis lea meatan orreme gynekologijen cellepryövenassevååksjemisnie jïh gellie normaale cellepryövenasside åtneme gosse 60 jaepieh illeme lea dan onne vaahra boernengåetietjeapohkecancerem åådtje dan mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytettä ei tarvitse antaa, jos ei ole koskaan ollut yhdynnässä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah gïeh eah seksem utnieh eah daarpesjh pryövenassem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos ei ole koskaan ollut yhdynnässä, ei tarvitse antaa solunäytettä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis idtji seksem utnieh ij daarpesjh cellepryövenassem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohdunkaulan syöpää esiintyy vain naisilla, jotka ovat olleet yhdynnässä ja saaneet siten ihmisen papilloomavirus- eli HPV-tartunnan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Boernengåetiecancere ajve nyjsenæjjide sjædta dejtie gïeh seksem åtneme jïh laanestamme sjïere typine HPV:este, humaneles papillomviruse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos nainen on homoseksuaali, säännöllisissä solunäytekontrolleissa on hyvä käydä, koska solumuutoksia mahdollisesti aiheuttava virus voi tarttua myös naisesta toiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis homoseksuelle dellie hijven daamhtaj cellepryövenassevååksjemasse vuelkedh juktie viruse mestie cellejeatjahtehtemidie sjïdtedh aaj maahta nyjsenæjjeste nyjsenæjjese laanestidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos naiselle on tehty kohdunpoisto</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis boernengåetiem operasjovnine laahpehtidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos naiselta on poistettu koko kohtu toimenpiteessä, josta käytetään nimitystä totaali hysteerikottomia, hänen ei tarvitse käydä solunäytekontrolleissa, koska leikkauksessa on tuolloin poistettu myös kohdunnapukka.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis abpe boernengåetiem operasjovnine laahpehtamme, maam gohtje hysterektomije, ij daarpesjh cellepryövenassevååksjemasse båetedh, dan gaavhtan boernengåetietappem aaj lea operasjovnine laahpehtamme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos leikkaus on tehty kohdunkaulan syövän tai kohdunkaulan solumuutosten vuoksi, kontrollikäyntejä täytyy jatkaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Mohte jis operasjovnem dorjeme boernengåetietjeapohkecanceren jallh jeatjahtehtemi åvteste boernengåetietjeapohkisnie byöroe jåerhkedh dam vååksjedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin näyte otetaan emättimen yläosasta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie pryövenassem tsïnnen bijjemes bieleste vaalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on epävarma siitä, millaisessa leikkauksessa on ollut tai mitä on poistettu, asiaa voi kysyä toimenpiteen tehneeltä klinikalta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij leah vihties mij operasjovnide lea tjïrrehtamme jallh maam lea laahpehtamme maahta klinihkesne gihtjedh gusnie operasjovnem dorjeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Usein myös kätilövastaanoton tai äitiysneuvolan kätilö voi auttaa tämän tiedon hankkimisessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Tsegkietnie tsegkietniedåastoevisnie jallh ietniehoksejarngesne maahta aaj viehkiehtidh dejtie bïevnesidie gaavnedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on epävarma, näyte kannattaa antaa varmuuden vuoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij leah vihties dellie buerebe pryövenassem vaeltedh vihtiesvoeten gaavhtan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin tutkimus tehdään</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie goerehtimmiem darjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin tutkimus tehdään</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie goerehtimmiem darjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitään erityisiä valmisteluja ei tarvitse tehdä ennen solunäytteen ottoa, mutta vuorokautta ennen tutkimusta tulisi pidättäytyä yhdynnästä ja voiteiden käytöstä emättimessä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij daarpesjh sjïere vuekine ryöjredidh åvtelhbodti cellepryövenassem vadta, bene ij boetjh jallh naan badtja tsïnnen sïjse nåhtadidh dygnem goerehtimmien åvteli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muuten solunäytteen tulkinta voi vaikeutua.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenasse maahta ellien sjædta gïerve toelhkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytettä ei myöskään saa antaa kuukautisten aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij edtjh pryövenassem vedtedh gosse gujnelemmie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte kohdunnapukasta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenasse boernengåetietappeste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ennen näytteen ottoa täytyy riisua alaruumis paljaaksi ja asettua gynekologiseen tutkimustuoliin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtimmien åvteli tjuara vaarjoeh noeledh vueliekråahpesne jïh gynekologijen goerehtimmiestovlese tjihkedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen ottaja, joka on kätilö tai lääkäri, levittää emättimen seinämiä varovasti tavallisilla gynekologisilla instrumenteilla, joiden tulee olla ruumiinlämpöisiä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassevaaltije, gie tsegkietnie jallh dåaktere, mojhteleslaakan tsïnnevïedtjide rïhpeste gynekologijen dïrreginie mej leah kråahpetemperatuvre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen ottotapa voi vaihdella hieman eri vastaanotoilla.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Guktie pryövenassem vaalta maahta jeatjahtehtedh dåastoevistie dåastoevasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavallisinta on käyttää pientä puista tai muovista lastaa, jolla pyyhkäistään kevyesti kohdunnapukkaa, ja sitten pientä pehmeää harjaa kohdunkaulan kanavan alimmassa osassa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Damtemes ohtje spatelem nåhtede mij boernengåetietappen vööste deehkehtidh jïh dan mænngan ohtje seepine boernengåetiekanalen vueliehkommes bielesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen otto käy nopeasti ja kestää tavallisesti vain muutaman minuutin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassem varki vaeltedh jïh daamhtaj barre naan minudtesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleensä se on kivutonta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ij provhkh baektjiedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joillekin saattaa tulla epämiellyttäviä tuntemuksia, mutta ne menevät pian ohi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naakene maahta vaejviem damtedh mohte varki orrije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>﻿﻿Kysymyksiä vastattaviksi</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gyhtjelassh mejtie vaestiedidh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteenoton yhteydessä tutkittavalle esitetään usein muutamia kysymyksiä, kuten esimerkiksi</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Daamhtaj aaj åådtje vaestiedidh naan gyhtjelasside gosse pryövenassem vaeltedh, vuesiehtimmien gaavhtan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>milloin oli viimeisten kuukautisten ensimmäinen päivä tai ovatko kuukautiset loppuneet</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>gåessie minngemes gujnelemmien voestes biejjie, jallh jis gujnelemmie orriji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>käyttääkö tukittava ehkäisyä ja mitä siinä tapauksessa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jis preventijvevierhtieh nåhtede jïh jis naemhtie mij dejstie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saako tutkittava hormonihoitoa vaihdevuosivaivoihin</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jis hormonigujmie båehtjierdidh klimakterijedåeriesmoeri vööste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>onko tutkittava raskaana tai synnyttänyt viime vuoden aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>jis nåajsan jallh baersieldamme minngemes jaepesne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedot lähetetään näytteen mukana ja ne helpottavat laboratorion määrityksenteossa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah bïevnesh pryövenassen ektesne seedtie jïh dorje aelhkebe sjædta laboratovrijesedej vuarjasjimmiem darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jälkeenpäin voi ilmetä vähäistä vaaratonta verenvuotoa</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dan mænngan maahta onne ovvaahreles vïrremem åadtjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohdunkaulan limakalvo vuotaa herkästi verta ja tutkimuksen jälkeen on tavallista saada vähäistä ja vaaratonta verenvuotoa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Boernengåetietjeapohken njevlieskïelte aelhkie barta jïh sïejhme onne jïh ovvaahreles bertemem åådtje goerehtimmien mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verenvuoto häviää muutamassa päivässä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vïrreme galhkoe naan biejjien mænngan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raskaana olevat voivat antaa näytteen</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis nåajsan maahta aaj pryövenassem vedtedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteenotto on täysin vaaratonta ja näytteen voi antaa myös raskaana ollessaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenassevaalteme lea vaahraj namhtah jïh hijven gåarede pryövenassem vaeltedh jis nåajsan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleensä näytteen antamista suositellaan viimeistään 15. raskausviikolla, koska poikkeavan näytteen selvitys voi olla vaikeampaa raskauden edettyä pitemmälle.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pråvhka jiehtieh buerie jis pryövenassem vedtedh minngemes 15 nåajsanvåhkosne dan gaavhtan goerehtimmie sveehkeme pryövenasseste maahta gïervebe sjïdtedh jis guhkebe nåajsan orreme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vastaukset tulevat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie vaestiedassem åådtje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vastaukset tulevat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie vaestiedassem åådtje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmissa vastauksissa ilmoitetaan, ettei muutoksia ole</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jeenjemes vaestiedassh eah naan jeatjahtehtemh vuesehth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytettä koskevan vastauksen pitäisi tulla kuuden viikon kuluessa, mutta joskus voi kulua pidempi aika.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Govhte våhkoej raejesne byöroe prieviem pryövenassevaestiedassine åådtjeme, mohte muvhtene maahta guhkebe tïjjem vaasedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Noin 95 näytteessä sadasta ei ole solumuutoksia, ja näytteitä pidetään normaaleina.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Medtie 95 pryövenassh 100 pryövenassijste leah cellejeatjatehtemh namhtah jïh normaaline vuarjasjidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laboratorio lähettää vastauksen suoraan kotiosoitteeseen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vaestiedassem åådtje rïekte gåetide laboratovrijeste seedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos näyte annetaan gynekologin vastaanotolla tai ehkäisyneuvolassa, näytteen ottanut on useimmiten vastuussa siitä, että tutkittava saa vastauksen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis pryövenassem vadteme gynekologedåastoevisnie jallh preventijvevierhtiedåastoevisnie dellie daamhtaj dïhte gie pryövenassem vaalteme gïen dïedte vaestiedassem vedtedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Harvinaisissa tapauksissa näytettä ei ole voitu analysoida, esimerkiksi jos se on sisältänyt runsaasti kuukautisverta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ovsïejhme tsiehkine idtji maehtieh pryövenassem analyseeredh, vuesiehtimmien gaavhtan jis jïjnjh gujnelemmievïrrem dan sisnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin lähetetään kutsu uuteen solunäytteen ottoon.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie orre cellepryövenassese gohtje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos näytteessä on solumuutoksia</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis pryövenassesne cellejeatjahtehtemh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos näyte osoittaa jonkinlaisia solumuutoksia, selvityksiä jatketaan.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis pryövenasse cellejeatjahtehtemh vuesehte dellie dam vijresåbpoe goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittavalla on pieniä solumuutoksia ja hän on 30–35-vuotias, ikäraja vaihtelee asuinpaikkakunnan mukaan, näyte tutkitaan heti virustestillä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis geehpes cellejeatjahtehtemh åtna jïh 30 jallh 35 jaepieh illeme, aaltereraaste jeatjahtahta gusnie årroeminie laantesne, dellie pryövenasse daamhtaj viruseteestine goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testillä tarkastetaan, onko tutkittavalla ihmisen papilloomaviruksen HPV:n tyyppi, joka lisää kohdunkaulan syövän riskiä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Teeste vååksjede jis HPV typem åtna, humaneles papillomviruse, maam vaahra boernengåetiecancerasse vadta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin tutkimuksiin tarvitsee tulla vain niiden, joilla samaan aikaan on tämä HPV-tyyppi.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Ajve dejtie giej seammasïenten daam HPV-typem utnieh tjuerieh goerehtæmman båetedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittavalla todetaan pieniä solumuutoksia, joissa ei ole tätä virusta, uusi solunäyte täytyy ottaa vuoden kuluttua.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis geehpebe cellejeatjahtehtemh åtna man ij dagkeres virusem utnieh daarpesje barre orre cellepryövenassem jaepien mænngan vaeltedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alle 30–35-vuotiaiden naisten kaikkien solumuutosten osalta suositellaan nykyään gynekologin tutkimusta, mutta eräillä paikkakunnilla on sen sijaan tapana kutsua uuteen solunäytteen ottoon kätilön vastaanotolle.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh cellejeatjahtehtemi bïjre nyjsenæjjine gïeh nuerebe 30 jallh 35 jaepieh daelie dejtie jiehtieh buerie jis gynekologe dejtie goerehte, mohte aaj såemies sijjine laantesne dan sijjeste gohtje orre cellepryövenassevadtemasse tsegkietnien luvnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Gynekologin tutkimusta suositetaan myös yli 30- tai 35-vuotiaille naisille, joilla on muita kuin kaikkein pienimpiä solumuutoksia.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Nyjsenæjjah båarasåbpoe 30 jallh 35 jaepieh gïeh jeatjah cellejeatjahtehtmh utnieh goh dejtie geehpemes, rekommanderade gynekologe edtja dejtie goerehtidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solunäytteenotot eivät anna täydellistä suojaa syövältä</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenassevaeltemh eah ellies vaarjelimmiem vedtieh canceren vööste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Säännölliset solunäytekontrollit antavat vahvan suojan kohdunkaulan syöpää vastaan, mutta suoja ei ole täydellinen.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaabnan cellepryövenassevååksjemh vedtieh tjarki vaarjelimmiem boernengåetietjeapohkecanceren vööste, mohte ij leah ellies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohdunkaulan syövän saattaa saada, vaikka solunäytteet ovat olleet normaaleja, joskin tämä on hyvin harvinaista.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta boernengåetietjeapohkecancerem åadtjodh jïlhts cellepryövenasse normaale orreme, mohte dïhte dan ovsïejhmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siksi säännöllisten solunäytekontrollissa käyntien lisäksi täytyy aina hakeutua hoitoon, jos ilmenee verenvuotoa yhdynnän jälkeen, jos ilmenee toistuvasti verenvuotoa kuukautisten välillä tai jos ilmenee verenvuotoja sen jälkeen kun kuukautiset ovat loppuneet.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jaabnan cellepryövenassevååksjemen lissine byöroe åålegh dan gaavhtan hoksem ohtsedidh jis bertedh gosse boetjedh, jis gellien aejkien bertedh gujnelemmiej gaskem, jallh aalka bertedh dan mænngan gujnelemmie orriji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aina voi soittaa sairaanhoitoneuvontaan ja kysyä, mihin pitää ottaa yhteys.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta åålegh skïemtjehokseraeriestæmman ringkedh jïh raeriem åadtjodh jïh dejnie soptsestalledh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteenotto ja näytteen vastaus voivat aiheuttaa levottomuutta</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Maahta aerkies damtedh åvteli pryövenasse vaeltedh jïh pryövenassevaestiedassem åadtjodh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Solunäytteen anto voi tuntua rasittavalta. Esimerkiksi näytteen vastauksen odottaminen voi aiheuttaa levottomuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenassem vedtedh maahta vaejvie damtedh Maahta vuesiehtimmien gaavhtan aerkies damtedh dan tïjjen gosse pryövenassevaestiedimmiem vuertedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin saattaa tuntua helpottavalta ajatella, että solunäytteiden otot ovat yksi tapa suojautua syövältä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dellie hijven ussjedidh cellepryövenassevaalteme hijven vuekie canceren vööste vaarjelidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin havaitut muutokset voidaan lähes aina poistaa helpolla toimenpiteellä, niin että välttyy syövän kehittymiseltä tulevaisuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dah jeatjahtehtemh mejtie aajhtsa maahta daamhtaj aelhkies operasjovnine laahpehtidh guktie ij cancere evtedh båetije aejkien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On hyvin harvinaista, että näytteessä havaitaan jo kehittynyt syöpä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Dïhte dan ovsïejhme pryövenasse vuesehte evtiedamme cancerem åtna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niissä harvinaisissa tapauksissa, joissa solunäytekontrollissa havaitaan syöpä, se on yleensä niin varhaisessa vaiheessa, että hoito on helppoa ja sivuvaikutuksia aiheutuu vähemmän.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gosse cancerem aajhtsa cellepryövenassevååksjemen tjïrrh dellie pråvhka dan aareh tsiehkine årrodh båehtjierdimmie aelkebe jïh vaenebe lissiehdåårresinie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairaus on voitu havaita solunäytteen avulla, ja riski sairastua vakavasti pienenee.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Cellepryövenassen tjïrrh maahta skïemtjelassem aajhtsedh jïh vaarha alvas skïemtjedidh unnede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen säilytyksestä saa päättää itse</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jïjtje nænnoste jis pryövenassh edtjieh vöörhkedh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleensä solunäytteenotoissa annetut näytteet säilytetään.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenasse maam cellepryövenassevaaltemisnie veelti pråvhka vöörhkedh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusia näytteitä voidaan esimerkiksi verrata vanhoihin ja tehdä erilaista seurantaa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Vuesiehtimmien gaavhtan maahta båeries pryövenassh mohtedidh båeries pryövenasside jïh ovmessie dåeriedimmieh darjodh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteitä voidaan lisäksi käyttää tutkimukseen tai muihin tutkimuseettisen komitean hyväksymiin tarkoituksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Pryövenasside maehtieh aaj dotkemasse jallh jeatjah aajkojde nåhtadidh mejtie dotkemeetiken dåehkie dåhkasjahteme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos näytettä ei halua säilytettävän tulevaisuutta varten, sen voi ilmoittaa näytteen ottaneelle henkilölle, jolloin näyte tuhotaan myöhemmin.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij sïjhth pryövenassem båetije biejjide vöörhkedh maahta dam jiehtedh dïsse gie pryövenassem vaalta, jïh pryövenassem dan mænngan bihtedidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedot näytteenotoista säilytetään myös terveydenhoidon kehittämiseen käytettävässä laaturekisterissä.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Bïevnesh pryövenassevaaltemen bïjre aaj kvaliteeteregisterisnie vöörhkedh maam nåhtadidh gosse hoksem buaranidh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tutkittava ei halua omien tietojensa käyttämistä tähän, hän voi vaatia niiden poistoa.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Jis ij sïjhth jïjtje bïevnesh edtjieh dejtie nåhtadidh maahta krïevedh dejtie destie vaeltieh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Naiset kutsutaan säännöllisesti (ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikkien ei tarvitse antaa näytettä (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Såemies eah daarpesjh pryövenassem vedtedh (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin tutkimus tehdään (ca 2 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Naemhtie goerehtimmiem darjodh (ca. 2 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vastaukset tulevat ?</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gåessie vaestiedassem åådtje ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(ca 3 sidor)</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>(ca. 3 sidor)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittaja:</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Redaktööre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuvittaja: Kari C Toverud, sertifioitu lääketieteen kuvittaja, Oslo, Norja</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Goerehtæjja: Inga Sjöber, gynekologe jïh baersieldimmiedåaktere, Ersboda healsoejarnge, Upmeje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1117. se – toimitus ja toimitusneuvosto on myös muokannut, tarkastanut ja hyväksynyt kaiken sisällön.</seg>
+      </tuv>
+      <tuv xml:lang="sma">
+        <seg>Gaajhkh sisvege lea gïetedamme, goerehtamme jïh dåhkasjahteme redaksjovneste jïh redaksjovneraereste 1177 Vårdguiden.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

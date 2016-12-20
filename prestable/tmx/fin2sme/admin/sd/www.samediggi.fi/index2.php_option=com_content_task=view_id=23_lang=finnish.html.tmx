@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=23_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieli</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>sámi giellaráđđi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteispohjoismaista kieliyhteistyötä uudistetaan Interreg-rahoitteisella hankkeella 1.8.2015 - 31.5.2018, Sámi Giellagáldu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellaráđi lahtuid gaskkas sámediggi vállje ovddasteaddjiid maiddái sámi parlamentáralaš ráđi vuollásažžan doaibmi oktasaš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjillä on saamen kielen toimisto, joka vastaa mm. saamen kielilakiin liittyvien käännösten toimittamisesta viranomaisille, työskentelee saamen kielen aseman parantamiseksi sekä osallistuu erinäisiin terminologiaprojekteihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>, mii vástida ee. sámi giellaláhkii laktáseaddji jorgalusaid doaimmaheamis eiseválddiide, bargá sámegiela sajádaga buorideami buorrin ja oassálastá terminologiijaprošeavttaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen kolme saamen kieltä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma golbma sámegiela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliä on yhteensä kymmenen, näistä kolmea puhutaan Suomessa saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat leat oktiibuot logi, dáin golbma hállojuvvo Suomas sámiid ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaiset vodaan siten kielellisesti jakaa kolmeen ryhmään: pohjoissaamelaisiin, inarinsaamelaisiin ja kolttasaamelaisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma sámiid sáhttá dasto gielalaččat juohkit golmma jovkui: davvisápmelaččaide, anáraččaide ja nuortalaččaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin kielimuodoista on pohjoissaame (davvisámegiella), jota käytetään sekä Suomen, Ruotsin että Norjan puolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorámus giellahámiin lea davvisámegiella, mii geavahuvvo sihke Suoma, Ruoŧa ja Norgga bealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin osa saamen kielen ja saamenkielisestä opetuksesta, saamenkielisestä tiedonvälityksestä, kirjallisuudesta, musiikista ja kaikesta julkaistusta saamenkielisestä materiaalista on pohjoissaamenkielistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorámus oassi sámegiela ja sámegielat oahpahusas, sámegielat diehtojuohkimis, girjjálašvuođas, musihkas ja buot almmustahtton sámegielat materiálain lea davvisámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arviolta 75-90 % kaikista saamea puhuvista henkilöistä käyttää pohjoissaamea.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árvvu mielde 75-90% buot sámegiela hálli olbmuin geavaha davvisámegiela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin osa heistä asuu Norjan puolella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorámus oassi sis ássá Norgga bealde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa pohjoissaamea puhuu äidinkielenään arviolta noin 2000 henkilöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas davvisámegiela hállet eatnigiellan árvvu mielde sullii 2000 olbmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamea on perinteisesti käytetty Kuolan niemimaan länsiosissa, josta sitä äidinkielenään puhuneita kolttasaamelaisia asutettiin Suomeen viime sotien jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuortalašgiella lea árbevirolaččat geavahuvvon Guoládaga fiesttarosiin, gos dan eatnigiellan hállan nuortalaččat fárrehuvvojedje Supmii maŋimuš sođiid maŋŋá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tänä päivänä kolttasaamelaiset asuvat pääosin Inarin kunnan alueella ja koltansaamen puhujien lukumäärän arvioidaan olevan n. 350.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Odne nuortalaččat ásset váldoosiin Anára gieldda viidodagas ja nuortalašgiela hálliid lohkumearri árvvoštallo leat s. 350.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hälyttävää koltansaamen tilanteen kannalta on se, että nuorempi sukupolvi ei ole oppinut kolttasaamea äidinkielenään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fuolastuhtti nuortalašgiela dili dáfus lea dat, ahte nuorat buolva ii leat oahppan nuortalašgiela eatnigiellan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesätoiminta ja koltankielinen kouluopetus ovat kuitenkin jonkin verran lisänneet kielen käyttöä suomen kielen rinnalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellabeassedoaibma ja nuortalašgiela skuvlaoahpahus leat goittotge muhtin veardde lasihan giela geavaheami suomagiela bálddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kieli on saamenkielistä ainoa jota puhutaan vain Suomessa ja jota on perinteisesti puhuttu vain Inarin kunnan alueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiella lea sámegielain áidna mii hállojuvvo dušše Suomas ja mii lea árbevirolaččat hállon dušše Anára gielddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kieltä puhuvia on noin 300.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiela hállit leat sullii 300.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kirjakielen asema on vahvistunut ja elpynyt viimeisten vuosien aikana kielipesätoiminnan avulla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiela girjegiela sajádat lea nanosmuvvan ja ealáskan maŋimuš jagiid áigge giellabeassedoaimma vehkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös koulussa inarinsaamenkielellä annetun opetuksen määrä on vuosittain lisääntynyt huomattavasti juuri kielipesä toiminnan ansioista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái skuvllas anárašgielain addojuvvon oahpahusa mearri lea jahkásaččat lassánan dovdomassii justa giellabeasse- doaimma ánssus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielet ja Saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat ja Sámediggi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieli on saamelaisen alkuperäiskansan kieli.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiella lea sámi eamiálbmoga giella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen valtio on omalla lainsäädännöllään sekä kansainvälisillä sopimuksilla sitoutunut turvaamaan saamelaisen alkuperäiskansan kielen ja kulttuurin ylläpitämisen ja kehittämisen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma stáhta lea iežas láhkaásahemiin sihke riikkaidgaskasaš soahpmaušain čatnasan sihkkarastit sámi eamiálbmoga giela ja kultuvrra doalaheami ja ovddideami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisilla on Suomen perustuslain mukaan kieltään ja kulttuuriaan koskeva itsehallinto saamelaisten kotiseutualueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiin lea Suoma vuođđolága mielde giela ja kultuvrra guoski iešráđđen sámiid ruovttuguovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tätä itsehallintoa toteuttaa Saamelaiskäräjät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán iešráđđema ollašuhttá Sámediggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielten asema on uhanalainen vaikka saamen kielten tilanne on joiltakin osin viime vuosina parantunut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielaid sajádat lea áitatvuloš vaikke sámegielaid dilli lea muhtin osiin maŋimuš jagiin buorránan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteiskunnallisista toimista huolimatta kaikki saamen kielet kuuluvat Unescon kansainvälisen luokituksen mukaan uhanalaisiin kieliin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Servodatdoaimmain fuolakeahttá buot sámegielat gullet Unesco riikkaidgaskasaš luohkkájuogu mielde áitatvuloš gielaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa puhuttavat inarin- ja koltansaame luokitellaan erittäin uhanalaisiksi kieliksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas hállon anáraš- ja nuortalašgiella lohkkojit erenomáš áitatvuloš giellan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesällä 2002 saamen kieli päätettiin ottaa mukaan EU:n komission vakavasti uhanalaisten kielten ohjelmaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geassit 2002 sámegiella šihttui váldot fárrui EU komissio garrasit áitatvuloš gielaid prográmmai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikka saamen kieliä on jonkin verran pystytty elvyttämään, tarvitsevat ne paljon erinäisiä tukitoimenpiteitä säilyäkseen sukupolvelta toiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikke sámegielaid leat muhtin veardde bastán ealáskahttit, dárbbašit dat olu sierranas doarjjadoaimmaid seailun dihtii buolvvas nubbái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa on valmisteilla saamen kieliä koskeva kielenelvyttämisohjelma ja Saamelaiskäräjät on lausunnossaan kiirehtinyt elvyttämisohjelman toimenpiteiden resursseja ja täytäntöönpanoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas lea válmmaštallama vuolde sámegielaid guoskevaš gielaealáskahttinprográmma ja Sámediggi lea cealkámušas hoahpuhan ealáskahttinprográmma doaibmabijuid resurssaid ja ollašuhttima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieleen liittyvistä asioista saamelaiskäräjillä vastaa saamen kielineuvosto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegillii gulavaš áššiin sámedikkis vástida sámi giellaráđđi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimisto yhdessä saamen kielineuvoston kanssa valvoo ja edistää saamelaisten saamen kielilaissa mainittujen kielellisten oikeuksien toteutumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela doaimmahat ovttas sámi giellaráđiin gohcá ja ovddida sámi giellalágas namuhuvvon sámiid gielalaš vuoigatvuođaid ollašuvvama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten oikeudesta käyttää omaa kieltään viranomaisissa säädettiin ensimmäisen kerran vuonna 1991 (516/1991) ns. saamelaisten kielilailla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid vuoigatvuođas geavahit iežas giela virgeoapmahaččain ásahuvvui vuosttas háve jagi 1991 (516/1991) ng. sámi giellalágain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kielellisten oikeuksien toteuttaminen perustui tuossa laissa lähinnä kääntämiseen ja tulkkaukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid gielalaš vuoigatvuođaid ollašuhttin vuođđuduvai duon lágas lagamustá jorgaleapmái ja tulkomii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääasiassa sen vuoksi saamelaisten kielelliset oikeudet eivät käytännössä toteutuneet läheskään siinä laajuudessa kuin lainsäätäjä oli lakia säätäessään tarkoittanut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldoáššis dan dihtii sámiid gielalaš vuoigatvuođat eai geavadis ollašuvvan lahkage dan viidodagas go láhkaásaheaddji lei lága ásahettiin dárkkuhan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielilakia uudistettiin vuonna 2003 samanaikaisesti yleisen kielilain (423/2003) kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellaláhka ođasmahttui jagi 2003 seamma áigge almmolaš giellalágain (423/2003).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielilaki (1086/03) tuli voimaan vuoden 2004 alussa ja sen tarkoituksena on osaltaan turvata perustuslaissa säädetty saamelaisten oikeus ylläpitää ja kehittää omaa kieltään ja kulttuuriaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa sámi giellaláhka (1086/03) bođii fápmui jagi 2004 álggus ja dan dárkkuhussan lea bealistis sihkkarastit vuođđolágas ásahuvvon sámiid vuoigatvuođa doalahit ja ovddidit iežaset giela ja kultuvrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lain tavoitteena on taata saamelaisille oikeus oikeudenmukaiseen oikeudenkäyntiin ja hyvään hallintoon kielestä riippumatta sekä se, että saamelaisten kielelliset oikeudet toteutetaan ilman, että niihin tarvitsee erikseen vedota.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lága ulbmilin lea dáhkidit sámiide vuoigatvuođa vuoiggalaš riektegeavvamii ja buori hálddahussii gielas fuolakeahttá sihke dasa, ahte sámiid gielalaš vuoigatvuođat ollašuhttojit almmá, ahte daidda dárbbaša sierra doarjalit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laki koskee kaikkia Suomessa puhuttavia saamen kieliä: pohjoissaamea, inarinsaamea ja koltansaamea.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhka guoská buot Suomas hállon sámegielaid: davvisámegiela, anárašgiela ja nuortalašgiela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualueella sijaitsevissa valtion tai kuntien virastoissa tai toimipisteissä asioidessaan saamelaisella on aina lain mukainen oikeus valintansa mukaan käyttää suomea tai saamen kieltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovllus leahkki stáhta dahje gielddaid virgedáluin dahje doaibmabáikkiin áššiid divššodetttiin sápmelaččas lea álot lága mielde vuoigatvuohta válljema mielde geavahit suoma- dahje sámegiela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viranomaisten ilmoitusten, kuulutusten, tiedotteiden ja opasteiden tulee saamelaisten kotiseutualueella olla myös saamenkielisinä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgeoapmahaččaid almmuhusat, gulahusat, dieđáhusat ja oahpistangalbbat galget leat sámiid ruovttuguovllus maiddái sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kotiseutualueella viranomaisilla on velvollisuus edistää toiminnassaan saamen kielen käyttämistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid ruovttuguovllus virgeoapmahaččain lea geatnegasvuohta ovddidit doaimmain sámegiela geavaheami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunnallisten viranomaisten tulee käyttää suomen kielen ohella harkitsemassaan laajuudessa saamen kieltä pöytäkirjoissa ja muissa asiakirjoissa, joilla on yleistä merkitystä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gieldda virgeoapmahaččat galget geavahit suomagiela lassin vihkkedallama mielde sámegiela beavdegirjjiin ja eará áššebáhpáriin, maidguin lea almmolaš mearkkašupmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lain mukaan saamelaisten kotiseutualueen valtiollisten ja kunnallisten viranomaisten on henkilöstöä palkatessaan huolehdittava siitä, että kussakin virastossa pystytään palvelemaan asiakkaita myös saamen kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lága mielde sámiid ruovttuguovllu stáhta ja gieldda virgeoapmahaččat galget bargoveaga bálkáhettiin fuolahit das, ahte guđege virgebáikkis lea vejolaš bálvalit áššehasaid maiddái sámegielain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viranomaisen tulee myös koulutusta järjestämällä tai muilla tavoin huolehtia siitä, että sen henkilöstöllä on tehtäviensä edellyttämä saamen kielen taito.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Virgeoapmahaš galgá maiddái skuvlema lágidemiin dahje eará láhkai fuolahit das, ahte dan bargoveagas lea bargguidis eaktudan sámegiela dáidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokainen viranomainen valvoo omalla toimialallaan lain noudattamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juohke virgeoapmahaš gohcá iežas doaibmasuorggis lága čuovvuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielineuvosto antaa yhdessä saamen kielen toimiston kanssa vaalikausittain kertomuksen saamenkielisten kielellisten oikeuksien toteutumisesta ja edistymisestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellaráđđi addá ovttas sámegiela doaimmahagain válgabajiid mielde čilgehusa sámegielat gielalaš vuoigatvuođaid ollašuvvamis ja ovdáneamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät laati lain toteutumisesta vuonna 2007 perusselvityksen Saamen kielilain toteutuminen vuosina 2004 - 2007.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ráhkadii lága ollašuvvamis jagi 2007 vuođđočielggadeami Sámi giellalága ollašuvvan jagiid 2004-2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielineuvoston ja saamen kielen toimiston tehtävänä on saamen kielilain edistämisen ja valvonnan lisäksi parantaa saamen kielen asemaa ja kohottaa saamen kielen statusta yhteiskunnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellaráđi ja sámegiela doaimmahaga bargun lea sámi giellalága ovddideami ja gohcima lassin buoridit sámegiela sajádaga ja loktet sámegiela stáhtusa servodagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielen kommunikaatioarvoa nyky-yhteiskunnassa on parannettu pari vuosikymmentä sitten käynnistyneellä kielenhuolto- ja terminologiatyöllä, jolla pyritään mm. juurruttamaan uudissanat kieleen sen omaan rakenteen mukaisina.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giela kommunikášuvdnaárvu dálá servodagas lea buoriduvvon moaddeloge jagi dassái álggahuvvon giellagáhtten- ja terminologiijabargguin, mainna figgo ee. sajáiduhttit ođđasániid gillii dan iežas ráhkadusa mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen kielenhuolto- ja neuvontatehtäviä on Suomessa hoitanut Kotimaisten kielten tutkimuskeskus (Ruoktoeatnan gielaid dutkan guovddáš) vuoden 2011 loppuun saakka.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela giellagáhtten- ja rávvenbargguid lea Suomas dikšon Kotimaisten kielten tutkimuskeskus (Ruoktoeatnangielaiddutkanguovddáš) jagi 2011 loahpa rádjai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuoden 2012 alusta lukien Kotimaistenkielten tutkimuskeskuksen organisaatio muuttui ja nimeksi tuli Kotimaisten kielten keskus ja uudistuksen myötä saamen kielen tutkijan virat siirrettiin Oulun yliopiston Giellagas-instituuttiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jagi 2012 álggu rájes Ruoktoeatnangielaid dutkanguovddáža organisášuvdna nuppástuvai ja namman bođii Ruoktoeatnan gielaid guovddážiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteispohjoismaista kieliyhteistyötä uudistetaan Interreg-rahoitteisella hankkeella 1.1.2013 - 30.6.2014.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkaid oktasaš giellaovttasbargu ođasmahtto Interreg-ruhtadan fidnui 1.1.2013 - 30.6.2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SÁFÁ2 – Sámi Giellagáldu- Yhteispohjoismaisen saamen kielen ammatti- ja resurssikeskuksen perustamishanke</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SáFá - davviriikkalaš sámi giellafágaguovddáža ásaheami čielggadus</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

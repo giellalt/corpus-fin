@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=627_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamenkielisen aapisen toinen työkirja ilmestyi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tavesämikielâlâš aabbis nubbe pargokirje almostui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamenkielisen aapisen ŠÁppes - Min meahci máidnasatŠ kevätkauden työkirja on ilmestynyt.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tavesämikielâlâš aabbis ŠÁppes - Min meahci máidnasatŠ kiđđâpaje pargokirje lii almostum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työkirja sisältää aapisen sisältöön pohjautuvia hauskoja ja värikkäitä äidinkielen taitoa kehittäviä tehtäviä yhteensä 126 sivua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargokirjeest láá puohnâssân 126 sijđod já tuálá siste hitruus já ivnáás eenikielâ tááiđu ovdedeijee pargopittáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjan tekstit ja tehtävät ovat aapissarjan käsikirjoittaja Inga Guttormin (Oahptii Iŋgá) käsialaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirje teevstah já pargopitáh vuáđuduveh aabisrááiđu čällee Inga Guttorm ovdil almostum siämmáánommâsâš aabbis tevstáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjan kuvituksen on tehnyt Salli Parikka Wahlberg.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirje kuvvim lii toohâm Salli Parikka Wahlberg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirja on saatavissa saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta Sajoksesta Inarista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirje lii finniimist sämitige škovlim- já oppâmateriaaltoimâttuvâst Sajosist Anarist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien julkaisemat oppimateriaalit löytyvät tästä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige almostittem oppâmateriaaleh kávnojeh täst.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

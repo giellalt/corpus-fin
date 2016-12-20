@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">tandvardsstod-om-man-har-en-funktionsnedsattning.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi / Finska</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davvisámegiella / Nordsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Takaisin teeman aloitussivulle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bátnedikšodoarjja jus lea doaibmahehttehusTandvårdsstöd om man har en funktionsnedsättning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tarvitset paljon hammashuoltoa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dárbbaha ollu bátnedivššu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietyissä pitkäaikaissairauksissa ja toimintarajoitteissa tarvitaan usein tavallista enemmän hammashoitoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea muhtin bistevaš dávddat ja doaibmahehttehusat dárbbaha dávjá eanet bátnedivssu go earát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se voi johtua siitä, että sairaus lisää hammasvaurioiden riskiä tai ongelmia suuhygienian hoidossa, ja potilaalla on vapinaa tai täydellinen tai osittainen kasvohalvaus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sivva dasa lea go dávda dávjá dagaha stuorit vára bátnevahágiidda dahje váttisvuođaid dikšut iežas bátnebuhtisvuođa, ovdamearkka dihte danin go doarggista dahje lea oassái dahje ollásit gálnnas ámadajus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairauden vuoksi voi olla myös vaikeaa avata suu ammolleen, ja silloin hammaslääkärin tai suuhygienistin voi olla vaikea hoitaa hampaita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá dávdda sivas maid leat váttis cakkastit njálmmi ja dalle sáhttá leat váttis bátnedoaktárii dahje bátnehygienisttii čađahit bátnedivššu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hammashoito maksaa silloin kuten sairaanhoito.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bátnedikšu máksá dalle seamma ollu dego buohccedikšu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se tarkoittaa, että maksu voidaan laskea yhteen muiden terveyden- ja sairaanhoidon maksujen kanssa, ja se voi siten sisältyä sairaanhoidon maksukattoon (högkostnadsskydd).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat mearkkaša ahte divat ožžo rehkenastot čoahkkái iežá divaiguin dearvvašvuođa- ja buohccedikšui ja dalle gullot buohccedivššu allagollosuodjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki hammashoito ei sisälly tukeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat visot bátnedikšu mii gullo doarjagii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tukeen sisältyviä hoitoja ovat tutkimukset, ennalta ehkäisevä hoito, paikkaukset, hampaiden irtoamissairauden (parodontiitin) hoidot, juurentäytöt ja hampaiden poisto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat bátnedikšu mii gullo dasa lea iskamat, eastin dikšu, gieđahallan bátneluovvanandávddas, ruohtasdeavdimat ja geassimat bániin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Irrotettavat proteesit kuuluvat myös hammashuoltotuen piiriin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luovus protesat gullot maid bátnedikšodoarjagii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiinteät proteesit, kuten kruunut, sillat ja implantit eivät sitä vastoin kuulu sen piiriin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto protesat mat leat gitta dego ruvnnut, šalddit ja implantáhtat eai gullo dasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Potilas valitsee itse hammaslääkärin ja suuhygienistin, jonka vastaanotolla hän haluaa käydä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vállje ieš makkár bátnedoaktára ja bátnehygienistta lusa háliidat mannat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kenellä on oikeus hammashuoltotukeen ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geas lea vuoigatvuohta bátnedikšodoarjagii ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asuinpaikkakunnan maakäräjät ja läänit päättävät, onko henkilö oikeutettu hammashuoltotukeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea eanandiggi dahje guovlu gos orru mii mearrida jus lea vuoigatvuohta bátnedikšodoarjagii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokainen hakemus käsitellään erikseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juohke ohcamuš geahččaluvvo individuálalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ei riitä, että henkilö on saanut diagnoosin sairaudestaan tai tilastaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat doarvái ahte lea ožžon diagnosa iežas dávddas dahje iežas dilis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintarajoitteisuus on myös arvioitava, toisin sanoen on arvioitava, kuinka sairaus vaikuttaa potilaan mahdollisuuteen hoitaa suuhygieniansa ja mitä ongelmia voi tulla hampaiden hoidossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmahehttehus galgá maid árvvoštallot, dainna oaivvilduvvo got dávda váikkuha vejolašvuođa dikšut iežaset njálbmebuhtisvuođa ja makkár váttisvuođa sáhttet ihtit bátnedikšogieđahallamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pitkäaikaisiin sairauksiin ja toimintarajoitteisiin, jotka voivat oikeuttaa hammashuoltotukeen, kuuluvat:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Daidda bistevaš dávddaide ja doaibmahehttehusaide mat sáhttet addit rievtti bátnedikšodoarjagii gullot:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Psyykkinen sairaus, joka johtaa siihen, että henkilön on vaikea hoitaa suuhygieniansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Psykalaš dávddat mat dagahit ahte ožžo váttisvuođa dikšut iežaset bátnebuhtisvuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Parkinsonin tauti ja multippeliskleroosi, MS ja amyotrofinen lateraaliskleroosi, jotka ovat kaikki hermoston sairauksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Parkinson dávda, multipel skleros, MS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Cerebral palsy, CP-vamma.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liittut dahje vahágat olloliin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leukojen epämuodostumat tai vammat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmahehttehusat stroke maŋŋil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aivohalvauksen eli stroken jälkeiset toimintarajoitteet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Erenoamáš diagnosat Sosiálastivrra logahallama jelgii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuinka hammashuoltotukea haetaan ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Got ohcá bátnedikšodoarjaga ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuen hakemiseksi potilas tarvitsee erityisen lääkärintodistuksen, jossa lääkäri kuvailee sairauden ja toimintarajoitteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vai galgá sáhttit ohcat doarjaga dárbbaha erenoamáš doavttirduođaštusa gos doavttir čilge dávdda ja doaibmahehttehusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hoitava lääkäri tietää, mitä tietoja maakäräjät tai läänit vaativat lääkärintodistukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea doaktáris geas gieđahalli mas lea dieđut makkár dieđuid eanandiggi dahje guovllut gáibidit doaktárduođaštusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkäri, hammaslääkäri tai potilas lähettää lääkärintodistuksen asuinseudun maakäräjien tai läänin hammashuollosta vastaavaan yksikköön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaktárduođaštus sáddejuvvo doaktáris, bátnedoaktáris dahje pasieanttas dan ossodahkii mas lea ovddasvástádus bátnedivššus eanandikkis dahje guovllus gos orru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitä kutsutaan joskus hammashuoltoyksiköksi (tandvårdsenhet), mutta nimitys voi vaihdella asuinpaikasta riippuen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtimin gohččojuvvo bátnedikšoossodat (tandvårdsenheten), muhto dat sáhttá rievdat báikki mielde gos orru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen jälkeen arvioiva hammaslääkäri tekee päätöksen, onko potilaalla oikeus hammashuoltotukeen ja kuinka pitkään se on voimassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan maŋŋil mearrida árvvoštallanbátnedoavttir mearrádusa jus lea vuoigatvuohta bátnedikšodoarjagii ja man guhká bistá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos potilas on oikeutettu hammashuoltotukeen, hän saa kortin tai todistuksen, joka esitetään hammaslääkärissä tai suuhygienistillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea riekti bátnedikšodoarjagii ožžo goartta dahje duođaštusa, man vuoseha bátnedoaktára dahje bátnehygienistta luhtte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hammashuoltokortilla voi olla erilaisia voimassaoloaikoja riippuen siitä, miten toimintarajoitteisuutta arvioidaan ja se on esitettävä aina hammashoitoon tultaessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bátnedikšogoartas sáhttá leat sierra bistevašáiggit das got doaibmahehttehus árvvoštallo ja galgá álo vuosehuvvot go manná bátnedoaktára luhtte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin potilas maksaa hammashoitokäynnistään samalla tavalla kuin sairaanhoidosta. Maksukattokorttiin (högkostnadskortet) tulee myös leima, ja jos potilaalla on vapaakortti (frikort), se on voimassa myös hammashoitokäynnillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle máksá iežas bátnedivššuáiggi ovddas seamma láhkai go buohccedivššus- Ožžo maid steampala allagollosuojis ja jus lea friddjagoarta de dat lea maid gustovaš go manná bátnedikšui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kenen puoleen voi kääntyä, jos on kysyttävää ?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geainna váldá oktavuođa jus leat jearaldagat ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on kysyttävää tai haluaa lisätietoja hammashoidosta tiettyjen pitkäaikaissairauksien ja toimintarajoitteiden yhteydessä, on ensisijaisesti kysyttävä omalta hammaslääkäriltä tai hoitavalta lääkäriltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus leat jearaldagat dahje háliida diehtit eanet bátnedivššu birra bistevaš dávddaid ja doaibmahehttehusaid oktavuođas galgá álggus jearrat iežas bátnedoaktáris dahje gieđahalli doaktáris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toissijaisesti voi kääntyä kysymyksineen asuinseudun maakäräjien tai läänin sen yksikön puoleen, joka vastaa hammashuollosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuppi vuorus jearrá jearaldagaid dan ossodagas geas lea ovddasvástádus bátnedivššus eanandikkis dahje guovllus gos orru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikkelin sisältö on myös 1177. se - verkkopalvelun toimituksen ja toimitusneuvoston muokkaama, tarkastama ja hyväksymä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1177 Vårdguiden redakšuvdna ja redakšuvdnaráđđi leat maid duddjon, dárkkistan ja dohkkehan buot sisdoalu.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

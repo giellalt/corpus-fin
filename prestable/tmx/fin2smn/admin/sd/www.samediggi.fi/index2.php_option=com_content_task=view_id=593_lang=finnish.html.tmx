@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=593_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus Sajoksen pääkäyttäjä saamelaiskäräjät hakee Sajokseen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi kulttuurkuávdáš Sajos váldukevttee sämitigge ocá Sajosân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiakasneuvojaa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Äššigâšrävvejeijee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>määräaikaiseen ja kokopäiväiseen virkasuhteeseen 4.6. – 31.8.2012 väliseksi ajaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>meriáigásâš já olespiäiválâš virgekoskâvuotân 4.6. – 31.8.2012 koskâsii ááigán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiakasneuvojan tehtävänä on hoitaa Sajoksen infopistettä, huolehtia kokoustilavarauksista, kulunvalvonnasta sekä kokous- ja tapahtumajärjestelyistä ja lisäksi esitellä Sajosta rakennuksena.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Äššigâšrävvejeijee pargon lii tipšođ Sajos infočuágástuv, huolâttiđ čuákkimsajeväärridmijn, jotteemkocemist sehe čuákkim- já tábáhtusorniimijn sehe vala oovdânpyehtiđ Sajos táállun.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

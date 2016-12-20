@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=233_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo Anni-Saarasta ja saamenpuvusta !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buoremus bivttas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päähenkilöt: Anni-Saara ja Aslak Paltto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo Anni-Saara ja sámegávtti birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus / leikkaus: Anneli Lappalainen, kuvaus: Kauko Mustonen, Anneli Lappalainen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anni-Saarai sámegákti lea buoremus, lagaš ja hui dehálaš bivttas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámi oahpahusguovddáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 2,05</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 2,05</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

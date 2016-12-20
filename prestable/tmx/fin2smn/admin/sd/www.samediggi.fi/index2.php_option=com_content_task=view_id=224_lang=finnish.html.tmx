@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=224_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kolttalaulu</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nuorttâlâšlaavlâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo kolttasaamelaisten perinteisestä laulutavasta !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo nuorttâsämmilâš ärbivuáválii lávlumvyevist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leudd eli kolttalaulu on perinteinen kolttasaamelainen laulutapa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>LeuŠdd ađai nuorttâlâšlaavlâ lii ärbivuáválâš nuorttâsämmilij lávlumvyehi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leuddata voi mitä vain ja missä vain.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>LeuŠddiđ puáhtá maid peri já kost peri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Filmissä tutustutaan Eliakseen sekä hänen lapsenlapseensa Hennaan ja heidän suhteeseensa leuddiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Fiilmâst uápásmup Eljisân sehe suu áijubân Heenan já sunnuu koskâvuotân leuŠddân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi máttááttâskuávdáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 2,18 min.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 2,18 min.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

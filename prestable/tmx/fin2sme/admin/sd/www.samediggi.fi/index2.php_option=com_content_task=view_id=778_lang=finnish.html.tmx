@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=778_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliteko - palkinto Yle Sápmille</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi gielladahku - bálkkašupmi Yle Sápmái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on myöntänyt saamen kieliteko – palkinnon Yle Sápmille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea mieđihan sámi gielladahku – bálkkašumi Yle Sápmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkinto myönnetään joka toinen vuosi saamen kielen aseman ja saamenkielisten palvelujen edistämiseksi tehdystä ansiokkaasta työstä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkkašupmi mieđihuvvo juohke nuppi jagi sámegiela sajádaga ja sámegielat bálvalusaid ovddideami buorrin dahkkon ánssolaš barggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliteko - palkinto 2013 on Outi Pieskin kaksi maalausta " Nuvvos Áiligas ", maa sulaa " ja " Kultamaa ".</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi gielladahku - bálkkašupmin 2013 leat Outi Pieski guokte málagova ” Nuvvos Áiligas, eana suddá ” ja ” Golleeana ”.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

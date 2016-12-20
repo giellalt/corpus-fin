@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kainun_institutti_aaninayttely_fin.doc.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää päivää !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- Hyvvää päivää !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aluksi opit muutaman sanan kainun kieltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bures boahtin jietnačájáhussii !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyttelyn muut äänet kuvaavat kveenien arkipäivää ja lähiympäristöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát čájáhus muitala kveanaid historjjá ja árgabeaivvi birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänet kertovat kaukaa historiasta periytyvistä elinkeinoista ja perinteistä, jotka liittyvät kveenien elämään pohjoisilla alueilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álggus don oahpat muhtun sáni kveanagillii: Hyvvää päivää. Čájáhusa eará jienat muitalit kveanaid árbevieruid, birgejumi ja eallima birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kveenejä kutsutaan usein vaiteliaaksi kansaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máŋgii gohčodit kveanaid " jávohis álbmogin ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siksi näyttely lähestyy kveenien maailmaa juuri kuuloaistin kautta, ja antaa mahdollisuuden heidän omalle äänelleen kuulua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Danin dán jietnačájáhusas kveanat ieža muitalit iežaset eallima ja historjjá birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erilaiset teemat muodostavat yhdessä äänimaton, jossa näyttelyn eri teemat toimivat yhdessä ja erikseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bissojoga Feastasáles lea buorre akustihkka, ja dat leage okta dain buoremus konsertasáliin olles Davvikalohtas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ääniin perustuva näyttely on kuin kotonaan akustiikaltaan yhdessä Ruijan parhaista konserttisaleista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Danin jietnačájáhusa heive bures guldalit justa dán sáles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää päivää !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bisán donge ja guldal !</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

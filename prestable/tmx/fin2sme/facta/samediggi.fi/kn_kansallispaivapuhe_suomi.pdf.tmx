@@ -1,0 +1,832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kn_kansallispaivapuhe_suomi.pdf.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arvoisat saamelaiset, hyvät lapset, nuoret, aikuiset ja vanhusväestö ja muut vieraat !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gudnejahtton sápmelaččat, mánát, nuorat, rávvásat ja vuorrasat ja eará guossit !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On ilo nähdä teidät kaikki koolla juhlimassa saamelaisten kansallispäivää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea illu oaidnit din buohkaid čoahkkanan ávvudit sámi álbmotbeaivvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiitos kun olette tulleet tänne.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giitu gu lehpet boahtán deike.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Te teette tästä tilaisuudesta aidon kansallispäivän juhlan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dii dahkabehtet dán dilálašvuođas eakti álbmotbeaivvi doaluid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tänä vuonna saamelaiskäräjät halusi kansallispäiväjuhlallaan kunnioittaa saamelaisia lapsiperheitä ja erityisesti saamelaista vanhusväestöä ja järjestää saamelaisten perinteitä kunnioittavan saamelaisen kansallispäiväjuhlan moderneine mausteineen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán jagi sámediggi hálidii álbmotbeaivedoaluiguin gudnejahttit sámi mánnábearrašiid ja earenoamážit sápmelaš vuorrasiid ja lágidit álbmotbeaidoaluid, mat gudnejahttit sámi árbevieruid vajálduhtekeahttá goit ođđaáigásaš, modearna vieruid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Globalisoituvassa maailmassa on tärkeä pitää keskeisiä perinteitämme elossa, elvyttää niitä ja tukea saamelaiskulttuurin yhteisöllisyyttä ja sen säilymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Globála máilmmis lea dehálaš doallat ealasin guovddáš árbevieruid, ealáskahttit daid ja doarjut sámi kultuvrra searvvušvuođa ja dan seailuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuuri, sen arvostus ja näkyvyys on noussut viime vuosikymmeninä ja tästä saamme kiittää saamelaisopettajien, järjestöaktiivien, perheiden ja koko saamelaisyhteisön tämän edistämiseksi tekemää työtä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kultuvra, dán árvvus atnin ja oinnolašvuohta lea loktanan maŋimus logijagiid ja dás oažžut giitit sámi oahpaheddjiid, searveaktivisttaid, bearrašiid ja oba sámi servoša bargan barggu ášši ovddideami várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuuri kohtaa jatkuvasti yhä uudempia haasteita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi kultuvrra deaivá geažos áigge ain ođđasit hástálusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmastonmuutos, saamelaisten poismuutto kotiseudultaan ja saamelaiskulttuurin vähäinen arvostus ovat uhkaamassa saamelaiskulttuurin tulevaisuutta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálkkádatrievdan, sápmelaččaid eretmuotkun ruovttuguovllusteamet ja sámi kultuvrra unnánaš árvvus atnin leat uhkideame sámi kultuvrra boahtteáiggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen erityisen huolissani saamen käsityön ja kulttuuriperintömme arvostuksesta ja tulevaisuudesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean hui fuolaš sámi duoji ja min kulturárbevieruid árvvus atnimis ja boahttevuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen käsityö on yksi hienoin osa aineellista kulttuuriamme ja se kertoo historiastamme, luontosuhteestamme, elämäntavastamme, kulttuurin arvostuksesta ja se tukee saamen kieltä ja sen säilymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi duodji lea min ávnnaslaš kultuvrra okta fiidnámus oassi ja dat muitala min historjjás, gaskavuođas lundui, eallinvuogis, kultuvrra árvvošteamis ja dat doarju sámegiela ja dan seailuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen käsityötä ei kuitenkaan arvosteta yhteiskunnassamme niin kuin sitä pitäisi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi duoji eai goit ane min servodagas árvvus dainna lágiin go galggalii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pidän hyvin surullisena sitä kehitystä, että valtakulttuurin suunnittelijoita arvostetaan enemmän kuin saamen käsityöntekijöitä ja heidän näkemyksiään saamen käsityöstä pidetään arvokkaampana kuin vuosituhansien aikana muodostunutta saamen käsityötä, sen historiallista jatkumoa ja kulttuurista tietotaitoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anán hui morašlažžan dan ovdaneami, ahte váldokultuvrra plánejeaddjit adnojuvvojit eambbo árvvus go sámi duojárat ja sin oainnut sámi duojis adnojuvvojit mávssolažžabun go duháhiid jagiid hápmahuvvan sámi duodji, dan historjjálaš jotkkolašvuohta ja kultuvrralaš máhttu, diehtodáidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen käsityö ei ole staattista, vaan jokainen sukupolvi jättää siihen omat jälkensä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi duodji ii leat rievdameahttun, muhto juohke buolva guođđá dasa iežas luottaid ja mearkkaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen käsityö tulee kehittyä saamelaisen kulttuurin sisäisestä lähtökohdista käsin, ei kulttuurin ulkopuolisista kauneus- tai muotihanteista käsin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi duodji galgá ovdánit sámi kultuvrra siskkáldas vuolggasajiid guovllus, ii kultuvrra olggobeal čábbodat- dehe lávvarávnnjit guovllos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielilakiselvityksessä saamelaiskäräjät esitti vuoden kieliteko-palkinnon perustamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellaláhkačielggadeamis sámediggi evttohii jagi gielladahku-bálkkašumi vuođđudeami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielineuvosto on esittänyt palkinnon perustamista tämän vuoden budjettiin ja siitä edespäin ja aion sitä tukea.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi giellaráđđi lea evttohan bálkkašumi vuođđudeami dán jagi bušehttii ja das ovddos ja mun gal áiggon dan doarjut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkinto on tarkoitettu viranomaisille tai tahoille, jotka ovat edistäneet toiminnassaan saamen kielen asemaa merkittävästi ja noudattaneet saamen kielilakia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkkašupmi lea dárkkuhuvvon eiseválddiide dehe beliide, mat leat ovddidan barggusteaset sámegiela sajádaga sakka ja doahttalan sámi giellalága.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkinnon myöntäisi vuosittain saamen kielineuvosto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkkašumi juogálii jahkásaččat sámi giellaráđđi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näkemykseni mukaan tämä palkinto edistäisi saamen kielilain toteutumista ja se tarjoaisi keinon edistää myös saamelaista käsityötä ja taidetta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mu oainnu mielde dát bálkkašupmi ovddidivččii sámi giellalága olláhuvvama ja dat fálalii vuogi ovddidit maid sámi duoji ja dáidaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulen esittämään, että jokavuotinen tunnustuspalkinto olisi Sámi Duodjin valitseman taiteilijan tai käsityöntekijän vapaa taideteos, jonka tulee ilmentää saamelaiskulttuurin rikkautta Suomessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boađán evttohit, ahte jahkásaš dovddastusbálkkašupmi livččii Sámi Duoji searvvi válljen duojára dehe dáiddára friddja dáiddaduodji, mii galgá čalmmustahttit sámi kultuvrra riggodaga Suomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näkisin, että tämä tukisi saamen käsityötä, tekisi palkinnosta ainutlaatuisen ja antaisi saamelaiskäräjille paremman yhteistyön saamen käsityöntekijöiden kanssa ja mahdollistaisi paremmalla tavalla saamelaiskäsityön tukemisen saamelaiskäräjien työssä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oainnán, ahte dát doarjjulii sámi duoji, dagalii bálkkašumis earenoamáža ja rabalii sámediggái buoret ovttabarggu geainnu sámi duodjáriiguin ja dagalii buoret vugiin vejolažžan sámi duoji doarjuma sámedikki barggus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aion esittää tätä saamelaiskäräjien hallitukselle ja yleiskokoukselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áiggon evttohit dán sámedikki stivrii ja dievasčoakkámii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansallispäivänä alkaa luonnollisesti pohtia päivän tarkoitusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álbmotbeaivve suokkardallágoahtá diehttelas beaivvi ulbmila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisilla ei ole omaa valtiota mutta meillä on oma kansallispäivä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččain ii leat iežaset stáhta muhto mis lea iežamet álbmotbeaivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kansa on selvinnyt neljän maan puristuksessa ja säilyttänyt kulttuurinsa, kielensä ja elinkeinonsa elävänä kaikista uhkista huolimatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi álbmot lea ceavzán njealji riikka čarvvastagas ja seailluhan kultuvrras, gielas ja ealáhusaidis ealasin fuolakeahttá buot uhkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maailmassa, jossa alkuperäiskansakielet ovat uhanalaisia ja kieliä ja kulttuureja kuolee kiihtyvällä tahdilla, saa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máilmmis, gos álgoálbmotgielain lea stuora uhkkin daid jávkan ja gielat ja kultuvrrat maid duššet garra leahtuin, de sámi kultuvrra seailuma sáhttá atnit stuora jovssusin ja gudnin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen ylpeä niistä saamelaisvanhemmista, jotka siirtävät oppimansa äidinkielen, saamen kielensä ja kulttuurinsa lapsilleen ja olen myös ylpeä niistä vanhemmista, jotka elvyttävät saamen kielen takaisin perheeseen aikuisopintojen tai kielipesätoiminnan kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean čeavlái dain sámi váhnemiin, geat sirdet iežaset oahppan eatnigiela, sámegiela ja sámi kultuvrra mánáidasaset ja nuppe dáfus lean maid čeavlái dain váhnemiin, geat ealáskahttet sámegiela ruovttoluotta bearrašii rávesolmmošoahpuid dehe giellabeassedoaimma bakte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisyhteisö ja sen vahvuus perustuu vahvoihin yksilöihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi searvoša ja dan nanusvuođa vuođđun leat gievrras ovttaskas olbmot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielet ja niiden elvyttäminen ja niiden tulevaisuuden turvaaminen sekä saamelaisten kotiseutualueella että sen ulkopuolella on kulttuurimme säilymisen elinehto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat ja daid ealáskahttin ja daid boahtteáiggi dorvvasteapmi sihke sámiid ruovttuguovllus ja dan olggobealde lea min kultuvrra seailuma eallineaktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen tarpeet ovat nousseet keskusteluun ja näkisin, että saamelaisten pyrkimykset saamen kielen säilyttämiseksi ovat saamassa myönteistä vastakaikua myös poliittisessa johdossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juvvá Lemet – Klemetti Näkkäläjärvi www.samediggi.fi Ságadoalli – Puheenjohtaja Saamelaiskäräjät Tel: +358505242109 Skierri Peuratie 15 Sámegiela dárbbut lea loktanan ságastallamii ja oainnán, ahte sápmelaččaid viggamušat sámegielaid seailluheami várás leat oažžume miehtemielalaš dávástusa maid politihkalaš njunušsajiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös tasavallan presidentin usein esittämä moraalinen vetoomus Suomen valtiolle saamen kielten säilyttämiseksi on tärkeä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái dásseválddi presideantta dávja ovddidan morála ávžžuhus Suoma stáhtii sámegielaid seailluheami várás lea dehálaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieli tarvitsee säilyäkseen elävän saamelaiskulttuurin ja saamelaisten perinteisten elinkeinojen säilymisen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiella dárbbaha seailuma várás ealli sámi kultuvrra ja sámiid árbevirolaš ealáhusaid seailuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä ulottuvuus unohtuu valitettavan usein.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát olli vajálduvvá dađi bahábut hui dávjá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieli pitää sisällään rikkaan tietojärjestelmän saamelaisista elinkeinoista, luonnosta ja luonnonilmiöistä, lumesta, maastosta ja paikannimistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielat dollet sisttis rikkis diehtovuogádaga sámi ealáhusain, luonddus ja luondduihtagiin, muohttagis, duovdagiin ja báikenamain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietämys on kielellistä ja se säilyy aktiivisessa käytössä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát diehtu lea gielalaš ja dat seailu aktiivvalaš anus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elämme aikaa, jossa tapahtuu suuria taloudellisia ja yhteiskunnallisia muutoksia hyvinkin nopeasti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mii eallit áiggi, mas dáhpáhuvvet stuora ekonomalaš dehege ruđalaš ja servodatlaš nuppástusat hui jođánit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiselinkeinojen toimintaympäristö on muuttunut ja perinteiden ylläpitäminen on tullut yhä vaikeammaksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi ealáhusaid bargobiras lea rievdan ja árbevieruid bajásdoallan lea šaddan ain váddáseabbon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiset joutuvat tekemään päätöksiään omien perinteiden säilyttämisestä ja turvaamisesta hyvin yksin ilman yhteiskunnan tukea.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččat šaddet dahkat mearrádusaideaset iežaset árbevieruid seailluheamis ja dorvvasteamis hui olu akto almmá servodaga doarjaga haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päätös säilyttää saamen kieli poronhoidon työkielenä on merkittävä ja tärkeä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearrádus seailluhit sámegiela boazobarggu bargogiellan lea mearkkašahtti ja mávssolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työkielen muuttuessa suomeksi suomalaisen yhteiskunnan poronhoitomalli leviää helpommin saamelaiseen yhteiskuntaan ja kallisarvoinen perinteinen tietomme heikkenee hiljalleen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargogiela nuppástuvvama mielde suomagiellan láddelaš servodaga boazodoallomálle lávdá álkibut sámi servošii ja min divrras árbevirolaš diehtomet hedjona mieđaid mieđaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poronhoidon taloudellisesta tilanteesta on puhuttu paljon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boazodoalu ekonomalaš dilis lea hubmojuvvon olu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elinkeinon säilyminen edellyttää luonnollisesti sitä, että elinkeinosta saa riittävän elannon vielä silloinkin vaikka alueeseen kohdistuvat metsänhakkuut kuten täällä Inarin alueella tai että jos alueella on kilpailevia maankäyttömuotoja kuten esim. matkailua Käsivarren alueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ealáhusa seailun gáibida diehttelas dan, ahte ealáhusas oažžu dárbahassii buori birgenlági vel dallenai vaikko guovllus doaimmahuvvojit vuovdečuollamat dego dáppe Anára guovllus dehe ahte jos guovllus leat eará gilvvohalli eanangeavahanhámit dego omd. turisma Giehtaruohttasa guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poronhoito, kuten saamelaiselinkeinot muutkin, ei ole vain elinkeino vaan elämäntapa, kulttuurinen tapa elää ja saamelaiskulttuurin jatkuvuuden tae.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boazodoallu, dego earánai sámi ealáhusat, eai leat duššebeare ealáhus muhto maid eallinvuohki, kultuvrralaš vuohki eallit ja sámi kultuvrra boahtteáiggi dáhkádus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiselinkeinoja ei saa kohdella vain elinkeinoina, mutta myös ja ennen kaikkea osana kulttuuria.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi ealáhusaid ii galgga atnit dušše ealáhussan, muhto maid ja earenoamážit kultuvrra oassin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä on erityisen tärkeätä muistaa siinä työssä, jossa määritetään suurimmat sallitut poroluvut kymmenvuotiskaudeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea earenoamáš dehálaš muitit dan barggus, mas meroštallojuvvojit stuorimus lobalaš boazomearit logi jagi áigodahkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olisi tärkeätä keskustella saamelaisten poronhoitajien kanssa miten saamelaisen poronhoidon perinteitä voidaan turvata ja miten saamelaisporonhoidon ohjausta ja hallintoa tulisi kehittää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Livččii dehálaš ságastallat sámi boazodolliiguin mot sápmelaš boazodoalu árbevieruid sáhtálii dorvvastit ja mot sámi boazodoalu stivrema ja hálddahusa galggalii ovddidit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tutkii mahdollisuuksia järjestää tällainen tapaaminen tämän vuoden aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi dutká vejolašvuođaid ordnet dákkár deaivvadeami vel dán jagi áigge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jopa perustuslakivaliokunta on todennut, että paliskuntajärjestelmä ei ole välttämättä soveltuva saamelaisporonhoidon ohjaus- ja hallintomalli.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juobe riikkabeivviid vuođđoláhkaválljagoddi lea cealkán, ahte bálgesvuogádat ii soaitte leat heivvolaš sámi boazodoalu stivren- ja hálddahusmállen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten perinteisten elinkeinojen tilanne ei ole hyvä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi árbevirolaš ealáhusaid dilli ii leat buorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalastus ei yksistään tarjoa riittävää tuloa ja myös metsästys on muuttunut sivuelinkeinoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guolásteapmi ii akto fála dárbahassii buori áigáiboađu ja maiddái meahccebivdu lea rievdan oalgeealáhussan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perinteisten elinkeinojen rinnalle on noussut uusia elinkeinoja ja elinkeinonharjoittamisen tapoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árbevirolaš ealáhusaid báldii leat boahtán ođđa ealáhusat ja ealáhusaiguin bargama vuogit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matkailu on nousemassa uudeksi saamelaiselinkeinoksi ja siitä on tulossa merkittävä työllistäjä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Turismaealáhus lea loktaneame ođđa sámi ealáhussan ja das lea šaddame mávssolaš barggaheaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ekologinen matkailu soveltuu saamelaiskulttuuriin ja neuvottelemalla eri elinkeinojen kesken ristiriidoilta eri maankäyttömuotojen välillä voidaan välttyä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ekologalaš turismaealáhus heive sámi kultuvrii ja go sierra ealáhusaiguin bargit ráđđadallet gaskaneaset, de sierra eanangeavahanvugiid ruossalasvuođaid sáhttá caggat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tärkeää, että saamelaisten kotiseutualue säilyy elinvoimaisena.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dehálaš, ahte sámiid ruovttuguovlu seailu ealasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuluva vuosi on Yhdistyneiden Kansakuntien julistama luonnon monimuotoisuusvuosi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát jahki lea Ovttastuvvan Našuvnnaid julggaštan luonddu máŋggalágánvuođa dehege biodiversiteahtta jahki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomella ei kuitenkaan ole valitettavasti suurta juhlittavaa, koska se ei ole saavuttanut tavoitettaan estää luonnon monimuotoisuuden köyhtyminen vuoteen 2010 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas ii goit leat dan dáfus stuora ávvudepmošiid, daningo dat ii leat joksan iežas ulbmila, eastit luonddu máŋggalágánvuođa geaffuma jagi 2010 rádjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisille luonnon monimuotoisuus on hyvin tärkeää, koska saamelaiskulttuuri on luontosidonnainen kulttuuri.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sápmelaččaide luonddu máŋggalágánvuohta lea hui mávssolaš, daningo sámi kultuvra lea lundui čatnasan kultuvra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luonnon monimuotoisuutta suojeleva kansainvälinen biodiversiteettisopimus velvoittaa valtiota suojelemaan alkuperäiskansan luonnon monimuotoisuuteen liittyvää perinteistä tietoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkaidgaskasaš biodiversiteahttasoahpamuš, mii suodjala luonddu máŋggalágánvuođa, geatnegahttá stáhta suddjet álgoálbmoga árbevirolaš dieđu, mii gullá luonddu biodiversitehttii dehege máŋggalágánvuhtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tärkeää, että me saamelaiset pidämme huolta luonnon monimuotoisuudesta ja edistämme toiminnassamme luonnon monimuotoisuuden säilymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dehálaš, ahte mii sápmelaččat atnit ávvira luonddu máŋggalágánvuođas ja ovddidit doaimmasteamet luonddu máŋggalágánvuođa seailuma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ja, ennen kaikkea, meidän on huolehdittava siitä, että Suomen valtio täyttää velvoitteensa suojella saamelaisten perinteistä tietoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ja earenoamážit, mii galgat atnit ávvira das, ahte Suoma stáhta deavdá geatnegasvuođaidis suodjalit sápmelaččaid árbevirolaš dieđu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät tulee omassa toiminmiten saamelaisten perinteistä tietoa voidaan turvata Suomessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi boahtá barggustis bidjat deattu luonddu máŋggalágánvuođa seailumii ja geahččalit gávdnat vugiid mot sápmelaččaid árbevirolaš diehtu sáhttá dorvvastuvvot Suomas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toivon, että saamelaisjärjestöt ja oppilaitokset huomioisivat toiminnassaan miten saamelaisten perinteistä tietoa voitaisiin turvata.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sávan, ahte sámi searvvit ja oahppolágádusat válddále iežaset doaimmas fuopmášupmái mot sápmelaččaid árbevirolaš diehtu sáhttá dorvvastuvvot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuluva vuosi tuo toivottavasti parannuksia saamelaisten asemaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát jahki buktá doaivvu mielde buorádusaid sápmelaččaid sajádahkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olemme jo viime syksynä tehneet aloitteen elvytysohjelman aloittamiseksi. Valtioneuvosto on sitoutunut elvytysohjelmaan ihmisoikeuspoliittisessa selonteossa ja haluan uskoa, että ohjelman laatiminen aloitetaan pikaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki sávaldahkan lea, ahte dán jagi álggahuvvolii sámegiela ealáskahttin- dehege buorebutge gádjunprográmma Stáhtaráđđi lea čatnasan sámegiela ealáskahttinprográmmii olmmošvuoigatvuohta-politihkalaš čielggadeamis ja hálidan jáhkkit, ahte prográmma ráhkadeapmi álggahuvvo jođáneamos lági mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on saanut parin viime vuoden aikana lupauksia siitä, että Suomi laatisi puitelain, joka turvaisi saamelaisten oikeuksia nykyistä paremmin ja toisi saamelaisille paremmat vaikutusmahdollisuudet saamelaisten kotiseutualueen alueidenkäytön ohjaukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea ožžon moatti maŋimus jagi áigge lohpádusaid das, ahte Suopma ásahivččii rápmalága, mii dorvvastivččii sámiid vuoigatvuođaid dáláža buorebut ja buvttálii sápmelaččaide buoret váikkuhanvejolašvuođaid sámiid ruovttuguovllu eatnamiid geavahusa stivremii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lupauksista huolimatta tämä prosessi ei ole edennyt valtioneuvostossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lohpadusain fuolakeahttá dát proseassa ii leat ovdánan riikka ráđđehusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien hallitus on toivonut, että valtioneuvosto sitoutuisi pääministerin johdolla saamelaisten oikeusaseman parantamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki stivra lea sávvan, ahte riikka ráđđehus čatnasivččii oaiveministaris jođihemiin sápmelaččaid riektesajádaga buorideapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitettavasti pääministeri on kieltäytynyt tapaamasta saamelaiskäräjiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dađi bahábut oaiveministtar lea biehttalan deaivvadeamis sámedikki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät toivoo, että pääministeri ottaisi saamelaisten oikeusaseman edistämisen vakavasti ja toimisi ihmisoikeuspoliittisen selonteon sitoumusten mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi sávvá, ahte oaiveministtar válddálii sápmelaččaid riektesajádaga ovddideami duođas ja barggalii olmmošvuoigatvuohtapolitihkalaš čielggadeami čatnasemiid mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien nuorisopoliittinen työ on alkamassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki nuoraidpolitihkalaš bargu lea álgime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on neuvotellut viime päivinä oikeusministeriön ja opetusministeriön edustajien kanssa saamelaisnuorten elimen perustamisesta saamelaiskäräjille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi lea dán vahku mielde ráđđádallan vuoigatvuohtaministeriija ja oahpahusministeriija ovddasteddjiiguin sámi nuoraid orgána vuođđudeamis sámediggái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voin kertoa hyvänä uutisena sen, että ministeriöt tukevat esitystämme ja myös rahoitus saamelaiskäräjien nuorisotyön tekemiseksi on varmistumassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhtán muitalit buorrin ođasin dan, ahte ministeriijat dorjot min evttohusa ja maiddái ruhtadeapmi sámedikki nuoraidbargui lea oažžume sihkarvuođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ei siis ole olemassa mitään estettä sille etteikö seuraava saamelaiskäräjien kokous voisi perustaa nuorisoelimen saamelaiskäräjien toiminnan yhteyteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál ii oro leame mihkkege eastagiid dasa, ahte iigo čuovvovaš sámedikki čoakkán sáhtále vuođđudit nuoraidorgána sámedikki doaimma ollái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näen tämän toiminnan erittäin olennaisena myös saamelaiskäräjien poliittisen toiminnan jatkuvuuden kannalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oainnán dán barggu hui mávssolaš diŋgan maid sámedikki politihkalaš doaimma jotkkolašvuođa dáfus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuoret saavat omalta osaltaan yhteiskunnallista saamelaistoiminnan vastuuta ja näen tämän kehityksen erinomaisena.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuorat ožžot iežaset oasi servodatlaš sámi barggu ovddasvástádusas ja oainnán dán gárganeami hui buorrin áššin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toivon saamelaisnuorilta samanlaista aktiivisuutta varsinaisessa tulevassa saamelaiskäräjien institutionaalisessa nuorisotyössä kuin sen suunnittelussa on ollut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sávan sámi nuorain seammalágán doaimmalašvuođa aitosaš boahtte sámedikki institušuvnnalaš nuoraidbarggu hárrái go dan plánemis lea leamaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiitän saamelaisnuoria erinomaisesta työstä saamelaisnuorten aseman parantamiseksi ja näen samalla tulevan saamelaispolitiikan valoisana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giittán sámi nuoraid earenoamáš buori barggus sámi nuoraid sajádaga buorideami várás ja seammas oainnán sámi politihkas čuvges boahtteáiggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansainvälisellä tasolla on aloitettu pohjoismaisen saamelaissopimuksen toimeenpanoa valmistelevia töitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkaidgaskasaš dásis leat álggahuvvon válmmaštallanbarggut davviriikkalaš sámi soahpamuša olláhuhttima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaisen saamelaissopimuksen tarkoitus on harmonisoida saamelaisia koskevaa lainsäädäntöä ja parantaa saamelaisten oikeusasemaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Davviriikkalaš sámi soahpamušain lea ulbmil harmoniseret lágaid, mat gusket sápmelaččaid ja buoridit sápmelaččaid riektesajádaga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimusluonnos luovutettiin jo vuonna 2005 mutta sopimuksen ratifiointi on pysähtynyt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soahpamušhámus luobahuvvui juo jagi 2005 muhto soahpamuša ratifiseren lea bisánan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraavassa saamelaisministerien ja presidenttien kokouksessa on tarkoitus päättää sopimuksen ratifiointiin tähtäävien jatkoneuvottelujen aloittamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čuovvovaš ng. sámi ministariid ja presideanttaid čoakkámis galget mearriduvvot álggahuvvot joatkkaráđđádallamat, mat siktejit sámi soahpamuša ratifiseremii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaiskäräjät on neuvotellut oikeusministeri Tuija Braxin kanssa siitä, millainen asema saamelaiskäräjille annettaisiin sopimusneuvotteluissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma sámediggi lea ráđđádallan vuoigatvuohtaministtar Tuija Braxiin das, makkár sajádat sámediggái addojuvvolii soahpamušráđđádallamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien hallitus on työskennellyt viime syksystä lähtien aktiivisesti taatakseen pohjoismaisen saamelaissopimuksen ratifioinnin etenemisen ja saamelaisten vaikutusvallan turvaamisen sopimusneuvotteluissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki stivra lea bargan diimmá čavčča rájes aktiivvalaččat dáhkidit davviriikkalaš sámi soahpamuša ratifiserema ovdáneami buorrin ja sápmelaččaid váikkuhanválddi dorvvasteami várás soahpamušráđđádallamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät neuvotteli eilen oikeusministeri Braxin kanssa ja neuvottelujen jälkeen saamelaiskäräjien hallitus kokoontui puhelinkokoukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi ráđđádalai ikte ministtar Braxiin ja ráđđádallamiid maŋŋel sámedikki stivra čoahkkanii telefunčoakkámii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voin ilokseni ilmoittaa, että neuvottelut johtivat saamelaiskäräjien aseman paranemiseen neuvotteluvaltuuskunnassa ja hallitus päätti yksimielisesti osallistua pohjoismaisen saamelaissopimuksen jatkoneuvotteluihin osana Suomen valtion delegaatiota.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhtán muitalit buorrin ođasin dan ahte ráđđádallamat dolvo sámedikki sajádaga buorráneapmái ráđđádallansáttagottis ja stivra mearridii ovttamielalaččat oassálastit davviriikkalaš sámi soahpamuša joatkkaráđđádallamiidda Suoma stáhta sáttagotti oassin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaikutusmahdollisuudet turvataan asianmukaisesti neuvotteluissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki váikkuhanvejolašvuođat sihkkarastojuvvojit áššáigullevaččat ráđđádallamiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Delegaatiotyössä turvataan myös resurssien kautta saamelaiskäräjien mahdollisuus käyttää asiantuntijaresursseja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáttagotti barggus sihkkarastojuvvo maid resurseren Sámediggái nu ahte das lea vejolašvuohta geavahit áššedovdinávccaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjille taataan veto-oikeus hylätä pohjoismainen saamelaissopimus tarvittaessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dárbbu mielde sámediggái dáhkiduvvo ng. veto-riekti hilgut davviriikkalaš sámi soahpamuša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toivottavasti siihen tilanteeseen ei jouduta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaivvu mielde dan dillái eat šatta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen tyytyväinen että sopimusneuvottelut voidaan aloittaa, mutta edessä on vielä pitkä neuvotteluprosessi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lean duhtavaš dasa, ahte soahpamušráđđádallamat sáhttet álggahuvvot, muhto ovddas lea vel guhkes ráđđádallanproseassa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arvoisat saamelaiset, hyvät ystävät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gudnejahtton sápmelaččat, buorit ustibat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tärkeää että säilytämme perinteemme ja saamelaiskulttuurin yhteisöllisyyden tuleville sukupolville.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea dehálaš, ahte seailluhit árbevieruideamet ja sámi kultuvrra searvvušvuođa boahtte buolvvaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Meidän yhteisöllisyytemme ja kulttuurimme tuoma tietotaito antavat meille keinot säilyttää kulttuurimme ja vastata kulttuuriamme kohtaan nouseviin uhkiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Min searvvusvuohtamet ja kultuvramet máhttu addá midjiide vugiid seailluhit kultuvramet ja dávistit uhkiide ja hástalusaide, mat čuhcet min kultuvrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikka saamelaisten asema on parantunut, suhtautuminen saamelaisiin ja meidän vaatimuksiin on varsinkin Lapissa paikoitellen ikävän kielteistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vaikko sápmelaččaid sajádat lea buorránan, de jurddahanvuohki sápmelaččaid guovdu ja min gáibádusaide lea eandalit dáppe davvin gaskkohagaid negatiivvalaš, mii dieđusge lea morašlaš ášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielteistä suhtautumista ei pidä pelätä, vaan vaatia yhä voimakkaammin omien oikeuksien toteutumista ja ammentaa voimaa kulttuuristamme ja yhteisön tuesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biehtadahkes jurddaguottuin ii galgga ballat, muhto gáibidit vel nannoseappot iežamet vuoigatvuođaid olláhuvvama ja njammat ja goistet vuoimmi min aid, de sáhtálii oažžut ipmárdusa riidos sápmelaččain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On ikävää, että lappilaisia medioita seuraamalla voisi saada käsityksen riitelevistä saamelaisista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát govva lea hui boasttolágán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva on hyvin väärä, olemme aina olleet rauhaa rakastava kansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Miihan leat álohii leamaš álbmot, mii lea ráhkistan ráfi ja nu dat lea velnai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuntuukin siltä, että mediassa korostuvat vain ne asiat jotka herättävät ristiriitoja ja uutisoinnissa haetaan tarkoituksellisesti vastakkainasettelua.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Orru leame nu, ahte medias ožžot deattu dušše dakkár áššit, mat bohciidahttet ruossalasvuođaid ja ođasráhkadeamis ohccojuvvojit vásedin vuostálasvuođat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin kansallispäivänä olisikin hyvä pohtia, miten saamelaisia koskevaa uutisointia voisi saada vastaamaan todellisuutta ja mitä itse kukainenkin, erityisesti saamelaiskäräjäjäsenet voisivat tehdä omalla esimerkillään saamelaisten ja saamelaiskäräjien julkisuuskuvan parantamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál álbmotbeaivve livččiinai buorre guorahallat, mot ođđasiid sámiid birra sáhtálii oažžut dakkárin, mat attále rievttes gova ja maid iešguhtenai, earenoamážit ovttaskas sámediggeáirasat sáhtále bargat sápmelaččaid ja sámedikki olgguldas gova buorideami várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Haluan, että saamelaiskäräjät on houkutteleva työpaikka saamelaisille ja saamelaiskäräjien tehtävät ja äänestäminen kiinnostaisivat saamelaisia seuraavissa vaaleissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mun hálidan, ahte sámediggi lea geasuheaddji bargosadji sápmelaččaide. Sávan maid ahte sápmelaččat beroštit sámedikki bargguin ja álggále čuovvovaš válggaid evttohassan ja maid jienastivčče viššalit válggain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näillä sanoin julistan kansallispäivän juhlallisuudet avatuksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáiguin sániiguin raban álbmotbeaivve doaluid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää kansallispäivää kaikille !</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buori sámi álbmotbeaivvi buohkaide !</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

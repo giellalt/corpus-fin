@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=425_lang=finnish.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskus Sajoksen rakennusurakan toteuttajaksi Senaatti-kiinteistöt on valinnut Keski-Suomen Betonirakenne Oy:n (KSBR).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi kulttuurkuávdáá Sajos huksimurko olášutten lii Senaatti-kiddoduavh valjim Keski-Suomen Betonirakenne Oy (KSBR).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>KSBR urakoi myös kulttuurikeskuksen pohjatyöt.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>KSBR urkkod meiddei kulttuurkuávdáá vuáđupargoid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rakennusurakka alkaa lokakuun alussa 2010 ja kestää marraskuuhun 2011 saakka.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Huksimurkko álgá roovvâdmáánu aalgâst 2010 já pištá skammâmáánu 2011 räi.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
