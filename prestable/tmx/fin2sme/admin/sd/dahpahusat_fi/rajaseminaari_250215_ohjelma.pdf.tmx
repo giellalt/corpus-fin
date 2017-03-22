@@ -6,7 +6,7 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaisten rajayhteistyöseminaari Inarissa 25.2.2015</seg>
+        <seg>Saamelaisten rajayhteistyöseminaari Inarissa 25.2.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámiid rádjeoktasašbargoseminára anáris 25.2.2015</seg>
@@ -14,18 +14,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Pohjois-Suomen Kaste-ohjelma, Saamelaiskäräjät sekä Sosiaali- ja terveysministeriö järjestävät saamelaisten rajayhteistyöseminaariin 25.2.2015 Inarissa, Sajoksessa.</seg>
+        <seg>Pohjois-Suomen Kaste-ohjelma, Saamelaiskäräjät sekä Sosiaali- ja terveysministeriö järjestävät saamelaisten rajayhteistyöseminaariin 25.2. 2015 Inarissa, Sajoksessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Davvi-Suoma Kaste-prográmma, Suoma Sámediggi ja Sosiála- ja dearvvasvuođaministeriija ordnejit sámiid rádjeoktasašbargoseminára Sajosis 25.2.2015.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Teemana päivässä ovat saamenkieliset sosiaali- ja terveyspalvelut.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Beaivvi temán leat sámegielat sosiála- ja dearvvasvuođabálvalusat.</seg>
+        <seg>Davvi-Suoma Kaste-prográmma, Suoma Sámediggi ja Sosiála- ja dearvvasvuođaministeriija ordnejit sámiid rádjeoktasašbargoseminára Sajosis 25.2.2015. Beaivvi temán leat sámegielat sosiála- ja dearvvasvuođabálvalusat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,23 +153,23 @@
         <seg>Tilaisuudessa on tulkkaus.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dilálašvuohta striimejuvvo.</seg>
+        <seg>Dilálašvuođas lea tulkon.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tilaisuus streamataan www.sogku.fi/live</seg>
+        <seg>Tilaisuus streamataa n www.sogku.fi/live</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Striimema čujuhus www.sogku.fi/live</seg>
+        <seg>Striimema čujuhus www.sogku.fi/live Lassidieđut:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lisätietoja antavat:</seg>
+        <seg>pia.ruotsala@samediggi.fi tel. 010 839 3106</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lassidieđut:</seg>
+        <seg>pia.ruotsala@samediggi.fi tel. 010 839 3106</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +182,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>OHJELMA</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SEMINÁRA PROGRÁMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Puheenjohtajat: aamupäivä Sinikka Salo Pohjois-Suomen Kaste aluejohtoryhmän puheenjohtaja, iltapäivä Heidi Eriksen, Utsjoen kunta</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -198,7 +198,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>o 8.30–8.50 Aamukahvi Sajoksen aulassa  Musiikkiesitys</seg>
+        <seg>50 Aamukahvi Sajoksen aulassa  Musiikkiesitys o 8.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>8.30–8.50 Iđitkáffe Sajosa feaskkir  8.45-8.50 Musihkka</seg>
@@ -206,7 +206,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>o 8.50–9.00 PÄIVÄN AVAUS, Sinikka Salo, Kaste aluejohtoryhmän puheenjohtaja</seg>
+        <seg>50–9. 00 PÄIVÄN AVAUS, Sinikka Salo, Kaste aluejohtoryhmän puheenjohtaja</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>8.50–9.00 BEAIVVI RAHPAN, Sinikka Salo, Davvi-Suoma Kaste guovlostivrenjoavkku ságajođiheaddji</seg>
@@ -222,10 +222,26 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg> Soteuudistus,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg> Sode-ođastus,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg> Saamelaisten rajayhteistyötä koskevan lainsäädännön nykytila</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg> Sámiid rádjeoktasašbarggu guoski láhkaásaheami dáládilli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o 9.50 - 10.30 SAAMENKIELISTEN PALVELUT SUOMESSA</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>9.50- 10.30 SÁMEGIELAT BÁLVALUSAT SUOMAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -257,6 +273,22 @@
         <seg> Ikääntyvien palvelut,</seg>
       </tuv>
       <tuv xml:lang="sme">
+        <seg> Ahkeolbmuid bálvalusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg> Mielenterveyspalvelut,</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg> Mielladearvvasvuohtabálvalusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg> Perhepalvelut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
         <seg> Bearašbálvalusat</seg>
       </tuv>
     </tu>
@@ -270,6 +302,22 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>00–11. 45 Lounas</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11.00–11.45 Beaivemális</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o 11.45 - 13.30 SAAMENKIELISET PALVELUT NORJASSA</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11.45 - 13.30 SÁMEGIELAT BÁLVALUSAT NORGGAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg> Saamenkielisten palveluiden nykytila / hyvät käytännöt ja tarve Norjassa</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -278,10 +326,34 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>o Nykytila ja tarve Norjassa; o Saamelaisten Terveyssiida hankkeen somaattisen puolen esittely</seg>
+        <seg> Erikoislääkäripalvelut, Knut Johnsen, Spesialistlegesenteret, Karasjok,</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Kárášjohka o Dáládilli ja dárbu Norggas; o Sámiid Dearvvasvuohta-siida fidnu somáhtalaš beali ovdanbuktin</seg>
+        <seg> Spesiáladoavtterbálvalusat, Knut Johnsen, Spesiáladoavtterguovddáš,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Nykytila ja tarve Norjassa;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kárášjohka o Dáládilli ja dárbu Norggas;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Saamelaisten Terveyssiida hankkeen somaattisen puolen esittely</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>o Sámiid Dearvvasvuohta-siida fidnu somáhtalaš beali ovdanbuktin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o Mielenterveyspalvelut, Frøydis Nystad Nilsen, SANKS avdeling for barn</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg> Mielladearvvasvuohtabálvalusat, Frøydis Nystad Nilsen, SÁNAG, Sámi</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,12 +369,36 @@
         <seg> Ikääntyvien palveluiden nykytila / hyvät käytännöt, Kristine Gaup-Grønmo,</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg> Ahkeolbmuid bálvalusaid dáládilli / buorit geavadat, Kristine Gaup</seg>
+        <seg> Ahkeolbmuid bálvalusaid dáládilli /buorit geavadat, Kristine Gaup</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>13.30-13.50 KELA KORVAUKSET, Noora Heinonen, päällikkö, Rajat ylittävän terveydenhuollon yhteyspiste, Kela o 13.50–14.00 Työpajaohjeistus, Heidi Eriksen</seg>
+        <seg>Nasjonalt utviklingssenter for sykehjemstjenester til den samiske befolkningen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Grønmo, Sápmelaččaid vuoras olbmuid bálvalusaid ovddidanguovddáš;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg> Perhepalvelut, Eilif T. Norvang, Barne-, ungdoms- og Familieetaten, Indre</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kárášjohka  Bearašbálvalusat, Eilif T. Norvang, Sis-Finnmárkku bearašrávvehat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13.30-13.50 KELA KORVAUKSET, Noora Heinonen, päällikkö, Rajat ylittävän terveydenhuollon yhteyspiste, Kela o 13.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13.30.13.50 ÁEL-BUHTADUSAT, Noora Heinonen, ÁEL Suopma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>00 Työpajaohjeistus, Heidi Eriksen</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>13.50–14.00 BARGOBÁDJERÁVVEN, Heidi Eriksen</seg>
@@ -329,39 +425,15 @@
         <seg>Työryhmien vetäjät (kielet: Saame, Norja, Suomi): Sari Guttorm, Saamelaiskäräjät, Heidi Eriksen, Utsjoen kunta, Pia Ruotsala, Saamelaiskäräjät Työryhmä 1 työskentelypaikkana Solju (parlamenttisali) Työryhmä 2 työskentelypaikkana Dolla (auditorio)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavku 1 bargolatnja Solju (parlameantasále) Bargojoavku 2 bargolatnja Dolla (auditorio)</seg>
+        <seg>Bargojoavkkuid jođiheaddjit (gielat: davvisámegiella, dárogiella, suomagiella): Sari Guttorm, Heidi Eriksen, Pia Ruotsala Bargojoavku 1 bargolatnja Solju (parlameantasále) Bargojoavku 2 bargolatnja Dolla (auditorio)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>TYÖRYHMÄTEHTÄVÄT: 1.</seg>
+        <seg>TYÖRYHMÄTEHTÄVÄT: 1. Miten selkiytetään rajayhteistyötä ja rakenteita (säännönmukaisuus) saamenkielisissä palveluissa Suomen ja Norjan välillä 2. Miten varmistetaan tiedonkulku palveluista asiakkaille ja potilaille sekä terveydenhuollon henkilöstölle 3. Miten jatkohoito maan toisessa sairaanhoitopiirissä voidaan varmistaa</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>BARGOBIHTÁT: 1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Miten selkiytetään rajayhteistyötä ja rakenteita (säännönmukaisuus) saamenkielisissä palveluissa Suomen ja Norjan välillä 2.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mo čielggasmahttit rádjeoktasašbarggu ja ráhkadusaid (bissovašvuohta) sámegielat bálvalusain Suoma ja Norgga gaskkas 2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Miten varmistetaan tiedonkulku palveluista asiakkaille ja potilaille sekä terveydenhuollon henkilöstölle 3.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mo sihkkarastit dieđujohtima bálvalusain áššehasaide ja buohcciide sihke dearvvasvuođafuolahusa bargovehkii 3.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Miten jatkohoito maan toisessa sairaanhoitopiirissä voidaan varmistaa</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mo joatkkadikšuma riikka nuppi buohccedikšunbiirres sáhttá sihkkarastit</seg>
+        <seg>BARGOBIHTÁT: 1. Mo čielggasmahttit rádjeoktasašbarggu ja ráhkadusaid (bissovašvuohta) sámegielat bálvalusain Suoma ja Norgga gaskkas 2. Mo sihkkarastit dieđujohtima bálvalusain áššehasaide ja buohcciide sihke dearvvasvuođafuolahusa bargovehkii 3. Mo joatkkadikšuma riikka nuppi buohccedikšunbiirres sáhttá sihkkarastit</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,23 +446,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>4.</seg>
+        <seg>4. Ehdotukset jatkotyöskentelylle</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>4.</seg>
+        <seg>4. Evttohusat joatkkabargui</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ehdotukset jatkotyöskentelylle</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Evttohusat joatkkabargui</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>o 15.00–15.45 TYÖPAJATYÖSKENTELYN PURKU JA JATKOTYÖSKENTELYSTÄ SOPIMINEN, Heidi Eriksen, Utsjoen kunta</seg>
+        <seg>45 TYÖPAJATYÖSKENTELYN PURKU JA JATKOTYÖSKENTELYSTÄ SOPIMINEN, Heidi Eriksen, Utsjoen kunta o 15.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>15.00–15.45 BARGOBÁDJEBARGGU BURGIN JA JOATKKABARGGUS SOAHPAN, Heidi Eriksen, Ohcejoga gielda</seg>
@@ -398,7 +462,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>o 15.45–16.00 YHTEENVETO JA PÄÄTÖSSANAT Sinikka Salo, Pohjois-Suomen Kaste aluejohtoryhmän puheenjohtaja</seg>
+        <seg>00 YHTEENVETO JA PÄÄTÖSSANAT Sinikka Salo, Pohjois-Suomen Kaste aluejohtoryhmän puheenjohtaja</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>15.45–16.00 ČOAHKKÁIGEASSU JA LOAHPAHANSÁNIT, Sinikka Salo, DavviSuoma Kaste guovlostivrenjoavkku ságajođiheaddji</seg>
