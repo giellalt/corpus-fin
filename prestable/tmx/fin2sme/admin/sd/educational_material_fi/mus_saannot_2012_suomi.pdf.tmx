@@ -6,7 +6,31 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>- yhtyeet</seg>
+        <seg>MUSIIKKIKILPAILUN SÄÄNNÖT 2012</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>MUSIHKKAGILVVU NJUOLGGADUSAT 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kategoriat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Šlájat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>KLASSINEN MUSIIKKI</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>KLASSIHKKALAŠ MUSIHKKA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- orkesterit</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- orkeastarat</seg>
@@ -14,7 +38,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>kuten joiku, livđe, leuŠdd …</seg>
+        <seg>- yhtyeet - kuorot</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- čuojahanjoavkkut</seg>
@@ -22,23 +46,63 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>- yhtyeet</seg>
+        <seg>- lauluyhtyeet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>- gorat</seg>
+        <seg>- lávlunjoavkkut</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>kuten rock, pop, jazz, laulelma, iskelmä, hiphop, reggae, dance …</seg>
+        <seg>KANSANMUSIIKKI</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>nugo rock, pop, jazz, lávlagat, geahppa musihkka (iskelmä), hiphop, reggae, dance …</seg>
+        <seg>ÁLBMOTMUSIHKKA</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
         <seg>- yhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- čuojahanjoavkkut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- lauluyhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- lávlunjoavkkut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>RYTMIMUSIIKKI</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RYTMAMUSIHKKA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kuten rock, pop, jazz, laulelma, iskelmä, hiphop, reggae, dance…</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>nugo rock, pop, jazz, lávlagat, geahppa musihkka (iskelmä), hiphop, reggae, dance…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- yhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>- čuojahanjoavkkut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>- lauluyhtyeet</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>- lávlunjoavkkut</seg>
@@ -62,10 +126,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Osanottajat jaetaan kahteen ikäsarjaan: 2001-1997 - syntyneet (10-15-vuotiaat) 1996-1992 - syntyneet (16-20-vuotiaat)</seg>
+        <seg>Osanottajat jaetaan kahteen ikäsarjaan: 2001-1997 -syntyneet (10-15-vuotiaat) 1996-1992 -syntyneet (16-20-vuotiaat)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oasseváldit juhkkojuvvojit guovtti ahkeluohkái: 2001-1997 - riegádan (10-15-jahkasaččat) 1996-1992 - riegádan (16-20- jahkasaččat)</seg>
+        <seg>Oasseváldit juhkkojuvvojit guovtti ahkeluohkái: 2001-1997 -riegádan (10-15-jahkasaččat) 1996-1992 - riegádan (16-20- jahkasaččat)</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +150,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>- myös sooloesityksillä voi osallistua, mutta esityksiä ei valita jatkoon Turkuun Nuori kultturi – tapahtumaan.</seg>
+        <seg>- myös sooloesityksillä voi osallistua, mutta esityksiä ei valita jatkoon Turkuun Nuori kultturi –tapahtumaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg> maiddái solobihtáid oažžu ovdanbuktit, muhto dat ii válljejuvvo ovddasteaddjin Turkui Nuorra kultuvra – dáhpáhussii.</seg>
+        <seg> maiddái solobihtáid oažžu ovdanbuktit, muhto dat ii válljejuvvo ovddasteaddjin Turkui Nuorra kultuvra –dáhpáhussii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,7 +214,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>2/3 ryhmän jäsenistä tulee olla uusia, jotta ryhmä voidaan katsoa uudeksi kokoonpanoksi. Huom.</seg>
+        <seg>2/3 ryhmän jäsenistä tulee olla uusia, jotta ryhmä voidaan katsoa uudeksi kokoonpanoksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>2/3 joavkku lahtuin galget leat ođđa olbmot, vái joavkku sáhttá gohčodit ođđa joavkun.</seg>
@@ -158,7 +222,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Sooloesiintyjät eivät voi osallistua Nuori kulttuuri-tapahtumaan !</seg>
+        <seg>Lisätietoja valtakunnallisesta tapahtumasta löydät osoitteesta:</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Lassedieđuid riikkaviidosaš dáhpáhusas gávnnat čujuhusas:</seg>
@@ -166,10 +230,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lisätietoja valtakunnallisesta tapahtumasta löydät osoitteesta:</seg>
+        <seg>http://nuorikulttuuri.fi/sounds/</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>http://nuorikulttuuri.fi/sounds /</seg>
+        <seg>http://nuorikulttuuri.fi/sounds/</seg>
       </tuv>
     </tu>
   </body>

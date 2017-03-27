@@ -11,41 +11,56 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1751&amp;Itemid=10</origFileName>
-    <parallel_text location="mus_saannot_2012_pohjoissaame.pdf" xml:lang="sme"/>
-    <parallel_text location="mus_saannot_2012_inarinsm.pdf" xml:lang="smn"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="mus_saannot_2012_pohjoissaame.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="mus_saannot_2012_inarinsm.pdf"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="sms">
+    <p>
       <em type="bold">MUSIIKKIKILPAILUN SÄÄNNÖT 2012 </em>
     </p>
-    <p xml:lang="ron">
+    <p>
       <em type="bold">Kategoriat </em>
     </p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">KLASSINEN MUSIIKKI </em>
     </p>
-    <p type="listitem" xml:lang="nob">- orkesterit</p>
+    <p type="listitem">- orkesterit</p>
     <p type="listitem">- yhtyeet</p>
-    <p type="listitem" xml:lang="smn">- kuorot</p>
-    <p type="listitem" xml:lang="fkv">- lauluyhtyeet</p>
-    <p xml:lang="sma">
+    <p type="listitem">- kuorot</p>
+    <p type="listitem">- lauluyhtyeet</p>
+    <p>
       <em type="bold">KANSANMUSIIKKI </em>
     </p>
-    <p>kuten joiku, livđe, leuŠdd… <em type="bold"> </em></p>
+    <p>kuten joiku, livđe, leu´dd… <em type="bold"> </em></p>
     <p type="listitem">- yhtyeet</p>
-    <p type="listitem" xml:lang="fkv">- lauluyhtyeet</p>
-    <p xml:lang="ger">
+    <p type="listitem">- lauluyhtyeet</p>
+    <p>
       <em type="bold">RYTMIMUSIIKKI </em>
     </p>
     <p>kuten rock, pop, jazz, laulelma, iskelmä, hiphop, reggae, dance…</p>
     <p type="listitem">- yhtyeet</p>
-    <p type="listitem" xml:lang="fkv">- lauluyhtyeet</p>
+    <p type="listitem">- lauluyhtyeet</p>
     <p><em type="bold">Esityksen pituus enintään</em> 10 minuuttia </p>
     <p>
       <em type="bold">Ikäsarjat ja rajoitukset </em>
@@ -55,6 +70,6 @@
     <p type="listitem">-  sarja 6-9-vuotiaille</p>
     <p type="listitem">-  myös sooloesityksillä voi osallistua, mutta esityksiä ei valita jatkoon Turkuun Nuori kultturi –tapahtumaan.</p>
     <p>Ryhmän koko tulee olla vähintään kolme henkilöä. Enintään 1/3 ryhmän jäsenistä saa poiketa ikärajoituksesta. Rajoitus ei koske esitysten eikä ryhmien ohjaajia. Tapahtuma on suunnattu nimenomaan nuorille taiteen harrastajille. Nuoret, jotka saavat pääasiallisen toimeentulonsa musiikista, ovat musiikin ammatillisessa koulutuksessa (Sibelius-Akatemia, sotilasmusiikkikoulu, musiikkioppilaitosten ammatilliset linjat) tai ovat suorittaneet musiikin ammatillisen tutkinnon, eivät voi osallistua tapahtumaan. Rajoitus ei koske Sibelius-Akatemian nuorisokoulutuksen oppilaita. Alue ja valtakunnallisessa tapahtumassa sama ryhmä voi osallistua vain yhteen ryhmälajiin. 2/3 ryhmän jäsenistä tulee olla uusia, jotta ryhmä voidaan katsoa uudeksi kokoonpanoksi. <em type="bold">Huom.</em> Sooloesiintyjät eivät voi osallistua Nuori kulttuuri-tapahtumaan! Lisätietoja valtakunnallisesta tapahtumasta löydät osoitteesta: </p>
-    <p xml:lang="sms">http://nuorikulttuuri.fi/sounds/</p>
+    <p>http://nuorikulttuuri.fi/sounds/</p>
   </body>
 </document>
