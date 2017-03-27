@@ -13,16 +13,31 @@
     </availability>
     <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2363&amp;Itemid=10</origFileName>
-    <parallel_text location="sote-savasuinarinsaame.pdf" xml:lang="smn"/>
-    <parallel_text location="sote-savasupohjoissaame.pdf" xml:lang="sme"/>
-    <parallel_text location="savasu_koltsaame.pdf" xml:lang="sms"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="sote-savasupohjoissaame.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="sote-savasuinarinsaame.pdf"/>
+    <parallel_text xml:lang="sms" location="savasu_koltsaame.pdf"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">ESIPUHE </em>
     </p>
     <p>Saamelaisten  kotiseutualueen  kunnissa  Enontekiöllä,  Inarissa,  Sodankylässä  ja  Utsjoella  on toteutettu Saamelaiskäräjien esityksestä saamelaisten/saamenkielisten sosiaalipalvelujen kehittämisyksikköhanke  ajalla  1.9.2007-31.12.2009.  Hanke  on  ollut  osa  Pohjois-Suomen sosiaalialan kehittämisohjelmaa. Kunnat käynnistivät hankkeen laatimalla yhteistyösopimuksen.</p>
@@ -95,7 +110,7 @@
       <em type="bold">Lapsen saamen kielen vahvistamisen välineet: </em>
     </p>
     <p type="listitem">•  tarinat, kertomukset, sadut, lorut, arvoitukset, runot</p>
-    <p type="listitem" xml:lang="fkv">•  roolileikit, nukketeatteri, näytteleminen</p>
+    <p type="listitem">•  roolileikit, nukketeatteri, näytteleminen</p>
     <p type="listitem">•  musiikki, joiut, leuddit, livđet, laulut</p>
     <p type="listitem">•  radio, videot, lehdet, kirjat, pelit, televisio</p>
     <p type="listitem">•  vanhempien,  sukulaisten  ja  yhteisön  kanssa  perinteiseen  vuotuiskiertoon  liittyvät monipuoliset  kielenkäyttötilanteet:  työt,  käsitöiden  tekeminen,  luonnossa  liikkuminen,</p>
@@ -157,7 +172,7 @@
       <em type="bold">Käytännön esimerkkejä kulttuuri-identiteetin vahvistamiseksi varhaiskasvatuksessa: </em>
     </p>
     <p type="listitem">•  lapsen havainto- ja arviointikyvyn kehittäminen luomalla erilaisia tilanteita, jossa lapsi saa kokeilla ja kehittää taitojaan, osaamistaan, tunteitaan</p>
-    <p type="listitem" xml:lang="fkv">•  vahvat sukulaisuussuhteet</p>
+    <p type="listitem">•  vahvat sukulaisuussuhteet</p>
     <p type="listitem">•  saamelaisten tietojen ja taitojen opettaminen perinteentaitajien opastuksella</p>
     <p type="listitem">•  tieto saamelaisten yhteisestä historiasta yhtenä kansana neljän valtakunnan alueella</p>
     <p type="listitem">•  tutustutaan isovanhempien elämän eri vaiheisiin</p>
@@ -285,7 +300,7 @@
     <p>
       <em type="bold">4.3. Saamelainen musiikki, tanssi, kertomusperinne, taide ja kirjallisuus </em>
     </p>
-    <p>Saamelaisella musiikilla on tärkeä kulttuurinen ja  yhteisöllinen merkitys.  Luohti, leuŠdd, livđe tai kolttasaamelainen itkuperinne voi olla henkilön tuntomerkki, salaisten tarinoiden kertoja, yhteyden rakentaja, huvittaja, rakkauden tunnustaja, pilkkaaja, luonnon ja eläinten kuvailija, lasten kasvattaja tai  väline  toisen  ihmisen  muistamiseen  ja  suremiseen.  Saamelainen  musiikki  perinteisessä muodossaan  on  alkanut  kadota  ja  sen  esittäminen  ja  harjoittaminen  on  vähentynyt.  Perinteisen musiikin rinnalle on elpynyt perinnemusiikki uudessa muodossa. Perinteinen musiikki on edelleen saamelaisille tärkeä identiteetin symboli ja yhteen kokoava voima. Perinnemusiikin elvyttämiseksi on tärkeää, että varhaiskasvatuksessa lapsella on mahdollisuus kuulla ja tavata musiikin taitajia.</p>
+    <p>Saamelaisella musiikilla on tärkeä kulttuurinen ja  yhteisöllinen merkitys.  Luohti, leu´dd, livđe tai kolttasaamelainen itkuperinne voi olla henkilön tuntomerkki, salaisten tarinoiden kertoja, yhteyden rakentaja, huvittaja, rakkauden tunnustaja, pilkkaaja, luonnon ja eläinten kuvailija, lasten kasvattaja tai  väline  toisen  ihmisen  muistamiseen  ja  suremiseen.  Saamelainen  musiikki  perinteisessä muodossaan  on  alkanut  kadota  ja  sen  esittäminen  ja  harjoittaminen  on  vähentynyt.  Perinteisen musiikin rinnalle on elpynyt perinnemusiikki uudessa muodossa. Perinteinen musiikki on edelleen saamelaisille tärkeä identiteetin symboli ja yhteen kokoava voima. Perinnemusiikin elvyttämiseksi on tärkeää, että varhaiskasvatuksessa lapsella on mahdollisuus kuulla ja tavata musiikin taitajia.</p>
     <p>Katrillitanssi on kulkeutunut Venäjän kulttuuripiirien kautta kolttasaamelaisille. Kolttasaamelainen katrillitanssi  on  neljän  parin  muodostama,  johon  kuuluu  neljä  miestä  ja  neljä  naista.  Tanssi  on parien välistä vuoropuhelua, jota säestää hanurimusiikki tai leudd.</p>
     <p>Saamelaiselle  kertomusperinteelle  on  luonteenomaista  kielellisen  ilmaisun  rikkaus,  sanallinen runsaus ja ilmaisujen moninaisuus. Saamelainen kertomus on usein pala jotain muistoa, muistelma jostakin todellisesta tapahtumasta tai toisesta kertomuksesta.  Kertomukset ja tarinat liittyvät usein paikkoihin,  tapahtumiin,  ihmisiin,  koiriin,  poroihin,  erilaisiin  töihin  sekä  luonnonilmiöihin. Saamelaisen  musiikki  –  ja  kertomaperinteen  kautta  lapsi  saa  tietoa  saamelaiseen  elämäntapaan  ja kulttuuriin liittyvistä asioista.</p>
     <p>Kuvataide  on  yksi  ilmaisumuoto,  joka  kehittää  lapsen  mielikuvitusta  ja  rohkeutta  itseilmaisussa. Taidekasvatuksella pyritään lapsen persoonallisuuden monipuoliseen kehittämiseen. Lasten kanssa tulisi  käyttää  mahdollisimman  paljon  vapaata  kuvallista  ilmaisua.  Väreihin  ja  muotoihin tutustuminen  konkreettisten  esineiden  kautta  on  jo  varhaisessa  vaiheessa  mielekästä.  Taiteen keinoin  saamelaisuutta  voi  käsitellä  monipuolisesti.  Pienten  lasten  kanssa  tärkeintä  on kokemuksellisuus ja asioiden käsittely kuvien ja tekemisen kautta.</p>
@@ -298,7 +313,7 @@
     <p type="listitem">•  katsotaan ikääntyneiden ihmisten kanssa vanhoja kuvia ja <span type="quote">”muistellaan”</span> tapahtumia</p>
     <p type="listitem">•  kuunnellaan ja opetellaan paikallista perinnemusiikkia musiikin taitajien kanssa</p>
     <p type="listitem">•  tutustutaan muiden alueiden musiikkiperinteeseen</p>
-    <p type="listitem">•  tehdään omasta yksiköstä joiku/leuŠdd/livđe, harjoitellaan äänen käyttöä ja esiintymistä</p>
+    <p type="listitem">•  tehdään omasta yksiköstä joiku/leu´dd/livđe, harjoitellaan äänen käyttöä ja esiintymistä</p>
     <p type="listitem">•  leikitään saamelaisia leikkejä, laululeikkejä, valmistetaan saamelaisia leikkikaluja</p>
     <p type="listitem">•  tutustutaan taiteen keinoin saamelaisiin väreihin, pukuihin, luontoon eri vuodenaikoineen</p>
     <p type="listitem">•  rakennetaan yksikköön kierrätysmateriaaleista jokin kuva (lehdistä leikeltyjä kuvia, paperia, värien käyttöä)</p>
