@@ -11,7 +11,6 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2363&amp;Itemid=10</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -37,7 +36,7 @@
     <version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="deu">
+    <p>
       <em type="bold">ESIPUHE </em>
     </p>
     <p>Saamelaisten  kotiseutualueen  kunnissa  Enontekiöllä,  Inarissa,  Sodankylässä  ja  Utsjoella  on toteutettu Saamelaiskäräjien esityksestä saamelaisten/saamenkielisten sosiaalipalvelujen kehittämisyksikköhanke  ajalla  1.9.2007-31.12.2009.  Hanke  on  ollut  osa  Pohjois-Suomen sosiaalialan kehittämisohjelmaa. Kunnat käynnistivät hankkeen laatimalla yhteistyösopimuksen.</p>
@@ -49,7 +48,7 @@
     <p>Saamelaisen varhaiskasvatussuunnitelman tarkoituksena<em type="bold"> </em>on ohjata saamelaisen varhaiskasvatuksen </p>
     <p>laatua ja sisällöllistä toteuttamista sekä edistää palvelujen yhdenvertaista toteutumista.</p>
     <p>Saamelainen  varhaiskasvatussuunnitelman  laatimisprosessi  on  ollut  osa  laajaa  saamelaisalueen yhteistä  kehittämistyötä.  Suunnitelmaa  on  tarpeen  edelleen  kehittää  käytännön  läheisemmäksi yhteistyössä  saamelaisalueen  henkilöstön,  vanhempien  ja  eri  yhteistyötahojen  kanssa. Kehittämistyön  toimintamalli  ja  tehtävät  ovat  olleet  tekijöilleen  antoisa  prosessi.  Osallistujat  ovat olleet  hyvin  sitoutuneita  yhteiseen  toimintaan.  Yhteisenä  tavoitteena  on  jatkaa  ylikunnallista yhteistyötä palveluita järjestettäessä.</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">1. SAAMELAISET SUOMESSA </em>
     </p>
     <p>Saamelaiset  ovat  Euroopan  unionin  alueen  ainoa  alkuperäiskansa,  jolla  on  oma  historia,  kieli, kulttuuri,  elämäntapa  ja  identiteetti.  Saamelaiset  ovat  asuttaneet  Skandinavian  ja  Suomen pohjoisosaa  sekä  Kuolan  niemimaan  sisäosia  jo  ennen  nykyisten  valtioiden  ja  valtionrajojen muodostumista.<em type="bold">  </em>Tätä  aluetta  kutsutaan  saamenmaaksi.<em type="bold">  </em>Saamelaisia  on  neljän  valtion  alueella laskutavan mukaan 60 000–100 000 henkeä. Suomessa saamelaisia asuu Saamelaiskäräjien vuoden 2007 tilastojen mukaan 9350 henkeä, joista noin 38,3% asuu saamelaisten kotiseutualueella (3577). Kotiseutualueella tarkoitetaan Enontekiön, Inarin ja Utsjoen kuntien alueita sekä Lapin paliskunnan aluetta  Sodankylän  kunnasta.  Loput  saamelaisista  asuvat  kotiseutualueen  ulkopuolella  muualla Suomessa (5129) ja ulkomailla (644).  </p>
@@ -69,14 +68,14 @@
     <p>Kolttasaamelaisten  saivat  toimeentulonsa  pääasiassa  pyyntitaloudesta. Poronhoito  sopeutettiin kalastukseen  ja  metsästykseen.  Nykyisin  perinteisistä  elinkeinoista  porotalous  on  merkittävä toimeentulonlähde pääasiassa Sevettijärven alueella.</p>
     <p>Kolttasaamelaiset  ovat  vuosisatoja  päättäneet  asioistaan  yhdessä  kyläkokouksissa  (sijddsååbbar). Vanha asioidenhoitomenetelmä toimii nykyäänkin; kolttien asioita hoitavat kolttien luottamusmies ja  kolttaneuvosto.  Kolttien  ja  koltta-alueen  elinolojen,  toimeentulomahdollisuuksien  ja  kulttuurin ylläpitämiseksi  ja  edistämiseksi  on  voimassa  kolttalaki,  jossa  säädetään  laina-  ja  avustustavoista muun muassa kalastuksen ja poronhoidon sekä koltta-alueen palveluiden edistämiseksi.</p>
     <p>Kolttasaamelaisia arvioidaan olevan nykyisin Suomessa noin 700 henkeä. Kolttasaamelaiset asuvat Inarin  kunnan  itäosissa,  Inarijärven  etelä-,  kaakkois-  ja  koilliskulmalla,  ns.  koltta-alueella.  Heistä noin  kolmannes  asuu  saamelaisalueen  ulkopuolella.  Koltansaamen  puhujien  määrää  on  yli  350. Koltansaamen kielen elvyttämiseksi on toteutettu lyhytkestoisia kielenelvytystoimia vuodesta 1993 alkaen. Koltansaamen kieli on Suomessa puhuttavista saamen kielistä uhanalaisin. Vuonna 2008 on kielen elvyttämiseksi aloitettu Ivalossa kielipesätoiminta.</p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">2. SAAMELAISEN VARHAISKASVATUKSEN ARVOT JA TAVOITTEET </em>
     </p>
     <p>Varhaiskasvatuksessa lähtökohtana on lapsen edun ja oikeuksien turvaaminen. Varhaiskasvatuksella  on  suuri  merkitys  myös  lapsen  hyvinvoinnin  ja  terveyden  edistäjänä.  Tässä suunnitelmassa  varhaiskasvatus  ymmärretään  varhaiskasvatuksen  valtakunnallisten  linjausten mukaisesti  sisällöllisenä  terminä.  Varhaiskasvatus  määritellään  lapsen  eri  elämänpiirissä tapahtuvaksi  kasvatukselliseksi  vuorovaikutukseksi,  jonka  ensisijaisena  tavoitteena  on  edistää lapsen kokonaisvaltaista hyvinvointia.</p>
     <p>Saamelaisella  varhaiskasvatuksella  on  merkittävä  rooli  niin  lasten  saamen  kielen  ja  saamelaisen identiteetin vahvistamisessa kuin myös saamelaisten säilymisenä omana kansanryhmänään. Saamen kielen  opettamis-  ja  elvyttämisvastuuta  on  jaettava  kodin,  varhaiskasvatuspalvelujen  ja perusopetuksen kesken.</p>
     <p>Saamelaisella  lapsella  on  oikeus  saada  tukea  varhaiskasvatuspalveluissa  kasvaakseen  oman kulttuurinsa  jäseneksi  ja  omaksuakseen  saamelaisia  tietoja,  taitoja,  tapoja  ja  arvoja.  Saamelainen varhaiskasvatustoiminta  perustuu  saamelaisiin  arvoihin,  jotka  ovat  erityisesti  kieli,  suku,  yhteisö, vahva  identiteetti,  luonto,  perinteiset  elinkeinot,  sukupuolten  välinen  tasa-arvo  ja  ihmisyys, monikulttuurisuus, rauha ja sovinnollisuus.</p>
     <p>Saamelaisen  varhaiskasvatuksen  päämääränä  on  ihminen,  joka  on  itsenäinen,  vastuullinen, sosiaalinen,  luonteeltaan  ja  taidoiltaan  monipuolinen  ja  jolla  on  omaa  tahdonvoimaa  ja arviointikykyä ja joka pärjää uudenaikaisessa yhteiskunnassa.</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">3. SAAMEN KIELI VARHAISKASVATUKSESSA </em>
     </p>
     <p>Kieli  on  ihmisen  ajattelun  ja  vuorovaikutuksen  perusta.  Kielen  avulla  ihminen  tulee  tietoiseksi itsestään, muodostaa omat käsityksensä ja myös kommunikoi ympäristön kanssa. Tällä tavalla kieli rakentaa  yhteistä  maailmaamme  ja  kulttuuriamme.  Saamelaiset  ovat  asuinalueillaan  luonnostaan olleet kanssakäymisissä eri kielien ja kulttuurien kanssa ja tästä johtuen ovat usein monikielisiä ja arvostavat hyvää kielitaitoa.</p>
@@ -113,8 +112,7 @@
     <p type="listitem">•  roolileikit, nukketeatteri, näytteleminen</p>
     <p type="listitem">•  musiikki, joiut, leuddit, livđet, laulut</p>
     <p type="listitem">•  radio, videot, lehdet, kirjat, pelit, televisio</p>
-    <p type="listitem">•  vanhempien,  sukulaisten  ja  yhteisön  kanssa  perinteiseen  vuotuiskiertoon  liittyvät monipuoliset  kielenkäyttötilanteet:  työt,  käsitöiden  tekeminen,  luonnossa  liikkuminen,</p>
-    <p>laavustelu, retket, tapaamiset, vierailut ja tapahtumat</p>
+    <p type="listitem">•  vanhempien,  sukulaisten  ja  yhteisön  kanssa  perinteiseen  vuotuiskiertoon  liittyvät monipuoliset  kielenkäyttötilanteet:  työt,  käsitöiden  tekeminen,  luonnossa  liikkuminen, laavustelu, retket, tapaamiset, vierailut ja tapahtumat</p>
     <p type="listitem">•  kirjoitetun  saamen  kielen  näkyminen  yksikön  fyysisessä  ympäristössä  (ilmoitukset,  julisteet, kuvataulut, kyltit jne.)</p>
     <p type="listitem">•  kirjastossa ja museossa vierailut</p>
     <p type="listitem">•  vuorovaikutus eri-ikäisten saamelaislasten kanssa</p>
@@ -128,13 +126,13 @@
     <p>Aikuinen voi usein huomaamattaan puhua lapselle kannustamatta häntä vastavuoroiseen puheeseen. On  tärkeää  keskustelussa  antaa  aikaa  lapsen  omille  ajatuksille  ja  kertomuksille.  Aikuisen  tulee tietoisesti  kiinnittää  huomiota  omaan  kielenkäyttöön,  jotta  se  olisi  mahdollisimman  monipuolista. Lasten kanssa voi päivittäin harjoitella kieltä yhdessä mm. laulujen, laululeikkien ja lorujen avulla.</p>
     <p>Lasten  kielenkäyttötilanteiden  monipuolistamiseksi  lapset  voidaan  jakaa  pienryhmiin  esimerkiksi iän  mukaan. Usein  ne  lapset,  joilla  saamen  kieli  ei  ole  vielä  kovin  vahva,  puhuvat  keskenään mielellään  suomea.  Ryhmiä  muodostettaessa  nämä  lapset  laitetaan  eri  ryhmiin  saamen  kielen käytön  vahvistamiseksi.  Pienryhmissä  on  enemmän  aikaa  käsitellä  lapsen  omia  kokemuksia, tunteita  tai  vain  tarinoida.  Kieltä  opettelevien  lasten  kanssa  tunteiden  esille  tuomisessa  käytetään apuna  kuvia,  liikkeitä,  ääniä,  eleitä  ja  kerrotaan  samalla  millaiset  käsitteet  niihin  kuuluvat.    Arka  lapsi tarvitsee enemmän aikaa ja tukea puhumisessa. Siksi on tärkeää, että kaikki keskustelutilanteet hänen  kanssaan  hyödynnetään  aktiivisesti.  Tasavertaisen  ja  turvallisen  kontaktin  luomiseksi työntekijä  voi  asettua  fyysisesti  lasten  tasolle  lattialle.  Lapset  ottavat  helpommin  kontaktia  ja aikuinen  voi  keskittyä  kuuntelemaan  ja  keskustelemaan  heidän  kanssaan.  Aikuinen  ohjaa aktiivisesti  lasten  leikkitilanteita  tukien  samalla  lasten  saamen  kielen  käyttöä.  Pienille  lapsille puhutaan  paljon  eri  hoitotilanteissa  (mm.  vaipan  vaihdon,  peseytymisen  ja  pukeutumisen yhteydessä) nimeten samalla eri ruumiinosia ja asusteita.</p>
     <p><em type="bold">Käytännön esimerkkejä kielellisen tietoisuuden kehittämiseksi: Kielen äännerakenne: </em>Lorujen ja laululeikkien avulla lapsi tutustuu saamen kielen äänteisiin ja sääntöihin, miten erilaisia äänteitä voi  yhdistellä.  Erilaisten  sanapareja  (sanaparit,  jotka  erottuvat  toisistaan  yhden  äänteen  perusteella) sisältävien loruja avulla voidaan antaa lapselle vihjeitä siitä miten äänteitä käytetään sanojen erottelemiseen. Tällaisia loruja ovat mm pohjoissaamessa:  </p>
-    <p type="listitem" xml:lang="sme">•  <em type="italic">Hutkás Heaikkaš, Gussa Guossa-Gessa, </em>Č<em type="italic">ieža </em>č<em type="italic">áppa </em>č<em type="italic">áhppes cizáža, </em>Č<em type="italic">áh</em>č<em type="italic">i</em>  </p>
+    <p type="listitem">•  <em type="italic">Hutkás Heaikkaš, Gussa Guossa-Gessa, </em>Č<em type="italic">ieža </em>č<em type="italic">áppa </em>č<em type="italic">áhppes cizáža, </em>Č<em type="italic">áh</em>č<em type="italic">i</em>  </p>
     <p><em type="bold">Sanojen rakentuminen: </em>Lapsen tietoisuutta sanojen muodoista ja sanojen rakentumisesta voidaan edistää erilaisilla harjoituksilla;  </p>
     <p type="listitem">•  yhdyssanaharjoitukset, esimerkiksi pohjoissaamessa; <em type="italic">guollemuorra - muorraguolli</em> </p>
     <p type="listitem">• luonnonääniä  muistuttavat  sanaharjoitukset.  Esimerkiksi  pohjoissaamessa;  <em type="italic">Dappasii</em>  <em type="italic">gappasii  duike</em> </p>
     <p><em type="italic">Eallu-laulu</em> </p>
     <p><em type="bold">Kielen lauserakenne: </em>Lapsen  tietoisuutta  siitä  miten  sanat  liittyvät  toisiinsa  lauseiksi  voidaan  edistää  erilaisilla  loruilla. Esimerkiksi pohjoissaamessa; <em type="italic">Lei oktii áhkku </em>(aikamuodot)<em type="italic">, Beahká viessu</em> (relatiivilause), <em type="italic">Meahcci eallit</em> (verbien persoonamuodot), <em type="italic">Okta guolli vuodjá</em> (verbien taivutus) </p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">4</em>
       <em type="italic">. </em>
       <em type="bold">SAAMELAINEN KULTTUURI JA IDENTITEETTI</em>
@@ -143,8 +141,7 @@
     <p>
       <em type="bold">4.1. Saamelainen lapsuus ja kasvatus </em>
     </p>
-    <p>Perinteisesti  saamelaisperheissä  vanhemmilla  ja  lapsilla  muodostui  läheinen  suhde  yhteisten päivittäisten  askareiden  lomassa.  Lapsia  ohjattiin  samalla,  kun  aikuisilla  oli  omat  työnsä. Leikkiessään  lapsi  oppi  sosiaalisia  taitoja,  tekemään  työtä  ja  käyttämään  luonnon  rikkauksia  ja tulemaan  toimeen  ankarissa  luonnonolosuhteissa.  Saamelaisessa  kasvatuksessa  painotettiin sosiaalista  huomiokykyä,  toisten  huomioon  ottamista  sekä  työn  ja  leikin  kautta  oppimista. Saamelaiskasvatusta  kuvasi  erityisesti  epäsuora  kasvatus.  Lapset  oppivat  huomaamatta  ottamaan vastuuta tekemisistään ja olemisestaan yhdessä perheen ja ympäristön kanssa.  Saamelaisesta kasvatusperinteestä on vielä heijasteita nykypäivän kasvatuksessa. Lapsi kasvatetaan</p>
-    <p>kohtelemaan  kaikkia  ihmisiä  arvonannolla.  Kunnioituksen  tulee  ihmisten  lisäksi  kohdistua luontoon.  Lapsia  ei  suoranaisesti  neuvota  vaan  kerrotaan  tapahtumia  ja  tarinoita  mitä  muille  on tapahtunut.  Ihmisen  kasvun  ja  kehityksen  tavoitteena  on  monipuolinen  persoonallisuus  ja  laajaalainen  osaaminen.    Näiden  ominaisuuksien  kehittämiseksi  kasvatustoimilla  pyritään  kehittämään lapsen  havainnointi-  ja  itsearviointikykyä,  jotta  hän  pärjäisi  uusissa  yllättävissä  tilanteissa.  Vahva itsetunto,  selkeä  minäkuva  ja  vahva  identiteetti  auttavat  lasta  toimimaan  omien  edellytystensä  ja taitojensa  mukaan  sekä  itselleen  luontevalla  tavalla.  Hyvä  suuntautumiskyky  metsässä  liikkuessa, keskusteluissa ja ajattelussa ovat välttämättömiä hyvän elämänhallinnan kannalta.</p>
+    <p>Perinteisesti  saamelaisperheissä  vanhemmilla  ja  lapsilla  muodostui  läheinen  suhde  yhteisten päivittäisten  askareiden  lomassa.  Lapsia  ohjattiin  samalla,  kun  aikuisilla  oli  omat  työnsä. Leikkiessään  lapsi  oppi  sosiaalisia  taitoja,  tekemään  työtä  ja  käyttämään  luonnon  rikkauksia  ja tulemaan  toimeen  ankarissa  luonnonolosuhteissa.  Saamelaisessa  kasvatuksessa  painotettiin sosiaalista  huomiokykyä,  toisten  huomioon  ottamista  sekä  työn  ja  leikin  kautta  oppimista. Saamelaiskasvatusta  kuvasi  erityisesti  epäsuora  kasvatus.  Lapset  oppivat  huomaamatta  ottamaan vastuuta tekemisistään ja olemisestaan yhdessä perheen ja ympäristön kanssa.  Saamelaisesta kasvatusperinteestä on vielä heijasteita nykypäivän kasvatuksessa. Lapsi kasvatetaan kohtelemaan  kaikkia  ihmisiä  arvonannolla.  Kunnioituksen  tulee  ihmisten  lisäksi  kohdistua luontoon.  Lapsia  ei  suoranaisesti  neuvota  vaan  kerrotaan  tapahtumia  ja  tarinoita  mitä  muille  on tapahtunut.  Ihmisen  kasvun  ja  kehityksen  tavoitteena  on  monipuolinen  persoonallisuus  ja  laajaalainen  osaaminen.    Näiden  ominaisuuksien  kehittämiseksi  kasvatustoimilla  pyritään  kehittämään lapsen  havainnointi-  ja  itsearviointikykyä,  jotta  hän  pärjäisi  uusissa  yllättävissä  tilanteissa.  Vahva itsetunto,  selkeä  minäkuva  ja  vahva  identiteetti  auttavat  lasta  toimimaan  omien  edellytystensä  ja taitojensa  mukaan  sekä  itselleen  luontevalla  tavalla.  Hyvä  suuntautumiskyky  metsässä  liikkuessa, keskusteluissa ja ajattelussa ovat välttämättömiä hyvän elämänhallinnan kannalta.</p>
     <p>Saamelaisessa  kasvatuksessa  arvostetaan  hyvän  havainnointi-  ja  arviointikyvyn  lisäksi  vahvaa itsetuntoa ja identiteettiä, laaja-alaista osaamista, sopeutuvuutta, sosiaalisuutta ja kohtuullisuutta. Kokonaisvaltaisena tavoitteena on edistää lapsen  itsenäistä elämässä pärjäämistä  yksin ja  yhdessä muiden kanssa. Itsenäinen selviytyminen edellyttää käytännön taitojen hallinnan lisäksi psyykkistä valmiutta ja uskoa siihen, että jaksaa, osaa ja löytää ratkaisut ongelmiin ja luottaa siihen, että kaiken voi oppia.</p>
     <p>Saamelaisessa yhteisössä perinteisesti suvulla ja yhteisöllä on lapsen kasvatusoikeus ja –vastuu.</p>
     <p>
@@ -323,7 +320,7 @@
     <p type="listitem">•  kutsutaan paikallisia saamelaistaiteilijoita vierailemaan, vieraillaan taide- ja kulttuuritapahtumissa</p>
     <p type="listitem">•  tutustutaan saamelaistaiteeseen ja symboleihin:  Nils-Aslak Valkeapää: värien käyttö, symboliikka Kerttu Vuolab: leikkelytekniikat, kollaasit Merja Aletta Ranttila: Prinsessakuvat Brita Marakatt-Labba: kirjomistekniikka, tarinat</p>
     <p type="listitem">•  järjestetään saamelaislasten yhteisiä vuosittaisia tapahtumia</p>
-    <p xml:lang="sme">.  <em type="bold">SOSIAALISUUS, LEIKKI, LIIKKUMINEN JA OPPIMINEN </em></p>
+    <p>.  <em type="bold">SOSIAALISUUS, LEIKKI, LIIKKUMINEN JA OPPIMINEN </em></p>
     <p>
       <em type="bold">5.1. Oppiminen, leikki ja liikkuminen </em>
     </p>
@@ -339,7 +336,7 @@
     <p type="listitem">•  suopunki- ja poroerotusleikit<em type="italic"> </em></p>
     <p type="listitem">•  nuottausleikit</p>
     <p type="listitem">•  eläinten jälkien tunnistusleikit, riekkoleikit</p>
-    <p type="listitem" xml:lang="fkv">•  aurinko- ja sääleikit</p>
+    <p type="listitem">•  aurinko- ja sääleikit</p>
     <p>
       <em type="bold">5.2. Yhdessä toimiminen ja huolenpito  </em>
     </p>
@@ -352,7 +349,7 @@
     <p>Ruokailu on osa lasten perushoitoa, kasvatusta ja opetusta. Lasta kannustetaan tutustumaan uusiin ruoka-aineisiin ja maistamaan erilaisia  ruokia. Ruokailu on sosiaalisten taitojen harjoittelua, jossa lapsi  oppii  hyviä  käytöstapoja,  toisten  huomioon  ottamista  ja  arvostamaan  ruokaa.  Lasta kannustetaan  omatoimiseen  syömiseen  kiireettömässä,  turvallisessa  ja  opettelulle  myönteisessä ympäristössä.  Ruokavalinnat,  ruokailutilanne,  ruokapuheet  ja  asenteet  ohjaavat  lasten ruokatottumusten  kehittymistä.  Leikki-iässä  on  tärkeää  ruokavalion  monipuolisuus,  kasvisten, hedelmien  ja  marjojen  runsas  käyttö,  pehmeät  rasvat  ravintorasvoina,  rasvaton  maito,  välipalojen laatu, janojuomien järkevä valinta ja napostelutottumusten välttäminen.</p>
     <p>Lapsen kasvuympäristö tulee olla fyysisiltä, psyykkisiltä ja sosiaalisilta tekijöiltään sellainen, että se edistää  lapsen  hyvinvointia,  terveyttä,  kasvua,  kehitystä  ja  oppimista.  Erityistä  huomiota kiinnitetään yksikön melutasoon. Levottomuus, meluisuus ja liialliset sosiaaliset kontaktit nostavat lapsen  stressiherkkyyden  liian  korkeaksi,  mikä  osaltaan  voi  vaikuttaa  lapsen  älylliseen  ja kielelliseen kehitykseen, muistiin, minäkuvaan sekä sosiaalisiin taitoihin.</p>
     <p>Kasvuympäristössä  kiinnitetään  huomiota  turvallisuuden  ja  kodinomaisuuden  lisäksi  toimitilojen toiminnallisuuteen,  luonnonläheisyyteen  ja  siihen,  miten  ne  mahdollistavat  saamelaisen  perinteen siirtymisen  luonnollisesti.  Toimitiloissa  on  mahdollisuus  myös  erilaisten  saamelaisten  käsitöiden tekemiseen. Toimitilojen läheisyydessä on mahdollisuus laavun ja muiden saamelaisten perinteisten piharakennelmien  pystytykselle.  Pihapiirin  saamelaistamisella  voidaan  osaltaan  vahvistaa  lapsen kulttuuri-identiteettiä ja luoda monipuolisempia kielenkäyttömahdollisuuksia.</p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">6. SAAMELAISEN VARHAISKASVATUKSEN SUUNNITTELU, TOTEUTTAMINEN, OHJAUS JA ARVIOINTI  </em>
     </p>
     <p>
@@ -397,12 +394,12 @@
     </p>
     <p>Jokaisen  lapsen  kasvu,  kehitys  ja  oppiminen  on  yksilöllistä.  Lapsi  voi  tarvita  tukea  fyysisen, tiedollisen, taidollisen, tunne-elämän tai sosiaalisen kehityksensä osa-alueilla. Tuen tarve voi syntyä silloin,  kun  lapsen  kasvuolot  vaarantuvat  tai  eivät  turvaa  hänen  terveyttään  ja  kehitystään. Erityisesti  varhaiskasvatuksen  ja  neuvolan  tulee  toimia  kiinteässä  yhteistyössä  lasten oppimisvaikeuksien ja varhaisen tuen tarpeen tunnistamisessa.</p>
     <p>Kun  vanhemmat  tai  varhaiskasvatushenkilöstö  havaitsevat  lapsen  kehityksessä  viivästymistä  tai poikkeavuutta,  keskustellaan  yhteisesti,  mikä  lapsen  kehityksessä  on  yksilöllistä  tai persoonallisuuden  piirteitä  ja  missä  on  tuen  tarvetta.  Toiminnan  lähtökohtia  ovat  lapsen yksilöllisyyden  huomioiminen  ja  itsetunnon  vahvistaminen.  Avoimuus  ja  luottamuksellinen ilmapiiri  lapsen  vanhempien  ja  henkilöstön  välillä  luovat  perustan  toimivalle  yhteistyölle  lapsen hyväksi. Tarvittaessa arvioinnin tueksi hankitaan vanhempien kanssa sovitulla tavalla asiantuntijan lausunto. Tarvittavat tukitoimet aloitetaan heti kun tuen tarve on havaittu.</p>
-    <p xml:lang="eng">
+    <p>
       <em type="bold">6.6. Esiopetus </em>
     </p>
     <p>Esiopetus  on  osa  varhaiskasvatusta.   Kunnalla  on  lakiin  perustuva  velvollisuus  järjestää esiopetusta. Esiopetusta  voidaan järjestää joko päivähoidossa tai koulussa. Silloin kun esiopetusta järjestetään  päivähoitopaikassa,  esiopetukseen  sovelletaan  täydentävänä  myös  päivähoidon lainsäädäntöä.</p>
     <p>Saamelaisten  kotiseutualueella  saamenkielistä  esiopetusta  järjestetään  perusopetuksen  yhteydessä. Esiopetusta  toteutetaan  perusopetuslain  mukaisesti.  Esiopetuksen  opetussuunnitelman  perusteet<em type="bold"> </em>ohjaavat  valtakunnallisesti  esiopetuksen  sisältöä,  laatua  ja  paikallisten  opetussuunnitelmien laatimista. Saamen kielillä annettavan esiopetuksen kielelliset tavoitteet ovat samat kuin muussakin esiopetuksessa. Lapselle tulee kasvatuksen ja opetuksen avulla antaa mahdollisuus omaksua myös saamelainen kulttuuriperintö. Opetuksen painoalueita ovat saamelainen kulttuuri, erityisesti joiku ja käsityöt,  elinkeinot,  elämäntapa  ja  paikallinen  luonto.  Kielellisen  ja  kulttuuriperinteen  jatkumista tulee edistää yhteistyössä paikallisen yhteisön kanssa.  </p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">7. YHTEISTYÖ JA VASTUU </em>
     </p>
     <p>
@@ -423,7 +420,7 @@
     <p>Yhteistyö  paikallisten  kulttuuritoimijoiden  kanssa  vahvistaa  lasten  yhteyttä  omaan  kieleen  ja kulttuuriin.  Paikallisten  kulttuuritoimijoiden  olisi  hyvä  huomioida  toiminnassaan  myös varhaiskasvatuksen tarpeet.</p>
     <p>Pohjoissaamen  kieli  on  yhteinen  Pohjois-Kalotin  alueella  ja  koltansaamen  kieli  Venäjällä  ja Suomessa asuvien kolttasaamelaisten kanssa. Saamelaisille rajat ylittävä yhteistyö on luonnollista ja jatkuvaa.  Varhaiskasvatusyksiköiden  yhteydenpito  yli  rajojen  saamelaisten  päiväkotien  kanssa vahvistaa  saamelaisten  yhteenkuuluvuuden  tunnetta  ja  kulttuurien  tuntemusta.  Saamelaisalueen kunnilla  on  sopimuksia  Ruotsin  ja  Norjan  lähialueen  kuntien  kanssa  varhaiskasvatuspalvelujen ostosta yli rajan.</p>
     <p>Myös  muilla  alkuperäiskansoilla  on  samanlaisia  haasteita  oman  kielen,  kulttuurin  ja yhteisöllisyyden  ylläpitämiseksi  ja  vahvistamiseksi.  Varhaiskasvatushenkilöstön  on  hyvä  tutustua muiden  alkuperäiskansojen  hyviin  käytäntöihin  kielen  ja  kulttuurin  siirtämiseksi  tuleville sukupolville.  Alkuperäiskansayhteistyö  on  aloitettu  saamelaisen  lastenkulttuurikeskuksen  toimesta lastenkulttuurin osalta.</p>
-    <p xml:lang="sma"><em type="bold">8.</em> <em type="bold">SAAMELAISEN VARHAISKASVATUKSEN KEHITTÄMINEN </em></p>
+    <p><em type="bold">8.</em> <em type="bold">SAAMELAISEN VARHAISKASVATUKSEN KEHITTÄMINEN </em></p>
     <p>Alkuperäiskansan  kielten  uhanalaisuus  edellyttää  viranomaisilta  positiivista  erityiskohtelua,  jolla kielten säilyminen ja uusille sukupolville siirtyminen voidaan turvata. Suunnitelmallisen kielen- ja kulttuurinelvyttämisohjelman  laatiminen  varhaiskasvatukseen  ja  perusopetukseen  auttaisi palauttamaan  saamen  kielen  sen  menettäneille  saamelaisille  sekä  tekemään  saamen  kielistä saamelaisyhteiskuntaa kannattelevan voimavaran.</p>
     <p>Saamelaisen  varhaiskasvatuksen  haasteena  on  erityisesti  koltta-  ja  inarinsaamenkielisen varhaiskasvatusmateriaalin  tekeminen.  Saamelaisen  materiaalipankin  kehittäminen  internettiin  on tärkeää saamenkielisen varhaiskasvatusmateriaalin kokoamiseksi yhteen varhaiskasvatushenkilöstön ja vanhempien käyttöön.</p>
     <p>Varhaiskasvatuksen  sisällön  kehittäminen  on  perustyön  osana  tehtävää  työtä. Pedagogisen</p>
@@ -519,7 +516,7 @@
     <p><em type="bold">25.</em> Syntymäkotinsa ulkopuolelle sijoitetulla </p>
     <p>lapsella on oikeus hänelle annetun hoidon ja hänen sijoituksensa perusteiden ajoittaiseen tarkistamiseen.</p>
     <p><em type="bold">26.</em> Lapsella on oikeus sosiaaliturvaan. <em type="bold">27.</em> Lapsella on oikeus hänen kehityksensä kannalta </p>
-    <p xml:lang="fkv">riittävään elintasoon.</p>
+    <p>riittävään elintasoon.</p>
     <p><em type="bold">28.</em> Lapsella on oikeus saada maksuttomasti </p>
     <p>perusopetusta.</p>
     <p><em type="bold">29.</em> Koulutuksen on kehitettävä lapsen yksilöllisiä </p>
@@ -551,14 +548,14 @@
     <p><em type="bold">43. - 54</em>. Nämä artiklat ovat päätöksiä sopimukseen </p>
     <p>liittymisestä, muuttamisesta, valvonnasta, siitä raportoimisesta ja sopimuksen muusta voimassaolosta.</p>
     <p><em type="bold">Liite 3.</em>  <em type="bold">SAAMENKIELISET VARHAISKASVATUSYKSIKÖT  SUOMESSA</em> </p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">SAAMELAISTEN KOTISEUTUALUE: </em>
     </p>
     <p><em type="bold">Enontekiön kunta: </em>Pohjoissaamenkielinen ryhmäperhepäiväkoti Miessi, Hetta. Kaksikielinen ryhmäperhepäiväkoti Touhula, Karesuvanto. </p>
     <p><em type="bold">Inarin kunta: </em>Pohjoissaamenkielinen ryhmäperhepäiväkoti Urbi, Inari. Pohjoissaamenkielinen ryhmäperhepäiväkoti Násti, Ivalo. Inarinsaamenkielinen kielipesä Kielâpiervâl, Inari. Koltansaamenkielinen  kielipesä, Ivalo. </p>
     <p><em type="bold">Sodankylän kunta</em>: Pohjoissaamenkielinen kielipesä, Vuotso.  </p>
     <p><em type="bold">Utsjoen kunta: </em>Utsjoen päiväkoti, saamenkielinen osasto Duottaraski, Utsjoki. Karigasniemen saamenkielinen päiväkoti Gollerássi, Karigasniemi. </p>
-    <p xml:lang="smn">
+    <p>
       <em type="bold">MUU SUOMI: </em>
     </p>
     <p><em type="bold">Rovaniemen kaupunki: </em>Etelärinteen päiväkoti, saamenkielinen päiväkoti, Beaivelottážat, Etelärinne.<em type="bold"> </em></p>

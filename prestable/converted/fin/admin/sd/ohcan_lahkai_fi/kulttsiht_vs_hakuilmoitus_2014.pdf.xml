@@ -11,11 +11,25 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2407&amp;Itemid=10</origFileName>
-    <parallel_text location="kulttsiht_vs_hakuilmoitus_2014.pdf" xml:lang="smn"/>
-    <parallel_text location="kulttsiht_vs_hakuilmoitus_2014.pdf" xml:lang="sme"/>
-    <parallel_text location="kulttsiht_vs_hakuilmoitus_2014.pdf" xml:lang="sms"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="kulttsiht_vs_hakuilmoitus_2014.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="kulttsiht_vs_hakuilmoitus_2014.pdf"/>
+    <parallel_text xml:lang="sms" location="kulttsiht_vs_hakuilmoitus_2014.pdf"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -23,7 +37,7 @@
   </header>
   <body>
     <p>Saamelaiskäräjät ilmoittaa haettavaksi</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">                KULTTUURISIHTEERIN </em>
     </p>
     <p>viransijaisuuden, joka alkaa 8.8.2014 ja päättyy 7.8.2015. Kulttuurisihteerin toimipaikka sijaitsee sihteeristön päätoimipaikassa saamelaiskulttuurikeskus Sajoksessa, Inarissa.  Kulttuurisihteerin päätehtävänä on toimia kulttuurilautakunnan esittelijänä ja sihteerinä. Säädösperusteisena kelpoisuusvaatimuksena on viran edellyttämä koulutus ja lisäksi vaaditaan saamen kielen taitoa (asetus 1727/95). Tehtävän menestyksellistä hoitamista edesauttaa soveltuva korkeakoulututkinto sekä hyvä saamelaisen kulttuurielämän ja hallintotoiminnan tuntemus.  Palkkaus määräytyy saamelaiskäräjien palkkausjärjestelmän vaativuustason IV/IV-II mukaan (peruspalkka välillä 2 437,04 – 2 540,57 euroa/kk).  Hakemukset liitteineen tulee toimittaa saamelaiskäräjien sihteeristöön 11.7.2014  klo 16.00 mennessä osoitteella Sajos, 99870 Inari.  Lisätietoja</p>
