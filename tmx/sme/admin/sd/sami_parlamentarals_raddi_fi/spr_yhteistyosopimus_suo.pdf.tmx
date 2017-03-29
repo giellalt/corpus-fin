@@ -6,7 +6,15 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjien välinen yhteistyösopimus Saamelaisen parlamentaarisen neuvoston kautta hyväksyttiin ja sopimuksen allekirjoittivat Sven-Roald Nystø, Lars Anders Baer ja Pekka Aikio.</seg>
+        <seg>SAAMELAINEN PARLAMENTAARINEN</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SÁMI PARLAMENTÁRALAŠ RÁðI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YHTEISTYÖSOPIMUS Saamelaiskäräjien välinen yhteistyösopimus Saamelaisen parlamentaarisen neuvoston kautta hyväksyttiin ja sopimuksen allekirjoittivat Sven-Roald Nystø, Lars Anders Baer ja Pekka Aikio.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>OVTTASBARGOŠIEHTADUS Sámedikkiid gaskasaš ovttasbargošiehtadusa Sámi parlamentáralaš ráđi bokte, dohkkehuvvui ja vuolláičállojuvvui Sven-Roald Nystø, Lars Anders Baer ja Pekka Aikio bokte.</seg>
@@ -70,18 +78,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>julistavat täten sopineensa seuraavasta:</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>julggaštit dákko bokte ahte leat ovttaoaivilis čuovvuvačča hárrái:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Artikla 1. Sopimuksen tavoitteena on järjestää olosuhteet sellaisiksi, että on mahdollista perustaa kestävä saamelaiskäräjien välinen yhteistyö asioissa, jotka koskevat saamelaisia useammassa maassa tai saamelaisia kansana.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Artihkal 1 Šiehtadusa ulbmilin lea láhčit dilálašvuoðaid bissovaš ovttasbargui sámedikkiid gaskka áššiin mat gusket máŋgga riikka sápmelaččaide dahje sápmelaččaide sierra álbmogin.</seg>
+        <seg>julggaštit dákko bokte ahte leat ovttaoaivilis čuovvuvačča hárrái: Artihkal 1 Šiehtadusa ulbmilin lea láhčit dilálašvuoðaid bissovaš ovttasbargui sámedikkiid gaskka áššiin mat gusket máŋgga riikka sápmelaččaide dahje sápmelaččaide sierra álbmogin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,7 +134,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Artikla 4.</seg>
+        <seg>Artikla 4. Saamelaisen parlamentaarisen neuvoston tehtäviin kuuluvat kaikki asiat, jotka neuvoston käsityksen mukaan koskevat tai voivat koskea saamelaisia useammassa maassa tai saamelaisia kansana.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Artihkal 4 Sámi parlamentáralaš ráđi bargoviidodahkii gullet buot áššit mat ráđi áddejumi mielde gusket dahje sáhttet guoskat sápmelaččaide sierra álbmogin.</seg>
@@ -142,7 +142,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaisen parlamentaarisen neuvoston tehtäviin kuuluvat kaikki asiat, jotka neuvoston käsityksen mukaan koskevat tai voivat koskea saamelaisia useammassa maassa tai saamelaisia kansana.</seg>
+        <seg>Saamelainen parlamentaarinen neuvosto voi omasta aloitteesta ottaa esille asioita ja antaa lausuntoja kaikista tehtäviinsä kuuluvissa asioissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámi parlamentáralaš ráđđi sáhttá ieš vuolggahit áššiid, ja buktit cealkámušaid buot áššiide iežas bargoviidodagas.</seg>
@@ -190,10 +190,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Samoin joka maan saamelaiskäräjien hallitus / neuvosto valitsee yhden (1) edustajan Saamelaisen parlamentaarisen neuvoston täysistunnon jäseneksi.</seg>
+        <seg>Samoin joka maan saamelaiskäräjien hallitus/neuvosto valitsee yhden (1) edustajan Saamelaisen parlamentaarisen neuvoston täysistunnon jäseneksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Seamma guoská juohke sámedikki stivrra / ráđi ovtta lahttui. Stivra / ráđđi nammada dán lahtu.</seg>
+        <seg>Seamma guoská juohke sámedikki stivrra/ráđi ovtta lahttui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +238,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Artikla 10.</seg>
+        <seg>Artikla 10. Saamelaisten parlamentaarista neuvostoa koskeva sopimusta voivat vain saamelaiskäräjät muuttaa sen jälkeen kun Saamelainen parlamentaarinen neuvosto niin on ehdottanut, ja kun kaikkien kolmen maan saamelaiskäräjien enemmistö kannattaa muutosehdotusta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Artihkal 10 Dán šiehtadusa ” Sámedikkiid gaskasaš ovttasbargošiehtadus Sámi parlamentáralaš ráđi bokte ” sáhttet rievdadit dušše sámedikkit maŋŋá go Sámi parlamentáralaš ráđđi nu lea árvalan, ja go buot golmmá sámedikki eanetlohku doarju rievdadusárvalusa.</seg>
+        <seg>Artihkal 10 Dán šiehtadusa ”Sámedikkiid gaskasaš ovttasbargošiehtadus Sámi parlamentáralaš ráđi bokte” sáhttet rievdadit dušše sámedikkit maŋŋá go Sámi parlamentáralaš ráđđi nu lea árvalan, ja go buot golmmá sámedikki eanetlohku doarju rievdadusárvalusa.</seg>
       </tuv>
     </tu>
   </body>
