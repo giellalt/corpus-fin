@@ -6,6 +6,14 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
+        <seg>SAAMELAISTA TAIDETTA JA KÄSITÖITÄ SEKÄ IKONEJA JA KIRKKO- TEKSTIILEJÄ INARIN SAAMELAISILLA KIRKKOPÄIVILLÄ 12. – 14.6.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SÁMEDÁIDDA JA DUOJIT SIHKE IKONAT JA GIRKOTEKSTIILLAT SÁMI GIRKOBEIVVIIN ANÁRIS 12. – 14.6.2009</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Inarin saamelaisten kirkkopäivien ohjelmistoon kuuluu kirkollisten tilaisuuksien ja konserttien lisäksi myös laadukas taide- ja käsityönäyttely, johon on kutsuttu saamelaisia taiteilijoita ja käsityön tekijöitä Ruotsista, Norjasta ja Suomesta.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -17,7 +25,7 @@
         <seg>Ruotsin Sopperosta osallistuu Britta Marakatt-Labba, jolta nähdään tauluja ja kirkkotekstiilejä. Rannveig Persen Norjan Karasjoelta esittelee valokuvia ja digitaalisia kollaaseja.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ruoŧa Sohpparis boahtá Britta Marakatt-Labba, geas oaidnit dávvaliid ja girRannveig Persen Norgga Kárášjogas ovdanbuktá čuovgagovaid ja digitála kollášaid.</seg>
+        <seg>Ruoŧa Sohpparis boahtá Britta Marakatt-Labba, geas oaidnit dávvaliid ja gir Rannveig Persen Norgga Kárášjogas ovdanbuktá čuovgagovaid ja digitála kollášaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33,7 +41,7 @@
         <seg>nut valokuvaaja Martti Rikkonen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Aune KuuMartti Rikkonen Anáris.</seg>
+        <seg>Aune Kuu Martti Rikkonen Anáris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,18 +70,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Utsjoen seurakunta on lainannut Inarin näyttelyä varten Päivi Ruottisen valmistamia kirkkotekstiilejä, jotka on suunnitellut Arkkitehtitoimisto Matti Porkka ky.</seg>
+        <seg>Utsjoen seurakunta on lainannut Inarin näyttelyä varten Päivi Ruottisen valmistamia kirkkotekstiilejä, jotka on suunnitellut Arkkitehtitoimisto Matti Porkka ky. Kirkkotekstiilejä edustavat myös Lapin ortodoksisen seurakunnan jumalanpalveluspuvut.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ohcejoga searvegoddi lea luoikan Anára čájáhussii girkotekstiillaid, maid lea plánen arkiteaktadoaimmahat Matti Porkka Ky ja gorron Päivi Ruottinen Roavvenjárggas 1992.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kirkkotekstiilejä edustavat myös Lapin ortodoksisen seurakunnan jumalanpalveluspuvut.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Girkotekstiillaide gullet maid Lappi ortodoksalaš searvegotti ipmilbálvalusbiktasat.</seg>
+        <seg>Ohcejoga searvegoddi lea luoikan Anára čájáhussii girkotekstiillaid, maid lea plánen arkiteaktadoaimmahat Matti Porkka Ky ja gorron Päivi Ruottinen Roavvenjárggas 1992. Girkotekstiillaide gullet maid Lappi ortodoksalaš searvegotti ipmilbálvalusbiktasat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,18 +86,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Käytäntö perustuu Jumalan profeetta Moosekselle antamiin ohjeisiin valmistaa papistolle erityiset puvut pyhien palvelusten toimittamista varten. (2.</seg>
+        <seg>Käytäntö perustuu Jumalan profeetta Moosekselle antamiin ohjeisiin valmistaa papistolle erityiset puvut pyhien palvelusten toimittamista varten. (2. Moos.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dán geavada vuođđun lea Ipmila profehta Mosesii addin rávvagat goaruhit báhpaide earenoamáš biktasiid bassi doaimmahusaid doaimmaheame várás (2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Moos.28).</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Moses 28).</seg>
+        <seg>Dán geavada vuođđun lea Ipmila profehta Mosesii addin rávvagat goaruhit báhpaide earenoamáš biktasiid bassi doaimmahusaid doaimmaheame várás (2. Moses 28).</seg>
       </tuv>
     </tu>
     <tu>
@@ -113,7 +105,7 @@
         <seg>Enkelien suuri saatto koostuu kahdeksasta enkeliaiheisesta ikonista, jotka on maalannut vihantilainen Elli Tiittanen Veikko Tiittasen valmistamille pohjille.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>” Eŋgeliid stuorra sisaboahtima ” dahjege gávcci ikona lea málen Elli Tiittanen Vihanti-nammasaš báikkis. Su isit Veikko Tiittanen lea duddjon ikonaid vuođuid.</seg>
+        <seg>”Eŋgeliid stuorra sisaboahtima” dahjege gávcci ikona lea málen Elli Tiittanen Vihanti-nammasaš báikkis. Su isit Veikko Tiittanen lea duddjon ikonaid vuođuid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,18 +134,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Suomen saamelaisten yhteinen käsityöyhdistys Sápmelaš Duodjárat ry perustettiin vuonna 1975, nykyisin yhdistyksen nimi on Sámi Duodji ry..</seg>
+        <seg>Suomen saamelaisten yhteinen käsityöyhdistys Sápmelaš Duodjárat ry perustettiin vuonna 1975, nykyisin yhdistyksen nimi on Sámi Duodji ry. Yhdistyksellä on Inarissa ja Enontekiön Hetassa toimipaikat, joissa on sekä näyttelyssä että myytävänä vain aitoja saamenkäsitöitä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>dujiid. Suoma sámiid oktasaš duodjesearvi vuođđuduvvui jagis 1975, ja dalle searvvi namman lei</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Yhdistyksellä on Inarissa ja Enontekiön Hetassa toimipaikat, joissa on sekä näyttelyssä että myytävänä vain aitoja saamenkäsitöitä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sápmelaš Duodjárat ry.. Anáris ja Heahtás leat searvvi doaibmabáikkit, gos leat duodječájáhusat</seg>
+        <seg>Suoma sámiid oktasaš duodjesearvi vuođđuduvvui jagis 1975, ja dalle searvvi namman lei Sápmelaš Duodjárat ry. Anáris ja Heahtás leat searvvi doaibmabáikkit, gos leat duodječájáhusat</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,18 +158,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Avajaistilaisuus järjestetään Inarin kirkonkylän alakoululla torstaina 11.6. klo. 19.00 kutsuvieraille, mutta yleisö on tervetullut tutustumaan näyttelyyn maksutta perjantaina ja lauantaina klo 10.00 - 20.00 sekä sunnuntaina klo 10.00 - 18.00.</seg>
+        <seg>19.00 kutsuvieraille, mutta yleisö on tervetullut tutustumaan näyttelyyn maksutta perjantaina ja lauantaina klo 10.00 - 20.00 sekä sunnuntaina klo 10.00 - 18.00. Näyttely kestää vain kolme päivää, joten kannattaa kiiruhtaa Inariin kirkkopäivien aikana 12. – 14.6.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rahpandilálašvuohta ordnejuvvo Anára girkosiidda vuolleskuvllas duorastaga 11.6. dmu 19.00 bovdejuvvon gussiide, muhto álbmot lea buresboahtán geahččat čájáhusa nuvttá bearjadaga ja lávvordaga dmu 10.00 – 20.00 ja sotnabeaivve dmu 10.00-18.00.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Näyttely kestää vain kolme päivää, joten kannattaa kiiruhtaa Inariin kirkkopäivien aikana 12. – 14.6., jos haluaa tutustua näihin töihin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čájáhus bistá dušše golbma beaivve, nu ahte gánnáha gal doapmat Anárii girkobeivviid áigge 12. – 14.6., juos háliida oahpásmuvvat dáid dujiide.</seg>
+        <seg>Rahpandilálašvuohta ordnejuvvo Anára girkosiidda vuolleskuvllas duorastaga 11.6. dmu 19.00 bovdejuvvon gussiide, muhto álbmot lea buresboahtán geahččat čájáhusa nuvttá bearjadaga ja lávvordaga dmu 10.00 – 20.00 ja sotnabeaivve dmu 10.00-18.00. Čájáhus bistá dušše golbma beaivve, nu ahte gánnáha gal doapmat Anárii girkobeivviid áigge 12. – 14.6., juos háliida oahpásmuvvat dáid dujiide.</seg>
       </tuv>
     </tu>
     <tu>
