@@ -5,25 +5,39 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>569</wordcount>
+    <wordcount>554</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1700&amp;Itemid=10</origFileName>
-    <parallel_text location="spr_ovttasbargosoahpamus_sa.pdf" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="spr_ovttasbargosoahpamus_sa.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="sme">Sámi parlamentáralaš ráññi</p>
-    <p xml:lang="eng">Samiskt parlamentariskt råd  Saamelainen parlamentaarinen neuvosto  Saami Parliamentary Council Саамский Парламентский Совет</p>
-    <p xml:lang="sma">SAAMELAINEN PARLAMENTAARINEN</p>
-    <p xml:lang="sma">NEUVOSTO</p>
-    <p xml:lang="ger">YHTEISTYÖSOPIMUS</p>
+    <p>SAAMELAINEN PARLAMENTAARINEN</p>
+    <p>NEUVOSTO</p>
+    <p>YHTEISTYÖSOPIMUS</p>
     <p>Saamelaiskäräjien välinen yhteistyösopimus Saamelaisen parlamentaarisen neuvoston kautta hyväksyttiin ja sopimuksen allekirjoittivat Sven-Roald Nystø, Lars Anders Baer ja Pekka Aikio.</p>
     <p>Sopimus saamelaisten välisestä yhteistyöstä saamelaisessa parlamentaarisessa neuvostossa</p>
     <p>Sopimuksen osapuolet, Suomen, Norjan ja Ruotsin saamelaiskäräjät:</p>

@@ -10,16 +10,32 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1245&amp;Itemid=10</origFileName>
-    <parallel_text location="julistuspohj_suomi.doc.pdf" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="julistuspohj_suomi.doc.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="sms">SAAMELAISEN PARLAMENTAARISEN NEUVOSTON (SPN) JULISTUS POHJOISMAISESTA SAAMELAISSOPIMUKSESTA</p>
+    <p>SAAMELAISEN PARLAMENTAARISEN NEUVOSTON (SPN) JULISTUS POHJOISMAISESTA SAAMELAISSOPIMUKSESTA</p>
     <p>Hyväksytty saamelaisen parlamentaarisen neuvoston kokouksessa 14.4.2010</p>
     <p>SPN toivoo, että Suomen, Ruotsin ja Norjan valtiot kunnioittavat saamelaisten edustavan saamen kansaa Suomessa, Ruotsissa ja Norjassa. SPN muistuttaa, että pohjoismainen saamelaissopimus tulee olemaan epätäydellinen niin kauan kuin Venäjän saamelaiset ovat saamelaissopimuksen ulkopuolella. SPN tukee myös Venäjän saamelaisten pyrkimystä järjestäytyä edustukselliseksi elimeksi ja kehottaa Suomen, Ruotsin ja Norjan valtioita tukemaan Venäjän saamelaisten pyrkimyksiä.</p>
     <p>SPN näkee kolmen maan saamelaiskäräjien ja Norjan, Ruotsin ja Suomen hallituksen välillä yhteisymmärrystä sen suhteen, että pohjoismaiden saamelaissopimuksen neuvottelut aloitetaan.</p>

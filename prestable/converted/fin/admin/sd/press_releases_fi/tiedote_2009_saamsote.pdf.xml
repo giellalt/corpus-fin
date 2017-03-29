@@ -11,17 +11,33 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=996&amp;Itemid=10</origFileName>
-    <parallel_text location="diedahus_2009.pdf" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="diedahus_2009.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 139793 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="sms">25.3.2009</p>
-    <p xml:lang="sme">
+    <p>25.3.2009</p>
+    <p>
       <em type="bold">SAAMENKIELISTEN SOSIAALI- JA TERVEYSPALVELUJEN SAATAVUUDEN TURVAAMISEKSI 600 000 EUROA </em>
     </p>
     <p type="listitem">
@@ -58,7 +74,7 @@
     <p type="listitem">-  Auttaja-Aslak –toiminta, Karigasniemi 32 500 €</p>
     <p type="listitem">-  Saamenkielinen toiminnanohjaaja 17 500 €<em type="bold"> </em></p>
     <p type="listitem">-  Saamenkielinen terveydenhoitaja 20 000 €<em type="bold"> </em></p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">SAAMELAISTEN KIELI- JA KULTTUURIPESIEN TOIMINNAN RAHOITTAMISEEN 100 000 EUROA </em>
     </p>
     <p type="listitem">
@@ -70,6 +86,6 @@
     <p>Saamelaiskäräjät ja saamelaisalueen kunnat hakivat 28.11.2008 opetusministeriöltä valtionavustusta Saamelaisten  kieli-  ja  kulttuuripesätoimintaa  varten  vuosille  2009-2011  yhteensä  1,7  miljoonaa euroa.  Hankkeen  toteutusaikana  on  tavoitteena  saada  rahoitus  saamelaisten  kotiseutualueelle suunnitelluille kahdeksalle (8) saamelaisten kieli- ja kulttuuripesälle.</p>
     <p>Vuodelle  2009  myönnetyllä  valtionavustuksella  rahoitetaan  Inarin  kirkonkylässä  toimivan  inarinsaamenkielisen  kielipesän  toimintaa  yhteensä  81 200  eurolla  ja  Vuotsossa  sijaitsevan  pohjoissaamenkielisen kielipesän toimintaa yhteensä 18 800 eurolla.</p>
     <p>Lisätietoja:  Pia  Ruotsala,  sosiaali-  ja  terveyssihteeri,  Saamelaiskäräjät,  040-7262688,</p>
-    <p xml:lang="sms">pia.ruotsala@samediggi.fi<em type="bold"> </em></p>
+    <p>pia.ruotsala@samediggi.fi<em type="bold"> </em></p>
   </body>
 </document>

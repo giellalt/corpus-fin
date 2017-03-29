@@ -11,19 +11,33 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1508&amp;Itemid=10</origFileName>
-    <parallel_text location="tiedote_2011_saamsote_inarinsaame.pdf" xml:lang="smn"/>
-    <parallel_text location="tiedote_2011_saamsote_koltannos.pdf" xml:lang="sms"/>
-    <parallel_text location="diedahus_2011.pdf" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="diedahus_2011.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="tiedote_2011_saamsote_inarinsaame.pdf"/>
+    <parallel_text xml:lang="sms" location="tiedote_2011_saamsote_koltannos.pdf"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 139793 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="sms">17.3.2011</p>
-    <p xml:lang="sme">
+    <p>17.3.2011</p>
+    <p>
       <em type="bold">SAAMENKIELISTEN SOSIAALI- JA TERVEYSPALVELUJEN SAATAVUUDEN TURVAAMISEKSI 600 000 EUROA </em>
     </p>
     <p type="listitem">
@@ -61,6 +75,6 @@
     <p type="listitem">-  Saamenkielinen toiminnanohjaaja 33 000 €<em type="bold"> </em></p>
     <p type="listitem">-  Saamenkielinen terveydenhoitaja 27 400 €<em type="bold"> </em></p>
     <p>Lisätietoja:  Pia  Ruotsala,  sosiaali-  ja  terveyssihteeri,  Saamelaiskäräjät,  040-7262688,</p>
-    <p xml:lang="sms">pia.ruotsala@samediggi.fi<em type="bold"> </em></p>
+    <p>pia.ruotsala@samediggi.fi<em type="bold"> </em></p>
   </body>
 </document>

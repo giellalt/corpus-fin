@@ -10,16 +10,32 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=258&amp;Itemid=10</origFileName>
-    <parallel_text location="sami_musihkkagfidnu_loahpparaporta.pdf" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="sami_musihkkagfidnu_loahpparaporta.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="kal">
+    <p>
       <em type="bold">S AAMELAIS MUS IIKKIKES KUS HANKKEEN LOPPURAPORTTI  </em>
     </p>
     <p>
@@ -48,7 +64,7 @@
     <p>
       <em type="bold">4. Projektin toteutus ja yhteistyö  </em>
     </p>
-    <p>Projektin  aikana  kartoitettiin  projektisuunnitelman  mukaisesti  opettajien  ja  kuntien  kantaa saamelaismusiikin opetuksen järjestämisestä esimerkiksi kiertävän musiikinopettajan toteuttamana. Saamelaisalueella  on  pitkät  välimatkat  ja  etäisyydet  kylien  välillä  ja  tämä  asettaa  haasteita  myös musiikinopetukselle.  Ongelmana  on  pätevien  musiikinopettajien  saaminen  koko  alueelle.  Paikoin puutetta on myös saamelaismusiikin osaajista yleensä – paikallisperinteen opettajia ei kaikkialta  edes löydy. Opetusta pyrittäisiin toteuttamaan mahdollisimman paljon paikallisin voimin sekä nk. <span type="quote" xml:lang="eng">”Learning  from  the  Elders”</span>  –  metodilla,  jossa  kenties  jo  ikääntyneetkin perinteenkantajat  jakavat perinnetietämystään  nuoremmille  koulussa.  Tällä  tavoin  organisoitunakin  perinnemusiikin opetuksessa  tarvitaan  ns.  apupedagogi,  apuopettaja  tai  koordinaattori,  joka  esim.  huolehtii käytännön  järjestelyistä  ja  tekee  perinteenkantajalle  mahdollisimman  helpoksi  luokkatilanteeseen tulemisen  sekä  toimii  myös  apuna  opetustilanteessa.  Myös  etäopetuksen  mahdollisuuksia kartoitettiin  ja  osa  tulevan  Saamelaismusiikkikeskuksen  opetuksesta  järjestetäänkin  hyvin todennäköisesti etäopetuksen avulla.</p>
+    <p>Projektin  aikana  kartoitettiin  projektisuunnitelman  mukaisesti  opettajien  ja  kuntien  kantaa saamelaismusiikin opetuksen järjestämisestä esimerkiksi kiertävän musiikinopettajan toteuttamana. Saamelaisalueella  on  pitkät  välimatkat  ja  etäisyydet  kylien  välillä  ja  tämä  asettaa  haasteita  myös musiikinopetukselle.  Ongelmana  on  pätevien  musiikinopettajien  saaminen  koko  alueelle.  Paikoin puutetta on myös saamelaismusiikin osaajista yleensä – paikallisperinteen opettajia ei kaikkialta  edes löydy. Opetusta pyrittäisiin toteuttamaan mahdollisimman paljon paikallisin voimin sekä nk. <span type="quote">”Learning  from  the  Elders”</span>  –  metodilla,  jossa  kenties  jo  ikääntyneetkin perinteenkantajat  jakavat perinnetietämystään  nuoremmille  koulussa.  Tällä  tavoin  organisoitunakin  perinnemusiikin opetuksessa  tarvitaan  ns.  apupedagogi,  apuopettaja  tai  koordinaattori,  joka  esim.  huolehtii käytännön  järjestelyistä  ja  tekee  perinteenkantajalle  mahdollisimman  helpoksi  luokkatilanteeseen tulemisen  sekä  toimii  myös  apuna  opetustilanteessa.  Myös  etäopetuksen  mahdollisuuksia kartoitettiin  ja  osa  tulevan  Saamelaismusiikkikeskuksen  opetuksesta  järjestetäänkin  hyvin todennäköisesti etäopetuksen avulla.</p>
     <p>Projektin aikana kartoitettiin mielipiteitä siitä, miten  laajaa aluetta kiertävä  musiikinopettaja voisi hoitaa  musiikinopetuksen.  Yhtenä  vaihtoehtona  pyrittiin  kartoittamaan  miten  saamelaismusiikin opetus  järjestettäisiin  kiertävän  musiikinopettajan  toimesta  siten,  että  koulujen  ja  kuntien  osaksi jäisi  ainoastaan  matkakulujen  maksaminen.  Saamenkielisen  opetuksen  ollessa  kyseessä  tämä onnistuisi,  koska  saamenkieliseen  opetukseen  saa  100  %  valtion tuen  opettajan  palkkojen  osalta. Lisäksi on tietysti huomioitava se seikka, että suomenkielisessä opetuksessa on huomattava määrä saamelaislapsia  ja  pysyvänä  ratkaisuna  opetuksen  järjestäminen  valtion  rahoituksen  kautta ainoastaan saamenkielisessä opetuksessa oleville lapsille ei ehkä ole kovin hyvä. Saamelaislapsia on myös  suomenkielisessä  opetuksessa  hyvin  paljon  ja  vaikka  saamelaismusiikin  opetuksen järjestäminen saamenkielisen opetuksen rahoituskehyksestä onkin kannatettava, suotava ja siitä on hyvä  aloittaa,  silti  useat  opettajat  monelta  eri  koululta  ilmaisivat  huolensa  siitä,  jäävätkö suomenkieliset saamelaislapset kokonaan ilman saamelaismusiikin opetusta. Tämä on tärkeä seikka, joka  tulee  tulevaisuudessa  huomioida.  Kielikeskustelussa  toisaalta  painotettiin  myös  sitä,  että saamenkieli  kuuluu  olennaisena  osana  saamelaiseen  perinnemusiikkiin  ja  saamelaisen vokaalimusiikin kieli on perinteisesti saame.</p>
     <p>Tarvetta  ja  kiinnostusta  olisi  myös  saada  suomenluokille  saamelaismusiikin  opetusta  niin,  että  se tulisi  tutuksi  myös  alueen  suomenkieliselle  ja  suomalaiselle  väestölle.  Ideaali  tilanne  olisi,  että saamelaismusiikkia  sisällytetään  musiikin  opetussuunnitelmiin  koko  Saamelaisalueella,  ainakin enemmän kuin mitä se tätä nykyä tulee esiin musiikin opetuksessa.</p>
     <p>Saamelaismusiikin  opetusta  tulee  suunnittelemaan  ja  järjestämään  Inariin  rakennettavan Saamelaiskulttuurikeskuksen  kautta  Saamelaismusiikkikeskus,  jonka  toimintaa  varten  haetaan rahoitusta jo ensi vuodelle. Ideana on järjestää niin perinteisen kuin populaarin saamelaismusiikin opetusta kouluille. Saamelaismusiikkikeskuksen visioksi suunniteltiin seuraavaa:</p>
@@ -88,7 +104,7 @@
     <p>Projektin  aikana  perustettu  musiikkiterminologian  käännöstyöryhmä  teki  tärkeää  työtä  yhdessä Saamelaiskäräjien saamenkieliasiansihteeri <em type="bold">Ellen Näkkäläjärven</em> kanssa kääntäen musiikkiterminologiaa  sekä  musiikkisanastoa  pohjoissaameksi.  Työryhmän  vetäjänä  työskenteli kuukauden  verran  kielenkääntäjä  ja  tulkki  <em type="bold">Veikko  Holmberg</em>,  jonka  apuna  musiikkisanaston tarkistamisessa sekä hiomisessa kokoontuivat asiantuntijat fil.tri <em type="bold">S amuli Aikio</em>, norjansaamelainen muusikko  ja  näyttelijä  <em type="bold">S verre  Porsanger</em>  sekä  projektipäällikkö  Annukka  Hirvasvuopio-Laiti. Lisäksi  apua  saatiin  saamenkielen  kääntäjiltä  puhelimitse  sekä  sähköpostitse.  Työryhmän  työn tuloksena saatiin pohjoissaamenkielinen musiikkiterminologialista, jonka avulla musiikin  opettaminen  helpottuu  huomattavasti  niin  Suomessa  kuin  rajojen  ylitsekin.  Saamelaismusiikin opetusta  on  suuresti  vaikeuttanut  yhtenäisen  ja  selkeän  saamenkielisen  musiikkisanaston puuttuminen.  M usiikkiterminologialistassa  on  pohjoissaamenkielinen  käännös,  suomen-  ja norjankieliset vastaavat termit ja se sisältää musiikin opetuksen perussanaston sekä termistön lisäksi tietysti  myös  runsaasti  saamelaismusiikkiin  (esimerkiksi  joikaamiseen)  liittyvää  sanastoa. Pohjoissaamenkielinen  musiikkisanasto  tulee  näkyville  internettiin,  josta  se  on  saamelaisten opettajien, muusikoiden, tulkkien, kääntäjien ja muiden sanastoa tarvitsevien vapaassa käytössä. </p>
     <p>Saamelaiskäräjien Saamelaiskulttuurikeskustyöryhmässä Saamelaismusiikkikeskushanke oli mukana  muun  muassa  auditorion,  äänentoiston,  esiintymislavan,  takahuonetilojen  sekä  studion suunnittelussa.  Projektityöntekijä  Jussi  Isokoski  laati  laajan  selvityksen  auditorion  sekä  studion tarvitsemasta  tekniikasta  (valot,  äänitekniikka,  nauhoitustekniikka  sähköistykset  lavalla  ja auditoriossa jne.).</p>
     <p>Saamelaisalueelle  ja  saamelaiskulttuurille  projektista  on  ollut  hyötyä  siten,  että  arvokasta  ja ainutlaatuista  musiikkiperinnettä  on  pyritty  säilyttämään  ja  edelleen  kehittämään,  tekemään tunnetuksi  ja  sitä  kautta  saamaan  uusia  osaajia.  Perinteenkantajia  on  kartoitettu  ja  tarjottu  heille tilaisuuksia  opettaa  taitojaan  nuoremmilleen,  näin  on  myös  vanhempaa  sukupolvea  motivoitu jatkamaan perinteen parissa ja siirtämään taitojaan uusille sukupolville. Hankkeen aikana järjestetyt musiikkileirit ja kurssit, monet luennot ja esiintymiset liittyen esimerkiksi Saamelaiskulttuurikeskushankkeeseen sekä Ijahis Idja – musiikkitapahtuma ovat lisänneet tietoutta saamelaismusiikista ja näin ollen myös saamelaiskulttuurista niin saamen- kuin suomenkielisellekin väestölle  saamelaisalueella.  Saamelaisnuorten  identiteettiä  vahvistaa  omalla  kielellä  annettu  ja omasta perinteestä ammennettu opetus. Lisäksi saamelaisnuorten yhteisöllisyyttä ja ylpeyttä omasta kulttuurista lisäävät kulttuuritapahtumat (esimerkiksi Ijahis Idja) jossa tavataan muita saamelaisia, etenkin muita nuoria, ja luodaan oman kielen ja kulttuurin pohjalta taidetta.</p>
-    <p>M usiikkiprojektien  järjestämillä  nuorten  musiikkileireillä  on  äänitetty  runsaasti  niin  uutta  kuin perinteistäkin  saamelaismusiikkia  nuorten  itsensä  soittamina,  laulamina,  joikaamina  ja leuddaamina. Nämä niin kutsutut <span type="quote" xml:lang="ron">”demot”</span> ovat nuorille oman musiikin käyntikortteja, joita voidaan esitellä vaikkapa konserttijärjestäjille tai vaikka vain kuunnella omien ystävien ja perheen kanssa ja  jäävät  muistoksi  myöhempiä  vuosiakin  varten.  Saamelaisnuorten  musiikkileiri  järjestettiin Saamelaismusiikkikeskushankkeen  aikana  Sevettijärvellä  ja  paikalla  oli  runsaasti  osallistujia. Lisäksi  Ijahis  Idja  –  tapahtuman  aikana  järjestettiin  saamelaismusiikin  opetusta  konserttien  ja seminaarin ohella.</p>
+    <p>M usiikkiprojektien  järjestämillä  nuorten  musiikkileireillä  on  äänitetty  runsaasti  niin  uutta  kuin perinteistäkin  saamelaismusiikkia  nuorten  itsensä  soittamina,  laulamina,  joikaamina  ja leuddaamina. Nämä niin kutsutut <span type="quote">”demot”</span> ovat nuorille oman musiikin käyntikortteja, joita voidaan esitellä vaikkapa konserttijärjestäjille tai vaikka vain kuunnella omien ystävien ja perheen kanssa ja  jäävät  muistoksi  myöhempiä  vuosiakin  varten.  Saamelaisnuorten  musiikkileiri  järjestettiin Saamelaismusiikkikeskushankkeen  aikana  Sevettijärvellä  ja  paikalla  oli  runsaasti  osallistujia. Lisäksi  Ijahis  Idja  –  tapahtuman  aikana  järjestettiin  saamelaismusiikin  opetusta  konserttien  ja seminaarin ohella.</p>
     <p>Myös opettajakoulutuksissa nauhoitetuilla äänitteillä on merkitystä saamelaismusiikin opetuksessa. Äänitteiden sekä niihin  liittyvien ohjekirjasten avulla saadaan koulujen ja päiväkotien opetukseen lisää  saamenkielisiä  lauluja  ja  leikkejä  sekä  joikuja.  Äänitteet  ja  leikkiohjeet  jäävät  koko Saamelaisalueen kouluille ja päiväkodeille oppimateriaaliksi.</p>
     <p>
       <em type="bold">8. Projektin innovatiivisuus </em>
@@ -119,7 +135,7 @@
     <p>
       <em type="bold">11.3 Hallinnoijan vuosittaisen tilinpidon tarkastuksesta vastannut henkilö tai organisaatio </em>
     </p>
-    <p xml:lang="sme">HTM , Irja Herkman.</p>
+    <p>HTM , Irja Herkman.</p>
     <p>
       <em type="bold">11.4 Projektin päätyttyä lopputilintarkastuksen suorittanut henkilö tai organisaatio </em>
     </p>
@@ -135,11 +151,11 @@
       <em type="bold">12. Seurantaraportti  </em>
     </p>
     <p>Tätä  loppuraporttia  täydentää  viimeisen  seurantakauden  seurantaraportti,  joka  on  laadittu  vuoden 2007 seurantakaudelta 1.7. – 31.12. ja on toimitettu projektin päävastuuviranomaiselle.<em type="bold"> </em></p>
-    <p xml:lang="fkv">
+    <p>
       <em type="bold">13. Liitteet  </em>
     </p>
     <p>Tämän raportin mukana on kaksi liitettä: Seurantaraportti sekä Ijahis Idja 2007 tapahtumaraportti.</p>
-    <p xml:lang="sms">__________________________________________________________</p>
-    <p xml:lang="smn">www.samediggi.fi                                      http://www.samediggi.fi/projektit/muspro.htm                                                           www.ijahisidja.fi</p>
+    <p>__________________________________________________________</p>
+    <p>www.samediggi.fi                                      http://www.samediggi.fi/projektit/muspro.htm                                                           www.ijahisidja.fi</p>
   </body>
 </document>
