@@ -5,34 +5,36 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>8337</wordcount>
+    <wordcount>7725</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
     <origFileName>tasa-arvolaki-2005.pdf</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
     <parallel_text xml:lang="sme" location="dassearvolahka.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 105844 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p><em type="italic">Tasa-arvolaki</em> </p>
-    <p>TASA-ARVOYKSIKKÖ JA TASA-ARVOVALTUUTETTU</p>
-    <p>Sosiaali- ja terveysministeriö</p>
-    <p><em type="bold">Tasa-arvoesitteitä 2005:2</em> </p>
-    <p>Helsinki 2005</p>
-    <p>ISSN 1236-9993 ISBN 952-00-1734-8 (nid.) ISBN 952-00-1735-6 (PDF)</p>
-    <p>Yliopistopaino Helsinki 2005</p>
-    <p><em type="italic">Sisällys</em> </p>
-    <p><em type="italic">Tasa-arvolaki pähkinähkinäänkuoressaänkuoressaä</em> ....................<em type="bold">5</em> </p>
-    <p><em type="italic">Miksi tasa-arvolakia tarvitaan</em> .......................<em type="bold">5</em> Tasa-arvon toteutuminen on yhteinen etu ......<em type="bold">6</em> Tasa-arvolakia on uudistettu ...........................<em type="bold">7</em> Mitä laki vaatii viranomaisilta .........................<em type="bold">7</em> Kiintiöt ja tasapuolisen edustuksen periaate ...<em type="bold">8</em> Tasa-arvon edistäminen koulutuksessa  ........ <em type="bold">11</em> Tasa-arvon edistäminen työpaikalla ..............<em type="bold">12</em> Työpaikan tasa-arvosuunnitelma ...................<em type="bold">13</em> Tasa-arvosuunnitelma oppilaitoksessa ...........<em type="bold">16</em> </p>
-    <p><em type="italic">Sukupuoleen perustuva syrjintä Sukupuoleen perustuva syrjintä Sukupuoleen perustuva syrjint on kiellettyä </em><em type="bold">17</em> Välitön ja välillinen syrjintä ..........................<em type="bold">17</em> Seksuaalinen häirintä ja häirintä sukupuolen perusteella .................................<em type="bold">19</em> Mikä ei ole syrjintää ......................................<em type="bold">20</em> </p>
-    <p><em type="italic">Syrjintä Syrjintä Syrjint työeläeläel mämä ässässä ä, oppilaitoksissä, oppilaitoksissäa</em> <em type="italic">ja etujärjestärjestäöissä on kiellettyä </em> ...................... <em type="bold">20</em> Työelämä ......................................................<em type="bold">20</em>     Työelämän syrjintäkiellot ...........................kiellot ...........................kiellot     Syrjintä raskauden perusteella ....................<em type="bold">21</em>     Syrjintä työnhakijoiden valinnoissa ............<em type="bold">21</em>     Syrjintä palkkauksessa ja muissa     työsuhteen ehdoissa ...................................<em type="bold">22</em> </p>
-    <p>Syrjintä työn järjestämisessä .........................<em type="bold">24</em> Syrjintä irtisanomisissa ja lomautuksissa .......<em type="bold">25</em> Työnantajan vastatoimet ovat syrjintää .........<em type="bold">25</em> Häirintä työpaikoilla  ....................................<em type="bold">26</em> Työnantajan selvitys työntekijälle .................<em type="bold">26</em> Työntekijän edustajan oikeudesta saada   palkkatietoja eräissä tapauksissa  .................. <em type="bold">27</em> Oppilaitokset ...............................................Oppilaitokset ...............................................Oppilaitokset Syrjintä oppilaitoksissa ................................ <em type="bold">28</em> Oppilaitoksen selvitys opiskelijalle .............. <em type="bold">29</em> Etujärjestöt ....................................................t ....................................................t Syrjintä etujärjestöissä ................................. <em type="bold">29</em> Syrjivä ilmoittelu on kiellettyä ....................... <em type="bold">30</em> Hyvitys syrjinnästä  ........................................ <em type="bold">30</em> </p>
-    <p><em type="italic">Tasa-arvolain valvont</em>a  ................................. <em type="bold">32</em> Tasa-arvovaltuutetun tehtävät ........................t ........................t Tasa-arvovaltuutetun toimiston yhteystiedot ..Tasa-arvovaltuutetun toimiston yhteystiedot ..Tasa-arvovaltuutetun toimiston yhteystiedot <em type="bold">34</em> Tasa-arvolautakunnan tehtävät .......................t .......................t Tasa-arvolautakunnan yhteystiedot ................Tasa-arvolautakunnan yhteystiedot ................Tasa-arvolautakunnan yhteystiedot Syrjintäkiellot muussa lainsäädännössä ........... <em type="bold">35</em> </p>
-    <p><em type="italic">Liitteet</em> Laki naisten ja miesten välisestä tasa-arvosta  ................................................. <em type="bold">36</em> Tasa-arvodirektiivit, jotka sitovat   Suomea Euroopan unionin jäsenenä  ........... <em type="bold">56</em> </p>
     <p><em type="italic">Tasa-arvolaki</em> </p>
     <p><em type="bold">pähkinänkuoressa</em> </p>
     <p>Tasa-arvolain tarkoituksena on  estää sukupuoleen perustuva välitön ja välillinen syr jintä  edistää naisten ja miesten välistä tasa-arvoa ja  parantaa naisten asemaa erityisesti työelämässä.</p>
@@ -220,29 +222,5 @@
     <p>Tarkempia säännöksiä tämän lain täytäntöönpanosta annetaan tarvittaessa asetuksella.</p>
     <p><em type="italic">25 §</em> <em type="italic">Voimaantulo ja siirtymäsäännökset</em> <em type="italic">(6.5.1988/406)</em> </p>
     <p>Tämä laki tulee voimaan 1 päivänä tammikuuta 1987. Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin. Tämän lain säännöksiä ei sovelleta, mikäli ne ovat ristiriidassa ennen tämän lain voimaantuloa <em type="italic">tehdyn</em> työehto-, virkaehto- tai toimiehtosopimuksen kanssa. Tämän lain 4 §:n 2 momentin säännös ei velvoita muuttamaan ennen lain voimaantuloa asetetun valtion komitean, neuvottelukunnan tai muun vastaavan toimielimen kokoonpanoa. </p>
-    <p>8.7.1992/624: Tämä laki tulee voimaan 1 päivänä elokuuta 1992.</p>
-    <p>17.2.1995/196: Tämä laki tulee voimaan 1 päivänä huhtikuuta 1995.</p>
-    <p>17.2.1995/206: Tämä laki tulee voimaan 1 päivänä maaliskuuta 1995. Lain 4 §:n 2 momentin mukaista kiintiöperiaatetta sovelletaan lain voimaantulon jälkeen asetettaviin toimielimiin.</p>
-    <p>21.4.1995/691: Tämä laki tulee voimaan 1 päivänä syyskuuta 1995.</p>
-    <p>28.11.1997/1037: Tämä laki tulee voimaan 1 päivänä joulukuuta 1997.</p>
-    <p>26.1.2001/71: Tämä laki tulee voimaan 1 päivänä kesäkuuta</p>
-    <p>15.4.2005/232: Tämä laki tulee voimaan 1 päivänä kesäkuuta 2005. Ennen lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimenpiteisiin.</p>
-    <p>Laki luettavissa myös internetissä osoitteessa: www.finlex.fi/fi/laki/ajantasa/1986/19860609</p>
-    <p><em type="italic">Tasa-arvodirektiivit, jotka sitovat</em> </p>
-    <p><em type="bold">Suomea Euroopan unionin jäsenenä:</em> </p>
-    <p>75/117/ETY OJ 1975 L 45 Neuvoston direktiivi naisten ja miesten samapalkkaisuuden periaatteen soveltamista koskevan jäsenvaltioiden lainsää dännön lähentämisestä.</p>
-    <p>76/207/ETY OJ 1976 L 39 Neuvoston direktiivi naisten ja miesten tasa-arvoisen kohtelun periaatteen toteutta misesta mahdollisuuksissa työhön, ammatilliseen koulutukseen ja uralla etenemiseen sekä työoloissa.</p>
-    <p>79/7/ETY OJ 1979 L 6 Neuvoston direktiivi naisten ja miesten tasa-arvoisen kohtelun periaatteen asteittai sesta toteuttamisesta sosiaa liturvaa koskevissa kysymyksissä.</p>
-    <p>86/378/ETY OJ 1986 L 225 Neuvoston direktiivi naisten ja miesten tasa-arvoisen kohtelun periaatteen toteutta misesta ammatillisissa sosiaa liturvajärjestelmissä.</p>
-    <p>86/613/ETY OJ 1986 L 359 Neuvoston direktiivi naisten ja miesten tasaarvoisen kohtelun periaatteen sovelta misesta itsenäisen ammatin harjoittajiin, maatalousalalla toimivat ammatinharjoitta jat mukaan lukien, ja itsenäistä ammattia harjoittavien naisten suojeluun raskauden ja synnytyksen perusteella.</p>
-    <p>92/85/ETY OJ 1992 L 348 Neuvoston direktiivi toimenpiteistä raskaana olevien ja äskettäin synnyttäneiden tai imettävien työntekijöiden turvallisuuden ja terveyden parantamisen kannustamiseksi työssä.</p>
-    <p>96/34/EY OJ 1996 L 145 Neuvoston direktiivi UNICE:n, CEEP:n ja EAY:n tekemästä vanhempainlomaa koskevasta puitesopimuksesta.</p>
-    <p>96/97/EY OJ 1997 L 046 Neuvoston direktiivi miesten ja naisten tasaarvoisen kohtelun periaatteen toteuttamisesta ammatillisissa sosiaaliturvajärjestelmissä annetun direktiivin 86/378/ETY muuttamisesta</p>
-    <p>97/80/EY OJ 1998 L 14 Neuvoston direktiivi todistustaakasta sukupuoleen perustuvissa syrjintätapauksissa.</p>
-    <p>2002/73/EY OJ 2002 L 269 Euroopan parlamentin ja neuvoston direktiivi miesten ja naisten tasa-arvoisen kohtelun periaatteen toteuttamisesta mahdollisuuksissa työhön, ammatilliseen koulutukseen ja uralla etenemiseen sekä työoloissa annetun neuvoston direktiivin 76/207/ETY muuttamisesta.</p>
-    <p>2004/113/EY OJ 2004 L 373 Neuvoston direktiivi miesten ja naisten yhdenvertaisen kohtelun periaatteen täytäntöönpanosta tavaroiden ja palvelujen saatavuuden ja tarjonnan alalla.</p>
-    <p><em type="bold">TASA-ARVOESITTEITÄ</em> <em type="bold">JÄMSTÄLLDHETSBROSCHYRER</em> <em type="bold">EQUALITY BROCHURES  ISSN 1236-9993</em> </p>
-    <p>2005:  1  Tasa-arvoasiat Suomessa. 3. uus. p.   ISBN 952-00-1716-X (nid.)   ISBN 952-00-1717-8 (PDF)   ISBN 952-00-1718-6 (swe)   ISBN 952-00-1719-4 (PDF)   ISBN 952-00-1720-8 (eng)   ISBN 952-00-1721-6 (PDF)</p>
-    <p>2005:2   Tasa-arvolaki 2005.   ISBN 952-00-1734-8 (nid.)   ISBN 952-00-1735-6 (PDF)</p>
   </body>
 </document>

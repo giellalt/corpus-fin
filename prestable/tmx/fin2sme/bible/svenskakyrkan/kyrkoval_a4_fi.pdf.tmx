@@ -70,82 +70,74 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Katastrofien ja onnettomuuksien jälkihoito ?</seg>
+        <seg>– Katastrofien ja onnettomuuksien jälkihoito?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Gávdnot go lihkushisvuođat ja roasut leat dáhpáhuvvan ?</seg>
+        <seg>– Gávdnot go lihkushisvuođat ja roasut leat dáhpáhuvvan?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Kaste, konfirmaatio, vihkiminen ja hautaaminen ?</seg>
+        <seg>– Kaste, konfirmaatio, vihkiminen ja hautaaminen?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Gásttahit, konfirmeret, vihahit ja hávdádit ?</seg>
+        <seg>– Gásttahit, konfirmeret, vihahit ja hávdádit?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Reilu kauppa ?</seg>
+        <seg>– Pakolaiskysymykset?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Vuoiggalaš gávppašeapmái ?</seg>
+        <seg>– Vuoiggalaš gávppašeapmái?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Pakolaiskysymykset ?</seg>
+        <seg>– Joulun, pääsiäisen ja helluntain vietto?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Báhtareaddji jearaldagaide ?</seg>
+        <seg>– Ávvudit juovllaid, beassážiid ja hellodagaid?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Joulun, pääsiäisen ja helluntain vietto ?</seg>
+        <seg>– Käynnit vanhusten, sairaiden ja yksinäisten luona?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Ávvudit juovllaid, beassážiid ja hellodagaid ?</seg>
+        <seg>– Guossástallat boarrasiid, skihpa ja oktonas olbmoid?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Käynnit vanhusten, sairaiden ja yksinäisten luona ?</seg>
+        <seg>– Ympäristötyö?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Guossástallat boarrasiid, skihpa ja oktonas olbmoid ?</seg>
+        <seg>– Birasbargui?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Ympäristötyö ?</seg>
+        <seg>– Lasten ja nuorten musiikkitoiminta?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Birasbargui ?</seg>
+        <seg>– Musihkkadoaibmaide mánáide ja nuoraide?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Lasten ja nuorten musiikkitoiminta ?</seg>
+        <seg>– Kirkkorakennusten hoitaminen?–.............................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Musihkkadoaibmaide mánáide ja nuoraide ?</seg>
+        <seg>– Fuolahit girkoráhkadusaid?–...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Kirkkorakennusten hoitaminen ?</seg>
+        <seg>Mihin Ruotsin kirkon tulee käyttää voimansa?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>– Fuolahit girkoráhkadusaid ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Mihin Ruotsin kirkon tulee käyttää voimansa ?</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gosa Ruoŧa girku galgá bidjat fámus ?</seg>
+        <seg>Gosa Ruoŧa girku galgá bidjat fámus?</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,15 +145,7 @@
         <seg>Kirkollisvaaleissa 18. syyskuuta jäsenet voivat valita, mihin Ruotsin kirkon tulee käyttää voimansa neljänä seuraavana vuotena.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Girkoválggain čakčamánu 18. b. don válljet gosa Ruoŧa girku galgá bidjat fámu lagamuš njeallje jagi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kenelle haluat antaa luottamuksesi ?</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Geasa attát luohttamuša ?</seg>
+        <seg>Girkoválggain čakčamánu 18. b. don válljet gosa Ruoŧa girku galgá bidjat fámu lagamuš njeallje jagi. Geasa attát luohttamuša?</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,7 +174,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kirkollisvaaleissa (kyrkoval) äänestetään kolmessa tai neljässä vaalissa. Sen ratkaisee kotiseurakunnan paikallinen organisaatio:</seg>
+        <seg>Kirkollisvaaleissa (kyrkoval) äänestetään kolmessa tai neljässä vaalissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Girkoválggain don jienastat golbma dehe njeallje válggain, dan mielde makkár báikkálaš organisašuvdna lea dan searvegottis masa don gullot.</seg>
@@ -198,10 +182,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>1) kirkkovaltuusto (kyrkofullmäktige) tai välittömillä vaaleilla valittu kirkkoneuvosto (direktvalt kyrkoråd) Kirkkovaltuustossa ja kirkkoneuvostossa käsitellään seurakunnan toimintaa ja tavoitteita koskevia asioita.</seg>
+        <seg>Sen ratkaisee kotiseurakunnan paikallinen organisaatio: 1) kirkkovaltuusto (kyrkofullmäktige) tai välittömillä vaaleilla valittu kirkkoneuvosto (direktvalt kyrkoråd) Kirkkovaltuustossa ja kirkkoneuvostossa käsitellään seurakunnan toimintaa ja tavoitteita koskevia asioita.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dás gieđahallojuvvojit áššit mat gullojit searvegotti eallimii, o.m.d. doaibma mii jođihuvvo ja makkár ulbmiliid searvegoddi galgá ollašuhttit.</seg>
+        <seg>1) GIRKU ALIMUS STIVRA DEHE NJUOLGGAVÁLLJEJUVVON GIRKORÁĐĐI Dás gieđahallojuvvojit áššit mat gullojit searvegotti eallimii, o.m.d. doaibma mii jođihuvvo ja makkár ulbmiliid searvegoddi galgá ollašuhttit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,7 +206,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>3) hiippakuntavaltuusto (stiftsfullmäktige) Ruotsin kirkko on jaettu kolmeentoista hiippakuntaan.</seg>
+        <seg>Yhteinen kirkkovaltuusto päättäätaloudesta, kiinteistöasioista yms. 3) hiippakuntavaltuusto (stiftsfullmäktige) Ruotsin kirkko on jaettu kolmeentoista hiippakuntaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ruoŧa girku lea juhkojuvvon golbmanuppilohkái bismágoddái.</seg>
@@ -270,6 +254,22 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>NÄIN SE</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>NÁ DAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>IMII</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>AIBMÁ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Kirkollisvaalit käsittävät kolme tai neljä vaalia</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -282,38 +282,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus dus lea njuolggus jienastat golbma dehe njeallje válggain, de jienastat Girkočoahkkin- ja bismágotti áirrasgotti válggain ja maiddái ovtta dehe guovtti báikkálaš válggain dan mielde jus searvegoddi gullo searvegoddeovttastussii vai ii.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Harmaat ruudut = elimet, joita vaalit koskevat.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ránes ruođut = orgánat maid mii válljet girkoválggain.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kokovalkeat ja - harmaat ruudut = päättävät elimet.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ollásit devdo-juvvon devdojuvvon vilges ja ránes ruođut = mearrideaddji orgánat.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Viivoitetut ruudut = toimeenpanevat elimet.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruođut main leat viivvat = doaibmaheaddji orgánat.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Välittömillä vaaleilla valittu kirkkoneuvosto on sekä päättävä että toimeenpaneva elin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Njuolggoválggain válljejuvvon girkoráđđi lea sihke mearrideaddji ja doaibmaheaddji orgána.</seg>
       </tuv>
     </tu>
     <tu>
@@ -353,7 +321,7 @@
         <seg>vaalipäivänä 18. syyskuuta</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>VÁLGABEAIVVIS ČAKČAMÁNU 18.</seg>
+        <seg>VÁLGABEAIVVIS ČAKČAMÁNU 18. BEAIVVI</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,7 +329,7 @@
         <seg>vaalihuoneistossa Äänestyskortissa lukee, missä vaalihuoneistossa (vallokal) voi äänestää ja milloin se on auki.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jienastangoarttas čuožžu man válgalanjas don sáhtát jienastit ja rahpanáiggit.</seg>
+        <seg>Jienastangoarttas čuožžu man válgalanjas don sáhtát jienastit ja rahpanáiggit. SIERRA JIETNAVUOSTÁIVÁLDINBÁIKKIIN</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,7 +350,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>toimistot koko maassa 5. syyskuuta–14. syyskuuta voi koko maassa äänestää ennakkoon kirkkoherranvirastoissa ja seurakuntatoimistoissa.</seg>
+        <seg>toimistot koko maassa 5. syyskuuta–14.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>DOAIMMAHAGAT OLLES RIIKKAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>syyskuuta voi koko maassa äänestää ennakkoon kirkkoherranvirastoissa ja seurakuntatoimistoissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gaskal čakčamánu 5. ja 14. beivviid don sáhtát jienastit ovddalgihtii searvegoddedoaimmahagain olles riikkas.</seg>
@@ -401,7 +377,7 @@
         <seg>erityiset äänten vastaanottopaikat Ennakkoäänestystä varten on myös saatettu järjestää erityisiä äänten vastaanottopaikkoja (särskilt röstmottagningsställe).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sáhttet maiddái gávdnot sierra jietnavuostáiváldinbáikkit mat leat rahpasat ovddalgihtiijienasteami várás.</seg>
+        <seg>SIERRA JIETNAVUOSTÁIVÁLDINBÁIKKIT Sáhttet maiddái gávdnot sierra jietnavuostáiváldinbáikkit mat leat rahpasat ovddalgihtiijienasteami várás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -417,7 +393,7 @@
         <seg>kirjeäänestys Yksi ennakkoäänestystapa on kirjeäänestys (brevröstning).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Nubbi vuohki jienastit ovddalgihtii lea reivve bakte.</seg>
+        <seg>JIENASTIT REIVVE BAKTE Nubbi vuohki jienastit ovddalgihtii lea reivve bakte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,7 +401,7 @@
         <seg>Siihen tarvitaan ns. kirjeäänestyspaketti (brevröstningspaket), jonka voi tilata kirkkoherranvirastosta tai seurakuntatoimistosta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dalle don dárbbašat ” reivejienastanpakeahta ”, dan don ieš diŋgot iežat searvegoddedoaimmahagas.</seg>
+        <seg>Dalle don dárbbašat ”reivejienastanpakeahta”, dan don ieš diŋgot iežat searvegoddedoaimmahagas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,34 +430,26 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>äänestys valtuutetun välityksellä</seg>
+        <seg>Äänestäminen valtuutetun välityksellä (budröstning) tehdään samalla tavoin kuin kirjeäänestys, mutta se on tarkoitettu etupäässä niille, jotka ovat aikoneet äänestää vaalihuoneistossa mutta joilla on este vaalipäivänä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>JIENASTEAPMI ÁIRRASA BAKTE Jienasteapmi áirrasa bakte dáhpahuvvá sullii seammáláhkai go reivve bakte</seg>
+        <seg>JIENASTEAPMI ÁIRRASA BAKTE Jienasteapmi áirrasa bakte dáhpahuvvá sullii seammáláhkai go reivve bakte muhto lea vuosttažettiin oaivvilduvvon daidda geat leat áigun jienastit válgalanjas muhto leat eastašuvvan válgabeaivvis.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Äänestäminen valtuutetun välityksellä (budröstning) tehdään samalla tavoin kuin kirjeäänestys, mutta se on tarkoitettu etupäässä niille, jotka ovat aikoneet äänestää vaalihuoneistossa mutta joilla on este vaalipäivänä. ”</seg>
+        <seg>”Kirjeäänestyspaketti” sisältää myös kaiken sen, mitä tarvitaan äänestettäessä valtuutetun välityksellä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>muhto lea vuosttažettiin oaivvilduvvon daidda geat leat áigun jienastit válgalanjas muhto leat eastašuvvan válgabeaivvis. ”</seg>
+        <seg>”Reivejienastanpakeahta” sisdoallá maiddái visot maid don dárbbašat áirrasjienasteami várás.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kirjeäänestyspaketti ” sisältää myös kaiken sen, mitä tarvitaan äänestettäessä valtuutetun välityksellä.</seg>
+        <seg>Keitä voi äänestää?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Reivejienastanpakeahta ” sisdoallá maiddái visot maid don dárbbašat áirrasjienasteami várás.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Keitä voi äänestää ?</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Geaidda sáhtát jienastit ?</seg>
+        <seg>Geaidda sáhtát jienastit?</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,18 +462,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Valittavissa olevat ryhmät saa yleensä tietää omasta seurakunnastaan.</seg>
+        <seg>Äänestäessään voi myös valita henkilön, siis merkitä nimeämisryhmän listalle rastin sen ehdokkaan kohdalle, jonka mieluiten haluaa tulevan valituksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sáhtát maiddái persuvnna ala jienastit.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Luettelot on julkaistu myös Internet-osoitteessa www.svenskakyrkan.se.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dat mearkkaša ahte don bijat ruossa dan evttohasa ovdii nominerenjoavkku listtus maid eanemusat háliidat galgá beassat sisa.</seg>
+        <seg>Sáhtát maiddái persuvnna ala jienastit. Dat mearkkaša ahte don bijat ruossa dan evttohasa ovdii nominerenjoavkku listtus maid eanemusat háliidat galgá beassat sisa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,10 +510,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Jos äänestyskortti on kadonnut tai jos siinä on virheitä, tulee ottaa yhteys kirkkohallitukseen, Kyrkostyrelsen, Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Informationsservice), tai tilata uusi osoitteesta www.svenskakyrkan.se. Myös sen, joka ei ole saanut äänestyskorttia ollenkaan mutta joka on mielestään äänestyskelpoinen, tulee ottaa yhteys kirkkohallitukseen.</seg>
+        <seg>Jos äänestyskortti on kadonnut tai jos siinä on virheitä, tulee ottaa yhteys kirkkohallitukseen, Kyrkostyrelsen, Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Informationsservice), tai tilata uusi osoitteesta www.svenskakyrkan.se.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus leat láhppan jienastangoartta dehe jus das leat boasttu dieđut, váldde aktavuođa Girkostivrrain, Svenska Kyrkan, 751 70 Uppsala, 018-16 96 00 (Diehtojuohkinbálvalus) dehe diŋgo ođđa goartta ruovttusiiddu bakte; www.svenskakyrkan.se son gii ii leat ožžon jienastangoartta muhto oaivvilda ahte sus lea njuolggus jienastit galgá maiddái váldit aktavuođa Girkostivrrain.</seg>
+        <seg>Jus leat láhppan jienastangoartta dehe jus das leat boasttu dieđut, váldde aktavuođa Girkostivrrain, Svenska Kyrkan, 751 70 Uppsala, 018-16 96 00 (Diehtojuohkinbálvalus) dehe diŋgo ođđa goartta ruovttusiiddu bakte;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös sen, joka ei ole saanut äänestyskorttia ollenkaan mutta joka on mielestään äänestyskelpoinen, tulee ottaa yhteys kirkkohallitukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>www.svenskakyrkan.se son gii ii leat ožžon jienastangoartta muhto oaivvilda ahte sus lea njuolggus jienastit galgá maiddái váldit aktavuođa Girkostivrrain.</seg>
       </tuv>
     </tu>
     <tu>

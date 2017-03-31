@@ -18,10 +18,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.regeringen.se/content/1/c6/13/76/04/cd166226.pdf</origFileName>
-    <parallel_text location="787037c6.pdf" xml:lang="sma"/>
-    <parallel_text location="3ad2153c.pdf" xml:lang="sme"/>
-    <parallel_text location="b3418a89.pdf" xml:lang="smj"/>
-    <parallel_text location="20090724.htm.html" xml:lang="swe"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="787037c6.pdf"/>
+    <parallel_text xml:lang="sme" location="3ad2153c.pdf"/>
+    <parallel_text xml:lang="smj" location="b3418a89.pdf"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="20090724.htm.html"/>
     <metadata>
       <uncomplete/>
     </metadata>

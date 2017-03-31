@@ -6,10 +6,10 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Arvoisat saamelaisnuoret, hyvät konferenssivieraat !</seg>
+        <seg>Arvoisat saamelaisnuoret, hyvät konferenssivieraat!</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Gudnejahtton sámi nuorat, buorit konfereansaguossit !</seg>
+        <seg>Gudnejahtton sámi nuorat, buorit konfereansaguossit!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,7 +22,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Käsittelen puheessani perinteisen tiedon suojella erityisesti saamelaislasten ja - nuorten näkökulmasta.</seg>
+        <seg>Käsittelen puheessani perinteisen tiedon suojella erityisesti saamelaislasten ja -nuorten näkökulmasta.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Gieđahalan ságastan árbevirolaš dieđu earenoamážit sámi mánáid ja nuoraid geahččanguovllus.</seg>
@@ -86,7 +86,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Sopimus suojelee myös alkuperäiskansojen perinteistä tietoa.</seg>
+        <seg>Norja ja Ruotsi ovat jo ratifioineet sopimuksen.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Norga ja Ruoŧŧa leaba juo dan soahpamuša juo ratifiseren.</seg>
@@ -94,7 +94,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Norja ja Ruotsi ovat jo ratifioineet sopimuksen. Kansainvälinen yhteisö neuvottelee parhaillaan WIPO:ssa, maailman henkisen omaisuuden järjestössä, kansainvälisten sopimusten luomiseksi perinteisen tiedon ja kansanperinteen suojelemiseksi.</seg>
+        <seg>Kansainvälinen yhteisö neuvottelee parhaillaan WIPO:ssa, maailman henkisen omaisuuden järjestössä, kansainvälisten sopimusten luomiseksi perinteisen tiedon ja kansanperinteen suojelemiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Riikkaidkaskasaš dásis šiehtadallojuvvo maid WIPOs, máilmmi vuoiŋŋaduoji opmodaga organisašuvnnas riikkaidgaskasaš soahpamušaid ráhkadeami várás dan mii guoská árbevirolaš dieđu ja álbmotárbevieru, folklore, suodjaleami.</seg>
@@ -177,7 +177,7 @@
         <seg>Perinteisen tiedon suojelu edellyttääkin saamelaiskulttuurin kokonaisvaltaista suojelua.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ja nu geavvá, ahte stáhtat vigget beasadit geatnegasvuođaineaset ja bargat nu unnán go vejolaš geatnegasvuođaideaset olláhuhttima várás.</seg>
+        <seg>Árbevirolaš dieđu suodjaleapmi geatnegahttá sámi kultuvrra ollislaš suodjaleami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,15 +190,23 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Suomessa saamelaisten luonnon monimuotoisuuteen liittyvä perinteinen tieto on sidoksissa saamelaisten perinteisiin elinkeinoihin, niiden erityisterminologiaan ja tapaoikeuteen; poronhoitoon, kalastukseen, metsästykseen, keräilyyn ja saamen käsityöhön.</seg>
+        <seg>Suomessa saamelaisten luonnon monimuotoisuuteen liittyvä perinteinen tieto on sidoksissa saamelaisten perinteisiin elinkeinoihin, niiden erityisterminologiaan ja tapaoikeuteen;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Suomas sámiid árbevirolaš diehtu luonddu máŋggalágánvuođa olis lea čadjojuvvon sámiid árbevirolaš ealáhusaide, daid sierraterminologiijai ja vieruid vuoigatvuođaide; boazodollui, guolásteapmái, meahccebivdui, čoaggimii ja sámi duodjái.</seg>
+        <seg>Suomas sámiid árbevirolaš diehtu luonddu máŋggalágánvuođa olis lea čadjojuvvon sámiid árbevirolaš ealáhusaide, daid sierraterminologiijai ja vieruid vuoigatvuođaide;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Yhteys saamelaiselinkeinoihin, - kieleen, perinteiseen luonnonkäyttöön ja perinteiseen tietoon heikkenee saamelaisten kotiseutualueen ulkopuolella.</seg>
+        <seg>poronhoitoon, kalastukseen, metsästykseen, keräilyyn ja saamen käsityöhön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>boazodollui, guolásteapmái, meahccebivdui, čoaggimii ja sámi duodjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elinkeinorakenteen muuttuminen, saamen kielen vaihtuminen valtakieliin, saamelaiselinkeinojen heikko kannattavuus ja saamelaisten muutto pois saamelaisten kotiseutualueelta uhkaavat saamelaisten luonnon monimuotoisuuteen liittyvän perinteisen tiedon säilymistä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ealáhusstruktuvrra rievdan, sámegiela molsun váldogielaide, sámi ealáhusaid heajos gánnáhahttivuohta ja sápmelaččaid eret muotkun sámiid ruovttuguovllus uhkidit sámi árbevirolaš dieđu seailuma luonddu máŋggalágánvuođa olis.</seg>
@@ -230,7 +238,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Työryhmä sai työnsä päätökseen viime kesänä ja luovutti loppuraporttinsa ympäristöministeriölle. Työryhmä</seg>
+        <seg>Työryhmä sai työnsä päätökseen viime kesänä ja luovutti loppuraporttinsa ympäristöministeriölle.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bargojoavkku gearggai bargguinis diimma gease ja luobahii dan Suoma birasministeriijai.</seg>
@@ -238,7 +246,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Juvvá Lemet – Klemetti Näkkäläjärvi www.samediggi.fi Ságadoalli – President Sámediggi Tel: +358505242109 Skierri Peuratie 15 antoi esityksiä miten suomalaisessa lainsäädännössä, tutkimuspolitiikassa, biodiversiteetin suojelua koskevissa ohjeissa, maankäytössä ja biodiversiteettisopimuksen toimenpiteiden resursoinnissa tulisi huomioida saamelaisen perinteisen tiedon tarpeet.</seg>
+        <seg>Työryhmä antoi esityksiä miten suomalaisessa lainsäädännössä, tutkimuspolitiikassa, biodiversiteetin suojelua koskevissa ohjeissa, maankäytössä ja biodiversiteettisopimuksen toimenpiteiden resursoinnissa tulisi huomioida saamelaisen perinteisen tiedon tarpeet.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bargojoavku attii evttohusaid mot Suoma lágain, dutkanpolitihkas, biodiversiteahta suodjalanrávvagiin, eanangeavaheamis ja biodiversiteahttasoahpamuša doaibmabijuid resurseremis galget váldojuvvot vuhtii sámi árbevirolaš dieđu dárbbut.</seg>
@@ -305,7 +313,7 @@
         <seg>Hallitusohjelmassa Suomen valtio on myös sitoutunut selkiyttämään maankäyttöön liittyvää lainsäädäntöä ja kaikista tärkeimpänä, asettanut tavoitteekseen ratifioida ILO 169-sopimuksen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ráđđehusprográmmas Suoma stáhta lea maid čatnasan čielggasmahttit lágaid mat gullet eanangeavaheapmái ja dasto buot mávssolaččamussan, dat lea bidjan ulbmilin ratifiseret ILO 169 soahpamuša.</seg>
+        <seg>Ráđđehusprográmmas Suoma stáhta lea maid čatnasan čielggasmahttit lágaid mat gullet eanangeavaheapmái ja dasto buot mávssolaččamussan, dat lea bidjan ulbmilin ratifiseret ILO 169soahpamuša.</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,7 +326,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>ILO 169-sopimuksen ratifiointi Suomessa parantaisi saamelaisen perinteisen tiedon tilaa, koska maanomistuksen ja – hallinnan sekä saamelaiselinkeinojen suojan parantaminen tukisivat myös saamelaisten perinteisen tiedon säilymistä.</seg>
+        <seg>ILO 169-sopimuksen ratifiointi Suomessa parantaisi saamelaisen perinteisen tiedon tilaa, koska maanomistuksen ja –hallinnan sekä saamelaiselinkeinojen suojan parantaminen tukisivat myös saamelaisten perinteisen tiedon säilymistä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>ILO 169-soahpamuša ratifiseren Suomas buoridivččii sámi árbevirolaš dieđu dili, daningo eananoamastan- ja hálddašeami dego maid sámi ealáhusaid suoji buorideapmi doarjjule maid sámi árbevirolaš dieđu seailuma.</seg>
@@ -326,10 +334,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Mitä perinteinen tieto sitten on ?</seg>
+        <seg>Mitä perinteinen tieto sitten on?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mii dat árbevirolaš dieđuid dasto obanassiige lea ?</seg>
+        <seg>Mii dat árbevirolaš dieđuid dasto obanassiige lea?</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,10 +494,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Miten perinteinen tieto voi säilyä kaupunkiympäristössä, kaukana tuntureista, metsästysmaista, poroista, kalavesistä ja hillamaista ?</seg>
+        <seg>Miten perinteinen tieto voi säilyä kaupunkiympäristössä, kaukana tuntureista, metsästysmaista, poroista, kalavesistä ja hillamaista?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mot árbevirolaš diehtu sáhttá seailut gávpotbirrasis, gos eai leat várit ja duoddarat, bivdoeatnamat, bohccot ja daid guohtoneatnamat, guollečázit ja luomenjeakkit ?</seg>
+        <seg>Mot árbevirolaš diehtu sáhttá seailut gávpotbirrasis, gos eai leat várit ja duoddarat, bivdoeatnamat, bohccot ja daid guohtoneatnamat, guollečázit ja luomenjeakkit?</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,7 +510,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Toivonkin teiltä, hyvät nuoret konkreettisia ehdotuksia ja toimenpiteitä miten voimme erityisesti tukea ja turvata saamelaislasten ja – nuorten saamelaisen luontosuhteen ja perinteisen tiedon säilymistä valtakulttuurien ja globalisaation puristuksessa.</seg>
+        <seg>Toivonkin teiltä, hyvät nuoret konkreettisia ehdotuksia ja toimenpiteitä miten voimme erityisesti tukea ja turvata saamelaislasten ja –nuorten saamelaisen luontosuhteen ja perinteisen tiedon säilymistä valtakulttuurien ja globalisaation puristuksessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sávannai dis, buorit nuorat, konkrehtalaš evttohusaid ja doaibmabijuid mot sáhttit earenoamážit doarjut ja dorvvastit sámi mánáid ja nuoraid sápmelaš luonddugaskavuođa ja árbevirolaš dieđu seailuma váldokultuvrraid ja globalisašuvnna čarvestagas.</seg>
@@ -585,7 +593,7 @@
         <seg>Saamelainen lastenkulttuurikeskustoiminta on vaarassa loppua opetus- ja kulttuuriministeriön uusien rahoituslinjauksien johdosta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámi mánáidkulturguovddáš lea vára vuolde heaittihuvvot oahpahus- ja kulturministeriija ođđa ruhtadannjuolggadusaid ja - mearrádusaid geažil.</seg>
+        <seg>Sámi mánáidkulturguovddáš lea vára vuolde heaittihuvvot oahpahus- ja kulturministeriija ođđa ruhtadannjuolggadusaid ja -mearrádusaid geažil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,7 +662,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaislapsille ja - nuorille tulisi järjestää luonnossa, aidossa ympäristössä kursseja, joissa he oppisivat luonnollisella tavalla oman kulttuurin perinteitä, terminologiaa liittyen luontoon ja saamelaiselinkeinoihin, elinkeinotapoja, tarinoita ja paikannimiä.</seg>
+        <seg>Saamelaislapsille ja -nuorille tulisi järjestää luonnossa, aidossa ympäristössä kursseja, joissa he oppisivat luonnollisella tavalla oman kulttuurin perinteitä, terminologiaa liittyen luontoon ja saamelaiselinkeinoihin, elinkeinotapoja, tarinoita ja paikannimiä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámi mánáide ja nuoraide galggalii ordnet luonddus, eakti birrasis gurssaid, main sii oahpale lunddolaš vuogi mielde iežaset kultuvrra árbevieruid, sámi luonddu- ja sámi ealáhusterminologiija, ealáhusvugiid, muitalusaid ja báikenamaid.</seg>
@@ -718,18 +726,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>turvattua.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi boazodoalu ruđalaš gánnáhahttivuohta leanai heittot.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Saamelaisporonhoitoa ei tunnusteta kansallisessa lainsäädännössä ja elinkeinon kannattavuus on heikkoa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Nuorat eai dáhtto vuolgit ealáhussii ja ealáhusa sisa lea váttis beassat aiddo ruđalaš gánnáhahttivuođa geažil.</seg>
+        <seg>Suoma sierralágain ii dovddastuvvo sámi boazodoallu ja sámi boazodoalu doarjun. Sámi boazodoalu ruđalaš gánnáhahttivuohta leanai heittot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -737,7 +737,7 @@
         <seg>Nuorten on vaikeaa päästä elinkeinon pariin ja perinteinen tapa siirtää tietoa vanhemmilta sukupolvilta nuoremmille on heikkenemässä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Das čuovvu, ahte sámi boazodoalu árbevirolaš vuohki sirdit dieđu boarrásit buolvvain nuorabuidda lea hedjoneame.</seg>
+        <seg>Nuorat eai dáhtto vuolgit ealáhussii ja ealáhusa sisa lea váttis beassat aiddo ruđalaš gánnáhahttivuođa geažil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,10 +926,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kiitos mielenkiinnosta !</seg>
+        <seg>Kiitos mielenkiinnosta!</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Giitu beroštumis !</seg>
+        <seg>Giitu beroštumis!</seg>
       </tuv>
     </tu>
   </body>
