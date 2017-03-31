@@ -6,10 +6,10 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Arvoisa puheenjohtaja, arvoisat saamelaisparlamentaarikot !</seg>
+        <seg>Arvoisa puheenjohtaja, arvoisat saamelaisparlamentaarikot!</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Buorre ságajođiheaddji, buorit sámeparlamentarihkárat !</seg>
+        <seg>Buorre ságajođiheaddji, buorit sámeparlamentarihkárat!</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,18 +30,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Pohjoismaisen saamelaissopimuksen jatkoneuvottelut ovat kestäneet jo yli kolme vuotta, työ alkoi keväällä 2011.</seg>
+        <seg>Pohjoismaisen saamelaissopimuksen jatkoneuvottelut ovat kestäneet jo yli kolme vuotta, työ alkoi keväällä 2011. Neuvottelut on tarkoitus saada päätökseen vuoden 2016 kevääseen mennessä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Davviriikkalaš sámesoahpamuša joatkkaráđđádallamat leat bistán jo badjel golbma jagi, bargu álggii giđđat 2011.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Neuvottelut on tarkoitus saada päätökseen vuoden 2016 kevääseen mennessä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ráđđádallamiid lea dárkkuhus oažžut lohppii jagi 2016 giđa rádjai.</seg>
+        <seg>Davviriikkalaš sámesoahpamuša joatkkaráđđádallamat leat bistán jo badjel golbma jagi, bargu álggii giđđat 2011. Ráđđádallamiid lea dárkkuhus oažžut lohppii jagi 2016 giđa rádjai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,18 +502,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Muuten laki astuisi voimaan uuden saamelaiskäräjien aloittaessa toimintansa vuonna 2016.</seg>
+        <seg>Muuten laki astuisi voimaan uuden saamelaiskäräjien aloittaessa toimintansa vuonna 2016. Onkin realistista, että Suomi ei ryhdy muuttamaan heti saamelaiskäräjälain uudistamisen jälkeen saamelaiskäräjälakia pohjoismaisen saamelaissopimuksen johdosta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Muđui láhka boađášii fápmui ođđa sámedikki álggahettiin doaimma jagi 2016.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Onkin realistista, että Suomi ei ryhdy muuttamaan heti saamelaiskäräjälain uudistamisen jälkeen saamelaiskäräjälakia pohjoismaisen saamelaissopimuksen johdosta.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Leage realisttalaš, ahte Suopma ii álgge rievdadit dalán sámediggelága ođasmahttima maŋŋá sámediggelága davviriikkalaš sámesoahpamuša dihtii.</seg>
+        <seg>Muđui láhka boađášii fápmui ođđa sámedikki álggahettiin doaimma jagi 2016. Leage realisttalaš, ahte Suopma ii álgge rievdadit dalán sámediggelága ođasmahttima maŋŋá sámediggelága davviriikkalaš sámesoahpamuša dihtii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,10 +534,26 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Suomessa saamelaiskäräjien tukema esitys uudistettavaan saamelaiskäräjälakiin saamelaismääritelmäksi on seuraavanlainen: Saamelaisella tarkoitetaan tässä laissa henkilöä, joka pitää itseään saamelaisena, edellyttäen: 1) että hän itse tai ainakin yksi hänen vanhemmistaan tai isovanhemmistaan on sukuyhteisössään oppinut saamen kielen ensimmäisenä kielenään; tai 2) että hän on omaksunut sukuyhteisössään saamelaiskulttuurin ja ylläpitänyt yhteyttä siihen; tai 3) että ainakin yksi hänen vanhemmistaan on merkitty tai olisi voitu tämän lain mukaan merkitä äänioikeutetuksi saamelaisvaltuuskunnan tai saamelaiskäräjien vaaleissa.</seg>
+        <seg>Suomessa saamelaiskäräjien tukema esitys uudistettavaan saamelaiskäräjälakiin saamelaismääritelmäksi on seuraavanlainen: Saamelaisella tarkoitetaan tässä laissa henkilöä, joka pitää itseään saamelaisena, edellyttäen: 1) että hän itse tai ainakin yksi hänen vanhemmistaan tai isovanhemmistaan on sukuyhteisössään oppinut saamen kielen ensimmäisenä kielenään;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3) ahte goittotge okta su vánhemiin lea merkejuvvon dahje livčče sáhttán dán lága mielde su merket jietnavuoigadahtton olmmožin sámi parlameantta dahje sámedikki válggain.</seg>
+        <seg>1) ahte son ieš dahje goittotge okta su vánhemiin dahje ádjáin/áhkuin lea sohkaservošis oahppan sámegiela vuosttas giellan;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tai 2) että hän on omaksunut sukuyhteisössään saamelaiskulttuurin ja ylläpitänyt yhteyttä siihen;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dahje 2) ahte son lea oahppan sohkaservošis sámekultuvrra ja doalahan oktavuođa dasa;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tai 3) että ainakin yksi hänen vanhemmistaan on merkitty tai olisi voitu tämän lain mukaan merkitä äänioikeutetuksi saamelaisvaltuuskunnan tai saamelaiskäräjien vaaleissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dahje 3) ahte goittotge okta su vánhemiin lea merkejuvvon dahje livčče sáhttán dán lága mielde su merket jietnavuoigadahtton olmmožin sámi parlameantta dahje sámedikki válggain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,10 +710,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kiitos mielenkiinnosta !</seg>
+        <seg>Kiitos mielenkiinnosta!</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Giitu beroštumis !</seg>
+        <seg>Giitu beroštumis!</seg>
       </tuv>
     </tu>
   </body>
