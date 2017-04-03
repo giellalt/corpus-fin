@@ -10,11 +10,25 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/images/stories/pdf_tiedostot/saamelaisetsuomi.pdf</origFileName>
-    <parallel_text location="saamelaisetsame.pdf" xml:lang="sme"/>
-    <parallel_text location="saamelaisetinarinsame.pdf" xml:lang="smn"/>
-    <parallel_text location="saamelaisetenglanti.pdf" xml:lang="eng"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="saamelaisetenglanti.pdf"/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="saamelaisetsame.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="saamelaisetinarinsame.pdf"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <parallel_text location="saamelaisetsaksa.pdf" xml:lang="deu"/>
     <metadata>
       <uncomplete/>
@@ -37,17 +51,17 @@
     <p>Saamelaisten asuinalue ja levinneisyys olivat laajimmillaan ajanlaskun alun tienoilta 1000-luvulle. Saamelaisia asui Laatokalta Jäämerelle ja Keski-Skandinaviasta Vienanmerelle. Lounais- ja etelärannikkoa lukuun ottamatta koko nykyisen Suomen alue oli saamelaista asuinaluetta. Suomalaisten uudisasukkaiden paineessa saamelainen asutus sulautui pääväestöön eteläisessä Suomessa.</p>
     <p>Saamelaiset ovat olleet pääasiassa pyyntiväestöä, jonka elämänmuoto perustui monitalouteen. Saamelaiset elivät siitä, minkä luonto vuosittain kasvatti heidän hyödynnettäväkseen eri vuodenaikoina. Peuran ja turkiseläinten pyynti sekä kalastus olivat tuottoisia elinkeinoja, joiden tuotteilla käytiin kauppaa aina Keski-Eurooppaan saakka. Monitaloudessa vuotuiskiertoon kuuluivat myös linnustus, marjastus ja keräily. Pienimuotoista poronhoitoa on saatettu harjoittaa jo vuosituhansia.</p>
     <p>Saamelainen yhteiskunta oli hyvin organisoitunut: perusyksikkö oli perheistä tai suvuista koostuva <em type="italic">siida</em>, lapinkylä, jolla oli oma alueensa. Siidojen muodostama verkosto kattoi koko PohjoisFennoskandian. </p>
-    <p xml:lang="sme">Museovirasto</p>
-    <p xml:lang="fkv">Rajoin piRstottu kansa</p>
+    <p>Museovirasto</p>
+    <p>Rajoin piRstottu kansa</p>
     <p>Saamelaisyhteisö joutui erityisesti 1500-luvulta lähtien ulkoisten mullistusten kouriin. Pohjoismaat alkoivat hallinnoida saamenmaata osana omia alueitaan, uudisasutuksen ja yhteiskunnallisen haltuunoton avulla. Saamelainen yhteiskuntamuoto korvattiin pohjoismaisella hallintojärjestelmällä. Saamelaisalueet jaettiin vähitellen myös rajajärjestelyin nykyaikaisten valtioiden rajoja määriteltäessä. Uudisasutuksen voimistuessa 1800-luvulla valtiot alkoivat tietoisen politiikan avulla vahvistaa pääväestön etuja ja sulauttaa saamelaisia pääväestöön. Saamelaisten yhteys omaan kieleen ja kulttuuriin heikkeni.</p>
     <p>saamelainen yhteistyö alkaa</p>
     <p>Saamelaisten etninen ja kansallinen herääminen alkoi 1800-luvun lopulla Norjassa ja Ruotsissa, jolloin syntyivät ensimmäiset saamelaisyhdistykset ja sanomalehdet. Valtaväestöjen otteen vahvistuessa ja omien elinolojen kaventuessa ymmärrettiin kansallisen yhteistyön merkitys. Se johti vuonna 1917 ensimmäiseen etelä- ja pohjoissaamelaisten yhteiseen saamelaiskokoukseen Norjan Trondheimissa. Yhteistyö tiivistyi sotien jälkeen jolloin Ruotsin Jokkmokissa pidettiin 1953 ensimmäinen kolmen valtion saamelaisten konferenssi. Se korosti saamelaisten oikeuksia luonnonvaroihin ja kieleen ja päätti yhteissaamelaisen Saamelaisneuvoston perustamisesta. Saamelaiskulttuurin varsinainen <span type="quote">”renessanssi”</span> alkoi 1960-luvun lopulla. Se merkitsi saamelaispolitiikan, omakielisten tiedotusvälineiden, kirjallisuuden, teatterin, koulutuksen ja tutkimuksen nousua ja monien omista lähtökohdista rakennettujen instituutioiden alkua.</p>
-    <p xml:lang="sme">saamelaisneuvosto <em type="italic">Sámiráđđi</em> on </p>
+    <p>saamelaisneuvosto <em type="italic">Sámiráđđi</em> on </p>
     <p>Norjan, Ruotsin, Suomen ja Venäjän saamelaisten järjestöjen yhteistyöjärjestö, joka perustettiin vuonna 1956. Sen tarkoituksena on valvoa saamelaisten etuja kansana ja lujittaa saamelaisten yhteenkuuluvuutta valtakuntien rajojen yli. Neuvoston ylin kokous, saamelaiskonferenssi, kokoontuu joka neljäs vuosi.</p>
-    <p xml:lang="sme">saamelaiskäRäjät <em type="italic">Sámediggi</em> on </p>
+    <p>saamelaiskäRäjät <em type="italic">Sámediggi</em> on </p>
     <p>saamelaisten itsehallintoelin. Sen tärkein tehtävä on suunnitella ja toteuttaa Suomen perustuslaissa saamelaisille alkuperäiskansana turvattua itsehallintoa omaa kulttuuria ja kieltä koskevissa asioissa. Saamelaiskäräjät on Suomen saamelaisten korkein poliittinen elin ja se edustaa saamelaisia kansallisissa ja kansainvälisissä yhteyksissä ja hoitaa saamelaisten kieltä, kulttuuria ja heidän asemaansa alkuperäiskansana koskevia asioita. Saamelaiskäräjien 21 jäsentä ja neljä varajäsentä valitaan saamelaisten keskuudesta vaaleilla joka neljäs vuosi.</p>
     <p>Suomessa saamelaisparlamentti aloitti toimintansa <em type="italic">Saamelaisvaltuuskuntana</em> vuonna 1973. Sen työtä jatkoi Saamelaiskäräjät vuodesta 1996. Norja sai Saamelaiskäräjät vuonna 1989 ja Ruotsi 1993.  </p>
-    <p xml:lang="sme">saamelainen paRlamentaaRinen neuvosto <em type="italic">Sámi parlamentáralaš ráđđi</em> </p>
+    <p>saamelainen paRlamentaaRinen neuvosto <em type="italic">Sámi parlamentáralaš ráđđi</em> </p>
     <p>on Suomen, Norjan ja Ruotsin saamelaiskäräjien välinen yhteistyöelin, jossa on 21 jäsentä. Se aloitti toimintansa vuonna 2000.</p>
     <p>Saamen kielet ovat Euroopan alkuperäiskieliä ja itämerensuomalaisten kielten (kuten suomi ja viro) lähimpiä etäsukukieliä. Niitä puhutaan Suomessa, Ruotsissa, Norjassa ja Venäjällä.</p>
     <p>Suomessa puhutaan kolmea saamen kieltä: pohjoissaamea, inarinsaamea ja koltansaamea. Pohjoissaame on kieliryhmistä suurin. Sitä puhuu arviolta noin 20 000 ihmistä Suomessa, Norjassa ja Ruotsissa. Suomessa pohjoissaamen puhujia on arviolta noin 2 000.</p>
@@ -60,8 +74,7 @@
     <p>Saamelaisalueella asuvien saamenkielisten oppilaiden tulee lain mukaan saada pääosa perusopetuksestaan saamen kielellä. Saame voi olla koulun opetuskieli, äidinkielen oppiaine tai valinnaisen vieraan kielen oppiaine. Kaikki saamelaisalueen peruskoulut ja lukiot antavat opetusta saamen kielessä. Ylioppilastutkinnon pohjois- ja inarinsaamen kokeen on voinut suorittaa 1990-luvulta alkaen, koltansaamen vuodesta 2005 alkaen. Saamelaisalueen ulkopuolella saamen kieltä opetetaan toistaiseksi vain vähän, mutta oppilasmäärä on kasvamassa. Osa opetuksessa annetaan virtuaaliopetuksena. Saamelaisalueen koulutuskeskus <em type="italic">Sámi oahpa husguovddáš</em> on Suomessa ainoa ammatillinen oppilaitos, joka antaa opetusta myös saameksi. Sen tehtävänä on palvella saamelaisaluetta ja sen elinkeinoelämää. </p>
     <p>Suomessa saamen kieltä voi opiskella kolmessa yliopistossa: Oulun, Helsingin ja Lapin yliopistossa Rovaniemellä. Oulun yliopiston <em type="italic">Giellagas</em>-instituutilla on valtakunnallinen erityistehtävä saamen kielen, kulttuurin ja tutkimuksen kehittäjänä. </p>
     <p>Saamelaiskäräjien koulutus- ja oppimateriaalilautakunta suunnittelee ja rahoittaa saamenkielistä oppimateriaalia.</p>
-    <p xml:lang="sma">Inari</p>
-    <p>Enontekiö</p>
+    <p>Inari Enontekiö</p>
     <p>Sodankylä</p>
     <p>1. eteläsaame 2. uumajansaame 3. piitimensaame 4. luulajansaame 5. pohjoissaame</p>
     <p>6. inarinsaame 7. koltansaame 8. akkalansaame 9. kildininsaame 10. turjansaame</p>
@@ -77,10 +90,10 @@
     <p>tunnuksista näkyvin. Siitä on tullut tärkeä identiteetin symboli, joka kantaa mukanaan saamelaisten historiaa. Puvun koristelut ja kokonaisuus kertovat mistä päin saamenmaata ihminen on kotoisin – tarkkasilmäiselle jopa siviilisäädyn ja suvun.</p>
     <p>Suomessa on käytössä viisi saamen puvun päämallia: Tenon, Inarin, Enontekiön, Vuotson ja kolttasaamelaisten puku. Saamen puku on alkuperältään kansanpuku, eikä sen käyttö ole missään historian vaiheessa katkennut. Ajan saatossa puku on muuttumassa arkipuvusta juhlapuvuksi.</p>
     <p>Norjassa ja Ruotsissa saamenpukua käyttävät vain saamelaiset. Suomessa myös valtaväestö on käyttänyt pukuja tai niiden jäljitelmiä mm. matkailurekvisiittana, mikä on hämärtänyt puvun sidettä saamelaiseen identiteettiin.</p>
-    <p xml:lang="smn">Gollegákti, Outi Pieski 2006.</p>
+    <p>Gollegákti, Outi Pieski 2006.</p>
     <p>saamelaisen musiikin tunnetuin muoto on pohjoissaa</p>
     <p>melainen joiku, <em type="italic">luohti.</em> Sen tunnusomaisia piirteitä ovat mm. erityinen äänenkäyttö, rikas rytmiikka, improvisointi, säestyksettömyys, täytesanojen käyttö sekä joiun kiinteä suhde muuhun kulttuuriin. </p>
-    <p>Joiut voi karkeasti jakaa henkilöjoikuihin ja muihin joikuihin. Henkilöjoiussa pyritään kuvaamaan tietyn ihmisen ominaisuuksia erityisesti melodian ja esittämisen avulla. Sanat eivät ole yhtä oleellisia. Joikuja tehdään myös paikoista ja eläimistä, mutta nykyään myös vaikkapa mönkijästä tai moottorikelkasta. Muita perinteisiä Suomen saamelaisten musiikkilajeja ovat inarinsaamelainen <em type="italic">livđe</em> ja kolttasaamelainen <em type="italic">leuŠdd,</em> joista kumpikin on vaarassa hävitä. </p>
+    <p>Joiut voi karkeasti jakaa henkilöjoikuihin ja muihin joikuihin. Henkilöjoiussa pyritään kuvaamaan tietyn ihmisen ominaisuuksia erityisesti melodian ja esittämisen avulla. Sanat eivät ole yhtä oleellisia. Joikuja tehdään myös paikoista ja eläimistä, mutta nykyään myös vaikkapa mönkijästä tai moottorikelkasta. Muita perinteisiä Suomen saamelaisten musiikkilajeja ovat inarinsaamelainen <em type="italic">livđe</em> ja kolttasaamelainen <em type="italic">leu´dd,</em> joista kumpikin on vaarassa hävitä. </p>
     <p>Saamelaisten käyttämistä instrumenteista noitarumpu, <em type="italic">goavddis</em>, oli tärkeä noidan rituaalivaruste. Sen ohella tunnetaan 3–5-sormi<em type="italic">fádnobiipa</em>, joka tehtiin väinön putken <em type="italic">(Angelica archangelica)</em> versosta. Myös helistimiä tiedetään käytetyn. reikäinen pilli, </p>
     <p>1960-luvulla saamenkielinen musiikki alkoi seurata ajan trendejä. Tänä päivänä saameksi tehdään rockia, poppia, etnoa, heviä, tanssimusiikkia, teknoa, lastenlauluja, virsiä ja rap-musiikkia.</p>
     <p>tanssi</p>
@@ -102,7 +115,7 @@
     <p>teilija Astrid Båhlin suunnittelema. Sen aihe tulee noitarummusta ja eteläsaamelaisen Anders Fjellnerin runosta <em type="italic">Páiven párneh (Auringon pojat),</em> jossa Fjellner kuvaa saamelaisia auringon tyttäriksi ja pojiksi. Lipun punainen ympyrä kuvaa aurinkoa ja sininen kuuta. </p>
     <p>Lippu ja Saamen suvun laulu hyväksyttiin Saamelaisten 13. konferenssissa Åressa 1986. Kansallislaulun melodia hyväksyttiin Saamelaisten 15. konferenssissa Helsingissä 1992.</p>
     <p>Saamelaisten liputuspäiviä on yksitoista, joista tärkein on Saamen kansal lispäivä <em type="italic">Sámi álbmotbeaivi,</em> 6. helmikuuta. Sillä muistetaan ensimmäistä pohjois- ja eteläsaamelaisten kokousta Trondheimissa, Norjassa. Saamen lippua voi käyttää epävirallisesti myös erilaisissa juhlatilaisuuksissa. </p>
-    <p xml:lang="smn">Saamelaiskäräjät – Sametinget – The Sámi Parliament FI-99870 Inari | www.samediggi.fi</p>
+    <p>Saamelaiskäräjät – Sametinget – The Sámi Parliament FI-99870 Inari | www.samediggi.fi</p>
     <p>Saamelaiskäräjien julkaisuja 2008. Kalevaprint 2008. Graafinen suunnittelu Studio Borga. Etukannen kuvat Harri Nurminen, Martti Rikkonen.</p>
   </body>
 </document>

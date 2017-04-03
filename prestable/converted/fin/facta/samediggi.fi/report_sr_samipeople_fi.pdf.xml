@@ -10,21 +10,36 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1556&amp;Itemid=10</origFileName>
-    <parallel_text location="report_sr_samipeople_pohjoissaame.pdf" xml:lang="sme"/>
-    <parallel_text location="report_sr_samipeople.pdf" xml:lang="eng"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="report_sr_samipeople.pdf"/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="report_sr_samipeople_pohjoissaame.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="nno">/HRC/18/XX/Add.Y</p>
+    <p>/HRC/18/XX/Add.Y</p>
     <p><em type="bold">Tarkistamaton	
   ennakkoversio	
   </em>Jakelu: Yleinen </p>
-    <p xml:lang="sms">12.1.2011</p>
+    <p>12.1.2011</p>
     <p>Alkuperäinen kieli: englanti</p>
     <p>
       <em type="bold">Ihmisoikeusneuvosto </em>
@@ -41,29 +56,14 @@
     <p>Näihin aloitteisiin kuuluu pohjoismaisen saamelaissopimuksen valmistelua koskeva rajat ylittävä yhteistyöhanke. Erityisraportoija toteaa, että tältä osin on jo saavutettu merkittävää edistystä, ja pitää tervetulleena Pohjoismaiden ja saamelaiskäräjien sitoutumista neuvottelujen jatkamiseen vuoden 2011 aikana, jotta yleissopimus saadaan hyväksyttyä. Paljon on kuitenkin vielä tehtävä sen varmistamiseksi, että saamelaisväestö voi toteuttaa itsemääräämisoikeuttaan ja asettaa yhteisiä tavoitteita useamman kuin yhden valtion alueella asuvana kansana.</p>
     <p type="listitem">• Tiivistelmä on toimitettu YK:n kaikilla virallisilla kielillä. Tiivistelmän liitteenä oleva raportti on (alun perin)</p>
     <p>toimitettu vain alkukielellä.</p>
-    <p>Lisäksi Pohjoismaiden tulisi jatkaa nykyisiä ponnistelujaan saamelaisväestön oikeuksien edistämiseksi kussakin asuinmaassa. Erityisraportoija kiinnittää raportissaan huomiota etenkin saamelaisten itsemääräämisoikeuden toteutumiseen kansallisella tasolla varsinkin saamelaiskäräjien kautta, saamelaisten oikeuteen omiin maa-alueisiinsa ja luonnonvaroihinsa sekä pyrkimyksiin elvyttää saamelaiskieliä ja järjestää saamelaislapsille ja -nuorisolle kulttuurin erityispiirteet huomioon ottavaa koulutusta.</p>
+    <p>Lisäksi Pohjoismaiden tulisi jatkaa nykyisiä ponnistelujaan saamelaisväestön oikeuksien edistämiseksi kussakin asuinmaassa. Erityisraportoija kiinnittää raportissaan huomiota etenkin saamelaisten itsemääräämisoikeuden toteutumiseen kansallisella tasolla varsinkin saamelaiskäräjien kautta, saamelaisten oikeuteen omiin maa-alueisiinsa ja luonnonvaroihinsa sekä pyrkimyksiin elvyttää saamelaiskieliä ja järjestää saamelaislapsille ja</p>
+    <p type="listitem">-nuorisolle kulttuurin erityispiirteet huomioon ottavaa koulutusta.</p>
     <p>Erityisraportoija antaa käsillä olevassa raportissa joukon sovellettaviin kansainvälisiin normeihin perustuvia suosituksia, joiden tarkoituksena on tukea nykyisiä ponnisteluja saamelaisten oikeuksien turvaamiseksi ja edistämiseksi.</p>
-    <p xml:lang="sms">2</p>
+    <p>2</p>
     <p>Sisällys</p>
-    <p xml:lang="eng">I. Johdanto...............................................................................................................................................4</p>
-    <p>II. Saamelaiset.........................................................................................................................................4</p>
-    <p>III. Yleiset lainsäädännölliset ja poliittiset rakenteet...............................................................................5</p>
-    <p>A. Yleissaamelaiset instituutiot ja hankkeet........................................................................................5</p>
-    <p xml:lang="fkv">B. Norja...............................................................................................................................................6</p>
-    <p>C. Ruotsi.............................................................................................................................................8</p>
-    <p xml:lang="smn">D. Suomi.............................................................................................................................................9</p>
-    <p xml:lang="sma">IV. Huolenaiheet...................................................................................................................................10</p>
-    <p>A. Itsemääräämisoikeus....................................................................................................................10</p>
-    <p>B. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin..................................................................14</p>
-    <p>C. Kielten säilyttäminen....................................................................................................................19</p>
-    <p>D. Kulttuurin erityispiirteet huomioon ottava koulutus.....................................................................20</p>
-    <p>V. Johtopäätökset ja suositukset............................................................................................................21</p>
-    <p>A. Yleiset juridiset ja poliittiset rakenteet.........................................................................................21</p>
-    <p>B. Itsemääräämisoikeus.....................................................................................................................22</p>
-    <p>C. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin..................................................................22</p>
-    <p>D. Kieli ja koulutus...........................................................................................................................24</p>
-    <p xml:lang="sms">3</p>
-    <p xml:lang="eng">
+    <p>I. Johdanto...............................................................................................................................................4	   II. Saamelaiset.........................................................................................................................................4	   III. Yleiset lainsäädännölliset ja poliittiset rakenteet...............................................................................5	   A. Yleissaamelaiset instituutiot ja hankkeet........................................................................................5	   B. Norja...............................................................................................................................................6	   C. Ruotsi.............................................................................................................................................8	   D. Suomi.............................................................................................................................................9	   IV. Huolenaiheet...................................................................................................................................10	   A. Itsemääräämisoikeus....................................................................................................................10	   B. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin..................................................................14	   C. Kielten säilyttäminen....................................................................................................................19	   D. Kulttuurin erityispiirteet huomioon ottava koulutus.....................................................................20	   V. Johtopäätökset ja suositukset............................................................................................................21	   A. Yleiset juridiset ja poliittiset rakenteet.........................................................................................21	   B. Itsemääräämisoikeus.....................................................................................................................22	   C. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin..................................................................22	   D. Kieli ja koulutus...........................................................................................................................24</p>
+    <p>3</p>
+    <p>
       <em type="bold">I. Johdanto </em>
     </p>
     <p>1. Tässä raportissa tarkastellaan Norjan, Ruotsin ja Suomen saamelaisten ihmisoikeustilannetta. Raportissa on myös annettu joukko kansainvälisiin normeihin perustuvia suosituksia. Raportti perustuu suurelta osin erityisraportoijalle saamelaisen parlamentaarisen neuvoston Rovaniemellä 14.–16.4.2010 järjestämän konferenssin yhteydessä esitettyihin tietoihin sekä erityisraportoijalle toimitettuihin kirjallisiin esityksiin ja riippumattomaan tutkimukseen. Konferenssiin osallistui Norjan, Ruotsin ja Suomen saamelaiskäräjien edustajia, kunkin maan viranomaisten edustajia sekä saamelaisten kansalaisjärjestöjen edustajia Pohjoismaista ja Venäjän federaatiosta. Vaikka Venäjän federaation saamelaisia osallistui huhtikuussa 2010 järjestettyyn konferenssiin tarkkailijoina, tässä raportissa keskitytään ainoastaan Norjan, Ruotsin ja Suomen saamelaisväestön tilannetta koskeviin tärkeimpiin ongelmiin ja huolenaiheisiin.</p>
@@ -92,7 +92,7 @@
     <p>11. Saamelaisväestön merkittävin viimeaikainen  rajat ylittävä hanke on saamelaissopimuksen valmisteleminen yhteistyössä Norjan, Ruotsin ja Suomen valtioiden kanssa. Kyseessä on maailmanlaajuisesti ensimmäinen yritys luoda erityisesti alkuperäiskansoja koskeva alueellinen sopimus. Vuonna 1986 käynnistyneiden keskustelujen jälkeen Norjan, Ruotsin ja Suomen saamelaiskäräjät sekä valtiot perustivat vuonna 2001 asiantuntijaryhmän valmistelemaan pohjoismaista saamelaissopimusta. Asiantuntijaryhmässä oli kustakin maasta sekä valtiovallan että saamelaiskäräjien nimittämä edustaja, yhteensä kuusi jäsentä.</p>
     <p>12. Vuonna 2005 asiantuntijaryhmä sai valmiiksi sopimusluonnoksen, joka esiteltiin saamelaiskäräjille sekä Norjan, Ruotsin ja Suomen hallituksille vielä samana vuonna. Sopimusluonnoksen 51 artiklaa on jaettu useisiin kappaleisiin. Mukana on säännöksiä saamelaisten itsemääräämisoikeudesta, yhdenvertaisuudesta ja hallinnosta – myös saamelaiskäräjien ja julkisen vallan suhteesta, saamelaisten kielestä ja kulttuurista, saamenkielisestä opetuksesta, saamelaisten oikeudesta maa-alueisiin ja vesistöihin sekä elinkeinojen harjoittamisesta. Sopimusluonnos sisältää myös useita sen täytäntöönpanoon liittyviä säännöksiä.</p>
     <p>13. Erityisraportoija kiittää saamelaisia sekä Norjan, Ruotsin ja Suomen valtioita näiden tähänastisesta merkittävästä työstä tämän tärkeän välineen kehittämiseksi. Erityisraportoija odottaa innokkaasti pääsevänsä valvomaan saamelaissopimuksen käyttöönottoon tähtääviä neuvotteluja, joiden on tarkoitus alkaa vuonna 2011 ja jotka on määrä saattaa päätökseen viiden vuoden kuluessa, kuten tämän raportin osassa IV(A)(1) on lähemmin selostettu.</p>
-    <p xml:lang="fkv">
+    <p>
       <em type="bold">B. Norja </em>
     </p>
     <p>14. Norjan saamelaispolitiikka perustuu pääasiassa perustuslain artiklaan 110a sekä saamelaiskäräjiä (<em type="italic">Sámediggi</em>) ja muita saamelaisten lakiasioita koskevan lain (saamelaislaki) säädöksiin. Norjan perustuslakiin vuonna 1988 tehdyssä muutoksessa viranomaisia vaaditaan nimenomaisesti suojelemaan saamelaisia ja heidän kulttuuriaan sekä perinteisiä elinkeinojaan. Muutoksen mukaan <span type="quote">”valtion viranomaisten vastuulla on luoda olosuhteet, joissa saamelaisväestö voi ylläpitää ja kehittää kieltään, kulttuuriaan ja elämäntapaansa”</span>.  Norjan valtio on lisäksi tunnustanut saamelaisväestöön kohdistuneen syrjinnän ja ankaran norjalaistamispolitiikan ja pyytänyt anteeksi tapaa, jolla saamelaisia on menneisyydessä kohdeltu. </p>
@@ -104,11 +104,11 @@
     <p>18. Vielä viime aikoihin asti Norjan maa-alueiden ja luonnonvarojen hallinnasta vastasi maan keskushallinto yhteistyössä kuntien kanssa, eikä Norjan laki tunnustanut saamelaisille kuuluvia erityisoikeuksia, ei myöskään kollektiivisia oikeuksia, maa-alueisiin ja luonnonvaroihin. Norjassa säädettiin vuonna 2005 Finnmark-laki vastauksena saamelaisten monta vuotta kestäneeseen taisteluun ja osittain myös vastauksena Alta-Kautokeino-vesireitin kehittämiseen liittyvään kiistaan 1970-luvulla. Tärkeää on se, että Finnmark-laki valmisteltiin tiiviissä yhteistyössä Norjan suurkäräjien ja saamelaiskäräjien kesken. Finnmark-laki on silti joiltakin osin edelleen kiistanalainen saamelaisten keskuudessa, kuten jäljempänä kohdassa IV(A)(3) todetaan.</p>
     <p>19. Vuoden 1978 poronhoitolakia uudistettiin vuonna 2007. Uuden lain mukaan saamelaisilla on yksinoikeus poronhoitoon laidunalueilla, mutta oikeuden käyttämisen edellytyksenä on, että porot omistava yksityishenkilö on sidoksissa poronomistajaperheeseen. Poronhoito-oikeus on nautintaoikeus, joka on voimassa tietyillä maa-alueilla niiden omistussuhteista riippumatta. On syytä huomata, että vuonna 2007 lakiin tehdyillä uudistuksilla haluttiin nostaa <em type="italic">siida</em> tärkeäksi poronhoidon hallintatyökaluksi, jotta Norjan laki vastaisi paremmin saamelaisten perinteisiä maa-alueiden hallinnan käytäntöjä. Saamelaisten poronhoitoalue on noin 40 prosenttia koko Norjan pinta-alasta, ja se tarjoaa laidunmaan yli 200 000 porolle. Poronhoitoon osallistuu Norjassa noin 2 800 saamelaista. </p>
     <p>Norjan valtion edustajien ja saamelaiskäräjien väliset kuulemismenettelyt, allekirjoitettu 11.5.2005, kohta 2,</p>
-    <p xml:lang="nno">saatavilla Internetissä osoitteessa http://www.regjeringen.no/en/dep/fad/Selected-topics/Samipolicy/midtspalte/PROCEDURES-FOR-CONSULTATIONS-BETWEEN-STA.html?id=450743.</p>
+    <p>saatavilla Internetissä osoitteessa http://www.regjeringen.no/en/dep/fad/Selected-topics/Samipolicy/midtspalte/PROCEDURES-FOR-CONSULTATIONS-BETWEEN-STA.html?id=450743.</p>
     <p>Ibid., 3 §  Tiettyjen saamelaisyhteisöjen oikeutta tulla kuuluksi niitä suoraan koskevissa asioissa ei ole kuitenkaan</p>
     <p>käsitelty kuulemissopimuksessa.</p>
     <p>Laki 17.6.2005 nro 85 Finnmarkin läänin maa-alueiden ja luonnonvarojen juridisista suhteista ja hallinnasta</p>
-    <p xml:lang="nob">(Finnmark-laki).</p>
+    <p>(Finnmark-laki).</p>
     <p>7 20. Norja oli ensimmäinen maa, joka ratifioi ILO:n sopimuksen nro 169 ja äänesti alkuperäiskansojen oikeuksia koskevan julistuksen hyväksymisen puolesta vuonna 2007. Sen lisäksi Norja on sisällyttänyt kansalaisoikeuksia ja poliittisia oikeuksia koskevan kansainvälisen yleissopimuksen sekä taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen omaan lainsäädäntöönsä. Jos nämä lait ja Norjan muu lainsäädäntö ovat keskenään ristiriidassa, sovelletaan yleissopimusten säännöksiä. Norja on myös pannut täytäntöön kansallisten vähemmistöjen suojelua koskevan Euroopan neuvoston puiteyleissopimuksen (1995) sekä alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan (1992).</p>
     <p>
       <em type="bold">C. Ruotsi </em>
@@ -121,18 +121,18 @@
     <p>8 liittyvistä vastuista siirrettiin Ruotsin maatalousministeriöstä saamelaiskäräjille. Tästä merkittävästä kehitysaskelesta huolimatta ihmisoikeuskomitea on ilmaissut jatkuvan huolensa siitä, <span type="quote">”miten rajoitetusti saamelaiskäräjät voi osallistua päätöksentekoprosessiin saamelaisten maa-alueita ja perinteistä elinkeinotoimintaa koskevissa kysymyksissä”</span>.</p>
     <p>25. Ruotsin poronhoitolakiin vuodelta 1971 on kirjattu saamelaisten oikeus käyttää maaalueita ja vesistöjä omaksi ja porokarjan hyväksi tietyillä laissa määritetyillä maantieteellisillä alueilla. Ruotsissa porotalouden harjoittaminen on saamelaisten yksinoikeus, jonka edellytyksenä on kuuluminen saamelaiskylään (<em type="italic">sameby</em>) ja porotalouden harjoittaminen pääasiallisena elinkeinona. Ruotsissa noin 3 000 saamelaista saa perinteisesti elantonsa poronhoidosta. Porojen määrä on noin 250 000, ja poronhoitoalue on noin 40 % Ruotsin pintaalasta, joskin saatujen tietojen mukaan alue ei aivan kokonaan sovellu laidunmaaksi. </p>
     <p>26. Ruotsi on pannut täytäntöön YK:n tärkeimmät ihmisoikeussopimukset ja äänestänyt alkuperäiskansojen oikeuksia koskevan julistuksen hyväksymisen puolesta vuonna 2007. Ruotsi on myös ratifioinut kansallisten vähemmistöjen suojelua koskevan Euroopan neuvoston puiteyleissopimuksen sekä alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan. Ruotsi ei ole kuitenkaan ratifioinut ILO:n sopimusta nro 169.</p>
-    <p xml:lang="smn">
+    <p>
       <em type="bold">D. Suomi </em>
     </p>
     <p>27. Suomen perustuslaissa säädetään saamelaisten asemasta alkuperäiskansana sekä saamelaisten oikeudesta kulttuuri-itsehallintoon omalla kotiseutualueellaan sanamuodolla <span type="quote">”Saamelaisilla on saamelaisten kotiseutualueella kieltään ja kulttuuriaan koskeva itsehallinto”</span>. Laissa saamelaiskäräjistä vuodelta 1995 saamelaisten kotiseutualueella tarkoitetaan <span type="quote">”Enontekiön, Inarin ja Utsjoen kuntien alueita sekä Sodankylän kunnassa sijaitsevaa Lapin paliskunnan aluetta”</span>. Lakiin saamelaiskäräjistä on kirjattu Suomen saamelaiskäräjät. Se korvasi vuosina 1972–1995 toimineen saamelaisvaltuuskunnan, joka oli ensimmäinen vaaleilla valittu saamelaiselin Pohjoismaissa. Saamelaiskäräjien 21 jäsentä ja neljä varajäsentä valitaan saamelaisten keskuudessa joka neljäs vuosi toimeenpantavilla vaaleilla.</p>
     <p>28. Saamelaiskäräjiä koskevan lain mukaisesti <span type="quote">”turvataan saamelaisille alkuperäiskansana omaa kieltään ja kulttuuriaan koskeva kulttuuri-itsehallinto”</span>. Lain mukaan saamelaiskäräjien tehtävänä on <span type="quote">”hoitaa saamelaisten omaa kieltä ja kulttuuria sekä heidän asemaansa alkuperäiskansana koskevat asiat”</span>. Saamelaiskäräjät voi tehtäviinsä kuuluvissa asioissa tehdä viranomaisille aloitteita ja esityksiä sekä antaa lausuntoja. Lisäksi laissa vahvistetaan, että viranomaisten tulee neuvotella saamelaiskäräjien kanssa <span type="quote">”kaikista laajakantoisista ja merkittävistä toimenpiteistä, jotka voivat välittömästi ja erityisellä tavalla vaikuttaa saamelaisten asemaan alkuperäiskansana”</span>, mukaan lukien valtion maiden, suojelualueiden ja erämaa-alueiden hoitoa, käyttöä, vuokrausta ja luovutusta koskevat asiat. Vaikka laki</p>
     <p>CCPR/C/SWE/CO/6, kappale 20 (7.5.2009).  Poronhoitolaki (Rennäringslag) (1971:437)  17 §  121 §  4 § (974/1995)   Ibid.</p>
-    <p xml:lang="sms">9</p>
+    <p>9</p>
     <p>saamelaiskäräjistä sisältääkin vahvoja lakisääteisiä vakuutuksia saamelaisten asemasta, käytännössä Suomen saamelaiskäräjillä on rajallinen päätösvalta, kuten jäljempänä kohdassa IV(A)(2) esitetään.</p>
     <p>29. Suomen nykyiseen lainsäädäntöön ei ole kirjattu eikä siinä anneta saamelaisille mitään erityisiä maaoikeuksia eikä yksinoikeuksia harjoittaa perinteisiä elinkeinoja saamelaisten kotiseutualueilla. Lisäksi toisin kuin Norjassa ja Ruotsissa, poronhoitoa ei ole Suomessa rajattu saamelaisten elinkeinoksi, vaan sitä saavat harjoittaa kaikki poronhoitoalueella asuvat EU:n kansalaiset. Suomen hallitus on omien sanojensa mukaan pyrkinyt moneen otteeseen ratkaisemaan saamelaisten maaoikeuksiin liittyvät ongelmat lainsäädännön keinoin, mutta ongelmia on tuottanut saamelaisten sekä muun samoilla alueilla asuvan ja samoja elinkeinoja harjoittavan väestön etujen tasapainottaminen.</p>
     <p>30. Vuoden 1990 poronhoitolain mukaan valtion viranomaisten on kuitenkin valtion maita koskevia, poronhoidon harjoittamiseen olennaisesti vaikuttavia toimenpiteitä suunnitellessaan neuvoteltava asianomaisen paliskunnan edustajien kanssa. Lisäksi viimeaikaiset hallituksen esitykset kaivoslain ja vesilain uudistamiseksi toisivat saamelaiskulttuurille jonkin verran suojaa, mukaan lukien vaatimukset siitä, että vaikutukset saamelaiskulttuuriin tulisi ottaa huomioon hankkeita arvioitaessa ennen kaivoslupien myöntämistä.</p>
     <p>31. Suomi on Norjan ja Ruotsin tapaan ratifioinut kaikki merkittävät YK:n ihmisoikeussopimukset sekä kansallisten vähemmistöjen suojelua koskevan puiteyleissopimuksen ja alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan. Suomi on myös äänestänyt alkuperäiskansojen oikeuksia koskevan julistuksen hyväksymisen puolesta, mutta Suomi ei ole ratifioinut ILO:n sopimusta nro 169, vaikka YK:n sopimuselimet ovat sitä suositelleet ja sitä on suositeltu myös YK:n yleismaailmallisessa määräaikaistarkastelussa (<em type="italic">Universal Periodic Review</em>).  </p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">IV. Huolenaiheet </em>
     </p>
     <p>
@@ -140,7 +140,7 @@
     </p>
     <p>32. Vaikka saamelaisväestöä koskevat Pohjoismaiden lait ja politiikka ovat suhteellisen edistyneitä, saamelaisten itsemääräämisoikeuden täydelliselle toteutumiselle on edelleen esteitä sekä rajat ylittävillä että kansallisilla tasoilla. YK:n alkuperäiskansojen oikeuksia koskevan julistuksen 3 artiklassa todetaan seuraavasti: ”Alkuperäiskansoilla on itsemääräämisoikeus. Tämän oikeuden perusteella ne määräävät vapaasti poliittisen asemansa ja kehittävät vapaasti taloudellisia, sosiaalisia ja sivistyksellisiä olojaan.” Tämä julistuksen artikla heijastaa Norjan, Ruotsin ja Suomen ratifioiman kansalaisoikeuksia ja poliittisia oikeuksia koskevan kansainvälisen yleissopimuksen sekä taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen yhteistä 1 artiklaa.</p>
     <p>CERD/C/FIN/19, Suomen määräaikaisraportti CERD:lle (15.10.2007).  Ks. esim. CERD/C/FIN/CO/19, kappale 14 (13.3.2009); A/HRC/8/24 (23.5.2008).</p>
-    <p xml:lang="sms">10</p>
+    <p>10</p>
     <p>
       <em type="bold">1. Rajat ylittävä saamelaisten itsemääräämisoikeus </em>
     </p>
@@ -165,8 +165,8 @@
     <p>12 41. Tehokkaan kuulemismenettelyn lisäksi olennainen osatekijä alkuperäiskansojen itsemääräämisoikeudessa on oikeus autonomiaan ja itsehallintoon niiden sisäisissä ja paikallisissa asioissa alkuperäiskansojen oikeuksia koskevan julistuksen (4 artikla) mukaisesti. Erityisraportoijalle ilmaistu yhteinen huoli oli se, että saamelaiskäräjät pystyvät niille laissa säädettyjen valtuuksien ja tehtävien vuoksi vain rajoitetussa määrin toimimaan itsenäisesti ja tekemään itsenäisiä päätöksiä saamelaisväestöä koskevissa asioissa. Erityisraportoija on tietoinen siitä, että saamelaiskäräjien itsenäisen päätösvallan kasvattaminen saattaa edellyttää merkittäviä lainsäädännöllisiä ja poliittisia muutoksia kansallisella tasolla. Siitä huolimatta Pohjoismaiden tulisi saamelaiskäräjiä kuulemalla ja niiden kanssa yhteisymmärryksessä harkita sellaisten vastuualueiden määrittämistä, joilla saamelaiskäräjien itsenäistä päätösvaltaa voisi kasvattaa tai joilla saamelaiskäräjillä voisi olla yksinomainen päätösvalta, erityisesti saamelaisväestön kannalta tärkeissä asioissa. Tämän ohella tulisi yhä vahvemmin tunnustaa paikallisten saamelaisinstituutioiden, kuten siidojen, perinteinen päätösvalta.</p>
     <p>42. Tapa, jolla Ruotsin saamelaiskäräjien tehtävät ja valtuudet on määritelty Ruotsin saamelaiskäräjälaissa, on erityisen huolestuttava. Saamelaiskäräjien perustamisvaiheessa Ruotsin valtio oli sillä kannalla, että saamelaiskäräjien ei ollut tarkoitus olla saamelaisten itsehallintoelin. Valtion mukaan vuoden 1992 saamelaiskäräjälaissa ”(kansanedustuslaitosta tarkoittavan) ting-termin (<em type="italic">Sameting</em>) käytöstä huolimatta kyseessä ei ole itsehallintoelin, joka voisi toimia valtiopäivien tai kunnanvaltuuston asemesta tai näiden kanssa kilpailevana elimenä”. Vaikka Ruotsin valtio on tämän jälkeen tunnustanut saamelaiskäräjät elimeksi, jonka kautta saamelaiset voivat käyttää itsehallinto-oikeuttaan, saamelaiskäräjät toimii edelleen sekä kansan vaaleilla valitsemana elimenä että valtiohallinnon virastona. Ruotsin saamelaiskäräjien edustajat ovat ilmaisseet huolensa siitä, että valtionhallinnon viraston asemassa saamelaiskäräjät joutuvat panemaan täytäntöön Ruotsin valtiopäivien ja valtion laitosten poliittisia päätöksiä ja muita päätöksiä, jotka ovat toisinaan ristiriidassa vaaleilla valittujen saamelaiskäräjien jäsenien ilmaisemien saamelaisväestöä koskevien poliittisten tavoitteiden kanssa. </p>
     <p>43. Myös valtion talousarviosta johtuvien rajoitteiden on katsottu supistavan saamelaiskäräjien mahdollisuuksia hoitaa saamelaisia koskevia asioita sekä toimia saamelaisten itsemääräämisoikeuden kanavina. Niin Norjan, Ruotsin kuin Suomenkin saamelaiskäräjät toivat erityisraportoijalle julki erityisesti sen, että niillä on liian vähän resursseja käytettävissään kokonaan itse määrittämiinsä ja kehittämiinsä hankkeisiin sekä aloitteisiin. Ruotsin saamelaiskäräjille määrärahoja myönnetään pääasiassa saamelaiskäräjille valtion virastona kuuluvien tehtävien hoitamiseen, mutta itsenäisen vaaleilla valitun elimen tehtävien hoitamiseen ne saavat niukasti rahoitusta. Norjan saamelaiskäräjien edustajat ovat tuoneet julki, että niiden päätösvaltaa on toisinaan rajoittanut se, että keskushallinto on korvamerkinnyt julkisia varoja tiettyihin tarkoituksiin. Norjan valtio on kuitenkin eri kannalla; sen mukaan uudet projektit ja rahoitusta koskevat aloitteet ovat usein tulleet itse saamelaiskäräjiltä, ja saamelaiskäräjillä on ollut merkittävässä määrin vapaus priorisoida niille myönnettyjen varojen käyttö uudelleen. Norjan saamelaiskäräjät on myös ilmaisseet huolensa siitä, että kappaleissa 16 ja 39 edellä käsitelty kuulemismenettely ei päde valtion talousarvion tekemiseen.</p>
-    <p xml:lang="fkv">Lakiesitys 1992/93:32.</p>
-    <p xml:lang="sms">13</p>
+    <p>Lakiesitys 1992/93:32.</p>
+    <p>13</p>
     <p>
       <em type="bold">3. Norjan Finnmark-laki </em>
     </p>
@@ -236,7 +236,7 @@
     </p>
     <p>71. <em type="bold">Yleisesti ottaen Norjassa, Ruotsissa ja Suomessa kiinnitetään muihin maihin verrattuna suhteellisen paljon huomiota alkuperäiskansojen ongelmiin. Pohjoismaiden saamelaisväestöä koskevat suunnitelmat ja ohjelmat toimivat monessa suhteessa hyvinä esimerkkeinä alkuperäiskansojen oikeuksien turvaamisesta. Paljon on tästä huolimatta kuitenkin vielä tekemättä sen varmistamiseksi, että saamelaisväestö voi toteuttaa itsemääräämisoikeuttaan ja asettaa yhteisiä tavoitteita useamman kuin yhden valtion alueena asuvana kansana sekä nauttia kussakin asuinvaltiossaan täysimääräisesti niistä oikeuksista, jotka alkuperäiskansoille on nykyisissä kansainvälisissä sopimuksissa taattu.</em> </p>
     <p>72. <em type="bold">Erityisraportoija kiittää Norjaa siitä, että se ratifioi ensimmäisenä valtiona ILO:n itsenäisten maiden alkuperäis- ja heimokansoja koskevan yleissopimuksen nro 169. Erityisraportoija kehottaa Suomea loppuunsaattamaan kyseisen sopimuksen ratifioimiseksi tarvittavat toimenpiteet ja Ruotsia harkitsemaan ratifioimista saamelaisia kuultuaan.</em> </p>
-    <p xml:lang="sms">21</p>
+    <p>21</p>
     <p>
       <em type="bold">B. Itsemääräämisoikeus </em>
     </p>
@@ -263,6 +263,6 @@
     </p>
     <p>87.  <em type="bold">Erityisraportoija suosittelee, että Pohjoismaat ja saamelaiskäräjät tehostavat yhteisiä ponnistelujaan saamelaiskielten elvyttämiseksi ja vahvistavat saamelaiskielten ja -</em> <em type="bold">kulttuurin koulutusohjelmia. Valtioiden tulee välittömästi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin näiden tavoitteiden saavuttamiseksi voidaan toteuttaa yhteisesti sovitut toimenpiteet. Valtioiden tulisi myös lisätä saamentaitoisten opettajien saatavuutta ja lukumäärää. Lisäksi valtioiden tulisi pyrkiä vahvistamaan saamelaiskielten käyttöä tuomioistuimessa ja muiden viranomaisten kanssa asioitaessa ja parantaa edelleen julkisten palvelujen saatavuutta saamelaiskielillä.</em> </p>
     <p>88.  <em type="bold">Valtioiden ja saamelaiskäräjien tulisi yhteistoimin kehittää ja toteuttaa toimenpiteitä yleisen tietoisuuden lisäämiseksi saamelaiskansoista mediassa ja suuren yleisön keskuudessa. Tällaista tietoisuuden lisäämistä tulisi edistää muun muassa perus- ja keskiasteen koulujen sekä yliopistojen opetusohjelmissa</em>. </p>
-    <p xml:lang="sms">24</p>
+    <p>24</p>
   </body>
 </document>

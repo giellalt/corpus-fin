@@ -5,44 +5,59 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>6034</wordcount>
+    <wordcount>6018</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1918&amp;Itemid=10</origFileName>
-    <parallel_text location="toimintaohjelma_talousosio2012-2015_inarinsaame.pdf" xml:lang="smn"/>
-    <parallel_text location="toimintaohjelma_talousosio_20122015_pohjoissaame.pdf" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="toimintaohjelma_talousosio_20122015_pohjoissaame.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="toimintaohjelma_talousosio2012-2015_inarinsaame.pdf"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
     <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">SAAMELAISKÄRÄJIEN TOIMINTAOHJELMA JA TALOUSSUUNNITELMA 2012 – 2015 </em>
     </p>
     <p>Hyväksytty saamelaiskäräjien kokouksessa 20.6.2012.</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">SISÄLLYS </em>
     </p>
-    <p xml:lang="sma">
+    <p>
       <em type="italic">1. YLEISET LÄHTÖKOHDAT  </em>
     </p>
-    <p xml:lang="nno">
+    <p>
       <em type="italic">  </em>
     </p>
-    <p xml:lang="nno">
+    <p>
       <em type="italic">  </em>
     </p>
-    <p xml:lang="nno">
+    <p>
       <em type="italic">  </em>
     </p>
-    <p xml:lang="nno">
+    <p>
       <em type="italic">  </em>
     </p>
-    <p xml:lang="nno">
+    <p>
       <em type="italic">  </em>
     </p>
     <p>
@@ -51,7 +66,7 @@
     <p>
       <em type="italic">3. Saamelaiskäräjien toiminnan yleiset tavoitteet  </em>
     </p>
-    <p xml:lang="nno">
+    <p>
       <em type="italic">  </em>
     </p>
     <p>
@@ -60,10 +75,10 @@
     <p>
       <em type="italic">  3.3.1 Saamelainen elinkeinopolitiikka  3.3.2. Saamen kielen elinvoimaisuuden turvaaminen  3.3.3 Saamelaislasten ja -nuorten aseman kehittäminen  3.3.4 Saamenkielisten sosiaali- ja terveyspalvelujen kehittäminen  3.3.5 Saamelaisten kulttuuripalvelujen ja taide-elämän kehittäminen  3.3.6  Saamelaisopetuksen ja korkeakoulutuksen kehittäminen  3.3.7   Saamelaisen parlamentaarisen neuvoston toiminnan kehittäminen  </em>
     </p>
-    <p xml:lang="sma">
+    <p>
       <em type="italic">4. TOIMINTAOHJELMAN TALOUSOSIO 2013 - 2015  </em>
     </p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">1. YLEISET LÄHTÖKOHDAT </em>
     </p>
     <p>
@@ -92,8 +107,7 @@
     </p>
     <p>Artikla 3: Alkuperäiskansoilla on itsemääräämisoikeus. Tämän oikeuden perusteella ne määräävät vapaasti poliittisen asemansa ja kehittävät vapaasti taloudellisia, sosiaalisia ja sivistyksellisiä olojaan.</p>
     <p>Saamelaisten itsemääräämisoikeus ei toteudu tyydyttävällä tavalla. Saamelaisten itsemääräämisoikeus ei toteudu perinteisen saamelaiselinkeinojen, saamelaisten kotiseutualueen luonnonvarojen, maan- ja veden tai maankäytön ohjauksessa ja hallinnossa.</p>
-    <p>toteudu, koska saamelaisten</p>
-    <p>SopS 7-8/1976  Sops 6/1976  SopS 78/1994  SopS 2/1998  SopS 60/1991   SopS 23/1998  SopS 17/2007  SopS 14/2006 levä YK:n alkuperäiskansojen erityisraportoija James Anayan raportti suosituksineen luovutettiin YK:n ihmisoikeusneuvostolle 13.1.2011.</p>
+    <p>toteudu, koska saamelaisten  levä YK:n alkuperäiskansojen erityisraportoija James Anayan raportti suosituksineen luovutettiin YK:n ihmisoikeusneuvostolle 13.1.2011.</p>
     <p>Raportissaan Anaya kiinnitti huomiota mm. saamelaisten itsehallinnon kehittämistarpeisiin ja suositteli Suomea ratifioimaan ILO 169-sopimuksen.  Alkuperäiskansaraportoija kehotti Suomea parantamaan saamelaisten itsemääräämisoikeutta, siirtämään tehtäviä saamelaiskäräjille asioissa, jotka koskevat saamelaisten perinteisiä elinkeinoja, kulttuuria, kieltä ja maaoikeuksia. Suomen valtion tulisi turvata saamelaiskäräjille riittävät resurssit toimia ja tehostamaan toimia saame kielten elvyttämiseksi.  Suomi on sitoutunut raportin suositusten toimeenpanoon.</p>
     <p>Kolmas  saamelaisparlamentaarikkojen  konferenssi  vuonna  2011  vaati  julistuksessaan  mm. saamelaisten  itsemääräämisoikeuden  toteuttamista,  riittäviä  resursseja  saamelaiskäräjille  ja saamen kielen, kulttuurin ja elinkeinojen tukemiseen, oikeutta maahan, veteen ja luonnonvaroihin sekä kiirehti Ilo-sopimuksen ratifiointia.</p>
     <p>Euroopan Unionin komissio on 20.11.2008 hyväksynyt tiedonannon Euroopan unioni ja arktinen  alue.  Tiedonannossa  Euroopan  Unioni  sitoutuu  jatkuvaan  dialogiin  arktisten  alkuperäiskansojen kanssa. Tiedonannossa todetaan myös, että EU:n tulisi pohtia miten alkuperäiskansojen  osallisuus  järjestetään  osana  EU:n  pohjoisen  ulottuvuuden  politiikkaa.  Euroopan parlamentti  teki  20.1.2011  päätöksen  EU:n  kestävästä  politiikasta  pohjoisessa.  Parlamentti vetoaa  Suomeen  ja  Ruotsiin,  jotta  ne  ratifioisivat  ILO  169-sopimuksen.  Parlamentti  myös vaati, että alkuperäiskansojen on osallistuttava kiinteämmin politiikkojen suunnitteluun. Alkuperäiskansakulttuurien ja -kielien turvaaminen edellyttää erityistoimenpiteitä.</p>
@@ -121,7 +135,7 @@
       <em type="bold">1.5.  Saamelaiskäräjien toiminnan arvot </em>
     </p>
     <p><em type="bold">Saamelaiskäräjien toiminnan arvot </em>vahva saamelainen identiteetti saamen kielten elinvoimaisuus saamelainen kulttuuri ja kulttuuriperintö perinteisten elinkeinojen elinvoimaisuus saamelainen luontoyhteys </p>
-    <p xml:lang="smn">Kuva: Petra Biret Magga-Vars</p>
+    <p>Kuva: Petra Biret Magga-Vars</p>
     <p>saamelainen kulttuurimaisema saamelaisten kestävän  kehityksen ja biologisen monimuotoisuuden turvaaminen saamelainen tasa-arvo ja yhdenvertaisuus yhteisöllisyys saamelaisten perinteiden ylläpitäminen ja perinteisen tiedon elvyttäminen ja turvaaminen</p>
     <p>
       <em type="bold">2. Saamelaiskäräjäkauden haasteet ja mahdollisuudet </em>
@@ -159,7 +173,7 @@
     <p>
       <em type="bold">1.  ILO 169-sopimuksen ratifioiminen 2.  Pohjoismaisen saamelaissopimuksen ratifioiminen 3.  Saamelaiskäräjälain ja -asetuksen uudistaminen sekä saamelaismääritelmän muuttaminen 4.  Saamelaisten itsemääräämisoikeuden toteutuminen täysmääräisesti 5.  Kataisen hallitusohjelman saamelaiskirjausten toteutuminen täysmääräisesti 6.  Saamen kielten elvytysohjelman toimeenpanemisen aloittaminen 7.  Kansallisen artikla 8(j) -työryhmän  ehdotusten toteuttaminen 8.  Alkuperäiskansajulistuksen toimeenpaneminen Suomessa 9.  Saamelaiskulttuurin ja perinteisten elinkeinojen suojan toteutuminen 10. Saamelaiskulttuurin heikentämisen </em>
     </p>
-    <p xml:lang="fkv">
+    <p>
       <em type="bold">suojan ulottaminen vesilain </em>
     </p>
     <p>
@@ -235,7 +249,7 @@
       <em type="italic">3.3.1 Saamelainen elinkeinopolitiikka </em>
     </p>
     <p>o  Saamelaiskäräjille perustetaan elinkeino- ja oikeuslautakunnan alaisuuteen valtion rahoituksella saamelainen elinkeinorahasto, jolla tuetaan saamelaisten perinteisten elinkeinojen harjoittamista (poronhoito, kalastus, metsästys, keräily ja käsityö) ja niihin liittyvien uusien saamelaiskulttuurinmukaisten elinkeinomuotojen kehittymistä, kuten pienimuotoisen ekologisen matkailun ja perinteisten elinkeinojen tuotteiden jalostamista. Erityisesti tuetaan saamelaisnuorten pääsyä perinteisten saamelaiselinkeinojen pariin ja saamelaista naisyrittäjyyttä.  o  Saamelaiskäräjille luodaan ns. puskurirahasto, jotta saamelaiskäräjät voi hakea rahoitusta EU-projektien käynnistämiseen. Haetaan rahoitusta EU:n rakennerahasto-ohjelmilta toimintaohjelman tavoitteiden toteuttamiseksi.  o  Saamelaiskäräjien elinkeinopoliittista toimintaa parannetaan perustamalla uusia virkoja ja osallistumalla aktiivisesti saamelaiselinkeinojen kehittämiseen edunvalvonnalla, luomalla kehittämishankkeilla ja hyvällä yhteistyöllä perinteisten saamelaisten elinkeinonharjoittajien kanssa. o  Porotalouden- ja luontaiselinkeinojen rahoituslakiin esitetään paimennustukea saamelaisen poronhoitomallin tukemiseksi ja säilyttämiseksi sekä petovahinkojen ennaltaehkäisemiseksi. o  Kalastuslain kokonaisuudistuksessa turvataan saamelaisten ikimuistoiset nautintaoikeuden koko saamelaisten kotiseutualueella, saamelaisen kalastusperinteen ja -kulttuurin säilyminen sekä saamelaisten erityisperusteisten kalastusoikeuksien säilyminen. Saamelaiskäräjien täysmääräinen ja vaikuttava osallistuminen sekä Tenon saamelaisten kalastusperinne ja kalastusoikeudet turvataan Tenojoen kalastussopimussopimusneuvotteluissa.</p>
-    <p xml:lang="smn">Kuva: Inga-Briitta Magga</p>
+    <p>Kuva: Inga-Briitta Magga</p>
     <p>o  Tuetaan ja luodaan edellytyksiä saamelaiskulttuurinmukaiseen perinteisten elinkeinojen o  ammatilliseen opetukseen ja tuetaan erityisesti oppisopimuskoulutuksen kehittymistä. o  Kehitetään ja edistetään olosuhteita, jotka tukevat saamelaisten perinteisten elinkeinojen ja niiden liitännäiselinkeinojen harjoittamista edunvalvonnalla ja kehittämistoiminnalla.  o  Edistetään polttoaineveron palauttamista perinteisten saamelaiselinkeinojen harjoittajille</p>
     <p>
       <em type="italic">3.3.2. Saamen kielen elinvoimaisuuden turvaaminen </em>
@@ -250,7 +264,7 @@
     <p>mintaa edistetään ja tuetaan.</p>
     <p>o Luodaan edellytykset sille, että saamelaisnuoret</p>
     <p>voivat jäädä saamelaisten kotiseutualueelle.  o  Saamelaisesta lastenkulttuurikeskuksesta MÁNNU:sta luodaan osa saamelaiskäräjien pysyvää toimintaa ja toiminnalle on riittävät resurssit. Toimintaa lisätään ja kehitetään saamelaisten kotiseutualueella ja ulotetaan keskuksen toimintaa myös saamelaisten kotiseutualueen ulkopuolelle.</p>
-    <p xml:lang="sma">
+    <p>
       <em type="italic">MÁNNU  </em>
     </p>
     <p>
@@ -277,7 +291,7 @@
       <em type="italic">3.3.7   Saamelaisen parlamentaarisen neuvoston toiminnan kehittäminen  </em>
     </p>
     <p>o  SPN:lle on delegoitu julkisen vallan tehtäviä pohjoismaisessa saamelaissopimuksessa. Suhde saamelaiskäräjien toimintaan on määritetty saamelaiskäräjien työjärjestyksessä. SPN huolehtii ja johtaa saamelaisten kansainvälisestä edustamisesta.  o  SPN edistää ja seuraa toiminnassaan Kirkkoniemen kolmannen saamelaisparlamentaarikkojen julistuksen toteutumista o  SPN:n edistää ja seuraa YK:n alkuperäiskansaraportoija James Anayan saamelaisväestön tilaa Suomessa, Ruotsissa, Norjassa ja Venäjällä käsitelleiden raporttien suositusten toteutumista. o  Suomen saamelaiskäräjät osallistuu SPN:n kautta arktiseen ja Barentsin alueen yhteistyöhön, kansainväliseen ilmastopoliittiseen ja biodiversiteettipäätöksentekoon, WIPO:n toimintaan, pohjoisen ulottavuuden ja pohjoismaiseen yhteistyöhön sekä alkuperäiskansayhteistyöhön YK:ssä tehokkaasti ja vaikuttaen.  o  SPN:llä pysyvä sihteeristö ja oma budjetti vuoteen 2015 mennessä. Suomen saamelaiskäräjille on turvattu resurssit osallistua täyspainoisesti SPN:n toimintaan.  o  SPN:n alaisuudessa toimii nuorisolautakunta sekä tarvittava määrä muita lautakuntia SPN:n tehtävien tehokasta hoitamista varten.</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">4. TOIMINTAOHJELMAN TALOUSOSIO 2013 - 2015 </em>
     </p>
     <p>010-030  HENKILÖSTÖN PALKAT   (sis. myös palkan sivukulut)</p>
@@ -309,20 +323,20 @@
       <em type="italic">Suunnitellut uudet virat  (nimikkeet alustavia) </em>
     </p>
     <p>0315  Koulutussuunnittelija  52.000,- 53.000,-  54.000,- 0316  Oppimateriaalityöntekijä  (is)  50.000,- 51.000,-  52.000,- 0317  Oppimateriaalityöntekijä  (ks)  50.000,- 51.000,-  52.000,-                         152.000,-      155.000,-       158.000,-</p>
-    <p xml:lang="sme">05  PALKIOT JA KORVAUKSET</p>
+    <p>05  PALKIOT JA KORVAUKSET</p>
     <p>051  Kokouspalkkiot   25.000,- 26.000,-  27.000,-  052  Ansionmenetyskorvaukset  17.000,- 18.000,-  19.000,-  053  Tulkkauspalkkiot   65.000,-       66.000,-  67.000,-    054  Muut palkkiot (mm. hallituksen jäs.) 40.000,- 42.000,-  44.000,-                       147.000,-       152.000,-       157.000,-</p>
-    <p xml:lang="sma">06-07  TOIMISTOMENOT</p>
+    <p>06-07  TOIMISTOMENOT</p>
     <p>061  Toimitilojen vuokrat (pl. Sajoksen vuokrat) 18.000,- 19.000,-  20.000,-  062  Kopiokoneiden vuokrat  15.000,- 16.000,-  17.000,- 063  Kon. ja laitt. korjaus ja kunn. pito         9.000,-    11.000,-         13.000,- 064  ATK-laitteet                 20.000,-   25.000,-  30.000,-       065  ATK-ohjelmistot                             20.000,-       25.000,-  30.000,-      066  Muut koneet ja laitteet sekä kalusteet 15.000,-    15.000,-         15.000,- 067  Toimistotarvikkeet             13.000,- 15.000,-  17.000,-</p>
     <p>068  Monistus- ja sid. palvelut                 12.000,- 12.000,-  13.000,-  069  Tele- ja puh. palvelut   30.000,- 32.000,-  34.000,- 070  Tietoliikennemaksut    12.000,- 13.000,-  14.000,-  071  Postimaksut     7.000,-   8.000,-    9.000,- 072  Pankkien palvelumaksut    2.000,-   2.000,-    3.000,-  073  Muut tstomenot     5.000,-   5.000,-    5.000,-                        178.000,-      198.000,-       220.000,-</p>
-    <p xml:lang="fkv">08  KOKOUSMENOT</p>
+    <p>08  KOKOUSMENOT</p>
     <p>081  Saamelaiskäräjien kokous  4-5 kok.       30.000,-  33.000,-  35.000,- 082  Hallitus 10 kok.   25.000,- 26.000,-  27.000,-  083  Lautakunnat 5 kpl, 6-8 kok./ltk  40.000,- 42.000,-  43.000,- 084  Omat työryhmät ja seminaarit  20.000,- 22.000,-  24.000,-  085  Ulkopuoliset työryhmät  10.000,- 10.000,-  11.000,-                       125.000,-       133.000,-       140.000,-</p>
-    <p xml:lang="sma">09  MUUT TOIMINTAMENOT</p>
+    <p>09  MUUT TOIMINTAMENOT</p>
     <p>091  Sidosryhmätoiminta                       120.000,-      125.000,-       130.000,-  092  Tiedotustoiminta                       20.000,- 20.000,-  20.000,-  093  Koulutus   20.000,- 22.000,-  24.000,- 094  Terveyspalvelut   18.000,- 19.000,-  20.000,-  095  Ravitsemispalvelut    25.000,- 25.000,-  27.000,- 096  Painotuotteet ja lehti-ilmoitukset   25.000.- 27.000,-  30.000,- 097  Muut menot   50.000,- 52.000,-  54.000,-                       278.000,-       295.000,-       315.000,-</p>
-    <p xml:lang="sma">010  SAAMELAISKULTTUURIKESKUKSEN PALVELUYKSIKKÖ</p>
+    <p>010  SAAMELAISKULTTUURIKESKUKSEN PALVELUYKSIKKÖ</p>
     <p>
       <em type="italic">Nykyinen henkilöstö (määräaikaisia) </em>
     </p>
-    <p xml:lang="smn">0101  Järjestelmäasiantuntija  52.000,- 53.000,- 54.000,- 0102  Vastaava Av-teknikko  51.000,- 52.000,-  53.000,- 0103  Av-teknikko    49.000,- 50.000,- 51.000,- 0104  Toimitilahuoltaja   43.000,- 44.000,- 45.000,- 0105  Laitoshuoltaja   36.000,- 37.000,- 38.000,-                                                                                     231.000,-       236.000,-      241.000,-</p>
+    <p>0101  Järjestelmäasiantuntija  52.000,- 53.000,- 54.000,- 0102  Vastaava Av-teknikko  51.000,- 52.000,-  53.000,- 0103  Av-teknikko    49.000,- 50.000,- 51.000,- 0104  Toimitilahuoltaja   43.000,- 44.000,- 45.000,- 0105  Laitoshuoltaja   36.000,- 37.000,- 38.000,-                                                                                     231.000,-       236.000,-      241.000,-</p>
     <p>
       <em type="italic">Suunnitellut uudet virat  (nimikkeet alustavia) </em>
     </p>
@@ -332,9 +346,9 @@
     <p>0112  Muut toimintamenot                       80.000,-         85.000,-        85.000,-</p>
     <p>011  SAAMEN KIELEN YLLÄPITÄMINEN  JA KEHITTÄMINEN                                          360.000,-       365.000,- 370.000,- (erillinen esitys OM:lle)</p>
     <p>012  EUROOPAN UNIONIN RAKENNE- RAHASTO-OHJELMAT    80.000,- 80.000,-   80.000,- (omarahoitusosuus saamelaishankkeista)</p>
-    <p xml:lang="sma">013  KANSAINVÄLINEN TOIMINTA</p>
+    <p>013  KANSAINVÄLINEN TOIMINTA</p>
     <p>0131  Saamelaisen parlamentaarisen neuvoston toimintakulut    40.000,- 80.000,- 100.000,-      0132  Osuus saamen kielen lautakunnan toimintakuluista                      100.000,-      100.000,- 100.000,-  0133  Muu kansainvälinen toiminta            30.000,- 30.000,-   30.000,-                        170.000,-      210.000,-        230.000,-</p>
-    <p xml:lang="sma">014  SAAMELAISKÄRÄJÄVAALIT                       20.000,-        60.000,-         280.000,-</p>
+    <p>014  SAAMELAISKÄRÄJÄVAALIT                       20.000,-        60.000,-         280.000,-</p>
     <p>015  SAAMELAINEN ELINKEINO- TOIMINTA   (erillinen esitys TEM:lle)                     500.000,-      500.000,-         500.000,-</p>
     <p>016  SAAMELAINEN NUORISO-                           130.000,-      140.000,-         150.000,-  NEUVOSTO  (sis. nuorisosihteerin palkkakulut)  (erillinen esitys OKM:lle)</p>
     <p>017  SAAMELAINEN NUORISO-                    100.000,-      110.000,-         120.000,- MÄÄRÄRAHA (erillinen esitys OKM:lle)</p>
@@ -344,21 +358,21 @@
     <p>020  SAAMEN KIELEN JA KULTTUURIN           1.450.000,-    1.500.000,-    1.550.000,- ELVYTYSTOIMINTA  (erillinen esitys OKM:lle)</p>
     <p>021  SAAMELAISNUORTEN TAIDE-    30.000,-   32.000,-         33.000,- TAPAHTUMA  (erillinen esitys OKM:lle)</p>
     <p>022  SAAMENKIELISTEN SOSIAALI- JA           1.950.000,-     1.960.000,-   1.970.000,- TERVEYSPALVELUJEN TUOTTAMINEN   (erillinen esitys STM:lle)</p>
-    <p xml:lang="sma">023  SAAMELAISTEN SOSIAALIALAN  OSAAMISKESKUSTOIMINTA</p>
+    <p>023  SAAMELAISTEN SOSIAALIALAN  OSAAMISKESKUSTOIMINTA</p>
     <p>
       <em type="italic">Nykyinen henkilöstö </em>
     </p>
-    <p xml:lang="fkv">0231  Suunnittelija                           56.000,-     57.000,-       59.000,-</p>
+    <p>0231  Suunnittelija                           56.000,-     57.000,-       59.000,-</p>
     <p>
       <em type="italic">Suunnitellut uudet virat  (nimikkeet alustavia) </em>
     </p>
     <p>0232  II Suunnittelija       56.000,-      57.000,-        59.000,- 0233  Muut toimintamenot     30.000,-      32.000,-        34.000,-                            86.000,-           89.000,-         93.000,-</p>
     <p>024  SAAMELAISTEN TERVEYDEN  150.000,-    152.000,-       154.000,- EDISTÄMINEN  (sis. suunnittelijan palkkakulut) (erillinen esitys STM:lle)</p>
-    <p xml:lang="sme">
+    <p>
       <em type="bold">YHTEENVETO MENOISTA JA TULOISTA VUOSINA 2013 - 2015  </em>
     </p>
-    <p xml:lang="sms"><em type="bold">   </em>      2014<em type="bold">           </em>2015<em type="bold">   </em></p>
-    <p xml:lang="fkv">
+    <p><em type="bold">   </em>      2014<em type="bold">           </em>2015<em type="bold">   </em></p>
+    <p>
       <em type="italic">Menot   11.520.000,-      11.887.000,-      12.447.000,- </em>
     </p>
     <p><em type="bold">Tulot  </em>(valtionavustukset)                       <em type="bold">11.520.000,-       11.887.000,-     12.447.000,- </em></p>
@@ -366,6 +380,6 @@
     <p>Valtionavustus työvoima- ja elinkeino- ministeriön pääluokasta  (kohta 015)       500.000,-              500.000,-             500.000,-</p>
     <p>Valtionavustukset opetus- ja kulttuuri- ministeriön pääluokasta  (kohdat 016-022)      3.396.000,-           3.502.000,-          3.608.000,-</p>
     <p>Valtionavustukset sosiaali- ja terveysministeriön pääluokasta   (kohdat 023-024)     2.242.000,-           2.258.000,-          2.309.000,-</p>
-    <p xml:lang="sms">***********</p>
+    <p>***********</p>
   </body>
 </document>
