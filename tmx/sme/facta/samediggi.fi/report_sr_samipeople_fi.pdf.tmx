@@ -6,6 +6,22 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
+        <seg>/HRC/18/XX/Add.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>/HRC/18/XX/Add.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Y</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Tarkistamaton ennakkoversio Jakelu: Yleinen</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -78,18 +94,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Raportti perustuu suurelta osin erityisraportoijalle saamelaisen parlamentaarisen neuvoston Rovaniemellä 14.–16.4.2010 järjestämän konferenssin yhteydessä esitettyihin tietoihin.</seg>
+        <seg>4.2010 järjestämän konferenssin yhteydessä esitettyihin tietoihin. Konferenssiin osallistui edustajia Norjan, Ruotsin ja Suomen saamelaiskäräjiltä, virkamiehiä kustakin maasta sekä saamelaisten kansalaisjärjestöjen edustajia.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Raporta vuođđuduvvá eanaš osiin spesiálaraporterejeaddjái ovdanbuktojuvvon dieđuide konfereanssas, man lágidii Sámi parlamentáralaš ráđđi Roavvenjárggas, Suomas cuoŋománu 14.-16. beivviid 2010.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Konferenssiin osallistui edustajia Norjan, Ruotsin ja Suomen saamelaiskäräjiltä, virkamiehiä kustakin maasta sekä saamelaisten kansalaisjärjestöjen edustajia.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Konferensii ledje čoahkkanan ovddasteaddjit Norgga, Ruoŧa ja Suoma beale sámedikkiin oktan ráđđehusaid virgeolbmuiguin ja maid Sámi friddja organisašuvnnaid ovddasteaddjiiguin.</seg>
+        <seg>Raporta vuođđuduvvá eanaš osiin spesiálaraporterejeaddjái ovdanbuktojuvvon dieđuide konfereanssas, man lágidii Sámi parlamentáralaš ráđđi Roavvenjárggas, Suomas cuoŋománu 14.-16. beivviid 2010. Konferensii ledje čoahkkanan ovddasteaddjit Norgga, Ruoŧa ja Suoma beale sámedikkiin oktan ráđđehusaid virgeolbmuiguin ja maid Sámi friddja organisašuvnnaid ovddasteaddjiiguin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +174,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Erityisraportoija kiinnittää raportissaan huomiota etenkin saamelaisten itsemääräämisoikeuden toteutumiseen kansallisella tasolla varsinkin saamelaiskäräjien kautta, saamelaisten oikeuteen omiin maa-alueisiinsa ja luonnonvaroihinsa sekä pyrkimyksiin elvyttää saamelaiskieliä ja järjestää saamelaislapsille ja - nuorisolle kulttuurin erityispiirteet huomioon ottavaa koulutusta.</seg>
+        <seg>Erityisraportoija kiinnittää raportissaan huomiota etenkin saamelaisten itsemääräämisoikeuden toteutumiseen kansallisella tasolla varsinkin saamelaiskäräjien kautta, saamelaisten oikeuteen omiin maa-alueisiinsa ja luonnonvaroihinsa sekä pyrkimyksiin elvyttää saamelaiskieliä ja järjestää saamelaislapsille ja -nuorisolle kulttuurin erityispiirteet huomioon ottavaa koulutusta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Raporttastis spesiálaraporterejeaddji gidde earenoamáš fuomášumi Sámi iešmearrideami ollašuvvamii nášuvnnalaš dásis earenoamážit sámedikkiid bokte, sápmelaččaid vuoigatvuođaide iežaset eatnamiidda ja luondduvalljodagaide ja maid rahčamušaide ealáskahttit sámegielaid ja lágidit kultuvrralaččat heivehuvvon oahpahusa sámemánáide ja - nuoraide.</seg>
+        <seg>Raporttastis spesiálaraporterejeaddji gidde earenoamáš fuomášumi Sámi iešmearrideami ollašuvvamii nášuvnnalaš dásis earenoamážit sámedikkiid bokte, sápmelaččaid vuoigatvuođaide iežaset eatnamiidda ja luondduvalljodagaide ja maid rahčamušaide ealáskahttit sámegielaid ja lágidit kultuvrralaččat heivehuvvon oahpahusa sámemánáide ja -nuoraide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Sisällys</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -190,119 +206,151 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>II.</seg>
+        <seg>.4 II.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>II.</seg>
+        <seg>I. Láidehus.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiset... 4</seg>
+        <seg>.4 III.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámi álbmot... 4</seg>
+        <seg>4 II. Sámi álbmot.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>III.</seg>
+        <seg>.5 A. Yleissaamelaiset instituutiot ja hankkeet.......................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>III..</seg>
+        <seg>4 III. Oppalaš lágalaš ja politihkalaš rámat. 5 A. Oktasaš sámeinstitušuvnnat ja -fitnut.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Yleiset lainsäädännölliset ja poliittiset rakenteet... 5</seg>
+        <seg>.5 B. Norja..............................................................................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oppalaš lágalaš ja politihkalaš rámat... 5</seg>
+        <seg>5 B. Norga.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>A. Yleissaamelaiset instituutiot ja hankkeet... 5</seg>
+        <seg>.6 C. Ruotsi............................................................................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>A. Oktasaš sámeinstitušuvnnat ja - fitnut... 5</seg>
+        <seg>6 C. Ruoŧŧa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>C. Ruotsi... 8</seg>
+        <seg>.8 D. Suomi............................................................................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>C. Ruoŧŧa... 8</seg>
+        <seg>8 D. Suopma.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>A. Itsemääräämisoikeus... 10</seg>
+        <seg>.9 IV.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>A. Iešmearridanvuoigatvuohta... 10</seg>
+        <seg>9 IV. Fuolat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>B. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin... 14</seg>
+        <seg>.10 A. Itsemääräämisoikeus...................................................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>B. Vuoigatvuođat eatnamiidda, čáziide ja luondduvalljodagaide... 14</seg>
+        <seg>10 A. Iešmearridanvuoigatvuohta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>C. Kielten säilyttäminen... 19</seg>
+        <seg>.10 B. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>C. Gielaid seailluheapmi... 19</seg>
+        <seg>10 B. Vuoigatvuođat eatnamiidda, čáziide ja luondduvalljodagaide.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>D. Kulttuurin erityispiirteet huomioon ottava koulutus... 20</seg>
+        <seg>.................................................................14 C. Kielten säilyttäminen...................................................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>D. Kultuvrralaččat heivehuvvon oahpahus... 20</seg>
+        <seg>14 C. Gielaid seailluheapmi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>V. Johtopäätökset ja suositukset... 21</seg>
+        <seg>.19 D. Kulttuurin erityispiirteet huomioon ottava koulutus....................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>V. Bohtosat ja ávžžuhusat... 21</seg>
+        <seg>19 D. Kultuvrralaččat heivehuvvon oahpahus.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>A. Yleiset juridiset ja poliittiset rakenteet... 21</seg>
+        <seg>.20 V. Johtopäätökset ja suositukset...........................................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>B. Iešmearridanvuoigatvuohta... 21</seg>
+        <seg>20 V. Bohtosat ja ávžžuhusat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>B. Itsemääräämisoikeus... 22</seg>
+        <seg>.21 A. Yleiset juridiset ja poliittiset rakenteet........................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>C. Vuoigatvuođat eatnamiidda, čáziide ja luondduvalljodagaide... 22</seg>
+        <seg>21 A. Oppalaš lágalaš ja politihkalaš rámat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>C. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin... 22</seg>
+        <seg>.21 B. Itsemääräämisoikeus....................................................................................................................</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>D. Giella ja oahpahus... 23</seg>
+        <seg>21 B. Iešmearridanvuoigatvuohta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>D. Kieli ja koulutus... 24</seg>
+        <seg>.22 C. Oikeus maa-alueisiin, vesistöihin ja luonnonvaroihin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>21 C. Vuoigatvuođat eatnamiidda, čáziide ja luondduvalljodagaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>.................................................................22 D. Kieli ja koulutus..........................................................................................................................</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>22 D. Giella ja oahpahus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>.24</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>I. Johdanto</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>I. Láidehus</seg>
@@ -310,18 +358,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>1.</seg>
+        <seg>1. Tässä raportissa tarkastellaan Norjan, Ruotsin ja Suomen saamelaisten ihmisoikeustilannetta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tässä raportissa tarkastellaan Norjan, Ruotsin ja Suomen saamelaisten ihmisoikeustilannetta.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dán raporttas guorahallojuvvo Norgga, Ruoŧa ja Suoma beale sápmelaččaid olmmošvuoigatvuođaid dilli.</seg>
+        <seg>1. Dán raporttas guorahallojuvvo Norgga, Ruoŧa ja Suoma beale sápmelaččaid olmmošvuoigatvuođaid dilli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,7 +374,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Raportti perustuu suurelta osin erityisraportoijalle saamelaisen parlamentaarisen neuvoston Rovaniemellä 14.–16.4.2010 järjestämän konferenssin yhteydessä esitettyihin tietoihin sekä erityisraportoijalle toimitettuihin kirjallisiin esityksiin ja riippumattomaan tutkimukseen.</seg>
+        <seg>Raportti perustuu suurelta osin erityisraportoijalle saamelaisen parlamentaarisen neuvoston Rovaniemellä 14.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Raporta vuođđuduvvá eanaš osiin spesiálaraporterejeaddjái ovdanbuktojuvvon dieđuide konfereanssas, man lágidii Sámi parlamentáralaš ráđđi Roavvenjárggas, Suomas cuoŋománu 14.-16. beivviid 2010 ja maiddái spesiálaraporterejeaddjái doaimmahuvvon čállosiidda ja sorjákeahtes dutkamuššii.</seg>
@@ -358,18 +398,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>2.</seg>
+        <seg>2. Erityisraportoija haluaa esittää kiitoksensa Norjan, Ruotsin ja Suomen saamelaisedustajille sekä hallituksille näiden avoimesta suhtautumisesta tähän ainutlaatuiseen vuoropuheluun sekä korvaamattomasta avusta konferenssin järjestämisessä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija haluaa esittää kiitoksensa Norjan, Ruotsin ja Suomen saamelaisedustajille sekä hallituksille näiden avoimesta suhtautumisesta tähän ainutlaatuiseen vuoropuheluun sekä korvaamattomasta avusta konferenssin järjestämisessä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji háliida giitit Norgga, Ruoŧa ja Suoma beale Sámi ovddasteaddjiid ja ráđđehusaid dáid rabasvuođas dákkár áidnalunddot gulahallamii ja maid divrras veahkis konfereanssa lágideamis.</seg>
+        <seg>2. Spesiálaraporterejeaddji háliida giitit Norgga, Ruoŧa ja Suoma beale Sámi ovddasteaddjiid ja ráđđehusaid dáid rabasvuođas dákkár áidnalunddot gulahallamii ja maid divrras veahkis konfereanssa lágideamis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,42 +414,26 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Erityisraportoija painottaa tässä suhteessa YK:n alkuperäiskansojen oikeuksia koskevan julistuksen artiklaa 36, jonka mukaan ” alkuperäiskansoilla, erityisesti kansainvälisten rajojen jakamilla kansoilla, on oikeus ylläpitää ja kehittää rajat ylittäviä yhteyksiä, suhteita ja yhteistyötä, mukaan lukien hengellinen, sivistyksellinen, poliittinen, taloudellinen ja sosiaalinen toiminta ”.</seg>
+        <seg>Erityisraportoija painottaa tässä suhteessa YK:n alkuperäiskansojen oikeuksia koskevan julistuksen artiklaa 36, jonka mukaan ”alkuperäiskansoilla, erityisesti kansainvälisten rajojen jakamilla kansoilla, on oikeus ylläpitää ja kehittää rajat ylittäviä yhteyksiä, suhteita ja yhteistyötä, mukaan lukien hengellinen, sivistyksellinen, poliittinen, taloudellinen ja sosiaalinen toiminta”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji deattuha dán oktavuođas ON álgoálbmogiid vuoigatvuođaid julggaštusa artihkkala 36, mii cealká: ” álgoálbmogiin, erenoamážit sis geaid riikkaidgaskasaš riikkaráját juhket máŋgga oassái, lea vuoigatvuohta bisuhit ja ovddidit oktavuođaid, gaskavuođaid ja ovttasbarggu iežaset lahtuiguin ja eará olbmuiguin rájiid rastá, daidda gullet maiddái vuoiŋŋalaš, kultuvrralaš, politihkalaš ja sosiála ulbmilis dahkkon doaimmat. ”</seg>
+        <seg>Spesiálaraporterejeaddji deattuha dán oktavuođas ON álgoálbmogiid vuoigatvuođaid julggaštusa artihkkala 36, mii cealká: ”álgoálbmogiin, erenoamážit sis geaid riikkaidgaskasaš riikkaráját juhket máŋgga oassái, lea vuoigatvuohta bisuhit ja ovddidit oktavuođaid, gaskavuođaid ja ovttasbarggu iežaset lahtuiguin ja eará olbmuiguin rájiid rastá, daidda gullet maiddái vuoiŋŋalaš, kultuvrralaš, politihkalaš ja sosiála ulbmilis dahkkon doaimmat.”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>II.</seg>
+        <seg>II. Saamelaiset</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>II.</seg>
+        <seg>II. Sámi álbmot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiset</seg>
+        <seg>3. Saamelaisten perinteistä asuinaluetta on Saamenmaa (Sápmi), joka käsittää Norjan, Ruotsin ja Suomen pohjoisosat sekä Kuolan niemimaan Venäjällä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámi álbmot</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>3.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisten perinteistä asuinaluetta on Saamenmaa (Sápmi), joka käsittää Norjan, Ruotsin ja Suomen pohjoisosat sekä Kuolan niemimaan Venäjällä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi álbmoga árbevirolaš ássanguovlu lea Sápmi, masa gullet Norgga, Ruoŧa ja Suoma davviguovllut ja maid Guoládatnjárga Ruoššas.</seg>
+        <seg>3. Sámi álbmoga árbevirolaš ássanguovlu lea Sápmi, masa gullet Norgga, Ruoŧa ja Suoma davviguovllut ja maid Guoládatnjárga Ruoššas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,7 +446,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiskielet ja - kulttuurit ovat peräisin nykyisiä valtioita huomattavasti vanhemmalta ajalta, ja Pohjoismaiden ja Venäjän saamelaisalueilla on nykyisin yhdeksän eri kieliryhmää.</seg>
+        <seg>Saamelaiskielet ja -kulttuurit ovat peräisin nykyisiä valtioita huomattavasti vanhemmalta ajalta, ja Pohjoismaiden ja Venäjän saamelaisalueilla on nykyisin yhdeksän eri kieliryhmää.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sápmelaččain leat riikkaid boarraseamos gielat ja kultuvrrat, mat leat oalle olu boarrasut áiggis, go dálá stáhtat, ja Davviriikkaid ja Ruošša sámeguovlluin leat ovcci sierra giellajoavkku.</seg>
@@ -438,18 +454,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>4.</seg>
+        <seg>4. Saamelaisia on arviolta 70 000–100 000, josta noin 40 000–60 000 asuu Norjassa, noin 15 000–20 000 Ruotsissa, noin 9 000 Suomessa ja noin 2 000 Venäjällä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>4.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisia on arviolta 70 000–100 000, josta noin 40 000–60 000 asuu Norjassa, noin 15 000–20 000 Ruotsissa, noin 9 000 Suomessa ja noin 2 000 Venäjällä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sápmelaččat leat sullii 70 000–100 000, geain sullii 40 000–60 000 ásset Norggas, sullii 15 000–20 000 Ruoŧas, sullii 9000 Suomas ja sullii 2 000 Ruoššas.</seg>
+        <seg>4. Sápmelaččat leat sullii 70 000–100 000, geain sullii 40 000–60 000 ásset Norggas, sullii 15 000–20 000 Ruoŧas, sullii 9000 Suomas ja sullii 2 000 Ruoššas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,18 +470,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>5.</seg>
+        <seg>5. Saamelaisten perinteisiä elinkeinoja ovat metsästys, kalastus, keräily ja ansapyynti, ja pohjoisten alueiden syvällinen tuntemus on siirtynyt saamelaisilla sukupolvelta toiselle.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>5.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisten perinteisiä elinkeinoja ovat metsästys, kalastus, keräily ja ansapyynti, ja pohjoisten alueiden syvällinen tuntemus on siirtynyt saamelaisilla sukupolvelta toiselle.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sápmelaččaid árbevirolaš ealáhusat leat meahcce- ja guollebivdu, čoaggin ja gárdun, ja davviguovlluid vuđolaš dovdan lea sirdásan buolvvas bulvii.</seg>
+        <seg>5. Sápmelaččaid árbevirolaš ealáhusat leat meahcce- ja guollebivdu, čoaggin ja gárdun, ja davviguovlluid vuđolaš dovdan lea sirdásan buolvvas bulvii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,7 +486,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Toiset ryhmät ovat harjoittaneet poronhoitoa metsäalueilla, erityisesti tietyillä Västerbottenin (Länsipohjan) ja Norrbottenin (Pohjoispohjan) läänien alueilla Ruotsissa sekä Pohjois- ja Keski-Suomessa.</seg>
+        <seg>Monet saamelaisyhteisöt ovat aikojen saatossa harjoittaneet puolittain paimentolaista elämää eli ajaneet poroja ylängöiltä rannikkoalueille ja takaisin vuodenaikojen mukaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Máŋggat sámeservošat leat doalahan historjjálaččat beallenomádalaš boazodoalu dahjege bargan bohccuiguin áiggiid mielde nu, ahte sii leat johtán bohccuiguin duoddariid ja mearragátti gaskka jagiáigodagaid mielde.</seg>
@@ -494,18 +494,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Meri- tai</seg>
+        <seg>Toiset ryhmät ovat harjoittaneet poronhoitoa metsäalueilla, erityisesti tietyillä Västerbottenin (Länsipohjan) ja Norrbottenin (Pohjoispohjan) läänien alueilla Ruotsissa sekä Pohjois- ja Keski-Suomessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Muhtun joavkkut barge</seg>
+        <seg>Muhtun joavkkut barge 4 bohccuiguin vuovdeguovlluin, earenoamážit dihto osiin Västerbottena ja Norrbottena leanain Ruoŧas ja maid Davvi- ja Gaska-Suomas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>4 rannikkosaamelaisiksi kutsutut saamelaisyhteisöt asettuivat puolestaan nykyisin Norjalle kuuluville rannikkoalueille.</seg>
+        <seg>Meri- tai 4 rannikkosaamelaisiksi kutsutut saamelaisyhteisöt asettuivat puolestaan nykyisin Norjalle kuuluville rannikkoalueille.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>4 bohccuiguin vuovdeguovlluin, earenoamážit dihto osiin Västerbottena ja Norrbottena leanain Ruoŧas ja maid Davvi- ja Gaska-Suomas.</seg>
+        <seg>Mearra- dahje riddosápmelažžan gohčoduvvon sámeservošat ásaiduvve bealistis dálá Norgga riddoguovlluide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,18 +518,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>6.</seg>
+        <seg>6. Saamelaisyhteisö oli aiemmin järjestäytynyt siidan ympärille.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>6.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisyhteisö oli aiemmin järjestäytynyt siidan ympärille.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Árbevirolaš Sámi servodat lei ovdalis áiggiid huksejuvvon siidda birra.</seg>
+        <seg>6. Árbevirolaš Sámi servodat lei ovdalis áiggiid huksejuvvon siidda birra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,18 +558,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>7.</seg>
+        <seg>7. Saamenmaata nykyisin jakavat valtioiden rajat on vedetty yli 100 vuoden aikana osapuilleen 1700-luvun puolivälistä 1800-luvun puoliväliin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>7.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamenmaata nykyisin jakavat valtioiden rajat on vedetty yli 100 vuoden aikana osapuilleen 1700-luvun puolivälistä 1800-luvun puoliväliin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dálá áigge Sámi juohkki stáhtaráját lea gessojuvvon badjel 100 jagi áigge sullii 1700 logu beallemuttus gitta 1800-logu beallemuddui.</seg>
+        <seg>7. Dálá áigge Sámi juohkki stáhtaráját lea gessojuvvon badjel 100 jagi áigge sullii 1700logu beallemuttus gitta 1800-logu beallemuddui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,18 +590,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>8.</seg>
+        <seg>8. Pohjoismaiden saamelaisväestö on tänä päivänä säästynyt monilta sosioekonomisilta ongelmilta, jotka yleisesti koettelevat eri puolilla maailmaa eläviä alkuperäiskansoja, esimerkkeinä vakavat terveysongelmat, äärimmäinen köyhyys tai nälänhätä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>8.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pohjoismaiden saamelaisväestö on tänä päivänä säästynyt monilta sosioekonomisilta ongelmilta, jotka yleisesti koettelevat eri puolilla maailmaa eläviä alkuperäiskansoja, esimerkkeinä vakavat terveysongelmat, äärimmäinen köyhyys tai nälänhätä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dálá áigge Sámi álbmot Davviriikkain lea seastašuvvan máŋggain sosioekonomalaš váttisvuođain, mat dábálaččat čuhcet máilmmi sierra guovlluin ássi álgoálbmogiidda, ovdamearkka dihte lossa dearvvasvuođaváttisvuođain, vearrámus geafivuođas dahje nealggiheađis.</seg>
+        <seg>8. Dálá áigge Sámi álbmot Davviriikkain lea seastašuvvan máŋggain sosioekonomalaš váttisvuođain, mat dábálaččat čuhcet máilmmi sierra guovlluin ássi álgoálbmogiidda, ovdamearkka dihte lossa dearvvasvuođaváttisvuođain, vearrámus geafivuođas dahje nealggiheađis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,18 +614,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>III.</seg>
+        <seg>III. Yleiset lainsäädännölliset ja poliittiset rakenteet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>III..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Yleiset lainsäädännölliset ja poliittiset rakenteet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oppalaš lágalaš ja politihkalaš rámat</seg>
+        <seg>III. Oppalaš lágalaš ja politihkalaš rámat</seg>
       </tuv>
     </tu>
     <tu>
@@ -657,31 +625,23 @@
         <seg>A. Yleissaamelaiset instituutiot ja hankkeet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>A. Oktasaš sámeinstitušuvnnat ja - fitnut</seg>
+        <seg>A. Oktasaš sámeinstitušuvnnat ja -fitnut</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>9.</seg>
+        <seg>9. Ensimmäinen yhteissaamelainen instituutio, Saamelaisneuvosto, perustettiin vuonna 1956 eri maissa toimivien kansallisten saamelaisorganisaatioiden yhteistyöelimeksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>9.</seg>
+        <seg>9. Vuosttas sámiid oktasaš institušuvdna, Sámiráđđi, vuođđuduvvui jagi 1956 sierra riikkaid nášuvnnalaš sámeservviid ovttasbargoorgánan.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ensimmäinen yhteissaamelainen instituutio, Saamelaisneuvosto, perustettiin vuonna 1956 eri maissa toimivien kansallisten saamelaisorganisaatioiden yhteistyöelimeksi.</seg>
+        <seg>Ennen saamelaisvaltuuskunnan ja -käräjien perustamista Saamelaisneuvosto oli Pohjoismaissa asuvien saamelaisten pääasiallinen yhteinen edustuselin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vuosttas sámiid oktasaš institušuvdna, Sámiráđđi, vuođđuduvvui jagi 1956 sierra riikkaid nášuvnnalaš sámeservviid ovttasbargoorgánan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ennen saamelaisvaltuuskunnan ja - käräjien perustamista Saamelaisneuvosto oli Pohjoismaissa asuvien saamelaisten pääasiallinen yhteinen edustuselin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ovdal Sámi parlameantta ja – dikkiid vuođđudeami Sámiráđđi lei Davviriikkain ássi sápmelaččaid rájáidrasttildeaddji guovddáš oktasaš ovddastanorgána.</seg>
+        <seg>Ovdal Sámi parlameantta ja –dikkiid vuođđudeami Sámiráđđi lei Davviriikkain ássi sápmelaččaid rájáidrasttildeaddji guovddáš oktasaš ovddastanorgána.</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,18 +654,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>10.</seg>
+        <seg>10. Vuonna 2000 perustettu saamelainen parlamentaarinen neuvosto (SPN) koostuu Norjan, Ruotsin ja Suomen saamelaiskäräjistä, joita käsitellään seuraavissa osissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>10.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vuonna 2000 perustettu saamelainen parlamentaarinen neuvosto (SPN) koostuu Norjan, Ruotsin ja Suomen saamelaiskäräjistä, joita käsitellään seuraavissa osissa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jagi 2000 vuođđuduvvon Sámi parlamentáralaš ráđđi (SPR) čohkiida Norgga, Ruoŧa ja Suoma beale sámedikkiin, maid birra lea eambbo sáhka čuovvovaš osiin.</seg>
+        <seg>10. Jagi 2000 vuođđuduvvon Sámi parlamentáralaš ráđđi (SPR) čohkiida Norgga, Ruoŧa ja Suoma beale sámedikkiin, maid birra lea eambbo sáhka čuovvovaš osiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,18 +702,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>11.</seg>
+        <seg>11. Saamelaisväestön merkittävin viimeaikainen rajat ylittävä hanke on saamelaissopimuksen valmisteleminen yhteistyössä Norjan, Ruotsin ja Suomen valtioiden kanssa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>11.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisväestön merkittävin viimeaikainen rajat ylittävä hanke on saamelaissopimuksen valmisteleminen yhteistyössä Norjan, Ruotsin ja Suomen valtioiden kanssa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámi álbmoga deháleamos riikkarájáid rasttildeaddji fidnu gieskat lea sámekonvenšuvnna gárven ovttasráđiid Norgga, Ruoŧa ja Suoma stáhtaid ráđđehusaiguin.</seg>
+        <seg>11. Sámi álbmoga deháleamos riikkarájáid rasttildeaddji fidnu gieskat lea sámekonvenšuvnna gárven ovttasráđiid Norgga, Ruoŧa ja Suoma stáhtaid ráđđehusaiguin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,18 +734,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>12.</seg>
+        <seg>12. Vuonna 2005 asiantuntijaryhmä sai valmiiksi sopimusluonnoksen, joka esiteltiin saamelaiskäräjille sekä Norjan, Ruotsin ja Suomen hallituksille vielä samana vuonna.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>12.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vuonna 2005 asiantuntijaryhmä sai valmiiksi sopimusluonnoksen, joka esiteltiin saamelaiskäräjille sekä Norjan, Ruotsin ja Suomen hallituksille vielä samana vuonna.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jagi 2005 áššedovdijoavku oaččui konvenšuvdnahápmosa ovttamielalaččat gárvvisin, mii dasto ovdanbuktojuvvui sámedikkiide ja Norgga, Ruoŧa ja Suoma ráđđehusaide velá seamma jagi.</seg>
+        <seg>12. Jagi 2005 áššedovdijoavku oaččui konvenšuvdnahápmosa ovttamielalaččat gárvvisin, mii dasto ovdanbuktojuvvui sámedikkiide ja Norgga, Ruoŧa ja Suoma ráđđehusaide velá seamma jagi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,50 +758,34 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>13.</seg>
+        <seg>13. Erityisraportoija kiittää saamelaisia sekä Norjan, Ruotsin ja Suomen valtioita näiden tähänastisesta merkittävästä työstä tämän tärkeän välineen kehittämiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>13.</seg>
+        <seg>13. Spesiálaraporterejeaddji giitá sápmelaččaid ja maid Norgga, Ruoŧa ja Suoma ráđđehusaid dássáš mearkkašahtti barggus dán dehálaš gaskaoami ovddideamis.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Erityisraportoija kiittää saamelaisia sekä Norjan, Ruotsin ja Suomen valtioita näiden tähänastisesta merkittävästä työstä tämän tärkeän välineen kehittämiseksi.</seg>
+        <seg>Erityisraportoija odottaa innokkaasti pääsevänsä valvomaan saamelaissopimuksen käyttöönottoon tähtääviä neuvotteluja, joiden on tarkoitus alkaa vuonna 2011 ja jotka on määrä saattaa päätökseen viiden vuoden kuluessa, kuten tämän raportin osassa IV(A)(1) on lähemmin selostettu.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji giitá sápmelaččaid ja maid Norgga, Ruoŧa ja Suoma ráđđehusaid dássáš mearkkašahtti barggus dán dehálaš gaskaoami ovddideamis.</seg>
+        <seg>Spesiálaraporterejeaddji vuordá beassat bearráigeahččat sámekonvenšuvnna ráđđádallamiid konvenšuvnna atnuiváldimis, ja mat álggahuvvojit jagi 2011 ja maid ulbmilin leat soabadit viđa jagi siste, nugo dán raportta oasis IV(A)(1) lea dárkileappot čilgejuvvon.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Erityisraportoija odottaa innokkaasti pääsevänsä valvomaan saamelaissopimuksen käyttöönottoon tähtääviä neuvotteluja, joiden on tarkoitus alkaa vuonna 2011 ja jotka on määrä saattaa päätökseen viiden vuoden kuluessa, kuten tämän raportin osassa IV.</seg>
+        <seg>B. Norja</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji vuordá beassat bearráigeahččat sámekonvenšuvnna ráđđádallamiid konvenšuvnna atnuiváldimis, ja mat álggahuvvojit jagi 2011 ja maid ulbmilin leat soabadit viđa jagi siste, nugo dán raportta oasis IV.</seg>
+        <seg>B. Norga</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>(A)(1) on lähemmin selostettu.</seg>
+        <seg>14. Norjan saamelaispolitiikka perustuu pääasiassa perustuslain artiklaan 110a sekä saamelaiskäräjiä (Sámediggi) ja muita saamelaisten lakiasioita koskevan lain (saamelaislaki) säädöksiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(A)(1) lea dárkileappot čilgejuvvon.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>14.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>14.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Norjan saamelaispolitiikka perustuu pääasiassa perustuslain artiklaan 110 a sekä saamelaiskäräjiä (Sámediggi) ja muita saamelaisten lakiasioita koskevan lain (saamelaislaki) säädöksiin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Norgga sámepolitihkka váldovuođđun leat vuođđolága 110 a paragráfa ja lága ” Sámedikki ja eará sámi vuoigatvuođaid birra ” (sámeláhka) njuolggadusat.</seg>
+        <seg>14. Norgga sámepolitihkka váldovuođđun leat vuođđolága 110a paragráfa ja lága ”Sámedikki ja eará sámi vuoigatvuođaid birra” (sámeláhka) njuolggadusat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,10 +798,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Muutoksen mukaan ” valtion viranomaisten vastuulla on luoda olosuhteet, joissa saamelaisväestö voi ylläpitää ja kehittää kieltään, kulttuuriaan ja elämäntapaansa ”.</seg>
+        <seg>Muutoksen mukaan ”valtion viranomaisten vastuulla on luoda olosuhteet, joissa saamelaisväestö voi ylläpitää ja kehittää kieltään, kulttuuriaan ja elämäntapaansa”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Nuppástusas daddjo, ahte ” lea stáhta eiseválddiid geatnegasvuohta láhčit diliid nu ahte sámi álbmotjoavku sáhttá seailluhit ja ovddidit iežas giela, kultuvrra ja servodateallima ”.</seg>
+        <seg>Nuppástusas daddjo, ahte ” lea stáhta eiseválddiid geatnegasvuohta láhčit diliid nu ahte sámi álbmotjoavku sáhttá seailluhit ja ovddidit iežas giela, kultuvrra ja servodateallima”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,18 +814,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>15.</seg>
+        <seg>15. Saamelaislaki on Norjan saamelaisasioita koskeva ensimmäinen nykyaikainen säädöskokoelma, joka laadittiin turvaamaan Norjan saamelaisille mahdollisuus suojella ja kehittää kieltään, kulttuuriaan ja elämäntapaansa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>15.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaislaki on Norjan saamelaisasioita koskeva ensimmäinen nykyaikainen säädöskokoelma, joka laadittiin turvaamaan Norjan saamelaisille mahdollisuus suojella ja kehittää kieltään, kulttuuriaan ja elämäntapaansa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámeláhka lea Norgga sámeáššiin vuosttas dáláš láhka, mii ásahuvvui dorvvastit Norgga sápmelaččaide vejolašvuođa suodjalit ja gárggiidit gielaideaset, kultuvrraideaset ja eallinvuogiset.</seg>
+        <seg>15. Sámeláhka lea Norgga sámeáššiin vuosttas dáláš láhka, mii ásahuvvui dorvvastit Norgga sápmelaččaide vejolašvuođa suodjalit ja gárggiidit gielaideaset, kultuvrraideaset ja eallinvuogiset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,26 +830,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>6 asioissa. Saamelaiskäräjillä on 39 edustajaa, jotka valitaan seitsemästä saamelaisesta vaalipiiristä.</seg>
+        <seg>Saamelaiskäräjillä on 39 edustajaa, jotka valitaan seitsemästä saamelaisesta vaalipiiristä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámedikkis leat 39 áirasa, geat válljejuvvojit čieža sierra válgabiires.</seg>
+        <seg>Sámedikkis leat 39 áirasa, geat válljejuvvojit čieža sierra válgabiires. 110(a) paragráfa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>16.</seg>
+        <seg>16. Vuonna 2005 Norjan saamelaiskäräjät ja valtio pääsivät sopimukseen kuulemismenettelyistä, joita sopimuksen mukaan ”järjestetään asioissa, jotka voivat suoraan vaikuttaa saamelaisten etuihin” ja jotka edellyttävät, että Norjan valtion viranomaiset ”antavat täydelliset tiedot olennaisista seikoista, jotka saattavat suoraan vaikuttaa saamelaisiin, sekä tällaisten asioiden käsittelyn eri vaiheissa huomioon otettavista seikoista”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>6 16.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vuonna 2005 Norjan saamelaiskäräjät ja valtio pääsivät sopimukseen kuulemismenettelyistä, joita sopimuksen mukaan ” järjestetään asioissa, jotka voivat suoraan vaikuttaa saamelaisten etuihin ” ja jotka edellyttävät, että Norjan valtion viranomaiset ” antavat täydelliset tiedot olennaisista seikoista, jotka saattavat suoraan vaikuttaa saamelaisiin, sekä tällaisten asioiden käsittelyn eri vaiheissa huomioon otettavista seikoista ”.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jagi 2005 Norgga beale sámediggi ja stáhta šiehtadalle ráđđádallamiid meannudanvugiin (konsultašuvnnaid prosedyrain), mat soahpamuša mielde ” lágiduvvojit áššiin, mat njuolga sáhttet váikkuhit sápmelaččaid beroštumiide ” ja mat gáibidit, ahte Norgga stáhta eiseválddit ” addet ollislaš dieđuid áigeguovdilis áššiin, mat soitet váikkuhit sápmelaččaide njuolga, ja maiddái relevánta áššiid birra áššemeannudeami buot dásiin ”.</seg>
+        <seg>6 16. Jagi 2005 Norgga beale sámediggi ja stáhta šiehtadalle ráđđádallamiid meannudanvugiin (konsultašuvnnaid prosedyrain), mat soahpamuša mielde ”lágiduvvojit áššiin, mat njuolga sáhttet váikkuhit sápmelaččaid beroštumiide” ja mat gáibidit, ahte Norgga stáhta eiseválddit ”addet ollislaš dieđuid áigeguovdilis áššiin, mat soitet váikkuhit sápmelaččaide njuolga, ja maiddái relevánta áššiid birra áššemeannudeami buot dásiin”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,18 +854,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>17.</seg>
+        <seg>17. Erityisraportoijan mielestä sopimus on hyvä esimerkki toimivasta tavasta toteuttaa valtioiden alkuperäiskansojen kuulemista koskeva velvoite.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>17.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoijan mielestä sopimus on hyvä esimerkki toimivasta tavasta toteuttaa valtioiden alkuperäiskansojen kuulemista koskeva velvoite.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji mielas soahpamuš lea buorre ovdamearka doaibmi vuogis ollašuhttit stáhtaid álgoálbmogiiguin ráđđádallangeatnegasvuođa.</seg>
+        <seg>17. Spesiálaraporterejeaddji mielas soahpamuš lea buorre ovdamearka doaibmi vuogis ollašuhttit stáhtaid álgoálbmogiiguin ráđđádallangeatnegasvuođa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,34 +870,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Joitakin erityisesti tähän menettelyyn ja yleisesti kuulemiseen liittyviä seikkoja on käsitelty jäljempänä kohdassa IV.</seg>
+        <seg>Joitakin erityisesti tähän menettelyyn ja yleisesti kuulemiseen liittyviä seikkoja on käsitelty jäljempänä kohdassa IV(A)(2).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Muhtun earenoamážit dán meannudanvugiide guoski ja almmolaččat ráđđádallamiidda guoski áššit leat gieđahallon maŋŋelis čuoggás IV.</seg>
+        <seg>Muhtun earenoamážit dán meannudanvugiide guoski ja almmolaččat ráđđádallamiidda guoski áššit leat gieđahallon maŋŋelis čuoggás IV(A)(2).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>(A)(2).</seg>
+        <seg>18. Vielä viime aikoihin asti Norjan maa-alueiden ja luonnonvarojen hallinnasta vastasi maan keskushallinto yhteistyössä kuntien kanssa, eikä Norjan laki tunnustanut saamelaisille kuuluvia erityisoikeuksia, ei myöskään kollektiivisia oikeuksia, maa-alueisiin ja luonnonvaroihin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(A)(2).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>18.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>18.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vielä viime aikoihin asti Norjan maa-alueiden ja luonnonvarojen hallinnasta vastasi maan keskushallinto yhteistyössä kuntien kanssa, eikä Norjan laki tunnustanut saamelaisille kuuluvia erityisoikeuksia, ei myöskään kollektiivisia oikeuksia, maa-alueisiin ja luonnonvaroihin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vel gieskat Norgga eatnamiid ja luondduvalljodagaid hálddašeamis vástidii stáhta guovddášhálddahus ovttasráđiid gielddaiguin, eaige Norgga lágat dovddastan sápmelaččaid sierravuoigatvuođaid eatnamiidda ja luondduvalljodagaide, maidda gullet maiddái kollektiivvalaš vuoigatvuođat.</seg>
+        <seg>18. Vel gieskat Norgga eatnamiid ja luondduvalljodagaid hálddašeamis vástidii stáhta guovddášhálddahus ovttasráđiid gielddaiguin, eaige Norgga lágat dovddastan sápmelaččaid sierravuoigatvuođaid eatnamiidda ja luondduvalljodagaide, maidda gullet maiddái kollektiivvalaš vuoigatvuođat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,7 +889,7 @@
         <seg>Norjassa säädettiin vuonna 2005 Finnmark-laki vastauksena saamelaisten monta vuotta kestäneeseen taisteluun ja osittain myös vastauksena Alta-Kautokeino-vesireitin kehittämiseen liittyvään kiistaan 1970-luvulla.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Norggas addojuvvui jagi 2005 Finnmárkkuláhka vástádussan sápmelaččaid máŋggaid jagiid bistán dáistaleapmái ja muhtumassii maiddái vástádussan riidui, mii laktásii Álaheaju-Guovdageainnu - eanu gárggiideapmái 1970-logus.</seg>
+        <seg>Norggas addojuvvui jagi 2005 Finnmárkkuláhka vástádussan sápmelaččaid máŋggaid jagiid bistán dáistaleapmái ja muhtumassii maiddái vástádussan riidui, mii laktásii Álaheaju-Guovdageainnu -eanu gárggiideapmái 1970-logus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,42 +902,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Finnmark-laki on silti joiltakin osin edelleen kiistanalainen saamelaisten keskuudessa, kuten jäljempänä kohdassa IV.</seg>
+        <seg>Finnmark-laki on silti joiltakin osin edelleen kiistanalainen saamelaisten keskuudessa, kuten jäljempänä kohdassa IV(A)(3) todetaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Goittotge Finnmárkkuláhka lea ain muhtun osiin riidduvuloš sápmelaččaid gaskavuođas, nugo maŋŋelis čuoggás IV.</seg>
+        <seg>Goittotge Finnmárkkuláhka lea ain muhtun osiin riidduvuloš sápmelaččaid gaskavuođas, nugo maŋŋelis čuoggás IV(A)(3) gávnnahuvvo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>(A)(3) todetaan.</seg>
+        <seg>19. Vuoden 1978 poronhoitolakia uudistettiin vuonna 2007. Uuden lain mukaan saamelaisilla on yksinoikeus poronhoitoon laidunalueilla, mutta oikeuden käyttämisen edellytyksenä on, että porot omistava yksityishenkilö on sidoksissa poronomistajaperheeseen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(A)(3) gávnnahuvvo.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>19.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>19.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vuoden 1978 poronhoitolakia uudistettiin vuonna 2007.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jagi 1978 boazodoalloláhka ođasmahttojuvvui jagi 2007.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Uuden lain mukaan saamelaisilla on yksinoikeus poronhoitoon laidunalueilla, mutta oikeuden käyttämisen edellytyksenä on, että porot omistava yksityishenkilö on sidoksissa poronomistajaperheeseen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ođasmahtton lágas celkojuvvo, ahte sápmelaččain lea oktovuoigatvuohta boazodollui guohtoneatnamiin, muhto vuoigatvuođa geavaheami eaktun lea, ahte bohccuid priváhta sápmelaš eaiggádis lea čatnasupmi boazoeaiggátbearrašii.</seg>
+        <seg>19. Jagi 1978 boazodoalloláhka ođasmahttojuvvui jagi 2007. Ođasmahtton lágas celkojuvvo, ahte sápmelaččain lea oktovuoigatvuohta boazodollui guohtoneatnamiin, muhto vuoigatvuođa geavaheami eaktun lea, ahte bohccuid priváhta sápmelaš eaiggádis lea čatnasupmi boazoeaiggátbearrašii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,7 +950,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Norjan valtion edustajien ja saamelaiskäräjien väliset kuulemismenettelyt, allekirjoitettu 11.5.2005, kohta 2,</seg>
+        <seg>Norjan valtion edustajien ja saamelaiskäräjien väliset kuulemismenettelyt, allekirjoitettu 11.5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Norgga stáhta ovddasteaddjiid ja Sámedikki gaskasaš ráđđádallamiid meannudanvuogit, vuolláičállojuvvon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2005, kohta 2, saatavilla Internetissä osoitteessa http://www.regjeringen.no/en/dep/fad/Selected-topics/Samipolicy/midtspalte/PROCEDURES-FOR-CONSULTATIONS-BETWEEN-STA.html?id=450743.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>11.5.2005, čuokkis 2, viežžamis Interneahtas čujuhusas http://www.regjeringen.no/en/dep/fad/Selectedtopics/Sami-policy/midtspalte/PROCEDURES-FOR-CONSULTATIONS-BETWEEN-STA.html?id=450743.</seg>
@@ -1102,18 +966,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ibid.</seg>
+        <seg>Ibid., 3 § Tiettyjen saamelaisyhteisöjen oikeutta tulla kuuluksi niitä suoraan koskevissa asioissa ei ole kuitenkaan</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ibid..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>, 3 § Tiettyjen saamelaisyhteisöjen oikeutta tulla kuuluksi niitä suoraan koskevissa asioissa ei ole kuitenkaan</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>, 3 § Dihto sámeservošiid vuoigatvuohta ráđđádallamiidda ii goittotge gula soahpamuššii dakkár áššiin, mat sáhttet</seg>
+        <seg>Ibid., 3 § Dihto sámeservošiid vuoigatvuohta ráđđádallamiidda ii goittotge gula soahpamuššii dakkár áššiin, mat sáhttet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,7 +982,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Laki 17.6.2005 nro 85 Finnmarkin läänin maa-alueiden ja luonnonvarojen juridisista suhteista ja hallinnasta</seg>
+        <seg>Laki 17.6. 2005 nro 85 Finnmarkin läänin maa-alueiden ja luonnonvarojen juridisista suhteista ja hallinnasta</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Láhka geassemánu 17. beaivve 2005 nr 85 riektediliid ja eatnamiid ja luondduvalljodagaid hálddaheami birra</seg>
@@ -1134,26 +990,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>7 20.</seg>
+        <seg>(Finnmark-laki).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>20.</seg>
+        <seg>Finnmárkku fylkkas (Finnmárkkuláhka).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Norja oli ensimmäinen maa, joka ratifioi ILO:n sopimuksen nro 169 ja äänesti alkuperäiskansojen oikeuksia koskevan julistuksen hyväksymisen puolesta vuonna 2007.</seg>
+        <seg>7 20. Norja oli ensimmäinen maa, joka ratifioi ILO:n sopimuksen nro 169 ja äänesti alkuperäiskansojen oikeuksia koskevan julistuksen hyväksymisen puolesta vuonna 2007. Sen lisäksi Norja on sisällyttänyt kansalaisoikeuksia ja poliittisia oikeuksia koskevan kansainvälisen yleissopimuksen sekä taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen omaan lainsäädäntöönsä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Norga lei vuosttas riika, mii ratifierii ILO konvenšuvnna nr 169 ja jienastii álgoálbmogiid vuoigatvuođaid julggaštusa bealis jagi 2007.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sen lisäksi Norja on sisällyttänyt kansalaisoikeuksia ja poliittisia oikeuksia koskevan kansainvälisen yleissopimuksen sekä taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen omaan lainsäädäntöönsä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dasa lassin Norga lea čáhkadan nášuvnnalaš láhkan riikkaidgaskasaš konvenšuvnna siviila- ja politihkalaš vuoigatvuođain ja riikkaidgaskasaš konvenšuvnna ekonomalaš, sosiálalaš ja kultuvrralaš vuoigatvuođain.</seg>
+        <seg>7 20. Norga lei vuosttas riika, mii ratifierii ILO konvenšuvnna nr 169 ja jienastii álgoálbmogiid vuoigatvuođaid julggaštusa bealis jagi 2007. Dasa lassin Norga lea čáhkadan nášuvnnalaš láhkan riikkaidgaskasaš konvenšuvnna siviila- ja politihkalaš vuoigatvuođain ja riikkaidgaskasaš konvenšuvnna ekonomalaš, sosiálalaš ja kultuvrralaš vuoigatvuođain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,18 +1030,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>21.</seg>
+        <seg>21. Ruotsin perustuslakia on muutettu äskettäin siten, että saamelaiset on 1.1. 2011 lähtien eksplisiittisesti tunnustettu omaksi kansakseen erotukseksi Ruotsin muista vähemmistöryhmistä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>21.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsin perustuslakia on muutettu äskettäin siten, että saamelaiset on 1.1.2011 lähtien eksplisiittisesti tunnustettu omaksi kansakseen erotukseksi Ruotsin muista vähemmistöryhmistä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruoŧa vuođđoláhka lea gieskat nuppástuhtton nu, ahte sápmelaččat leat 1.1.2011 rájes eksplisihtalaččat dovddastuvvon iežas álbmogin erohussan Ruoŧa eará veahádatjoavkkuin.</seg>
+        <seg>21. Ruoŧa vuođđoláhka lea gieskat nuppástuhtton nu, ahte sápmelaččat leat 1.1.2011 rájes eksplisihtalaččat dovddastuvvon iežas álbmogin erohussan Ruoŧa eará veahádatjoavkkuin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,18 +1046,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>22.</seg>
+        <seg>22. Ruotsin hallitus on viime vuosina valmistellut lakiesitystä, jossa puututtaisiin saamelaisväestöä koskeviin kysymyksiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>22.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsin hallitus on viime vuosina valmistellut lakiesitystä, jossa puututtaisiin saamelaisväestöä koskeviin kysymyksiin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maŋimuš jagiid Ruoŧa ráđđehus lea figgan gárvet láhkaevttohusa Sámi álbmogii guoski gažaldagain.</seg>
+        <seg>22. Maŋimuš jagiid Ruoŧa ráđđehus lea figgan gárvet láhkaevttohusa Sámi álbmogii guoski gažaldagain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,18 +1078,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>23.</seg>
+        <seg>23. Saamelaiskäräjiä koskeva laki vuodelta 1993 määritteli Ruotsin saamelaiskäräjien pääasialliseksi tehtäväksi ”saamelaiskulttuuria koskevien asioiden valvonnan Ruotsissa”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>23.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjiä koskeva laki vuodelta 1993 määritteli Ruotsin saamelaiskäräjien pääasialliseksi tehtäväksi ” saamelaiskulttuuria koskevien asioiden valvonnan Ruotsissa ”.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Láhka sámedikkis jagis 1993 meroštalai Ruoŧa beale sámedikki váldodoaibman ” bearráigeahččat áššiid, mat gusket sámi kultuvrii Ruoŧas ”.</seg>
+        <seg>23. Láhka sámedikkis jagis 1993 meroštalai Ruoŧa beale sámedikki váldodoaibman ”bearráigeahččat áššiid, mat gusket sámi kultuvrii Ruoŧas”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,18 +1094,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ruotsin saamelaiskäräjien perusluonteeseen ja siten saamelaisten itsemääräämisoikeuden edistämiseen liittyviä ongelmia käsitellään jäljempänä kohdassa (IV.)</seg>
+        <seg>Ruotsin saamelaiskäräjien perusluonteeseen ja siten saamelaisten itsemääräämisoikeuden edistämiseen liittyviä ongelmia käsitellään jäljempänä kohdassa (IV)(A)(2).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Váttisvuođat, mat laktásit Ruoŧa beale sámedikki vuođđoiešvuođaide ja daninassii Sámi iešmearridanvuoigatvuođa ovddideapmái, gieđahallojuvvojit maŋŋelis čuoggás (IV.)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>(A)(2).</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>(A)(2).</seg>
+        <seg>Váttisvuođat, mat laktásit Ruoŧa beale sámedikki vuođđoiešvuođaide ja daninassii Sámi iešmearridanvuoigatvuođa ovddideapmái, gieđahallojuvvojit maŋŋelis čuoggás (IV)(A)(2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,18 +1110,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>24.</seg>
+        <seg>24. Ruotsin saamelaiskäräjien tehtäviä ovat valtionavustusten jakaminen saamelaisjärjestöjen ja saamelaisten kulttuuriohjelmien tarpeisiin sekä muihin tarpeisiin, saamelaiskoulujen hallituksen valinta, saamen kielen aseman edistäminen, yhdyskuntasuunnitteluun – mukaan lukien poronhoito sekä maa-alueiden ja vesistöjen käyttö – osallistuminen sekä saamelaisten oloista tiedottaminen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>24.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsin saamelaiskäräjien tehtäviä ovat valtionavustusten jakaminen saamelaisjärjestöjen ja saamelaisten kulttuuriohjelmien tarpeisiin sekä muihin tarpeisiin, saamelaiskoulujen hallituksen valinta, saamen kielen aseman edistäminen, yhdyskuntasuunnitteluun – mukaan lukien poronhoito sekä maa-alueiden ja vesistöjen käyttö – osallistuminen sekä saamelaisten oloista tiedottaminen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruoŧa beale sámedikki doaibman leat stáhtadoarjagiid juolludeapmi sámeservviide ja sápmelaččaid kulturprográmmaide ja maid eará doaimmaide, sámeskuvllaid stivrra nammadeapmi, sámegiela sajádaga ovddideapmi, servodatplánemii - masa gullet boazodoallu ja maid eatnamiid ja čáziid geavaheapmi – oassálastin ja diehtojuohkin sápmelaččaid diliin.</seg>
+        <seg>24. Ruoŧa beale sámedikki doaibman leat stáhtadoarjagiid juolludeapmi sámeservviide ja sápmelaččaid kulturprográmmaide ja maid eará doaimmaide, sámeskuvllaid stivrra nammadeapmi, sámegiela sajádaga ovddideapmi, servodatplánemii - masa gullet boazodoallu ja maid eatnamiid ja čáziid geavaheapmi – oassálastin ja diehtojuohkin sápmelaččaid diliin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,18 +1134,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ibid.</seg>
+        <seg>Ibid., 3 §.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ibid..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>, 3 §.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>, 3 §.</seg>
+        <seg>Ibid., 3 §.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,74 +1150,42 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ibid.</seg>
+        <seg>Ibid., 1 luvun 1 §.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ibid..</seg>
+        <seg>Ibid., 1 logu 1 §.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>, 1 luvun 1 §.</seg>
+        <seg>Ibid., 2 luvun 2 §.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>, 1 logu 1 §.</seg>
+        <seg>Ibid., 2 logu 2 §.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ibid.</seg>
+        <seg>Ibid., 2 luvun 1 §.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ibid..</seg>
+        <seg>Ibid., 2 logu 1 §.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>, 2 luvun 2 §.</seg>
+        <seg>8 liittyvistä vastuista siirrettiin Ruotsin maatalousministeriöstä saamelaiskäräjille.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>, 2 logu 2 §.</seg>
+        <seg>8 bissovaš fuolas ”dan ráddjejuvvon vuogis, man mielde sámediggi oažžu oassálastit mearridanproseassaide, mat gusket sápmelaččaid eatnamiidda ja árbevirolaš ealáhusaide”.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ibid.</seg>
+        <seg>25. Ruotsin poronhoitolakiin vuodelta 1971 on kirjattu saamelaisten oikeus käyttää maaalueita ja vesistöjä omaksi ja porokarjan hyväksi tietyillä laissa määritetyillä maantieteellisillä alueilla.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ibid..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>, 2 luvun 1 §.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>, 2 logu 1 §.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>8 liittyvistä vastuista siirrettiin Ruotsin maatalousministeriöstä saamelaiskäräjille. Tästä merkittävästä kehitysaskelesta huolimatta ihmisoikeuskomitea on ilmaissut jatkuvan huolensa siitä, ” miten rajoitetusti saamelaiskäräjät voi osallistua päätöksentekoprosessiin saamelaisten maa-alueita ja perinteistä elinkeinotoimintaa koskevissa kysymyksissä ”.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>8 bissovaš fuolas ” dan ráddjejuvvon vuogis, man mielde sámediggi oažžu oassálastit mearridanproseassaide, mat gusket sápmelaččaid eatnamiidda ja árbevirolaš ealáhusaide ”.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>25.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>25.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsin poronhoitolakiin vuodelta 1971 on kirjattu saamelaisten oikeus käyttää maaalueita ja vesistöjä omaksi ja porokarjan hyväksi tietyillä laissa määritetyillä maantieteellisillä alueilla.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruoŧa boazodoallolágas jagis 1971 lea celkojuvvon sápmelaččaid vuoigatvuohta geavahit eatnamiid ja čáziid alcceseaset ja sin bohccuide dihto lágas meroštallojuvvon geográfalaš guovlluin.</seg>
+        <seg>25. Ruoŧa boazodoallolágas jagis 1971 lea celkojuvvon sápmelaččaid vuoigatvuohta geavahit eatnamiid ja čáziid alcceseaset ja sin bohccuide dihto lágas meroštallojuvvon geográfalaš guovlluin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,26 +1214,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>26.</seg>
+        <seg>26. Ruotsi on pannut täytäntöön YK:n tärkeimmät ihmisoikeussopimukset ja äänestänyt alkuperäiskansojen oikeuksia koskevan julistuksen hyväksymisen puolesta vuonna 2007. Ruotsi on myös ratifioinut kansallisten vähemmistöjen suojelua koskevan Euroopan neuvoston puiteyleissopimuksen sekä alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>26.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsi on pannut täytäntöön YK:n tärkeimmät ihmisoikeussopimukset ja äänestänyt alkuperäiskansojen oikeuksia koskevan julistuksen hyväksymisen puolesta vuonna 2007.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruoŧŧa lea oassebeallin ON deháleamos olmmošvuoigatvuođaidkonvenšuvnnain ja jienastan álgoálbmogiid vuoigatvuođaide guoski julggaštusa dohkkeheami bealis jagi 2007.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsi on myös ratifioinut kansallisten vähemmistöjen suojelua koskevan Euroopan neuvoston puiteyleissopimuksen sekä alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruoŧŧa lea maiddái ratifieren Eurohpa ráđi rápmakonvenšuvnna nášuvnnalaš unnitloguid suodjaleami várás ja Eurohpa vuođđogirjji guovlo- dahje unnitloguid gielaid váras.</seg>
+        <seg>26. Ruoŧŧa lea oassebeallin ON deháleamos olmmošvuoigatvuođaidkonvenšuvnnain ja jienastan álgoálbmogiid vuoigatvuođaide guoski julggaštusa dohkkeheami bealis jagi 2007. Ruoŧŧa lea maiddái ratifieren Eurohpa ráđi rápmakonvenšuvnna nášuvnnalaš unnitloguid suodjaleami várás ja Eurohpa vuođđogirjji guovlo- dahje unnitloguid gielaid váras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,31 +1230,31 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>27.</seg>
+        <seg>D. Suomi</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>27.</seg>
+        <seg>D. Suopma</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Suomen perustuslaissa säädetään saamelaisten asemasta alkuperäiskansana sekä saamelaisten oikeudesta kulttuuri-itsehallintoon omalla kotiseutualueellaan sanamuodolla ” Saamelaisilla on saamelaisten kotiseutualueella kieltään ja kulttuuriaan koskeva itsehallinto ”.</seg>
+        <seg>27. Suomen perustuslaissa säädetään saamelaisten asemasta alkuperäiskansana sekä saamelaisten oikeudesta kulttuuri-itsehallintoon omalla kotiseutualueellaan sanamuodolla ”Saamelaisilla on saamelaisten kotiseutualueella kieltään ja kulttuuriaan koskeva itsehallinto”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Suoma vuođđolágas ásahuvvo sápmelaččaid sajádagas álgoálbmogin ja maid sápmelaččaid vuoigatvuođas kulturiešstivremii ruovttuguovllusteaset sátnehámiin ” Sápmelaččain lea sámiid ruovttuguovllus gillii ja kultuvrii guoski iešráđđen ”.</seg>
+        <seg>27. Suoma vuođđolágas ásahuvvo sápmelaččaid sajádagas álgoálbmogin ja maid sápmelaččaid vuoigatvuođas kulturiešstivremii ruovttuguovllusteaset sátnehámiin ”Sápmelaččain lea sámiid ruovttuguovllus gillii ja kultuvrii guoski iešráđđen”.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Laissa saamelaiskäräjistä vuodelta 1995 saamelaisten kotiseutualueella tarkoitetaan ” Enontekiön, Inarin ja Utsjoen kuntien alueita sekä Sodankylän kunnassa sijaitsevaa Lapin paliskunnan aluetta ”.</seg>
+        <seg>Laissa saamelaiskäräjistä vuodelta 1995 saamelaisten kotiseutualueella tarkoitetaan ”Enontekiön, Inarin ja Utsjoen kuntien alueita sekä Sodankylän kunnassa sijaitsevaa Lapin paliskunnan aluetta”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggelágas jagis 1995 meroštallojuvvo sámiid ruovttuguovlu: ” Eanodaga, Anára ja Ohcejoga gielddaid viidodagat ja maid Soađegili gieldda Sámi bálgosa viidodat ”.</seg>
+        <seg>Sámediggelágas jagis 1995 meroštallojuvvo sámiid ruovttuguovlu: ”Eanodaga, Anára ja Ohcejoga gielddaid viidodagat ja maid Soađegili gieldda Sámi bálgosa viidodat”.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lakiin saamelaiskäräjistä on kirjattu Suomen saamelaiskäräjät. Se korvasi vuosina 1972–1995 toimineen saamelaisvaltuuskunnan, joka oli ensimmäinen vaaleilla valittu saamelaiselin Pohjoismaissa.</seg>
+        <seg>Se korvasi vuosina 1972–1995 toimineen saamelaisvaltuuskunnan, joka oli ensimmäinen vaaleilla valittu saamelaiselin Pohjoismaissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámediggelágain lea vuođđuduvvon sámediggi, mii buhttii jagiid 1972–1995 doaibman Sámi parlameantta, mii lei vuosttas válggain válljejuvvon sámeorgána Davviriikkain.</seg>
@@ -1518,26 +1270,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>28.</seg>
+        <seg>28. Saamelaiskäräjiä koskevan lain mukaisesti ”turvataan saamelaisille alkuperäiskansana omaa kieltään ja kulttuuriaan koskeva kulttuuri-itsehallinto”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>28.</seg>
+        <seg>28. Sámediggelágas ”dorvvastuvvo sápmelaččaide álgoálbmogin iežaset gillii ja kultuvrii guoski iešráđđen”.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjiä koskevan lain mukaisesti ” turvataan saamelaisille alkuperäiskansana omaa kieltään ja kulttuuriaan koskeva kulttuuri-itsehallinto ”.</seg>
+        <seg>Lain mukaan saamelaiskäräjien tehtävänä on ”hoitaa saamelaisten omaa kieltä ja kulttuuria sekä heidän asemaansa alkuperäiskansana koskevat asiat”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámediggelágas ” dorvvastuvvo sápmelaččaide álgoálbmogin iežaset gillii ja kultuvrii guoski iešráđđen ”.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Lain mukaan saamelaiskäräjien tehtävänä on ” hoitaa saamelaisten omaa kieltä ja kulttuuria sekä heidän asemaansa alkuperäiskansana koskevat asiat ”.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Lágas celko, ahte sámedikki bargun lea ” dikšut sápmelaččaid iežaset gillii ja kultuvrii ja sin sajádahkii álgoálbmogin guoski áššiid ”.</seg>
+        <seg>Lágas celko, ahte sámedikki bargun lea ”dikšut sápmelaččaid iežaset gillii ja kultuvrii ja sin sajádahkii álgoálbmogin guoski áššiid”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,10 +1294,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lisäksi laissa vahvistetaan, että viranomaisten tulee neuvotella saamelaiskäräjien kanssa ” kaikista laajakantoisista ja merkittävistä toimenpiteistä, jotka voivat välittömästi ja erityisellä tavalla vaikuttaa saamelaisten asemaan alkuperäiskansana ”, mukaan lukien valtion maiden, suojelualueiden ja erämaa-alueiden hoitoa, käyttöä, vuokrausta ja luovutusta koskevat asiat.</seg>
+        <seg>Lisäksi laissa vahvistetaan, että viranomaisten tulee neuvotella saamelaiskäräjien kanssa ”kaikista laajakantoisista ja merkittävistä toimenpiteistä, jotka voivat välittömästi ja erityisellä tavalla vaikuttaa saamelaisten asemaan alkuperäiskansana”, mukaan lukien valtion maiden, suojelualueiden ja erämaa-alueiden hoitoa, käyttöä, vuokrausta ja luovutusta koskevat asiat.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dasa lassin lágas nannejuvvo, ahte eiseválddit galget ráđđádallat sámedikkiin ” buot viidát váikkuheaddji ja mearkkašahtti doaimmaid birra, mat sáhttet njuolga ja earenoamáš vugiin váikkuhit sápmelaččaid sajádahkii álgoálbmogin ”, dasa gullet maid ee. áššit, mat gusket stáhta eatnamiid, suodjalanguovlluid ja meahcceguovlluid dikšumii, geavaheapmái, láigoheapmái ja luohpadeapmái.</seg>
+        <seg>Dasa lassin lágas nannejuvvo, ahte eiseválddit galget ráđđádallat sámedikkiin ”buot viidát váikkuheaddji ja mearkkašahtti doaimmaid birra, mat sáhttet njuolga ja earenoamáš vugiin váikkuhit sápmelaččaid sajádahkii álgoálbmogin”, dasa gullet maid ee. áššit, mat gusket stáhta eatnamiid, suodjalanguovlluid ja meahcceguovlluid dikšumii, geavaheapmái, láigoheapmái ja luohpadeapmái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1561,23 +1305,15 @@
         <seg>Vaikka laki</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>(A)(2) buktojuvvo ovdan.</seg>
+        <seg>Vaikke sámediggelágas leatge nana lágalaš dáhkádusat sápmelaččaid sajádagas, geavatlaččat Suoma beale sámedikkis lea ráddjejuvvon mearridanváldi, nugo maŋŋelis čuoggás IV(A)(2) buktojuvvo ovdan.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>CCPR / C / SWE.</seg>
+        <seg>CCPR/C/SWE/CO/6, kappale 20 (7.5.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>CCPR / C / SWE.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>/ CO/6, kappale 20 (7.5.2009).</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ CO/6, bihttá 20 (7.5.2009).</seg>
+        <seg>CCPR/C/SWE/CO/6, bihttá 20 (7.5.2009).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1585,23 +1321,15 @@
         <seg>Poronhoitolaki (Rennäringslag) (1971:437) 17 § 121 § 4 § (974/1995) Ibid.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Boazodoalloláhka (Rennäringslag) (1971:437) 17 § 121 § 4 § (974/1995) Ibid..</seg>
+        <seg>Boazodoalloláhka (Rennäringslag) (1971:437) 17 § 121 § 4 § (974/1995) Ibid.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>29.</seg>
+        <seg>29. Suomen nykyiseen lainsäädäntöön ei ole kirjattu eikä siinä anneta saamelaisille mitään erityisiä maaoikeuksia eikä yksinoikeuksia harjoittaa perinteisiä elinkeinoja saamelaisten kotiseutualueilla.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>9 29.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Suomen nykyiseen lainsäädäntöön ei ole kirjattu eikä siinä anneta saamelaisille mitään erityisiä maaoikeuksia eikä yksinoikeuksia harjoittaa perinteisiä elinkeinoja saamelaisten kotiseutualueilla.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dálá Suoma lágat eai dovddas eaige atte mangelágan earenoamáš eanavuoigatvuođaid sápmelaččaide eaige dovddas oktovuoigatvuođa Sámi álbmogii bargat árbevirolaš ealáhusaiguin juo sámiid ruovttuguovllus dahje dan olggobealde.</seg>
+        <seg>9 29. Dálá Suoma lágat eai dovddas eaige atte mangelágan earenoamáš eanavuoigatvuođaid sápmelaččaide eaige dovddas oktovuoigatvuođa Sámi álbmogii bargat árbevirolaš ealáhusaiguin juo sámiid ruovttuguovllus dahje dan olggobealde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,18 +1350,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>30.</seg>
+        <seg>30. Vuoden 1990 poronhoitolain mukaan valtion viranomaisten on kuitenkin valtion maita koskevia, poronhoidon harjoittamiseen olennaisesti vaikuttavia toimenpiteitä suunnitellessaan neuvoteltava asianomaisen paliskunnan edustajien kanssa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>30.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vuoden 1990 poronhoitolain mukaan valtion viranomaisten on kuitenkin valtion maita koskevia, poronhoidon harjoittamiseen olennaisesti vaikuttavia toimenpiteitä suunnitellessaan neuvoteltava asianomaisen paliskunnan edustajien kanssa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jagi 1990 boazodoallolágas celkojuvvo, ahte stáhta eiseváldi galgá ráđđádallat áššáigullevaš bálgosiid ovddasteaddjiiguin goittotge dalle go pláne stáhta eatnamiidda guoski doaimmat, mat váikkuhit mearkkašahtti vugiin boazodollui.</seg>
+        <seg>30. Jagi 1990 boazodoallolágas celkojuvvo, ahte stáhta eiseváldi galgá ráđđádallat áššáigullevaš bálgosiid ovddasteaddjiiguin goittotge dalle go pláne stáhta eatnamiidda guoski doaimmat, mat váikkuhit mearkkašahtti vugiin boazodollui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,18 +1366,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>31.</seg>
+        <seg>31. Suomi on Norjan ja Ruotsin tapaan ratifioinut kaikki merkittävät YK:n ihmisoikeussopimukset sekä kansallisten vähemmistöjen suojelua koskevan puiteyleissopimuksen ja alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>31.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Suomi on Norjan ja Ruotsin tapaan ratifioinut kaikki merkittävät YK:n ihmisoikeussopimukset sekä kansallisten vähemmistöjen suojelua koskevan puiteyleissopimuksen ja alueellisia kieliä tai vähemmistökieliä koskevan eurooppalaisen peruskirjan.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Nugo Norga ja Ruoŧŧage, de maiddái Suopma lea ratifieren buot mearkkašahtti ON olmmošvuoigatvuođaidkonvenšuvnnaid ja maid Eurohpa ráđi rápmakonvenšuvnna nášuvnnalaš unnitloguid suodjaleamis ja Eurohpa vuođđogirjji guovlo- dahje unnitloguid gielain.</seg>
+        <seg>31. Nugo Norga ja Ruoŧŧage, de maiddái Suopma lea ratifieren buot mearkkašahtti ON olmmošvuoigatvuođaidkonvenšuvnnaid ja maid Eurohpa ráđi rápmakonvenšuvnna nášuvnnalaš unnitloguid suodjaleamis ja Eurohpa vuođđogirjji guovlo- dahje unnitloguid gielain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1382,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>IV. Huolenaiheet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>IV. Fuolat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>A. Itsemääräämisoikeus</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -1678,74 +1398,50 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>32.</seg>
+        <seg>32. Vaikka saamelaisväestöä koskevat Pohjoismaiden lait ja politiikka ovat suhteellisen edistyneitä, saamelaisten itsemääräämisoikeuden täydelliselle toteutumiselle on edelleen esteitä sekä rajat ylittävillä että kansallisilla tasoilla.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>32.</seg>
+        <seg>32. Vaikke Sámi álbmogii guoski Davviriikkaid lágat ja politihkka leat viehka bures ovdánan, sápmelaččaid iešmearridanvuoigatvuođa dievaslaš ollašuvvamii leat goittotge hehttehusat sihke rájáidrasttildeaddji ja nášuvnnalaš dásis.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Vaikka saamelaisväestöä koskevat Pohjoismaiden lait ja politiikka ovat suhteellisen edistyneitä, saamelaisten itsemääräämisoikeuden täydelliselle toteutumiselle on edelleen esteitä sekä rajat ylittävillä että kansallisilla tasoilla.</seg>
+        <seg>YK:n alkuperäiskansojen oikeuksia koskevan julistuksen 3 artiklassa todetaan seuraavasti: ”Alkuperäiskansoilla on itsemääräämisoikeus.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vaikke Sámi álbmogii guoski Davviriikkaid lágat ja politihkka leat viehka bures ovdánan, sápmelaččaid iešmearridanvuoigatvuođa dievaslaš ollašuvvamii leat goittotge hehttehusat sihke rájáidrasttildeaddji ja nášuvnnalaš dásis.</seg>
+        <seg>ON álgoálbmotjulggaštusa 3 artihkkalis nannejuvvo, ahte ”Álgoálbmogiin lea vuoigatvuohta iešmearrideapmái.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>YK:n alkuperäiskansojen oikeuksia koskevan julistuksen 3 artiklassa todetaan seuraavasti: ” Alkuperäiskansoilla on itsemääräämisoikeus.</seg>
+        <seg>Tämän oikeuden perusteella ne määräävät vapaasti poliittisen asemansa ja kehittävät vapaasti taloudellisia, sosiaalisia ja sivistyksellisiä olojaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>ON álgoálbmotjulggaštusa 3 artihkkalis nannejuvvo, ahte ” Álgoálbmogiin lea vuoigatvuohta iešmearrideapmái.</seg>
+        <seg>Dán vuoigatvuođa vuođul sii mearridit friddja iežaset politihkalaš sajádaga ja ovddidit friddja iežaset ekonomalaš, sosiála ja kultuvrralaš gárggiideami.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tämän oikeuden perusteella ne määräävät vapaasti poliittisen asemansa ja kehittävät vapaasti taloudellisia, sosiaalisia ja sivistyksellisiä olojaan. ”</seg>
+        <seg>” Tämä julistuksen artikla heijastaa Norjan, Ruotsin ja Suomen ratifioiman kansalaisoikeuksia ja poliittisia oikeuksia koskevan kansainvälisen yleissopimuksen sekä taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen yhteistä 1 artiklaa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dán vuoigatvuođa vuođul sii mearridit friddja iežaset politihkalaš sajádaga ja ovddidit friddja iežaset ekonomalaš, sosiála ja kultuvrralaš gárggiideami. ”</seg>
+        <seg>” Dát julggaštusa artihkal speadjalastá Davviriikkaid ráđđehusaid dohkkehan riikkaidgaskasaš siviila- ja politihkalaš vuoigatvuođaid konvenšuvnna ja maid riikkaidgaskasaš ekonomalaš, sosiálalaš ja kultuvrralaš vuoigatvuođaid konvenšuvnna, main guktuin dát lea oktasaš 1 artihkal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tämä julistuksen artikla heijastaa Norjan, Ruotsin ja Suomen ratifioiman kansalaisoikeuksia ja poliittisia oikeuksia koskevan kansainvälisen yleissopimuksen sekä taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen yhteistä 1 artiklaa.</seg>
+        <seg>1. Rajat ylittävä saamelaisten itsemääräämisoikeus</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dát julggaštusa artihkal speadjalastá Davviriikkaid ráđđehusaid dohkkehan riikkaidgaskasaš siviila- ja politihkalaš vuoigatvuođaid konvenšuvnna ja maid riikkaidgaskasaš ekonomalaš, sosiálalaš ja kultuvrralaš vuoigatvuođaid konvenšuvnna, main guktuin dát lea oktasaš 1 artihkal.</seg>
+        <seg>1. Iešmearridanvuoigatvuohta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>1.</seg>
+        <seg>33. Heti aluksi on syytä todeta, että saamelaisten edustajien mukaan saamelaisväestön tavoite suhteiden turvaamisesta eri maiden alueilla asuviin saamelaisiin ja saamelaisväestön itsemääräämisoikeuden yleisestä edistämisestä ei tarkoita sitä, että saamelaiset haluaisivat perustaa oman valtion.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Rajat ylittävä saamelaisten itsemääräämisoikeus</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Iešmearridanvuoigatvuohta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>33.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>33.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Heti aluksi on syytä todeta, että saamelaisten edustajien mukaan saamelaisväestön tavoite suhteiden turvaamisesta eri maiden alueilla asuviin saamelaisiin ja saamelaisväestön itsemääräämisoikeuden yleisestä edistämisestä ei tarkoita sitä, että saamelaiset haluaisivat perustaa oman valtion.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuosttažettiin lea sudja dadjat, ahte sámi ovddasteaddjiid mielas sin ulbmilat sierra stáhtain ássi sápmelaččaid oktavuođaid dorvvasteamis ja Sámi álbmoga iešmearridanvuoigatvuođa oppalaš gárggiideamis ii mearkkaš dan, ahte sápmelaččat háliidit vuođđudit iežaset stáhta. Dákkár lahkonanvuohki iešmearridanvuoigatvuođa geavaheapmái lea</seg>
+        <seg>33. Vuosttažettiin lea sudja dadjat, ahte sámi ovddasteaddjiid mielas sin ulbmilat sierra stáhtain ássi sápmelaččaid oktavuođaid dorvvasteamis ja Sámi álbmoga iešmearridanvuoigatvuođa oppalaš gárggiideamis ii mearkkaš dan, ahte sápmelaččat háliidit vuođđudit iežaset stáhta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,18 +1454,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>34.</seg>
+        <seg>34. Maailmassa on tähän asti vain vähän esimerkkejä erityisistä virallisista järjestelyistä, jotka edistäisivät tietyn alkuperäiskansan itsemääräämisoikeutta useiden valtioiden rajojen yli.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>34.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Maailmassa on tähän asti vain vähän esimerkkejä erityisistä virallisista järjestelyistä, jotka edistäisivät tietyn alkuperäiskansan itsemääräämisoikeutta useiden valtioiden rajojen yli.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Máilmmis leat dán rádjai dušše uhcán ovdamearkkat earenoamáš, virggálaš ortnegiin, mat ovddidit dihto álgoálbmoga iešmearridanvuoigatvuođa rájáidrasttildeaddji vugiin.</seg>
+        <seg>34. Máilmmis leat dán rádjai dušše uhcán ovdamearkkat earenoamáš, virggálaš ortnegiin, mat ovddidit dihto álgoálbmoga iešmearridanvuoigatvuođa rájáidrasttildeaddji vugiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,18 +1478,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>35.</seg>
+        <seg>35. Erityisraportoijan käsityksen mukaan luonnos pohjoismaiseksi saamelaissopimukseksi muodostaa pääasialliset puitteet, joissa määritellään saamelaisväestön yhteiset tavoitteet, ja se on merkittävä osatekijä pyrkimyksissä edistää saamelaisten itsemääräämisoikeutta yhtenä kansana (sopimusluonnoksen selkeä puute tässä suhteessa on se, ettei se koske Venäjän federaation alueella asuvia saamelaisia).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>35.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoijan käsityksen mukaan luonnos pohjoismaiseksi saamelaissopimukseksi muodostaa pääasialliset puitteet, joissa määritellään saamelaisväestön yhteiset tavoitteet, ja se on merkittävä osatekijä pyrkimyksissä edistää saamelaisten itsemääräämisoikeutta yhtenä kansana (sopimusluonnoksen selkeä puute tässä suhteessa on se, ettei se koske Venäjän federaation alueella asuvia saamelaisia).</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji áddejumi mielde davviriikkalaš sámekonvenšuvdnahámus láhčá váldorámaid, mainna meroštallojuvvojit Sámi álbmoga oktasaš ulbmilat, ja dat lea mearkkašahtti oassi rahčamušain ovddidit Sámi iešmearrideami álbmogin (konvenšuvdnahápmosa čielga váili dán olis lea dat, ahte dat ii gusto Ruošša federašuvnnas ássi sápmelaččaide).</seg>
+        <seg>35. Spesiálaraporterejeaddji áddejumi mielde davviriikkalaš sámekonvenšuvdnahámus láhčá váldorámaid, mainna meroštallojuvvojit Sámi álbmoga oktasaš ulbmilat, ja dat lea mearkkašahtti oassi rahčamušain ovddidit Sámi iešmearrideami álbmogin (konvenšuvdnahápmosa čielga váili dán olis lea dat, ahte dat ii gusto Ruošša federašuvnnas ássi sápmelaččaide).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,10 +1494,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Asiakirjaa on luonnehdittu eräänlaiseksi Pohjoismaiden ja saamelaisten väliseksi ” nykyaikaiseksi sopimukseksi ” (vaikka saamelaisten ei odotetakaan olevan virallisena sopijapuolena Pohjoismaiden ohella).</seg>
+        <seg>Asiakirjaa on luonnehdittu eräänlaiseksi Pohjoismaiden ja saamelaisten väliseksi ”nykyaikaiseksi sopimukseksi” (vaikka saamelaisten ei odotetakaan olevan virallisena sopijapuolena Pohjoismaiden ohella).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lea daddjojuvvon, ahte áššebábir lea muhtunlágan Davviriikkaid ja Sámi álbmoga gaskasaš ” ođđaáigásaš soahpamuš ” (vaikke Sámi álbmot ii leatge virggálaš oassebeallin konvenšuvnnas nugo Davviriikkat leat).</seg>
+        <seg>Lea daddjojuvvon, ahte áššebábir lea muhtunlágan Davviriikkaid ja Sámi álbmoga gaskasaš ”ođđaáigásaš soahpamuš” (vaikke Sámi álbmot ii leatge virggálaš oassebeallin konvenšuvnnas nugo Davviriikkat leat).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,18 +1510,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>36.</seg>
+        <seg>36. Vuosia kestäneen kiistelyn jälkeen Norjan, Suomen ja Ruotsin valtioiden edustajat sekä maiden saamelaiskäräjien puheenjohtajat sopivat marraskuussa 2010 pohjoismaisen saamelaissopimuksen neuvottelumallista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>36.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vuosia kestäneen kiistelyn jälkeen Norjan, Suomen ja Ruotsin valtioiden edustajat sekä maiden saamelaiskäräjien puheenjohtajat sopivat marraskuussa 2010 pohjoismaisen saamelaissopimuksen neuvottelumallista.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jagiid joatkašuvvan nákku maŋŋá Norgga, Ruoŧa ja Suoma stáhtaid ovddasteaddjit ja maid sámedikkiid ságadoallit šiehtadalle skábmamánus 2010 davviriikkalaš sámekonvenšuvnna ráđđádallanmálles.</seg>
+        <seg>36. Jagiid joatkašuvvan nákku maŋŋá Norgga, Ruoŧa ja Suoma stáhtaid ovddasteaddjit ja maid sámedikkiid ságadoallit šiehtadalle skábmamánus 2010 davviriikkalaš sámekonvenšuvnna ráđđádallanmálles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1870,34 +1542,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>2.</seg>
+        <seg>2. Saamelaisten itsehallinto kansallisella tasolla: saamelaiskäräjät</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>2.</seg>
+        <seg>2. Sámiid iešstivrejupmi nášuvnnalaš dásis: sámedikkit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaisten itsehallinto kansallisella tasolla: saamelaiskäräjät</seg>
+        <seg>37. Saamelaiskäräjät on tärkein saamelaisten itsemääräämisoikeutta toteuttava elin Norjassa, Ruotsissa ja Suomessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámiid iešstivrejupmi nášuvnnalaš dásis: sámedikkit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>37.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>37.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjät on tärkein saamelaisten itsemääräämisoikeutta toteuttava elin Norjassa, Ruotsissa ja Suomessa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámedikkit leat deháleamos sápmelaččaid iešmearridanvuoigatvuođa ollašuhtti orgánat Norggas, Ruoŧas ja Suomas.</seg>
+        <seg>37. Sámedikkit leat deháleamos sápmelaččaid iešmearridanvuoigatvuođa ollašuhtti orgánat Norggas, Ruoŧas ja Suomas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,7 +1566,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tästä huolimatta saamelaiskäräjien riippumattomuutta ja</seg>
+        <seg>11 itsehallintovaltaa tulee edelleen kehittää ja niiden mahdollisuutta osallistua sekä aidosti vaikuttaa saamelaisväestöä koskevaan päätöksentekoon Pohjoismaissa tulee edelleen lujittaa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dás fuolakeahttá lea ain dárbu lasihit sámedikkiid sorjjasmeahttunvuođa ja iešstivrenválddi ja lasihit maiddái dikkiid vejolašvuođaid oassálastit ja váikkuhit albmaláhkai Sámi álbmogii guoski mearrádusdahkamii Davviriikkain.</seg>
@@ -1918,39 +1574,23 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ks.</seg>
+        <seg>38. Saamelaiskäräjät ovat ilmaisseet erityisraportoijalle huolensa siitä, missä määrin ne voivat aidosti osallistua ja vaikuttaa saamelaisväestöä koskeviin päätöksiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>38.</seg>
+        <seg>38. Sámedikkit leat muitalan spesiálaraporterejeaddjái fuolaideaset das, man muddui dat sáhttet albmaláhkai oassálastit ja váikkuhit Sámi álbmogii guoski mearrádusaide.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>esim. E / SWE.</seg>
+        <seg>Saamelaiskäräjät katsotaan yleensä elimeksi, jonka kautta saamelaiset voivat tuoda näkemyksensä julki viranomaisille, mutta ne eivät mitenkään takaa aitoa vaikuttamismahdollisuutta tai päätäntävaltaa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>G. omd. E / SWE.</seg>
+        <seg>Sámedikkit adnojuvvojit dábálaččat orgánan, man bokte sápmelaččat sáhtte buktit oaiviliiddiset albmosii eiseválddiide, muhto dat eai dáhkit moge albma váikkuhanvejolašvuođa dahje mearridanválddi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>/ CO/5, kappale 15 (18.11.2008); CERD / C / SWE.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ CO/5, bihttá 15 (18.11.2008); CERD / C / SWE.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>/ CO/18, kappale 21 (21.8.2008).</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ CO/18, bihttá 21 (21.8.2008).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>11 itsehallintovaltaa tulee edelleen kehittää ja niiden mahdollisuutta osallistua sekä aidosti vaikuttaa saamelaisväestöä koskevaan päätöksentekoon Pohjoismaissa tulee edelleen lujittaa.</seg>
+        <seg>Erityisesti Suomessa saamelaiskäräjien lakisääteiset valtuudet rajoittuvat saamelaisten kieltä, kulttuuria ja alkuperäiskansan asemaa koskeviin asioihin.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>11 Earenoamážit Suoma beale sámedikki lágain ásahuvvon doaibmaváldi rádjašuvvá áššiide, mat gustojit sámegillii, kultuvrii ja álgoálbmotsajádahkii.</seg>
@@ -1958,10 +1598,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Näilläkin alueilla saamelaiskäräjien vaikutusvalta on rajallinen; esimerkiksi kielisuunnittelusta vastaa kotimaisten kielten tutkimuskeskus, ja näitäkin tehtäviä ollaan siirtämässä yliopistoille.</seg>
+        <seg>Näilläkin alueilla saamelaiskäräjien vaikutusvalta on rajallinen;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dáinge doaibmasurggiin sámedikki váikkuhanváldi lea ráddjejuvvon; ovdamearkka dihte giellaplánemis ovddasvástádus lea Ruovttueatnan gielaid dutkanguovddážis ja dáidge bargguid leat sirdimen universitehtaide.</seg>
+        <seg>Dáinge doaibmasurggiin sámedikki váikkuhanváldi lea ráddjejuvvon;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>esimerkiksi kielisuunnittelusta vastaa kotimaisten kielten tutkimuskeskus, ja näitäkin tehtäviä ollaan siirtämässä yliopistoille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ovdamearkka dihte giellaplánemis ovddasvástádus lea Ruovttueatnan gielaid dutkanguovddážis ja dáidge bargguid leat sirdimen universitehtaide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,31 +1622,23 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>39.</seg>
+        <seg>39. Selkeiden kuulemisprosessien käyttöönotto on jossakin määrin helpottanut saamelaiskäräjien osallistumista saamelaisväestöä koskevaan päätöksentekoon. Kuten edellä kappaleessa 16 todetaan, Norjan valtio on allekirjoittanut Norjan saamelaiskäräjien (Sámediggi) kanssa kuulemista koskevan sopimuksen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>39.</seg>
+        <seg>39. Čielga ráđđádallanproseassaid atnuiváldin lea muhtumassii álkidan sámedikki oassálastima Sámi álbmogii guoski mearrádusdahkamii, nugo ovdalis bihtás 16 gávnnahuvvo, Norgga stáhta lea vuolláičállán Norgga beale sámedikkiin ráđđádallansoahpamuša.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Selkeiden kuulemisprosessien käyttöönotto on jossakin määrin helpottanut saamelaiskäräjien osallistumista saamelaisväestöä koskevaan päätöksentekoon. Kuten edellä kappaleessa 16 todetaan, Norjan valtio on allekirjoittanut Norjan saamelaiskäräjien (Sámediggi) kanssa kuulemista koskevan sopimuksen.</seg>
+        <seg>Norjan saamelaiskäräjien mukaan vaikka ”kuulemismenettelyt ovat lisänneet saamelaiskäräjien vaikutusvaltaa saamelaisväestöä koskevassa poliittisessa päätöksenteossa, kokemukset kuulemissopimuksesta ovat olleet vaihtelevia.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Čielga ráđđádallanproseassaid atnuiváldin lea muhtumassii álkidan sámedikki oassálastima Sámi álbmogii guoski mearrádusdahkamii, nugo ovdalis bihtás 16 gávnnahuvvo, Norgga stáhta lea vuolláičállán Norgga beale sámedikkiin ráđđádallansoahpamuša.</seg>
+        <seg>Sámediggi cealká, ahte vaikke ”ráđđádallamiid meannudanvuogit leat lasihan sámedikki váikkuhanválddi ráđđehusa sámepolitihkalaš mearrádusdahkamis, vásáhusat ráđđádallansoahpamuš atnimis leat molsašuddan.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Norjan saamelaiskäräjien mukaan vaikka ” kuulemismenettelyt ovat lisänneet saamelaiskäräjien vaikutusvaltaa saamelaisväestöä koskevassa poliittisessa päätöksenteossa, kokemukset kuulemissopimuksesta ovat olleet vaihtelevia.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámediggi cealká, ahte vaikke ” ráđđádallamiid meannudanvuogit leat lasihan sámedikki váikkuhanválddi ráđđehusa sámepolitihkalaš mearrádusdahkamis, vásáhusat ráđđádallansoahpamuš atnimis leat molsašuddan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisten perinteiseen elämäntapaan ja elinkeinojen kehittämiseen liittyy edelleen haasteita ”.</seg>
+        <seg>Saamelaisten perinteiseen elämäntapaan ja elinkeinojen kehittämiseen liittyy edelleen haasteita”.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sápmelaččaid árbevirolaš eallinvuohkái ja ealáhusaid gárggiideapmái laktásit ain hástalusat.</seg>
@@ -2022,18 +1662,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>40.</seg>
+        <seg>40. Toisin kuin Norjalla, Ruotsin ja Suomen valtioilla ei ole omien saamelaiskäräjiensä kanssa sopimusta, jossa määriteltäisiin, miten ja missä olosuhteissa kuuleminen tulisi järjestää.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>40.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Toisin kuin Norjalla, Ruotsin ja Suomen valtioilla ei ole omien saamelaiskäräjiensä kanssa sopimusta, jossa määriteltäisiin, miten ja missä olosuhteissa kuuleminen tulisi järjestää.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Nugo lea Norggas, de Ruoŧa ja Suoma stáhtain eai leat soahpamušat iežaset sámedikkiin, main mearriduvvošii, mo ja makkár diliin ráđđádallamiid galgá lágidit.</seg>
+        <seg>40. Nugo lea Norggas, de Ruoŧa ja Suoma stáhtain eai leat soahpamušat iežaset sámedikkiin, main mearriduvvošii, mo ja makkár diliin ráđđádallamiid galgá lágidit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2057,7 +1689,7 @@
         <seg>Tällaiset yhteisesti sovitut järjestelmät olisivat tärkeitä ja ne voisivat osittain lievittää saamelaisväestön huolta siitä, ettei se pääse riittävästi osallistumaan päätöksentekoon.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddjái muitaluvvon oktasaš fuolla lei dat, ahte sámedikkit bastet doaibmat ja mearridit iehčanassii dušše ráddjejuvvon vugiin Sámi álbmoga áššiin daidda lágain meroštallojuvvon doaibmaválddi ja bargguid geažil.</seg>
+        <seg>Dákkár oktasaččat sohppojuvvon vuogádagat livčče dehálaččat ja dat sáhtášedje muhtumassii geahppudit sápmelaččaid fuola das, ahte sii ii beasa doarvái oassálastit mearrádusdahkamii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2065,7 +1697,7 @@
         <seg>Laki kotimaisten kielten tutkimuskeskuksesta (48/1976, 591/1996)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Láhka ruovttueatnan gielaid dutkanguovddážis (48/1976, 591/1996).</seg>
+        <seg>Das fuolakeahttá Davviriikkat galggašedje lágidit šiehtadallamiid sámedikkiiguin ja singuin ovttasráđiid guorahallat dakkár vástusurggiid meroštallamiid, maid Láhka ruovttueatnan gielaid dutkanguovddážis (48/1976, 591/1996).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2094,15 +1726,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>A / HRC/13/5, kappale 24 (2010).</seg>
+        <seg>A/HRC/13/5, kappale 24 (2010).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>A / HRC/13/5, bihttá 24 (2010).</seg>
+        <seg>A/HRC/13/5, bihttá 24 (2010).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Erityisraportoijalle ilmaistu yhteinen huoli oli se, että saamelaiskäräjät pystyvät niille laissa säädettyjen valtuuksien ja tehtävien vuoksi vain rajoitetussa määrin toimimaan itsenäisesti ja tekemään itsenäisiä päätöksiä saamelaisväestöä koskevissa asioissa.</seg>
+        <seg>Siitä huolimatta Pohjoismaiden tulisi saamelaiskäräjiä kuulemalla ja niiden kanssa yhteisymmärryksessä harkita sellaisten vastuualueiden määrittämistä, joilla saamelaiskäräjien itsenäistä päätösvaltaa voisi kasvattaa tai joilla saamelaiskäräjillä voisi olla yksinomainen päätösvalta, erityisesti saamelaisväestön kannalta tärkeissä asioissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>12 bokte sámedikkiid iehčanas doaibmaválddi sáhtášii lasihit dahje main dušše sámedikkiin okto livččii doaibmaváldi, earenoamážit Sámi álbmogii dehálaš áššiin.</seg>
@@ -2118,18 +1750,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>42.</seg>
+        <seg>42. Tapa, jolla Ruotsin saamelaiskäräjien tehtävät ja valtuudet on määritelty Ruotsin saamelaiskäräjälaissa, on erityisen huolestuttava.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>42.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tapa, jolla Ruotsin saamelaiskäräjien tehtävät ja valtuudet on määritelty Ruotsin saamelaiskäräjälaissa, on erityisen huolestuttava.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuohki, mainna Ruoŧa beale sámedikki barggut ja doaibmaváldi lea meroštallojuvvon Ruoŧa sámediggelágas, lea earenoamáš fuollan.</seg>
+        <seg>42. Vuohki, mainna Ruoŧa beale sámedikki barggut ja doaibmaváldi lea meroštallojuvvon Ruoŧa sámediggelágas, lea earenoamáš fuollan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,10 +1766,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Valtion mukaan vuoden 1992 saamelaiskäräjälaissa ” (kansanedustuslaitosta tarkoittavan) ting-termin (Sameting) käytöstä huolimatta kyseessä ei ole itsehallintoelin, joka voisi toimia valtiopäivien tai kunnanvaltuuston asemesta tai näiden kanssa kilpailevana elimenä ”.</seg>
+        <seg>Valtion mukaan vuoden 1992 saamelaiskäräjälaissa ”(kansanedustuslaitosta tarkoittavan) ting-termin (Sameting) käytöstä huolimatta kyseessä ei ole itsehallintoelin, joka voisi toimia valtiopäivien tai kunnanvaltuuston asemesta tai näiden kanssa kilpailevana elimenä”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Stáhta celkkii, ahte jagi 1992 sámediggelágas ” (álbmotválljen orgána mearkkašeaddji) ting-tearpma (Sameting) geavaheamis fuolakeahttá gažaldagas ii leat iešmearridanorgána, mii sáhttá doaibmat Ruoŧa riikkabeivviid (Riksdag) dahje gielddaráđđehusa sajis dahje daiguin gilvaleaddji orgánan. ”</seg>
+        <seg>Stáhta celkkii, ahte jagi 1992 sámediggelágas ”(álbmotválljen orgána mearkkašeaddji) ting-tearpma (Sameting) geavaheamis fuolakeahttá gažaldagas ii leat iešmearridanorgána, mii sáhttá doaibmat Ruoŧa riikkabeivviid (Riksdag) dahje gielddaráđđehusa sajis dahje daiguin gilvaleaddji orgánan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2153,7 +1777,7 @@
         <seg>Vaikka Ruotsin valtio on tämän jälkeen tunnustanut saamelaiskäräjät elimeksi, jonka kautta saamelaiset voivat käyttää itsehallinto-oikeuttaan, saamelaiskäräjät toimii edelleen sekä kansan vaaleilla valitsemana elimenä että valtiohallinnon virastona.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vaikke Ruoŧa stáhta lea dan maŋŋá dovddastan sámedikki orgánan, man bokte Sámi álbmot sáhttá geavahit iešstivrenvuoigatvuođa, de sámediggi ain doaibmá sihke álbmotválljen orgánan ja stáhtahálddahusa eiseváldin.</seg>
+        <seg>” Vaikke Ruoŧa stáhta lea dan maŋŋá dovddastan sámedikki orgánan, man bokte Sámi álbmot sáhttá geavahit iešstivrenvuoigatvuođa, de sámediggi ain doaibmá sihke álbmotválljen orgánan ja stáhtahálddahusa eiseváldin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,18 +1790,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>43.</seg>
+        <seg>43. Myös valtion talousarviosta johtuvien rajoitteiden on katsottu supistavan saamelaiskäräjien mahdollisuuksia hoitaa saamelaisia koskevia asioita sekä toimia saamelaisten itsemääräämisoikeuden kanavina.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>43.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Myös valtion talousarviosta johtuvien rajoitteiden on katsottu supistavan saamelaiskäräjien mahdollisuuksia hoitaa saamelaisia koskevia asioita sekä toimia saamelaisten itsemääräämisoikeuden kanavina.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Maiddái máinnašuvvui, ahte stáhtabušeahta ráddjehusat geahpedit sámedikkiid vejolašvuođaid dikšut sámeáššiid ja doaibmat sápmelaččaid iešmearridanvuoigatvuođa gaskkusteaddjin.</seg>
+        <seg>43. Maiddái máinnašuvvui, ahte stáhtabušeahta ráddjehusat geahpedit sámedikkiid vejolašvuođaid dikšut sámeáššiid ja doaibmat sápmelaččaid iešmearridanvuoigatvuođa gaskkusteaddjin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,10 +1822,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Norjan valtio on kuitenkin eri kannalla; sen mukaan uudet projektit ja rahoitusta koskevat aloitteet ovat usein tulleet itse saamelaiskäräjiltä, ja saamelaiskäräjillä on ollut merkittävässä määrin vapaus priorisoida niille myönnettyjen varojen käyttö uudelleen.</seg>
+        <seg>Norjan valtio on kuitenkin eri kannalla;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Norgga stáhtas lea goittotge earálágan oaivil; dat cealká, ahte ođđa fitnut ja ruhtadanálgagat bohtet dávjá ieš sámedikkis, ja sámedikkis lea mearkkašahtti friddjavuohta prioriteret dasa juolluduvvon ruhtadeami ođđasit.</seg>
+        <seg>Norgga stáhtas lea goittotge earálágan oaivil;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sen mukaan uudet projektit ja rahoitusta koskevat aloitteet ovat usein tulleet itse saamelaiskäräjiltä, ja saamelaiskäräjillä on ollut merkittävässä määrin vapaus priorisoida niille myönnettyjen varojen käyttö uudelleen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dat cealká, ahte ođđa fitnut ja ruhtadanálgagat bohtet dávjá ieš sámedikkis, ja sámedikkis lea mearkkašahtti friddjavuohta prioriteret dasa juolluduvvon ruhtadeami ođđasit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,34 +1846,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>3.</seg>
+        <seg>3. Norjan Finnmark-laki</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>3.</seg>
+        <seg>3. Norgga Finnmárkkuláhka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Norjan Finnmark-laki</seg>
+        <seg>44. Norjassa vuonna 2005 säädetty Finnmarkin lääniä koskeva erityislaki eli Ruijan maalaki, joka Norjassa tunnetaan nimellä Finnmarksloven, sisältää kohtia, jotka suojelevat merkittävästi saamelaisten itsemääräämisoikeuden ja luonnonvarojen hallintaoikeuksien edistämistä paikallisella tasolla.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Norgga Finnmárkkuláhka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>44.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>44.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Norjassa vuonna 2005 säädetty Finnmarkin lääniä koskeva erityislaki eli Ruijan maalaki, joka Norjassa tunnetaan nimellä Finnmarksloven, sisältää kohtia, jotka suojelevat merkittävästi saamelaisten itsemääräämisoikeuden ja luonnonvarojen hallintaoikeuksien edistämistä paikallisella tasolla.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Norggas jagi 2005 ásahuvvon Finnmárkkuláhka sisttisdoallá njuolggadusaid, maiguin suodjaluvvo dehálaš vugiin Sámi álbmoga iešmearridanvuoigatvuođa ja luondduvalljodagaid hálddašanvuoigatvuođaid gárggiideapmi báikkálaš dásis.</seg>
+        <seg>44. Norggas jagi 2005 ásahuvvon Finnmárkkuláhka sisttisdoallá njuolggadusaid, maiguin suodjaluvvo dehálaš vugiin Sámi álbmoga iešmearridanvuoigatvuođa ja luondduvalljodagaid hálddašanvuoigatvuođaid gárggiideapmi báikkálaš dásis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2281,7 +1889,7 @@
         <seg>Vaikka Finnmark-laki onkin merkittävä askel kohti saamelaisten itsemääräämisoikeuden sekä maaalueiden ja luonnonvarojen hallintaoikeuksien edistämistä, jotkut saamelaisten edustajat ovat olleet sitä mieltä, ettei laki täysin suojaa saamelaisten itsemääräämisoikeutta sekä maa-alueiden ja luonnonvarojen hallintaoikeuksia pääasiassa syistä, jotka liittyvät Finnmarkseiendommenin hallituksen kokoonpanoon.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vaikke láhka leage mearkkašahtti lávki sápmelaččaid iešmearridanvuoigatvuođa ja maid eatnamiid ja čáziid hálddašanvuoigatvuođa gárggiideamis, muhtun sámi ovddasteaddjit leat oaivvildan, ahte láhka ii dorvvas ollásit sápmelaččaid iešmearridanvuoigatvuođa ja vuoigatvuođa eatnamiidda ja luondduvalljodagaide, eanaš daid sivaid geažil, mat laktásit</seg>
+        <seg>Vaikke láhka leage mearkkašahtti lávki sápmelaččaid iešmearridanvuoigatvuođa ja maid eatnamiid ja čáziid hálddašanvuoigatvuođa gárggiideamis, muhtun sámi ovddasteaddjit leat oaivvildan, ahte láhka ii dorvvas ollásit sápmelaččaid iešmearridanvuoigatvuođa ja vuoigatvuođa eatnamiidda ja luondduvalljodagaide, eanaš daid sivaid geažil, mat laktásit Láhkaárvalus 1992/93:32.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,18 +1918,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>45.</seg>
+        <seg>45. Erityisraportoija on pannut myös merkille jatkuvat huolenilmaukset siitä, että Finnmark-laki ei puutu riittävästi Norjan itäsaamelaisten erityisen suojattomaan asemaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>45.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija on pannut myös merkille jatkuvat huolenilmaukset siitä, että Finnmark-laki ei puutu riittävästi Norjan itäsaamelaisten erityisen suojattomaan asemaan.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sierraraporterejeaddji lea maiddái gidden fuomášumi dávjá ovdanboahtán fuolaide das, ahte Finnmárkkulágas Norgga beale nuortasámiid (nuortalaččaid) vuoigatvuođat eai leat váldojuvvon doarvái bures vuhtii vaikke sis lea earenoamážit rašes sajádat.</seg>
+        <seg>45. Sierraraporterejeaddji lea maiddái gidden fuomášumi dávjá ovdanboahtán fuolaide das, ahte Finnmárkkulágas Norgga beale nuortasámiid (nuortalaččaid) vuoigatvuođat eai leat váldojuvvon doarvái bures vuhtii vaikke sis lea earenoamážit rašes sajádat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2342,10 +1942,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Erityisraportoija huomauttaa Norjan ilmaisseen, että ” toimenpiteitä suunniteltaessa neuvotellaan tiiviisti saamelaiskäräjien ja itäsaamelaisten edustajien kanssa ” ja että Finnmarkin maakäräjien tulee valtuuksiensa nojalla ottaa huomioon Finnmarkin kaikkien asukkaiden, myös itäsaamelaisten, oikeudet maa-alueisiin ja luonnonvaroihin.</seg>
+        <seg>Erityisraportoija huomauttaa Norjan ilmaisseen, että ”toimenpiteitä suunniteltaessa neuvotellaan tiiviisti saamelaiskäräjien ja itäsaamelaisten edustajien kanssa” ja että Finnmarkin maakäräjien tulee valtuuksiensa nojalla ottaa huomioon Finnmarkin kaikkien asukkaiden, myös itäsaamelaisten, oikeudet maa-alueisiin ja luonnonvaroihin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji fuomášahttá, ahte Norga lea čujuhan, ahte ” go doaibmabijut plánejuvvojit, de stáhta ráđđádallá lávga sámedikkiin ja nuortasámiid ovddasteaddjiiguin ” ja ahte Finnmárkkukomišuvnna doaibmaváldi sisttisdoallá buot finnmárkulaččaid eanavuoigatvuođaid ja luondduvalljodagaid čielggadeami, maiddái nuortasámiid.</seg>
+        <seg>Spesiálaraporterejeaddji fuomášahttá, ahte Norga lea čujuhan, ahte ”go doaibmabijut plánejuvvojit, de stáhta ráđđádallá lávga sámedikkiin ja nuortasámiid ovddasteaddjiiguin” ja ahte Finnmárkkukomišuvnna doaibmaváldi sisttisdoallá buot finnmárkulaččaid eanavuoigatvuođaid ja luondduvalljodagaid čielggadeami, maiddái nuortasámiid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,34 +1958,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>1.</seg>
+        <seg>1. Maa-alueisiin ja luonnonvaroihin liittyvien oikeuksien tunnustaminen</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>1.</seg>
+        <seg>1. Eatnamiidda ja luondduvalljodagaide guoski vuoigatvuođaid dovddasteapmi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Maa-alueisiin ja luonnonvaroihin liittyvien oikeuksien tunnustaminen</seg>
+        <seg>46. Pohjoismaiden saamelaisten historialle on ollut tunnusomaista saamelaisten hallitsemien maa-alueiden – varsinkin porojen laidunmaiden – ja luonnonvarojen jatkuva väheneminen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Eatnamiidda ja luondduvalljodagaide guoski vuoigatvuođaid dovddasteapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>46.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>46.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pohjoismaiden saamelaisten historialle on ollut tunnusomaista saamelaisten hallitsemien maa-alueiden – varsinkin porojen laidunmaiden – ja luonnonvarojen jatkuva väheneminen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Davviriikkaid sápmelaččaid historjái lea leamaš mihtilmas sápmelaččaid hálddašan eatnamiid – eandalii bohccuid guohtuneatnamiid – ja luondduvalljodagaid bistevaš vátnun.</seg>
+        <seg>46. Davviriikkaid sápmelaččaid historjái lea leamaš mihtilmas sápmelaččaid hálddašan eatnamiid – eandalii bohccuid guohtuneatnamiid – ja luondduvalljodagaid bistevaš vátnun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2398,18 +1982,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>14 47.</seg>
+        <seg>14 47. Pohjoismaat ovat ajan myötä kehittäneet tiettyjä mekanismeja saamelaisväestön maanomistuksen ja poronhoidon turvaamiseksi, ja nykyään merkittäviä maa-alueita käytetään jatkuvasti poronhoitoon.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>47.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pohjoismaat ovat ajan myötä kehittäneet tiettyjä mekanismeja saamelaisväestön maanomistuksen ja poronhoidon turvaamiseksi, ja nykyään merkittäviä maa-alueita käytetään jatkuvasti poronhoitoon.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Davviriikkat leat áiggiid mielde gárggiidan dihto vuogádagaid Sámi álbmoga eanaoamasteami ja boazodoalu dorvvasteami várás, ja dálá áigge viiddes oasit eatnamiin geavahuvvojit bissovaččat boazodoalus.</seg>
+        <seg>47. Davviriikkat leat áiggiid mielde gárggiidan dihto vuogádagaid Sámi álbmoga eanaoamasteami ja boazodoalu dorvvasteami várás, ja dálá áigge viiddes oasit eatnamiin geavahuvvojit bissovaččat boazodoalus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,18 +2014,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>48.</seg>
+        <seg>48. Norjassa säädetty Finnmark-laki tarjoaa mahdollisesti edellytyksiä saamelaisten maaalueita ja luonnonvaroja koskevien oikeuksien yksilöimiseksi ja turvaamiseksi Finnmarkin läänissä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>48.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Norjassa säädetty Finnmark-laki tarjoaa mahdollisesti edellytyksiä saamelaisten maaalueita ja luonnonvaroja koskevien oikeuksien yksilöimiseksi ja turvaamiseksi Finnmarkin läänissä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Norggas addojuvvon Finnmárkkuláhka fállá buori vuođu ja vuogádaga čielggadit ja dorvvastit beaktilit sámiid vuoigatvuođaid eatnamiidda ja luondduvalljodagaide Finnmárkku fylkkas.</seg>
+        <seg>48. Norggas addojuvvon Finnmárkkuláhka fállá buori vuođu ja vuogádaga čielggadit ja dorvvastit beaktilit sámiid vuoigatvuođaid eatnamiidda ja luondduvalljodagaide Finnmárkku fylkkas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,10 +2030,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Komission on määrä selvitysten jälkeen antaa mietintönsä seuraavista asioista: ” a) ketkä komission käsityksen mukaan omistavat maan; b) mitä käyttöoikeuksia on komission käsityksen mukaan syntynyt ja c) seikat, joihin komissio näkemyksensä perustaa ”.</seg>
+        <seg>Komission on määrä selvitysten jälkeen antaa mietintönsä seuraavista asioista: ”a) ketkä komission käsityksen mukaan omistavat maan;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Komišuvdna galgá addit čielggadusaid maŋŋá smiehttamuša čuovvovaš áššiin: ” gii komišuvnna áddejumi mielde lea eatnama eaiggát; b) makkár geavahanvuoigatvuođat komišuvnna áddejumi mielde leat ja c) maid áššediliide komišuvdna vuođđuda konklušuvnnaidis ”.</seg>
+        <seg>Komišuvdna galgá addit čielggadusaid maŋŋá smiehttamuša čuovvovaš áššiin: ”gii komišuvnna áddejumi mielde lea eatnama eaiggát;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>b) mitä käyttöoikeuksia on komission käsityksen mukaan syntynyt ja c) seikat, joihin komissio näkemyksensä perustaa”.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>b) makkár geavahanvuoigatvuođat komišuvnna áddejumi mielde leat ja c) maid áššediliide komišuvdna vuođđuda konklušuvnnaidis”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,18 +2054,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>49.</seg>
+        <seg>49. Koska Finnmark-lain edellyttämä maaoikeuksien selvitystyö on edelleen kesken, nyt käyttöön otetun menettelytavan tarkoituksenmukaisuutta ei voida vielä arvioida.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>49.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Koska Finnmark-lain edellyttämä maaoikeuksien selvitystyö on edelleen kesken, nyt käyttöön otetun menettelytavan tarkoituksenmukaisuutta ei voida vielä arvioida.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Daningo Finnmárkkulága eaktudan eanavuoigatvuođaid čielggadeapmi lea ain gaskan, dál atnui váldon meannudanvuogi vuogálašvuođa ii sáhte velá árvvoštallat.</seg>
+        <seg>49. Daningo Finnmárkkulága eaktudan eanavuoigatvuođaid čielggadeapmi lea ain gaskan, dál atnui váldon meannudanvuogi vuogálašvuođa ii sáhte velá árvvoštallat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,18 +2078,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>50.</seg>
+        <seg>50. Erityisraportoijalle on ilmaistu erityinen huoli maanomistusoikeuksista Ruotsissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>50.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoijalle on ilmaistu erityinen huoli maanomistusoikeuksista Ruotsissa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddjái lea buktojuvvon ovdan earenoamáš fuolla eanavuoigatvuođaid dilis Ruoŧa bealde.</seg>
+        <seg>50. Spesiálaraporterejeaddjái lea buktojuvvon ovdan earenoamáš fuolla eanavuoigatvuođaid dilis Ruoŧa bealde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,82 +2110,50 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Työryhmä antoi mietintönsä vuonna 2006.</seg>
+        <seg>Työryhmä antoi mietintönsä vuonna 2006. Hallitus ei ole kuitenkin ryhtynyt käytännön toimiin työryhmän suositusten toteuttamiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavku geigii smiehttamušas jagi 2006.</seg>
+        <seg>Bargojoavku geigii smiehttamušas jagi 2006. Ráđđehus ii leat goittotge vuolggahan geavatlaš doaimmaid vai bargojoavkku ávžžuhusat ollašuhttojuvvojit.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Hallitus ei ole kuitenkin ryhtynyt käytännön toimiin työryhmän suositusten toteuttamiseksi.</seg>
+        <seg>Samassa yhteydessä YK:n rotusyrjintäkomitea (CERD) ilmaisi ”huolensa saamelaisten oikeuksiin liittyvien kysymysten käsittelyssä saavutetusta vähäisestä edistyksestä” ja kehotti Ruotsia ”ryhtymään tehokkaisiin toimiin, jotta saamelaisten oikeuksiin liittyvät selvitykset johtavat konkreettisiin toimiin ja samalla lainsäädännön uudistamiseen.”</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ráđđehus ii leat goittotge vuolggahan geavatlaš doaimmaid vai bargojoavkku ávžžuhusat ollašuhttojuvvojit.</seg>
+        <seg>Seamma oktavuođas ON nállevealahankomitea (CERD) celkkii ”fuolas Sámi álbmoga vuoigatvuođaáššiid gieđahallama vátna bohtosiin” ja ávžžuhii Ruoŧa ”vuolggahit beaktilis doaimmaid vai sápmelaččaid vuoigatvuođaid čielggadusat mielddisbuktet čielga doaimmaid ja seammás lágaid ođasmahttimiid.”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Samassa yhteydessä YK:n rotusyrjintäkomitea (CERD) ilmaisi ” huolensa saamelaisten oikeuksiin liittyvien kysymysten käsittelyssä saavutetusta vähäisestä edistyksestä ” ja kehotti Ruotsia ” ryhtymään tehokkaisiin toimiin, jotta saamelaisten oikeuksiin liittyvät selvitykset johtavat konkreettisiin toimiin ja samalla lainsäädännön uudistamiseen. ”</seg>
+        <seg>Finnmark-laki, 5 ja 29 § Ibid., 33 §.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Seamma oktavuođas ON nállevealahankomitea (CERD) celkkii ” fuolas Sámi álbmoga vuoigatvuođaáššiid gieđahallama vátna bohtosiin ” ja ávžžuhii Ruoŧa ” vuolggahit beaktilis doaimmaid vai sápmelaččaid vuoigatvuođaid čielggadusat mielddisbuktet čielga doaimmaid ja seammás lágaid ođasmahttimiid. ”</seg>
+        <seg>Finnmárkkuláhka, 5 ja 29 § Ibid., 33 §.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Finnmark-laki, 5 ja 29 § Ibid.</seg>
+        <seg>Ibid., 36 §.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Finnmárkkuláhka, 5 ja 29 § Ibid..</seg>
+        <seg>Ibid., 36 §.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>, 33 §.</seg>
+        <seg>Taxed Lapp Mountain -juttu Rajatyöryhmän raportti, SOU: 2006:14 CERD/SWE/18, kappale 19;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>, 33 §.</seg>
+        <seg>Vearroduottar-ášši Rádjabargojoavkku raporta, SOU: 2006:14 CERD/SWE/18, bihttá 19;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ibid.</seg>
+        <seg>ks. myös CCPR/C/SWE/CO/6, kappale 20 (2. huhtikuuta 2009)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ibid..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>, 36 §.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>, 36 §.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Taxed Lapp Mountain - juttu Rajatyöryhmän raportti, SOU.:</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vearroduottar-ášši Rádjabargojoavkku raporta, SOU.:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>2006:14 CERD / SWE/18, kappale 19; ks. myös CCPR / C / SWE.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>2006:14 CERD / SWE/18, bihttá 19; g. maiddái CCPR / C / SWE.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>/ CO/6, kappale 20 (2. huhtikuuta 2009)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>/ CO/6, bihttá 20 (cuoŋománu 2. beaivve 2009)</seg>
+        <seg>g. maiddái CCPR/C/SWE/CO/6, bihttá 20 (cuoŋománu 2. beaivve 2009)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2633,15 +2161,7 @@
         <seg>15 51. Saamelaisten mahdollisuuksia turvata oikeutensa maahan ja luonnonvaroihin vaikeuttaa edelleen se, että todistustaakka Ruotsin tuomioistuimissa on maanomistusoikeuksiaan peräävällä saamelaisväestöllä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>15 oassebeliin lea dehálaš diehtu iežaset hálddus. ”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ankara todistustaakka johtaa kallisiin oikeudenkäynteihin, ja Ruotsin saamelaisilla on harvoin riittävästi varoja maanomistusoikeuksia koskevien vaatimustensa ajamiseen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Garra duođaštusnoađđegáibádusat dagahit divrras lágastemiid, ja Ruoŧa beale sápmelaččain lea hárve doarvái várit lágastit eanavuoigatvuođaideaset bealis.</seg>
+        <seg>15 oassebeliin lea dehálaš diehtu iežaset hálddus. ” Garra duođaštusnoađđegáibádusat dagahit divrras lágastemiid, ja Ruoŧa beale sápmelaččain lea hárve doarvái várit lágastit eanavuoigatvuođaideaset bealis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,18 +2174,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>52.</seg>
+        <seg>52. Suomessa 90 prosenttia saamelaisten kotiseutualueeksi määritetystä maa-alueesta on juridisesti valtion maata.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>52.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Suomessa 90 prosenttia saamelaisten kotiseutualueeksi määritetystä maa-alueesta on juridisesti valtion maata.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Suomas 90 proseantta sámiid ruovttuguovlun meroštallojuvvon eanaviidodagas lea juridihkalaččat stáhta eana.</seg>
+        <seg>52. Suomas 90 proseantta sámiid ruovttuguovlun meroštallojuvvon eanaviidodagas lea juridihkalaččat stáhta eana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,10 +2190,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Samassa yhteydessä YK:n rotusyrjintäkomitea suositteli, että Suomi ” ryhtyy tehokkaisiin toimiin Ylä-Lapin maanomistusoikeuksia koskevan tutkimuksen tulosten soveltamiseksi käytäntöön ja säätämään asiaa koskevia uusia lakeja yhteisymmärryksessä kohteina olevien yhteisöjen kanssa ”.</seg>
+        <seg>Samassa yhteydessä YK:n rotusyrjintäkomitea suositteli, että Suomi ”ryhtyy tehokkaisiin toimiin Ylä-Lapin maanomistusoikeuksia koskevan tutkimuksen tulosten soveltamiseksi käytäntöön ja säätämään asiaa koskevia uusia lakeja yhteisymmärryksessä kohteina olevien yhteisöjen kanssa”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Seamma oktavuođas ON nállevealahankomitea ávžžuhii, ahte Suopma ” vuolggaha beaktilis doaibmabijuid vai Davvi-Lappi eanavuoigatvuođaid dutkanbohtosat heivehuvvojit geavadii, ee. Stáhta ásaha áššái guoski ođđa lágaid ovttasráđiid servošiiguin, maidda lágat gustojit.</seg>
+        <seg>Seamma oktavuođas ON nállevealahankomitea ávžžuhii, ahte Suopma ”vuolggaha beaktilis doaibmabijuid vai Davvi-Lappi eanavuoigatvuođaid dutkanbohtosat heivehuvvojit geavadii, ee. Stáhta ásaha áššái guoski ođđa lágaid ovttasráđiid servošiiguin, maidda lágat gustojit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,34 +2214,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>2.</seg>
+        <seg>2. Oikeus merten luonnonvaroihin</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>2.</seg>
+        <seg>2. Mearravalljodatvuoigatvuođat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Oikeus merten luonnonvaroihin</seg>
+        <seg>53. Kysymys saamelaisten oikeudesta rannikkovesillä tapahtuvaan kalastukseen koskee ensisijaisesti Norjaa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mearravalljodatvuoigatvuođat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>53.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>53.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kysymys saamelaisten oikeudesta rannikkovesillä tapahtuvaan kalastukseen koskee ensisijaisesti Norjaa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gažaldat sápmelaččaid vuoigatvuođas riddoguolásteapmái guoská lagamustá Norgga.</seg>
+        <seg>53. Gažaldat sápmelaččaid vuoigatvuođas riddoguolásteapmái guoská lagamustá Norgga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2766,18 +2262,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>54.</seg>
+        <seg>54. Norjan Finnmark-laissa ei säädetä merten luonnonvaroista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>54.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Norjan Finnmark-laissa ei säädetä merten luonnonvaroista.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Norgga Finnmárkkulágas eai leat mearrádusat mearravalljodagain.</seg>
+        <seg>54. Norgga Finnmárkkulágas eai leat mearrádusat mearravalljodagain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,7 +2278,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjien kanssa käytyjen neuvottelujen jälkeen muodostettiin uusi elin, rannikkokalastuskomitea.</seg>
+        <seg>Saamelaiskäräjien kanssa käytyjen neuvottelujen jälkeen muodostettiin uusi elin, rannikkokalastuskomitea. Se suositteli, että</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuođđuduvvui ođđa orgána, riddoguolástanlávdegoddi, dan maŋŋá go Sámedikkiin ráđđádallojuvvui.</seg>
@@ -2798,90 +2286,50 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Se suositteli, että</seg>
+        <seg>CCPR/C/SWE/CO/6, kappale 21 (2. huhtikuuta 2009).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dasa lassin joavkkut, mat ovddastit báikkálaš sámi guolásteaddjiid, leat deattuhan, ahte dárbbašuvvo sierraláhka, mii dorvvasta báikkálaččaid vuoigatvuođa oassálastit guollečáziid ja mearravalljodagaid dikšumii ja hálddašeapmái.</seg>
+        <seg>CCPR/C/SWE/CO/6, bihttá 21 (cuoŋománu 2. beaivve 2009).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>CCPR / C / SWE.</seg>
+        <seg>Ibid.;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>CCPR / C / SWE.</seg>
+        <seg>Ibid.;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>/ CO/6, kappale 21 (2. huhtikuuta 2009).</seg>
+        <seg>CERD/SWE/18, kappale 20. CERD/C/FIN/CO/19, kappale 14 (13. maaliskuuta 2009).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>/ CO/6, bihttá 21 (cuoŋománu 2. beaivve 2009).</seg>
+        <seg>CERD/SWE/18, bihttá 20. CERD/C/FIN/CO/19, bihtá 14 (njukčamánu 13. beaivve 2009).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ibid.</seg>
+        <seg>16 ”vahvistetaan periaate, jonka mukaan vuonojen ympärillä ja Finnmarkin rannikolla asuvilla on oikeus harjoittaa merikalastusta Finnmarkin edustalla historiallisen käytön ja alkuperäiskansoja ja vähemmistöjä koskevan kansainvälisen lain nojalla.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ibid..</seg>
+        <seg>16</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>; CERD / SWE/18, kappale 20.</seg>
+        <seg>3. Saamelaisten maa-alueisiin ja elinkeinoihin edelleen kohdistuvat uhat</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>; CERD / SWE/18, bihttá 20.</seg>
+        <seg>3. Sápmelaččaid eatnamiidda ja ealáhusaide ain čuohcci áitagat</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>CERD / C / FIN / CO/19, kappale 14 (13. maaliskuuta 2009).</seg>
+        <seg>55. Merkittävän uhan saamelaisten elämäntavalle, erityisesti poronhoidolle, muodostaa kilpaileva maankäyttö, johon valtiot itse usein myötävaikuttavat edistämällä luonnonvarojen hyödyntämistä ja muita kehityshankkeita.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>CERD / C / FIN / CO/19, bihtá 14 (njukčamánu 13. beaivve 2009).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kalastus- ja rannikkoministeriön ja saamelaiskäräjien kesken käydään parhaillaan neuvotteluja rannikkokalastuskomitean työn jatkamisesta.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>NOU 2008:5 (guovvamánu 18. beaivve 2008).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>3.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>3.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisten maa-alueisiin ja elinkeinoihin edelleen kohdistuvat uhat</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sápmelaččaid eatnamiidda ja ealáhusaide ain čuohcci áitagat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>55.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>55.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Merkittävän uhan saamelaisten elämäntavalle, erityisesti poronhoidolle, muodostaa kilpaileva maankäyttö, johon valtiot itse usein myötävaikuttavat edistämällä luonnonvarojen hyödyntämistä ja muita kehityshankkeita.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gilvaleaddji eanageavaheapmi áitá mearkkašahtti vugiin Sámi eallinvuogi, earenoamážit boazodoalu, ja dan stáhtat dávjá iežage ovddidit ávkkástallamiin luondduvalljodagaid ja ovddidemiin eará gárggiidanfitnuid.</seg>
+        <seg>55. Gilvaleaddji eanageavaheapmi áitá mearkkašahtti vugiin Sámi eallinvuogi, earenoamážit boazodoalu, ja dan stáhtat dávjá iežage ovddidit ávkkástallamiin luondduvalljodagaid ja ovddidemiin eará gárggiidanfitnuid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,18 +2350,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>55.</seg>
+        <seg>55. Pohjoismaissa eräät luonnonvarojen hyödyntämistä koskevat lait edellyttävät – vaihtelevissa määrin – saamelaisväestön ja sen elinkeinojen tai maa-alueiden erityistä huomioon ottamista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>55.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pohjoismaissa eräät luonnonvarojen hyödyntämistä koskevat lait edellyttävät – vaihtelevissa määrin – saamelaisväestön ja sen elinkeinojen tai maa-alueiden erityistä huomioon ottamista.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Davviriikkaid muhtun lágat luondduvalljodagaid ávkkástallamis eaktudit – molsašuddi vugiin – Sámi álbmoga ja dan ealáhusaid dahje eatnamiid earenoamáš vuhtiiváldima.</seg>
+        <seg>55. Davviriikkaid muhtun lágat luondduvalljodagaid ávkkástallamis eaktudit – molsašuddi vugiin – Sámi álbmoga ja dan ealáhusaid dahje eatnamiid earenoamáš vuhtiiváldima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,18 +2382,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>56.</seg>
+        <seg>56. Norjassa pohjoisen öljy- ja kaasukenttien hyödyntäminen on varteenotettava uhka poronhoidolle.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>56.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Norjassa pohjoisen öljy- ja kaasukenttien hyödyntäminen on varteenotettava uhka poronhoidolle.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Norggas davviguovllu oljo- ja gássagittiid ávkkástallan lea mearkkašahtti áitta boazodollui.</seg>
+        <seg>56. Norggas davviguovllu oljo- ja gássagittiid ávkkástallan lea mearkkašahtti áitta boazodollui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,18 +2406,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>57.</seg>
+        <seg>57. Ruotsissa kaivos- ja tuulivoimalahankkeet aiheuttavat saamelaisille kasvavia paineita heidän perinteisillä maa-alueillaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>57.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsissa kaivos- ja tuulivoimalahankkeet aiheuttavat saamelaisille kasvavia paineita heidän perinteisillä maa-alueillaan.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruoŧas ruvke- ja bieggamillofitnut dagahit sápmelaččaide ain stuorru deattu sin árbevirolaš eatnamiin.</seg>
+        <seg>57. Ruoŧas ruvke- ja bieggamillofitnut dagahit sápmelaččaide ain stuorru deattu sin árbevirolaš eatnamiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,34 +2422,42 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Esim. Norjan metsänhoitolain 1 luvun 2 §:ssä todetaan, että lakia ” ei saa soveltaa tavalla, joka loukkaa</seg>
+        <seg>NOU 2008:5 (18. helmikuuta 2008).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Omd. Norgga vuovdelága 1 logu 2 §:s celkojuvvo, ahte “ lága ii oaččo heivehit vugiin, mii rihkku sámi</seg>
+        <seg>Ruoŧŧa lea vástidan, ahte guokte čearu gávpoga lahkosis - Gábna ja Leavas – leat oassálastán plánema gárggiidanprosessii ee.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>saamelaisten poronomistajien oikeutta polttopuuhun ja polttoaineeseen. ”</seg>
+        <seg>Esim. Norjan metsänhoitolain 1 luvun 2 §:ssä todetaan, että lakia ”ei saa soveltaa tavalla, joka loukkaa</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>boazoeaiggádiid vuoigatvuođa boaldenmuoraide ja boaldámuššii. ”</seg>
+        <seg>Omd. Norgga vuovdelága 1 logu 2 §:s celkojuvvo, ahte “lága ii oaččo heivehit vugiin, mii rihkku sámi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ruotsin metsänhoitolaki edellyttää, että ” metsänhoitotoimia suunniteltaessa ja toteutettaessa on toivottavaa, että asianomaiselle saamelaiskylälle annetaan vuosittain käyttöön riittävän suuri ja yhtenäinen laidunalue sekä runsaasti kasvillisuutta alueilla, joita käytetään porojen tarhaus-, vaellus- ja lepopaikkoina. ”</seg>
+        <seg>saamelaisten poronomistajien oikeutta polttopuuhun ja polttoaineeseen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ruoŧa vuovdeláhka eaktuda, ahte “ vuovdedoaimmaid plánedettiin ja ollašuhtedettiin lea sávahahtti, ahte áššáigullevaš čerrui addojuvvo jahkásaččat atnui doarvái stuorra ja oktilaš guohtuneana ja valjit šattolašvuohta guovlluin, mat adnojuvvojit bohccuid rátkin-, johtin- ja orustanbáikin. ”</seg>
+        <seg>boazoeaiggádiid vuoigatvuođa boaldenmuoraide ja boaldámuššii.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Suomen metsälain 12 §:n 1 momentissa todetaan, että valtioneuvoston on kuultava saamelaiskäräjiä antaessaan määräyksiä metsän hoitamisesta.</seg>
+        <seg>” Ruotsin metsänhoitolaki edellyttää, että ”metsänhoitotoimia suunniteltaessa ja toteutettaessa on toivottavaa, että asianomaiselle saamelaiskylälle annetaan vuosittain käyttöön riittävän suuri ja yhtenäinen laidunalue sekä runsaasti kasvillisuutta alueilla, joita käytetään porojen tarhaus-, vaellus- ja lepopaikkoina.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Suoma vuovdelága 12 §:a 1 momeanttas celkojuvvo, ahte stáhtaráđđi galgá gullat sámedikki, go addá mearrádusaid vuvddiid dikšumis.</seg>
+        <seg>” Ruoŧa vuovdeláhka eaktuda, ahte “vuovdedoaimmaid plánedettiin ja ollašuhtedettiin lea sávahahtti, ahte áššáigullevaš čerrui addojuvvo jahkásaččat atnui doarvái stuorra ja oktilaš guohtuneana ja valjit šattolašvuohta guovlluin, mat adnojuvvojit bohccuid rátkin-, johtin- ja orustanbáikin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>” Suomen metsälain 12 §:n 1 momentissa todetaan, että valtioneuvoston on kuultava saamelaiskäräjiä antaessaan määräyksiä metsän hoitamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>” Suoma vuovdelága 12 §:a 1 momeanttas celkojuvvo, ahte stáhtaráđđi galgá gullat sámedikki, go addá mearrádusaid vuvddiid dikšumis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,18 +2478,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>58.</seg>
+        <seg>58. Suomessa saamelaisväestö on jo vuosia kantanut huolta hakkuiden vaikutuksesta porotalouteen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>58.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Suomessa saamelaisväestö on jo vuosia kantanut huolta hakkuiden vaikutuksesta porotalouteen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Suomas sápmelaččat lea juo jagiid guoddán fuola vuovdečuohppamiid váikkuhusain boazodollui.</seg>
+        <seg>58. Suomas sápmelaččat lea juo jagiid guoddán fuola vuovdečuohppamiid váikkuhusain boazodollui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,34 +2494,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Sopimuksia metsänkäytöstä Metsähallituksen ja paliskuntien kesken on tehty myös vuonna 2010.</seg>
+        <seg>Sopimuksia metsänkäytöstä Metsähallituksen ja paliskuntien kesken on tehty myös vuonna 2010. Silti hakkuut uhkaavat edelleen saamelaisten harjoittaman porotalouden kannalta tärkeitä alueita varsinkin, kun otetaan huomioon saamelaisten maa-alueiden ja luonnonvarojen käytön oikeudellisesti turvaton asema.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Maiddái jagi 2010 Meahciráđđehus ja bálgosat vuolláičálle soahpamušaid.</seg>
+        <seg>Maiddái jagi 2010 Meahciráđđehus ja bálgosat vuolláičálle soahpamušaid. Dattetge vuovdečuohppamat áitet ain sápmelaččaid dehálaš boazodoalloguovlluid eandalii, go váldojuvvo vuhtii sápmelaččaid dorvvuhis sajádat eatnamiid ja luondduvalljodagaid geavaheami ektui.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Silti hakkuut uhkaavat edelleen saamelaisten harjoittaman porotalouden kannalta tärkeitä alueita varsinkin, kun otetaan huomioon saamelaisten maa-alueiden ja luonnonvarojen käytön oikeudellisesti turvaton asema.</seg>
+        <seg>59. Lisäksi ilmastonmuutoksella – sen selvästi globaalista luonteesta huolimatta – on ollut erityisen haitallinen vaikutus saamelaisten tapaisiin kansoihin, joiden elinkeino on riippuvainen arktisen alueen ilmasto-oloista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dattetge vuovdečuohppamat áitet ain sápmelaččaid dehálaš boazodoalloguovlluid eandalii, go váldojuvvo vuhtii sápmelaččaid dorvvuhis sajádat eatnamiid ja luondduvalljodagaid geavaheami ektui.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>59.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>59.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Lisäksi ilmastonmuutoksella – sen selvästi globaalista luonteesta huolimatta – on ollut erityisen haitallinen vaikutus saamelaisten tapaisiin kansoihin, joiden elinkeino on riippuvainen arktisen alueen ilmasto-oloista.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dasa lassin dálkkádatrievdamis – dan čielgasit máilmmiviidosaš iešvuođas fuolakeahttá</seg>
+        <seg>59. Dasa lassin dálkkádatrievdamis – dan čielgasit máilmmiviidosaš iešvuođas fuolakeahttá – lea leamaš earenoamáš vahátlaš váikkuhus sápmelaččaid lágan álbmogiidda, geaid ealáhus</seg>
       </tuv>
     </tu>
     <tu>
@@ -3126,18 +2534,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>60.</seg>
+        <seg>60. On myös huolehdittava siitä, että globaalin ilmastonmuutoksen torjumiseen tähtäävät toimet eivät itsessään uhkaa saamelaisten elinkeinoja.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>60.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>On myös huolehdittava siitä, että globaalin ilmastonmuutoksen torjumiseen tähtäävät toimet eivät itsessään uhkaa saamelaisten elinkeinoja.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Galgá maiddái fuolahit das, ahte máilmmiviidosaš dálkkádatrievdama doarjundoaimmat eai áitte sápmelaččaid ealáhusaid.</seg>
+        <seg>60. Galgá maiddái fuolahit das, ahte máilmmiviidosaš dálkkádatrievdama doarjundoaimmat eai áitte sápmelaččaid ealáhusaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3161,23 +2561,15 @@
         <seg>Ruotsin hallitus on myöntänyt luvan mahdollisesti maailman suurimalle maalle rakennettavalle tuulivoimapuistolle, joka on määrä pystyttää Piteån kuntaan – samalle alueelle, jossa Östra Kikkejaurin saamelaiskylän talvilaitumet sijaitsevat.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ruoŧa ráđđehus lea mieđihan lobi bieggamilloviidodahkii, mas sáhttá boahtit vejolaččat máilmmi stuorámus eatnan alde ja mii ceggejuvvo Biŧoma gildii – seamma guvlui, go Östra Kikkejaur – čearu dálveguohtuneatnamat leat.</seg>
+        <seg>Ruoŧa ráđđehus lea mieđihan lobi bieggamilloviidodahkii, mas sáhttá boahtit vejolaččat máilmmi stuorámus eatnan alde ja mii ceggejuvvo Biŧoma gildii – seamma guvlui, go Östra Kikkejaur –čearu dálveguohtuneatnamat leat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>61.</seg>
+        <seg>61. Petoeläimet – pääasiassa sudet, ahmat, ilvekset, karhut ja kotkat – aiheuttavat poronhoitoalueilla monin paikoin jopa kaivannaisteollisuutta suuremman uhan poronhoidolle.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>61.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Petoeläimet – pääasiassa sudet, ahmat, ilvekset, karhut ja kotkat – aiheuttavat poronhoitoalueilla monin paikoin jopa kaivannaisteollisuutta suuremman uhan poronhoidolle.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Boraspiret – eanaš gumppet, geatkkit, albasat, guovžžat ja goaskimat – dagahit boazodoalloguovlluin máŋggain sajiin juoba stuorát áitaga boazodollui go ruvkeindustriija.</seg>
+        <seg>61. Boraspiret – eanaš gumppet, geatkkit, albasat, guovžžat ja goaskimat – dagahit boazodoalloguovlluin máŋggain sajiin juoba stuorát áitaga boazodollui go ruvkeindustriija.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,10 +2590,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>A / HRC/15.37, liite 1, kappale 384.</seg>
+        <seg>A/HRC/15.37, liite 1, kappale 384.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>A / HRC/15.37, čuovus 1, bihttá 384.</seg>
+        <seg>A/HRC/15.37, čuovus 1, bihttá 384.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>18 vuodessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>18</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,18 +2614,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>62.</seg>
+        <seg>62. Saamelaiskielillä on saamelaisidentiteetin ja saamelaisuuden säilymisen kannalta keskeinen merkitys, joten nämä kielet ovat kaikkien Pohjoismaiden saamelaisväestön kannalta elintärkeitä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>62.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaiskielillä on saamelaisidentiteetin ja saamelaisuuden säilymisen kannalta keskeinen merkitys, joten nämä kielet ovat kaikkien Pohjoismaiden saamelaisväestön kannalta elintärkeitä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámegielain lea sámeidentitehta ja sápmelašvuođa seailuma dáfos mávssolaš mearkkašupmi, nu ahte dát gielat leat buot Davviriikkaid Sámi álbmoga dáfos vealtameahttumat.</seg>
+        <seg>62. Sámegielain lea sámeidentitehta ja sápmelašvuođa seailuma dáfos mávssolaš mearkkašupmi, nu ahte dát gielat leat buot Davviriikkaid Sámi álbmoga dáfos vealtameahttumat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,18 +2662,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>63.</seg>
+        <seg>63. Norjassa saamelaisten oikeus säilyttää oma kielensä ja kehittää sitä eri yhteyksissä on kirjattu perustuslakiin ja lukuisiin yksittäisiin lakeihin, kuten vuoden 1987 saamelaislakiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>63.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Norjassa saamelaisten oikeus säilyttää oma kielensä ja kehittää sitä eri yhteyksissä on kirjattu perustuslakiin ja lukuisiin yksittäisiin lakeihin, kuten vuoden 1987 saamelaislakiin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Norggas Sámi álbmoga vuoigatvuohta seailluhit gielaset ja ovddidit dan sierra diliin lea čállojuvvon vuođđoláhkii ja máŋggaid sierra lágaide, nugo jagi 1987 sámeláhkii.</seg>
+        <seg>63. Norggas Sámi álbmoga vuoigatvuohta seailluhit gielaset ja ovddidit dan sierra diliin lea čállojuvvon vuođđoláhkii ja máŋggaid sierra lágaide, nugo jagi 1987 sámeláhkii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3289,7 +2673,7 @@
         <seg>Norjassa tehdään myös työtä mm. saamelaiskäräjien välityksellä saamelaiskielten elvyttämiseksi Saamenmaalla, ja hallitus laatii parhaillaan laajaa toimintasuunnitelmaa saamelaiskielten aseman vahvistamiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Norggas leat olu doaimmat ee. sámedikki giellaealáskahttindoaimmat Sámis ja ráđđehus lea ovddideamen viiddes ” Sámegielaid doaibmaplána ” vai ollašuhttit ulbmila.</seg>
+        <seg>Norggas leat olu doaimmat ee. sámedikki giellaealáskahttindoaimmat Sámis ja ráđđehus lea ovddideamen viiddes ”Sámegielaid doaibmaplána” vai ollašuhttit ulbmila.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,26 +2694,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>64.</seg>
+        <seg>64. Ruotsissa ei ole Norjan ja Suomen tavoin erikseen lainsäädäntöä saamen kielen aseman turvaamisesta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>64.</seg>
+        <seg>64. Norggas ja Suomas leat sierra lágat sámegiela sajádaga dorvvasteamis, muhto Ruoŧas dat váilot.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ruotsissa ei ole Norjan ja Suomen tavoin erikseen lainsäädäntöä saamen kielen aseman turvaamisesta.</seg>
+        <seg>Kansallisista vähemmistökielistä vastikään annetussa laissa saamen kielelle kuitenkin taataan erityisasema muiden vähemmistökieliksi luokiteltujen kielten joukossa tietyillä nimetyillä ”hallintoalueilla”.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Norggas ja Suomas leat sierra lágat sámegiela sajádaga dorvvasteamis, muhto Ruoŧas dat váilot.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kansallisista vähemmistökielistä vastikään annetussa laissa saamen kielelle kuitenkin taataan erityisasema muiden vähemmistökieliksi luokiteltujen kielten joukossa tietyillä nimetyillä ” hallintoalueilla ”.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gieskat addojuvvui láhka nášuvnnalaš veahádatgielain, mas sámegillii goittotge dorvvastuvvo sierrasajádat eará veahádatgiellan meroštallojuvvon gielaid joavkkus dihto lágas máinnašuvvon ” hálddašanguovlluin ”.</seg>
+        <seg>Gieskat addojuvvui láhka nášuvnnalaš veahádatgielain, mas sámegillii goittotge dorvvastuvvo sierrasajádat eará veahádatgiellan meroštallojuvvon gielaid joavkkus dihto lágas máinnašuvvon ”hálddašanguovlluin”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,23 +2734,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>65.</seg>
+        <seg>65. Suomen perustuslaissa taataan saamelaisille oikeus ylläpitää ja kehittää omaa kieltään ja kulttuuriaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>65.</seg>
+        <seg>65. Suoma vuođđolágas dorvvastuvvo sápmelaččaide vuoigatvuohta doalahit ja ovddidit iežas giela ja kultuvrra.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Suomen perustuslaissa taataan saamelaisille oikeus ylläpitää ja kehittää omaa kieltään ja kulttuuriaan.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Suoma vuođđolágas dorvvastuvvo sápmelaččaide vuoigatvuohta doalahit ja ovddidit iežas giela ja kultuvrra.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vuoden 2008 Saamen kielilaissa puolestaan tunnustetaan saamelaisten oikeus käyttää omaa kieltään tuomioistuimessa ja muussa viranomaisessa erityisesti Enontekiön,</seg>
+        <seg>Vuoden 2008 Saamen kielilaissa puolestaan tunnustetaan saamelaisten oikeus käyttää omaa kieltään tuomioistuimessa ja muussa viranomaisessa erityisesti Enontekiön, 19 Inarin, Sodankylän ja Utsjoen kuntien eli saamelaisten ydinalueiden toimielimissä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jagi 2008 sámi giellalágas fas dovddastuvvo Sámi álbmoga vuoigatvuohta geavahit iežas giela duopmostuoluin ja eará eiseválddiin earenoamážit Eanodaga, Anára, Soađegili ja Ohcejoga gielddain dahjege sámiid ruovttuguovllu doaibmaorgánain.</seg>
@@ -3382,7 +2750,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>19 Inarin, Sodankylän ja Utsjoen kuntien eli saamelaisten ydinalueiden toimielimissä.</seg>
+        <seg>Tämä oikeudellisen aseman turvaaminen ei kuitenkaan ole käytännössä toteutunut johtuen pääasiassa kuntien ja valtion viranomaisten puutteellisesta saamen kielen taidosta.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Goittotge geavatlaččat dát lágalaš sajádaga dorvvasteapmi ii leat ollašuvvan, daningo eanaš gielddaid ja stáhta eiseválddiin váilu sámegieldáidu.</seg>
@@ -3390,7 +2758,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tämä oikeudellisen aseman turvaaminen ei kuitenkaan ole käytännössä toteutunut johtuen pääasiassa kuntien ja valtion viranomaisten puutteellisesta saamen kielen taidosta.</seg>
+        <seg>Sosiaali- ja terveyspalvelujen saatavuutta saamen kielellä luonnehditaan sattumanvaraiseksi jopa saamelaisten ydinalueella.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sosiála- ja dearvvasvuođabálvalusaid oažžun sámegillii daddjo leat soaittáhagas juoba sámiid ruovttuguovllus.</seg>
@@ -3398,26 +2766,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Sosiaali- ja terveyspalvelujen saatavuutta saamen kielellä luonnehditaan sattumanvaraiseksi jopa saamelaisten ydinalueella.</seg>
+        <seg>Joitakin kielen elvyttämiseen tähtääviä toimenpiteitä on tähän mennessä toteutettu, menestyksekkäimpänä niistä Inarissa alle kouluikäisille kieli- ja kulttuurikylpyä tarjoavat kielipesäohjelmat, joiden rahoitusta opetus- ja kulttuuriministeriö on sitoutunut jatkamaan vuonna 2011. Merkittävää on, että valtioneuvoston vuonna 2009 eduskunnalle antamassa Suomen ihmisoikeuspolitiikkaa koskevassa selonteossa todetaan, että valtioneuvosto valmistelee kattavan saamen kielen elvyttämisohjelman, jonka painopistealueina ovat varhaiskasvatus, opetus, sosiaali- ja terveyspalvelut, kulttuuri ja media sekä elinkeinopolitiikka.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Muhtun giellaealáskahttindoaimmat leat dán rádjai ollašuhttojuvvon, okta buoremusat menestuvvan lea anárašgielat giellabeasit, mat fállet vuollái skuvlaahkásaččaide giella- ja kulturlávgumiid, ja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Joitakin kielen elvyttämiseen tähtääviä toimenpiteitä on tähän mennessä toteutettu, menestyksekkäimpänä niistä Inarissa alle kouluikäisille kieli- ja kulttuurikylpyä tarjoavat kielipesäohjelmat, joiden rahoitusta opetus- ja kulttuuriministeriö on sitoutunut jatkamaan vuonna 2011.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>19 maid ruhtadeami oahpahus- ja kulturministeriija lea čatnasan joatkit jagi 2011.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Merkittävää on, että valtioneuvoston vuonna 2009 eduskunnalle antamassa Suomen ihmisoikeuspolitiikkaa koskevassa selonteossa todetaan, että valtioneuvosto valmistelee kattavan saamen kielen elvyttämisohjelman, jonka painopistealueina ovat varhaiskasvatus, opetus, sosiaali- ja terveyspalvelut, kulttuuri ja media sekä elinkeinopolitiikka.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Lea dehálaš, ahte ráđđehusa raporttas riikkabeivviide Suoma olmmošvuoigatvuođapolitihka birra, ráđđehus gárve viiddes sámegiela ealáskahttinprográmma, man deaddosuorgin leat smávvamánáidpedagogihkka, oahpahus, sosiála- ja dearvvasvuođabálvalusat, kultuvra sihke media ja ealáhuspolitihkka.</seg>
+        <seg>19 maid ruhtadeami oahpahus- ja kulturministeriija lea čatnasan joatkit jagi 2011. Lea dehálaš, ahte ráđđehusa raporttas riikkabeivviide Suoma olmmošvuoigatvuođapolitihka birra, ráđđehus gárve viiddes sámegiela ealáskahttinprográmma, man deaddosuorgin leat smávvamánáidpedagogihkka, oahpahus, sosiála- ja dearvvasvuođabálvalusat, kultuvra sihke media ja ealáhuspolitihkka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,18 +2782,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>66.</seg>
+        <seg>66. Koulutuksella on olennainen merkitys saamelaisten historian, kulttuurin, perimätiedon ja kielen ylläpitämisessä ja elvyttämisessä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>66.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Koulutuksella on olennainen merkitys saamelaisten historian, kulttuurin, perimätiedon ja kielen ylläpitämisessä ja elvyttämisessä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oahpahusas lea guovddáš mearkkašupmi sámiid historjjá, kultuvrra, árbedieđu ja giela seailluheamis ja doalaheamis ja ealáskahttimis.</seg>
+        <seg>66. Oahpahusas lea guovddáš mearkkašupmi sámiid historjjá, kultuvrra, árbedieđu ja giela seailluheamis ja doalaheamis ja ealáskahttimis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3462,18 +2806,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>67.</seg>
+        <seg>67. Kattavan saamelaisen koulutuspolitiikan kehittäminen on näistä kolmesta maasta viety pisimmälle Norjassa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>67.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kattavan saamelaisen koulutuspolitiikan kehittäminen on näistä kolmesta maasta viety pisimmälle Norjassa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ollislaš sámi oahpahuspolitihka gárggiideapmi lea ovdánan guhkimussii dán golmma Davviriikkas Norggas.</seg>
+        <seg>67. Ollislaš sámi oahpahuspolitihka gárggiideapmi lea ovdánan guhkimussii dán golmma Davviriikkas Norggas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,10 +2830,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Vaikka yhä useammat koulut järjestävät saamenkielistä opetusta, jatkuvana puutteena on muun muassa pula saamenopettajista, vaikka Norjan saamelaiskäräjät totesikin saavuttaneensa tässä suhteessa hyviä tuloksia ” unelmatyöhankkeellaan ”, jossa myönnetään apurahoja saamelaiskielten opettajiksi opiskeleville.</seg>
+        <seg>Vaikka yhä useammat koulut järjestävät saamenkielistä opetusta, jatkuvana puutteena on muun muassa pula saamenopettajista, vaikka Norjan saamelaiskäräjät totesikin saavuttaneensa tässä suhteessa hyviä tuloksia ”unelmatyöhankkeellaan”, jossa myönnetään apurahoja saamelaiskielten opettajiksi opiskeleville.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vaikke ain eanet skuvllain lágidit sámegielat oahpahusa, lea bissovaš vátnivuohta ee. sámi oahpaheaddjiin, vaikke Norgga beale sámediggi leage gávnnahan, ahte dat lea ožžon buriid bohtosiid “ niehkobargu ” – fitnus, man bokte juolluduvvojit veahkkeruđat sámegielat oahpaheaistudeanttaide.</seg>
+        <seg>Vaikke ain eanet skuvllain lágidit sámegielat oahpahusa, lea bissovaš vátnivuohta ee. sámi oahpaheaddjiin, vaikke Norgga beale sámediggi leage gávnnahan, ahte dat lea ožžon buriid bohtosiid “niehkobargu” –fitnus, man bokte juolluduvvojit veahkkeruđat sámegielat oahpaheaistudeanttaide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3510,18 +2846,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>68.</seg>
+        <seg>68. Ruotsissa saamenkielinen opetus on lähinnä varmistettu 1990-luvulla perustetuilla, Ruotsin valtion ylläpitämillä saamelaiskouluilla, joita hallinnoi erityinen saamelaiskäräjien nimittämä saamelaiskoulujen hallintoelin ja jotka sijaitsevat saamelaisten perinteisillä poronhoitoalueilla.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>68.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ruotsissa saamenkielinen opetus on lähinnä varmistettu 1990-luvulla perustetuilla, Ruotsin valtion ylläpitämillä saamelaiskouluilla, joita hallinnoi erityinen saamelaiskäräjien nimittämä saamelaiskoulujen hallintoelin ja jotka sijaitsevat saamelaisten perinteisillä poronhoitoalueilla.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ruoŧas sámegielat oahpahus lea lagamustá sihkkarastojuvvon 1990-logus vuođđuduvvon sámeskuvllaid bokte, maid jođiha Ruoŧa beale sámedikki nammadan Sámi skuvlastivra, ja mat leat sápmelaččaid árbevirolaš boazodoalloguovlluin.</seg>
+        <seg>68. Ruoŧas sámegielat oahpahus lea lagamustá sihkkarastojuvvon 1990-logus vuođđuduvvon sámeskuvllaid bokte, maid jođiha Ruoŧa beale sámedikki nammadan Sámi skuvlastivra, ja mat leat sápmelaččaid árbevirolaš boazodoalloguovlluin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,10 +2870,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kunta voi lisäksi tarjota opetustoimensa puitteissa ” integroitua saamenkielistä opetusta ” tekemällä tarvittavat järjestelyt saamelaiskoulujen hallintoelimen kanssa.</seg>
+        <seg>Kunta voi lisäksi tarjota opetustoimensa puitteissa ”integroitua saamenkielistä opetusta” tekemällä tarvittavat järjestelyt saamelaiskoulujen hallintoelimen kanssa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dasa lassin gielda sáhttá fállat oahpahusdoaimmas olis ” integrerejuvvon sámegielat oahpahusa ”, juos gielda dahká dárbbašlaš ordnemiid Sámi skuvlastivrrain.</seg>
+        <seg>Dasa lassin gielda sáhttá fállat oahpahusdoaimmas olis ”integrerejuvvon sámegielat oahpahusa”, juos gielda dahká dárbbašlaš ordnemiid Sámi skuvlastivrrain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,7 +2894,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>20 oppilaille. Lisäksi kyseiset kolme ohjelmaa tavoittavat yhä yhteensä vain noin 10–20 % oppivelvollisuusikäisistä saamelaislapsista.</seg>
+        <seg>Lisäksi kyseiset kolme ohjelmaa tavoittavat yhä yhteensä vain noin 10–20 % oppivelvollisuusikäisistä saamelaislapsista.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dasa lassin dát golbma prográmma jukset dušše sullii 10–20 % oahppiin, geat leat oahppogeatnegas agis.</seg>
@@ -3574,18 +2902,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>69.</seg>
+        <seg>69. Suomessa saamenkielisen opetuksen järjestäminen saamelaisten kotiseutualueella on taattu lailla. Lisäksi kotiseutualueen kunnille myönnetään opetus- ja kulttuuritoimen rahoituksesta annetun lain nojalla ylimääräisiä valtionavustuksia saamenkielisen opetuksen järjestämiseen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>69.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Suomessa saamenkielisen opetuksen järjestäminen saamelaisten kotiseutualueella on taattu lailla. Lisäksi kotiseutualueen kunnille myönnetään opetus- ja kulttuuritoimen rahoituksesta annetun lain nojalla ylimääräisiä valtionavustuksia saamenkielisen opetuksen järjestämiseen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Suomas sámegielat oahpahusa lágideapmi sámiid ruovttuguovllus lea dorvvastuvvon lágain nu, ahte ruovttuguovllu gielddaide juolluduvvo badjelmearálaš stáhtadoarjagat sámegielat oahpahusa lágideami várás oahpahus- ja kulturdoaimma ruhtadeamis addojuvvon lága vuođul.</seg>
+        <seg>69. Suomas sámegielat oahpahusa lágideapmi sámiid ruovttuguovllus lea dorvvastuvvon lágain nu, ahte ruovttuguovllu gielddaide juolluduvvo badjelmearálaš stáhtadoarjagat sámegielat oahpahusa lágideami várás oahpahus- ja kulturdoaimma ruhtadeamis addojuvvon lága vuođul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3598,7 +2918,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaisasutuksen hajanaisuus ja pula saamenopettajista ovat saamen kielen ja kulttuurin opetuksen kannalta ongelma.</seg>
+        <seg>Saamelaisasutuksen hajanaisuus ja pula saamenopettajista ovat saamen kielen ja kulttuurin opetuksen kannalta ongelma. Lisäksi on pulaa etenkin koltan- ja inarinsaamen oppimateriaaleista.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sápmelaččaid ássama bieđggusvuohta ja sámeoahpaheaddjiid vátnivuohta leat sámegiela ja kultuvrra oahpahusa dáfos váttisvuohtan, ja maiddái oahppomateriálat váilot, earenoamážit nuortalaš- ja anárašgielain.</seg>
@@ -3606,34 +2926,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lisäksi on pulaa etenkin koltan- ja inarinsaamen oppimateriaaleista.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gáiddusoahpahusa álkidahttima geažil leat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Etäopetuksen helpottamiseksi on tehty joitakin toimenpiteitä, mutta näissä ohjelmissa on törmätty ongelmiin, jotka pääasiassa johtuvat rahoituksen vähäisyydestä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>20 ollašuhttojuvvon muhtun doaibmabijut, muhto dain leat váttisvuođat, maid ruhtadeami vátnivuohtagis lea dagahan.</seg>
+        <seg>Gáiddusoahpahusa álkidahttima geažil leat 20 ollašuhttojuvvon muhtun doaibmabijut, muhto dain leat váttisvuođat, maid ruhtadeami vátnivuohtagis lea dagahan.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>70.</seg>
+        <seg>70. Saamen kielen ja kulttuurin elvyttämisen kannalta on tärkeää myös lisätä yleistä tietoisuutta saamelaiskansoista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>70.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamen kielen ja kulttuurin elvyttämisen kannalta on tärkeää myös lisätä yleistä tietoisuutta saamelaiskansoista.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sámegielaid ja kultuvrra ealáskahttima dáfos lea dehálaš maiddái lasihit almmolaš diđolašvuođa Sámi álbmogis.</seg>
+        <seg>70. Sámegielaid ja kultuvrra ealáskahttima dáfos lea dehálaš maiddái lasihit almmolaš diđolašvuođa Sámi álbmogis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3678,18 +2982,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>71.</seg>
+        <seg>71. Yleisesti ottaen Norjassa, Ruotsissa ja Suomessa kiinnitetään muihin maihin verrattuna suhteellisen paljon huomiota alkuperäiskansojen ongelmiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>71.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Yleisesti ottaen Norjassa, Ruotsissa ja Suomessa kiinnitetään muihin maihin verrattuna suhteellisen paljon huomiota alkuperäiskansojen ongelmiin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oppalaččat Norggas, Ruoŧas ja Suomas giddejuvvo eanet fuomášupmi álgoálbmogiid váttisvuođaide go eará riikkain.</seg>
+        <seg>71. Oppalaččat Norggas, Ruoŧas ja Suomas giddejuvvo eanet fuomášupmi álgoálbmogiid váttisvuođaide go eará riikkain.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,26 +3006,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>72.</seg>
+        <seg>72. Erityisraportoija kiittää Norjaa siitä, että se ratifioi ensimmäisenä valtiona ILO:n itsenäisten maiden alkuperäis- ja heimokansoja koskevan yleissopimuksen nro 169. Erityisraportoija kehottaa Suomea loppuunsaattamaan kyseisen sopimuksen ratifioimiseksi tarvittavat toimenpiteet ja Ruotsia harkitsemaan ratifioimista saamelaisia kuultuaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>72.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija kiittää Norjaa siitä, että se ratifioi ensimmäisenä valtiona ILO:n itsenäisten maiden alkuperäis- ja heimokansoja koskevan yleissopimuksen nro 169.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji giitá Norgga das, ahte dat ratifierii vuosttas stáhtan riikkaidgaskasaš bargoorganisašuvnna konvenšuvnna nr 169 álgoálbmogiid ja čearddalaš álbmogiid hárrái iešmearrideaddji riikkain.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija kehottaa Suomea loppuunsaattamaan kyseisen sopimuksen ratifioimiseksi tarvittavat toimenpiteet ja Ruotsia harkitsemaan ratifioimista saamelaisia kuultuaan.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji ávžžuha Suoma gerget ILO-soahpamuša ratifierema gáibidan doaimmaid ja Ruoŧa árvvoštallat ratifierema ovttasráđiid sápmelaččaiguin.</seg>
+        <seg>72. Spesiálaraporterejeaddji giitá Norgga das, ahte dat ratifierii vuosttas stáhtan riikkaidgaskasaš bargoorganisašuvnna konvenšuvnna nr 169 álgoálbmogiid ja čearddalaš álbmogiid hárrái iešmearrideaddji riikkain. Spesiálaraporterejeaddji ávžžuha Suoma gerget ILO-soahpamuša ratifierema gáibidan doaimmaid ja Ruoŧa árvvoštallat ratifierema ovttasráđiid sápmelaččaiguin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,18 +3022,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>73.</seg>
+        <seg>73. Vaikka saamelaisalueet ja -kansat ovat historian saatossa jakautuneet neljän valtion alueelle, saamelaiset ovat tehneet merkittäviä ponnistuksia pitääkseen yllä ja vahvistaakseen valtioiden rajat ylittäviä keskinäisiä siteitään ja edistääkseen intressejään yhtenä kansana.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>73.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vaikka saamelaisalueet ja - kansat ovat historian saatossa jakautuneet neljän valtion alueelle, saamelaiset ovat tehneet merkittäviä ponnistuksia pitääkseen yllä ja vahvistaakseen valtioiden rajat ylittäviä keskinäisiä siteitään ja edistääkseen intressejään yhtenä kansana.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vaikke Sámi guovllut ja álbmot leat historjjá olis juohkásan njealji riikka viidodahkii, sápmelaččat lea rahčan sakka doalahit ja nannet riikkaid rájáidrasttildeaddji oktavuođaid ja gárggiidit beroštumiideaset oktan álbmogin.</seg>
+        <seg>73. Vaikke Sámi guovllut ja álbmot leat historjjá olis juohkásan njealji riikka viidodahkii, sápmelaččat lea rahčan sakka doalahit ja nannet riikkaid rájáidrasttildeaddji oktavuođaid ja gárggiidit beroštumiideaset oktan álbmogin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3774,18 +3046,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>74.</seg>
+        <seg>74. Erityisraportoija panee merkille pohjoismaisen saamelaissopimuksen hyväksymisessä saavutetun merkittävän edistyksen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>74.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija panee merkille pohjoismaisen saamelaissopimuksen hyväksymisessä saavutetun merkittävän edistyksen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji gidde fuomášumi, ahte davviriikkalaš sámekonvenšuvnna dohkkeheamis lea dáhpáhuvvan mearkkašahtti gárggiideapmi.</seg>
+        <seg>74. Spesiálaraporterejeaddji gidde fuomášumi, ahte davviriikkalaš sámekonvenšuvnna dohkkeheamis lea dáhpáhuvvan mearkkašahtti gárggiideapmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3793,7 +3057,7 @@
         <seg>Hän pitää tervetulleena Pohjoismaiden ja saamelaiskäräjien sitoutumista jatkaa vuoden 2011 aikana neuvotteluja sopimuksen hyväksymiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Son atná buresboahtin Davviriikkaid ja sámedikkiid čatnaseami joatkit jagi 2011 áigge ráđđádallamiid konvenšuvnna dohkkeheami várás. Spesiálaraporterejeaddji bivdá</seg>
+        <seg>Son atná buresboahtin Davviriikkaid ja sámedikkiid čatnaseami joatkit jagi 2011 áigge ráđđádallamiid konvenšuvnna dohkkeheami várás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,23 +3065,15 @@
         <seg>Erityisraportoija pyytää valtioita varmistamaan, että näiden neuvottelujen puitteet mahdollistavat saamelaiskäräjien osallistumisen niihin yhdenvertaisina osapuolina.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>21 stáhtaid nannet, ahte dáid ráđđádallaneavttut láhččojuvvojit nu, ahte sámedikkit besset ráđđádallat ovttaveardásaš oassebeallin.</seg>
+        <seg>Spesiálaraporterejeaddji bivdá 21 stáhtaid nannet, ahte dáid ráđđádallaneavttut láhččojuvvojit nu, ahte sámedikkit besset ráđđádallat ovttaveardásaš oassebeallin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>75.</seg>
+        <seg>75. Erityisraportoija suorittelee, että Pohjoismaat jatkavat ja tehostavat ponnistelujaan saamelaiskansojen itsemääräämisoikeuden sekä aiempaa aidompien vaikuttamismahdollisuuksien toteuttamiseksi heitä koskevan päätöksenteon osalta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>75.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija suorittelee, että Pohjoismaat jatkavat ja tehostavat ponnistelujaan saamelaiskansojen itsemääräämisoikeuden sekä aiempaa aidompien vaikuttamismahdollisuuksien toteuttamiseksi heitä koskevan päätöksenteon osalta.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji ávžžuha, ahte Davviriikkat jotket ja beavttálmahttet rahčamušaideaset Sámi álbmoga iešmearrideami ollašuhttimis ja maid láhčet duođalut váikkuhanvejolašvuođaid go ovdalis sidjiide guoski mearrádusdahkamis.</seg>
+        <seg>75. Spesiálaraporterejeaddji ávžžuha, ahte Davviriikkat jotket ja beavttálmahttet rahčamušaideaset Sámi álbmoga iešmearrideami ollašuhttimis ja maid láhčet duođalut váikkuhanvejolašvuođaid go ovdalis sidjiide guoski mearrádusdahkamis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3838,18 +3094,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>76.</seg>
+        <seg>76. Erityisraportoija suorittelee, että Pohjoismaat ja erityisesti Ruotsi tekisivät tarvittavat uudistukset, joilla varmistetaan saamelaiskäräjien – saamelaiskansojen ylimpänä edustuselimenä – aiempaa suurempi itsenäisyys suhteessa valtion laitoksiin ja viranomaisiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>76.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija suorittelee, että Pohjoismaat ja erityisesti Ruotsi tekisivät tarvittavat uudistukset, joilla varmistetaan saamelaiskäräjien – saamelaiskansojen ylimpänä edustuselimenä – aiempaa suurempi itsenäisyys suhteessa valtion laitoksiin ja viranomaisiin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji ávžžuha, ahte Davviriikkat ja earenoamážit Ruoŧŧa ođasmahtášii sámedikki nu, ahte dorvvastuvvo dan – Sámi álbmoga bajimus ovddastusorgánan – stuorát iehčanasvuohta go ovdalis stáhta lágádusaid ja eiseválddiid ektui.</seg>
+        <seg>76. Spesiálaraporterejeaddji ávžžuha, ahte Davviriikkat ja earenoamážit Ruoŧŧa ođasmahtášii sámedikki nu, ahte dorvvastuvvo dan – Sámi álbmoga bajimus ovddastusorgánan – stuorát iehčanasvuohta go ovdalis stáhta lágádusaid ja eiseválddiid ektui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3862,18 +3110,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>77.</seg>
+        <seg>77. Pohjoismaiden tulisi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin ne voivat tehokkaasti toteuttaa itsehallinnollisia tehtäviään.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>77.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pohjoismaiden tulisi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin ne voivat tehokkaasti toteuttaa itsehallinnollisia tehtäviään.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Davviriikkat galggašedje lágidit sámedikkiide doarvái ruhtadeami, mainna dat sáhttet beaktilit ollašuhttit iešstivrendoaimmaideaset.</seg>
+        <seg>77. Davviriikkat galggašedje lágidit sámedikkiide doarvái ruhtadeami, mainna dat sáhttet beaktilit ollašuhttit iešstivrendoaimmaideaset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,23 +3142,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>78.</seg>
+        <seg>78. Mahdollisuudella turvata oikeus omaan maahan ja sen luonnonvaroihin on keskeinen merkitys yhtä lailla saamelaisten kuin maapallon muidenkin</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>78.</seg>
+        <seg>78. Vuoigatvuođaid dorvvasteamis eatnamiidda ja dan luondduvalljodagaide lea guovddáš mearkkašupmi nu sápmelaččaid go earáge álgoálbmogiid iešmearridanvuoigatvuhtii.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Mahdollisuudella turvata oikeus omaan maahan ja sen luonnonvaroihin on keskeinen merkitys yhtä lailla saamelaisten kuin maapallon muidenkin</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Vuoigatvuođaid dorvvasteamis eatnamiidda ja dan luondduvalljodagaide lea guovddáš mearkkašupmi nu sápmelaččaid go earáge álgoálbmogiid iešmearridanvuoigatvuhtii.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>22 alkuperäiskansojen itsemääräämisoikeudelle.</seg>
+        <seg>Tämä mahdollisuus on edellytyksenä sille, että saamelaiset voivat jatkaa olemassaoloaan erillisenä kansana.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dát lea eaktun dasa, ahte sápmelaččat sáhttet ain bissut sierra álbmogin.</seg>
@@ -3926,18 +3158,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>79.</seg>
+        <seg>79. Erityisraportoija tunnustaa Pohjoismaiden valtioiden viime vuosikymmenten aikana tekemät ponnistelut, joilla on pyritty parantamaan saamelaisten oikeuksia omiin maa-alueisiinsa ja luonnonvaroihinsa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>79.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija tunnustaa Pohjoismaiden valtioiden viime vuosikymmenten aikana tekemät ponnistelut, joilla on pyritty parantamaan saamelaisten oikeuksia omiin maa-alueisiinsa ja luonnonvaroihinsa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji dovddasta Davviriikkaid rahčamušaid maŋimuš logiid jagiid, maid ulbmilin lea leamaš buoridit Sámi álbmoga vuoigatvuođaid iežaset eatnamiidda ja luondduvalljodagaide.</seg>
+        <seg>79. Spesiálaraporterejeaddji dovddasta Davviriikkaid rahčamušaid maŋimuš logiid jagiid, maid ulbmilin lea leamaš buoridit Sámi álbmoga vuoigatvuođaid iežaset eatnamiidda ja luondduvalljodagaide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,18 +3174,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>80.</seg>
+        <seg>80. Erityisraportoija suosittelee, että Norja vie päätökseen prosessin, jolla selvitetään ja turvataan saamelaisten oikeudet maa-alueisiinsa ja luonnonvaroihinsa Finnmarkin läänin alueella sekä sen ulkopuolella.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>80.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija suosittelee, että Norja vie päätökseen prosessin, jolla selvitetään ja turvataan saamelaisten oikeudet maa-alueisiinsa ja luonnonvaroihinsa Finnmarkin läänin alueella sekä sen ulkopuolella.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji ávžžuha, ahte Norga loahpaha proseassa, mainna čielggaduvvojit ja dorvvastuvvojit sápmelaččaid vuoigatvuođat eatnamiidda ja luondduvalljodagaide Finnmárkku fylkkas ja dan olggobealde.</seg>
+        <seg>80. Spesiálaraporterejeaddji ávžžuha, ahte Norga loahpaha proseassa, mainna čielggaduvvojit ja dorvvastuvvojit sápmelaččaid vuoigatvuođat eatnamiidda ja luondduvalljodagaide Finnmárkku fylkkas ja dan olggobealde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3974,18 +3190,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>81.</seg>
+        <seg>81. Erityisraportoija suosittelee, että Ruotsi tehostaa ponnistelujaan saamelaisille perinteisesti kuuluvan alueen rajaamiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>81.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija suosittelee, että Ruotsi tehostaa ponnistelujaan saamelaisille perinteisesti kuuluvan alueen rajaamiseksi.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji ávžžuha, ahte Ruoŧŧa beavttálmahttá rahčamušaidis Sámi álbmoga árbevirolaš guovlluid ráddjemis. Dasa lassin raporterejeaddji ávžžuha</seg>
+        <seg>81. Spesiálaraporterejeaddji ávžžuha, ahte Ruoŧŧa beavttálmahttá rahčamušaidis Sámi álbmoga árbevirolaš guovlluid ráddjemis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3998,34 +3206,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>82.</seg>
+        <seg>82. Ruotsin tulisi Ruotsin saamelaiskäräjien ja saamelaisväestön kanssa neuvotellen tehostaa ponnistelujaan lainsäädännön kehittämiseksi siten, että voidaan puuttua saamelaisväestöä koskeviin epäkohtiin, kuten maa-alueiden ja luonnonvarojen hallintaoikeuksiin liittyviin ongelmiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>82.</seg>
+        <seg>82. Ruoŧŧa galggašii ráđđádallat Ruoŧa beale sámedikkiin ja Sámi álbmogiin ja dán láhkai beavttálmahttit rahčamušaidis lágaid gárggiidit nu, ahte buoriduvvojit Sámi álbmoga dilit, nugo vuoigatvuođaid eatnamiidda ja luondduvalljodagaide.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ruotsin tulisi Ruotsin saamelaiskäräjien ja saamelaisväestön kanssa neuvotellen tehostaa ponnistelujaan lainsäädännön kehittämiseksi siten, että voidaan puuttua saamelaisväestöä koskeviin epäkohtiin, kuten maa-alueiden ja luonnonvarojen hallintaoikeuksiin liittyviin ongelmiin.</seg>
+        <seg>83. Suomen tulisi tehostaa toimiaan saamelaisten maa-alueita ja luonnonvaroja koskevien oikeuksien selvittämiseksi ja turvaamiseksi juridisessa mielessä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ruoŧŧa galggašii ráđđádallat Ruoŧa beale sámedikkiin ja Sámi álbmogiin ja dán láhkai beavttálmahttit rahčamušaidis lágaid gárggiidit nu, ahte buoriduvvojit Sámi álbmoga dilit, nugo vuoigatvuođaid eatnamiidda ja luondduvalljodagaide.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>83.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>83.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Suomen tulisi tehostaa toimiaan saamelaisten maa-alueita ja luonnonvaroja koskevien oikeuksien selvittämiseksi ja turvaamiseksi juridisessa mielessä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Suopma galggašii beavttálmahttit rahčamušaidis čielggadit ja dorvvastit lágaiguin sápmelaččaid vuoigatvuođaid eatnamiidda ja luondduvalljodagaide.</seg>
+        <seg>83. Suopma galggašii beavttálmahttit rahčamušaidis čielggadit ja dorvvastit lágaiguin sápmelaččaid vuoigatvuođaid eatnamiidda ja luondduvalljodagaide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,34 +3230,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>84.</seg>
+        <seg>84. Luonnonvarojen hyödyntämisen saamelaisalueilla mahdollistavien lainsäädännöllisten ja hallinnollisten mekanismien tulisi olla soveltuvien kansainvälisten normien mukaisia, myös silloin, kun ne koskevat näiden toimien vaikutusten kohteena olevien alkuperäisyhteisöjen asianmukaista kuulemista sekä vapaaehtoista ja tietoon perustuvaa etukäteissuostumusta, vaikutusten lieventämiseksi tarvittavia toimia, korvauksia ja hyötyjen jakamista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>84.</seg>
+        <seg>84. Rievttálaš ja hálddahuslaš vuogádagat, maiguin luondduvalljodagat ávkkástallojit sámeguovlluin, galggašedje čuovvut álbmotrievtti norpmaid, mat leat ee. ráđđádallamat doaimmaid čuozáhahkan leahkki álgoálbmogiiguin ja sin eaktodáhtolaš, ovddalgihtii addojuvvon ja vuđolaš dieđuide vuođđuduvvi miehtan sihke váikkuhusaid láivudeami várás vuolggahuvvon doaimmat ja ávkkiid juogadeapmi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Luonnonvarojen hyödyntämisen saamelaisalueilla mahdollistavien lainsäädännöllisten ja hallinnollisten mekanismien tulisi olla soveltuvien kansainvälisten normien mukaisia, myös silloin, kun ne koskevat näiden toimien vaikutusten kohteena olevien alkuperäisyhteisöjen asianmukaista kuulemista sekä vapaaehtoista ja tietoon perustuvaa etukäteissuostumusta, vaikutusten lieventämiseksi tarvittavia toimia, korvauksia ja hyötyjen jakamista.</seg>
+        <seg>85. Pohjoismaiden tulisi saamelaiskäräjien kanssa neuvotellen koordinoida toimenpiteitä, joilla pyritään hillitsemään ilmastonmuutoksen haitallisia vaikutuksia saamelaisiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rievttálaš ja hálddahuslaš vuogádagat, maiguin luondduvalljodagat ávkkástallojit sámeguovlluin, galggašedje čuovvut álbmotrievtti norpmaid, mat leat ee. ráđđádallamat doaimmaid čuozáhahkan leahkki álgoálbmogiiguin ja sin eaktodáhtolaš, ovddalgihtii addojuvvon ja vuđolaš dieđuide vuođđuduvvi miehtan sihke váikkuhusaid láivudeami várás vuolggahuvvon doaimmat ja ávkkiid juogadeapmi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>85.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>85.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pohjoismaiden tulisi saamelaiskäräjien kanssa neuvotellen koordinoida toimenpiteitä, joilla pyritään hillitsemään ilmastonmuutoksen haitallisia vaikutuksia saamelaisiin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Davviriikkat galggašedje ovttasráđiid sámedikkiiguin koordineret doaibmabijuid, maid ulbmilin lea figgat eastadit dálkkádatrievdama vahátlaš váikkuhusaid Sámi álbmogii.</seg>
+        <seg>85. Davviriikkat galggašedje ovttasráđiid sámedikkiiguin koordineret doaibmabijuid, maid ulbmilin lea figgat eastadit dálkkádatrievdama vahátlaš váikkuhusaid Sámi álbmogii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4078,18 +3254,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>23 86.</seg>
+        <seg>23 86. Pohjoismaiden tulee pyrkiä pitämään poronhoitoalueiden petoeläinpopulaatiot paliskuntien sietämillä tasoilla, ja petoeläinten aiheuttamat vahingot tulee korvata poronhoitajille täysimääräisesti.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>86.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pohjoismaiden tulee pyrkiä pitämään poronhoitoalueiden petoeläinpopulaatiot paliskuntien sietämillä tasoilla, ja petoeläinten aiheuttamat vahingot tulee korvata poronhoitajille täysimääräisesti.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Davviriikkat galget figgat doallat boazodoalloguovlluid boraspiriid meriid dakkár dásiin, man bálgosat ja čearut sáhttet dohkkehit, ja boraspiriid dagahan vahágat galget buhttejuvvot boazoeaiggádiidda ollásit.</seg>
+        <seg>86. Davviriikkat galget figgat doallat boazodoalloguovlluid boraspiriid meriid dakkár dásiin, man bálgosat ja čearut sáhttet dohkkehit, ja boraspiriid dagahan vahágat galget buhttejuvvot boazoeaiggádiidda ollásit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4102,18 +3270,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>87.</seg>
+        <seg>87. Erityisraportoija suosittelee, että Pohjoismaat ja saamelaiskäräjät tehostavat yhteisiä ponnistelujaan saamelaiskielten elvyttämiseksi ja vahvistavat saamelaiskielten ja - kulttuurin koulutusohjelmia.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>87.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Erityisraportoija suosittelee, että Pohjoismaat ja saamelaiskäräjät tehostavat yhteisiä ponnistelujaan saamelaiskielten elvyttämiseksi ja vahvistavat saamelaiskielten ja - kulttuurin koulutusohjelmia.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spesiálaraporterejeaddji ávžžuha, ahte Davviriikkat ja sámedikkit beavttálmahttet oktasaš rahčamušaid sámegielaid ealáskahttima várás ja nannejit sámegielaid ja sámi kultuvrra oahpahanprográmmaid.</seg>
+        <seg>87. Spesiálaraporterejeaddji ávžžuha, ahte Davviriikkat ja sámedikkit beavttálmahttet oktasaš rahčamušaid sámegielaid ealáskahttima várás ja nannejit sámegielaid ja sámi kultuvrra oahpahanprográmmaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4142,18 +3302,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>88.</seg>
+        <seg>88. Valtioiden ja saamelaiskäräjien tulisi yhteistoimin kehittää ja toteuttaa toimenpiteitä yleisen tietoisuuden lisäämiseksi saamelaiskansoista mediassa ja suuren yleisön keskuudessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>88.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Valtioiden ja saamelaiskäräjien tulisi yhteistoimin kehittää ja toteuttaa toimenpiteitä yleisen tietoisuuden lisäämiseksi saamelaiskansoista mediassa ja suuren yleisön keskuudessa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Stáhtat ja sámedikkit galggašedje ovttasráđiid gárggiidit ja ollašuhttit doaimmaid vai almmolaš diđolašvuohta Sámi álbmogis lassána mediain ja váldoálbmogiid gaskavuođas.</seg>
+        <seg>88. Stáhtat ja sámedikkit galggašedje ovttasráđiid gárggiidit ja ollašuhttit doaimmaid vai almmolaš diđolašvuohta Sámi álbmogis lassána mediain ja váldoálbmogiid gaskavuođas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,6 +3314,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dákkár diđolašvuođa lassáneami galgá ovddidit ee. vuođđo- ja gaskadási skuvllaid ja universitehtaid oahppoplánain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>24</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>23</seg>
       </tuv>
     </tu>
   </body>
