@@ -11,11 +11,25 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1906&amp;Itemid=10</origFileName>
-    <parallel_text location="valmmatalli_valmistelija.pdf" xml:lang="smn"/>
-    <parallel_text location="valmmatalli_valmistelija.pdf" xml:lang="sme"/>
-    <parallel_text location="valmmatalli_valmistelija.pdf" xml:lang="sms"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="valmmatalli_valmistelija.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="valmmatalli_valmistelija.pdf"/>
+    <parallel_text xml:lang="sms" location="valmmatalli_valmistelija.pdf"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -23,7 +37,7 @@
   </header>
   <body>
     <p>Saamelaiskäräjät hakee</p>
-    <p xml:lang="sma"> <em type="bold">                     VALMISTELIJAA </em></p>
+    <p> <em type="bold">                     VALMISTELIJAA </em></p>
     <p>määräaikaiseen  ja  kokopäiväiseen  virkasuhteeseen  27.6.  -  31.8.2012  väliseksi  ajaksi  tehtävänään valmistella erityisesti kaivoslupahakemuksiin liittyviä lausuntoja. Säädösperusteisena kelpoisuusvaatimuksena on tehtävän edellyttämä koulutus ja lisäksi vaaditaan saamen kielen taitoa. Tehtävän  menestyksellistä  hoitamista  edesauttaa  kyky  työskennellä  itsenäisesti  sekä  erinomainen suomen  kielen  kirjallinen  taito.  Palkkaus  määräytyy  saamelaiskäräjien  palkkausjärjestelmän vaativuustason  IV/IV  mukaan  (peruspalkka  2 391,60  euroa/kk)  mahdollisine  saamelaisalue-  ja kokemuslisineen.    Hakemukset  opinto-  ja  työtodistuksineen  tulee  toimittaa  saamelaiskäräjien sihteeristöön 25.6.2012 klo 16.00 mennessä osoitteella Sajos, 99870 Inari.  Lisätietoja työstä antaa lakimiessihteeri Aimo Guttorm, puh. 010 839 3120.</p>
     <p>Inarissa 11.6.2012    Saamelaiskäräjät</p>
   </body>
