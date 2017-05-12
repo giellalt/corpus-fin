@@ -1,0 +1,662 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>Utsjoen kunta - Giellasiida-Hanketiivistelmä</title>
+<meta name="description" content="Sivuston kuvaus" />
+<meta name="keywords" content="" />
+<link href="http://www.utsjoki.fi/templates/utsjoki/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="http://www.utsjoki.fi/templates/utsjoki/default.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://www.utsjoki.fi/templates/utsjoki/menu.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://www.utsjoki.fi/templates/utsjoki/vendor/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<style>
+	#dialog { display: none; } 
+</style>
+
+<script src="http://www.utsjoki.fi/templates/utsjoki/vendor/jquery/jquery-3.2.0.min.js"></script>
+<script src="http://www.utsjoki.fi/templates/utsjoki/vendor/jquery-ui/jquery-ui.min.js"></script>
+<script src="http://www.utsjoki.fi/templates/utsjoki/vendor/js-cookie/js.cookie.js"></script>
+
+<script> 
+String.prototype.hashCode = function() {
+  var hash = 0, i, chr;
+  if (this.length === 0) return hash;
+  for (i = 0; i < this.length; i++) {
+    chr   = this.charCodeAt(i);
+    hash  = ((hash << 5) - hash) + chr;
+    hash |= 0; // Convert to 32bit integer
+  }
+  return hash;
+};
+</script>
+
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">
+#mainmenu{float:none;}
+body{behavior:url(csshover.htc);}
+#mainmenu ul li{float:left;}
+#mainmenu a{height:1%;}
+</style>
+<![endif]-->
+<link href="http://www.utsjoki.fi/templates/utsjoki/print.css" rel="stylesheet" type="text/css" media="print" />
+</head>
+<body>
+
+
+<center>
+<table id="pagelayout" cellpadding="0" cellspacing="0" border="0">
+<tr>
+	<td id="pagetop" colspan="5">
+		<div id="pagetop_left"></div>
+		<div id="pagetop_address">
+UTSJOEN KUNTA<br />
+PL 41<br />
+99981 UTSJOKI		</div>
+		<div id="pagetop_phone">
+Puhelin 040-188 6111<br />
+Fax 016-677 339<br />
+Kunnanvirasto ja puhelinvaihde avoinna 9.00 - 15.00		</div>
+		<div id="pagetop_flags">
+			
+
+<a href="http://www.utsjoki.fi" target="_top" ><img src=http://www.utsjoki.fi/media/kieliversiot/fi.gif /></a>
+
+<a href="http://www.utsjoki.fi/saame.php" target="_top" ><img src=http://www.utsjoki.fi/media/kieliversiot/saame.gif /></a>
+
+		</div>
+		<div id="pagetop_right"></div>
+	</td>
+</tr>
+<tr>
+	<td id="top_banner" colspan="5">
+		<div id="top_banner_bg" style="background-image: url('http://www.utsjoki.fi/media/bannerikuvat/tenonveneet.jpg')"><img src="http://www.utsjoki.fi/templates/utsjoki/images/banner_logo.png" alt="Utsjoen kunta" /></div>	</td>
+</tr>
+<tr>
+	<td id="pagemenu" colspan="5">
+		<div id="mainmenu">
+			
+<ul class="nav" id="idnav1">
+<li><a href="http://www.utsjoki.fi/fi/etusivu.php" target="_top" class="menu">Etusivu</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/yhteystiedot.php" target="_top" class="menu">Yhteystiedot</a>
+<ul class="nav" id="idnav248">
+<li><a href="http://www.utsjoki.fi/fi/yhteystiedot/osoite--laskutustiedot.php" target="_top" class="menu">Osoite- laskutustiedot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/yhteystiedot/puhelinnumerot.php" target="_top" class="menu">Puhelinnumerot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/yhteystiedot/kuntatietoa.php" target="_top" class="menu">Kuntatietoa</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut.php" target="_top" class="menu">Palvelut</a>
+<ul class="nav" id="idnav2112">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut.php" target="_top" class="menu">Tekniset palvelut</a>
+<ul class="nav" id="idnav3296">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus.php" target="_top" class="menu">Kaavoitus</a>
+<ul class="nav" id="idnav4297">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus/maakuntakaava.php" target="_top" class="menu">Maakuntakaava</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus/yleiskaava.php" target="_top" class="menu">Yleiskaava</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus/ajantasa-asemakaava.php" target="_top" class="menu">Ajantasa-asemakaava</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus/ranta-asemakaava.php" target="_top" class="menu">Ranta-asemakaava</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus/vireillae-olevat-kaavat.php" target="_top" class="menu">Vireillä olevat kaavat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus/kaavoituskatsaus.php" target="_top" class="menu">Kaavoituskatsaus</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/kaavoitus/aittisuvannon-asemakaava.php" target="_top" class="menu">Aittisuvannon asemakaava</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/rakennusvalvonta.php" target="_top" class="menu">Rakennusvalvonta</a>
+<ul class="nav" id="idnav4166">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/rakennusvalvonta/lupamenettely.php" target="_top" class="menu">Lupamenettely</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/rakennusvalvonta/toimenpidelupa.php" target="_top" class="menu">Toimenpidelupa</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/rakennusvalvonta/toimenpideilmoitus.php" target="_top" class="menu">Toimenpideilmoitus</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/rakennusvalvonta/rakennusjaerjestys.php" target="_top" class="menu">Rakennusjärjestys</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/rakennusvalvonta/rakennusvalvontaviranomaisen-maksut.php" target="_top" class="menu">Rakennusvalvontaviranomaisen maksut</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/tekniset-palvelut/jaetehuolto.php" target="_top" class="menu">Jätehuolto</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi.php" target="_top" class="menu">Elinkeinotoimi</a>
+<ul class="nav" id="idnav3458">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/elinkeinotoimi-yhteystiedot.php" target="_top" class="menu">Elinkeinotoimi yhteystiedot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/elinkeinojen-kehittaeminen.php" target="_top" class="menu">Elinkeinojen kehittäminen</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet.php" target="_top" class="menu">Hankkeet</a>
+<ul class="nav" id="idnav4411">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/saamen-kielikeskus-utsjoelle.php" target="_top" class="menu">Saamen kielikeskus Utsjoelle</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/utsjoen-matkailuimagon-kehittaemishanke.php" target="_top" class="menu">Utsjoen matkailuimagon kehittämishanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/utsjoen-tiede--ja-taidetalohanke.php" target="_top" class="menu">Utsjoen tiede- ja taidetalohanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/kylaet-komeaksi--hanke.php" target="_top" class="menu">Kylät komeaksi -hanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/palautekysely-kylaelaeisille-kylaemaisemien-kehittaemisestae.php" target="_top" class="menu">Palautekysely kyläläisille kylämaisemien kehittämisestä</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/laajakaista.php" target="_top" class="menu">Laajakaista</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/moottorikelkkailureitti-hanke.php" target="_top" class="menu">Moottorikelkkailureitti-hanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/kylaet-komeaksi-hankkeen-yhteistyoekumppanit.php" target="_top" class="menu">Kylät komeaksi hankkeen yhteistyökumppanit</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/utsjoki-malli--esiselvityshanke.php" target="_top" class="menu">Utsjoki malli -esiselvityshanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/cuojat-juoigga-livduu-leudacutede-saamelaismusiikin-aikuiskoulutushanke.php" target="_top" class="menu">Čuojat Juoigga Livđuu Leud´de! Saamelaismusiikin aikuiskoulutushanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/ailegas-giellasiida.php" target="_top" class="menu">Áilegas giellasiida</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/virtualaailegas-virtuaaliailegas.php" target="_top" class="menu">VirtuálaÁilegas-VirtuaaliÁilegas</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/giellasiida-hanketiivistelmae.php" target="_top" class="menu">Giellasiida-Hanketiivistelmä</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/destination-utsjoki---utsjoen-kansainvaelistyminen--hanke.php" target="_top" class="menu">Destination Utsjoki - Utsjoen kansainvälistyminen -hanke</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/maaseutupalvelut.php" target="_top" class="menu">Maaseutupalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/matkailu.php" target="_top" class="menu">Matkailu</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/ailikastalo.php" target="_top" class="menu">Ailikastalo</a>
+<ul class="nav" id="idnav4478">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/ailikastalo/-ailikastalo-.php" target="_top" class="menu">-AILIKASTALO-</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/ailikastalo/historia.php" target="_top" class="menu">Historia</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/ailikastalo/vuokraus.php" target="_top" class="menu">Vuokraus</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yhteispalvelu.php" target="_top" class="menu">Yhteispalvelu</a>
+<ul class="nav" id="idnav4473">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yhteispalvelu/-yhteispalvelu-.php" target="_top" class="menu">-YHTEISPALVELU-</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yhteispalvelu/kela.php" target="_top" class="menu">KELA</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yhteispalvelu/poliisi.php" target="_top" class="menu">Poliisi</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yhteispalvelu/te-toimisto.php" target="_top" class="menu">TE-toimisto</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yhteispalvelu/maistraatti.php" target="_top" class="menu">Maistraatti</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yhteispalvelu/lapin-oikeusaputoimisto.php" target="_top" class="menu">Lapin oikeusaputoimisto</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yrityspalvelut.php" target="_top" class="menu">Yrityspalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/yritystietojen-paeivityslomake.php" target="_top" class="menu">Yritystietojen päivityslomake</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut.php" target="_top" class="menu">Opetus-, vapaa-aika ja kulttuuripalvelut</a>
+<ul class="nav" id="idnav3118">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/hallinto.php" target="_top" class="menu">Hallinto</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjokisuun-koulu.php" target="_top" class="menu">Utsjokisuun koulu</a>
+<ul class="nav" id="idnav4131">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjokisuun-koulu/koulun-esittely.php" target="_top" class="menu">Koulun esittely</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjokisuun-koulu/koulun-henkiloekunta.php" target="_top" class="menu">Koulun henkilökunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjokisuun-koulu/kerhotoiminta.php" target="_top" class="menu">Kerhotoiminta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjokisuun-koulu/lukuvuoden-tyoesuunnitelma.php" target="_top" class="menu">Lukuvuoden työsuunnitelma</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjokisuun-koulu/jaerjestyssaeaennoet.php" target="_top" class="menu">Järjestyssäännöt</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/karigasniemen-koulu.php" target="_top" class="menu">Karigasniemen koulu</a>
+<ul class="nav" id="idnav4137">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/karigasniemen-koulu/koulun-esittely.php" target="_top" class="menu">Koulun esittely</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/karigasniemen-koulu/koulun-henkiloekunta.php" target="_top" class="menu">Koulun henkilökunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/karigasniemen-koulu/kerhotoiminta.php" target="_top" class="menu">Kerhotoiminta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/karigasniemen-koulu/lukuvuoden-tyoesuunnitelma.php" target="_top" class="menu">Lukuvuoden työsuunnitelma</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/karigasniemen-koulu/jaerjestyssaeaennoet.php" target="_top" class="menu">Järjestyssäännöt</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorgamin-koulu.php" target="_top" class="menu">Nuorgamin koulu</a>
+<ul class="nav" id="idnav4142">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorgamin-koulu/koulun-esittely.php" target="_top" class="menu">Koulun esittely</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorgamin-koulu/koulun-henkiloekunta.php" target="_top" class="menu">Koulun henkilökunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorgamin-koulu/kerhotoiminta.php" target="_top" class="menu">Kerhotoiminta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorgamin-koulu/lukuvuoden-tyoesuunnitelma.php" target="_top" class="menu">Lukuvuoden työsuunnitelma</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorgamin-koulu/jaerjestyssaeaennoet.php" target="_top" class="menu">Järjestyssäännöt</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio.php" target="_top" class="menu">Utsjoen saamelaislukio</a>
+<ul class="nav" id="idnav4151">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio/saamelaislukion-esittely.php" target="_top" class="menu">Saamelaislukion esittely</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio/saamelaislukion-henkiloekunta.php" target="_top" class="menu">Saamelaislukion henkilökunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio/saamelaislukion-tyoesuunnitelma.php" target="_top" class="menu">Saamelaislukion työsuunnitelma</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio/saamelaislukion-jaerjestyssaeaennoet.php" target="_top" class="menu">Saamelaislukion järjestyssäännöt</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio/saamelaislukion-oppilaskunta.php" target="_top" class="menu">Saamelaislukion oppilaskunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio/harrastusmahdollisuuksia.php" target="_top" class="menu">Harrastusmahdollisuuksia</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-saamelaislukio/lukioseminaari-utsjoella-10.9.2012.php" target="_top" class="menu">Lukioseminaari Utsjoella 10.9.2012</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/opetussuunnitelmat.php" target="_top" class="menu">Opetussuunnitelmat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/lukuvuoden-tyoe--ja-loma-ajat.php" target="_top" class="menu">Lukuvuoden työ- ja loma-ajat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/koulujen-tilavuokrat.php" target="_top" class="menu">Koulujen tilavuokrat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-kansalaisopisto.php" target="_top" class="menu">Utsjoen kansalaisopisto</a>
+<ul class="nav" id="idnav4167">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-kansalaisopisto/utsjoen-kansalaisopisto.php" target="_top" class="menu">Utsjoen kansalaisopisto</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-kansalaisopisto/toiminta.php" target="_top" class="menu">Toiminta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-kansalaisopisto/utsjoen-kirkonkylae.php" target="_top" class="menu">Utsjoen kirkonkylä</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-kansalaisopisto/karigasniemi.php" target="_top" class="menu">Karigasniemi</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/utsjoen-kansalaisopisto/nuorgam.php" target="_top" class="menu">Nuorgam</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva.php" target="_top" class="menu">Kirjasto kulttuuri ja elokuva</a>
+<ul class="nav" id="idnav4164">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/utsjoen-kunnankirjasto.php" target="_top" class="menu">UTSJOEN KUNNANKIRJASTO</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/aukioloajat.php" target="_top" class="menu">Aukioloajat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/yhteystiedot.php" target="_top" class="menu">Yhteystiedot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/kirjaston-kaeyttoesaeaennoet.php" target="_top" class="menu">Kirjaston käyttösäännöt</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/ajankohtaista-kirjastossa.php" target="_top" class="menu">Ajankohtaista kirjastossa</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/girjebusse---kirjastoauto.php" target="_top" class="menu">GIRJEBUSSE - KIRJASTOAUTO</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/kirjastoauton-yhteystiedot.php" target="_top" class="menu">Kirjastoauton yhteystiedot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/aikataulut.php" target="_top" class="menu">Aikataulut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/esteettoemyys.php" target="_top" class="menu">Esteettömyys</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/reittikartta.php" target="_top" class="menu">Reittikartta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/kulttuuri.php" target="_top" class="menu">KULTTUURI</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/kulttuuritoimen-yhteystiedot.php" target="_top" class="menu">Kulttuuritoimen yhteystiedot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/kulttuurin-tapahtumat.php" target="_top" class="menu">Kulttuurin tapahtumat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/kirjasto-kulttuuri-ja-elokuva/kunnankino.php" target="_top" class="menu">KUNNANKINO</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/liikuntatoimi.php" target="_top" class="menu">Liikuntatoimi</a>
+<ul class="nav" id="idnav4172">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/liikuntatoimi/liikuntatoimi.php" target="_top" class="menu">Liikuntatoimi</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/liikuntatoimi/liikunta-tapahtumat.php" target="_top" class="menu">Liikunta tapahtumat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/liikuntatoimi/utsjoen-uimahalli.php" target="_top" class="menu">Utsjoen uimahalli</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/liikuntatoimi/utsjoen-kuntosali.php" target="_top" class="menu">Utsjoen kuntosali</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorisotyoe.php" target="_top" class="menu">Nuorisotyö</a>
+<ul class="nav" id="idnav4194">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorisotyoe/yleistae.php" target="_top" class="menu">Yleistä</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/nuorisotyoe/nuorisotila-putgi.php" target="_top" class="menu">Nuorisotila PutGi</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton.php" target="_top" class="menu">Teno Maraton</a>
+<ul class="nav" id="idnav4486">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/tulokset-2015.php" target="_top" class="menu">Tulokset 2015</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/tulokset-2014.php" target="_top" class="menu">Tulokset 2014</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/tulokset-2013.php" target="_top" class="menu">Tulokset 2013</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/tulokset-2012.php" target="_top" class="menu">Tulokset 2012</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/tulokset-2011.php" target="_top" class="menu">Tulokset 2011</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/tulokset-2010.php" target="_top" class="menu">Tulokset 2010</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/kuvia-teno-maratonilta-2014.php" target="_top" class="menu">Kuvia Teno Maratonilta 2014</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/kuvia-teno-maratonilta-2013.php" target="_top" class="menu">Kuvia Teno Maratonilta 2013</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/kuvia-teno-maratonilta-2012.php" target="_top" class="menu">Kuvia Teno Maratonilta 2012</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/teno-maraton/kuvia-teno-maratonilta-2010.php" target="_top" class="menu">Kuvia Teno Maratonilta 2010</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/ovttas-projekti.php" target="_top" class="menu">Ovttas-projekti</a>
+<ul class="nav" id="idnav4416">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/ovttas-projekti/esittely.php" target="_top" class="menu">Esittely</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/ovttas-projekti/taustaa.php" target="_top" class="menu">Taustaa</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/ovttas-projekti/ajankohtaista.php" target="_top" class="menu">Ajankohtaista</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/opetus--vapaa-aika-ja-kulttuuripalvelut/ovttas-projekti/yhteystiedot.php" target="_top" class="menu">Yhteystiedot</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi.php" target="_top" class="menu">Sosiaali- ja terveystoimi</a>
+<ul class="nav" id="idnav3457">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/henkinen-ensiapu-akuuttikriiseissae.php" target="_top" class="menu">Henkinen ensiapu akuuttikriiseissä</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/jonotiedote.php" target="_top" class="menu">Jonotiedote</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/yhteystiedot.php" target="_top" class="menu">Yhteystiedot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/lasten-ja-perheiden-palvelut.php" target="_top" class="menu">Lasten ja perheiden palvelut</a>
+<ul class="nav" id="idnav4235">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/lasten-ja-perheiden-palvelut/lastenvalvojan-palvelut.php" target="_top" class="menu">Lastenvalvojan palvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/lasten-ja-perheiden-palvelut/isyyden-selvittaeminen.php" target="_top" class="menu">Isyyden selvittäminen</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/lasten-ja-perheiden-palvelut/lasten-huolto--ja-tapaamisoikeusasiat.php" target="_top" class="menu">Lasten huolto- ja tapaamisoikeusasiat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/lasten-ja-perheiden-palvelut/lapsen-elatus.php" target="_top" class="menu">Lapsen elatus</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/lasten-ja-perheiden-palvelut/lastensuojelu.php" target="_top" class="menu">Lastensuojelu</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/lasten-ja-perheiden-palvelut/kriisi--ja-turvakotipalvelut.php" target="_top" class="menu">Kriisi- ja turvakotipalvelut</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/avopalvelu.php" target="_top" class="menu">Avopalvelu</a>
+<ul class="nav" id="idnav4242">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/avopalvelu/kuntouttava-tyoetoiminta.php" target="_top" class="menu">Kuntouttava työtoiminta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/avopalvelu/koti--ja-tukipalvelut.php" target="_top" class="menu">Koti- ja tukipalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/avopalvelu/omaishoidontuki.php" target="_top" class="menu">Omaishoidontuki</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/avopalvelu/ruokapalvelut.php" target="_top" class="menu">Ruokapalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/avopalvelu/vammaispalvelut.php" target="_top" class="menu">Vammaispalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/avopalvelu/tehostettu-palveluasuminen-dorvu.php" target="_top" class="menu">Tehostettu palveluasuminen Dorvu</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/toimeentulotuki.php" target="_top" class="menu">Toimeentulotuki</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/terveydenhoito-ja-kotisairaanhoito.php" target="_top" class="menu">Terveydenhoito ja kotisairaanhoito</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/vuodeosasto.php" target="_top" class="menu">Vuodeosasto</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito.php" target="_top" class="menu">Sairaanhoito</a>
+<ul class="nav" id="idnav4453">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/tiedotteet.php" target="_top" class="menu">Tiedotteet</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/laboratorio.php" target="_top" class="menu">Laboratorio</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/roentgen.php" target="_top" class="menu">Röntgen</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/fysioterapia.php" target="_top" class="menu">Fysioterapia</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/psykiatrinen-avohoito.php" target="_top" class="menu">Psykiatrinen avohoito</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/sairaankuljetusensihoito.php" target="_top" class="menu">Sairaankuljetus/ensihoito</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/paeihdehuolto.php" target="_top" class="menu">Päihdehuolto</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/rintamaveteraanien-kuntoutus.php" target="_top" class="menu">Rintamaveteraanien kuntoutus</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sairaanhoito/asiakasmaksut.php" target="_top" class="menu">Asiakasmaksut</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/hammashoito.php" target="_top" class="menu">Hammashoito</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/ympaeristoeterveydenhuolto-ja-elaeinlaeaekintaepalvelut.php" target="_top" class="menu">Ympäristöterveydenhuolto ja eläinlääkintäpalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/potilasasiamies.php" target="_top" class="menu">Potilasasiamies</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sosiaali--ja-kriisipaeivystys.php" target="_top" class="menu">Sosiaali- ja kriisipäivystys</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/sosiaaliasiamiespalvelut.php" target="_top" class="menu">Sosiaaliasiamiespalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/talous--ja-velkaneuvonta.php" target="_top" class="menu">Talous- ja velkaneuvonta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/tenonlaakson-sosiaali--ja-terveyspalveluiden-kehittaemishanke.php" target="_top" class="menu">Tenonlaakson sosiaali- ja terveyspalveluiden kehittämishanke</a>
+<ul class="nav" id="idnav4272">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/tenonlaakson-sosiaali--ja-terveyspalveluiden-kehittaemishanke/tietoa-hankkeesta.php" target="_top" class="menu">Tietoa hankkeesta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/tenonlaakson-sosiaali--ja-terveyspalveluiden-kehittaemishanke/rajayhteistyoetae-2000-luvulla.php" target="_top" class="menu">Rajayhteistyötä 2000-luvulla</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/tenonlaakson-sosiaali--ja-terveyspalveluiden-kehittaemishanke/rajat-ylittaeviae-palveluita.php" target="_top" class="menu">Rajat ylittäviä palveluita</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/tenonlaakson-sosiaali--ja-terveyspalveluiden-kehittaemishanke/linkkejae-lisaetietoon.php" target="_top" class="menu">Linkkejä lisätietoon</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/sosiaali--ja-terveystoimi/etsivae-nuorisotyoe-tyoepajatoiminta.php" target="_top" class="menu">Etsivä nuorisotyö / työpajatoiminta</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/varhaiskasvatuspalvelut.php" target="_top" class="menu">Varhaiskasvatuspalvelut</a>
+<ul class="nav" id="idnav3222">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/varhaiskasvatuspalvelut/yhteystiedot.php" target="_top" class="menu">Yhteystiedot</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/varhaiskasvatuspalvelut/paeivaehoitoon-hakeminen.php" target="_top" class="menu">Päivähoitoon hakeminen</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/varhaiskasvatuspalvelut/paeivaehoitomaksut-ja-hoitoajat.php" target="_top" class="menu">Päivähoitomaksut ja hoitoajat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/varhaiskasvatuspalvelut/lomakkeita.php" target="_top" class="menu">Lomakkeita</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/asunnot.php" target="_top" class="menu">Asunnot</a>
+<ul class="nav" id="idnav3463">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/asunnot/yleiset-jaerjestyssaeaennoet.php" target="_top" class="menu">Yleiset Järjestyssäännöt</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/asunnot/vapaat-asunnot.php" target="_top" class="menu">Vapaat asunnot</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/ympaeristoepalvelut.php" target="_top" class="menu">Ympäristöpalvelut</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko.php" target="_top" class="menu">Päätöksenteko</a>
+<ul class="nav" id="idnav252">
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet.php" target="_top" class="menu">Luottamuselimet</a>
+<ul class="nav" id="idnav353">
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/kunnanhallitus.php" target="_top" class="menu">Kunnanhallitus</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/valtuusto.php" target="_top" class="menu">Valtuusto</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/sivistyslautakunta.php" target="_top" class="menu">Sivistyslautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/perusturvalautakunta.php" target="_top" class="menu">Perusturvalautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/elinkeinolautakunta.php" target="_top" class="menu">Elinkeinolautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/tekninen-lautakunta.php" target="_top" class="menu">Tekninen lautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/tarkastuslautakunta.php" target="_top" class="menu">Tarkastuslautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/keskusvaalilautakunta.php" target="_top" class="menu">Keskusvaalilautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/luottamuselimet/kunnan-edustajat-eri-yhtioeissae-ja-yhteisoeissae-2015-2016.php" target="_top" class="menu">Kunnan edustajat eri yhtiöissä ja yhteisöissä 2015-2016</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat.php" target="_top" class="menu">Pöytäkirjat</a>
+<ul class="nav" id="idnav361">
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/kunnanhallitus.php" target="_top" class="menu">Kunnanhallitus</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/valtuusto.php" target="_top" class="menu">Valtuusto</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/sivistyslautakunta.php" target="_top" class="menu">Sivistyslautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/perusturvalautakunta.php" target="_top" class="menu">Perusturvalautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/elinkeinolautakunta.php" target="_top" class="menu">Elinkeinolautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/tekninen-lautakunta.php" target="_top" class="menu">Tekninen lautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/keskusvaalilautakunta.php" target="_top" class="menu">Keskusvaalilautakunta</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/poeytaekirjat/tarkastuslautakunta.php" target="_top" class="menu">Tarkastuslautakunta</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/saeaennoet-ja-maeaeraeykset.php" target="_top" class="menu">Säännöt ja määräykset</a>
+<ul class="nav" id="idnav368">
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/saeaennoet-ja-maeaeraeykset/hallintosaeaentoe.php" target="_top" class="menu">Hallintosääntö</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/paeaetoeksenteko/tilinpaeaetoes-ja-talousarvio.php" target="_top" class="menu">Tilinpäätös  ja Talousarvio</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/tiedotteet.php" target="_top" class="menu">Tiedotteet</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/tapahtumat.php" target="_top" class="menu">Tapahtumat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/matkailu.php" target="_top" class="menu">Matkailu</a>
+<ul class="nav" id="idnav273">
+<li><a href="http://www.utsjoki.fi/fi/matkailu/matkailu.php" target="_top" class="menu">Matkailu</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/matkailu/ohjelma--ja-majoituspalvelut.php" target="_top" class="menu">Ohjelma- ja majoituspalvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/matkailu/muut-palvelut.php" target="_top" class="menu">Muut Palvelut</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/matkailu/palveluoppaat.php" target="_top" class="menu">Palveluoppaat</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/matkailu/kalastus.php" target="_top" class="menu">Kalastus</a>
+<ul class="nav" id="idnav3211">
+<li><a href="http://www.utsjoki.fi/fi/matkailu/kalastus/kalastus-muilla-vesialueilla.php" target="_top" class="menu">Kalastus muilla vesialueilla</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/matkailu/joukkoliikenne.php" target="_top" class="menu">Joukkoliikenne</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/matkailu/moottorikelkkailu.php" target="_top" class="menu">Moottorikelkkailu</a>
+</li>
+</ul>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/linkit.php" target="_top" class="menu">Linkit</a>
+</li>
+</ul>		</div>
+	</td>
+</tr>
+<tr>
+	<td class="pageborder">&nbsp;</td>
+	<td id="pageleft">
+		<div id="pageleft_text">
+			
+<ul class="leftmenu">
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/saamen-kielikeskus-utsjoelle.php" target="_top" class="leftmenu">Saamen kielikeskus Utsjoelle</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/utsjoen-matkailuimagon-kehittaemishanke.php" target="_top" class="leftmenu">Utsjoen matkailuimagon kehittämishanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/utsjoen-tiede--ja-taidetalohanke.php" target="_top" class="leftmenu">Utsjoen tiede- ja taidetalohanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/kylaet-komeaksi--hanke.php" target="_top" class="leftmenu">Kylät komeaksi -hanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/palautekysely-kylaelaeisille-kylaemaisemien-kehittaemisestae.php" target="_top" class="leftmenu">Palautekysely kyläläisille kylämaisemien kehittämisestä</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/laajakaista.php" target="_top" class="leftmenu">Laajakaista</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/moottorikelkkailureitti-hanke.php" target="_top" class="leftmenu">Moottorikelkkailureitti-hanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/kylaet-komeaksi-hankkeen-yhteistyoekumppanit.php" target="_top" class="leftmenu">Kylät komeaksi hankkeen yhteistyökumppanit</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/utsjoki-malli--esiselvityshanke.php" target="_top" class="leftmenu">Utsjoki malli -esiselvityshanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/cuojat-juoigga-livduu-leudacutede-saamelaismusiikin-aikuiskoulutushanke.php" target="_top" class="leftmenu">Čuojat Juoigga Livđuu Leud´de! Saamelaismusiikin aikuiskoulutushanke</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/ailegas-giellasiida.php" target="_top" class="leftmenu">Áilegas giellasiida</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/virtualaailegas-virtuaaliailegas.php" target="_top" class="leftmenu">VirtuálaÁilegas-VirtuaaliÁilegas</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/giellasiida-hanketiivistelmae.php" target="_top" class="leftmenu">Giellasiida-Hanketiivistelmä</a>
+</li>
+<li><a href="http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/destination-utsjoki---utsjoen-kansainvaelistyminen--hanke.php" target="_top" class="leftmenu">Destination Utsjoki - Utsjoen kansainvälistyminen -hanke</a>
+</li>
+</ul>			<br />&nbsp;
+			<div id="pageleft_section">
+						</div>
+		</div>
+	</td>
+		<td id="pagecenter2">
+		<div id="pagecenter_text">
+			<h1>Giellasiida-Hanketiivistelmä</h1><a class="section_anchor" id="wb_545" name="wb_545"></a><table width="100%" cellspacing="1" cellpadding="1" border="0">
+    <tbody>
+        <tr>
+            <td>&nbsp;</td>
+            <td><a href="http://www.utsjoki.fi/saame/balvalusat/ealahusbalvalusat/proseavttat/giellasiida-proseaktacoahkkaigeassu.php?lang=SM"><img src="http://www.utsjoki.fi/media/kieliversiot/saame.gif" alt="" /></a></td>
+        </tr>
+        <tr>
+            <td>Hankkeen tavoitteena on kehitt&auml;&auml; Utsjoen kuntaa palveluorganisaationa ja vahvistaa ty&ouml;ntekij&ouml;iden ty&ouml;hyvinvointia monikielisen ja -kulttuurisen toimintaymp&auml;rist&ouml;n n&auml;k&ouml;kulmasta. N&auml;iden tavoitteiden kautta parannetaan pitk&auml;ll&auml; aikav&auml;lill&auml; saamenkielisen ja saamelaiskulttuurin mukaisen palvelutuotannon laatua, tuottavuutta sek&auml; m&auml;&auml;r&auml;&auml;. Saamen kielilain mukaan saamelaisten kotiseutualueella toimivien sek&auml; valtion ett&auml; kunnallisten viranomaisten velvollisuus on huolehtia siit&auml;, ett&auml; saamenkieliset palvelut turvataan.<br />
+            <br />
+            Konkreettisena tavoitteena on Utsjoen kunnan johtavien viranhaltijoiden henkil&ouml;st&ouml;johtamisen osaamisen parantaminen ja sen seurauksena koko henkil&ouml;st&ouml;n ty&ouml;hyvinvoinnin ja tuottavuuden parantaminen. Johtamisen osaamisen kehitt&auml;misen lis&auml;ksi muina konkreettisina tavoitteina tuottavuuden parantamisen n&auml;k&ouml;kulmasta ovat raja-alueosaamisen sek&auml; s&auml;hk&ouml;isten palvelujen ja viestinn&auml;n osaamisen kehitt&auml;minen koko organisaatiossa.<br />
+            <br />
+            Hankkeen avulla teht&auml;vill&auml; toimenpiteill&auml; tartutaan niihin ongelmakohtiin, jotka vaikuttavat ty&ouml;ntekij&ouml;iden<br />
+            ty&ouml;hyvinvointiin ja ty&ouml;ss&auml; jaksamiseen. N&auml;it&auml; toimenpiteit&auml; ovat muun muassa strategisen johtamisen oppimisprosessi, ty&ouml;hyvinvointikyselyt, johdon koulutukset, viestint&auml;- ja tiedotusk&auml;yt&auml;nt&ouml;jen kehitt&auml;minen, raja-alueyhteisty&ouml;h&ouml;n liittyv&auml; osaaminen sek&auml; kielen ja kulttuurin koulutukset.<br />
+            <br />
+            Hankkeen tuloksena Utsjoen kunnan ty&ouml;ntekij&ouml;iden ty&ouml;hyvinvointi ja ty&ouml;ss&auml; jaksaminen ovat parantuneet, koska johtavien viranhaltijoiden henkil&ouml;st&ouml;johtamisen osaaminen on lis&auml;&auml;ntynyt. Pitk&auml;ll&auml; aikav&auml;lill&auml; erityisesti saamenkielinen palvelutarjonta on lis&auml;&auml;ntynyt, sen laatu ja tuottavuus ovat parantuneet.<br />
+            &nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>		</div>
+	</td>
+	<td id="pageright2">&nbsp;</td>
+		<td class="pageborder">&nbsp;</td>
+</tr>
+<tr>
+	<td id="pagefooter" colspan="5">&nbsp;</td>
+</tr>
+</table>
+</center>
+
+</body>
+</html>
