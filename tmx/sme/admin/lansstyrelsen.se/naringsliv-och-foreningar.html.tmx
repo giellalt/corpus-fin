@@ -9,7 +9,7 @@
         <seg>Elinkeinoelämä ja yhdistykset - Länsstyrelsen Skåne</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ealáhuseallin &amp; searvvit - Länsstyrelsen Skåne</seg>
+        <seg>Ealáhuseallin &amp;amp; searvvit - Länsstyrelsen Skåne</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,42 +22,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Verkkokartta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Webkárta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Aloitussivu</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Álginsiidu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Elinkeinoelämä ja yhdistykset</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ealáhuseallin ja searvvit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tietojen jakaminen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Juoge informašuvnna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Elinkeinoelämä ja yhdistykset</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ealáhuseallin &amp; searvvit</seg>
+        <seg>Ealáhuseallin &amp;amp; searvvit</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,7 +265,7 @@
         <seg>Lääninhallituksella tietokannasta voit tarkistaa, mitä säätiöitä Ruotsissa on sekä niiden tarkoituksen ja yhteyshenkilöt yms.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivrras lea dihtorvuođđu gos don sáhtát oaidnit mat vuođđudusat Ruoŧas leat, daid dárkkuhusat, oktavuođaolbmot jno..</seg>
+        <seg>Leanastivrras lea dihtorvuođđu gos don sáhtát oaidnit mat vuođđudusat Ruoŧas leat, daid dárkkuhusat, oktavuođaolbmot jno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,15 +273,7 @@
         <seg>Siirry säätiötietokantaan (ruotsinkielinen)</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>gt; &amp;gt; Mana vuođđudusaid dihtorvuđđui (Ruoŧa)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vartiointiliikkeet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Fáktafitnodat</seg>
+        <seg>&amp;gt;&amp;gt; Mana vuođđudusaid dihtorvuđđui (Ruoŧa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -321,7 +281,7 @@
         <seg>Vartiointiliike valvoo kiinteistöjä, laitoksia, tiettyjä liikeyrityksiä, julkisia tilaisuuksia ja yksityisen henkilön turvallisuutta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Fáktafitnodat fákte giddodagaid, lágádusaid, dihto doaimmaid, almmolaš dilálašvuođaid dehe ovttaskas olbmo.</seg>
+        <seg>Fáktafitnodat Fáktafitnodat fákte giddodagaid, lágádusaid, dihto doaimmaid, almmolaš dilálašvuođaid dehe ovttaskas olbmo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,18 +302,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ammattikalastus</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Guolásteapmi ealáhussan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Lääninhallitus toimii elinvoimaisten kalakantojen luomiseksi ja pitkäaikaisen sekä kestävän kalastuselinkeinon vahvistamiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivra bargá eallinfámolaš guollenáli ja guhkes áigásaš ja bissovaš guolástanealáhusa buorrin.</seg>
+        <seg>Guolásteapmi ealáhussan Leanastivra bargá eallinfámolaš guollenáli ja guhkes áigásaš ja bissovaš guolástanealáhusa buorrin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -369,23 +321,15 @@
         <seg>Voimme myös myöntää avustuksia ammattikalastajan luvan saaneille kalastajille hylkeenkestävien pyydysten hankintaan ja maksaa korvauksia hylkeiden heidän pyydyksilleen ja kalansaaliilleen aiheuttamista vahingoista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mii sáhttit maid mieđihit veahkeruđa ámmátguolásteddjiide, geas lea liseansa ahte sii sáhttet njuorjonannet iežaset guolástanbiergasiid ja addit buhtadusa daid vahágiid ovddas maid njuorjjut dagahit sin biergasiidda ja sállašii.</seg>
+        <seg>Mii sáhttit maid mieđihit veahkeruđa ámmátguolásteddjiide,geas lea liseansa ahte sii sáhttet njuorjonannet iežaset guolástanbiergasiid ja addit buhtadusa daid vahágiid ovddas maid njuorjjut dagahit sin biergasiidda ja sállašii.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lääninhallitus jakaa EU-tukea ammattimaiseen kalastukseen, vesiviljelyyn, jalostusteollisuuteen, koulutukseen, kehityshankkeisiin yms. tehtäviin investointeihin.</seg>
+        <seg>Lääninhallitus jakaa EU-tukea ammattimaiseen kalastukseen, vesiviljelyyn, jalostusteollisuuteen, koulutukseen, kehityshankkeisiin yms. tehtäviin investointeihin. Voimme myös antaa neuvoja ja taloudellista tukea matkailukalastusyritysten kehittämistä, perustamista ja markkinointia suunnitteleville.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivra juohká EU-doarjagiid investeremiidda ámmátguolásteamis, čáhcegilvimis, válmmastallanindustriijas, skuvlejumiin, ovddidanprošeavttain jno..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Voimme myös antaa neuvoja ja taloudellista tukea matkailukalastusyritysten kehittämistä, perustamista ja markkinointia suunnitteleville.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mii sáhttit maid addit ráđiid ja ekonomalaš doarjaga daidda geat háliidit ovddidit, vuođđudit ja márkanastit turistaguolástanfitnodagaid.</seg>
+        <seg>Leanastivra juohká EU-doarjagiid investeremiidda ámmátguolásteamis, čáhcegilvimis, válmmastallanindustriijas, skuvlejumiin, ovddidanprošeavttain jno. Mii sáhttit maid addit ráđiid ja ekonomalaš doarjaga daidda geat háliidit ovddidit, vuođđudit ja márkanastit turistaguolástanfitnodagaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,14 +398,6 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Pelit ja urheilu</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Spealat ja valástallan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Ajotiellä ajettavan ajoneuvokilpailun järjestämiseksi vaaditaan lupa kilpailun aloituspaikan läänin lääninhallitukselta.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -486,74 +422,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Bingopelin tai arpajaisten järjestämiseksi yhden läänin alueella saa luvan lääninhallitukselta.</seg>
+        <seg>Jos vain yhdessä kunnassa toimiva yhdistys järjestää arpajaiset, luvan niihin saa kunnalta.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus vuorbádeami ordne searvi mii dušše doaibmá ovtta gielddas dalle gielda addá lobi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kommentoi sivua</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggat siiddu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Piilota kommenttilomake</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čiega čielggadanskovi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Raportoi sivulla oleva vika</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggat siiddu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mii váldit mielanis vuostá du oainnuid ju gávnnat feaillaid dán siiddus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Du čilgehus sáddejuvvo siidovásttolaš doaimmaheaddjái.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sähköposti</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggadeapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Syötä seuraava koodi lähettääksesi kommenttisi</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Biepma sisa vulobeale kooda vai sáhtát sáddet čilgehusa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Luo uusi kuva</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buvttit ođđa gova</seg>
       </tuv>
     </tu>
   </body>

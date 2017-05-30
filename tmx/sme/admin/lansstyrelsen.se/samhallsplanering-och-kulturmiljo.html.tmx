@@ -6,14 +6,6 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Yhteiskuntasuunnittelu ja kulttuuriympäristö - Länsstyrelsen Skåne</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Sisdoallu A:s Ö:ai</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Yhteiskuntasuunnittelu ja kulttuuriympäristö</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -22,42 +14,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Verkkokartta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Webkárta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Aloitussivu</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Álginsiidu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Yhteiskuntasuunnittelu ja kulttuuriympäristö</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Servodatplánen ja kulturbiras</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tietojen jakaminen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Juoge informašuvnna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Yhteiskuntasuunnittelu ja kulttuuriympäristö</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Servodatplánen &amp; kulturbiras</seg>
+        <seg>Servodatplánen &amp;amp; kulturbiras</seg>
       </tuv>
     </tu>
     <tu>
@@ -113,7 +73,7 @@
         <seg>Lääninhallitus koordinoi alueellisen työn pitkällä tähtäimellä turvallisen ja kestävän energiahuollon rakentamiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivra buohtastahttá báikkálaš barggu guhkesáigásaš dorvvolaš ja bissovaš energiija-fuolahussii.</seg>
+        <seg>Energiija Leanastivra buohtastahttá báikkálaš barggu guhkesáigásaš dorvvolaš ja bissovaš energiija-fuolahussii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -369,7 +329,7 @@
         <seg>Lääninhallitus antaa avustusta myös yhdistyksille, yrityksille ja yksittäisille ihmisille, jotka aikovat toteuttaa paikallisia luonnonsuojeluhankkeita (LONA).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivra addá maid veahkeruđa servviide, fitnodagaide ja ovttaskas olbmuide geat háliidit jođihit báikkálaš luonddudikšunprošeavtta (LONA).</seg>
+        <seg>Leanastivra addá maid veahkeruđa servviide, fitnodagaide ja ovttaskas olbmuide geat háliidit jođihit báikkálaš luonddudikšunprošeavtta(LONA).</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,70 +338,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus don háliidat doarjaga LONA- prošektii galggat almmuhit dan gildii mii vuorustis guođđá ohcamuša Leanastivrii.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kommentoi sivua</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggat siiddu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Piilota kommenttilomake</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čiega čielggadanskovi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Raportoi sivulla oleva vika</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggat siiddu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mii váldit mielanis vuostá du oainnuid ju gávnnat feaillaid dán siiddus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Du čilgehus sáddejuvvo siidovásttolaš doaimmaheaddjái.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sähköposti</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggadeapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Syötä seuraava koodi lähettääksesi kommenttisi</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Biepma sisa vulobeale kooda vai sáhtát sáddet čilgehusa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Luo uusi kuva</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buvttit ođđa gova</seg>
       </tuv>
     </tu>
   </body>

@@ -9,7 +9,7 @@
         <seg>UMO – nuorisovastaanotto verkossa</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>UMO – nuoraid vuostáváldin neahtas</seg>
+        <seg>UMO –nuoraid vuostáváldin neahtas</seg>
       </tuv>
     </tu>
     <tu>
@@ -17,7 +17,7 @@
         <seg>UMO:n aihealueet:</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>UMO suorggit:</seg>
+        <seg>Veadjit heajuid</seg>
       </tuv>
     </tu>
     <tu>
@@ -33,20 +33,12 @@
         <seg>Alkoholi, tupakka, huumeet</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ráhkisvuohta ja ustitvuohta</seg>
+        <seg>Alkohola, duhpát, gárrenmirkkut</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Minä</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Bajilčállosat:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Seksi</seg>
+        <seg>Minä Seksi</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jorgaleapmi</seg>
@@ -70,23 +62,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Aborttia harkitsevalla voi olla mielessään monenlaisia kysymyksiä, joista on mahdollista keskustella ja joihin voi saada vastauksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus jurddaša dahkat abortta soitet leahkit máŋga jearaldaga. Muhto álo lea vejolašvuohta deaivat soapmása oažžun dihte vástádusa jearaldagaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Tämä koskee myös poikaa, joka on saattanut tytön raskaaksi.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jus jurddaša dahkat abortta soitet leahkit máŋga jearaldaga.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ahdistuksella tarkoitetaan voimakasta, pelonsekaista tai huolestunutta tunnetilaa, joka tuntuu koko kehossa, ja jota useimmat joskus kokevat.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Muhto álo lea vejolašvuohta deaivat soapmása oažžun dihte vástádusa jearaldagaide.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vaikka ahdistus voi tuntua ikävältä, kannattaa kuitenkin yrittää tehdä haluamiaan asioita eikä vältellä tilanteita, joiden uskoo aiheuttavan ahdistusta.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dát guoská maid dan gii lea dahkan soapmása áhpeheapmin.</seg>
@@ -94,7 +78,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Alakuloisuus</seg>
+        <seg>Alkoholi</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Alkohola</seg>
@@ -102,7 +86,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Alakuloisuuden, surullisuuden, ahdistuksen tai toivottomuuden tunteet ovat luonnollinen osa elämää.</seg>
+        <seg>Alkoholijuomiin kuuluvat muun muassa olut, viini ja väkevät alkoholijuomat.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Alkoholain dárkkuhuvvo juhkosiid dego vuola, viidna ja viidni.</seg>
@@ -110,15 +94,23 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Joskus saattaa olla päiviä, jolloin mikään ei huvita, mikään ei tunnu hauskalta tai mielessä pyörii monenlaisia asioita.</seg>
+        <seg>Alkoholia juodaan maun vuoksi tai päihtymyksen saavuttamiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Máŋgasat juhket daningo dat lea buorre dehe vai šaddet gárremiin. Muhto alkohola sáhttá leahkit maid váralaš máŋgga ládje.</seg>
+        <seg>Máŋgasat juhket daningo dat lea buorre dehe vai šaddet gárremiin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tällaiset tunteet menevät usein ohi.</seg>
+        <seg>Alkoholin käytöllä voi kuitenkin olla monenlaisia vakavia haittavaikutuksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto alkohola sáhttá leahkit maid váralaš máŋgga ládje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se voi aiheuttaa vammoja ja sairauksia tai saada ajautumaan vaikeisiin tai vaarallisiin tilanteisiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Muhtimat ožžot áŧestusa ja vedjet heajuid go juhket.</seg>
@@ -126,15 +118,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kurjaa oloa voi kohentaa eri tavoin itse, tai hakea tarvittaessa apua.</seg>
+        <seg>Joillekin alkoholin käyttö aiheuttaa ahdistuneisuutta ja pahoinvointia.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Áŧestus leat garra fuolla ja ballu mii sáhttá dovdot olles gorudis, ja man eatnasat ožžot muhtumin.</seg>
+        <seg>» Alkohola Áŧestus leat garra fuolla ja ballu mii sáhttá dovdot olles gorudis, ja man eatnasat ožžot muhtumin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Alkoholi</seg>
+        <seg>» Alkoholi</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Borgguheapmi</seg>
@@ -142,7 +134,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Alkoholia juodaan maun vuoksi tai päihtymyksen saavuttamiseksi.</seg>
+        <seg>Ehkäisypilleri on tyttöjen ehkäisymenetelmä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Go borgguha njammá alccesis duhatnáriid mirko ávdnasiid.</seg>
@@ -150,7 +142,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Alkoholin käytöllä voi kuitenkin olla monenlaisia vakavia haittavaikutuksia. Se voi aiheuttaa vammoja ja sairauksia tai saada ajautumaan vaikeisiin tai vaarallisiin tilanteisiin.</seg>
+        <seg>Ne sisältävät kahta eri hormonia, estrogeenia ja progesteronia (keltarauhashormonia), jotka muun muassa estävät ovulaation ja siten myös raskaaksi tulemisen.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Borgguheapmi sáhttá dagahit sierra vahágiid ja buozanvuođaid, ja sullii juohke nubbi olmmoš gii borgguha jápmá ovdalgo son livččii jápmán borggutkeahttá.</seg>
@@ -158,42 +150,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ehkäisypilleri</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>š Borgguheapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ehkäisypilleri on tyttöjen ehkäisymenetelmä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Cummástallan ja ráhkástallan lea juoga masa máŋgasat liikojit.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ehkäisypillereillä tarkoitetaan useimmiten yhdistelmäehkäisypillereitä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jus ii leat dahkan dan soaitá olmmoš niegadit ja ahkiduššá dahkat dan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ne sisältävät kahta eri hormonia, estrogeenia ja progesteronia (keltarauhashormonia), jotka muun muassa estävät ovulaation ja siten myös raskaaksi tulemisen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Seamma áigge sáhttá maid dovdot vehá leabohin vuosttas cumma dehe ráhkástallama ovdal. Got dáhká go ráhkástallá.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Eka kerta</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>š Cummát ja ráhkástallan</seg>
+        <seg>» Borgguheapmi</seg>
       </tuv>
     </tu>
     <tu>
@@ -201,7 +161,7 @@
         <seg>Ennen ensimmäisiä seksuaalisia kokeiluja toisen kanssa monet ovat harjoittaneet itsetyydytystä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Fáhkkatlaš p-pillar lea tableahtta man nieiddat sáhttet váldit vai eai šatta áhpeheapmin.</seg>
+        <seg>Cummástallan ja ráhkástallan lea juoga masa máŋgasat liikojit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209,7 +169,7 @@
         <seg>Ensimmäinen seksuaalinen kokemus tapahtuu siis usein oman itsensä kanssa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dat ii leat miige áhpehisvuođasuodji dábálaš mearkkašumis, dat ii leat miige man geavtá suodjin ovdal ja maŋŋel anašeami.</seg>
+        <seg>Jus ii leat dahkan dan soaitá olmmoš niegadit ja ahkiduššá dahkat dan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -217,39 +177,31 @@
         <seg>On luonnollista, että ensimmäinen seksikokemus toisen kanssa herättää monenlaisia ajatuksia ja odotuksia.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Fáhkkatlaš p-pillara galgá geavtit beare heahtečoavddusin iige dássedis suodjin áhpehisvuođa vuostá.</seg>
+        <seg>Seamma áigge sáhttá maid dovdot vehá leabohin vuosttas cumma dehe ráhkástallama ovdal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Hiivatulehdus</seg>
+        <seg>» Eka kerta Hiivatulehdus</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>š Fáhkkatlaš p-pillar</seg>
+        <seg>Got dáhká go ráhkástallá.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Emättimen limakalvolla elää normaalisti hiivasieni.</seg>
+        <seg>Joskus hiivasieni voi yltyä liikakasvuun ja aiheuttaa tulehduksen. Tämä on hyvin yleistä varsinkin tytöillä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guoppar vuolledábiin</seg>
+        <seg>Fáhkkatlaš p-pillar lea tableahtta man nieiddat sáhttet váldit vai eai šatta áhpeheapmin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Joskus hiivasieni voi yltyä liikakasvuun ja aiheuttaa tulehduksen.</seg>
+        <seg>Kolme neljästä tytöstä kärsii jossain vaiheessa elämäänsä hiivatulehduksesta, ja monilla se toistuu useita kertoja.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guoppar lea dábálaš vuolledábiin eatnasiin.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tämä on hyvin yleistä varsinkin tytöillä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Muhtumin dat lassána ja dalle dat sáhttá váivvidit.</seg>
+        <seg>Dat ii leat miige áhpehisvuođasuodji dábálaš mearkkašumis, dat ii leat miige man geavtá suodjin ovdal ja maŋŋel anašeami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -257,7 +209,7 @@
         <seg>Myös pojat voivat saada hiivatulehduksen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dat lea hui dábálaš nieiddain.</seg>
+        <seg>Guoppar lea dábálaš vuolledábiin eatnasiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -265,7 +217,15 @@
         <seg>Hiivatulehdus on vaaraton, mutta se voi aiheuttaa kutinaa ja kirvelyä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Kondoma lea una hui asehis (gumme) busse man bidjá cihpa dehe seksaájanasa nala go galgá atnit seksa.</seg>
+        <seg>Muhtumin dat lassána ja dalle dat sáhttá váivvidit. Dat lea hui dábálaš nieiddain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>» Hiivatulehdus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>» Guoppar vuolledábiin</seg>
       </tuv>
     </tu>
     <tu>
@@ -305,7 +265,7 @@
         <seg>Jälkiehkäisypilleri on tabletti, jonka tyttö voi ottaa ehkäistäkseen raskauden.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Lea olu maid sáhttá dahkat iežas iešdovddu nanostahttimii.</seg>
+        <seg>Lea olu maid sáhttá dahkat iežas iešdovddu nanostahttimii. Dá leat moadde ášši maid sáhttá geahččalit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -313,36 +273,12 @@
         <seg>Jälkiehkäisy ei ole tavanomainen ehkäisykeino, eli sitä ei käytetä suojana ennen yhdyntää tai sen aikana.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dá leat moadde ášši maid sáhttá geahččalit.</seg>
+        <seg>Go olbmot birrasis meannudit heajut soapmása vuostá, gohčoduvvo dat givssideap-min. Ovttaskas ilgadis dahku ii rehkenasto givssideapmin.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kiusatuksi joutuminen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>š Guoiggus buoret iešdovdui</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Joutuessaan kiusatuksi saattaa helposti alkaa tuntea olonsa surulliseksi ja alakuloiseksi.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Go olbmot birrasis meannudit heajut soapmása vuostá, gohčoduvvo dat givssideap-min.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Joskus kiusaaminen vaikuttaa elämään niin paljon, että kiusatun itsetunto heikkenee ja hän yrittää vältellä tilanteita, joissa saattaisi törmätä kiusaajiin.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Ovttaskas ilgadis dahku ii rehkenasto givssideapmin.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kenenkään ei tarvitsisi joutua piiloutumaan kiusaamisen vuoksi.</seg>
+        <seg>Jälkiehkäisytablettia tulisi käyttää vain viimeisenä hätäkeinona eikä säännölliseen raskauden ehkäisyyn.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Dalle go dat dáhpáhuvvá máŋgii ja dat gii gieđahallo heajut veadjá heajuid, de dat rehkenasto givssideapmin.</seg>
@@ -350,23 +286,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>š Kiusatuksi joutuminen</seg>
+        <seg>Kiusatuksi joutuminen</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>š Givssideapmi</seg>
+        <seg>» Givssideapmi Jus givssiduvvo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kiusaaminen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jus givssiduvvo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kiusaamisella tarkoitetaan sitä, kun joku joutuu ympärillä olevien ihmisten huonon kohtelun kohteeksi.</seg>
+        <seg>Joutuessaan kiusatuksi saattaa helposti alkaa tuntea olonsa surulliseksi ja alakuloiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Go givssiduvvo lea álki ahte dovdagoahtá iežas leaboheapmin ja álgá veadjit heajuid.</seg>
@@ -374,7 +302,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Yksittäiset erimielisyydet eivät ole kiusaamista.</seg>
+        <seg>Joskus kiusaaminen vaikuttaa elämään niin paljon, että kiusatun itsetunto heikkenee ja hän yrittää vältellä tilanteita, joissa saattaisi törmätä kiusaajiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Muhtumin dat váikkuha eallimii nu olu ahte oažžu heajut iešdovddu.</seg>
@@ -382,7 +310,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kun ilkeää kohtelua tapahtuu toistuvasti, ja se aiheuttaa kiusatulle harmia ja pahaa mieltä, puhutaan kiusaamisesta.</seg>
+        <seg>Kenenkään ei tarvitsisi joutua piiloutumaan kiusaamisen vuoksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Muhto ii giige dárbbat čiehkadit dan dihte ahte earát givssidit.</seg>
@@ -390,15 +318,23 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>š Kiusaaminen</seg>
+        <seg>» Kiusatuksi joutuminen</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>š Jus givssiduvvo</seg>
+        <seg>» Jus givssiduvvo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kondomi on ohut lateksinen (kuminen) pussi, joka voidaan asettaa peniksen tai seksilelun päälle seksiä harrastettaessa.</seg>
+        <seg>Kiusaaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lossesvuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiusaamisella tarkoitetaan sitä, kun joku joutuu ympärillä olevien ihmisten huonon kohtelun kohteeksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Muhtumindovdat iežas lossesvuođa, surolažžan, leaboheapmin dehe dovdat doaivvuhisvuođa lea lunddolaš oassi eallimis.</seg>
@@ -406,10 +342,34 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Kun ilkeää kohtelua tapahtuu toistuvasti, ja se aiheuttaa kiusatulle harmia ja pahaa mieltä, puhutaan kiusaamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leat áššit maid sáhttá dahkat ieš vai veadjá buorebut, ja gávdno veahkki jus dárbbaha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>» Kiusaaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>» Lossesvuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kondomi on ohut lateksinen (kuminen) pussi, joka voidaan asettaa peniksen tai seksilelun päälle seksiä harrastettaessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánodávddat lea vardin goaŧus man nieiddat ožžot oalle dássedit rávásmanagi rájis. Mánodávddat leat goruda vuohki čájehit ahte lea sohkabealválmmas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Kuukautiset</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mánodávddat</seg>
+        <seg>» Mánodávddat</seg>
       </tuv>
     </tu>
     <tu>
@@ -417,7 +377,7 @@
         <seg>Kuukautiset tarkoittavat kohdusta poistuvaa verenvuotoa, joka toistuu tytöillä enemmän tai vähemmän säännöllisesti murrosiästä alkaen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mánodávddat lea vardin goaŧus man nieiddat ožžot oalle dássedit rávásmanagi rájis.</seg>
+        <seg>P-pillar lea eastadeaddjiávnnas tableahttahámis nieiddaide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,36 +385,12 @@
         <seg>Kuukautiset ovat merkki tytölle, että hänen kehonsa on lisääntymiskykyinen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mánodávddat leat goruda vuohki čájehit ahte lea sohkabealválmmas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Murrosikä alkaa yleensä 10–13-vuotiaana.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>P-pillar lea eastadeaddjiávnnas tableahttahámis nieiddaide.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Murrosiän aikana vartalo kehittyy lapsesta aikuiseksi.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
         <seg>P-pillariin meidnejuvvo dávjjimusat dan mii rievtti mielde lea lotnolas p-pillar.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Esimerkiksi ääni ja sukupuolielimet muuttuvat, kasvoihin saattaa ilmaantua näppylöitä ja kiinnostus seksiin herää.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dat siskkilda guokte sierra hormona, østrogena ja fiskesgoruthormona, mat earet eará dagahit ahte ii oaččo monne luovvaneami ja danin ii sáhte šaddat áhpeheapminge.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Pussailu, suutelu ja hyväily</seg>
+        <seg>» Kuukautiset</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rávásmanahki</seg>
@@ -462,7 +398,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Monet tykkäävät pussailusta, suutelusta ja hyväilystä.</seg>
+        <seg>Murrosikä alkaa yleensä 10–13-vuotiaana.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Joskos go lea 10 ja 13 jagi gaskkan lávejit eatnasat ollet rávásmanahkái.</seg>
@@ -470,7 +406,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ne ovat asioita, joista moni nuori haaveilee ja odottaa pääsevänsä kokemaan.</seg>
+        <seg>Murrosiän aikana vartalo kehittyy lapsesta aikuiseksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rávásmanagi áigge gorut ovdána mánás rávesolmmožin.</seg>
@@ -478,7 +414,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Samanaikaisesti ensimmäinen suudelma tai hyväily saattaa hermostuttaa. Miten oikeastaan hyväillään ?</seg>
+        <seg>Esimerkiksi ääni ja sukupuolielimet muuttuvat, kasvoihin saattaa ilmaantua näppylöitä ja kiinnostus seksiin herää.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Ovdamearkka dihte jietna ja sohkabealli rievdá, sáhttá oažžut nákkiid ja álgá beroštit seksas.</seg>
@@ -486,23 +422,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Seksitautitestit</seg>
+        <seg>Pussailu, suutelu ja hyväily</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Seksa vuosttaš geardde</seg>
+        <seg>» Rávásmanahki Seksa vuosttaš geardde</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Testimenetelmä riippuu testattavasta seksitaudista.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Eatnasat lávejit lean onaneren ovdalgo leat anašan soapmásiin.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Usein testit otetaan virtsanäytteestä tai verikokeesta.</seg>
+        <seg>Monet tykkäävät pussailusta, suutelusta ja hyväilystä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Vuosttaš seksuálalaš vásáhus lea oainnát iežainis.</seg>
@@ -510,7 +438,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Jos testattava seksitauti on tartuntasuojalain mukaan ilmoitettava tauti, testi on ilmainen.</seg>
+        <seg>Ne ovat asioita, joista moni nuori haaveilee ja odottaa pääsevänsä kokemaan. Samanaikaisesti ensimmäinen suudelma tai hyväily saattaa hermostuttaa.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Lea dábálaš ahte olbmos leat olu jurdagat ja vuordámušat got boahtá leahkit go vuosttaš geardde anaša soapmásiin.</seg>
@@ -518,15 +446,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Seksuaalinen suuntautuminen - bi, hetero, homo</seg>
+        <seg>Miten oikeastaan hyväillään?</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>š Seksa vuosttaš geardde</seg>
+        <seg>» Seksa vuosttaš geardde</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ihmiset voivat olla bi-, hetero- tai homoseksuaaleja.</seg>
+        <seg>» Pussailu, suutelu ja hyväily</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Seksualálaš sodju - bi, hetero, homo</seg>
@@ -534,7 +462,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tupakointi voi aiheuttaa erilaisia terveyshaittoja ja sairauksia, ja noin joka toinen tupakoitsija kuolee nuorempana kuin tupakoimaton ikätoveri.</seg>
+        <seg>Jos on harrastanut suojaamatonta seksiä, kannattaa aina käydä seksitautitesteissä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Seksuálalaš mieđisvuohta guoskkaha mii sohkabealit lea olbmuin geaidda ráhkástuvvá dehe hipmosa.</seg>
@@ -542,7 +470,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tupakka on myös kallista, se voi aiheuttaa aknea, heikentää fyysistä kuntoa ja vähentää seksihaluja.</seg>
+        <seg>Ihmiset voivat olla bi-, hetero- tai homoseksuaaleja.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Olmmoš sáhttá leahkit biseksuálalaš, heteroseksuálalaš dehe homoseksuálalaš.</seg>
@@ -550,10 +478,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Vinkkejä itsetunnon kohentamiseen</seg>
+        <seg>» Seksuaalinen suuntautuminen -bi, hetero, homo</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Testet iežas</seg>
+        <seg>» Seksualálaš sodju - bi, hetero, homo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tupakka on myös kallista, se voi aiheuttaa aknea, heikentää fyysistä kuntoa ja vähentää seksihaluja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Testet iežas Jus lea leamaš suddjekeahtes seksa lea álo buorre testet iežas sohkabealedávddaid dihte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -561,7 +497,7 @@
         <seg>Omaa itsetuntoaan voi kohentaa monin eri tavoin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Jus lea leamaš suddjekeahtes seksa lea álo buorre testet iežas sohkabealedávddaid dihte.</seg>
+        <seg>Got teasta dáhpáhuvvá vuolgá das man sohkabealedávdda dihte teste iežas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,23 +505,7 @@
         <seg>Tässä muutamia kokeilunarvoisia vinkkejä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Got teasta dáhpáhuvvá vuolgá das man sohkabealedávdda dihte teste iežas.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>š Vinkkejä itsetunnon kohentamiseen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
         <seg>Dávjá oažžu guođđit cissa-dehe varraiskosa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>UMOsta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>š Testet iežas</seg>
       </tuv>
     </tu>
   </body>
