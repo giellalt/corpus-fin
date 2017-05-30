@@ -5,7 +5,7 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>633</wordcount>
+    <wordcount>512</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
@@ -13,17 +13,30 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.lansstyrelsen.se/skane/Fi/djur-och-natur/Pages/default.aspx</origFileName>
-    <parallel_text location="djur-och-natur.html" xml:lang="eng"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="sma"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="sme"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="swe"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="rmf" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="rmn" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="rmu" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="rmy-rka" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="rmy-rlo" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="yid" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="yid"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -32,45 +45,8 @@
   <body>
     <p>Eläimet ja luonto - Länsstyrelsen Skåne</p>
     <list>
-      <p type="listitem" xml:lang="swe">Snabblänk till textinnehållet</p>
-      <p type="listitem" xml:lang="swe">om webbplatsen</p>
-      <p type="listitem" xml:lang="sma">startsidan</p>
-      <p type="listitem" xml:lang="nno">nyheter</p>
-      <p type="listitem" xml:lang="eng">webbkarta</p>
-      <p type="listitem" xml:lang="eng">sökfunktion</p>
-      <p type="listitem" xml:lang="swe">kontakta oss</p>
-      <p type="listitem" xml:lang="nob">blanketter</p>
-      <p type="listitem" xml:lang="dan">publikationer</p>
-    </list>
-    <p type="title" xml:lang="swe">Webbplatsen använder kakor</p>
-    <p xml:lang="swe">På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
-    <p xml:lang="swe">Jag accepterar kakor</p>
-    <p xml:lang="sma">Sisältö A–Ö</p>
-    <list>
       <p type="listitem">Eläimet ja luonto</p>
     </list>
-    <list>
-      <p type="listitem" xml:lang="eng">English</p>
-      <p type="listitem" xml:lang="fkv">Meänkieli</p>
-      <p type="listitem" xml:lang="swe">Lättläst svenska</p>
-      <p type="listitem" xml:lang="sma">Arli (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalé (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalderash (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Lovari (romani chib)</p>
-      <p type="listitem" xml:lang="nno">Resanderomani (romani chib)</p>
-      <p type="listitem" xml:lang="smj">Sámigiella</p>
-      <p type="listitem" xml:lang="nob">Svenska</p>
-      <p type="listitem" xml:lang="swe">Svenskt teckenspråk</p>
-      <p type="listitem" xml:lang="sma">ייִדיש (jiddisch)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fkv">Kuuntele</p>
-      <p type="listitem">Verkkokartta</p>
-    </list>
-    <p>Aloitussivu</p>
-    <p xml:lang="sms">&gt;</p>
-    <p>Eläimet ja luonto</p>
-    <p>Tietojen jakaminen</p>
     <p type="title">Eläimet ja luonto</p>
     <p>
       <em type="italic">Lääninhallitus toimii läänin arvokkaiden kasvien, eläinten ja luonnonympäristöjen säilyttämiseksi. Tämä merkitsee muun muassa lajien ja luonnonympäristöjen inventointia, luonnonympäristöön mahdollisesti vaikuttavien toimintojen toimilupien tarkkaa harkintaa sekä luonnonsuojelualueiden perustamista ja hoitamista. Luonnonsuojelualueet ja kansallispuistot ovat käytettävissä ulkoiluun ja luontoelämysten hankkimiseen. </em>
@@ -94,14 +70,5 @@
     <p>Lääninhallitus vastaa läänin suurten petoeläinten hallinnointia koskevista asioista. Tavoitteena on, että eläinten tulee elää elinvoimaisina kantoina samalla kun pyrimme minimoimaan niiden mahdollisesti aiheuttamat vahingot. Suuriin petoeläimiin kuuluvat karhu, susi, ilves, ahma ja maakotka. Lääninhallitus suorittaa inventointeja vuosittain ja päättää esimerkiksi ennaltaehkäisevistä toimenpiteistä, suoja- ja lupametsästyksistä sekä valvoo mahdollista luvatonta metsästystä. Käsittelemme lisäksi petoeläinten aiheuttamiin riistavahinkoihin liittyviä asioita.</p>
     <p type="title">Moottoriliikenne luonnossa</p>
     <p>Lääninhallitus sääntelee ja valvoo maastossa lumettomalla maalla suoritettavaa ajoa sekä moottorikelkka- ja vesiskootteriliikennettä. Tarkoituksena on estää moottoriliikenteen aiheuttamat häiriöt sekä maaperään, kasvillisuuteen, ulkoilutoimintaan, eläimistöön, poronhoitoon sekä maa- ja metsätalouteen kohdistuvat vahingot. Maastoajo lumettomalla maalla on kielletty koko Ruotsissa. Moottorikelkkaa saa käyttää vain lumen peittämällä maalla. Moottorikelkalla ajamista on rajoitettu tietyillä alueilla, ennen kaikkea tuntureilla, kieltämällä sen käyttö moottorikelkkareittien ulkopuolella. Vesiskootteria saa ajaa vain yleisillä väylillä ja lääninhallituksen hyväksymillä alueilla.</p>
-    <p>Kommentoi sivua</p>
-    <p>Piilota kommenttilomake</p>
-    <p type="title">Raportoi sivulla oleva vika</p>
-    <p>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä. Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</p>
-    <p xml:lang="kal">Nimi</p>
-    <p>Sähköposti</p>
-    <p>Kommentti</p>
-    <p>Syötä seuraava koodi lähettääksesi kommenttisi</p>
-    <p>Luo uusi kuva</p>
   </body>
 </document>

@@ -5,6 +5,10 @@
     <author>
       <unknown/>
     </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
     <wordcount>668</wordcount>
     <conversion_status type="standard"/>
     <availability>
@@ -13,17 +17,30 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.umo.se/Andra-sprak/Finska/Eka-kerta</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="seksia-ensi-kerran.html"/>
-    <parallel_text xml:lang="rmf" location="seksi-vaguno-var.html"/>
-    <parallel_text xml:lang="rmn" location="seksi-o-prvo-puti.html"/>
-    <parallel_text xml:lang="rmu" location="jeckesta-tjiron-gla-bulopha.html"/>
-    <parallel_text xml:lang="rmy-rka" location="buledimos-angluni-data.html"/>
-    <parallel_text xml:lang="rmy-rlo" location="sekso-angluni-data.html"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
     <parallel_text xml:lang="sma" location="sekse-voestes-aejkien.html"/>
     <parallel_text xml:lang="sme" location="seksa-vuostta-geardde.html"/>
     <parallel_text xml:lang="smj" location="seksa-vuostasj-bale.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
     <parallel_text xml:lang="swe" location="sex-forsta-gangen.html"/>
-    <parallel_text xml:lang="yid" location="seks-tsum-ershtn-mol.html"/>
+    <parallel_text location="sekso-angluni-data.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="seksi-vaguno-var.html" xml:lang="rmf"/>
+    <parallel_text location="seksi-o-prvo-puti.html" xml:lang="rmn"/>
+    <parallel_text location="jeckesta-tjiron-gla-bulopha.html" xml:lang="rmu"/>
+    <parallel_text location="buledimos-angluni-data.html" xml:lang="rmy-rka"/>
+    <parallel_text location="seks-tsum-ershtn-mol.html" xml:lang="yid"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -60,7 +77,7 @@
       <p type="listitem">Käytä suojavälinettä, kuten kondomia tai suuseksisuojaa ja harjoittele niiden käyttöä.</p>
       <p type="listitem">Seksin harrastaminen turvallisessa paikassa voi auttaa rentoutumaan.</p>
     </list>
-    <p type="title" xml:lang="ger">Neitsyys</p>
+    <p type="title" xml:lang="deu">Neitsyys</p>
     <p>Neitsyydellä tarkoitetaan sitä, että ei ole harrastanut seksiä. Tämä voi tarkoittaa sitä, että ei ole harrastanut seksiä, jossa penis on emättimessä, mutta se voi myös tarkoittaa sitä, että ei ole harrastunut seksiä ollenkaan.</p>
     <p>Jotkut eivät halua käyttää sanaa neitsyt. Ehkä se kuulostaa siltä, kuin seksuaalinen kokemattomuus olisi taakka. Ikään kuin kokemattomuutta pitäisi hävetä.</p>
     <p>Useimmat, jotka käyttävät sanaa neitsyt, eivät ajattele niin. Sana vain kuvaa henkilöä, joka ei ole harrastanut seksiä. Kun on harrastanut seksiä ensimmäistä kertaa, sanotaan, että on päässyt eroon neitsyydestä tai on menettänyt neitsyytensä. Silloin saattaa tuntea ylpeyttä tai iloa, että ei ole enää neitsyt.</p>

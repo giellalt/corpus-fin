@@ -12,9 +12,24 @@
     </availability>
     <multilingual/>
     <origFileName>http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_samskonvensjonen_finsk_H-2183%20F.pdf</origFileName>
-    <parallel_text location="sami_samekonvensjon_norsk.pdf" xml:lang="nob"/>
-    <parallel_text location="sami_samekonvensjon_samisk_h-2183.pdf" xml:lang="sme"/>
-    <parallel_text location="sami_samekonvensjon_samisk_h-2183.pdf" xml:lang="swe"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location="sami_samekonvensjon_norsk.pdf"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="sami_samekonvensjon_samisk_h-2183.pdf"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="sami_samekonvensjon_samisk_h-2183.pdf"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -807,7 +822,7 @@
     <p xml:lang="swe">
       <em type="bold">Kapitel I Det samiska folkets allmänna rättigheter </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 1 </em>
     </p>
     <p xml:lang="swe">
@@ -816,11 +831,11 @@
     <p xml:lang="swe">Konventionen har till ändamål att bekräfta och stärka sådana rättigheter för det samiska</p>
     <p xml:lang="swe">folket att det kan bevara och utveckla sitt språk, sin kultur, sina näringar och sitt samhällsliv</p>
     <p xml:lang="swe">med minsta möjliga hinder av landgränserna.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 2 </em>
     </p>
     <p xml:lang="swe"><em type="bold">Samerna som urfolk </em>Samerna är urfolket i Finland, Norge och Sverige. </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 3 </em>
     </p>
     <p xml:lang="swe">
@@ -830,7 +845,7 @@
     <p xml:lang="swe">folkrättens regler och bestämmelserna i denna konvention. Så långt det följer av dessa regler</p>
     <p xml:lang="swe">och bestämmelser har det samiska folket rätt att själv bestämma om sin ekonomiska, sociala</p>
     <p xml:lang="swe">och kulturella utveckling och att för sina egna syften själv förfoga över sina naturtillgångar.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 4 </em>
     </p>
     <p xml:lang="swe">
@@ -843,7 +858,7 @@
     <p xml:lang="swe">2. har rätt att utöva samisk rennäring i Norge eller Sverige, eller</p>
     <p xml:lang="swe">3. uppfyller villkoren för att ha rösträtt vid sametingsval i Finland, Norge eller Sverige, eller</p>
     <p xml:lang="swe">4. är barn till en person som avses i punkt 1, 2 eller 3.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 5 </em>
     </p>
     <p xml:lang="swe">
@@ -856,7 +871,7 @@
     <p xml:lang="swe">Vid tillämpning av denna konvention skall sametingen och andra samiska organ,</p>
     <p xml:lang="swe">oavsett deras rättsliga status enligt nationell eller internationell rätt, inte anses falla under</p>
     <p xml:lang="swe">begreppet stat utom när de utövar offentlig myndighet.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 6 </em>
     </p>
     <p xml:lang="swe">
@@ -868,7 +883,7 @@
     <p xml:lang="swe">samiska lokalsamhällena.</p>
     <p xml:lang="swe">Staternas ansvar för åtgärder enligt denna konvention omfattar också i rimlig</p>
     <p xml:lang="swe">omfattning de samer som är bosatta utanför de traditionella samiska områdena.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 7 </em>
     </p>
     <p xml:lang="swe">
@@ -877,7 +892,7 @@
     <p xml:lang="swe">Det samiska folket och enskilda samer skall tillförsäkras skydd mot all diskriminering.</p>
     <p xml:lang="swe">För att förverkliga samernas rättigheter enligt denna konvention skall staterna vid</p>
     <p xml:lang="swe">behov vidta särskilda positiva åtgärder avseende dem.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 8 </em>
     </p>
     <p xml:lang="swe">
@@ -887,7 +902,7 @@
     <p xml:lang="swe">den enskilda staten att utvidga samernas rättigheter eller att vidta mera omfattande åtgärder</p>
     <p xml:lang="swe">och kan inte användas som grund för att begränsa de rättigheter för samer som följer av andra</p>
     <p xml:lang="swe">rättsregler.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 9 </em>
     </p>
     <p xml:lang="nob">
@@ -899,7 +914,7 @@
     <p xml:lang="swe">lagstiftning på områden där det kan finnas samiska sedvanor särskilt utreda om sådana</p>
     <p xml:lang="swe">sedvanor föreligger och om de i så fall bör ges skydd eller på annat sätt beaktas i</p>
     <p xml:lang="swe">lagstiftningen. Även i rättstillämpningen skall tillbörlig hänsyn tas till samiska sedvanor.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 10 </em>
     </p>
     <p xml:lang="swe">
@@ -907,7 +922,7 @@
     </p>
     <p xml:lang="swe">Staterna skall i samarbete med sametingen verka för fortsatt harmonisering av</p>
     <p xml:lang="swe">lagstiftning och annan reglering av betydelse för samernas verksamhet över landgränserna.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 11 </em>
     </p>
     <p xml:lang="swe">
@@ -918,7 +933,7 @@
     <p xml:lang="swe">samernas näringsverksamhet som grundas på deras medborgarskap eller bosättningsort eller</p>
     <p xml:lang="swe">som i övrigt beror på att det samiska bosättningsområdet sträcker sig över flera länder samt att</p>
     <p xml:lang="swe">ge samer tillgång till det kulturella utbudet i det land där de vid varje tidpunkt uppehåller sig.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 12 </em>
     </p>
     <p xml:lang="swe">
@@ -927,7 +942,7 @@
     <p xml:lang="swe">Staterna skall vidta åtgärder för att ge samer som är bosatta i något av de tre länderna</p>
     <p xml:lang="swe">möjligheter att få undervisning, hälsovård och socialvård i ett annat av dessa länder när detta</p>
     <p xml:lang="swe">framstår som mera ändamålsenligt.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 13 </em>
     </p>
     <p xml:lang="swe">
@@ -937,13 +952,13 @@
     <p xml:lang="swe">och andra samiska nationella symboler. Staterna skall vidare i samarbete med sametingen</p>
     <p xml:lang="swe">verka för att de samiska symbolerna synliggörs på ett sätt som markerar samernas ställning</p>
     <p xml:lang="swe">som ett eget folk i de tre länderna.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Kapitel II </em>
     </p>
     <p xml:lang="nob">
       <em type="bold">Samiskt styre </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 14 </em>
     </p>
     <p xml:lang="nob">
@@ -960,7 +975,7 @@
     <p xml:lang="swe">befogenheter fastställs i lag.</p>
     <p xml:lang="swe">Sametingen tar initiativ och uttalar sig i alla de angelägenheter där sametingen finner</p>
     <p xml:lang="swe">skäl till detta.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 15 </em>
     </p>
     <p xml:lang="swe">
@@ -970,7 +985,7 @@
     <p xml:lang="swe">internationell rätt har behörighet att fatta sådana beslut.</p>
     <p xml:lang="swe">Sametingen kan ingå avtal med nationella, regionala och lokala enheter om samarbete</p>
     <p xml:lang="swe">för att stärka samisk kultur och samiskt samhällsliv.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 16 </em>
     </p>
     <p xml:lang="swe">
@@ -979,11 +994,11 @@
     <p xml:lang="swe">I angelägenheter av väsentlig betydelse för samerna skall det föras forhandlinger i sak</p>
     <p xml:lang="swe">med sametingen innan beslut fattas av offentlig myndighet. Dessa förhandlingar skall äga rum</p>
     <p xml:lang="swe">vid en tillräckligt tidig tidpunkt för att sametingen skall kunna påverka handläggning och</p>
-    <p xml:lang="romanian">resultat.</p>
+    <p xml:lang="ron">resultat.</p>
     <p xml:lang="swe">Staterna skall inte vidta eller tillåta sådana åtgärder som i avsevärd mån kan skada de</p>
     <p xml:lang="swe">grundläggande villkoren för samisk kultur, samiska näringar eller samiskt samhällsliv, såvida</p>
     <p xml:lang="swe">inte det berörda sametinget samtycker till detta.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 17 </em>
     </p>
     <p xml:lang="swe">
@@ -998,7 +1013,7 @@
     <p xml:lang="swe">att sametingen skall kunna påverka handläggning och resultat.</p>
     <p xml:lang="swe">Sametingen avgör själva när de önskar vara representerade eller avge yttrande under</p>
     <p xml:lang="swe">sådan beredning av ett ärende.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 18 </em>
     </p>
     <p xml:lang="swe">
@@ -1011,7 +1026,7 @@
     <p xml:lang="swe">ärenden som särskilt berör det samiska folket.</p>
     <p xml:lang="swe">Varje lands parlament fastställer närmare regler om vilka ärenden detta gäller och om</p>
     <p xml:lang="swe">det förfarande som skall tillämpas.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 19 </em>
     </p>
     <p xml:lang="swe">
@@ -1020,7 +1035,7 @@
     <p xml:lang="swe">Sametingen skall representera samerna i mellanstatliga angelägenheter.</p>
     <p xml:lang="swe">Staterna skall främja samernas representation i internationella institutioner och</p>
     <p xml:lang="swe">samernas deltagande i internationella möten.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 20 </em>
     </p>
     <p xml:lang="swe">
@@ -1029,7 +1044,7 @@
     <p xml:lang="swe">Sametingen kan bilda gemensamma organisationer. Staterna skall vid behov i samråd</p>
     <p xml:lang="swe">med sametingen verka för att överföra offentlig myndighet till sådana gemensamma</p>
     <p xml:lang="swe">organisationer.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 21 </em>
     </p>
     <p xml:lang="swe">
@@ -1038,7 +1053,7 @@
     <p xml:lang="swe">Staterna skall respektera och vid behov samråda med samebyar, siidaer, renbeteslag,</p>
     <p xml:lang="swe">skoltsamernas byastämma och andra behöriga samiska organisationer eller lokala samiska</p>
     <p xml:lang="swe">företrädare.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 22 </em>
     </p>
     <p xml:lang="dan">
@@ -1053,7 +1068,7 @@
     <p xml:lang="swe">
       <em type="bold">Samiskt språk och samisk kultur </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 23 </em>
     </p>
     <p xml:lang="swe">
@@ -1064,7 +1079,7 @@
     <p xml:lang="swe">till samer som endast ofullständigt eller inte alls behärskar detta språk.</p>
     <p xml:lang="swe">Samerna skall ha rätt att bestämma, behålla och få allmänt erkännande av sina</p>
     <p xml:lang="swe">personnamn och geografiska namn.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 24 </em>
     </p>
     <p xml:lang="swe">
@@ -1080,7 +1095,7 @@
     <p xml:lang="swe">Staterna skall främja utgivning av litteratur på det samiska språket.</p>
     <p xml:lang="swe">Bestämmelserna i denna artikel skall gälla även de mindre utbredda samiska</p>
     <p xml:lang="swe">språkformerna.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 25 </em>
     </p>
     <p xml:lang="nno">
@@ -1096,7 +1111,7 @@
     <p xml:lang="swe">eller artiklar på det samiska språket.</p>
     <p xml:lang="swe">Vad som föreskrivs i andra stycket om det samiska språket skall också i rimlig</p>
     <p xml:lang="swe">omfattning gälla de mindre utbredda samiska språkformerna.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 26 </em>
     </p>
     <p xml:lang="nob">
@@ -1111,10 +1126,10 @@
     <p xml:lang="swe">Samiska barn och samisk ungdom utanför de samiska områdena skall beredas tillfälle</p>
     <p xml:lang="swe">till undervisning i samiska, men också på samiska i den utsträckning det kan anses rimligt i de</p>
     <p xml:lang="swe">särskilda områdena. Undervisningen skall i största möjliga utsträckning anpassas till deras</p>
-    <p xml:lang="ger">bakgrund.</p>
+    <p xml:lang="deu">bakgrund.</p>
     <p xml:lang="swe">De nationella läroplanerna skall utarbetas i samarbete med sametingen och anpassas</p>
     <p xml:lang="swe">till samiska barns och samisk ungdoms kulturella bakgrund och behov.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 27 </em>
     </p>
     <p xml:lang="dan">
@@ -1129,7 +1144,7 @@
     <p xml:lang="swe">forskningsinstitutioner som särskilt ägnar sig åt forskning som avses i första stycket.</p>
     <p xml:lang="swe">Forskning om samiska förhållanden skall bedrivas med beaktande av de etiska regler</p>
     <p xml:lang="swe">som samernas ställning som urfolk kräver.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 28 </em>
     </p>
     <p xml:lang="swe">
@@ -1142,7 +1157,7 @@
     <p xml:lang="swe">personer som skall arbeta i samiska områden.</p>
     <p xml:lang="swe">Staterna skall i samarbete med sametingen sörja för allmän information om samisk</p>
     <p xml:lang="swe">kultur och samiskt samhällsliv.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 29 </em>
     </p>
     <p xml:lang="swe">
@@ -1153,8 +1168,8 @@
     <p xml:lang="swe">tillförsäkras ett utbud av tjänster som är anpassat till deras språkliga och kulturella bakgrund.</p>
     <p xml:lang="swe">Även utanför de samiska bosättningsområdena skall hälsovårds- och</p>
     <p xml:lang="swe">socialmyndigheterna ta hänsyn till samiska patienters och klienters språkliga och kulturella</p>
-    <p xml:lang="ger">bakgrund.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">bakgrund.</p>
+    <p xml:lang="deu">
       <em type="bold">Artikel 30 </em>
     </p>
     <p xml:lang="swe">
@@ -1162,7 +1177,7 @@
     </p>
     <p xml:lang="swe">Samiska barn och unga har rätt att utöva sin kultur samt att bevara och utveckla sin</p>
     <p xml:lang="swe">samiska identitet.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 31 </em>
     </p>
     <p xml:lang="swe">
@@ -1177,7 +1192,7 @@
     <p xml:lang="swe">som på ett missvisande sätt ger sken av att ha samiskt ursprung.</p>
     <p xml:lang="swe">Staterna skall verka för att samernas traditionella kunskap beaktas vid beslut om</p>
     <p xml:lang="swe">samiska förhållanden.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 32 </em>
     </p>
     <p>
@@ -1190,7 +1205,7 @@
     <p xml:lang="swe">Staterna skall verka för att samiska kulturminnen som förts bort från de samiska</p>
     <p xml:lang="swe">områdena och som är av särskilt intresse för det samiska samhället överlämnas till lämpliga</p>
     <p xml:lang="swe">museer eller kulturinstitutioner enligt närmare avtal med ländernas sameting.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 33 </em>
     </p>
     <p xml:lang="swe">
@@ -1205,7 +1220,7 @@
     <p xml:lang="swe">
       <em type="bold">Samisk rätt till land och vatten </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 34 </em>
     </p>
     <p xml:lang="swe">
@@ -1228,7 +1243,7 @@
     <p xml:lang="swe">med beaktande av att samiskt brukande ofta inte lämnar varaktiga spår i naturen.</p>
     <p xml:lang="swe">Bestämmelserna i denna artikel innebär ingen inskränkning i den rätt att återfå</p>
     <p xml:lang="swe">egendom som samerna kan ha enligt nationell eller internationell rätt.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 35 </em>
     </p>
     <p xml:lang="swe">
@@ -1241,7 +1256,7 @@
     <p xml:lang="swe">samernas rättigheter till land och vatten. Särskilt skall samer i mål vid domstol om sådana</p>
     <p xml:lang="swe">rättigheter kunna få sådan ekonomisk hjälp som är nödvändig för att de skall få sin talan</p>
     <p xml:lang="swe">prövad.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 36 </em>
     </p>
     <p xml:lang="swe">
@@ -1262,7 +1277,7 @@
     <p xml:lang="swe">naturen eller brukande av naturen i områden som omfattas av artikel 34, däribland</p>
     <p xml:lang="swe">skogsavverkningar, anläggningar för vattenkraft och vindkraft, byggande av vägar och</p>
     <p xml:lang="swe">fritidshus samt militära övningar och fasta övningsfält.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 37 </em>
     </p>
     <p xml:lang="swe">
@@ -1276,7 +1291,7 @@
     <p xml:lang="swe">och alltjämt brukar området i fråga.</p>
     <p xml:lang="swe">Bestämmelserna i denna artikel innebär ingen inskränkning i den rätt till del i utbyte av</p>
     <p xml:lang="swe">utvinning av naturresurser som kan följa av internationell rätt.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 38 </em>
     </p>
     <p xml:lang="swe">
@@ -1291,7 +1306,7 @@
     <p xml:lang="swe">upphört till följd av att fångstkvoter inte erhållits eller på grund av andra regleringar av fisket</p>
     <p xml:lang="swe">eller utnyttjandet av andra resurser i dessa områden. Detsamma gäller om brukandet har</p>
     <p xml:lang="swe">minskat eller upphört till följd av nedgång i havsresurserna i dessa områden.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 39 </em>
     </p>
     <p xml:lang="swe">
@@ -1300,7 +1315,7 @@
     <p xml:lang="swe">Utöver de rättigheter som samerna har i form av äganderätt eller bruksrätt skall</p>
     <p xml:lang="swe">sametingen ha rätt till medbestämmande enligt artikel 16 i den offentliga förvaltningen av de</p>
     <p xml:lang="swe">områden som avses i artiklarna 34 och 38.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 40 </em>
     </p>
     <p xml:lang="swe">
@@ -1317,7 +1332,7 @@
     <p xml:lang="swe">
       <em type="bold">Samiska näringar </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 41 </em>
     </p>
     <p xml:lang="swe">
@@ -1327,7 +1342,7 @@
     <p xml:lang="swe">grundval för kulturen, åtnjuta särskilt skydd genom rättsliga eller ekonomiska åtgärder.</p>
     <p xml:lang="swe">Som samisk näring och resursanvändning skall anses sådan verksamhet som är</p>
     <p xml:lang="swe">väsentlig för att upprätthålla och utveckla samiska lokalsamhällen.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 42 </em>
     </p>
     <p xml:lang="swe">
@@ -1339,7 +1354,7 @@
     <p xml:lang="swe">ensamrätt för samerna i de samiska renbetesområdena.</p>
     <p xml:lang="swe">Med beaktande av protokoll nr 3 i anslutningsfördraget till den europeiska unionen om</p>
     <p xml:lang="swe">samerna som urfolk åtar sig Finland att förstärka den samiska renskötselns ställning.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 43 </em>
     </p>
     <p xml:lang="swe">
@@ -1365,7 +1380,7 @@
     <p xml:lang="swe">
       <em type="bold">Genomförande och utveckling av konventionen </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 44 </em>
     </p>
     <p xml:lang="swe">
@@ -1375,7 +1390,7 @@
     <p xml:lang="swe">sametingspresidenterna från vart och ett av dessa tre länder skall hålla regelbundna möten.</p>
     <p xml:lang="swe">Detta samarbete skall främja ändamålet med denna konvention enligt artikel 1. Vid</p>
     <p xml:lang="swe">mötena skall aktuella samiska ärenden av gemensamt intresse behandlas.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 45 </em>
     </p>
     <p xml:lang="eng">
@@ -1389,7 +1404,7 @@
     <p xml:lang="swe">ländernas regeringar och sameting framlägga förslag som främjar konventionens ändamål.</p>
     <p xml:lang="swe">Nämnden kan också göra uttalanden med anledning av frågor från enskilda personer eller</p>
     <p xml:lang="nob">grupper.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 46 </em>
     </p>
     <p xml:lang="swe">
@@ -1397,7 +1412,7 @@
     </p>
     <p xml:lang="swe">I syfte att försäkra sig om en så enhetlig tillämpning av denna konvention som möjligt</p>
     <p xml:lang="swe">skall staterna göra bestämmelserna i konventionen direkt tillämpliga som nationell lag.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 47 </em>
     </p>
     <p xml:lang="swe">
@@ -1412,7 +1427,7 @@
     <p xml:lang="deu">
       <em type="bold">Kapitel VII Slutbestämmelser </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 48 </em>
     </p>
     <p xml:lang="swe">
@@ -1420,7 +1435,7 @@
     </p>
     <p xml:lang="swe">Denna konvention skall efter undertecknandet föreläggas de tre sametingen för</p>
     <p xml:lang="swe">godkännande.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 49 </em>
     </p>
     <p xml:lang="eng">
@@ -1428,7 +1443,7 @@
     </p>
     <p xml:lang="swe">Denna konvention skall ratificeras. Ratifikation får dock ske först efter det att de tre</p>
     <p xml:lang="swe">sametingen lämnat sådant godkännande som avses i artikel 48.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 50 </em>
     </p>
     <p xml:lang="swe">
@@ -1442,7 +1457,7 @@
     <p xml:lang="swe">Originalexemplaret av denna konvention deponeras hos det norska</p>
     <p xml:lang="swe">utrikesdepartementet, som skall tillställa Finland, Sverige och de tre sametingen bestyrkta</p>
     <p xml:lang="swe">kopior därav.</p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Artikel 51 </em>
     </p>
     <p xml:lang="swe">
@@ -1469,7 +1484,9 @@
     <p>Vuonna 1996 asetettiin työryhmä, jonka tehtävänä oli selvittää sopimuksen tarvetta ja edellytyksiä. Työ suoritettiin yhteistyössä saamelaiskäräjien kanssa, ja sen tulokset esiteltiin kesäkuussa 1998 julkaistussa raportissa. Siinä otettiin esille useita aiheita, joiden säänteleminen sopimuksessa voi olla merkityksellistä. Tässä yhteydessä mainitaan lainsäädäntötyö, saamelaiskulttuuri, saamen kieli, koulutus sekä terveys-, ympäristö- ja elinkeinokysymykset. Saamelaiskäräjien edustajat korostivat saamelaisten aseman ja saamelaisten itsemääräämisoikeuden nykyistä tarkemman sääntelyn merkitystä. Työryhmä totesi sopimukselle olevan sekä tarvetta että edellytyksiä ja suositteli sellaisen asiantuntijatyöryhmän perustamista, jonka mandaattina on sopimusehdotusten laatiminen.</p>
     <p>Saamelaisasioista vastaavien ministerien ja saamelaiskäräjien puheenjohtajien Kaarasjoella (Karasjok) 2. marraskuuta 2000 pitämässä kokouksessa ministerit olivat yksimielisiä siitä, että pohjoismaiseen saamelaissopimukseen tähtäävän yhteistyön jatkaminen on tärkeää, ja he pyysivät saamelaisasioiden pohjoismaista virkamieselintä tekemään ehdotuksen tällaisen yhteistyön jatkamisesta.</p>
     <p>Tehtävä Ministerit ja saamelaiskäräjien puheenjohtajat ovat tämänpäiväisessä kokouksessa yhtä mieltä sellaisen asiantuntijatyöryhmän asettamisesta, jonka tehtävänä on laatia luonnos pohjoismaiseksi saamelaissopimukseksi. Ryhmässä on oltava mukana sekä Norjan, Ruotsin että Suomen edustajia.</p>
-    <p>Ryhmän tehtävänä on laatia Pohjoismaisen saamelaissopimuksen tarve ja perusta -nimiseen raporttiin perustuva sopimustekstiluonnos. Aineellisesta sisällöstä käytävän keskustelun yhteydessä on päätettävä, onko tarkoituksena laatia puitesopimus vai valtion ja saamelaisten oikeudet ja velvoitteet määrittelevä sopimus. On myös otettava huomioon kysymys Venäjän saamelaisten mahdollisesta liittymisestä sopimukseen.</p>
+    <p>Ryhmän tehtävänä on laatia Pohjoismaisen saamelaissopimuksen tarve ja perusta</p>
+    <p type="listitem">-nimiseen raporttiin perustuva sopimustekstiluonnos. Aineellisesta sisällöstä käytävän</p>
+    <p>keskustelun yhteydessä on päätettävä, onko tarkoituksena laatia puitesopimus vai valtion ja saamelaisten oikeudet ja velvoitteet määrittelevä sopimus. On myös otettava huomioon kysymys Venäjän saamelaisten mahdollisesta liittymisestä sopimukseen.</p>
     <p>Sopimuksessa mahdollisesti säänneltäviä alueita ovat</p>
     <p type="listitem">- saamelaisten status</p>
     <p type="listitem">- saamelaiskäsitteen määritteleminen</p>
@@ -2516,7 +2533,7 @@
     <p>suhteessa Norjan muuhun lainsäädäntöön, vrt. 4 §.</p>
     <p>Sekä perustuslain säännökset 110 a § ja 110 c § että saamelaisiin kohdistuvat Norjan</p>
     <p>kansainvälisoikeudelliset velvoitteet antavat suuntaviivoja Norjan saamelaispolitiikalle ja</p>
-    <p>-lainsäädännölle. Hallituksen taholta on ilmaistu, että Norjan saamelaispolitiikan</p>
+    <p type="listitem">-lainsäädännölle. Hallituksen taholta on ilmaistu, että Norjan saamelaispolitiikan</p>
     <p>tarkoituksena ei ole antaa saamelaisille erityisasemaa vaan vähentää aiemman</p>
     <p>norjalaistamispolitiikan kielteisiä vaikutuksia, saada aikaan kansalaisten todellinen</p>
     <p>samanarvoinen kohtelu ja ehkäistä syrjintää.</p>
@@ -2768,7 +2785,7 @@
     <p>voimaan kuninkaan määräämänä ajankohtana. Tällä lailla perustetaan uusi hallintoelin,</p>
     <p><span type="quote" xml:lang="nob">”Finnmarkseiendommen”</span>, jolle siirretään kiinteistökirjan mukaiset oikeudet läänin siihen</p>
     <p>osaan, joka nyt on Statskogin omistuksessa. Lisäksi perustetaan <span type="quote" xml:lang="nob">”Finnmarkskommisjonen”</span></p>
-    <p>-niminen toimikunta, jonka tehtävänä on osaltaan määrittää saamelaisten ja muiden tahojen</p>
+    <p type="listitem">-niminen toimikunta, jonka tehtävänä on osaltaan määrittää saamelaisten ja muiden tahojen</p>
     <p>yksilöllisiä ja yhteisiä maankäyttö- ja omistusoikeuksia. Henkilöiden, joilla on omasta</p>
     <p>mielestään oikeuksia <span type="quote" xml:lang="nob">”Finnmarkseiendommenin”</span> omistamaan alueeseen, tulee ilmoittaa</p>
     <p>vaatimuksensa tälle toimikunnalle. Toimikunnan tekemiä ratkaisuja tutkimaan tulee perustaa</p>
@@ -4054,7 +4071,7 @@
     <p>Suomi ratifioi lisäpöytäkirjan 17. joulukuuta 2004, ja pöytäkirja tuli Suomen osalta voimaan 1. huhtikuuta</p>
     <p>2005. Norja allekirjoitti pöytäkirjan 15. tammikuuta 2003 mutta ei ole 23. huhtikuuta 2005 mennessä vielä ratifioinut pöytäkirjaa. Ruotsi ei ole 26. lokakuuta 2005 mennessä allekirjoittanut tai ratifioinut pöytäkirjaa.  European Court of Human Rights: Case relating to Certain Aspects of the Laws on the Use of Languages in</p>
     <p xml:lang="eng">Education in Belgium. Judgment of 23 July 1968.  Katso esim: EMD judgment, 21.02.1997, van Raalte v. the Netherlands, EMD judgment,16.09.96, Gaygusuz</p>
-    <p xml:lang="romanian">v. Austria.</p>
+    <p xml:lang="ron">v. Austria.</p>
     <p xml:lang="eng">EMD judgment 01.02.2000, Mazurek v. France.</p>
     <p>Euroopan ihmisoikeussopimuksen lisäpöytäkirja n:o 12 tähtää syrjintäsuojan</p>
     <p>vahvistamiseen sopimuksen alkuperäisiin säännöksiin nähden. Pöytäkirja ei rajoitu</p>
@@ -6397,7 +6414,9 @@
     <p>8) muinaisten huomattavien kulkuteiden, tienviittojen ja siltojen sekä vartiotuli- ja muiden sellaisten laitteiden jäännökset; sekä</p>
     <p>9) kiinteät luonnonesineet, joihin liittyy vanhoja tapoja, tarinoita tai huomattavia historiallisia muistoja.”</p>
     <p>Norjan lain mukaan kiinteitä kulttuurimuistomerkkejä ovat:</p>
-    <p>1.  Asuinpaikat, luolat, kallio-onkalot, joissa on jälkiä siellä oleskelleista tai työskennelleistä ihmisistä, asumusten tai kirkkojen sijaintipaikat, kirkot, kaikenlaiset talot ja rakennelmat sekä niiden jäännökset tai osat, maakummut ja kuonakasat, talo- ja maatalokompleksit pihapiireineen ja muut asutuskeskittymät, kuten tapulipaikat ja markkinapaikat, kaupunkien rakennukset ja vastaavat tai niiden jäännökset. 2.  Kaikenlaiset työpaikat ja työpajat, kuten kivilouhokset ja muut kaivostoiminnan paikat, raudan louhintapaikat, hiilimiilut ja tervamiilut ja muut käsityöstä ja teollisuudesta kertovat paikat. 3.  Kaikenlaista peltoviljelystä kertovat jäljet, kuten raivausröykkiöt, kastelukanavat ja kyntöjäljet, aidat ja aitaukset sekä metsästys-, kalastus- ja pyyntivälineet. 4.  Kaikenlaiset päällystämättömät tiet sekä tiet, jotka oli päällystetty kivillä, puulla tai muulla materiaalilla, padot, sillat, kahluupaikat, satamarakennukset ja yöpymispaikat, veneiden säilytyspaikat ja nostopaikat, lauttapaikat ja veneiden laskupaikat tai sellaisten jäännökset, purjehdusesteet, tiemerkit ja merimerkit. 5. Kaikenlaiset puolustusvarustukset, kuten muinaislinnat, linnakkeet, vallit, vallihaudat, linnoitukset ja niiden jäännökset ja lisäksi vartiotulet, merkkitulet ja vastaavat. 6.  Käräjäpaikat, kulttipaikat, kiviröykkiöt, kaivot, lähteet ja muut paikat, joihin liittyy arkeologisia löytöjä, perinteitä, uskomuksia, taruja tai perinnäistapoja. 7.  Kivet ja kalliot, joissa on kaiverruksia tai kuvia, kuten riimukirjoituksia, kalliopiirroksia ja kalliomaalauksia, kiveen hakattuja uhrikuoppia, hiomauria ja muita kalliopiirroksia ja -kirjoituksia. 8.  Bautakivet, ristit ja muut vastaavat muistomerkit. 9.  Kivilatomukset, kivetykset ja vastaavat. 10. Kaikenlaiset yksittäiset tai yhden hautakentän alueella olevat hautamuistomerkit, hautaröykkiöt, hautakummut, hautakammiot, polttohaudat, uurnahaudat, arkkuhaudat, hautausmaat ja niiden aitaukset ja kaikenlaiset hautapaadet.</p>
+    <p>1.  Asuinpaikat, luolat, kallio-onkalot, joissa on jälkiä siellä oleskelleista tai työskennelleistä ihmisistä, asumusten tai kirkkojen sijaintipaikat, kirkot, kaikenlaiset talot ja rakennelmat sekä niiden jäännökset tai osat, maakummut ja kuonakasat, talo- ja maatalokompleksit pihapiireineen ja muut asutuskeskittymät, kuten tapulipaikat ja markkinapaikat, kaupunkien rakennukset ja vastaavat tai niiden jäännökset. 2.  Kaikenlaiset työpaikat ja työpajat, kuten kivilouhokset ja muut kaivostoiminnan paikat, raudan louhintapaikat, hiilimiilut ja tervamiilut ja muut käsityöstä ja teollisuudesta kertovat paikat. 3.  Kaikenlaista peltoviljelystä kertovat jäljet, kuten raivausröykkiöt, kastelukanavat ja kyntöjäljet, aidat ja aitaukset sekä metsästys-, kalastus- ja pyyntivälineet. 4.  Kaikenlaiset päällystämättömät tiet sekä tiet, jotka oli päällystetty kivillä, puulla tai muulla materiaalilla, padot, sillat, kahluupaikat, satamarakennukset ja yöpymispaikat, veneiden säilytyspaikat ja nostopaikat, lauttapaikat ja veneiden laskupaikat tai sellaisten jäännökset, purjehdusesteet, tiemerkit ja merimerkit. 5. Kaikenlaiset puolustusvarustukset, kuten muinaislinnat, linnakkeet, vallit, vallihaudat, linnoitukset ja niiden jäännökset ja lisäksi vartiotulet, merkkitulet ja vastaavat. 6.  Käräjäpaikat, kulttipaikat, kiviröykkiöt, kaivot, lähteet ja muut paikat, joihin liittyy arkeologisia löytöjä, perinteitä, uskomuksia, taruja tai perinnäistapoja. 7.  Kivet ja kalliot, joissa on kaiverruksia tai kuvia, kuten riimukirjoituksia, kalliopiirroksia ja kalliomaalauksia, kiveen hakattuja uhrikuoppia, hiomauria ja muita kalliopiirroksia ja</p>
+    <p type="listitem">-kirjoituksia.</p>
+    <p>8.  Bautakivet, ristit ja muut vastaavat muistomerkit. 9.  Kivilatomukset, kivetykset ja vastaavat. 10. Kaikenlaiset yksittäiset tai yhden hautakentän alueella olevat hautamuistomerkit, hautaröykkiöt, hautakummut, hautakammiot, polttohaudat, uurnahaudat, arkkuhaudat, hautausmaat ja niiden aitaukset ja kaikenlaiset hautapaadet.</p>
     <p>Ruotsin lain mukaan <em type="italic">kiinteitä muinaisjäännöksiä </em>ovat: </p>
     <p>1.  haudat, hautarakennukset ja hautakentät sekä hautausmaat ja muut hautapaikat, 2.  pystyyn asetetut kivet sekä kivet ja kallion pinnat, joissa on kaiverruksia, symboleja, merkkejä ja kuvia sekä muita piirroksia tai maalauksia, 3.  ristit ja muistokivet, 4.  oikeudenkäyttöön, uskonnonharjoitukseen, kaupankäyntiin ja yleisiin tarkoituksiin käytetyt kokoontumispaikat, 5.  asumusten, asuinpaikkojen ja työpaikkojen jäännökset sekä kulttuurikerrostumat, jotka ovat syntyneet tällaisten asumusten tai paikkojen käytön yhteydessä, kuten työelämästä ja elinkeinoista kertovat jäännökset,  6.  linnakkeiden, linnojen, luostareiden, kirkkorakennusten ja puolustusvarusteiden sekä muiden erikoisten rakennusten ja rakennelmien rauniot, 7.  tiet ja sillat, satamarakennukset, vartiotulet, tiemerkit, merimerkit ja muut samankaltaiset liikennettä ohjaavat laitteet sekä rajamerkit ja labyrintit, 8.   laivanhylyt, jos laivan hylyksi muuttumisesta voidaan olettaa kuluneen vähintään sata vuotta. Kiinteitä muinaisjäännöksiä ovat myös luonnonmuodostumat, joihin liittyy vanhakantainen käyttö, taruja tai omalaatuisia historiallisia muistoja, sekä vanhan kansallisen kultin jäännökset.</p>
     <p>Saamelaisalueella (Sápmi) esiintyvien kiinteiden saamelaisten</p>
@@ -7472,7 +7491,7 @@
       <em type="bold">Tsaarin aika </em>
     </p>
     <p>Aikojen kuluessa on laadittu lukematon määrä alkuperäisväestöjä koskevia lakeja, määräyksiä, asetuksia ja ukaaseja. Seuraava kuvaus perustuu kahteen paksuun teokseen, joilla molemmilla on sama nimi: <span type="quote" xml:lang="sme">”Status malotjislennykh narodov Rossii”</span> (<span type="quote">”Venäjän pienten kansojen asema”</span>). Teokset on painettu vuosina 1994 ja 1999.</p>
-    <p>Vanhin asiakirja on peräisin vuodelta 1822, ja se on nimeltään <span type="quote" xml:lang="ger">”Ustav ob upravlenii inorodtsev”</span> (<span type="quote">”Vierasmaalaisten/ei-venäläisten hallintoa koskeva asetus”</span>). Asetuksessa on 365 pykälää, ja sitä muutettiin ja täydennettiin useita kertoja 1800-luvun aikana. Viimeisin muunnelma on vuodelta 1892, ja se oli voimassa lokakuun vallankumoukseen saakka. Tämän asetuksen mukaan <span type="quote">”ei-venäläiset”</span> jaettiin kolmeen ryhmään: vakinaisesti asuvat, paimentolaisina elävät ja kiertolaiset. Venäläiset eivät voineet ilman lupaa asettua asumaan alueille, jotka oli varattu ei-venäläisille. Näiden kansojen oma itsehallintoelin ratkaisi suullisesti suurimman osan näiden ei-venäläisten kansojen piirissä syntyneistä ristiriidoista. Myös rikostapauksissa näihin ei-venäläisiin kansoihin sovellettiin erityissäännöksiä. Asetuksen lähtökohtana oli, että kukin kansa perustaa oman itsehallintoelimensä, jolla tosin oli vain vähän valtuutuksia.</p>
+    <p>Vanhin asiakirja on peräisin vuodelta 1822, ja se on nimeltään <span type="quote" xml:lang="deu">”Ustav ob upravlenii inorodtsev”</span> (<span type="quote">”Vierasmaalaisten/ei-venäläisten hallintoa koskeva asetus”</span>). Asetuksessa on 365 pykälää, ja sitä muutettiin ja täydennettiin useita kertoja 1800-luvun aikana. Viimeisin muunnelma on vuodelta 1892, ja se oli voimassa lokakuun vallankumoukseen saakka. Tämän asetuksen mukaan <span type="quote">”ei-venäläiset”</span> jaettiin kolmeen ryhmään: vakinaisesti asuvat, paimentolaisina elävät ja kiertolaiset. Venäläiset eivät voineet ilman lupaa asettua asumaan alueille, jotka oli varattu ei-venäläisille. Näiden kansojen oma itsehallintoelin ratkaisi suullisesti suurimman osan näiden ei-venäläisten kansojen piirissä syntyneistä ristiriidoista. Myös rikostapauksissa näihin ei-venäläisiin kansoihin sovellettiin erityissäännöksiä. Asetuksen lähtökohtana oli, että kukin kansa perustaa oman itsehallintoelimensä, jolla tosin oli vain vähän valtuutuksia.</p>
     <p>Tätä vuonna 1822 annettua asetusta tai sen myöhempiä muunnelmia ei mainita Kuolan saamelaisia käsittelevässä venäjänkielisessä kirjallisuudessa. On kuitenkin mahdollista, että sitä sovellettiin saamelaisiin. On nimittäin sanottu, että komien tultua Lovozeroon vuonna 1886 kesti useita vuosia, ennen kuin he saivat virallisen luvan asettua sinne asumaan. Tilanteen yksityiskohtia ei tunneta, mutta tiedossa on, että saamelaiset vastustivat sitä. Vuonna 1868 alueelliset viranomaiset lähettivät saamelaisille kyselyn, jossa tiedusteltiin heidän haluaan jäädä sinne asumaan vakinaisesti. Kaksisataa vastasi <span type="quote" xml:lang="fkv">”kyllä”</span>. Tällä tiedustelulla saattaa olla jotakin tekemistä tämän asetuksen kanssa.</p>
     <p>
       <em type="bold">Jefimenkon selvitys </em>
@@ -7518,7 +7537,7 @@
     <p type="listitem">-  koordinoida saamelaisten taloudelliseen ja kulttuuriseen toimintaan liittyviä projekteja</p>
     <p type="listitem">-  lisätä saamelaiskulttuurin tunnettuutta</p>
     <p type="listitem">-  luoda perusta toimintamuodoille, joille voidaan anoa varoja</p>
-    <p>Lisäksi saamelaiselinkeinoille eli poronhoidolle, kalastukselle, käsiteollisuudelle, lampaanhoidolle, maataloudelle ja turismille on asetettu erilaisia tavoitteita. Lisäksi korostetaan tarvetta perustaa Kuolan niemimaalle saamelaisparlamentti. Kaksi saamelaisten pääjärjestöä, AKS ja OOSMO, pitivät äskettäin (helmikuussa 2005) kokouksen, jonka yhteydessä nimitettiin työryhmä viemään eteenpäin Venäjän puolelle perustettavien saamelaiskäräjien ideaa. Hyväksytyn asiakirjan lopussa on kolme liitettä: <span type="quote" xml:lang="eng">”the best ways to secure the Kola SamiŠs interests”</span>, ehdotuksia suunnitelman toteuttamiseksi ja luettelo Venäjällä toimivista rekisteröidyistä saamelaisjärjestöistä osoitteineen. Tällaisia järjestöjä oli 4. marraskuuta 2003 seitsemäntoista. Kokouksessa perustettiin yhdeksän henkilön työryhmä, jonka tehtävänä on jatkaa suunnitelman työstämistä. Työhön on saatu apua Norjasta, Tanskasta ja Virosta. Suunnitelma on käännetty myös englanniksi <span type="quote" xml:lang="eng">”The Plan of Economical and Social Development for the Kola Sami Ancestral Communities 2004”</span>, ja siinä on 14 sivua. Nettisivun osoite on: <em type="italic">www.kolasaami.org</em>.  </p>
+    <p>Lisäksi saamelaiselinkeinoille eli poronhoidolle, kalastukselle, käsiteollisuudelle, lampaanhoidolle, maataloudelle ja turismille on asetettu erilaisia tavoitteita. Lisäksi korostetaan tarvetta perustaa Kuolan niemimaalle saamelaisparlamentti. Kaksi saamelaisten pääjärjestöä, AKS ja OOSMO, pitivät äskettäin (helmikuussa 2005) kokouksen, jonka yhteydessä nimitettiin työryhmä viemään eteenpäin Venäjän puolelle perustettavien saamelaiskäräjien ideaa. Hyväksytyn asiakirjan lopussa on kolme liitettä: <span type="quote" xml:lang="eng">”the best ways to secure the Kola Sami´s interests”</span>, ehdotuksia suunnitelman toteuttamiseksi ja luettelo Venäjällä toimivista rekisteröidyistä saamelaisjärjestöistä osoitteineen. Tällaisia järjestöjä oli 4. marraskuuta 2003 seitsemäntoista. Kokouksessa perustettiin yhdeksän henkilön työryhmä, jonka tehtävänä on jatkaa suunnitelman työstämistä. Työhön on saatu apua Norjasta, Tanskasta ja Virosta. Suunnitelma on käännetty myös englanniksi <span type="quote" xml:lang="eng">”The Plan of Economical and Social Development for the Kola Sami Ancestral Communities 2004”</span>, ja siinä on 14 sivua. Nettisivun osoite on: <em type="italic">www.kolasaami.org</em>.  </p>
     <p>
       <em type="bold">Yleistä Kuolan saamelaisten tilanteesta </em>
     </p>
@@ -7639,7 +7658,7 @@
     <p>Kansojen oikeus itsemääräämiseen on nykyään kansainvälisoikeudellinen perusnormi. Itsemääräämisoikeus on sisällytetty YK-sopimuksen 1 artiklan 2 momenttiin ja 55 artiklaan sekä XI ja XII lukuihin. Itsemääräämisoikeutta on myös käsitelty useissa YK:n yleiskokouksen päätöslauselmissa, muun muassa päätöslauselmassa 1514 (XV), päätöslauselmassa 1541 (XV) sekä päätöslauselmassa 2625 (XXV).</p>
     <p>Itsemääräämisoikeus on lisäksi mainittu monissa muissa kansainvälisissä ja alueita koskevissa asiakirjoissa, muun muassa Helsigin päätösasiakirjassa, ihmisten ja kansojen oikeuksia koskevassa afrikkalaisessa peruskirjassa ja ja uutta Eurooppaa käsittelevässä Etykin Pariisin peruskirjassa. Myös YK:n kansainvälinen tuomioistuin (<span type="quote" xml:lang="eng">”International Court of Justice”</span>) on tunnustanut kansojen oikeuden itsemääräämiseen useissa asioissa.</p>
     <p xml:lang="eng">The UN Working Group on Indigenous Populations, The Sub-Commission on Prevention of Discrimination</p>
-    <p xml:lang="eng">and Protection of Minorities, The UN Human Rights Committee, The Commission on Human RightsŠ Working Group on the draft UN Declaration on Indigenous Peoples Rights.  Suomi, Tanska, Islanti, Norja ja Ruotsi esittivät alkuperäiskansojen itsemääräämisoikeutta koskevan</p>
+    <p xml:lang="eng">and Protection of Minorities, The UN Human Rights Committee, The Commission on Human Rights´ Working Group on the draft UN Declaration on Indigenous Peoples Rights.  Suomi, Tanska, Islanti, Norja ja Ruotsi esittivät alkuperäiskansojen itsemääräämisoikeutta koskevan</p>
     <p>yhteispohjoismaisen ehdotuksen ihmisoikeuksien komitean työryhmän 9. istunnolle, joka pidettiin Genevessä 17.−26. syyskuuta 2003. Komitean tehtävänä on pohtia alkuperäiskansojen oikeuksia koskevaa YK-julistusta.</p>
     <p xml:lang="eng">EC / The General Affairs Council (Heads of States): The Second Northern Dimension Action Plan, 2004–06,</p>
     <p xml:lang="eng">adopted 29 September 2003.  Declaration on the Granting of Independence to Colonial Countries and Peoples, 14.12.1960.  Principles with should guide Members in determining whether or not an obligation exists to transmit the</p>
@@ -7716,7 +7735,9 @@
     <p>Myös Pohjoismaat ovat vahvistaneet, että saamelaiset muodostavat alkuperäiskansan. Suomen perustuslain 17 §:stä käy ilmi, että saamelaisia on pidettävä Suomessa alkuperäiskansana ja se, että saamelaisia on pidettävä alkuperäiskansana, käy myös ilmi Suomen saamelaiskäräjälaista. Norjakin katsoo saamelaisten olevan alkuperäiskansa, mikä käy ilmi siitä, että Norja on ratifioinut ILO:n yleissopimuksen nro 169, sekä siitä tosiasiasta, että perustuslain 110a § ja koko saamelaislainsäädäntö perustuvat saamelaisten tunnustamiseen alkuperäiskansaksi, vaikka varsinaista käsitettä alkuperäiskansa ei käytetäkään. Sekä Ruotsin perustuslaista että muustakin lainsäädännöstä puuttuvat viittaukset saamelaisiin Ruotsin alkuperäiskansana, mutta Ruotsi on useissa muissa virallisissa yhteyksissä korostanut saamelaisten asemaa maan alkuperäiskansana.</p>
     <p>3.1.3  Alkuperäiskansojen ja vähemmistöjen oikeuksien välinen ero kansainvälisen oikeuden mukaan</p>
     <p>Kansainvälinen oikeus ei määrittele myöskään käsitettä <span type="quote">”vähemmistö”</span>. Voidaan kuitenkin yksinkertaisesti todeta, että suurin osa alkuperäiskansalle tunnusomaisista kriteereistä − kuten esim. yhteinen kieli ja yhteinen kulttuuri − ovat tunnusomaisia myös monille vähemmistöille. Kuten edellä on selostettu, yksi keskeisimmistä alkuperäiskansojen työmäärittelyjen elementeistä on se historiallinen yhteys, joka alkuperäiskansoilla on perinteisiin maaalueisiinsa, ja se puuttuu vähemmistöiltä. Yhteys tiettyyn maa-alueeseen on seikka, joka varsinaisesti erottaa alkuperäiskansat vähemmistöistä kansainvälisoikeudellisessa merkityksessä. Alueeseen liittyvälle elementille on annettava erityistä painoarvoa, koska alkuperäiskansojen mahdollisuus säilyttää ja kehittää omaleimaisia kulttuureitaan liittyy läheisesti siihen, että heillä on jatkossakin mahdollisuus päästä hyödyntämään perinteisiä maa- ja vesialueitaan sekä luonnonvaroja. Alueellisen yhteyden lisäksi alkuperäiskansat ovat yleensä säilyttäneet omat yhteiskunnalliset laitoksensa laajemmassa määrin kuin vähemmistöt. Alkuperäiskansojen ja vähemmistöjen välinen ero on keskeinen, koska kansainvälisen oikeuden mukaisesti alkuperäiskansan statukseen ja vähemmistön statukseen liittyvät oikeudet eroavat olennaisissa suhteissa toisistaan.</p>
-    <p>Vähemmistöjen oikeudet, jotka ilmenevät selkeimmin vähemmistöjen oikeuksia koskevasta YK:n julistuksesta, ovat luonteeltaan aina yksilöllisiä. Toisin sanoen ne kuuluvat vähemmistöryhmän yksilöjäsenille pikemminkin kuin ryhmälle sellaisenaan, vaikka useita vähemmistön oikeuksia voidaan sinänsä käyttää ainoastaan yhdessä ryhmän muiden jäsenten kanssa. Myös alkuperäiskansojen oikeuksia käsittelevissä asiakirjoissa, esim. ILO 169 -yleissopimuksessa sekä YK:n luonnoksessa alkuperäiskansoja koskevaksi julistukseksi (<span type="quote">”alkuperäiskansajulistus”</span>) korostetaan alkuperäiskansojen yksilöiden oikeuksien                                                   YK-asiakirja CCPR/C/79/Add. 112 (1999).  YK-asiakirja CCPR/CO/74/SWE, päivätty 24. huhtikuuta 2002, kohta 15.</p>
+    <p>Vähemmistöjen oikeudet, jotka ilmenevät selkeimmin vähemmistöjen oikeuksia koskevasta YK:n julistuksesta, ovat luonteeltaan aina yksilöllisiä. Toisin sanoen ne kuuluvat vähemmistöryhmän yksilöjäsenille pikemminkin kuin ryhmälle sellaisenaan, vaikka useita vähemmistön oikeuksia voidaan sinänsä käyttää ainoastaan yhdessä ryhmän muiden jäsenten kanssa. Myös alkuperäiskansojen oikeuksia käsittelevissä asiakirjoissa, esim. ILO 169</p>
+    <p type="listitem">-yleissopimuksessa sekä YK:n luonnoksessa alkuperäiskansoja koskevaksi julistukseksi</p>
+    <p>(<span type="quote">”alkuperäiskansajulistus”</span>) korostetaan alkuperäiskansojen yksilöiden oikeuksien                                                   YK-asiakirja CCPR/C/79/Add. 112 (1999).  YK-asiakirja CCPR/CO/74/SWE, päivätty 24. huhtikuuta 2002, kohta 15.</p>
     <p xml:lang="eng">Declaration on the Rights of Persons belonging to National or Ethnic, Religious or Linguistic Minorities.</p>
     <p>kunnioittamisen tärkeyttä, ja niihin sisältyy siis myös useita oikeuksia, jotka ovat luonteeltaan yksilöllisiä. Lisäksi ILO 169 ja alkuperäiskansajulistus sisältävät myös joukon säännöksiä, jotka korostavat kollektiivin oikeuksia, ts. oikeuksia, jotka kuuluvat alkuperäiskansalle sellaisenaan eivätkä sen yksittäisille jäsenille. Toisin sanoen olennainen osa alkuperäiskansojen oikeuksista on kollektiivisia toisin kuin vähemmistöjen oikeudet.</p>
     <p>Vähemmistöjen oikeuksien ja alkuperäiskansojen kollektiivisten oikeuksien välisen eron voidaan yksinkertaistetummin sanoa piilevän siinä, että vähemmistöoikeuksien tarkoituksena on antaa vähemmistöä edustaville yksilöille mahdollisuus erityisen identiteettinsä säilyttämiseen ja kehittämiseen osana vähemmistöyhteisöä, kun taas alkuperäiskansojen kollektiiviset oikeudet korostavat alkuperäiskansojen oikeutta erityisten yhteiskuntiensa säilyttämiseen ja kehittämiseen enemmistöyhteiskunnan ohessa, tai jos niin halutaan, rinnakkain sen kanssa. Vähemmistöoikeuksissa painotetaan aktiivista poliittista osallistumista siihen yhteiskuntaan, josta vähemmistöryhmän jäsenet muodostavat osan. Alkuperäiskansojen kollektiivisilla oikeuksilla tähdätään siihen, että alkuperäiskansojen yhteiskuntien olisi mahdollista tehdä omat päätöksensä. Osallistuminen ympäröivän isomman yhteiskunnan poliittisiin järjestelmiin on alkuperäiskansoille toissijainen − ja valinnainen − oikeus. Esimerkkinä edellä olevasta voidaan mainita alkuperäiskansajulistuksen 4 artikla, joka kuuluu:</p>
@@ -7775,7 +7796,9 @@
     <p>Ihmisoikeuskomitean yleiset kommentit nro 12 (21), UN doc. HRI/GEN/1/Rev.5, ss. 121–122.</p>
     <p xml:lang="eng">Indigenous and Tribal Peoples: A Guide to ILO Convention No. 169 (1996).</p>
     <p xml:lang="eng"> ”<em type="italic">The newer Convention takes the approach of respect for the cultures, ways of life, traditions and customary laws of the indigenous and tribal peoples who are covered by it. It presumes that they will continue to exist as parts of their national societies with their own identity, their own structures and their own traditions.  The Convention presumes that these structures and ways of life have value that needs to be protected.</em>” </p>
-    <p>Ilmaisu <span type="quote" xml:lang="eng">”Newer Convention”</span> viittaa ILO 169:n edeltäjään, joka oli yleissopimus nro 107: Itsenäisissä maissa alkuasukkaina ja muiden heimoasteella tai vastaavissa oloissa elävien väestöryhmien suojelu ja sulauttaminen (ILO 107). ILO 107 -yleissopimus hyväksyttiin vuonna 1957. ILO 169:n ja sen edeltäjän pääasiallisena erona on, että ILO 107 -yleissopimuksessa oli selkeitä sulauttamiseen tähtääviä pyrkimyksiä. Toisaalta taas ILO 169 pyrkii mahdollistamaan sen, että alkuperäiskansat voivat säilyttää omat yhteiskuntarakenteensa enemmistöyhteiskunnan ohessa sen mukaisesti, mitä edellä on esitetty alkuperäiskansojen ja vähemmistöjen oikeuksien välisestä erosta. Koska ILO 169 perustuu tähän perusperiaatteeseen, on väistämätöntä, että monet ILO 169:n säännökset liittyvät läheisesti itsemääräämisoikeuteen. Oman yhteiskunnan ja omien yhteiskunnallisten laitosten säilyttäminen onkin lähes edellytyksenä sille, että alkuperäiskansoilla on oikeus määrätä niistä. ILO 169 -yleissopimusta ei voida pitää erillään itsemääräämisoikeudesta, mikä käy edelleen ilmi siitä, että ILO 169:ssa käytetään ILO 107:stä poiketen alkuperäiskansoista ilmaisua <span type="quote" xml:lang="eng">”indigenous peoples”</span>. ILO 107 -yleissopimuksessa käytettiin termiä <span type="quote" xml:lang="eng">”indigenous populations”</span>. Kansainvälisen työjärjestön ILO:n suuntaviivat ILO 169 -yleissopimuksen tulkinnasta kertovat, että ilmaisua <span type="quote">”kansat”</span> (peoples) käytetään ILO 169:ssä johdonmukaisesti, koska tämä termi</p>
+    <p>Ilmaisu <span type="quote" xml:lang="eng">”Newer Convention”</span> viittaa ILO 169:n edeltäjään, joka oli yleissopimus nro 107: Itsenäisissä maissa alkuasukkaina ja muiden heimoasteella tai vastaavissa oloissa elävien väestöryhmien suojelu ja sulauttaminen (ILO 107). ILO 107 -yleissopimus hyväksyttiin vuonna 1957. ILO 169:n ja sen edeltäjän pääasiallisena erona on, että ILO 107</p>
+    <p type="listitem">-yleissopimuksessa oli selkeitä sulauttamiseen tähtääviä pyrkimyksiä. Toisaalta taas ILO 169</p>
+    <p>pyrkii mahdollistamaan sen, että alkuperäiskansat voivat säilyttää omat yhteiskuntarakenteensa enemmistöyhteiskunnan ohessa sen mukaisesti, mitä edellä on esitetty alkuperäiskansojen ja vähemmistöjen oikeuksien välisestä erosta. Koska ILO 169 perustuu tähän perusperiaatteeseen, on väistämätöntä, että monet ILO 169:n säännökset liittyvät läheisesti itsemääräämisoikeuteen. Oman yhteiskunnan ja omien yhteiskunnallisten laitosten säilyttäminen onkin lähes edellytyksenä sille, että alkuperäiskansoilla on oikeus määrätä niistä. ILO 169 -yleissopimusta ei voida pitää erillään itsemääräämisoikeudesta, mikä käy edelleen ilmi siitä, että ILO 169:ssa käytetään ILO 107:stä poiketen alkuperäiskansoista ilmaisua <span type="quote" xml:lang="eng">”indigenous peoples”</span>. ILO 107 -yleissopimuksessa käytettiin termiä <span type="quote" xml:lang="eng">”indigenous populations”</span>. Kansainvälisen työjärjestön ILO:n suuntaviivat ILO 169 -yleissopimuksen tulkinnasta kertovat, että ilmaisua <span type="quote">”kansat”</span> (peoples) käytetään ILO 169:ssä johdonmukaisesti, koska tämä termi</p>
     <p xml:lang="eng">”<em type="italic">... recognizes the existence of organized societies with an identity of their own rather than mere groupings sharing some racial or cultural characteristics</em>” </p>
     <p>Kristian Myntti on kutsunut ILO 169:ssä mainittua <span type="quote">”itsemääräämisoikeutta”</span> termillä ”<em type="italic">ethno political self-government</em>”. Myntti katsoo, että vaikkei ILO 169:ssä säädetä mitään oikeutta autonomiaan, niin ILO 169:n säännöksiin, ennen kaikkea 14 ja 15 artikloihin tulkittuina yhdessä 6 artiklan kanssa, sisältyy alkuperäiskansojen selkeä oikeus hallita perinteisiä maaalueitaan. </p>
     <p>Käsitettä <span type="quote">”alkuperäiskansat”</span> sovelletaan ILO 169:ssä kuitenkin tavalla, joka käsittää myös sellaiset ryhmät, jotka eivät olisi kansoja yleisen kansainvälisen oikeuden mukaan. Muun muassa tämän takia yleissopimuksen 1 artiklan 3 kappaleeseen sisältyy lauseke, jossa sanotaan, ettei ilmausta <span type="quote">”kansat”</span> ole tulkittava siten, että sillä olisi vaikutuksia niihin oikeuksiin, joita tähän ilmaisuun saattaa liittyä kansainvälisen oikeuden mukaan.</p>
@@ -8046,7 +8069,11 @@
     <p xml:lang="eng">”<em type="italic">State parties should ensure that there is adequate access to water for subsistence farming and for securing the livelihoods of indigenous peoples.</em>” </p>
     <p>Voidaan myös panna merkille alkuperäiskansojen ihmisoikeuksia ja perusvapauksia käsittelevän YK:n erityisraportoijan seuraava, jo aiemmin mainittu lausunto:</p>
     <p xml:lang="eng">”<em type="italic">The International Covenant on Economic, Social and Cultural Rights ... sets out in article 1 the following rights which relate directly to indigenous peoples:… all peoples may freely dispose of their natural wealth and resources (art. 1 (2)).</em>” </p>
-    <p>Vaikka ILO 169 -yleissopimus ei sisälläkään alkuperäiskansojen itsemääräämisoikeutta koskevia nimenomaisia säännöksiä, Kristian Myntti on hyvin perustein esittänyt ILO 169 -yleissopimuksen säännösten merkitsevän, että alkuperäiskansoilla on selkeä oikeus hallita perinteisiä maa-alueitaan. Tässä yhteydessä voidaan erityisesti panna merkille, mitä ILO 169:n 7 artiklan 1 kappaleessa sanotaan alkuperäiskansojen oikeudesta päättää maaalueistaan. On ylipäätään vaikea vetää selkeää rajaa sen kollektiivisen oikeuden, joka ILO 169 -yleissopimuksen mukaan alkuperäiskansoilla on maahan, ja sen itsemääräämisoikeuden aspektin välille, joka koskee oikeutta määrätä maa- ja vesialueista sekä luonnonvaroista. Tässä yhteydessä voidaan myös huomioida CERDin ja ILO:n arvio, jonka mukaan Norjan luonnos Ruijan laiksi (Finnmarkslov) ei täytä kansainvälisen oikeuden vaatimuksia.</p>
+    <p>Vaikka ILO 169 -yleissopimus ei sisälläkään alkuperäiskansojen itsemääräämisoikeutta koskevia nimenomaisia säännöksiä, Kristian Myntti on hyvin perustein esittänyt ILO 169</p>
+    <p type="listitem">-yleissopimuksen säännösten merkitsevän, että alkuperäiskansoilla on selkeä oikeus hallita</p>
+    <p>perinteisiä maa-alueitaan. Tässä yhteydessä voidaan erityisesti panna merkille, mitä ILO 169:n 7 artiklan 1 kappaleessa sanotaan alkuperäiskansojen oikeudesta päättää maaalueistaan. On ylipäätään vaikea vetää selkeää rajaa sen kollektiivisen oikeuden, joka ILO 169</p>
+    <p type="listitem">-yleissopimuksen mukaan alkuperäiskansoilla on maahan, ja sen itsemääräämisoikeuden</p>
+    <p>aspektin välille, joka koskee oikeutta määrätä maa- ja vesialueista sekä luonnonvaroista. Tässä yhteydessä voidaan myös huomioida CERDin ja ILO:n arvio, jonka mukaan Norjan luonnos Ruijan laiksi (Finnmarkslov) ei täytä kansainvälisen oikeuden vaatimuksia.</p>
     <p>On luonnollisesti myös mielenkiintoista seurata, mitä alkuperäiskansajulistuksessa sanotaan itsemääräämisoikeuden resurssiulottuvuudesta. Tässä yhteydessä olennaisia artikloja ovat 7 b artikla:</p>
     <p xml:lang="nno">
       <em type="italic"><span type="quote" xml:lang="eng">”Indigenous peoples have the ... right not to be subject to … any action which has the aim or effect of dispossessing them of their lands, territories or resources;”</span> </em>

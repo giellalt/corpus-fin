@@ -17,14 +17,26 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_finska.pdf</origFileName>
-    <parallel_text location="folder_grundskyddet_engelska.pdf" xml:lang="eng"/>
-    <parallel_text location="folder_grundskyddet_sydsamiska.pdf" xml:lang="sma"/>
-    <parallel_text location="folder_grundskyddet_nordsamiska.pdf" xml:lang="sme"/>
-    <parallel_text location="folder_grundskyddet-lulesamiska.pdf" xml:lang="smj"/>
-    <parallel_text location="folder_med_loggor_ny_strecket_cf.pdf" xml:lang="swe"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/>
-    <parallel_text xml:lang="rmn" location="folder_grundskyddet_romaniarli.pdf"/>
-    <parallel_text xml:lang="rmy-rka" location="folder_grundskyddet_romanikelderash.pdf"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/>
+    <parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/>
+    <parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/>
+    <parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/>
+    <parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -61,13 +73,13 @@
     <p>ista. Heidän vähemmistökielensä on jiddiš.</p>
     <p xml:lang="sma"><em type="bold">TIEDOTUSLEHTISEN OVAT LAATINEET</em> </p>
     <p xml:lang="sma"><em type="bold">NORJA</em> </p>
-    <p xml:lang="ger"><em type="bold">RUOTSI</em> </p>
+    <p xml:lang="deu"><em type="bold">RUOTSI</em> </p>
     <p> Kveeni  Romani  Saame</p>
     <p> Saame  Suomi  Meänkieli  Romani  Jiddiš</p>
     <p><em type="bold">ISO-BRITANNIA</em> Korni </p>
     <p xml:lang="sma"><em type="bold">SUOMI</em> </p>
     <p> Romani  Venäjä  Saame  Ruotsi  Tataari  Jiddiš  Karjala</p>
-    <p xml:lang="ger"><em type="bold">SAKSA</em> </p>
+    <p xml:lang="deu"><em type="bold">SAKSA</em> </p>
     <p>Iiri  Manksi  Skotti  Gaeli  Ulsterin skotti  Kymri</p>
     <p xml:lang="smn"> Tanska  Alasaksa  Alasorbi  Pohjoisfriisi  Romani  Itäfriisi  Yläsorbi<em type="bold">TANSKA</em> </p>
     <p>Saksa</p>

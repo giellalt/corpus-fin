@@ -5,7 +5,7 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>524</wordcount>
+    <wordcount>403</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
@@ -13,17 +13,30 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.lansstyrelsen.se/skane/Fi/miljo-och-klimat/Pages/default.aspx</origFileName>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="eng"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="sma"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="sme"/>
-    <parallel_text location="miljo-och-klimat.html" xml:lang="swe"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="rmf" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="rmn" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="rmu" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="rmy-rka" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="rmy-rlo" location="miljo-och-klimat.html"/>
-    <parallel_text xml:lang="yid" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="sme" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="miljo-och-klimat.html"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="yid"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmf"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmn"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmu"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rlo"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -32,45 +45,8 @@
   <body>
     <p>Ympäristö ja ilmasto - Länsstyrelsen Skåne</p>
     <list>
-      <p type="listitem" xml:lang="swe">Snabblänk till textinnehållet</p>
-      <p type="listitem" xml:lang="swe">om webbplatsen</p>
-      <p type="listitem" xml:lang="sma">startsidan</p>
-      <p type="listitem" xml:lang="nno">nyheter</p>
-      <p type="listitem" xml:lang="eng">webbkarta</p>
-      <p type="listitem" xml:lang="eng">sökfunktion</p>
-      <p type="listitem" xml:lang="swe">kontakta oss</p>
-      <p type="listitem" xml:lang="nob">blanketter</p>
-      <p type="listitem" xml:lang="dan">publikationer</p>
-    </list>
-    <p type="title" xml:lang="swe">Webbplatsen använder kakor</p>
-    <p xml:lang="swe">På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
-    <p xml:lang="swe">Jag accepterar kakor</p>
-    <p xml:lang="sma">Sisältö A–Ö</p>
-    <list>
       <p type="listitem">Ympäristö ja ilmasto</p>
     </list>
-    <list>
-      <p type="listitem" xml:lang="eng">English</p>
-      <p type="listitem" xml:lang="fkv">Meänkieli</p>
-      <p type="listitem" xml:lang="swe">Lättläst svenska</p>
-      <p type="listitem" xml:lang="sma">Arli (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalé (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalderash (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Lovari (romani chib)</p>
-      <p type="listitem" xml:lang="nno">Resanderomani (romani chib)</p>
-      <p type="listitem" xml:lang="smj">Sámigiella</p>
-      <p type="listitem" xml:lang="nob">Svenska</p>
-      <p type="listitem" xml:lang="swe">Svenskt teckenspråk</p>
-      <p type="listitem" xml:lang="sma">ייִדיש (jiddisch)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fkv">Kuuntele</p>
-      <p type="listitem">Verkkokartta</p>
-    </list>
-    <p>Aloitussivu</p>
-    <p xml:lang="sms">&gt;</p>
-    <p>Ympäristö ja ilmasto</p>
-    <p>Tietojen jakaminen</p>
     <p type="title">Ympäristö ja ilmasto</p>
     <p>
       <em type="italic">Lääninhallituksella on tärkeä rooli läänin ympäristö- ja ilmastotyössä. Koordinoimme ympäristötyötä, vastaamme tiedottamisesta ja tiedon levittämisestä. Toimimme lisäksi ympäristötavoitteiden saavuttamiseksi sekä ympäristövalvonnan ja vesihallinnon tehtävissä. Päätämme myös lupien myöntämisestä ympäristöön vaikuttaville toiminnoille. </em>
@@ -108,14 +84,5 @@
     <p>Lääninhallituksella on ympäristölupavaltuuskunta, joka voi myöntää luvan ympäristökaaren mukaiselle ympäristölle vaaralliselle toiminnalle.</p>
     <p>Esimerkkejä ympäristölle vaarallisesta toiminnasta ovat pintakäsittelylaitokset, valimot, paperitehtaat, tuuli- ja lämpövoimalat ja muut energialaitokset, sahalaitokset, jätelaitokset, jätevedenpuhdistamot, sora- ja kiviainesten ottopaikat sekä kaivokset.</p>
     <p>Jokaisessa kunnassa on kunnallinen, ympäristölle vaarallista toimintaa valvova paikallinen ympäristöviranomainen. Annamme tukea ja ohjeita kunnallisille ympäristöviranomaisille sekä seuraamme ja arvioimme heidän toimintaansa. Lääninhallitus tutkii sen lisäksi aikaisempien sukupolvien aiheuttamia maan ja veden saastumisia ja työskentelee niiden saneeraamiseksi.</p>
-    <p>Kommentoi sivua</p>
-    <p>Piilota kommenttilomake</p>
-    <p type="title">Raportoi sivulla oleva vika</p>
-    <p>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä. Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</p>
-    <p xml:lang="kal">Nimi</p>
-    <p>Sähköposti</p>
-    <p>Kommentti</p>
-    <p>Syötä seuraava koodi lähettääksesi kommenttisi</p>
-    <p>Luo uusi kuva</p>
   </body>
 </document>

@@ -5,7 +5,7 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>893</wordcount>
+    <wordcount>772</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
@@ -13,17 +13,30 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.lansstyrelsen.se/skane/Fi/manniska-och-samhalle/Pages/default.aspx</origFileName>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="eng"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="sma"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="sme"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="swe"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="rmf" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="rmn" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="rmu" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="rmy-rka" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="rmy-rlo" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="yid" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -32,45 +45,8 @@
   <body>
     <p>Ihminen ja yhteiskunta - Länsstyrelsen Skåne</p>
     <list>
-      <p type="listitem" xml:lang="swe">Snabblänk till textinnehållet</p>
-      <p type="listitem" xml:lang="swe">om webbplatsen</p>
-      <p type="listitem" xml:lang="sma">startsidan</p>
-      <p type="listitem" xml:lang="nno">nyheter</p>
-      <p type="listitem" xml:lang="eng">webbkarta</p>
-      <p type="listitem" xml:lang="eng">sökfunktion</p>
-      <p type="listitem" xml:lang="swe">kontakta oss</p>
-      <p type="listitem" xml:lang="nob">blanketter</p>
-      <p type="listitem" xml:lang="dan">publikationer</p>
-    </list>
-    <p type="title" xml:lang="swe">Webbplatsen använder kakor</p>
-    <p xml:lang="swe">På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
-    <p xml:lang="swe">Jag accepterar kakor</p>
-    <p xml:lang="sma">Sisältö A–Ö</p>
-    <list>
       <p type="listitem">Ihminen ja yhteiskunta</p>
     </list>
-    <list>
-      <p type="listitem" xml:lang="eng">English</p>
-      <p type="listitem" xml:lang="fkv">Meänkieli</p>
-      <p type="listitem" xml:lang="swe">Lättläst svenska</p>
-      <p type="listitem" xml:lang="sma">Arli (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalé (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalderash (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Lovari (romani chib)</p>
-      <p type="listitem" xml:lang="nno">Resanderomani (romani chib)</p>
-      <p type="listitem" xml:lang="smj">Sámigiella</p>
-      <p type="listitem" xml:lang="nob">Svenska</p>
-      <p type="listitem" xml:lang="swe">Svenskt teckenspråk</p>
-      <p type="listitem" xml:lang="sma">ייִדיש (jiddisch)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fkv">Kuuntele</p>
-      <p type="listitem">Verkkokartta</p>
-    </list>
-    <p>Aloitussivu</p>
-    <p xml:lang="sms">&gt;</p>
-    <p>Ihminen ja yhteiskunta</p>
-    <p>Tietojen jakaminen</p>
     <p type="title">Ihminen ja yhteiskunta</p>
     <p>
       <em type="italic">Lääninhallitus toimii yhdessä kuntien kanssa hyvien edellytysten luomiseksi yhteiskunnassa läänin asukkaille – sekä yksityishenkilöille että yrittäjille. Kaikille tulee tarjota samoilla ehdoilla elinympäristö, jossa on turvallista, helppoa ja vaaratonta työskennellä, asua ja elää. </em>
@@ -110,14 +86,5 @@
     <p>Lääninhallitus valitsee siviilivihkimisen toimittajat, ja sillä on lista läänin valituista siviilivihkimisen toimittajista. Jos olet alle 18-vuotias tai haluat mennä naimisiin alle 18-vuotiaan kanssa, tarvitset luvan lääninhallitukselta.</p>
     <p type="title" xml:lang="fkv">Yliholhooja</p>
     <p>Sairauden, iän tai jonkin muun syyn johdosta oman taloutensa hoidossa vaikeuksissa olevat voivat saada apua uskotun miehen tai edunvalvojan muodossa. Kussakin kunnassa tulee olla yliholhooja tai yliholhouslautakunta, joka huolehtii siitä, että kunnan uskotut miehet ja edunvalvojat hoitavat tehtävänsä. Lääninhallitus tekee säännöllisin väliajoin tarkastuksia yliholhoojan luona tai tarkastaa yliholhoojan toimia esimerkiksi suurelta yleisöltä tulleen ilmoituksen johdosta.</p>
-    <p>Kommentoi sivua</p>
-    <p>Piilota kommenttilomake</p>
-    <p type="title">Raportoi sivulla oleva vika</p>
-    <p>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä. Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</p>
-    <p xml:lang="kal">Nimi</p>
-    <p>Sähköposti</p>
-    <p>Kommentti</p>
-    <p>Syötä seuraava koodi lähettääksesi kommenttisi</p>
-    <p>Luo uusi kuva</p>
   </body>
 </document>

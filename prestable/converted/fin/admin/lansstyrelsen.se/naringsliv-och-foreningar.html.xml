@@ -5,7 +5,7 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>716</wordcount>
+    <wordcount>595</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <free/>
@@ -13,17 +13,30 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.lansstyrelsen.se/skane/Fi/naringsliv-och-foreningar/Pages/default.aspx</origFileName>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="eng"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="sma"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="sme"/>
-    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="swe"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="rmf" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="rmn" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="rmu" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="rmy-rka" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="rmy-rlo" location="naringsliv-och-foreningar.html"/>
-    <parallel_text xml:lang="yid" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -32,45 +45,8 @@
   <body>
     <p>Elinkeinoelämä ja yhdistykset - Länsstyrelsen Skåne</p>
     <list>
-      <p type="listitem" xml:lang="swe">Snabblänk till textinnehållet</p>
-      <p type="listitem" xml:lang="swe">om webbplatsen</p>
-      <p type="listitem" xml:lang="sma">startsidan</p>
-      <p type="listitem" xml:lang="nno">nyheter</p>
-      <p type="listitem" xml:lang="eng">webbkarta</p>
-      <p type="listitem" xml:lang="eng">sökfunktion</p>
-      <p type="listitem" xml:lang="swe">kontakta oss</p>
-      <p type="listitem" xml:lang="nob">blanketter</p>
-      <p type="listitem" xml:lang="dan">publikationer</p>
-    </list>
-    <p type="title" xml:lang="swe">Webbplatsen använder kakor</p>
-    <p xml:lang="swe">På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
-    <p xml:lang="swe">Jag accepterar kakor</p>
-    <p xml:lang="sma">Sisältö A–Ö</p>
-    <list>
       <p type="listitem">Elinkeinoelämä ja yhdistykset</p>
     </list>
-    <list>
-      <p type="listitem" xml:lang="eng">English</p>
-      <p type="listitem" xml:lang="fkv">Meänkieli</p>
-      <p type="listitem" xml:lang="swe">Lättläst svenska</p>
-      <p type="listitem" xml:lang="sma">Arli (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalé (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Kalderash (romani chib)</p>
-      <p type="listitem" xml:lang="sma">Lovari (romani chib)</p>
-      <p type="listitem" xml:lang="nno">Resanderomani (romani chib)</p>
-      <p type="listitem" xml:lang="smj">Sámigiella</p>
-      <p type="listitem" xml:lang="nob">Svenska</p>
-      <p type="listitem" xml:lang="swe">Svenskt teckenspråk</p>
-      <p type="listitem" xml:lang="sma">ייִדיש (jiddisch)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fkv">Kuuntele</p>
-      <p type="listitem">Verkkokartta</p>
-    </list>
-    <p>Aloitussivu</p>
-    <p xml:lang="sms">&gt;</p>
-    <p>Elinkeinoelämä ja yhdistykset</p>
-    <p>Tietojen jakaminen</p>
     <p type="title">Elinkeinoelämä ja yhdistykset</p>
     <p>
       <em type="italic">Lääninhallitus kannustaa alueen yrityksiä ja yhdistyksiä eri tavoin kestävän taloudellisen kehityksen luomiseksi ja työllisyyden lisäämiseksi. Lääninhallitus rohkaisee elinkeinoelämää toimimaan tasa-arvoisuutta, ympäristöä ja integraatiota koskevissa kysymyksissä kestävän kehityksen ja kasvun vahvistamiseksi. </em>
@@ -98,14 +74,5 @@
     <p>Panttilainaamo on lainanottajan antamaa panttia vastaan rahaa lainaava yritys. Lääninhallitus antaa luvan panttilainaamoille ja valvoo niitä. Jos haluat harjoittaa panttilainaustoimintaa, tarvitset luvan toimintapaikkakunnan läänin lääninhallitukselta. Panttilainaustoimintaa saa harjoittaa vain ruotsalalainen osakeyhtiö tai vastaava ulkomainen yritys ETA-alueelta.</p>
     <p type="title">Pelit ja urheilu</p>
     <p>Ajotiellä ajettavan ajoneuvokilpailun järjestämiseksi vaaditaan lupa kilpailun aloituspaikan läänin lääninhallitukselta. Kamppailulajien harjoitus-, kilpailu- ja näytösotteluiden järjestämiseksi vaaditaan Örebron läänin lääninhallitukselta haettava erityislupa. Jos bingopeliä tai arpajaisia harjoitetaan usean kunnan alueella yhdessä läänissä, luvan myöntää lääninhallitus. Bingopelin tai arpajaisten järjestämiseksi yhden läänin alueella saa luvan lääninhallitukselta. Jos vain yhdessä kunnassa toimiva yhdistys järjestää arpajaiset, luvan niihin saa kunnalta.</p>
-    <p>Kommentoi sivua</p>
-    <p>Piilota kommenttilomake</p>
-    <p type="title">Raportoi sivulla oleva vika</p>
-    <p>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä. Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</p>
-    <p xml:lang="kal">Nimi</p>
-    <p>Sähköposti</p>
-    <p>Kommentti</p>
-    <p>Syötä seuraava koodi lähettääksesi kommenttisi</p>
-    <p>Luo uusi kuva</p>
   </body>
 </document>

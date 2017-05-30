@@ -5,6 +5,10 @@
     <author>
       <unknown/>
     </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
     <wordcount>574</wordcount>
     <conversion_status type="standard"/>
     <availability>
@@ -13,16 +17,29 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.umo.se/Andra-sprak/Finska/Pussailu-suutelu-ja-hyvaily</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/>
-    <parallel_text xml:lang="rmf" location="tumiba-ta-mangdoliba.html"/>
-    <parallel_text xml:lang="rmn" location="umibe.html"/>
-    <parallel_text xml:lang="rmu" location="tjomm-ta-schala.html"/>
-    <parallel_text xml:lang="rmy-rka" location="umidimos-aj-asbajimos.html"/>
-    <parallel_text xml:lang="rmy-rlo" location="vut-umidipe-thaj-hangel-seksualno-khelipe.html"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
     <parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/>
     <parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/>
     <parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
     <parallel_text xml:lang="swe" location="pussar-kyssar-och-hangel.html"/>
+    <parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/>
+    <parallel_text location="umibe.html" xml:lang="rmn"/>
+    <parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/>
+    <parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -47,7 +64,7 @@
     <p>Mitä hyväillessä oikeastaan tapahtuu? Hyväilyksi kutsutaan yleensä sitä, kun suudellaan, halaillaan tai syleillään jotakuta. Suutelu ja halailu voi siis samanaikaisesti olla hyväilyä. Myös syleily ja kehon suukottelu voi olla hyväilyä. Hyväillessä voi painautua ja hankautua toista vasten.</p>
     <p>Hyväillä voi monin eri tavoin, esimerkiksi rauhallisesti tai kovaa ja intensiivisesti. Usein tapa vaihtelee hyväilyn aikana. Se voi myös vaihdella kerrasta ja henkilöstä toiseen. Hyväillä voi vaatteet päällä, vähissä vaatteissa tai alasti. Hyväillä voi myös eri asennoissa, kuten seisten, istuen tai makuulla.</p>
     <p>Hyväilyä vähissä vaatteissa tai ilman vaatteita kutsutaan myös pettingiksi.</p>
-    <p type="title" xml:lang="ger">Kuhertelu</p>
+    <p type="title" xml:lang="deu">Kuhertelu</p>
     <p>Jotkut kutsuvat hyväilyä kuherteluksi. Kuhertelu voi kuitenkin tarkoittaa myös muita asioita. Joidenkin mielestä kuhertelu tarkoittaa flirttailua tai seksin harrastamista jonkun kanssa. Henkilöä, jonka kanssa sitä on tehnyt, voi myös kutsua nimellä <span type="quote" xml:lang="swe">”ett strul”</span>.</p>
     <p type="title">Mikä tekee suutelusta ja hyväilystä mukavaa?</p>
     <p>Läheisyys ja hyväily saavat ihon, kielen ja huulet reagoimaan ja lähettämään aivoihin signaaleja, jotka kertovat sen tuntuvan hyvältä ja jännittävältä. Hyväily voi myös saada aikaan kiihottumista. Kehon hermot, jotka vastaavat tuntoaistista, lähettävät signaaleja aivoihin. Jotta hyväily tuntuisi mukavalta ja miellyttävältä, on tärkeää, että molemmat osapuolet haluavat sitä.</p>

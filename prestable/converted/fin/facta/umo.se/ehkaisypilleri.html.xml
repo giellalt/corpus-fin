@@ -5,6 +5,10 @@
     <author>
       <unknown/>
     </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
     <wordcount>789</wordcount>
     <conversion_status type="standard"/>
     <availability>
@@ -13,16 +17,29 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.umo.se/Andra-sprak/Finska/Ehkaisypilleri</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
     <parallel_text xml:lang="fit" location="p-pilleri.html"/>
-    <parallel_text xml:lang="rmf" location="p-piller.html"/>
-    <parallel_text xml:lang="rmn" location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html"/>
-    <parallel_text xml:lang="rmu" location="p-tabus.html"/>
-    <parallel_text xml:lang="rmy-rka" location="preventivno-drab.html"/>
-    <parallel_text xml:lang="rmy-rlo" location="p-piller.html"/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
     <parallel_text xml:lang="sma" location="p-pillere.html"/>
     <parallel_text xml:lang="sme" location="p-pillar.html"/>
     <parallel_text xml:lang="smj" location="p-tablahtta.html"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
     <parallel_text xml:lang="swe" location="p-piller.html"/>
+    <parallel_text location="p-piller.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="p-piller.html" xml:lang="rmf"/>
+    <parallel_text location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html" xml:lang="rmn"/>
+    <parallel_text location="p-tabus.html" xml:lang="rmu"/>
+    <parallel_text location="preventivno-drab.html" xml:lang="rmy-rka"/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -74,7 +91,7 @@
     <p>Kuukautisten ilmeneminen lopettamisen jälkeen on yksilöllistä. Osalle tulee heti säännöllinen kuukautiskierto, ja toisilla siihen voi mennä useita kuukausia.</p>
     <p>Jos ei halua tulla raskaaksi, on tärkeää muistaa suojautua raskaudelta emätinyhdynnässä, vaikka kuukautiset eivät olisi palanneet. Ovulaatio tapahtuu noin 14 päivää ennen kuukautisia, jolloin raskauden riski on suurin.</p>
     <p>Jos kuukautiset eivät ole palanneet kuuden kuukauden kuluttua pillereiden lopettamisesta, kannattaa syyn selvittämiseksi ottaa yhteyttä nuorisovastaanottoon, ehkäisyneuvolaan, iho- ja sukupuolitautiklinikkaan tai terveyskeskukseen.</p>
-    <p type="title" xml:lang="ger">Edut</p>
+    <p type="title" xml:lang="deu">Edut</p>
     <list>
       <p type="listitem">Varma suoja raskautta vastaan.</p>
       <p type="listitem">Vuodon määrä vähenee ja kuukautiset muuttuvat säännöllisiksi.</p>
