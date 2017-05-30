@@ -22,38 +22,6 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Verkkokartta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Webkárta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Aloitussivu</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Álginsiidu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ihminen ja yhteiskunta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Olmmoš ja servodat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tietojen jakaminen</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Juoge informašuvnna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Ihminen ja yhteiskunta</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -81,7 +49,7 @@
         <seg>Yhtäläisiä oikeuksia ja mahdollisuuksia edistävän työn tulee leimata lääninhallituksen organisaatiota ja toimintaa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargu seamma vuoigatvuođaide ja vejolašvuođaide galgá oidnot leanastivrra organisašuvnnas ja doaimmas.</seg>
+        <seg>Olmmošlaš vuoigatvuođat Bargu seamma vuoigatvuođaide ja vejolašvuođaide galgá oidnot leanastivrra organisašuvnnas ja doaimmas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,7 +121,7 @@
         <seg>Ruotsin viisi tunnustettua vähemmistöä ovat juutalaiset, romanit, saamelaiset (myös alkuperäiskansana), ruotsinsuomalaiset ja tornionjokilaaksolaiset.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ruoŧa vihtta nášuvnnalaš minoritehta leat juvddálaččat, romerat, sámit (mat leat álgoálbmot), ruoŧasuopmelaččat ja duortnuslaččat.</seg>
+        <seg>Ruoŧa vihtta nášuvnnalaš minoritehta leat juvddálaččat, romerat, sámit(mat leat álgoálbmot), ruoŧasuopmelaččat ja duortnuslaččat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,7 +153,7 @@
         <seg>Toimimme erityisesti alueilla, kuten tasavertaisuus, integraatio, ympäristö, asuntosuunnittelu, sosiaaliset edellytykset, syrjinnän torjuminen sekä alkoholiin ja huumeisiin liittyvät kysymykset.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Mii bargat erenomážiid surggiin dego dásseárvu, integrašuvdna, biras, orrunplánen, sosiála eavttut, vealahan-vuosttilteapmi sihke alkohola- ja gárrenmirko guoskevaš jearaldagaiguin.</seg>
+        <seg>Mii bargat erenomážiid surggiin dego dásseárvu,integrašuvdna, biras, orrunplánen, sosiála eavttut, vealahan-vuosttilteapmi sihke alkohola- ja gárrenmirko guoskevaš jearaldagaiguin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -209,7 +177,7 @@
         <seg>Lääninhallitus on paikallinen vaaliviranomainen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivra lea báikkálaš válgaeiseváldi.</seg>
+        <seg>Válggat Leanastivra lea báikkálaš válgaeiseváldi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -321,7 +289,7 @@
         <seg>Lääninhallitus voi antaa sinulle luvan tallettaa rahaa erityiselle tilille.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivra sáhttá sállet du vurket ruđaid sierra kontui.</seg>
+        <seg>Vurket ruđaid Leanastivra sáhttá sállet du vurket ruđaid sierra kontui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,7 +366,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Valvomme myös sitä, että kunnat tarkastavat hyvin ruoan valmistajien ja myyjien riittävän tietotason ja heidän toimitilojensa kelpoisuuden tuotantoon / myyntiin.</seg>
+        <seg>Valvomme myös sitä, että kunnat tarkastavat hyvin ruoan valmistajien ja myyjien riittävän tietotason ja heidän toimitilojensa kelpoisuuden tuotantoon/myyntiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Mii dárkkistit maid ahte gielddain lea buorre bajilgeahčču dain, geat buvttadit ja vuvdet biepmu, lea nuogis buorre máhttu ja lokálat čađahit dan.</seg>
@@ -462,26 +430,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Notarius publicus (julkinen notaari)</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Almmolaš čálli</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Lääninhallitus valitsee julkiset notaarit (ns. notarius publicus).</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leanastivra namuha nu gohčoduvvon notarius publicus.</seg>
+        <seg>Almmolaš čálli Leanastivra namuha nu gohčoduvvon notarius publicus.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Virkanimike on latinaa ja merkitsee suunnilleen samaa kuin " julkinen sihteeri ".</seg>
+        <seg>Virkanimike on latinaa ja merkitsee suunnilleen samaa kuin "julkinen sihteeri".</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Namma lea latiinnagillii ja mearkkaša sullii “ almmolaš čálli ”.</seg>
+        <seg>Namma lea latiinnagillii ja mearkkaša sullii “almmolaš čálli”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,70 +498,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Leanastivra dahká dárkkistemiid bajilhovdejeaddji luhtte dássedis gaskkaid dehe dárkkista bajilhovdejeaddji ovdamearkka dihte olbmuid almmuheami geažil.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kommentoi sivua</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggat siiddu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Piilota kommenttilomake</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čiega čielggadanskovi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Raportoi sivulla oleva vika</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggat siiddu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Jos olet löytänyt jotakin virheitä tältä sivulta, lähetä meille tieto siitä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Mii váldit mielanis vuostá du oainnuid ju gávnnat feaillaid dán siiddus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kommenttisi lähetetään sivusta vastaavalle toimittajalle.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Du čilgehus sáddejuvvo siidovásttolaš doaimmaheaddjái.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sähköposti</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čielggadeapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Syötä seuraava koodi lähettääksesi kommenttisi</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Biepma sisa vulobeale kooda vai sáhtát sáddet čilgehusa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Luo uusi kuva</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buvttit ođđa gova</seg>
       </tuv>
     </tu>
   </body>

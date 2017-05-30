@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">seksitautitestit.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksitautitestit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Testet iežas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksitautitestit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Testet iežas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on harrastanut suojaamatonta seksiä, kannattaa aina käydä seksitautitesteissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea leamaš suddjekeahtes seksa lea álo buorre testet iežas sohkabealedávddaid dihte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Usein testit otetaan virtsanäytteestä tai verikokeesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Got teasta dáhpáhuvvá vuolgá das man sohkabealedávdda dihte teste iežas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos testattava seksitauti on tartuntasuojalain mukaan ilmoitettava tauti, testi on ilmainen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus teste iežas sohkabealdávdda dihte mii gullo njoammunsuodjelága vuollái ii dárbbat máksit maidege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksi voi olla kaunista, hauskaa ja jännittävää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anašeapmi sáhttá leahkit somá, suohtas ja gelddolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus voi kuitenkin käydä niin, että viime hetkellä unohtuu jotain, jonka tietää olevan tärkeää.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soaitá muhtumin nu ahte juste dalle ii beroš dakkáris man rievtti mielde diehtá dehálažžan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi suojata itsensä seksitauteja vastaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkka dihte ahte galgá suddjet iežas unnidan dihte riskka oažžut soames sohkabealedávdda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tämä kuulostaa tutulta, voi olla aika käydä seksitautitesteissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dovddaha iežas das sáhttá leahkit áigi testet iežas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miksi seksitautitesteissä kannattaa käydä?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Manin galgá testet iežas sohkabealedávddaid dihte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksitautitesteissä kannattaa käydä aina, jos on harrastanut suojaamatonta seksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea álo buorre testet iežas sohkabealedávddaid dihte jus lea leamaš suddjekeahtes anašeapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testeissä kannattaa käydä, vaikka tuntisi itsensä terveeksi, sillä osa seksitaudeista ei aiheuta mitään oireita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat guoská vaikko dovdá iežas dearvvasin daningo muhtin sohkabealedávddat eai atte mangelágán symptoma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on tavannut jonkun, jonka kanssa haluaa muodostaa suhteen ja suunnittelee suojauksesta luopumista, kummankin kannattaa käydä ensin seksitautitesteissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea gávdnan soapmása geainna háliida nanu oktavuođa ja pláne heaitit suddjemis iežas, lea maid buorre ahte goappešagat mannaba testeme iežaska álggos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voi myös käydä niin, että jollakin, jonka kanssa on harrastanut seksiä, on todettu seksitauti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá leahkit nu ahte soamis geainna lea anašan lea testen iežas ja teasta lea vuosehan sus sohkabealedávdda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kyseinen tauti kuuluu tartuntasuojalain piiriin, vastaanotto voi kutsua testiin kirjeitse tai puhelimitse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus skibasvuohta gullo suodjelága vuollái, sáhttá oažžut reivve dehe telefovnna soapmásis vuostáváldimis gos gohččojuvvo testet iežas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tartunnan saaminen ei ole varmaa, mutta lain mukaan olet velvollinen käymään testeissä taudin leviämisriskin pienentämiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat sihkkar ahte alccenasas lea sohkabealedávdda, muhto olmmoš lea lága jelgii geatnegas testet iežas unnidan dihte riskka skibasvuođa viidumii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Milloin seksitautitestissä kannattaa käydä?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Goas galgá testet iežas sohkabealedávddaid dihte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koskaan ei ole liian myöhäistä käydä seksitautitestissä, jos on ollut suojaamattomassa yhdynnässä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii leat goassege ilá maŋŋit testet iežas sohkabealedávddaid dihte jus lea leamas suddjekeahtes anašeapmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joidenkin tautien kohdalla voi kestää useita kuukausia ja joskus jopa vuosia riskitilanteen jälkeen, kunnes oireita ilmenee.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtin skibasvuođain sáhttá váldit máŋga mánu ja muhtumin juobe jagi dasgo oaččui dan dassážiigo fuomáša juoidá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liian aikainen testaaminen voi siis olla joskus mahdollista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan sadjái sáhttá muhtumin leahkit ilá árrat mannat testeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testaus seuraavana päivänä suojaamattoman seksin jälkeen ei kannata, koska infektion aiheuttava virus tai bakteeri ei ole ehtinyt lisääntyä tarpeeksi näkyäkseen testissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ii sáhte testet iežas beaivvi maŋŋel go lea leamaš suddjekeahtes seksa, daningo virus dehe bakteriija mii dagaha infekšuvnna ii leat geargan lassánit nuogis vai dat oidnolii iskosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi klamydian ja tippurin voi yleensä testata aikaisintaan viikon kuluttua suojaamattomasta seksistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkka dihte klamydia ja gonorrea dihte láve sáhttit testet iežas áramustá vahku maŋŋel go lea leamaš suddjekeahtes seksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietyt sairaudet, kuten HIV, voivat näkyä täysin luotettavasti testissä vasta kolme kuukautta tartunnan jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto dihto skibasvuođat, dego ovdamearkka dihte hiiva, sáhttá bistit áin golmma mánnui go oaččui dan dassážiigo teasta sihkkarit sáhttá čájehit jus lea skibasvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sairaudesta riippumatta pitäisi mennä vastaanotolle, jos on huolissaan tai ilmenee oireita. Jos tietää, että seksitaudin riski on todennäköinen, esimerkiksi jos seksikumppanilla on tauti, voi joskus saada hoitoa jo ennen testituloksen varmistumista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beroškeahttá skibasvuođas galgá mannat vuostáváldimii jus lea mášoheapme dehe leat váivvit Jus diehtá ahte lea stuora riska ahte lea ožžon sohkabealedávdda, ovdamearkka dihte ahte das geainna lea leamaš seksa lea dat, sáhttá muhtumin oažžut dikšuma ovdalgo iskkusvástádusat leat válbmasat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksitautia ei voi saada, jos ei ole harrastanut seksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus ii leat leamaš seksa geainnage ii sáhte oažžut sohkabealedávdda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin ei myöskään tarvitse käydä testeissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle ii dárbbat mannat testeme iežas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Missä seksitautitestin voi tehdä?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gos sáhttá testet iežas sohkabealedávddaid dihte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksitautitestiin voi hakeutua nuorisovastaanotolle, iho- ja sukupuoliklinikalle tai terveyskeskukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus háliida testet iežas sohkabealedávddaid dihte sáhttá mannat nuoraidvuostáváldimii, liike- ja sohkabealevuostáváldimii dehe dearvvašvuođaguovddážii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös RFSU:lla on klinikoita, jossa voi käydä tutkimuksissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>RFSU:s maid leat vuostáváldimat gos sáhttá testet iežas sohkabealedávddaid dihte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytöt voivat hakeutua naistenklinikalle tai gynekologin vastaanotolle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nieiddat sáhttet maid mannat nissonklinihkkii dehe gynekologii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Klamydiatestin voi myös tilata netistä tai ostaa apteekista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Klamydiateastta sáhttá maid diŋgot neahtas dehe oastit apotehkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saadakseen selville oman asuinalueen testipaikat voi soittaa sairaanhoitoneuvontaan 1177.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oažžun dihte čielgasa gosa galgá mannat testet iežas doppe gos orru sáhttá riŋget buohccidikšunrávvahahkii 1177.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuinka testi suoritetaan? Seksitautien testaaminen on nopeaa ja helppoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Testen iežas sohkabealedávddaid dihte manna jođánit ja eaŋkilit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testimenetelmä riippuu testattavasta sairaudesta ja siitä, millaista seksiä on harrastettu ja miten tartunta on levinnyt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Got ieš teasta manná vuolgá das man skibasvuođa dihte teste iežas ja man láhkái lea leamaš seksa ja got sáhttá leat njoammon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Emätinyhdynnän jälkeen annetaan usein virtsanäyte.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea leamaš cinneanašeapmi oažžu guođđit cissaiskosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Klamydian testaamiseen pojilta riittää yleensä virtsanäyte.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bártniide geat galget testet iežaset láve cissaiskkus leahkit nuogis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tyttöjen tulee antaa lisäksi näyte emättimen limakalvolta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nieiddat ožžot guođđit iskosa cinnis maid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen voi ottaa itse pumpulipuikolla, jonka saa vastaanotolta tai kotiin tilattavasta testistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan sáhttá dahkat ieš bumbolsákkiin man oažžu go manná testeme iežas dehe diŋgo teastta ruoktot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos testissä on annettava virtsanäyte, ennen näytteenottoa on oltava vähintään yhdestä kahteen tuntia virtsaamatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus diehtá ahte galgá guođđit cissaiskosa galgá cissat okta –guokte diimmu ovdal go testehahttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joidenkin sairauksien, erityisesti tippurin, näyte otetaan ohuella näytteenottopuikolla, joka näyttää pumpulipuikolta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dihto dávddaid dihte earet eará gonorrea, váldo teasta seakkes iskkusváldinsákkiin mii lea dego seakkes buiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteenottopuikkoa pyöritellään varovasti emättimen, virtsaputken, kurkun tai peräaukon limakalvolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iskkusváldinsákki jorggohallo várrogasat šliiveasi vuostá cinnis, cissaoaris, čeabehis dehe guhkkin bahtaráiggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytteen ottaminen voi kuulostaa epämiellyttävältä, mutta yleensä se on nopeaa ja kivutonta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gos iskkus váldojuvvo vuolgá das got lea anašan. Dat soaitá orrut unohas, muhto láve jođánit dahkkon iige dovdo nu olu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut sairaudet testataan verikokeesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará skibasvuođain sáhttá šaddat guođđit varraiskosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se otetaan ohuella neulalla kyynärtaipeen verisuonesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat váldojuvvo čuggemiin seakkes náluin giehtamáhci varrasutnii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos testin suorittaja epäilee herpestä, hän voi ottaa näytteen herpesrakkulasta pumpulipuikolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus dat gii dutká eahpida ahte olbmos lea herpes, váldojuvvo muhtumiin iskkus herpesráhkus bumbolsákkiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos näkyvissä on kondyloomasyyliä, yleensä näyte ei ole tarpeen, koska testin ottaja näkee heti, mistä on kyse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus leat oinnolaš kondylomat ii mangelágán iskkusváldin dárbbahuvvo, daningo dat gii dutká dávjjimustá sáhttá dakkaviđe oaidnit mii dat lea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vastaukset tulevat?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Goas oažžu vástádusa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimpien näytteiden tuloksen saa viikon kuluessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanaš iskosiidda oažžu vástádusa vahku siste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näytettä jätettäessä sovitaan vastaanoton kanssa tiedon ilmoittamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go guođđá iskosa de láve soabadit vuostáváldimiin got oažžu vástádusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulos voidaan ilmoittaa esimerkiksi puhelimitse, kirjeitse tai vastaanotolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkka dihte galgetgo sii riŋget, sáddet reivve dehe galgágo mannat dohko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testituloksen odottaminen voi olla stressaavaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iskkusvástádusa vuordin sáhttá leahkit váivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastauksen odottaminen voi tuntua pitkältä ja hermostuttavalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lea lunddolaš ahte olmmoš lea leabehin ja vuordináigi orru guhkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos mieli on maassa, kannattaa jutella ajatuksista ja tunteista jonkun kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus veadjá heajuid sáhttá leahkit buorre ságastit soapmásiin iežas jurdagiin ja dovdduin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kyseessä voi olla ystävä, perheenjäsen tai joku muu läheinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat sáhttá leahkit olmmái, soamis veagas dehe soamis lagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voi myös ottaa yhteyttä nuorisovastaanottoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáhttá maid váldit oktavuođa nuoraidvuostáváldimiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilökunnalta voi saada tukea vaikeina aikoina, ja he ovat tottuneet seksitauteja koskeviin kysymyksiin ja huoliin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargoveahka doppe sáhttá veahkehit go dovdo váivi ja leat hárjánan jearaldagaide ja jurdagiidda mat gusket sohkabealedávddaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä testit maksavat?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maid testehahttin máksá?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos seksitaudit kuuluvat tartuntasuojalain piiriin, kuten klamydia, tippuri ja HIV, testit ovat maksuttomia iästä ja paikasta riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sohkabealedávddat mat gullojit njoammunsuodjelága vuollái dego ovdamearkka dihte klamydia, gonorrea ja hiv ii goassege mávsse maidege testehahttit beroškeahttá agis ja gos dan dahká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muiden seksitautitestien hinta voi vaihdella asuinpaikan ja vastaanoton mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Testehahttit eará sohkabealedávddaid dihte sáhttá máksu leahkit sierralágán ja vuolgá das gos orru ja man vuostáváldimii manná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Testi on maksuton, jos yksi testattavista taudeista kuuluu tartuntasuojalain piiriin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dávjá láve olmmoš testet iežas máŋgga skibasvuođa dihte seamma áiggi.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

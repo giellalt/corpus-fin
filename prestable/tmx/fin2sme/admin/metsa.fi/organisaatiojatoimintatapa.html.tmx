@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">organisaatiojatoimintatapa.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuohtadieđut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuohtadieđut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuohtadieđut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallitus /</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Organisašuvdna /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuohtadieđut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi 100</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđáhusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallitus työpaikkana</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rabas bargosajit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Organisaatio Liiketaloudelliset tunnusluvut Henkilötyövuodet Strategia ja arvot Hallitus Johtamis- ja hallintojärjestelmä Metsähallituksen ohjaus Historia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Organisašuvdna Fitnodatekonomalaš dovddaldatlogut Olmmošbargojagit Ulbmildilli ja árvvut Stivra Meahciráđđehusa stivren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liiketaloudelliset tunnusluvut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fitnodatekonomalaš dovddaldatlogut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilötyövuodet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošbargojagit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Strategia ja arvot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ulbmildilli ja árvvut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stivra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallituksen ohjaus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehusa stivren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Historia Yhteiskuntavastuu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biras- ja servodatovddasvástádus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteistyö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovttasbargu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julkaisut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Publikašuvnnat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilökuvia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fitnodatmearka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallituksen organisaatio</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehusa organisašuvdna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallitus on valtion liikelaitos (Y-tunnus 0116726-7), jonka tehtävät on jaettu liiketoimintaan ja toisaalta pääasiassa budjettivaroin hoidettaviin julkisiin hallintotehtäviin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehus lea stáhta fitnodat (F-dovddaldat 0116726-7), man barggut leat juhkkon fitnodatdoibmii ja nuppedáfus eanas bušeahttaruđaiguin fuolahuvvon almmolaš hálddahusbargguide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eri toiminnot on eriytetty omiksi tulosalueikseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Iešguđege doaimmat leat sirrejuvvon iežas boađussuorgin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallituksen liiketoiminta koostuu tytäryhtiöistä ja Kiinteistökehityksen tulosalueesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehusa fitnodatdoaibma šaddá nieidafitnodagain ja Laatumaa boađussuorggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>yhtiö aloitti toimintansa 15.4.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>fitnodat álggahii doaimmas 15.4.2016.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tuottaa noin 85 prosenttia Metsähallituksen tuloista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>buvttada sullii 85 proseantta Meahciráđđehusa boađuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tehtävänä on valtion talouskäytössä olevien monikäyttömetsien hoito ja puun myynti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>bargun muora márkanastin ja vuovdin sihke ekonomiijamehciid dikšun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>asiakkaina ovat metsäteollisuus ja muut puuta käyttävät yritykset kotimaassa ja ulkomailla</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>áššehassan meahcceindustriija ja eará ruovttu- ja olgoeatnan fitnodagat, mat geavahit muora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>metsien hoito perustuu luonnonvarojen kestävään käyttöön</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>vuvddiid dikšun vuođđuduvvá luondduriggodagaid bistevaš atnui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>toiminnan päämääränä on metsien monikäyttö.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ulbmilin lea mehciid máŋggalágán atnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiinteistökehitys</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Laatumaa boađussuorgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lomatontteihin ja metsätiloihin liittyvä kiinteistötoiminta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>luopmoduktásajiide ja vuovdedáluide gullevaš giddodatdoaibma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallituksen omistamien rakennusten myynti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehusa eaiggáduššan ráhkadusaid vuovdi n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>aktiivinen hankekehitys tuulivoimaliiketoiminnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>aktiivvalaš fidnogárgeheapmi bieggafápmofitnodatdoaimmas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut tytäryhtiöt:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehusas leat maid nieidafitnodatsearvvit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Fin Forelia Oy, joka tuottaa, markkinoi ja myy metsäpuiden taimia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fin Forelia O s, mii buvttada, márkanastá ja vuovdá vuovdemuoraid vesáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siemen Forelia Oy, joka tuottaa, markkinoi ja myy metsäpuiden siemeniä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Siemen Forelia Os, mii buvttada, márkanastá ja vuovdá vuovdemuoraid siepmaniid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>MH-Kivi Oy, joka vuokraa maa-ainespaikkoja ja myy maa-aineksia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>MH-Kivi Os, mii láigoha eanaávnnassajiid ja vuovdá eanaávdnasiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luontopalvelut - ja Eräpalvelut -yksiköt hoitavat Metsähallituksen julkisia hallintotehtäviä:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luonddubálvalusat lea boađussuorgi, mii fuolaha Meahciráđđehusa almmolaš hálddahusbargguin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>luontotyyppien ja lajien suojelu sekä luonnonsuojelualueiden hankinta luonnonsuojelualueverkoston hoito ja käyttö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luonddubálvalusaid doaibman lea dikšut luonddusuodjaleapmái ja vánddardeapmái várrejuvvon stáhta eatnamiid, dego álbmotmehciid ja buvttadit daidda vánddardanbálvalusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>luonnon virkistyskäyttöön liittyvien luonto- ja retkeilypalvelujen tuottaminen sekä kulttuuriomaisuuden vaaliminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luonddubálvalusat vástida maiddái maŋggaid áitatvuloš šlájaid, dego saimaagahte ja goaskima suodjaleamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>riista- ja kalataloudellisten hankkeiden toteuttaminen sekä metsästys- ja kalastuslupien myöntäminen (www.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahcástussii ja guolástussii gullevaš hálddahusbarggut dego meahccebearráigeahčču, stáhta eatnamiid fuođđo- ja guollenáliid sihke sálašmeari čuovvumis ja meahcástan- ja guolástanlobiid (www.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>eräluvat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>eräluvat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>erävalvonta (lakien noudattamisen ja lupien voimassaolon valvonta Metsähallituksen alueilla)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>fi) mieđeheapmi nu, ahte nálit seilot gierdavažžan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>metsäpuiden siementen hankintaan ja varmuusvarastointiin liittyvät tehtävät</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luonddubálvalusat dikšu maiddái meahccejohlausa, golgadeami ja siemabuvttadeapmái gullevaš bargguid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>eräät muut laeissa säädetyt tehtävät (eräämaalaki, kalastuslaki, kolttalaki, maastoliikennelaki, metsästyslaki, vesienhoidon ja merenhoidon järjestämisestä annettu laki, pelastuslaki, poronhoitolaki, porotalouden ja luontaiselinkeinojen rakennetukia koskeva laki ja ulkoilulaki).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassidieđut luonddubálvalusaid bargguin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päivitetty viimeksi 30.03.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beaiváduvvon maŋimuš 21.06.2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2017</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálit</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
