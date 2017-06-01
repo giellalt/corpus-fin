@@ -1,0 +1,768 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">oikeudenkaynti.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>«oikeus.fi Tekstiversio</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuoigatvuođaveahkis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>«oikeus.fi Oikeus.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálit dieđihančállosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivukartta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duopmostuolut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeusapu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyttäjälaitos Tuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riekteveahkki ja riektegeavvama golut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleiset tuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráŋggáštusaid ollašuhttin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeudet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duopmostuolut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korkein oikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallinto-oikeudet Korkein hallinto-oikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riekteveahkki ja riektegeavvama golut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityistuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráŋggáštusaid ollašuhttin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Markkinaoikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäynnit ovat yleensä julkisia eli yleisöllä on niihin pääsy.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvamat leat dábálaččat almmolaččat dahjege olbmot besset boahtit daidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suljettu käsittely saatetaan pitää esimerkiksi silloin, kun oikeudessa käsitellään erityisen arkaluontoisia, yksityiselämään liittyviä seikkoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giddejuvvon gieđahallan sáhttá dollojuvvot dalle, go rievttis gieđahallojuvvojit hui hearkkes, priváhtaeallima áššit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeuden ratkaisun lopputulos on julkinen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rievtti čovdosa loahppaboađus lea almmolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallintotuomioistuimissa ja vakuutusoikeudessa käsiteltävät asiat ovat usein sellaisia, joista on säädetty salassapitovelvollisuus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahusduopmostuolus ja dáhkádusrievttis gieđahallanvuloš áššit leat dávjá dakkárat, main lea mearriduvvon čiegusindoallama geatnegasvuohta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäynti käräjäoikeudessa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvan gearretrievttis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasia käsitellään yleensä sen paikkakunnan käräjäoikeudessa, jonka alueella rikos on tehty.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši gieđahallojuvvo dábálaččat dan báikegotti gearretrievttis, man viidodagas rihkus lea dahkkojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasia tulee vireille käräjäoikeudessa sen jälkeen, kun poliisi on rikosilmoituksen tai muun rikosepäilyn perusteella toimittanut esitutkinnan ja syyttäjä on päättänyt nostaa asiassa syytteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši biddjo johtui dikkis dan maŋŋel, go poliisa lea rihkusalmmuhusa dahje eará rihkuseahpádusa vuođul doaimmahan ovdadutkama ja áššáskuhtti lea mearridan áššáskuhttit ášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavallisimpia tuomioistuimissa käsiteltäviä rikoksia ovat liikenteen vaarantamiset, rattijuopumukset, pahoinpitelyt, varkaudet, petokset ja huumausainerikokset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dábáleamos rihkkosat, mat duopmostuoluin gieđahallojuvvojit, leat johtalusa dorvvuhuhttimat, gárrenvuodjimat, illasteamit, suoládeamit, behttosat ja gárrenávnnasrihkkosat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosoikeudenkäynnissä ovat mukana vastaaja eli syytetty sekä virallinen syyttäjä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkuslágasteamis leat fárus vástideaddji dahjege áššáskuhtton ja maid virggálaš áššáskuhtti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mukana voi olla myös asianomistaja eli rikoksen uhri.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mielde sáhttá leat maid áššeoamasteaddji dahjege rihkkosa oaffar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näistä oikeudenkäynnin osapuolista käytetään yhteisnimitystä asianosaiset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáin lágasteami oassebeliin geavahuvvo oktasašnamahus áššeoasálaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäynnissä esiintyy usein myös todistajia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lágasteamis leat mielde dávjá maiddái vihtanat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyttäjän rooli on keskeinen oikeudenkäynnin kulun kannalta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššáskuhttis lea guovddáš rolla lágasteami jođu dáfus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hän vaatii valtion edustajana rangaistusta henkilölle, jonka epäillään syyllistyneen rikokseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Son gáibida stáhta ovddasteaddjin ráŋggáštusa olbmui, gii eahpiduvvo leat sivalaš rihkkosii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyttäjä ei ole osa tuomioistuinta, vaan toimii itsenäisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššáskuhtti ii gula duopmostullui, muhto son doaibmá iehčanasat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hänen tehtävänään on tuoda esiin rikosasiaa koskeva näyttö, myös vastaajalle edulliset seikat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Su bargun lea buktit ovdan rihkusáššái guoski duođaštusaid, maiddái vástideaddjái ávkkálaš áššiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeus joko hyväksyy tai hylkää syyttäjän esittämän syytteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearretriekti juogo dohkkeha dahje hilgu áššáskuhtti ovddidan stevnnega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jollei syyttäjä nosta syytettä, asianomistaja voi tehdä sen myös itse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juos áššáskuhtti ii čuoččáldahte ášši, áššeoamasteaddji sáhttá dahkat dan maiddái ieš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Todistajaksi kutsutun on aina tultava oikeuteen, mutta hänen ei tarvitse todistaa läheisiään vastaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vihtanin gohččojuvvon galgá álot boahtit riektái, muhto son ii dárbbaš duođaštit lagamuččaidis vuostá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Todistajan on puhuttava totta eikä hän saa salata tiedossaan olevia asioita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vihtan galgá hállat duođa iige son oaččo čiehkat áššiid, mat leat su dieđus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hänellä on oikeus saada korvausta oikeuteen saapumisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sus lea vuoigatvuohta oažžut buhtadusa riektái boahtimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosjutun käsittely etenee yleensä seuraavassa järjestyksessä:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši gieđahallan ovdána dábálaččat čuovvovaš ortnegis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyttäjä esittää vaatimuksensa ja niiden perusteet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššáskuhtti ovddida gáibádusas ja daid vuođuštusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos asianomistaja on läsnä, hänelle annetaan puheenvuoro syyttäjän jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juos áššeoamasteaddji lea rievttis, sutnje addojuvvo sáhkavuorru áššáskuhtti maŋŋá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hän voi esittää omat vaatimuksensa ja ilmoittaa, onko samaa mieltä syyttäjän kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Son sáhttá ovddidit iežas gáibádusaid ja almmuhit leago ovttaoaivilis áššáskuhttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaaja voi joko myöntää tai kiistää teon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vástideaddji sáhttá juogo mieđihit dahje šiitit dagu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hän vastaa myös siihen, suostuuko hän maksamaan asianomistajan vaatimat korvaukset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Son vástida maiddái dasa miehtágo máksit áššeoamasteaddji gáibidan buhtadusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraavaksi syyttäjä ja asianomistaja perustelevat kantansa tarkemmin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čuovvovažžan áššáskuhtti ja áššeoamasteaddji vuođuštallaba oainnuska dárkileappot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaaja lausuu oman näkemyksensä oikeudessa esitetyistä asioista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vástideaddji cealká iežas oaivila dikkis ovdanbuktojuvvon áššiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän jälkeen on vuorossa todistajien kuuleminen ja muun näytön esittäminen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán maŋŋá lea vihtaniid gullama vuorru ja eará duođaštusaid ovdanbuktin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asianosaiset kertovat käsityksensä oikeudenkäynnin aikana esitetyistä todisteista ja siitä, miten asiassa heidän mielestään pitäisi tuomita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššeoasálaččat muitalit oaiviliiddiset dikki áigge ovddiduvvon duođaštusain ja das mo áššis sin mielas galggašii dubmet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lopuksi oikeus harkitsee ja antaa tuomion.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loahpas riekti árvvoštallá ja cealká duomu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikokseen syylliseksi todettu tuomitaan yleensä rangaistukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkkosii sivalažžan gávnnahuvvon dubmejuvvo dábálaččat ráŋggáštussii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasian käsittelee yleensä asian laadusta riippuen joko yksi tuomari tai tuomari ja kaksi lautamiestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši gieđahallá dábálaččat ášši šlája mielde juogo okta duopmár dahjege duopmár ja guokte lávdeolbmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lautamiehet ovat kunnanvaltuustojen valitsemia maallikoita, jotka edustavat oikeudessa eri väestöryhmien näkemyksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lávdeolbmot leat gielddaid váldostivrraid válljen eará go skuvlejuvvon áššedovdit, geat ovddastit rievttis sierra álbmotosiid oainnuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasia voidaan käsitellä myös kolmen tuomarin kokoonpanossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái golmma duopmára čoahkkáibidju sáhttá gieđahallat rihkusášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksinkertainen rikosasia voidaan ratkaista käräjäoikeudessa pelkässä kirjallisessa menettelyssä ilman pääkäsittelyä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktageardán rihkusášši sáhttá čoavdit gearretrievttis dušše čálalaš meannudeamis almmá váldogieđahallama haga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Edellytyksenä on, että rikoksesta syytetty on tunnustanut teon ja suostuu kirjalliseen menettelyyn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eaktun lea, ahte rihkkosis áššáskuhtton lea dovddastan dagu ja miehtá čálalaš meannudeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös mahdolliselta rikoksen uhrilta on saatava suostumus kirjalliseen menettelyyn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái rihkkosa vejolaš oaffaris galgá oažžut miehtama čálalaš meannudeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikoksia voidaan myös sovitella erityisesti silloin, jos rikoksentekijä on nuori.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkkosiid sáhttá maiddái soabadallat earenoamážit dalle, juos láhkarihkku lea nuorra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloitteen sovittelusta voi tehdä rikoksen tekijä, uhri, syyttäjä, poliisi tai sosiaaliviranomainen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álgaga soabadallamis sáhttá dahkat rihkkosa dahkki, oaffar, áššáskuhtti, poliisa dahje sosiálaeiseváldi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sovittelijoina toimivat tehtävään koulutetut henkilöt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soabadallin doibmet bargui skuvlejuvvon olbmot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasia voidaan käsitellä tuomioistuimessa, vaikka tapaus olisi soviteltu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši sáhttá gieđahallat duopmostuolus, vaikke dáhpáhus livččii soabadallon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Riita-asia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riidoášši</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeuteen tuleva riita voi koskea esimerkiksi velan maksua, kauppaa, sopimuksen tulkintaa tai perintöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riidu, mii boahtá gearretriektái, sáhttá guoskat ovdamearkka dihte vealggi máksima, gávppi, soahpamuša dulkoma dahje árbbi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Riita-asian oikeudenkäynnissä asianosaisina ovat kantaja, joka on pannut jutun vireille, ja vastaaja, jolle vaatimus esitetään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riidoášši lágasteamis áššeoasálaččat leat čuoččáldahtti, gii lea vuolggahan ášši ja vástideaddji, geasa gáibádus ovddiduvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asia tulee vireille silloin, kun kantaja toimittaa käräjäoikeuden kansliaan kirjallisen haastehakemuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ášši boahtá johtui dalle, go čuoččáldahtti doaimmaha gearretrievtti kansliijai čálalaš stevnnetohcamuša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä on mm. selvitettävä, mitä vaaditaan ja perusteltava vaatimus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Das galgá ee. čilget, mii gáibiduvvo ja galgá vuođuštit gáibádusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaajan haastamisesta huolehtii käräjäoikeus joko postitse tai haastemiehen välityksellä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vástideaddji stevdnemis fuolaha gearretriekti juogo boastta dahje stevnnetolbmo bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeus pyytää vastaajalta ensiksi kirjallisen vastauksen haastehakemukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearretriekti bivdá vástideaddjis vuosttamužžan čálalaš vástádusa stevnnetohcamuššii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Useimmat riidat ratkaistaan jo tässä kirjallisen valmistelun vaiheessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanaš riidduin čovdojuvvojit juo dán čálalaš válmmaštallanmuttus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jollei niin käy, asian käsittelyä jatketaan tuomarin johdolla suullisessa valmistelussa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juos nu ii dáhpáhuva, de áššegieđahallan jotkojuvvo duopmára jođihemiin njálmmálaš válmmaštallamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä selvitetään, mistä riidan osapuolet todella ovat eri mieltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Das čielggaduvvo, mas riiddu oassebealit duođaid leat sierraoaivilis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tässä vaiheessa asianosaisten on yleensä viimeistään ilmoitettava kaikki vaatimuksensa ja niiden perusteet samoin kuin todisteet, joita he aikovat esittää vaatimustensa tueksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán muttos áššeoasálaččat galget dábálaččat maŋimusat almmuhit buot gáibádusaideaset ja daid vuođuštusaid nugo maid duođaštusaid, maid sii áigot ovddidit gáibádusaideaset doarjjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiaa käsittelevä tuomari selvittää myös, onko asiassa mahdollista päästä sovintoon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ášši gieđahalli duopmár čilge maiddái leago áššis vejolaš soabadit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ellei valmistelussa päästä sovintoratkaisuun, järjestetään pääkäsittely, jossa todistajia ja yleensä myös jutun asianosaisia kuullaan henkilökohtaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juos válmmaštallamis eai beasa soabalaš čovdosii, ordnejuvvo váldogieđahallan, mas vihtaniid ja maid áššeoasálaččaid gullet persovnnalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Riita-asiassa ketään ei tuomita rangaistukseen, vaan käräjäoikeus ratkaisee, mikä on lain mukainen lopputulos.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riidoáššis oktage ii dubmejuvvo ráŋggáštussii, muhto gearretriekti mearrida, mii lea rivttes dahjege lága čuovvu loahppaboađus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päätöksen tekee yleensä yksi tuomari, mutta laajassa riita-asiassa voidaan ratkaista myös kolmen tuomarin kokoonpanossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearrádusa dahká dábálaččat okta duopmár, muhto viiddes riidoáššis ášši sáhttá čovdojuvvot maiddái golmma duopmára čoahkkáibijus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hakemusasia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcamušášši</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeus käsittelee myös suuren määrän hakemusasioita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearretriekti gieđahallá maid stuorra meari ohcamušáššiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niitä ovat esimerkiksi avioerot ja lapsen huoltoa koskevat riidattomat asiat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dat leat ovdamearkka dihte náittosearut ja máná fuolahussii guoski riidduhis áššit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäynti hallinto-oikeudessa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvan hálddahusrievttis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viranomaisten päätöksistä voi yleensä valittaa hallinto-oikeuteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eiseválddiid mearrádusain sáhttá dábálaččat váidit hálddahusriektái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallinto-oikeudet käsittelevät veroasioita, kunnallisasioita, rakennus- ja ympäristöasioita, sosiaali- ja terveydenhuoltoasioita sekä muita hallintoasioita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahusrievttit gieđahallet vearroáššiid, gielddaide guoski áššiid, huksen- ja birasáššiid, sosiála- ja dearvvašvuođadikšunáššiid ja maid eará hálddahusáššiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muun muassa veroasioissa ja kunnallisasioissa on kuitenkin ensiksi haettava oikaisua esimerkiksi lautakunnalta tai ylemmältä toimielimeltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Earret eará vearroáššiin ja gielddaide guoski áššiin galgá goittotge vuosttamužžan ohcat vuigema ovdamearkka dihte lávdegottis dahje alit doaibmaorgánas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vasta oikaisuvaatimukseen annettuun päätökseen voi hakea muutosta hallinto-oikeudelta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Easkka vuigengáibádussii addojuvvon mearrádussii sáhttá ohcat nuppástusa hálddahusrievttis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asia tulee vireille hallinto-oikeudessa, kun valittaja toimittaa sinne valituskirjelmänsä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ášši boahtá johtui hálddahusrievttis, go váidaleaddji doaimmaha dohko váidinčállagis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen jälkeen hallinto-oikeus hankkii lausunnon päätöksen tehneeltä viranomaiselta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan maŋŋá hálddahusriekti bivdá cealkámuša mearrádusa dahkan eiseválddis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valittajaa kuullaan hankittujen lausuntojen ja mahdollisen muun selvityksen johdosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahusriekti gullá váidi skáhppojuvvon cealkámušaid ja vejolaš eará čilgehusa geažil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallinto-oikeus ratkaisee suurimman osan valituksista asiakirjojen perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahusriekti čoavdá eanaš oasi váidagiin áššebáhpáriid vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös suullinen käsittely voidaan järjestää, jos valittaja sitä pyytää ja asiaan voidaan suullisessa käsittelyssä tuoda lisävalaistusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái njálmmálaš gieđahallan sáhttá ordnejuvvot, juos váidi dan bivdá ja áššái sáhttá njálmmálaš gieđahallamis buktit lassičuvgehusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suullisessa käsittelyssä valittaja esittää vaatimuksensa ja niiden perusteet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njálmmálaš gieđahallamis váidi ovddida gáibádusas ja daid vuođuštusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen jälkeen kuullaan päätöksen tehneen viranomaisen edustajan kanta asiaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dan maŋŋá gullojuvvo mearrádusa dahkan eiseválddi ovddasteaddji oaidnu áššái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käsittelyssä voidaan täsmentää niitä vaatimuksia ja valitusperusteita, jotka on esitetty kirjelmissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gieđahallamis sáhttá dárkkálnuhttit daid gáibádusaid ja váiddavuođuštusaid, mat leat buktojuvvon ovdan čállagiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suullisessa käsittelyssä kuullaan usein myös todistajia ja asiantuntijoita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njálmmálaš gieđahallamis gullet dávjá maid vihtaniid ja áššedovdiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päätöksen tekee hallinto-oikeudessa tavallisesti kolme tuomaria esittelijän laatiman ehdotuksen perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearrádusa dahket hálddahusrievttis dábálaččat golbma duopmára áššemeannudeaddji ráhkadan evttohusa vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eräät oikeudellisesti yksinkertaisemmat asiat voidaan ratkaista pienemmässä kokoonpanossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtumin vuoigatvuođalaččat oktageardáneamos áššiid sáhttá čoavdit uhcit čoahkkáibijus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eräissä asioissa, kuten mielenterveysasioissa ja lastensuojeluasioissa, päätöksen tekemiseen osallistuu lainoppineiden jäsenten lisäksi asiantuntijajäsen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhtin áššiin dego mielladearvvasvuođaáššiin ja mánáidsuodjalanáššiin mearrádusa dahkamii oassálastá láhkaoahppan lahtuid lassin áššedovdilahttu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristönsuojelu- ja vesiasioiden ratkaisuun osallistuu lainoppineiden jäsenten lisäksi luonnontieteen tai tekniikan alan tuomari.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Birasgáhtten- ja čáhceáššiid čoavdimii oassálastá láhkaoahppan lahtuid lassin luonddudiehtaga dehe teknihkalaš suorggi duopmár.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Normaali kokoonpano näissä asioissa on nelijäseninen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáin áššin lea dábálaš njealjilahtosaš čoahkkáibidju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivun alkuun</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Siiddu álgui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulosta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>© 2017 - http://oikeus.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđihančállosa ovdasiidui</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
