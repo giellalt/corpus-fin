@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">oikeusapujaoikeudenkaynninkustannukset.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>«oikeus.fi Tekstiversio</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuoigatvuođaveahkis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>«oikeus.fi Oikeus.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálit dieđihančállosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivukartta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duopmostuolut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeusapu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyttäjälaitos Tuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riekteveahkki ja riektegeavvama golut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleiset tuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráŋggáštusaid ollašuhttin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeudet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duopmostuolut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korkein oikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallinto-oikeudet Korkein hallinto-oikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riekteveahkki ja riektegeavvama golut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityistuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráŋggáštusaid ollašuhttin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuomioistuimet Oikeudenkäynti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riekteveahkki ja riektegeavvama golut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäynnin osapuolella on tuomioistuimessa yleensä lainoppinut oikeudenkäyntiavustaja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektegeavvama oassebeliin lea duopmostuolus dábálaččat láhkaoahppan lágastanveahkki, vaikko láhka ii dan gáibitge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avustajana toimii asianajaja, julkinen oikeusavustaja tai luvan saanut oikeudenkäyntiavustaja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Veahkkin doaibmá ášševuoddji, almmolaš riekteveahkki dahje lobi ožžon riektegeavvanveahkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos jotakuta epäillään vakavasta rikoksesta, hän saa valtion varoilla palkatun puolustajan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juos soames eahpiduvvo roava rihkkosis, de son oažžu stáhta ruđaiguin bálkáhuvvon bealušteaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seksuaalirikoksen, perheväkivallan tai muun väkivaltarikoksen uhri voi saada valtion varoilla palkatun avustajan ja tukihenkilön.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Seksuálarihkkosa, bearašveahkaválddi dahje eará veahkeválderihkkosa gillájeaddji sáhttá oažžut stáhta ruđaiguin bálkáhuvvon veahki ja doarjjaolbmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asianosainen kustantaa itse lainopillisen apunsa, ellei hänelle ole myönnetty oikeusapua tai valtion varoilla palkattua puolustajaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššeoasálaš goasttida ieš juridihkalaš veahkis, juos sutnje ii leat mieđihuvvon riekteveahkki dahje stáhta ruđaiguin bálkáhuvvon bealušteaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääosa kustannuksista muodostuu oikeudenkäyntiavustajan palkkiosta ja todistajille maksettavista korvauksista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldooassi goluin čoggo lágastanveahki bálkkás ja buhtadusain, mat máksojuvvojit vihtaniidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos asianosainen voittaa juttunsa, vastapuoli tavallisesti korvaa hänen oikeudenkäyntikulunsa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juos áššeoasálaš vuoitá áššis, vuostebealli dábálaččat buhtte sutnje lágastangoluid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mutta jos hän häviää jutun, hän joutuu yleensä korvaamaan voittaneelle osapuolelle tämän oikeudenkäyntikulut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muhto juos son vuoittahallá, de son šaddá dábálaččat buhttet vuoitán oassebeallái su lágastangoluid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallinto-oikeudessa edellytyksenä kulujen korvaamiselle on kuitenkin se, että olisi kohtuutonta, jos jutun voittanut osapuoli joutuisi maksamaan kulut itse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahusrievttis eaktun goluid buhttemii lea goittotge dat, ahte livččii govttoheapme, juos ášši vuoitán oassebealli šattašii máksit goluid ieš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asian käsittelystä tuomioistuimessa peritään lisäksi oikeudenkäyntimaksuja, jotka tavallisesti maksaa jutun vireillepanija.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ášši gieđahallamis duopmostuoluin berrojuvvojit dasa lassin lágastanmávssut, maid dábálaččat máksá ášši vuolggaheaddji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallinto-oikeudessa jotkut päätökset ovat maksuttomia ja muissakin päätöksissä maksu peritään vain jos valitus hylätään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahusrievttis muhtin mearrádusat leat nuvttá ja earáge mearrádusain mávssu berret dušše juos váidalus hilgojuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeusavun saaja vapautuu oikeudenkäyntimaksuista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riekteveahki oažžu ii dárbbaš máksit riektegeavvanmávssuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivun alkuun</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Siiddu álgui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulosta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>© 2017 - http://oikeus.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđihančállosa ovdasiidui</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

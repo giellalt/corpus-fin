@@ -1,0 +1,888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">rikosasiankasittelynvaiheet.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>«oikeus.fi Tekstiversio</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus gárttat rihkkosa oaffarin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>«oikeus.fi Oikeus.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálit dieđihančállosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivukartta Laajennettu haku</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus gárttat rihkkosa oaffarin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeusapu Yleinen edunvalvonta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši gieđahallama muttut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Veahkki ja doarjja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yleiset tuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaffara suodjaleapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeudet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buhtadusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korkein oikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuođadieđut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallintotuomioistuimet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus gárttat rihkkosa oaffarin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korkein hallinto-oikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši gieđahallama muttut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vakuutusoikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Veahkki ja doarjja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtakunnanoikeus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaffara suodjaleapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ulosotto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buhtadusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosseuraamus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuođadieđut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasian käsittelyn vaiheet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši gieđahallama muttut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystietoja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusalmmuhus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos joudut rikoksen uhriksi Rikosasian käsittelyn vaiheet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus leat gártan rihkkosa oaffarin, almmut áššis bolesii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoitus on tehtävä mahdollisimman pian, jotta poliisin on helpompi selvittää rikos.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhusa galgá dahkat nu jođánit go vejolaš, vai bolesa lea álkit čielggadit rihkkosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös vahingonkorvauksen saaminen voi edellyttää, että rikosilmoitus on tehty.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái vahátbuhtadusa oažžun sáhttá gáibidit, ahte rihkusalmmuhus lea dahkkojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoituksen voi tehdä rikospaikalle saapuneelle poliisipartiolle, menemällä poliisiasemalle sekä vähäisissä rikoksissa myös internetissä www.poliisi.fi tai puhelimitse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhusa sáhttá dahkat rihkusbáikkis bolesii, bolesstašuvnnas fitnamiin sihke smávit rihkkosiin maiddái interneahtas (www.poliisi.fi) ja telefovnnain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoituksen voi tehdä millä tahansa poliisiasemalla ja sen voi tehdä myös joku toinen uhrin puolesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhusa sáhttá dahkat man beare bolesstašuvdnii ja dan sáhttá dahkat maiddái soames eará oaffara beales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos rikoksella on todistajia, heidän yhteystietonsa on hyvä ottaa muistiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus rihkkosis lea duođašteaddji, su oktavuođadieđuid lea buorre merket muitui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poliisi kirjaa rikosilmoitukseen tapahtumien kulun sekä asianosaisten ja todistajien henkilötiedot.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boles girje rihkusalmmuhussii dáhpáhusa ovdáneami sihke áššeeaiggáda ja duođašteaddjiid persondieđuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uhrilla on oikeus saada tekemästään rikosilmoituksesta kirjallinen vahvistus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaffaris lea vuoigatvuohta oažžut virggálaš duođaštusa almmuhusas, man lea dahkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos rikoksesta on aiheutunut vammoja, on syytä mennä lääkäriin mahdollisimman pian.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus rihkkosis leat šaddan vahágat, lea buorre mannan doaktára lusa nu jođánit go vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lääkärintodistusta voidaan tarvita oikeudenkäynnissä tai haettaessa korvauksia esimerkiksi vakuutusyhtiöltä tai Valtiokonttorista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaktárduođaštusa sáhttá dárbbašit gearregiin dahje ozadettiin buhtadusa dáhkádusfitnodagas dahje Stáhtakantuvrras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kyse on seksuaalisesta väkivallasta, tulee välttää peseytymistä ja vaatteiden vaihtoa ennen lääkäriin menoa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus jearaldat lea seksuála veahkaválddis, de galgá garvit basadeami ja biktasiid lonuheami ovdal doaktára lusa mannama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kyse on asuntomurrosta, jälkiä ei pidä siivota ennen poliisin tuloa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus jearaldat lea viessogaikumis, luottaid ii galgga čorget ovdalgo boles boahtá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asianomistajarikoksia ovat sellaiset rikokset, jotka poliisi tutkii vain, jos uhri vaatii tekijälle rangaistusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššeeaiggátrihkkosat leat dakkár rihkkosat, maid boles dutká dušše dalle, jus oaffar gáibida dahkkái ráŋggáštusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaisia ovat muun muassa näpistys ja vahingonteko.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dákkárat leat earret eará suoládeapmi ja vahága dahkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos asianomistajarikoksen uhri muuttaa mielensä eikä haluakaan tekijälle rangaistusta, poliisi lopettaa jo aloittamansa tutkinnan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus áššeeaiggátrihkkosa oaffar nuppástuhttá oaivilis iige hálitge dahkkái ráŋggáštusa, boles heaittiha dutkama, man lea jo álggahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosta selvittäessään poliisi kysyy, vaatiiko uhri rikoksen tekijälle rangaistusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkkosa čielggadettiin boles jearrá, gáibidago oaffar rihkkosa dahkkái ráŋggáštusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos uhri tässä vaiheessa ilmoittaa, ettei vaadi rangaistusta tai myöhemmin peruu jo esittämänsä vaatimuksen, hän voi menettää oikeutensa syytteen nostamiseen myöhemmin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus oaffar dán muttus almmuha, ahte ii gáibit ráŋggáštusa dahje maŋŋelis geassá eret gáibádusas, son sáhttá manahit rievtti sivahusa čuoččáldahttimii maŋŋelis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä on tärkeää tietää siltä varalta, että syyttäjä päättää jättää asiasta syytteen nostamatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát lea dehálaš diehtit dan váras, ahte sivaheaddji mearrida guođđit čuoččáldahttimis ášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin osa rikoksista on virallisen syytteen alaisia rikoksia, jotka poliisi tutkii aina niistä tiedon saatuaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuorámus oassi rihkkosiin leat virggálaš sivahusa vuollásaš rihkkosat, maid boles dutká álo go oažžu dieđu dain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi pahoinpitelyt ja raiskaukset ovat virallisen syytteen alaisia rikoksia myös silloin, kun ne ovat tapahtuneet kotona tai tekijänä on perheenjäsen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkan illásteamit ja nissonrihpamat lea virggálaš sivahusa vuollásaš rihkkosat maiddái dalle, go dat leat dáhpáhuvvan ruovttus ja dahkki lea bearraša lahttu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lieväkin lähisuhteessa tapahtunut väkivalta on virallisen syytteen alainen rikos.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láivvesge lagašgaskavuođas dáhpáhuvvan illásteapmi lea virggálaš sivahusa vuollásaš rihkus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoitus poliisille antaa viranomaisille mahdollisuuden puuttua väkivaltaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Almmuhus bolesii addá virgeoapmahaččaide vejolašvuođa seahkanit illásteapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitutkinta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdadutkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poliisin on toimitettava esitutkinta, jos on syytä epäillä, että on tapahtunut rikos.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boles galgá doaimmahit, mas lea ágga eahpidit, ahte lea dáhpáhuvvan rihkus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitutkinnassa poliisi selvittää, mitä on tapahtunut, ketkä ovat asian osapuolet sekä mitkä ovat rikoksen aiheuttamat vahingot.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdadutkamis boles čielggada, mii lea dáhpáhuvvan, geat leat ášši oassebealit ja mat leat rihkkosa mielddisbuktán vahágat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos poliisi ei toimita esitutkintaa, rikoksen uhrille on ilmoitettava siitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus boles ii doaimmat ovdadutkama, rihkkosa oaffarii galgá almmuhit das.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poliisi kutsuu rikoksen uhrin asianomistajana tarvittaessa kuulusteluun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Boles gohčču rihkkosa oaffara áššeoamasteaddjin dárbbu mielde jearadeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuulustelun ajankohta ei sovi, uudesta ajasta voi keskustella asiaa tutkivan poliisin kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus jearadeami áigi ii heive, ođđa áiggis sáhttá ráđđádallat bolesiin, guhte dutká ášši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksinkertaisissa ja selvissä asioissa poliisi voi kuulustella myös puhelimitse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktageardán ja čielga áššiin boles sáhttá jearadit maiddái telefovnna bokte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kertoessaan rikoksesta kuulustelussa uhrin täytyy puhua ehdottomasti totta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go muitala rihkkosis jearadeamis de oaffar galgá eavttoheamet hállat duođa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuulustelujen jälkeen tulee mieleen jotain asiaan liittyvää, on syytä ottaa yhteyttä poliisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus jearadeami maŋŋá boahtá millii juoga áššái gullevaš, de lea buorre váldit oktavuođa bolesii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun esitutkintapöytäkirja on valmistunut, poliisi lähettää sen syyttäjälle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go ovdadutkanbeavdegirji lea gárvvis, boles sádde dan sivaheaddjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uhrilla asianomistajana, samoin kuin rikoksesta epäillyllä, on oikeus saada pöytäkirjasta maksutta kopio.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaffaris áššeoamasteaddjin, seammá go rihkkosis eahpiduvvon olbmos, lea vuoigatvuohta oažžut beavdegirjjis nuvttá kopiija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos uhri ei halua yhteystietojensa joutuvan epäillyn tietoon, hän voi kieltää niiden merkitsemisen pöytäkirjaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus oaffar ii hálit oktavuođadieđuid eahpiduvvon olbmo dihtui, son sáhttá gieldit merkemis daid beavdegirjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lievissä tapauksissa, esimerkiksi näpistyksessä ja lievässä pahoinpitelyssä, poliisi voi asianomistajan suostumuksella antaa epäillylle sakon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láivves dáhpáhusain, ovdamearkan livkaleamis ja láivves illásteamis, boles sáhttá áššeoamasteaddji lobiin addit eahpiduvvon olbmui sáhku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin esitutkintapöytäkirjaa ei välttämättä laadita.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle ovdadutkanbeavdegirji ii vealttakeahttá gárvvistuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos uhri antaa suostumuksensa sakkomenettelyyn, asiaa ei käsitellä oikeudessa eikä syyttäjä voi vaatia uhrin puolesta vahingonkorvausta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus oaffar addá miehtama sáhkkomeannudeapmái, ášši ii gieđahallo gearregiin iige sivaheaddji sáhte gáibidit oaffara beales vahátbuhtadusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikoksen tekijä on velvollinen korvaamaan aiheuttamansa vahingot.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkkosa dahkki lea geatnegahtton buhttet vahága man lea dagahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vahingoista sekä siitä, vaatiiko uhri tekijältä korvauksia, on ilmoitettava esitutkinnassa tai viimeistään tuomioistuimelle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vahágiin ja das, gáibidago oaffar dahkkis buhtadusa, galgá almmuhit ovdadutkamis dahje maŋimustá duopmostullui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korvausta voi vaatia esimerkiksi rikkoutuneesta tai kadonneesta omaisuudesta, lääke- ja lääkärinkuluista sekä väkivallan aiheuttamasta kivusta ja särystä sekä joissakin tapauksissa henkisestä kärsimyksestä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buhtadusa sáhttá gáibidit billašuvvan dahje láhppon opmodagas, dálkkas- ja doavttirgoluin, sihke illásteamis šaddan bákčasis ja muhtun dáhpáhusain maiddái vuoiŋŋalaš gillámis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vahingon määrän voi osoittaa esittämällä kuitit niistä menoista, joita rikos on aiheuttanut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vahága meari sáhttá čujuhit go čájeha kuittiid daid goluin, maid rihkus lea mielddisbuktán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös vakuutuksen omavastuuosuudesta sekä asian selvittämiseen liittyvistä mahdollisista matkakuluista on säilytettävä tositteet, sillä niistä voi vaatia korvausta rikoksen tekijältä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái dáhkádusa iežas vástidanoasis ja ášši čielggadeapmái gullevaš vejolaš mátkegoluin galgá seailluhit duođaštusaid, go dalle dain sáhttá gáibidit buhtadusa rihkkosa dahkkis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyttäjä voi esittää rikoksen uhrin korvausvaatimuksen oikeudessa, mikäli se on selvä ja perusteltu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sivaheaddji sáhttá evttohit rihkkosa oaffara buhtadusgáibádusa gearregiin, jus dat lea čielggas ja dasa leat ákkat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos uhri haluaa syyttäjän esittävän korvausvaatimuksen, asiasta on hyvä ilmoittaa jo poliisille esitutkinnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus oaffar háliida sivaheaddji buktit ovdan buhtadusgáibádusa, áššis lea buorre almmuhit bolesii jo ovdadutkamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos syyttäjä ei esitä korvausvaatimusta, hänen on ilmoitettava siitä uhrille kirjallisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus sivaheaddji ii buvtte ovdan buhtadusgáibádusa, son galgá almmuhit das oaffarii girjjálaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin uhri voi itse esittää vaatimuksen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle oaffar sáhttá ieš ovdanbuktit gáibádusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tehtävän voi uhrin puolesta hoitaa myös oikeudellinen avustaja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán sáhttá oaffara beales dikšut maiddái vuoigatvuođalaš veahkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syyteharkinta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sivahusárvvoštallan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun syyttäjä on saanut poliisilta esitutkintapöytäkirjan, hän päättää syytteen nostamisesta eli siitä, viedäänkö asia tuomioistuimen käsiteltäväksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Go sivaheaddji lea ožžon bolesis ovdadutkanbeavdegirjji, son mearrida sivahusa álggaheamis dahjege das, dolvojuvvogo ášši duopmostuolu gieđahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos rikoksesta ei esimerkiksi ole näyttöä, rikos on vähäinen tai asiassa on tehty sovinto, syyttäjä voi jättää syytteen nostamatta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus rihkkosa eai bastte čájehit, rihkus lea láivi dahje áššis lea dahkkon soabadallan, sivaheaddji sáhttá guođđit álggatkeahttá sivahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uhrilla on oikeus saada tieto syyttäjän päätöksestä olla nostamatta syytettä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaffaris lea vuoigatvuohta oažžut dieđu mearrádusa leat álggatkeahttá sivahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos uhri on jo esitutkinnassa ilmoittanut vaativansa rangaistusta, hän voi nostaa syytteen itse, jos syyttäjä ei nosta syytettä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus oaffar lea jo ovdadutkamis álmmuhan gáibidit ráŋggáštusa, son sáhttá álggahit áššis sivahusa, jus sivaheaddji ii dan daga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasioita voidaan sovitella, jos sekä uhri että epäilty suostuvat siihen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusáššiid sáhttá soabadallat, jus sihke oaffar ja eahpiduvvon miehtaba dasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi edellytetään, että epäilty vahvistaa tapahtumainkulun pääasialliset seikat ja että sovittelu on uhrin edun mukaista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassin gáibiduvvo, ahte eahpiduvvon nanne dáhpáhusaid ovdáneami váldoáššiid ja ahte soabadallan lea oaffara ovddu mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sovittelu on maksutonta ja aina vapaaehtoista, ja sen voi myös halutessaan lopettaa kesken missä vaiheessa tahansa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soabadallan lea nuvttá ja álo eaktodáhtolaš, ja dan sáhttá háliidettiin loahpahit gaskan man beare muttus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutetut, vapaaehtoiset sovittelijat ohjaavat rikosasian osapuolia keskustelemaan tapahtuneesta ja sopimaan rikoksesta aiheutuneiden vahinkojen korvaamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skuvlejuvvon, eaktodáhtolaš soabadallit láidejit rihkusášši oassebeliid ráđđádallat dáhpáhuvvan áššis ja soahpat rihkkosis šaddan vahágiid buhttemis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sovittelijat auttavat osapuolia myös sopimuksen laadinnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soabadallit veahkehit oassebeliid maiddái soahpamuša gárvvisteamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sovittelun tulos voi olla esimerkiksi anteeksipyyntö, käyttäytymissopimus, rahallinen korvaus tai työkorvaus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soabadallama boađus sáhttá leat ovdamearkan ándagassii átnun, láhttensoahpamuš, ruđalaš buhtadus dahje bargobuhtadus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli osapuolet pääsevät sopimukseen, sopimus laaditaan kirjallisena, ja sovittelutoimisto seuraa sopimuksen täyttymistä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus oassebealit besset soahpamuššii, soahpamuš gárvvistuvvo girjjálaččat, ja soabadallandoaimmahat čuovvut soahpamuša ollašuvvama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sovittelutoimisto ilmoittaa sovittelun lopputuloksesta poliisille ja syyttäjälle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soabadallandoaimmahat almmuha soabadallama bohtosis bolesii ja sivaheaddjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rikosasia voidaan käsitellä tuomioistuimessa, vaikka tapaus olisikin soviteltu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rihkusášši sáhttá gieđahallat duopmostuolus, vaikke dáhpáhus livččege soabadallon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sovittelusta saa lisätietoja esimerkiksi poliisilta, paikallisista sovittelutoimistoista sekä Terveyden ja hyvinvoinnin laitokselta www.thl.fi/sovittelu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Soabadallamis oažžu lassidieđuid ovdamearkan bolesis, báikkálaš soabadallandoaimmahagain ja Terveyden ja hyvinvoinnin laitos:is (Dearvvašvuođa ja buresbirgejumi lágádus), (www.thl.fi/sovittelu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäynti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearregat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäynnissä asianosaisia ovat asianomistajana olevan uhrin lisäksi syyttäjä ja syytetty.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearregiin áššeoasálaččat leat áššeoamasteaddji oaffara lassin sivaheaddji ja sivahuvvon olmmoš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeus kutsuu yleensä kaikki asianosaiset sekä todistajat oikeudenkäyntiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearretriekti gohčču dábálaččat buot áššeoasálaččaid ja duođašteaddjiid gearregiidda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutsusta ilmenee, pitääkö käsittelyssä olla läsnä henkilökohtaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gohččumis boahtá ovdan, galgágo gieđahallamis leat mielde persovnnalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeudenkäyntiä voidaan joutua siirtämään, jos joku paikalle henkilökohtaisesti kutsutuista puuttuu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearregiid sáhttá gártat sirdit, jus soames báikki ala gohččojuvvon olbmuin ii leat persovnnalaččat mielde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aikatauluista ja muista oikeudenkäyntiin liittyvistä käytännön asioista voi ennen oikeudenkäyntiä keskustella käräjäoikeuden henkilökunnan sekä syyttäjän tai hänen sihteerinsä kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áigetávvaliin ja eará gearregiidda gullevaš geavatlaš áššiin sáhttá ovdal gearregiid ráđđádallat gearretrievtti bargoveagain dahje sivaheaddjiin dahje su čálliin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeuden istunnot ovat yleisölle avoimia, mutta tuomioistuin voi esimerkiksi seksuaalirikosasioissa käsitellä asian osittain tai kokonaan ilman yleisöä eli suljetuin ovin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearretčoakkánat leat álbmogii rabas dilálašvuođat, muhto duopmostuollu sáhttá ovdamearkan seksuálarihkkosiin gieđahallat ášši muhtun oassái dahje oalát almmá álbmoga dahjege giddejuvvon uvssaid duohken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tätä voi pyytää käräjätuomarilta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dán sáhttá bivdit gearretduopmáris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos oikeus velvoittaa uhrin henkilökohtaisesti saapumaan istuntoon, hänelle maksetaan päivärahaa sekä korvaus matkakuluista ja menetetyistä ansioista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus riekti geatnegahttá oaffara boahtit persovnnalaččat čoakkánii, sutnje máksojuvvo beaiveruhta ja buhtadus mátkegoluin ja massojuvvon ánssus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos istunnosta jää pois ilman laillista estettä, tuomioistuin voi määrätä sakon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus čoakkánis báhcá eret almmá lágalaš eastaga, duopmostuollu sáhttá mearridit sáhku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laillinen este on esimerkiksi paikalle saapumisen estävä sairaus, joka on myöhemmin todistettava lääkärintodistuksella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lágalaš eastta lea ovdamearkan buohcuvuohta mii eastá boahtimis báikki ala, ja man maŋŋelis galgá bastit duođaštit doaktárduođaštusain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esteestä on ilmoitettava tuomioistuimeen mahdollisimman varhaisessa vaiheessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eastagis galgá almmuhit duopmostullui nu jođánit go vejolaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osa rikosjutuista voidaan käsitellä käräjäoikeudessa pelkästään kirjallisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oassi rihkusáššiin sáhttá gieđahallot gearretrievttis dušše girjjálaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällöin tuomari ratkaisee asian kirjallisen aineiston perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dalle duopmár mearrida áššis girjjálaš materiála vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suullista oikeudenkäyntiä ei järjestetä eikä asian osapuolia kutsuta tuomioistuimeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Njálmmálaš riektegeavvan ii ordnejuvvo eaige ášši oassebealit bovdejuvvo duopmostullui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisessa menettelyssä voidaan käsitellä useimmat lievät ja tavalliset rikokset.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Girjjálaš meannudeamis sáhttá gieđahallat máŋggaid láivves ja dábálaš rihkkosiid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Edellytyksenä on, että vastaaja on tunnustanut teon ja suostuu kirjalliseen menettelyyn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eaktun lea, ahte vástideaddji lea dovddastan dagu ja miehtá girjjálaš meannudeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös rikoksen uhrilta on saatava suostumus kirjalliseen menettelyyn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maiddái rihkkosa oaffaris galgá oažžut miehtama girjjálaš meannudeapmái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uhri saa myös kirjallisessa menettelyssä tuoda esiin omat korvausvaatimuksensa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oaffar oažžu maiddái girjjálaš meannudeamis buktit ovdan iežas buhtadusgáibádusas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä tapahtuu kirjallisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dát dáhpáhuvvá girjjálaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietoa oikeudenkäynnistä saa esimerkiksi internetistä osoitteesta www.oikeus.fi, oikeusministeriön Rikosjutun käsittely käräjäoikeudessa -esitteestä, joka löytyy oikeus.fi -sivustolta sekä poliisin sivuilta www.poliisi.fi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđu gearregiin oažžu ovdamearkan interneahtas čujuhusas www.oikeus.fi, vuoigatvuođaministeriija Rihkusášši gieđahallan gearretrievttis -brošyras, mii gávdno oikeus.fi -siidduin ja bolesa siidduin www.poliisi.fi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuomio ja siitä valittaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duopmu ja das váidaleapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeus julistaa tuomion heti istunnon jälkeen tai se ilmoittaa, milloin tuomio annetaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearretriekti almmuhusa duomu seammás čoakkána maŋŋá dahje dat almmuha, goas dat addojuvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisessa menettelyssä käräjäoikeus lähettää tuomion jutun osapuolille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Girjjálaš meannudeamis gearretriekti sádde duomu ášši oassebeliide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käräjäoikeuden tuomiosta voi valittaa hovioikeuteen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gearretrievtti duomus sáhttá váidalit hoavvariektái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääsääntöisesti tarvitaan jatkokäsittelylupa, jotta hovioikeus ottaisi asian täysimittaiseen käsittelyyn.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dábálaččat dárbbašit joatkkagieđahallanlobi, vai hoavvariekti sáhtašii váldit ášši ollislaš gieđahallamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on tyytymätön tuomioon, siitä on ilmoitettava käräjäoikeuteen viikon kuluessa tuomiosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jus lea duhtameahttun, das galgá almmuhit gearretriektái vahku siste duomu addimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valituskirjelmä on jätettävä käräjäoikeudelle 30 päivän kuluessa tuomiosta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váiddareivve galgá guođđit gearretriektái 30 beaivvi siste duomu addimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjeet valituksen tekemisestä ovat liitteenä käräjäoikeuden tuomiossa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rávvagiid váidaga dahkamis leat mielddusin gearretrievtti duomus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivun alkuun</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Siiddu álgui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulosta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čálit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>© 2017 - http://oikeus.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđihančállosa ovdasiidui</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
