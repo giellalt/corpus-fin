@@ -8,7 +8,7 @@
       <unknown/>
     </author>
     <year>2014</year>
-    <wordcount>352</wordcount>
+    <wordcount>195</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <license type="standard"/>
@@ -39,63 +39,7 @@
     <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>«  oikeus.fi Tekstiversio</p>
-    <p xml:lang="nno">Suomeksi - På svenska - In English - Sámegillii</p>
-    <p xml:lang="sma">A / A</p>
-    <p>«  oikeus.fi</p>
-    <p xml:lang="nno">Suomeksi - På svenska - In English - Sámegillii</p>
-    <p type="title">Oikeus.fi</p>
-    <p xml:lang="sma">A-Ö-hakemisto</p>
-    <p>Sivukartta</p>
-    <p>Laajennettu haku</p>
-    <p>Oikeusapu</p>
-    <p>Yleinen edunvalvonta</p>
-    <p>Syyttäjälaitos</p>
-    <p>Tuomioistuimet</p>
-    <p>Yleiset tuomioistuimet</p>
-    <p>Käräjäoikeudet</p>
-    <p xml:lang="dan">Hovioikeudet</p>
-    <p>Korkein oikeus</p>
-    <p>Hallintotuomioistuimet</p>
-    <p>Hallinto-oikeudet</p>
-    <p>Korkein hallinto-oikeus</p>
-    <p>Erityistuomioistuimet</p>
-    <p>Markkinaoikeus</p>
-    <p>Työtuomioistuin</p>
-    <p>Vakuutusoikeus</p>
-    <p>Valtakunnanoikeus</p>
-    <p>Ulosotto</p>
-    <p>Rikosseuraamus</p>
-    <p xml:lang="sma">A-Ö-hakemisto</p>
-    <p>Oikeusapu</p>
-    <p xml:lang="fkv">Tulosta koko esite</p>
-    <p>Oikeusapu</p>
-    <p xml:lang="sms">+</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu</p>
-      <p type="listitem">Mihin asioihin oikeusapua saa</p>
-      <p type="listitem">Mitä oikeusapuun kuuluu</p>
-      <p type="listitem">Miten oikeusapua haetaan</p>
-      <p type="listitem">Millä tuloilla oikeusapua myönnetään ja mitkä menot huomioidaan</p>
-      <p type="listitem">Mitä oikeusapu hakijalle maksaa</p>
-      <p type="listitem">Miten oikeusapupäätöksestä voi valittaa</p>
-      <p type="listitem">Rikoksesta epäilty voi saada puolustajan</p>
-      <p type="listitem">Rikoksen uhri voi saada avustajan ja tukihenkilön</p>
-      <p type="listitem">Kuka kukin on</p>
-    </list>
     <p type="title">Oikeusapu</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu</p>
-      <p type="listitem">Mihin asioihin oikeusapua saa</p>
-      <p type="listitem">Mitä oikeusapuun kuuluu</p>
-      <p type="listitem">Miten oikeusapua haetaan</p>
-      <p type="listitem">Millä tuloilla oikeusapua myönnetään ja mitkä menot huomioidaan</p>
-      <p type="listitem">Mitä oikeusapu hakijalle maksaa</p>
-      <p type="listitem">Miten oikeusapupäätöksestä voi valittaa</p>
-      <p type="listitem">Rikoksesta epäilty voi saada puolustajan</p>
-      <p type="listitem">Rikoksen uhri voi saada avustajan ja tukihenkilön</p>
-      <p type="listitem">Kuka kukin on</p>
-    </list>
     <p type="title">Mitä oikeusapuun kuuluu</p>
     <p>Asian laatu ja merkitys vaikuttavat siihen, mitä palveluja oikeusapuun kussakin tapauksessa kuuluu.</p>
     <p type="title">Oikeudenkäyntiasiat</p>
@@ -105,12 +49,5 @@
     <p type="title">Muut asiat</p>
     <p>Oikeusapua voidaan antaa myös asioissa, joita ei viedä tuomioistuimen ratkaistavaksi. Apua voi tarvita jonkin asiakirjan laadinnassa, esimerkiksi perukirjan tai ositussopimuksen tekemisessä. Jossakin oikeudellisessa ongelmassa tarvitaan vain lakimiehen neuvoja. Näissä asioissa oikeusapua antavat julkiset oikeusavustajat. Oikeusavun saaja ei siis voi valita yksityistä avustajaa.</p>
     <p>Muissa kuin tuomioistuimessa käsiteltävissä asioissa oikeusapua voi saada korvauksetta tai omavastuuosuutta vastaan enintään 80 tunnilta asiaa kohti. Lisäksi oikeusavun saaja vapautuu viranomaisten asiakirjamaksuista sekä mahdollisista tulkkaus- ja käännöskuluista.</p>
-    <p>Sivun alkuun</p>
-    <p xml:lang="sms">|</p>
-    <p>Tulosta</p>
-    <p xml:lang="sms">»</p>
-    <p xml:lang="fkv">Muut esitteet</p>
-    <p xml:lang="sms">-   -</p>
-    <p>© 2017 - http://oikeus.fi</p>
   </body>
 </document>

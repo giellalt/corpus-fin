@@ -5,12 +5,12 @@
     <author>
       <unknown/>
     </author>
-    <wordcount>6771</wordcount>
+    <year>2016</year>
+    <wordcount>6275</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <license type="standard"/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.utsjoki.fi/media/Elinkeinotoimi/Hankkeet/12_Loppuraportti_Utsjokimalli.pdf</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -40,714 +40,206 @@
       <em type="bold">Utsjoki malli </em>
     </p>
     <p>Loppuraportti</p>
-    <p xml:lang="sms">1</p>
-    <p xml:lang="sma"><em type="bold">SISÄLLYSLUETTELO </em> </p>
-    <p xml:lang="sma"><em type="bold">JOHDANTO	.....................................................................................................................................................................	3</em>	</p>
-    <p xml:lang="deu"><em type="bold">RAJAKAUPPA	................................................................................................................................................................	5</em>	</p>
-    <p xml:lang="sma"><em type="bold">VIENTITOIMINTA	........................................................................................................................................................	8</em>	</p>
-    <p xml:lang="deu"><em type="bold">RAJATYÖNTEKO	........................................................................................................................................................	11</em>	</p>
-    <p><em type="bold">UTSJOKI	MALLI	..........................................................................................................................................................	13</em>	TOIMENPIDE‐ESITYKSET	...........................................................................................................................................................	15	<em type="italic">Rajakaupan	kehittäminen	tuo	työtä	ja	toimeentuloa	...............................................................................................	16</em>	<em type="italic">Vientitoiminnan	kehittäminen	mahdollistaa	uusien	liiketoimintojen	synnyn	...............................................	16</em>	<em type="italic">Rajatyöskentelyn	kehittäminen	tuo	turvaa	rajankävijöille	....................................................................................	17</em>	<em type="italic">Utsjokimallin	kehittämisen	tehtävät	nivoo	kaiken	yhteen	......................................................................................	17</em>	</p>
-    <p xml:lang="fkv"><em type="bold">LÄHTEET	......................................................................................................................................................................	19</em>	</p>
-    <p><em type="bold">LIITTEET	......................................................................................................................................................................	21</em>	TILASTOT	.....................................................................................................................................................................................	21	<em type="italic">T1:	Norjan	kruunun	kurssin	kehitys	2011‐2015	..........................................................................................................	21</em>	<em type="italic">T2:	Toimipaikat	kunnittain	2007‐2013	...........................................................................................................................	21</em>	<em type="italic">T3:	Vähittäiskaupan	tilastot	Utsjoki	2007‐2014	.........................................................................................................	21</em>	<em type="italic">T4:	Karigasniemen	ja	Nuorgamin	yritysten	liikevaihdon	kehittyminen	2010‐2014	..................................	22</em>	<em type="italic">T5:	Norjan	verkkokaupan	kehittyminen	2012‐2017	.................................................................................................	22</em>	<em type="italic">T6:	Maantieviennin	arvo	Utsjoki	(arvio)	.........................................................................................................................	23</em>	<em type="italic">T7:	Pendelöijät	Utsjoki	1987	–	2013	..................................................................................................................................	23</em>	<em type="italic">T8:	Kruunun	kurssin	vaikutus	ansiotasoon	rajankävijöillä	....................................................................................	23</em>	<em type="italic">T9:	Utsjoen	kunnan	väestönmuutos	...................................................................................................................................	24</em>	<em type="italic">T10:	Kylien	väestönmuutos	2009	‐	2013	.........................................................................................................................	24</em>	<em type="italic">T11:	Väkiluku	ja	kuntien	välinen	nettomuutto	.............................................................................................................	24</em>	RAJANKÄVIJÄ	...............................................................................................................................................................................	25	RAJATYÖNTEKIJÄN	SOSIAALITURVA	(KELA	16.6.2015).....................................................................................................	27	RAJAESTEONGELMIA	RAJATYÖNTEKIJÖILLÄ	...........................................................................................................................	32	</p>
-    <p xml:lang="sms">2</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">JOHDANTO </em>
     </p>
-    <p>Utsjoki on Barentsin alueen keskiössä, ja tarjoaa äärettömän hyvän elinkeinollisen potentiaalin mo</p>
-    <p>nille toimialoille. Finnmarkin alueen työvoimapula tarjoaa utsjokelaisille ammattilaisille oivan</p>
-    <p>mahdollisuuden työllistää itsensä Norjan puolella kuin myös Norjan korkeammasta elintasosta joh</p>
-    <p>tuva hintojen kalleus luo elinkeinollisen potentiaalin Utsjoen kylille tarjota kilpailukykyisen ostos</p>
-    <p>keskuksen Norjassa asuville. Vientitoiminnan kilpailukyky tulee tuotannollisen toiminnan kautta,</p>
-    <p>jossa valmistavan tai kokoavan teollisuuden kustannusten kautta saatava kilpailuetu mahdollistaa</p>
-    <p>kannattavan vientitoiminnan käynnistämisen Norjaan.</p>
-    <p>Utsjoki malli -esiselvityshankkeen ideana oli selvittää, kuinka Utsjokea voidaan vahvistaa vahvana</p>
-    <p>rajakaupan ja raja-alueen lähipalvelukeskuksena, porttina Barentsin alueelle. Pitkän aikavälin visio</p>
-    <p>na on, että Utsjoen kunta on vuonna 2020 vahva ja vetovoimainen lähipalvelu- ja asumiskeskus.</p>
-    <p>Rajakauppa ja vienti, rajan ylittävät toiminnot sekä Norja ja Barents osaaminen ovat kehittymisen</p>
-    <p>avaintekijöitä. Utsjoen kylät ovat houkuttelevia, viihtyisiä ja turvallisia asuinpaikkoja Norjassa</p>
-    <p>työskenteleville ja heidän perheilleen, sekä houkutteleva yritysympäristö kaupan, palveluiden ja</p>
-    <p>pienteollisuuden alan yrityksille.</p>
-    <p>Utsjoki malli on toimintatapa, jossa yrittäjät ja kuntalaiset ottavat itse vastuun omasta kehittämises</p>
-    <p>tään, määrittelevät tavoitteet ja toimenpiteet, jossa kunnan rooli on olla tukevassa osassa, ei vetä</p>
-    <p>vässä. Rajakauppiaat tekevät tiivistä yhteistyötä kehittääkseen Utsjoesta <span type="quote">”kauppakeskuksen”</span> joka</p>
-    <p>kilpailee laadulla ja kokonaisvaltaisella tarjoamalla alhaisemman hinnan sijaan. Kilpailuetuna ei</p>
-    <p>enää ole pelkkä hinta, vaan vetovoimatekijöitä on laajemmin. Uudet älykkäät toimintamallit vähit</p>
-    <p>täiskaupassa luovat vahvaa kysyntää, ja aktiivisella yhteismarkkinoinnilla tavoitellaan laajasti uusia</p>
-    <p>asiakkuuksia. Vientitoiminnan ympärille muodostuu teemallisia klustereita, jotka tarjoavat norjalai</p>
-    <p>sille asiakkuuksille kokonaispaketteja yksittäisten palveluiden sijaan. Verkostoituminen alan toimi</p>
-    <p>joiden kesken lisää tietoisuutta toisten osaamisesta ja systemoitu toimintamalli lisää luottamusta</p>
-    <p>asiakaskentässä. Toiminta rakennetaan järjestelmäpohjaiseksi, joka takaa sen skaalautuvuuden ja</p>
-    <p>tulevaisuudessa mahdollistaa uusien toimijoiden integroitumisen vaivattomasti mukaan. Rajan yli</p>
-    <p>työskentelyn osalta suurimmat esteet on saatu karsittua ja rajankävijöiden osalta työnteko Norjaan</p>
-    <p>lähenee kotimaisen palkkatyön byrokraattisuutta.</p>
-    <p xml:lang="sms">3</p>
-    <p>Utsjoki mallissa Utsjoen kuntaan muodostuu kolme tasavahvaa kyläaluetta omine vahvuuksineen.</p>
-    <p>Kylät kehittyvät elinkeinotoiminnan kautta, joka mahdollistaa nuorille työpaikkoja, sekä jo kunnas</p>
-    <p>ta poismuuttaneille mahdollisuuden palata synnyinseuduilleen. Tämä tuo kunnallistalouteen merkit</p>
-    <p>tävissä määrin verotuloja, joka pienentää riippuvuutta valtionosuuksista kunnan toimintojen ylläpi</p>
-    <p>tämiseen ja kehittämiseen.</p>
-    <p>Utsjoen kylien lähipalvelukeskusten kehittymisen esteenä on ainoastaan oma tahtotila, joka pitää</p>
-    <p>saada kehittämissuuntautuneeksi. Maailma muuttuu, jolloin myös meidän on muututtava. Kyläalu</p>
-    <p>eista voidaan luoda yhdessä viihtyisiä paikkoja elää, joissa on saatavilla peruspalvelut ja työtä toi</p>
-    <p>meentulon takaamiseksi. Näin pidämme kunnan elinvoimaisena, ja mahdollisuuden ylläpitää meille</p>
-    <p>tärkeitä asioita.</p>
-    <p>Utsjoki malli on tekemisen kautta muodostuvaa ansaintaa, joka parantaa kuntalaisten elinoloja. Ak</p>
-    <p>tivoinnin ja hankkeistamisen kautta olemassa olevien elinkeinojen kannattavuus paranee, ja liike</p>
-    <p>toiminnan volyymit kasvavat. Kasvava työvoimatarve tarvitsee uutta asuntokantaa, ja yritykset lii</p>
-    <p>kehuoneistoja. Edunvalvonnalla varmistetaan erilaisten ryhmien etuja, ja turvataan kunnan omia</p>
-    <p>4 uhkia. Elinkeinojen ekosysteemien kautta toimialat lähenevät toisiaan, ja luonnolliset risteymät löy</p>
-    <p>tyvät jotka käännetään vahvuuksiksi. Tätä on Utsjoki malli.<em type="bold"> </em></p>
-    <p xml:lang="deu">
+    <p>Utsjoki on Barentsin alueen keskiössä, ja tarjoaa äärettömän hyvän elinkeinollisen potentiaalin monille toimialoille. Finnmarkin alueen työvoimapula tarjoaa utsjokelaisille ammattilaisille oivan mahdollisuuden työllistää itsensä Norjan puolella kuin myös Norjan korkeammasta elintasosta joh</p>
+    <p>tuva hintojen kalleus luo elinkeinollisen potentiaalin Utsjoen kylille tarjota kilpailukykyisen ostoskeskuksen Norjassa asuville. Vientitoiminnan kilpailukyky tulee tuotannollisen toiminnan kautta, jossa valmistavan tai kokoavan teollisuuden kustannusten kautta saatava kilpailuetu mahdollistaa kannattavan vientitoiminnan käynnistämisen Norjaan.</p>
+    <p>Utsjoki malli -esiselvityshankkeen ideana oli selvittää, kuinka Utsjokea voidaan vahvistaa vahvana rajakaupan ja raja-alueen lähipalvelukeskuksena, porttina Barentsin alueelle. Pitkän aikavälin visiona on, että Utsjoen kunta on vuonna 2020 vahva ja vetovoimainen lähipalvelu- ja asumiskeskus. Rajakauppa ja vienti, rajan ylittävät toiminnot sekä Norja ja Barents osaaminen ovat kehittymisen avaintekijöitä. Utsjoen kylät ovat houkuttelevia, viihtyisiä ja turvallisia asuinpaikkoja Norjassa työskenteleville ja heidän perheilleen, sekä houkutteleva yritysympäristö kaupan, palveluiden ja pienteollisuuden alan yrityksille.</p>
+    <p>Utsjoki malli on toimintatapa, jossa yrittäjät ja kuntalaiset ottavat itse vastuun omasta kehittämisestään, määrittelevät tavoitteet ja toimenpiteet, jossa kunnan rooli on olla tukevassa osassa, ei vetävässä. Rajakauppiaat tekevät tiivistä yhteistyötä kehittääkseen Utsjoesta <span type="quote">”kauppakeskuksen”</span> joka kilpailee laadulla ja kokonaisvaltaisella tarjoamalla alhaisemman hinnan sijaan. Kilpailuetuna ei enää ole pelkkä hinta, vaan vetovoimatekijöitä on laajemmin. Uudet älykkäät toimintamallit vähittäiskaupassa luovat vahvaa kysyntää, ja aktiivisella yhteismarkkinoinnilla tavoitellaan laajasti uusia asiakkuuksia. Vientitoiminnan ympärille muodostuu teemallisia klustereita, jotka tarjoavat norjalaisille asiakkuuksille kokonaispaketteja yksittäisten palveluiden sijaan. Verkostoituminen alan toimijoiden kesken lisää tietoisuutta toisten osaamisesta ja systemoitu toimintamalli lisää luottamusta</p>
+    <p>asiakaskentässä. Toiminta rakennetaan järjestelmäpohjaiseksi, joka takaa sen skaalautuvuuden ja tulevaisuudessa mahdollistaa uusien toimijoiden integroitumisen vaivattomasti mukaan. Rajan yli työskentelyn osalta suurimmat esteet on saatu karsittua ja rajankävijöiden osalta työnteko Norjaan lähenee kotimaisen palkkatyön byrokraattisuutta.</p>
+    <p>Utsjoki mallissa Utsjoen kuntaan muodostuu kolme tasavahvaa kyläaluetta omine vahvuuksineen. Kylät kehittyvät elinkeinotoiminnan kautta, joka mahdollistaa nuorille työpaikkoja, sekä jo kunnasta poismuuttaneille mahdollisuuden palata synnyinseuduilleen. Tämä tuo kunnallistalouteen merkittävissä määrin verotuloja, joka pienentää riippuvuutta valtionosuuksista kunnan toimintojen ylläpitämiseen ja kehittämiseen.</p>
+    <p>Utsjoen kylien lähipalvelukeskusten kehittymisen esteenä on ainoastaan oma tahtotila, joka pitää saada kehittämissuuntautuneeksi. Maailma muuttuu, jolloin myös meidän on muututtava. Kyläalueista voidaan luoda yhdessä viihtyisiä paikkoja elää, joissa on saatavilla peruspalvelut ja työtä toimeentulon takaamiseksi. Näin pidämme kunnan elinvoimaisena, ja mahdollisuuden ylläpitää meille tärkeitä asioita.</p>
+    <p>Utsjoki malli on tekemisen kautta muodostuvaa ansaintaa, joka parantaa kuntalaisten elinoloja. Aktivoinnin ja hankkeistamisen kautta olemassa olevien elinkeinojen kannattavuus paranee, ja liiketoiminnan volyymit kasvavat. Kasvava työvoimatarve tarvitsee uutta asuntokantaa, ja yritykset liikehuoneistoja. Edunvalvonnalla varmistetaan erilaisten ryhmien etuja, ja turvataan kunnan omia uhkia. Elinkeinojen ekosysteemien kautta toimialat lähenevät toisiaan, ja luonnolliset risteymät löytyvät jotka käännetään vahvuuksiksi. Tätä on Utsjoki malli.<em type="bold"> </em></p>
+    <p>
       <em type="bold">RAJAKAUPPA </em>
     </p>
-    <p>Tilastokeskuksen toimipaikkarekisteri Utsjoen kunnan osalta osoittaa, että kunnassa oli 2014 123</p>
-    <p>toimipaikkaa, joiden kokonaisliikevaihto oli hieman yli 42 miljoonaa euroa. Henkilöstöä näissä</p>
-    <p>toimipaikoissa oli 178 henkeä, ja toimipaikkojen määrä on kasvanut vuositasolla useita prosentteja.</p>
-    <p>Vähittäiskaupan osuus tästä liikevaihdosta on vuoden 2014 osalta ollut yli 30 miljoonaa euroa, työl</p>
-    <p>listäen 72 henkilöä. Tämä tarkoittaa, että vähittäiskaupan kautta muodostuu koko kunnan elinkei</p>
-    <p>noelämän liikevaihdosta noin 73% sekä toimipaikkojen henkilöstön osalta työllistää 40% henkilös</p>
-    <p>töstä. Nämä luvut osoittavat vähittäiskaupan merkittävyyden kunnan elinkeinoelämälle, sekä alueta</p>
-    <p>louteen jäävälle varallisuudelle ansiotulojen verotuksen kautta. Muu kunnan elinkeinotoiminta on</p>
-    <p>pääsääntöisesti pienimuotoista itsensä työllistämistä, mutta erityisen tärkeässä asemassa. Muiden</p>
-    <p>kuin vähittäiskaupan toimipaikkojen määrä on Utsjoella 106, kuten myös henkilöstön määrä.</p>
+    <p>Tilastokeskuksen toimipaikkarekisteri Utsjoen kunnan osalta osoittaa, että kunnassa oli 2014 123 toimipaikkaa, joiden kokonaisliikevaihto oli hieman yli 42 miljoonaa euroa. Henkilöstöä näissä toimipaikoissa oli 178 henkeä, ja toimipaikkojen määrä on kasvanut vuositasolla useita prosentteja. Vähittäiskaupan osuus tästä liikevaihdosta on vuoden 2014 osalta ollut yli 30 miljoonaa euroa, työllistäen 72 henkilöä. Tämä tarkoittaa, että vähittäiskaupan kautta muodostuu koko kunnan elinkeinoelämän liikevaihdosta noin 73% sekä toimipaikkojen henkilöstön osalta työllistää 40% henkilöstöstä. Nämä luvut osoittavat vähittäiskaupan merkittävyyden kunnan elinkeinoelämälle, sekä aluetalouteen jäävälle varallisuudelle ansiotulojen verotuksen kautta. Muu kunnan elinkeinotoiminta on pääsääntöisesti pienimuotoista itsensä työllistämistä, mutta erityisen tärkeässä asemassa. Muiden kuin vähittäiskaupan toimipaikkojen määrä on Utsjoella 106, kuten myös henkilöstön määrä.</p>
     <p>Rajakauppaa harjoittavien yritysten, joiden tilinpäätöstiedot ovat julkisia, toiminta on vuosien 2011</p>
     <p type="listitem">- 2014 välisten tilikausien aikana kasvanut merkittävästi. Karigasniemen ja Nuorgamin välillä ei ole</p>
-    <p>keskiarvollisesti juurikaan heittoa, vaan molempien kylien osalta yritysten liikevaihdot ovat tällä</p>
-    <p>tarkastelujaksolla kasvaneet 40%. Tarkasteltujen kymmenen yrityksen kohdalla ainoastaan yhden</p>
-    <p>yrityksen liikevaihto oli laskenut, muiden koko ajanjakson ajan kasvanut. Yritysten tulostentekoky</p>
-    <p>vyn osalta kasvu ei ole seurannut liikevaihdon kehittymistä, mutta molempien kylien yritysten yh</p>
-    <p>teenlaskettu tuloksentekokyky on ollut keskimäärin 500.000 euroa tilikaudessa sen kasvaessa tili</p>
-    <p>kaudesta 2011 tilikauteen 2014 24%. Tilikausi 2014 on seurantajakson osalta ensimmäinen tilikau</p>
-    <p>si, jossa sekä liikevaihto, että tulos laskivat muihin tilikausiin verrattuna. Tämän selittävänä tekijänä</p>
-    <p>on suurelta osin kruunun kurssin heikentyminen. On kuitenkin huomattava, että tämän tarkasteltu</p>
-    <p>jen yritysten laskun aiheutti yhden yrityksen voimakas sukeltaminen muiden onnistuessa myynnis</p>
-    <p>sään ja tuloksen tekemisessään paremmin.</p>
-    <p>Vähittäiskaupan uskotaan olevan hyvin pitkälti Norjan kruunun kurssin kehittymisen kanssa käsi</p>
-    <p>kädessä. Tätä se toki on, eikä kruunun heikentymisen merkitystä voida väheksyä, mutta toiminnan</p>
-    <p>jatkumisen rakentaminen ainoastaan ulkopuolisen kurssin varaan on hyvin suuririskistä toimintaa.</p>
-    <p>Norjasta löytyy maksukykyistä asiakaskuntaa, joka arvostaa hintojen lisäksi laajaa tavara ja palve</p>
-    <p>luvalikoimaa. Utsjoen vähittäiskaupan kasvu reilussa viidessä vuodessa kymmenellä miljoonalla</p>
-    <p>5 eurolla kutakuinkin samalla yrityskannalla ja henkilöstömäärällä on merkittävä. Näin suureen kas</p>
-    <p>vuun ei vakiintuneilla toimialoilla normaalisti päästä, jolloin yrittäjät ovat tehneet oikeita asioita</p>
-    <p>mahdollistaakseen tämän hypyn.</p>
-    <p>Norjalaisten ostoskäyttäytymistä on tutkittu Enontekiöllä puhelinhaastatteluin, ja niissä todettiin</p>
-    <p>että noin 62 prosenttia lähialueen norjalaisista käy Suomen puolella ostoksilla. Haastatelluista vii</p>
-    <p>koittaisia kävijöitä oli noin 7%, ja kuukausittaisia 18%. Norjalaiset ostosmatkailijat olivat pääsään</p>
-    <p>töisesti tulotasoltaan norjalaiseen keskiluokkaan kuuluvia, jotka tulivat halvempien liha-, alkoholi-</p>
-    <p>ja tupakkatuotteiden houkuttelemana, mutta myös muilla vetovoimatekijöillä on merkityksensä.</p>
-    <p>Palveluvalikoima ja hyvä palvelu nousivat tärkeiksi syiksi tulla ostosmatkalle Suomeen, vaikka</p>
-    <p>puutteita koettiin olevan leipä ja leipomotuotteista, kuten myös vaatetuksen että sisustustarvikkei</p>
-    <p>den osalta. Kodin elektroniikalle olisi myös oma ostajakuntansa, mutta kyselyssä paljastui myös se,</p>
-    <p>että valtaosalle kodin elektroniikalla ei ollut mitään merkitystä.</p>
-    <p>Norjalaiset käyttävät pohjoismaalaisista eniten rajanylittävää verkkokauppaa. Lähes puolet norjalai</p>
-    <p>sista tilasivat verkkokaupasta ulkomailta, ja vähintään kerran viikossa ostoksia tekeviä on noin</p>
-    <p>1.335.000 henkilöä. Kokonaisverkkomyynnin arvo Norjassa on noin 9 miljardia euroa, josta yli</p>
-    <p>puoli miljardia euroa käytetään ostoksiin ulkomaille. Verkkokauppojen tulevaisuus tulee olemaan</p>
-    <p>fyysisten ja digitaalisten kanavien yhdistämisessä (omnichanel), josta suomalainen verkkokaup</p>
-    <p>pa.com on hyvä esimerkki.</p>
+    <p>keskiarvollisesti juurikaan heittoa, vaan molempien kylien osalta yritysten liikevaihdot ovat tällä tarkastelujaksolla kasvaneet 40%. Tarkasteltujen kymmenen yrityksen kohdalla ainoastaan yhden yrityksen liikevaihto oli laskenut, muiden koko ajanjakson ajan kasvanut. Yritysten tulostentekokyvyn osalta kasvu ei ole seurannut liikevaihdon kehittymistä, mutta molempien kylien yritysten yhteenlaskettu tuloksentekokyky on ollut keskimäärin 500.000 euroa tilikaudessa sen kasvaessa tilikaudesta 2011 tilikauteen 2014 24%. Tilikausi 2014 on seurantajakson osalta ensimmäinen tilikausi, jossa sekä liikevaihto, että tulos laskivat muihin tilikausiin verrattuna. Tämän selittävänä tekijänä on suurelta osin kruunun kurssin heikentyminen. On kuitenkin huomattava, että tämän tarkasteltujen yritysten laskun aiheutti yhden yrityksen voimakas sukeltaminen muiden onnistuessa myynnissään ja tuloksen tekemisessään paremmin.</p>
+    <p>Vähittäiskaupan uskotaan olevan hyvin pitkälti Norjan kruunun kurssin kehittymisen kanssa käsi kädessä. Tätä se toki on, eikä kruunun heikentymisen merkitystä voida väheksyä, mutta toiminnan jatkumisen rakentaminen ainoastaan ulkopuolisen kurssin varaan on hyvin suuririskistä toimintaa. Norjasta löytyy maksukykyistä asiakaskuntaa, joka arvostaa hintojen lisäksi laajaa tavara ja palveluvalikoimaa. Utsjoen vähittäiskaupan kasvu reilussa viidessä vuodessa kymmenellä miljoonalla eurolla kutakuinkin samalla yrityskannalla ja henkilöstömäärällä on merkittävä. Näin suureen kasvuun ei vakiintuneilla toimialoilla normaalisti päästä, jolloin yrittäjät ovat tehneet oikeita asioita mahdollistaakseen tämän hypyn.  Norjalaisten ostoskäyttäytymistä on tutkittu Enontekiöllä puhelinhaastatteluin, ja niissä todettiin että noin 62 prosenttia lähialueen norjalaisista käy Suomen puolella ostoksilla. Haastatelluista viikoittaisia kävijöitä oli noin 7%, ja kuukausittaisia 18%. Norjalaiset ostosmatkailijat olivat pääsääntöisesti tulotasoltaan norjalaiseen keskiluokkaan kuuluvia, jotka tulivat halvempien liha-, alkoholi- ja tupakkatuotteiden houkuttelemana, mutta myös muilla vetovoimatekijöillä on merkityksensä. Palveluvalikoima ja hyvä palvelu nousivat tärkeiksi syiksi tulla ostosmatkalle Suomeen, vaikka puutteita koettiin olevan leipä ja leipomotuotteista, kuten myös vaatetuksen että sisustustarvikkeiden osalta. Kodin elektroniikalle olisi myös oma ostajakuntansa, mutta kyselyssä paljastui myös se, että valtaosalle kodin elektroniikalla ei ollut mitään merkitystä.</p>
+    <p>Norjalaiset käyttävät pohjoismaalaisista eniten rajanylittävää verkkokauppaa. Lähes puolet norjalaisista tilasivat verkkokaupasta ulkomailta, ja vähintään kerran viikossa ostoksia tekeviä on noin 1.335.000 henkilöä. Kokonaisverkkomyynnin arvo Norjassa on noin 9 miljardia euroa, josta yli puoli miljardia euroa käytetään ostoksiin ulkomaille. Verkkokauppojen tulevaisuus tulee olemaan fyysisten ja digitaalisten kanavien yhdistämisessä (omnichanel), josta suomalainen verkkokauppa.com on hyvä esimerkki.</p>
     <p>Utsjoki tarjoaa erinomaisen sijaintinsa ja alhaisemman kulutason kautta hyvän mahdollisuuden läh</p>
-    <p>teä tarjoamaan uudenlaisia palveluja sähköisten kanavien kautta norjalaisille. Fyysisen ja digitaali</p>
-    <p>sen myyntikanavan yhdistelmillä on mahdollista luoda perinteiseen vähittäiskauppaan uusia liike</p>
-    <p>toiminnallisia mahdollisuuksia, ja saada uusia asiakkaita asioimaan Utsjoella. Esimerkiksi uudenlai</p>
-    <p>set smartpostit, joissa tuotteet tilataan ja maksetaan Utsjoella, luo kilpailuedun norjalaisiin verkko</p>
-    <p>kauppoihin nähden. Tämä laajentaa myös paikkakuntalaisten palveluvalikoimaa, ja saa norjalaiset</p>
-    <p>asioimaan uudestaan Suomen puolella.</p>
-    <p>Utsjoen rajakaupan pitkän aikavälin menestystekijä tulee olemaan se, löydetäänkö hinnan lisäksi</p>
-    <p>muita kilpailutekijöitä. Vähittäiskaupan osalta perinteiset toimintamallit ovat murtumassa, ja sama</p>
-    <p>kehitys etenee hitaasti myös kohti Utsjokea. On löydettävä uusi tapa toimia kannattavasti, ja kyettä</p>
-    <p>vä tarjoamaan asiakkaille entistä enemmän lisäarvoa. Vetovoimatekijänä halvempi kustannusraken</p>
-    <p>ne on Suomen etuna, mutta muiden kilpailuetujen kehittämistä ei saa unohtaa. Riskien näkökulmas</p>
-    <p>6 ta vähittäiskauppa on pääomia omistettaessa matalan kynnyksen toimiala, ja esimerkiksi norjalaisen</p>
-    <p>toimijan on suhteellisen helppo käynnistää liiketoimintojaan Suomen puolella.</p>
-    <p>Yksin tekemisen yrityskulttuuri on vaihtumassa pikkuhiljaa yhdessä tekemiseksi, Mahdollisuuksien</p>
-    <p>ymmärtäminen, luominen sekä vuorovaikutus ovat avaintaitoja joiden on tarve ylittää toimialarajat</p>
-    <p>tulevaisuudessa. Utsjoen kylien yrittäjien on aika löytää toisensa kumppaneina, ja nähdä yhteisen</p>
-    <p>tekemisen voima. On kaikkien etu, että Utsjoelle saadaan ostosmatkailijoita, jakautuivat heidän</p>
-    <p>ostoksensa sitten kenelle toimijalle tahansa. Toimijoiden erikoistumisen ja palveluvalikoiman kaut</p>
-    <p>ta asiakkuudet löytävät juuri heille sopivimmat kaupat. Sisäinen terve kilpailu on vain hyvästä, kun</p>
-    <p>samaan aikaan nähdään yhteisenä tahtotilana kasvattaa kylän asiakaspotentiaalia yhteistoimin. Täl</p>
-    <p>löin vähemmällä saadaan enemmän, ja lopulta se koituu kaikkien kehittymiseksi.</p>
-    <p>12 teesiä kaupan tulevaisuudelle (Kaupan trendit ja tulevaisuus 2015):</p>
-    <p>1.  Ymmärrä muutoksen luonne ja merkitys omaan liiketoimintaan</p>
-    <p>2.  Pienempiä ja päättävämpiä askelia suurten kertapäätösten sijaan</p>
-    <p>3.  Pysy liikkeessä ja rohkeana</p>
-    <p>4.  Tieto on digitaalisuuden ydin</p>
-    <p>5.  Anna uuden ajan osaajille rohkeasti vastuuta</p>
-    <p>6.  Varmista vahvat perusteet</p>
-    <p>7.  Hio konsepti johdonmukaiseksi jokaisessa kohtaamispisteessä</p>
-    <p>8.  Ole läsnä asiakkaasi arjen kaikissa tilanteissa</p>
-    <p>9.  Kansainvälisyyttä liiketoimintaan ja osaamiseen</p>
-    <p>10. Panosta tutkimus- ja kehittämistoimintaan, itse ja yhteistyössä</p>
-    <p>11. Osallistu aktiivisesti julkiseen keskusteluun</p>
-    <p>12. Satsaa myymälöihin sekä tilaa ja nouda -malliin</p>
-    <p xml:lang="sms">7</p>
-    <p xml:lang="sma">
+    <p>teä tarjoamaan uudenlaisia palveluja sähköisten kanavien kautta norjalaisille. Fyysisen ja digitaalisen myyntikanavan yhdistelmillä on mahdollista luoda perinteiseen vähittäiskauppaan uusia liiketoiminnallisia mahdollisuuksia, ja saada uusia asiakkaita asioimaan Utsjoella. Esimerkiksi uudenlaiset smartpostit, joissa tuotteet tilataan ja maksetaan Utsjoella, luo kilpailuedun norjalaisiin verkkokauppoihin nähden. Tämä laajentaa myös paikkakuntalaisten palveluvalikoimaa, ja saa norjalaiset asioimaan uudestaan Suomen puolella.</p>
+    <p>Utsjoen rajakaupan pitkän aikavälin menestystekijä tulee olemaan se, löydetäänkö hinnan lisäksi muita kilpailutekijöitä. Vähittäiskaupan osalta perinteiset toimintamallit ovat murtumassa, ja sama kehitys etenee hitaasti myös kohti Utsjokea. On löydettävä uusi tapa toimia kannattavasti, ja kyettävä tarjoamaan asiakkaille entistä enemmän lisäarvoa. Vetovoimatekijänä halvempi kustannusrakenne on Suomen etuna, mutta muiden kilpailuetujen kehittämistä ei saa unohtaa. Riskien näkökulmasta vähittäiskauppa on pääomia omistettaessa matalan kynnyksen toimiala, ja esimerkiksi norjalaisen toimijan on suhteellisen helppo käynnistää liiketoimintojaan Suomen puolella.</p>
+    <p>Yksin tekemisen yrityskulttuuri on vaihtumassa pikkuhiljaa yhdessä tekemiseksi, Mahdollisuuksien ymmärtäminen, luominen sekä vuorovaikutus ovat avaintaitoja joiden on tarve ylittää toimialarajat tulevaisuudessa. Utsjoen kylien yrittäjien on aika löytää toisensa kumppaneina, ja nähdä yhteisen tekemisen voima. On kaikkien etu, että Utsjoelle saadaan ostosmatkailijoita, jakautuivat heidän ostoksensa sitten kenelle toimijalle tahansa. Toimijoiden erikoistumisen ja palveluvalikoiman kautta asiakkuudet löytävät juuri heille sopivimmat kaupat. Sisäinen terve kilpailu on vain hyvästä, kun samaan aikaan nähdään yhteisenä tahtotilana kasvattaa kylän asiakaspotentiaalia yhteistoimin. Tällöin vähemmällä saadaan enemmän, ja lopulta se koituu kaikkien kehittymiseksi.</p>
+    <p>12 teesiä kaupan tulevaisuudelle (Kaupan trendit ja tulevaisuus 2015): 1.  Ymmärrä muutoksen luonne ja merkitys omaan liiketoimintaan 2.  Pienempiä ja päättävämpiä askelia suurten kertapäätösten sijaan 3.  Pysy liikkeessä ja rohkeana 4.  Tieto on digitaalisuuden ydin 5.  Anna uuden ajan osaajille rohkeasti vastuuta 6.  Varmista vahvat perusteet 7.  Hio konsepti johdonmukaiseksi jokaisessa kohtaamispisteessä</p>
+    <p>8.  Ole läsnä asiakkaasi arjen kaikissa tilanteissa 9.  Kansainvälisyyttä liiketoimintaan ja osaamiseen 10. Panosta tutkimus- ja kehittämistoimintaan, itse ja yhteistyössä 11. Osallistu aktiivisesti julkiseen keskusteluun 12. Satsaa myymälöihin sekä tilaa ja nouda -malliin</p>
+    <p>
       <em type="bold">VIENTITOIMINTA </em>
     </p>
     <p>Norja on Suomen osalta merkittävä kauppakumppani. Vienti Suomesta Norjaan oli 2014 noin 1,55</p>
-    <p>miljardia euroa, ja tuonti 1,63 miljardia euroa. Viennistä valtaosa tapahtuu maanteitse kolmen poh</p>
-    <p>joisimman kunnan (Utsjoki, Enontekiö, Inari) raja-asemien kautta. Utsjoen osalta tämä tarkoittaa</p>
-    <p>noin 400 miljoonan euron vuosittaista tavaravirtojen läpimenoa kumipyörillä, josta kuntaan ei juu</p>
-    <p>rikaan aiheudu aluetaloudellisia hyötyjä. Suomessa palvelut muodostivat viennistä vuonna 2013</p>
-    <p>21% koko viennin arvosta, josta Norjaan kohdistuva palveluvienti oli kutakuinkin juuri keskiarvon</p>
-    <p>mukainen 300 miljoonaa euroa.</p>
-    <p>Utsjoen yrittäjien osalta tarkkaa määrää vientitoimintaa niin palveluiden kuin tavaroidenkin osalta</p>
-    <p>harjoittavista yrittäjistä ei voida sanoa, mutta yrittäjiä on kuitenkin useampia. Toimialat vaihtelevat</p>
-    <p>suuresti, kuten myös tapa toimia. Verotuksellisesti ulkomailla ammatinharjoittajana toimimisen</p>
-    <p>tulot ilmoitetaan ja verotetaan aina Suomessa, mikäli kiinteän toimipaikan määritelmää ei ulkomail</p>
-    <p xml:lang="smj">le synny.</p>
-    <p>Pohjoinen Suomi tarjoaa Barentsin alueelle mahdollisuuksien kentän kehittyä ja kasvaa. Norjan</p>
-    <p>markkinoiden kilpailuetua ei enää saavuteta työvoimakustannusten kautta, sillä Baltian maat sekä</p>
-    <p>Puola ovat vallanneet Norjan työmarkkinoita halpatyövoimallaan viimeisen kymmenen vuoden</p>
-    <p>aikana. Laatu ja luotettavuus yhdistettynä tehokkaaseen toimintatapaan tulee vientitoimintaa har</p>
-    <p>joittavilla yrityksillä olla jo kilpailukykynä voidakseen lähteä Norjan markkinoille. Suurin kilpai</p>
-    <p>luetu saavutetaan Utsjoella harjoitettavan valmistuksen ja kokoonpanon kautta, jolloin halpatuotan</p>
-    <p>tomaiden kilpailuetu häviää logistiikkakustannuksiin, ja lähituotanto tarjoaa mahdollisuuden lyhy</p>
-    <p>empään vasteeseen. Tämä luo merkittävää potentiaalia Utsjoen alueelle, jossa logistisesti hyvien</p>
-    <p>yhteyksien päässä voidaan luoda pienimuotoisen valmistavan tai kokoonpanevan teollisuuden osalta</p>
-    <p>kokonais- tai osaratkaisuja tarjoavia toimijoita vastamaan Baretsin kysyntään.</p>
-    <p>Vientitoiminnan aloittamisen ja kehittämisen osalta pelkkä tahtotila ei riitä. Kansainvälisille mark</p>
-    <p>kinoille syntyvän yrityksen tie on usein kivikkoinen, ja vaatii runsaasti pääomia. Lainsäädäntö mai</p>
-    <p>den välillä, kieli, kulttuurien poikkeavuudet sekä erilainen ostokäyttäytyminen ovat usein haasteena</p>
-    <p>kansainvälistyvälle yritykselle. Tämän johdosta suin päin säntääminen tuo yleensä jälkikäteen suu</p>
-    <p>ret kulut, jotka voidaan hyvällä etukäteisvalmistelulla välttää.</p>
-    <p xml:lang="sms">8</p>
-    <p>Elinkeinoelämän rajaesteitä tutkittiin vuonna 2014 tutkimuksessa Elinkeinoelämän rajaesteet Poh</p>
-    <p>joiskalotilla, ja havaittiin, että tiedon puute ja sen saaminen, lait ja standardit, tulli ja arvonlisävero</p>
-    <p>sekä kielitaito koettiin haasteellisimmiksi asioiksi vientitoiminnan käynnistämisessä. Selkokielisen</p>
-    <p>tiedon saaminen virkamiehiltä oli haastavaa, jonka lisäksi viranomaisilta sai ristiriitaista informaa</p>
-    <p>tiota. Tämä osoittaa sen, että vientitoiminta kahden maan välillä on haastava, mutta opittavissa ole</p>
-    <p xml:lang="fkv">va asia.</p>
-    <p>Vientitoiminta ei saa olla yritykselle itseisarvo, vaan sen järkevyys ja kannattavuus on tapauskoh</p>
-    <p>taista. Tullaus ja arvonlisäverotus on tärkeä osa yrityksen kokonaisstrategiaa suunniteltaessa vientiä</p>
-    <p>Norjaan. Esimerkkinä koska Norja haluaa aina alv:n, on pelkkää vientitoimintaa harjoittavan mak</p>
-    <p>settava alv rajalla. Asennustöissä on kuuluttava Norjan alv rekisteriin, kuten myös jos ei ole kiinte</p>
-    <p>ää toimipaikkaa, jolloin Norjasta täytyy hankkia alv edustaja. Jos yrittäjällä ei ole valmiuksia toimia</p>
-    <p>vieraassa kulttuurissa ja toimintaympäristössä, monesti parempi vaihtoehto on toimia ensi alkuun</p>
-    <p>palkollisena, ja opiskella siinä yhteydessä toisen maan käytänteet. Yrittäjänä toimiminen toisessa</p>
-    <p>maassa tarkoittaa sitä, että maan erityispiirteet tulee tiedostaa, ja niihin tulee kyetä löytämään rat</p>
-    <p>kaisut. Tämän johdosta usein onkin helpompi, jos kohdemaassa on kumppani, ei asiakas, joka tun</p>
-    <p>tee kohdemaan lainsäädännön ja yrityskulttuurin.</p>
+    <p>miljardia euroa, ja tuonti 1,63 miljardia euroa. Viennistä valtaosa tapahtuu maanteitse kolmen pohjoisimman kunnan (Utsjoki, Enontekiö, Inari) raja-asemien kautta. Utsjoen osalta tämä tarkoittaa noin 400 miljoonan euron vuosittaista tavaravirtojen läpimenoa kumipyörillä, josta kuntaan ei juurikaan aiheudu aluetaloudellisia hyötyjä. Suomessa palvelut muodostivat viennistä vuonna 2013 21% koko viennin arvosta, josta Norjaan kohdistuva palveluvienti oli kutakuinkin juuri keskiarvon mukainen 300 miljoonaa euroa.</p>
+    <p>Utsjoen yrittäjien osalta tarkkaa määrää vientitoimintaa niin palveluiden kuin tavaroidenkin osalta harjoittavista yrittäjistä ei voida sanoa, mutta yrittäjiä on kuitenkin useampia. Toimialat vaihtelevat suuresti, kuten myös tapa toimia. Verotuksellisesti ulkomailla ammatinharjoittajana toimimisen tulot ilmoitetaan ja verotetaan aina Suomessa, mikäli kiinteän toimipaikan määritelmää ei ulkomaille synny.</p>
+    <p>Pohjoinen Suomi tarjoaa Barentsin alueelle mahdollisuuksien kentän kehittyä ja kasvaa. Norjan markkinoiden kilpailuetua ei enää saavuteta työvoimakustannusten kautta, sillä Baltian maat sekä Puola ovat vallanneet Norjan työmarkkinoita halpatyövoimallaan viimeisen kymmenen vuoden aikana. Laatu ja luotettavuus yhdistettynä tehokkaaseen toimintatapaan tulee vientitoimintaa harjoittavilla yrityksillä olla jo kilpailukykynä voidakseen lähteä Norjan markkinoille. Suurin kilpailuetu saavutetaan Utsjoella harjoitettavan valmistuksen ja kokoonpanon kautta, jolloin halpatuotantomaiden kilpailuetu häviää logistiikkakustannuksiin, ja lähituotanto tarjoaa mahdollisuuden lyhy</p>
+    <p>empään vasteeseen. Tämä luo merkittävää potentiaalia Utsjoen alueelle, jossa logistisesti hyvien yhteyksien päässä voidaan luoda pienimuotoisen valmistavan tai kokoonpanevan teollisuuden osalta kokonais- tai osaratkaisuja tarjoavia toimijoita vastamaan Baretsin kysyntään.</p>
+    <p>Vientitoiminnan aloittamisen ja kehittämisen osalta pelkkä tahtotila ei riitä. Kansainvälisille markkinoille syntyvän yrityksen tie on usein kivikkoinen, ja vaatii runsaasti pääomia. Lainsäädäntö maiden välillä, kieli, kulttuurien poikkeavuudet sekä erilainen ostokäyttäytyminen ovat usein haasteena kansainvälistyvälle yritykselle. Tämän johdosta suin päin säntääminen tuo yleensä jälkikäteen suuret kulut, jotka voidaan hyvällä etukäteisvalmistelulla välttää.</p>
+    <p>Elinkeinoelämän rajaesteitä tutkittiin vuonna 2014 tutkimuksessa Elinkeinoelämän rajaesteet Pohjoiskalotilla, ja havaittiin, että tiedon puute ja sen saaminen, lait ja standardit, tulli ja arvonlisävero sekä kielitaito koettiin haasteellisimmiksi asioiksi vientitoiminnan käynnistämisessä. Selkokielisen tiedon saaminen virkamiehiltä oli haastavaa, jonka lisäksi viranomaisilta sai ristiriitaista informaatiota. Tämä osoittaa sen, että vientitoiminta kahden maan välillä on haastava, mutta opittavissa oleva asia.</p>
+    <p>Vientitoiminta ei saa olla yritykselle itseisarvo, vaan sen järkevyys ja kannattavuus on tapauskohtaista. Tullaus ja arvonlisäverotus on tärkeä osa yrityksen kokonaisstrategiaa suunniteltaessa vientiä Norjaan. Esimerkkinä koska Norja haluaa aina alv:n, on pelkkää vientitoimintaa harjoittavan maksettava alv rajalla. Asennustöissä on kuuluttava Norjan alv rekisteriin, kuten myös jos ei ole kiinteää toimipaikkaa, jolloin Norjasta täytyy hankkia alv edustaja. Jos yrittäjällä ei ole valmiuksia toimia vieraassa kulttuurissa ja toimintaympäristössä, monesti parempi vaihtoehto on toimia ensi alkuun palkollisena, ja opiskella siinä yhteydessä toisen maan käytänteet. Yrittäjänä toimiminen toisessa maassa tarkoittaa sitä, että maan erityispiirteet tulee tiedostaa, ja niihin tulee kyetä löytämään ratkaisut. Tämän johdosta usein onkin helpompi, jos kohdemaassa on kumppani, ei asiakas, joka tuntee kohdemaan lainsäädännön ja yrityskulttuurin.</p>
     <p>Norjaan suuntautuvassa viennissä tai toiminnassa tulee useita vaiheita, joissa asiantuntemukselle</p>
-    <p>tulee tarpeita. Nämä tarpeet ovat yrityskohtaisia, jolloin ne joudutaan tapauskohtaisesti selvittä</p>
-    <p>mään. Tällaisia asioita ovat mm.</p>
+    <p>tulee tarpeita. Nämä tarpeet ovat yrityskohtaisia, jolloin ne joudutaan tapauskohtaisesti selvittämään. Tällaisia asioita ovat mm.</p>
     <p type="listitem">-  tullauskäytänteet</p>
     <p type="listitem">-  yrityksen perustaminen ja rekisteröiminen</p>
-    <p type="listitem">-  norjalaisten työehtosopimusten ja työehtojen tunnistaminen, työ- ja urakkasopimusten tar</p>
-    <p>kastaminen</p>
+    <p type="listitem">-  norjalaisten työehtosopimusten ja työehtojen tunnistaminen, työ- ja urakkasopimusten tarkastaminen</p>
     <p type="listitem">-  kirjanpito, tilintarkastus ja taloushallinto</p>
     <p type="listitem">-  tarvittavat sertifikaatit ja ammatillinen pätevyys</p>
-    <p>Pienimuotoisen vientitoiminnan osalta mikäli tullauskäytänteiden selvittäminen ei onnistu, järkevin</p>
-    <p>tä on tukeutua paikkakuntalaisiin vientiä harjoittaviin yrityksiin, joiden kautta huolinta ja tullaus</p>
-    <p>käytänteisiin on mahdollista saada apua. Yhteystiedot näihin toimijoihin löytyvät kunnan elin</p>
-    <p>keinotoimen kautta.</p>
-    <p xml:lang="sms">9</p>
+    <p>Pienimuotoisen vientitoiminnan osalta mikäli tullauskäytänteiden selvittäminen ei onnistu, järkevintä on tukeutua paikkakuntalaisiin vientiä harjoittaviin yrityksiin, joiden kautta huolinta ja tullauskäytänteisiin on mahdollista saada apua. Yhteystiedot näihin toimijoihin löytyvät kunnan elinkeinotoimen kautta.</p>
     <p>Laajempaa asiantuntemusta, Norjan markkinoiden tuntemusta on mahdollista saada esimerkiksi</p>
-    <p type="listitem">-  <em type="bold">Gateway Norway AS </em>on pk-yrittäjävetoinen yhtiö, jonka tavoitteena on auttaa yrityksiä </p>
-    <p>Norjan markkinoille. Yritys on pitänyt Lapin ELY-keskuksen rahoittaman vientikoulutuksia</p>
-    <p>Norjaan, sekä toimii Norjassa ovien avaajana sekä lainsäädännöllisten asioiden selvittäjänä.</p>
-    <p>Yhteyshenkilö Timo Untinen.</p>
-    <p type="listitem">-  <em type="bold">Storvik &amp; Co AS </em>tarjoaa kansainvälistymisen tueksi konsultointipalveluita liittyen norjan </p>
-    <p xml:lang="smn">markkinoihin. Yhteyshenkilönä Pirkko Taskinen.<em type="bold"> </em></p>
-    <p type="listitem">-  <em type="bold">BusinessOulun </em>Pohjoisessa ohjelmassa on tarkoituksena kehittää elinkeinoelämän yhteyk</p>
-    <p>siä ja vientiä Pohjois-Ruotsin ja Pohjois-Norjan markkinoinne. Pohjois-Norjassa Tromsassa</p>
-    <p>yhteistyön keskukseksi vihittiin Suomi-talo, joka palvelee yritysten yhteyksien rakentajana.</p>
-    <p>Suomi-talon tehtäviin kuuluu välittää tietoa Pohjoisten alueiden urakkatarjouksista, edistää</p>
-    <p>vientiä, kartoittaa ja esitellä investointikohteita, edistää tutkimus-, kehitys- ja investointitoi</p>
-    <p>mintaa, luoda uusia yhteyksiä matkailulle ja kulttuurille sekä sulavoittaa työvoiman liikku</p>
-    <p>vuutta ja julkistoimijoiden välistä yhteistyötä. Yhteyshenkilö Jukka Olli.<em type="bold"> </em></p>
-    <p type="listitem">-  <em type="italic">”Mitä vähemmän suorittavaa työtä Norjassa, mitä enemmän esivalmistusta Suomessa, sen </em></p>
+    <p type="listitem">-  <em type="bold">Gateway Norway AS </em>on pk-yrittäjävetoinen yhtiö, jonka tavoitteena on auttaa yrityksiä Norjan markkinoille. Yritys on pitänyt Lapin ELY-keskuksen rahoittaman vientikoulutuksia Norjaan, sekä toimii Norjassa ovien avaajana sekä lainsäädännöllisten asioiden selvittäjänä. Yhteyshenkilö Timo Untinen. </p>
+    <p type="listitem">-  <em type="bold">Storvik &amp; Co AS </em>tarjoaa kansainvälistymisen tueksi konsultointipalveluita liittyen norjan markkinoihin. Yhteyshenkilönä Pirkko Taskinen.<em type="bold"> </em></p>
+    <p type="listitem">-  <em type="bold">BusinessOulun </em>Pohjoisessa ohjelmassa on tarkoituksena kehittää elinkeinoelämän yhteyk<em type="bold"> </em>siä ja vientiä Pohjois-Ruotsin ja Pohjois-Norjan markkinoinne. Pohjois-Norjassa Tromsassa yhteistyön keskukseksi vihittiin Suomi-talo, joka palvelee yritysten yhteyksien rakentajana. Suomi-talon tehtäviin kuuluu välittää tietoa Pohjoisten alueiden urakkatarjouksista, edistää vientiä, kartoittaa ja esitellä investointikohteita, edistää tutkimus-, kehitys- ja investointitoimintaa, luoda uusia yhteyksiä matkailulle ja kulttuurille sekä sulavoittaa työvoiman liikkuvuutta ja julkistoimijoiden välistä yhteistyötä. Yhteyshenkilö Jukka Olli.</p>
+    <p type="listitem">-  <em type="italic">”Mitä vähemmän suorittavaa työtä Norjassa, mitä enemmän esivalmistusta Suomessa, sen parempi kilpailukyky suomalaisilla suhteessa norjalaisiin.” </em></p>
+    <p type="listitem">-  <em type="italic"><span type="quote">”Kiinteiden kustannusten tason ennakointi ja hallinta silloin kun ollaan läsnä Norjassa”</span> </em></p>
+    <p type="listitem">-  <em type="italic"><span type="quote">”Norjalaiset pyrkivät tekemään Turn-Key –tyyppisiä kokonaistoimitustilauksia”</span> </em></p>
+    <p type="listitem">-  <em type="italic"><span type="quote">”Rakenna ja syvennä paikallisia kontakteja mahdollisimman nopeasti kaikilla eri tasoilla”</span> </em></p>
+    <p type="listitem">-  <em type="italic">”Rallienglannilla et pärjää kuin aluksi. Hanki paikallinen edustaja tai opettele skandinaviska”. </em></p>
+    <p type="listitem">-  <em type="italic">”Rakennusalan vaatimukset ja viranomaiskäytännöt poikkeavat paljon suomalaisista. Ne pitää tuntea ja tietää” </em></p>
+    <p type="listitem">-  <em type="italic">”Ei soitellen sotaan. Älä odottele pikavoittoja, koska niitä ei ole. Varaa paljon aikaa. Tee kotiläksyt huolellisesti etukäteen.” </em></p>
     <p>
-      <em type="italic">parempi kilpailukyky suomalaisilla suhteessa norjalaisiin.” </em>
-    </p>
-    <p type="listitem" xml:lang="sms">-  <em type="italic"><span type="quote">”Kiinteiden kustannusten tason ennakointi ja hallinta silloin kun ollaan läsnä Norjassa”</span> </em></p>
-    <p type="listitem" xml:lang="sms">-  <em type="italic"><span type="quote">”Norjalaiset pyrkivät tekemään Turn-Key –tyyppisiä kokonaistoimitustilauksia”</span> </em></p>
-    <p type="listitem" xml:lang="sms">-  <em type="italic"><span type="quote">”Rakenna ja syvennä paikallisia kontakteja mahdollisimman nopeasti kaikilla eri tasoilla”</span> </em></p>
-    <p type="listitem">-  <em type="italic">”Rallienglannilla et pärjää kuin aluksi. Hanki paikallinen edustaja tai opettele skandinavis</em></p>
-    <p>
-      <em type="italic">ka”. </em>
-    </p>
-    <p type="listitem">-  <em type="italic">”Rakennusalan vaatimukset ja viranomaiskäytännöt poikkeavat paljon suomalaisista. Ne pi</em></p>
-    <p xml:lang="fkv">
-      <em type="italic">tää tuntea ja tietää” </em>
-    </p>
-    <p type="listitem">-  <em type="italic">”Ei soitellen sotaan. Älä odottele pikavoittoja, koska niitä ei ole. Varaa paljon aikaa. Tee </em></p>
-    <p>
-      <em type="italic">kotiläksyt huolellisesti etukäteen.” </em>
-    </p>
-    <p xml:lang="sms">10</p>
-    <p xml:lang="deu">
       <em type="bold">RAJATYÖNTEKO </em>
     </p>
-    <p>
-      <em type="italic">”Mikäli rajaesteitä ei saada ratkaistua, rajatyöntekijät tulevat katoamaan kunnasta. Itse harkitsen </em>
-    </p>
-    <p>
-      <em type="italic">muuttoa joka päivä. Ja jokainen rajatyöntekijän arkipäivää hankaloittava asia vie lähemmäs rat</em>
-    </p>
-    <p><em type="italic">kaisua. Hakemusten ja valitusten tehtailusta olen saanut tarpeekseni, pinna on jo tosi tiukalla.” –</em> </p>
-    <p>
-      <em type="italic">Rajatyöntekijä 2015. </em>
-    </p>
-    <p>Utsjoella toimivien rajatyöntekijöiden määrästä ei kenelläkään vaikuta olevan varmuutta. Viran</p>
-    <p>omaisten kautta tätä tilastoa ei ole saatavilla, ja vaikka verottajalla tämä tieto on olemassa, se ei sitä</p>
-    <p>ilmeisesti saa ajettua tietoteknisesti järjestelmistä ulos. Ehkä luotettavimman kuvan rajatyöntekijöi</p>
-    <p>den määrästä antaa tilastokeskuksen työssäkäyntitilasto, josta käy ilmi Utsjokelaisten työssäkäyvien</p>
-    <p>pendelöinti. Pendelöintiä, eli työssäkäyntiä asuinkunnan ulkopuolella, harjoitti utsjokelaisista vuon</p>
-    <p>na 2013 84 henkilöä. Valtaosa pendelöinnistä voidaan arvioida suuntautuvan Norjan puolelle, jol</p>
-    <p>loin tilasto kertoo summittaisen määrän Norjan puolella työskentelevistä Utsjokelaisista.</p>
-    <p>Rajankäynti luo Pohjoismaisen verosopimuksen mukaisen tilanteen, jossa verotus tapahtuu ns.</p>
-    <p>asuinvaltioperiaatteen mukaisesti. Muiden kuin rajankävijöiden osalta verotus tapahtuu ns. lähde</p>
-    <p>valtioperiaatteen mukaisesti Norjassa. Nykyisen Pohjoismaisen verosopimuksen mukaisesti, rajan</p>
-    <p>kävijöiden verotusoikeus on siis Suomella, jolloin Utsjoen kunnalle tämä tarkoittaa rajankävijöiden</p>
-    <p>osalta kunnallisverotuloja, että kunnassa kirjoilla olevista henkilöistä valtionosuusrahoituksen las</p>
-    <p>kennallista osaa. Näiden varallisuuserin kautta voidaan arvioida, että rajatyönteon vaikuttavuus</p>
-    <p>kunnallistalouteen on merkittävä. Valtionosuusrahoituksen laskennallinen osuus per henkilö on yli</p>
-    <p>5.000 euroa, jolloin perheen poismuutto Utsjoen kunnasta, tarkoittaisi suoraan 5.000 euron laskua</p>
-    <p>valtionosuusrahoitukseen per henkilö, että kunnallisverojen menetyksen sekä paikallistalouteen</p>
-    <p>jätettyjen ostojen tuloutumisen. Tämä tarkoittaa jopa työntekijää kohden 15.000 euron suuruista</p>
-    <p xml:lang="kal">summaa.</p>
-    <p>Rajankävijöiden määrän voidaan varovaisestikin arvioida olevan pendelöijistä yli 60%, jolloin tämä</p>
-    <p>tarkoittaisi 50 henkilöä. Jos oletetaan, että pendelöijillä on keskimäärin perheessään 2 henkilöä,</p>
-    <p>puhutaan 100 hengen talousvaikutuksesta valtionosuusrahoitukseen että kunnallisverotukseen, joka</p>
-    <p>on merkittävä Utsjoen kokoisessa kunnassa. Tietenkään näin suoraviivaisia johtopäätöksiä ei voida</p>
-    <p>tehdä, sillä valtionosuusrahoitusten laskentaperusteissa lapsilla ja eläkeläisillä on painollisesti mer</p>
-    <p>11 kittävämpi vaikutus myönnettävään summaan, mutta joka tapauksessa voidaan todeta, että rajankä</p>
-    <p>vijöiden vaikutus Utsjoen kunnallistalouteen on merkittävä.</p>
-    <p>Rajankävijöiden kyselyiden osalta voidaan todeta, että rajankävijät ovat hyvin leipääntyneitä vallit</p>
-    <p>sevaan tilanteeseen. Verotuksen että sosiaalietuuksien sekavuus laskee motivaatiota harjoittaa ra</p>
-    <p>jankäyntiä, ja lisää riskiä poismuutolle. Verotuksen osalta Suomessa rajankävijöiden verotus on</p>
-    <p>keskitetty Meri-Lapin verotoimistoon, jolloin nyt käsittelijöillä pitäisi olla yhdensuuntaiset linjauk</p>
-    <p>set päätöksiä tehdessään. Ennakkoverojen osalta rajankävijöillä on hankaluuksia euromääräisten</p>
-    <p>ennakoiden arvioimisessa johtuen kruunun kurssin vaihtelusta, että erityisesti tuntityön epäsäännöl</p>
-    <p>lisyydestä. Tämä johtaa tapauksiin, joissa rajankävijän tulisi vaihtaa euromääräistä ennakkoa kuu</p>
-    <p>kausittain saadakseen hoidettua ennakot kohtuudella, tai toivottava lisätunteja ennakoiden maksua</p>
-    <p xml:lang="nno">varten.</p>
-    <p>Rajankävijöiden osalta ansiotulojen ja verojen seurantaan tulisi suhtautua huomattavasti suurem</p>
-    <p>malla tarkkuudella kuin Suomessa toimivien tulonsaajien. Kruunun kurssien muutokset, epäsään</p>
-    <p>nölliset tulot ja muut muutokset ansainnassa vaikuttavat merkittävästi Suomessa verotettavaan tu</p>
-    <p>loon, jolloin vuoropuhelun verottajan kanssa tulee olla tiivistä. Verottajan kanssa on sovittu pidettä</p>
-    <p>vän keväällä 2016 Karigasniemellä ja Nuorgamissa tilaisuudet, jossa käydään läpi yleisesti veroil</p>
-    <p>moituksen täyttäminen, ja varataan aikaa omien asioiden arvioimiseen klinikan kautta. Tilaisuus</p>
-    <p>järjestetään yhteistyössä Pohjoiskalotin rajaneuvonnan ja Meri-Lapin verotoimiston kanssa.</p>
+    <p><em type="italic">”Mikäli rajaesteitä ei saada ratkaistua, rajatyöntekijät tulevat katoamaan kunnasta. Itse harkitsen muuttoa joka päivä. Ja jokainen rajatyöntekijän arkipäivää hankaloittava asia vie lähemmäs ratkaisua. Hakemusten ja valitusten tehtailusta olen saanut tarpeekseni, pinna on jo tosi tiukalla.” –</em> <em type="italic">Rajatyöntekijä 2015. </em></p>
+    <p>Utsjoella toimivien rajatyöntekijöiden määrästä ei kenelläkään vaikuta olevan varmuutta. Viranomaisten kautta tätä tilastoa ei ole saatavilla, ja vaikka verottajalla tämä tieto on olemassa, se ei sitä ilmeisesti saa ajettua tietoteknisesti järjestelmistä ulos. Ehkä luotettavimman kuvan rajatyöntekijöiden määrästä antaa tilastokeskuksen työssäkäyntitilasto, josta käy ilmi Utsjokelaisten työssäkäyvien pendelöinti. Pendelöintiä, eli työssäkäyntiä asuinkunnan ulkopuolella, harjoitti utsjokelaisista vuonna 2013 84 henkilöä. Valtaosa pendelöinnistä voidaan arvioida suuntautuvan Norjan puolelle, jolloin tilasto kertoo summittaisen määrän Norjan puolella työskentelevistä Utsjokelaisista.</p>
+    <p>Rajankäynti luo Pohjoismaisen verosopimuksen mukaisen tilanteen, jossa verotus tapahtuu ns. asuinvaltioperiaatteen mukaisesti. Muiden kuin rajankävijöiden osalta verotus tapahtuu ns. lähdevaltioperiaatteen mukaisesti Norjassa. Nykyisen Pohjoismaisen verosopimuksen mukaisesti, rajankävijöiden verotusoikeus on siis Suomella, jolloin Utsjoen kunnalle tämä tarkoittaa rajankävijöiden osalta kunnallisverotuloja, että kunnassa kirjoilla olevista henkilöistä valtionosuusrahoituksen laskennallista osaa. Näiden varallisuuserin kautta voidaan arvioida, että rajatyönteon vaikuttavuus kunnallistalouteen on merkittävä. Valtionosuusrahoituksen laskennallinen osuus per henkilö on yli 5.000 euroa, jolloin perheen poismuutto Utsjoen kunnasta, tarkoittaisi suoraan 5.000 euron laskua</p>
+    <p>valtionosuusrahoitukseen per henkilö, että kunnallisverojen menetyksen sekä paikallistalouteen jätettyjen ostojen tuloutumisen. Tämä tarkoittaa jopa työntekijää kohden 15.000 euron suuruista summaa.</p>
+    <p>Rajankävijöiden määrän voidaan varovaisestikin arvioida olevan pendelöijistä yli 60%, jolloin tämä tarkoittaisi 50 henkilöä. Jos oletetaan, että pendelöijillä on keskimäärin perheessään 2 henkilöä, puhutaan 100 hengen talousvaikutuksesta valtionosuusrahoitukseen että kunnallisverotukseen, joka on merkittävä Utsjoen kokoisessa kunnassa. Tietenkään näin suoraviivaisia johtopäätöksiä ei voida tehdä, sillä valtionosuusrahoitusten laskentaperusteissa lapsilla ja eläkeläisillä on painollisesti merkittävämpi vaikutus myönnettävään summaan, mutta joka tapauksessa voidaan todeta, että rajankävijöiden vaikutus Utsjoen kunnallistalouteen on merkittävä. Rajankävijöiden kyselyiden osalta voidaan todeta, että rajankävijät ovat hyvin leipääntyneitä vallitsevaan tilanteeseen. Verotuksen että sosiaalietuuksien sekavuus laskee motivaatiota harjoittaa rajankäyntiä, ja lisää riskiä poismuutolle. Verotuksen osalta Suomessa rajankävijöiden verotus on keskitetty Meri-Lapin verotoimistoon, jolloin nyt käsittelijöillä pitäisi olla yhdensuuntaiset linjaukset päätöksiä tehdessään. Ennakkoverojen osalta rajankävijöillä on hankaluuksia euromääräisten ennakoiden arvioimisessa johtuen kruunun kurssin vaihtelusta, että erityisesti tuntityön epäsäännöllisyydestä. Tämä johtaa tapauksiin, joissa rajankävijän tulisi vaihtaa euromääräistä ennakkoa kuukausittain saadakseen hoidettua ennakot kohtuudella, tai toivottava lisätunteja ennakoiden maksua varten.</p>
+    <p>Rajankävijöiden osalta ansiotulojen ja verojen seurantaan tulisi suhtautua huomattavasti suuremmalla tarkkuudella kuin Suomessa toimivien tulonsaajien. Kruunun kurssien muutokset, epäsäännölliset tulot ja muut muutokset ansainnassa vaikuttavat merkittävästi Suomessa verotettavaan tuloon, jolloin vuoropuhelun verottajan kanssa tulee olla tiivistä. Verottajan kanssa on sovittu pidettävän keväällä 2016 Karigasniemellä ja Nuorgamissa tilaisuudet, jossa käydään läpi yleisesti veroilmoituksen täyttäminen, ja varataan aikaa omien asioiden arvioimiseen klinikan kautta. Tilaisuus järjestetään yhteistyössä Pohjoiskalotin rajaneuvonnan ja Meri-Lapin verotoimiston kanssa.</p>
     <p>Sosiaalietuuksien osalta rajankävijät noudattavat työskentelymaan lainsäädäntöä. Rajankävijät ovat</p>
-    <p>kohdanneet ongelmia Suomen ja Norjan välisessä lainsäädännössä, jolloin työntekijä jää lainsää</p>
-    <p>dännön epäselvissä tilanteissa kärsijän asemaan. Tämä on toinen suuri tekijä rajankävijöiden epä</p>
-    <p>kohdista johon voidaan vaikuttaa edunvalvonnan kautta, että lainsäädäntöjä yhtenäistetään valtioi</p>
-    <p>den välillä.</p>
+    <p>kohdanneet ongelmia Suomen ja Norjan välisessä lainsäädännössä, jolloin työntekijä jää lainsäädännön epäselvissä tilanteissa kärsijän asemaan. Tämä on toinen suuri tekijä rajankävijöiden epäkohdista johon voidaan vaikuttaa edunvalvonnan kautta, että lainsäädäntöjä yhtenäistetään valtioiden välillä.</p>
     <p>Lisätietoja verkosta:</p>
     <p type="listitem">-  Pohjoiskalotin rajaneuvonta: www.granstjanst.net</p>
-    <p xml:lang="nno">o Riitta Leinonen +4798289089 riitta.leinonen(at)storfjord.kommune.no</p>
-    <p xml:lang="nob">Storfjord Rådhus, Hatteng 9046 Oteren Norge</p>
+    <p>o Riitta Leinonen +4798289089 riitta.leinonen(at)storfjord.kommune.no  Storfjord Rådhus, Hatteng 9046 Oteren Norge</p>
     <p type="listitem">-  Haloo Pohjola (rajatyöntekijä): www.norden.org</p>
     <p type="listitem">-  Pohjoismainen sosiaaliturvaportaali: www.nordsoc.org</p>
     <p type="listitem">-  Ulkomaalaisten työntekijöiden palvelukeskus Kirkkoniemi: www.sua.no</p>
-    <p xml:lang="sms">12</p>
-    <p type="listitem" xml:lang="sms">-  <em type="bold"> </em></p>
-    <p xml:lang="sma">
+    <p type="listitem">-  <em type="bold"> </em></p>
+    <p>
       <em type="bold">UTSJOKI MALLI </em>
     </p>
     <p>Utsjoen väkimäärä on laskenut viimeisten vuosikymmenien aikana noin 1.250 kunnassa kirjoilla</p>
-    <p>olevaan henkilöön, ja suunta osoittaa alenevaa väestömäärää myös tulevaisuudessa. Kunnan ikära</p>
-    <p>kenteen osalta väestö ikääntyy, ja keski-ikä onkin noussut lähemmäksi viittäkymmentä vuotta muu</p>
-    <p>taman vuosikymmenen takaisesta 35-vuodesta. Kylien asukasluku on Nuorgamin osalta kehittynyt</p>
-    <p>positiivisempaan suuntaan, Karigasniemen pysyessä kutakuinkin stabiilina Utsjoen kirkonkylän</p>
-    <p>osalta sen sijaan laskiessa vuosi vuodelta.</p>
-    <p>Tämä rakennemuutos noudattelee hyvin pitkälti sitä samaa kehitystä, mitä muissakin lappilaisissa</p>
-    <p>kunnissa tapahtuu. Ja syy tähän on se, ettei synnyinseudulla ole tarjolla mielekkäitä työpaikkoja,</p>
-    <p>jolloin ainoaksi vaihtoehdoksi jää yrittäjyys tai pendelöinti. Tällöin valitaan liian usein kolmas vaih</p>
-    <p>toehto, joka on työn perässä muuttaminen kuntakeskuksiin. Norjan vaikutus Utsjoen kunnan elin</p>
-    <p>keino ja työllisyyselämään on merkittävä. Ilman Norjan vaikutusta Utsjoen elinkeinorakenne olisi</p>
-    <p>hyvin kapea, ja elämisen edellytyksiä ei tässä mittakaavassa olisi. Norja itseellisenä valtiona voi</p>
-    <p>tehdä päätöksiään ilman kuulematta naapurimaita, joka asettaa riskin paikallisille toimijoille. Rajo</p>
-    <p>jen sulkeminen tai kruunun kurssin ohjailu luovat merkittävän riskin elinkeinotoiminnalle, ja sitä</p>
-    <p>kautta kunnallistaloudelle. Riskeistään huolimatta, Norja tarjoaa yhden Euroopan merkittävimmän</p>
-    <p>elinkeinollisen potentiaalin, ja Utsjoki voi oikeilla toimenpiteillä olla yksi sen suurimmista hyötyjis</p>
-    <p xml:lang="fkv">tä.</p>
-    <p>Kehittyminen tulee vain nähdä hallittuna, ja omissa käsissä olevana asiana, joka johdetaan kunta</p>
-    <p>strategiasta haluttuina kylien tavoitetiloina, joissa elinkeinoelämän kehittymisen kautta kylät kehit</p>
-    <p>tyvät. Kestävän kunnallisen talouden selkäranka on elinkeinoelämä. Yritykset tarjoavat työpaikko</p>
-    <p>jen muodossa kunnallisverotukseen merkittävän määrän varallisuutta, sekä kiinteistö ja yhteisövero</p>
-    <p>jen osalta oman lisänsä. Elävän kunnan yksi tärkein tehtävä onkin saada houkuteltua alueelle yrittä</p>
-    <p>jiä, jotka työllisyyden kautta tuovat elinvoimaa kuntaan.</p>
-    <p>Utsjoen kunnassa vähittäiskauppa on merkittävä työllistäjä ja veroeurojen tuoja kuntaan. Mutta</p>
-    <p>myös muilla toimialoilla on merkittävä rooli kunnan elinkeinotoiminnassa. Elinkeinoja tuleekin</p>
-    <p>kehittää rinnan niistä kilpailueduista lähtien mitä kullakin on tarjota. Kuitenkin tulee muistaa, että</p>
-    <p>kehittämisen tärkein tekijä on toimijoiden oma aktiivisuus, jolloin kehittäminen nähdäänkin akti</p>
-    <p>13 vointina ottaa vastuu omasta kehittymisestä, ja valintoina kehittää kehityshaluisia kokonaisuuden</p>
-    <p>sijaan.</p>
-    <p>Kun elinkeinoja kehitetään, tulee myös varmistua siitä, että kunnan muu palvelurakenne pysyy ke</p>
-    <p>hityksen mukana. Utsjoen kunnan kehittämisen yhtenä pullonkaulana on asuntotilanne. Vaikka vä</p>
-    <p>estön lasku on ollut merkittävää, kiinteistöt eivät vapaudu samassa suhteessa. Tämä sama havainto</p>
-    <p>tehtiin MTT:n tutkimuksissa maaseudun tyhjien rakennuskiintiöiden harhasta, jossa käytiin läpi</p>
-    <p>Lappilaisten tyhjien kiinteistöjen potentiaalia. Tuloksena oli se, että vaikka väestö muuttaa pois</p>
-    <p>haja-asutusalueelta, kiinteistöt jäävät hyvin usein lomahuoneistoiksi, joita ei vuokrata ulkopuolisten</p>
-    <p>asuinkäyttöön. Utsjoella tätä kehitystä voimistaa vielä tyhjenevien kiinteistöjen sijainti, joka on</p>
-    <p>pääsääntöisesti Tenon rannalla, jolloin odotetut korvaukset Tenojokisäännöstä sekä suvun vapaa</p>
-    <p>ajankäyttö ovat merkittävässä osassa kiinteistön edelleen luovutusta suunniteltaessa. Näin ollen</p>
-    <p>kunnan tuleekin lähteä miettimään kylien tarpeiden kautta rakentuvaa suunnitelmaa kuinka asuinra</p>
-    <p>kentamista saadaan aktivoitua kuntaan, ja sitä kautta luodaan asumisen malli joka mahdollistaa</p>
-    <p>asumisen Utsjoen lähipalvelukeskuksissa.</p>
-    <p>Utsjoki mallissa on kolme tasavahvaa kylää, joissa Utsjoen kirkonkylä edustaa hallinnollista ja kult</p>
-    <p>tuuria kehittävää keskusta, Karigasniemen ja Nuorgamin ollessa selkeästi keskittyneempiä Norjasta</p>
-    <p>saatavan elinvoiman varaan. Kaikkien kylien osalta myös muut toimialat kehittyvät rinnan kärki</p>
-    <p>toimialojen kanssa taatakseen tasapainoisen elinkeinorakenteen.</p>
+    <p>olevaan henkilöön, ja suunta osoittaa alenevaa väestömäärää myös tulevaisuudessa. Kunnan ikärakenteen osalta väestö ikääntyy, ja keski-ikä onkin noussut lähemmäksi viittäkymmentä vuotta muutaman vuosikymmenen takaisesta 35-vuodesta. Kylien asukasluku on Nuorgamin osalta kehittynyt positiivisempaan suuntaan, Karigasniemen pysyessä kutakuinkin stabiilina Utsjoen kirkonkylän osalta sen sijaan laskiessa vuosi vuodelta.</p>
+    <p>Tämä rakennemuutos noudattelee hyvin pitkälti sitä samaa kehitystä, mitä muissakin lappilaisissa kunnissa tapahtuu. Ja syy tähän on se, ettei synnyinseudulla ole tarjolla mielekkäitä työpaikkoja, jolloin ainoaksi vaihtoehdoksi jää yrittäjyys tai pendelöinti. Tällöin valitaan liian usein kolmas vaihtoehto, joka on työn perässä muuttaminen kuntakeskuksiin. Norjan vaikutus Utsjoen kunnan elinkeino ja työllisyyselämään on merkittävä. Ilman Norjan vaikutusta Utsjoen elinkeinorakenne olisi hyvin kapea, ja elämisen edellytyksiä ei tässä mittakaavassa olisi. Norja itseellisenä valtiona voi tehdä päätöksiään ilman kuulematta naapurimaita, joka asettaa riskin paikallisille toimijoille. Rajojen sulkeminen tai kruunun kurssin ohjailu luovat merkittävän riskin elinkeinotoiminnalle, ja sitä kautta kunnallistaloudelle. Riskeistään huolimatta, Norja tarjoaa yhden Euroopan merkittävimmän elinkeinollisen potentiaalin, ja Utsjoki voi oikeilla toimenpiteillä olla yksi sen suurimmista hyötyjistä.</p>
+    <p>Kehittyminen tulee vain nähdä hallittuna, ja omissa käsissä olevana asiana, joka johdetaan kuntastrategiasta haluttuina kylien tavoitetiloina, joissa elinkeinoelämän kehittymisen kautta kylät kehit</p>
+    <p>tyvät. Kestävän kunnallisen talouden selkäranka on elinkeinoelämä. Yritykset tarjoavat työpaikkojen muodossa kunnallisverotukseen merkittävän määrän varallisuutta, sekä kiinteistö ja yhteisöverojen osalta oman lisänsä. Elävän kunnan yksi tärkein tehtävä onkin saada houkuteltua alueelle yrittäjiä, jotka työllisyyden kautta tuovat elinvoimaa kuntaan.</p>
+    <p>Utsjoen kunnassa vähittäiskauppa on merkittävä työllistäjä ja veroeurojen tuoja kuntaan. Mutta myös muilla toimialoilla on merkittävä rooli kunnan elinkeinotoiminnassa. Elinkeinoja tuleekin kehittää rinnan niistä kilpailueduista lähtien mitä kullakin on tarjota. Kuitenkin tulee muistaa, että kehittämisen tärkein tekijä on toimijoiden oma aktiivisuus, jolloin kehittäminen nähdäänkin aktivointina ottaa vastuu omasta kehittymisestä, ja valintoina kehittää kehityshaluisia kokonaisuuden sijaan.  Kun elinkeinoja kehitetään, tulee myös varmistua siitä, että kunnan muu palvelurakenne pysyy kehityksen mukana. Utsjoen kunnan kehittämisen yhtenä pullonkaulana on asuntotilanne. Vaikka väestön lasku on ollut merkittävää, kiinteistöt eivät vapaudu samassa suhteessa. Tämä sama havainto tehtiin MTT:n tutkimuksissa maaseudun tyhjien rakennuskiintiöiden harhasta, jossa käytiin läpi Lappilaisten tyhjien kiinteistöjen potentiaalia. Tuloksena oli se, että vaikka väestö muuttaa pois haja-asutusalueelta, kiinteistöt jäävät hyvin usein lomahuoneistoiksi, joita ei vuokrata ulkopuolisten asuinkäyttöön. Utsjoella tätä kehitystä voimistaa vielä tyhjenevien kiinteistöjen sijainti, joka on pääsääntöisesti Tenon rannalla, jolloin odotetut korvaukset Tenojokisäännöstä sekä suvun vapaaajankäyttö ovat merkittävässä osassa kiinteistön edelleen luovutusta suunniteltaessa. Näin ollen kunnan tuleekin lähteä miettimään kylien tarpeiden kautta rakentuvaa suunnitelmaa kuinka asuinrakentamista saadaan aktivoitua kuntaan, ja sitä kautta luodaan asumisen malli joka mahdollistaa asumisen Utsjoen lähipalvelukeskuksissa.</p>
+    <p>Utsjoki mallissa on kolme tasavahvaa kylää, joissa Utsjoen kirkonkylä edustaa hallinnollista ja kulttuuria kehittävää keskusta, Karigasniemen ja Nuorgamin ollessa selkeästi keskittyneempiä Norjasta saatavan elinvoiman varaan. Kaikkien kylien osalta myös muut toimialat kehittyvät rinnan kärkitoimialojen kanssa taatakseen tasapainoisen elinkeinorakenteen.</p>
     <p>Utsjokimalli on imuohjautuva elävä lähipalvelukeskus, joka tarjoaa pohjan hyvälle elämälle. Malli</p>
-    <p>rakentuu vahvan elinkeinollisen pohjan varaan, jossa työ Norjassa, rajakauppa tai vientitoiminta tuo</p>
-    <p>varallisuutta aluetalouteen. Vahva palveluvalikoima takaa norjalaisten asiakkuuksien ostosmatkai</p>
-    <p>lun, ja viipymää pyritään nostamaan tarjontaa laajentamalla tavaroiden ja palveluiden osalta. Vienti</p>
-    <p>toimintaan muodostuu oma klusterimaisesti toimiva verkosto, joka kasvaa ja laajenee toiminnan</p>
-    <p>kehittyessä. Rajankävijöiden osalta työnteko on vaivatonta. Kunta tarjoaa tukea niin kaupan, vienti</p>
-    <p>toiminnan kuin rajankävijöiden edunvalvontaan, ja pyrkii madaltamaan niihin kohdistuvia esteitä.</p>
-    <p>Kunnallistalouteen tällä on merkittävä vaikutus. Kunnan väkiluku nousee pikkuhiljaa takaisin muu</p>
-    <p>ton seurauksena, ja kunnan verorahoituksesta valtionosuus laskee nykyisestä noin 60 prosentista</p>
-    <p>tällä vuosikymmenellä 50 prosenttiin, joka tarkoittaa noin 100 uutta perhettä. Vuoteen 2025 men</p>
-    <p>nessä tämä suhde on jo laskenut alle 40 prosenttiin.</p>
-    <p xml:lang="sms">14</p>
-    <p>Tähän päästään pitkäjänteisellä kehittämistyöllä, jossa kylille luodaan mittaroitu elinkeinollinen</p>
-    <p>suunnitelma, joka tarkastelee kokonaisvaltaisesti elinkeinojen kehittämisen mahdollisuuksia ja es</p>
-    <p>teitä.</p>
-    <p>Mikäli toimintaa halutaan kehittää, kylien väkimäärän lisääminen on elinehto, nykyinen väestömää</p>
-    <p>rä ei riitä ylläpitämään elinvoimaista kuntaa ja peruspalveluita väestön ikääntyessä. Tämä tarkoittaa</p>
-    <p>ennen kaikkea uusien elinkeinojen luomista sellaisille aloille, joilla nuoret viihtyvät, ja haluavat</p>
-    <p>muuttaa mahdollisesti opintojen jälkeen takaisin Utsjoelle opiskelemaan.</p>
-    <p xml:lang="sms">15</p>
+    <p>rakentuu vahvan elinkeinollisen pohjan varaan, jossa työ Norjassa, rajakauppa tai vientitoiminta tuo varallisuutta aluetalouteen. Vahva palveluvalikoima takaa norjalaisten asiakkuuksien ostosmatkailun, ja viipymää pyritään nostamaan tarjontaa laajentamalla tavaroiden ja palveluiden osalta. Vientitoimintaan muodostuu oma klusterimaisesti toimiva verkosto, joka kasvaa ja laajenee toiminnan kehittyessä. Rajankävijöiden osalta työnteko on vaivatonta. Kunta tarjoaa tukea niin kaupan, vientitoiminnan kuin rajankävijöiden edunvalvontaan, ja pyrkii madaltamaan niihin kohdistuvia esteitä.</p>
+    <p>Kunnallistalouteen tällä on merkittävä vaikutus. Kunnan väkiluku nousee pikkuhiljaa takaisin muuton seurauksena, ja kunnan verorahoituksesta valtionosuus laskee nykyisestä noin 60 prosentista tällä vuosikymmenellä 50 prosenttiin, joka tarkoittaa noin 100 uutta perhettä. Vuoteen 2025 mennessä tämä suhde on jo laskenut alle 40 prosenttiin.</p>
+    <p>Tähän päästään pitkäjänteisellä kehittämistyöllä, jossa kylille luodaan mittaroitu elinkeinollinen suunnitelma, joka tarkastelee kokonaisvaltaisesti elinkeinojen kehittämisen mahdollisuuksia ja esteitä.  Mikäli toimintaa halutaan kehittää, kylien väkimäärän lisääminen on elinehto, nykyinen väestömäärä ei riitä ylläpitämään elinvoimaista kuntaa ja peruspalveluita väestön ikääntyessä. Tämä tarkoittaa ennen kaikkea uusien elinkeinojen luomista sellaisille aloille, joilla nuoret viihtyvät, ja haluavat muuttaa mahdollisesti opintojen jälkeen takaisin Utsjoelle opiskelemaan.</p>
     <p>
       <em type="bold">Toimenpide-esitykset </em>
     </p>
     <p>
       <em type="bold">Rajakaupan kehittäminen tuo työtä ja toimeentuloa </em>
     </p>
-    <p type="listitem">-  Kerätään halukkaat rajakauppiaat sekä Nuorgamista että Karigasniemeltä yhteen, ja keskus</p>
-    <p>tellaan yrityskohtaisesti sekä ryhmänä kehittämisen tahtotila ja edellytykset, sekä lähdetään</p>
-    <p>asiantuntijavetoisesti poluttamaan kehittämisen askelmerkkejä.</p>
-    <p>o ProAgria Lappi ÄLY –hankkeen sekä Leader Pohjoisimman Lapin Intoa Yrittäjyyteen</p>
-    <p>hankkeen toimenpitein</p>
-    <p>  Yritys- sekä ryhmäkohtaista neuvontaa</p>
-    <p>o Rahoitus yrityksen nouseviin tarpeisiin joko yrityskohtaisena tai yritysryhmänä</p>
-    <p>EAKR- tai MSR -rahastoista</p>
-    <p>  Yhteiset markkinointikampanjat esim. Finnmarken lehdessä kylittäin</p>
-    <p>  Ei perinteisen vähittäiskaupan kehittämiseen, vaan uusiin liiketoimintamal</p>
-    <p xml:lang="sme">leihin</p>
+    <p type="listitem">-  Kerätään halukkaat rajakauppiaat sekä Nuorgamista että Karigasniemeltä yhteen, ja keskustellaan yrityskohtaisesti sekä ryhmänä kehittämisen tahtotila ja edellytykset, sekä lähdetään asiantuntijavetoisesti poluttamaan kehittämisen askelmerkkejä.</p>
+    <p>o ProAgria Lappi ÄLY –hankkeen sekä Leader Pohjoisimman Lapin Intoa Yrittäjyyteen hankkeen toimenpitein   Yritys- sekä ryhmäkohtaista neuvontaa o Rahoitus yrityksen nouseviin tarpeisiin joko yrityskohtaisena tai yritysryhmänä EAKR- tai MSR -rahastoista   Yhteiset markkinointikampanjat esim. Finnmarken lehdessä kylittäin   Ei perinteisen vähittäiskaupan kehittämiseen, vaan uusiin liiketoimintamalleihin</p>
     <p type="listitem">-  Kunnan elinkeinotoimi aktivoijana</p>
-    <p>o Ohjaa kehittämishaluiset rajakauppiaat ÄLY sekä Intoa Yrittäjyyteen hankkeen toi</p>
-    <p xml:lang="fkv">menpiteisiin</p>
-    <p>o Uusien yrittäjien aktivointi näkemään Norjan potentiaali muun kuin perinteisen vähit</p>
-    <p>täiskaupan keinoin</p>
+    <p>o Ohjaa kehittämishaluiset rajakauppiaat ÄLY sekä Intoa Yrittäjyyteen hankkeen toimenpiteisiin</p>
+    <p>o Uusien yrittäjien aktivointi näkemään Norjan potentiaali muun kuin perinteisen vähittäiskaupan keinoin</p>
     <p>
-      <em type="bold">Nyt on aika tehdä Utsjoen vähittäiskaupan tasonosto ja nostaa myynti seuraavalle kymmen</em>
-    </p>
-    <p xml:lang="fkv">
-      <em type="bold">miljoonalle!  </em>
+      <em type="bold">Nyt on aika tehdä Utsjoen vähittäiskaupan tasonosto ja nostaa myynti seuraavalle kymmenmiljoonalle!  </em>
     </p>
     <p>
       <em type="bold">Vientitoiminnan kehittäminen mahdollistaa uusien liiketoimintojen synnyn </em>
     </p>
-    <p type="listitem">-  Tunnistetaan vientitoiminnasta kiinnostuneet yrittäjät, joilla on halua ja osaamista lähteä</p>
-    <p>kansainvälistymään tai kehittämään sitä</p>
+    <p type="listitem">-  Tunnistetaan vientitoiminnasta kiinnostuneet yrittäjät, joilla on halua ja osaamista lähteä kansainvälistymään tai kehittämään sitä</p>
     <p type="listitem">-  Luodaan yrittäjävetoiset teemalliset klusterit vientitoiminnan ympärille</p>
-    <p>o Luodaan vientitoiminnan <span type="quote">”keskusvaraamoja”</span></p>
-    <p>  Skaalautuvuus ja uusien toimintojen rajapinnat etukäteen mietittynä</p>
-    <p>o Kokoonjuoksu ProAgria ÄLY-hanke / Leader Pohjoisin Lappi Intoa Yrittäjyyteen</p>
-    <p xml:lang="nob">hanke</p>
-    <p>o Rahoitus MSR yritysryhmähankkeet (tukitaso 75%) tai yrityksen kehittämisavustus</p>
-    <p>(tukitaso 50%)</p>
-    <p xml:lang="sms">16</p>
-    <p type="listitem">-  Kunnan elinkeinotoimi on aktiivisesti mukana kehittämisprojekteissa, joka tarjoaa osaami</p>
-    <p>sen leviämisen laajemmalle joukolle toimijoita</p>
+    <p>o Luodaan vientitoiminnan <span type="quote">”keskusvaraamoja”</span>   Skaalautuvuus ja uusien toimintojen rajapinnat etukäteen mietittynä o Kokoonjuoksu ProAgria ÄLY-hanke / Leader Pohjoisin Lappi Intoa Yrittäjyyteen hanke</p>
+    <p type="listitem">o Rahoitus MSR yritysryhmähankkeet (tukitaso 75%) tai yrityksen kehittämisavustus (tukitaso 50%) -  Kunnan elinkeinotoimi on aktiivisesti mukana kehittämisprojekteissa, joka tarjoaa osaamisen leviämisen laajemmalle joukolle toimijoita</p>
     <p>
       <em type="bold">Rajatyöskentelyn kehittäminen tuo turvaa rajankävijöille </em>
     </p>
-    <p type="listitem">-  Järjestetään verottajan ja Pohjoiskalotin rajaneuvonnan kanssa tilaisuus, jonka tavoitteena</p>
-    <p>on käydä läpi veroilmoituksen täyttäminen, ja mahdollistaa klinikkamuotoisesti aikaa omille</p>
-    <p>kysymyksille verovirkailijan kanssa</p>
+    <p type="listitem">-  Järjestetään verottajan ja Pohjoiskalotin rajaneuvonnan kanssa tilaisuus, jonka tavoitteena on käydä läpi veroilmoituksen täyttäminen, ja mahdollistaa klinikkamuotoisesti aikaa omille kysymyksille verovirkailijan kanssa</p>
     <p>o Etänäyhteydessä Kela sekä Eläketurvakeskus</p>
-    <p type="listitem">-  Pohjoiskalotin rajaneuvonnan aktiivinen osallistuminen Utsjoen rajankävijöiden keskustelu</p>
-    <p>palstalle facebookissa</p>
+    <p type="listitem">-  Pohjoiskalotin rajaneuvonnan aktiivinen osallistuminen Utsjoen rajankävijöiden keskustelupalstalle facebookissa</p>
     <p>o Uusimman tiedon välitys sekä rajankävijöille, että kunnan elinkeinotoimeen</p>
     <p type="listitem">-  Pohjoiskalotin rajaneuvonnan ja Utsjoen kunnan elinkeinotoimen säännölliset tapaamiset</p>
-    <p>o Kevät ja syksy – miten voimme kehittää rajankävijöiden asioita</p>
-    <p>o Samalla yhteisiä rajankävijöiden haastatteluja ja tilaisuuksia</p>
-    <p type="listitem">-  Kunnan elinkeinotoimella käytössään hankkeen aikana luodut yhteystiedot, joiden kautta</p>
-    <p>voi selvitellä suoraan virkailijoilta rajankävijöiden asioita</p>
-    <p>o Verottaja, Pohjoiskalotin rajaneuvonta, Kela, Lapin ELY-keskus, NAV, Suomen</p>
-    <p xml:lang="nno">Suurlähetystö Oslo, Keskuskauppakamari</p>
+    <p>o Kevät ja syksy – miten voimme kehittää rajankävijöiden asioita o Samalla yhteisiä rajankävijöiden haastatteluja ja tilaisuuksia</p>
+    <p type="listitem">-  Kunnan elinkeinotoimella käytössään hankkeen aikana luodut yhteystiedot, joiden kautta voi selvitellä suoraan virkailijoilta rajankävijöiden asioita</p>
+    <p>o Verottaja, Pohjoiskalotin rajaneuvonta, Kela, Lapin ELY-keskus, NAV, Suomen Suurlähetystö Oslo, Keskuskauppakamari</p>
+    <p><em type="bold">Utsjokimallin kehittämisen tehtävät nivoo kaiken yhteen </em>1.  Kuntastrategiassa otetaan kantaa kylien koon kasvattamisen osalta tavoitetilaan, joka ohjaa </p>
+    <p>kehittämistä  a. Luodaan imuohjautuva malli kylien asukasmäärän kasvuun Norjan potentiaalin kautta Karigasniemelle ja Nuorgamiin b. Tasapainoiset kolme kylää: 800 + 800 + 800 asukasta tarvittavine palveluineen c. Kehittämisen ytimenä elinkeinojen tasapainoinen kasvu ja saamelaiskulttuurin ylläpitäminen 2.  Luodaan konkreettinen suunnitelma jota lähdetään toteuttamaan asuntotilanteen korjaamiseksi 3.  Markkinointikampanja rajankävijöiden että yritystoiminnan saamiseksi Utsjoelle a. Koti Utsjoella – työ ja asiakkaat Norjassa b. Ensisijainen kohderyhmä sukujuuret Utsjoella omaaville 4.  Tunnustetaan elinkeinojen kehittämisen merkittävyys kunnan elinvoimaisuuden ylläpitäjänä, ja tehdään eikä puhuta – kohta on jo liian myöhäistä a. Töitä nuorille ja paluumuuttajille yrittäjyyden kautta b. Verotuloja kunnan palveluiden ylläpitämiseen ja kehittämiseen</p>
     <p>
-      <em type="bold">Utsjokimallin kehittämisen tehtävät nivoo kaiken yhteen </em>
-    </p>
-    <p>1.  Kuntastrategiassa otetaan kantaa kylien koon kasvattamisen osalta tavoitetilaan, joka ohjaa</p>
-    <p>kehittämistä</p>
-    <p>a. Luodaan imuohjautuva malli kylien asukasmäärän kasvuun Norjan potentiaalin kautta</p>
-    <p xml:lang="fkv">Karigasniemelle ja Nuorgamiin</p>
-    <p>b. Tasapainoiset kolme kylää: 800 + 800 + 800 asukasta tarvittavine palveluineen</p>
-    <p>c. Kehittämisen ytimenä elinkeinojen tasapainoinen kasvu ja saamelaiskulttuurin ylläpi</p>
-    <p>täminen</p>
-    <p>2.  Luodaan konkreettinen suunnitelma jota lähdetään toteuttamaan asuntotilanteen korjaa</p>
-    <p>miseksi</p>
-    <p>3.  Markkinointikampanja rajankävijöiden että yritystoiminnan saamiseksi Utsjoelle</p>
-    <p>a. Koti Utsjoella – työ ja asiakkaat Norjassa</p>
-    <p>b. Ensisijainen kohderyhmä sukujuuret Utsjoella omaaville</p>
-    <p>4.  Tunnustetaan elinkeinojen kehittämisen merkittävyys kunnan elinvoimaisuuden ylläpitäjänä,</p>
-    <p>ja tehdään eikä puhuta – kohta on jo liian myöhäistä</p>
-    <p>17 a. Töitä nuorille ja paluumuuttajille yrittäjyyden kautta</p>
-    <p>b. Verotuloja kunnan palveluiden ylläpitämiseen ja kehittämiseen</p>
-    <p xml:lang="sms">18</p>
-    <p xml:lang="fkv">
       <em type="bold">LÄHTEET </em>
     </p>
     <p>Berg, T. (2014). Norjan työopas</p>
     <p>Elinkeinoelämän rajaesteet Pohjoiskalotilla (2014)</p>
-    <p>Kaksinkertaisen verotuksen poistaminen henkilöasiakkaan tuloista: http://www.vero.fi/fi</p>
-    <p>FI/Henkiloasiakkaat/Suomesta_ulkomaille/Kaksinkertaisen_verotuksen_poistaminen_h%2811927</p>
-    <p xml:lang="sms">%29 (24.3.2015)</p>
-    <p>Kaupan trendit ja tulevaisuus 2015: http://www.solita.fi/wp</p>
-    <p xml:lang="nno">content/uploads/2015/05/Kaupan_trendit_ja_tulevaisuus_2015.pdf</p>
-    <p xml:lang="nno">Kielisopimus: http://www.norden.org/fi/om-samarbejdet-1/pohjoismaiset</p>
-    <p>sopimukset/sopimukset/kieliasiat/kielisopimus (16.3.2015)</p>
-    <p xml:lang="sme">Rajaesteneuvosto: http://www.norden.org/fi/pohjoismaiden-ministerineuvosto/yhteistyoeministerit</p>
-    <p>mr-sam/rajaestetyoe/rajaesteneuvosto (24.3.2015)</p>
+    <p>Kaksinkertaisen verotuksen poistaminen henkilöasiakkaan tuloista: http://www.vero.fi/fiFI/Henkiloasiakkaat/Suomesta_ulkomaille/Kaksinkertaisen_verotuksen_poistaminen_h%2811927 %29 (24.3.2015)</p>
+    <p>Kaupan trendit ja tulevaisuus 2015: http://www.solita.fi/wpcontent/uploads/2015/05/Kaupan_trendit_ja_tulevaisuus_2015.pdf</p>
+    <p>Kielisopimus: http://www.norden.org/fi/om-samarbejdet-1/pohjoismaisetsopimukset/sopimukset/kieliasiat/kielisopimus (16.3.2015)</p>
+    <p>Rajaesteneuvosto: http://www.norden.org/fi/pohjoismaiden-ministerineuvosto/yhteistyoeministeritmr-sam/rajaestetyoe/rajaesteneuvosto (24.3.2015)</p>
     <p>Rajankävijän verotus Pohjoismaisen verosopimuksen mukaan. Tauriainen Johanna. Itä-Suomen</p>
     <p>yliopisto, Oikeustieteiden laitos, pro gradu.</p>
     <p>Smith, L.C. (2011). Uusi pohjoinen – Maailma vuonna 2050</p>
-    <p>Sopimus Pohjoismaiden yhteisistä työmarkkinoista: http://www.norden.org/fi/om-samarbejdet</p>
-    <p>1/pohjoismaiset-sopimukset/sopimukset/tyoemarkkinat/sopimus-pohjoismaiden-yhteisistae</p>
-    <p>tyoemarkkinoista (16.3.2015)</p>
-    <p>Tulo- ja varallisuusveroja koskeva kaksinkertainen verotus: http://www.norden.org/fi/om</p>
-    <p>samarbejdet-1/pohjoismaiset-sopimukset/sopimukset/veroasiat/tulo-ja-varallisuusveroja-koskeva</p>
-    <p>kaksinkertainen-verotus (16.3.2015)</p>
-    <p xml:lang="smn">ULJAS – Tavaroiden ulkomaankauppa: http://uljas.tulli.fi/ (18.3.2015)</p>
-    <p>Ulkomaantyöskentelyn verotus: http://www.vero.fi/fi</p>
-    <p xml:lang="swe">FI/Syventavat_veroohjeet/Kansainvaliset_tilanteet/Ulkomaantyoskentelyn_verotus%2814318%29</p>
-    <p xml:lang="sms">(23.3.2015)</p>
+    <p>Sopimus Pohjoismaiden yhteisistä työmarkkinoista: http://www.norden.org/fi/om-samarbejdet1/pohjoismaiset-sopimukset/sopimukset/tyoemarkkinat/sopimus-pohjoismaiden-yhteisistaetyoemarkkinoista (16.3.2015)</p>
+    <p>Tulo- ja varallisuusveroja koskeva kaksinkertainen verotus: http://www.norden.org/fi/omsamarbejdet-1/pohjoismaiset-sopimukset/sopimukset/veroasiat/tulo-ja-varallisuusveroja-koskevakaksinkertainen-verotus (16.3.2015)</p>
+    <p>ULJAS – Tavaroiden ulkomaankauppa: http://uljas.tulli.fi/ (18.3.2015)</p>
+    <p>Ulkomaantyöskentelyn verotus: http://www.vero.fi/fiFI/Syventavat_veroohjeet/Kansainvaliset_tilanteet/Ulkomaantyoskentelyn_verotus%2814318%29 (23.3.2015)</p>
     <p>Kuha, R. (2013). Maaseudun tyhjien rakennuskiinteistöjen harha: MTT raportti 119.</p>
-    <p xml:lang="sms">19</p>
-    <p xml:lang="sms">20</p>
-    <p xml:lang="sma">
-      <em type="bold">LIITTEET </em>
-    </p>
-    <p>
-      <em type="bold">Tilastot </em>
-    </p>
-    <p>
-      <em type="bold">T1: Norjan kruunun kurssin kehitys 2011-2015 </em>
-    </p>
-    <p>
-      <em type="bold">T2: Toimipaikat kunnittain 2007-2013 </em>
-    </p>
-    <p>Toimipaikat kunnittain  2007‐2014 muuttujina vuosi kunta ja toimipaikkojen tiedot muuttu‐ jina Kunta, Vuosi ja Toimipaikkojen tiedot     <em type="bold">Toimipaikkoja  Henkilöstö Liikevaihto  1.000 € Liikevaihto/ henkilö  1.000 € </em> <em type="bold"> </em> 27.183 <em type="bold"> </em> 33.619 </p>
-    <p xml:lang="sms"><em type="bold"> </em> 31.598 <em type="bold"> </em> 30.934 <em type="bold"> </em> 38.116 <em type="bold"> </em> 40.295 </p>
-    <p xml:lang="sms"><em type="bold"> </em> 41.061 <em type="bold"> </em> 42.016 </p>
-    <p>
-      <em type="bold">T3: Vähittäiskaupan tilastot Utsjoki 2007-2014 </em>
-    </p>
-    <p>Vähittäiskauppa kunnittain vuonna 2007‐2014 muuttujina Kunta, Vuosi ja Toimipaikkojen  tiedot    <em type="bold">Toimipaikkoja  Henkilöstö  Liikevaihto 1.000 € Liikevaihto/henkilö 1.000 € </em> <em type="bold"> </em> 19.939 <em type="bold"> </em> 24.101 <em type="bold"> </em> 21.489 <em type="bold"> </em> 21.074 <em type="bold"> </em> 25.285 <em type="bold"> </em> 29.084 <em type="bold"> </em> 29.967 <em type="bold"> </em> 30.607 </p>
-    <p xml:lang="sms">21</p>
-    <p>
-      <em type="bold">T4: Karigasniemen ja Nuorgamin yritysten liikevaihdon kehittyminen 2010-2014 </em>
-    </p>
-    <p><em type="bold">   2014  Muutos 10‐14 </em> <em type="bold">  Nuorgamin yritykset   </em> <em type="bold">Liikevaihto </em> 10 997 €  13 639 €  15 819 €  15 925 €  15 648 €  <em type="bold"> 4 651 € </em> <em type="bold">Tilikauden tulos </em> 136 €  359 €  434 €  459 €  438 €  <em type="bold"> 302 € </em> </p>
-    <p><em type="bold">  Karigasniemen yritykset   </em> <em type="bold">Liikevaihto </em> 9 960 €  10 658 €  12 219 €  11 942 €  12 079 €  <em type="bold"> 2 119 € </em> <em type="bold">Tilikauden tulos </em> 224 €  139 €  119 €  112 €  31 €  <em type="bold">‐193 € </em> </p>
-    <p><em type="bold">  Yhteensä   </em> <em type="bold">Liikevaihto </em> 20 957 €  24 297 €  28 038 €  27 867 €  27 727 €  <em type="bold"> 6 770 € </em> <em type="bold">Tilikauden tulos </em> 360 €  498 €  553 €  571 €  469 €  <em type="bold"> 109 € </em> </p>
-    <p><em type="bold">Nuorgam lv muut% </em>  24 %16 %1 %‐2 % <em type="bold">42 %</em> <em type="bold">Nuorgam tulos muut% </em>  164 %21 %6 %‐5 % <em type="bold">222 %</em> </p>
-    <p><em type="bold">Karigasniemi lv muut% </em>  7 %15 %‐2 %1 % <em type="bold">21 %</em> <em type="bold">Karigasniemi tulos muut% </em>  ‐38 %‐14 %‐6 %‐72 % <em type="bold">‐86 %</em> </p>
-    <p><em type="bold">Yhteensä lv muut%   16 %15 %‐1 %‐1 % 32 %</em> <em type="bold">Yhteensä tulos muut% </em>  <em type="bold">38 %11 %3 %‐18 % 30 %</em> </p>
-    <p>
-      <em type="bold">T5: Norjan verkkokaupan kehittyminen 2012-2017 </em>
-    </p>
-    <p xml:lang="sms">22</p>
-    <p>
-      <em type="bold">T6: Maantieviennin arvo Utsjoki (arvio) </em>
-    </p>
-    <p>
-      <em type="bold">T7: Pendelöijät Utsjoki 1987 – 2013 </em>
-    </p>
-    <p>
-      <em type="bold">T8: Kruunun kurssin vaikutus ansiotasoon rajankävijöillä </em>
-    </p>
-    <p xml:lang="kal">kruunun kurssi7,58,59,5 50 000,00 kr     7 142,86 €     6 666,67 €     6 250,00 €     5 882,35 €     5 555,56 €     5 263,16 €</p>
-    <p xml:lang="sms">23</p>
-    <p>
-      <em type="bold">T9: Utsjoen kunnan väestönmuutos </em>
-    </p>
-    <p>
-      <em type="bold">T10: Kylien väestönmuutos 2009 - 2013 </em>
-    </p>
-    <p>2013 2012 2011 2010 2009 99950 Karigasniemi‐ 99980 Utsjoki Keskus‐ 99990 Nuorgam‐</p>
-    <p>
-      <em type="bold">T11: Väkiluku ja kuntien välinen nettomuutto </em>
-    </p>
-    <p xml:lang="sms">24</p>
     <p>
       <em type="bold">Rajankävijä </em>
     </p>
-    <p>Kuka on rajankävijä? Henkilö joka asuu Suomen ja Ruotsin tai Suomen ja Norjan vä</p>
-    <p>liseen maarajaan rajoittuvassa kunnassa ja työskentelee samaan maarajaan rajoittuvas</p>
-    <p>sa kunnassa toisessa valtiossa. Henkilö joka oleskelee säännöllisesti, vähintään kerran</p>
-    <p>viikossa kotivaltiossa olevassa vakituisessa asunnossaan vähintään 2 päivää ja yhden</p>
-    <p>yön. Viikko tarkoittaa tässä yhteydessä ma-su. Kaikkien ehtojen täytyttävä yhtä aikaa.</p>
-    <p>Pohjoismaisen verosopimuksen mukaan rajankävijää verotetaan vain työntekijän</p>
-    <p>asuinvaltiossa. Vaikka palkka verotetaan asuinvaltiossa, kuuluu henkilö työskentely</p>
-    <p>valtion sosiaaliturvaan ja esimerkiksi sosiaalivakuutusmaksut on kuitenkin maksettava</p>
-    <p>työskentelyvaltiossa.</p>
+    <p>Kuka on rajankävijä? Henkilö joka asuu Suomen ja Ruotsin tai Suomen ja Norjan väliseen maarajaan rajoittuvassa kunnassa ja työskentelee samaan maarajaan rajoittuvassa kunnassa toisessa valtiossa. Henkilö joka oleskelee säännöllisesti, vähintään kerran viikossa kotivaltiossa olevassa vakituisessa asunnossaan vähintään 2 päivää ja yhden yön. Viikko tarkoittaa tässä yhteydessä ma-su. Kaikkien ehtojen täytyttävä yhtä aikaa.</p>
+    <p>Pohjoismaisen verosopimuksen mukaan rajankävijää verotetaan vain työntekijän asuinvaltiossa. Vaikka palkka verotetaan asuinvaltiossa, kuuluu henkilö työskentelyvaltion sosiaaliturvaan ja esimerkiksi sosiaalivakuutusmaksut on kuitenkin maksettava työskentelyvaltiossa.</p>
     <p>Meillä on pääsääntöisesti  kolmenlaisia rajankävijöitä.</p>
     <p type="listitem">  asuvat suomessa rajakunnassa ja ovat töissä ulkomailla rajakunnassa</p>
     <p type="listitem">  asuvat ulkomailla rajakunnassa ja ovat töissä Suomessa rajakunnassa</p>
     <p type="listitem">  muuttavat kesken vuotta, joskus useammankin kerran vuoden aikana.</p>
-    <p>Suomessa asuvat rajakuntaan töihin menevät hakevat verotoimistosta asuinpaikkato</p>
-    <p>distuksen (Todistus Suomessa asumisesta). Todistuksella he todistavat ulkomaiselle</p>
-    <p>viranomaiselle oman asuinpaikkansa. Rajankävijöiden asuinpaikkatodistukseen täytyy</p>
-    <p>laittaa henkilön kotiosoite. Ulkomainen viranomainen tekee tällä perusteella päätök</p>
-    <p>sen siitä pidetäänkö henkilöä rajankävijänä. Asuinpaikkatodistuksen annon yhteydessä</p>
-    <p>määrätään tulevan palkan perusteella ennakkoverot asiakkaalle. Suomessa asuvien ra</p>
-    <p>jankävijöiden on itse ilmoitettava saamansa palkkatulon määrä ulkomailta lopulliseen</p>
-    <p>verotukseen lomakkeella nro 16 (Selvitys ulkomaantyöskentelystä).</p>
-    <p>Ulkomailta Suomeen töihin tulevat rajankävijät hakevat verotoimistosta verokor</p>
-    <p>tin/lähdeverokortin ennen töihin menoa. Verokortti/lähdeverokortti määräytyy sen</p>
-    <p>mukaan onko henkilö yleisesti vai rajoitetusti verovelvollinen.  Asiakkaalla täytyy olla</p>
-    <p>25 mukana personbevis joka vastaa suomen asuinpaikkatodistusta. Verokorttiin tulee</p>
-    <p>merkintä sairaanhoito- ja päivärahamaksun määräämisestä.</p>
-    <p>
-      <em type="bold">Esimerkki rajankävijästä: </em>
-    </p>
-    <p>A asuu Suomessa Nuorgamissa ja menee töihin Tanaan. Hän hakee verotoimistosta</p>
-    <p>asuinpaikkatodistuksen ja hänelle määrätään ennakkoverot. Verotus tapahtuu asuin</p>
-    <p>valtiossa eli Suomessa.</p>
-    <p>B asuu Tanassa ja menee töihin Nuorgamiin. Hän asuu viikot Nuorgamissa mutta vii</p>
-    <p>konlopuksi menee perheensä luokse Tanaan. Häntä pidetään rajankävijänä ja Norja</p>
-    <p>verottaa hänen palkkatulonsa. Suomeen määrätään vain sairaanhoito ja päivärahamak</p>
-    <p xml:lang="kal">su.</p>
-    <p>Suomi-Norja-rajakuntia ovat Suomessa: Enontekiö, Inari sekä Utsjoki. Norjassa: Ka</p>
-    <p xml:lang="nob">rasjoki, Kautokeino, Kåfjord, Nesseby, Nordreisa, Storfjord, Sör-Varanger ja Tana.</p>
-    <p>Verovuodesta 2013 alkaen Rajankävijöiden verotus on keskitetty valtakunnallisesti</p>
-    <p>Meri-Lapin verotoimistoon.</p>
-    <p xml:lang="sms">26</p>
+    <p>Suomessa asuvat rajakuntaan töihin menevät hakevat verotoimistosta asuinpaikkatodistuksen (Todistus Suomessa asumisesta). Todistuksella he todistavat ulkomaiselle viranomaiselle oman asuinpaikkansa. Rajankävijöiden asuinpaikkatodistukseen täytyy laittaa henkilön kotiosoite. Ulkomainen viranomainen tekee tällä perusteella päätöksen siitä pidetäänkö henkilöä rajankävijänä. Asuinpaikkatodistuksen annon yhteydessä määrätään tulevan palkan perusteella ennakkoverot asiakkaalle. Suomessa asuvien rajankävijöiden on itse ilmoitettava saamansa palkkatulon määrä ulkomailta lopulliseen verotukseen lomakkeella nro 16 (Selvitys ulkomaantyöskentelystä).</p>
+    <p>Ulkomailta Suomeen töihin tulevat rajankävijät hakevat verotoimistosta verokortin/lähdeverokortin ennen töihin menoa. Verokortti/lähdeverokortti määräytyy sen mukaan onko henkilö yleisesti vai rajoitetusti verovelvollinen.  Asiakkaalla täytyy olla mukana personbevis joka vastaa suomen asuinpaikkatodistusta. Verokorttiin tulee merkintä sairaanhoito- ja päivärahamaksun määräämisestä.</p>
+    <p><em type="bold">Esimerkki rajankävijästä: </em>A asuu Suomessa Nuorgamissa ja menee töihin Tanaan. Hän hakee verotoimistosta asuinpaikkatodistuksen ja hänelle määrätään ennakkoverot. Verotus tapahtuu asuinvaltiossa eli Suomessa. </p>
+    <p>B asuu Tanassa ja menee töihin Nuorgamiin. Hän asuu viikot Nuorgamissa mutta viikonlopuksi menee perheensä luokse Tanaan. Häntä pidetään rajankävijänä ja Norja verottaa hänen palkkatulonsa. Suomeen määrätään vain sairaanhoito ja päivärahamaksu.</p>
+    <p>Suomi-Norja-rajakuntia ovat Suomessa: Enontekiö, Inari sekä Utsjoki. Norjassa: Karasjoki, Kautokeino, Kåfjord, Nesseby, Nordreisa, Storfjord, Sör-Varanger ja Tana.</p>
+    <p>Verovuodesta 2013 alkaen Rajankävijöiden verotus on keskitetty valtakunnallisesti Meri-Lapin verotoimistoon.</p>
     <p>
       <em type="bold">Rajatyöntekijän sosiaaliturva (Kela 16.6.2015) </em>
     </p>
-    <p>Rajatyöntekijällä tarkoitetaan henkilöä, joka työskentelee palkkatyössä yhdessä EU/ETA</p>
-    <p>maassa mutta asuu toisessa jäsenvaltiossa, johon hän palaa pääsääntöisesti päivittäin tai vä</p>
-    <p>hintään kerran viikossa. Rajatyöntekijän sosiaaliturva määräytyy EU:n sosiaaliturva</p>
-    <p>asetuksen 883/2004 määräysten mukaan.</p>
+    <p>Rajatyöntekijällä tarkoitetaan henkilöä, joka työskentelee palkkatyössä yhdessä EU/ETAmaassa mutta asuu toisessa jäsenvaltiossa, johon hän palaa pääsääntöisesti päivittäin tai vähintään kerran viikossa. Rajatyöntekijän sosiaaliturva määräytyy EU:n sosiaaliturvaasetuksen 883/2004 määräysten mukaan.</p>
     <p>
       <em type="bold">1.  Sosiaaliturvaa työskentelymaasta  </em>
     </p>
-    <p>EU-alueella työskentelevään rajatyöntekijään sovelletaan työskentelymaan, ei asuinmaan</p>
-    <p>sosiaaliturvainsäädäntöä. Tämä tarkoittaa sitä, että oikeus esimerkiksi sairausvakuutuksen</p>
-    <p>etuuksiin työskentelymaassa määräytyy tämän maan sairausvakuutusta koskevan lainsää</p>
-    <p>dännön mukaisesti. Etuutta koskeva työskentelymaan ratkaisu voi tällöin olla myös hylkää</p>
-    <p>vä, jos etuuslaissa säädetyt edellytykset eivät täyty. Toisaalta etuutta ei voida maksaa myös</p>
-    <p>kään asuinmaasta, koska rajatyöntekijä ei kuulu asuinmaansa sosiaaliturvaan.</p>
-    <p>EU:n sosiaaliturva-asetus koskee lähes kaikkia Kelan etuuksia. Tämä tarkoittaa sitä, että toi</p>
-    <p>sessa EU/ETA-maassa työskentelevä ja tämän maan sosiaaliturvaan kuuluva rajatyöntekijä</p>
-    <p>ei ole oikeutettu näihin Kelan etuuksiin Suomesta. Etuuksia haetaan työskentelymaasta.</p>
-    <p>EU-asetus ei koske Kelan etuuksista mm. asumistukea ja äitiysavustusta. Suomessa asuvalla</p>
+    <p>EU-alueella työskentelevään rajatyöntekijään sovelletaan työskentelymaan, ei asuinmaan sosiaaliturvainsäädäntöä. Tämä tarkoittaa sitä, että oikeus esimerkiksi sairausvakuutuksen etuuksiin työskentelymaassa määräytyy tämän maan sairausvakuutusta koskevan lainsäädännön mukaisesti. Etuutta koskeva työskentelymaan ratkaisu voi tällöin olla myös hylkäävä, jos etuuslaissa säädetyt edellytykset eivät täyty. Toisaalta etuutta ei voida maksaa myöskään asuinmaasta, koska rajatyöntekijä ei kuulu asuinmaansa sosiaaliturvaan.  EU:n sosiaaliturva-asetus koskee lähes kaikkia Kelan etuuksia. Tämä tarkoittaa sitä, että toisessa EU/ETA-maassa työskentelevä ja tämän maan sosiaaliturvaan kuuluva rajatyöntekijä ei ole oikeutettu näihin Kelan etuuksiin Suomesta. Etuuksia haetaan työskentelymaasta. EU-asetus ei koske Kelan etuuksista mm. asumistukea ja äitiysavustusta. Suomessa asuvalla</p>
     <p>rajatyöntekijällä voi olla oikeus näihin etuuksiin.</p>
     <p>
       <em type="bold">2.  Lapsilisä ja kotihoidon tuki </em>
     </p>
-    <p>Suomessa lasten perusteella maksettavia Kelan etuuksia ovat mm. alle 17-vuotiaasta lapses</p>
-    <p>ta maksettava lapsilisä ja lasten kotihoidon tuki. Kotihoidon tukea voi saada, kun perheessä</p>
-    <p>on alle 3-vuotias lapsi. EU-tilanteissa lapsilisän ja muut ns. perhe-etuudet maksava maa</p>
-    <p>määräytyy sen mukaan, onko perheessä yksi vai kaksi työssä käyvää vanhempaa tai muuta</p>
-    <p>huoltajaa, ja missä maassa työskentely tapahtuu.  Työskentely EU/ETA-maassa tuo oikeu</p>
-    <p>den tämän maan perhe-etuuksiin myös muussa maassa asuvasta lapsesta. Koska oikeus</p>
-    <p>myös lapsen asuinmaan perhe-etuuksiin säilyy, voi esimerkiksi lapsilisää saada samasta lap</p>
-    <p>sesta samanaikaisesti kahdesta maasta. Ei kuitenkaan täysimääräisenä molemmista maista.</p>
-    <p>Työskentelyn päätyttyä maksettava vanhempainpäiväraha ja työttömyyspäiväraha rinnastu</p>
-    <p>vat vaikutukseltaan työskentelyyn.  Esimerkiksi Norjasta äitiyspäivärahaa saava rajatyönte</p>
-    <p>27 kijä on perhe-etuuksista päätettäessä äitiysvapaan aikana edelleen ikään kuin työntekijä Nor</p>
-    <p>jassa.</p>
-    <p>Jos EU/ETA-maassa rajatyössä käyvä on perheessä ainoa työskentelevä vanhempi, maksaa</p>
-    <p>työskentelymaa omat perhe-etuutensa myös Suomessa asuvista lapsista. Vanhemman työs</p>
-    <p>kentelymaa on tällöin perhe-etuuksien ns. ensisijainen maksajamaa, joka maksaa omat etuu</p>
-    <p>tensa täysimääräisinä etuuksien edellytykset – kuten ikärajat – täyttävistä lapsista. Suomi on</p>
-    <p>perhe-etuuksien ns. toissijainen maksajamaa. Kustakin perheen lapsesta maksettavissa ole</p>
-    <p>vien työskentelymaan ja Suomen perhe-etuuksien määrää vertaillaan. Jos Suomen määrä on</p>
-    <p>suurempi, maksaa Kela erotuksen.</p>
-    <p>Kun toinen perheen vanhemmista on rajatyöntekijä EU/ETA-maassa ja toinen työskentelee</p>
-    <p>Suomessa, maksaa Suomi lapsilisän ja mahdollisen kotihoidon tuen täysimääräisinä. Raja</p>
-    <p>työntekijän työskentelymaa maksaa erotuksen, jos tässä maassa perheen lapsista saatavissa</p>
-    <p>olevien perhe-etuuksien taso ylittää Kelan etuuksien tason.</p>
-    <p><em type="bold">Esimerkki.</em> Suomessa asuvan perheen vanhemmista toinen työskentelee Norjassa, toinen </p>
-    <p>Suomessa. Perheessä on kaksi alle 17-vuotiasta lasta. Suomi (Kela) maksaa lapsilisät täysi</p>
-    <p>määräisenä (95,75 + 105,80 € = 201,55 € kuukaudessa v. 2015). Norjan lapsilisä kahdesta</p>
-    <p>lapsesta v. 2015 on 970 kruunua x 2 = 1940 kruunua = 220 €. Norja (NAV) maksaa perheel</p>
-    <p>le lapsilisien erotuksen 18,5 € kuukaudessa.</p>
+    <p>Suomessa lasten perusteella maksettavia Kelan etuuksia ovat mm. alle 17-vuotiaasta lapsesta maksettava lapsilisä ja lasten kotihoidon tuki. Kotihoidon tukea voi saada, kun perheessä</p>
+    <p>on alle 3-vuotias lapsi. EU-tilanteissa lapsilisän ja muut ns. perhe-etuudet maksava maa määräytyy sen mukaan, onko perheessä yksi vai kaksi työssä käyvää vanhempaa tai muuta huoltajaa, ja missä maassa työskentely tapahtuu.  Työskentely EU/ETA-maassa tuo oikeuden tämän maan perhe-etuuksiin myös muussa maassa asuvasta lapsesta. Koska oikeus myös lapsen asuinmaan perhe-etuuksiin säilyy, voi esimerkiksi lapsilisää saada samasta lapsesta samanaikaisesti kahdesta maasta. Ei kuitenkaan täysimääräisenä molemmista maista. Työskentelyn päätyttyä maksettava vanhempainpäiväraha ja työttömyyspäiväraha rinnastuvat vaikutukseltaan työskentelyyn.  Esimerkiksi Norjasta äitiyspäivärahaa saava rajatyöntekijä on perhe-etuuksista päätettäessä äitiysvapaan aikana edelleen ikään kuin työntekijä Norjassa.</p>
+    <p>Jos EU/ETA-maassa rajatyössä käyvä on perheessä ainoa työskentelevä vanhempi, maksaa työskentelymaa omat perhe-etuutensa myös Suomessa asuvista lapsista. Vanhemman työskentelymaa on tällöin perhe-etuuksien ns. ensisijainen maksajamaa, joka maksaa omat etuutensa täysimääräisinä etuuksien edellytykset – kuten ikärajat – täyttävistä lapsista. Suomi on perhe-etuuksien ns. toissijainen maksajamaa. Kustakin perheen lapsesta maksettavissa olevien työskentelymaan ja Suomen perhe-etuuksien määrää vertaillaan. Jos Suomen määrä on suurempi, maksaa Kela erotuksen.</p>
+    <p>Kun toinen perheen vanhemmista on rajatyöntekijä EU/ETA-maassa ja toinen työskentelee Suomessa, maksaa Suomi lapsilisän ja mahdollisen kotihoidon tuen täysimääräisinä. Rajatyöntekijän työskentelymaa maksaa erotuksen, jos tässä maassa perheen lapsista saatavissa olevien perhe-etuuksien taso ylittää Kelan etuuksien tason.</p>
+    <p><em type="bold">Esimerkki.</em> Suomessa asuvan perheen vanhemmista toinen työskentelee Norjassa, toinen Suomessa. Perheessä on kaksi alle 17-vuotiasta lasta. Suomi (Kela) maksaa lapsilisät täysimääräisenä (95,75 + 105,80 € = 201,55 € kuukaudessa v. 2015). Norjan lapsilisä kahdesta lapsesta v. 2015 on 970 kruunua x 2 = 1940 kruunua = 220 €. Norja (NAV) maksaa perheelle lapsilisien erotuksen 18,5 € kuukaudessa.  </p>
     <p>
       <em type="bold">3.  Vanhempainpäivärahat </em>
     </p>
-    <p>Kelan maksamia vanhempainpäivärahoja ovat äidille maksettava äitiysraha tai erityisäitiys</p>
-    <p>raha, isälle maksettava isyysraha sekä toiselle vanhemmalle maksettava vanhempainraha.</p>
-    <p>Rajatyöntekijän vanhempainpäivärahat maksetaan työskentelyvaltiosta. Aloitettu päiväraha</p>
+    <p>Kelan maksamia vanhempainpäivärahoja ovat äidille maksettava äitiysraha tai erityisäitiysraha, isälle maksettava isyysraha sekä toiselle vanhemmalle maksettava vanhempainraha.  Rajatyöntekijän vanhempainpäivärahat maksetaan työskentelyvaltiosta. Aloitettu päiväraha</p>
     <p>kausi tulee maksaa loppuun siinäkin tapauksessa, että työsuhde päättyy.</p>
-    <p>Kun toinen vanhemmista on rajatyöntekijä ja toinen työskentelee Suomessa, voi samasta</p>
-    <p>lapsesta maksettavien vanhempainpäivärahojen maksaminen jakaantua Suomen ja toisen</p>
-    <p>maan välillä. Suomen sosiaaliturvaan kuuluvan äidin saadessa Kelan äitiysrahaa äitiysraha</p>
-    <p>kaudella (105 arkipäivää) voi rajatyössä oleva isä nostaa muun maan maksamaa päivärahaa</p>
-    <p>enintään 18 päivän ajalta ilman, että tämä vaikuttaa Kelan äitiysrahan maksuun. Samanai</p>
-    <p>28 kaisesti Kelan äidille maksaman vanhempainrahan (158 arkipäivää) kanssa isä ei voi nostaa</p>
-    <p>päivärahaa toisesta maasta ilman, että se vaikuttaa Kelan etuuteen.</p>
-    <p>Norjassa edellytys isyysrahan maksamiselle on, että myös äiti on oikeutettu Norjan van</p>
-    <p>hempainpäivärahoihin. Eli myös äidin on pitänyt asua tai työskennellä Norjassa ennen van</p>
-    <p>hempainvapaata. Jos näin ei ole, Norja ei maksa isälle isyysrahaa.</p>
+    <p>Kun toinen vanhemmista on rajatyöntekijä ja toinen työskentelee Suomessa, voi samasta lapsesta maksettavien vanhempainpäivärahojen maksaminen jakaantua Suomen ja toisen maan välillä. Suomen sosiaaliturvaan kuuluvan äidin saadessa Kelan äitiysrahaa äitiysrahakaudella (105 arkipäivää) voi rajatyössä oleva isä nostaa muun maan maksamaa päivärahaa enintään 18 päivän ajalta ilman, että tämä vaikuttaa Kelan äitiysrahan maksuun. Samanaikaisesti Kelan äidille maksaman vanhempainrahan (158 arkipäivää) kanssa isä ei voi nostaa päivärahaa toisesta maasta ilman, että se vaikuttaa Kelan etuuteen.</p>
+    <p>Norjassa edellytys isyysrahan maksamiselle on, että myös äiti on oikeutettu Norjan vanhempainpäivärahoihin. Eli myös äidin on pitänyt asua tai työskennellä Norjassa ennen vanhempainvapaata. Jos näin ei ole, Norja ei maksa isälle isyysrahaa.</p>
     <p>
       <em type="bold">4.  Työttömyysturva </em>
     </p>
-    <p>Suomessa Kela maksaa peruspäivärahaa ja työttömyyskassat ansiosidonnaista päivärahaa</p>
-    <p>työttömille, joilla on vähintään 26 viikon edeltävä työskentelyhistoria (ns. työssäoloehto).</p>
-    <p>Työttömät, jotka eivät täytyä työssäoloehtoa, tai jotka ovat saaneet päivärahaa enimmäisajan</p>
-    <p>500 päivää voivat saada Kelan maksamaa työmarkkinatukea.</p>
-    <p>Rajatyöntekijän jäädessä työttömäksi työsuhteen päättyessä maksetaan työttömyysetuudet</p>
-    <p>asuinmaasta Suomesta. Kun työsuhde ei pääty, mutta rajatyöntekijä lomautetaan, maksetaan</p>
-    <p>etuudet työskentelymaasta.</p>
-    <p>Työttömäksi jääneen rajatyöntekijän on ilmoittauduttava asuinmaassaan Suomessa työnha</p>
-    <p>kijana työ- ja elinkeinotoimistoon (TE-toimisto). Työnhakijaksi voi ilmoittautua myös sen</p>
-    <p>maan työvoimatoimistossa, jossa on viimeksi työskennellyt. Työttömyysetuudet maksaa</p>
-    <p>kuitenkin aina asuinvaltio.</p>
+    <p>Suomessa Kela maksaa peruspäivärahaa ja työttömyyskassat ansiosidonnaista päivärahaa työttömille, joilla on vähintään 26 viikon edeltävä työskentelyhistoria (ns. työssäoloehto). Työttömät, jotka eivät täytyä työssäoloehtoa, tai jotka ovat saaneet päivärahaa enimmäisajan 500 päivää voivat saada Kelan maksamaa työmarkkinatukea.</p>
+    <p>Rajatyöntekijän jäädessä työttömäksi työsuhteen päättyessä maksetaan työttömyysetuudet asuinmaasta Suomesta. Kun työsuhde ei pääty, mutta rajatyöntekijä lomautetaan, maksetaan etuudet työskentelymaasta.</p>
+    <p>Työttömäksi jääneen rajatyöntekijän on ilmoittauduttava asuinmaassaan Suomessa työnhakijana työ- ja elinkeinotoimistoon (TE-toimisto). Työnhakijaksi voi ilmoittautua myös sen maan työvoimatoimistossa, jossa on viimeksi työskennellyt. Työttömyysetuudet maksaa kuitenkin aina asuinvaltio.</p>
     <p>
       <em type="bold">5.  Sairauspäiväraha ja sairaanhoito </em>
     </p>
-    <p>Toisessa EU/ETA-maassa työskentelevä rajatyöntekijä kuuluu työskentelymaan sosiaalitur</p>
-    <p>vaan, eikä hän voi samanaikaisesti olla Suomessa sairausvakuutettu. Sairauspäivärahaa tulee</p>
-    <p>hakea työskentelymaasta.</p>
-    <p>Sairaanhoitoetuuksilla tarkoitetaan Suomessa julkista terveydenhuoltoa, sekä Kelan maksa</p>
-    <p>mia sairaanhoitokorvauksia esimerkiksi lääkkeistä, yksityislääkärin palkkiosta ja matkakus</p>
-    <p>tannuksista.</p>
+    <p>Toisessa EU/ETA-maassa työskentelevä rajatyöntekijä kuuluu työskentelymaan sosiaaliturvaan, eikä hän voi samanaikaisesti olla Suomessa sairausvakuutettu. Sairauspäivärahaa tulee hakea työskentelymaasta.</p>
+    <p>Sairaanhoitoetuuksilla tarkoitetaan Suomessa julkista terveydenhuoltoa, sekä Kelan maksamia sairaanhoitokorvauksia esimerkiksi lääkkeistä, yksityislääkärin palkkiosta ja matkakustannuksista.</p>
     <p>Koska toisessa EU/ETA-maassa työskentelevä rajatyöntekijä ei ole sairausvakuutettu Suo</p>
-    <p>messa, tulee Kela-kortti ja Kelan antama eurooppalainen sairaanhoitokortti palauttaa Ke</p>
-    <p>29 laan. Rajatyöntekijän työskentelyvaltio myöntää rajatyöntekijälle eurooppalaisen sairaanhoi</p>
-    <p>tokortin, jota rajatyöntekijän on itse haettava.</p>
-    <p>Suomessa asuva rajatyöntekijä on oikeutettu Suomessa sairaanhoitoon julkisessa terveyden</p>
-    <p xml:lang="fkv">huollossa kuntalaisen asiakasmaksulla. Kela antaa rajatyöntekijälle asiakirjan ’Todistus oi</p>
-    <p>keudesta hoitoetuuksiin Suomessa’, joka esitetään terveyskeskuksessa tai sairaalassa Suo</p>
-    <p>messa.</p>
-    <p>Suomessa asuvat, muun maan sairausvakuutukseen kuuluvat rajatyöntekijät saavat suora</p>
-    <p>korvauksen lääkeostoista apteekissa, vaikka eivät olekaan Suomessa sairausvakuutettuja.</p>
-    <p>Apteekki tarkistaa suorakorvausoikeuden Kelan suorakorvaustietojen kyselypalvelusta.</p>
-    <p>Yksityisen terveydenhuollon palveluista Suomessa asuvan, muualla sairausvakuutetun raja</p>
-    <p>työntekijän on haettava sairaanhoitokustannusten korvausta jälkikäteen Kelasta lomakkeella</p>
-    <p xml:lang="sma">SV127.</p>
-    <p xml:lang="deu">
+    <p>messa, tulee Kela-kortti ja Kelan antama eurooppalainen sairaanhoitokortti palauttaa Kelaan. Rajatyöntekijän työskentelyvaltio myöntää rajatyöntekijälle eurooppalaisen sairaanhoitokortin, jota rajatyöntekijän on itse haettava.</p>
+    <p>Suomessa asuva rajatyöntekijä on oikeutettu Suomessa sairaanhoitoon julkisessa terveydenhuollossa kuntalaisen asiakasmaksulla. Kela antaa rajatyöntekijälle asiakirjan ’Todistus oikeudesta hoitoetuuksiin Suomessa’, joka esitetään terveyskeskuksessa tai sairaalassa Suomessa.</p>
+    <p>Suomessa asuvat, muun maan sairausvakuutukseen kuuluvat rajatyöntekijät saavat suorakorvauksen lääkeostoista apteekissa, vaikka eivät olekaan Suomessa sairausvakuutettuja. Apteekki tarkistaa suorakorvausoikeuden Kelan suorakorvaustietojen kyselypalvelusta. Yksityisen terveydenhuollon palveluista Suomessa asuvan, muualla sairausvakuutetun rajatyöntekijän on haettava sairaanhoitokustannusten korvausta jälkikäteen Kelasta lomakkeella SV127.</p>
+    <p>
       <em type="bold">6.  Eläke </em>
     </p>
-    <p>Suomessa Kela maksaa kansaneläkejärjestelmän eläkkeet ja työeläkelaitokset työeläkkeet.</p>
-    <p>Eläke karttuu työntekijälle vain yhdestä maasta kerrallaan. Kun rajatyöntekijä työskentelee</p>
-    <p>muussa kuin asuinmaassaan, karttuu eläkkeen vakuutusaikaa vain työskentelymaasta. Työs</p>
-    <p>kentely toisessa maassa syrjäyttää siis samanaikaisen asumisen Suomessa. Esimerkiksi</p>
-    <p>Suomessa asuvalle rajatyöntekijälle, joka työskentelee Ruotsissa tai Norjassa, ei kartu työs</p>
-    <p>kentelyn ajalta Kelan kansaneläkettä Suomessa.</p>
-    <p>Jokainen EU/ETA-maa, jossa työntekijä on ollut vakuutettuna vähintään vuoden ajan, mak</p>
-    <p>saa hänelle vanhuuseläkettä, kun hän saavuttaa kyseisen maan vanhuuseläkeiän. Jos eläk</p>
-    <p>keelle jäävä on työskennellyt esimerkiksi kolmessa eri maassa, saa hän aikanaan kolmea eri</p>
-    <p>vanhuuseläkettä. Eläkkeelle jäävä saa kustakin maasta eläkettä sen mukaan, kuinka kauan</p>
-    <p>hän ollut kyseisen maan sosiaaliturvassa.</p>
-    <p>Vaikka henkilö olisi tehnyt työtä useassa eri maassa, hänen on haettava eläkettä asuinmaas</p>
-    <p>sa. Suomessa asuva jättää vanhuuseläkehakemuksen Kelaan, työeläkelaitokseen tai Eläke</p>
-    <p>turvakeskukseen. Hakemuksessa ilmoitetaan ulkomailla työskentelyn ajat. Suomessa asuva</p>
-    <p>henkilö ei siis itse hae eläkkeitä työskentelymaistaan, vaan Eläketurvakeskus hoitaa yhtey</p>
-    <p>30 denpidon entisiin työskentelymaihin. Eläke maksetaan riippumatta siitä, missä EU/ETA</p>
-    <p>maassa eläkeläinen asuu tai oleskelee.</p>
-    <p xml:lang="sms">31</p>
+    <p>Suomessa Kela maksaa kansaneläkejärjestelmän eläkkeet ja työeläkelaitokset työeläkkeet.    Eläke karttuu työntekijälle vain yhdestä maasta kerrallaan. Kun rajatyöntekijä työskentelee muussa kuin asuinmaassaan, karttuu eläkkeen vakuutusaikaa vain työskentelymaasta. Työskentely toisessa maassa syrjäyttää siis samanaikaisen asumisen Suomessa. Esimerkiksi Suomessa asuvalle rajatyöntekijälle, joka työskentelee Ruotsissa tai Norjassa, ei kartu työskentelyn ajalta Kelan kansaneläkettä Suomessa.</p>
+    <p>Jokainen EU/ETA-maa, jossa työntekijä on ollut vakuutettuna vähintään vuoden ajan, maksaa hänelle vanhuuseläkettä, kun hän saavuttaa kyseisen maan vanhuuseläkeiän. Jos eläkkeelle jäävä on työskennellyt esimerkiksi kolmessa eri maassa, saa hän aikanaan kolmea eri</p>
+    <p>vanhuuseläkettä. Eläkkeelle jäävä saa kustakin maasta eläkettä sen mukaan, kuinka kauan hän ollut kyseisen maan sosiaaliturvassa.</p>
+    <p>Vaikka henkilö olisi tehnyt työtä useassa eri maassa, hänen on haettava eläkettä asuinmaassa. Suomessa asuva jättää vanhuuseläkehakemuksen Kelaan, työeläkelaitokseen tai Eläketurvakeskukseen. Hakemuksessa ilmoitetaan ulkomailla työskentelyn ajat. Suomessa asuva henkilö ei siis itse hae eläkkeitä työskentelymaistaan, vaan Eläketurvakeskus hoitaa yhteydenpidon entisiin työskentelymaihin. Eläke maksetaan riippumatta siitä, missä EU/ETAmaassa eläkeläinen asuu tai oleskelee.</p>
     <p>
       <em type="bold">Rajaesteongelmia rajatyöntekijöillä </em>
     </p>
@@ -756,17 +248,13 @@
     </p>
     <p>Vastaajia 14 (suomi)  Vastaajia 2 (saame)</p>
     <p>
-      <em type="bold">2. Kuvaile ongelmasi mahdollisimman tarkasti, jotta ulkopuolinen lukija ymmärtää mistä on </em>
-    </p>
-    <p>
-      <em type="bold">kysymys. </em>
+      <em type="bold">2. Kuvaile ongelmasi mahdollisimman tarkasti, jotta ulkopuolinen lukija ymmärtää mistä on kysymys. </em>
     </p>
     <p>Vastaajien määrä: 14</p>
     <p type="listitem">- Suomen verotus on rajankävijöitä syrjivää. Rajakunnassa ja muualla kuin Rajakunnassa asuvaa suomalaista, joka työskentelee Rajakunnassa tai muualla ulkomailla, verotetaan eri periaatteiden mukaan. Norjaan maksettava trygdeavgift, ja kuuluminen Norjan sosiaaliturvan piiriin, ei anna rajankävijöille samoja oikeuksia kuin norjalaisille jotka maksavat saman trygdeavgiftin (esim. Ei oikeutta omalääkäriin tai sairasmatkakorvauksiin, perhe-etuudet ei myöskään samat kuin norjalaisilla)</p>
     <p type="listitem">- Olen hakenut Norjan verokorttia tammikuussa enkä ole saanut sitä vielä. Olen ollut yhteydessä Norjan verotoimistoon ja sanoivat ettei siellä ole mitään tietoja tälle vuodelle. Työnantajani on kuitenkin perinyt vain sen 10% veroa joka kuukausi. Olen nyt syksyllä vaihtamassa työpaikkaa ja siellä oleva palkanlaskija ei ymmärrä rajatyöntekijöiden asioista mitään.</p>
     <p type="listitem">- Suomen verotus: Eli suomen verottaja ei hyväksy vähennyksiin Norjaan maksamaani tryggdeavgiftia ja verottaa todella reilusti. Jos asuisin Norjan puolella säästäisin verotuksessa n.9000euroa/vuosi. Tämän erotuksen laskin, koska kunta oli pidättänyt väärällä koodilla tryggdeavgiftit tänä vuonna ja Norjan verottaja tulkitsi, että olisin verovelvollinen Norjaan ja joutuisin maksamaan jäännösveroa. ihan mielenkiinnon vuoksi rupesin laskemaan, koska tiesin maksavani kohtuuttoman paljon veroja, mutta tuo summa kyllä otti päähän.</p>
-    <p>Kela: kelakorttia ei ole lupa käyttää, kuitenkin oikeus samoihin korvauksiin, mutta ne pitää erikseen hakea tietyllä kaavakkeella, jolloin ehkä saat jotain. Olen ollut rajatyöntekijä 14 vuotta ja käynyt yksityisellä hammaslääkärillä tämän ajan vuosittain. Joka kerta hän on ottanut huomioon kelavähennyksen tietäen minun olevan rajatyöntekijä. Tänä vuonna tuli Kelalta kirje, että noin ei voi toimia, koska ei ole kelakortin käyttöoikeutta, vaan minun pitää maksaa koko summa itse ja anoa korvausta jälkikäteen. Koen, että Suomen valtio pitää meitä rajatyöntekijöitä toisenasteen kansalaisina. Eletään jo 2015 ja vieläkin meidän, suomen kansalaisten pitää mennä kirje kädessä jos haluamme palveluita kotimaassa. Kela korttiin voidaan laittaa koodilla korvattavuudet tietyille lääkkeille, miksi ei ole koodia rajatyöntekijälle? Olin lähdössä matkalle Espanjaan ja ajattelin ottaa matkavakuutuksen, mutta sitäpä ei saakkaan</p>
-    <p>32 ilman voimassa olevaa Kelakorttia. Vaati monia puheluita ja selvityksiäennen kuin lopulta sain matkavakuutuksen johon on  kirjattu rajatyöntekijästä yms... Kuitenkaan en voi ottaa virkavapaata ja lähteä ulkomaille esim. 4kk, koska vakuutukseni on voimassa vain 3kk ajan. No eipä näillä verotuksilla enää tarvi edes mennä ulkomaille Norjaan kauemmas, mutta kuitenkin koen olevani toisen luokan kansalainen rajankävijästatukseni kanssa. Välillä mietin mitenköhän asia pakolaisten kohdalla, kun oman maan kansalaisiakin kohdellaan tällätavoin?</p>
+    <p>Kela: kelakorttia ei ole lupa käyttää, kuitenkin oikeus samoihin korvauksiin, mutta ne pitää erikseen hakea tietyllä kaavakkeella, jolloin ehkä saat jotain. Olen ollut rajatyöntekijä 14 vuotta ja käynyt yksityisellä hammaslääkärillä tämän ajan vuosittain. Joka kerta hän on ottanut huomioon kelavähennyksen tietäen minun olevan rajatyöntekijä. Tänä vuonna tuli Kelalta kirje, että noin ei voi toimia, koska ei ole kelakortin käyttöoikeutta, vaan minun pitää maksaa koko summa itse ja anoa korvausta jälkikäteen. Koen, että Suomen valtio pitää meitä rajatyöntekijöitä toisenasteen kansalaisina. Eletään jo 2015 ja vieläkin meidän, suomen kansalaisten pitää mennä kirje kädessä jos haluamme palveluita kotimaassa. Kela korttiin voidaan laittaa koodilla korvattavuudet tietyille lääkkeille, miksi ei ole koodia rajatyöntekijälle? Olin lähdössä matkalle Espanjaan ja ajattelin ottaa matkavakuutuksen, mutta sitäpä ei saakkaan ilman voimassa olevaa Kelakorttia. Vaati monia puheluita ja selvityksiäennen kuin lopulta sain matkavakuutuksen johon on  kirjattu rajatyöntekijästä yms... Kuitenkaan en voi ottaa virkavapaata ja lähteä ulkomaille esim. 4kk, koska vakuutukseni on voimassa vain 3kk ajan. No eipä näillä verotuksilla enää tarvi edes mennä ulkomaille Norjaan kauemmas, mutta kuitenkin koen olevani toisen luokan kansalainen rajankävijästatukseni kanssa. Välillä mietin mitenköhän asia pakolaisten kohdalla, kun oman maan kansalaisiakin kohdellaan tällätavoin?</p>
     <p>NAV; kävin leikkauksessa Tromsössä Aleriksessa yksityisessä sairaalassa johon terveyskeskuslääkäri Norjasta teki lähetteen käyttäen raskere tilbake systeemiä. (työntekiijä nopeammin takaisin työelämään). Kaikki meni muuten hyvin, mutta matkakorvauksia kotoa lentokentälle ja takaisin lentokentältä + yöpymistä potilashotellissa ei korvattu, koska en ollut lähtenyt leikkaukseen suoraan töistä, vaan leikkausaika ilmoitettiin etukäteen. Puhelimitse olen ollut yhteydessä Suomen Kelaan, josta sanottiin että olen oikeutettu korvaukseen jommasta kummasta maasta mutta päätöstä en ole vielä saanut.</p>
     <p type="listitem">- Suomen veroilmoitus ei ole ottanut huomioon rajatyöntekijöitä. Kohdat joihin täytyisi laittaa , Norjasta saadut ja Norjaan maksetut pakolliset maksut 10% tuloista , pitäisi olla erikseen merkitty . Virkailija, joka käsittelee vain rajatyöntekijöiden veroilmoituksia, ajan tasalla molempien maiden pykälistä . Nyt voi veroilmoitukseni käsitellä vaikka Kuopion virkailija joka ei rajatyöntekijöistä tiedä mitään .</p>
     <p>Kuinka Kela ja Navi  suhteuttaa kaikki sosiaalimaksut pätkätyöläisille . Jääkö kummassakin maassa paitsioon saamisen puolella .</p>
@@ -776,7 +264,7 @@
     <p type="listitem">- Vaimo töissä Utsjoella, mies Norjassa (ei rajakunnassa, vaan Kirkenesissä). Äitiysloma päättyy, vaimo jää vielä hoitovapaalla, kela ilmoittaa perhe-etuuksien maksamisen siirtyvän Nav:lle. Päätöksenteko hidasta (6kk). Lisäksi kotihoidontuen verotus nyt ongelma. Nav voi maksaa vain miehelle (?) eli verotus hänen paikkansa verotuksen lisäksi, ja vaimo jää 0tuloille. Päätöstä odotamme vielä. Aiemminkin perheessämme ollut sama tilanne, silloin kesti puoli vuotta päätöksessä.</p>
     <p type="listitem">- Suomen verotus: Maksan Norjaan 10% veroa, johon sisältyy eläkemaksut ja terveydenhoitopalvelut. Kuitenkin maksan tämän veron myös Suomeen. Miksi tuplaverotus? Kokonaisveroprosentista tulee aivan kohtuuton. Miksi meitä rajatyöntekijöitä rankaistaan siitä, että olemme valinneet tuoda veroeurot kotikuntaamme sen sijaan että asuisimme Norjan puolella?</p>
     <p type="listitem">- Et voi opiskella yhteispohjoismaisessa Saamelaisessa korkeakoulussa päivärahallasi, koska koulu sijaitsee norjassa. Monelle saamenkieliselle aikuiselle hyvä mahdollisuus parantaa työllistymismahdollisuuttaan olisi kouluttautua rajan toisella puolella, eikä tarvitsisi lähteä kouluttautumaan kauas etelä suomeen.</p>
-    <p type="listitem">33 - Maksaisin verot mielelläni Utsjoen kuntaan, mutta suomi ei verota vaan ryöstää! Olisiko jo aika herätä sielläkin ja laittaa verotus normaalille tasolle?</p>
+    <p type="listitem">- Maksaisin verot mielelläni Utsjoen kuntaan, mutta suomi ei verota vaan ryöstää! Olisiko jo aika herätä sielläkin ja laittaa verotus normaalille tasolle?</p>
     <p type="listitem">- Olin työssä Norjassa mm. Koutokeinossa ja Tanassa 1994-2008. Olin kirjoilla Suomessa Enontekiöllä, joten rajankävijänä maksoin verot Suomeen. Sosiaaliturvamaksut jouduin kuitenkin maksamaan Norjaan. Kun käytin Enontekiön terveyspalveluja, sain kokea olevani "eitoivottu", mikä näkyi lääkärien käytöksessä. Minua ei ohjattu Suomeen jatkohoitoon ja sairausloman saaminen oli hankalaa, vaikka selkävaivojen vuoksi tuskin pystyin kävelemään.  Mielestäni on järjetöntä, että ihminen, joka asuu Suomessa ja maksaa veronsa Suomeen mutta käy työssä naapurimaassa, ei saa samanlaista kohtelua terveydenhuollossa kuin ne, jotka työskentelevät Suomessa. Lähiomaiseni asuivat Keski-ja Etelä-Suomessa, minkä vuoksi olisi ollut järjetöntä hakeutua norjalaiselle lääkärille ja mahdollisesti joutua sairaalahoitoon esim. Hammerfestiin tai Tromssaan. Jos eriarvoisen kohtelun syy tapauksessani oli pelkästään se, että sosiaaliturvamaksut menivät Norjaan, on systeemiä muutettava. Sen luulisi olevan mahdollista naapurivaltioiden kesken: terveydenhuollon asiakkaan tulisi päästä lääkärille tai muuhun hoitoon siinä valtiossa, jossa hän asuu, ja saada tasavertaista kohtelua muiden maassa asuvien kanssa. Rahat voi varmasti ohjata niin että kumpikin valtio saa omansa tapauskohtaisesti.</p>
     <p type="listitem">- Norja verottaa rajatyöntekijää 10 % bruttopalkasta. Suomen verotus ei huomioi verolaskelmassa jo Norjan verottamaa 10 %, vaan verottaa progressiivisesti myös bruttopalkasta, mukaan lukien Norjaan jo maksettu 10 %.</p>
     <p type="listitem">- Haluaisin aivan kaikenlaista, ajantasaista tietoa rajatyöntekijän asemasta selvällä suomen kielellä</p>
@@ -793,7 +281,7 @@
     <p type="listitem">- Tuntuu että joka kerta kun asioi Suomen verottajan kanssa niin saa aloittaa aina kaiken alusta. Eikö ole mitään rekisteriä johon voisi kerätä perustiedot. Aina on eri henkilö, jonka kanssa asioi, välistä miettii mitä sieltä mahtaa tulla takaisin kun esimerkiksi vuoden alussa pitää tilata veromaksulaput ja joka kerta on eri ihminen vastaamassa.</p>
     <p>Norjan verotukseen kanssa kaipaisi selvyyttä. Mitä papereita pitää toimittaa ja kenelle.</p>
     <p type="listitem">- Mulla ei ole ollut kuin yksi pieni ongelma rajankäynnissä. Uutenavuotena työnantaja ottaa aina 50 % veroa. Minun täytyy aina huomauttaa ja saan verorahat takaisin helmikuussa. Tässä tilanteessa ei ole kukaan muu syyllinen kuin työnantaja itse.</p>
-    <p type="listitem">34 - Ei ole selkeitä ohjeita siihen, kun alkaa työskennellä Norjassa ja asuu Suomessa. On epäselvää millaisia papereita ja kaavakkeita pitää täyttää ja mihin lähettää. Jos vielä työskentelee <span type="quote">”vikaarina”</span> eikä ole vakituista palkkaa tai ei välttämättä työskentele joka kuussa, niin on vaikeaa maksaa Suomeen ennakkoveroa kun pitäisi tietää koko vuoden tulot.</p>
+    <p type="listitem">- Ei ole selkeitä ohjeita siihen, kun alkaa työskennellä Norjassa ja asuu Suomessa. On epäselvää millaisia papereita ja kaavakkeita pitää täyttää ja mihin lähettää. Jos vielä työskentelee <span type="quote">”vikaarina”</span> eikä ole vakituista palkkaa tai ei välttämättä työskentele joka kuussa, niin on vaikeaa maksaa Suomeen ennakkoveroa kun pitäisi tietää koko vuoden tulot.</p>
     <p type="listitem">- Ei ole myöskään selvää mihin täytyy mennä lääkäriin. Jos jotain tapahtuu tai on tarpeellinen lääkärintarkastus, ei tiedä mennäkö Suomeen vai Norjaan.</p>
     <p type="listitem">- KELAan ja NAViin ei ole tarvinnut olla yhteyksissä, mutta jos olisi tarve, en edes tietäisi kumpaan olla yhteydessä.</p>
     <p>
@@ -806,7 +294,7 @@
     </p>
     <p>Vastaajien määrä: 11</p>
     <p type="listitem">- Mikäli rajaesteitä ei saada ratkaistua, rajatyöntekijät tulevat katoamaan kunnasta. Itse harkitsen muuttoa joka päivä. Ja jokainen rajatyøntekijän arkipäivää hankaloittava asia vie lähemmäs ratkaisua. Hakemusten ja valitusten tehtailusta olen saanut tarpeekseni, pinna on jo tosi tiukalla.</p>
-    <p type="listitem">35 - Mielestäni koomista, että Utsjoen kunnalle myönnettiin vuoden rajakunta titteli, kuitenkin rajankävijöiden asema hankala. Tosi väsyttävää vuiodesta toiseen painia samojen ongelmien kanssa ja tuntuu ettei kukaan tee asialle mitään. Jos Utsjoen kuntaan halutaan lisää asukkaita ja kuvitellaan että ihmiset asuisivat Utsjoella ja kävisivät Norjan puolella töissä, tulisi nämä rajaesteet poistaa. Ei kukaan ala enää vapaaehtoisesti kaksoisverotukseen, joka on kokoajan vain kiristinyt. Puhutaan Norjan paremmista palkoista, mutta itse asiassa verojen jälkeen käteenjäävä osuus on pieni. Kipuraja on ylittynyt aikaa sitten. Samalla olemme eriarvoisessa asemassa kollegojen kanssa, Norjan puolella asuvalla kollegalla tulet heti eri luokkaa verotuksen takia</p>
+    <p type="listitem">- Mielestäni koomista, että Utsjoen kunnalle myönnettiin vuoden rajakunta titteli, kuitenkin rajankävijöiden asema hankala. Tosi väsyttävää vuiodesta toiseen painia samojen ongelmien kanssa ja tuntuu ettei kukaan tee asialle mitään. Jos Utsjoen kuntaan halutaan lisää asukkaita ja kuvitellaan että ihmiset asuisivat Utsjoella ja kävisivät Norjan puolella töissä, tulisi nämä rajaesteet poistaa. Ei kukaan ala enää vapaaehtoisesti kaksoisverotukseen, joka on kokoajan vain kiristinyt. Puhutaan Norjan paremmista palkoista, mutta itse asiassa verojen jälkeen käteenjäävä osuus on pieni. Kipuraja on ylittynyt aikaa sitten. Samalla olemme eriarvoisessa asemassa kollegojen kanssa, Norjan puolella asuvalla kollegalla tulet heti eri luokkaa verotuksen takia</p>
     <p type="listitem">- Toivoisi että veroilmoitukseen tulisi oikeat tietokohdat joihin nämä tulot ja menot osaisi laittaa.</p>
     <p type="listitem">- Verotus järkeväksi</p>
     <p type="listitem">- Monesti on ollut mielessä lopettaa työskentely Norjassa. Jos sen teen niin Utskoen kunnasta lähtee 4 henkeä Inarin puolelle heti. Veroviranomainen joka tietää ja auttaa.</p>
@@ -817,6 +305,5 @@
     <p type="listitem">- Toivottavasti saamme palkatun yhteyshenkilön, jolta saa apua ja neuvoja kaikissa yllämainituissa ongelmatilanteissa.</p>
     <p type="listitem">- Hyvä että näitä asioita selvitetään. Nykyisin tieto on pirstaleina aika monessa paikassa.</p>
     <p type="listitem">- Joudun maksamaan niin paljon veroa, että olisi kannattavaa muuttaa työpaikalleni xxxxxxx (Norjan puolelle). Melkein jo suosittelisin ihmisiä muuttamaan Norjan puolelle, jos ovat töissä siellä. Itse emme muuta, koska olemme sopeutuneet hyvin tänne ja täällä haluamme asua.</p>
-    <p xml:lang="sms">36</p>
   </body>
 </document>

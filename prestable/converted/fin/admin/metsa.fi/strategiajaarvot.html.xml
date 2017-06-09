@@ -6,7 +6,7 @@
       <unknown/>
     </author>
     <year>2016</year>
-    <wordcount>325</wordcount>
+    <wordcount>247</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <license type="standard"/>
@@ -37,83 +37,71 @@
     <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p xml:lang="swe">På svenska</p>
-    <p xml:lang="eng">In English</p>
-    <p xml:lang="sme">Sámegillii</p>
-    <p>Yhteystiedot</p>
-    <p xml:lang="swe">På svenska</p>
-    <p xml:lang="eng">In English</p>
-    <p xml:lang="sme">Sámegillii</p>
-    <p>Yhteystiedot</p>
-    <p xml:lang="swe">På svenska</p>
-    <p xml:lang="eng">In English</p>
-    <p xml:lang="sme">Sámegillii</p>
-    <p>Yhteystiedot</p>
     <list>
-      <p type="listitem" xml:lang="nno">
+      <p type="listitem" xml:lang="smj">
         <list>
-          <p type="listitem" xml:lang="nno">
+          <p type="listitem" xml:lang="smj">
             <list>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
                     </list>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
+                    <list/>
+                  </p>
+                </list>
+              </p>
+              <p type="listitem" xml:lang="smj">
+                <list>
+                  <p type="listitem" xml:lang="smj">
                     <list>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
                     </list>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
                     </list>
@@ -122,226 +110,226 @@
               </p>
             </list>
           </p>
-          <p type="listitem" xml:lang="nno">
+          <p type="listitem" xml:lang="smj">
             <list>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
                     </list>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
             </list>
           </p>
-          <p type="listitem" xml:lang="nno">
+          <p type="listitem" xml:lang="smj">
             <list>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list>
-                          <p type="listitem" xml:lang="nno">
+                          <p type="listitem" xml:lang="smj">
                             <list/>
                           </p>
-                          <p type="listitem" xml:lang="nno">
+                          <p type="listitem" xml:lang="smj">
                             <list/>
                           </p>
-                          <p type="listitem" xml:lang="nno">
+                          <p type="listitem" xml:lang="smj">
                             <list/>
                           </p>
                         </list>
                       </p>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
                     </list>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
                     </list>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list>
-                      <p type="listitem" xml:lang="nno">
+                      <p type="listitem" xml:lang="smj">
+                        <list/>
+                      </p>
+                      <p type="listitem" xml:lang="smj">
+                        <list/>
+                      </p>
+                      <p type="listitem" xml:lang="smj">
+                        <list/>
+                      </p>
+                      <p type="listitem" xml:lang="smj">
+                        <list/>
+                      </p>
+                    </list>
+                  </p>
+                  <p type="listitem" xml:lang="smj">
+                    <list>
+                      <p type="listitem" xml:lang="smj">
                         <list/>
                       </p>
                     </list>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
             </list>
           </p>
-          <p type="listitem" xml:lang="nno">
+          <p type="listitem" xml:lang="smj">
             <list>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list/>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list/>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list/>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list/>
               </p>
             </list>
           </p>
-          <p type="listitem" xml:lang="nno">
+          <p type="listitem" xml:lang="smj">
             <list>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
               </p>
-              <p type="listitem" xml:lang="nno">
+              <p type="listitem" xml:lang="smj">
                 <list>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
-                  <p type="listitem" xml:lang="nno">
+                  <p type="listitem" xml:lang="smj">
                     <list/>
                   </p>
                 </list>
@@ -351,32 +339,7 @@
         </list>
       </p>
     </list>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu /</p>
-      <p type="listitem">Metsähallitus /</p>
-      <p type="listitem" xml:lang="kal">Organisaatio /</p>
-      <p type="listitem">Strategia ja arvot /</p>
-    </list>
-    <p type="title">Metsähallitus</p>
-    <list>
-      <p type="listitem">Yhteystiedot</p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet</p>
-      <p type="listitem">Suomi 100</p>
-      <p type="listitem">Seuraa meitä somessa</p>
-      <p type="listitem">Metsähallitus työpaikkana</p>
-      <p type="listitem">Organisaatio <list><p type="listitem">Liiketaloudelliset tunnusluvut</p><p type="listitem">Henkilötyövuodet</p><p type="listitem">Strategia ja arvot</p><p type="listitem">Hallitus</p><p type="listitem">Johtamis- ja hallintojärjestelmä</p><p type="listitem">Metsähallituksen ohjaus</p><p type="listitem">Historia</p></list></p>
-      <p type="listitem">Yhteiskuntavastuu</p>
-      <p type="listitem">Yhteistyö</p>
-      <p type="listitem">Julkaisut</p>
-      <p type="listitem">Henkilökuvia</p>
-      <p type="listitem" xml:lang="fkv">Liikemerkki</p>
-    </list>
     <p type="title">Metsähallituksen strategia ja arvot</p>
-    <p xml:lang="sme">Sámegillii</p>
-    <p xml:lang="sms">|</p>
-    <p xml:lang="swe">På svenska</p>
-    <p xml:lang="sms">|</p>
-    <p xml:lang="eng">In English</p>
     <p type="title">Metsähallituksen strategia</p>
     <p>Metsähallituslain uusimisen, hallituksen hallitusohjelman linjausten ja muiden Metsähallituksen toimintaympäristössä tapahtuneiden muutosten myötä Metsähallitus uusi strategiansa vuosiksi 2016-2020. Hallitusohjelmassa on sekä koko Metsähallitusta, mutta myös erikseen liiketoimintoja ja luontopalveluja koskevia tavoitteita puun lisäkäytöstä vesien suojeluun ja globaaliin luontomatkailuun.</p>
     <p>Omistajan, asiakkaiden ja sidosryhmien odotukset ovat monenlaisia. Metsähallitukselta edellytetään tuloja valtiolle, alueellista kehittämistä, kansalaisten palvelujen ja hyvinvoinnin tarjoamista ja edistämistä, luonnon monimuotoisuuden turvaamista sekä esimerkiksi ilmastohyötyjen toteuttamista.</p>
@@ -430,8 +393,5 @@
       <p type="listitem">arvostamme luovuutta, aktiivisuutta ja avoimuutta</p>
       <p type="listitem">tuemme toisiamme</p>
     </list>
-    <p>Päivitetty viimeksi 26.09.2016</p>
-    <p>Tulosta</p>
-    <p xml:lang="fkv">Jaa tämä sivu</p>
   </body>
 </document>

@@ -8,7 +8,7 @@
       <unknown/>
     </author>
     <year>2015</year>
-    <wordcount>856</wordcount>
+    <wordcount>765</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <license type="standard"/>
@@ -39,53 +39,7 @@
     <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>«  oikeus.fi Tekstiversio</p>
-    <p xml:lang="nno">Suomeksi - På svenska - In English - Sámegillii</p>
-    <p xml:lang="sma">A / A</p>
-    <p>«  oikeus.fi</p>
-    <p xml:lang="nno">Suomeksi - På svenska - In English - Sámegillii</p>
-    <p type="title">Oikeus.fi</p>
-    <p xml:lang="sma">A-Ö-hakemisto</p>
-    <p>Sivukartta</p>
-    <p>Laajennettu haku</p>
-    <p>Oikeusapu</p>
-    <p>Yleinen edunvalvonta</p>
-    <p>Syyttäjälaitos</p>
-    <p>Tuomioistuimet</p>
-    <p>Yleiset tuomioistuimet</p>
-    <p>Käräjäoikeudet</p>
-    <p xml:lang="dan">Hovioikeudet</p>
-    <p>Korkein oikeus</p>
-    <p>Hallintotuomioistuimet</p>
-    <p>Hallinto-oikeudet</p>
-    <p>Korkein hallinto-oikeus</p>
-    <p>Erityistuomioistuimet</p>
-    <p>Markkinaoikeus</p>
-    <p>Työtuomioistuin</p>
-    <p>Vakuutusoikeus</p>
-    <p>Valtakunnanoikeus</p>
-    <p>Ulosotto</p>
-    <p>Rikosseuraamus</p>
-    <p xml:lang="sma">A-Ö-hakemisto</p>
-    <p>Oikeuslaitos</p>
-    <p xml:lang="fkv">Tulosta koko esite</p>
-    <p>Oikeuslaitos</p>
-    <p xml:lang="sms">+</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu</p>
-      <p type="listitem">Tuomioistuimet</p>
-      <p type="listitem">Oikeudenkäynti</p>
-      <p type="listitem">Oikeusapu ja oikeudenkäynnin kustannukset</p>
-      <p type="listitem">Rangaistusten täytäntöönpano</p>
-    </list>
     <p type="title">Oikeuslaitos</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu</p>
-      <p type="listitem">Tuomioistuimet</p>
-      <p type="listitem">Oikeudenkäynti</p>
-      <p type="listitem">Oikeusapu ja oikeudenkäynnin kustannukset</p>
-      <p type="listitem">Rangaistusten täytäntöönpano</p>
-    </list>
     <p type="title">Oikeudenkäynti</p>
     <p>Oikeudenkäynnit ovat yleensä julkisia eli yleisöllä on niihin pääsy. Suljettu käsittely saatetaan pitää esimerkiksi silloin, kun oikeudessa käsitellään erityisen arkaluontoisia, yksityiselämään liittyviä seikkoja. Oikeuden ratkaisun lopputulos on julkinen. Hallintotuomioistuimissa ja vakuutusoikeudessa käsiteltävät asiat ovat usein sellaisia, joista on säädetty salassapitovelvollisuus.</p>
     <p type="title">Oikeudenkäynti käräjäoikeudessa</p>
@@ -121,12 +75,5 @@
     <p>Hallinto-oikeus ratkaisee suurimman osan valituksista asiakirjojen perusteella. Myös suullinen käsittely voidaan järjestää, jos valittaja sitä pyytää ja asiaan voidaan suullisessa käsittelyssä tuoda lisävalaistusta.</p>
     <p>Suullisessa käsittelyssä valittaja esittää vaatimuksensa ja niiden perusteet. Sen jälkeen kuullaan päätöksen tehneen viranomaisen edustajan kanta asiaan. Käsittelyssä voidaan täsmentää niitä vaatimuksia ja valitusperusteita, jotka on esitetty kirjelmissä. Suullisessa käsittelyssä kuullaan usein myös todistajia ja asiantuntijoita.</p>
     <p>Päätöksen tekee hallinto-oikeudessa tavallisesti kolme tuomaria esittelijän laatiman ehdotuksen perusteella. Eräät oikeudellisesti yksinkertaisemmat asiat voidaan ratkaista pienemmässä kokoonpanossa. Eräissä asioissa, kuten mielenterveysasioissa ja lastensuojeluasioissa, päätöksen tekemiseen osallistuu lainoppineiden jäsenten lisäksi asiantuntijajäsen. Ympäristönsuojelu- ja vesiasioiden ratkaisuun osallistuu lainoppineiden jäsenten lisäksi luonnontieteen tai tekniikan alan tuomari. Normaali kokoonpano näissä asioissa on nelijäseninen.</p>
-    <p>Sivun alkuun</p>
-    <p xml:lang="sms">|</p>
-    <p>Tulosta</p>
-    <p xml:lang="sms">»</p>
-    <p xml:lang="fkv">Muut esitteet</p>
-    <p xml:lang="sms">-   -</p>
-    <p>© 2017 - http://oikeus.fi</p>
   </body>
 </document>

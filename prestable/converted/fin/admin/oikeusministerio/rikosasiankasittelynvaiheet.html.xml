@@ -8,7 +8,7 @@
       <unknown/>
     </author>
     <year>2017</year>
-    <wordcount>1105</wordcount>
+    <wordcount>1004</wordcount>
     <conversion_status type="standard"/>
     <availability>
       <license type="standard"/>
@@ -39,55 +39,7 @@
     <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>«  oikeus.fi Tekstiversio</p>
-    <p xml:lang="nno">Suomeksi - På svenska - In English - Sámegillii</p>
-    <p xml:lang="sma">A / A</p>
-    <p>«  oikeus.fi</p>
-    <p xml:lang="nno">Suomeksi - På svenska - In English - Sámegillii</p>
-    <p type="title">Oikeus.fi</p>
-    <p xml:lang="sma">A-Ö-hakemisto</p>
-    <p>Sivukartta</p>
-    <p>Laajennettu haku</p>
-    <p>Oikeusapu</p>
-    <p>Yleinen edunvalvonta</p>
-    <p>Syyttäjälaitos</p>
-    <p>Tuomioistuimet</p>
-    <p>Yleiset tuomioistuimet</p>
-    <p>Käräjäoikeudet</p>
-    <p xml:lang="dan">Hovioikeudet</p>
-    <p>Korkein oikeus</p>
-    <p>Hallintotuomioistuimet</p>
-    <p>Hallinto-oikeudet</p>
-    <p>Korkein hallinto-oikeus</p>
-    <p>Erityistuomioistuimet</p>
-    <p>Markkinaoikeus</p>
-    <p>Työtuomioistuin</p>
-    <p>Vakuutusoikeus</p>
-    <p>Valtakunnanoikeus</p>
-    <p>Ulosotto</p>
-    <p>Rikosseuraamus</p>
-    <p xml:lang="sma">A-Ö-hakemisto</p>
-    <p>Jos joudut rikoksen uhriksi</p>
-    <p xml:lang="fkv">Tulosta koko esite</p>
-    <p>Jos joudut rikoksen uhriksi</p>
-    <p xml:lang="sms">+</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu</p>
-      <p type="listitem">Rikosasian käsittelyn vaiheet</p>
-      <p type="listitem">Apua ja tukea</p>
-      <p type="listitem">Uhrin suojelu</p>
-      <p type="listitem">Korvaukset</p>
-      <p type="listitem">Yhteystietoja</p>
-    </list>
     <p type="title">Jos joudut rikoksen uhriksi</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu</p>
-      <p type="listitem">Rikosasian käsittelyn vaiheet</p>
-      <p type="listitem">Apua ja tukea</p>
-      <p type="listitem">Uhrin suojelu</p>
-      <p type="listitem">Korvaukset</p>
-      <p type="listitem">Yhteystietoja</p>
-    </list>
     <p type="title">Rikosasian käsittelyn vaiheet</p>
     <p type="title">Rikosilmoitus</p>
     <p>Jos olet joutunut rikoksen uhriksi, ilmoita asia poliisille. Ilmoitus on tehtävä mahdollisimman pian, jotta poliisin on helpompi selvittää rikos. Myös vahingonkorvauksen saaminen voi edellyttää, että rikosilmoitus on tehty. Ilmoituksen voi tehdä rikospaikalle saapuneelle poliisipartiolle, menemällä poliisiasemalle sekä vähäisissä rikoksissa myös internetissä www.poliisi.fi tai puhelimitse.</p>
@@ -125,12 +77,5 @@
     <p>Käräjäoikeus julistaa tuomion heti istunnon jälkeen tai se ilmoittaa, milloin tuomio annetaan. Kirjallisessa menettelyssä käräjäoikeus lähettää tuomion jutun osapuolille.</p>
     <p>Käräjäoikeuden tuomiosta voi valittaa hovioikeuteen. Pääsääntöisesti tarvitaan jatkokäsittelylupa, jotta hovioikeus ottaisi asian täysimittaiseen käsittelyyn.</p>
     <p>Jos on tyytymätön tuomioon, siitä on ilmoitettava käräjäoikeuteen viikon kuluessa tuomiosta. Valituskirjelmä on jätettävä käräjäoikeudelle 30 päivän kuluessa tuomiosta. Ohjeet valituksen tekemisestä ovat liitteenä käräjäoikeuden tuomiossa.</p>
-    <p>Sivun alkuun</p>
-    <p xml:lang="sms">|</p>
-    <p>Tulosta</p>
-    <p xml:lang="sms">»</p>
-    <p xml:lang="fkv">Muut esitteet</p>
-    <p xml:lang="sms">-   -</p>
-    <p>© 2017 - http://oikeus.fi</p>
   </body>
 </document>
