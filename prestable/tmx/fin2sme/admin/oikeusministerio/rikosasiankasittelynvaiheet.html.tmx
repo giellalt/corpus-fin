@@ -6,114 +6,10 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>«oikeus.fi Tekstiversio</seg>
+        <seg>Jos joudut rikoksen uhriksi</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus gárttat rihkkosa oaffarin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>«oikeus.fi Oikeus.fi</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čálit dieđihančállosa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sivukartta Laajennettu haku</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jus gárttat rihkkosa oaffarin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Oikeusapu Yleinen edunvalvonta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Rihkusášši gieđahallama muttut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tuomioistuimet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Veahkki ja doarjja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Yleiset tuomioistuimet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oaffara suodjaleapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Käräjäoikeudet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buhtadusat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Korkein oikeus</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oktavuođadieđut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Hallintotuomioistuimet</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Jus gárttat rihkkosa oaffarin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Korkein hallinto-oikeus</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Rihkusášši gieđahallama muttut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vakuutusoikeus</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Veahkki ja doarjja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Valtakunnanoikeus</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oaffara suodjaleapmi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Ulosotto</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Buhtadusat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Rikosseuraamus</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Oktavuođadieđut</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,7 +22,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Yhteystietoja</seg>
+        <seg>Rikosilmoitus</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rihkusalmmuhus</seg>
@@ -134,7 +30,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Jos joudut rikoksen uhriksi Rikosasian käsittelyn vaiheet</seg>
+        <seg>Jos olet joutunut rikoksen uhriksi, ilmoita asia poliisille.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus leat gártan rihkkosa oaffarin, almmut áššis bolesii.</seg>
@@ -426,6 +322,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Jus oaffar addá miehtama sáhkkomeannudeapmái, ášši ii gieđahallo gearregiin iige sivaheaddji sáhte gáibidit oaffara beales vahátbuhtadusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vahingonkorvausvaatimukset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vahátbuhtadusgáibádusat</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,30 +762,6 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rávvagiid váidaga dahkamis leat mielddusin gearretrievtti duomus.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sivun alkuun</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Siiddu álgui</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tulosta</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Čálit</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>© 2017 - http://oikeus.fi</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Dieđihančállosa ovdasiidui</seg>
       </tuv>
     </tu>
   </body>
