@@ -1,0 +1,832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kalastus.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elinkeinot</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Iäláttâsah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalastus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuálástus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuotuismuutto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Varriistâllâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalastus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuálástus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poronhoito</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puásuituálu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaisille lähes “pyhän kolmiyhteyden” ovat muodostaneet kolme tärkeintä elementtiä, peura (myöhemmin poro), kala ja marjat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšân masa juo “pase kuulmâohtâvuođâ” láá toohâm kulmâ tehálumos ääši, kodde (maŋeláá puásui), kyeli já myerjih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näistä kala on ollut ehkä kaikkein tärkein, koska se on ollut elämän perusta ja suoranainen elinehto, jota kaksi muuta “liittolaista” ovat sopivasti täydentäneet.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Táin kyeli lii lamaš máhđulávt puoh tehálumos, ko tot lii lamaš eellim vuáđu, njuolgist juo eellimiähtu, mon kyehti eres “littolii” láá vuohâsávt tievâsmittám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalanpyyntivälineitä ja -tapoja on ollut useita aina merran, koukkupyynnin ja kaaran ajoilta nykypäivän troolipyyntiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kyelipivdempiergâseh já -vyevih láá lamaš maaŋgah ain lääni, vaggepivdo já kääri aaigijn onnáápeeivi troolipiivdon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaara eli kaukalo oli pienen joen keskelle kaivettu altaan omainen kuoppa, jonka reunat oli kasattu kivistä siten, että kalan jouduttua sen sisälle, se ei päässyt sieltä enää pois.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kääri lâi juvvii kuávdoo koivum rogge, mon roobdah lijjii liäjádum keđgijguin nuuvt, et kyeli čájádij tohon ijge peessâm meddâl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kivien raoista vesi virtasi vapaasti ja kun kala nousi ylävirtaan ja läheni kaaran yläreunaa, se joutui aitauksien vuoksi sellaiseen virtaan, joka sysäsi kalan siihen kaivettuun kuoppaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keđgilomij čoođâ čääci kuulgâi rijjâ já ko kyeli kuárŋudijn aldanškuođij kääri pajeroobdâ, tot šoodâi sivlái tiet taggaar viirdán, mii teddilij kyele toho koivum roogán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Virta painoi kalat niihin ja kun ihminen tuli kokemaan pyydyksensä, hän saattoi lipolla eli haavilla kaivaa kalat ylös.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Virde teedij kuolijd toho já ko olmooš poođij kuohâđ pivdusis, sun puovtij kyelikuáivoin ađai haavijn kuáivuđ kuolijd pajas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällainen pyydys oli esimerkiksi Iijärvellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tággáár piivdus lâi ovdâmerkkân Ijjäävrist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lipolla eli haavilla kalastettiin myös pienempien jokien tai purojen matalissa virtapaikoissa esim. syksyllä reeskan kudun aikaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kyelikuáivoin ađai haavijn pivdojii meiddei ucebijn juuvâin ovdâmerkkân čohčuv riäskáh kođo ääigi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin reeska kutee ja nousee suurina parvina pieniin jokiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Talle riäská kođá já kuárŋu stuorrâ uáiváduvâin uccâ juvviijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarin alueella on kuusi pienehköä jokea, jotka ovat saaneet nimensä niissä tapahtuvan reeskan kudun mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaar kuávlust láá kuttâ ucessiähá juvvii, moh láá finnim noomâs tain tábáhtuvvee kođo keežild.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alavirtaan uivia kaloja voitiin vastaavasti pyydystää šuuriš - eli šurrá -padolla, joka niin ikään oli kivistä rakennettu kaaran omainen pyydys.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mietiviirdán vyeijee kyeleh pivdojii oppeet šuuriš - ađai šurrá puáđoin, mii meiddei lâi keeđgijn rahtum já lâi kääri sulâstittee piivdus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myötävirtaan uivan kalan oli pakko patoaitauksien vuoksi uida tähän altaaseen, josta se ei enää päässyt pois.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mietiviirdán vyeijee kyeleh ferttejii puáđui tiet vuoijâđ taan áldás, mast toh iä innig peessâm meddâl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näillä padoilla ryhdyttiin kalastamaan kevättulvan jälkeen ja pyynti kesti heinäkuun alusta pitkälle syksyyn.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tágárij puáđuiguin riemmii kuálástiđ tállán kiđđâtulve maŋa já pivdo pištij syeinimáánu aalgâst kuhás čoohčân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aluksi pyydyksistä saatiin harjusta, myöhemmin haukea sekä ahventa ja lopuksi siikaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aalgâst pivdusijn finnij suávvilijd, maŋeláá puškoid sehe vuáskunijd já loopâst šaapšâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Samassa joessa saattoi olla sekä kaara, että šuurišpato, joka yleensä oli perhekunnan hallinnassa, taikka sitten yhteiskäytössä muiden perheiden kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Siämmáá juuvâst puohtii leđe sehe kääri já šuuriš, moh lijjii táválávt oovtâ perruu haaldust, teikkâ ohtsâškiävtust eres perruiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Talveksi patojen kehäkivet nostettiin maalle, jottei tulva olisi niitä siirrellyt.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Táálván puáđukeeđgih loptejuvvojii enâmân, amas tulve liččii lihâttâllâm taid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Patokalastuksen tekniikkaa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puáđupivdem tekniik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näillä padoilla pyydettiin syksyisin taimenta ja siikaa, keväisin harjusta ja kesäisin lähinnä haukea ja ahventa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vyelipuáđu, mon toimâmtekniik lâi suullân vyestikevvee kääri iähtun, huksejui táválávt šuuriš vuoluupiäláá kuoškân kuárŋoo kuolij várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällainen pato oli mm. Iijärvellä, jossa käytettiin myös juurista valmistettua juuripatoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vyelipuáđust-uv kevttui rogge, mut tot lâi čuuvtij jieŋâlub já vijđásub, ko käärist tâi šuuriist já tot lâi neeljičievvâg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se oli valmistettu kahdesta koivuvavasta, jotka oli liitoskohdiltaan punottu vitsaksilla yhteen ja muotoiltu neliskanttiseksi kehykseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puáđu monnjâseeinist (pajevirde pelni) kiävttojii paldluvâi stellejum segis karsum piässááh já ovdâseeinist kuolij meddâlpeessâm iästun áárpust kuuđđum viermi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaisia tarvittiin kaksi kappaletta, jotka oli suunniteltu neliskanttisen merran kansi- ja pohjakehiksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot lâi rahtum kyevti láánjást, moh lijjii lahtosij pehti čoonnum piäsáduvâiguin oohtân já hämmejum neeljičievâg kehán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niitä yhdistivät nurkkapylväät.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taid ovtâstii nurkkestuálpuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Peräseinään ja sivuille kiinnitettiin sormen levyisin välein koivunvesoja, jotka yhdistettiin toisiinsa kahdella tai useammalla männyn tai koivun juurella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Monnjâsiäinán já sijđoseinijd kiddejuvvojii suormâ kobdosij koskâiguin láánjáh, moh lijjii kiddejum nubijdis kuovttijn tâi maŋgáin peesi tâi suávi viäddáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Etuseinään kiinnitettiin nurkista nielu, jonka pituus oli puolet merran pituudesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâsiäinán kiddejui čievâin njiälu, mon kukkodâh lâi peeli lääni kukkoduvâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös madetta pyydettiin erillisillä madepadoilla, jotka oli rakennettu jokien ja järvien rantamatalikoille tiheään pystytetyistä seipäistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meiddei njäähi pivdui tađe várás rahtum njähipuáđoin, mii lâi huksejum juuvâi já jaavrij riddocuáhásáid paldluvâi ceggejum stáávráin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Patojen pituus oli noin 10 metriä ja niiden ulkopäihin asetettiin merta suu rantaa kohti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puáđui kukkodâh lâi suullân 10 meetterid já toi olgokeijijd pieijui lääni njälmi rido kuávlun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Padoilla pyydettiin maaliskuussa madetta ja keväällä ahventa ja ehkä haukeakin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puáduiguin pivdii njuhčâmáánust njaavijd já kiđđuv vuáskunijd já kenski puškoid-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Padot koettiin talvisin kerran viikossa ja keväisin useammin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puáđuh kuáhhojii tälviv ohtii ohhoost já kiđđuv täävjib.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koukku- ja kolkkapyynti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vagge- já njähihuškompivdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkä vanhin kalastusväline lienee puinen koukku, joka oli valmistettu katajasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vaarâ puárásumos kyelipivdopiergâs lii vissâ-uv vagge, mii lâi rahtum rááđhást.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se ei ollut varsinaisesti koukku, vaan lähinnä katajainen haarukka, jonka kaikki kolme päätä oli teroitettu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot ij lamaš vagge ollágin, mut rááđhást rahtum syerimuorâ, mon puoh kulmâ keeji lijjii čuuhum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syöttinä käytettiin reeskaa, johon koukku työnnettiin suupuoleen tehdyn viillon kautta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Septin kevttui riäská, moos vagge uigâdui njälmikiäčán vojâstum rääigi pehti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sillä pyydystettiin mateita syyspimeällä selkäsiimalla ja alkutalvesta ohuen jään aikaan seipäällä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tain pivdii njaavijd vuoggâčielgijn čohčâsevŋâdin ja čohčâtäälvi asettis jieŋâ ääigi stávráin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katajakoukuilla pyydystettiin joskus myös taimenia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Riätkávoggijn pivdii motomin meiddei kuávžurijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Selkäsiima oli kaksi- tai kolmisäikeisestä männynjuuriköyttä, johon oli kiinnitetty kymmenen katajakoukkua 60 cm:n rihmoilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuoggâčielgi lâi kyevti- tâi kulmâsáigusâš pecivediskievđâ, moos lijjii kiddejum love riätkávagged 60 seenti tuárguiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mateenseiväs oli noin parimetrinen hoikka puu, jonka alaosaan kiinnitettiin runsaan 50 sentin mittainen rihma, rihman päähän katajakoukku syötteineen, jonka jälkeen se työnnettiin hieman alaviistoon pehmeään mutapohjaan siten, että koukku yltää pohjaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Njähistávrá lâi suullân muádimeettersâš, mon vyeliuásán kiddejui pajeláhháá meetterpele kukkosâš tuárgu já tuárgukiäčán riätkávagge sieptâsáin, mon maŋa tot uigâdui ucánjáhháá vinnood timmâ motepoonán nuuvt, et vagge uulij poonán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vahvemman jään aikana samassa avannossa saatoi olla kaksikin seivästä työnnettynä kumpikin eri suuntiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Assaas jieŋâ ääigi siämmáá runneest puohtii leđe kyehti-uv stáávrá uigâdum kuábáš-uv kuávlusis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paras mateen pyyntiaika sijoittui sen kutuaikaan eli Matinpäivästä (24.2.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyeremus njähipivdoäigi lâi ton kuuđđâmääigi ađai Maatipeeivist (24.2.) Máárjápiäiván.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhimpiin kalastustapoihin kuulunee myös mateen kolkkapyynti, joka ei vaatinut sen erikoisempia työvälineitä kuin kirveen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puárásumosáid pivdovuovvijd kulluš meiddei njäävi huškom, mii ij vaattâm tađe komebijd pivdopiergâsijd ko áákšu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös kivi ajoi saman asian, mikäli kirvestä ei ollut mukana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meiddei keđgi vuojij siämmáá ääši, jis ákšu ij teivâsâm leđe fáárust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lumettoman ja ohuen jään aikaan lähdettiin etsimään mateita joko hiekkapohjaisesta tai mutapohjaisesta järven tai lammen rantamatalikosta ja kun made havaittiin jään läpi, iskettiin voimakkaasti kirveen hamarapuolella tai kivellä mateen pään kohdalle, jolloin made taintui.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kaaljâ- já asettisjieŋâ ääigi vuolgii uuccâđ njaavijd jo-uv čunoi- tâi moteponnásâš javrij tâi ládui riddocuáhásijn já ko njäävi huámášii jieŋâ čoođâ, te vuođgâlii ákšušomeráin tâi keđgijn njäävi uáivi puotâ já njäähi kolmâštui. Tast maŋa ferttij raigâđ jieŋâ ákšoin tâi nijbijn já ruttiđ njäävi jieŋâ ool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän jälkeen tehtiin reikä kirveellä tai leu´ulla jäähän saaliin kohdalle ja nykäistiin made jäälle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luhostum huškompivdo vaađâi asettis jieŋâ lasseen taggaar cuáhás, mast njäävi uáivi kuoskâi jieŋân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös kalan käsinpyynti lienee vanhimpia pyyntitapoja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meiddei kietâpivdo kuulâš toid puárásumosáid pivdovuovvijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jokeen kutemaan nouseva harjus tai taimen menee niin matalalle, että ihminen saavuttaa sen juoksemalla kiinni, taikka kepillä lyömällä tainnutetuksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juuhân kuuđđâđ kuárŋoo suávvil tâi kuávžur mana nuuvt cuáhásân, et olmooš f'ättee tom kaaččâtmáin kiddâ, teikkâ uulât časkeđ tom sobbijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähes käsinpyyntiin verrattava kalastustapa on ollut silmustaminen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Masa kietâpiivdon puávtáččij verdidiđ kuálástemvyevi, mii lii lamaš piäsáduvváin keessim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Noin 2,5 metrin mittainen nuori koivu katkaistaan, karsitaan ja väänetään latvapäästään vitsaksen tavoin noin 20 cm:n silmukalle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suullân 2,5 meettersâš láánjá čuopâstuvvoo rasta, karsâstuvvoo já punjâstuvvoo kierruustis suullân 20 seenti piäsádâhkiellân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silmukka uitetaan ylävirran puolelta varovasti kalaa kohti niin, että kalan pään ollessa silmukan sisäpuolella, tempaistaan vavasta voimakkaasti, jolloin kala lentää kuivalle maalle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ jođettuvvoo pajevirde pelni várugávt kyele kuávlun nuuvt, et ko kyele uáivi lii kielâ siskiibeln, ravgejuvvoo stáágust korrâsávt já kyeli kirdá koške enâmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös messinkilankaista silmukkaa on käytetty hyvällä menestyksellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meiddei meessigsraaŋgâst rahtum kielâ lii kevttum puorijn miännástussáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sammuttijärvellä käytettiin hauen pyydystämiseen vavan päässä roikkuvaa suurta koukkua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Samudjávráliih kevttii puškopiivdost stággukeejist hiäŋgájeijee stuorrâ vage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koukku uitettiin hauen leuan alle, jonka jälkeen tempaistiin hauki kuivalle maalle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vagge jođettui puško kääibi vuálá, mon maŋa ravgejui puško koške enâmân. Maassâd pajas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verkkokalastus oli tehokas kalastusmuoto Tärkein ja tehokkain kesäkalan pyyntiväline inarinsaamelaisilla on ollut nuotta ja saamelaisilla yleensä se on ollut käytössä satojen vuosien ajan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Viermipivdo lâi pehtilis kyelipivdemvyehi Tehálumos já pehtilumos kesikyelipiivdus anarâšâin lii lamaš nyetti já sämmilijn iänááš tot lii lamaš kiävtust čuođij iivij ääigi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäisen kerran nuotta mainitaan vuonna 1639, kun eräs Alanus ‑niminen tutkija oli tehnyt tutkimusmatkan Kemin Lappiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuosmuu keerdi nyetti mainâšuvvoo ive 1639, ko mottoom Alanus‑nommâsâš totkee lâi toohâm tutkâmušmääđhi Kiemâ Sáámán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jo 1820-luvulla oli inarinsaamelaisilla nuotta lähes joka perheellä, tai nuotanpuolikas ainakin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juo 1820-lovvoost lâi anarâšâin nyetti masa jyehi perrust tâi nyettilakke kuittâg-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eräissä perheissä oli nuottia jopa kaksittain ja eri järvissäkin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Motomijn tááluin lijjii joba muáddi-uv nyeti já eres jaavrijn-uv vala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tehdasvalmisteisten verkkojen alkaessa ilmaantua markkinoille, alkoivat nuotat vähitellen kadota, mutta vielä sotien jälkeenkin monissa taloissa oli oma nuottansa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko fabrikviermih algii leđe finniimist, algii nyetih kuuloold lappuustâllâđ, mut vala soođij maŋa-uv maaŋgâin anarâštááluin lijjii jieijâs nyetih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaisnuotta oli 120 – 140 metriä pitkä, aiemmin jopa 180 – 260 metriä ja korkeutta 4,5 – 5,3 metriä, joskus jopa 7 metriä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšnyetti lâi 120 – 140 meetterid kukke, ovdeláá joba 180 – 260 meetterid já vuopsâ 4,5 – 5,3 meetter, motomin čiččâm-uv meetterid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuotta ei ollut yksittäisen ihmisen pyyntiväline, koska siihen tarvittiin vähintään neljä ihmistä ja kaksi venettä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nyetti ij lamaš ovtâskâs ulmuu piivdus, ko toos tarbâšij ucemustáá nelji ulmuu já kyehti kárbá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus rannalle vedettävissä apajissa tultiin toimeen kahdella ihmisellä ja yhdellä veneellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Motomin riddopuohtâmlâš vaarpijn piergiittâlâi kuovttijn ulmuin já ovttain kárbáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vetoköysien ja nuotan heitto aloitettiin rannasta ja päätettiin rantaan siten, että köydet ja nuottaosa muodostivat isoa U-kirjainta muistuttavan kuvion.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kievđâi já nyeti suáppum algâttui riddoost já lopâttui riidon nuuvt, et kievđah já nyetti tohhii stuorrâ U-puustav sulâstittee kovvoos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarin kunnassa tunnetaan nuotta-apajia vajaat 200 kpl.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaar kieldâst láá lamaš väärpih vááijuv 200.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toiseksi tehokkain pyyntiväline vanhaan aikaan on ollut verkko, jonka parasta pyyntiaikaa on ollut syksy pimeine öineen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nubben pehtilumos piivdus tovláá ääigist lii lamaš viermi, mon pyeremus pivdoäigi lii lamaš čohčâ sevŋis ijâidiskuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verkkokalastus kesällä ei ollut tarkoituksen mukaista, koska valoisista kesäöistä johtuen pumpulilangoista valmistetut verkot nilottuivat nopeasti ja olivat siten kalan havaittavissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Talle šapšâ kođá já čááŋá pyereest viärmán. Jodottâllâm keessiv ij lamaš ulmemiäldásâš, ko pumbulviermih njivluu jotelávt já čuovâdis kesi-iijâi kyeli aaicâi taid pyereest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syksyllä oli toisin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čohčuv lâi nubenáál.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin parhaille kutukarikoille viritettiin pitkiäkin verkkojatoja, joita koettiin aamuisin lähes säästä kuin säästä riippumatta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Talle pyeremus kođokárgui oolâ syeppejuvvojii kuhes-uv joddeeh, maid ferttij jyehi iiđeed kuohâđ šooŋâst peerusthánnáá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saadut siiat perattiin suomustamattomina heti kotirantaan saapumisen jälkeen ja suolattiin saaveihin myöhemmin tapahtuvaa myymistä varten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šaapšah čuállejuvvojii čuomâsthánnáá tállán päikkisáátkun puáttim maŋa já sälttejuvvojii kyelilittijd vyebdim várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keittokalat, kuten hauet, ahvenet, harjukset ja mateet eroteltiin, perattiin ja suolattiin keittosuolaan (so. laimeampaan suolaan) ja mahdolliset taimenet suolattiin kotitarvekalaksi esim. joulupöytää varten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuoššâmkyeleh, tegu puškoh, vuáskuneh, suávvileh já njäävih renskejuvvojii meddâl, čuállejuvvojii já sälttejuvvojii vuoššâmsááltán já máhđuliih kuávžureh še sälttejuvvojii päikkitárbukyellin ovdâmerkkân juovlâpeevdi várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muita kalastustapoja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eres kyelipivdemvyevih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös käestäminen oli suosittu kesäinen verkkokalastusmuoto.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meiddei vihelem lâi pivnuus kiässáás kuálástusvyehi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurisilmäinen käestysverkko oli kudottu vahvasta pumpulilangasta ja se oli normaalin verkon mittainen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juolis vihháál lâi kuuđđum noonâ pumbuláárpust já tot lâi táválii viermi kukkosâš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käestyskausi alkoi siinä vaiheessa kesää, kun rantapoukamiin oli kasvanut järviruokoa tai vesiheinää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vihelemäigi aalgij ton muddoost keesi, ko riddokaaváid lâi šoddâm syeini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhaan aikaan oli merkki: “kun paarma lentää, on hauki heinikossa”.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tovle lâi taggaar merkkâ, et ko puárui kirdá, te puško lii viháluvâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käestämään lähdettiin aurinkoisena ja tyynenä kesäaamuna, jolloin hauki oli hakeutunut rantaheinikkoon paistattelemaan päivää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Viheliđ koolgâi vyelgiđ kuálkkipiäivádâhhân, kuás puško ličij ucâlum riddosuoinâlmâsân peeivipaštui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Heinikkopoukamaa lähestyttiin veneellä varovasti ja laskettiin käestysverkko poukaman tai heinikon ulkopuolelle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suoinâlmâs koolgâi aldaniđ kárbáin várugávt já suoppiđ vihháál kaavâ tâi suoinâlmâs ulguubel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pienimmät hauet puikahtivat verkon läpi, mutta tarpeeksi suuret takertuivat siihen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko vihháál lâi sajestis, koolgâi moonnâđ suoinâlmâsân já poršoliđ puškoid viärmán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elokuun loppupuolella alkavat yöt olla tarpeeksi pimeitä tuulastamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Porgemáánu loopâkeččin älgih leđe iijah nokko sevŋâdeh tuohâstmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tärkeimmät työvälineet siihen ovat vene, atrain ja riittävän tehokas valonlähde kalojen havaitsemiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tehálumoseh piergâseh tuohâstmân láá käärbis, härssee já tommittáá kirkis čuovâ, et kuolijd áiccá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhaan aikaan valonlähteenä toimi elävä tuli.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tovle čuovvân lâi ellee tullâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veneen keulan etupuolelle oli rakennettu irroitettava arina, jossa saattoi pitää tervastulta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kärbisnjune ovdiibel lâi rahtum paarrâl, mon puovtij luovviđ já parâlist puovtij puáldiđ pihâštuulâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sotien jälkeen valonlähteenä ovat toimineet petroolia polttoaineenaan käyttävät Petromax- tai Tilleylamput, mutta nykyään patteri- ja akkukäyttöiset sähkölamput.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Soođij maŋa čuovvân láá lamaš Petromax- tâi Tilleylaampuh, moh toimii kaasijn, mut tááláá ääigi šleđgâlaampuh, moh tuáimih patterijguin tâi akuiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuulastuskala on keittokalana kaikkein parhain eli tauroin, koska pistettävä kala kuolee yleensä heti, kun atrain iskeytyy sen selkään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tuohâskyeli lii vuoššâmkyellin puoh sävrimus, ko čyeggejum kyeli jáámá táválávt tállán, ko härssee čuoggâs ton siälgán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikka virvelionginta ja pilkkiminen ovat nykyisin melko suosittuja kalastusmuotoja Inarissa, edustavat ne kuitenkin myöhempien aikojen tuotteita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Veikkâ virveluággum já jieŋâalnuággum láá-uv taan ääigi pivnuus kyelipivdemvyevih Anarist, láá toh kuittâg-uv majebij aigij pyevtittâsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne ovat urheilukalastajien tuomia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taid láá astoääigikuálásteijeeh puáhtám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitä vastoin uistattaminen kuuluu vanhempaan perinteeseen, koska sitä käytettiin jo 1800-luvun puolella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ton sajan uštem kulá puárásub ärbivuáhán, ko tot lii lamaš kiävtust juo 1800-lovo pelni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niin ikään vanhempien aikojen tuotteita ovat verkoista rakennettu siikapesä ja avoperärysä, joita on Inarijärvellä käytetty viime vuosisadan alkupuolelta lähtien, ehkä pidempäänkin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tovláá ääigi pyevtittâsah láá meiddei viermijn rahtum šapšâpeesi já stuorrâlääni, moh láá lamaš Aanaarjäävrist kiävtust juo moonnâm ihečyeđe aalgâ rääjist, kenski ovdeláá-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myöhempien aikojen tuotteisiin kuuluu esim. rautalangasta valmistettu katiska.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Majebij aigij puátusáid kulá ovdâmerkkân sraaŋgâst rahtum katiska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viimeisin tulokas kalastuksen rintamalla on ollut troolikalastus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Majemuš puáđulâš kyelipivdemaašijn lii lamaš troolipivdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1980-luvulla Alajärveen istutetut muikut karkasivat Alajokea myöten Ivalojokeen, josta edelleen Inarijärveen ja alkoivat lisääntyä runsain mitoin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1980-lovvoost Vyelijáávrán ištâdum muuikuh kárgájii Vyelijuuvâ mield Avveeljuuhân, mast ain Aanaarjáávrán, jeđe lassaanškuottii tobbeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän seurauksena monet inarilaiset hankkivat itselleen troolikalastusvälineitä ja kaikki sujuikin aluksi hyvin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ton keežild maaŋgah aanaarliih skáppojii olssis troolipiergâsijd já puoh moonâi-uv aalgâst pyereest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 1989 muikkua troolattiin noin 180 000 kg.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 1989 muikku troolajui suullân 180 000 kiilud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuolloin Inarijärveä troolasi kuusitoista veneparia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Talle Aanaarjäävrist kessii trooli kuttânubáloh kärbispaarrâd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muikkukanta kuitenkin romahti vuonna 1992, jolloin saalis jäi alle 10 000 kg:n.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muikkunääli kuittâg kuáržui ive 1992, kuas saalâs paasij vuálá 10 000 kiilun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nykyään troolikalastusta esiintyy Inarijärvellä ainoastaan koeluontoisena RKTL:n toimesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tááláá ääigist troolipivdo Aanaarjäävrist lii tuše iskospivdo, maid RKTL parga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmari Mattus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uccpárnáá Vuoli Ilmar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uula Morottaja kalalla 1930-luvulla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lesk-Ant Uulá (Uula Morottaja) kyelipiivdost 1930-lovvoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Loukkupyynnissä Inarilla ammattikalastaja "Haikonen" eli Jouni Aikio.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Áámmátkuálásteijee ađai Kaabi Piättâr Jovnâ (Jouni Aikio) stuorrâlänipiivdost Aanaarjäävrist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Haikonen juomuksilla Inarijärvellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Haikonen juoŋâstmin Aanaarjäävrist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Öisellä Inarilla Veikko Aikion mukana muikkua troolaamassa Jaakko Kyrö.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jaakko Kyrö muuiku troolaamin kesi-iijâst Juhánâs Veiko (Veikko Aikio) fáárust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarijärven tyypilliseen kalansaaliseen kuuluvat harjus, siika, taimen, ahven ja hauki.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri táválumos kyelisalâsân kuleh suavvil, kyeli ađai šapšâ, kuávžur, vuásku já puško.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

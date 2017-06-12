@@ -1,0 +1,608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">ymparisto.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâsijđo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikannimet</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Päikkinoomah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sukualueet</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suhâkuávluh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarijärven pinta-ala on hieman yli 1 000 neliökilometriä ja se tekee siitä Suomen kolmanneksi suurimman järven Saimaan ja Päijänteen jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri vijđodâh lii pajeláhháá 1 000 km2 já tot taha tast Suomâ kuálmádin stuárráámus jäävri Saimaa ja Päijänne maŋa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarijärveä luonnehtivat sekä laaja saaristo, johon kuuluu yli 3000 erillistä saarta ja luotoa, että toisaalta suuret avoimet selät.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri kovvejeh maaŋgah suolluuh, moh láá paijeel 3000 sierânâs suálujid já lássád já nube tááhust stuorrâ joorŋah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monin paikoin veden ja taivaan välinen viiva muodostaa horisontin ilman merkkiäkään saarista tai mantereesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri eromâšvuotâ lii ton stuáruduv lasseen meiddei tot, et eres kuávlust keejân jävri lii tavveen já meccikuávlust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Geologialtaan järven pohjan kallioperä koostuu hyvin vanhoista, 2000 - 3 000 miljoonaa vuotta vanhoista liuskeista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Geologias peeleest jävripone källeevuáđu šadda uáli puáris, 2000 - 3000 miljovn ive puáris ráptukeeđgijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarin itäosassa ne ovat enimmäkseen pohjagneissiä ja lännessä hieman nuorempaa granuliittia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaar nuorttâuásist lii iänááš ponnegneissi já viestârist ucánjáhháá nuorâb granuliit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Merkittävä Inarijärven alueen pinnanmuotoihin vaikuttava tekijä on ollut noin 70 miljoonaa vuotta sitten alkaneet Etelä-Euroopan poimutukset.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri kuávlu asehaamijd vaikutteijee merhâšittee tahhee lii lamaš suullân 70 miljovn ihheed tassaaš álgám Maadâ-Euroop jormiimeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nämä johtivat varsinaisesti nykyisten Alppien syntyyn, mutta geologinen toiminta vaikutti myös kauas pohjoiseen erilaisten lohkoliikuntojen kautta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toh vaikuttii táálái Alpâi šoddâmân, mut geologâlâš toimâ vaikuttij meiddei kuhás tavas jieškote-uvlágánij laigosliihâdmij pehti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi Norjassa Kölivuoristo kohosi silloin ylöspäin kuten myös Inarin lähellä sijaitsevat Saariselkä, Hammastunturin alue ja Lemmenjoen tunturit.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâmerkkân Taažâst Kielâsvárádâh (Kölivuoristo) pajanij tegu meiddei Aanaar aldasiih Suáluičielgi, Päniordo kuávlu já Lemmee tuoddâreh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen sijaan Inarijärvi ja etelämpänä oleva Sompion alue laskivat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ton sajan Aanaarjävri já mäddiláá lamaš Suobbâd kuávlu luáštádettii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin muodostui se vajoama, jossa nykyinen Inarijärven alanko sijaitsee.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Návt šoodâi tot kočâttâh, mast tááláš Aanaarjäävri vuáládâh lii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lohkoliikuntojen välisissä murtumissa puolestaan virtaavat monet nykyiset suuret joet kuten Inarijärveen laskeva Ivalojoki.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Laigosliihâdmij koskâsijn morruumijn oppeet kolgeh maaŋgah táálááh stuorrâ juuvah tegu Aanaarjáávrán lyeštee Avveeljuuhâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jääkaudet ja järvi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieŋâääigih ja jäävri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Noin miljoona vuotta sitten alkaneet jääkaudet vaikuttivat voimakkaasti Inarijärven muotoihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suullân miljovn ihheed tassaaš álgám jieŋâääigih vaikuttii čuuvtij Aanaarjäävri haamijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viimeisin jään sulaminen tapahtui Inarijärven kohdalla noin 9500 - 10 200 vuotta sitten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Majemuu jieŋâ suddâm tábáhtui Aanaarjäävri peht suullân 9500 - 10200 ihheed tassaaš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sulamisvaiheen aikana oli nykyisen Inarijärven pohjoisosassa suuri jääjärvi, joka purki vetensä Näätämön vesistön kautta Jäämereen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suddâmpaje ääigi lâi tááláá Aanaarjäävri taveuásist stuorrâ jieŋâjävri, mii luoštij časijdis Njiävđám čácáduv pehti Jieŋâmeerân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vasta kun Virtaniemen kohdalla ollut jääpato suli, aukeni yhteys Jäämereen nykyisen Paatsjoen kautta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tast maŋa ko Virdáánjaargâ puotâ lamaš jieŋâpuáđu suudâi, lekkâsij ohtâvuotâ Jieŋâmeerân tááláá Paččvei pehti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinjärvi oli tuolloin muutama sata vuotta meren vuonona.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjävri lâi talle motomijd čuođijd iivijd meerâ vuonnân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen aikaisia rantakivikoita ja muita rantamuodostumia löytyy tänäkin päivänä noin 150 m meren pinnan yläpuolella olevien korkeuskäyrien kohdalla eli 30 metriä nykyisen Inarijärven pinnan yläpuolella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ton áigásiih riddojuovah já eres-uv riddohammiitŧâsah kávnojeh onnáá peeivi-uv suullân 150 m merâase paajaapiälái alodâhsárgái puotâ ađai 30 meetterid tááláá Aanaarjäävri ase paajaabeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maan kohoamisen johdosta vuonoyhteys muuttui Virtaniemen kohdalla jokiyhteydeksi ja syntyi Paatsjoki.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eennâm pajanem keežild vuonâohtâvuotâ muttui Virdáánjaargâ puotâ juhâohtâvuottân já šoodâi Paččvei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on nykyisinkin Inarijärven laskujoki Jäämereen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot lii ain tääl-uv Aanaarjäävri juuvâijuuhâ Jieŋâmeerân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jääkaudella jää liikkui Inarijärven kohdalla jäätiköitymisvaiheessa koilliseen ja vetäytyi sulamisvaiheessa takaisin lounaaseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieŋâääigi jieŋâ lihâdij Aanaarjäävri pehti jiäŋŋumpaje ääigi tavenuortâs já kiäsásij suddâmpaje ääigi maasâd uárjás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liike näkyy tämän päivän maisemassa erilaisissa lounas-koillinen -suuntaisissa muodostumissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lihâdem vuáttoo onnáá peeivi enâduvâst sierâlágánijn uárji-tavenuorttâ -sundásijn čokkâšuumijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko järvi ja varsinkin sen koillisosassa olevat pitkät vuonot ovat mannerjään liikkeen suuntaisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ubâ jävri já aainâs-uv ton tavenuorttiiuási kuhes vuonah láá nannaamjieŋâ lihâdem sundásiih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jään edetessä syntyivät muun muassa moreeniselänteet eli drumliinit ja silokalliot uurteineen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieŋâ ovdánem ohtâvuodâst šoddii eres lasseen mooreenčielgih ađai drumlineh já šolbâkälleeh jormijdiskijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sulamisvedet lajittelivat soraharjuja, joita näkyy Inarijärven ympäristössä mm. Partakossa, Vätsärissä ja Keväjärvellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suddâmčääsih sierrejii čievrâpuolžâid, moh tiättojeh Aanaarjäävri pirrâsist eres lasseen Päärtihist, Väčirist já Kiäváájäävrist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jäät kuljettivat myös kiviä ja siirtolohkareita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieŋah jođettii meiddei keeđgijd já siirdâloigiittâsâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varsinkin Vätsärin alueella jääkauden aikaansaama kivikkoisuus on hämmentävän runsas.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aainâs-uv Vääččir kuávlust jieŋâääigi ááigánfinnim juovviisvuotâ lii hiämáskittees valjaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurten luonnonvaihtelujen järvi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuorr â luándumulsâšudmij jävri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rantojen ja maaperän rikkonaisuus, kivikkoisuus ja pohjan syvyyden suuri vaihtelu näkyy saarien suuren määrän lisäksi lukuisina sivujärvinä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ridoi já eennâmvuáđu piäđgulâšvuotâ, juovviisvuotâ já pone jieŋŋâlvuođâ stuorrâ mulsâšuddâm vuáttoo suollui stuorrâ mere lasseen maaŋgâin uálgijaavrijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne ovat lyhyiden jokien tai salmien kautta yhteydessä itse Inariin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toh láá uánihis juuvâi tâi čolmij pehti ohtâvuođâst stuorrâ Aanaarjáávrán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaisia ovat mm. Ukonjärvi, Nitsijärvi ja koillisosan vuonomaiset Kyyneljärvi ja Suolisjärvi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tagareh láá eres lasseen Äijihjävri, Njižžjävri já tavenuorttâuási vuonâlágán Konjâljävri já Čuolisjävri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarijärven lähiympäristö on melko alavaa, vaikkakaan ei tasaista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri aldapiirâs lii viehâ vyeligâš, veikkâ ij nuuvt hirmâd täässiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järven keskisyvyys jää niukasti alle 15 metrin, mutta syvimmät kohdat ovat yli 90 metriä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Javrij koskâjieŋŋâlvuotâ páácá ucánjáhháá vuálá 15 meetterist, mut jieŋâlumoseh sajeh láá paijeel 90 meetterid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähin kunnon tunturi on peninkulman päässä järven luoteispuolella sijaitseva Otsamo.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Javrij aldapirrâsist iä lah tuoddâreh, mut kuittâg-uv maaŋgah ollâsiähá väärih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarin pohjoinen sijainti näkyy pitkänä, puolentoista kuukauden mittaisena kaamoksena, joka alkaa marraskuun lopulla eli samoihin aikoihin kuin suuret selätkin normaalisti jäätyvät.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aldemuš olmâ tuodâr lii penâkkullâm keejist jäävri viestârpiälááš Ocomâš. Aanaar taavaapiälááš sajadâh tiättoo pelnub manuppaje kukkosâš skammân, mii álgá roovvâdmáánu loopâst ađai siämmái aigij ko stuorrâ joorŋah-uv táválávt jiäŋŋuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaavasti yhtäjaksoinen kesäpäivä kestää pari kuukautta toukokuusta heinäkuun loppupuolelle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Siämmáánáál potkânhánnáá kesipeivi pištá muáddi mánuppaje vyesimáánust syeinimáánu loopâbel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lämpimän kesän ja syksyn jälkeen selkävesien jäätyminen voi viivästyä huomattavasti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lieggâ keesi já čoovčâ maŋa jorŋâčasij jiäŋŋum puáhtá maŋanuđ viehâ ennuv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi Inarijärvellä on joitakin kapeita salmia, jotka eivät jäädy lainkaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasseen Aanaarjäävrist láá motomeh kezis čuálmih, moh iä jiäŋu ollágin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suotuisat luonnonolosuhteet Inarijärven keskiosan läpäisee 69. leveyspiiri.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuovâs luándutileh Aanaarjäävri koskâuási peht mana 69. kobdodâhpirrâdâh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari on siten Euroopan suurjärvistä kaikkein pohjoisin ja sijaitsee pohjoisempana kuin esimerkiksi Ruotsin pohjoisin kohta tai koko Kuolan niemimaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nuuvtpa Aanaarjävri lii Euroop stuorrâjaavrijn puoh tavemus já lii taveláá ko ovdâmerkkân Ruotâ tavemus uási tâi ubâ Kuáláduv njargâeennâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siksi onkin aika erikoista ja merkittävää, että Inari sijaitsee kokonaan mäntymetsävyöhykkeen sisällä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tane lii-uv viehâ eromâš já merhâšittee, et Aanaarjävri lii ollásávt peciordârääji siskiibeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näihin leveyspiiriin nähden edullisiin olosuhteisiin vaikuttavat mm. suhteellinen vähäinen korkeus merenpinnasta, vallitsevat lounaiset ilmavirtaukset ja talvellakin sulan Jäämeren läheisyys.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kobdodâhpirrâdâhân verdiddijn taan mávsulâš tilán vaikutteh eres lasseen ucánjâs alodâh merâaaseest, uárjipiegah já tälviv-uv sudes Jieŋâmeerâ aldavuotâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuret selkävedet ja niiltä puhaltavat tuulet kuitenkin ovat edesauttaneet Inarijärven pohjoisosan koivuvyöhykkeen syntyä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuorrâ jorŋâčääsih já tobbeen possoo piegah láá kuittâg jieijâs uásild tovâttâm Aanaarjäävri taveuási suáhistiellâs šoddâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koivikot reunustavat katkonaisesti ja kapeina kaistaleina rantoja ja peittävät joitakin saaria.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suáhivyevdih robdâstiteh kezis já potkâneijee stielâsin riddoid já luávdih motomijd suolluid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmastosta johtuvia puuttomia ja tundramaisia saaria ei Inarilla esiinny.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šoŋŋâduv keežild muorâttis já tundralágán suolluuh iä Aanaarjäävrist tiettuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutamien saarten puuttomuus johtuu kalliopaljastumista, liiasta kosteudesta tai ihmisen toiminnasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Motomij suollui jolgâdvuotâ puátá päljiskällein, lijge lavtâsvuođâst tâi ulmuu tooimâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuulisuuden ja maalajien niukkuuden muotoilemia mäntyjä, joita tavataan esimerkiksi merten rannoilta, löytyy myös Inarilta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Piegâi já eennâmšlajâi vänivuođâ hammim peesih, moh kávnojeh ovdâmerkkân merâriddoin, kávnojeh meiddei Aanaarjäävrist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aivan järven lounaiskolkassa Ivalojokisuistossa esiintyy kuusia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jäävri uárjičievâst Avveelnjäälmist tiättojeh kuosah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarin rehevimpiä alueita ovat kaikki jokisuistot, jotka ovat aiheuttaneet usein laajan matalikon ja tuovat vuosittain runsaasti ravinteita eliöstön käyttöön.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri šaddaamusah kuávluh láá puoh juhânjálmáduvah, moh láá tovâttâm távjá vijđes koškáid já pyehtih ivijmield valjeest raavvâdamnâsijd iälánij kiävtun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Karuus ja säännöstely leimaavat järven luontoa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Korâsvuotâ já čäcitääsi heiviittâllâm stemppâlisteh jäävri luándu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarijärven vesi ja rannat ovat muuten niukkaravinteisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri čääci já ridoh láá mudoi väniraavvâdliih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä yhdessä veden kylmyyden ja pitkän jäässä olon kanssa aiheuttavat vesikasvillisuuden vähäisyyden.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taat oovtâst čääsi kolmâsvuođáin já ihepiälásâš jieŋáin tovâtteh čäcišaddoduv vänivuođâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä näkyy edelleen eläinten pienessä määrässä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taat oppeet tiättoo ellei vänivuođâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rantavyöhykkeet ovat kapeita ja kivikkoisia, hiekkarantoja on hyvin niukalti ja ne ovat kapeita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Riddostielâseh láá keezih já kiäđgááh, vuoddâseh láá uáli uccáá já toh láá keezih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi Inarin eläimistöön vaikuttaa järven säännöstely.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasseen Aanaar elleenaalijd vaikut jäävri čäcitääsi heiviittâllâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paatsjoen voimalaitokset juoksuttavat talven aikana Inarin vesivarastoja siten, että keväällä veden korkeus on yleensä alimmillaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Paččvei vyeimilájádâsah kulgâtteh täälvi ääigi Aanaarjäävri čäcivuárháid nuuvt, et kiđđuv jävri lii táválávt cuáhásumos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesällä veden pinta alkaa nousta ja se on korkeimmillaan ennen jäätymistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keessiv jävri tulvâškuát já tot lii tulváámus muddoost ovdláhháá jiäŋŋum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Säännöstelemättömällä järvellä lumien ja jäiden sulaminen aiheuttavat tulvahuipun keväällä, joka sitten laskee nopeasti jo alkukesällä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Heiviittâlhánnáá jäävrist muottuu já jieŋâi suddâm tovâtteh kiđđâtulve, mii tastoo cuáhu jotelávt juo algâkeesist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä Inarijärvellä tapahtuva, luonnonmukaisesta kierrosta poikkeava veden korkeuden säätely vaikuttaa moniin eliöihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taat Aanaarjäävrist tábáhtuvvee, luándulii ihejurâmist spiekâsteijee čäsitääsi heiviittâllâm vaaikut maŋgáid iälánáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehkä selvimmin siitä kärsivät ne vesilinnut, jotka yrittävät pesiä keväällä rantavyöhykkeelle lähelle veden rajaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kenski čielgâsumosávt tast killájeh toh čäcilodeh, moh viggeh pessiđ kiđđuv riddostielâsân alda čäcirääji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Haudonta-aikana nouseva vesi estää pesinnän onnistumisen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Läällimääigi tulvee čääci iästá pessim luhostume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korkeilla rannoilla, Inarin läheisissä järvissä ja Inarijärven suurten saarten lammissa pesii kuitenkin vesilintuja, joita karullakin järvellä näkyy erityisesti jokisuistoissa ja matalilla rannoilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ollâ riddoteermijn, Aanaarjäävri aldasijn jaavrijn já Aanaarjäävri stuorrâ suollui lááduin pessejeh kuittâg čäcilodeh, moh korrâ-uv jäävrist tiättojeh eromâšávt juhânjálmáduvâin já cuávis riddoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koskelot, kaakkuri, kuikka ja näitä harvinaisempi mustalintu ovat tyypillisiä Inarijärven vesilintuja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuálsih, kähteeh, tuhtuuh já tai härvinâsâb njurguuh láá tijpâliih Aanaarjäävri čäcilodeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuri järvi vetää puoleensa myös harhailijoita ja kiertelijöitä valtamereltä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuorrâ jävri kiäsut meiddei väldimeerâst čájádeijeid já vajâldeijeid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Merikotka ja merimetso ovat jokavuotisia vieraita, ja etenkin myrskyjen jälkeen on tavattu myös joitakin lintuvuorten lajeja kuten kiisloja, lunneja ja pikkukajavia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Merâkuáskim já skarfâ lává jyehi-ihásiih kyesih, já aainâs-uv šuármui maŋa láá kuáhtájum meiddei motomeh loddevarij šlaajah tegu kiislah, povtâžeh já skiäruh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös luonnonmukaiseen veden korkeuden vaihteluihin sopeutuneiden kalojen kutu häiriytyy säännöstelyssä, vaikka se onkin enimmillään vain pari metriä vuoden aikana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meiddei luándulâš čäciase mulsâšudmân vuáhádum kuolij kođo hemâduvá heiviittâlmist, veikkâ tot lii-uv enâmustáá tuše muáddi meetter ive ääigi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaloista tärkeimmät ovat monet lohikaloihin kuuluvat lajit kuten eri siikalajit, taimen, rautu ja ajoittain myös muikku.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuolijn tergâdumoseh láá maaŋgah luosâkuolijd kullojeijee šlaajah tegu jieškote-uvlágáneh šapšâšlaajah, kuávžur, rávdu já motomin meiddei muikku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuosittain istutetaan Inariin huomattava määrä kalojen poikasia korvaamaan säännöstelyn aiheuttamia haittoja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ihásávt ištâduvvojeh Aanaarjáávrán merhâšitteeverd kuolij uđâgááh čäcitääsi heiviittâlmist šoddâm hemâdâsâi sajan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarijärven erikoisuus on suuren koon lisäksi myös sen pohjoisuus ja erämaisuus, jotka tekevät siitä Suomen muista suurjärvistä varsin poikkeavan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri spesiaalvuotâ ton stuáruduv lasseen lii meiddei ton taavaapiälááš já meccilágán sajadâh, moi keežild tot spiekâst merhâšittee verd Suomâ eres stuorrâjaavrijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jäiden lähtö tapahtuu normaalisti touko-kesäkuun vaihteessa, mutta suuret selät sulavat vasta juhannukseksi ja kovien talvien jälkeen vieläkin myöhemmin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieŋah suddeh táválávt vyesi-kesimáánu jorgálduvâst, mut stuorrâ joorŋah suddeh iäskán jonsahpiäiván já korrâsuboi taalvij maŋa vala-uv maŋeláá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järven suuri vesivarasto luovuttaa lisäksi lämpöä pitkään syksyllä ja tasaa kesällä vuorokautisia lämpötilaeroja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jäävri stuorrâ čäcivuárkká luovât lieggâs kuhás čoohčân já tässee keessiv pirrâmpiäiválijd liegâsvuođâiäruid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuret selkävedet ja niiltä puhaltavat tuulet vaikuttavat Inarijärven puustoon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuorrâ jorŋâčääsih já toi mieldi possoo piegah vaikutteh Aanaarjäävri muoráid.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

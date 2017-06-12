@@ -1,0 +1,720 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kertomaperinne.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitustavat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällimvyevih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli ja identiteetti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ já identiteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julkaistut teokset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almostittum kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kertomusperinne on samantapainen kaikilla saamelaisilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâstemvyehi lii siämmáásullâsâš puoh sämmilijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarinoiden kehys on usein sama, mutta miljöö ja muut yksityiskohdat antavat paikallisväriä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsij vuormâ lii távjá siämmâš, mut miljöö já tärkkilub ääših adeleh páihálii ivne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niinpä vanhat syntykertomukset ja uskomustarinat ovat ovat suunnilleen samanlaisia eri puolilla saamelaisaluetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nuuvtpa puáris šoddâmmainâseh já oskomušmainâseh láá suullân siämmááláváneh jieškote-uv kuávlust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Satuja ovat eläinsadut, ihmesadut, novellisadut ja pilasadut.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Satu -luokan kullee mainâseh láá elleemainâseh, imâšmainâseh, nooveelmainâseh já ilbis mainâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ne ovat suureksi osaksi lainaa muualta, niinkuin sadut usein ovatkin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toh láá iänááš luoihâttum eres kuávluin, nuuvt tego satu-mainâseh távjá láá-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 1917 julkaistussa kokoelmassa "Inarinlappalaista kansantietoutta" on runsaasti satuja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 1917 almostittum čuágálduvâst láá valjeest satu-mainâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niiden aihepiirit ja asiat ovat enimmäkseen vieraita inarilaisille, kerrotaan mm. kuninkaista, jalopeuroista, hevosista, tukkitöistä ja tammenterhoista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tain mainâstum ääših láá iänááš viäráseh anarâššáid, ko toh mainâsteh el. kunâgâsâin, jálupeevrijn, hiäppušijn, já taamiterhoin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eläinsadutkin näyttävät olevan tuontitavaraa, koska poro tai peura ei esiinny saduissa juuri ollenkaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Elleemainâseh-uv oroh lemin puohtum, kuás jo puásui teikâ kodde iä mainâšuu mainâsijn ollágin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saduissa on kuitenkin paljon paikallisväriä ja tapahtumia on käsitelty saamelaiselta kannalta, kuten Menes-Antin seikkailu Ranskanmaalla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mut mainâsijn kal lii ennuv páihálâš ivne já ääših kieđâvuššojeh säämi vuovvijn, nuuvt tego Meniš-Aanti fiäráneh Ranskaenâmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uskomustarinoista yleisimpiä ovat kertomukset staalosta, maahisista, aarteenvartijasta, seidoista, samoin kummitus-, etiäis- ja kaksoisolentotarinat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Oskomušmainâsijn táválumoseh láá mainâseh stáálust, kuhvittârijn, čáháligijn, sieidijn já meiddei komme-, ovdâsâš- já kyehtineeleevmainâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varoitustarinoiden tehtävänä on mieleenpainuvasti selittää, miten käy, jos toimii väärin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Váruttemmainâsijguin čielgejii tom mielânpäccee vuovvijn, et maht kiävá, jis parga puástud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilötarinat ja historialliset tarinat ovat enemmän sidoksissa paikkaan ja tiettyyn aikaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmoošmainâseh já historjáliih mainâseh láá eenâb čonâsist sajan já tiätu ááigán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Memoraatti kertoo jonkun tietyn henkilön kokemuksesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Memoraat maainâst kiännii tiätu ulmuu fiäránijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä on mukana uskomustarinan aineksia ja paljon yksityiskohtia, jotka eivät välttämättä vie kertomusta eteenpäin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tast láá fáárust oskomušmainâs amnâseh já ennuv ovtâskâs ääših, moh iä aainâs joođeet mainâs ovdâskulij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksityiskohtien kerronnalla koetetaan ehkä todistaa tapahtuma todeksi, mutta niistä käy myös ilmi, että kerrottu tapaus on tuore.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovtâskâs ašij kevttim mainâsist viggá vaarâ tuođâštiđ tom, et äšši lii tuođâi tábáhtum, mut tast čiälgá meiddei tot, et mainâstum tábáhtâs lii tai aigij tábáhtum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kerrotaan henkilöt, aika ja paikka tarkasti ja mitä tapahtui.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsist mainâšuvvojeh ulmuuh, äigi já päikki tárkká já et mii ain tábáhtui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos tarinan juoni unohtuu tai sitä ei haluta kertoa, niin se voi supistua lauseeksi tai tokaisuksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis mainâs juonâ vájálduvá teikâ tom ij haalijd mainâstiđ, te tot puáhtá snorâniđ ceelhân teikâ páhudistmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasta voidaan varoittaa: Jos menet veden rannalle, vuáŋŋáš tempaa sinut veden alle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Párnáá puáhtá váruttiđ: Jis moonah riidon, te vuáŋŋáš rottee tuu čääsi vuál.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tai jos lapsi on alasti, sanottiin: Piettemes čáhálig !</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Teikâ jis páárnâš lii piättáá, te ettii: Piettemes čáhálig !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Čáhálig nimittäin oli pienikokoinen alaston aarteenvartija-haltija.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čáhálig uáináh lâi pietittem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamessa ei ole eri nimityksiä sadulle, tarinalle tai memoraatille, on vain maainâs ja verbi mainâstiđ.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâst ij lah sierânâs nommâ satun ige memoraatân, lii tuše maainâs já verbâ mainâstiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On myös muštâlus, joka tarkoittaa kertomusta, muisteloa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lii meiddei muštâlus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muštâlus, memoraatti ja usein tarinakin kerrotaan totena, satu taas epätotena.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muštâlus, memoraat já motomin maainâs-uv mainâstuvvojeh tuottân, satu vist epituottân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eri kertomustyyppejä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsšlaajah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Novellisadun juoni selviää teoksesta "Inarinlappalaista kansantietoutta" (1886).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nooveelmainâs (satu) juonâ (1886) kirjeest "Inarinlappalaista kansantietoutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Menes-Antti kertoo kuinka hän maailmalla kulkiessaan meni Ranskaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>" Meniš-Antti maainâst, maht sun maailmist jođedijn moonâi Raanskan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pariisissa hän nukkavierussa asussa meni erääseen rakennukseen, jossa oli juhlat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pariisist sun hyenes pihtâsijguin moonâi mottoom táálun, mast lijjii juhleh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hänet yritettiin ensin ajaa pois, mutta myöhemmin hän kuuli erään herran sopivan kuninkantyttären kanssa siitä, että he menevät yhdessä nukkumaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suu viggii vistig vyejettiđ meddâl, mut maŋeláá sun kuulâi mottoom hiärá sopâmin kunâgâs nieidáin, et suoi moonnâv oovtâst uáđđáđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Menes-Antti kyllä osasi ranskaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meniš-Antti kal maatij ranskakielâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kosijaksi tekeytymällä hän pääsi tyttären luo neljänteen kerrokseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sun tohâludâi irguustellen já peesâi niäljád kiärdán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sängyssä Antti kuitenkin paljastui, kun joutui kovasti raapimaan täitä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Seeŋgâst Antti kuittâg kavnâttâđâi, ko ferttij ruokkâđ čuuvtij tiihijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tytär antoi Menes-Antille kolmetuhatta kultataaleria, ennen kuin sai hänet lähtemään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nieidâ adelij sunjin kulmâtuhháát kolletalarid, ovdil ko finnij suu vyelgiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuninkaantytär on kuulemma tullut raskaaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kunâgâs nieidâ lii kulloo čuávjum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Stáálu (staalo) on iso, vahva, ruma ja yksinäinen olio, joka haastaa ihmisen painiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stáálu lii stuorrâ, kievrâs, fastes já ohtuunis eeleev, mii hástá ulmuu hiäibuđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos ihminen voittaa, hänen on omalla veitsellään tapettava staalo.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis olmooš vuáittá, sun kalga jieijâs nijbijn koddeđ stáálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Staalo tarjoaa omaa veistään, mutta sillä se ei kuole, vaan saa vain lisää voimaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stáálu kal fáálá jieijâs nijbe, mut toin tot ij jäämi, pic kiävru val lase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös staalon koira, joka kylläkin voi olla näkymätön, pitää tappaa, muuten se nuolee staalon haavat ja herättää sen henkiin entistä vahvempana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meiddei stáálu pennuu, mii puáhtá kal leđe uáinimettum, kalga koddeđ, mudoi tot njuálu stáálu haavijd já iäláskit tom val kievrâbin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihminen saa staalon rahat ja kullat itselleen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Olmooš finnee stáálu ruuđâid já kuullijd olssis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kufittâr eli kuhvittâr on hyvätapaisempi olio.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuhvittâr lii sivvâdub eeleev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se asuu maan alla, mutta voi joskus ilmaantua ihmisten näkyville, ellei halua jostakin syystä liikkua näkymättömänä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot áásá eennâm vyelni, mut sáttá motomin almostuđ ulmui uáinusân, jis haalijd monnii suujâst jotteeđ uáinimettumin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuhvittârit ovat kauniita, rikkaita ja hyvinpukeutuneita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuhvittâreh láá muččâdeh, riggáh já šiev káárvuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Heidän poronsakin ovat erikoisen värisiä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sii poccuuh-uv láá čiŋŋâivnásiih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuhvittârtarinoissa yleensä ihminen näkee outoja poroja ison tokan, joka ei jätä lumeen jälkiä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuhvittârmainâsijn táválávt olmooš uáiná omâs poccuid stuorrâ iälu, mii ij räähti muottui luodâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mutta jos heittää veitsen tai jonkin raudan porojen yli, niin saa itselleen kaikki ne porot, jotka jäävät putomanispaikan ja ihmisen väliin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mut jis leggist nijbe teikâ monnii ryevdi poccui paijeel, te finnee olssis puoh taid poccuid, moh pääccih koččâmsaje já ulmuu kooskân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joku onkin rikastunut sillä tavoin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kiinii lii-uv kulloo riggom toin naalijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seita eli sieidi oli jumala tai ainakin hengen olopaikka.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sieidi lâi immeel teikâ kuittâg jiegâ orroomsaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunnettu on kertomus Iijärven seidasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tobdos lii maainâs Ijjäävri sieidist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä eräs äiti ja tytär menivät ilmoittamaan seidalle, etteivät aio enää uhrata tälle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tast mottoom enni nieidâinis moonáin almottiđ siäidán, et suoi iävá innig ááigu uhrediđ toos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin veneeseen astuessa tytön jalka takertui rantaan niin, että hänen oli huudettava seitaa avuksi ja luvattava edelleen uhrata: "Älä ota kusikinttua, ota mieluummin pässinkaula!".</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Te kárbás lavkkiidijn nieidâ jyelgi rokkâsij riidon nuuvt, et sun ferttij čuárvuđ sieidi iššeen já lopediđ ain-uv uhrediđ: "Ele vääldi kuonâruoidâ, vääldi pyereeb viercâ čiäppát!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Silloin jalka irtosi rannasta, ja heidän täytyi edelleen jatkaa uhrien tuomista seidalle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>" Te jyelgi peesâi luovâs riddoost, já suoi ferttijn ain juátkiđ uhrij pyehtim siäidán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulijan ovdâsâš eli etiäinen ilmestyi jonkin aikaa aikaisemmin kuin henkilö itse todellisuudessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâsâš almostui mottoom ääigi ovdil ko olmooš jieš. Motomij ovdâsâš poođij pirrâmpeeivi ovdil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällainen oli ainakin Kaapin Jounilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taggaar lâi kuittâg Kaabi Joovnâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se oli niin täsmällinen, että vaimo saattoi keittää kahvin valmiiksi vuorokauden kuluttua etiäisen näkymisestä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot almostui nuuvt tárkká, et kálgu puovtij käähvi vuoššâđ valmâšin pirrâmpeeivi keččin ovdâsáá oinuumist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Etiäinen muistutti tarkalleen varsinaista ihmistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâsâš lâi eidu tego olmooš jieš-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paksumaassa asuvalla Akun Jounilla oli etiäinen, jonka useat ihmiset näkivät samanaikaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kossenâmist ässee Áhu-Joovnâst lâi ovdâsâš, mon maaŋgâs oinii siämmáá ääigi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapauksia oli useita ja eräs oli sellainenkin, että Jouni näkyi samanaikaisesti etiäisensä kanssa ja puhuikin sille.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Návt tábáhtui maŋgii, ohtii keevâi nuuvt-uv, et Jovnâ oinui ohtân ovdâsáinis já sáárnui-uv toin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lieneekö etiäinen ollut myöhässä vai Jouni liian aikaisessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lâš-uv ovdâsâš lamaš maŋanum vâi Jovnâ puáttâm liijkás tooláá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tyypillinen vainolaistarina on sellainen, että vainolaiset eli čuđeh tulevat hävittämään saamelaisten taloja, tappamaan ja ryöstämään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Táválâš čuđemaainâs lii taggaar, et čuđeh puátih hevâttiđ sämmilij tááluid, koddeđ já rievediđ. Sämmilij sáŋgár Lavrukâš kuittâg utkáávuođâinis tuššâd čuuđijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelasten sankari Lavrukâš kuitenkin neuvokkuudellaan tuhoaa vainolaiset.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mottoom mainâsist čuđeh lijjii jotemin Aanaarjäävri mield já pálkkááttii Lavrukáá uápisin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hän houkutteli heidät saareen syömään hilloja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sun hokâttâlâi taid suollui luámánijd purrâđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun vainolaiset olivat menneet kauemmaksi, Lavrukâš työnsi kaikki veneet vesille ja jätti vainolaiset saareen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko čuđeh lijjii moonnâm tabbeláá, te Lavrukâš saajai puoh kárbáid čáácán já kuođij čuuđijd suollui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kahden viikon kuluttua vainolaiset olivat kuolleen nälkään, vaikka olivat syöneet kuoren sadasta männystä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kyevti oho keččin čuđeh lijjii jáámmâm niälgán, veikâ lijjii purrâm čyeđe peesist kuolmâsijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saaren nimi on Satapetäjäsaari.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suolluu nommâ lii-uv Čyetpecsuálui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lavrukâš oli aikansa McGyver.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lavrukâš lâi jieijâs ääigi MacGyver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Historiallisista tarinoita esimerkkinä on tässä Sigan tarina.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Historjálijn mainâsijn ovdâmerkkân lii täst Sigá maainâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sigga oli tyttö, jolla oli kaksi kosijaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Siggá lâi nieidâ, kiäst láin kyehti irge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun hän ei osannut tehdä valintaa, sulhaset menivät kapean salmen kahden puolen ja ampuivat jousillaan toisiaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko sun ij máttâm valjiđ kuábbáágin, te irgeh moonáin kezis čuálmi kyevtibel já paijijn tavgijn kyeimis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kumpikin poika kuoli.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuábâš-uv kaandâin jaamij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Salmi sai nimekseen Sigá čiärrumčuálm i eli Sigan itkusalmi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuálmán šoodâi nommân Sigá čiärrumčuálmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarinalla on kaksi loppua, ikäänkuin valittavana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsist láá kyehti loopâ, tego valjimnáál.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toisessa Sigga haudataan kosijoiden väliin sanoilla: "Kun et kumpaakaan hylännyt, niin nyt saat molemmat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nubbeest Siggá hávdáduvvoo irgij kooskân sanijguin: "Ko jieh kuábbáágin hilgom, te tääl finniih kuohtuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>" Toinen loppu on sellainen, että Sigga muutta asumaan Norjan puolelle Isoonvuonoon, jossa meni naimisiin ja eli elämänsä siellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>" Nubbe loppâ lâi taggaar, et Siggá varrij aassâđ Taažâbel Stuorrâvuonân, kost naajâi já eelij elimis tobbeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Isonvuonon eteläpuolella on paikannimet Sigákieddi (Sigankenttä) ja Sigákuolbâ (Sigankangas)</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuorrâvuonâ máddáábeln láá pääihinoomah Sigákieddi já Sigákuolbâ. Mainâseh ulmuin láá vaarâ táválumoseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mehevimmät tarinat käsittelevät henkilöitä, jotka ovat luonteensa, tapojensa tai toimiensa puolesta erikoisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suvláámus mainâseh mainâstuvvojeh ulmuin, moh láá luándus, tavijdis teikâ pargoidis peeleest suámáliih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarinoiden kerronnassa on syytä kuitenkin tietää asioiden mahdollinen arkaluontoisuus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maainâstmist kalga kuittâg tiettiđ, et láá-uv ääših äärgih, et lii-uv pyeri taid kost já kiäs peri mainâstiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pitää tietää, missä yhteydessä ja keille jutun kertoo.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsij ulmuuh sättih leđe val elimin, teikâ kuittâg sii alda hyelhih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aina ei voi kertoa esim. sellaisesta tapahtumasta, jossa noita yrittää parantaa mielenvikaisen ihmisen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ain ij pyevti mainâstiđ om. taggaar mainâs, mast nuáidi keččâl pyerediđ mielâvänulmuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joskus voi kuitenkin kertoa porovarkaasta, kun lisää aspektin veijari-sankarista, joka huijaa suomalaisia poliiseja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Motomin puáhtá kuittâg mainâstiđ om. puásuisuollust, jis lasseet toos aspekt tiätuláván juonâlâš sáŋgárist, kote om. táájut läddlâš polisijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällaisia ovat mm. muistelukset Menes-Jussasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tágáreh láá mainâseh Meniš-Jussáást.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eräässä Jussa pääsee karkuun eksyttämällä nimismiehen ja poliisin laajaan kiekeröön.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mottoom mainâsist Jussá piäsá kárgáđ, ko čájádit poolis já komserjâs vijđes čievârmaailmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toisessa Jussa karkaa vanginkuljettajalta kaivautumalla yöpymistalon ladon heiniin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nubbeest Jussá kárgáá faŋgâfiävrárist nuuvt, et čááŋá čieŋâlâsân suoinij siisâ láátun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kolmannessa Jussa karkaa Kittilän puulinnasta tekeytymällä jalkavaivaiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuálmádist Jussá kárgáá Kittâl muorâlanneest tohâludmáin, et sun lii jyelgiväänist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matti Morottaja Sammeli Morottaja kertoo: Jaakon Yrjö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuobžâ-Saammâl (Sammeli Morottaja) maainâst: Jáák'Irján</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>YLE Sámi radion sarjasta Sitä ihmistä unohda (.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>YLE Säämi radion sarjasta Tom ulmuu jiem vájáldit</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">ortografiat.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitustavat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällimvyevih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitustavat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällimvyevih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli ja identiteetti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ já identiteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julkaistut teokset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almostittum kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. Elias Lönnrot kirjoitti vuonna 1854 artikkelin Ueber den Enarelappischen Dialekt, joka on ilmestynyt 4. osana teossarjassa Acta Societatis Scientiarum Fennicae.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1. Elias Lönnrot čaalij ive 1854 artikkel Ueber den Enarelappischen Dialekt, mii lii almostum 4. uássin kirjerááiđust Acta Societatis Scientiarum Fennicae.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Artikkelissa on inarinsaamen verbien ja nominien taivuskaavoja, tekstejä ja sanasto.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Artikkelist láá anarâškielâ verbâi já nominij sujâttem maallih, teevstah já sánádâh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lönnrotin ortografia ei ole kovin looginen, eikä hän ilmeisesti ollut kuullut aivan tarkkaan kielimestariensa ääntämistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lönnrot ortografia ij lah uáli loogilâš, ige sun vaarâ lam kuullâm aaibâs tárkká kielâmiäštárijdis etâmijd: Ææc´e miij, kii læh olmin, paasotuvos tuu nommot!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkkinä Isä meidän -rukous:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Adde miijen odne miij juöhe-pæivac´ læibem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. E. W. Borg julkaisi vuonna 1857 kirjan Anar sämi kiela aapis kirje ja doktor Martti Lutherus Ucca katkismus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2. E. W. Borg almostitij ive 1857 kirje Anar sämi kiela aapis kirje ja doktor Martti Lutherus Ucca katkismus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(Inarinsaamen kielen aapiskirja ja tohtori Martti Lutheruksen Pieni katekismus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mii Eec kote läh almest. Pasottum lävus Tu nommad Alda puodus Tuu wäldekoddad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>) Siinä Isä meidän näytti seuraavalta:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Adde miijan taan päiwi mii jyöche päiväli leipim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3. Inarin kirkkoherra Lauri Itkonen toimitti kirjat Katkismus 1902 ja Ráámmát Historja (raamatunhistoria) 1906. Jos vertaa ortografiaa edellisiin, niin muutos on merkittävä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3. Aanaar kirkkohiärrá Lauri Itkonen toimâttij kiirjijd Katkismus 1902 já Ráámmát Historja 1906. Jis verdid ortografia ovdebáid, te tot muttum melgâd ennuv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitus näyttää vastaavan melko tarkasti puhetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällim oro västidmin sárnum viehâ tárkká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käytössä ovat nykykirjoitustavassakin esiintyvät č, š, đ, ŋ ja á.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanoost láá pustaveh č, š, đ, ŋ já á, moh uáinojeh tááláá čäällimvyevist-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitustapa on melkein sama kuin vuosina 1934-1990 käytetty:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällimvyevih lii-uv masa siämmáš ko tot, mii kevttui ivij 1934-1990. Taa ovdâmerkkâ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4. Edellistä tarkempi on Erkki Itkosen laatima kirjoitustapa, joka oli käytössä vuosina 1934-1990. Sillä kirjoitettiin enimmäkseen Sabmelaš (Sápmelaš) -lehden inarinsaamenkieliset kirjoitukset, joita alkoi lehdessä ilmestyä loppuvuodesta 1934 alkaen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tastko tuu lii väldikodde ja vyeimi ja kunnee nuuvhannaavuođast. 4. Ovdebáást täärhib lii Erkki Itkos rähtim čäällimvyehi, mii lâi aanoost ivij 1934-1990. Toin čállojii iänááš Sabmelaš (Sápmelaš) -loostâ anarâškielâliih čalluuh, moh almostuuškuottii loostâst loppâive 1934 rääjist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5. Nykyisessä kirjoitustavassa eräät äänteet merkitään aikaisempaa tarkemmin vastaamaan puhuttua kieltä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>5. Tááláá čäällimvyevist motomeh jienâduvah merkkejuvvojeh ovdebáást tärhibeht nuuvt, et toh västideh pyerebeht sarnum kielâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muutokset olivat seuraavat: - eä merkitään iä, esim. eänui - iänui - oa merkitään uá, esim. koati - kuáti - takaista a- äännettä alettiin merkitä kirjaimella â;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muttoseh lijjii tágáreh: - eä čálloo iä, om. eänui - iänui - oa čálloo uá, om. koati - kuáti - tyehi- a -jienâdâh čalluuškuođij pustaváin â;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>esim. kulma - kulmâ - j:llä merkittävää puolivokaalia ja sitä edeltävää i:tä alettiin merkitä loogisemmin: ij:iij, esim. nijbe: niijbán (veitsi: veitseen) - samoin v:llä merkittävää puolivokaalia ja sitä edeltävää u:ta: uv:uuv, esim. puvdâ: puuvdâst (kauppa: kaupassa).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>om. kulma - kulmâ - j:jn čállojeijee pelivookaal já i ton ovdiibeln čállojeh loogilubbooht: ij:iij, om. nijbe: niijbán - siämmáánáál v:in čállojeijee pelivookaal já u ton ovddiibeln čállojeh: uv:uuv, om. puvdâ: puuvdâst. 1934-1990 čäällimvyehi Pasottum leävus tuu nomma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen nykyinen ortografia on tietyiltä osin väljä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâ tááláš ortografia lii tiätu oosijn loožâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esim. kaikkia murre-eroja ei ole normitettu, vaan hyväksyttäviä sanoja ja taivutuksia voi olla useampi kuin yksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Om. puoh kuávlukielâi iäruh iä lah normâdum, mut toháliih säänih já suujâtmeh pyehtih leđe eenâb ko tuše ohtâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oppikirjoissa kieltä kuitenkin yhtenäistetään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Oppâkiirjijn kielâ lii kuittâg pieijum eenâb oovtâdnáál.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>6. Erkki Itkonen on käyttänyt omaa, yleisestä kirjoitustavasta poikkeavaa merkintätapaa eräissä kielitieteen tekstikirjoissa ja sanakirjassaan Inarilappisches W örterbuch.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>6. Erkki Itkonen lii kiävttám jieijâs čäällimvyevi, mii lii ereslágán ko almolâš čäällimvyehi. Tággáár čäällimvyehi lii motomijn kielâtiettuu teekstâkiirjijn já suu sänikirjeest Inarilappisches Wörterbuch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matti Morottaja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Itkonen æænab ajn skīipa ooudast kuáysuj Taaa vaīin roozaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näyte Elias Lönnrotin teoksesta Ueber den Enarelappischen Dialekt vuodelta 1854.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>almolâš eenâb ain skiijpâ oovdâst kuávsui Taažâ vazzijn roosâi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Juhani Aikion kirje veljelleen Iisakille Königstedin kartanosta, Espoosta vuodelta 1910.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pärni-rohe (Juhani Aikio) reivâ viljâsis Sáár´ Iisán Königstedt kärdinist, Espoost ive 1910.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

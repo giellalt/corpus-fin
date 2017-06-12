@@ -1,0 +1,880 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">ruokaperinne.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elämäntapa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sänivajâseh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sananlaskut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šooŋâ ennustem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sään ennustaminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Purrâmâšärbivyehi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelainen ruokaperinne perustuu luontaistalouteen: kalaan, riistaan ja luonnonmarjoihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâš purrâmâšärbivyehi vuáđuduvá luánduadalduvváid: kuálán, piärgun já muorjijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaiset ruokaperinteet vaihtelevat kylittäin ja alueittain suurestikin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâš purrâmâšärbivyevih mulsâšudeh sijdâi já kuávlui mield ennuv-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Allaoleva teksti perustuu Nellimin seudulla tehtyihin haastatteluihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuoluupele tevstâi vuođđun láá Njellim kuávlust toohum sahhiittâlmeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaiset harjoittivat poro- ja karjataloutta sekä kasvattivat naurista ja perunaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšah tollii puásui- já šiiveettuálu sehe šoddâdii navrâsijd já potákkijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut tärkeät ruokatarvikkeet haettiin pääasiassa Norjan Reisivuonosta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eres tergâdis purrâmâšveerki sij viežžii iänááš Taažâ Reisvuonâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaihtotavaraksi vietiin poronpaistia, -lapaa ja selkäkaraa sekä poronjuustoa, joka oli arvostettua kauppatavaraa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lonottâstävirin lijjii poccuupiärgu sehe poccuuvuástá, mii lâi áárvustonnum kävppitäävvir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaihdettiin myös erilaisia turkiksia, porontaljoja ja -karvoja, suolakalaa, hilloja, riekkoja, poronsarvia sekä kenkäheinääkin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eres lonottâstävireh lijjii jieškote-uvlágáneh čeevđih, poccuutyeljih já ‑soksâmeh, spihâkyeleh, luámáneh, riävskáh, poccuučuárvih sehe kamuvsyeinih-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kotiin tuotavaksi kaaristettiin ahkioon jauhoja, ryynejä, sokeria, suolaa, kahvia, kalanrasvaa, margariinia, turskaa ja muuta merikalaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pááikán pyehtimnáál karâstuvvojii kerrisáid já rievváid jáávuh, suvrâmeh, sukkâreh, säältih, käähvih, kyelevuojâ, margarin, torskeh já eres-uv merâkyeleh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuliaiseksi makeannälkään ostettiin rinkeleitä, räätileipää, rusinoita sekä siirappia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tulijâžžân uástistii riŋgâlijd, reedleeibijd, rusinijd sehe siirááp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lapsille tuotiin erityisesti makeisia ja keksejä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Párnáid puohtii eromâšávt njálgáid, kottáid já keeksijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuorokauden rytmiä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pirrâmpeeivi ritmâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aamulla juotiin kahvia, otettiin voileipää, rieskaa, suolakalaa, lehmänjuustoa, kaura- ja riisipuuroakin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Iđedist ulmuuh káhvástâllii já purrii vuojâleeibi, kááhu, spihâkyele, kusâvuástá, suvrâm- já riisinsuvrâmsuohâd-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päiväruoaksi suolakalan ja rieskan lisäksi lämmitettiin edellisen illan keittoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Peivipurrâmâššân sälttikyele já kááhu lasseen liegâdii jiävttáá eehid máállás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Välipalana syötiin suolakalaa viilin ja marjojen kera.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Peivipittán sij purrii spihâkyele loppimmielhijn já muorjijguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Iltaruokailu oli päivän aterioista monipuolisin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eehidmáláseh lijjii peeivi málásijn maaŋgâpiälásumoseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääruoaksi keitettiin tavallisesti kesällä keitto kalasta ja talvella lihasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Váldumälisin vuoššii keessiv kuolijd já tälviv piärgumääli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>”Kummitäti leipoi kummilapselleen joululahjaksi pullapitkon tai ruisleivän”</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>"Ristenni liäibui ristpárnásis juovlâskeŋkkân nisuleeibi tâi ruvâšleeibi"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaisille on ollut joulu vuoden tärkein juhla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juovlâ lii lamaš anarâššáid ive tehálumos juhle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siihen valmistauduttiin jo syyskesällä, jolloin valittiin parhaat palat juhlapyhien ruoka-aineiksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toos koolgâi rahttâttâđ juo čohčâkeesi. Talle sij väljejii pyeremusâid amnâsijd juovlâposij purrâmâšverkkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varattiin poronkontit ja –paistit sekä isot juustot ja ruisleipää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Väridii ođđâmijd já čuárbpeelijd sehe stuorrâ vuástáid já ruvâšleeibijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joulukalat pyydettiin vasta joulukuun alussa ”joulukalajärvestä” - sieltä, missä oli myöhäinen kutu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juovlâkyeleh pivdojii iäskán juovlâmáánu aalgâst “juovlâkyelijäävrist” – tobbeen, kost lâi maŋedâs kođo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suurin ja lihavin taimen pääsi joulupöytään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuárráámus já puáidáhumos kuávžur peesâi juovlâpiävdán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aattona lämmitettiin piisin loisteessa kokonainen poronjuusto ja haettiin pala jäädytettyä poronmaitoa eli ”lasten jäätelöä”.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juovlâááptu liegâdui oles poccuuvuástá täkkipellâst já viežžui kalmaattum poccuumielkkipittá ađai “párnái lahcâjieŋâ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Illalla syötiin komea, keitetty kala tai kalasoppaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ehidist sij purrii mučis vuoššum kyele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joulupäivän iltana tarjottiin juhlaruoaksi koparasoppaa ja syötiin luuydintä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juovlâpeeivi eehid lâi fálusist juhlepurrâmâššân kozzâmääli já ođđâmeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käristystä valmistivat ne, joilla sattui olemaan poronpaistia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Steikkuu rahtii toh, kiäin sattui leđe poccuu piärgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Herkuteltiin myös juustokahvilla sekä hilla- ja mustikkapiirakoilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Herskustâllii meiddei vuástákahvijn sehe lyeme- já sarekáhuiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>"Eväslaukkua pakattiin useasti"</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>"Evvislavkkâ tevdui távjá"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirkkomatkalle otettiin mukaan aina hyvät eväät, mutta kotiin jääville jätettiin kuitenkin parhaimmat juhlaherkut.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Markkânmáátkán valdii fáárun ain šiev evvisijd, mut kuátiorroid kuođđii kuittâg pyeremusâid juhleheerskuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesällä pakattiin veneenkeulaan perunoita, nauriita, kuivalihaa, poron- sekä lehmänjuustoja ja päällimmäisinä keikkuivat kapakalakimput.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keessiv pieijii kärbisnjunán potákkijd, navrâsijd, koškepiärgu, poccuu- sehe kusâvuástá já pajemustáá vala koškekyelihaaŋkâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Talvella oli lihaa, käristystä varten vatsa- tai munuaiskuuta, suolakalaa, leipää ja voita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tälviv lâi piärgu, steikkuu várás čuávji- tâi manemušpyeidi, sälttikyeli, leibi já vuojâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesäaika vaati emännältä paljon, piti saada vaikkapa suuri heinäntekoväki kylläiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kesiäigi vaađâi emedist ennuu, ko koolgâi finniđ veikkâba stuorrâ nijttovievâ kalasin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Heinänteko-evästelyyn oli varauduttu monin tavoin: leivottiin ja kuivattiin leipää ja ehkä pullaakin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nijttomáátkán koolgâi rahttâttâđ maaŋgânáál: koolgâi liäibuđ já kuškâdiđ leeibijd já kenski niisu-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mukaan otettiin viiliä, voita, kuivalihaa, josta valmistettiin keittoa ja suolaamatonta kuivakuuta paistettiin tikunnokassa leivän särpimeksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Fáárun sij valdii loppimmielhi, vuojâ, sehe koškepiärgu, mast vuoššii määli já salttiihánnáá koškepyeidi possii passeemkeejist leeibi lasattâssân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuivattua verileipää keitettiin maidossa kampsupaistiksi, ja leivottiin rieskaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis nijtteeh lijjii juhâ- tâi jävrriddoost, te finnejii vorâs kyele. Mudoi lijjii mieldi koške rááskáh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rasvahöystövelli leivän kanssa oli hyvin vahvistava heinäntekoillallinen: sekoitettiin kuivakuuta, ryyniä, suolaa ja vettä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Salgâmääli leibijn lâi uáli tolmišis nijttopurrâmâš: Siävuttuvvojii čáácán suvrâmeh já sältti já salgân caappum koškepyeidi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Juomana oli maitoa, piimää ja marjakeittoa keitettiin aina, kun se oli mahdollista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Juhâmâššân lâi mielkki tâi pime. Myerjimääli vuoššui ain, ko toos lâi máhđulâšvuotâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>"Kalaa melkeinpä päivittäin"</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>"Kyeli aldasáid jyehi peeivi"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jäädytetyt, suolistamattomat kapulakalat säilyivät lumikinoksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kyeli sälttejui, kuškâdui, kalmaattui já kuástudui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suolakala on ollut inarinsaamelaisen ympärivuotinen ruokalaji.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kalmaattum já čolliihánnáá juoŋâskyeleh seiluu muottust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen lisukkeeksi raastettiin naurista - joka oli lapsille mieluisaa - taikka voideltiin leivänpalanen norjalaisella siirapilla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sälttikyeleh sälttejuvvojii ruávis salttijn muorâst rahtum kyelilittijd, moh siäiluttuvvojii tađe várás koivum roggeest ađai puornâst tâi aijust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hapankala eli kesääntynyt kala valmistui miedosti suolatusta kalasta joskus tahtomattakin, mutta varsinaisesti hapankalaa tehtiin ruisjauhojen avulla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuástikyeli ađai kiäsádum kyeli rahtui vuoššâmsááltán sälttejum kyeleest motomin vahâgist-uv, mut iänáážin kuástikyeli rahtui ruvâšjáávuid iššeen keevtin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Parasta hapankalaa sanottiin tulleen hyvänkokoisista ahvenista Keväällä ”ennen kärpäsiä” kuivattiin isoja haukia: ne halkaistiin selkäpuolelta ja pingotettiin tikuilla leveäksi ja suolattiin kuten kuivattava liha.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tiäđui mield pyeremus kuástikyeli šoodâi kyermis vuáskunijn. Kiđđuv, ovdil kiärppái kirdelem kuškâduvvojii stuorrâ puškoh: toh lyeddejuvvojii selguubeln já spijlejuvvojii sagijgijn kubdâgin jeđe sälttejuvvojii tegu piärguh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkukesällä saatuja pikkukaloja kuivattiin järven päälle tai pikkusaariin rakennetuissa kalankuivatuslaatikoissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâkeesist kuddum rááskáh kuškâduvvojii jäävri oolâ tâi lássáid huksejum kyelikuškâdemloováin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuivakalat säilytettiin säkeissä tai tuohiastioissa aitan orrella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Koškekuolijd sij siäiluttii seehâi siste tâi poortijn äittiuulgâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalanmätiä suolattiin sekä siitä keitettiin mätiterniä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Meeinijd sälttejii, taid lasettii kákkutááigán tâi tain vuoššii meiniteerni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalanmaksat, erityisesti mateen, sekä siianmaksat paahdettiin tai keitettiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kyelevuoivâseh, eromâšávt njäävi- já šaapšâ vuoivâseh passojii tâi vuáššojii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalaruokia valmistettiin keittäen ja paistaen avotulella, pannulla ja uunipellillä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kyelipurrâmâšah ráhtojii vuošâmáin já pasemáin sajostuulâst, páánust já oommânpeeldist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kala kuten kaikki muutkin ruoka-aineet hyödynnettiin tarkasti: kalanpäät sekä ison hauen ja siian suolet syötiin herkkupaloina.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kyeli, tegu eres-uv purrâmâšverkki kevttui tärkkilávt: kyeleuáivih sehe stuorrâ puško já šaapšâ čuálih lijjii herskupitáh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poro hyödynnettiin kokonaan</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kubđijdâm kyelevuojâ vyerkkejui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poronveri otettiin tarkasti talteen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Poccuuvorrâ vyerkkejui tärkkilávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Heti teurastuksen jälkeen keitettiin selkälihaa ja kieli, sitä odotellessa paistettiin maksaa tikunnokassa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tállán njuovvâm maŋa vuoššui čielgi já njuovčâ, já taid vuordâštijn possui vuoivâs passeemkeejist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myös verimakkaroita ja pääsylttyä valmistettiin heti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Siämmáá ohtâvuođâst puovtij márfuđ já kumpâstiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poronlihaa jäädytettiin, kuivattiin ja suolattiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Poccuupiärgu kalmaattui, kuškâdui já sälttejui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Riutulan talouskoulussa opittiin umpioimaan ja evakkovuosien jälkeen keitettiin aladobia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Rivdul tálutuáluškoovlâst nieidah oppii taanáigasijd siäiluttemvuovijd já evakkoivij maŋa motomeh ulmuuh vuošâškuottii meiddei aladoob.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poro kuivattiin lähes kokonaan, vain vahvimmat luiset osat jätettiin keittolihoiksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puásui kuškâdui aldasáid ollásávt, tuše stuárráámusah tähtiuásih kuáđđojii salgân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paistit ja lavat otettiin luuttomaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuárbpeelijd já čuámáttâsâid koolgâi luuppâđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuivalihaa tehtiin erittäinkin paistista, mutta nuotion loimussa paahdettu lihavan pailakan kylki oli parasta herkkua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuškâđ piäijojeh eromâšávt čuárbpeleh, mut tullâpaštust poossum pyeidis spääilih koške-eertig lii pyeremus hersku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää matkaevästä saatiin, kun poronvatsa- ja suolirasvat säilöttiin lampaan- tai poronpötsin sisään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šiev mätkievvis finnij, ko poccuu čuávji- já pottâpuoidijn ráhtojii pyeidičolmâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Makkarasuolet säilytettiin ilmalla täytettyinä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Märfičuálih vyerkkejuvvojii nuuvt, et siisâ posádui áimu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Veri jäädytettiin poronvatsalaukkuun, josta tarvittaessa lohkaistiin palanen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vorrâ kalmaattui čolmâsáid, main táárbumield loigiistui pittá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Riista-aitat täytettiin syksyisin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Piärguääitih tiävdojii čohčuv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hirven-, lampaan- ja lehmänlihaa käytettiin samaan tapaan kuin poronlihaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Soorvâ-, saavzâ- já kusâpiärgu kevttui siämmáá náálá ko poccuupiärgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>”Lehmätaloissa käytiin syömässä viiliä”</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>"Šiiveettááluin juttii ulmuuh kozzâmin loppimmielhi"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lehmänmaitoa hapatettiin viiliksi ja piimäksi sekä kirnuttiin voita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šiiveettuálu lii kyelipivdem lasseen torvodâm maaŋgâ anarâšperruu purrâmâštuálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puiset maitoastiat ja kalapytyt desinfioitiin katajavesihauteella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mielkki suvrâdui loppimmielkkin sehe pimmeen já vuojâ kirnodijn finnij kirnopime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaiset valmistivat juustoa lehmän-, lampaan- ja poronmaidosta: maito juoksutettiin poron juoksutusmahan tai vasikan makon avulla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mielkkikuáláh já kyeliliteh putestuvvojii rátkáčäcihavduin. Anarâšah rahtii vuástá kuusâ-, saavzâ- já poccuumielhist: mielkki loppiittui amnâsáin, mon finnij poccuu tâi kálbáá toggeest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poroja lypsettiin vain syksyllä paimennuspaikalla, siellä valmistettiin juustotkin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšah poččii álduidis tuše čohčuv kuáđuttemsaajeest, kost vuástáh-uv ráhtojii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Poronmaitoa jäädytettiin talvivaraksi lampaan- tai vasanvatsalaukkuun: kahviin, ”jäätelöksi lapsille” ja tutimaidoksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Poccuumielkki kalmaattui táálván saavzâ- tâi vuássáá čolmâsân: kähvimielkkin, ”lahcâjieŋŋân párnáid” já tuáttumielkkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uuttuja eli pesimäpönttöjä ei tyhjennetty kokonaan</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuovdah iä kyerrejum ollásávt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varsinkin Inarijärven saaret olivat otollisia keräilypaikkoja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aainâs-uv Aanaarjäävri suolluuh lijjii vuohâseh manenurâmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kerättiin sotkan, telkän ja koskelon munia, kuikanmunia ei kelpuutettu ruoaksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšah nurrii viettuu, čuáđgi já kuálsi moonijd. Kähteemaneh iä tuhhim purrâmâššân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Munia säilöttiin karkeaan suolaan lyhyeksi aikaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uánihis ääigi várás maneh sälttejuvvojii ruávis sááltán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niitä keitettiin ja syötiin suolan kanssa, tehtiin munaterniä, paistettiin lettuja ja munakakkua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taid puovtij vuoššâđ já purrâđ salttijn. Tain puovtij rähtiđ meiddei maneteerni, passeeđ läätyid já rähtiđ manekááhu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Marjoja ympäri vuoden</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muorjijd pirrâ ive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Marja-astioita, nauriita ja perunoita peitettiin talveksi kuoppaan, joka avattiin vasta keväällä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšah lovdii myerjiliitijd, navrâsijd já potásijd táálván puornân, mii lehâstui iäskán kiđđuv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hilla, mustikka, puolukka, kaarnikka eli variksenmarja ja juolukka kuuluivat ruokapöytään kesä-aikana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luámáneh, sareh, juuŋah, čyemenjâsah já etimâsah kullii purrâmâšpiävdán keessiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viilin ja puuron höystönä niitä syötiin runsaasti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Loppimmielhi já suohâd salgân ulmuuh purrii taid valjeest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hillat säilöttiin puu-astioihin: marjojen päälle kaadettiin sokeria niin, että marjat upposivat marjamahlaan reunoja myöten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muorjijd vyerkkejii meiddei täälvi várás: Soorijd kuškâdii čuávjilekittâssân, kalmaattum čyemenjâsah šiäštojii kiiđân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mustikat survottiin ja keitettiin pulloihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ulmuuh kočâttellii taid jieŋâmuorjijd málásáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hillapytyt ja mustikkapullot säilytettiin maakellarissa tai hetteen päälle rakennetussa kellarissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luámánijd vyerkkejii muorâlittijd: luámánij oolâ pieijii fiijnâsukkârijd nuuvt ennuu, et toh vuoijuu mááihlán ollásávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pettua arvostettiin terveysruokana</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Soorijd njuvdii já vuoššii puttâláid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monen Inarijärven saaren nimi viittaa pettuun, kuten esimerkiksi Makea Petäjäsaari.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aanaarjäävri maaŋgâ suolluu nommâ čuujoot piäcán, tegu ovdâmerkkân Njaalgâpecsuálui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Petun käyttö onkin ollut varsin monipuolista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Peesi kevttim lii-uv lamaš maaŋgâpiälásâš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanottiin, että ellei ollut pettua, niin laitetaan korvikkeeksi kauraryyniä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ulmuuh ettii-uv, et jis ij lah peeci, te ferttee pieijâđ sajan suvrâmijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varsinainen petunteko-aika oli alkukesä nila-aikaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vyetkimäigi lâi algâkeesist ko peeci njala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Irrotetut levyt kuivattiin, paahdettiin ja murskattiin surveiksi, mutta sitä syötiin paljon myös tuoreena.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lyevvejum njaleoosijd kuškâdii, pihtii illoos alne, vâi pikkâ puáláččij meddâl jeđe muttejii. Peesi purrii meiddei vorâsin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Talvellakin saatettiin tuoda pölkky sisälle, josta pettua nilottiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tälviv-uv ulmuuh läävejii pyehtiđ pecikooldâ siisâ, mast njoldii peesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pettua nautittiin marjojen kanssa, lisättiin leipä- ja rieskataikinaan ja sekoitettiin ruisjauhojen kanssa hyvään kalan- tai lihankeittoliemeen pettuvelliksi, jota syötiin iltaruoan jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ulmuuh purrii peesi muorjijgijn, lasettii kákkutááigán já sehhejii ruvâšjávuigijn kyeli- tâi piärguliemân pecimäällin, mon purrii pajalâssân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koivunmahlaa on kerätty pystypuusta, mutta myös kantoon koverretusta syvennyksestä, josta oli talvella kaadettu koivu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suáhimääihli sij kuáškuttii ciägumuorâst, mut tom finnij meiddei čuoldân kuvzum roggeest, mast lâi tälviv njeidum suáhi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mahlaa juotiin ruokajuomana, siitä keitettiin velliä ja maukasta kahvia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Määihli juhhii purrâmâšjuhâmuššân, tast vuoššii määli já njaalgâ käähvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maittava ja nopeatekoinen piisikakku eli rieska</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Iänááš tälviviäsuin lâi liäibumuvnâ já täkki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suuremmissa taloissa oli oikein paakaritupa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stuárráábijn tááluin joba liäibumtupe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kesäpaikoilla ja myös ympärivuotisilla asunnoilla oli ulkouuni ja -liesi sekä pöytä ja penkit ulkoruokailua varten.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kesiorottuvâin já meiddei pirrâivvááš orottuvâin lâi olgouvnâ já -oommân sehe pevdi já peeŋkah olgonpurâdem várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Piisikakku paistettiin joko laattakiven, rei’itetyn pellin päällä tai rautalangasta kudotussa verkossa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kákku paštui ráptukeeđgi tâi räigipeeldi alne já meiddei sraaŋgâst kuuđđum viermist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kakkuja leivottiin eri aineksista: ruis- eli lapinkakku, aivo-, mäti- ja munakakku, veri-petturieska ja perunarieska.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kááhuid leibuu sierâlágán amnâsijn: jáávuin, vuoiŋâšijn, meeinijn, moonijn, vorrâpeesist já potákkist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tsurnuvuonolainen Inka Valle vuolee poron kuivalihaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Curnâvuonâlâš Inka Valle cáápá koškepiärgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Briita Morottaja paistaa leipää, taustalla istuu hänen puolisonsa Iisakki Morottaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anttii Riijtá (Briita Morottaja) pasa leeibi, tyehin čokkáá suu käällis Iisakki Morottaja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Samuli Paulaharju, 1914.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Samuli Paulaharju, 1914.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nirrolan vanha emäntä tekee leipää ja miniä Saara Valle juustoa Samuli Paulaharju 1914.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Njirrooh puáris eemeed liäibu já manje Saara Valle ráhtá vuástá. Samuli Paulaharju 1914.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perinteiseti suolattavat kalat asettiin ristikkäin suolausastiaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ärbivuáválávt salttiidijn kyeleh piäijojii ruossâlâs kyeliliitán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paatsjokinen Nuoran Pekka, Pekka Saijets suolaamassa pitkälläsiimalla pyydettyjä taimenia, T.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Paččveilâš Nyere Piäkká, Pekka Saijets salttiimin vuoggâčielgijn pivdum kuávžurijd, T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>I. Itkonen 1913.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>I. Itkonen 1913.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Santeri Valle viilottaa petäjänkuorta sarvisella vuotkimella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Santeri Valle vyetkimin peesi čuárvist rahtum vyetkimáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>T.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>I. Itkonen 1913.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>I. Itkonen 1913.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

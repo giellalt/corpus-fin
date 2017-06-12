@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kirjallisuus.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitustavat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällimvyevih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli ja identiteetti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ já identiteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julkaistut teokset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almostittum kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkielinen kirjallisuus on hyvin nuorta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anar âškielâlâš kirjálâšvuotâ lii uáli nuorâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sen kehittymiselle ovat asettaneet esteitä käytännön ongelmat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ton ovdánmist láá lamaš eestân keevâtlâš váigâdvuođah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitustapaa ei ole ollut ennen kuin 1900-luvun alusta lähtien.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällimvyehi ij lah lamaš ovdil ko 1900-lovo aalgâ rääjist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisilta puuttui kielen ja kirjoittamisen opetus;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilijn lii váilum kielâ já čäällim máttáátttâs;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sitä alkoi saada vasta 1970-luvulla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tom aalgij finniđ eskin 1970-lovvoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lukeminen ja vähä kirjoittaminen tapahtui suomen kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luuhâm já ucánjâš čäällim lâi suomâkielân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuuden tarve eri funktioineen on aikaisemmin tyydytetty suullisella kerronnalla, joka onkin kehittynyt monipuoliseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuođâ tárbu jieškote-uvláván funktioidiskuin lii ovddii ääigist tutâdum mainâsijguin, moh láá-uv maaŋgâmuđušiih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kerrottu tarina, muistelus on keskeisellä sijalla saamelaisessa sanataiteessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâstum maainâs, muštâlus, lii kuávdâšsaajeest sämmilâš sänitaiđust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taitava kertoja yltää samaan kuin kirjailijakin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čepis mainâsteijee olá siämmáá táásán ko kirječällee-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hän voi kertoessaan korostaa tärkeitä ja meheviä kohtia, voi kertoessaan liikkua toden ja kuvitellun rajoilla niin, että kuulija joutuu koko ajan arvioimaan kuulemaansa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sun máttá maainâsttijnis tiäduttiđ tehálijd já salgiis soojijd, puáhtá maainâsttijn lihâdiđ tuođâ já kováttâllâm rääji alne nuuvt, et kuldâleijee šadda ubâ paje miäruštâllâđ tom, maid kulá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kertojan äänenkäyttö, nauru ja eleet mehevöittävät kerrontaa;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsteijee jienâkevttim, kämineh já iäláttuvah sälgejeh mainâstem;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>niitä ei näe kirjoitetussa tekstissä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>toh iä oinuu čaallum teevstâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se on samalla romaani, näytelmä ja teatteria.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot lii siämmást roomaan, čáitálmâs já teatter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraavassa on aikajärjestyksessä inarinsaamenkielisiä teoksia, joissa on tietty kaunokirjallinen ote, proosaa ja runoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuávvost láá äigioornigist anarâškielâliih kirjeh, moh láá čaallum tiätunáál čaabâkirjálâšvuođâlâš vuovvijn. Fáárust láá sehe proosa já runoh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oppikirjoja ei ole mukana.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Oppâkirjeh já sijđoluhâmušah kal iä lah fáárust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. Tekstikokoelmat 1. 1. Inarinlappalaista kansantietoutta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1. Tekstâ čuágálduvah 1. 1. Inarinlappalaista kansantietoutta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitetun inarinsaamenkielisen kirjallisuuden voidaan katsoa alkavan siitä, kun A. V. Koskimiehen ja T. I. Itkosen kokoama ja julkaisema Inarinlappalaista kansantietoutta ilmestyi vuonna 1917. Se koostuu aineistosta, jonka A. V. Koskimies keräsi v. 1886. Kertojina olivat Heikki Mattus, Iisakki Mannermaa, Mikko Aikio, Pekka Aikio, Juho Petteri Lusmaniemi, Paavali Valle, Santeri Valle, Antti Kitti, Antti Sarre, Matti Sarre, Pietari Valle, Yrjänä Sarre, Heikki Morottaja, Uula Morottaja ja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čaallum anarâškielâlâš kirjálâšvuođâ puáhtá nabdeđ älgiđ tast, ko A. V. Koskimies já T. I. Itkos nuurrâm já almostittem Inarinlappalaista kansantietoutta almostui ive 1917. Tot lii čoggum amnâstuvâst, mon A. V. Koskimies čoogij i. 1886. Mainâsteijen lijjii Heikki Mattus, Iisakki Mannermaa, Mikko Aikio, Pekka Aikio, Juho Petteri Lusmaniemi, Paavali Valle, Santeri Valle, Antti Kitti, Antti Sarre, Matti Sarre, Pietari Valle, Yrjänä Sarre, Heikki Morottaja, Uula Morottaja já "Juvduu ákku".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjasta ilmestyi Lea Laitisen toimittamana, hieman muunneltuna versiona uusi painos v. 1979. Tässä käytettiin Erkki Itkosen (samaa, jota käytetään sanakirjassa Inarilappisches Wörterbuch), kun aikaisempi oli kirjoitettu foneettisella eli tarkekirjoituksella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjeest almostui Lea Laitis toimâttem, ucánjii mutâččum version uđđâ tiädus i. 1979. Tast kevttui Erkki Itkos, siämmâš, mii kiävttoo sänikirjeest Inarilappisches Wörterbuch, ko oovdeb lâi čaallum fooneetlâš merhâiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokoelma on perinnelajeiltaan monipuolinen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuágáldâh lii mainâsšlajâidis peeleest maaŋgânálásâš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Satutyyppejä ovat eläinsadut, ihmesadut, novellisadut ja pilasadut.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâsšlaajah (satu) láá elleemainâseh, imâšmainâseh, nooveelmainâseh já ilbis mainâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syntykertomuksia on yksi, tunnettu kertomus kuuntervaajasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šoddâmmuštâlusah láá ohtâ, uápis muštâlus máánupikkâdeijest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uskomustarinat ovat suunnilleen samanlaiset kuin muillakin saamelsisilla: Staalo, kufittar, aarteenhaltija, jättiläinen, seidat, noidat, muodonmuutokset ja kuolleitten kummittelu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Oskomušmainâseh láá suulân siämmááh ko eres-uv sämmilijn: stáálu, kuhvittâr, čáhálig, jietânâs, sieidih, nuáidih, hämimolsomeh já jaamišij kumâttâllâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Historiallisia ja paikallistarinoita on paljon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Historjáliih já páihálâšmainâseh láá ennuv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niistä tunnetuimmat ovat Siggan tarina ja vainolaistarinat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tain tobdosumoseh láá Sigá maainâs já čuđemainâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi on muistitietoa, joilla on historiallista merkitystä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toos lasseen lii muštotiätu, mast lii historjálâš merhâšume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pienfolklorea on sananlaskuja, puheenparsia, arvoituksia, merkkejä ja enteitä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Smavâfolklore láá sänivajâseh, kuodduustuvviih, iärvádâsah, meerhah já ovdâšeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjassa on myös joikuja ja lauluja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjeest láá meiddei juáiguseh já lavluuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varsinkin saduista voi tunnistaa yhteyden suomalaisiin ja yleismaailmallisiin satuihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aainâs-uv -mainâsijn puáhtá huámášiđ ohtâvuođâ syemmilâš já ubâ maailm mainâsáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiaa valaisee kirjan alussa mainittu tieto, että eräs kertojista oli ahkera Oulun suomalaisten lehtien kirjeenvaihtaja ja ilmeisesti Oulun Viikkosanomien tilaaja, jossa on ollut kertomuksia suomen kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taan áášán puáhtá lase tiäđu tot-uv, et ohtâ mainâsteijein lâi Oulu suomâkielâlij lostâi višâlis tieđetteijee, já vaarâ sun tiilái meiddei Oulu Viikkosanomaid-uv, mast láá lamaš mainâseh suomâkielân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sadut ja tarinat ovat saameksi kerrottuina saaneet enemmän ja vähemmän paikallisväriä, niinkuin yleensäkin tapahtuu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mainâseh já muštâlusah láá finnim eenâb já ucceeb páihálii ivne, nuuvt tego läävee-uv tábáhtuđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.2. Aanaarkiela čájttuzeh ilmestyi v. 1992. Sen sisältönä on Erkki Itkosen äänittämiä muisteluksia, jotka toimitti kirjaksi Lea Laitinen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1.2. Aanaarkiela čájttuzeh almostui i. 1992. Ton siskáldâssân láá Erkki Itkos paddim muštâlusah, maid toimâttij kirjen Lea Laitinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjassa käytetään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjeest kiävttoo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.4. Javrij jie ŋah parguu (Järvien jäät parkuivat) on aikuisopiskelijoille tarkoitettu tekstikokokoelma, jonka näytteet on koottu kirjoista, Anarâš-lehdestä ja radionauhoitteista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1.4. Javrij jie ŋah parguu lii rävis uáppeid uáivildum tekstâčuágáldâh, mon čáittuseh láá coggum kiirjijn, Anarâš-loostâst já radiopaddiimijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimittanut Pekka Sammallahti v. 2004.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toimâttâm Pekka Sammallahti i. 2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1.5. Matti Morottajan ja Ilmari Mattuksen toimittama 305-sivuinen novellikokoelma “ Kyelisieidi maccâm já eres novelleh ” (Kalaseidan paluu ja muita novelleja) ilmestyi jouluna 2005. Kirjoittajia on yhteensä 14 ja aikaväli, josta antologia kertoo, on 500 vuotta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1.5. Matti Morottaja já Ilmari Mattus toimâttem 305-sijđosâš nooveelčuágáldâh “ Kyelisieidi maccâm já eres novelleh ” almostui juovláid 2005. Čälleeh láá ohtsis 14 já äigikoskâ, mast antologia maainâst, lii 500 ihheed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. Inarinsaameksi kirjoitetut yksittäiset kirjat ja tekstit</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2. Anarâškielân čaallum kirjeh já teevstah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.1. Uula Morottaja kirjoitti Sabmelaš/Sápmelaš -lehteen ahkerasti inarinsaameksi muisteluksia ja ajankohtaisia asioita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.1. Uula Morottaja čaalij Sabmelaš/Sápmelaš -loostân višâlávt muštâlusâid já äigikyevdilis aašijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen kirjoitus ilmestyi v. 1936. Hänen kielensä oli rikasta ja kirjoitus sujuvaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuossâmuš čaalâ almostui i. 1936. Suu kielâ lâi riges já čäällim lâi njyebžil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erkki Itkonen sanoikin, että Uula Morottajasta olisi tullut Johan Turin veroinen kirjailija, jos mahdollisuuksia olisi ollut.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Erkki Itkonen eeđâi-uv, et Lesk-Ant Uulást lâi šoddâđ Johan Turi viärdásâš čällee, jis liččii lamaš máhđulâšvuođah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.1. Lasten laulukirja inarinsaameksi ja pohjoissaameksi “ Piiččus ” (Kapustarinta).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.1. Párnái laavlâkirje anarâš- já orjâlâškielân “ Piiččus ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjan laulujen sanat ja sävellykset Aune Vesan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lavlui saanijd já nuotâid lii ráhtâm Aune Vesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirja julkaistiin v. 1987.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirje almostui i. 1987.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.3.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aune Vesan kirjoittama “ Uáináh-uv ”, (Näetkö)-niminen runokirja ilmestyi v. 1992. Kirja on inarinsaamen- ja pohjoisaamenkielinen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aune Vesa čäällim “ Uáináh-uv ”-nommâsâš runokirje almostui i. 1992. Kirje lii anarâš- já orjâlâškielân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siinä on runoja ja Martti Rikkosen ottamia mustavalkokuvia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tast láá runoh já Martti Rikkos väldim čapis-vielgis koveh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.4. Aune Kuuvan kirjoittama lastenkirja “ Tuálu faŋgâ ” (Roudan vanki) ilmestyi 1994. Kirjassa on valokuvaaja Martti Rikkosen kuvitus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.4. Aune Kuuva čäällim párnáikirje “ Tuálu faŋgâ ” almostui 1994. Kirjeest láá kovvejeijee Martti Rikkos koveh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.5. Iisakki Mattukselta ilmestyi v. 1996 muistelmateos " Eellimpäälgis", jossa on novellimaisia kertomuksia kirjoittajan elämän varrelta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.5. Iisakki Mattusist almostui i. 1996 muštâluskirje " Eellimpäälgis", mast láá nooveelvuáhásiih mainâseh čällee eellim ääigist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.6. Ilmari Mattuksen dokumenttiromaani " Čovčjäävrist Kaamâsân " kuvaa aikaa kirjoittajan lapsuus- ja kouluajalta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.6. Ilmari Mattus dokumentroomaan " Čovčjäävrist Kaamâsân " kovvee ääigi čällee pärnivuođâ- já škovlâääigist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmestyi 1996.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almostui 1996.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.7.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Petter Morottajan kirjoittama ja Martti Rikkosen kuvittama nuortenromaani “ Suábi maainâs ” (Sauvan tarina) ilmestyi vuonna 1999. Kirja tyypiltään fantasiaromaani, jossa on pohjana saamelainen kerronta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Petter Morottaja čäällim já Martti Rikkos kuvvim nuorâiroomaan “ Suábi maainâs ”almostui ive 1999. Kirje lii šlaajâs peeleest fantasiaroomaan, mast lii tuávážin sämmilâš mainâstemvyehi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2.7. Petter Morottajan kirjoittama ja Martti Rikkosen kuvittama lastenromaani “ Riävskánieidâ ” (Riekkotyttö) ilmestyi 2000.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2.7. Petter Morottaja čäällim já Martti Rikkos kuvvim párnáikirje “ Riävskánieidâ ” almostui 2000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3. Inarinsaameksi käännetyt kirjat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3. Anarâškielân jurgâlum kirjeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.1. Samuli Aikion toimittaman vanhan sadun mukaan “ Nieidâ kote šoodâi kollekuálsin ” (Tyttö joka muuttui kultakoskeloksi).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3.1. Samuli Aikio toimâttem puáris mainâs mield čaallum “ Nieidâ kote šoodâi kollekuálsin ”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjan on pohjoissaamesta kääntänyt Matti Morottaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirje lii orjâlâškielâst jurgâlâm Matti Morottaja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmestyi 1982.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almostui 1982.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.2. Rauna Paadar-Leivon kirjoittama lastenkirja “ Halstemjeegi noaidi ” (Halstamojängän noita), ilmestyi v. 1990. Pohjoissaamesta kääntänyt Matti Morottaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3.2. Rauna Paadar-Leivo čäällim párnáikirje “ Halstemjeegi noaidi ” almostui i. 1990. Orjâlâškielâst jurgâlâm Matti Morottaja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.3. Kirsti Palton kirjoittama ja Matti Morottajan kääntämä lastenkirja “ Tivgâ ” (Tiuku) ilmestyi v. 1994. Kirja on ensimmäinen Anarâškielâ servi r.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3.3. Kirsti Palto čäällim já Matti Morottaja jurgâlem párnáikirje “ Tivgâ ” almostui i. 1994. Kirje lii vuossâmuš Anarâškielâ seervi kuástádâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>o:n kustanne, joka kertoo Mikko-pojan ja valaan ystävyydestä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot maainâst Mikko-kaandâ já vállá ustevvuođâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.4. Veikko Holmbergin kirjoittama, Marja Helanderin kuvittama, Matti Morottajan kääntämä ja Davvi Girji os:n kustantama “ Tuuru-kuobžâ ” (Tuuru-karhu) ilmestyi v 1995.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3.4. Veikko Holmberg čäällim, Marja Helander kuvvim já Matti Morottaja jurgâlem “ Tuuru-kuobžâ ” almostui i. 1995.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.5. Antoine de Saint-Exupéryn kirjoittama ja Iisakki Mattuksen kääntämä “ Uccâ priinsâš ” (Pikku prinssi) 2., korjattu painos ilmestyi 2004. Saamelaiskäräjät, 95 s.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3.5. Antoine de Saint-Exupéry čäällim já Iisakki Mattus jurgâlem “ Uccâ priinsâš ” 2., tiivvum tiädus almostui i. 2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3.6. Iisakki Mattuksen kääntämä Shamaanisiskot “ Kollepäddi ” (Kultapanta) ilmestyi vuonna 2001. Saamelaiskäräjät, 160 s. Matti Morottaja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3.6. Iisakki Mattus jurgâlem almostui noomáin “ Kollepäddi ” 2001. Kirjeest láá siberialiih mainâseh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Petter Morottajan kirjoittama Suábi maainâs ilmestyi vuonna 1999.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Petter Morottaja čäällim "Suábi maainâs" almostui ive 1999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuusnäyte</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuođâčááitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lastenkirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Párnáikirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

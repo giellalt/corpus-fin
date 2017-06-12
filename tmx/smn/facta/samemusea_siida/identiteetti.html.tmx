@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">identiteetti.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Identiteetti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>KIELÂ JÁ IDENTITEET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoitustavat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čäällimvyevih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli ja identiteetti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ já identiteet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Julkaistut teokset</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almostittum kirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaisten oma kieli, inarinsaame, on yksi uhanalaisimmista saamen kielistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšâi jieijâs kielâ, anarâškielâ, lii ohtâ tain uhkevuálásumosijn sämikielâin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Syitä kielen uhanalaisuuteen on useita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suujah kielâ uhkevuálásâšvuotân láá maaŋgah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli on saamenkielistä ainoa, jota puhutaan vain Suomessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ lii sämikielâin áinoo, mii sárnoo tuše Suomâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki inarinsaamelaiset ovat siten myös suomenkielentaitoisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nuuvtpa puoh anarâšah láá meiddei suomâkieltáiđusiih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perheiden kielenvaihto suomeen on tapahtunut ehkä muita saamelaisryhmiä varhaisemmassa vaiheessa historiallisista syistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Histojallisij suujâi keežild perrui kielâmolsom suomâkielân lii tábáhtum kenski tolebiššáá, ko eres sämmilâšjuávhuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomalainen uudisasutus ja valtiolliset laitokset, esimerkiksi kirkko ja koulu, saapuivat inarinsaamenkieliselle alueelle varhaisessa vaiheessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Syemmilâš uđâsaassâm já staatâ lájádâsah, ovdâmerkkân kirkko já škovlâ, pottii anarâškuávlun viehâ tooláá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoismaiset rajasulut toivat alueelle myös pohjoissaamelaista vaikutusta yhä enenemässä määrin ja inarinsaamelaisten asema vähemmistön vähemmistönä muotoutui.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tave-eennâmlâš räjitoppâmeh puohtii kuávlun meiddei lasaneijee orjâlâšvaikuttâsâid já anarâšâi sajattâh ucceeblovo ucceeblohhoon hámášui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monikulttuurisessa ympäristössä väestöstä tuli luonnollisesti monikielinen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maaŋgâkulttuursâš pirrâsist aalmugist šoodâi luándulávt maaŋgâkielâsâš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielenvaihtoon johti usein myös yleinen uudistilojen perustaminen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâmolsomân tuálvui maŋgii meid almos uđâstáálui vuáđudem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilan nimi rekisteröitiin suomenkielisenä ja suku vaihtoi nimeänsä vaikka tilan elinkeinot eivät muuttuneetkaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Táálu nommâ registeristui suomâkielâlâžžân já suuhâ lonottij noomâs veikkâ táálu iäláttâsah iä muttumgin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maailmansotien jälkeinen kehitys toi alueelle myös runsaasti uusia työmahdollisuuksia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maailmsođij maŋasâš ovdánem puovtij kuávlun meiddei valjeest uđđâ pargomáhđulâšvuođâid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Siirtyminen pois perinteisistä elinkeinoista vei mukanaan taas yhden kielenkäyttöympäristön.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sirdâšem ärbivuáválijn iäláttâsâin meddâl tuálvui tot mieldistis oppeet oovtâ kielâkevttimpirrâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kielen tilanne oli 1990-luvulla sellainen, että nuorin kielenpuhuja oli jo teini-ikäinen eli käytännössä kieli oli kuolemassa muutaman sukupolven kuluessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâ tile lâi 1990-lovvoost taggaar, et nuorâmus kielâsárnoo lâi juo nubálov ihásâš ađai vuáválávt kielâ lâi jämimin muádi suhâpuolvâ äigin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oma kieli osana etnisyyttä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieijâs kielâ uássin etnisâšvuođâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame, kuten muutkin saamen kielet, sisältää runsaasti pohjoiseen ympäristöön ja perinteiseen elämänpiiriin liittyvää sanastoa, joka on ainutlaatuista ja suomenkieleksi kääntymätöntä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâ, tegu eres-uv sämikielah, tuálá siste valjeest tavekuávlu pirrâsân já ärbivuáválâš eellimpirrâsân kullee saanijd, moh láá áinoošlajâsiih já suomâkielân jurgâlmettumeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Etenkin elinkeinoihin liittyvä saamenkielinen termistö on kuitenkin vakiintunut paikalliseen suomenkielen murresanastoon jo varhaisessa vaiheessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aainâs-uv áigápuáđoid lohtâseijee sämikielâlâš termâhivvâdâh lii kuittâg vuáhádum páihálii suomâkielâ suomânân juo viehâ tooláá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli on kuitenkin se seikka, joka parhaiten erottaa inarinsaamelaiset muista saamelaisryhmistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ kuittâg lii tot äšši, mast pyeremustáá iärut anarâšâid eres sämmilâšjuávhuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elinkeinot - poronhoito, kalastus ja keräilytalous - ovat yhteneväisiä muiden saamelaisryhmien kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Áigápuáđuh – puásuituálu, kyelipivdo já nuurrâmtuálu – láá siämmáálágáneh eres sämmilâšjuávhuiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toinenkaan tärkeä etninen tunnus, saamenpuku, ei välttämättä kerro kantajansa inarinsaamelaisuudesta, sillä varsikin Inarijärven länsi- ja pohjoispuolella suvut ovat yleisesti käyttäneet ns. Utsjoen mallin pukua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ij nubbegin tergâdis etnisâš tobdomerkkâ, sämimááccuh, aainâs muštâl kyeddes anarâšvuođâst, ko aainâs-uv Aanaarjäävri viestâr- já taavaapiälááh suuvah láá iänááš kiävttám nk. Ucjuvmallisii mááccuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisyhteisön modernisoituessa oma kieli ja kieleen liittyvät kulttuurituotteet saavat yhä tärkeämmän sijan etnisen identiteetin muotoutumisessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko sämmilâšsiärvádâh modernišuvá, te jieijâs kielâ já toos kullee kulttuurpyevtittâsah uážžuh ain-uv tergâdub saje etnisii identiteet hámášuumeest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielen uudelleenelvyttäminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ uđđâsist virkosmittem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaiset aktivistit ovat saaneet jarrutettua kielen puhujien vähenemistä Uuden-Seelannin maoreilta lainatulla menetelmällä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâš aktivistah láá finnim hiđásmittiđ kielâ sárnoi kiäppánem Uđđâ-Seeland maorijn luoihâttum vuovvijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kohanga reo, saameksi kielâpiervâl eli inarinsaamenkielinen kielipesä aloitti toimintansa Suomen Kulttuurirahaston avustuksella Inarissa vuonna 1997. Kielipesässä pienet lapset saavat saamenkielisen päiväkotiympäristön, vaikka heidän vanhempansa eivät kieltä puhuisikaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kohanga reo, anarâškielân kielâpiervâl ađai anarâškielâ kielâpiervâl algâttij tooimâs Suomâ Kulttuurruttârááju torjuin Anarist ive 1997. Kielâpiervâlist uccâ párnááh finnejeh sämikielâlâš peivikiäččupirrâs, veikkâ sii vaanhimeh iä kielâ sárnuččiigin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesää on artikkelin kirjoitushetkellä käynyt 33 lasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâpiervâl láá taan artikkel čäällimääigi jottáám 33 párnážid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osa heistä on koulussa jatkanut opiskelua inarinsaamenkielisellä luokalla ja siten saanut äidinkielen veroisen kielitaidon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uási sist láá juátkám opâidis škoovlâst anarâškielâlâš luokast já návt finnim eenikielâ viärdásii kielâtááiđu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesän toiminta on kuitenkin vuosittain vaakalaudalla rahoituksen epävarmuuden vuoksi ja koulua taas vaivaa opettajapula.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâpiervâl toimâ ij lah kuittâg ihásávt ruttâdem peeleest ain vises já škoovlâ oppeet vääivid máttáátteijeevänivuotâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesällä on ollut suuri vaikutus niin uusien kielenpuhujien syntymiseen kuin myös lasten kautta tulleeseen kiinnostukseen inarinsaamen kieltä kohtaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâpiervâlist lii lamaš stuorrâ vaikuttâs nuuvt uđđâ kielâsárnoi šoddâmân ko meiddei párnái pehti šoddâm mielâkiddiivâšvuotân anarâškielâ kuáttá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Moni vanhempi on osallistunut inarinsaamen kursseille ja kieli voi siirtyä myös kotipiiriin, varsinkin perheen sisarusten käydessä kielipesää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maaŋgah vaanhimeh láá uásálistám anarâškielâ kurssáid já kielâ puáhtá sirdâšuđ meiddei päikkipirrâsân, aainâs-uv talle ko perruu párnááh joteh kielâpiervâl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesän vaikutuksia tutkitaan parhaillaan käynnissä olevassa väitöstutkimuksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâpiervâl vaikuttâsâi tutkâm lii tääl joođoost náguskirjetutkâmušâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli osana saamelaisen identiteetin tulevaisuutta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâ uássin sämmilii identiteet puátteevuođâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilökohtainen saamenkielen taito ja sen siirtäminen lapsille antaa omalle saamelaiselle identiteetille jatkuvuutta ja synnyttää optimismia kulttuurin tulevaisuuden suhteen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Persovnlâš sämikielâ máttu já tom sirdem páárnán addel jieijâs sämmilâš identiteetân jotkuuvâšvuođâ já šoddâd optimiismâ kulttuur puátteevuođâ háárán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Identiteetin jatkuvuus voi syntyä myös muiden kulttuuripiirteiden kautta, esimerkiksi perinteisen elinkeinon siirtyessä sukupolvelta toiselle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Identiteet jotkuuvâšvuotâ puáhtá šoddâđ meiddei eres kulttuurjiešvuovij pehti, ovdâmerkkân talle, ko ärbivuáválâš áigápuátu sirdâšuvá suhâpuolvâst nuubán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Monet saamelaisten perinteisiin elinkeinoihin ja elämäntapaan liittyvät etniset piirteet väistämättä muuttuvat tai häviävät.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maaŋgah sämmilij árbivuáválâš áigápuáđoid já eellimvuáhán kullee etnisiih jiešvyevih eeppidhánnáá rievdih tâi láppojeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli sen sijaan säilyy, mikäli vain uusia puhujia syntyy yhteisöön.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ton sajan kielâ siäilu, jis peri uđđâ sárnooh šaddeh siärvádâhân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kielen tukitoimenpiteet olisivat siten mahdollisesti yksinkertaisin tapa säilyttää inarinsaamelainen kulttuuri ja inarinsaamelaisten etninen identiteetti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâ toorjâtooimah liččii talle máhđulávt oovtkiärdánumos vyehi siäiluttiđ anarâš kulttuur já anarâš etnisâš identiteet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kieltä edistämään perustetun Anarâškielâ servi ry:n aloittamispöytäkirja vuodelta 1986.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâ ovdedem várás vuáđudum Anarâškielâ servi ry. vuáđudempevdikirje ive 1986.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielipesän lasten keskellä johtaja Ritva Kangasniemi ja Matti Morottaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kielâpiervâlpárnáiguin jođetteijee Ritva Kangasniemi já Matti Morottaja.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

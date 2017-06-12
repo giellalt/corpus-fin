@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">musiikki.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuuri</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâsijđo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Musiikki</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muusik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamenpuku</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tyeji Mááccuh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Musiikki</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muusik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen saamelaisten musiikkiperinteistä vähiten huomiota on saanut inarinsaamelainen musiikkiperinne.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Suomâ sämmilij muusikärbivyevist lii ucemustáá finnim huámášume anarâšmuusik ärbivyehi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämä johtuu osittain siitä, että inarinsaame on ollut kielenä vähemmistön vähemistönä sangen marginaalisessa asemassa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taat šadda uásild tast, et anarâškielâ lii lamaš kiellân ucceeblovo ucceeblohhoon uáli marginaalsâš sajattuvâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaisia musiikintekijöitä on myös hyvin vähän ja nämä tekijät ovat heijastuneet myös inarinsaamelaisen kulttuurin arvostukseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâš muusikrähteeh láá meiddei uáli uccáá já taah ääših láá spejâlistám meiddei anarâškulttuur áárvustanemân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunnetuimpia ovat laulaja ja säveltäjä Aune Kuuva, räp-artisti Amoc sekä sisarukset Heli ja Satu Aikio.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tobdosumoseh láá lávloo já nyettejeijee Aune Kuuva (Piäkkáá Avni), räp-artist Amoc (Mikkâl Antti Morottaja) sehe oobižeh Heli já Satu Aikio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhemman polven musiikkimiehistä voidaan mainita Ilmari Mattus sekä Matti Morottaja, joka esiintyi mm. ensimmäisillä Kaustisen kansamusiikkifestivaaleilla vuonna 1968. Viime vuosikymmeninä inarinsaamelainen musiikkiperinne on joutunut vähemmälle huomiolle ja toisinaan on jopa kysytty, onko omaa inarinsaamelaista musiikkiperinnettä ollut olemassakaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puárásub puolvâ muusikalmain puáhtá mainâšiđ Ilmari Mattus (Uccpárnáá Vuoli Ilmar) sehe Matti Morottaja (Kuobžâ-Saammâl Matti), kote lávdástij el. vuosmuin Kaustisii aalmugmuusikfestivaalâin ive 1968. Majemuin ihelovvoin anarâšmuusik ärbivyehi lii šoddâm ucceeb huámášumân já motomin lii joba koijâdum, et lii-uv anarâšâin lamaš jieijâs muusikärbivyehi ollágin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuitenkin 1800-luvun ja 1900-luvun alkupuolen arkistolähteiden avulla saadaan kuuluviin hyvin elävä inarinsaamelainen musiikkiperinne.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuittâg 1800-lovo já 1900-lovo aalgâkeeji arkkâdâhkäldein lii kavnâmist uáli ellee anarâšmuusik ärbivyehi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelainen musiikkiperinne hahmottuu arkistolähteiden mukaan seuraaviin osiin: Keskeisen osan perinteestä muodostavat inarilaisten ihmisten livđet sekä eläinlivđet.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšmuusik ärbivyehi hámášuvá arkkâdâhkäldei mield čuávvoo ossijd: Kuávdáš uási ärbivyevist taheh anarâšâi ulmuiliivđeh sehe elleiliivđeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhimmat tunnetut livđe-tekstit on tallennettu Mikko Aikiolta 1880-luvulta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puárásumoseh tubdum livđeteevstah láá vyerkkejum Mikko Aikiost 1880-lovvoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1900-luvun aikana tallennuksia on tehty runsaasti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1900-lovo ääigi vuorkkiimeh láá toohum valjeest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laajin inarinsaamelaisen musiikin kokoelma on tallennettu Anna-Briitta Mattukselta (os. Morottaja).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vijđásumos anarâšmuusik čuágáldâh lii vyerkkejum Anna-Briitta Mattusist (js. Morottaja).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraavassa on kolme tekstiä karhun livđelle, joka on yksi tunnetuimmista inarinsaamelaisista livđeistä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuávvon láá kulmâ teevstâ kuobžâ liivđán, mii lii ohtâ tobdosumosijn anarâš liivđijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhin toisinto on Mikko Aikion vuonna 1886 esittämä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puárásumos kiärduttâs lii Mikko Aikio ive 1886 livđum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Herää jo veliseni Päivä paistaa jo vaaroille muurahaiset juoksevat jo puiden rungoilla linnun laulu jo korviin kaikuu akat jo nuottiansa korjaavat ukot panevat jo verkkokävyt talteen lapset leikkivät jo leikkijousineen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Koccáá juo viljâžâm Piäiváš juo vaarijd páštá kuđhiih juo kuodduužij mield ruotâdeh lode ruojâ jo peljijd vaaldij káálguh juo nuotijdis čihteh kálláh juo kiävuidis vuorkkiistileh párnááh juo sierâtávgáiguin sierih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Frans Äimän muistiinmerkitsemästä Karhun livđen toisinnosta selviää, että veli-sana liittyy tilanteeseen, jossa karhu herättelee veljeään, toista karhua.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Frans Äimä pajasmerkkim Kuobžâ liivđe kiärduttâsâst čiälgá, et viljâžâm-sääni lohtâs tilálâšvuotân, mast kuobžâ covná viiljâs, nube kuobžâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Karhu sanoo veikkoselleen: Nouse jo veikkoseni! Päivyt jo vaaroilla paistaa, linnun ääni jo korviin raikuu, pienet muurahaiset jo liekosille laukkaavat, ukot jo käpyjänsä panevat talteen, akat jo nuottiansa korjaavat.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuobžâ iätá viljâsis: Koccáá juo viljâžâm! Piäiváš juo vaarijd páštá, ludij jienâ juo peljijd škáájá, kuđhiih juo kuodduužij mield ruotâdeh, kálláh juo kiävuidis vuorkkiistileh, káálguh juo nuotijdis čihteh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 1946 Anna-Briitta Mattus esitti livđen Helsingissä musiikintutkija A. O. Väisäselle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 1946 Anna-Briitta Mattus livđui Helsigist muusiktotkee A. O. Väisäsâžân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkieliset tekstit on nykyortografialle translitteroinut Matti Morottaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâ teevstâid lii translitteristám tááláá čäällimvuáhán Matti Morottaja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ukot jo käpyjänsä laittaa lol-lo-lo, loo-loo lol-loo…</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Viljâžâm viljâžâm koccáá jo no piäiváš jo vaarijd páštá, lol-lo-lo…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>akat jo nuottiaan korjaa lol-lo-lo, loo-loo lol-loo…</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>kálláh jo kiävuidis rähtih, lal-lal-lal…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>pojat jo jousipyssyillä leikkivät lol-lo-lo…</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>káálguh jo nuotijdis čihteh, lal-lal-lal…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lintujen laulu (meteli) jo korviini otti lol-lo-lo…</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>kaandah jo tävgipisoiguin sierâdeh, lal-lal-lal…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>nyt se jo marjoja syöpi lol-lo-lo, loo-loo lol-loo …</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>ludij ruojâ jo peljidân vaaldij, lal-lal-lal…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuo (pentu) tuossa näköjään myös herää lol-lo-lo, loo-loo lol-loo</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>täälvis lii uáđđâm kale, lal-lal-lal… te tot jo muorjijd porá, lal-lal-lal…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Musiikillisesti livđet ovat hyvin samankaltaisia kuin Inarin pohjoissaamelaiset joiut ja siksi niitä on pelkästään musiikillisten piirteiden kautta toisinaan vaikea erottaa toisistaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tuot kustoo meid jo koccáá lal-lal-lal Muusiklávt liivđeh sulâstiteh čuuvtij Aanaar orjâlâšjuáigusijd já tane taid lii tuše musiiklâš jiešvuođâi pehti motomin väädis iäruttiđ nubijnis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi inarinsaamelaiseen perinteeseen on kuulunut livđejen ohella myös pohjoissaamelaisia joikuja, joihin viitataan inarinsaamessa termillä juáigus, (pl. juáiguseh).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasseen anarâš ärbivuáhán láá kuullâm liivđij lasseen meiddei orjâlâšjuáiguseh, moid čujottuvvoo anarâškielâ teermâst juáigus, (ml. juáiguseh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vanhimmat kuvaukset inarinsaamelaisesta musiikista ovat 1800-luvun alkupuolelta ja ne ovat pappien sekä virkamiesten tekemiä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puárásumoseh kuvviimeh anarâš musikkist láá 1800-lovo aalgâbeln já toh láá paapâi sehe virgealmai tohâmeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niissä käsitellään erityisesti inarilaisten veisuutaitoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tain kieđâvuššoo eromâšávt anarâšâi veisidemtáiđu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinkielinen nimitys virsille on salmâ (pl. saalmah) ja 1800-luvun virsiperinne liittyi ns. Vanhan virsikirjan virsistöön.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâlâš nomâttâs toid lii salmâ (ml. saalmah) já 1800-lovo salmâärbivyehi lohtâsij nk. Puáris salmâkirje salmáid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuonna 1993 ilmeistyi nykyinen inarinsaamemenkielinne virsikirja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 1993 almostui tááláš anarâškielâlâš salmâkirje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Livđejen, joikujen ja virsien ohella tunnetaan lukuisia inarinsaamenkielisiä lauluja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Liivđij, juáigusij já saalmâi lasseen láá tiäđust maaŋgah anarâškielâlâš lavluuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkielinen nimitys on laavlâ (pl. lavluuh).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâlâš nomâttâs lii laavlâ (ml. lavluuh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tunnetuin laulu lienee ns. Kihlajaislaulu, joka tunnetaan myös Äidin ja Tyttären vuoropuhelulauluna.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tobdosumos laavlâ táiđá leđe nk. Kihlejâšlaavlâ, mii tobdoo meiddei Eeni já Nieidâ vuárusárnumlaavlân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laulua kerrotaan esitetyn kihlajaisissa 1800-luvun lopulla ja 1900-luvun alkupuolella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muštâluvvoo et laavlâ lii lavlum kihlejáin 1800-lovo loopâst já 1900-lovo aalgâbeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eräs syy inarinsaamelaisen musiikkiperinteen heikkenemiseen 1900-luvulla lienee ollut vuoden 1920 espanjantautiepidemia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtâ suijâ anarâšmuusik ärbivyevi huánnánmân 1900-lovvoost lâš lamaš ive 1920 espanjatavdâepidemia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tautiin menehtyi noin 200 ihmistä Inarissa ja hyvin suuri osa heistä oli juuri inarinsaamelaisia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taavdân jammii suullân 200 olmožid Anarist já uáli stuorrâ uási sist lijjii eidu anarâšah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koska vainajien livđejä ei mielellään esitetty, hävisi perinteestä merkittävä osa, samoin kuin lukuisia perinteentaitajia.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko jaamišij liivđijd iä ulmuuh mielâstis lávlum, lappui ärbivyevist merhâšittees uási, siämmáá ko maaŋgah ärbivyevimätteeh-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1920- ja 1930-lukujen aikana Inaria kosketti voimakas suomalainen muuttoliike, joka myös vaikutti musiikkikulttuuriin ja varmasti Lapin sodan vaikutus heikensi perinnekulttuuria entisestään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1920- já 1930-lovoi ääigi Anarân čuosâi vuáimálâš syemmilij varrimjotolâh, mii meiddei vaikuttij muusikkulttuurân já vissásávt Säämi suáđi vaikuttâs hiäjusmitij ärbivyehikulttuur ovdiist-uv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaista musiikkiperinnettä on kuitenkin tallennettu sotien jälkeenkin erityisesti 1960-luvun lopulla mm. Matti Morottajan ja Saamen radion toimesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâšmuusik ärbivyehi lii kuittâg vyerkkejum soođij maŋa-uv eromâšávt 1960-lovo loopâst el. Matti Morottaja (Kuobžâ-Saammâl Maati) já Säämi radio tooimâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Runsaiden arkistoaineistojen avulla ja yhteistyöllä vanhojen perinteentaitajien kanssa on mahdollista elvyttää vanhaa inarinsaamelaista musiikkiperinnettä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Valjaas arkkâdâhamnâstuvâi vievâst já ohtsâšpargoin puáris ärbivyehimätteiguin lii máhđulâšvuotâ iäláskittiđ puáris anarâšmuusik ärbivyevi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän vuoden Ijahis Ija -festivaalin inarinsaamelaiskonsertissa kuultiinkin uudemman inarinkielisen laulun ohella myös vanhoja livđejä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taan keežild Ijâttis Ijjâ -festivaalâ anarâškonsertist kullojii-uv uđđâsub anarâškielâlâš lavluu lasseen meiddei puáris liivđeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Marko Jouste</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Marko Jouste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yli sata joikunäytettä A.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Paijeel čyeti juáigusčáittusid A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>O. Väisäselle ja Erkki Ala-Könnille esittänyt Anna-Briita Mattus laulaa fonografiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>O. Väisäsâžân já Erkki Ala-Köönnin lávlum Anna-Briita Mattus lávlu fonograafin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>A.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>O. Väisänen 1946.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>O. Väisänen 1946.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vahalieriötallenne vuodelta 1946</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kässikubbeelvuorkkiittâs ive 1946 (</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikä on livđe?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mii lii livđe?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisessa musiikkiperinteessä kuvataan musiikillisin ja tekstillisin keinoin kunkin alueen omaa elinympäristöä ja ihmisiä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämmilâš muusikärbivyevist kovvejuvvoo muusiklâš já tevstâlâš vuovijguin jieškote-uv kuávlu jieijâs eellimpiirâs já ulmuuh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskeistä perinteessä on se, että laulun kohde omistaa oman laulunsa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuávdáš äšši ärbivyevist lii tot, et lavluu čuásáttâh oomâst lavlus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eurooppalaisessa ja skandinaavisissa lauluperinteissä on kyse kertovista lauluista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eurooplâš já skandinaavâlâš laavlâärbivyevist lii saahâ muštâleijee lavluin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kertovilla lauluilla puolestaan kuvataan ihmisiä, tapahtumia ja tunteita ilman kohteeseen liittyvää omistussuhdetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Muštâleijee lavluin oppeet kovvejuvvojeh ulmuuh, tábáhtusah já tobdoh nuuvt et čuásáttâsân ij lohtâs omâstemkoskâvuotâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamen alueella omistetuista lauluista käytetään nimeä luohti, vaikkakin suomen kieleen on vakiintunut termi joiku.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Orjâlâškuávlust omâstum lavluin kiävttoo nomâttâs luohti, veikkâ suomâkielân lii vuáhádum termâ joiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkielinen nimitys on livđe ja kolttasaamessa leu’dd.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâlâš nomâttâs lii livđe já nuorttâlâškielâst leu’d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmari Mattus ja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ilmari Mattus já "Sáárámáárjá".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamelaisia musiikintekijöitä:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>© 2006 Sámi musea Siida &amp;amp; Anarâškielâ servi</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
