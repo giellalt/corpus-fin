@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kuntouttava-tyotoiminta.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttava työtoiminta - INARI.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotoimâ - INARI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>FI</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>FI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomeksi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâsijđo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palvelut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Palvâlusah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päätöksenteko</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Miärádâstoohâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matkailu</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mađhâšem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtâvuođâtiäđuh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palvelut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Palvâlusah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sosiaali- ja terveyspalvelut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sosiaal- já tiervâsvuođâpalvâlusah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sosiaalityö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sosiaalpargo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttava työtoiminta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotoimâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttava työtoiminta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotoimâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kenelle Kunta järjestää Työtoiminnasta laaditaan sopimus Työtoiminnasta saa taloudellista etua Työtoiminnan tehtävät ja sisältö sovitaan yksilöllisesti Työtoiminnasta saa palautetta ja työtodistuksen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kiäs Kieldâ uárnee Pargotooimâst ráhtoo sopâmus Pargotooimâst finnee ekonomâlâš hiäđu Pargotooimâ pargoh já siskáldâs suáppoo ohtâgâslávt Pargotooimâst uážžu macâttâs já pargotuođâštus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kenelle</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kiäs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttava työtoiminta on tarkoitettu pitkään työttömänä olleelle henkilölle, joka saa työt-tömyyden perusteella toimeentulotukea ja/tai työmarkkinatukea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotoimâ lii uáivildum kuhháá pargottáá lamaš ulmui, kote finnee pargottisvuođâ keežild áigápuátutorjuu já/tâi pargomarkkântorjuu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttavasta työtoiminnasta sovitaan aina aktivointisuunnitelmassa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotooimâst suáppoo ain aktivistemvuáváámist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aktivointisuunnitelma laaditaan yhdessä asiakkaan, sosiaalityöntekijän ja työvoimaneuvojan kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aktivistemvuávám ráhtoo oovtâst äššigâššáin, sosiaalpargein já pargovyeimirävvejeijein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitelmassa nimetään tavoitteet ja keinot, joiden avulla parhaiten edistetään asiakkaan työllistymistä, parannetaan hänen työ- ja toimintakykyään sekä yleistä elämänhallintaansa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuáváámist nomâttuvvojeh ulmeh já vyevih, moi vievâst pyeremustáá ovdeduvvoo äššigâš paargon šoddâm, pyereduvvoo suu pargo- já toimânahcâ sehe almos eellimhaldâšem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta järjestää</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kieldâ uárnee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttavan työtoiminnan järjestämisestä vastaa aina kunta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoiditmân valdum ulmuu pargotooimâ orniimist västid ain kieldâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitä voidaan toteuttaa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tom puáhtá olášutteđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kunnan tai kuntayhtymän eri toimipisteissä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>kieldâ tâi kieldâovtâstume jieškote-uv toimâčuágástuvâin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>erilaisissa rekisteröidyissä yhdistyksissä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>jieškote-uvlágán registeristum seervijn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>seurakunnissa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>servikuudijn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>valtion virastoissa ja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>staatâ virgáduvâin já</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>säätiöissä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>vuáđudâsâin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoiminnasta laaditaan sopimus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimâst ráhtoo sopâmuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttavasta työtoiminnasta laaditaan aina sopimus työnantajan, kunnan ja asiakkaan välillä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotooimâst ráhtoo ain sopâmuš pargoadeleijee, kieldâ já äššigâš kooskâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimuksessa määritellään työtoimintapaikka, työtoiminnan kesto ja sopijaosapuolten tavoitteet toiminnalle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmušâst miäruštâlluvvoo pargotoimâsaje, pargotooimâ kukkodâh já suáppeeuásipelij ulmeh tooimân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttava työtoiminta alkaa 3 kk aloitusjaksolla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotoimâ álgá 3 mp algâttemáigáduvváin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitelmaa tarkennetaan ja sopimus-ta jatketaan asiakkaan tarpeiden ja toiveiden mukaan. Työtoimintaan voi osallistua yhtä-jaksoisesti enintään 11 kk ja jaksoja voi olla useita.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuávám tärkkilistoo já sopâmuš juátkoo äššigâš táárbui já uulmij mield. Pargotooimân puáhtá uásálisteđ oovtmano enâmustáá 11 mp já áigáduvah pyehtih leđe maaŋgah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat, työtoiminnan tavoitteet sekä toiminnan sisältö määritellään asiakkaan kokonaistilanne huomioiden.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargoääigih, pargotooimâ ulmeh sehe tooimâ siskáldâs miäruštâlluvvoo väldimáin vuotân äššigâš olestilálâšvuotâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoimintaan sisältyy ryhmässä toimimista ja tarvittaessa sosiaali- ja terveyspalveluja sekä talous- ja velkaneuvontaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimân kuleh juávhust toimâm já táárbu mield sosiaal- já tiervâsvuođâpalvâlusah sehe ekonomia- já velgiravvim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttava työtoiminta kestää 3 - 24 kuukautta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotoimâ pištá 3 - 24 manuppaijeed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työpäiviä on sopimuksen mukaan 1 - 5 päivää viikossa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargopeeivih láá sopâmuš mield 1 - 5 peeivi ohhoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työpäivän pituus on sopimuksen mukaan 4 - 8 tuntia päivässä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargopeeivi kukkodâh lii sopâmuš mield 4 - 8 tijmed peeivist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoiminnasta saa taloudellista etua</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimâst finnee ekonomâlâš hiäđu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiakas saa työtoiminnan ajalta täyden työmarkkinatuen 25,74 €/ päivä ja lisäksi verottoman 9 € korvauksen osallistumispäiviltä, mikä maksetaan joko toimintarahana tai ylläpitokorvauksena.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Äššigâš finnee pargotooimâ ääigi oles pargomarkkântorjuu já lasseen viäruttis máávsu uásálistempeeivijn, mii máksoo jo-uv toimâruttân tâi alnetoollâmmáksun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi hän voi saada lapsikorotusta alle 18-vuotiaista lapsista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasseen sun puáhtá finniđ vala páárnášluptiittâs vuálá 18-ihásijn párnáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joissakin tapauksissa päiväraha korvautuu kunnan maksamana toimeentulotukena, mikä määrittyy toimeentulotukinormien mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Motomijn tábáhtusâin peiviruttâ sajanmaksâšuvá kieldâ mäksim áigápuáturoorjân, mii miärášuvá áigápuáturoorjânoormâi mield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiakkaalle aiheutuvat todelliset matkakustannukset kodin ja työpisteen välillä korvataan tarvittaessa edullisimman vaihtoehdon mukaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Äššigâžân šaddee tuođâliih mätkikoloh pääihi já pargosaje kooskâ sajanmáksojeh táárbu mield hiäđulumos molsâiävtu mield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoiminnan tehtävät ja sisältö sovitaan yksilöllisesti</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimâ pargoh já siskáldâs suáppoo ohtâgâslávt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttavan työtoiminnan tehtävät sovitaan asiakkaan taitojen, toiveiden, mahdollisuuk-sien ja tavoitteiden mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoiditmân valdum pargotooimâ pargoh suáppojeh äššigâš tááiđui, tuoivui, máhđulâšvuođâi já uulmij miäldásávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sopimiseen osallistuvat asiakkaan lisäksi kuntouttavan työtoiminnan ohjaaja ja työnantajan edustaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sopâmân uáslisteh äššigâš lasseen vajoiditmân valdum pargotooimâ stivrejeijee já pargoadeleijee ovdâsteijee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttavasta työtoiminnasta laaditaan kirjallinen sopimus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimâ ulmen lii äššigâš olestilálâšvuođâ pyeredem ohtâgâslávt já kuuloold.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoiminnan tavoitteena on asiakkaan kokonaistilanteen parantaminen yksilöllisesti ja vähitellen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotoimâ puáhtá leđe eellimhaaldâšmân kullee tááiđui pyeredem kuhesáigásâš pargottisvuođâ maŋa tâi masa táválâš piäiválâš pargo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yksilöityjä tavoitteita voivat olla:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtâlistum ulmeh pyehtih leđe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>fyysisen työkunnon parantaminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>fyysilâš pargovajo pyeredem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sosiaalisten taitojen kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>sosiaallâš tááiđui ovdedem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>työtietojen ja -taitojen päivittäminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>pargotiäđui já -tááiđui peividem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>päivittäiseen työrytmiin totuttautuminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>piäiválâš pargoryytmân vuáđáduttem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>työnhakutaitojen kehittäminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>pargouuccâmtááiđui ovdedem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoimintaan sisältyy henkilökohtainen ohjaus ja tuki sekä yleinen palveluohjaus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimân kulá persovnlâš stivrim já toorjâ sehe almos palvâlusstivrim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtehtävät ovat usein avustavia tehtäviä palkatun työntekijän ohjauksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargoh láá távjá išedeijee pargoh pálkkááttum pargee stivrim- já kocceemvuálásâžžân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tehtävät voivat liittyä esim. seuraaviin toimialoihin tai tehtäviin:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargoh pyehtih lohtâsiđ om. čuávvoo toimâsuorgijd tâi pargoid:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>siivoustyö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>pivtâshuolâttâs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ympäristönhoitotyö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>kiddodâhhuolâttâs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>kirjastotoimi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>kirjerájutoimâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sosiaalialan avustavat työt ja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>sosiaalsyergi išedeijee pargoh já</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>toimisto- ja arkistointitehtävät</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>toimâttâh- já arkkâdistempargoh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusia paikkoja etsitään koko ajan ja asiakkaiden esittämiä toiveita pyritään ottamaan huomioon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uđđâ sajeh occojeh ubâ ääigi já áššigâšâi tuoivuuh viggojeh väldiđ vuotân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttavaan työtoimintaan sovelletaan työturvallisuuslakia ja kunta järjestää työtoiminnan ajaksi tapaturmavakuutuksen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee Pargotooimân heiviittuvvoo pargotorvolâšvuođâlaahâ já kieldâ uárnee pargotooimâ ááigán täpitormetáhádâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttava työtoiminta ei ole työ- tai virkasuhde, joten sen ajalta ei kerry työsuhteen kaltaisia etuja kuten eläkettä tai vuosilomapäiviä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotoimâ ij lah pargo- tâi virgekoskâvuotâ, et ton ääigi iä čoggâšuu pargokoskâvuođâ sulâsiih hiäđuh tegu iäláttâh tâi iheluámupeeivih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se ei myöskään kartuta työttömyysturvan edellyttämää työssäoloehtoa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot ij meid šoddâd pargottisvuođâtorvo vaattâm pargoostorroomiävtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoiminnasta saa palautetta ja todistuksen tarvittaessa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimâst finnee macâttâs já pargotuođâštus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osapuolten tavoitteet työtoiminnalle on määritelty yhteisessä sopimuksessa työtoimintaa aloitettaessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uásipelij ulmeh pargotooimân láá miäruštâllum ohtsii sopâmušâst pargotooimâ aalgâttijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työtoiminnasta saa palautetta väli- ja loppuarvioinneissa, joihin osallistuvat asiakas, työnantajan edustaja, työvoimaneuvoja sekä kuntouttavan työtoiminnan ohjaaja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargotooimâst finnee macâttâs koskâ- já loppâárvuštâlmijn, moid uásálisteh äššigâš, pargoadeleijee ovdâsteijee, pargovyeimirävvejeijee sehe vajoiditmân valdum ulmuu pargotooimâ stivrejeijee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>sopimuksen laatiminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>sopâmuš rähtim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>väliarviointi- ja loppuarviointi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>koskâárvuštâllâm- já loppâárvuštâllâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>työtodistus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>pargotuođâštus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>jatkosuunnitelma</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>jotkâvuávám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteisissä arviointipalavereissa työstetään vähitellen asiakkaan jatkopolkua työelämään, koulutukseen tai muuhun mielekkääseen vaihtoehtoon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtsijn árvuštâllâmpalaverijn valmâštâlloo kuuloold äššigâš jotkâpäälgis pargoelimân, škovliimân tâi eres miellâsâš molsâiähtun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuntouttavasta työtoiminnasta asiakas saa kirjallisen työtodistuksen ja kirjallisen palautteen työ- ja toimintakunnostaan sekä jatkosuunnitelman oman työllistymistilanteensa parantamiseksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vajoidittee pargotooimâst äššigâš finnee kirjálâš pargotuođâštus já kirjálâš macâttâs pargo- já toimâvajostis sehe jotkâvuávám jieijâs paargonšoddâmtilálâšvuođâs pyereedmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jatkosuunnitelmat ovat osa työvoimahallinnon tarjoamia palveluja kuten;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jotkâvuáváámeh láá uási pargovyeimihaldâttâs faallâm palvâlusâid tegu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>työelämävalmennusta, työkokeilua, työvoimakoulutusta, palkkatukityötä tai ansiotyötä avoimilta työmarkkinoilta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>pargoeellimvalmim, pargokeččâlmeh, pargovyeimiškovliittâs, pälkkitoorjâpargo tâi tienâspargo ávus pargomarkkânijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Linkkejä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Liiŋkah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työvoimatoimisto Kela</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargovyeimitoimâttâh AIL</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

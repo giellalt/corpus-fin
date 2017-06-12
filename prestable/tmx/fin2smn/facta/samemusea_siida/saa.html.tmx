@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">saa.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elämäntapa</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâsijđo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sään ennustaminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šooŋâ ennustem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sananlaskut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Šooŋâ ennustem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sään ennustaminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Purrâmâšärbivyehi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erkinpäivänä vasa roukuu, käki kukkuu, mahla valuu, tuohi niloo ja harri kutee.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eerohpeeivi vyesi ruávgá, kiehâ kokká, mäihli kolgá, pessi njala já suávvil kođá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos hanhi nähdään ennen vappua, ei talvi kestä enää kauan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis čuánjá uáinoo ovdil válburpeeivi, te ij tälvi innig pište kuhháá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saturnuksen merkki almanakassa tietää huonoa säätä sinä päivänä, jonka kohdalla se on.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Saturnus merkkâ almenäähkist tiätá nievrisšooŋâ ton peeivi, mon puotâ tot lii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hauen maksan verisuoni kuvaa kesän vetisyyttä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puško vuoivâs vorrâsuonâ kovvee keesi lavtâsvuođâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos on paksu suoni, sataa paljon, jos ohut tai ei ollenkaan, tulee kuivaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis suonâ lii kossuv, te arva ennuv, jis lii seggi teikâ ij ollágin, te lii koške keesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos etupäässä on paksu suoni ja takapäässä ohut, niin alkukesä on sateinen ja loppukesä kuiva.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis ovddiikeččin lii kossâ suonâ já moonjiikeččin seggi, te algâkeesi láá arveh já loppâkeesi lii koškes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos unessa näkee varankilaisia, tulee kova pohjoistuuli.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis niävdá varjâgâšâid, te šadda korrâ tavepieggâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos aurinko torveaa, tulee tuisku.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Piegâkoozah čäittih, kost kulij itten piäggá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos auringolla on kinnas (sateenkaaren värinen täplä), se ennustaa säänmuutosta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis peeivi alne lii poccee, šadda purgâ. Jis piäivâš kistâkkist, te šooŋah muttojeh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos savupiipusta loistaa ylöspäin valojuova, tulee tuisku.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis suovâpoccest páštá pajaskulij čuhâ čuovâ tego passeem, šadda purgâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos talvella vaarat sinertävät kaukana, on huomenna lauha.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis tälviv väärih čuávjájeh kukken, te lii itten piivvâl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos illalla päivä katsoo taakseen, on huomenna sade.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis ehidist peivi maŋŋaalsis páštá, te lii itten arve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos veneen vanassa on kuplia, se tietää sadetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis kárbá maajeeld láá kublâkkâsah, te tot tiätá arve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kaakkuri huutaa, se tietää huonoa säätä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis kähtee rááhu, te šadda nievrisšoŋŋâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>On tulossa sade, kun taivaanvuohi ääntelee.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Áigu arvađ, ko miähástâh meehist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulee lumisade, kun aurinko on avannossa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Áigu muáttáđ, ko piävâš lii kälddest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tähdenlento tietää lumisadetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tääsniluččim tiätá myettee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kissa nukkuu nenä ylöspäin, tulee huono ilma.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis kissá uáđá njune pajaskulij, šadda nievrisšoŋŋâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos riekkoja on puiden oksilla, se tietää lumisadetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuus kulij poccuuh joteh, tobbeen kulij piegâškuát itten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos ukonilma menee pohjoiseen, niin sää kylmenee.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis riävskáh muorâoovsijn išteh, tot tiätá myettee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos käki yökkäilee, tulee sade.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis äijihšoŋŋâ mana tavas, te čuáskid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos käki kakistelee, tulee kylmä sää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis kiehâ puáhčánâd, te čuáskid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos savu painuu matalalle, tulee huono sää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis suovâ mana vyelligâsân, te šadda nievrisšoŋŋâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuun ympärillä on rengas, tulee tuisku.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis máánu pirrâ lii kiärdu, te áigu purgiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Porot kilostelevat (ryntäilevät) ennen huonoa säätä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Poccuuh čuáskudeh ovdil nievrisšooŋâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Korvan kutina tietää lumisadetta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis pelji saŋŋeed, te áigu muáttáđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Piippu korisee, sade on tulossa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis piijpo šnjiirijd, te áigu arvađ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun riekot räkättävät, tulee huono sää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko riävskáh skeikkih, te šadda nievrisšoŋŋâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun luita pakottaa, tulee kova tuuli.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko taavtijd luáddu, te šadda korrâ pieggâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun pää kutiaa, alkaa tuulla.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko uáivi saŋŋeed, te piegâškuát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos poro pakkasella vapisee, sää lauhtuu.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis puásui puolâšin tuárgist, te áigu pivâldiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun poro keloo nahkaa sarvista, tulee lauha.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko puásui čala, te áigu pivâldiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matti Morottaja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuánjá Pärttihist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuun kehä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Maassâd pajas</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

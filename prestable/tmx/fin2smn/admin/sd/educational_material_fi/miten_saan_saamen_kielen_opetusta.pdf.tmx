@@ -62,18 +62,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaisten kotiseutualueen kuntien ulkopuolella on mahdollista saada saamen kielen opetusta, mutta opetuksen järjestäminen edellyttää erityistä aktiivisuutta !</seg>
+        <seg>Saamelaisten kotiseutualueen kuntien ulkopuolella on mahdollista saada saamen kielen opetusta, mutta opetuksen järjestäminen edellyttää erityistä aktiivisuutta!</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sämikuávlu kieldâi ulguubeln lii máhđulâš finniđ sämikielâ máttááttâs, mutâ máttááttâs ornim váátá eromâš aktiivlâšvuođâ !</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Opetusta järjestetään sekä lähiopetuksena että virtuaalisesti.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Máttááttâs uárnejuvvoo sehe aldamáttááttâssân ete virtuaallávt.</seg>
+        <seg>Sämikuávlu kieldâi ulguubeln lii máhđulâš finniđ sämikielâ máttááttâs, mutâ máttááttâs ornim váátá eromâš aktiivlâšvuođâ! Máttááttâs uárnejuvvoo sehe aldamáttááttâssân ete virtuaallávt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,7 +118,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaisten kotiseutu www.sogsakk.fi ja lisäksi saamen kielen kurssien järjestämistä eossa www.elukio.fi.</seg>
+        <seg>Saamelaisten kotiseutu www.sogsakk.fi ja lisäksi saamen kielen kurssien järjestämistä e ossa www.elukio.fi. Lukiokurssien suorittamismahdollisuutta voi kysyä myös saamelaisten kotiseutualueen kuntien lukioista, joilla on virtuaaliopiskelijoita vuosittain.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Sämikuávlu kieldâi ulguubeln luvâttuv jottei kannat čuávvuđ oppâfalâlduv säämi máttááttâskuávdáá virtuaalškoovlâst www.sogsakk.fi já lasseen sämikielâ kuursâi ornim e-luvâttuvvâst www.elukio.fi.</seg>
@@ -134,7 +126,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lukiokurssien suorittamismahdollisuutta voi kysyä myös saamelaisten kotiseutualueen kuntien lukioista, joilla on virtuaaliopiskelijoita vuosittain.</seg>
+        <seg>alueen kuntien ulkopuolella lukiota käyvien kannattaa seurata opintotarjontaa saamelaisalueen koulutuskeskuksen virtuaalikoulussaluki</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Luvâttâhkuursâi čođâldit temmáhđulâšvuođâ puáhtá koijâdiđ meid sämikuávlu kieldâi luvâttuvâin, main láá virtuaaluáppeeh jyehi ive.</seg>
@@ -142,7 +134,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaisalueen koulutuskeskus järjestää vuosittain koko lukuvuoden mittaisen lähikoulutuksen inarin-, koltan- ja pohjoissaamen kielissä, www.sogsakk.fi.</seg>
+        <seg>Saamelaisalueen koulutuskeskus järjestää vuosittain koko lukuvuoden mittaisen lähikoulutuksen inarin-, koltan- ja pohjoissaamen kieli ssä, www.sogsakk.fi.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Säämi máttááttâskuávdáš uárnee jyehi ive ubâ luuhâmpaje kukkosii aldaškovliittâs anarâš-, nuorttâlâš- já tavesämikielâ kielâin, www.sogsakk.fi.</seg>
@@ -154,6 +146,14 @@
       </tuv>
       <tuv xml:lang="smn">
         <seg>Suomâ ollâopâttuvâin kuulmâst lii máhđulâš oppâđ sämikielâ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>http://www.oulu.fi/giellagasinstituutti/, www.ulapland.fi, http://www.helsinki.fi/sup/.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>http://www.oulu.fi/giellagasinstituutti/, www.ulapland.fi, http://www.helsinki.fi/sup/.</seg>
       </tuv>
     </tu>
   </body>
