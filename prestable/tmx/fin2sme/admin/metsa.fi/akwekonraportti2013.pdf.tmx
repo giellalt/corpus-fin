@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Suvi Juntunen | Elina Stolt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáttasánit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Metsähallitus</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -102,10 +110,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>eiden erilaisia arvoja saamelaiskulttuurille, mahdollisia huolenaiheita kulttuurin harjoittamisen edellytyksiin liittyen sekä lopulta niitä keinoja, joilla mahdollisia uhkia voidaan torjua.</seg>
+        <seg>harjoittamiseen liittyviä tärkeitä asioita, esimerkiksi alueiden erilaisia arvoja saamelaiskulttuurille, mahdollisia huolenaiheita kulttuurin harjoittamisen edellytyksiin liittyen sekä lopulta niitä keinoja, joilla mahdollisia uhkia voidaan torjua.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>árvvuid sámi kultuvrii, vejolaš fuolaid, mat laktásit sámi kultuvrra miel bargama eavttuide sihke loahpaloahpas daid vugiid, maiguin vejolaš uhkádusat sáhttet dustejuvvot.</seg>
+        <seg>dehálaš áššiid, ovdamearkkadihte guovlluid sierralágán árvvuid sámi kultuvrii, vejolaš fuolaid, mat laktásit sámi kultuvrra miel bargama eavttuide sihke loahpaloahpas daid vugiid, maiguin vejolaš uhkádusat sáhttet dustejuvvot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -281,15 +289,15 @@
         <seg>Aiemmin saamelais käräjät on laatinut hoito- ja käyttösuunnitelmien vaikutustenarvioinnin suunnitelman valmistumisen jälkeen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ovdal sámediggi lea ráhkadan dikšun- ja geavahanplánaid váikkuhusaid árvvoštallama plána gárváneami maŋŋel.</seg>
+        <seg>Ovdal sámediggi lea ráhkadan dikšun- ja geavahanplánaid váikkuhusaid árvvoštallama plána gárváneami maŋŋel. Meannudeapmi lea leamaš</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>suunnitelman sisältöön.</seg>
+        <seg>Menettely on ollut raskas ja epämieluisa, koska vaikutustenarviointi ei ole voinut vaikuttaa mitenkään suunnitelman sisältöön.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Meannudeapmi lea leamaš</seg>
+        <seg>lossat ja unohas, daningo váikkuhusaid árvvoštallan ii leat sáhttán váikkuhit motge plána sisdollui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,10 +326,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lemmenjoella 11.2.</seg>
+        <seg>Johdanto ja taustaa</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Leammis 11.2.2013</seg>
+        <seg>Bagadus ja duogáš</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,23 +409,15 @@
         <seg>Työryhmän tavoitteena oli edistää työohjelman toimeenpanoa Suomessa eri ministeriöiden ja sidosryhmien yhteistyöllä sekä</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavkku bargun lei ovddi dit ollašuhttima Suomas sierra ministeriijaid ja</seg>
+        <seg>Artikla 8(j) työryhmä on määrit tänyt artikla 8(j):n suojeleman perinteisen tie don keskeisen sisällön Suomessa: Saamelainen luonnon monimuotoisuuteen liittyvä perinteinen tieto ilmenee saamelaisessa luonnonkäytössä ja perinteisten saamelaiselinkeinojen harjoittamisessa eli poronhoidossa, kalastuksessa, metsästyksessä, keräilyssä ja käsityössä sekä luontosuhteessa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>SopS 78/1994 Yleissopimuksen artikla 8(j) mukaan ”Sopimusosapuolien tulee kansallisen lainsäädäntön-sä mukaisesti kunnioittaa, suo-jella ja ylläpitää biologisen mo-nimuotoisuuden suojelun ja kes-tävän käytön kannalta merkittä-vää alkuperäiskansojen ja perinteisen elämänmuodon omaa-vien paikallisyhteisöjen tietä-mystä, innovaatioita ja käytän-töjä, sekä edistää ja laajentaa niiden soveltamista tämän tietämyksen, innovaatioiden ja käytäntöjen omistajien luvalla ja myötävaikutuksella sekä roh-kaista tämän tietämyksen, inno-vaatioiden ja käytäntöjen käytöstä saatujen hyötyjen tasapuo-lista jakamista.”</seg>
+        <seg>SopS 78/1994 antaa osaltaan suosituksia yleissopimuksen soveltamiseksi ja toteuttamiseksi Suomessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Oktasašsoahpamuša artihkal 8(j) mielde ”Soahpamušoassebealit galget álbmotlaš lágaideaset mielde gudnejahttit, suodjalit ja bajásdoallat biologalaš máŋggahápmásašvuođa suodjaleami ja suvdilis anu dáfus mearkkašahtti álgoálbmogiid ja árbevirolaš eallinvuogi oamastan báikkálaš servošiid dieđu, sihke ovddidit ja viiddidit daid heiveheami dán dieđu, innovašuvnnaid ja geavadiid eaiggádiid lobiin ja miehtemielalaš váikkuhemiin sihke roahkásnuhttit dán dieđu, innovašuvnnaid ja geavadiid anus ožžojun ávkkiid dássebealat juohkima.” Artikla 8(j) työryhmä on määrit tänyt artikla 8(j):n suojeleman perinteisen tie don keskeisen sisällön Suomessa: Saamelainen luonnon monimuotoisuuteen liittyvä perinteinen tieto ilmenee saamelaisessa luonnonkäytössä ja perinteisten saamelaiselinkeinojen harjoittamisessa eli poronhoidossa, kalastuksessa, metsästyksessä, keräilyssä ja käsityössä sekä luontosuhteessa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>SopS 78/1994 si ja toteuttamiseksi Suomessa.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>oktasašsoahpamuša heiveheami ja ollašuhttima várás Suomas.</seg>
+        <seg>čanus joavkkuid ovttasbargguin sihke addit ávžžuhusaid oktasašsoahpamuša heiveheami ja ollašuhttima várás Suomas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,18 +478,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>The Act on Metsähallitus</seg>
+        <seg>peräiskansojen perinnetietoa käsittelevän artikla 8j:n kansallisen asiantuntijatyöryhmän loppuraportti</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>mielde bargama eavttut dorvvastuvvojit.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>1378/2004 tulee myös ottaa riittävästi huomioon biologisen monimuotoisuuden suojelu ja sen tarkoituksenmukainen lisääminen.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Meahciráđđehus galgá maid váldit dárbahassii vuhtii biologalaš máŋggahápmá saš vuođa suodjaleami ja vuogálaš lasiheami.</seg>
+        <seg>álgoálbmogiid árbedieđu gieđahalli artihkkala 8j:a álbmotlaš áššedovdibargojoavkku loahpparaporta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,26 +574,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>62/1991, § 7. Erämaa-alueita perustetaan alueiden erämaaluon</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>62/1991, § 7. Meahcceguovllut vuođđuduvvojit guovlluid</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>teen säilyttämiseksi, saamelaiskulttuurin ja luontaiselinkeinojen turvaamiseksi sekä luonnon monipuolisen käytön ja sen edellytysten kehittämiseksi (§1).</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>meahcceluonddu seailluheami várás, sámi kultuvrra ja luondduealáhusaid dorvvasteami várás sihke luonddu máŋggabeallásaš anu ja dan eavttuid gárgeheami várás (§1).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Vapaaehtoiset Akwé: Kon -ohjeet on hyväksytty bio diversiteettisopimuksen seitsemännessä osapuolikokouksessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Tavoitteena on, että Akwé: Eaktodáhtolaš Akwé: Kon -rávvagat leat dohkke huv von bio diversiteahttasoahpamuša viđat oassebealle čoak kámis.</seg>
+        <seg>Eaktodáhtolaš Akwé: Kon -rávvagat leat dohkke huv von bio diversiteahttasoahpamuša viđat oassebealle čoak kámis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +674,22 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Nuortalašlága mielde mearkkašahtti fidnuin, mat čuh cet nuortalašguvlui, galgá gullat nuortalaččaid siida čoakkáma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjeiden mukaan alkuperäiskansan edustajien tulisi osallistua hankkeen kaikkiin vaiheisiin suunnittelusta täytäntöönpanoon ja seurantaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ulbmilin lea, ahte Akwé: Kon -rávvagiid bakte ráhkaduvvolii álbmotlaččat bissovaš álgoálbmoga dohkkehan vuogádatlaš Kon -ohjeiden kautta luotaisiin kansallisesti pysyvä alkuperäiskansan hyväksymä järjestelmällinen menettely sosiaalisten, ympäristö- ja kulttuuristen näkökohtien sisällyttämiseksi suunnitteluun ja päätöksentekoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavoitteena on, että Akwé:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Akwé: Kon -rávvagiid doahttalemiin vahátlaš váikkuhusat álgoálbmogiidda sáhttet identifiseret ja vahágat sáhttet minimaliserejuvvot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -857,7 +849,7 @@
         <seg>Metsähallitus ja saamelaiskäräjät aloittivat vuonna 2010 valmistelemaan Akwé: Kon -ohjeiden soveltamista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>válmmaštallat Akwé: Kon -rávvagiid heiveheami.</seg>
+        <seg>Meahciráđđehus ja sámediggi álggaheigga jagi 2010 válmmaštallat Akwé: Kon -rávvagiid heiveheami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,47 +982,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Hammastunturin hoito- ja käyttösuunnitelman uusiminen käynnistyi vuoden 2010 lopussa.</seg>
+        <seg>saamelaiskäräjät odottaa ohjeiden testaukselta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bátneduoddara dikšun- ja geavahanplána ođasteapmi álggahuvvui jagi 2010 loahpas.</seg>
+        <seg>mearkkašumi sihke dan, maid sámediggi vuordá rávvagiid destemis.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Akwé: Kon -työryhmän jäsenille ja Metsähallituksen hoito- ja käyttösuunnitteluun osallistuville henkilöille järjestettiin infotilaisuus Akwé: Kon -ohjeista helmikuussa 2011. Tilaisuudessa saamelaiskäräjien puheenjohtaja Klemetti Näkkäläjärvi esitteli Akwé: Kon -ohjeiden merkitystä sekä sitä, mitä ta Magga, Jouni Lukkari, Juhani Länsman, Nina West, Nils Heikki Näkkäläjärvi ja Harri Hirvasvuopio.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Akwé: Kon -bargojoavkku lahtuide ja Meahciráđđehusa dikšun- ja geava han - plánii oassálasti olbmuide lágiduvvui diehto juohkindilálaš vuohta Akwé: Kon -rávvagiin guovvamánu 2011. Dilálašvuođas sámedikki ságadoalli Juvvá Lemet, Klemetti Näkkäläjärvi ovdanbuvttii Akwé: Kon -rávvagiid</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kuvassa Akwé: Kon työryhmän jäseniä.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Govas Akwé: Kon -bargojoavkku lahtut.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vasemmalta: Jouni Lukkari, Juhani Länsman, Bigga-Helena Magga ja Heikki Paltto.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Gurut bealde: Jouni Lukkari, Juhani Länsman, Bigga-Helena Magga ja Heikki Paltto.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kuva Elina Stolt.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Govva Elina Stolt.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>laiskäräjät esitteli tilaisuudessa ohjeiden tarkempaa sisältöä.</seg>
+        <seg>Saamelaiskäräjät esitteli tilaisuudessa ohjeiden tarkempaa sisältöä.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámediggi ovdanbuvttii dilálašvuođas rávvagiid dárkilit sisdoalu.</seg>
@@ -1074,6 +1034,14 @@
       </tuv>
       <tuv xml:lang="sme">
         <seg>Sámedikki ságadoalli Juvvá Lemet, Klemetti Näkkäläjärvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjeiden soveltami-nen Hammastunturin erämaa-alueen hoito- ja käyttösuunnitel-man laadinnassa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rávvagiid heiveheap-mi Bátne duoddara meahcce guovllu dikšun- ja geavahan-plána ráhkadeamis</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,6 +1158,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Perusselvitykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđočilgehusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Ohjeiden mukaan suunnitelmassa tulee tunnistaa luonnon monimuotoisuutta, saamelaisia ja alueiden käyttöä koskeva lainsäädäntö ja soveltaa niitä hoito- ja käyttösuunnitelman laadinnassa.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -1225,7 +1201,15 @@
         <seg>11 Työryhmä kävi läpi seuraavat lait ja kansainväliset sopimukset: Suomen perustuslaki (731/1999), Laki Metsähallituksesta (1378/2004), Erämaalaki (62/1991), Poronhoitolaki (848/1990), Saamen kielilaki (1086/2003), Biodiversiteettisopimus (SopS 78/1992), kansalais- ja poliittisia oikeuksia koskeva yleissopimus (KP-sopimus (SopS 7-8/1976)), artikla 27, Euroopan neuvoston vähemmistöpuitesopimus (SopS 2/1998), artikla 5, Euroopan neuvoston maisemayleissopimus SopS 14/2006), artikla 5, YK:n julistus alkuperäiskansojen oikeuksista, artiklat 11,19, 20, 26, 29, 31, 32. Lisäksi työryhmä on käsitellyt seuraavia suosituksia: YK:n rotusyrjintäkomitea, yleissuositus XXII (51) ja YK:n ihmisoikeuskomitean ratkaisukäytäntöä artikla 27 liittyen.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>11 Bargojoavku manai čađa čuovvovaš lágaid ja riikkaidgaskasaš soahpamušaid: Suoma vuođđoláhka (731/1999), Láhka meahci ráđđe husas (1378/2004), Meahcceláhka (62/1991), Boazo doallo láhka (848/1990), Sámi giellaláhka (1086/2003), Bio diversi teahtta soahpa muš (SopS 78/1992), Siviila ja politihkalaš rivttiid oktasaš soahpa muš (SP-soahpamuš (SopS 7-8/1976)), artikla 27, Eurohpa ráđi vehádat rápmasoahpamuš (SopS 2/1998), artikla 5, Eurohpa ráđi duovdda oktasašsoahpamuš SopS 14/2006), artikla 5, ON:a julggaštus álgoálbmogiid rivttiin, artiklat 11,19, 20, 26, 29, 31, 32. Dasa lassin bargojoavku lea gieđahallan čuovvovaš ávžžuhusaid: ON:a nállevealahankomitea, oppalašávžžuhus XXII (51) ja ON:a olmmošriektekomitea mearrádusgeavat, mi guoská artikla 27. Erämaa on tärkeää talvi- ja kesälaidunaluetta.</seg>
+        <seg>11 Bargojoavku manai čađa čuovvovaš lágaid ja riikkaidgaskasaš soahpamušaid: Suoma vuođđoláhka (731/1999), Láhka meahci ráđđe husas (1378/2004), Meahcceláhka (62/1991), Boazo doallo láhka (848/1990), Sámi giellaláhka (1086/2003), Bio diversi teahtta soahpa muš (SopS 78/1992), Siviila ja politihkalaš rivttiid oktasaš soahpa muš (SP-soahpamuš (SopS 7-8/1976)), artikla 27, Eurohpa ráđi vehádat rápmasoahpamuš (SopS 2/1998), artikla 5, Eurohpa ráđi duovdda oktasašsoahpamuš SopS 14/2006), artikla 5, ON:a julggaštus álgoálbmogiid rivttiin, artiklat 11,19, 20, 26, 29, 31, 32. Dasa lassin bargojoavku lea gieđahallan čuovvovaš ávžžuhusaid: ON:a nállevealahankomitea, oppalašávžžuhus XXII (51) ja ON:a olmmošriektekomitea mearrádusgeavat, mi guoská artikla 27.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitykset suunnitelmaan</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohusat plánii</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,18 +1334,42 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Työryhmä arvioi suunnitelman vaikutuksia saamelaiskulttuurille. Työryhmä kävi läpi joka kokouksessaan suunnitelman esityksiä ja sisältöä sekä niiden vaikutuksia saamelaiskulttuuriin.</seg>
+        <seg>Vaikutusten arviointi</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dikšun- ja geavahanplánas ollašuhttojuvvoje sámediggelága § 9 ráđđádallamat 20.11.2012. Ráđđádallamiin mannojuvvui čađa Akwé: Kon -rávvagiid heiveheapmi plána ráhkadeamis ja bargojoavkku dahkan evttohusaid váldimis plánii.</seg>
+        <seg>Váikkuhusaid árvvoštallan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Suunnitelman sisältöä tarkennettiin vaikutustenarvioinnin perusteella. Varsinainen, kirjallinen vaikutustenarviointi kirjoitettiin viimeisessä työryhmän kokouksessa lausuntokierroksen jälkeen.</seg>
+        <seg>Työryhmä arvioi suunnitelman vaikutuksia saamelaiskulttuurille.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ráđđádallamiid maŋŋel plána vátnojuvvui ja sáddejuvvui nannejuvvot birasministeriijai 17.12.2012. Akwé: Kon -bargojoavku lea ráhkadan čoahkkáigeasu rávvagiid heiveheamis plána ráhkadeamis.</seg>
+        <seg>Bargojoavku árvvoštalai plána váikkuhusaid sámi kultuvrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmä kävi läpi joka kokouksessaan suunnitelman esityksiä ja sisältöä sekä niiden vaikutuksia saamelaiskulttuuriin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavku manai čađa juohke čoakkámisttis plána evttohusaid ja sisdoalu sihke daid váikkuhu said sámi kultuvrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitelman sisältöä tarkennettiin vaikutustenarvioinnin perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plána sisdoallu dárkkistuvvui váikku husaid árvvoštallama vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varsinainen, kirjallinen vaikutustenarviointi kirjoitettiin viimeisessä työryhmän kokouksessa lausuntokierroksen jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Aitosaš čálalaš váikku husaid árvvoštallan čállojuvvui maŋimus bargo joavkku čoak kámis cealkinvástádusaid maŋŋel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,23 +1377,15 @@
         <seg>Vaikutustenarviointia tarkennettiin saamelaiskäräjälain § 9 neuvottelujen jälkeen, koska suunnitelmaan oli tehty tarkennuksia työryhmän esitysten pohjalta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Tabellii lea čállojuvvon čoahkkáigeassu Akwé: Kon -rávvagiid muttuin, oanehis govvádus das, mot rávvagat leat heivehuvvon Bátneduoddara plána ráhkadeamis sihke diehtu das, man čoakkámis ášši lea gieđahallon.</seg>
+        <seg>Váikkuhusaid árvvoštallan dárkkistuvvui sámediggelága § 9 ráđđádallamiid maŋŋel, daningo plánii ledje dahkkojuvvon dárkilmastimat bargojoavkku evttohusaid vuođul.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ympäristövaikutusten arvioinnista vastasi Metsähallitus.</seg>
+        <seg>Työryhmän arvion mukaan hoito- ja käyttösuunnitelma mahdollistaa saamelaisten perinteisen luonnonkäytön jatkumisen sekä perinteisen tiedon ja saamelaiskulttuurin säilymisen alueella.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Akwé: Kon -rávvagiid muttut Ollašuvvan Bátneduoddara dikšun- ja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Vaikutustenarviointi on taulukossa. Työryhmän arvion mukaan hoito- ja käyttösuunnitelma mahdollistaa saamelaisten perinteisen luonnonkäytön jatkumisen sekä perinteisen tiedon ja saamelaiskulttuurin säilymisen alueella.</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>geavahanplánas Gieđahallan bargojoavkku čoakkámis Váikkuhusaid árvvoštallanprosessii oassálasti beliid meroštallan Váikkuhusaid árvvoštallanprosessii galget oas sá lastit ee. sierra ahkejoavkkut ja sih-ke nis sonat ja dievddut ja atnit ávvira das, ahte sierra ahke- ja giellajoavkkuid ja sohka-be liid dárbbut duhtaduvvojit.</seg>
+        <seg>Birasváikkuhusaid árvvoštallama mielde dikšun- ja geavahanplána dahká vejolažžan sámi árbevirolaš luonddugeavahusa bistima sihke árbevirolaš dieđu ja sámi kultuvrra seailuma guovllu siste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1393,31 +1393,39 @@
         <seg>Työryhmä kritisoi poronhoidon määrittämistä uhaksi suunnitelmassa ja oli huolissaan Kutturan kyläläisten kalastusoikeuksien kaventumisesta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Váikku husaid árv voš tal lanorgánain galgá leat ášše dovda-muš árbevirolaš dieđus, innova šuvn nain ja geava diin.</seg>
+        <seg>Bargojoavku kritiserii boazodoalu meroštallama uhkádussan plánas ja lei fuolas Guhttura gili olbmuid guolástanvuoigatvuođaid gáržumis.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>2012. Neuvotteluissa käytiin läpi Akwé: Kon -ohjeiden soveltamista suunnitelman laadinnassa ja työryhmän tekemien esitysten ottamista suunnitelmaan.</seg>
+        <seg>Suunnitelman valmistuminen</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rávvagiid heiveheami várás vuođđuduvvui Akwé: Kon -bargojoavku.</seg>
+        <seg>Plána gárváneapmi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Neuvotteluihin osallistui työryhmän puheenjohtaja. Neuvottelujen jälkeen suunnitelma viimeisteltiin ja lähetettiin vahvistettavaksi ympäristöministeriöön 17.12.</seg>
+        <seg>Hoito- ja käyttösuunnitelmasta käytiin saamelaiskäräjälain § 9 mukaiset neuvottelut 20.11. 2012. Neuvotteluissa käytiin läpi Akwé: Kon -ohjeiden soveltamista suunnitelman laadinnassa ja työryhmän tekemien esitysten ottamista suunnitelmaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavkkus ledje bálgesiid ovddasteaddjit (Bát-neduoddara, Sámi ja Sállevári bálgesa boazoisidat) sihke eará ovddasteaddjin 3 nissona ja 2 dievddu.</seg>
+        <seg>Dikšun- ja geavahanplánas ollašuhttojuvvoje sámediggelága § 9 ráđđádallamat 20.11.2012. Ráđđádallamiin mannojuvvui čađa Akwé: Kon -rávvagiid heiveheapmi plána ráhkadeamis ja bargojoavkku dahkan evttohusaid váldimis plánii.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>2012. Akwé: Kon -työryhmä on laatinut yhteenvedon ohjeiden soveltamisesta suunnitelman laadinnassa.</seg>
+        <seg>Neuvotteluihin osallistui työryhmän puheenjohtaja.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ášši gieđahallui čakčat 2010 Akwé: Kon -ráv-vagiid heiveheami gieđahallan sámedik-ki ja Meahciráđđehusa gaskavuođa ráđđádallamiin.</seg>
+        <seg>Ráđđádallamiidda oassálasttii bargojoavkku ságadoalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Neuvottelujen jälkeen suunnitelma viimeisteltiin ja lähetettiin vahvistettavaksi ympäristöministeriöön 17.12. 2012. Akwé: Kon -työryhmä on laatinut yhteenvedon ohjeiden soveltamisesta suunnitelman laadinnassa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráđđádallamiid maŋŋel plána vátnojuvvui ja sáddejuvvui nannejuvvot birasministeriijai 17.12.2012. Akwé: Kon -bargojoavku lea ráhkadan čoahkkáigeasu rávvagiid heiveheamis plána ráhkadeamis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1425,7 +1433,15 @@
         <seg>Taulukkoon on kirjoitettu tiivistelmä Akwé: Kon -ohjeiden vaiheista, lyhyt kuvaus siitä, miten ohjeita on sovellettu Hammastunturin suunnitelman laadinnassa sekä tieto siitä, missä kokouksessa asiaa on käsitelty.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Álgoálbmogis galget sáhttit leat áššedovdiresurssat geavahusastis, vai dat sáhttá oassálastit váikkuhusaid árvvoš Ovttasbargojoavkku vuođđudeapmi Fidnu válmmaštallama várás galgá vuođđu-duvvot ovttasbargojoavku, mas lea dárbahas Dieđiheapmi ja oassálastimii fárrui váldin Fidnus galgá dieđihit áššeosolaš servošiidda ja váldit sin fárrui oassálastit plána ráhkatallanprosessii vuoiggalaš vuođu nalde.</seg>
+        <seg>Tabellii lea čállojuvvon čoahkkáigeassu Akwé: Kon -rávvagiid muttuin, oanehis govvádus das, mot rávvagat leat heivehuvvon Bátneduoddara plána ráhkadeamis sihke diehtu das, man čoakkámis ášši lea gieđahallon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taulukko: Akwé: Kon -ohjeiden soveltaminen suunnitelman laadinnassa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tabealla: Akwé: Kon -rávvagiid heiveheapmi plána ráhkadeamis</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,7 +1449,23 @@
         <seg>Akwé: Kon -ohjeiden vaiheetToteutuminen Hammastunturin hoito- ja</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Meahciráđđehus várrii resurssaid Akwé: Kon -bargojoavkku atnui.</seg>
+        <seg>Akwé: Kon -rávvagiid muttut Ollašuvvan Bátneduoddara dikšun- ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>käyttösuunnitelmassa Käsittely työryhmän kokouksessa Vaikutusten arviointiprosessiin osallistuvien tahojen määrittäminen Vaikutusten arviointiprosessiin tulee osallistua mm. eri ikäryhmiä ja sekä naisia että miehiä ja huolehtia siitä, että eri ikä- ja kieliryhmien ja sukupuolten tarpeet tulevat huomioiduksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>geavahanplánas Gieđahallan bargojoavkku čoakkámis Váikkuhusaid árvvoštallanprosessii oassálasti beliid meroštallan Váikkuhusaid árvvoštallanprosessii galget oas sá lastit ee. sierra ahkejoavkkut ja sih-ke nis sonat ja dievddut ja atnit ávvira das, ahte sierra ahke- ja giellajoavkkuid ja sohka-be liid dárbbut duhtaduvvojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikutusten arvioinnista vastaavissa elimissä on oltava perinteistä tietoa, innovaatioita ja käytäntöjä koskevaa asiantuntemusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váikku husaid árv voš tal lanorgánain galgá leat ášše dovda-muš árbevirolaš dieđus, innova šuvn nain ja geava diin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1441,7 +1473,7 @@
         <seg>Vaikutusten arviointiprosessiin osallistui pe-rinteisen tiedon asiantuntemusta ja eri ikä- ja sukupuoliryhmiä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavkku lahtuid mátkegolut gokčojuvvoje sihke máksojuvvoje čoakkánbálkkašumit.</seg>
+        <seg>Váikkuhusaid árvvoštallanprosessii oassálaste joavkkut, main lei árbevirolaš dieđu áššedovdamuš ja sii ovddaste sierra ahke- ja soahkabeliid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1449,7 +1481,7 @@
         <seg>Ohjeiden soveltamista var-ten perustettiin Akwé: Kon -työryhmä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Akwé: Kon -bargojoavkku čállái máksojuvvui buhtadus.</seg>
+        <seg>Rávvagiid heiveheami várás vuođđuduvvui Akwé: Kon -bargojoavku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1457,7 +1489,7 @@
         <seg>Työ ryhmässä oli alueen paliskuntien edustajat (Hammastunturin, Lapin ja Sallivaaran paliskuntien poroisännät) sekä muina edustajina 3 naista ja 2 miestä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dasa lassin Meahciráđđehusa bargit buvtta-de materiála bargojoavkku atnui ja oassálaste bargojoavkku čoakkámiidda. sii stuora álgoálbmogiid ovddastus.</seg>
+        <seg>Bargojoavkkus ledje bálgesiid ovddasteaddjit (Bát-neduoddara, Sámi ja Sállevári bálgesa boazoisidat) sihke eará ovddasteaddjin 3 nissona ja 2 dievddu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1465,7 +1497,7 @@
         <seg>Asiaa käsiteltiin syksyllä 2010 Akwé: Kon -ohjeiden soveltamisen valmistelua käsitelleessä saamelaiskäräjien ja Metsähallituksen välisissä neuvotteluissa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bátneduoddara plána beaivádeami válmmaštalai viiddesvuđot ovttasbargojoav-ku, mas lahttun ledje maid Akwé: Kon -bargojoavkku lahtut. deap mái proseassa buot muttuin.</seg>
+        <seg>Ášši gieđahallui čakčat 2010 Akwé: Kon -ráv-vagiid heiveheami gieđahallan sámedik-ki ja Meahciráđđehusa gaskavuođa ráđđádallamiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,7 +1505,7 @@
         <seg>Saamelaiskäräjät nimesi työryhmän jäsenet.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dieđiheapmi galgá dáhpáhuvvat sáme gillii.</seg>
+        <seg>Sámediggi nammadii bargojoavkku lahtuid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1481,7 +1513,7 @@
         <seg>Resurssien osoittaminen vaikutusten arviointiprosessiin Alkuperäiskansalle tulee osoittaa resursseja, jotta sen edustajat voivat osallistua täyspai-noisesti vaikutusten arviointiprosessiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dieđi hettiin álgoálbmogii galgá addit rievt tes dieđuid fidnoplánain ja addit vejolaš vuođa iežas oainnu ovdanbuktimii. Álgo álbmoga ovddas teddjiide galgá várret govt tolaš áiggi vuojulduvvat plánii ja várret vejolaš vuođa cealkit sin iežaset oainnu.</seg>
+        <seg>Resurssaid čujuheapmi váikkuhusaid árvvoštallanprosessii Álgoálbmogii galget čujuhuvvot resurssat, vai dan ovddasteaddjit sáhttet oassá lastit dievasmearálaččat váikkuhusaid árvvoš-tallan prosessii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1489,7 +1521,7 @@
         <seg>Alkuperäiskansalla tulee voida olla asiantuntijare-sursseja käytettävissään, jotta se voi osallistua vaikutusten arviointiprosessiin oikeudenmu-kaiselta pohjalta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Plánas lei cealkináigi miesse-geassemánu 2012. Meahciráđđehus lágidii dilálašvuođaid, main lei vejolašvuohta addit máhcahaga plánas, Menešjávrres, Guhttiris, Avvilis ja Vuohčus.</seg>
+        <seg>Álgoálbmogis galget sáhttit leat áššedovdiresurssat geavahusastis, vai dat sáhttá oassálastit váikkuhusaid árvvoš Ovttasbargojoavkku vuođđudeapmi Fidnu válmmaštallama várás galgá vuođđu-duvvot ovttasbargojoavku, mas lea dárbahas Dieđiheapmi ja oassálastimii fárrui váldin Fidnus galgá dieđihit áššeosolaš servošiidda ja váldit sin fárrui oassálastit plána ráhkatallanprosessii vuoiggalaš vuođu nalde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1497,15 +1529,15 @@
         <seg>Metsähallitus varasi resursseja Akwé: Kon -työryhmän käyttöön.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Akwé: Kon -bargojoavku attii oainnuid plánas juohke čoakkámisttis.</seg>
+        <seg>Meahciráđđehus várrii resurssaid Akwé: Kon -bargojoavkku atnui.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>palkkiot.</seg>
+        <seg>Työryhmän jäsenten matkakulut korvattiin sekä maksettiin kokous</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Čoakkámat 1–5.</seg>
+        <seg>Bargojoavkku lahtuid mátkegolut gokčojuvvoje sihke máksojuvvoje čoakkánbálkkašumit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1513,7 +1545,7 @@
         <seg>Akwé: Kon työryhmän sihteerille maksettiin korvaus.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Akwé: Kon -rávvagiid muttut Ollašuvvan Bátneduoddara dikšun- ja geavahanplánas Gieđahallan bargojoavkku čoakkámis</seg>
+        <seg>Akwé: Kon -bargojoavkku čállái máksojuvvui buhtadus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1521,15 +1553,15 @@
         <seg>Lisäksi Metsähallituksen henkilöstö tuotti materiaalia työryhmän käyttöön ja osallistui työ-ryhmän kokouksiin.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>lágat, mat gusket sápmelaččaid ja guovlluid geavahus ja dat galget heivehuvvot dikšun- ja geavahanplána ráhkadeamis.</seg>
+        <seg>Dasa lassin Meahciráđđehusa bargit buvtta-de materiála bargojoavkku atnui ja oassálaste bargojoavkku čoakkámiidda.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Yhteistyöryhmän perustaminen Hanketta valmistelemaan tulee perustaa yh-teistyöryhmä, jossa on riittävä alkuperäiskan Tiedottaminen ja osallistaminen Hankkeesta tulee tiedottaa asianosaisille yh-teisöille ja osallistuttaa heitä suunnitelman laatimiseen prosessin kaikissa vaiheissa.</seg>
+        <seg>Alku-peräiskansan edustajille tulee varata mahdollisojen edustus.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Guovddáš álbmotlaš lágat ja Suoma riikkaidgaskasaš geatnegasvuođat leat buktojuvvon ovdan Bátneduoddara plána skovis Dálá dili govvádus: 1 Plánenguovllu govvádus ja plánendilli Bargojoavku gieđahalai ášši 1 čoakkámis ja dohkkehii čuvvosa 7 miel čilgehusa lágaid geatnegasvuođain.</seg>
+        <seg>sii stuora álgoálbmogiid ovddastus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1537,15 +1569,23 @@
         <seg>Hammastunturin suunnitelman päivittämistä valmisteli laajapohjainen yhteistyöryhmä, jossa jäseninä oli myös Akwé: Kon -työryhmän jäsenet.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vuođđočilgehusaid ráhkadeapmi Vuođđočilgehusaid ráhkadeapmi guovllu máŋggahápmásašvuođas, ealánšlájain, orru-mis, luonddugeavahusas, searvvušráhkadusas, ealáhusain, bassi báikkiin;</seg>
+        <seg>Bátneduoddara plána beaivádeami válmmaštalai viiddesvuđot ovttasbargojoav-ku, mas lahttun ledje maid Akwé: Kon -bargojoavkku lahtut.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>suus osoittaa näkemyksensä myös kirjallisesti. Tiedottamisessa tulee huomioida mm. internet, sosiaalinen media, radio ja kuulemistilai-suudet.</seg>
+        <seg>suus osoittaa näkemyksensä myös kirjallisesti.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dikšun- ja geavahanplána skovis 5 govviduvvo-jit plánenguovllu ealánšlájat, skovis 6 kulturárbi, skovis 8 bivdoealáhusaid dálá dilli, skovis 10b boazodoallu ja earenoamážit sámi boazodoallu.</seg>
+        <seg>Álgo álb mo-ga ovddasteddjiide galgá várret vejolaš vuođa ovdanbuktit oainnuset maid čála lač čat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedottamisessa tulee huomioida mm. internet, sosiaalinen media, radio ja kuulemistilai-suudet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđiheamis galgá váldit vuhtii ee. interneahta, sosiála media, rádio ja gullan dilá laš-vuo đaid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1553,7 +1593,15 @@
         <seg>Tiedottamisen tulee tapahtua saamen kielellä.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavku gieđahalai ášši čoakkámiin 1–4</seg>
+        <seg>Dieđiheapmi galgá dáhpáhuvvat sáme gillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedotettaessa alkuperäiskansoille tulee antaa oikeat tiedot hankesuunnitelmista ja antaa mahdollisuus varautua oman kannan esittämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđi hettiin álgoálbmogii galgá addit rievt tes dieđuid fidnoplánain ja addit vejolaš vuođa iežas oainnu ovdanbuktimii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1561,7 +1609,7 @@
         <seg>Alkuperäiskansan edustajille tulee varata kohtuullinen aika perehtyä suunni-telmaan ja varata mahdollisuus ilmaista oma kantansa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Váikkuhusaid árvvoštallama viidodaga čielggadeapmi Dán oktavuođas čilgejuvvo, ahte leatgo plánas sosiálalaš, kultuvrralaš dehe birasváikkuhusat ja mearriduvvo váikkuhusaid árvvoštallanproseassa viidodagas.</seg>
+        <seg>Álgo álbmoga ovddas teddjiide galgá várret govt tolaš áiggi vuojulduvvat plánii ja várret vejolaš vuođa cealkit sin iežaset oainnu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1569,7 +1617,7 @@
         <seg>Alkuperäiskansojen jatkuva kuule-minen ja mahdollisuus antaa suullisesti ja kirjallisesti näkemyksiä hankkeen etenemisestä on olennaista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Dikšun- ja geavahanplánas leat váikkuhusat sámi kultuvrii ja váikkuhusaid árvvoštallan galgá dahkkot.</seg>
+        <seg>Álgoálbmogiid bistevaš gullan ja vejolašvuohta ad-dit njálm má laččat ja čálalaččat oainnuid fidnu ovdá neamis lea mávssolaš.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1577,7 +1625,15 @@
         <seg>Suunnitelma oli lausunnolla touko-kesäkuussa 2012. Metsähallitus järjesti tilaisuuksia, joissa oli mahdollista antaa palautetta suunnitelmasta Menesjärvellä, Kutturassa, Ivalossa ja Vuotsos-sa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Sámiid ruovttuguvlui ráhka-duvvon dikšun- ja geavahanplánain lea ovdal dahkkon plána gárváneami maŋŋel váik-kuhusaid árvvoštallan váikkuhusain, mat čuhcet sámi kultuvrii.</seg>
+        <seg>Plánas lei cealkináigi miesse-geassemánu 2012. Meahciráđđehus lágidii dilálašvuođaid, main lei vejolašvuohta addit máhcahaga plánas, Menešjávrres, Guhttiris, Avvilis ja Vuohčus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi internetin kautta on ollut mahdollista antaa palautetta suunnitelmasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa lassin interneahta bakte lea leamaš vejolaš addit máhcahaga plánas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1585,7 +1641,23 @@
         <seg>Tilaisuuksissa oli tulkkaus saameksi.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ovdal váikkuhusaid árvvoštallama lea dahkan sámediggi.</seg>
+        <seg>Dilálašvuođain lei dulkon sámegillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Akwé: Kon -työryhmä antoi näkemyksiä suun-nitelmasta joka kokouksessaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Akwé: Kon -bargojoavku attii oainnuid plánas juohke čoakkámisttis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokoukset 1–5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoakkámat 1–5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1593,7 +1665,7 @@
         <seg>Lainsäädännöllisten velvoitteiden tunnistaminen Suunnitelmassa tulee tunnistaa luonnon mo-nimuotoisuutta, saamelaisia ja alueiden käyttöä koskeva lainsäädäntö ja soveltaa niitä hoi-to- ja käyttösuunnitelman laadinnassa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bátneduoddara DGP:a ráhkadeami oktavuođas mearriduvvui, ahte bargojoavku ráhkada aitosaš, plánii váldojuvvot áigojuvvon váikku-husaid árvvoštallama plána váikkuhusain sámi kultuvrii cealkinjorrosa maŋŋel.</seg>
+        <seg>Lágaid geatnegasvuođaid identifiseren Plánas galgá identifiserejuvvot luonddu máŋggahápmásašvuohta; lágat, mat gusket sápmelaččaid ja guovlluid geavahus ja dat galget heivehuvvot dikšun- ja geavahanplána ráhkadeamis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1601,15 +1673,23 @@
         <seg>Keskeinen kansallinen lainsäädäntö ja Suo-men kansainväliset velvoitteet on tuotu esille Hammastunturin suunnitelman lomakkeessa Nykytilan kuvaus: 1 Suunnittelualueen kuvaus ja suunnittelutilanne Työryhmä käsitteli asiaa 1. kokouksessa ja hyväksyi liitteen 7 mukaisen selvi-tyksen lainsäädännöllisistä velvoitteista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavku gieđahalai ášši čoakkámiin 1 ja 5. Álgoálbmoga oainnuid registreren Plánii galget registrerejuvvot álgoálbmoga fuolat, uhkádusat, mat heajudivčče kultuvr-ra miel bargama eavttuid, árbevirolaš dieđu ja árbevirolaš luonddugeavahusa.</seg>
+        <seg>Guovddáš álbmotlaš lágat ja Suoma riikkaidgaskasaš geatnegasvuođat leat buktojuvvon ovdan Bátneduoddara plána skovis Dálá dili govvádus: 1 Plánenguovllu govvádus ja plánendilli Bargojoavku gieđahalai ášši 1 čoakkámis ja dohkkehii čuvvosa 7 miel čilgehusa lágaid geatnegasvuođain.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Akwé: Kon -ohjeiden vaiheetToteutuminen Hammastunturin hoito- ja käyttösuunnitelmassaKäsittely työryhmän kokouksessa</seg>
+        <seg>Perusselvitysten laatiminen Perusselvitysten laatiminen alueen luonnon monimuotoisuudesta, eliölajeista, asutukses-ta, luonnonkäytöstä, yhteisörakenteesta, elinkeinoista, pyhistä paikoista;</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Akwé: Kon -bargojoavkku evttohusat čállo juv-voje plánii dakkáražžan, jos Meahci ráđđe hus doarjjui evttohusaid.</seg>
+        <seg>Vuođđočilgehusaid ráhkadeapmi Vuođđočilgehusaid ráhkadeapmi guovllu máŋggahápmásašvuođas, ealánšlájain, orru-mis, luonddugeavahusas, searvvušráhkadusas, ealáhusain, bassi báikkiin;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ts. kokonaiskuva alueen nykytilasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ollislaš govva guovllu dálá dilis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1617,7 +1697,7 @@
         <seg>Hoito- ja käyttösuunnitelman lomakkeessa 5 kuvataan suunnittelualueen eliölajistoa, lomakkeessa 6 kulttuuriperintöä, lomakkeessa 8 erätalouden nykytilaa, lomakkeessa 10b poronhoitoa ja erityisesti saamelaista poronhoi-toa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Vejolaš bargojoavkku sierra oaivilat plána evttohusain registrere juvvoje maid plánii. Skovvái 11 (guovddáš suodja-lan- ja geavahanárvvut sihke uhkádusat) regis trerejuvvoje Akwé: Kon -bargojoavkku uv-danbuktin uhkádusat.</seg>
+        <seg>Dikšun- ja geavahanplána skovis 5 govviduvvo-jit plánenguovllu ealánšlájat, skovis 6 kulturárbi, skovis 8 bivdoealáhusaid dálá dilli, skovis 10b boazodoallu ja earenoamážit sámi boazodoallu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,7 +1705,7 @@
         <seg>Akwé: Kon työryhmä osallistui keskeisten perusselvityksien laadintaan.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Plána čuvvosii 3 čohkkejuvvoje Akwé: Kon -bargojoavkku ovdan buktin kommeanttat ja fuomášumit sihke daid váikkuhus plánii.</seg>
+        <seg>Akwé: Kon bargojoavku oassálasttii guovddáš vuođđočilgehusaid ráhkadeapmái.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1633,15 +1713,15 @@
         <seg>Työryhmä käsitteli asiaa kokouksissa 1–4</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bargojoavku gieđahalai ášši čoakkámiin 1 ja 5.</seg>
+        <seg>Bargojoavku gieđahalai ášši čoakkámiin 1–4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>nitelmalla sosiaalisia, kulttuurisia tai ympäris-töllisiä vaikutuksia ja päätetään vaikutusten arviointiprosessin laajuudesta.</seg>
+        <seg>Vaikutusten arvioinnin laajuuden selvittäminen Tässä yhteydessä selvitetään, että onko suun nitelmalla sosiaalisia, kulttuurisia tai ympäris-töllisiä vaikutuksia ja päätetään vaikutusten arviointiprosessin laajuudesta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Váikkuhusaid árvvoštallan Váikkuhusaid árvvoštallama áigge ja mearrá-dusdahkama áigge galgá álgoálbmotservoša váldit fárrui oassálastimii.</seg>
+        <seg>Váikkuhusaid árvvoštallama viidodaga čielggadeapmi Dán oktavuođas čilgejuvvo, ahte leatgo plánas sosiálalaš, kultuvrralaš dehe birasváikkuhusat ja mearriduvvo váikkuhusaid árvvoštallanproseassa viidodagas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,12 +1729,140 @@
         <seg>Hoito- ja käyttösuunnitelmalla on vaikutuksia saamelaiskulttuuriin ja vaikutustenarviointi tulee tehdä Saamelaisten kotiseutualueelle laadittavista hoito- ja käyttösuunnitelmista on aiemmin tehty suunnitelman valmistumisen jälkeen vaikutusten arviointi saamelaiskult-tuuriin kohdistuvista vaikutuksista.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Fidnu ovddasvás-tideaddji (dehege Meahciráđđehus) galgá addit Akwé: Kon -jovkui ja ovttas bargo jovkui jeavddalaš máhcahaga váikkuhus árvvoštallama ja fidnu gárganeami buot muttuin. Bargojoavku árvvoštalai juohke čoakkámisttis evttohusaid váikkuhusaid sámi kultuvrii ja plá-na dárkkistuvvui váikkuhusaid árvvoštallama vuođul.</seg>
+        <seg>Dikšun- ja geavahanplánas leat váikkuhusat sámi kultuvrii ja váikkuhusaid árvvoštallan galgá dahkkot. Sámiid ruovttuguvlui ráhka-duvvon dikšun- ja geavahanplánain lea ovdal dahkkon plána gárváneami maŋŋel váik-kuhusaid árvvoštallan váikkuhusain, mat čuhcet sámi kultuvrii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aiemmin vaikutustenarvioinnin on tehnyt saamelais-käräjät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdal váikkuhusaid árvvoštallama lea dahkan sámediggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hammastunturin HKS:n laadinnan yhteydessä päätettiin, että työryhmä laati var-sinaisen, suunnitelmaan otettavan vaikutustenarvioinnin suunnitelman vaikutuksista saa-melaiskulttuuriin lausuntokierroksen jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bátneduoddara DGP:a ráhkadeami oktavuođas mearriduvvui, ahte bargojoavku ráhkada aitosaš, plánii váldojuvvot áigojuvvon váikku-husaid árvvoštallama plána váikkuhusain sámi kultuvrii cealkinjorrosa maŋŋel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Metsähallitus arvioi suunnitelman ympäristöl-liset vaikutukset (lomake 12).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Meahciráđđehus árvvoštallá plána birasváikkuhusaid (skovvi 12).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
         <seg>Työryhmä käsitteli asiaa kokouksissa 1 ja 5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavku gieđahalai ášši čoakkámiin 1 ja 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansan näkemysten kirjaaminen Suunnitelmaan tulee kirjata alkuperäiskansan huolenaiheet, uhat, jotka heikentäisivät kulttuurin harjoittamisedellytyksiä, perinteistä tietoa ja perinteistä luonnonkäyttöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álgoálbmoga oainnuid registreren Plánii galget registrerejuvvot álgoálbmoga fuolat, uhkádusat, mat heajudivčče kultuvr-ra miel bargama eavttuid, árbevirolaš dieđu ja árbevirolaš luonddugeavahusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi suunnitelmaan tulee kirjata yhteisön omat kehittämistarpeet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dasa las-sin plánii galget registrerejuvvot servoša iežas gárgehandárbbut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitelmasta tulee näkyä, mitä esityksiä alkuperäiskansa vastustaa ja mitä tukee.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plánas galgá vuhttot, maid evttohusaid álgoálbmot vuostálastá ja maid doarju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esityksiä tulee tarkastella myös oikeudenmukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohusat galget geahčaduvvot maid vuoiggalaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Akwé: Kon -työryhmän esitykset kirjoitettiin suunnitelmaan sellaisenaan, mikäli Metsähal-litus tuki esityksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Akwé: Kon -bargojoavkku evttohusat čállo juv-voje plánii dakkáražžan, jos Meahci ráđđe hus doarjjui evttohusaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mahdolliset työryhmän eriävät näkemykset suunnitelman ehdotuksista kirjattiin myös suunnitelmaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vejolaš bargojoavkku sierra oaivilat plána evttohusain registrere juvvoje maid plánii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lomakkeeseen 11 (keskeiset suojelu- ja käyttöarvot sekä uhat) kirjattiin Akwé: Kon -työryhmän esittämiä uhkia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skovvái 11 (guovddáš suodja-lan- ja geavahanárvvut sihke uhkádusat) regis trerejuvvoje Akwé: Kon -bargojoavkku uv-danbuktin uhkádusat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suunnitelman liitteeseen 3 koottiin Akwé: Kon työryhmän esittämät kommentit ja huomiot sekä niiden vaikutus suunnitelmaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Plána čuvvosii 3 čohkkejuvvoje Akwé: Kon -bargojoavkku ovdan buktin kommeanttat ja fuomášumit sihke daid váikkuhus plánii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmä käsitteli asiaa kokouksissaan 1–5.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavku gieđahalai ášši čoakkámiin 1 ja 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaikutusten arviointi Vaikutusten arvioinnin ja päätöksenteon aika-na tulee osallistuttaa alkuperäiskansayhteisöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váikkuhusaid árvvoštallan Váikkuhusaid árvvoštallama áigge ja mearrá-dusdahkama áigge galgá álgoálbmotservoša váldit fárrui oassálastimii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hankkeesta vastaavan (eli Metsähallituksen) tulee antaa Akwé: Kon ryhmälle ja yhteistyöryhmälle säännöllistä palautetta vaikutusar-vioinnin ja hankkeen kehittymisen kaikissa vaiheissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fidnu ovddasvás-tideaddji (dehege Meahciráđđehus) galgá addit Akwé: Kon -jovkui ja ovttas bargo jovkui jeavddalaš máhcahaga váikkuhus árvvoštallama ja fidnu gárganeami buot muttuin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmä arvioi jokaisessa kokouksessaan esitysten vaikutuksia saamelaiskulttuurille ja suunnitelmaa tarkistettiin vaikutusten arvioinnin perusteella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargojoavku árvvoštalai juohke čoakkámisttis evttohusaid váikkuhusaid sámi kultuvrii ja plá-na dárkkistuvvui váikkuhusaid árvvoštallama vuođul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työryhmä käsitteli asiaa kokouksissaan 1–5.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bargojoavku gieđahalai ášši čoakkámiin 1 ja 5.</seg>
@@ -2422,6 +2630,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Tulokset ja vaikutukset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bohtosat ja váikku-husat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Akwé: Kon -ohjeiden soveltamista Hammastunturin erämaa-alueen hoito- ja käyttösuunnitelman laadinnassa on käsitelty Suomen notifikaatiossa biodiversiteettisopimuksen sihteeristölle artikla 8(j):n toimeenpanosta Suomessa.</seg>
       </tuv>
       <tuv xml:lang="sme">
@@ -2457,7 +2673,7 @@
         <seg>Metsähallitus ja Saamelaiskäräjät löysivät Hammastunturin hoidon ja käytön suunnittelussa yhteistyölleen toimivat puitteet kansainvälisestä suosituksesta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Bátneduoddara dikšun- ja geavahanplánas lei ulbmilin destet rávvagiid heivvolašvuođa dikšuma ja geavahusa plánemis.</seg>
+        <seg>Meahciráđđehus ja Sámediggi gávnnaiga Bátneduoddara dikšuma ja geavahusa plánemis iežaska ovttasbargui doaibmi rámmaid riikkaidgaskasaš ávžžuhusas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2465,7 +2681,7 @@
         <seg>Rohkean kokeilun tärkein tulos on, että suosituksen mukainen menettely on käytännössä todettu hyödylliseksi sekä saamelaisten että Metsähallituksen tahoilta.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Ulbmil joksojuvvui ja barggu áigge duddjojuvvui málle das, mot rávvagat sáhttet boahttevuođas heivehuvvot Meahciráđđehusa eanageavahusa plánenvuogádagas.</seg>
+        <seg>Roahkkadis geahččaleami deháleamos boađus lea, ahte ávžžuhusa miel meannudeap mi lea geavadis gávnnahuvvon ávkkálažžan sihke sápmelaččaid ja Meahciráđđehusa beales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2473,7 +2689,7 @@
         <seg>Tältä pohjalta on hyvä jatkaa ohjeiden soveltamista erämaiden hoidon ja käytön suunnittelussa.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>Rávvagiid heivehemiin plánema dárkilvuohta lassánii, daningo plánema vuođđun ožžojuvvui dárkilit diehtu guovllu geavaheddjiin.</seg>
+        <seg>Dán vuođu nalde lea buorre joatkit rávvagiid heiveheami meahcceguovlluid mehciid dikšuma ja geavahusa plánemis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2481,12 +2697,60 @@
         <seg>On tärkeää, että Metsähallitus jatkaa avointa ja vuorovaikutteista yhteistyötä myös kaikkien muiden erämaista kiinnostuneiden tahojen kanssa.</seg>
       </tuv>
       <tuv xml:lang="sme">
+        <seg>Lea dehálaš, ahte Meahciráđđehus joatká rabas ja vuorrováikkuhuslaš ovttasbarggu maiddái buot eará mehciin beroštuvvan beliiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olisi hyvä kehittää ohjeistuksen käytännön sovellutuksia myös muissa alueiden käytön suunnittelutehtävissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Livččii buorre gárgehit rávvagiid geavada heivehusaid maiddái eará guovllu geavahusa plánenbargguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ympäristöministeriön luonnonsuojelujohtaja Ilkka Heikkinen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Birasministeriija luonddusuodjalanhoavda Ilkka Heikkinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hammastunturin hoito- ja käyttökäyttösuunnitelmassa oli tavoitteena testata ohjeiden soveltuvuutta hoidon ja käytön suunnittelussa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bátneduoddara dikšun- ja geavahanplánas lei ulbmilin destet rávvagiid heivvolašvuođa dikšuma ja geavahusa plánemis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tavoite saavutettiin ja työn aikana luotiin malli siitä, miten ohjeita voidaan soveltaa jatkossa Metsähallituksen maankäytön suunnittelujärjestelmässä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ulbmil joksojuvvui ja barggu áigge duddjojuvvui málle das, mot rávvagat sáhttet boahttevuođas heivehuvvot Meahciráđđehusa eanageavahusa plánenvuogádagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjeiden soveltamisella suunnittelun tarkkuus lisääntyi, koska suunnittelun pohjaksi saatiin tarkempaa tietoa alueen käyttäjiltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rávvagiid heivehemiin plánema dárkilvuohta lassánii, daningo plánema vuođđun ožžojuvvui dárkilit diehtu guovllu geavaheddjiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjeiden tietopohja ja perusselvitykset laajenivat koskemaan laajemmin saamelaiskulttuuria, perinteistä tietoa ja luonnon kestävää käyttöä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
         <seg>Rávvagiid diehtovuođđu ja vuođđočilgehusat viido guoskat viidáseappot sámi kultuvrra, árbevirolaš dieđu ja luonddu suvdilis anu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Olisi hyvä kehittää ohjeistuksen käytännön sovellutuksia myös muissa alueiden käytön suunnittelutehtävissä. Ympäristöministeriön luonnonsuojelujohtaja Ilkka Heikkinen</seg>
+        <seg>Ohjeita soveltamalla luonnon monimuotoisuus ja sen suhde saamelaiskulttuuriin tuli käsiteltyä suunnitelmassa kattavammin ja prosessissa pystyttiin tunnistamaan ihmisen ja luonnon vuorovaikutus ja ihmisen toiminnan vaikutukset luontoon entistä tarkemmin.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Rávvagiid heivehemiin luonddu máŋggahápmásašvuohta ja dan gaskavuohta sámi kultuvrii gieđahallojuvvoje plánas gokčevaččabut ja proseassas baste identifiserejuvvot olbmo ja luonddu vuorrováikkuhus ja olbmo doaimma váikkuhusat lundui ovdalačča dárkileappot.</seg>
@@ -2494,7 +2758,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lausuntopalautteesta kävi ilmi, että Akwé: Kon -ohjeiden merkitys ja työryhmän rooli oli jäänyt epäsel</seg>
+        <seg>Akwé: Kon -työryhmän perustaminen lisäsi jonkin verran Hammastunturin hoito- ja käyttösuunnitelman laadinnan kustannuksia.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Akwé: Kon -bargojoavkku vuođđudeapmi lasihii muhtin veardde Bátneduoddara dikšun- ja geavahan plána ráhkadeami goasttádusaid.</seg>
@@ -2502,7 +2766,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Työryhmän kustannukset olivat vuosina 2010-2012 noin 17 000 euroa sisältäen työryhmän jäsenten matkakustannukset kokouksiin ja kokouspalkkiot, sihteerin palkkiot valmistelutyöstä sekä matkakustannukset ja kokousten muita järjestelykuluja.</seg>
+        <seg>Työryhmän kustannukset olivat vuosina 2010-2012 noin 17 000 euroa sisältäen työryhmän jäsenten matkakustannukset kokouksiin ja kokouspalkkiot, sihteerin palkkiot valmistelutyöstä sekä matkakustannukset ja kokousten muita järjestelykuluja.</seg>
       </tuv>
       <tuv xml:lang="sme">
         <seg>Bargojoavkku goast tá dusat ledje jagiid 2010-2012 sulaid 17 000 euro ja dat sisdolle bargojoavkku lahtuid mátkegoluid čoakká miidda ja čoakkánbálkkašumiid, čálli bálkkašumiid válmmaštallan barggus sihke mátkegoluid ja čoakkámiid eará lágidangoluid.</seg>
@@ -2534,10 +2798,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Akwé: Kon -työryhmän työskentelystä aiheutuvat kustannukset voivat vaihdella jatkossa merkittävästikin sen mukaan, kuinka laaja kohdealue on ja kuinka paljon erilaisia, base and baseline studies for the plan were expanded to include the Saami culture, traditional knowledge and the sustainable use of nature on a broader scale.</seg>
+        <seg>Akwé: Kon -työryhmän työskentelystä aiheutuvat kustannukset voivat vaihdella jatkossa merkittävästikin sen mukaan, kuinka laaja kohdealue on ja kuinka paljon erilaisia, the area’s users to base the plan upon.</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>šaddet, sáhttet molsašuddat boahtteáigge olunai dađi mielde, man viiddis čuozáhatguovlu lea ja man olu sierralágán, vaddásit oktii heivehahtti doaimmaiguin bargojuvvo guovllus.</seg>
+        <seg>Goasttádusat, mat Akwé: Kon -bargojoavkku bargamis šaddet, sáhttet molsašuddat boahtteáigge olunai dađi mielde, man viiddis čuozáhatguovlu lea ja man olu sierralágán, vaddásit oktii heivehahtti doaimmaiguin bargojuvvo guovllus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,18 +2942,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>kanssa lisääntyi työryhmätyöskentelyn aikana.</seg>
+        <seg>Vuorovaikutus Metsähallituksen ja alueen käyttäjien kanssa lisääntyi työryhmätyöskentelyn aikana. Akwé: Kon</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>The engagement process outlined by the Akwé: Kon Guidelines has been a good tool for cooperating with the Saami people to elaborate on these prerequisites in relation to the Hammastunturi Wilderness Area.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Akwé: Kon</seg>
-      </tuv>
-      <tuv xml:lang="sme">
-        <seg>Regional Director Jyrki Tolonen, Natural Heritage Services, Lapland ma čállima koordinerema prošeaktajoavkku čoakkámiidda ja diehtu sirdásii prošeaktajoavkku ja Akwé: Kon -bargojoavkku gaskkas.</seg>
+        <seg>The Akwé: Kon Guidelines have helped Metsähallitus to implement our legal, social obligation to guarantee the prerequisites for practising Saami culture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,10 +3030,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>suositukset</seg>
+        <seg>Loppupäätelmät ja suositukset</seg>
       </tuv>
       <tuv xml:lang="sme">
-        <seg>ávžžuhusat</seg>
+        <seg>Loahppaárvalusat ja ávžžuhusat</seg>
       </tuv>
     </tu>
     <tu>
