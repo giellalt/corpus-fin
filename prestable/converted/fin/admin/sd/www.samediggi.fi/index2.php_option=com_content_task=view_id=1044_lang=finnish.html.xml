@@ -10,11 +10,25 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1044&amp;lang=finnish</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=1044_lang=anaras.html" xml:lang="smn"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=1044_lang=davvi.html" xml:lang="sme"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=1044_lang=nuortta.html" xml:lang="sms"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1044_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1044_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1044_lang=nuortta.html"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -25,7 +39,7 @@
     <p>Utsjoella maaliskuun 25.-26. päivinä järjestetty Saamelaisnuorten taidetapahtuma oli jälleen saamelaisnuorten ja -opettajien värikäs taidonnäyte. Tapahtuman pääteemana ollut musiikki soi Utsjokisuun koulun salissa joikuna, lauluna ja räppinä, joita säestivät useat nuorten omat bändit. Saamelaiskäräjät kiittää kaikkia taidetapahtuman järjestämiseen eri tavoin osallistuneita onnistuneesta tapahtumasta!</p>
     <p>Saamelaisnuorten edustajiksi valtakunnalliseen SOUNDS-tapahtumaan Porvooseen valittiin utsjokelainen <em type="bold">Villat </em>-ryhmä ja ivalolainen <em type="bold">Čagaldahttit </em>-ryhmä. Villat-ryhmä lähtee valtakunnalliseen tapahtumaan esityksellään <em type="bold">Dan man oainnát, </em>jonka ohjaajana toimii Niilo </p>
     <p>Rasmus. Ivalon alakoulun ryhmä Čagaldahttit lähtee Porvooseen esityksellään</p>
-    <p xml:lang="sme">
+    <p>
       <em type="italic">Čagaldahttin, </em>
     </p>
     <p>jonka ohjaajina toimivat Maarit Niittyvuopio, Laura Niittyvuopio ja Hannu Huumonen.</p>
@@ -35,24 +49,24 @@
     <p>Tapahtuman tuomareina toimivat koltansaamenkielinen Anna Lumisalmi, inarinsaamenkielinen Heli Aikio ja pohjoissaamenkielinen Ailu Valle. Yksi taidetapahtuman periaatteista on, että sen kaikki esitykset ovat saamenkielisiä.</p>
     <p>Saamelaisnuorten taidetapahtuman järjesti saamelaiskäräjät yhteistyössä Utsjokisuun koulun kanssa. Tapahtumaa rahoittaa opetus- ja kulttuuriministeriö. Saamelaisnuorten taidetapahtuma on osa valtakunnallista Nuori kulttuuri -tapahtumaa. Tapahtuman tekniikasta vastasi Tuupa Records Jussi Isokosken johdolla.</p>
     <p type="title">Taidetapahtumassa stipendein palkittiin seuraavat ryhmät:</p>
-    <p xml:lang="sme"><em type="italic">Gáktenieiddat </em>: Mánu luohti  </p>
+    <p><em type="italic">Gáktenieiddat </em>: Mánu luohti  </p>
     <p>Karigasniemen koulu 6-9-vuotiaat, ohjaaja Kaaren Kitti</p>
-    <p xml:lang="sme"><em type="italic">Hearvaduottar </em>: Máttuid árbi  </p>
+    <p><em type="italic">Hearvaduottar </em>: Máttuid árbi  </p>
     <p>Hetan koulu 10-15-vuotiaat, ohjaajat Inga-Máret Gaup-Juuso ja Anne-Maria Kukkonen</p>
-    <p xml:lang="sme"><em type="italic">Janita &amp; band </em>: Iežas geaidnu  </p>
+    <p><em type="italic">Janita &amp; band </em>: Iežas geaidnu  </p>
     <p>Ivalon yläaste, 10-15-vuotiaat, ohjaaja Katri Kittilä</p>
-    <p xml:lang="nob"><em type="italic">SKT </em>: Jåågar lij jieŠlli, One of Us, Duna Duna  </p>
+    <p><em type="italic">SKT </em>: Jåågar lij jie´lli, One of Us, Duna Duna  </p>
     <p>Sevettijärven koulu, 10-15-vuotiaat, ohjaaja Erkka Antila ja Seija Sivertsen</p>
-    <p xml:lang="sme"><em type="italic">Giehtaruohttasa mánát </em>: Buot jagiáiggit  </p>
+    <p><em type="italic">Giehtaruohttasa mánát </em>: Buot jagiáiggit  </p>
     <p>Karesuvannon koulu, 10-15-vuotiaat, ohjaajat Ulla Magga ja Taina Syväjärvi</p>
-    <p xml:lang="smn"><em type="italic">Puállâm váimu </em>: Ääših maid monâttáim tuulân  </p>
+    <p><em type="italic">Puállâm váimu </em>: Ääših maid monâttáim tuulân  </p>
     <p>Ivalon lukio, 16-20-vuotiaat, ohjaaja Petra Kuuva</p>
-    <p xml:lang="sme"><em type="italic">Villat </em>: Dan man oainnát </p>
+    <p><em type="italic">Villat </em>: Dan man oainnát </p>
     <p>Utsjokisuun koulu, 16-20- vuotiaat, ohjaaja Niilo Rasmus</p>
-    <p xml:lang="sme"><em type="italic">Čagaldahttit </em>: Čagaldahttin </p>
-    <p xml:lang="smn">Ivalon alakoulu, 10-15- vuotiaat, ohjaajat Maarit Niittyvuopio, Laura Niittyvuopio ja Hannu Huumonen</p>
+    <p><em type="italic">Čagaldahttit </em>: Čagaldahttin </p>
+    <p>Ivalon alakoulu, 10-15- vuotiaat, ohjaajat Maarit Niittyvuopio, Laura Niittyvuopio ja Hannu Huumonen</p>
     <p>Katso tästä</p>
-    <p xml:lang="sma">
+    <p>
       <em type="bold">TAIDETAPAHTUMAKUVIA </em>
     </p>
     <p>, kuvat Terhi Tuovinen.</p>
