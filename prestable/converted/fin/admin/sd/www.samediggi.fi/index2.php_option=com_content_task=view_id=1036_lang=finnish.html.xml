@@ -12,8 +12,24 @@
     </availability>
     <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1036&amp;lang=finnish</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=1036_lang=anaras.html" xml:lang="smn"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=1036_lang=davvi.html" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1036_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1036_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -31,6 +47,6 @@
     <p>Hallitus päätti vastaanottaa saamelaisen parlamentaarisen neuvoston puheenjohtajuuden 1.6.2015 alkaen. Puheenjohtajuus kestää 16 kuukautta.</p>
     <p>Hallitus nimesi Kestävän kaivostoiminnan ydinryhmään varsinaiseksi jäseneksi saamelaiskäräjien puheenjohtajan ja jäsenien avustajaksi lakimiessihteerin.</p>
     <p>Hallitus päätti, että Saamelaiskäräjät osallistuu Suomen valtuuskunnan mukana alkuperäiskansa-asioiden pysyvän foorumin 14. istuntoon New Yorkissa sillä edellytyksellä, että Saamelaiskäräjien edustajalla on mahdollisuus puheenvuoroon, jossa tuodaan esille saamelaisasioiden tilanne Suomessa. Hallitus nimesi edustajaksi saamelaiskäräjien puheenjohtajan.</p>
-    <p>Lisätietoja antaa I varapuheenjohtaja Tiina Sanila-Aikio 040-7252585, Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</p>
+    <p>Lisätietoja antaa I varapuheenjohtaja Tiina Sanila-Aikio 040-7252585, </p>
   </body>
 </document>

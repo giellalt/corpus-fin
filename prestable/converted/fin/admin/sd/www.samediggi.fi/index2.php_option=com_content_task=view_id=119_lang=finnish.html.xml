@@ -11,12 +11,25 @@
       <free/>
     </availability>
     <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=119&amp;lang=finnish.html</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=119_lang=english.html" xml:lang="eng"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=119_lang=davvi.html" xml:lang="sme"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=119_lang=nuortta.html" xml:lang="sms"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=119_lang=anaras.html" xml:lang="smn"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=119_lang=english.html"/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=119_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=119_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=119_lang=nuortta.html"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -32,7 +45,7 @@
     </p>
     <p type="title">Tehtävät ja toiminta</p>
     <p>Saamelaiskäräjät ilmaisee saamelaisten virallisen kannan.  Saamelaiskäräjien tehtävänä on saamelaiskäräjälain § 6 mukaan edustaa saamelaisia tehtäviinsä kuuluvissa asioissa niin kansallisesti kuin kansainvälisestikin. Käytännössä suuri osa saamelaiskäräjien kansainvälisistä edustuksista tehdään kolmen maan saamelaiskäräjien ja Venäjän saamelaisjärjestöjen, saamelaisen parlamentaarisen neuvoston</p>
-    <p xml:lang="sma">(SPN)</p>
+    <p>(SPN)</p>
     <p>toiminnan kautta.</p>
     <p>Saamelaiskäräjät käyttää itsenäistä päätösvaltaa. Saamelaiskäräjät voi antaa esityksiä, aloitteita ja lausuntoja viranomaisille (lain § 5). Saamelaiskäräjät antaa vuosittain 60-200 erilaista aloitetta ja lausuntoa eri tahoille. Lisäksi saamelaiskäräjät nimeää edustajia useisiin eri</p>
     <p>työryhmiin</p>
@@ -61,7 +74,7 @@
     <p>työryhmän esityksestä. Esitystä kannatettiin muutamin muutosehdotuksin.</p>
     <p type="title">Saamelaisten muut edustukselliset elimet</p>
     <p>Saamelaiskäräjien lisäksi kolttasaamelaisilla on oma, erillinen yhteistyöelimensä, kolttien kyläkokous koltta-alueella. Koltta-alueeseen kuuluu osia Inarin kunnasta.</p>
-    <p xml:lang="fkv">Kolttalaki</p>
+    <p>Kolttalaki</p>
     <p>on saamelaiskäräjälaista poiketen maa- ja metsätalousministeriön alaisuudessa. Kolttalaissa säädetään mm. kolttasaamelaisten elinkeinollisista oikeuksista.</p>
     <p>Norjan saamelaisten edustuksellinen elin,</p>
     <p>saamelaiskäräjät</p>
