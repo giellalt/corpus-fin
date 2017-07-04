@@ -6,18 +6,10 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjät palkkaa kesätyöntekijöitä oppimateriaalitehtäviin</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Sämitigge pálkkáát kesipargeid</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Saamelaiskäräjät palkkaa kesätyöntekijöitä oppimateriaalitehtäviin.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sämitigge pálkkáát kesipargeid oppâmateriaalpargoid.</seg>
+        <seg>Sämitigge pálkkáát kesipargeid Sämitigge pálkkáát kesipargeid oppâmateriaalpargoid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25,7 +17,7 @@
         <seg>Vapaamuotoinen hakemus työkokemus- ja opiskelutodistuksin lähetetään Saamelaiskäräjien koulutus- ja oppimateriaalilautakunnalle helmikuun 29. päivään 2016 klo 16 mennessä.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Riijjâ uucâm vuolgâttuvvoo ohtân pargotuođâštusâigijn já oppâtuođâštusâigijn Sämitige škovlim- já oppâmateriaalävdikodán kuovâmáánu 29. peeivi 2016 tjme 16.00 räi.</seg>
+        <seg>Riijjâ uucâm vuolgâttuvvoo ohtân&amp;#13; pargotuođâštusâigijn já oppâtuođâštusâigijn Sämitige škovlim- já oppâmateriaalävdikodán&amp;#13; kuovâmáánu 29. peeivi 2016 tjme 16.00 räi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,18 +30,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Hakemuksen voi lähettää sähköpostilla osoitteeseen Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+        <seg>Hakemuksen voi lähettää sähköpostilla osoitteeseen tai postiosoitteeseen: Saamelaiskäräjät/ Koulutus- ja oppimateriaalitoimisto, Sajos, 99870 Inari.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Uuccâm puáhtá vuolgâttiđ šleđgâpostân čujottâsân Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>tai postiosoitteeseen: Saamelaiskäräjät / Koulutus- ja oppimateriaalitoimisto, Sajos, 99870 Inari.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>tâi postâčujottâsân: Sämitigge, Škovlim- já oppâmateriaaltoimâttâh, Sajos, 99870 Aanaar.</seg>
+        <seg>Uuccâm puáhtá vuolgâttiđ šleđgâpostân čujottâsân tâi postâčujottâsân:&amp;#13; Sämitigge, Škovlim- já oppâmateriaaltoimâttâh, Sajos, 99870 Aanaar.</seg>
       </tuv>
     </tu>
   </body>
