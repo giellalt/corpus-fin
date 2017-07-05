@@ -49,14 +49,6 @@
         <seg>Saamen kieliä on yhteensä kymmenen, näistä kolmea puhutaan Suomessa saamelaisten kotiseutualueella.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sämikielah láá ohtsis love, tain kulmâ sárnojeh Suomâ sämikuávluin.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Suomen saamelaiset vodaan siten kielellisesti jakaa kolmeen ryhmään: pohjoissaamelaisiin, inarinsaamelaisiin ja kolttasaamelaisiin.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
         <seg>Suomâ sämmilijd puáhtá návt kielâlávt jyehiđ kuulmâ juávkun: tavesämmiláid, aanaarsämmiláid já nuorttâsämmiláid.</seg>
       </tuv>
     </tu>
@@ -110,26 +102,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tänä päivänä kolttasaamelaiset asuvat pääosin Inarin kunnan alueella ja koltansaamen puhujien lukumäärän arvioidaan olevan n. 350.</seg>
+        <seg>Tänä päivänä kolttasaamelaiset asuvat pääosin Inarin kunnan alueella ja koltansaamen puhujien lukumäärän arvioidaan olevan n. 350. Hälyttävää koltansaamen tilanteen kannalta on se, että nuorempi sukupolvi ei ole oppinut kolttasaamea äidinkielenään.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Tááláá ääigi nuorttâsämmiliih äässih iänááš uásin Aanaar kieldâ kuávlust já nuorttâlâškielâ sárnoo lohomere nabdojeh lemin s. 350.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Hälyttävää koltansaamen tilanteen kannalta on se, että nuorempi sukupolvi ei ole oppinut kolttasaamea äidinkielenään.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Huolâstuttee nuorttâlâškielâ tile uáivilist lii tot, ete nuorâb suhâpuolvâ ij lah máttám nuorttâlâškielâ eenikielân.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kielipesätoiminta ja koltankielinen kouluopetus ovat kuitenkin jonkin verran lisänneet kielen käyttöä suomen kielen rinnalla.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Kielâpiervâltoimâ já nuorttâlâškielâlâš škovlâmáttááttâs láá kuittâg mottoom verd lasettâm kielâ kevttim suomâkielâ paaldâst.</seg>
+        <seg>Tááláá ääigi nuorttâsämmiliih äässih iänááš uásin Aanaar kieldâ kuávlust já nuorttâlâškielâ sárnoo lohomere nabdojeh lemin s. 350. Huolâstuttee nuorttâlâškielâ tile uáivilist lii tot, ete nuorâb suhâpuolvâ ij lah máttám nuorttâlâškielâ eenikielân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,23 +113,15 @@
         <seg>Inarinsaamen kieli on saamenkielistä ainoa jota puhutaan vain Suomessa ja jota on perinteisesti puhuttu vain Inarin kunnan alueella.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Anarâškielâ lii sämikielâin áinoo, mii sárnoo tuše Suomâst já mii lii ärbivuáválávt sarnum tuše Aanaar kieldâ kuávlust.</seg>
+        <seg>Kielâpiervâltoimâ já nuorttâlâškielâlâš škovlâmáttááttâs láá kuittâg mottoom verd lasettâm kielâ kevttim suomâkielâ paaldâst.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Inarinsaamen kieltä puhuvia on noin 300.</seg>
+        <seg>Inarinsaamen kieltä puhuvia on noin 300. Inarinsaamen kirjakielen asema on vahvistunut ja elpynyt viimeisten vuosien aikana kielipesätoiminnan avulla.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Anarâškielâ sárnooh láá s. 300.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Inarinsaamen kirjakielen asema on vahvistunut ja elpynyt viimeisten vuosien aikana kielipesätoiminnan avulla.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Anarâškielâ kirjekielâ sajattâh lii nanosmâm já iäláskâm majemui iivij ääigi kielâpiervâltooimâ vievâst.</seg>
+        <seg>Anarâškielâ sárnooh láá s. 300. Anarâškielâ kirjekielâ sajattâh lii nanosmâm já iäláskâm majemui iivij ääigi kielâpiervâltooimâ vievâst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,18 +134,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamen kielet ja Saamelaiskäräjät</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Sämikielah já Sämitigge</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Saamen kieli on saamelaisen alkuperäiskansan kieli.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sämikielâ lii säämi algâaalmug kielâ.</seg>
+        <seg>Sämikielah já Sämitigge Sämikielâ lii säämi algâaalmug kielâ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -313,7 +273,7 @@
         <seg>Lain tavoitteena on taata saamelaisille oikeus oikeudenmukaiseen oikeudenkäyntiin ja hyvään hallintoon kielestä riippumatta sekä se, että saamelaisten kielelliset oikeudet toteutetaan ilman, että niihin tarvitsee erikseen vedota.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Laavâ ulmen lii tähidiđ sämmiláid vuoigâdvuođâ vuoigâdvuođâlâš áášán já šiev haaldâšmân kielâst peerusthánnáá sehe tot, et sämmilij kielâlâš vuoigâdvuođah olášuttojeh nuhtán, et toid taarbâš sierâ keessiđ.</seg>
+        <seg>Laahâ kuáská puohâid Suomâst sarnum sämikielâid: tavesämikielâ, aanaarsämikielâ já nuorttâsämikielâ. Sämikuávlu staatâ tâi kieldâi virgáduvâin tâi toimâsoojijn ášástâldijn lii sämmiliist ain laavâ miäldásâš vuoigâdvuotâ valjiimis mield kevttiđ suomâkielâ tâi sämikielâ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -321,7 +281,7 @@
         <seg>Laki koskee kaikkia Suomessa puhuttavia saamen kieliä: pohjoissaamea, inarinsaamea ja koltansaamea.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Laahâ kuáská puohâid Suomâst sarnum sämikielâid: tavesämikielâ, aanaarsämikielâ já nuorttâsämikielâ.</seg>
+        <seg>Virgeomâhij almottâsah, kulluuttâsah, tiäđáttâsah já ravvuuh kalgeh leđe sämikuávlust meiddei sämikielân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,36 +289,12 @@
         <seg>Saamelaisten kotiseutualueella sijaitsevissa valtion tai kuntien virastoissa tai toimipisteissä asioidessaan saamelaisella on aina lain mukainen oikeus valintansa mukaan käyttää suomea tai saamen kieltä.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sämikuávlu staatâ tâi kieldâi virgáduvâin tâi toimâsoojijn ášástâldijn lii sämmiliist ain laavâ miäldásâš vuoigâdvuotâ valjiimis mield kevttiđ suomâkielâ tâi sämikielâ.</seg>
+        <seg>Sämikuávlust lii virgeomâhijn kenigâsvuotâ ovdediđ toimâinis sämikielâ kevttim. Kieldâlâš virgeomâheh kalgeh kevttiđ suomâkielâ paaldâst sämikielâ nuuvt vijđáht ko uáinih tom tárbulâžžân pevdikiirjijn já eres äššikiirjijn, main lii almos merhâšume.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
         <seg>Viranomaisten ilmoitusten, kuulutusten, tiedotteiden ja opasteiden tulee saamelaisten kotiseutualueella olla myös saamenkielisinä.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Virgeomâhij almottâsah, kulluuttâsah, tiäđáttâsah já ravvuuh kalgeh leđe sämikuávlust meiddei sämikielân.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaisten kotiseutualueella viranomaisilla on velvollisuus edistää toiminnassaan saamen kielen käyttämistä.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Sämikuávlust lii virgeomâhijn kenigâsvuotâ ovdediđ toimâinis sämikielâ kevttim.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kunnallisten viranomaisten tulee käyttää suomen kielen ohella harkitsemassaan laajuudessa saamen kieltä pöytäkirjoissa ja muissa asiakirjoissa, joilla on yleistä merkitystä.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Kieldâlâš virgeomâheh kalgeh kevttiđ suomâkielâ paaldâst sämikielâ nuuvt vijđáht ko uáinih tom tárbulâžžân pevdikiirjijn já eres äššikiirjijn, main lii almos merhâšume.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Lain mukaan saamelaisten kotiseutualueen valtiollisten ja kunnallisten viranomaisten on henkilöstöä palkatessaan huolehdittava siitä, että kussakin virastossa pystytään palvelemaan asiakkaita myös saamen kielellä.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Laavâ mield sämikuávlu staatâlâš já kieldâlâš virgeomâheh kalgeh pargojuávhu pálkkáttijn anneeđ huolâ tast, et jieškoteuv virgádâh pasta palvâliđ äššigâšâid meid sämikielân.</seg>
@@ -409,7 +345,7 @@
         <seg>Kielen kommunikaatioarvoa nyky-yhteiskunnassa on parannettu pari vuosikymmentä sitten käynnistyneellä kielenhuolto- ja terminologiatyöllä, jolla pyritään mm. juurruttamaan uudissanat kieleen sen omaan rakenteen mukaisina.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Kielâ kommunikaatioáárvu táálášoht ¨sâš-koddeest lii pyeredum muáddilov ihheed tassaaš jotonpieijum kielâhuolâttâs- já terminologia ¨pargoin, main viggoo ereslasseen tarvettiđ uđâssaanijd kielân ton jieijâs ráhtus miäldásâžžân.</seg>
+        <seg>Kielâ kommunikaatioáárvu táálášoht¨sâš-koddeest lii pyeredum muáddilov ihheed tassaaš jotonpieijum kielâhuolâttâs- já terminologia¨pargoin, main viggoo ereslasseen tarvettiđ uđâssaanijd kielân ton jieijâs ráhtus miäldásâžžân.</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,23 +361,15 @@
         <seg>Vuoden 2012 alusta lukien Kotimaistenkielten tutkimuskeskuksen organisaatio muuttui ja nimeksi tuli Kotimaisten kielten keskus ja uudistuksen myötä saamen kielen tutkijan virat siirrettiin Oulun yliopiston Giellagas-instituuttiin.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Ive 2012 aalgâst Päikkieennâm kielâi tutkâmkuávdáá organisaatio muttui já nommân šoodâi Päikkieennâm kielâi tutkâmkuávdáiš.</seg>
+        <seg>Ive 2012 aalgâst Päikkieennâm kielâi tutkâmkuávdáá organisaatio muttui já nommân šoodâi Päikkieennâm kielâi tutkâmkuávdáiš. Päikkieennâm kielâi kuávdáš já uđâsmittem mieldi sämikielâ totkee virgeh sirdojii Oulu ollâopâttuv Giellagas-instituutân.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Yhteispohjoismaista kieliyhteistyötä uudistetaan Interreg-rahoitteisella hankkeella 1.1.2013 - 30.6.2014.</seg>
+        <seg>Yhteispohjoismaista kieliyhteistyötä uudistetaan Interreg-rahoitteisella hankkeella 1.1.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Päikkieennâm kielâi kuávdáš já uđâsmittem mieldi sämikielâ totkee virgeh sirdojii Oulu ollâopâttuv Giellagas-instituutân.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>SÁFÁ2 – Sámi Giellagáldu- Yhteispohjoismaisen saamen kielen ammatti- ja resurssikeskuksen perustamishanke</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Ohtsâštave-eennâmlâš kielâohtsâšpargo uđâsmittoo Interreg-ruttâdlâš havváin 1.1.2013–30.6.2014.SÁFÁ2 – Yhteispohjoismaisen saamen kielen ammatti- ja resurssikeskuksen perustamishanke</seg>
+        <seg>Ohtsâštave-eennâmlâš kielâohtsâšpargo uđâsmittoo Interreg-ruttâdlâš havváin 1.1.2013–30.6.2014.</seg>
       </tuv>
     </tu>
   </body>

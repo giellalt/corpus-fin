@@ -9,14 +9,6 @@
         <seg>Sámi duodji – saamelainen käsityö</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Säämi tyeji</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sámi duodjin eli saamelaisen käsityön juuret ovat syvällä historiassa.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
         <seg>Säämi tyeje madduuh láá jieŋâlâsâst historjást.</seg>
       </tuv>
     </tu>
@@ -145,7 +137,7 @@
         <seg>Esimerkiksi pahkasta valmistettavat kuksat ja muut käyttöastiat on koverrettu pahkan omia kasvusyitä seuraillen.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Ovdâmerkkân päähist rahtum kuuvseh já eres anoliteh láá kuovzum päähi jieijâs šoddâmsáigui mield..</seg>
+        <seg>Ovdâmerkkân päähist rahtum kuuvseh já eres anoliteh láá kuovzum päähi jieijâs šoddâmsáigui mield.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,7 +246,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Poron koipi- ja kallonahoista valmistetaan lämpimiä, talviaikana käytettäviä karvakenkiä ja kintaita.</seg>
+        <seg>Vasan nahasta valmistetaan mm. lakkeja ja raavaan poron nahasta poronnahkaturkkeja eli peskejä.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Poccuu kamâsijn já kállunaahkijn kuárrojeh lieggâ sovskammuuh já kistuuh täälvi várás.</seg>
@@ -262,18 +254,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Vasan nahasta valmistetaan mm. lakkeja ja raavaan poron nahasta poronnahkaturkkeja eli peskejä.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Vyesi čeevđist kuárrojeh eres lasseen kapereh já rävis poccuu čeevđist peeskah.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Karvanpoiston, parkkiliemessä käsittelyn, puhtaaksi kaapimisen ja pehmeäksi muokkaamisen jälkeen saadaan muokattua parkkinahkaa, jota kutsutaan sisnaksi.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Navalittem, ostoliemâst kieđâvuššâm, neskim já timedem maŋa finnee timedum ostočeevđi, mii kočoduvvoo šišnen.</seg>
+        <seg>Vyesi čeevđist kuárrojeh eres lasseen kapereh já rävis poccuu čeevđist peeskah. Navalittem, ostoliemâst kieđâvuššâm, neskim já timedem maŋa finnee timedum ostočeevđi, mii kočoduvvoo šišnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,7 +310,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Käsityösanoja pohjoissaameksi:</seg>
+        <seg>Guksi - kuksa, juomakauha</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Tyejisäänih anarâškielân:</seg>
@@ -334,7 +318,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Guksi - kuksa, juomakauha</seg>
+        <seg>Golli - kulta</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Nijbe - puukko</seg>
@@ -342,7 +326,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Náhppi - naappu, poron lypsykauha</seg>
+        <seg>Gákti - puku</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Mááccuh - puku</seg>
@@ -350,7 +334,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Silba - hopea</seg>
+        <seg>Goikkehat - karvakengät</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Peskâ - peski, poroturkki</seg>
@@ -358,15 +342,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Golli - kulta</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Vaacah - lapaset</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Gákti - puku</seg>
+        <seg>Gistát - kintaat</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Kijssá - kiisa, arkku</seg>
@@ -374,7 +350,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Goikkehat - karvakengät</seg>
+        <seg>Čoarvi - sarvi</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Poovij - vyö</seg>
@@ -382,26 +358,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Gistát - kintaat</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Šišne - sisnanahka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Čoarvi - sarvi</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Tyelji - talja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Sisti - sisnanahka</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Liiŋkah:</seg>
+        <seg>Šišne - sisnanahka</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,18 +374,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Linkkejä:</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Sámi duodji Ruotâst</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Sámi duodji verkkokauppa Suomessa</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sámi duodji Taažâst</seg>
+        <seg>Sámi duodji Ruotâst Sámi duodji Taažâst</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,14 +399,6 @@
     <tu>
       <tuv xml:lang="fin">
         <seg>Saamen käsityön koulutusta Inarissa</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Säämi tyeje škovlim Anarist</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamen käsityön koulutusta Jokkmokissa</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Säämi tyeje škovlim Juhâmohheest</seg>
