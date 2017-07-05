@@ -13,8 +13,24 @@
     <submitter name="Børre Gaup" email="albbas@gmail.com"/>
     <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=197&amp;lang=finnish.html</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=197_lang=davvi.html" xml:lang="sme"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=197_lang=anaras.html" xml:lang="smn"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=197_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=197_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -51,7 +67,7 @@
     <p xml:lang="sme">John T. Solbakk &amp; Aage Solbakk 1999: - dasgo eallin gáibida min soahtái ja mii boahtit – mii boahtit dállán!/ - selve livet kalder os til kamp og vi kommer – vi kommer straks!</p>
     <p xml:lang="sme">Čálliidlágádus: www.calliidlagadus.org</p>
     <p>Saamelaisten kansallispäivä otetaan almanakkaan 2004</p>
-    <p xml:lang="eng">The Sámi Flag and Sámi PeopleŠs Day</p>
+    <p xml:lang="eng">The Sámi Flag and Sámi People´s Day</p>
     <p>Saamelaiskulttuurin ensyklopedia</p>
     <p xml:lang="sme">www.siida.fi</p>
     <p xml:lang="nno">www.calliidlagadus.org/leksikon</p>

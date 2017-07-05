@@ -12,8 +12,24 @@
     </availability>
     <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=183&amp;lang=finnish.html</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=183_lang=anaras.html" xml:lang="smn"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=183_lang=davvi.html" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=183_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=183_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -22,7 +38,7 @@
   <body>
     <p>Kulttuuriavustusten hakeminen 2009</p>
     <p>Valtion vuoden 2009 talousarvioesityksessä on esitetty 205 000 euroa saamenkielisen kulttuurin edistämiseen ja saamelaisjärjestöjen toimintaan. Saamelaiskäräjät julistaa tästä määrärahasta myönnettävät avustukset haettaviksi.</p>
-    <p>Avustushakemukset on toimitettava kulttuurilautakunnalle viimeistään 30. marraskuuta 2008 mennessä osoitteella; Saamelaiskäräjät, Kulttuurilautakunta, PL 41, 99981 UTSJOKI. Hakulomakkeita ja lisätietoja saa kulttuurisihteeriltä puh. 010 839 3103 ja fax 010 839 3131 sekä sähköpostitse Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</p>
+    <p>Avustushakemukset on toimitettava kulttuurilautakunnalle viimeistään 30. marraskuuta 2008 mennessä osoitteella; Saamelaiskäräjät, Kulttuurilautakunta, PL 41, 99981 UTSJOKI. Hakulomakkeita ja lisätietoja saa kulttuurisihteeriltä puh. 010 839 3103 ja fax 010 839 3131 sekä sähköpostitse </p>
     <p>Lomakkeet ovat myös tulostettavissa Saamelaiskäräjien verkkosivuilta osoitteessa www.samediggi.fi</p>
   </body>
 </document>
