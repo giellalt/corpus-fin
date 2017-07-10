@@ -10,15 +10,29 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=348&amp;lang=finnish.html</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=348_lang=davvi.html" xml:lang="sme"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=348_lang=anaras.html" xml:lang="smn"/>
-    <parallel_text location="" xml:lang="sms"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=348_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=348_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
   </header>
   <body>
     <p>Saamelaiskulttuurikeskuksen uusi nimikilpailu</p>
@@ -36,7 +50,7 @@
     <p>2. Kilpailun järjestäjänä toimii Saamelaiskäräjät.</p>
     <p>3. Kilpailu on kaikille avoin.</p>
     <p>4. Kilpailuaika alkaa 18.1.2010 ja päättyy 17.3.2010 klo 16.00, johon mennessä nimiehdotusten tulee olla perillä näiden sääntöjen 5. kohdassa mainitussa osoitteessa. Kilpailuajan jälkeen saapuneita ehdotuksia ei huomioida.</p>
-    <p>5. Kilpailuun osallistutaan joko postitse lähettämällä nimiehdotus ja osallistujan yhteystiedot osoitteeseen Saamelaiskäräjät, Angelintie 696, 99870 Inari tai tuomalla nimiehdotus henkilökohtaisesti taikka asiamiehen välityksellä edellä mainittuun osoitteeseen. Nimiehdotuksen sisältävään suljettuun kirjekuoreen merkitään tunnus <span type="quote" xml:lang="kal">"Nimikilpailu"</span>. Puolueettomuuden turvaamiseksi osallistujan yhteystiedot eli nimi, osoite, puhelinnumero ja sähköpostiosoite liitetään nimiehdotukseen erillisessä, suljetussa kirjekuoressa. Muulla tavoin toimitetut ehdotukset hylätään.</p>
+    <p>5. Kilpailuun osallistutaan joko postitse lähettämällä nimiehdotus ja osallistujan yhteystiedot osoitteeseen Saamelaiskäräjät, Angelintie 696, 99870 Inari tai tuomalla nimiehdotus henkilökohtaisesti taikka asiamiehen välityksellä edellä mainittuun osoitteeseen. Nimiehdotuksen sisältävään suljettuun kirjekuoreen merkitään tunnus <span type="quote">"Nimikilpailu"</span>. Puolueettomuuden turvaamiseksi osallistujan yhteystiedot eli nimi, osoite, puhelinnumero ja sähköpostiosoite liitetään nimiehdotukseen erillisessä, suljetussa kirjekuoressa. Muulla tavoin toimitetut ehdotukset hylätään.</p>
     <p>6. Henkilötietoja käsitellään vain nimikilpailun yhteydessä, eikä niitä luovuteta edelleen. Nimiehdotuksen lähettäneiden kaikki henkilötiedot hävitetään kilpailun päätyttyä.</p>
     <p>7. Kilpailuun voi osallistua useammalla kuin yhdellä ehdotuksella ja ne voi lähettää samassa kirjekuoressa.</p>
     <p>8. Nimiehdotuksen tulee olla saamenkielinen, mieluummin pohjois-, inarin- tai koltansaamenkielinen. Ehdotusta voi perustella myös suomen kielellä.</p>
@@ -50,7 +64,7 @@
     <p>12. Palkinnot a) Voittajaehdotuksen tekijä palkitaan 1 000 eurolla.</p>
     <p>b) Jos useampi osallistuja on ehdottanut samaa nimeä, palkinto jaetaan heidän kesken.</p>
     <p>13. Kilpailun järjestäjä saa kaikki oikeudet voittaneeseen ehdotukseen. Järjestäjällä on myös oikeus muuttaa tai olla käyttämättä nimeä.</p>
-    <p>14. Kilpailua koskeviin mahdollisiin kysymyksiin vastaa saamelaiskulttuurikeskushankkeen projektipäällikkö Juha Guttorm, puh. 0400-142518 ja sähköposti Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</p>
+    <p>14. Kilpailua koskeviin mahdollisiin kysymyksiin vastaa saamelaiskulttuurikeskushankkeen projektipäällikkö Juha Guttorm, puh. 0400-142518 ja sähköposti </p>
     <p>15. Kilpailua koskeva ilmoitus julkaistaan seuraavissa lehdissä; Ávvir, Lapin Kansa, Enontekiön Sanomat, Inarilainen ja Sompio. Lisäksi se on luettavissa Saamelaiskäräjien kotisivuilla www.samediggi.fi</p>
     <p>Liitteet: Saamelaiskulttuurikeskuksen arkkitehtuurikilpailun ohjelma ja kilpailun arvostelupöytäkirja sekä viimeisimmät luonnoskuvat ja –piirustukset arkkitehtuurikilpailun voittaneesta ađa –nimisestä ehdotuksesta. Liitteisiin voi tutustua Saamelaiskäräjien kotisivuilla tai käräjien päätoimistossa Inarin Riutulassa, osoite Angelintie 696.</p>
     <p>Ensimmäiseen nimikilpailuun saapuneet hyväksytyt ehdotukset</p>

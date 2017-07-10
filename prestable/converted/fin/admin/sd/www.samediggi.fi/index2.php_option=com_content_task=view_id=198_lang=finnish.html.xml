@@ -11,7 +11,12 @@
       <free/>
     </availability>
     <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
+    <multilingual>
+      <language xml:lang="smn"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="sms"/>
+      <language xml:lang="fin"/>
+    </multilingual>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=198&amp;lang=finnish.html</origFileName>
     <parallel_text xml:lang="dan" location=""/>
     <parallel_text xml:lang="eng" location=""/>
@@ -34,7 +39,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
   </header>
   <body>
     <p>Saamen suvun laulu - Sámi soga lávlla</p>
@@ -101,7 +106,7 @@
     <p xml:lang="sme">jos fal gáhttet gollegielat,</p>
     <p xml:lang="sme">muittát máttarmáttuid sáni:</p>
     <p xml:lang="sme">Sámieatnan sámiide!</p>
-    <p type="title" xml:lang="fkv">Kuuntele ja laula inarinsaameksi</p>
+    <p type="title">Kuuntele ja laula inarinsaameksi</p>
     <p xml:lang="smn">
       <em type="italic">Audio: Matti Morottaja, Ilmari Mattus, Aune Kuuva, Kirsti Ranta </em>
     </p>
@@ -163,7 +168,7 @@
     <p>
       <em type="italic">(julkaistu esittäjien luvalla) </em>
     </p>
-    <p xml:lang="sma">SÄÄʹMSOOǤǤ LAULL</p>
+    <p xml:lang="sms">SÄÄʹMSOOǤǤ LAULL</p>
     <p xml:lang="sme">~Isak Saba</p>
     <p xml:lang="sms">Säämas Sinikka Semenoja da Anni Feodoroff</p>
     <p xml:lang="sms">Kuʹǩǩen tâʹvven Juuʹse vueʹlnn,</p>
@@ -212,7 +217,7 @@
     <p xml:lang="sms">mooštak maaddârmaddji saaʹnid:</p>
     <p xml:lang="sms">Sääʹmjânnam Saaʹmi lij!</p>
     <p type="title">Sanat suomeksi</p>
-    <p xml:lang="sma">SAAMEN SUVUN LAULU</p>
+    <p xml:lang="sme">SAAMEN SUVUN LAULU</p>
     <p xml:lang="sme">~ Isak Saba suomentanut Otto Manninen</p>
     <p>Kaukaa alta seitsentähden Lapin kulma kuumottavi aava Turjan tunturisto järvi järven tuolla puolen, valtahiset harjat, huiput kohoo kohti ilman kantta, joet joikaa, korvet kaikaa, niemet pystyt, rautarinnat, työntyy tyrskymerta päin.</p>
     <p>Tuimat tääl' on talven viimat, tuulet, tuiskut määrättömät, Saamen suku sieluin, mielin silti rakastavi maitaan; kulkijalle kuudan hohtaa, roihuavat pohjanpalot, poro pärskyy koivikossa, melu täyttää järvet, jängät pulkankolke talvitiet.</p>
