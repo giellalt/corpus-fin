@@ -145,20 +145,12 @@
         <seg>(julkaistu esittäjän luvalla)</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Audio: Annukka Hirvasvuopio-Laiti</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>(julkaistu esittäjien luvalla)</seg>
-      </tuv>
-      <tuv xml:lang="smn">
         <seg>(almostittum lávloo luuvijn)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kuuntele ja laula koltansaameksi</seg>
+        <seg>Kuuntele ja laula inarinsaameksi</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Kuldâl já láávlu anarâškielân</seg>
@@ -169,7 +161,23 @@
         <seg>(julkaistu esittäjien luvalla)</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>(almostittum lávloi luuvijn)</seg>
+        <seg>mist lii stuorrâ Säämieennâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuuntele ja laula koltansaameksi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tuodâr liäbbáá tuoddâr tyehin,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(julkaistu esittäjien luvalla)</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čoheh čielgijn, čoroh čuumâin</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,47 +185,7 @@
         <seg>Sanat suomeksi</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>SÄÄMI SUUVÂ LAAVLÂ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Kaukaa alta seitsentähden Lapin kulma kuumottavi aava Turjan tunturisto järvi järven tuolla puolen, valtahiset harjat, huiput kohoo kohti ilman kantta, joet joikaa, korvet kaikaa, niemet pystyt, rautarinnat, työntyy tyrskymerta päin.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>muotâpuurgah merettemeh.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Tuimat tääl' on talven viimat, tuulet, tuiskut määrättömät, Saamen suku sieluin, mielin silti rakastavi maitaan;</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Säämi suuhâ siäloin mieláin</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>kulkijalle kuudan hohtaa, roihuavat pohjanpalot, poro pärskyy koivikossa, melu täyttää järvet, jängät pulkankolke talvitiet.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>koddee čuu ijd, karokaavpijd,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Taas kun kesäpäivän kehrä kultaa metsät, meret, rannat, kalamiehet meren, järven kultakimalteessa keinuu, kultasotkat soutaa, soiluu hopeoina Lapin virrat, välkkyy airo, vilkkuu sauvoin, miehet laskee lauleskellen kosket, könkäät, suvannot.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>viehis veriviäru väldeid.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Sortumatta Saamen heimo kestänyt on vainolaisten tapporetket, kirokaupat, viekkaat väärän veron viejät.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Tiervâ tunjin, si hes suuhâ!</seg>
+        <seg>alanedeh alme vuástá;</seg>
       </tuv>
     </tu>
     <tu>
@@ -225,7 +193,7 @@
         <seg>Terve, sitkeä sa heimo, Terve, rakas rauhan juuri, veljesriidan raastamaton, veljesveren vuotamaton Saamen heimo hiljainen!</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sijvo suuhâ sämmilâš!</seg>
+        <seg>iäccá kuittâg enâmijdis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -233,7 +201,7 @@
         <seg>Saivat esi-isät ammoin voiton väärintekijöistä.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>jis tun toolah kollekielâd, muštáh maddârijdâd sääni:</seg>
+        <seg>Má háliist láá mánutteveh, ki ordeijee kuovsâkkâsah,</seg>
       </tuv>
     </tu>
     <tu>
@@ -241,7 +209,7 @@
         <seg>Veljet, mekin torjukaamme sitkeästi sortajamme!</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Säämieennâm sämmiláid! Kuldâl já láávlu nuorttâsämikielân</seg>
+        <seg>ruoškâs, ruovgâs roo oin kulloo, juucâ jaavrijn, jolgâdâsâin,</seg>
       </tuv>
     </tu>
     <tu>
@@ -249,7 +217,7 @@
         <seg>Suku vankka Päivän poikain, ei sua voita vainolainen, kultakieltäs jos vain vaalit, taattojen jos neuvot muistat: Saamien on Saamen maa!</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Taas kun kesäpäivän kehrä</seg>
+        <seg>kerrisskaalâ maa ij mield.</seg>
       </tuv>
     </tu>
   </body>
