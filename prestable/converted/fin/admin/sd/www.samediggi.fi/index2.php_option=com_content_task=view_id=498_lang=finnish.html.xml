@@ -10,26 +10,39 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=498&amp;lang=finnish.html</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=498_lang=davvi.html" xml:lang="sme"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=498_lang=english.html" xml:lang="eng"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=498_lang=anaras.html" xml:lang="smn"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=498_lang=nuortta.html" xml:lang="sms"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=498_lang=english.html"/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=498_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=498_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=498_lang=nuortta.html"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
   </header>
   <body>
-    <p xml:lang="smn">SáFá -esiselvityshanke</p>
+    <p>SáFá -esiselvityshanke</p>
     <p>Saamelaisen parlamentaarisen neuvoston suosituksesta Suomen, Norjan ja Ruotsin saamelaiskäräjät käynnistivät vuoden 2011 alussa Interreg -rahoitteisen SáFá -esiselvityshankkeen yhteispohjoismaisen saamen kielen tutkimus- ja ammatti/resurssikeskuksen perustamiseksi.</p>
     <p>Taustalla on saamen kielten kehitys ja lisääntynyt kirjallinen käyttö, mikä on kasvattanut kielen huollon, kehittämisen, tutkimuksen sekä normittamistyön tarvetta kaikissa saamen kielissä. Yhteinen saamen kielikeskus, johon tällaiset palvelut koottaisiin, auttaisi tiedon löytämisessä. Lisäksi keskus vahvistaisi saamen kielten välistä viestintää ja yhteistyötä. Keskuksen tehtäviä olisivat mm. tutkimus, kielenkehittäminen, terminologiatyö, normitus, nimistöpalvelu, paikannimistö ja tiedotustoiminta saamen kieliammatillisissa kysymyksissä.</p>
     <p>Hankeaika on 6 kuukautta ja hankkeen määräaikaiseksi projektipäälliköksi palkattiin hum.kand. Hanna Mattila 28.3.2011 alkaen. SáFá -esiselvityshankkeen tarkoituksena on selvittää kielikeskuksen perustamis- ja rahoitusedellytykset. Tavoitteena on laatia selvitys yhteispohjoismaisen saamen kielen tutkimus- ja ammatti/resurssikeskuksen perustamiseksi ja laatia Interreg -jatkorahoitushakemus keskuksen kokeiluhanketta varten. Esiselvityshankkeen kokonaisbudjetti on 45 385€ ja päärahoittajat ovat Interreg IV A Pohjoinenn, Troms fylkeskommune, Länsstyrelsen Norrbotten ja Norjan saamelaiskäräjät.</p>
     <p>Interreg IV A Pohjoinen on EU-ohjelma, jolla tuetaan rajat ylittävää yhteistyötä ohjelmakaudella 2007-2013. Ohjelman tavoitteena on valtakunnan rajojen ylittävän yhteistyön kautta tukea taloudellista ja sosiaalista kehitystä sekä vahvistaa kilpailukykyä ja yhteenkuuluvuutta ohjelma-alueella. Ohjelma käsittää Pohjois-Ruotsin, Pohjois-Suomen ja Pohjois-Norjan sekä saamelaisalueet. Ohjelma rahoittaa rajat ylittäviä hankkeita neljällä eri prioriteettialueella, joista SáFá -esiselvityshanke kuuluu osa-ohjelmaan 4. Rajaton kehitys - Sápmi. Interreg IV A Pohjoinen ohjelman hallintoviranomaisena tällä ohjelmakaudella toimii Norrbottenin lääninhallitus.</p>
     <p>Lisätietoja:</p>
-    <p>SáFá -esiselvityshankkeen ma. projektipäällikkö Hanna Mattila Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</p>
-    <p>vs. kieliasiansihteeri Outi Paadar Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</p>
-    <p xml:lang="sms">SáFá -förstudieprojekt</p>
+    <p>SáFá -esiselvityshankkeen ma. projektipäällikkö Hanna Mattila </p>
+    <p>vs. kieliasiansihteeri Outi Paadar </p>
+    <p>SáFá -förstudieprojekt</p>
   </body>
 </document>
