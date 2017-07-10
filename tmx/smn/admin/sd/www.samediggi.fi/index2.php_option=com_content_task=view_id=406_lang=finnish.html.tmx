@@ -38,7 +38,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>195-260 henkilölle, 298 m2.</seg>
+        <seg>AUDITORIO DOLLA 195-260 henkilölle, 298 m2.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>AUDITORIO DOLLA 195-260 ulmui, 298 m2.</seg>
@@ -46,7 +46,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>70-140 henkilölle, 117 m2.</seg>
+        <seg>DOLLAGADDI-SALI 70-140 henkilölle, 117 m2.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>DOLLAGADDI-SALI 70-140 ulmui, 117 m2.</seg>
@@ -70,7 +70,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>60 henkilölle.</seg>
+        <seg>PARLAMENTTISALI SOLJU 60 henkilölle.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>PARLAMENTSALI SOLJU 60 ulmui.</seg>
@@ -86,7 +86,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>15 henkilölle, 35 m2</seg>
+        <seg>KOKOUSTILA NÁSTI 15 henkilölle, 35 m2</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>ČUÁKKIMVISTE NÁSTI 15 ulmui, 35 m2</seg>
@@ -94,7 +94,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>25 henkilölle 50 m2 (yhdistetty tila Silbasta ja Nástista)</seg>
+        <seg>KOKOUSTILA SILBANÁSTI 25 henkilölle 50 m2 (yhdistetty tila Silbasta ja Nástista)</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>ČUÁKKIMVISTE SILBANÁSTI 25 ulmui 50 m2 (ovtâstittum tile Silbast já Nástist)</seg>
@@ -102,7 +102,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>16-20 henkilölle 40 m2</seg>
+        <seg>KOKOUSTILA SISTI 16-20 henkilölle 40 m2</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>ČUÁKKIMVISTE SISTI 16-20 ulmui 40 m2</seg>
@@ -118,6 +118,38 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>MUSIIKKISTUDIO</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>MUUSIKSTUDIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>VIDEOSTUDIO</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>VIDEOSTUDIO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>AULA 300 m2.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>VÁLDUAULA 300 m2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>LUOKKAHUONEET, 3 KPL: SAAMELUOKKA, KULTTUURILUOKKA JA MEDIALUOKKA.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>LUOKKAVISTEH, 3 STK: SÄMILUOKKA, KULTTUURLUOKKA JÁ MEDIALUOKKA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Varattavissa vain koulujen kesälomien aikana.</seg>
       </tuv>
       <tuv xml:lang="smn">
@@ -126,7 +158,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>50 (+ 90) henkilölle</seg>
+        <seg>ULKOALUE</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>ŠILJOPIIRÂS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>RAVINTOLA 50 (+ 90) henkilölle</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>RAAVÂDVIÄSU GALLA, 50 ulmui</seg>
@@ -134,7 +174,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>80 henkilölle.</seg>
+        <seg>SIIDAN AUDITORIO, SAAMELAISMUSEO-LUONTOKESKUS SIIDA 80 henkilölle.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>SIIJDÂ AUDITORIO, SÄMIMUSEO-LUÁNDUKUÁVDÁŠ SIJDÂ 80 ulmui.</seg>
@@ -150,10 +190,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>AV-TEKNIKOT; Varattavissa ääni- ja / tai valoteknikot.</seg>
+        <seg>AV-TEKNIKOT;</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>AV-TEKNIKKÁREH; Väridemnáál jienâ- já / teikâ čuovâteknikkáreh.</seg>
+        <seg>AV-TEKNIKKÁREH;</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,7 +201,7 @@
         <seg>AV-teknikkoa tarvitaan mm. tulkkauskokouksissa sekä musiikki- ja teatteriesityksissä.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>tulkkumčuákkimijn sehe muusik- já teatterčájáttusâin. Teknikkáreh išedeh meid</seg>
+        <seg>tulkkumčuákkimijn sehe muusik- já teatterčájáttusâin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -169,7 +209,7 @@
         <seg>Teknikot avustavat myös peruskokoustekniikassa.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>táválâš čuákkimtekniikâst.</seg>
+        <seg>Teknikkáreh išedeh meid táválâš čuákkimtekniikâst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,18 +230,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>TILA- ja PALVELUVARAUKSET SAJOKSEN MYYNTIPALVELUSTA: Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+        <seg>TILA- ja PALVELUVARAUKSET SAJOKSEN MYYNTIPALVELUSTA: tai puh 010 839 3109.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>TILE- já PALVÂLEMVÄÄRRIDMIJD SAIJOOS VYEBDIMPALVÂLUSÂST: Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>tai puh 010 839 3109.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>teikâ puh 010 839 3109.</seg>
+        <seg>TILE- já PALVÂLEMVÄÄRRIDMIJD SAIJOOS VYEBDIMPALVÂLUSÂST: teikâ puh 010 839 3109.</seg>
       </tuv>
     </tu>
     <tu>
