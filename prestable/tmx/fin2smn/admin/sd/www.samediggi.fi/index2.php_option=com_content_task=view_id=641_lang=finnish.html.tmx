@@ -6,15 +6,15 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Missä on Saamenmaa ?</seg>
+        <seg>Missä on Saamenmaa?</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Kost lii Sämieennâm ?</seg>
+        <seg>Kost lii Sämieennâm?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>– Seminaari ja iltakonsertti Sajoksessa 2.11.2012</seg>
+        <seg>– Seminaari ja iltakonsertti Sajoksessa 2.11.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>– Seminaar já eehidkonsert Sajosist 2.11.2012</seg>
@@ -22,15 +22,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Kalevalaseura ja Saamelaisarkisto järjestävät Saamelaiskulttuurikeskus Sajoksessa kaikille avoimen seminaarin Missä on Saamenmaa ?</seg>
+        <seg>Kalevalaseura ja Saamelaisarkisto järjestävät Saamelaiskulttuurikeskus Sajoksessa kaikille avoimen seminaarin Missä on Saamenmaa?</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Kalevalaservi já Sämiarkkâdâh orniv Säämi kulttuurkuávdáš Sajosist puohháid ávus seminaar Kost lii Sämieennâm ?</seg>
+        <seg>Kalevalaservi já Sämiarkkâdâh orniv Säämi kulttuurkuávdáš Sajosist puohháid ávus seminaar Kost lii Sämieennâm?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>2.11.2012 kello: 12.00 alkaen.</seg>
+        <seg>2012 kello: 12.00 alkaen.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>2.11.2012 tijme: 12.00 rääjist.</seg>
@@ -153,12 +153,20 @@
         <seg>Ulla Piela</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>040 538 5144</seg>
+        <seg>Ulla Piela</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>www.kalevalaseura.fi</seg>
+        <seg>puh. 040 538 5144</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>puh. 040 538 5144</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suvi Kivelä</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Suvi Kivelä</seg>
@@ -166,10 +174,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+        <seg>www.facebook.com/Saamelaisarkisto</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>050 562 3676</seg>
+        <seg>www.facebook.com/Saamelaisarkisto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>puh. 050 562 3676</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>puh. 050 562 3676</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,10 +198,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
+        <seg>Anu Magga</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>050 567 2204</seg>
+        <seg>Anu Magga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>puh. 050 567 2204</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>puh. 050 567 2204</seg>
       </tuv>
     </tu>
   </body>
