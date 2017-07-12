@@ -30,10 +30,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Sanakirjan saame-suomi - osassa on yli 12.000 sanaa, suomi-saame - osassa puolestaan yli 20.000 sanaa.</seg>
+        <seg>Sanakirjan saame-suomi -osassa on yli 12.000 sanaa, suomi-saame -osassa puolestaan yli 20.000 sanaa.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sänikirje säämi-suomâ – uásist láá paijeel 12.000 säännid, suomâ-säämi – uásist vuot paijeel 20.000 säännid.</seg>
+        <seg>Sänikirje säämi-suomâ –uásist láá paijeel 12.000 säännid, suomâ-säämi –uásist vuot paijeel 20.000 säännid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49,7 +49,7 @@
         <seg>Kirjan lopussa on lueteltu mm. pohjoissaamen nominien ja verbien taivutustyypit ja annettu joitakin esimerkkejä taivutuksesta.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Kirje loopâst láá luvâttâllum el.</seg>
+        <seg>Kirje loopâst láá luvâttâllum el. tavesämikielâ nominij já veerbâi sujâttemtiijpah já adelum motomeh ovdâmeerhah suujâtmist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57,7 +57,7 @@
         <seg>Saamelais-suomalais-saamelaista sanakirjaa on kysytty paljon edellisen painoksen loputtua.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>tavesämikielâ nominij já veerbâi sujâttemtiijpah já adelum motomeh ovdâmeerhah suujâtmist.</seg>
+        <seg>Säämi-suomâ-säämi sänikirje láá koijâdâm ennuv ovdebáá teddilâs nuuhâm maŋa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65,31 +65,15 @@
         <seg>Sámi duodji-kaupasta Sajoksesta Inarista, yhdistyksen</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Säämi-suomâ-säämi sänikirje láá koijâdâm ennuv ovdebáá teddilâs nuuhâm maŋa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>tai saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta ritva.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
         <seg>Kirje lii tääl finniimist Sámi duodji-käävpist Sajosist Anarist, seervi nettikäävpist teikâ sämitige škovlim- já oppâmateriaaltoimâttuvvâst ritva.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>tammela (at) samediggi.</seg>
+        <seg>tammela(at)samediggi.fi.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>tammela (at) samediggi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>fi.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>fi.</seg>
+        <seg>tammela(at)samediggi.fi.</seg>
       </tuv>
     </tu>
   </body>

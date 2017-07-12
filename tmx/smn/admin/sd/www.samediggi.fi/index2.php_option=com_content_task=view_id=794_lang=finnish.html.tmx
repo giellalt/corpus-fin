@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tervetuloa Saamelaiskäräjien nuorisoneuvoston järjestämään saamelaisnuorten konferenssiin saamelaiskulttuurikeskus Sajokseen Inariin 6.-7.2.2014.</seg>
+        <seg>Tervetuloa Saamelaiskäräjien nuorisoneuvoston järjestämään saamelaisnuorten konferenssiin saamelaiskulttuurikeskus Sajokseen Inariin 6.-7.2.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Tiervâpuáttim Sämitige nuorâirääđi uárnim säminuorâi konfereensân säämi kulttuurkuávdáš Sajosân Anarân 6.-7.2.2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>OHJELMA</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>OHJELM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Torstai 6.2. 2014, Parlamenttisali Solju</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tuorâstâh 6.2.2014, Parlamentsali Solju</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,26 +46,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>10.00 Konferenssin avaus nuorisoneuvoston pj.</seg>
+        <seg>10.00 Konferenssin avaus nuorisoneuvoston pj. Laura-Maija Niittyvuopio</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>10.00 Konferens lekkâm nuorâirääđi sj.</seg>
+        <seg>10.00 Konferens lekkâm nuorâirääđi sj. Laura-Maija Niittyvuopio</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Laura-Maija Niittyvuopio</seg>
+        <seg>10.30 Ei vihapuheelle –liikkeen aktivistit Veeti Nevala ja Seida Sohrabi</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Laura-Maija Niittyvuopio</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>10.30 Ei vihapuheelle – liikkeen aktivistit Veeti Nevala ja Seida Sohrabi</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>10.30 Ij vajesaahân – lihâstâs aktivisteh Veeti Nevala já Seida Sohrabi</seg>
+        <seg>10.30 Ij vajesaahân –lihâstâs aktivisteh Veeti Nevala já Seida Sohrabi</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +74,14 @@
       </tuv>
       <tuv xml:lang="smn">
         <seg>11.30 Koijâdâllâm uásálisteid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>12.00 Lounas Ravintola Galla</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>12.00 Peivimäälis Raavâdviäsu Galla</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +118,18 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Perjantai 7.2.2014 Parlamenttisali Solju, tulkkaus kaikille Suomessa puhutuille saamenkielille</seg>
+        <seg>2014 Parlamenttisali Solju, tulkkaus kaikille Suomessa puhutuille saamenkielille</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Vástuppeivi 7.2.2014 Parlamentsali Solju, tulkkum puoh sämikieláid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>9.00 Kahvi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>9.00 Kähvi</seg>
       </tuv>
     </tu>
     <tu>
@@ -127,6 +151,14 @@
     <tu>
       <tuv xml:lang="fin">
         <seg>Tanja Sanila</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tanja Sanila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>34-vuotias</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>34-ihásâš</seg>
@@ -166,6 +198,22 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Mikkel Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mikkel Näkkäläjärvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>23-vuotias</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>23-ihásâš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>kone- ja tuotantotekniikan opiskelija</seg>
       </tuv>
       <tuv xml:lang="smn">
@@ -191,6 +239,14 @@
     <tu>
       <tuv xml:lang="fin">
         <seg>Aslak-Uula Länsman</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Aslak-Uula Länsman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>27-vuotias</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>27-ihásâš</seg>
@@ -238,6 +294,22 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Martta Alajärvi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Martta Alajärvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>20-vuotias</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>20-ihásâš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>kasvanut poronhoitajaperheessä Rovaniemellä</seg>
       </tuv>
       <tuv xml:lang="smn">
@@ -270,6 +342,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>12.00 Lounas Ravintola Galla</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>12.00 Peivimäälis Raavâdviäsu Galla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>13.00 Paneelin yhteenveto ja keskustelua</seg>
       </tuv>
       <tuv xml:lang="smn">
@@ -294,15 +374,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Tervetuloa !</seg>
+        <seg>Tervetuloa!</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Tiervâpuáttim !</seg>
+        <seg>Tiervâpuáttim!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Ilmoittautumiset viimeistään 24.1.2014.</seg>
+        <seg>Ilmoittautumiset viimeistään 24.1.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Almottâtmeh majemustáá 24.1.2014.</seg>
@@ -321,7 +401,7 @@
         <seg>Kaisa Tapiola-Länsman</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Laura-Maija Niittyvuopio</seg>
+        <seg>Kaisa Tapiola-Länsman</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,15 +409,55 @@
         <seg>kaisa.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>puh..</seg>
+        <seg>kaisa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>tapiola-lansman (at) samediggi.</seg>
+        <seg>tapiola-lansman(at)samediggi.fi</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>040 846 3053</seg>
+        <seg>tapiola-lansman(at)samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>puh. 050 832 5179</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>puh. 050 832 5179</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laura-Maija Niittyvuopio</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Laura-Maija Niittyvuopio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>laura.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>laura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>niittyvuopio(at)gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>niittyvuopio(at)gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>puh. 040 846 3053</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>puh. 040 846 3053</seg>
       </tuv>
     </tu>
   </body>

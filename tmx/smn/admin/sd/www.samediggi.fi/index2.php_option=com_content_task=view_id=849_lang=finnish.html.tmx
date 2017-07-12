@@ -6,18 +6,10 @@
   <body>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjät ilmoittaa haettavaksi Inarinsaamen kielenkääntäjän viran</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Sämitigge almoot uuccâmnáál Anarâškielâ kielâjurgâleijee virge</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>Saamelaiskäräjät ilmoittaa, että sen sihteeristön Saamen kielen toimistossa Inarissa on haettavana</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Sämitigge almoot uuccâmnáál sämikielâ toimâttuv fastâ</seg>
+        <seg>Sämitigge almoot uuccâmnáál Anarâškielâ kielâjurgâleijee virge Sämitigge almoot uuccâmnáál sämikielâ toimâttuv fastâ</seg>
       </tuv>
     </tu>
     <tu>
@@ -33,7 +25,7 @@
         <seg>Kielenkääntäjän toimipaikka on saamelaiskäräjien sihteeristössä Inarissa ja virka on perustettu inarinsaamen käännöstehtäviä varten.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Virge mon toimâsaje lii sämitige säällimkoddeest säämi kulttuurkuávdáš Sajosist Aanaar markkânist.</seg>
+        <seg>Virge&amp;#13; mon toimâsaje lii sämitige säällimkoddeest säämi kulttuurkuávdáš Sajosist Aanaar markkânist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,26 +46,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Palkkaus määräytyy saamelaiskäräjien palkkausjärjestelmän vaativuustasojen V / II.</seg>
+        <seg>Palkkaus määräytyy saamelaiskäräjien palkkausjärjestelmän vaativuustasojen V/II - IV/IV mukaan (peruspalkka 2 090,20 – 2 437,04 euroa/kk).</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Pälkki miärášuvá sämitige pálkkááttemvuáháduv vátávâšvuodâtaasij V / II.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>- IV.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>– IV.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>/ IV mukaan (peruspalkka 2 090,20 – 2 437,04 euroa / kk).</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>/ IV mield (vuáđupälkki 2 090,20 – 2 437,04 eurod / mp).</seg>
+        <seg>Pälkki miärášuvá sämitige pálkkááttemvuáháduv vátávâšvuodâtaasij V/II – IV/IV mield (vuáđupälkki 2 090,20 – 2 437,04 eurod/mp).</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,7 +62,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Hakemukset liitteineen tulee toimittaa saamelaiskäräjien sihteeristöön 15.5.2014 klo 16.00 mennessä osoitteella Sajos, 99870 Inari.</seg>
+        <seg>Hakemukset liitteineen tulee toimittaa saamelaiskäräjien sihteeristöön 15.5. 2014 klo 16.00 mennessä osoitteella Sajos, 99870 Inari.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Ucâmušâid lahtosijdiskuin kalga toimâttiđ sämitige čäällimkoodán 15.5.2014 tme 16.00 räi čujottâssáin Sajos, 99870 Aanaar.</seg>
@@ -94,31 +70,15 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Lisätietoja virasta antaa saamen kieliturvasihteeri Siiri Jomppanen puh.</seg>
+        <seg>Lisätietoja virasta antaa saamen kieliturvasihteeri Siiri Jomppanen puh. 050-4939 018. Saamelaiskäräjien toimintaan voi tutustua nettiosoitteessa www.samediggi.fi</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Lasetiäđuid virgeest addel säämi kielâtorvočällee Siiri Jomppanen puh..</seg>
+        <seg>Lasetiäđuid virgeest addel säämi kielâtorvočällee Siiri Jomppanen puh. 050-4939 018. Sämitige tooimân puáhtá uápásmuđ nettičujottâsât www.samediggi.fi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>050-4939 018.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>050-4939 018.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Saamelaiskäräjien toimintaan voi tutustua nettiosoitteessa www.samediggi.fi</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Sämitige tooimân puáhtá uápásmuđ nettičujottâsât www.samediggi.fi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>Inarissa 11.4.2014 Saamelaiskäräjät</seg>
+        <seg>2014 Saamelaiskäräjät</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Anarist 11.4.2014 Sämitigge</seg>

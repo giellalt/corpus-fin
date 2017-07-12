@@ -65,7 +65,7 @@
         <seg>Käsityöpajat toteutetaan yhteistyössä Sajoksessa sijaitsevan saamen käsitöiden kaupan, Duodji Shopin kanssa.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Kietâtyejipáájáid olášutteh oovtâstpargoost Sajosist leijee Duodji Shop - kavppijn.</seg>
+        <seg>Kietâtyejipáájáid olášutteh oovtâstpargoost Sajosist leijee Duodji Shop -kavppijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89,7 +89,7 @@
         <seg>Myös nykyaikana käsitöiden perinteet ovat luonnonmateriaaleissa, käsityöt tehdään vanhan perinteen mukaan soveltaen uusiin työmenetelmiin ja uuteen käyttöön alueittain.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Meid tááláá ääigi kietâtuojij ärbivyevih láá luánduamnâsijn, kietâtuojijd rähtih puáris ärbivyevi mield heiviitmáin uđđâ pargovuovvijd já uđđâ kiävtun kuávlui mield..</seg>
+        <seg>Meid tááláá ääigi kietâtuojij ärbivyevih láá luánduamnâsijn, kietâtuojijd rähtih puáris ärbivyevi mield heiviitmáin uđđâ pargovuovvijd já uđđâ kiävtun kuávlui mield.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,7 +118,7 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Sajoksen käsityöpajat toteutetaan ajalla 1.7. - 15.8.2014 arkisin klo 11–17.</seg>
+        <seg>Sajoksen käsityöpajat toteutetaan ajalla 1.7.</seg>
       </tuv>
       <tuv xml:lang="smn">
         <seg>Saijoos kietâtyejipáájáid olášutteh 1.7. - 15.8.2014 koskâsii ääigi argâpeeivij tme 11-17.</seg>
@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
+        <seg>Duodji shop: ma-pe klo 10-17</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Duodji shop: vu-vá tme 10-17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
         <seg>Saamelaiskirjasto: ma-ti klo 13–19, ke-to klo 10–17, pe 10–16</seg>
       </tuv>
       <tuv xml:lang="smn">
@@ -158,18 +166,10 @@
     </tu>
     <tu>
       <tuv xml:lang="fin">
-        <seg>Johanna Alatorvinen, markkinointipäällikkö, Saamelaiskulttuurikeskus Sajos, Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>Johanna Alatorvinen, markkânistemhovdâ, Säämi kulttuurkuávdáš Sajos, Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
         <seg>, puh 010 839 3109, www.sajos.fi</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>, puh 010 839 3109, www.sajos.fi</seg>
+        <seg>Johanna Alatorvinen, markkânistemhovdâ, Säämi kulttuurkuávdáš Sajos,, puh 010 839 3109, www.sajos.fi</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,23 +177,7 @@
         <seg>Aune Musta, toimitusjohtaja, Duodji Shop, Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
       </tuv>
       <tuv xml:lang="smn">
-        <seg>Aune Musta, toimâttâsjođetteijee, Duodji Shop, Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>, puh.</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>, puh..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="fin">
-        <seg>0400-637178, www.samiduodji.com</seg>
-      </tuv>
-      <tuv xml:lang="smn">
-        <seg>0400-637178, www.samiduodji.com</seg>
+        <seg>Aune Musta, toimâttâsjođetteijee, Duodji Shop,, puh. 0400-637178, www.samiduodji.com</seg>
       </tuv>
     </tu>
   </body>
