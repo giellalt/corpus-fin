@@ -10,15 +10,29 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=958&amp;lang=finnish.html</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=958_lang=davvi.html" xml:lang="sme"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=958_lang=anaras.html" xml:lang="smn"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=958_lang=english.html" xml:lang="eng"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=958_lang=english.html"/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=958_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=958_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
   </header>
   <body>
     <p>Duodjikirpputori ja duodjimarkkinat Sajoksessa 12.–13. joulukuuta 2014</p>
@@ -34,6 +48,6 @@
     <p>Markkinoiden aikana Ravintola Lyemessä on tarjolla markkinaruokailu pienempään ja isompaan nälkään.</p>
     <p><em type="italic">Vielä ehtii ilmoittautua myyjäksi kirpputorille tai markkinoille! </em> </p>
     <p><em type="italic">Lisätietoa ja ilmoittautumiset: </em> </p>
-    <p>sähköpostilla Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen. tai puhelimitse +358 50 382 5179.</p>
+    <p>sähköpostilla  tai puhelimitse +358 50 382 5179.</p>
   </body>
 </document>

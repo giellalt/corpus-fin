@@ -10,15 +10,29 @@
     <availability>
       <free/>
     </availability>
-    <multilingual/>
     <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=845&amp;lang=finnish.html</origFileName>
-    <parallel_text location="index2.php_option=com_content_task=view_id=845_lang=nuortta.html" xml:lang="sms"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=845_lang=anaras.html" xml:lang="smn"/>
-    <parallel_text location="index2.php_option=com_content_task=view_id=845_lang=davvi.html" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location=""/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=845_lang=davvi.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=845_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=845_lang=nuortta.html"/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
   </header>
   <body>
     <p>Saamenkielisiin sosiaali- ja terveyspalveluihin ja päivähoitoon 600 000 €</p>
@@ -32,7 +46,7 @@
     <p>
       <em type="italic">Enontekiön kunnan saamenkielisten sosiaali- ja terveyspalvelujen ja päivähoidon turvaamiseen yhteensä 81 504,40 euroa: </em>
     </p>
-    <p xml:lang="nno"/>
+    <p/>
     <p>
       <em type="italic">- Saamenkielisen päivähoidon turvaaminen Hetassa 14 201,18 € </em>
     </p>
@@ -68,6 +82,6 @@
     <p>- Hoivatyöntekijä 27 160,50 €</p>
     <p>- Saamenkielinen toiminnanohjaaja 18 953,50 €</p>
     <p>- Saamenkielinen terveydenhoitaja 22 963,50 €</p>
-    <p>Lisätietoja: Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät, 040-7262688, Tämä sähköpostiosoite on suojattu roskapostia vastaan, aseta javascripttuki päälle nähdäksesi osoitteen.</p>
+    <p>Lisätietoja: Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät, 040-7262688, </p>
   </body>
 </document>
