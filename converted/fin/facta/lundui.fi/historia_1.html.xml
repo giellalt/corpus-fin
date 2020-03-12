@@ -1,0 +1,224 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Sevettijärven-Näätämön alueen historia - Luontoon.fi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>586</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://www.luontoon.fi/sevettijarvi-naatamo/historia</origFileName>
+    <parallel_text xml:lang="eng" location="history_2.html"/>
+    <parallel_text xml:lang="sme" location="historja_20.html"/>
+    <parallel_text xml:lang="sms" location="histoor.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p>Avaa Valikko</p>
+    <list>
+      <p type="listitem">In English</p>
+      <p type="listitem">På svenska</p>
+      <p type="listitem">Anarâškielâ</p>
+      <p type="listitem">Davvisámegiella</p>
+      <p type="listitem">中文</p>
+      <p type="listitem">По-русски</p>
+    </list>
+    <p type="title">Sevettijärvi-Näätämö</p>
+    <list>
+      <p type="listitem">Aktiviteetit</p>
+      <p type="listitem">Historia</p>
+      <p type="listitem">Kartat ja kulkuyhteydet</p>
+      <p type="listitem">Luonto</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut</p>
+      <p type="listitem">Reitit</p>
+      <p type="listitem">Lisätietoja</p>
+    </list>
+    <p type="title">Retkikohteet</p>
+    <list>
+      <p type="listitem">Kansallispuistot</p>
+      <p type="listitem">Maailmanperintökohteet</p>
+      <p type="listitem">Retkeilyalueet</p>
+      <p type="listitem">Erämaa-alueet</p>
+      <p type="listitem">Muut luontokohteet</p>
+      <p type="listitem">Luontokeskukset</p>
+      <p type="listitem">Vaellusreitit</p>
+      <p type="listitem">Historiakohteet</p>
+      <p type="listitem">Tuvat</p>
+      <p type="listitem">Esteettömät kohteet</p>
+    </list>
+    <list>
+      <p type="listitem">Alkkianvuori</p>
+      <p type="listitem">Aulanko</p>
+      <p type="listitem">Auttiköngäs</p>
+      <p type="listitem">Elimyssalo</p>
+      <p type="listitem">Espoonlahti</p>
+      <p type="listitem">Etelä-Sydänmaa</p>
+      <p type="listitem">Hailuoto</p>
+      <p type="listitem">Harola</p>
+      <p type="listitem">Hepoköngäs</p>
+      <p type="listitem">Herankaira</p>
+      <p type="listitem">Hetta</p>
+      <p type="listitem">Hirvisuo</p>
+      <p type="listitem">Hämeenkangas</p>
+      <p type="listitem">Iivaara</p>
+      <p type="listitem">Ilmakkiaapa</p>
+      <p type="listitem">Iso-Palonen - Maariansärkät</p>
+      <p type="listitem">Jauhovaara</p>
+      <p type="listitem">Jonkerinsalo</p>
+      <p type="listitem">Jouhteninen</p>
+      <p type="listitem">Julma-Ölkky</p>
+      <p type="listitem">Julunkivi</p>
+      <p type="listitem">Juortanansalo-Lapinsuo</p>
+      <p type="listitem">Jämäsvaara</p>
+      <p type="listitem">Järvisen aihkikko</p>
+      <p type="listitem">Kaihuanvaara ja Kivalot</p>
+      <p type="listitem">Kakonsalo</p>
+      <p type="listitem">Karkali</p>
+      <p type="listitem">Karoliinanportaat</p>
+      <p type="listitem">Kermajärvi</p>
+      <p type="listitem">Kevo</p>
+      <p type="listitem">Kieverrysjärvet</p>
+      <p type="listitem">Kilpelänkangas</p>
+      <p type="listitem">Koitajoki</p>
+      <p type="listitem">Kolvananuuro</p>
+      <p type="listitem">Komio</p>
+      <p type="listitem">Korouoma</p>
+      <p type="listitem">Koskeljärvi</p>
+      <p type="listitem">Kulhanvuori</p>
+      <p type="listitem">Kurimonkoski</p>
+      <p type="listitem">Laahtanen</p>
+      <p type="listitem">Laajalahti</p>
+      <p type="listitem">Langinkoski</p>
+      <p type="listitem">Lauttavaara</p>
+      <p type="listitem">Lenholm</p>
+      <p type="listitem">Lentua</p>
+      <p type="listitem">Levaneva</p>
+      <p type="listitem">Liimanninkoski</p>
+      <p type="listitem">Liminganlahti</p>
+      <p type="listitem">Litokaira</p>
+      <p type="listitem">Luiron suot</p>
+      <p type="listitem">Malla</p>
+      <p type="listitem">Martimoaapa</p>
+      <p type="listitem">Martinselkonen</p>
+      <p type="listitem">Medvastö-Stormossen</p>
+      <p type="listitem">Melkuttimet</p>
+      <p type="listitem">Miekojärvi</p>
+      <p type="listitem">Mietoistenlahti</p>
+      <p type="listitem">Mujejärvi</p>
+      <p type="listitem">Murhisalo</p>
+      <p type="listitem">Mustasaarenkeidas</p>
+      <p type="listitem">Neitvuori-Luonteri</p>
+      <p type="listitem">Nellim</p>
+      <p type="listitem">Näränkä</p>
+      <p type="listitem">Olvassuo</p>
+      <p type="listitem">Omenojärvi</p>
+      <p type="listitem">Otajärvi</p>
+      <p type="listitem">Paistjärvi</p>
+      <p type="listitem">Paljakka</p>
+      <p type="listitem">Paukaneva</p>
+      <p type="listitem">Perämeren saaret</p>
+      <p type="listitem">Peurajärvi</p>
+      <p type="listitem">Pieni Ritojärvi</p>
+      <p type="listitem">Pihlajavesi</p>
+      <p type="listitem">Pinkjärvi</p>
+      <p type="listitem">Pirunkirkko</p>
+      <p type="listitem">Pisa</p>
+      <p type="listitem">Pukala</p>
+      <p type="listitem">Punkaharju</p>
+      <p type="listitem">Puula ja Kyyvesi</p>
+      <p type="listitem">Pääjärvi</p>
+      <p type="listitem">Raesärkät</p>
+      <p type="listitem">Rahja</p>
+      <p type="listitem">Reposuo</p>
+      <p type="listitem">Riuttaskorpi</p>
+      <p type="listitem">Ruostejärvi</p>
+      <p type="listitem">Ruunaan luonnonsuojelualue</p>
+      <p type="listitem">Ryövärinkuoppa</p>
+      <p type="listitem">Saaren kansanpuisto</p>
+      <p type="listitem">Saarijärvi, Hyrynsalmi</p>
+      <p type="listitem">Saarijärvi, Puolanka</p>
+      <p type="listitem">Saariselkä</p>
+      <p type="listitem">Sallatunturi</p>
+      <p type="listitem">Saltfjärden</p>
+      <p type="listitem">Sevettijärvi-Näätämö</p>
+      <p type="listitem">Siikalahti</p>
+      <p type="listitem">Siikaneva</p>
+      <p type="listitem">Siikavaara</p>
+      <p type="listitem">Simojärvi ja Soppana</p>
+      <p type="listitem">Simpsiö</p>
+      <p type="listitem">Sininen polku</p>
+      <p type="listitem">Soiperoinen</p>
+      <p type="listitem">Sompio</p>
+      <p type="listitem">Suvasvesi</p>
+      <p type="listitem">Syväjärvi</p>
+      <p type="listitem">Säynäjäsuo-Matalasuo</p>
+      <p type="listitem">Talaskangas</p>
+      <p type="listitem">Teerisuo-Lososuo</p>
+      <p type="listitem">Telkkämäki</p>
+      <p type="listitem">Teuravuoma-Kivijärvenvuoma</p>
+      <p type="listitem">Tiilitehtaanmäki-Pohjoislahti</p>
+      <p type="listitem">Täktomin merenlahdet</p>
+      <p type="listitem">Uddskatan</p>
+      <p type="listitem">Ukkohalla-Vorlokki</p>
+      <p type="listitem">Ukonsärkkä</p>
+      <p type="listitem">Unarinköngäs</p>
+      <p type="listitem">Utsjoki</p>
+      <p type="listitem">Vaarunvuoret</p>
+      <p type="listitem">Vaisakko</p>
+      <p type="listitem">Valtavaara-Pyhävaara</p>
+      <p type="listitem">Vehoniemenharju</p>
+      <p type="listitem">Viiankiaapa</p>
+      <p type="listitem">Ystävyyden puisto</p>
+      <p type="listitem">Älänne</p>
+      <p type="listitem">Änäkäinen</p>
+      <p type="listitem">Ärjänsaari</p>
+      <p type="listitem">Öjen</p>
+    </list>
+    <list>
+      <p type="listitem">Aktiviteetit</p>
+      <p type="listitem">Historia</p>
+      <p type="listitem">Kartat ja kulkuyhteydet</p>
+      <p type="listitem">Luonto</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut</p>
+      <p type="listitem">Reitit</p>
+      <p type="listitem">Lisätietoja</p>
+    </list>
+    <p>Sevettijärven-Näätämön sivut</p>
+    <p type="title">Sevettijärvi-Näätämö</p>
+    <list>
+      <p type="listitem">Aktiviteetit</p>
+      <p type="listitem">Historia</p>
+      <p type="listitem">Kartat ja kulkuyhteydet</p>
+      <p type="listitem">Luonto</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut</p>
+      <p type="listitem">Reitit</p>
+      <p type="listitem">Lisätietoja</p>
+    </list>
+    <p type="title">Sevettijärven-Näätämön alueen historia</p>
+    <p type="title">Sevettijärvi - kolttakulttuurin keskus</p>
+    <p>Sevettijärvi on kolttasaamelaisuuden keskuspaikka Suomen saamelaisalueella asukasmääränsä sekä kulttuurin ja perinteen säilymisen puolesta. Sevettijärvi sijaitsee koltta-alueella. Koltta-alue perustettiin lakisääteisesti Inarin kunnan itäosiin 1940-luvun lopulla. Alueen sisällä asutus keskittyy Sevettijärven lisäksi Nellimiin ja Keväjärvelle. Koltta-alueella asuvilla koltilla on kotiseudullaan erityisiä oikeuksia, kuten vapaa kalastusoikeus valtionvesillä ja oikeus sijoittaa kala- ja metsästyspirttejä valtionmaalle.</p>
+    <p type="title">Kolttasaamelaisten historia</p>
+    <p>Kolttasaamelaiset kuuluvat saamelaisten itäiseen ryhmään, johon myös inarinsaamelaiset kuuluvat. Perinteiset elinkeinot olivat kalastuksen lisäksi poronhoito ja metsästys. Koltat asuivat siidoissa, jotka olivat perheiden ja sukujen muodostamia tiiviitä yhteisöjä. Kalastus oli pääelinkeino, ja sukujen ja perheiden asuinpaikat olivat järvien lähellä. Suvut muuttivat kalastusmahdollisuuksien mukaan vuodenkierron myötä alueelta toiselle: heillä oli erikseen kevät-, kesä- ja syyspaikat. Talveksi kokoonnuttiin yhteiseen talvikylään, jonka keskustassa oli rukoushuone.</p>
+    <p>Talvisodan sytyttyä Petsamossa asuneet kolttasaamelaiset evakuoitiin Suomen sisäosiin. Kun Suomen raja siirtyi, perustettiin Suonikylän talvikylän koltille asutuskeskittymä Sevettijärvelle. Muut koltat sijoitettiin Nellimiin ja Keväjärvelle. Muuton myötä vuotuiskierto kesä- ja talvikylien välillä loppui ja rajan taakse jäi myös perinteisiä kalavesiä ja poromaita.</p>
+    <p type="title">Kulttuuri ja pukeutuminen</p>
+    <p>Vanhastaan kolttaidentiteetin tunnuksena pidettiin koltankielen puhumista ja ortodoksista uskontoa. Koltansaame oli pitkään vain puhuttu kieli: kirjakieltä ja kirjoitusasua alettiin kehittää1970-luvulla. Ortodoksinen uskonto on osa jokapäiväistä elämää, mutta perinteiset tavat näkyvät parhaimmin esimerkiksi hautajaisissa ja muistotilaisuuksissa. Perinteinen Pyhittäjä Trifon Petsamolaisen pyhiinvaellusjuhla järjestetään elokuun viimeisenä viikonloppuna Nellimissä, Ivalossa ja Sevettijärvellä. Kolttanaisten laulujen, leu´ddien, taitajia on vähän, mutta perinne elää yhä. Koltilla on säilynyt myös vanha kyläkokoukseen perustuva hallintoperinne. Käsityöperinteeseen kuuluvat erikoisuuksina helmikoristeet, juuresta tehdyt astiat ja kalannahkatyöt.</p>
+    <p>Kolttapuvut ovat tärkeä osa identiteettiä ja kulttuuria. Varsinkin kolttanaisen puvussa näkyy itäinen vaikutus. Iäkkäät naiset käyttävät kolttapukua usein arkipäivinäkin, nuoret vain juhlatilaisuuksissa. Kolttien tapa- ja esinekulttuurissa vaikuttaa niin ikään venäläinen perinne.</p>
+    <p type="title">Elämä nyt</p>
+    <p>Inarin kunnassa asuu noin 600 kolttasaamelaista. Kolttasaamelainen elämä ei ulkoisesti paljon poikkea suomalaisesta. Poronhoito jatkuu Näätämön ja Vätsärin paliskunnissa, mutta poronhoidon ja kalastuksen merkitys elinkeinona on viime vuosikymmeninä huomattavasti vähentynyt. Osa väestöstä on löytänyt ansiotöitä, ja osalle perinteiset käsityöt ovat sivuelinkeino.</p>
+    <p>Sevettijärven koululla annetaan koltankielistä opetusta. Vuosina 1997-2001 Sevettijärvellä toimi alle kouluikäisten lasten kielipesä, jossa lapset leikkivät ja lauloivat koltankielisessä ympäristössä. Koltansaamen kieli- ja kulttuurisiida aloitti toimintansa syksyllä 2001, ja hanke jatkui vuoden 2003 loppuun asti. Kieli- ja kulttuurisiida siirtää perinnettä lapsille ja aikuisille. Siellä muun muassa opiskellaan kieltä, tehdään perinnekäsitöitä sekä valmistetaan perinneruokia.</p>
+    <p>© Metsähallitus 2017</p>
+    <list/>
+    <p>Jaa tämä sivu</p>
+    <p>Avaa Valikko</p>
+  </body>
+</document>

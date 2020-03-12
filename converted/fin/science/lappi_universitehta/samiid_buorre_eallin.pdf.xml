@@ -1,0 +1,39 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Saamelaisten hyvä elämä ja hyvinvointipalvelut</title>
+    <genre code="science"/>
+    <author>
+      <person firstname="Lydia" lastname="Heikkilä" sex="f" born="" nationality="FI"/>
+    </author>
+    <author>
+      <person firstname="Elsa" lastname="Laiti-Hedemäki" sex="f" born="" nationality="FI"/>
+    </author>
+    <author>
+      <person firstname="Anneli" lastname="Pohjola" sex="f" born="" nationality="FI"/>
+    </author>
+    <year>2013</year>
+    <wordcount>286</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://lauda.ulapland.fi/bitstream/handle/10024/61822/Saamelaisten_hyv%E4_elam%E4_verkkoversiopdfA.pdf</origFileName>
+    <parallel_text xml:lang="sme" location="samiid_buorre_eallin.pdf"/>
+    <parallel_text xml:lang="smn" location="samiid_buorre_eallin.pdf"/>
+    <parallel_text xml:lang="sms" location="samiid_buorre_eallin.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p><em type="bold">TIIVISTELMÄ</em> </p>
+    <p>Heikkilä Lydia, Laiti-Hedemäki Elsa ja Pohjola Anneli</p>
+    <p>
+      <em type="bold">Saamelaisten hyvä elämä ja hyvinvointipalvelut </em>
+    </p>
+    <p>Rovaniemi, Lapin yliopisto, 2013</p>
+    <p>Tutkimuksen  tehtävänä  on  selvittää  saamelaisten  näkemyksiä  ja  kokemuksia palveluista hyvinvoinnin tärkeinä osatekijöinä sekä palvelutarpeista. Tarkastelu kohdistuu saamelaisten kotiseutualueen kuntien peruspalveluihin ja erityistarkastelun kohteena ovat saamenkieliset palvelut. Universaalien tekijöiden ohella saamelaisten palvelujen saatavuutta ja palvelutyytyväisyyttä koskevia kokemuksia määrittävät kielelliset ja kulttuuriset erityistekijät sekä vähemmistöasema. Tutkimuksen  tavoitteena  on  saada  saamenkansalaisten  ääni  kuuluviin.  Aineistoina  ovat  saamelaisille  suunnattu  lomakekysely  sekä  avaintoimijahaastattelut. Tulokset tulkitaan kulttuurista kontekstia vasten. Pyrkimyksenä on ymmärtää palvelujen paikka ja merkitykset saamelaisten elämässä sekä sitä kautta määrittyvät  odotukset,  tarpeet,  käyttö  ja  tyytyväisyys.    Tarkastelun  keskiössä ovat ihmisten arjessa selviytyminen ja yhteiskunnallisten palvelujen rooli sekä toimivuus sen mahdollistajana. Tulosten  mukaan  saamelaisten  palvelutyytyväisyys  ja  palvelujen  saatavuus ovat  yleistasoltaan  selvästi  Suomen  keskimääräistä  tasoa  alhaisempia.  Etäisyys palveluista on yksi tärkeimmistä palvelujen saatavuuteen vaikuttavista tekijöistä.  Kuntakohtaiset erot ovat suuret, mutta myös kuntien eri osissa asuvat saamelaiset ovat eriarvoisessa asemassa palvelujen saatavuuden suhteen. Internetin käyttö parantaa vain pankkipalvelujen saatavuutta, eivätkä ikäihmiset useinkaan voi hyötyä siitä. Asioinnin muuttuminen puhelinperustaiseksi vaikeuttaa palvelujen saavutettavuutta, koska saamenkielisten on vaikea asioida sen välityksellä. Äidinkieli  ja  arkikieli  vaikuttavat  palvelutyytyväisyyteen  siten,  että  vastaajat,  joilla  oli  suomen  kieli  arkikielenä,  kokivat  palvelujen  saatavuuden  selvästi helpommaksi kuin muut kieliryhmät. Saamenkielisten palvelujen saatavuus on edelleen vähäistä. Parhaiten on tarjolla saamenkielistä päivähoitoa ja kielipesätoimintaa sekä vanhusten kotiapua. Lisäksi Utsjoen saamenkielinen yleislääkäripalvelu on tärkeässä asemassa. Kunnilla on vain vähän suunnitelmallista toimintaa  saamenkielisten  palvelutason  parantamiseksi.  Saamenkielen  taitoa ei nähdä erityisosaamisena, eikä sitä huomioida palkkauksessa. STM:n erityismäärärahalla on suuri merkitys saamenkielisen palvelujen tuotannossa. Saamelaisjärjestöjen rooli on merkittävin saamen kielen ja kulttuurin vahvistamisessa. Tulkkipalvelua on tarpeen kehittää edelleen, jotta asiakkaat voisivat hyödyntää sitä. Koska saamenkieliset palvelut ovat uusia ja usein määräaikaisia, kaivataan lisäksi parempaa tiedottamista niistä.</p>
+    <p>Avainsanat: saamelaiset, hyvinvointi, peruspalvelut, saamenkieliset palvelut, palvelutyytyväisyys, vähemmistöt</p>
+  </body>
+</document>

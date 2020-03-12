@@ -1,0 +1,43 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>250</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=655200</origFileName>
+    <parallel_text xml:lang="sma" location="default.aspx_id=772785.html"/>
+    <parallel_text xml:lang="sme" location="default.aspx_id=772795.html"/>
+    <parallel_text xml:lang="smj" location="default.aspx_id=772761.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Avioliittoon vihkiminen - rakkauden juhla - Svenska kyrkan - Om oss</p>
+    <p type="title">Avioliittoon vihkiminen - rakkauden juhla</p>
+    <p type="title">Hääjuhla. Elinikäinen muisto. Ei vain hääparille vaan myös sukulaisille ja ystäville.</p>
+    <p>Vihkiminen tai avioliiton solmiminen merkitsevät sitä, että kaksi ihmistä sanoo julkisesti kyllä sekä toisilleen että yhteiselle elämälle. Vihkitoimitus sinänsä on vertauskuvallinen toimenpide, jossa kaksi ihmistä lupaa rakastaa toinen toistaan sekä panostaa täydestä sydämestään toinen toisiinsa koko elämän ajan. He rukoilevat rakkautensa puolesta. Jumala on rakkaus ja kaikki rakkaus on lähtöisin Jumalasta.</p>
+    <p>Isot vai pienet häät</p>
+    <p>Häävalmistelut aloitetaan yleensä hyvissä ajoin.  Vihkitoimituksen ei sinänsä tarvitse olla suuri tai suureellinen. Se on ilmainen Ruotsin kirkon jäsenille ja se voidaan toimittaa periaatteessa missä tahansa. Hääparin lisäksi tarvitaan oikeastaan vain vihkimisen toimittaja sekä kaksi todistajaa, jotta avioliitosta tulisi juridisesti pitävä.</p>
+    <p>Kirkkohäät</p>
+    <p>Kirkollinen vihkiminen tapahtuu usein kirkossa.  Itse kirkkotila on omiaan juhlistamaan tilaisuutta ja tekemään siitä arvokkaan. Ruotsin kirkolla on vihkitoimitusta varten oma kaava. Hääpari voi yhdessä muusikon ja papin kanssa sopia musiikista, laulusta ja vihkitoimituksen luonteesta. Papilla on viime kädessä vastuu vihkijumalanpalveluksesta ja siitä, mitä eri vaihtoehtoja siinä käytetään.  Hääkirkon varaamisen kannattaa tehdä ajoissa, varsinkin jos kyseessä on suosittu vihkikirkko.</p>
+    <p>Kirkko ja kotiseurakunta löytyvät klikkaamalla.</p>
+    <p>Pyhä liitto</p>
+    <p>Kirkolliseen vihkimiseen liittyy ajatus, että avioliitto on Jumalan lahja ja pyhä liitto. Sitä ilmaisemassa on raamatun lukukappaleiden lukeminen, avioparin lupaus <span type="quote">”Jumalan edessä ja tämän seurakunnan läsnä ollessa”</span>, sormusrukous ja vihkiparin siunaus. Kirkollinen vihkiminen, sen rukoukset ja Herran siunaus vahvistavat yhteisyyttä ja yhteenkuuluvuutta. Vihkijumalanpalveluksen kaava on Ruotsin kirkon virsikirjassa.</p>
+    <p>Esteselvitys</p>
+    <p>Avioliittoon vihkimistä varten tarvitaan esteettömyystodistus (hindersprövning). Sen saa paikalliselta veroviranomaiselta.</p>
+    <p>//</p>
+  </body>
+</document>

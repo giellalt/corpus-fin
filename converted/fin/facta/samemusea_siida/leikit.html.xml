@@ -1,0 +1,57 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Elämäntapa - Leikit</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>559</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/elamantapa/leikit.html</origFileName>
+    <parallel_text xml:lang="eng" location="leikit.html"/>
+    <parallel_text xml:lang="smn" location="saa.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="vep">Sananlaskut</p>
+    <p>Sään ennustaminen</p>
+    <p xml:lang="est">Leikit</p>
+    <p xml:lang="nob">Ruokaperinne</p>
+    <p>Inarinsaamelaisten leikit perustuivat luontoon ja saatavilla oleviin materiaaleihin. Harvan asutuksen vuoksi useita osallistujia vaativia seuraleikkejä oli vähemmän kuin siellä, missä väkeä oli taajemmin. Lähimpään naapuriin saattoi olla matkaa viisi tai kymmenen kilometriä. Leikkeihin on saatu ulkoa päin vaikutteita, ja varsinkin myöhempänä aikana koulussa opittiin yleismaailmallisia leikkejä.</p>
+    <p>Luonnon parissa eläminen antoi mahdollisuuksia eri leikkeihin. Kiipeily, mäenlasku, juokseminen, hyppiminen, piilosillaolo, lumisota ja lumi- ja leikkikotien teko olivat luonnollisia ja helposti toteutettavia.</p>
+    <p>Leikeissä otetaan mallia aikuisten elämästä ja samalla ne valmentavat lapsia elinkeinoihin. Tällaisia ovat suopunginheitto, jousipyssyllä ampuminen ja vaikkapa sopulien valjastaminen ajokkaiksi. Pyydystettiin rantarautusia, suolistettiin ne ja suolattiin hiekalla.</p>
+    <p>Hyvä suopunginheittäjä sai arvostusta aikuisten maailmassa. Myös lapset heittelivät suopungilla milloin sarvia, milloin toisia lapsia. Eräs suopunkileikki oli sellainen, että leikkijä lähti suksilla ilman sauvoja reitille, jossa eteni siten, että heitti suopungin kantoon, aidantolppaan tms. ja veti itsensä sen luo, irrotti suopungin ja etsi seuraavan heittokohdan. Reitti piti valita niin, ettei jäänyt umpikujaan.</p>
+    <p>Pojat ovat aina heitelleet kiviä. Oli tarkkuusheittoa tai kilpailua siitä, kuka heittää kauimmaksi. Lingolla sai kiven lentämään vielä kauemmaksi. Linko oli vain päästä halkaistu keppi. Sen halkeamaan pantiin kivi, joka sinkoutui heitettäessä. Toinen tyyppi oli mutkalla oleva nahka, johon kivi pantiin. Heitettäessä toinen pää irrotettiin.</p>
+    <p>Inarilaiset ovat harrastaneet <em type="italic">painia </em>, mutta ei mitään muuta otteluleikkejä. Paini ei ollut mitään kreikkalais-roomalaista, vaan enimmäkseen sylipainia. </p>
+    <p><em type="italic">Tirppa </em>on leikki, jossa leikkivälineenä on jokin puusta tehty kapula, jota lyödään kepillä ja yritetään saada menemään tiettyyn kohteeseen. </p>
+    <p><em type="italic">Sorjompäddi </em>on yksinaruinen keinu, joka on puunoksaan sidottu hihna. </p>
+    <p>Seuraleikkejä</p>
+    <p>T. I. Itkonen kirjoittaa eräistä heittoleikeistä. Yksi on <em type="italic">lintusilla olo </em>. Siinä yksi, heittää pallolla muita. Se, johon osuu, tekeytyy kuolleeksi. Tässä leikissä saattoi myös ampua puhaltamalla pikku kiven tai linnunsilmähelmen toisia kohti. Pyydystäjä vaani saalista, mutta jos lintu huomaa vaanijan se lähtee <span type="quote" xml:lang="fkv">"lentoon"</span> eikä sitä saa ampua. </p>
+    <p>Toinen leikki on <em type="italic">nauriin heitto </em>. Siinä liedellä olevan padan kummallakin puolen istuu kaksi henkilöä, jotka heittelevät nauriita vastakkain. Kun nämä sattuvat yhteen, ne putoavat pataan. Kypsät nauriit ottaa yksi henkilö padasta ja viskaa ne ilmaan. Kehen nauris sattuu, hän saa sen syödä. </p>
+    <p><em type="italic">Susi- ja poroleikissä </em>yksi oli sutena, toiset poroina. Sitä eivät vanhemmat ennen vanhaan sallineet, kun se ennusti sutten tuloa. </p>
+    <p><em type="italic">Haukkasilla </em>oltiin siten, että yksi lapsi on keskellä huonetta, toiset ympärillä. Haukka koettaa iskeä kiinni. Jos onnistuu, on saaliin ryhdyttävä haukan apuriksi ottamaan muita kiinni. Voidaa sopia myös turvapaikka. </p>
+    <p>Leikkikaluja</p>
+    <p>Poron <em type="italic">sarvet </em>ovat helposti saatavia poroja. Niitä saattoi ventää (pitää hihnassa) ja käydä ajoittain siirtämässä kuin poroja ikään. Poron takajalan polvilumpio eli <em type="italic">kuálppihâš </em>on leikkiporo, mutta se voi olla myös kelkkana. Poron <em type="italic">varvasluut </em>ovat ihmisiä. Leikkiporoiksi kelpaavat pikku kivet, kävyt ja kaarnanpalat. Kaarna- ja käpyporoille saa tikuista jalat. Myös puukapulasta voi tehdä poroja, joihin on vuoltu lastuina sarvet. Tuohesta leikataan seisaallaan pysyviä poroja. </p>
+    <p>Linnusta saatiin leikkikaluiksi <em type="italic">rintaluu </em><em type="italic">eli </em><em type="italic">piksâ </em> ja kaksihaarainen sarvien muotoinen luu, jotka voivat olla lehmiä tai poroja. </p>
+    <p>Puusta ja nahasta sai erilaisia nukkeja. Puu-ukoilla voi järjestää purossa uintikilpailun.</p>
+    <p>Hauen olkaluu heitetään lattialle sanoen: <em type="italic">Ruŋk-runk, káránâs. Kost kulij kyessi puátá? </em>(Runk-runk, korppi. Mistä päin vieras tulee?) Minne luun nokkamainen pää osoittaa, sieltä päin tulee vieras. </p>
+    <p>Helistin saatiin siten, että <em type="italic">kanalinnun kupu </em><em type="italic">eli </em><em type="italic">vätti </em> puhallettiin täyteen ilmaa. Kuvusta tuli kuin ilmapallo, ja tällöin sisällä olevia varvun- tai haonpalasia voi helistää. <em type="italic">Matti Morottaja </em> </p>
+    <p>Nukkemestari Nili-Ailin, Aili Mattuksen tekemiä nukkeja viime vuosisadan puolivälistä.</p>
+    <p>Nellimin koulun oppilaita välitunnilla.</p>
+    <p>Tämän päivän inarinsaamelaisia leikkejä</p>
+    <p xml:lang="koi">
+      <em type="bold">. </em>
+    </p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

@@ -1,0 +1,91 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Leirituli - Luontoon.fi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>478</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://www.luontoon.fi/retkeilynabc/ymparistovinkit/leirituli</origFileName>
+    <parallel_text xml:lang="smn" location="leiratuulast.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p>Avaa Valikko</p>
+    <list>
+      <p type="listitem">In English</p>
+      <p type="listitem">På svenska</p>
+      <p type="listitem">Anarâškielâ</p>
+      <p type="listitem">Davvisámegiella</p>
+      <p type="listitem">中文</p>
+      <p type="listitem">По-русски</p>
+    </list>
+    <list>
+      <p type="listitem">Retkeilyn ABCn sisällysluettelo</p>
+      <p type="listitem">Yleistä retkeilystä</p>
+      <p type="listitem">Jokamiehenoikeudet</p>
+      <p type="listitem">Retken suunnittelu</p>
+      <p type="listitem">Varusteet</p>
+      <p type="listitem">Retkiruoka</p>
+      <p type="listitem">Retkeilytaidot</p>
+      <p type="listitem">Turvallisuus</p>
+      <p type="listitem">Ympäristövinkit <list><p type="listitem">Leirituli</p><p type="listitem">Leiriytyminen</p><p type="listitem">Liikkuminen</p><p type="listitem">Luontosuhde</p><p type="listitem">Matka</p><p type="listitem">Rauhoitetut kasvit ja eläimet</p><p type="listitem">Retkimuona</p><p type="listitem">Roskaton retkeily</p><p type="listitem">Valinnoillasi voit vaikuttaa ympäristön tilaan</p><p type="listitem">Varusteet</p><p type="listitem">Ympäristövaikutusten mittarit</p></list> </p>
+      <p type="listitem">Terveyttä ja hyvinvointia luonnosta</p>
+      <p type="listitem">Linkit</p>
+      <p type="listitem">Kirjallisuusluettelo</p>
+    </list>
+    <p>Ympäristövinkit - Avaa valikko</p>
+    <p type="title">Ympäristövinkit</p>
+    <list>
+      <p type="listitem">Leirituli</p>
+      <p type="listitem">Leiriytyminen</p>
+      <p type="listitem">Liikkuminen</p>
+      <p type="listitem">Luontosuhde</p>
+      <p type="listitem">Matka</p>
+      <p type="listitem">Rauhoitetut kasvit ja eläimet</p>
+      <p type="listitem">Retkimuona</p>
+      <p type="listitem">Roskaton retkeily</p>
+      <p type="listitem">Valinnoillasi voit vaikuttaa ympäristön tilaan</p>
+      <p type="listitem">Varusteet</p>
+      <p type="listitem">Ympäristövaikutusten mittarit</p>
+    </list>
+    <p type="title">Leiritulesta ei jälkeään</p>
+    <p type="title">Toimi näin</p>
+    <list>
+      <p type="listitem">Käytä ruoanlaitossa mieluummin retkikeitintä kuin avotulta.</p>
+      <p type="listitem">Jos teet avotulen, käytä merkittyjä ja huollettuja tulentekopaikkoja aina kun se on mahdollista. Käytä tulentekoon varattuja puita säästeliäästi.</p>
+    </list>
+    <list>
+      <p type="listitem">Mikäli puut ovat kuivia ja helposti syttyviä, voidaan sytykkeet laittaa järeämpien puiden päälle. Näin tuli palaa ylhäältä alas ja polttaa suurimman osan myrkyllisistä kaasuista, jotka muuten lähtisivät suoraan ilmaan.</p>
+      <p type="listitem"><em type="italic">Metsäpalovaroituksen </em>aikana avotulen teko on <em type="italic">aina kielletty </em>muualla kuin hormilla varustetuissa keittokatoksissa. </p>
+      <p type="listitem">Älä revi tuohta tai ota makkaratikkuja elävistä puista.</p>
+      <p type="listitem">Älä käytä kertakäyttögrilliä!</p>
+      <p type="listitem">Siivoa jälkesi ja laita tulentekopaikan varusteet paikoilleen. Älä polta alumiinifoliota tai muita palamattomia ainesosia sisältäviä pakkauksia. Vie roskat mennessäsi.</p>
+      <p type="listitem">Jos sytytät tulen muualla kuin osoitetuilla tulentekopaikoilla, tarvitset aina <em type="italic">maanomistajan luvan. </em>Kun olet saanut luvan, noudata seuraavia ohjeita: <list><p type="listitem">Älä tee tulta suoraan kalliolle – kuumuus rikkoo kivipinnan.</p><p type="listitem">Käytä vanhaa nuotiopaikkaa.</p><p type="listitem">Jos vanhaa nuotiopohjaa ei löydy, pohjusta nuotiopaikka irrottamalla maasta päällimmäinen, humuspitoinen kerros esimerkiksi kukkalapiolla ja kääri se sivuun.</p><p type="listitem">Kerää polttopuuksi ja makkaratikuiksi maassa olevia irrallisia oksia ja mahdollisia hakkuutähteitä.</p><p type="listitem">Sammuta nuotio huolellisesti käytön jälkeen vedellä ja käännä irrotettu ja kasteltu maakerros takaisin paikoilleen. Siivoa nuotiopaikka niin hyvin, ettei käynnistäsi jää jälkeäkään.</p></list></p>
+    </list>
+    <p type="title">Miksi?</p>
+    <p>Kun käytät retkikeitintä, säästyy polttopuita, joiden valmistus ja kuljetus ovat aiheuttaneet melua ja päästöjä. Kun polttopuita tarvitsee kuljettaa harvemmin, vähenevät melu- ja päästöhaitat ja mahdolliset maaperän kulumiset. Käyttämällä retkikeitintä tai polttopuita mahdollisimman säästeliäästi, voit vähentää polttopuukuljetuksissa syntyvien myrkyllisten kaasujen sekä ilmaston muutosta voimistavien hiilidioksidipäästöjen määrää. Palavasta puusta ja likaisista eväiden kääreistä vapautuu myrkyllisiä savukaasuja, kuten hiilivetyä, PAH-yhdisteitä, häkää ja typen oksideja.</p>
+    <p>Koska metsäpalo syttyy herkästi metsäpalovaroituksen aikana, tulenteko on silloin aina kielletty tulentekopaikoillakin. Hormilla varustetuissa grilli- ja keittokatoksissa tulenteko on kuitenkin aina sallittu.</p>
+    <p>Tulentekopaikka pysyy viihtyisänä, kun et revi tuohta tai katkaise makkaratikkuja elävistä puista tai jätä foliopakkauksia, muovia ja muita huonosti maatuvia roskia. Kun vielä annat muidenkin käyttää tulentekopaikkaa yhtä aikaa kanssasi etkä häiritse heitä, voivat kaikki nauttia luonnosta.</p>
+    <p type="title">Lue lisää</p>
+    <list>
+      <p type="listitem">Tulenteko</p>
+      <p type="listitem">Retkikeittimet</p>
+      <p type="listitem">Metsäpalo- ym. varoitukset Ilmatieteenlaitoksen sivuilta (ilmatieteenlaitos.fi)</p>
+      <p type="listitem">Minimoi leiritulen ympäristövaikutuksia (lnt.org, englanniksi)</p>
+      <p type="listitem">Puun pienpolton päästöt, ilmanlaatu ja terveys -seminaari (www.motiva.fi)</p>
+    </list>
+    <p>© Metsähallitus 2017</p>
+    <list/>
+    <p>Jaa tämä sivu</p>
+    <p>Avaa Valikko</p>
+  </body>
+</document>

@@ -1,0 +1,29 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Samediggi - Saamelaiskäräjät - Saamelaisnuorten taidetapahtuma 2010 Rovaniemellä</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>36</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=337&amp;lang=finnish.html</origFileName>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=337_lang=davvi.html"/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=337_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=337_lang=nuortta.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Saamelaisnuorten taidetapahtuma 2010 Rovaniemellä</p>
+    <p>Saamelaisnuorten taidetapahtuma 2010 järjestetään Rovaniemellä kaksipäiväisenä tapahtumana maaliskuussa. Saamelaiskäräjien koulutus- ja oppimateriaalitoimisto aloittaa parhaillaan taidetapahtuman järjestelyitä yhteistyössä Rovaniemen kaupungin kanssa. Luvassa on värikäs saamelaisnuorten kulttuuri- ja taideharrastusten juhla! Seuraa nettiuutisia</p>
+    <p xml:lang="sme">www.samediggi.fi</p>
+    <p xml:lang="koi">.</p>
+  </body>
+</document>

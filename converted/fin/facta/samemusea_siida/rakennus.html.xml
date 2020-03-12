@@ -1,0 +1,43 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Ympäristö - Rakennusperinne</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Irja" lastname="Jefremoff" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>328</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/ymparisto/rakennus.html</origFileName>
+    <parallel_text xml:lang="eng" location="rakennus.html"/>
+    <parallel_text xml:lang="smn" location="rakennus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Paikannimet</p>
+    <p>Sukualueet</p>
+    <p xml:lang="nob">Rakennusperinne</p>
+    <p>Inarinsaamelaisten alkuperäisiä hirsikotia ei ole säilynyt nykypäiviin asti, mutta vanhoja kylän paikkoja ja yksittäisiä kotasijoja on kartoitettu joka puolella inarinsaamelaisten asuinalueita. Vanhasta asumiskulttuurista on erinomaisia kuvauksia ja piirroksia ja valokuvia. Niitä ovat laatineet mm. T.I. Itkonen, Ilmari Itkonen, Samuli Paulaharju ja monet nykypäivän tutkijat. Tulisijalla varustetusta kodasta on aikaa myötä kehittynyt pieni yksihuoneinen pirtti piiseineen ja siitä edelleen 2- tai 3-huoneinen asuinrakennus, jossa on ollut pirtti, viileä eteiskamari ja kamari.</p>
+    <p>Vaikka talvipaikalla on asuttu vuoden mittaan kauemmin, on kesäpaikan asuinrakennus monin paikoin paremmin varustettu ja tilavampi. Molemmat asuinpaikat ovat saaneet asuinrakennuksen lisäksi pihapiiriin omat tärkeät rakennuksensa ja rakennelmansa. Tähän ovat vaikuttaneet myös toimeentulon monet lähteet: kalastus, poronhoito, karjanhoito sekä pienimuotoinen viljely.</p>
+    <p>Tarkoituksenmukaisesti varustetut asuinpaikat</p>
+    <p><em type="italic">Kesäpaikan </em>pihapiiriin ovat kuuluneet päärakennuksen lisäksi sauna ja pyykkiranta, useita aittarakennuksia, navetta, lampola, verkko- ja nuottaulut, veneranta, kalankuivatustelineet eli arttukatokset ja mikä tärkeintä – kellari. Kesäajan kalansaalista oli tärkeää säilyttää riittävän kylmässä, joten kellarin rakentamiseksi nähtiin vaivaa ja käytettiin hyväksi luonnon antamat monet mahdollisuudet kuten kylmät kallionseinämät tai hetteet. </p>
+    <p>Kesäpaikkojen tuntumassa, ranta- ja jänkäniittyjen sekä kortepaikkojen vierellä olivat haasiarivit ja luovat, joille kuivatut heinät tai kortteet nostettiin. Rannan tuntumassa, sopivasti vanhoihin puihin kiinnitettyinä olivat myös uutut eli kelopuiset pöntöt vesilintujen pesäpaikoiksi ja munien keräilyä helpottamaan. Perunan ja nauriin kasvattamisen sekä kasvinviljelyn tultua tutuiksi inarinsaamelaisille pihakentän jokainen liikenevä ala kunnostettiin kasvimaaksi. Saipa pirtin seinusta kukkapenkinkin koristeekseen.</p>
+    <p><em type="italic">Talvipaikalla </em>puolestaan oli asuinrakennuksen lisäksi sauna, navetta ja lato, kala- ja liha-aitat, kellari, varastoja ja muita aittoja tarpeen mukaan sekä poroaita ajoporojen pitoa tai hihnavasoitusta varten. Kevättalvella kuivattiin lihaa kesän tarpeisiin, joten katoilla oli lihankuivatustelineitä. Aitat olivat useimmiten jalka-aittoja – neljän kannon varaan rakennettuja- tai nilejä eli pylväsaittoja. </p>
+    <p>Inarijärven ympäristössä on säilynyt monia inarinsaamelaisten asuinkenttiä rakennuksineen; jotkut vanhoista rakennuksista ovat edelleenkin käytössä –monet kesänviettopaikkoina. Vanhaa inarinsaamelaista rakennusperinnettä on nähtävissä Saamelaismuseon ulkomuseoalueelle siirretyissä Tirron kylän rakennuksissa ja Vuopajan rantaan rekonstruoidussa kalastajakylässä.</p>
+    <p xml:lang="sms">
+      <em type="italic">Irja Jefremoff </em>
+    </p>
+    <p xml:lang="smn">Vallen arttukatos Syysjärveltä. Samuli Paulaharju 1925.</p>
+    <p>Sulkusjärven talon kenttään kuuluu runsaasti vanhaa rakennuskantaa.</p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

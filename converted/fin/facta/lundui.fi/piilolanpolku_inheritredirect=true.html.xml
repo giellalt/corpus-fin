@@ -1,0 +1,120 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Piilolan polku - Luontoon.fi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>430</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://www.luontoon.fi/piilolanpolku?inheritRedirect=true</origFileName>
+    <parallel_text xml:lang="eng" location="piilolatrail_inheritredirect=true.html"/>
+    <parallel_text xml:lang="sme" location="piilolabalggis.html"/>
+    <parallel_text xml:lang="smn" location="piilolapaalgis.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p>Avaa Valikko</p>
+    <list>
+      <p type="listitem">In English</p>
+      <p type="listitem">På svenska</p>
+      <p type="listitem">Anarâškielâ</p>
+      <p type="listitem">Davvisámegiella</p>
+      <p type="listitem">中文</p>
+      <p type="listitem">По-русски</p>
+    </list>
+    <p type="title">Piilolan polku 35 km</p>
+    <list>
+      <p type="listitem">Kartat ja kulkuyhteydet</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut</p>
+      <p type="listitem">Reittiselostus</p>
+      <p type="listitem">Vaativuus</p>
+      <p type="listitem">Lisätietoja</p>
+    </list>
+    <p type="title">Retkikohteet</p>
+    <list>
+      <p type="listitem">Kansallispuistot</p>
+      <p type="listitem">Maailmanperintökohteet</p>
+      <p type="listitem">Retkeilyalueet</p>
+      <p type="listitem">Erämaa-alueet</p>
+      <p type="listitem">Muut luontokohteet</p>
+      <p type="listitem">Luontokeskukset</p>
+      <p type="listitem">Vaellusreitit</p>
+      <p type="listitem">Historiakohteet</p>
+      <p type="listitem">Tuvat</p>
+      <p type="listitem">Esteettömät kohteet</p>
+    </list>
+    <list>
+      <p type="listitem">Björkö-Panike 12,5 km</p>
+      <p type="listitem">Herajärven kierros 30 - 61 km</p>
+      <p type="listitem">Hetta - Pallas 55 km</p>
+      <p type="listitem">Hossan vesireitit</p>
+      <p type="listitem">Inarijärvi melojille</p>
+      <p type="listitem">Inarin alueen vesireitit</p>
+      <p type="listitem">Itärajan kesäretkeilyreitti</p>
+      <p type="listitem">Kalottireitti 800 km</p>
+      <p type="listitem">Karhunkierros 82 km</p>
+      <p type="listitem">Kevon reitti 63 km</p>
+      <p type="listitem">Nuorttin retkeilyreitti 40 km</p>
+      <p type="listitem">Petranpolku 45 km</p>
+      <p type="listitem">Peuran polku 115 km</p>
+      <p type="listitem">Pieni Karhunkierros 12 km</p>
+      <p type="listitem">Piilolan polku 35 km</p>
+      <p type="listitem">Poronpolku 30 km</p>
+      <p type="listitem">Pyhä-Luosto reitti 45 km</p>
+      <p type="listitem">Ruijanpolku 35 km</p>
+      <p type="listitem">Ruostejärvi - Liesjärven kansallispuisto 24 km</p>
+      <p type="listitem">Ruostejärvi - Saari 14 km</p>
+      <p type="listitem">Sevettijärvi - Pulmanki 60 - 70 km</p>
+      <p type="listitem">Simojoen melontareitti 178 km</p>
+      <p type="listitem">Taitajan taival 31 km</p>
+      <p type="listitem">Tapion taival 20 km</p>
+      <p type="listitem">Virvatulten polku 19 km</p>
+    </list>
+    <list>
+      <p type="listitem">Kartat ja kulkuyhteydet</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut</p>
+      <p type="listitem">Reittiselostus</p>
+      <p type="listitem">Vaativuus</p>
+      <p type="listitem">Lisätietoja</p>
+    </list>
+    <p>Piilolan polun sivut</p>
+    <p type="title">Piilolan polku 35 km</p>
+    <list>
+      <p type="listitem">Kartat ja kulkuyhteydet</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut</p>
+      <p type="listitem">Reittiselostus</p>
+      <p type="listitem">Vaativuus</p>
+      <p type="listitem">Lisätietoja</p>
+    </list>
+    <p type="title">Piilolan polku</p>
+    <p>Pohjois-Lappi</p>
+    <p>Inari</p>
+    <p>(www.inari.fi),</p>
+    <p>Sør-Varanger</p>
+    <p>(www.sor-varanger.kommune.no, norjaksi)</p>
+    <p>Vätsärin erämaa-alue,</p>
+    <p>Ylä-Paatsjoen kansallispuisto</p>
+    <p>(www.bioforsk.no, englanniksi)</p>
+    <p>Piilolan polku on mielenkiintoinen, historiallinen erämaareitti pohjoisessa havumetsävyöhykkeessä. Tämä 35 kilometriä pitkä kesävaellusreitti yhdistää norjalaisen Ylä-Paatsjoen kansallispuiston ja Vätsärin erämaa-alueen Suomessa. Reitti soveltuu parhaiten kokeneille vaeltajille.</p>
+    <p>Vaellusreitin maisemaa hallitsevat mäntyvaltaiset kivikkoiset kankaat. Aarniometsät, keskisuuret kirkasvetiset erämaajärvet, pienet joet ja pienehköt suot tuovat avaruutta ja vaihtelevuutta metsäiseen ympäristöön. Vaikkei luonto tunnekaan valtioiden välisiä rajoja, on Norjan ja Suomen luonnonmaisemassa eroja muun muassa maaston pinnanmuodoissa.</p>
+    <p>Valpas vaeltaja näkee ympärillään merkkejä erämaan eläimistä ja luonnon kiertokulusta. Siellä missä pohjantikka on etsinyt ruokaa männynkuoren alta, on puun kyljessä säännöllinen reikärivi. Myös karhut kuuluvat erämaan asukkaisiin, ja niiden jäljiltä löytyy muun muassa auki kuopaistuja muurahaiskekoja. Pohjoisen havumetsän kehitysvaiheissa metsäpalot ja myrskytuulet ovat tärkeitä metsän uudistajia. Palokorot suurten mäntyjen kyljissä kertovat menneinä aikoina riehuneista metsäpaloista. Rajatulla alueella yhteen ja samaan suuntaan maahan kaatuneiden puiden rungot paljastavat myrskytuulen suunnan.</p>
+    <p>Piilolan polku on myös kulttuurinen reitti, jota vaeltaessa voi eläytyä entisaikojen elämään erämaassa. Kalaisien järvien rannalla sijainneiden erämaatalojen elämä perustui omavaraistalouteen. Erämaassa pidettiin muutamaa lehmää ja poroja, kalastettiin, metsästettiin ja elettiin meidän aikamme näkökulmasta vaatimattomasti kaukana asutuskeskuksista. Vaellusreitti mukailee vanhoja erämaatalojen ja maalikylien, Suomen Nellimin ja Norjan Vaggatemin, välisiä kulkureittejä. Kirveellä tehdyt pilkat iäkkäiden mäntyjen kyljissä näyttävät entisen kulkukeinon linjauksen. Vätsärin erämaatalot alkoivat tyhjentyä 1970-luvulta lähtien. Nykyään Vätsäri on hiljainen erämaa, jossa paikalliset ihmiset liikkuvat poronhoitotöissä, metsästämässä ja kalassa.</p>
+    <p>Piilolan polun omaleimaisuutta lisää reitin kansainvälisyys. Piilolan polku on syntynyt Norjan, Venäjän ja Suomen välisen luonnonsuojelu- ja luontomatkailuyhteistyön tuloksena. Vaellusreitti kulkee näiden kolmen valtion alueella sijaitsevassa, yhtenäisessä Pasvik-Inari –rajapuistossa (www.pasvik-inari.net).</p>
+    <p>Tämän sivun osoite on www.luontoon.fi/piilolanpolku</p>
+    <p>© Metsähallitus 2017</p>
+    <list/>
+    <p>Jaa tämä sivu</p>
+    <p>Avaa Valikko</p>
+  </body>
+</document>

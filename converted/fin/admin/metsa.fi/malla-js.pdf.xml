@@ -1,0 +1,30 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>79</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://julkaisut.metsa.fi/assets/pdf/lp/Js/malla-js.pdf</origFileName>
+    <parallel_text xml:lang="sme" location="malla-jssaame.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="vep">
+      <em type="bold">MALLAN LUONNONPUISTON JÄRJESTYSSÄÄNTÖ </em>
+    </p>
+    <p>Mallan luonnonpuisto on siirtynyt 1.1.2008 Metsähallituksen hallintaan. Metsäntutkimuslaitoksen 20.12.1993 Mallan luonnonpuistoon antama järjestyssääntö on edelleen voimassa. Järjestyssäännössä mainitut Metsäntutkimuslaitoksen luvalla sallitut toimet muuttuvat siten, että luvan myöntäjä on Metsähallitus. Yhteystiedot järjestyssäännön lopussa muuttuvat siten, että lisätietoja järjestyssäännöstä saa Metsähallituksesta seuraavista paikoista:</p>
+    <p>Kilpisjärven luontotalo (avoinna kevät- ja kesäkaudella) Käsivarrentie 14145 99490 Kilpisjärvi puh. 020564 7990</p>
+    <p>Tunturi-Lapin luontokeskus Skierri Peuratie 15 99400 Enontekiö puh. 020564 7950</p>
+    <p>Lapin luontopalvelut PL 8016 96101 Rovaniemi puh. 020564 6150 tai 020564 6153</p>
+  </body>
+</document>

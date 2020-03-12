@@ -1,0 +1,27 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>21</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.utsjoki.fi/media/Sivistys/Tiedotteet/OVTTAS.pdf</origFileName>
+    <parallel_text xml:lang="sme" location="ovttas.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>1 ja Norjan puolelta Sirman koulu (pääkohderyhmä)</p>
+    <p>koulutuksen avulla. Pätevyyden parantamismahdollisuuksia myös vanhem-mille.</p>
+    <p>daan käyttää yhteisessä opetuksessa.</p>
+    <p>tomasta kielikoulusta ja kielipäivähoidosta.</p>
+  </body>
+</document>

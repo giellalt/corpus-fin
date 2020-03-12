@@ -1,0 +1,226 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Inarin retkeilyalueen palvelut - Luontoon.fi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>794</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://www.luontoon.fi/inari/palvelut</origFileName>
+    <parallel_text xml:lang="sme" location="balvalusat_45.html"/>
+    <parallel_text xml:lang="smn" location="palvalusah.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p>Avaa Valikko</p>
+    <list>
+      <p type="listitem">In English</p>
+      <p type="listitem">På svenska</p>
+      <p type="listitem">Anarâškielâ</p>
+      <p type="listitem">Davvisámegiella</p>
+      <p type="listitem">中文</p>
+      <p type="listitem">По-русски</p>
+    </list>
+    <p type="title">Inari</p>
+    <list>
+      <p type="listitem">Ajankohtaista</p>
+      <p type="listitem">Aktiviteetit</p>
+      <p type="listitem">Historia</p>
+      <p type="listitem">Kartat ja julkaisut</p>
+      <p type="listitem">Luonto</p>
+      <p type="listitem">Nähtävyydet</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut <list><p type="listitem">Yhteistyötahot</p></list> </p>
+      <p type="listitem">Reitit</p>
+    </list>
+    <p type="title">Retkikohteet</p>
+    <list>
+      <p type="listitem">Kansallispuistot</p>
+      <p type="listitem">Maailmanperintökohteet</p>
+      <p type="listitem">Retkeilyalueet</p>
+      <p type="listitem">Erämaa-alueet</p>
+      <p type="listitem">Muut luontokohteet</p>
+      <p type="listitem">Luontokeskukset</p>
+      <p type="listitem">Vaellusreitit</p>
+      <p type="listitem">Historiakohteet</p>
+      <p type="listitem">Tuvat</p>
+      <p type="listitem">Esteettömät kohteet</p>
+    </list>
+    <list>
+      <p type="listitem">Evo</p>
+      <p type="listitem">Inari</p>
+      <p type="listitem">Iso-Syöte</p>
+      <p type="listitem">Kylmäluoma</p>
+      <p type="listitem">Napapiiri</p>
+      <p type="listitem">Oulujärvi</p>
+      <p type="listitem">Ruunaa</p>
+    </list>
+    <list>
+      <p type="listitem">Ajankohtaista</p>
+      <p type="listitem">Aktiviteetit</p>
+      <p type="listitem">Historia</p>
+      <p type="listitem">Kartat ja julkaisut</p>
+      <p type="listitem">Luonto</p>
+      <p type="listitem">Nähtävyydet</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut</p>
+      <p type="listitem">Reitit</p>
+    </list>
+    <list>
+      <p type="listitem">Yhteistyötahot</p>
+    </list>
+    <p>Inarin sivut</p>
+    <p type="title">Inari</p>
+    <list>
+      <p type="listitem">Ajankohtaista</p>
+      <p type="listitem">Aktiviteetit</p>
+      <p type="listitem">Historia</p>
+      <p type="listitem">Kartat ja julkaisut</p>
+      <p type="listitem">Luonto</p>
+      <p type="listitem">Nähtävyydet</p>
+      <p type="listitem">Ohjeet ja säännöt</p>
+      <p type="listitem">Palvelut <list><p type="listitem">Yhteistyötahot</p></list> </p>
+      <p type="listitem">Reitit</p>
+    </list>
+    <p type="title">Inarin palvelut</p>
+    <p type="title">Asiakaspalvelu ja opastus</p>
+    <list>
+      <p type="listitem">Siida - Saamelaismuseo ja Ylä-Lapin luontokeskus <list><p type="listitem">Metsähallituksen asiakaspalvelupiste Siidassa tarjoaa tietoa Inarin retkeilyalueesta ja kaikista muistakin Ylä-Lapin luontokohteista. Pysyvien ja vaihtuvien näyttelyiden lisäksi Siidasta saa retkeilyneuvonnan, kartat ja luvat koko Ylä-Lapin alueelle.</p></list></p>
+      <p type="listitem">Metsähallituksen Ivalon palvelupiste <list><p type="listitem">Tietoa ja karttoja Ylä-Lapin alueesta</p><p type="listitem">Kalastus-, metsästys- ja maastoliikennelupien myynti</p></list></p>
+      <p type="listitem">Luontoa lukemaan, elämysten kautta oppimaan Inarissa - lisätietoa koululaisille ja päiväkotilaisille suunnatuista palveluista.</p>
+    </list>
+    <p type="title">Yhteistyötahojen tarjoamia palveluja retkeilyalueella</p>
+    <list>
+      <p type="listitem">Retkeilyalueella palveluja tarjoavat yhteistyötahot <list><p type="listitem">Näillä tahoilla on yhteistyösopimus Metsähallituksen kanssa ja ne toteuttavat kestävän luontomatkailun periaatteita toimiessaan retkeilyalueella.</p></list></p>
+    </list>
+    <p type="title">Ruokailu, ruoanlaitto ja eväiden hankinta</p>
+    <p type="title">Kahvilat, ravintolat, kaupat ja kioskit</p>
+    <list>
+      <p type="listitem">Siidassa toimii ravintola Sarrit (www.siida.fi).</p>
+      <p type="listitem">Inarissa on kauppoja, ravintoloita ja kahviloita.</p>
+      <p type="listitem">Myössäjärvellä on kahvila.</p>
+    </list>
+    <p type="title">Tulentekopaikat</p>
+    <list>
+      <p type="listitem">Huollettuja tulentekopaikkoja löytyy retkeilyalueelta kaikkiaan kolmisenkymmentä. Niiden yhteydessä on usein laavu tai puolikota suojaa antamassa sekä kuivakäymälä. Tulentekopaikat sijaitsevat reittien varsilla ja virkistyskalastuskohteissa.</p>
+      <p type="listitem">Inarijärvellä on huollettujen autiotupien yhteydessä olevien tulentekopaikkojen lisäksi katettuja tulentekopaikkoja Pielpavuonossa, Suovasaaressa, Petäjäsaaressa, Kahkusaaressa, Jääsaaressa, Kärppäsaaressa, Tyllylahdessa ja Peiliniemessä. Kattamattomat tulentekopaikat löytyvät Iso-Mauran jääluolalta ja Veskoniemen edustalta Palosaaresta.</p>
+      <p type="listitem">Päivätuvat on tarkoitettu levähtämistä ja tulistelua varten. Inarin retkeilyalueella on kaksi päivätupaa: <list><p type="listitem">Haapakoski</p><p type="listitem">Otsamo</p></list></p>
+      <p type="listitem">Metsäpalovaroituksen aikana avotulen teko on kielletty.</p>
+    </list>
+    <p type="title">Juomavesi</p>
+    <list>
+      <p type="listitem">Alueen järvien, purojen ja jokien vedet ovat yleensä juomakelpoisia, mutta vesistöjen vedenlaatua ei ole tutkittu.</p>
+      <p type="listitem">Inarijärven vettä kirkonkylän välittömässä läheisyydessä on syytä välttää käyttämästä juomavedeksi, mutta virtaavien vesien vettä voi juoda sellaisenaan.</p>
+    </list>
+    <p type="title">Jätehuolto</p>
+    <list>
+      <p type="listitem">Kunnallinen jätteiden lajittelupiste sijaitsee keskellä kirkonkylää. Ekopisteet sijaitsevat venesatamissa Veskoniemessä, Nangunniemssä, Nellimissä ja Inarissa.</p>
+      <p type="listitem">Autio- ja päivätuvilla on sekajäteastioita.</p>
+      <p type="listitem">Lue lisää roskattomasta retkeilystä .</p>
+    </list>
+    <p type="title">WC:t</p>
+    <list>
+      <p type="listitem">Autio- ja päivätuvilla sekä monilla tulentekopaikoilla on kuivakäymälät.</p>
+    </list>
+    <p type="title">Yöpyminen</p>
+    <p type="title">Telttailu ja laavut</p>
+    <list>
+      <p type="listitem">Telttailualueita on Inarissa ja Ukonjärvellä. Taajamien ulkopuolella voi telttailla vapaasti jokamiehenoikeuden nojalla.</p>
+    </list>
+    <p type="title">Autiotuvat</p>
+    <p>Autiotuvissa voi yöpyä yön tai kaksi, tarkempaa tietoa tuvista saat tupatyypit-sivulta.</p>
+    <list>
+      <p type="listitem">Petäjäsaari, Inarijärvessä Hoikka Petäjäsaaren luoteisrannalla.</p>
+      <p type="listitem">Jääsaari, Inarijärvessä sijaitsevan Ison Jääsaaren kaakkoisrannalla.</p>
+      <p type="listitem">Kaikunuora (Punainen tupa), Inarijärven eteläosassa, Sarminiemen pohjoiskärjessä.</p>
+      <p type="listitem">Kärppätupa, Inarijärven Varttasaaren eteläpuolella, Kärppäsaaren pohjoiskärjessä.</p>
+      <p type="listitem">Kahkusaari, Inarijärven Viimassaaren koillispuolella, Kahkusaaren kaakkoisrannalla.</p>
+    </list>
+    <p type="title">Vuokrakämpät</p>
+    <p>Vuokrakämppä varataan Lomarengas Oy:n kautta kokonaan omaan käyttöön.</p>
+    <list>
+      <p type="listitem">Nukkumajoki , noin 10 km Inarin kirkonkylästä etelään.</p>
+      <p type="listitem">Ukonjärvi , Ivalon ja Inarin välillä valtatie 4:n varrella, noin 16 km Ivalosta pohjoiseen Ukonjärven rannalla.</p>
+      <p type="listitem">Petäjäsaari , Inarijärven Hoikka-Petäjäsaaren länsirannalla suojaisessa lahden poukamassa.</p>
+    </list>
+    <p type="title">Muut Metsähallituksen vuokrakämpät</p>
+    <list>
+      <p type="listitem">Mahlatin vuokratupa , Mahlatin pohjoispuolella olevassa pikku saaressa.</p>
+      <p type="listitem">Selkälahti , Pohjois-Inarilla Varttasaaren läheisyydessä oleva peruskorjattu vuokratupa.</p>
+    </list>
+    <p type="title">Leirintäalueet ja karavaanarien palvelut</p>
+    <list>
+      <p type="listitem">Inarissa ja Ukonjärvellä.</p>
+    </list>
+    <p type="title">Saunat</p>
+    <list>
+      <p type="listitem">Inarissa ja Ukonjärvellä.</p>
+    </list>
+    <p type="title">Hotellit ja lomamökit</p>
+    <list>
+      <p type="listitem">Inarissa.</p>
+    </list>
+    <p type="title">Satamat</p>
+    <list>
+      <p type="listitem">Veskoniemessä, Nanguniemessä, Nellimissä ja Inarissa.</p>
+    </list>
+    <p type="title">Yöpyminen lähiseudulla</p>
+    <list>
+      <p type="listitem">Majoituspalveluita löytyy mm. Ivalosta, Nellimistä, Partakosta ja Kaamasesta.</p>
+    </list>
+    <p type="title">Varusteiden vuokraus</p>
+    <list>
+      <p type="listitem">Alueen yrittäjiltä (www.inarilapland.fi) voi vuokrata veneitä, kanootteja, moottorikelkkoja ja retkeilyvarusteita.</p>
+    </list>
+    <p type="title">Liikuntaesteisten palvelut</p>
+    <list>
+      <p type="listitem">Pyörätuolilla pääsee kaikkiin Saamelaismuseo ja Ylä-Lapin luontokeskus Siidan (www.siida.fi) näyttelyihin. Ulkomuseoalueeseen voi tutustua avustajan kanssa.</p>
+      <p type="listitem">Juutuanjoen varrella olevista tulentekopaikoista Jäniskosken ja Haapakosken vuokratuvan tulentekopaikat ovat liikuntaesteisten tavoitettavissa.</p>
+      <p type="listitem">Kettulammen ja Kettukoskenniskan tulentekopaikalle Riutulassa pääsee autolla.</p>
+      <p type="listitem">Karipääjärven tulipaikalle pääsee autolla.</p>
+      <p type="listitem">Tuulispään laen pysäköintialueelta avautuu näköala Inarijärvelle.</p>
+      <p type="listitem">Paikallisten yrittäjien palveluita käyttäen maastoon voi tutustua sekä kesällä että talvella. Inarijärvellä toimii useita yksityisiä yrittäjiä, jotka järjestävät veneretkiä. Monet Inarijärven palvelurakenteista soveltuvat myös pyörätuolia käyttäville.</p>
+    </list>
+    <p type="title">Veneilijöiden palvelut</p>
+    <p type="title">Väylät</p>
+    <list>
+      <p type="listitem">Inarijärvellä on väylämerkinnät, joita on hyvä noudattaa järven karikkoisuudesta johtuen.</p>
+      <p type="listitem">Väylien yleinen kulkusyvyys on 1,8 m, joissakin kapeikoissa ja rantojen läheisyydessä kulkusyvyys on 1 m. Yleensä järvialueen tuvat ovat helposti lähestyttäviä, mutta tuville ei ole merkittyjä virallisia väyliä.</p>
+      <p type="listitem">Inarijärven veneilykarttaan (nro 480) on merkitty veneliikenneväylät ja syvyyskäyrät.</p>
+    </list>
+    <p type="title">Satamat</p>
+    <list>
+      <p type="listitem">Kala- ja venesatamat sijaitsevat Inarissa, Nangunniemessä, Veskoniemessä ja Nellimissä.</p>
+    </list>
+    <p type="title">Veneluiskat</p>
+    <list>
+      <p type="listitem">Veneluiskat sijaitsevat Ivalossa, Veskoniemessä, Nanguniemessä, Nellimissä, Ukonjärvellä, Inarissa, Väylässä, Partakossa ja Nitsijärvellä.</p>
+    </list>
+    <p type="title">Polttoaineen jakelu</p>
+    <list>
+      <p type="listitem">Satamissa ei ole polttoaineen jakelua, mutta Inarin kirkonkylällä polttoaineen myyntipiste on sataman lähellä.</p>
+    </list>
+    <p type="title">Muut palvelut lähiseudulla</p>
+    <list>
+      <p type="listitem">Inarin kirkonkylässä sijaitsevat pankkiautomaatti, asiamiesposti, terveystalo, kaksi ruokakauppaa, lääkekaappi K-kaupassa, taksi ja huoltoasema.</p>
+      <p type="listitem">Ivalossa sijaitsee lähimmät terveyskeskus, apteekki ja muut kuin päivittäistavarakaupat.</p>
+      <p type="listitem">Inarissa toimii lentokuljetuspalvelu.</p>
+      <p type="listitem">Paikalliset yrittäjät (www.inarilapland.fi) tarjoavat myös opastettuja retkeilypalveluita, kuten kalastus-, vene-, koskenlasku- ja moottorikelkkaretkiä.</p>
+    </list>
+    <p type="title">Huomaathan,</p>
+    <p>että <em type="italic">Puntsijärven laavu </em>ja tulipaikka, jotka ovat Pielpajärven kirkolle vievän ladun/reitin puolivälissä, poistetaan käytöstä kesän 2016 aikana. Laavun katto romahti talvella lumen painosta, eikä laavu ole sen vuoksi enää käyttökuntoinen. </p>
+    <p>Inarin retkeilyalueella toimivat yrittäjät tarjoavat mm. majoitusta, opastettuja retkiä sekä vuokraavat melontakalustoa, polkupyöriä ja lumikenkiä.</p>
+    <p>© Metsähallitus 2017</p>
+    <list/>
+    <p>Jaa tämä sivu</p>
+    <p>Avaa Valikko</p>
+  </body>
+</document>

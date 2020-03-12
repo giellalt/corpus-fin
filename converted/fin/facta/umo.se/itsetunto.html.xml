@@ -1,0 +1,108 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>714</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Finska/Itsetunto</origFileName>
+    <parallel_text xml:lang="eng" location="self-esteem.html"/>
+    <parallel_text xml:lang="fit" location="ittentunto.html"/>
+    <parallel_text xml:lang="sma" location="jijtjedomtese.html"/>
+    <parallel_text xml:lang="sme" location="iedovdu.html"/>
+    <parallel_text xml:lang="smj" location="iesjdabddo.html"/>
+    <parallel_text xml:lang="swe" location="sjalvkansla.html"/>
+    <parallel_text location="iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="alejn-opshats.html" xml:lang="yid"/>
+    <parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Itsetunto</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Itsetunto</p>
+    <p>Itsetunto tarkoittaa tietoisuutta itsestä ja omasta arvosta. Itsetunto ei liity lainkaan siihen, kuinka hyvin tai huonosti ihminen menestyy, vaan kysymys on oman itsensä hyväksymisestä. Itsensä arvostamista voi kehittää.</p>
+    <p>Itsetunto vaikuttaa merkittävästi oman elämän hallintaan ja mielialaan. Hyvän itsetunnon omaava ihminen huolehtii omasta hyvinvoinnista, uskaltaa tehdä haluamiaan asioita ja solmia uusia ihmissuhteita ja osaa sanoa tarvittaessa kyllä tai ei.</p>
+    <p>Huono itsetunto voi saada välttämään asioita, joita oikeasti haluaisi tehdä. Itsetunnoltaan heikko ihminen tekee sen sijaan asioita, joita ei oikeasti haluaisi tehdä tai tekee asioita miellyttääkseen muita.</p>
+    <p type="title">Itsetunto ja itseluottamus ei ole sama asia</p>
+    <p>Itsetunto ja itseluottamus sekoitetaan usein keskenään, vaikka ne eivät ole aivan sama asia.</p>
+    <p>Itseluottamus tarkoittaa uskoa siihen, että suoriutuu tai selviytyy hyvin siitä, mihin ryhtyy.</p>
+    <p>Itsetunnossa on kyse omasta sisäisestä käsityksestä vahvuuksineen ja heikkouksineen.</p>
+    <p>Itsetunnoltaan vahva ihminen ei piittaa, mitä muut hänestä ajattelevat. Hän uskaltaa olla oma itsensä. Ihminen, jolla on vahva itsetunto, ei välitä siitä, millaisena muut häntä pitävät, vaikka hän ei olisikaan taitava erilaisissa asioissa.</p>
+    <p>Itsetunnoltaan heikko ihminen sen sijaan voi pahoittaa herkästi mielensä esimerkiksi satunnaisesta ulkonäön arvostelusta.</p>
+    <p type="title">Elämänhallinnan ja itsetunnon välinen yhteys</p>
+    <p>Itsetunnon ja elämänhallinnan välillä on yhteys. Mahdollisuus päättää asioista ja vaikuttaa omaan elämään kehittää hyvää itsetuntoa.</p>
+    <p>Itsetunto voi sen sijaan heikentyä, jos ei koe voivansa vaikuttaa asioiden kulkuun. Esimerkiksi pitkään jatkunut työttömyys tai määräilevät asuinkumppanit voivat saada aikaan tunteen, että omaan tilanteeseen ei voi itse vaikuttaa.</p>
+    <p type="title">Mistä hyvän itsetunnon tunnistaa?</p>
+    <p>Itsensä hyväksyminen voi tilanteesta riippuen olla joskus helpompaa ja joskus vaikeampaa. Hyvän itsetunnon tunnusmerkkejä ovat</p>
+    <list>
+      <p type="listitem">tunne siitä, että on riittävän hyvä, vaikka ei olisi taitava kaikessa</p>
+      <p type="listitem">tunne siitä, että on oikeus ottaa oma paikkansa, näkyä ja kuulua ja tuntea olevansa arvostettu</p>
+      <p type="listitem">uskaltaa puhua tunteistaan ja kertoa mielipiteensä</p>
+      <p type="listitem">hyväksyy sen, että kaikki eivät voi pitää kakista</p>
+      <p type="listitem">kokee, että on oikeus sanoa kyllä tai ei</p>
+      <p type="listitem">uskaltaa pyytää tarvittaessa apua</p>
+      <p type="listitem">tuntee, että ansaitsee hyvän olon, pitää huolta itsestään ja tekee asioita, jotka saavat olon tuntumaan hyvältä</p>
+      <p type="listitem">uskaltaa kokeilla uusia asioita ja uusia tilanteita</p>
+      <p type="listitem">uskaltaa epäonnistua</p>
+      <p type="listitem">uskaltaa ottaa yhteyttä ihmisiin</p>
+      <p type="listitem">osaa antaa muille sekä positiivista että negatiivista palautetta</p>
+      <p type="listitem">arvostaa itseään ja omaa ulkonäköään</p>
+      <p type="listitem">tuntee olonsa hyväksi, vaikka kaikki ei ole täydellistä</p>
+      <p type="listitem">uskaltaa seisoa tekemiensä asioiden takana</p>
+      <p type="listitem">osaa myöntää virheensä ja pyytää anteeksi, jos on loukannut toista</p>
+      <p type="listitem">osaa palkita ja kehua itseään.</p>
+    </list>
+    <p type="title">Mistä huonon itsetunnon tunnistaa?</p>
+    <p>Huonon itsetunnon tunnusmerkkejä ovat:</p>
+    <list>
+      <p type="listitem">tuntee itsensä huonoksi eikä usko olevansa minkään arvoinen</p>
+      <p type="listitem">tekee asioita, jotka eivät ole hyväksi itselle</p>
+      <p type="listitem">välttää seurustelua muiden kanssa</p>
+      <p type="listitem">välttää uusien asioiden kokeilua</p>
+      <p type="listitem">yrittää miellyttää muita ystävyys- ja rakkaussuhteissa</p>
+      <p type="listitem">ei ota tai vaadi paikkaansa erilaisissa tilanteissa</p>
+      <p type="listitem">on usein mustasukkainen tai kateellinen muille</p>
+      <p type="listitem">tulee hyvin surulliseksi epäonnistuttuaan jossain.</p>
+    </list>
+    <p>Huono itsetunto voi ilmetä myös siten, että henkilö käyttäytyy väkivaltaisesti, kiusaa tai on ilkeä muille. Huono itsetunto voi johtaa myös pätemisen tarpeesta johtuvaan suorittamiseen tai itsensä kehuskeluun.</p>
+    <p type="title">Mistä huono itsetunto johtuu?</p>
+    <p>Huono itsetunto voi johtua monista eri syistä. Jokainen haluaa olla arvostettu, tulla nähdyksi ja kunnioitetuksi omana itsenään. Lapsuudessa koetut riittämättömyyden tunteet ja hyväksynnän puute voivat johtaa itsetunnon heikentymiseen.</p>
+    <p>Jos on kokenut hyväksyntää vain silloin, kun on pärjännyt hyvin, esimerkiksi urheilukilpailussa tai kokeessa, voi uskoa kelpaavansa vain suoriutuessaan hyvin. Hän voi kokea, että ei kelpaa sellaisena kuin on.</p>
+    <p>Itsetuntoon vaikuttaa kielteisesti myös se, jos ei tule nähdyksi lapsuudessa, esimerkiksi jos vanhemmat tai muu perhe on usein poissa kotoa, jos he ovat sairaita, käyttävät lasta hyväksi tai ovat liian kiireisiä ehtiäkseen ja jaksaakseen olla lastensa kanssa.</p>
+    <p>Riittämättömyyden tunne voi johtua myös herkkyydestä. Herkkä ihminen voi kärsiä huonosta itsetunnosta, vaikka hänen kasvuympäristönsä olisikin ollut hyvä.</p>
+    <p>Syistä riippumatta huonoa itsetuntoa voi kehittää paremmaksi.</p>
+    <p type="title">Erilaisuus ja itsensä vertailu muihin</p>
+    <p>Itsetunnon kehittymiselle voi olla suuri merkitys sillä, kuinka samankaltaiseksi tuntee itsensä oman perheenjäsenten ja läheisten kanssa. Jos kaikki läheiset pitävät urheilusta eikä itse ole siitä lainkaan kiinnostunut, voi tuntea itsensä väärinymmärretyksi ja epävarmaksi. Muita asioita, jotka voivat johtaa huonoon itsetuntoon, ovat:</p>
+    <list>
+      <p type="listitem">tunne ulkopuolisuudesta tai kiusatuksi joutuminen</p>
+      <p type="listitem">työttömyys</p>
+      <p type="listitem">vaikeus päättää omasta elämästään, esimerkiksi koulutus tai ammatinvalinta</p>
+      <p type="listitem">psyykkiset ongelmat, esimerkiksi vakava ahdistus tai masennus.</p>
+    </list>
+    <p>Monet ihmiset vertaavat itseään tuttuihinsa tai mainoksissa ja mediassa näkyviin ihmisiin. Mitä suuremmat vaatimukset itselleen asettaa – on oltava kaikessa hyvä, hyvännäköinen ja suosittu – sitä vaikeampaa on olla tyytyväinen itseensä.</p>
+    <p type="title">Itsetunto ei aina näy ulospäin</p>
+    <p>Itsetuntoa ei ole helppo tunnistaa päältäpäin. Myös menestyvältä vaikuttava, hyvännäköinen ja ahkera henkilö, jolla on paljon ystäviä, voi kärsiä huonosta itsetunnosta ja tuntea, että hän ei ole tarpeeksi hyvä ja riittävä.</p>
+    <p>» Vinkkejä itsetunnon kohentamiseen</p>
+  </body>
+</document>

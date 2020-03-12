@@ -1,0 +1,33 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Sanakirjat</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>162</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/satnegirji.fin.html</origFileName>
+    <parallel_text xml:lang="eng" location="satnegirji.eng.html"/>
+    <parallel_text xml:lang="sme" location="satnegirji.html"/>
+    <parallel_text xml:lang="swe" location="satnegirji.swe.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Sanakirjat</p>
+    <p>Meillä on erilaisia ​​e -sanakirjoja</p>
+    <p>Neahttadigisánit on nettisanakirja pohjoissaame-suomi-pohjoissaame ja pohjoissaame-norja-pohjoissaame (jälkimmäinen on isompi). Sanakirjat ymmärtävät kaikkien kielten taivutettuja muotoja, mutta sinun pitää olla netissä käytön aikana. Voit sekä kirjoittaa sanoja ja klikata tekstissä selaimessasi. Jos haluat lukea esim. Word-dokumentin, voit tallentaa se html:nä, avata selaimessa, ja sitten klikata, ikään kuin se olisi netissä.</p>
+    <p>Apertium-nettisanakirjalla (pohjoissaame-suomi-pohjoissaame ja pohjoissaame-norja-pohjoissaame) on erittäin käyttäjäystävällinen käyttöliittymä - kirjoitat pari ensimmäistä alkukirjainta. Sanakirja sisältää vain perusmuodot , eikä esimerkkilauseita</p>
+    <p>Vuosttáš digisánit on pohjoissaame-norja-pohjoissaame-sanakirja, jonka voi asentaa sekä tietokoneisiin ja älypuhelimiin. Voit kirjoittaa sanoja tai (PC:ssä) klikata sanoja. Sanakirja ymmärtää taivutettuja muotoja, ja sitä voi käyttää myös offline-tilassa. Toisin kuin Neahttadigisánit tämä sanakirja lukee myös muita kuin html-tekstejä (poikkeus: Macissa sanakirja ei tue MS Word, mutta voit avata Word-tiedostoja TeXturissa). Sanakirja ei myöskään hallitse yhdyssanoja yhtä hyvin.</p>
+    <p>Voit myös etsiä aikailmaisuja, kellonaikoja, päivämääriä ja paikannimiä .</p>
+    <p>Osa meidän resursseista ovat beta-versioita . Niisä voi siis olla virheitä. Voit vapaasti lähettää meille korjauksia ja parannusehdotuksia! ( oahpa@uit.no )</p>
+  </body>
+</document>

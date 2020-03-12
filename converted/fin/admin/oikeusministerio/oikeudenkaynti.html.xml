@@ -1,0 +1,62 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Oikeudenkäynti - 
+	Oikeus.fi
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2015</year>
+    <wordcount>765</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://oikeus.fi/fi/index/esitteet/oikeuslaitos/oikeudenkaynti.html</origFileName>
+    <parallel_text xml:lang="sme" location="lagasteapmi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Oikeuslaitos</p>
+    <p type="title">Oikeudenkäynti</p>
+    <p>Oikeudenkäynnit ovat yleensä julkisia eli yleisöllä on niihin pääsy. Suljettu käsittely saatetaan pitää esimerkiksi silloin, kun oikeudessa käsitellään erityisen arkaluontoisia, yksityiselämään liittyviä seikkoja. Oikeuden ratkaisun lopputulos on julkinen. Hallintotuomioistuimissa ja vakuutusoikeudessa käsiteltävät asiat ovat usein sellaisia, joista on säädetty salassapitovelvollisuus.</p>
+    <p type="title">Oikeudenkäynti käräjäoikeudessa</p>
+    <p type="title" xml:lang="est">Rikosasia</p>
+    <p>Rikosasia käsitellään yleensä sen paikkakunnan käräjäoikeudessa, jonka alueella rikos on tehty. Rikosasia tulee vireille käräjäoikeudessa sen jälkeen, kun poliisi on rikosilmoituksen tai muun rikosepäilyn perusteella toimittanut esitutkinnan ja syyttäjä on päättänyt nostaa asiassa syytteen. Tavallisimpia tuomioistuimissa käsiteltäviä rikoksia ovat liikenteen vaarantamiset, rattijuopumukset, pahoinpitelyt, varkaudet, petokset ja huumausainerikokset.</p>
+    <p>Rikosoikeudenkäynnissä ovat mukana vastaaja eli syytetty sekä virallinen syyttäjä. Mukana voi olla myös asianomistaja eli rikoksen uhri. Näistä oikeudenkäynnin osapuolista käytetään yhteisnimitystä asianosaiset. Oikeudenkäynnissä esiintyy usein myös todistajia.</p>
+    <p>Syyttäjän rooli on keskeinen oikeudenkäynnin kulun kannalta. Hän vaatii valtion edustajana rangaistusta henkilölle, jonka epäillään syyllistyneen rikokseen. Syyttäjä ei ole osa tuomioistuinta, vaan toimii itsenäisesti. Hänen tehtävänään on tuoda esiin rikosasiaa koskeva näyttö, myös vastaajalle edulliset seikat. Käräjäoikeus joko hyväksyy tai hylkää syyttäjän esittämän syytteen.</p>
+    <p>Jollei syyttäjä nosta syytettä, asianomistaja voi tehdä sen myös itse.</p>
+    <p>Todistajaksi kutsutun on aina tultava oikeuteen, mutta hänen ei tarvitse todistaa läheisiään vastaan. Todistajan on puhuttava totta eikä hän saa salata tiedossaan olevia asioita. Hänellä on oikeus saada korvausta oikeuteen saapumisesta.</p>
+    <p>Rikosjutun käsittely etenee yleensä seuraavassa järjestyksessä:</p>
+    <p>Syyttäjä esittää vaatimuksensa ja niiden perusteet. Jos asianomistaja on läsnä, hänelle annetaan puheenvuoro syyttäjän jälkeen. Hän voi esittää omat vaatimuksensa ja ilmoittaa, onko samaa mieltä syyttäjän kanssa.</p>
+    <p>Vastaaja voi joko myöntää tai kiistää teon. Hän vastaa myös siihen, suostuuko hän maksamaan asianomistajan vaatimat korvaukset.</p>
+    <p>Seuraavaksi syyttäjä ja asianomistaja perustelevat kantansa tarkemmin. Vastaaja lausuu oman näkemyksensä oikeudessa esitetyistä asioista.</p>
+    <p>Tämän jälkeen on vuorossa todistajien kuuleminen ja muun näytön esittäminen. Asianosaiset kertovat käsityksensä oikeudenkäynnin aikana esitetyistä todisteista ja siitä, miten asiassa heidän mielestään pitäisi tuomita.</p>
+    <p>Lopuksi oikeus harkitsee ja antaa tuomion. Rikokseen syylliseksi todettu tuomitaan yleensä rangaistukseen.</p>
+    <p>Rikosasian käsittelee yleensä asian laadusta riippuen joko yksi tuomari tai tuomari ja kaksi lautamiestä. Lautamiehet ovat kunnanvaltuustojen valitsemia maallikoita, jotka edustavat oikeudessa eri väestöryhmien näkemyksiä. Rikosasia voidaan käsitellä myös kolmen tuomarin kokoonpanossa.</p>
+    <p>Yksinkertainen rikosasia voidaan ratkaista käräjäoikeudessa pelkässä kirjallisessa menettelyssä ilman pääkäsittelyä. Edellytyksenä on, että rikoksesta syytetty on tunnustanut teon ja suostuu kirjalliseen menettelyyn. Myös mahdolliselta rikoksen uhrilta on saatava suostumus kirjalliseen menettelyyn.</p>
+    <p>Rikoksia voidaan myös sovitella erityisesti silloin, jos rikoksentekijä on nuori. Aloitteen sovittelusta voi tehdä rikoksen tekijä, uhri, syyttäjä, poliisi tai sosiaaliviranomainen. Sovittelijoina toimivat tehtävään koulutetut henkilöt. Rikosasia voidaan käsitellä tuomioistuimessa, vaikka tapaus olisi soviteltu.</p>
+    <p type="title">Riita-asia</p>
+    <p>Käräjäoikeuteen tuleva riita voi koskea esimerkiksi velan maksua, kauppaa, sopimuksen tulkintaa tai perintöä.</p>
+    <p>Riita-asian oikeudenkäynnissä asianosaisina ovat kantaja, joka on pannut jutun vireille, ja vastaaja, jolle vaatimus esitetään.</p>
+    <p>Asia tulee vireille silloin, kun kantaja toimittaa käräjäoikeuden kansliaan kirjallisen haastehakemuksen. Siinä on mm. selvitettävä, mitä vaaditaan ja perusteltava vaatimus. Vastaajan haastamisesta huolehtii käräjäoikeus joko postitse tai haastemiehen välityksellä.</p>
+    <p>Käräjäoikeus pyytää vastaajalta ensiksi kirjallisen vastauksen haastehakemukseen. Useimmat riidat ratkaistaan jo tässä kirjallisen valmistelun vaiheessa.</p>
+    <p>Jollei niin käy, asian käsittelyä jatketaan tuomarin johdolla suullisessa valmistelussa. Siinä selvitetään, mistä riidan osapuolet todella ovat eri mieltä. Tässä vaiheessa asianosaisten on yleensä viimeistään ilmoitettava kaikki vaatimuksensa ja niiden perusteet samoin kuin todisteet, joita he aikovat esittää vaatimustensa tueksi. Asiaa käsittelevä tuomari selvittää myös, onko asiassa mahdollista päästä sovintoon.</p>
+    <p>Ellei valmistelussa päästä sovintoratkaisuun, järjestetään pääkäsittely, jossa todistajia ja yleensä myös jutun asianosaisia kuullaan henkilökohtaisesti.</p>
+    <p>Riita-asiassa ketään ei tuomita rangaistukseen, vaan käräjäoikeus ratkaisee, mikä on lain mukainen lopputulos.</p>
+    <p>Päätöksen tekee yleensä yksi tuomari, mutta laajassa riita-asiassa voidaan ratkaista myös kolmen tuomarin kokoonpanossa.</p>
+    <p type="title">Hakemusasia</p>
+    <p>Käräjäoikeus käsittelee myös suuren määrän hakemusasioita. Niitä ovat esimerkiksi avioerot ja lapsen huoltoa koskevat riidattomat asiat.</p>
+    <p type="title">Oikeudenkäynti hallinto-oikeudessa</p>
+    <p>Viranomaisten päätöksistä voi yleensä valittaa hallinto-oikeuteen. Hallinto-oikeudet käsittelevät veroasioita, kunnallisasioita, rakennus- ja ympäristöasioita, sosiaali- ja terveydenhuoltoasioita sekä muita hallintoasioita. Muun muassa veroasioissa ja kunnallisasioissa on kuitenkin ensiksi haettava oikaisua esimerkiksi lautakunnalta tai ylemmältä toimielimeltä. Vasta oikaisuvaatimukseen annettuun päätökseen voi hakea muutosta hallinto-oikeudelta.</p>
+    <p>Asia tulee vireille hallinto-oikeudessa, kun valittaja toimittaa sinne valituskirjelmänsä. Sen jälkeen hallinto-oikeus hankkii lausunnon päätöksen tehneeltä viranomaiselta. Valittajaa kuullaan hankittujen lausuntojen ja mahdollisen muun selvityksen johdosta.</p>
+    <p>Hallinto-oikeus ratkaisee suurimman osan valituksista asiakirjojen perusteella. Myös suullinen käsittely voidaan järjestää, jos valittaja sitä pyytää ja asiaan voidaan suullisessa käsittelyssä tuoda lisävalaistusta.</p>
+    <p>Suullisessa käsittelyssä valittaja esittää vaatimuksensa ja niiden perusteet. Sen jälkeen kuullaan päätöksen tehneen viranomaisen edustajan kanta asiaan. Käsittelyssä voidaan täsmentää niitä vaatimuksia ja valitusperusteita, jotka on esitetty kirjelmissä. Suullisessa käsittelyssä kuullaan usein myös todistajia ja asiantuntijoita.</p>
+    <p>Päätöksen tekee hallinto-oikeudessa tavallisesti kolme tuomaria esittelijän laatiman ehdotuksen perusteella. Eräät oikeudellisesti yksinkertaisemmat asiat voidaan ratkaista pienemmässä kokoonpanossa. Eräissä asioissa, kuten mielenterveysasioissa ja lastensuojeluasioissa, päätöksen tekemiseen osallistuu lainoppineiden jäsenten lisäksi asiantuntijajäsen. Ympäristönsuojelu- ja vesiasioiden ratkaisuun osallistuu lainoppineiden jäsenten lisäksi luonnontieteen tai tekniikan alan tuomari. Normaali kokoonpano näissä asioissa on nelijäseninen.</p>
+  </body>
+</document>

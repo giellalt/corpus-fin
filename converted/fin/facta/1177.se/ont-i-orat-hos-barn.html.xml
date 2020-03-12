@@ -1,0 +1,65 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>396</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Ont-i-orat-hos-barn</origFileName>
+    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="d.html"/>
+    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="l1.html"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Lapsen korvakipu - mitä voi tehdä itse? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Lapsen korvakipu - mitä voi tehdä itse?Ont i örat hos barn - vad kan man göra själv?</p>
+    <list>
+      <p type="listitem">Kun lapsen sängyn pääpuolta kohotetaan, korvan turvotus vähenee ja kipu lievittyy. Pääpuolta voi kohottaa asettamalla tyynyjä patjan alle.</p>
+    </list>
+    <p type="title">Särkyä usein yöllä</p>
+    <p>Flunssaiset lapset saattavat saada korvakipua, kun korvan limakalvot turpoavat. Särky saattaa johtua myös välikorvan märkivästä tulehduksesta, korvatulehduksesta. Sekä flunssa että korvatulehdus ovat yleisiä lasten tulehdussairauksia. Usein lapset heräävät särkyyn yöllä, koska turvotus korvassa pahenee makuulla. Muutama lisätyyny pään alla saattaa helpottaa nukkumista.</p>
+    <p>Korvasärkyä voivat aiheuttaa myös tärykalvoon johtavan korvakäytävän tulehdus, vahatulppa tai leukanivelvaivat.</p>
+    <p type="title">Välikorvantulehdus</p>
+    <p>Välikorvantulehdus alkaa usein äkillisesti ja paranee nopeasti. Korvakivun lisäksi lapsesta saattaa tuntua kuin korva olisi lukossa ja kuulo tavallista huonompi. Myös kuume voi nousta. Joskus tärykalvo saattaa puhjeta, ja märkä valua ulos korvakäytävään. Tällöin särky tavallisesti lievenee. Lapsilla saattaa olla myös kivuttomia korvatulehduksia.</p>
+    <p type="title">Kipua lievittävät lääkkeet</p>
+    <p>Jos tietää, että lapsella on korvatulehdus, tälle voi antaa parasetamolia sisältäviä lääkkeitä, esimerkiksi Alvedonia tai Panodilia, tai ibuprofeenia sisältäviä lääkkeitä, esimerkiksi Ipreniä ja Ibumetinia. Lääkkeitä on saatavilla nestemäisenä, peräpuikkoina tai tabletteina. Noudata tarkasti pakkauksen ohjeita.</p>
+    <p>Alle kuuden kuukauden ikäiselle lapselle ei saa antaa kipua lievittävää lääkettä ennen kuin on kysynyt neuvoa sairaanhoitajalta tai lääkäriltä.</p>
+    <p>Alle 18-vuotiaille lapsille ei saa antaa asetyylisalisyylihappoa sisältäviä, kipua lievittäviä ja kuumetta alentavia lääkkeitä, kuten Magnecyliä, Treoa tai Albyl minoria ilman lääkärin suositusta.</p>
+    <p type="title">Nenäsuihke</p>
+    <p>Turvotusta lievittävä nenäsuihke auttaa tukkoiseen nenään ja helpottaa lapsen hengittämistä. Ei ole kuitenkaan pystytty todistamaan, että nenäsuihke auttaisi korvatulehdukseen.</p>
+    <p type="title">Korvavaivat ja kylpeminen</p>
+    <p>Jos tärykalvo on puhjennut, ei suositella kylpemistä ennen kuin märänvuoto korvakäytävästä on loppunut. Kun tärykalvo on parantunut, mikä yleensä tapahtuu melko nopeasti, lapsi voi kylpeä normaalisti. Jos lapsen korvat on putkitettu tai hänellä on toistuvia korvatulehduksia, veden pääsyä korvaan on varottava.</p>
+    <p type="title">Ehkä tarpeen ottaa yhteys sairaanhoitoon</p>
+    <p>Lapsilla voi esiintyä tilapäistä korvasärkyä flunssan yhteydessä. Jos särky ei hellitä, vaikka lapelle on annettu kipua lievittävää lääkettä ja hänen pääpuoltaan on pidetty koholla, lapsen korvat tulee tutkia joko terveyskeskuksessa tai päivystysvastaanotolla parin kolmen vuorokauden kuluessa.</p>
+    <p>Hoitoon pitää hakeutua välittömästi, jos lapsi on veltto, ei jaksa leikkiä eikä halua juoda tai on alle kuuden kuukauden ikäinen.</p>
+    <p>Terveyskeskukseen tulee aina ottaa yhteyttä myös silloin, jos lapsen korvakäytävästä valuu nestettä, huolimatta siitä, onko lapsella kipuja vai ei.</p>
+    <p>Sairaanhoitoneuvontaan voi soittaa koska tahansa.</p>
+  </body>
+</document>

@@ -1,0 +1,35 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>293</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=775925</origFileName>
+    <parallel_text xml:lang="sma" location="internationelle-barkoe.html"/>
+    <parallel_text xml:lang="sme" location="riikkaidgaskasa-bargu.html"/>
+    <parallel_text xml:lang="smj" location="rijkajgasskasasj-barggo.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kansainvälinen työ - Svenska kyrkan - Om oss</p>
+    <p type="title">Kansainvälinen työ</p>
+    <p type="title">Nopea katastrofiapu, pitkän tähtäimen kehitys, taistelu oikeudenmukaisuuden puolesta ja yli sata vuotta yhteistyötä kirkkojen kanssa Afrikassa ja Aasiassa. Siinä yksi tapa kuvailla Ruotsin kirkon kansainvälistä työtä nimeltä.</p>
+    <p>Köyhän naisen saama laina perheensä elämän parantamiseksi on osa kansainvälistä työtä. Sitä on myös hiv- ja aids-potilaiden kohtaaminen heidän syrjimisensä sijaan. Kansainvälistä työtä tehdään myös, kun ihmiset hakevat sovintoa vihanpidon sijaan ja kun konfliktit korvataan naapurisovulla. Ruotsin kirkon kansainvälinen työ on tehnyt yhteistyötä afrikkalaisten ja aasialaisten kirkkojen kanssa yli sadan vuoden ajan. Nykyään maailmanlaajuista kristillistä yhteistyötä tehdään oikeudenmukaisen maailman puolesta nälän, köyhyyden ja sorron poistamiseksi. ACT-allianssi (ACT Alliance) toimii koko maailmassa. Ihmiset pyrkivät kaikkialla vaikuttamaan elämäänsä ja muuttamaan sitä.</p>
+    <p><em type="italic">Yksityisten lahjoitukset ovat tärkeitä </em>Tähän työhön kuuluvat ruoan ja veden turvaaminen kaikille, maatalouden kehitys, teologinen koulutus, mikroluotot ja säästäminen sekä sovittelu ja uskontodialogi. Lisäksi työhön kuuluu taistelu oikeudenmukaisuuden puolesta, esimerkiksi oikeudenmukaisen kaupankäynnin, katastrofiavun, ihmisoikeuksien ja naisten johtajuuden puolesta. Työ rahoitetaan suurelta osin Ruotsissa kerätyillä varoilla. Seurakuntien, yksityisten lahjoittajien ja järjestöjen lahjoitukset ovat merkittäviä työssä oikeudenmukaisemman maailman luomiseksi. Ruotsin kehitysaputoimiston Sidan ja EU:n määrärahat ovat myös tärkeitä. Ruotsin kirkon seurakunnat ovat kansainvälisen työn perusta. Ne tiedottavat, kouluttavat ja keräävät rahaa esimerkiksi keräämällä kolehtia ja järjestämällä myyjäisiä sekä erilaisia tapahtumia. <em type="italic">Epäoikeudenmukaisuuksista on päästävä eroon </em>Avustustyö on tärkeää, mutta se ei ratkaise kaikkia ongelmia. Epäoikeudenmukaisuudet, jotka estävät ihmisiä elämästä arvokasta elämää, on poistettava. Samalla kun kaikkien pitäisi pystyä elättämään itsensä nykymaailmassa, maapallon luonnonvarojen on riitettävä tulevillekin sukupolville. Ruotsin kirkon tukee paikallisia kirkkoja ja organisaatioita Euroopassa, Afrikassa, Aasiassa, Latinalaisessa Amerikassa ja Lähi-idässä tekemällä yhteistyötä kansainvälisessä kirkkojen verkostossa. Se on tehokas tapa työskennellä pysyvän muutoksen puolesta. Ruotsin kirkon kansliassa Uppsalassa suunnitellaan keräystoimintaa, kansansivistystyötä sekä valistustyötä. Siellä päätetään, mitä projekteja eri puolilla maailmaa tuetaan taloudellisesti tai henkilökohtaisesti Ruotsin kirkon kansainvälisen työn kautta. </p>
+    <p>//</p>
+  </body>
+</document>

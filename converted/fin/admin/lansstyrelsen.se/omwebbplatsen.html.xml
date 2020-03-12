@@ -1,0 +1,77 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>460</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/Fi/Pages/OmWebbplatsen.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="fit" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="sma" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="sme" location="omwebbplatsen.html"/>
+    <parallel_text xml:lang="swe" location="omwebbplatsen.html"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmu"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rka"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmf"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="rmn"/>
+    <parallel_text location="omwebbplatsen.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Verkkosivusta - Länsstyrelsen Skåne</p>
+    <list/>
+    <p type="title">Verkkosivusta</p>
+    <p>
+      <em type="italic">Lääninhallituksen verkkosivun tehtävänä on auttaa sinua vierailijana löytämään tietoja siitä, mitä lääninhallitus tekee ja miten se vaikuttaa sinuun ja ympäröivään yhteiskuntaan. Verkkosivu on kehitelty yhteistyössä Ruotsin muiden lääninhallitusten kanssa. </em>
+    </p>
+    <p type="title">Eri tapoja löytää verkkosivulta</p>
+    <p>Aloitussivulla on ylävalikko, jossa on suurin osa toimintaamme koskevista tiedoista. Aloitussivulla on myös linkkejä lupiin, avustuksiin ja tukiin, lomakkeisiin ja julkaisuihin sekä ajankohtaisiin kysymyksiin. ja uutisiin.</p>
+    <p type="title">Sisältö A-Ö</p>
+    <p>Hakusanat aakkosjärjestyksessä – sellaisista asioista, joista moni kokemuksemme mukaan haluaa löytää tietoja verkkosivultamme. Jos esimerkiksi haet hakusanalla Melu, napsauta M-kirjainta.</p>
+    <p type="title">Hakutoiminto</p>
+    <p>Ylätunnisteessa on hakuruutu, johon voit kirjoittaa haluamasi sanan, haku tehdään koko verkkosivun alueelta. Se tuottaa osumia kaikentyyppisistä sisällöistä.</p>
+    <p type="title">Verkkosivun kartta</p>
+    <p>Näyttää sivuston hierarkisen rakenteen.</p>
+    <p type="title">Tietojen jakaminen</p>
+    <p>Tämän verkkosivuston jokaisella sivulla on toiminto sivun tietojen lähettämiseksi sosiaalisiin medioihin. Toiminto on sivun otsikon alapuolella kohdan Tulosta oikealla puolella.</p>
+    <p type="title">Käytettävyys</p>
+    <p>Lääninhallituksen verkkosivu seuraa mahdollisimman suuressa määrin ohjeita sivun käytettävyydestä verkossa. Olemme käyttäneet Vervan ohjeita: Opastus 24-tunnin verkkoon seuraa WAI:n ohjeistusta WCAG 1.0. Tämä tehdään siinä määrin kuin se on mahdollista alustalla, jolle olemme laatineet verkkosivumme.</p>
+    <p type="title">Räätälöi verkkosivu</p>
+    <p>Verkkosivulla ei ole mitään Sopeuta-toimintoa, koska tehdyt sopeutukset aiheuttavat riskin käyttäjän omien asetusten altistumiselle häiriöille. Verkkoselaimen omat asetukset on helppo sopeuttaa siten, että aikaansaat esimerkiksi suuremman kontrastin tai tekstin.</p>
+    <p type="title">Suositellut verkkoselaimet</p>
+    <p>Verkkosivumme toimii hyvin uudemmilla verkkoselaimilla, jotka tukevat W3C:n asettamia verkkostandardeja,. Niitä ovat esimerkiksi Firefox, Safari, Internet Explorer, Opera ja Google Chrome.</p>
+    <p type="title">Mitä ovat evästeet?</p>
+    <p>Eväste on pieni tekstitiedosto, jonka verkkosivusto tallentaa tietokoneeseesi. Evästeitä käytetään antamaan verkkosivustolla käyjälle pääsy käyttämään eri teknisiä toimintoja.</p>
+    <p>Evästeitä on kahta eri tyyppiä:</p>
+    <list>
+      <p type="listitem">Toinen niistä tallentaa tiedoston pitemmäksi aikaa tietokoneeseesi. Sitä käytetään esimerkiksi toiminnoissa, jotka ilmoittavat, mitä uutta verkkosivustolle on tullut viimeksi suoritetun käynnin jälkeen.</p>
+      <p type="listitem">Toista kutsutaan taas istuntoevästeeksi. Eväste tallennetaan vain väliaikaisesti tietokoneesi muistiin silloin kun olet verkkosivulla, Toiminto pitää muistissa esimerkiksi tietoa kielivalinnastasi. Istuntoevästeitä ei tallenneta tietokoneeseesi pitemmäksi aikaa, vaan ne häviävät verkkoselain suljettaessa.</p>
+    </list>
+    <p type="title">Evästetoiminnon sulkeminen</p>
+    <p>Ellet halua vastaanottaa evästeitä , voit helposti sulkea pois ne verkkoselaimestasi. Tämä toimenpide saattaa kuitenkin vaikuttaa siihen, etteivät tietyt verkkosivut toimi niin kuin niiden pitäisi. Voit sulkea pois molemmantyyppiset evästeet.</p>
+    <p type="title">Pdf-tiedostojen lukuohjelma</p>
+    <p>Tietyt asiakirjat on tallennettu verkkosivulle tiedostomuodossa Portable Document Format (PDF), ja niiden lukemiseksi tarvitset ohjelman Adobe Acrobat Reader, jonka voit ladata ilmaiseksi tietokoneellesi Adoben verkkosivulta.</p>
+    <p type="title">Juridiikkaa koskevia tietoja</p>
+    <p type="title">Henkilötietolaki</p>
+    <p>Henkilötietojenlain, jota kutsutaan myös nimellä PUL, tarkoituksena on suojella ihmisiä heidän henkilökohtaisen koskemattomuutensa loukkaamiselta henkilötietoja käsittelemällä. Lääninhallituksen verkkosivusto noudattaa PUL:ssä annettuja määräyksiä.</p>
+    <p type="title">Henkilötietojen käsittelyn tarkoitus</p>
+    <p>Lääninhallitus saa tietoonsa henkilötietosi, kun ilmoittaudut johonkin konferenssiin tai vastaavaan, tilaat jonkin julkaisun tai lähetät sähköpostiviestejä jollekin viranomaiselle. Julkisuusperiaate Lääninhallitus on valtion viranomainen. Tämä merkitsee, että meille lähetetyistä viesteistä tulee julkisia asiakirjoja, jotka voidaan luovuttaa julkiseen käyttöön julkisuusperiaatteen mukaisesti.</p>
+    <p type="title">Materiaalin käyttö, tekijänoikeudet</p>
+    <p>Lääninhallituksen verkkosivu sisältää tekstejä, karttoja, kuvia ja piirroksia, jotka ovat tekijänoikeuslain alaisia, eikä niitä saa käyttää luvatta. Sama koskee logoamme. Jos lähdettä ei ole ilmoitettu, lääninhallituksella on tekijänoikeudet.</p>
+  </body>
+</document>

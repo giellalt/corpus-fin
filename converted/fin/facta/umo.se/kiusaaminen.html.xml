@@ -1,0 +1,57 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>398</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Finska/Kiusaaminen</origFileName>
+    <parallel_text xml:lang="fit" location="mobbaus-eli-mobbinki.html"/>
+    <parallel_text xml:lang="sma" location="irhkeme.html"/>
+    <parallel_text xml:lang="sme" location="givssideapmi.html"/>
+    <parallel_text xml:lang="smj" location="nuppastibme.html"/>
+    <parallel_text xml:lang="swe" location="mobbning.html"/>
+    <parallel_text location="miak-attjer-manisch-mobbning.html" xml:lang="rmu"/>
+    <parallel_text location="holjiba.html" xml:lang="rmf"/>
+    <parallel_text location="prasajimo.html" xml:lang="rmy-rka"/>
+    <parallel_text location="mobbing.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="mobibe.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kiusaaminen</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Kiusaaminen</p>
+    <p>Kiusaamisella tarkoitetaan sitä, kun joku joutuu ympärillä olevien ihmisten huonon kohtelun kohteeksi. Yksittäiset erimielisyydet eivät ole kiusaamista. Kun ilkeää kohtelua tapahtuu toistuvasti, ja se aiheuttaa kiusatulle harmia ja pahaa mieltä, puhutaan kiusaamisesta.</p>
+    <p>Kiusaamisen uhriksi joutunut voi tuntea itsensä pelokkaaksi, surulliseksi ja loukatuksi. Joku voi tulla surulliseksi ja pahoittaa mielensä tullessaan kohdelluksi ilkeästi vain kerran, vaikka sitä ei kutsutakaan kiusaamiseksi. Pitkään jatkunut kiusaaminen voi vaikuttaa kiusatun itsetuntoon, ja hän voi tuntea itsensä hyvin yksinäiseksi.</p>
+    <p type="title">Mitä kiusaaminen on?</p>
+    <p>Kiusaaminen voi olla kuiskuttelua, tuijottamista, nauramista, tönimistä, lyömistä ja ilkeitä puheita. Kiusaamista voi olla myös ilkeät tekstiviestit, sähköpostit tai viestit Facebookissa tai vainoaminen netissä.</p>
+    <p>Myös syrjintä esimerkiksi erilaisen pukeutumisen tai ulkonäön perusteella on kiusaamista. Kiusattu voidaan jättää ryhmän ulkopuolelle tai levittää hänestä juoruja. Kaikki, mikä saa toisen voimaan huonosti, on kiusaamista.</p>
+    <p>Kiusaaminen on monille voimakas ilmaus. Ehkä kiusaajat eivät ymmärrä, että kyse todellakin on kiusaamisesta. He saattavat esimerkiksi sanoa, että kyseessä on vain riita. Riita eroaa kiusaamisesta kuitenkin siinä, että riidan osapuolet ovat suhteellisen tasaväkisiä ja suunnilleen yhtä ilkeitä toisilleen.</p>
+    <p>Sama koskee ilkeitä vitsejä. Kiusaaja voi joskus vierittää syyn toisen niskoille ja sanoa, että kyse oli vain vitsistä. Jos vitsi loukkaa kiusattua, kyse on kiusaamisesta. Joskus kiusaaminen on niin vakavaa, että kyseessä on rikos. Tästä esimerkkinä on pahoinpitely, muun muassa lyöminen. Myös häirintä tai syrjintä on rikos. Rikoksia ovat myös uhkailu tai alle 15-vuotiaan pakottaminen seksuaalisiin tekoihin netissä.</p>
+    <p>Jos jotakuta kohdellaan huonosti esimerkiksi sukupuolen tai uskonnon vuoksi, kyseessä on syrjintä. Kiusaaminen on aina otettava vakavasti!</p>
+    <p type="title">Mistä kiusaaminen johtuu?</p>
+    <p>Kiusaaminen voi saada alkunsa ryhmässä, jossa on huono ilmapiiri. Kiusaajat saattavat ehkä yrittää pitää yhtä pienessä ryhmässä olemalla ilkeitä jollekulle muulle. Joskus kiusaaminen johtuu siitä, että kukaan aikuinen ei ota vastuuta siitä, että kaikki käyttäytyvät hyvin toisiaan kohtaan. Kiusaamisen syynä voi olla myös se, että kiusaajasta tuntuu pahalta ja hän kostaa muille tunteakseen itsensä vahvemmaksi. Joskus kiusaaminen voi pahentua, koska kukaan ei uskalla sanoa vastaan. Ehkä muut pelkäävät itse joutuvansa kiusatuksi tai menettävänsä kavereita.</p>
+    <p type="title">Miten kiusaamista voidaan ehkäistä?</p>
+    <p>Kiusaamisen ehkäisy ei ole koskaan nuoren vastuulla. Koulun henkilökunnan aikuiset ovat vastuussa siitä, että kukaan ei joudu kiusatuksi. Kaikki voivat kuitenkin auttaa vähentämään kiusaamista.</p>
+    <p>Jos huomaa, että jotakuta kohdellaan huonosti tai hän tuntee itsensä ulkopuoliseksi, voi osoittaa välittävänsä. Joskus sekin riittää, että tervehtii tai kysyy jotain arkipäiväistä, jolloin kiusattu tietää, että joku välittää.</p>
+    <p>Voi myös olla avuksi kertomalla jollekin henkilölle, joka on koulussa töissä, jos huomaa jonkun joutuneen kiusatuksi.</p>
+  </body>
+</document>

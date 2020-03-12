@@ -1,0 +1,31 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjien kotisivut neljällä kielellä</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>115</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=120&amp;lang=finnish.html</origFileName>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=120_lang=english.html"/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=120_lang=davvi.html"/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=120_lang=anaras.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Saamelaiskäräjien kotisivut neljällä kielellä</p>
+    <p>Syyskuusta 2007 käynnissä olleen internetsivujen uudistustyön tuloksena Saamelaiskäräjien kotisivut ovat 2.5.2008 lähtien neljällä kielellä: suomeksi, pohjoissaameksi, inarin saameksi ja englanniksi. Koltansaamenkieliset sivut julkaistaan toukokuun aikana kun tekniset esteet on saatu poistettua.</p>
+    <p>Internetsivuilta löytyvät tällä hetkellä perustiedot Saamelaiskäräjistä ja sen toiminnasta. Sisältöä lisätään sivuille koko ajan, uuden materiaalin lisäksi sivuille on tarkoitus laittaa myös aiempien vuosien raportteja, lausuntoja jne.</p>
+    <p>Uusien sivujen teknisestä toteutuksesta vastasi Solinum Oy ja ulkoasusta mainostoimisto Studio Borga.</p>
+    <p>Internetsivuston uudistyön tarkoituksena oli teknisten ominaisuuksien ja ulkoasun uudistuksen lisäksi uudistaa myös sisältö vastaaman nykypäivän tarpeita. Toivomme, että uusi sivusto palvelee saamelaisten lisäksi myös mediaa, viranomaisia ja muita sidosryhmiä aiempaa paremmin, sanoo Saamelaiskäräjien hallintopäällikkö Juha Guttorm.</p>
+    <p>Saamelaiskäräjien nettisivut löytyvät osoitteesta www.samediggi.fi</p>
+  </body>
+</document>

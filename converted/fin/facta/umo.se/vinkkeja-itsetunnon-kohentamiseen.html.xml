@@ -1,0 +1,74 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>495</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Finska/Vinkkeja-itsetunnon-kohentamiseen</origFileName>
+    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
+    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
+    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
+    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
+    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
+    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
+    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="rejchern.html" xml:lang="yid"/>
+    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Vinkkejä itsetunnon kohentamiseen</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Vinkkejä itsetunnon kohentamiseen</p>
+    <p>Omaa itsetuntoaan voi kohentaa monin eri tavoin. Tässä muutamia kokeilunarvoisia vinkkejä:</p>
+    <list>
+      <p type="listitem">Itsetunnoltaan heikko ihminen juuttuu helposti omaan itseen liittyviin kielteisiin ajatuksiin. Kielteisiä ajatusmalleja voi yrittää muuttaa pohtimalla onko tällaisista ajatuksista itselle hyötyä. Onko todellakin niin, että en ole hyvä missään?</p>
+      <p type="listitem">Päästäkseen irti omaa ulkonäköä ja kykyjä koskevista ajatuksista, jolla ei ole tekemistä itsetunnon kanssa, voi pyytää luotettavia ihmisiä kertomaan, millaisista ominaisuuksista muut ihmiset pitävät itsessä. Tuttavaa voi pyytää tekemään ominaisuuksista listan, jonka voi asettaa näkyvälle paikalle.</p>
+      <p type="listitem">Voi myös pohtia millaisista ominaisuuksista pitää toisissa. Mikä oikeastaan on tärkeää? Että henkilö on <span type="quote" xml:lang="swe">"cool"</span> ja saa parhaat numerot kokeista vai utelias, huomaavainen, fiksu, kekseliäs ja rohkea henkilö, joka uskaltaa olla oma itsensä?</p>
+      <p type="listitem">Hyvät suhteet ystäviin, seurustelukumppaniin ja perheeseen vahvistavat itsetuntoa. Jos oman perheen jäsenet tai muut läheiset puhuvat toisilleen ilkeästi, voi pyytää heitä lopettamaan. Ehkä jokainen voisi sen sijaan sanoa toisilleen jotain positiivista?</p>
+      <p type="listitem">Itsetuntoa voi vahvistaa tekemällä asioita, joita ei tavallisesti tekisi. Jos oppitunnilla ei koskaan viittaa ensimmäisenä, voi yrittää tehdä niin seuraavalla oppitunnilla. Tai voi yrittää sanoa vastaan seuraavan kerran, kun joku yrittää tehdä itsestään hauskan jonkun toisen kustannuksella, voi hakea mieleistään työtä, soittaa jollekin, josta välittää tai näyttää kaverille kirjoittamansa tarinan.</p>
+      <p type="listitem">Sen sijaan, että pohtisi menneisyydessä tapahtuneita epäonnistumisia, voi yrittää hyväksyä tapahtuneet asiat ja silloin koetut tunteet. Jos esimerkiksi kokee, että omat vanhemmat eivät olleet lapsuudessa riittävän kannustavia, ehkä tällä hetkellä omassa lähipiirissä on välittäviä ja kannustavia ihmisiä. Voi myös pohtia, mitä voisi tällä hetkellä tehdä voidakseen paremmin. Tämän ei tarvitse tarkoittaa sitä, että menneitä asioita ei saisi surra, vaan päinvastoin asiaa on ehkä tarve surra tietyn ajan ja mennä sitten eteenpäin. kannattaa surra tietyn hetken ajan ja mennä sitten eteenpäin.</p>
+    </list>
+    <p type="title">Nuorisopaneelin parhaat vinkit</p>
+    <p>UMO:n oma nuorisopaneeli kertoo parhaat vinkkinsä itsetunnon kohentamiseen:</p>
+    <list>
+      <p type="listitem">Yritä olla rohkea ja uskalla enemmän: seiso rohkeasti mielipiteidesi takana, uskalla kysyä jos et tiedä, uskalla nolata itsesi ja uskalla nauraa itsellesi.</p>
+      <p type="listitem">Vietä aikaa mukavien ja luotettavien ihmisten kanssa.</p>
+      <p type="listitem">Jos edessä on hermostuttava tai pelottava tilanne, kuuntele lempimusiikkiasi. Se saa sinut tuntemaan itsesi rohkeammaksi ja vahvemmaksi.</p>
+      <p type="listitem">Ota vastaan kiitoksia ja kehuja. Jos se tuntuu kiusalliselta, hengitä syvään, kiitä ja salli itsesi nauttia saamistasi kehuista.</p>
+      <p type="listitem">Kehu itseäsi ja ole tyytyväinen, kun olet esimerkiksi tehnyt läksyt tai soittanut hankalalta tuntuneen puhelun.</p>
+      <p type="listitem">Yritä olla hyvä ja kannustava ystävä ja vietä aikaa kavereiden kanssa, jotka kannustavat ja pitävät sinusta juuri sellaisena kuin olet.</p>
+      <p type="listitem">Viljele kohteliaisuuksia ja osoita arvostusta muita ihmisiä kohtaan.</p>
+      <p type="listitem">Halaa paljon!</p>
+      <p type="listitem">Vaikka itseluottamus ja itsetunto eivät ole sama asia, itsetunto kasvaa ja kehittyy, kun teet asioita, joissa koet olevasi hyvä.</p>
+      <p type="listitem">Tee lista asioista, joista pidät itsessäsi.</p>
+      <p type="listitem">Tee lista asioista, jotka tekevät sinut onnelliseksi.</p>
+      <p type="listitem">Aseta itsellesi tavoitteita. Tee itselle mielekkäitä asioita tai jotain, mitä et ole koskaan ennen tehnyt. Älä välitä mahdollisista epäonnistumisista.</p>
+      <p type="listitem">Itsetunto liittyy omaantuntoon. Jos käyttäytyy ilkeästi, saa itselleen huonon omatunnon ja pahan mielen. Sen sijaan lempeä ja kiltti ihminen voi paremmin ja saa myös paremman itsetunnon.</p>
+      <p type="listitem">Hyvä ja tukeva opettaja voi parantaa minäkuvaa.</p>
+      <p type="listitem">Hae tarvittaessa apua esimerkiksi nuorisovastaanoton psykologilta tai kuraattorilta.</p>
+    </list>
+    <p>» Itsetunto</p>
+  </body>
+</document>

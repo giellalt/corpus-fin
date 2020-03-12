@@ -1,0 +1,36 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Samediggi - Saamelaiskäräjät - Ravintola Lyeme</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>61</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
+    <multilingual>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=404&amp;lang=finnish.html</origFileName>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=404_lang=english.html"/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=404_lang=davvi.html"/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=404_lang=anaras.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ravintola Lyeme</p>
+    <p>Saamelaiskulttuurikeskuksen ravintola palvelee kongressien ja kokousten tilausruokailuissa. Ravintola sijaitsee keskuksen ensimmäisessä kerroksessa. Sen suurista ikkunoista aukeaa näkymä Juutuanjoelle ja Inarijärvelle.</p>
+    <p><em type="italic">AUKIOLOAJAT: </em> </p>
+    <p>Ravintola on auki tapahtumien ja kokousten aikaan tilauksesta.</p>
+    <p>Ravintolassa on asiakastiloja 50 asiakkaalle. Asiakastilaisuuksissa ruokailutilana voidaan käyttää myös ravintolan vieressä olevaa monitoimisalia sekä keskuksen kokoustiloja. Ravintolan yrittäjänä toimii Outolinty Oy.</p>
+    <p><em type="italic">Yhteystiedot: </em> </p>
+    <p>puh. + 358 (0)400 965 341</p>
+    <p>sähköposti:</p>
+  </body>
+</document>

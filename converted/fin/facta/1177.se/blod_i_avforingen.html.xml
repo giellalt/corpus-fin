@@ -1,0 +1,63 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>656</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Undersokningarprover/blod_i_avforingen</origFileName>
+    <parallel_text xml:lang="eng" location="blod_i_avforingen.html"/>
+    <parallel_text xml:lang="rus" location="blod_i_avforingen.html"/>
+    <parallel_text xml:lang="swe" location="f-hb-blod-i-avforingen.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">F-Hb, verta ulosteessa / F-HB, blod i avföringen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">F-Hb, verta ulosteessaF-HB, blod i avföringen</p>
+    <p type="title">Miksi on annettava näyte?</p>
+    <p type="title">Milloin F-Hb -näyte on aiheellinen?</p>
+    <p>F-Hb on näyte, jonka avulla tutkitaan, onko ulosteessa verta. Näyte voidaan joutua antamaan, jos suolen toiminnassa on ollut ongelmia, esimerkiksi ummetusta tai ripulia, joka ei mene ohi itsestään. Näyte voi olla myös tarpeen, jos paino on laskenut jostakin tuntemattomasta syystä tai jos esiintyy verenhukkaa.</p>
+    <p>Näyte otetaan kotona ja jätetään omalle terveysasemalle tutkimuksia varten. Suolistovaivat ovat yleisiä, minkä vuoksi F-Hb on usein otettava tutkimus.</p>
+    <p type="title">Mikä F-Hb on ja mistä näyte otetaan?</p>
+    <p>F on lyhenne sanasta feces, joka on ulosteen latinankielinen sana. Hb on lyhenne hemoglobiinista, joka on verisolujen valkuaisaine, joka kuljettaa happea.</p>
+    <p>On normaalia, että suoliston limakalvolla olevista pintaverisuonista tihkuu hieman verta, noin 1- millilitraa vuorokaudessa. Vertailun vuoksi teelusikassa on 5 millilitraa. Jos suolistossa on jokin sairaus, verenvuoto voi olla runsaampaa. Tällöin ulosteen seassa voi olla verta, mikä voi näkyä myös F-Hb -näytteessä.</p>
+    <p>Ulosteen määrä vaihtelee päivittäin ja yksilöittäin mm. ruokavalion ja suoliston toiminnan perusteella. Siksi myös veren määrä voi vaihdella. On yleistä että ulosteessa on verta toisinaan, toisinaan ei. Siksi otetaan usein monta näytettä peräkkäin muutaman päivän välein.</p>
+    <p type="title">Kahdentyyppisiä testejä</p>
+    <p>Testejä on kahta eri tyyppiä. Toinen on immunokemiallinen koe, joka ei tunnista hemoglobiinia syödystä lihasta tai johon eivät vaikuta muut ruoka-aineet. Toinen tyyppi on peroksidaasikoe, joka on hieman vanhempi, edelleen käytössä oleva testi.</p>
+    <p>Molemmat testit ovat vähemmän herkkiä maha-suolikanavan alkupäästä eli ruokatorvesta, mahalaukusta tai pohjukaissuolesta tulevalle verenvuodolle. Se johtuu siitä, että verisolut hajoavat kulkiessaan suoliston läpi. Sen vuoksi mahalaukun verenvuotoa ei aina havaita testissä.</p>
+    <p type="title">Kuinka näyte otetaan?</p>
+    <p>Koska suolistosta voi välillä vuotaa verta ja välillä ei, ulosteessakaan ei aina ole verta. Siksi näyte on annettava vähintään kolme kertaa, kolmen suolentyhjennyksen jälkeen.</p>
+    <p>Jos käytetään immunokemiallista testiä, syödyllä ruoalla ei ole merkitystä ennen testiä.</p>
+    <p>Peroksidaasikoetta käytettäessä on nautittava kuitupitoista ruokaa ja vältettävä testiin vaikuttavaa ruokaa vähintään kolme päivää ennen näytteenottoa sekä näytteidenottojakson aikana. Tällaisia ruokia ovat verta sisältävät ruoat kuten raaka tai puoliraaka liha, maksa ja verestä valmistetut ruokalajit. On myös vältettävä tuoretta tomaattia, banaania, retiisiä, piparjuurta, naurista ja soijapapuja Myös suuret C-vitamiinimäärät ja rautaa sisältävät lääkkeet voivat vaikuttaa peroksidaasikokeeseen.</p>
+    <p>Jotta näytteestä saataisiin oikeat tulokset, on noudatettava laboratoriosta annettuja ohjeita. Ulostenäytettä otettaessa WC-paperia on laitettava pönttöön niin, että uloste tippuu sen päälle eikä liu’u veteen. Näyte otetaan työntämällä testitikku useaan eri kohtaan ulostemassaa. Noudata sen jälkeen näytteen pakkaamis- ja säilytysohjeita. Kun kaikki näytteet on otettu, ne lähetetään tai viedään laboratorioon tutkimusta varten.</p>
+    <p type="title">Syitä näytteenoton odottamiseen</p>
+    <p>Naiset eivät saa ottaa näytettä kuukautisten aikana, koska kuukautisverta saattaa valua ulosteen päälle. Vuotavat peräpukamat voivat myös aiheuttaa ongelmia. Siksi näytteenottoa on siirrettävä, kunnes peräpukamista ei ole muutamaan päivään vuotanut verta.</p>
+    <p>Jos virtsassa esiintyy verta ja virtsaa sekoittuu ulosteeseen, testitulokset saattavat vääristyä. Siksi näytteen ottamista on siirrettävä tai otettava näyt niin, ettei ulosteen sekaan pääse virtsaa.</p>
+    <p>Jos uloste on hyvin kovaa, peräaukkoon voi tulla repeämiä, joista alkaa vuotaa verta. Näytteen ottamista on mahdollisuuksien mukaan siirrettävä, kunnes uloste on normaalimpaa. Sitä vastoin F-Hb -testi otetaan yleensä juuri kun uloste on muuttunut, joten jos tutkimuksen syynä on ummetus, näytteen ottamisen kanssa ei saa odottaa.</p>
+    <p type="title">Tärkeää</p>
+    <p>Verenvuodon riskiä nostavien lääkkeiden käyttö voi aiheuttaa sen, että maha-suolikanavasta vuotaa enemmän verta. Tällaisia ovat etupäässä asetyylisalisyylihappoa sisältävät lääkkeet, esim. Trombyl, Magnecyl ja Treo. Myös muut COXestäjiin kuuluvat lääkkeet voivat aiheuttaa runsaampaa verenvuotoa. Tällaisia lääkkeitä ovat mm. diklofenaakki, Ipren, Ibumetin, Alindrin ja Naprosyn. Keskustele aina näytteen määränneen lääkärin kanssa, onko jokin lääke lopetettava näytettä otettaessa.</p>
+    <p type="title">Koska vastaukset tulevat?</p>
+    <p>Yleensä tutkimuksista saa vastauksen lääkäriltä viikon kuluttua näytteen antamisesta.</p>
+    <p type="title">Mitä tulokset tarkoittavat?</p>
+    <p>Positiivinen tutkimustulos tarkoittaa, että ulostenäytteestä on löytynyt verta. Negatiivinen tutkimustulos tarkoittaa, ettei ulostenäytteestä ole löytynyt verta.</p>
+    <p type="title">Muita tutkimuksia</p>
+    <p>Suolistovaivat ovat yleisiä. Huolet vakavammasta sairaudesta ovat myös yleisiä. F-Hg voi antaa viitteitä siitä mistä vaivat johtuvat ja mahdollisuuden löytää mahdollinen sairaus ja sen hoito ajoissa. Usein tehdään myös muita tutkimuksia, esimerkiksi erilaisia tähystystutkimuksia (skopia). Tällöin suolta tutkikaan taipuisalla, kuituoptisella tähystimellä (endoskooppi). Toisinaan käytetään myös röntgentutkimusta.</p>
+  </body>
+</document>

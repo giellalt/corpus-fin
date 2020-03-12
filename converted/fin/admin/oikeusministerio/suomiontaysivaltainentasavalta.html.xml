@@ -1,0 +1,34 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Suomi on täysivaltainen tasavalta - 
+	Oikeusministeriö
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2016</year>
+    <wordcount>70</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.oikeusministerio.fi/fi/index/julkaisut/esitteet/perustuslaki/suomiontaysivaltainentasavalta.html</origFileName>
+    <parallel_text xml:lang="eng" location="suomiontaysivaltainentasavalta.html"/>
+    <parallel_text xml:lang="sme" location="suopmaleaiehcanasdassevaldi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Perustuslaki</p>
+    <p type="title">Suomi on täysivaltainen tasavalta</p>
+    <p xml:lang="vep">1 LUKU</p>
+    <p>Perustuslain alkuun on kirjoitettu valtiojärjestyksen perusteet ja ylimpien valtioelinten tehtävien jako sekä oikeusvaltion periaate: julkisen vallan käytön on aina perustuttava lakiin.</p>
+    <p>Päätösvalta on jaettu eduskunnan, valtioneuvoston (hallituksen) ja tasavallan presidentin kesken.</p>
+    <p>Eduskunta säätää lait. Valtioneuvosto valmistelee lakiesitykset ja huolehtii eduskunnan päätösten toimeenpanosta. Valtioneuvoston tulee nauttia eduskunnan luottamusta. Presidentti hoitaa hänelle säädetyt tehtävät, jotka liittyvät ennen muuta ulkopolitiikkaan.</p>
+    <p>Riippumattomat tuomioistuimet varmistavat, että lakeja noudatetaan.</p>
+  </body>
+</document>

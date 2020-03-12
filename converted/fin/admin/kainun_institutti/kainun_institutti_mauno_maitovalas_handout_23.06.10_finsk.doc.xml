@@ -1,0 +1,67 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title> 
+Viru Koda
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/>
+    </translator>
+    <wordcount>810</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
+    <parallel_text xml:lang="fkv" location="kainun_institutti_mauno_maitovalas_handout_23.06.10_kvensk.doc"/>
+    <parallel_text xml:lang="nob" location="kainun_institutti_mauno_maitovalas_handout_23.06.10_norsk.doc"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kainun institutti</p>
+    <p>MAITOVALAAN JOIKU <em type="bold">Kainun institutti </em></p>
+    <p>
+      <em type="bold">Maitovalaan joiku </em>
+      <em type="italic">-näyttely tarkastelee maailmaa maitovalaan aistein. Vuosituhansien kuluessa valkoiset valaat ovat kohdanneet Jäämeren rannoilla </em>
+      <em type="italic">vaeltaneita </em>
+      <em type="italic">kveenejä, </em>
+      <em type="italic">merisaamelaisia, kuulleet pomorien laulua Vienanmerellä ja näyttäytyneet saarten asukkaille viikingeistä nykyturisteihin saakka. </em>
+      <em type="italic">Kalliopiirrokset Vienanmeren rantakallioissa kertovat kadonneista kulttuureista, joille maitovalas saattoi olla totemieläin siinä kuin karhu tai hirvi metsien eränkävijöille. Vienan Karjalan muinaisrunoista löytyy kaikuja valaiden laulusta. Voimme kuvitella valaan </em>
+      <em type="bold">Lemminkäisen </em>
+      <em type="italic">voimantuojaeläimeksi. Kuinka valaat katselevat ja kuuntelevat meitä nykyaikana? Mitä oikeastaan tiedämme näista merten asukeista? Onko niillä poikasille välitettäviä paikalliskulttuureja ja minkälainen kieli valaiden kommunikointiin on kehittynyt? </em>
+    </p>
+    <p>
+      <em type="bold">Meren ääni </em>
+    </p>
+    <p>Meri ei ole hiljainen ja merta on myös kuunneltu tuhansia vuosia. <span type="quote">”Delfiineillä on viestejä välittävä kieli, mutta konsonanttien ääntämisessä niillä on vaikeuksia”</span>, kirjoitti <em type="bold">Aristoteles </em>vuonna 323 eaa. Läntisen maailman tietoisuudesta usko vedenalaiseen äänimaailmaan pyyhkiytyi kadoksiin kunnes toisen maailmansodan sukellusveneiden vihollisia luotaavat kuuntelulaitteet paljastivat käsittämättömän rikkaan äänitodellisuuden. </p>
+    <p>Australian alkuperäiskansojen katkeamattomassa perinteessä on sukupolvesta toiseen kommunikoitu delfiinien kanssa meren äärellä jäljittelemällä varta vasten valmistetuilla ja yhteen hierottavilla puupalikoilla näiden eläinten ääntä. Meribiologi ja luontokuvaaja <em type="bold">Jacques Cousteau </em>dokumentoi aikanaan Mauretanian rannikon alkuperäiskansan tapaa kalastaa yhdessä paikallisten delfiinien kanssa. </p>
+    <p>Venäläiset tutkijat väittävät, että maitovalaalla on viestejä välittävä kieli ja jo sen poikaset jokeltavat. Näyttää siltä, että maitovalas nimeää lähettämänsä viestin omalla <span type="quote">”tunnuksellaan”</span>, joka on kullakin yksilöllä erilainen. Myös eri merialueilla elävien maitovalasyhdyskuntien kielet poikkeavat hieman toisistaan. Voidaanko puhua valaiden kulttuureista?</p>
+    <p>
+      <em type="bold">Kommunikaation kuvat </em>
+    </p>
+    <p>Vienanmeren rantakallioiden kuusi tai jopa seitsemän tuhatta vuotta vanhoissa piirroksissa on satoja maitovalaiksi tunnistettavia kuvia. Näyttelyn tunnuskuvaksi on valittu kalliopiirros. Maitovalas ääntelee myös ollessaan pinnalla. Tunnuksen maitovalaan anatomiaa vastaava kalliopiirros näyttää meren pinnasta kohottautuneelta. Kuvan asetelma on tulkittavissa kommunikaatioksi maitovalaan ja osittain eläinhahmoisen ihmisen välillä. Liioittelu on kalliopiirroksille tyypillinen kerronnan keino. Niinpä ihmisolion suun kohdalta lähtevä pitkä <span type="quote">”keihäs”</span> voi hyvinkin olla liioiteltu kieli? Skandinavian ja Luoteis-Venäjän kalliopiirrokset kertovat ajasta ennen saamelaisia. Varanginvuonon rannalta on löydetty merkkejä Ruijan kulttuurista mesoliittiselta kivikaudelta yhdeksän tuhannen vuoden takaisesta asutuksesta. Saman vuonon antimia tulivat aikanaan kalastamaan merisaamelaisten ja kveenien esi-isät, nyt jo historiaan kadonnut väestönosa. Viimeisen tuhannen vuoden aikana Varanginvuonon runsaille kala-apajille työntyi uutta väkeä Novgorodin laajennuttua Vienanmerelle. Heitä alettiin suullisessa kansanperinteessä kutsua Pomoreiksi, merenrannalla asujiksi. Kirjallisia dokumentteja on vasta 500 vuoden ajalta.</p>
+    <p>Ihmisen ja maitovalaan välinen suhde on monella tavalla kiehtova. Miksi <span type="quote">”pyhittäjät”</span> <em type="bold">Savvati </em>, <em type="bold">Herman </em>ja <em type="bold">Zosima </em>päättivät perustaa Solovetskin luostarin juuri keskellä Vienanmerta olevalle saarelle? Miksi heidän ensimmäinen asumuksensa oli noin kilometrin päässä Solovetskin Maitovalasniemestä, jossa valaat ovat synnyttäneet ja lisääntyneet jääkauden lopusta alkaen? Mikä oli se <span type="quote">”valkoinen hevonen”</span>, joka luostarin syntytarinan mukaan kiskoi meren jään ylitse luostarin peruskiven? </p>
+    <p>Näyttelyssä tuodaan esille todellisia tai kuviteltuja kohtaamisia aikojen kuluessa. <em type="bold">Adam Bremeniläinen </em>, Hampurin piispanistuimen kronikoitsija kuvaili vuonna 1075 AD kuinka pohjoisen meren rannalla vieraili pakanoita, jotka <span type="quote">”ääntelivät suurten merieläinten kanssa”</span>, latinaksi <span type="quote">”murmure verborum grandia cete maris”</span>. Aiheen kirjoitukseensa Adam Bremeniläinen sai mitä ilmeisimmin tarinoista, joita tuolloin liikkui kesäisille kalastuspaikoilleen kokoontuvista merisaamelaisista, valaita joikuvasta väestä. </p>
+    <p>
+      <em type="bold">Improvisaatioita valaan kanssa </em>
+    </p>
+    <p>Näyttely kertoo miten nykytekniikalla voidaan tavoittaa maitovalas - ei harppuunalla, vaan musisoimalla yhdessä. Musiikillinen improvisointi maitovalaan kanssa antaa klarinetin soittajalle aavistuksen valaiden äänimaailman polyfoniasta. Maitovalas ikään kuin näkee vedenalaisen ympäristön äänellään. Delfiinitutkimuksissa on osoitettu, että valas pystyy havaitsemaan äänellään viiden metrin päästä teräslevyyn poratun 40 mikrometrin kokoisen reiän (ihmisen hius on n. 100 mikrometriä). Delfiini pystyy kahden sadan metrin päästä erottamaan lähestyykö se herkullista kampelaa vai hyödytöntä savukeaskia. Ihmisen ymmärrys joutuu koetukselle yritettäessä eläytyä tällaiseen aistimiseen.</p>
+    <p>Oman vallitsevan näköaistimme käsittein jäämme pohtimaan, voiko maitovalas lähettää <span type="quote">”näkemänsä”</span> kuvan toverilleen? Entä voisivatko tällaiset muistikuvat kehittyä ajatteluksi?</p>
+    <p>Teksti: Outi ja Rauno Lauhakangas</p>
+    <p>
+      <em type="bold">MAITOVALAS (Delphinapterus leucas)) </em>
+    </p>
+    <p>Maitovalas on latinankielisen nimensä <span type="quote">”valkea siivetön delfiini”</span> mukaisesti valkea valas ilman selkäevää. Valaan hätkähdyttävä väri, joka vaalenee poikasen tumman siniharmaasta maidonvalkeaksi yksilön vanhetessa, on yksi parhaista tuntomerkeistä. Selkäevän puute, toinen hyvä tuntomerkki, on sopeutuma elämään arktisissa vesissä, jossa korkea selkäevä olisi haittana sukellettaessa jäälohkareiden lomassa.</p>
+    <p>Maitovalas on levinneisyydeltään puhtaasti arktinen ja subarktinen laji, jota tavataan ainoastaan pohjoisen pallonpuoliskon kylmissä vesissä. Se on kotonaan niin aavalla merellä kuin rannikon tuntumassakin ja viihtyy usein myös jokien suistoissa. Tällä hetkellä maitovalaita arvellaan olevan koko levinneisyysalueellaan 100 000 yksilöä.</p>
+    <p>Maitovalas saavuttaa täysikasvuisena 4-5 m pituuden ja isoimmat urokset voivat painaa yli 1500 kg. Maitovalaan ravintoa ovat pääasiassa erinäköiset ja -kokoiset kalat, mutta se kelpuuttaa ravinnokseen myös simpukat ja muita merenpohjan selkärangattomia. Maitovalas on taitava sukeltaja. Ruuanhankintaretkillään valaat sukeltavat toistuvasti 300 m syvyyteen ja viipyvät pinnan alla 7-12 min. Maitovalaan luonnolliset viholliset ovat jääkarhu ja miekkavalas.</p>
+    <p>Maitovalas on hyvin sosiaalinen laji. Valaat liikkuvat enimmäkseen muutaman kymmenen eläimen ryhmissä mutta maitovalaita on nähty myös tuhansien yksilöiden laumoissa. Poikaset syntyvät huhti-toukokuussa emon oltua 14 kk tiineenä. Naarat kokoontuvat mataliin suojaisiin lahtiin synnyttämään, jossa vastasyntyneet ovat todennäköisesti paremmin turvassa miekkavalailta. Rasvapitoisen maidon ansiosta poikanen on jo vuoden kuluttua lähes emonsa kokoinen. Poikanen pysyy tiiviisti emonsa rinnalla seuraavat kaksi vuotta, joka on huomattavan pitkä aika hammasvalaille. Syyksi epäillään, että maitovalaan poikanen tarvitsee muita lajeja pitemmän ajan emonsa kanssa oppiakseen tältä suunnistamisen salat jäisessä ja vaativassa ympäristössä sekä maitovalaille tyypillisen monipuolisen äänimaailman alkeet.</p>
+    <p>Teksti: Outi Tervo</p>
+    <p>Fin_Handout_Chant of the Beluga Exhibition at Viru.doc 1/3</p>
+  </body>
+</document>

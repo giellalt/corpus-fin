@@ -1,0 +1,55 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>286</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Tander/Borsta-tander1</origFileName>
+    <parallel_text xml:lang="eng" location="borsta-tander1.html"/>
+    <parallel_text xml:lang="rus" location="borsta-tander1.html"/>
+    <parallel_text xml:lang="swe" location="borsta-tander.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Hampaiden harjaaminen / Borsta tänder - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Hampaiden harjaaminenBorsta tänder</p>
+    <p type="title">Toimi näin</p>
+    <list>
+      <p type="listitem">Pidä harjaa vinossa niin, että ylemmät harjakset ulottuvat ienrajaan.</p>
+      <p type="listitem">Kun harjaat ylä- ja alaleuan hampaita, pidä harjaa suoraan ulospäin.</p>
+    </list>
+    <p type="title">Kaksi kertaa päivässä</p>
+    <p>Suussa olevat bakteerit voivat aiheuttaa sekä reikiä hampaisiin että ientulehduksen. Sen vuoksi kannattaa totutella harjaamaan hampaat kaksi kertaa päivässä: aamiaisen jälkeen ja illalla viimeisen aterian jälkeen. Käytä pehmeää tiheää hammasharjaa ja kaksi senttimetriä hammastahnaa. On tärkeää, että hammastahna sisältää hampaita vahvistavaa fluoria.</p>
+    <p type="title">Aloita takaa</p>
+    <p>Voimia on eniten harjaamisen alussa. Aloita siksi sieltä, mihin on vaikeinta ulottua, esimerkiksi alaleuan takaosista. Silloin saat puhtaiksi myös kaikkein vaikeimmin harjattavat hampaat.</p>
+    <p type="title">Harjaa oikein</p>
+    <p>Bakteereita on ennen kaikkea ienrajassa ja hampaiden väleissä:</p>
+    <p>Pidä harjaa vinossa niin, että ylemmät harjakset ulottuvat ienrajaan. Kuljeta harjaa eteen- ja taaksepäin sivuttain hyvin pienin ja kevyin liikkein hammas kerrallaan. Harjaa sisä- ja ulkopuoli sekä purupinnat.</p>
+    <p>Kun harjaat ylä- ja alaleuan hampaita, pidä harjaa suoraan ulospäin. Varmista että harja ulottuu ikeniin. Älä paina harjalla liian voimakkaasti ja käytä koko ajan pieniä liikkeitä.</p>
+    <p>Hampaiden pesu kestää kaikkiaan noin 2 minuuttia.</p>
+    <p type="title">Purskuta hammastahnaa</p>
+    <p>Fluorin vaikutus tehostuu, jos purskutat hammastahnaa hampaiden välissä ja huuhtelet suun lopuksi vain pienellä määrällä vettä.</p>
+    <p type="title">Sähköhammasharja</p>
+    <p>Myytävänä on monenlaisia sähköhammasharjoja. Tietyntyyppinen harjamalli on osoittautunut bakteerien poistamisessa tehokkaammaksi kuin tavallinen hammasharja. Tällaisessa harjassa on pyöreä harjasosa, joka pyörii nopeasti edestakaisin tehden puoliympyrän muotoisia liikkeitä. Harjan painetta hampaita vasten pitää itse säädellä ja harjaa täytyy siirtää järjestelmällisesti hampaasta toiseen samalla tavalla kuin tavallista harjaa. Kysy hammaslääkäriltä tai suuhygienistiltä neuvoa, millainen sähköhammasharja sopii sinulle parhaiten.</p>
+    <p type="title">Tarvitset myös hammaslankaa ja hammastikkuja</p>
+    <p>Hampaiden välit kannattaa puhdistaa myös hammaslangalla, hammastikuilla tai hammasväliharjalla kerran päivässä. Se pitäisi tehdä ennen hampaiden harjaamista, jos haluat suorittaa koko puhdistuksen kerralla.</p>
+  </body>
+</document>

@@ -1,0 +1,63 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Makukoulu: Maku – maistuu kielellä</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2018</year>
+    <wordcount>560</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-maku-maistuu-kielella/</origFileName>
+    <parallel_text xml:lang="sme" location="smahkkaskuvlla_smahkka_dovdo_njuokcamis.html"/>
+    <parallel_text xml:lang="swe" location="smakskolan_smak_kanns_pa_tungan.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem">suomi</p>
+      <p type="listitem" xml:lang="swe">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem">suomi</p>
+      <p type="listitem" xml:lang="swe">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Makukoulu: Maku – maistuu kielellä</p>
+    <p>Maistamme viittä varsinaista eri makua: makeaa, suolaista, hapanta, karvasta ja umamia. Molekyylejä, jotka saavat aikaan nämä makuaistimukset, on huomattavasti enemmän. Kuumien ja kylmien ruokien maku aistitaan miedompana kuin silloin, kun ruuan lämpötila on lähellä kehon lämpötilaa.</p>
+    <p>Arkikielessä käytämme sanaa maku, kun puhumme ruuan <em type="italic">flavorista </em>eli maitosta. Flavoriin kuuluvat maku, retronasaali haju ja kemotunto. Retronasaali hajuaistimus syntyy ruokaa pureskellessa, kun ruuasta irtoavat haihtuvat molekyylit kulkeutuvat nenän hajureseptoreille nenänielua pitkin. Kemotunto puolestaan on kemiallisten yhdisteiden aikaansaama tuntoaistimus, kuten chilin polttavuus. Kun syömme ruokaa, emme erottele, mikä osa makukokemuksestamme syntyy kielen makusilmujen välityksellä, mikä retronasaalin hajuaistimuksen kautta ja mikä osa on kemotuntemusta. </p>
+    <p>Sokerit, kuten sakkaroosi eli ruokosokeri ja fruktoosi eli hedelmäsokeri sekä sokerialkoholit, kuten ksylitoli maistuvat makealta, natriumkloridi eli ruokasuola puolestaan suolaiselta. Happamalta maistuvia yhdisteitä ovat muun muassa sitruunahappo, jota on useissa hedelmissä ja maitohappo, jota on esimerkiksi hapanmaitotuotteissa ja hapanleivässä. Hapan maku tulee ruokiin lukuisten orgaanisten happojen vetyionista. Jokaisella luonnon hapolla on oma ominainen flavorinsa.</p>
+    <p>Karvaalta maistuvia yhdisteitä ovat esimerkiksi kahvin kofeiini ja kaakaon teobromiini. Karvaita yhdisteitä on runsaasti myös kasviksissa, hedelmissä ja marjoissa. Umamin maku aiheutuu glutamaatti- sekä ribonukleotidiyhdisteistä, joita on esimerkiksi tomaatissa, juustoissa, sienissä, lihassa sekä soija- kala- ja osterikastikkeessa. Umamin makua kuvaillaan usein lihaisaksi, lihaliemimäiseksi tai ruokaisaksi ja täyteläiseksi, ja se on erityisesti aasialaiselle keittiölle tyypillinen.</p>
+    <p>Makea ja suolainen maku ovat yleisiä ruuissa ja ne tunnistetaan helposti. Hapan ja karvas tunnetaan heikommin, ja nimeämistehtävässä ne sekoittuvat helposti keskenään. Umamin tunnistaminen ilman opettelua saattaa olla hankalaa. Jokainen voi oppia tuntemaan kaikki viisi makua harjoittelemalla.</p>
+    <p>Lähes kaikissa ruuissa havaitaan useita makuja. Pihvissä maistuvat suolainen ja umami. Ruisleipä maistuu suolaiselta ja happamalta ja suklaa makealta ja karvaalta. Hedelmät ovat luonnostaan happamia, sillä niissä on runsaasti hedelmähappoja. Hedelmissä on myös sokereita. Siksi hedelmät maistuvat sekä happamilta että makeilta. Hedelmien makeus peittää happamuutta ja happamuus makeutta. Suolaisuutta hapan maku puolestaan korostaa.</p>
+    <p>
+      <em type="italic">Makuaisti </em>
+    </p>
+    <p>Makuaistimus syntyy kielen makusilmuissa sijaitsevien makureseptorisolujen välityksellä. Makua antavan yhdisteen pitää olla liuenneena veteen, jotta se pääsee työntymään kielen makusilmujen makuhuokosiin. Kiinteässä muodossa nautitut makuyhdisteet liukenevat sylkeen. Ruuan lämpötila vaikuttaa makujen voimakkuuteen.</p>
+    <p>
+      <em type="italic">Makuaistiin liittyviä tehtäviä oppitunnille </em>
+    </p>
+    <list>
+      <p type="listitem">Oppitunnilla voi tutustua eri makuaistimuksiin, makeaan, suolaiseen, happamaan, karvaaseen ja umamiin ruoka-aineiden avulla. Perusmakujen nimet kerrataan kirjoittamalla ne taululle, ja jokaiselle oppilaalle pilkotaan pieni pala viittä eri ruoka-ainetta. Makeaa makua voi mallintaa makealla hedelmällä, hapanta sitruunalla, karvasta rukolalla, umamin makua tuoreella herkkusienellä ja suolaista suolakurkulla. Suolakurkussa maistuu suolan lisäksi myös hapan etikka.</p>
+      <p type="listitem">Lasten kanssa voi vertailla esimerkiksi eri omena- tai tomaattilajikkeita ja etsiä niistä erilaisia makuvivahteita. Myös tavanomaisesti kasvatettujen ja luonnonmukaisesti kasvatettujen kasvisten ja hedelmien makueroja on kiinnostavaa vertailla keskenään.</p>
+      <p type="listitem">Kuivattaminen pienentää hedelmien ja marjojen vesipitoisuutta ja lisää sokeripitoisuutta. Oppilaat voivat vertailla hedelmien ja marjojen makua tuoreena ja kuivana. Miten esimerkiksi viinirypäleen ja rusinan maku eroavat toisistaan?</p>
+      <p type="listitem">Oppilaat voivat vertailla eri hedelmien happamuutta ensin maistamalla hedelmiä ja sitten mittaamalla hedelmien pH:n. Ensin 4-6 erilaista hedelmää pilkotaan pieniksi paloiksi, jonka jälkeen oppilaat järjestävät maistamisen perusteella hedelmät happamuusjärjestykseen. Arvioinnin jälkeen hedelmistä tihkuvien hedelmämehujen happamuus mitataan pH-paperilla tai -mittarilla. Tämän jälkeen keskustellaan yhdessä, kuinka luotettava makuaisti on happamuuden vertailussa. Vaikuttaako hedelmien sokeripitoisuus koettuun happamuuteen? Elintarvikkeiden koostumustietopankin sivuilla (www.fineli.fi) on arviot elintarvikkeiden sokeripitoisuuksille.</p>
+      <p type="listitem">Moni kielikuva liittyy makusanoihin. Voitte yhdessä miettiä, millainen on sikamakea tai hapannaama, miltä tuntuu karvas tappio tai mitä tarkoittaa, jos hinta on suolainen.</p>
+    </list>
+    <p type="title" xml:lang="est">LUE LISÄÄ:</p>
+    <p type="title">Näkö - ensin katsotaan</p>
+    <p type="title">Haju - kutittaa nenässä</p>
+    <p type="title">Tunto - miltä ruoka tuntuu</p>
+    <p type="title">Kuulo - korvatkin tykkäävät ruuasta</p>
+  </body>
+</document>

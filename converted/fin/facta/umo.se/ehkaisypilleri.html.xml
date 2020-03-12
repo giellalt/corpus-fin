@@ -1,0 +1,100 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>794</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Finska/Ehkaisypilleri</origFileName>
+    <parallel_text xml:lang="fit" location="p-pilleri.html"/>
+    <parallel_text xml:lang="sma" location="p-pillere.html"/>
+    <parallel_text xml:lang="sme" location="p-pillar.html"/>
+    <parallel_text xml:lang="smj" location="p-tablahtta.html"/>
+    <parallel_text xml:lang="swe" location="p-piller.html"/>
+    <parallel_text location="p-tabus.html" xml:lang="rmu"/>
+    <parallel_text location="p-piller.html" xml:lang="rmf"/>
+    <parallel_text location="preventivno-drab.html" xml:lang="rmy-rka"/>
+    <parallel_text location="p-piller.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ehkäisypilleri</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Ehkäisypilleri</p>
+    <p>Ehkäisypilleri on tyttöjen ehkäisymenetelmä. Ehkäisypillereillä tarkoitetaan useimmiten yhdistelmäehkäisypillereitä. Ne sisältävät kahta eri hormonia, estrogeenia ja progesteronia (keltarauhashormonia), jotka muun muassa estävät ovulaation ja siten myös raskaaksi tulemisen.</p>
+    <p>On olemassa monia erilaisia yhdistelmäehkäisypillereitä, joista osa sisältää enemmän estrogeenia, toiset enemmän progesteronia. Tämä tarkoittaa, että ne vaikuttavat kehoon eri tavoin. Sopivan ehkäisypillerin löytyminen saattaa vaatia erilaisten pillereiden kokeilua.</p>
+    <p>Ehkäisypillereitä, jotka sisältävät vain pieniä määriä progesteronia, kutsutaan minipillereiksi. On olemassa myös pilleri, joka sisältää suuremman määrän progesteronia ja tarjoaa yhtä hyvän suojan kuin yhdistelmäehkäisypillerit.</p>
+    <p>Pilleriliuskan ulkonäkö riippuu käytettävästä ehkäisypilleristä. Pilleripakkaus, joka sisältää myös hormonittomia pillereitä, voi olla hyvä ratkaisu silloin, jos seuraavan liuskan aloittamispäivä on vaikeaa muistaa.</p>
+    <p>Taukoviikolla, jolloin otetaan hormonittomia pillereitä tai ei oteta ollenkaan pillereitä, tulevat kuukautiset. Niitä kutsutaan joskus tyhjennysvuodoksi. Vaikka ehkäisypillereitä ei oteta tämän tauon aikana, ehkäisyteho säilyy ennallaan.</p>
+    <p type="title">Miten ehkäisypillereitä käytetään?</p>
+    <p>Ehkäisypilleripakkaus sisältää 21 tai 28 tablettia. Ehkäisypilleri otetaan suunnilleen samaan aikaan joka päivä.</p>
+    <p>Jos liuska sisältää 21 pilleriä, liuskan jälkeen pidetään viikon tauko.</p>
+    <p>Jos liuska sisältää 28 pilleriä, liuskan viimeiset pillerit ovat hormonittomia.</p>
+    <p>Hormonittomien pillereiden määrä riippuu käytettävistä ehkäisypillereistä. Hormonittomia pillereitä kutsutaan myös lumepillereiksi.</p>
+    <p type="title">Jos ehkäisypilleri unohtuu tai oksentaa</p>
+    <p>On tärkeää ottaa pilleri suunnilleen samaan aikaan joka päivä. Jos pillerin ottaminen myöhästyy yli 12 tuntia, eli kahden pillerin välissä on yli 36 tuntia, on olemassa riski, että pillereiden teho on heikentynyt.</p>
+    <p>Suurin sallittu kahden pillerin välinen aika vaihtelee eri ehkäisypillereiden välillä ja liuskan eri vaiheissa. Ehkäisypillereitä koskevat tarkemmat tiedot löytyvät pakkausselosteesta. Pakkausseloste on ehkäisyvalmistepakkauksen sisällä oleva lappu.</p>
+    <p>Voit myös ottaa yhteyttä siihen vastaanottoon, josta sait ehkäisypillerireseptin.</p>
+    <p>Jos on olemassa riski, että ehkäisyteho on heikentynyt, on toimittava seuraavasti:</p>
+    <list>
+      <p type="listitem">Ota unohtamasi pilleri(t) mahdollisimman pian.</p>
+      <p type="listitem">Käytä kondomia tai pessaaria, jos harrastat seksiä tulevien seitsemän päivän aikana. Silloin ehkäisy toimii taas.</p>
+      <p type="listitem">Ota jälkiehkäisypilleri, jos olet harrastanut seksiä viiden viimeisen päivän aikana ennen unohtunutta pilleriä, koska siittiöt voivat selvitä kohdussa ja munanjohtimissa useita päiviä.</p>
+    </list>
+    <p>Jos oksennat neljän tunnin sisällä pillerin ottamisesta tai kärsit ripulista, ei ole varmaa, onko hormoni ehtinyt imeytyä elimistöön. Ehkäisytehon varmistamiseksi kannattaa ottaa uusi pilleri.</p>
+    <p>Uusi pilleri täytyy ottaa toisesta liuskasta, jotta se ei jää puuttumaan käytössä olevasta liuskasta. Kannattaa pitää varalla ylimääräinen liuska vastaavia tilanteita varten.</p>
+    <p>Jos on kärsinyt vatsataudista tai on muusta syystä epävarma, onko ottanut pillerin, kannattaa käyttää lisäehkäisynä kondomia tai pessaaria seuraavan seitsemän päivän ajan.</p>
+    <p>Voit aina kysyä neuvoa esimerkiksi nuorisovastaanoton tai ehkäisyneuvolan kätilöltä.</p>
+    <p type="title">Kuukautisten siirtäminen ehkäisypillereillä</p>
+    <p>Joskus voi olla kätevää siirtää kuukautisia, esimerkiksi matkan ajaksi. Tämä onnistuu ehkäisypillereiden avulla. Silloin uusi liuska aloitetaan välittömästi edellisen jälkeen. Jos käytössä on lumepillereitä, ne jätetään ottamatta ja siirrytään suoraan uuteen liuskaan. Tämä tarkoittaa sitä, että hormonipillereiden välissä pidetään tauko vasta sitten, kun halutaan kuukautiset, esimerkiksi matkan jälkeen.</p>
+    <p>Kuukautisten siirtäminen tällä tavoin ei ole vaarallista, ja sen voi tehdä useamman kuukauden aikana.</p>
+    <p>Mitä pitempään kuukautisia siirtää, sitä suurempi riski kuitenkin on, että siirtäminen epäonnistuu ja kuukautiset tulevat joka tapauksessa. Sen vuoksi onkin suositeltavaa, että kuukautisten antaa tulla kolmen kuukauden välein, eli neljä kertaa vuodessa.</p>
+    <p type="title">Vähäinen veritulpan riski</p>
+    <p>Ehkäisyvalmisteiden sisältämä estrogeeni voi lisätä veritulppien riskiä. Riski on kuitenkin hyvin pieni. Paljon todennäköisempää on saada veritulppa raskauden aikana kuin ehkäisyvalmisteita käytettäessä.</p>
+    <p>Veritulpan riski kasvaa, jos on hyvin ylipainoinen, toisella vanhemmalla tai sisaruksella on ollut veritulppa ennen 50 vuoden ikää tai jos itse on saanut veritulpan aikaisemmin. Tällöin suositellaan valitsemaan estrogeenitön ehkäisyväline, esimerkiksi ehkäisykapseli tai minipillerit.</p>
+    <p type="title">Mistä ehkäisypillereitä saa?</p>
+    <p>Ehkäisypillerireseptiä voi hakea kätilöltä tai lääkäriltä nuorisovastaanotolta, ehkäisyneuvolasta tai seksuaali- ja parisuhdeklinikalta. Voi myös kääntyä naistenklinikan tai terveyskeskuksen puoleen. Ehkäisypillerit noudetaan apteekista.</p>
+    <p type="title">Mitä ehkäisypillerit maksavat?</p>
+    <p>Ehkäisypillereiden hinta voi vaihdella sen mukaan, missä päin maata asut ja kuinka vanha olet. Useimpien maakäräjien alueilla ehkäisyvalmisteet ovat halvempia alle 20-vuotiaille.</p>
+    <p type="title">Kuinka luotettavia ehkäisypillerit ovat?</p>
+    <p>Jos ehkäisypillereitä käytetään ohjeiden mukaan, riski tulla raskaaksi on hyvin pieni.</p>
+    <p type="title">Miten ehkäisypillereiden käyttö lopetetaan?</p>
+    <p>Jos haluaa lopettaa ehkäisypillereiden käytön, kätevintä on syödä käytössä oleva liuska loppuun ja jättää seuraava liuska aloittamatta.</p>
+    <p>Pillereiden lopettaminen kesken liuskan ei ole vaarallista, mutta riskinä on, että ilmenee epäsäännöllisiä vuotoja. Jos ei halua tulla raskaaksi, on tärkeää alkaa käyttää jotain muuta raskauden ehkäisyä emätinyhdynnässä.</p>
+    <p>Kuukautisten ilmeneminen lopettamisen jälkeen on yksilöllistä. Osalle tulee heti säännöllinen kuukautiskierto, ja toisilla siihen voi mennä useita kuukausia.</p>
+    <p>Jos ei halua tulla raskaaksi, on tärkeää muistaa suojautua raskaudelta emätinyhdynnässä, vaikka kuukautiset eivät olisi palanneet. Ovulaatio tapahtuu noin 14 päivää ennen kuukautisia, jolloin raskauden riski on suurin.</p>
+    <p>Jos kuukautiset eivät ole palanneet kuuden kuukauden kuluttua pillereiden lopettamisesta, kannattaa syyn selvittämiseksi ottaa yhteyttä nuorisovastaanottoon, ehkäisyneuvolaan, iho- ja sukupuolitautiklinikkaan tai terveyskeskukseen.</p>
+    <p type="title" xml:lang="swe">Edut</p>
+    <list>
+      <p type="listitem">Varma suoja raskautta vastaan.</p>
+      <p type="listitem">Vuodon määrä vähenee ja kuukautiset muuttuvat säännöllisiksi.</p>
+      <p type="listitem">Kuukautiskivut lieventyvät.</p>
+      <p type="listitem">Suojaavat munatorvien tulehduksilta ja munasarjojen ja kohdun syövältä.</p>
+      <p type="listitem">Kuukautisten ajankohtaa voi muuttaa esimerkiksi matkan ajaksi.</p>
+    </list>
+    <p type="title">Haitat</p>
+    <list>
+      <p type="listitem">Ehkäisypillerit eivät suojaa seksitaudeilta.</p>
+      <p type="listitem">Hormonit voivat saada aikaan päänsärkyä, aknea tai mielialan muutoksia. Koska eri ehkäisypillerit vaikuttavat kehoon eri tavoin, saattaa joutua kokeilemaan eri pillerimerkkejä sivuvaikutusten minimoimiseksi.</p>
+      <p type="listitem">Jos kärsii oksentelusta, ripulista tai unohtaa ottaa pillerin, raskauden ehkäisyteho ei ole luotettava.</p>
+    </list>
+  </body>
+</document>

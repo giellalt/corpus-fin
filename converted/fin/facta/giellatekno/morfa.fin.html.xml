@@ -1,0 +1,51 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Morfa</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>163</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/morfa.fin.html</origFileName>
+    <parallel_text xml:lang="eng" location="morfa.eng.html"/>
+    <parallel_text xml:lang="nob" location="morfa.nob.html"/>
+    <parallel_text xml:lang="sme" location="morfa.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="isl">Morfa</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Vaihtoehdot</p>
+      <p type="listitem" xml:lang="sme">Sanaluokat ja sanamuodot</p>
+    </list>
+    <p>Morfa-ohjelmien avulla pääsee systemaattisesti harjoittelemaan sanataivutusta, joko eriksesn (Morfa-S) tai lausekontekstssa, niin että myös oppii missä yhteydessä pitää käyttää kyseistä sanaa (Morfa-C).</p>
+    <p type="title" xml:lang="sme">Vaihtoehdot</p>
+    <list>
+      <p type="listitem">Sanaluokka, lue enemmän alempana.</p>
+      <p type="listitem">Vartalotyyppi (Morfa-S): parillis-, pariton- tai supistumavartalo, tai kaikki kolme.</p>
+      <p type="listitem">Tiettyjen oppikirjojen sanasto.</p>
+      <p type="listitem">Norjankielinen käännös, jos painaa tuntematonta sanaa.</p>
+      <p type="listitem">Apu: Jos antaa väärän vastauksen, niin ohjelma tarjoa apua oikean vastauksen muodustamiseen.</p>
+    </list>
+    <p type="title" xml:lang="sme">Sanaluokat ja sanamuodot</p>
+    <p>Sanaluokat, joiden kanssa voi työskenellä, ovat substantiivit, adjektiivit, verbit, pronominit ja lukusanat.</p>
+    <list>
+      <p type="listitem"><em type="italic">Substantiivit: </em>nominatiivin monikko ja kaikki sijamuodot, sanat annetaan joko yksikössä tai monikossa. </p>
+      <p type="listitem"><em type="italic">Verbit: </em>indikatiivin preesens ja preteriti, prefekti, konditionaali, potentiaali, imperatiivi ja gerundi. </p>
+      <p type="listitem"><em type="italic">Adjektiivit: </em>attributin tai predikatiivin vertailumuodot. Morfa-S:ssa on samat mahdollisuudet, mutto myös eri sijamuodoissa. </p>
+      <p type="listitem"><em type="italic">Pronominit: </em>persoonapronominit, deiktiset pronominit, relatiivi-, refleksiivi- ja resiprookkipronominit, kaikissa sijamuodoissa. </p>
+      <p type="listitem"><em type="italic">Lukusanat </em>kymmeneen asti monessa sijamuodossa, myös attribuuttina. Kollektiivilukujen ja järjestyslukujen sijataivutus. Morfa-S:n taso 1:ssä luvut ovat vain yksikössä. 2. taso sisältää myös lukusanojen monikkomuotoja. Morfa-C:ssa on lukusanojen taivutus sekä yksikössä ja monikossa kymmeneen asti. </p>
+    </list>
+    <p>Linkki: MORFA-S sanat</p>
+    <p>Linkki: MORFA-C lauseet</p>
+  </body>
+</document>

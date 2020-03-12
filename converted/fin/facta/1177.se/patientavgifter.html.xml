@@ -1,0 +1,93 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>790</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Patientavgifter</origFileName>
+    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
+    <parallel_text xml:lang="sma" location="patientavgift.html"/>
+    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
+    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
+    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
+    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Potilasmaksut / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title">PotilasmaksutPatientavgifter</p>
+    <p type="title">Mitä terveyden- ja sairaanhoidosta joutuu maksamaan?</p>
+    <p>Ruotsin terveyden- ja sairaanhoito kustannetaan suurimmaksi osaksi maakäräjä- ja kunnallisveroilla. Maksu, joka maksetaan itse esimerkiksi lääkärikäynneistä, on vain pieni osa hoidon todellisista kustannuksista.</p>
+    <p>Tämä ei koske kokonaan yksityistä hoitoa, kuten esimerkiksi plastiikkakirurgiaa, jolle ei ole lääketieteellistä perustetta. Tällöin kaikki kustannukset maksetaan itse.</p>
+    <p type="title">Eri maakäräjillä ja kunnissa eri maksuja</p>
+    <p>Maakäräjät ja kunnat voivat suurelta osin päättää itse, mitä maksuja lääkärikäynneistä ja muista hoitopalveluista maksetaan. Suurelta osin maksut ovat suunnilleen samat eri maakäräjillä. Jos hoidontarve on suuri, on olemassa suurkustannussuoja, jota selostetaan tarkemmin seuraavassa luvussa.</p>
+    <p>Terveyden- ja sairaanhoito on maksutonta alle 20-vuotiaille lähes kaikissa maakäräjäkunnissa ja kaikilla alueilla.</p>
+    <p>Seuraavat ohjeelliset maksut ovat voimassa julkisessa hoidossa ja yksityisillä hoidonantajilla, joilla on sopimus maakäräjien kanssa.</p>
+    <p>Sairaalassaolosta maksetaan vuorokausimaksu, joka lain mukaan saa olla enintään 100 kruunua.</p>
+    <p>Lääkärikäynnin maksu terveyskeskuksessa on 100–300 kruunua. Gynekologilla ja lastenlääkärillä käynnin maksu vaihtelee 200 ja 350 kruunun välillä. Jos näillä lääkärikäynneillä saa lähetteen röntgentutkimukseen ja muun vastaavaan, niistä ei yleensä peritä lisämaksua. Käynnit muilla erikoislääkäreillä maksavat 150–350 kruunua. Käynti sairaalan akuuttivastaanotolla voi maksaa 220–380 kruunua. Sairaanhoitajalla ja lääkintävoimistelijalla käynti voi maksaa 50–220 kruunua kerralta.</p>
+    <p>Mammografia rintasyövän seulontatutkimuksena ja kohdunkaulan solukoe, ns. gynekologinen terveystarkastus, voi maksaa enintään 200 kruunua.</p>
+    <p>Jotkin maakäräjät perivät maksun kuljetuksista ambulanssilla tai helikopterilla.</p>
+    <p>Osa maakäräjistä maksaa käyntimaksuja takaisin, jos hoitoa on joutunut odottamaan tietyn ajan sovittua enemmän. Jos sopimatonta aikaa ei peruuteta tai jos tutkittava ei saavu käynnille sovittuun aikaan, joutuu silti maksamaan käyntimaksun.</p>
+    <p>Muilla hoidonantajilla voi olla toiset taksat</p>
+    <p type="title">Muilla hoidonantajilla voi olla toiset taksat</p>
+    <p>Maksuehdot voivat olla täysin erilaiset, jos hoidettavalla on sairausvakuutus täysin yksityisesti tai työnantajansa kautta.</p>
+    <p>Hoitoon, jota sairaanhoitajat antavat kunnallisessa terveyden- ja sairaanhoidossa pitkäaikaisia sairauksia sairastaville vanhuksille, sovelletaan erilaisia taksoja.</p>
+    <p>Ruotsin kuntien ja maakäräjien verkkosivustolla on kuntien, maakäräjien ja alueiden osoitteet. Näillä on ajankohtaiset ja tarkat tiedot maksuista.</p>
+    <p type="title">Ulkomaiden kansalaisten maksut</p>
+    <p>Ulkomaiden kansalaisilla on oikeus akuuttiin hoitoon Ruotsissa.</p>
+    <p>EU-maasta, ETA-maasta tai Sveitsistä olevalla on oltava eurooppalainen sairausvakuutuskortti, EU-kortti, jolla osoitetaan oikeus akuuttihoitoon tavallisten potilasmaksujen mukaan. Jos korttia ei ole, on maksettava kaikki hoitokulut itse.</p>
+    <p>Jos hoitoon hakeutuva sen sijaan haluaa muuta kuin akuuttihoitoa eikä halua maksaa enempää kuin potilasmaksun, hänellä on oltava todistus siitä, että kotimaa maksaa hoidon. Jos todistus puuttuu, kaikki kustannukset maksetaan itse.</p>
+    <p>Useimmat muualta kuin EU:sta, ETA-alueelta tai Sveitsistä olevat joutuvat maksamaan kaikki hoitokulunsa itse, vaikka kyseessä olisi akuuttihoito.</p>
+    <p type="title">Jos ruotsalainen sairastuu ulkomailla</p>
+    <p>Eurooppalainen sairausvakuutuskortti, jonka voi tilata Vakuutuskassasta antaa Ruotsin kansalaisille oikeuden akuuttihoitoon muissa EU- ja ETA-maissa ja Sveitsissä samoilla taloudellisilla ehdoilla kuin kyseisen maan omille asukkaille. Pohjoismaissa korttia ei tarvitse esittää.</p>
+    <p>Jos tarvitaan hoitoa muissa maissa kuin EU- ja ETA-maissa tai Sveitsissä, useimmiten ei saa korvauksia kuluistaan sen enempää Ruotsista kuin siitä maasta, jossa oleskelee. Siksi on tärkeätä, että on yksityinen matkavakuutus, joka kattaa esimerkiksi kuljetuksien kustannukset. Kotivakuutukseen sisältyy usein matkaturva, joka kattaa osan kustannuksista.</p>
+    <p>Vakuutuskassan verkkosivustolla on lisätietoja hoidon saamisesta ulkomailla oltaessa.</p>
+    <p type="title">Suurkustannussuoja</p>
+    <p>Terveyden- ja sairaanhoidon maksuille on olemassa yläraja. Sitä nimitetään suurkustannussuojaksi, ja se on rakenteeltaan samanlainen kaikissa maakäräjäkunnissa. Se on voimassa myös silloin, jos hakee hoitoa muusta maakäräjäkunnasta tai muulta alueelta kuin sieltä missä asuu.</p>
+    <p>Suurkustannussuoja tarkoittaa, että kahdentoista kuukauden aikana joutuu maksamaan potilasmaksuja enintään 1100 kruunua. Laskenta aloitetaan ensimmäisestä käynnistä katsomatta siihen, mihin aikaan vuodesta se tehdään. Kun henkilö on maksanut 1100 kruunua, hän saa vapaakortin, joka on voimassa kahdentoista kuukauden jaksosta jäljellä olevan ajan. Kun kaksitoista kuukautta on kulunut, joutuu taas maksamaan käynneistään, kunnes 1100 kruunua on täyttynyt seuraavan kerran.</p>
+    <p>Suurkustannussuoja ei useimmiten kata</p>
+    <list>
+      <p type="listitem">päivämaksuja, joita maksetaan oltaessa sairaalahoidossa</p>
+      <p type="listitem">rokotuksia</p>
+      <p type="listitem">todistuksia ja terveystarkastuksia</p>
+      <p type="listitem">muuta ehkäisevää hoitoa, kuten esimerkiksi mammografiaseulontoja</p>
+      <p type="listitem">käyttämättä jätetyn käynnin kustannuksia</p>
+      <p type="listitem">sairauskertomuksen kopiointikuluja</p>
+      <p type="listitem">toimitusmaksuja, jotka peritään luotolla maksamisesta tai kotiin lähetettävästä laskusta.</p>
+    </list>
+    <p>Hammashoidossa sairaanhoidon suurkustannussuoja ei useimmiten ole voimassa.</p>
+    <p>Sen sijaan suurkustannussuoja saattaa olla voimassa hammashoidossa, jos henkilö tarvitsee pitkän ajan paljon hoitoa päivittäisessä elämässään. Suurkustannussuoja voi olla voimassa myös silloin, kun on kyseessä sairaus, jonka lääketieteelliseen hoitoon sisältyy hammashoito. Jos kyseessä on sairaus, joka lisää hammasvaurioiden riskiä tai jos asianomaisella on vaikeuksia hoitaa suuhygieniaansa, on mahdollista saada hammashoitoa, josta peritään suurkustannussuojan piiriin kuuluva hoitomaksu.</p>
+    <p>Lääkäreiden, sairaanhoitajien tai muun hoitohenkilöstön määräämien lääkkeiden osalta on voimassa suurkustannussuoja, jonka mukaan lääkkeistä joutuu maksamaan vain 2200 kruunua kahdentoista kuukauden aikana. Tähän suurkustannussuojaan eivät sisälly ilman reseptiä myytävät lääkkeet.</p>
+    <p>Sen lisäksi on olemassa suurkustannussuoja, joka koskee sairaankuljetuksia ja maakäräjien määräämiä teknisiä apuvälineitä. Säännöt voivat siis vaihdella eri maakäräjäkunnissa.</p>
+    <p type="title">Maksuton terveyden- ja sairaanhoito</p>
+    <p>Tietty terveyden- ja sairaanhoito voi olla täysin maksutonta joissakin maakäräjäkunnissa. Näillä hoitokäynneillä määrättävistä lääkkeistä joutuu sen sijaan maksamaan.</p>
+    <p>Äitiys- ja lastenneuvolakäynnit (Ruotsissa MVC ja BVC) ovat maksuttomia koko maassa.</p>
+    <p>Kouluterveydenhuollossa ei makseta käyntimaksuja ja niillä annetut rokotukset ovat maksuttomia.</p>
+    <p>Useimmissa maakäräjäkunnissa lapset ja alle 20-vuotiaat nuoret eivät maksa terveydenhuollon avohoidoista, kuten esim. käynneistä terveyskeskuksessa ja nuorisovastaanotolla.</p>
+    <p>Hoidon ja lääkkeet, joita tarvitaan tartuntatautilain mukaisissa ns. yleisvaarallisissa sairauksissa, saa maksutta.</p>
+  </body>
+</document>

@@ -1,0 +1,47 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>161</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Finska/UMOsta</origFileName>
+    <parallel_text xml:lang="eng" location="about-umo.html"/>
+    <parallel_text xml:lang="rus" location="o-umo.html"/>
+    <parallel_text xml:lang="swe" location="om-umo.html"/>
+    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
+    <parallel_text location="umo.html" xml:lang="ara"/>
+    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
+    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
+    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
+    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
+    <parallel_text location="persiska.html" xml:lang="fas"/>
+    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>UMOsta</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">UMOsta</p>
+    <p>» Käännä UMO suomenkielelle</p>
+    <p>UMO on kansallinen nuorisovastaanotto verkossa 13-25 vuotiaille nuorille. Sivuston tarkoitus on helpottaa tarkoituksenmukaisen, ajankohtaisen ja laadukkaan tiedon saamista seksistä, terveydestä ja ihmissuhteista. UMOn tarkoituksena on luoda tasavertaiset olosuhteet nuorille sekä lisätä heidän toiminta-aluettaan. UMO haluaa antaa tietoja ja mahdollisuuksia miettimiseen siten että he voivat vaikuttaa omaan tilanteeseensa kotona, ihmissuhteissaan, koulussa tai työpaikalla. Nuoren tuntiessa oikeutensa ja velvollisuutensa lisääntyy hänen mahdollisuutensa vaikuttaa omiin asioihinsa. UMOn työskentelyperiaatteeseen kuuluu että kaikki ovat tasa-arvoisia ja että heillä on samat oikeudet. Olemassaolevat normit kyseenalaistetaan. Sivuston tarkoituksena on olla helposti saatavissa ja UMOssa työskentelee asiantuntijakäsittelijä. Sosiaalihallitus on integraatio- ja tasa-arvoministeriön toimeksiannosta rahoittanut UMON:n kehityksen. Landsting ja kunnat ovat sivuston vetäjiä. UMOa kehitetään läheisessä yhteistyössä ruotsalaisten nuorten, maan nuorisovastaanottojen, kouluterveyshoidon, etujärjestöjen sekä muiden nuorten kanssa työskentelevien kanssa.</p>
+    <p>Tällä hetkellä ei UMONn materiaalia vielä ole käännetty muille kielille. Karkean käännöksen voi tehdä käyttämällä Googlen käännöspalvelua. Sinne pääset klikkaamalla ylläolevaa lenkkiä. Toivomme tämän auttavan sinua käyttämään osia UMOn materiaalista.</p>
+  </body>
+</document>

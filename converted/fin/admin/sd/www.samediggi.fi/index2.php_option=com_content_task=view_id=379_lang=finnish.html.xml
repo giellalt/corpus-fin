@@ -1,0 +1,61 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Samediggi - Saamelaiskäräjät - Varausehdot</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>390</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=379&amp;lang=finnish.html</origFileName>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=379_lang=english.html"/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=379_lang=davvi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Varausehdot</p>
+    <p>1. Saamelaiskulttuurikeskuksen tilojen vuokraus tulee vahvistaa kirjallisesti. Tilaisuuksien ohjelma tai ohjelmaluonnos liitetään tilavaraukseen. Tilavarauslomake liitteineen tulee toimittaa Saamelaiskulttuurikeskukselle hyvissä ajoin, vähintään kuukautta ennen tilaisuutta. Varaus vahvistetaan lopullisesti maksamalla ennakkomaksu 3 kk ennen varausta, joka on 30 % varauksen kokonaisarvosta. Kts. maksuehdot.</p>
+    <p>2. Tiloista ja oheispalveluista peritään korvaukset, jotka laskutetaan tilojen vuokraajalta. Käytössä ovat puolipäivä- (1-4 h), kokopäivä- (4-8 h) ja lisätuntihinnat.</p>
+    <p>3. Kokoustilojen vuokraan sisältyvät normaali valaistus, siivous sekä perustekniikka. Ylimääräiset vahtimestari- ja muut erityispalvelut laskutetaan käytön mukaan.</p>
+    <p>4. Käytettäessä Saamelaiskulttuurikeskuksen ääni- ja valotekniikkaa on myös esitystekniikan hoitaja varattava. Äänitarkkaamon ja studion laitteita saa käyttää vain talon henkilökunta. Saamelaiskulttuurikeskuksen vahtimestarit valvovat ja opastavat talon laitteiden ja kaluston käyttöä ja siirtoja. Ääni- ja valomiehen palkkio laskutetaan tilaisuuden järjestäjältä tehtyjen työtuntien mukaan.</p>
+    <p>5. Vuokralainen sitoutuu noudattamaan talon henkilökunnan ohjeita talon, sen laitteiden ja kaluston käyttöä koskevissa asioissa.</p>
+    <p>6. Kalustoon ja rakennukseen kohdistuvat tahallisesti aiheutuneet rikkoutumiset vuokraaja on velvollinen maksamaan.</p>
+    <p>7. Vuokralainen on velvollinen omalla kustannuksellaan hankkimaan tarvittavat viranomaisten luvat tilaisuuden järjestämiseksi.</p>
+    <p>8. Järjestäjälle varataan ennen tilaisuuden alkua maksimissaan tunnin maksuton valmisteluaika, ellei tarkoituksenmukaisuuden vuoksi asiasta ole toisin sovittu. Vuokralainen on velvollinen purkamaan järjestelynsä ja siirtämään pois laitteensa omalla kustannuksellaan välittömästi vuokra-ajan päätyttyä ellei asiasta ole toisin sovittu.</p>
+    <p>9. Tilaajalla ei ole oikeutta tehdä muutoksia varaamiinsa tiloihin, pystyttää tai kiinnittää tilapäisiä rakenteita, opasteita tai muuta sopimatta tästä erikseen Sajoksen Kokous- ja tapahtumapalveluiden kanssa.</p>
+    <p>10. Muutokset ja peruutukset tulee tehdä kirjallisesti (sähköpostilla tai kirjeellä). Kts kohta peruutusehdot.</p>
+    <p>11. Saamelaiskulttuurikeskus Sajos voi pakottavista syistä peruttaa varauksen   .</p>
+    <p xml:lang="est">
+      <em type="bold">Maksuehdot  </em>
+    </p>
+    <p>Varaus vahvistetaan maksamalla ennakkomaksu, joka on 30 % varauksen kokonaisarvosta viimeistään 3 kk ennen varauksen alkua. Loppuosa vuokrasta maksetaan viimeistään 30 vrk ennen tilaisuuden alkua. Muut kulut laskutetaan sopimuksen mukaan. Laskun maksuehto on 14 päivää netto, viivästyskorko lain mukaan. Sopimusta koskevat erimielisyydet, joista ei päästä sovintoon neuvotteluteitse, ratkaistaan Lapin käräjäoikeudessa.</p>
+    <p>Auditorion, monitoimisalin ja Parlamenttisalin peruutusehdot</p>
+    <p>Aika peruutuspäivästä tilauspäivään:</p>
+    <p>Veloitusprosentti:</p>
+    <p>* Vahvistuksesta - 91 päivää</p>
+    <p>0 % vuokrasta</p>
+    <p>* 90 - 61 päivää</p>
+    <p>30 % vuokrasta</p>
+    <p>* 60 - 31 päivää</p>
+    <p>50 % vuokrasta</p>
+    <p>* 30 päivää tai vähemmän</p>
+    <p>100 % vuokrasta</p>
+    <p>Muiden kokoustilojen peruutusehdot</p>
+    <p>Aika peruutuspäivästä tilauspäivään</p>
+    <p>Veloitusprosentti</p>
+    <p>35 - 15 päivää</p>
+    <p>30 % vuokrasta</p>
+    <p>14 - 7 päivää</p>
+    <p>50 % vuokrasta</p>
+    <p>7 päivää tai vähemmän</p>
+    <p>100 % vuokrasta</p>
+    <p>Kokoustila- ja henkilöstöpalveluhinnat sisältävät 24 % ja ravintolapalvelut 14 % arvonlisäveron. Laskutusperusteemme on +/- 10 % vahvistetusta henkilömäärästä. Pidätämme oikeuden hinnanmuutoksiin. Nämä ehdot ovat voimassa 31.12.2015 saakka.</p>
+  </body>
+</document>

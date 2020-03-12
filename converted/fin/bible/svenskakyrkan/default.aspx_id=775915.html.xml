@@ -1,0 +1,36 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>377</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=775915</origFileName>
+    <parallel_text xml:lang="sma" location="kristeles-jaahkoe.html"/>
+    <parallel_text xml:lang="sme" location="risttala-osku.html"/>
+    <parallel_text xml:lang="smj" location="ristagis-jahkko.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kristillinen usko - Svenska kyrkan - Om oss</p>
+    <p type="title">Kristillinen usko</p>
+    <p type="title">Rakkaus on kristillisen uskon perusta ja päämäärä. Kaikki aito rakkaus tulee Jumalalta. Rakkaus antaa elämän.</p>
+    <p>Voimme kokea rakkautta suhteissa toisiin ihmisiin ja suhteessa Jumalaan. Jumala haluaa, että elämme, ja Hän haluaa luoda suhteen jokaiseen ihmiseen. Jeesuksen kautta saamme tietää enemmän siitä, mitä Jumala haluaa ja kuka Jumala on. <em type="italic">Jumala ihmisenä </em>Jeesuksella on erityisen läheinen suhde Jumalaan; Hän on ihmiseksi tullut Jumala. Jeesuksesta kerrotaan Raamatun neljässä evankeliumissa. Raamattu on moniosainen kirja, joka kertoo ihmisten kokemuksista Jumalan kohtaamisesta. Jeesus tulee maan päälle, koska Jumala rakastaa meitä ja haluaa avata iankaikkisuuden meille, sekä ennen että jälkeen kuoleman. Jumala haluaa lisätä tuntemustamme Jumalan valtakunnasta ja rakkaudesta. Ki <em type="italic">rkon keskus ja elämänlähde </em>Kirkon keskus ja elämänlähde on Jeesus Kristus ja evankeliumi hänestä. Evankeliumi johdattaa ihmisen Jumalan luo, joka on hänen alkuperänsä ja määränpäänsä. Jumalalla on ehtymätön määrä viisautta, armoa ja rakkautta. </p>
+    <p>Kirkon usko tarkoittaa perustavanlaatuista luottamusta Jumalaan ja perustuu Jumalan valtaviin tekoihin, joista Raamatussa todistetaan ja joissa Jumala kohtaa ihmisiä heidän elämässään. <em type="italic">Rukous on tärkeää </em>Usko on toivomista ja ponnistelua. Rukous on tavallisin tie uskoon. Ei kuitenkaan tarvitse uskoa voidakseen rukoilla. Rukoukselle merkityksellistä on sydämen avoimuus ja kaipaus. Ajan varaaminen rukoukseen ja tuon ajan käyttäminen itseensä ja rukoilemiseen on edellytys jumalasuhteelle. Se, miten rukouksemme on muotoiltu, ei ole niin tärkeää. Merkityksellistä on sydämen ja Jumalan välinen vuoropuhelu. <em type="italic">Kristillinen uskontunnustus </em>Kristillinen kirkko tunnustaa yhden ainoan Jumalan – Isän, Pojan ja Pyhän Hengen – joka luo, pelastaa ja antaa elämän. Ruotsin kirkko on osa maailmanlaajuista kirkkoa ja jakaa kristillisen tunnustuksen sekä kolmiyhteisen Jumalan ylistyksen. Usko ilmaistaan tunnustuksessa sanoin ja teoin, ja se on perintöä apostoliselta ajalta. Kolmella vanhimmalla uskontunnustuksella on erityisasema ilmaisuna uskon ja kirkon jatkuvuudesta ajan saatossa. Kaksi niistä oikealla. <em type="italic">Evankelis-luterilainen kirkko </em>Ruotsin kirkko kuuluu evankelis-luterilaiseen traditioon, jonka yhdistävä tunnustusasiakirja on Augsburgin tunnustus vuodelta 1530. Tunnustuskirjat reformaation ajalta ovat suuntaa antavia todisteita siitä, kuinka uskosta saatiin vastauksia sen ajan kysymyksiin. </p>
+    <p>Teologinen pohdinta siitä, mitä usko ja sen tunnustaminen tarkoittavat, auttaa muotoilemaan kirkon uskoa ja oppia. Yksittäisten kristittyjen ja kirkon tehtävä on kaikkina aikoina paneutua uskon syvyyksiin ja selittää sen sisältöä. Uskontunnustus tai oppi eivät kumpikaan ole uskon kohteita. Ne kertovat, mistä kirkon vakaumus muodostuu, ja selittävät uskoa. Jatkuvassa vuoropuhelussa muiden traditioiden kanssa sekä sananjulistuksissa ja jumalanpalveluksissa Ruotsin kirkko selittää uskoansa yhä uudelleen.</p>
+    <p>//</p>
+  </body>
+</document>

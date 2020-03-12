@@ -1,0 +1,43 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Mihin asioihin oikeusapua saa - 
+	Oikeus.fi
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2014</year>
+    <wordcount>111</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://oikeus.fi/fi/index/esitteet/oikeusapu/mihinasioihinoikeusapuasaa.html</origFileName>
+    <parallel_text xml:lang="eng" location="mihinasioihinoikeusapuasaa.html"/>
+    <parallel_text xml:lang="sme" location="maidassiidevuoigatvuo273aveahkioauuu.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Oikeusapu</p>
+    <p type="title">Mihin asioihin oikeusapua saa</p>
+    <p>Oikeusapua annetaan kaikenlaisissa oikeudellisissa asioissa, joita ovat esimerkiksi:</p>
+    <list>
+      <p type="listitem" xml:lang="est">avioero, ositus, elatusapu, avioehto</p>
+      <p type="listitem">testamentti, perunkirjoitus, perinnönjako</p>
+      <p type="listitem">velallisen, velkojan tai takaajan avustaminen</p>
+      <p type="listitem">työpalkkasaatava, työsopimuksen purku, irtisanominen</p>
+      <p type="listitem">vuokrasaatava, irtisanominen, häätö</p>
+      <p type="listitem">kauppakirja, kaupanpurku, hinnanalennus</p>
+      <p type="listitem">rikoksesta epäillyn tai rikoksen uhrin avustaminen, lähestymiskielto</p>
+      <p type="listitem">valitukset esimerkiksi toimeentulotukea, huostaanottoa, Kelan korvauksia koskevissa asioissa</p>
+    </list>
+    <p>Oikeusapua ei anneta, jos asianosaisella on asian käsittelyn kattava oikeusturvavakuutus. Oikeusturvavakuutus voi sisältyä esimerkiksi kotivakuutukseen, ammattiliiton vakuutukseen tai maatilavakuutukseen.</p>
+    <p>Oikeusturvavakuutuksen omavastuuosuuden kattamiseen oikeusapua voidaan kuitenkin myöntää, jos hakija on tulojensa ja varallisuutensa perusteella oikeutettu korvauksettomaan oikeusapuun.</p>
+    <p>Oikeusapua ei anneta yhtiöille tai yhteisöille. Yksityinen elinkeinonharjoittaja voi saada oikeusapua elinkeinotoimintaa koskevassa tuomioistuinasiassa, mutta muussa elinkeinotoimintaa koskevassa asiassa vain, jos siihen on erityistä syytä.</p>
+  </body>
+</document>
