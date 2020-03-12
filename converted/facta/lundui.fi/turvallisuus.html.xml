@@ -1,0 +1,81 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Turvallisuus - Luontoon.fi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>381</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://www.luontoon.fi/turvallisuus</origFileName>
+    <parallel_text xml:lang="smn" location="torvolasvuota.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p>Avaa Valikko</p>
+    <list>
+      <p type="listitem">In English</p>
+      <p type="listitem">På svenska</p>
+      <p type="listitem">Anarâškielâ</p>
+      <p type="listitem">Davvisámegiella</p>
+      <p type="listitem">中文</p>
+      <p type="listitem">По-русски</p>
+    </list>
+    <list>
+      <p type="listitem">Retkeilyn ABCn sisällysluettelo</p>
+      <p type="listitem">Yleistä retkeilystä</p>
+      <p type="listitem">Jokamiehenoikeudet</p>
+      <p type="listitem">Retken suunnittelu</p>
+      <p type="listitem">Varusteet</p>
+      <p type="listitem">Retkiruoka</p>
+      <p type="listitem">Retkeilytaidot</p>
+      <p type="listitem">Turvallisuus <list><p type="listitem">Hätämajoitteet</p><p type="listitem">Hätätilanteet</p><p type="listitem">Punkeilta suojautuminen</p><p type="listitem">Toiminta sään yllättäessä</p><p type="listitem">Turvallinen vesiretkeily</p><p type="listitem">Vaarojen ennaltaehkäisy</p></list> </p>
+      <p type="listitem">Ympäristövinkit</p>
+      <p type="listitem">Terveyttä ja hyvinvointia luonnosta</p>
+      <p type="listitem">Linkit</p>
+      <p type="listitem">Kirjallisuusluettelo</p>
+    </list>
+    <p>Turvallisuus – Avaa valikko</p>
+    <p type="title">Turvallisuus</p>
+    <list>
+      <p type="listitem">Hätämajoitteet</p>
+      <p type="listitem">Hätätilanteet</p>
+      <p type="listitem">Punkeilta suojautuminen</p>
+      <p type="listitem">Toiminta sään yllättäessä</p>
+      <p type="listitem">Turvallinen vesiretkeily</p>
+      <p type="listitem">Vaarojen ennaltaehkäisy</p>
+    </list>
+    <p type="title">Turvallisuus</p>
+    <p>Retkeillessä harvoin tapahtuu vakavampia onnettomuuksia tai tapaturmia. Usein retkeilijät eivät edes mieti etukäteen, että heille voisi tapahtua jotain, kun ei ennenkään ole tapahtunut.</p>
+    <p>Turvallisuusasioita ei kannata missään tapauksessa harjoitella kantapään eli vaaratilanteiden kautta. Niiden hallitseminen vaatii paljon perehtymistä ja harjoittelua.</p>
+    <p type="title">Ennakoi ja vältä riskejä</p>
+    <p>Pitää ennalta osata arvioida, mitä riskejä tulevaan retkeen voi sisältyä, ja toimia niin, ettei joudu vaaratilanteeseen. On hallittava monenlaisia retkeilytaitoja, kuten luotettavaa suunnistamista, tulentekoa, vesistön ylitystä, ensiapua ja suojan, esim. hätämajoitteiden, rakentamista. Lisäksi retkelle on osattava ottaa mukaan tarpeellisia turvallisuuteen liittyviä varusteita sekä vararuokaa ja -juomaa.</p>
+    <p>Varustaudu pahimman varalle, älä yliarvioi omaa kuntoasi. Ota mukaan riittävästi lämmintä vaatetta, ruokaa ruokaa ja juomavettä sekä kompassi ja paikkansa pitävä, riittävän tarkka kartta, esim. ulkoilukartta, maastokartta tai Retkikartta.fi:stä tulostettu kartta ja ensiapuvälineet (pdf, 19 kt). Huolehdi hygieniasta, jottet sairastu tai saa ikäviä hiertymiä ja tulehduksia erityisesti jalkoihin ja nivusiin.</p>
+    <p type="title">Vaaratilanteessa toimi harkitusti ja rauhallisesti</p>
+    <p>Ennakoinnista ja riskien etukäteen vähentämisestä huolimatta retkellä voi sattua jotakin ikävää. Jos joutuu vaaratilanteeseen tai onnettomuuteen, pitää osata tehdä tilannearvio ja toimia harkitusti ja rauhallisesti. Tilanteessa on hyötyä siitä, että osaa antaa ensiapua, kutsua apua, toimia yllättävässä säätilanteessa, pelastaa jäihin putoamiselta jne.</p>
+    <p type="title">Valeturvallisuus</p>
+    <p>Matkapuhelin, GPS-paikannin tai liiallinen luottaminen omiin kykyihin voi tuudittaa retkellä väärään turvallisuudentunteeseen, joka ei huonolla säällä matkapuhelinverkon ulottumattomissa ja GPS:n akun loppuessa olekaan totta. Varminta on oppia tulemaan aina toimeen omin neuvoin ja muistaa, että luonnonvoimia vastaan ei kannata taistella.</p>
+    <p type="title">Lue lisää</p>
+    <list>
+      <p type="listitem">Kodin turvaopas - Jokamies luonnossa (turvaopas.pelastustoimi.fi)</p>
+      <p type="listitem">Esimerkki lajikohtaisesta turvallisuusohjeesta <list><p type="listitem">Retkiluistelijoiden turvallisuusohje (www.skrinnari.fi)</p></list></p>
+      <p type="listitem">Turvallisesti Lapissa - Tietoa omille ja vieraille (pdf)</p>
+    </list>
+    <p type="title">112 Suomi -mobiilisovellus</p>
+    <p>Kun hätäpuhelu soitetaan 112 Suomi -sovelluksen (www.112.fi) kautta, niin hätäkeskuspäivystäjä saa automaattisesti tiedon soittajan sijainnista.</p>
+    <p>Kannattaa pitää puhelin lämpimänä sekä ruokaa ja juomaa mukana. Lapissa on paljon katvealueita ja tietyt puhelinmallit eivät toimi pakkasessa, joten reittisuunnitelma aikatauluineen on hyvä ilmoittaa jollekin.</p>
+    <p type="title">Turvallisesti Lapissa</p>
+    <p><em type="italic">Lue Turvallisesti Lapissa - Tietoa omille ja vieraille </em>(pdf) </p>
+    <p>© Metsähallitus 2017</p>
+    <list/>
+    <p>Jaa tämä sivu</p>
+    <p>Avaa Valikko</p>
+  </body>
+</document>

@@ -1,0 +1,64 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Kieli</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>666</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/kieli/kieli.html</origFileName>
+    <parallel_text xml:lang="eng" location="kieli.html"/>
+    <parallel_text xml:lang="smn" location="kieli.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kirjoitustavat</p>
+    <p>Kieli ja identiteetti</p>
+    <p xml:lang="nob">Kertomaperinne</p>
+    <p>Kirjallisuus</p>
+    <p>Julkaistut teokset</p>
+    <p>Inarinsaamelaisten identiteetti erottaa heidät suomalaisten lisäksi myös muista saamelaisista, pohjois- ja kolttasaamelaisista, vaikka he samaistuvatkin saamelaisiin yleensä. Oman ryhmän merkkejä ovat ennen muuta kieli, asuinseutu, suku ja vaatetus.</p>
+    <p>Kieli on kulttuurin ja identiteetin kivijalka. Sen lisäksi, että se on kommunikaation väline, siihen on sisäänrakennettu käsitys asuinympäristöstä ja muusta luonnosta, esineellisestä kulttuurista, elämäntavasta ja maailmankuvasta. Jos kieli häviää, ei kulttuurista jää paljon jäljelle. Vaikka esimerkiksi jonkin saamelaisen käsityön voi oppia tekemään lyhyellä harjoittelulla, pitää oppia myös siinä käytettävä termistö, kuten ainesten nimet ja työtä kuvaat verbit. Saamelaisena eläminen ilman kielitaitoa on puolinaista.</p>
+    <p>Kielialue ja puhujien lukumäärä</p>
+    <p>Inarinsaamen kielen puhujia on noin 300, riippuen siitä, miten kielitaito määritellään. Määrä on ehkä kolmasosa kaikista inarinsaamelaisista. Suurempi osa osaa saamea vain vähän tai pelkästään suomea. Inarinsaamea on puhuttu perinteisesti Inarijärven ympäristössä mm. seuraavilla seuduilla: Nellim, Ivalo, Menesjärvi, Repojoki, Tirro, Inarin kirkonkylä, Kaamanen, Aksujärvi, Syysjärvi, Iijärvi, Sevettijärvi ja Partakko.</p>
+    <p>Inarinsaamen kielen ominaispiirteitä</p>
+    <p>Kielellisesti inarinsaaamelaiset kuuluvat saamen kielten itämurteisiin, vaikka heille on helpompaa ymmärtää länsimurteiden pohjoissaamea kuin itämurteiden koltansaamea. Näin on ainakin kielialueen länsirajalla asuvilla inarilaisilla. Kolttien rajanaapurit taas ymmärtävät paremmin kolttaa ja jotkut puhuvatkin sitä. Inarinsaamelaiset käyttävät sanaa <em type="italic">kieli </em>ilmaisemaan <span type="quote" xml:lang="vep">"murteiden"</span> välistä eroa: <em type="italic">anarâškielâ </em>, inarinkieli. Ero muihin saamen kieliin on niin suuri että naapurikieltenkin ymmärtäminen vaatii totuttelua. Sen vuoksi esim. yhteinen oppimateriaali muiden saamelaisryhmien kanssa ei tule kysymykseen Seuraavassa on muutama esimerkki eri saamen kielten samantapaisista sanoista: </p>
+    <p>suomi <em type="italic">kala äiti </em><em type="italic">poro </em></p>
+    <p xml:lang="sme">pohjoissaame <em type="italic">guolli eadni boazu </em></p>
+    <p xml:lang="smn">inarinsaame <em type="italic">kyeli </em><em type="italic">enni </em><em type="italic">puásui </em></p>
+    <p>koltansaame <em type="italic">kue'll jeä'n'n puä </em></p>
+    <p>Erilaisiakin sanoja on:</p>
+    <p>suomi <em type="italic">ilves kissa ohi </em></p>
+    <p xml:lang="sme">pohjoissaame <em type="italic">albbas bussá meattá </em></p>
+    <p xml:lang="smn">inarinsaame <em type="italic">iilvâs </em><em type="italic">kissá lappâd </em></p>
+    <p>koltansaame <em type="italic">riiss kaass rääi </em></p>
+    <p>Vaikka suomi ja inarinsaame ovat sukulaiskieliä ja rakenteeltaan samanlaisia, on kielen rakenteessa erojakin, kuten - Inarinsaamessa on sijamuotoja vain yhdeksän - Persoonapronomineissa ja verbeissä on yksikön ja monikon lisäksi kaksikkomuoto eli duaali, esim. <em type="italic">čuoigâm </em>(hiihdän), <em type="italic">čyeigeen </em>(me kaksi hiihdämme), <em type="italic">čuoigâp </em>(hiihdämme) </p>
+    <p>- Inarinsaamessa ei ole osaobjektia kuten suomessa. Esim. ilmaisu <em type="italic">Mun puurâm leeibi </em>voi merkitä joko <em type="italic">Minä syön leivän </em>tai <em type="italic">Minä syön leipää </em>. </p>
+    <p>Saamen kielessä on runsas ja monipuolinen luonnonoloihin liittyvä sanasto, mutta nykykieli tarvitsee myös uusia sanoja. Inarinsaamen kieleen on tehtykin noin 10 000 uudissanaa.</p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p>Kielen käyttö virallisissa yhteyksissä</p>
+    <p>Inarinsaamen kielen opetus alkoi peruskoulussa tuntiopetuksena 1970-luvun puolivälistä alkaen. Nyt kunnan opetussuunnitelmassa inarinsaamen kieli on sekä opetuskieli että oppiaine. Lukuvuonna 2005-2006 inarinsaameksi opetetaan eri oppiaineita peruskoulun 1-4 luokilla kahdeksalle oppilaalle. Lisäksi se on äidinkielen ja vieraan kielen oppiaineena ylemmillä luokilla. Kaikkiaan inarinsaamen opetusta saa peruskoulussa 18 ja lukiossa kaksi oppilasta. Ivalon lukiossa on vuodesta 1998 lähtien voitu kirjoittaa inarinsaame äidinkielen tai vieraan kielen kokeena. Yliopistotasoista opetusta on mahdollista saada perusopinnot inarinsaamessa. Opetuksen määrä on lisääntynyt useana vuotena. Inarinsaamen kielen opetusta vaivaa kuitenkin suuri oppimateriaalipula. Vain muutama peruskoulun oppikirja on olemassa, sillä materiaalintekijöitä on vähän. Myös opettajapula on tuntuva. Ongelma on pienelle kieliryhmälle tyypillinen, osaavia ja aktiivisia ihmisiä on vähän. Sama ihminen joutuu olemaan opettaja, toimittaja, kulttuurityöntekijä, lakimies, muusikko, taiteilija, kirjailija, tutkija, poliitikko, nuorisotyöntekijä jne.</p>
+    <p>Uhanalainen kieli tarvitsee tukea</p>
+    <p>Inarinsaamelaisia on vuonna 1995 saamelaisvaltuuskunnan keräämien tietojen mukaan noin 350 sellaisia, joilla saame on ollut ensimmäinen kieli. Kun lukuun lisätään suomenkieliset inarinsaamelaiset, kokonaismäärä lienee vajaan tuhannen paikkeilla. Inarinsaamen kielen taitajat ovat kuitenkin enimmäkseen vanhoja tai keski-ikäisiä, lapsia ja nuoria on verraten vähän.</p>
+    <p>Vuonna 1986 perustettiin inarinsaamen kieltä edistämään <em type="italic">Anarâškielâ servi ry </em>(Inarinsaamen kielen yhdistys; http://www.anaraskielaservi.net). Sen toiminta on ollut tuloksekasta. Vuonna 1997 toimintansa aloittanut yhdistyksen ylläpitämä inarinsaamen kielipesä <em type="italic">Kielâpiervâl </em>on lisännyt nuorten kielen puhujien määrää. Inarinsaame on viimeaikaisista elvytystoimista huolimatta tietysti vielä uhanalainen, ja vaatii voimakasta tukea nopeasti. Silti on syytä uskoa, että jos kielelle saadaan turvattu asema ja monipuolista käyttöä, inari elää. Vuoden 2004 alusta voimaan tulleen Saamen kielilain säädökset koskevat myös inarinsaamen kieltä. Se vahvistanee inarinsaamen kielen asemaa ja lisännee kielen käyttöä. <em type="italic">Matti Morottaja </em> </p>
+    <p>Saamenkielet ja kielialueet. Klikkaamalla kuvaa näet kartan suurempana.</p>
+    <p xml:lang="fkv">
+      <em type="bold">›› Miltä inarinsaame kuulostaa? </em>
+    </p>
+    <p>Kala-Martin tarinan kertoo Iisakki Paadar (.mp3 1.28 mb)</p>
+    <p>E.W. Borgin vuonna 1859 ilmestyneen Aapis Kirjen kuvitusta.</p>
+    <p>Kielâpiervâlin isä Matti Morottaja              opettaa riekkoansojen tekoa kielipesän lapsille Anne Seipiharjulle              ja Pekka Moilaselle.</p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

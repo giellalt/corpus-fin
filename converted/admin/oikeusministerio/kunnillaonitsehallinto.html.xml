@@ -1,0 +1,33 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Kunnilla on itsehallinto - 
+	Oikeusministeriö
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2016</year>
+    <wordcount>37</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.oikeusministerio.fi/fi/index/julkaisut/esitteet/perustuslaki/kunnillaonitsehallinto.html</origFileName>
+    <parallel_text xml:lang="eng" location="kunnillaonitsehallinto.html"/>
+    <parallel_text xml:lang="sme" location="gielddainleaiesra273273en.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Perustuslaki</p>
+    <p type="title">Kunnilla on itsehallinto</p>
+    <p xml:lang="vep">11 LUKU</p>
+    <p>Kunnille on perustuslaissa turvattu itsehallinto. Kunnilla on verotusoikeus. Valtio voi säätää lailla kunnille tehtäviä.</p>
+    <p>Ahvenanmaalle on turvattu itsehallinto. Saamelaisilla on kotiseudullaan kulttuuri- ja kielellinen itsehallinto.</p>
+    <p>Valtion virkoihin on nimitettävä pätevyyden perusteella.</p>
+  </body>
+</document>

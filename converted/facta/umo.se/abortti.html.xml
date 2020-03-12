@@ -1,0 +1,87 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1127</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Finska/Abortti</origFileName>
+    <parallel_text xml:lang="fit" location="abortti.html"/>
+    <parallel_text xml:lang="sma" location="abort.html"/>
+    <parallel_text xml:lang="sme" location="aborta.html"/>
+    <parallel_text xml:lang="smj" location="abartta.html"/>
+    <parallel_text xml:lang="swe" location="abort.html"/>
+    <parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/>
+    <parallel_text location="abortos.html" xml:lang="rmf"/>
+    <parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="abortsia.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Abortti</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Abortti</p>
+    <p>Abortti tarkoittaa raskauden keskeyttämistä. Aborttia harkitsevalla voi olla mielessään monenlaisia kysymyksiä, joista on mahdollista keskustella ja joihin voi saada vastauksia. Tämä koskee myös poikaa, joka on saattanut tytön raskaaksi.</p>
+    <p>Abortin tekemiseen voi olla monia eri syitä. Yhtenä syynä voi olla se, että tyttö ei tunne olevansa valmis synnyttämään lasta. Voi tuntea olevansa liian nuori, tai että raskaus ei sovi elämäntilanteeseen juuri sillä hetkellä. Ehkä raskaus on saanut alkunsa ihmisen kanssa, jonka kanssa ei halua lapsia.</p>
+    <p>Tytöllä on oikeus aborttiin selittämättä kellekään, syystä riippumatta. Tämä on säädetty aborttilaissa. Tytöllä on myös oikeus muuttaa mieltään koska tahansa ennen varsinaista aborttia.</p>
+    <p>Abortti ei vaikeuta raskaaksi tulemista tulevaisuudessa. Abortin tekemiselle ei myöskään ole ikärajaa.</p>
+    <p type="title">Ennen aborttia</p>
+    <p>Aborttia harkitsevalla voi olla mielessään monenlaisia kysymyksiä, ja silloin on hyvä puhua asiasta jonkun kanssa. Aborttia suunnittelevalle tarjotaan aina apua ja tukea, sekä ennen että jälkeen. Myös jonkun raskaaksi saattanut voi halutessaan tavata jonkun, jonka kanssa voi puhua.</p>
+    <p type="title">Tyttö tekee päätöksen</p>
+    <p>Tytön ja pojan on hyvä keskustella asiasta yhdessä. Jos mahdollista, olisi myös hyvä, jos päätös voitaisiin tehdä yhdessä. Jos päätöksestä ei olla samaa mieltä, raskaana oleva tyttö tekee aina lopullisen päätöksen abortista. Tytön raskaaksi tehneellä ei ole yksinoikeutta tehdä päätöstä abortista tai vauvan synnyttämisestä.</p>
+    <p type="title">Abortin tekevän kumppani</p>
+    <p>Olipa päätös abortista yhteinen tai ei, se voi olla kumppanille raskas kokemus. Aborttiklinikoilla ja nuorisovastaanotoilla on mahdollisuus keskustella jonkun kanssa, joko yhdessä tai erikseen.</p>
+    <p>Abortin jälkeen olo voi olla sekä helpottunut että surullinen. Tunteet ja ajatukset voivat vaihdella ajan myötä, joskus vielä pitkän ajan kuluttua abortin tekemisen jälkeen.</p>
+    <p>Halutessaan keskustella jonkun kanssa voi ottaa yhteyttä esimerkiksi nuorisovastaanottoon vielä pitkänkin ajan kuluttua.</p>
+    <p type="title">Milloin abortin voi tehdä?</p>
+    <p>Raskaana olevalla on oikeus tehdä abortti 18. raskausviikkoon saakka tarvitsematta kertoa syytä.</p>
+    <p>18. raskausviikon jälkeen abortin tekemiseen tarvitaan Sosiaalihallinnon erityislupa. Raskauden voi keskeyttää tällöin vain erityisen painavasta syystä. Syynä voi olla esimerkiksi hyvin nuori ikä, alkoholi- tai huumeongelmat, raiskaus tai jos sikiöllä epäillään olevan vakava vamma tai epämuodostuma.</p>
+    <p type="title">Missä abortti tehdään?</p>
+    <p>Abortti tehdään aina sairaalassa tai muulla erikoisklinikalla. Aborttia ei voi tehdä esimerkiksi nuorisovastaanotolla. Jos tietää olevansa raskaana ja harkitsee aborttia, voi kuitenkin ottaa yhteyttä nuorisovastaanottoon saadakseen apua. Voi myös mennä terveyskeskukseen tai gynekologin vastaanotolle. Siellä autetaan ottamaan yhteyttä sairaalan aborttivastaanottoon.</p>
+    <p>Aborttia harkitseva voi myös soittaa itse suoraan aborttivastaanottoon ja varata ajan. Jos tietää haluavansa abortin, aika kannattaa varata mahdollisimman pian, sillä joillakin vastaanotoilla aikaa voi joutua odottamaan.</p>
+    <p type="title">Kuinka abortti tehdään?</p>
+    <p>Abortti voidaan tehdä usealla eri tavalla. Menetelmä riippuu siitä, kuinka pitkälle raskaus on edennyt. Raskauden kesto lasketaan viimeisten kuukautisten alkamispäivästä. Raskausviikkoa ei siis lasketa hedelmöitysajankohdasta.</p>
+    <p type="title">Yhdeksänteen raskausviikkoon saakka</p>
+    <p>Raskaus voidaan keskeyttää lääkkeillä yhdeksänteen raskausviikkoon saakka. Tätä kutsutaan lääkkeelliseksi keskeytykseksi. Joissakin paikoissa tätä menetelmää käytetään enintään raskausviikkoon 12 saakka. Tällöin keskeytys aloitetaan aborttiklinikalla ottamalla tabletti, joka ei ole sama kuin jälkiehkäisypilleri. Lääkkeen oton jälkeen saa lähteä kotiin.</p>
+    <p>Sairaalaan palataan 1-2 päivän kuluttua, jolloin otetaan tabletteja suun kautta tai emättimeen laitetaan tabletteja. Sairaalaan jäädään muutamaksi tunniksi, jolloin kohtu alkaa tyhjentyä verisenä vuotona. Tyhjentyminen voi aiheuttaa kipua, johon voi saada kivunlievitystä ja myöhemmin samana päivänä voi lähteä kotiin.</p>
+    <p>Keskeytyksen voi tehdä myös kotona, jolloin kyseessä on niin sanottu kotikeskeytys. Tässä tapauksessa myös toiset tabletit otetaan kotona. Kotikeskeytyksen suorittajan täytyy olla vähintään 18-vuotias ja hänen on oltava toisen aikuisen seurassa.</p>
+    <p>Muutaman viikon kuluttua abortista käydään jälkitarkastuksessa gynekologin tai kätilön luona, jolloin tehdään uusi raskaustesti ja keskustellaan tuntemuksista. Vasta tämän jälkeen lääkkeellinen keskeytys katsotaan täysin suoritetuksi. Joskus tehdään myös tutkimus sen tarkistamiseksi, ettei kohtuun ole jäänyt istukan jäämiä. Jos jäämiä löytyy, on tehtävä niin sanottu kaavinta, jossa jäljellä olevat osat imetään varovasti pois. Tarvittaessa kaavinta tehdään nukutuksessa.</p>
+    <p type="title">Raskausviikkoon 12 saakka</p>
+    <p>Raskausviikkoon 12 saakka voidaan tehdä niin sanottu kirurginen abortti, jossa suoritetaan kaavinta. Leikkaus tehdään nukutuksessa. Lääkäri vie kohtuun instrumentin, johon on liitetty imu. Sikiö ja istukka imetään varovasti kohdusta ulos. Koko toimenpide kestää noin 20 minuuttia. Toimenpiteen jälkeen jäädään lepäämään sairaalaan muutamaksi tunniksi. Muutaman viikon kuluttua käydään mahdollisesti jälkitarkastuksessa.</p>
+    <p type="title">Raskausviikot 12–18</p>
+    <p>Raskausviikon 12 jälkeen abortti tehdään kahdessa vaiheessa. Ensin vastaanotolla otetaan lääke, joka vastaa varhaisessa abortissa käytettävää lääkettä. Kaksi päivää myöhemmin palataan klinikalle ja otetaan uusia lääkkeitä, jotka laukaisevat kohdun supistukset ja saavat aikaan synnytyksen käynnistymisen.</p>
+    <p>Abortti on kuin pieni synnytys, joka voi olla yhtä kivulias kuin normaali synnytys. Toimenpiteen kesto voi vaihdella muutamasta tunnista useaan vuorokauteen, mutta useimmiten se on ohi yhden vuorokauden kuluessa. Koko toimenpiteen ajan ollaan sairaalassa. Kun abortti on valmis, lääkäri tutkii kohdun. Jos kohdussa on jäämiä istukasta, voidaan suorittaa kohdun kaavinta. Muutaman viikon kuluttua abortista käydään mahdollisesti jälkitarkastuksessa.</p>
+    <p type="title">Raskausviikot 18</p>
+    <p>Raskausviikon 18 jälkeen abortin voi tehdä vain erityisen painavasta syystä. Abortti tehdään samalla tavoin kuin raskausviikon 12 jälkeen.</p>
+    <p type="title">Mitä abortti maksaa?</p>
+    <p>Abortin hinta voi vaihdella asuinpaikasta riippuen. Monissa paikoissa abortti tehdään ilmaiseksi alle 20-vuotiaille. Maksullisen abortin hinta on noin 300 kruunua iästä riippumatta. Jos haluaa tietää oman asuinpaikan tarkan hinnan, sitä voi kysyä nuorisovastaanotosta tai äitiysneuvolasta. Voi myös ottaa yhteyttä aborttiklinikkaan.</p>
+    <p type="title">Täytyykö vanhemmille tai huoltajille kertoa?</p>
+    <p>Vastaanottojen henkilökunnalla on vaitiolovelvollisuus. Aborttia suunnittelevalla on kuitenkin hyvä olla joku, joka voi tukea sekä ennen aborttia että sen jälkeen. Henkilökunta ehdottaakin yleensä nuorille, että vanhemmille tai muille huoltajille kerrottaisiin abortista. Jos abortista ei voi kertoa kotona, siitä voi ehkä kertoa jollekin toiselle aikuiselle, johon luottaa. Kyseessä voi olla aikuinen sisarus, sukulainen, kuraattori tai koulun terveydenhoitaja tai joku muu, joka voi tarjota tukea.</p>
+    <p>Jos vanhemmat tai muut huoltajat ottavat yhteyttä, tilanne arvioidaan tapauskohtaisesti muun muassa nuoren omien toiveiden, olosuhteiden ja iän mukaan. Mitä lähempänä nuori on 18. ikävuotta, sitä pienempi oikeus huoltajalla on tietää tai ottaa yhteyttä terveydenhuoltoon. Useimmissa tapauksissa asian käsittelystä voidaan keskustella henkilökunnan kanssa. Jos vanhempiin tai huoltajiin otetaan yhteyttä, nuori saa aina tietää siitä ensin itse.</p>
+    <p>Jos vanhemmat tai huoltajat eivät missään tapauksessa saa tietää abortista, koska sillä voisi olla nuorelle negatiivisia seurauksia, henkilöstö ei ota heihin yhteyttä. Abortin tekeminen ei saa johtaa tilanteeseen, jossa voi joutua vaikeuksiin. Siinä tapauksessa on mahdollista saada apua kuraattorilta tai muulta tukihenkilöltä.</p>
+    <p type="title">Abortin jälkeen</p>
+    <p>Abortin jälkeen on hyvä levätä muutaman päivän ajan. Ensimmäisten päivien ja jopa runsaan viikon ajan voi tuntua kipua, joka vastaa kuukautiskierron kramppeja. Muutama viikko abortin jälkeen ilmenee verenvuotoa kuukautisten tapaan tai enemmän. Vuodon kesto vaihtelee henkilöstä toiseen ja riippuu käytetystä aborttimenetelmästä. Verenvuodon aikana ei pidä harrastaa seksiä, käyttää tamponia tai uida, koska voi saada tulehduksen. Kuukautiset palaavat yleensä neljästä kuuteen viikon sisällä.</p>
+    <p>Abortin jälkeen jotkut tuntevat olonsa helpottuneeksi, kun taas toiset voivat olla surullisia. Tunteet voivat vaihdella vielä pitkänkin ajan kuluttua abortin jälkeen.</p>
+    <p>Vaikka abortista olisi kulunut jo pitkä aika, voi ottaa yhteyttä vastaanottoon ja kertoa tunteistaan. Yhteyttä voi ottaa siihen klinikkaan, jossa abortti on tehty, tai esimerkiksi nuorisovastaanottoon.</p>
+    <p>Ei ehkä tunne olevansa valmis, on liian nuori tai raskaus ei sovi elämäntilanteeseen juuri sillä hetkellä. Ehkä raskaus on saanut alkunsa ihmisen kanssa, jonka kanssa ei halua lapsia. Tytöllä on oikeus aborttiin selittämättä kellekään, syystä riippumatta. Tämä on säädetty aborttilaissa. Tytöllä on myös oikeus muuttaa mieltään koska tahansa ennen varsinaista aborttia.</p>
+    <p>Abortin tekemiselle ei ole ikärajaa.</p>
+  </body>
+</document>

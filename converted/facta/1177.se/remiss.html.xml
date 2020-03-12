@@ -1,0 +1,59 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>478</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Remiss</origFileName>
+    <parallel_text xml:lang="eng" location="remiss.html"/>
+    <parallel_text xml:lang="sme" location="remiss.html"/>
+    <parallel_text xml:lang="swe" location="remiss.html"/>
+    <parallel_text location="remiss.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="remiss.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Lähete / Remiss - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title">LäheteRemiss</p>
+    <p>Joskus tarvitaan hoitoa muulta vastaanotolta kuin siltä, jonne on hakeuduttu. Sinne pääseminen saattaa vaatia lähetettä.</p>
+    <p>Terveyskeskuksessa tai akuuttivastaanotolla käyntiin ei tarvita lähetettä. Niissä tehdään vaivojen ensimmäinen arvio. Tarvittaessa saa lähetteen erikoissairaanhoitoa varten, esimerkiksi ihotautilääkärille tai fysioterapeutille, lääkintävoimistelijalle.</p>
+    <p>Lähete sisältää tietoja tarvittavasta hoidosta, arviosta tai tutkimuksesta. Lähete sisältää myös vointia, oireita sekä aiempia sairauksia ja vaivoja koskevia tietoja.</p>
+    <p>Lähetteen kirjoittaa yleensä lääkäri, mutta myös muulla hoitohenkilökunnalla, kuten esimerkiksi lastenneuvolan sairaanhoitajalla on mahdollisuus sen laatimiseen.</p>
+    <p>Potilas ei yleensä näe lähetettä, mutta hänelle kerrotaan aina, miksi lähete tehdään ja millaista hoitoa lähetteen saanut vastaanotto antaa. Potilaalle kerrotaan myös, miten pitkä esimerkiksi aluesairaalan yhteydessä toimivan vastaanoton odotusaika on.</p>
+    <p>Joillekin vastaanotoille on mahdollista saada aika ainoastaan lähetteellä. Lähetekäytännöt vaihtelevat eri vastaanottojen välillä, ja sen johdosta kannattaa ottaa selville toivotun vastaanoton noudattama toimitapa. Maakäräjät ja alueet päättävät lähetekäytännöistään itse.</p>
+    <p type="title">Lähete toisten maakäräjien tai toisen alueen vastaanotoille</p>
+    <p>Joissain tapauksissa lähete saadaan toisten maakäräjien tai toisen alueen erikoissairaanhoitoon, jos esimerkiksi tarvittavaa hoitoa ei ole saatavilla omalla asuinpaikalla. Silloin maakäräjät tai alue maksavat sairausmatkat ja muut kulut.</p>
+    <p>Jos saa lähetteen avohoidon erikoissairaanhoitoon, joka ei vaadi sairaalahoitoa, vastaanoton saa valita koko maan alueelta. Siitä esimerkkinä voi mainita harmaakaihileikkauksen. Siinä tapauksessa saa itse maksaa matka- ja asumiskulut.</p>
+    <p>Jos valitsee itse avohoidossa toimivan erikoissairaanhoidon muiden maakäräjien tai alueitten piiristä, on tärkeää ottaa selvää valitun vastaanoton lähetekäytännöistä.</p>
+    <p>Jos omien maakäräjien tai oman alueen antama hoito vaatii lähetettä, sellainen on saatava myös haettaessa hoitoa muualta maasta. Lähetettä tarvitaan, vaikkei muiden maakäräjien tai muun alueen antama hoito vaadikaan sitä.</p>
+    <p type="title">Omailmoitus</p>
+    <p>Monien maakäräjien alueella ajanvarauksen erikoislääkärin vastaanotolle voi tehdä ilman lähetettä. Jotkut vastaanotot haluavat potilaiden tekevän omailmoituksen, jota kutsutaan joskus myös omalähetteeksi tai omaksi hoitopyynnöksi.</p>
+    <p>Omailmoitus merkitsee, että potilas kirjoittaa vastaanotolle ja kertoo voinnistaan ja hoitoon hakeutumisensa syystä. Joissakin tapauksissa sitä varten on olemassa valmis lomake. Jos omailmoituksen vastaanottaja katsoo tutkimuksen olevan tarpeellisen, potilas saa kutsun vastaanotolle.</p>
+    <p>Jos haluaa hoitoa muiden maakäräjien tai muun alueen piiristä, omailmoitusta on mahdollista käyttää vain, jos niissä tai omalla asuinpaikalla annettava hoito ei vaadi lähetettä.</p>
+    <p type="title">Miten pitkä odotusaika on?</p>
+    <p>Potilaalla on oikeus neuvotella lääkärinsä kanssa paikasta, jonne lähete osoitetaan. Joidenkin vastaanottojen odotusaika saattaa olla pitkä. Silloin on mahdollista pyytää lähetettä vastaanotolle, jonka odotusaika on lyhyempi. Jos hoitoa tarvitaan kiireellisesti, siitä on mahdollista tehdä merkintä lähetteeseen. Lähetteen saanut vastaanotto päättää aina siitä, miten nopeasti aika on mahdollista saada.</p>
+    <p type="title">Hoitotakuu vaihtelee</p>
+    <p>Kansallinen hoitotakuu on voimassa, kun saa lähetteen omien maakäräjien puitteissa tai omalla alueella toimivalle vastaanotolle. Sen johdosta hoitoa on annettava määrätyn ajan kuluessa. Erikoissairaanhoidon vastaanotolle tulee päästä 90 päivän kuluessa lähetteen saamisesta.</p>
+    <p>Jos läheteperusteiseen hoitoon hakeudutaan toisten maakäräjien tai toisen alueen puitteissa, hoitotakuu ei ole voimassa. Silloin terveydentila ratkaisee odotusajan.</p>
+    <p>Potilasmaksut vaihtelevat hoidon ja hoitopaikan mukaan. Potilasmaksu kuuluu suurkustannussuojaan.</p>
+    <p>Odotettaessa pääsyä lähetteen saaneelle vastaanotolle lähetteen laatija on vastuussa siitä, että potilas saa tarvittavan hoidon. Jos terveydentila odotusaikana heikkenee, ota yhteyttä lähetteen laatijaan.</p>
+  </body>
+</document>

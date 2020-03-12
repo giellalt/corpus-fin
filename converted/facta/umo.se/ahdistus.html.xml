@@ -1,0 +1,82 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>743</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Finska/Ahdistus</origFileName>
+    <parallel_text xml:lang="fit" location="ahistus.html"/>
+    <parallel_text xml:lang="sma" location="asve.html"/>
+    <parallel_text xml:lang="sme" location="aestus.html"/>
+    <parallel_text xml:lang="smj" location="goavgge.html"/>
+    <parallel_text xml:lang="swe" location="angest.html"/>
+    <parallel_text location="nervolo.html" xml:lang="rmu"/>
+    <parallel_text location="dar.html" xml:lang="rmf"/>
+    <parallel_text location="dar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="baridar.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ahdistus</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Ahdistus</p>
+    <p>Ahdistuksella tarkoitetaan voimakasta, pelonsekaista tai huolestunutta tunnetilaa, joka tuntuu koko kehossa, ja jota useimmat joskus kokevat. Vaikka ahdistus voi tuntua ikävältä, kannattaa kuitenkin yrittää tehdä haluamiaan asioita eikä vältellä tilanteita, joiden uskoo aiheuttavan ahdistusta.</p>
+    <p>Ahdistus johtuu hermoston reaktioista, joihin ei voi itse vaikuttaa. On hyvä tietää, että ahdistus ei ole vaarallista, ja se menee yleensä ohi hetken kuluttua.</p>
+    <p type="title">Ahdistus voi tuntua koko kehossa</p>
+    <p>Ahdistunut tuntee itsensä hyvin pelokkaaksi ja levottomaksi. Se on voimakas tunne, joka voi tuntua koko kehossa. Levottoman olon lisäksi ahdistukseen liittyy sydämentykytystä, hengityksen nopeutumista ja lihasten jännittymistä. Muita ahdistuksen oireita ovat hikoilu, huimaus, vapina tai pahoinvointi sekä puristava tunne rinnassa, mikä vaikeuttaa hengittämistä.</p>
+    <p>Ensin tunne voimistuu ja voimistuu, kunnes hetken kuluttua se ei enää pahene. Tässä vaiheessa ahdistunut henkilö alkaa yleensä rentoutua ja ahdistus lievittyä.</p>
+    <p>Ahdistus voi tuntua pelottavalta. Se ei kuitenkaan ole vaarallista, ja hetken kuluttua olo alkaa tuntua rauhallisemmalta.</p>
+    <p>Ahdistustila voi tuntua joka kerta erilaiselta. Kehon tuntemuksia ei välttämättä aina osaa tunnistaa ahdistukseksi.</p>
+    <p>Joskus sanaa ahdistus käytetään kuvaamaan vaikeita tilanteita. Esimerkiksi edessä oleva koe tai työkiireet tuntuvat ahdistavilta. Ahdistuksella tarkoitetaan kuitenkin jotain muuta vain arkipäiväisiä huolenaiheita, jotka johtuvat usein stressistä.</p>
+    <p type="title">Ahdistuksen syy voi olla tiedostamaton</p>
+    <p>Useimmat ihmiset kokevat ahdistusta jossain vaiheessa elämäänsä, mutta sen voimakkuus ja esiintymistiheys voivat vaihdella. Jotkut kokevat ahdistusta vain satunnaisesti. Toiset voivat kokea voimakasta ja toistuvaa tai pitkäkestoista ahdistusta. Joku saattaa myös kokea lyhyitä ahdistuskohtauksia, jotka menevät nopeasti ohi.</p>
+    <p>Joskus ahdistuksen taustalla oleva syy on tiedossa. Ahdistuksen voi laukaista jokin raskas kokemus, esimerkiksi läheisen kuolema. Väkivallan uhriksi joutunut voi kokea ahdistusta. Ahdistusta voi aiheuttaa myös jonkun ilkeä käytös netissä tai huijauksen ja hyväksikäytön yritys.</p>
+    <p>Jotkut kokevat ahdistusta ennen koetta tai työhaastattelua. Tai ennen vaikeaa ja pelottavaa tilannetta. Vaikka tällainenkin ahdistus tuntuu ikävältä, ainakin sen syy on tiedossa. Syyn ymmärtäminen voi helpottaa ahdistuksen käsittelyä.</p>
+    <p>Myös alkoholin tai huumeiden käyttö voivat aiheuttaa ahdistusta.</p>
+    <p>Ahdistuksen syy voi olla tiedostamaton, tai se voi johtua asioista, joiden ei uskoisi aiheuttavan ahdistusta. Siinä tapauksessa ahdistus saattaa joskus tuntua vielä vaikeammalta ja pelottavammalta.</p>
+    <p>Ahdistuksen erilaisten muotojen välillä ei ole selvää eroa. Vaikka ahdistuksen taustalla oleva syy olisikin tiedossa, tunne voi silti vaikuttaa liian voimakkaalta tilanteeseen nähden, esimerkiksi jos kokee sydämentykytystä, huimausta ja hikoilua ennen koetta tai tenttiä.</p>
+    <p type="title">Vaikutus uneen ja tunteisiin</p>
+    <p>Ahdistus voi vaikeuttaa rentoutumista ja nukkumista. Ahdistunut saattaa herätä keskellä yöllä ja kärsiä sen myötä univaikeuksista tai univajeesta. Lisäksi ahdistus voi aiheuttaa levottomuutta, kärsimättömyyttä, ärtyneisyyttä ja itkuisuutta.</p>
+    <p type="title">Ahdistusta ahdistuksesta</p>
+    <p>Ahdistus voi aiheuttaa kehossa niin voimakkaita tunteita ja reaktioita, että henkilö uskoo kuolevansa tai tulevansa hulluksi. Kokemus voi tuntua niin ikävältä, että haluaa tehdä kaikkensa välttääkseen sen toistumista. Silloin voi ahdistua pelkästään siitä, että pelkää ahdistuvansa. Tätä kutsutaan ennakoivaksi ahdistukseksi.</p>
+    <p>Joku voi olla huolissaan siitä, että ahdistuu muiden läsnä ollessa ja kokee, että ahdistuksesta on vaikea puhua. Tämän seurauksena voi olla, että henkilö alkaa välttää sellaisten ihmisten tapaamista, joita oikeasti haluaisi nähdä tai välttää tekemästä asioita, joita oikeasti haluaisi tehdä. Ahdistuksen pelko rajoittaa elämää.</p>
+    <p>Ahdistusta aiheuttavien asioiden välttäminen ei ole hyvästä, koska se voi pahentaa ahdistusta. Sen sijaan tällaisessa tilanteessa apua tulisi hakea varhaisessa vaiheessa. Ahdistukseen on saatavissa hyvää apua.</p>
+    <p type="title">Miten oloaan voi kohentaa?</p>
+    <p>Ahdistuksesta on mahdollista päästä eroon. Jokainen voi löytää ahdistuksen käsittelyyn omia keinoja. Tässä muutamia vinkkejä.</p>
+    <list>
+      <p type="listitem">Ahdistuksesta puhuminen luotettavalle henkilölle voi auttaa. Vaikeiden tunteiden pukeminen sanoiksi voi helpottaa niiden pohtimista ja ymmärtämistä.</p>
+      <p type="listitem">Monet kokevat ikävistä tunteista kirjoittamisen, maalaamisen tai muun luovan puuhastelun lievittävän ahdistuksen tunteita.</p>
+      <p type="listitem">Stressi voi lisätä ahdistusta. Jos on stressaantunut, voi siis miettiä, miten stressiä ja siten myös ahdistusta voisi vähentää.</p>
+      <p type="listitem">Voi tehdä rentoutusharjoituksia. Niitä voi ladata internetistä tai ostaa CD-levyn apteekista.</p>
+      <p type="listitem">Ahdistus saattaa aiheuttaa univaikeuksia. Hyvät yöunet voivat kuitenkin lievittää ahdistusta. Sen vuoksi on tärkeää yrittää nukkua riittävästi.</p>
+      <p type="listitem">Kuntoilu tai kävely voi lievittää ahdistusta.</p>
+      <p type="listitem">Jos tupakoi, nuuskaa, käyttää alkoholia tai juo paljon kahvia, voi yrittää vähentää niiden käyttöä ja katsoa olisiko lopettamisesta apua. Runsas nikotiinin ja kofeiinin käyttö voivat lisätä ahdistusta ja heikentää yöunta.</p>
+      <p type="listitem">Ahdistuksesta voi lukea lisää tai saada vinkkejä sen hoitoon esimerkiksi internetistä. On myös mahdollista liittyä yhdistyksiin, joista voi saada vinkkejä ja tukea ahdistuksen käsittelyyn.</p>
+      <p type="listitem">Jos haluaa puhua jonkun kanssa, voi soittaa tukipuhelimiin.</p>
+    </list>
+    <p>Ahdistusta ei kannata lievittää alkoholilla tai muilla päihteillä. Päihteet saattavat auttaa hetkeksi, mutta ahdistus tulee takaisin ehkä vielä pahempana.</p>
+    <p type="title">Millaista apua on saatavilla?</p>
+    <p>Ahdistuksesta voi päästä eroon erilaisilla tavoilla. Tavallisesti hoitoon käytetään keskusteluterapiaa, lääkitystä tai rentoutusharjoituksia.</p>
+    <p>Mikä toimii yhdellä ei välttämättä toimi toisella. Siksi on tärkeää saada apua, joka on sopeutettu omiin tarpeisiin.</p>
+    <p>Apua voi hakea ottamalla yhteyttä nuorisovastaanottoon, opiskelijaterveydenhuoltoon tai terveyskeskukseen. Tarvittaessa he voivat auttaa ottamaan yhteyttä esimerkiksi psykologiin tai lääkäriin.</p>
+  </body>
+</document>

@@ -1,0 +1,51 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>434</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=642909</origFileName>
+    <parallel_text xml:lang="sma" location="default.aspx_id=713329.html"/>
+    <parallel_text xml:lang="sme" location="default.aspx_id=713339.html"/>
+    <parallel_text xml:lang="smj" location="default.aspx_id=713341.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Työ ja usko kulkevat käsi kädessä Ruotsin kirkossa - Svenska kyrkan - Om oss</p>
+    <p type="title">Työ ja usko kulkevat käsi kädessä Ruotsin kirkossa</p>
+    <p type="title">Ruotsin kirkossa on sekä palkattuja työntekijöitä että vapaaehtoisia.   Kirkon palkkalistoilla on noin 25 000 työntekijää, joista useimmat toimivat seurakunnissa.</p>
+    <p>Kaikkien seurakuntalaisten on voitava osallistua kirkon toimintaan omalla äidinkielellään. Siksi monissa seurakunnissa on toimintaa myös muilla kielillä kuin ruotsiksi, esimerkiksi suomen ja saamenkielillä sekä viittomakielellä.</p>
+    <p>Ruotsin kirkon ammattiryhmistä</p>
+    <p>Ruotsin kirkon sisällä vaikuttaa monta eri ammattiryhmää. Papit, kirkkomuusikot, vahtimestarit, diakonit ja seurakuntapedagogit kuuluvat näistä yleisimpiin. Heidän lisäkseen on monia muita, kuten ekonomit, kanslistit, tiedottajat ja juristit.</p>
+    <p>Diakoni</p>
+    <p>Diakonin työpaikka on seurakunnassa tai kirkollisessa instituutiossa tai hänen toimensa on kansainvälinen. Työ on monipuolista: nuorten kohtaaminen ja tukeminen kaupungin yössä, kotikäynnit vanhojen ja sairaiden luona, ryhmätoiminta lasten parissa, joiden vanhemmat kärsivät päihde- ja huumeongelmista, dementoituneiden lähimmäispalvelu - todellakin kaikkea soppakeittiöstä opettamiseen.</p>
+    <p>Diakonin koulutukseen sisältyy useita osioita, muun muassa Ruotsin kirkon peruskurssi, kolmen kuukauden ohjattu työharjoittelu sekä yhteiset kurssipäivät tulevien seurakuntapedagogien, kirkkomuusikkojen ja pappien kanssa. Kelpoisuusvaatimuksena on lukion jälkeinen ammattikoulutus, esimerkiksi sosionomin, psykologin tai sairaanhoitajan tutkinto. Koulutuksen viimeinen osio koostuu vuoden kestävästä niin sanotusta karitatiivisesta profiilikoulutuksesta.</p>
+    <p>Seurakuntapedagogi</p>
+    <p>Seurakuntapedagogin tehtävänä on luoda suotuisat puitteet, jotta ihmiset voivat kasvaa ja kehittyä kristillisessä ilmapiirissä. Tehtäväkenttään kuuluvat lapset, nuoret ja aikuiset ja työtehtäviin voi kuulua esimerkiksi rippikoulussa opettaminen, hartaustilaisuuksista vastaaminen, aikuisopetustyön johtaminen tai vapaaehtoistyöhön aktiivisesti osallistuvien valmentaminen johtotehtäviin.</p>
+    <p>Seurakuntapedagogin koulutukseen sisältyy useita osioita, muun muassa Ruotsin kirkon peruskurssi, kolmen kuukauden ohjattu työharjoittelu ja yhteiset kurssipäivät tulevien diakonien, kirkkomuusikkojen ja pappien kanssa. Kelpoisuusvaatimuksena lukion jälkeiset pedagogiset ammattiopinnot, esimerkiksi jonkinasteinen opettajankoulutus. Seurakuntapedagogin koulutuksen viimeinen osio koostuu Ruotsin kirkon omasta vuoden kestävästä oppijaksosta.</p>
+    <p>Kirkkomuusikko</p>
+    <p>Kirkkomuusikon työ on vaihtelevaa ja tarjoaa muusikon työn ohella mahdollisuuden kannustaa toisia kehittymään musiikillisesti. Tehtäviin sisältyy muusikon, kuoronjohtajan ja pedagogin työ. Kirkkomuusikko saa järjestää konsertteja ja hän saa olla mukana valittaessa musiikkia jumalanpalveluksiin sekä elämän tärkeisiin hetkiin, kuten kastejuhliin, häihin ja hautajaisiin.</p>
+    <p>Kanttori</p>
+    <p>Kanttoriksi voi opiskella kansankorkeakoulussa, korkeakoulussa tai musiikkikorkeakoulussa. Koulutus on kaksivuotinen. Sen jatkoksi vaaditaan Ruotsin kirkon peruskurssi sekä työharjoittelu ja yhteiset kurssipäivät tulevien seurakuntapedagogien, diakonien ja pappien kanssa. Kanttorin pätevyyden hankkiminen kestää näin ollen 2,5-3 vuotta.</p>
+    <p>Urkuri</p>
+    <p>Urkuriksi valmistuu suorittamalla taiteen kandidaatin tutkinnon, pääaineena kirkkomusiikki, jossakin Ruotsin musiikkikorkeakouluista (kolmivuotinen koulutus). Vuoden kestävä lisäkoulutus tutkinnon jälkeen tuo sitten pätevyyden Ruotsin kirkon virkaan.</p>
+    <p>Pappi</p>
+    <p>Papin tehtävänä on auttaa ihmisiä kohtaamaan Jumala heidän omassa elämässään, saada heidät kasvamaan uskossa. Pappi on tavattavissa elämän eri vaiheissa ja tilanteissa. Kastetoimitukset ja vihkimiset hoituvat rinta rinnan rippikoululais- ja nuorisotapaamisten kanssa. Joskus voi olla kyseessä luottamuksellinen keskustelu uskoon tai elämäntilanteeseen liittyvistä asioista.</p>
+    <p>Teologian opinnot koostuvat useista eri osioista. 300 teologian opintopistettä yliopistossa tai korkeakoulussa ja työharjoittelun päätteeksi lukukausi Ruotsin kirkon pastoraali-instituutissa Uppsalassa tai Lundissa.</p>
+    <p>//</p>
+  </body>
+</document>

@@ -1,0 +1,126 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1547</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Undersokningarprover/Gynekologisk-cellprovtagning</origFileName>
+    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
+    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
+    <parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Gynekologisen solunäytteen otto / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title">Gynekologisen solunäytteen ottoGynekologisk cellprovtagning</p>
+    <p type="title">Tiivistelmä</p>
+    <p>Kohdunkaulan syöpää vastaan voi suojautua antamalla säännöllisesti gynekologisen solunäytteen. Solunäyte otetaan emättimen pohjan kohdunnapukasta, ja se voi osoittaa varhain mahdollisia solumuutoksia, jotka voisivat johtaa kohdunkaulan syöpään.</p>
+    <p>Useimmat havaituista solumuutoksista ovat lieviä muutoksia, jotka paranevat itsekseen, mutta osa joudutaan poistamaan. Hyvin harvoissa tapauksissa solunäyte saattaa osoittaa, että tutkittavalla on syöpä. Silloin syöpä on yleensä varhaisessa vaiheessa, ja hoito voi olla helppoa eikä aiheuta paljon sivuvaikutuksia.</p>
+    <p>Ruotsissa naiset kutsutaan säännöllisesti gynekologisen solunäytteen ottoon eli ns. seulontaan. 23–50-vuotiaat naiset kutsutaan joka kolmas vuosi; sen jälkeen viiden vuoden välein, kunnes he täyttävät 60 vuotta. Yli 50-vuotiaiden osalta rutiinit voivat olla hieman erilaisia sen mukaan, missä päin maata asuu.</p>
+    <p>Solunäytteen voi antaa myös ollessaan muista syistä kätilön tai gynekologin vastaanotolla gynekologisessa tutkimuksessa.</p>
+    <p type="title">Valmistelut</p>
+    <p>Mitään erityisiä valmisteluja ei tarvitse tehdä, mutta olisi hyvä pidättäytyä yhdynnästä ja voiteiden käytöstä sukupuolielimissä vuorokautta ennen tutkimusta. Muuten näytteen tulkinta voi vaikeutua. Näytettä ei myöskään saa antaa kuukautisten aikana.</p>
+    <p type="title">Miten tutkimus tehdään?</p>
+    <p>Ennen näytteen ottoa riisutaan alaruumis paljaaksi ja asetutaan gynekologiseen tutkimustuoliin. Lääkäri tai kätilö voi ottaa näytteen hieman eri tavoin. Useimmiten käytetään pientä lastaa, jota vedetään pitkin kohdunnapukkaa ja sitten pientä pehmeää harjaa kohdunkaulan kanavan alimmassa osassa.</p>
+    <p>Usein näytteenoton yhteydessä tutkittavalle esitetään myös muutamia kysymyksiä. Vastaukset ovat tärkeitä, jotta näyte voidaan analysoida oikealla tavalla.</p>
+    <p>Tutkimus ei satu ja sen tekemiseen kuluu vain muutamia minuutteja. Solunäytteestä saa vastauksen yleensä kuudessa viikossa.</p>
+    <p type="title">Miltä tutkimuksen jälkeen tuntuu?</p>
+    <p>Näytteen otto on vaaratonta. Joskus voi esiintyä pientä verenvuotoa, mutta se on vaaratonta.</p>
+    <p type="title">Mikä on gynekologinen solunäyte?</p>
+    <p type="title">Solunäytteen anto</p>
+    <p>Gynekologinen solunäyte on näyte, joka otetaan kohdunnapukasta, ts. kohdunkaulan alimmasta osasta, joka avautuu emättimeen. Näyte voi osoittaa varhain, onko olemassa solumuutoksia, jotka voivat johtaa kohdunkaulan syöpään. Useimmat havaituista solumuutoksista ovat lieviä ja paranevat itsekseen, mutta osa joudutaan poistamaan. Näyte voi myös osoittaa syövän, joskin se on hyvin harvinaista.</p>
+    <p>Antamalla säännöllisesti solunäytteen saa vahvan suojan kohdunkaulan syöpää vastaan, koska solumuutokset voidaan löytää ennen niiden kehittymistä syöväksi.</p>
+    <p>Solunäyte on otetaan kohdunkaulan alimmasta osasta, emättimeen avautuvasta kohdunnapukasta. Livmoder = Kohtu Äggstock = Munasarja Livmoderhals= Kohdunkaula Livmodertapp= Kohdunnapukka Slida= Emätin</p>
+    <p type="title">Säännölliset tarkastukset</p>
+    <p>Gynekologisen solunäytteen otto kuuluu terveystarkastuksiin eli ns. seulontoihin, joihin naiset kutsutaan Ruotsissa säännöllisesti. Seulontojen ansiosta solumuutokset voidaan havaita ja hoitaa varhain, mikä on johtanut siihen, että kohdunkaulan syövästä on tullut merkittävästi harvinaisempi 40 viime vuoden aikana.</p>
+    <p type="title">Solunäytteet muissa tilanteissa</p>
+    <p>Gynekologisen solunäytteen voi antaa myös ollessaan muista syistä kätilön tai gynekologin vastaanotolla gynekologisessa tutkimuksessa. Joskus solunäyte voi olla osa gynekologin selvitystyötä, jos on esimerkiksi esiintynyt kuukautisvuotohäiriöitä, mutta se voi silti olla sopiva tilaisuus antaa seulontanäyte. Se on sopivaa, jos muutenkin olisi pian aika antaa näyte tai jos jokin aikaisempi solunäytekontrolli on jäänyt tekemättä.</p>
+    <p type="title">Solumuutokset ja syöpä</p>
+    <p>Solumuutokset voivat johtua bakteerien aiheuttamasta ärsytyksestä limakalvolla tai tilapäisestä virustartunnasta. Se on tavallisin solumuutostyyppi ja voi parantua itsekseen. Toisia solumuutoksia, jotka voisivat johtaa kohdunkaulan syöpään, voidaan poistaa vähäisellä toimenpiteellä.</p>
+    <p>Jos tutkittavan solunäyte ei ole normaali, tehdään selvitys ja usein hänet kutsutaan silloin lääkärin tutkimuksiin. Silloin hänelle voidaan ehdottaa, että solumuutokset poistetaan tai että voidaan odottaa ja katsoa, paranevatko muutokset itsekseen.</p>
+    <p>Solumuutoksen kehittyminen kohdunkaulan syöväksi kestää yleensä pitkän ajan, tavallisesti kymmenestä viiteentoista vuotta. On hyvin epätavallista, että solunäytteen otossa havaitaan jo kehittynyt syöpä, mutta niin käy joissakin yksittäistapauksissa. Silloin syöpä on yleensä varhaisessa vaiheessa, jolloin hoito voi olla helppoa ja siitä voi olla vähemmän sivuvaikutuksia.</p>
+    <p>Vuosittain vajaat 450 ruotsalaista naista saa kohdunkaulan syövän ja paljon useampi, noin 30 000 naista, saa tiedon, että heillä on solumuutoksia.</p>
+    <p type="title">Naiset kutsutaan säännöllisesti</p>
+    <p type="title">Naiset kutsutaan kolmen vuoden välein</p>
+    <p>Kaikki 23–50-vuotiaat naiset kutsutaan antamaan solunäyte joka kolmas vuosi. Tämän jälkeen 50–60-vuotiaat kutsutaan joka viides vuosi. Yli 50-vuotiaiden osalta kutsujen väli voi vaihdella asuinpaikkakunnan mukaan. Ne jotka ovat aikaisemmin saaneet hoitoa solumuutosten vuoksi, saattavat tarvita solunäytekontrolleja myös 60 ikävuoden jälkeen.</p>
+    <p>Kutsu lähetetään siihen osoitteeseen, jossa asianomainen on kirjoilla, ja osallistuminen on aina vapaaehtoista.</p>
+    <p type="title">Millä vastaanotolla näyte otetaan?</p>
+    <p>Kutsun saaneelta näytteen ottaa kätilö lähimmällä kätilövastaanotolla, josta käytetään myös nimitystä äitiysneuvola.  Useimmissa tapauksissa on varattu valmiiksi kellonaika, jonka voi tarvittaessa vaihtaa. Eräillä paikkakunnilla ajanvarauksen voi vaihtaa myös toiselle vastaanotolle.</p>
+    <p>Jos solunäyte annetaan gynekologisen tutkimuksen yhteydessä esimerkiksi gynekologilla tai ehkäisyneuvonnan yhteydessä, tapana on myös rekisteröidä näytteet niin, että tutkittava saa seuraavan kutsun solunäytekontrolliin, kun on kulunut kolmesta viiteen vuotta.</p>
+    <p xml:lang="swe">﻿</p>
+    <p type="title">Kaikkien ei tarvitse antaa näytettä</p>
+    <p type="title">Kutsua eivät saa alle 23- ja yli 60-vuotiaat</p>
+    <p>Alle 23-vuotiaita ei kutsuta solunäytekontrolliin. Solumuutokset ovat sellaisinaan melko tavallisia ennen 23 ikävuotta, mutta niin nuorilta naisilta useimmat muutokset häviävät itsekseen. Kohdunkaulan syövän kehittyminen niin nuorena on äärimmäisen harvinaista. Jos 60 vuotta täyttänyt on osallistunut gynekologiseen solunäytekontrolliin ja useat näytteet ovat olleet normaaleja, riski kohdunkaulan syövän kehittymiseen myöhemmällä iällä on hyvin pieni.</p>
+    <p type="title">Näytettä ei tarvitse antaa, jos ei ole koskaan ollut yhdynnässä</p>
+    <p>Jos ei ole koskaan ollut yhdynnässä, ei tarvitse antaa solunäytettä. Kohdunkaulan syöpää esiintyy vain naisilla, jotka ovat olleet yhdynnässä ja saaneet siten ihmisen papilloomavirus- eli HPV-tartunnan.</p>
+    <p type="title">Jos on homoseksuaali</p>
+    <p>Jos nainen on homoseksuaali, säännöllisissä solunäytekontrolleissa on hyvä käydä, koska solumuutoksia mahdollisesti aiheuttava virus voi tarttua myös naisesta toiseen.</p>
+    <p type="title">Jos naiselle on tehty kohdunpoisto</p>
+    <p>Jos naiselta on poistettu koko kohtu toimenpiteessä, josta käytetään nimitystä totaali hysteerikottomia, hänen ei tarvitse käydä solunäytekontrolleissa, koska leikkauksessa on tuolloin poistettu myös kohdunnapukka. Jos leikkaus on tehty kohdunkaulan syövän tai kohdunkaulan solumuutosten vuoksi, kontrollikäyntejä täytyy jatkaa. Silloin näyte otetaan emättimen yläosasta.</p>
+    <p>Jos on epävarma siitä, millaisessa leikkauksessa on ollut tai mitä on poistettu, asiaa voi kysyä toimenpiteen tehneeltä klinikalta. Usein myös kätilövastaanoton tai äitiysneuvolan kätilö voi auttaa tämän tiedon hankkimisessa. Jos on epävarma, näyte kannattaa antaa varmuuden vuoksi.</p>
+    <p type="title">Näin tutkimus tehdään</p>
+    <p type="title">Valmistelut</p>
+    <p>Mitään erityisiä valmisteluja ei tarvitse tehdä ennen solunäytteen ottoa, mutta vuorokautta ennen tutkimusta tulisi pidättäytyä yhdynnästä ja voiteiden käytöstä emättimessä. Muuten solunäytteen tulkinta voi vaikeutua. Näytettä ei myöskään saa antaa kuukautisten aikana.</p>
+    <p type="title">Näyte kohdunnapukasta</p>
+    <p>Ennen näytteen ottoa täytyy riisua alaruumis paljaaksi ja asettua gynekologiseen tutkimustuoliin. Näytteen ottaja, joka on kätilö tai lääkäri, levittää emättimen seinämiä varovasti tavallisilla gynekologisilla instrumenteilla, joiden tulee olla ruumiinlämpöisiä.</p>
+    <p>Näytteen ottotapa voi vaihdella hieman eri vastaanotoilla. Tavallisinta on käyttää pientä puista tai muovista lastaa, jolla pyyhkäistään kevyesti kohdunnapukkaa, ja sitten pientä pehmeää harjaa kohdunkaulan kanavan alimmassa osassa.</p>
+    <p>Näytteen otto käy nopeasti ja kestää tavallisesti vain muutaman minuutin. Yleensä se on kivutonta. Joillekin saattaa tulla epämiellyttäviä tuntemuksia, mutta ne menevät pian ohi.</p>
+    <p type="title">﻿﻿Kysymyksiä vastattaviksi</p>
+    <p>Näytteenoton yhteydessä tutkittavalle esitetään usein muutamia kysymyksiä, kuten esimerkiksi</p>
+    <list>
+      <p type="listitem">milloin oli viimeisten kuukautisten ensimmäinen päivä tai ovatko kuukautiset loppuneet</p>
+      <p type="listitem">käyttääkö tukittava ehkäisyä ja mitä siinä tapauksessa</p>
+      <p type="listitem">saako tutkittava hormonihoitoa vaihdevuosivaivoihin</p>
+      <p type="listitem">onko tutkittava raskaana tai synnyttänyt viime vuoden aikana.</p>
+    </list>
+    <p>Tiedot lähetetään näytteen mukana ja ne helpottavat laboratorion määrityksenteossa.</p>
+    <p type="title">Jälkeenpäin voi ilmetä vähäistä vaaratonta verenvuotoa</p>
+    <p>Kohdunkaulan limakalvo vuotaa herkästi verta ja tutkimuksen jälkeen on tavallista saada vähäistä ja vaaratonta verenvuotoa. Verenvuoto häviää muutamassa päivässä.</p>
+    <p type="title">Raskaana olevat voivat antaa näytteen</p>
+    <p>Näytteenotto on täysin vaaratonta ja näytteen voi antaa myös raskaana ollessaan. Yleensä näytteen antamista suositellaan viimeistään 15. raskausviikolla, koska poikkeavan näytteen selvitys voi olla vaikeampaa raskauden edettyä pitemmälle.</p>
+    <p type="title">Koska vastaukset tulevat?</p>
+    <p type="title">Useimmissa vastauksissa ilmoitetaan, ettei muutoksia ole</p>
+    <p>Näytettä koskevan vastauksen pitäisi tulla kuuden viikon kuluessa, mutta joskus voi kulua pidempi aika. Noin 95 näytteessä sadasta ei ole solumuutoksia, ja näytteitä pidetään normaaleina. Laboratorio lähettää vastauksen suoraan kotiosoitteeseen.</p>
+    <p>Jos näyte annetaan gynekologin vastaanotolla tai ehkäisyneuvolassa, näytteen ottanut on useimmiten vastuussa siitä, että tutkittava saa vastauksen.</p>
+    <p>Harvinaisissa tapauksissa näytettä ei ole voitu analysoida, esimerkiksi jos se on sisältänyt runsaasti kuukautisverta. Silloin lähetetään kutsu uuteen solunäytteen ottoon.</p>
+    <p type="title">Jos näytteessä on solumuutoksia</p>
+    <p>Jos näyte osoittaa jonkinlaisia solumuutoksia, selvityksiä jatketaan. Jos tutkittavalla on pieniä solumuutoksia ja hän on 30–35-vuotias, ikäraja vaihtelee asuinpaikkakunnan mukaan, näyte tutkitaan heti virustestillä. Testillä tarkastetaan, onko tutkittavalla ihmisen papilloomaviruksen HPV:n tyyppi, joka lisää kohdunkaulan syövän riskiä. Silloin tutkimuksiin tarvitsee tulla vain niiden, joilla samaan aikaan on tämä HPV-tyyppi. Jos tutkittavalla todetaan pieniä solumuutoksia, joissa ei ole tätä virusta, uusi solunäyte täytyy ottaa vuoden kuluttua.</p>
+    <p>Alle 30–35-vuotiaiden naisten kaikkien solumuutosten osalta suositellaan nykyään gynekologin tutkimusta, mutta eräillä paikkakunnilla on sen sijaan tapana kutsua uuteen solunäytteen ottoon kätilön vastaanotolle. Gynekologin tutkimusta suositetaan myös yli 30- tai 35-vuotiaille naisille, joilla on muita kuin kaikkein pienimpiä solumuutoksia.</p>
+    <p type="title">Solunäytteenotot eivät anna täydellistä suojaa syövältä</p>
+    <p>Säännölliset solunäytekontrollit antavat vahvan suojan kohdunkaulan syöpää vastaan, mutta suoja ei ole täydellinen. Kohdunkaulan syövän saattaa saada, vaikka solunäytteet ovat olleet normaaleja, joskin tämä on hyvin harvinaista. Siksi säännöllisten solunäytekontrollissa käyntien lisäksi täytyy aina hakeutua hoitoon, jos ilmenee verenvuotoa yhdynnän jälkeen, jos ilmenee toistuvasti verenvuotoa kuukautisten välillä tai jos ilmenee verenvuotoja sen jälkeen kun kuukautiset ovat loppuneet.</p>
+    <p>Aina voi soittaa sairaanhoitoneuvontaan ja kysyä, mihin pitää ottaa yhteys.</p>
+    <p type="title">Näytteenotto ja näytteen vastaus voivat aiheuttaa levottomuutta</p>
+    <p>Solunäytteen anto voi tuntua rasittavalta. Esimerkiksi näytteen vastauksen odottaminen voi aiheuttaa levottomuutta. Silloin saattaa tuntua helpottavalta ajatella, että solunäytteiden otot ovat yksi tapa suojautua syövältä. Tällöin havaitut muutokset voidaan lähes aina poistaa helpolla toimenpiteellä, niin että välttyy syövän kehittymiseltä tulevaisuudessa.</p>
+    <p>On hyvin harvinaista, että näytteessä havaitaan jo kehittynyt syöpä. Niissä harvinaisissa tapauksissa, joissa solunäytekontrollissa havaitaan syöpä, se on yleensä niin varhaisessa vaiheessa, että hoito on helppoa ja sivuvaikutuksia aiheutuu vähemmän. Sairaus on voitu havaita solunäytteen avulla, ja riski sairastua vakavasti pienenee.</p>
+    <p type="title">Näytteen säilytyksestä saa päättää itse</p>
+    <p>Yleensä solunäytteenotoissa annetut näytteet säilytetään. Uusia näytteitä voidaan esimerkiksi verrata vanhoihin ja tehdä erilaista seurantaa. Näytteitä voidaan lisäksi käyttää tutkimukseen tai muihin tutkimuseettisen komitean hyväksymiin tarkoituksiin. Jos näytettä ei halua säilytettävän tulevaisuutta varten, sen voi ilmoittaa näytteen ottaneelle henkilölle, jolloin näyte tuhotaan myöhemmin.</p>
+    <p>Tiedot näytteenotoista säilytetään myös terveydenhoidon kehittämiseen käytettävässä laaturekisterissä. Jos tutkittava ei halua omien tietojensa käyttämistä tähän, hän voi vaatia niiden poistoa.</p>
+  </body>
+</document>

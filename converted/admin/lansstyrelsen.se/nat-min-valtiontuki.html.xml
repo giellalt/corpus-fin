@@ -1,0 +1,58 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>141</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/suomeksi/Pages/valtiontuki.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="nat-min-staatedaarjoeh.html"/>
+    <parallel_text xml:lang="sme" location="nat-min-stahtadoarjja.html"/>
+    <parallel_text xml:lang="smj" location="nat-min-stahtadoarrja.html"/>
+    <parallel_text xml:lang="swe" location="nat-min-statsbidrag.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Valtiontuki - Länsstyrelsen i Stockholm</p>
+    <list/>
+    <p type="title">Valtiontuki</p>
+    <p>
+      <em type="italic">Hallituksen vähemmistöpolitiikalle 2014 varaamasta 97 miljoonan kruunun kokonaisbudjetista 70 miljoonaa kruunua on käytetty kuntien ja maakäräjien valtiontukeen. </em>
+    </p>
+    <p xml:lang="swe">Marianne R Berlin</p>
+    <p type="title">Mihin rahoja saa käyttää?</p>
+    <p>Kun kyseessä on lain kansallisista vähemmistöistä ja vähemmistökielistä tarkoittama työ, kunnat ja maakäräjät saavat käyttää tukea seuraaviin lisäkuluja aiheuttaviin toimiin:</p>
+    <list>
+      <p type="listitem">Organisaation tarkistukset ja muutokset</p>
+      <p type="listitem">Osa henkilöstökuluista</p>
+      <p type="listitem">Dialogi ja neuvottelut vähemmistöjen kanssa</p>
+      <p type="listitem">Tiedotuskampanjat</p>
+      <p type="listitem">Käännökset</p>
+      <p type="listitem">Vähemmistöjen ja vähemmistökielten esilletuominen</p>
+      <p type="listitem">Kyltit</p>
+      <p type="listitem">Kartoitus</p>
+      <p type="listitem">Hankinnat esim. kirjastoihin</p>
+      <p type="listitem">Pedagoginen materiaali</p>
+      <p type="listitem">Toimintasuunnitelma</p>
+      <p type="listitem">Uudelleenjärjestelyt ja muutokset</p>
+    </list>
+    <p type="title">Kuntakohtainen tuki</p>
+    <p>Kuntien tuen perusmäärä on 660 000 kruunua vuodessa. Kunnat joissa on:</p>
+    <p>alle 50 000 asukasta saavat 1 perusmäärän alle 80 000 asukasta saavat 1,5 perusmäärän alle 100 000 asukasta saavat 2 perusmäärää alle 400 000 asukasta saavat 3 perusmäärää 400 000 asukasta saavat 4 perusmäärää</p>
+    <p>Useampaan kuin yhteen hallintoalueeseen kuuluvat kunnat saavat 500 000 kruunun lisän.</p>
+    <p>Maakäräjät saavat 250 000 kruunua.</p>
+  </body>
+</document>

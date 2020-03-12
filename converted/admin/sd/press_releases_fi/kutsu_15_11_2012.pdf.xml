@@ -1,0 +1,35 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Kulttuuriseminaari</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2012</year>
+    <wordcount>61</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1989&amp;Itemid=10</origFileName>
+    <parallel_text xml:lang="sme" location="bovdehus_15_11_2012.pdf"/>
+    <parallel_text xml:lang="smn" location="povdim_15_11_2012.pdf"/>
+    <parallel_text xml:lang="sms" location="kaccs_15_11_2012.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="koi">15.11.2012</p>
+    <p xml:lang="est">
+      <em type="bold">Kulttuuriseminaari </em>
+    </p>
+    <p><em type="bold"> 26.11.2012, </em>Saamelaiskulttuurikeskus Sajos, Inari<em type="bold"> </em></p>
+    <p>Kutsumme kaikki saamelaistoimijat pohtimaan tulevaisuuden painopisteitä ja kehittämään apurahojen kohdentamista yhteisölle tärkeisiin hankkeisiin. Seminaarin aamupäivä käytetään hakumenettelyn sekä kulttuurimäärärahan teknisten ohjeiden parissa sekä kuullaan eri rahoituslähteistä ja iltapäivällä aloitamme alustuksella Saamelaiskäräjien <span type="quote">"taide-, käsityö ja kulttuuripoliittisesta"</span>-ohjelmaluonnoksesta.</p>
+    <p>Seminaarin päätteeksi julkistetaan Saamelaiskäräjien kulttuurilautakunnan myöntämä kulttuuripalkinto.</p>
+    <p>Maksuttoman ja kaikille avoimen tilaisuuden järjestää Saamelaiskäräjien kulttuurilautakunta. Ohjelma löytyy osoitteesta: www.samediggi.fi</p>
+    <p xml:lang="krl">Tervetuloa!</p>
+  </body>
+</document>

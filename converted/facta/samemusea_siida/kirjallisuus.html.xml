@@ -1,0 +1,77 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Kieli - Kirjallisuus</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>834</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/kieli/kirjallisuus.html</origFileName>
+    <parallel_text xml:lang="eng" location="kirjallisuus.html"/>
+    <parallel_text xml:lang="smn" location="kirjallisuus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kirjoitustavat</p>
+    <p>Kieli ja identiteetti</p>
+    <p xml:lang="nob">Kertomaperinne</p>
+    <p>Kirjallisuus</p>
+    <p>Julkaistut teokset</p>
+    <p>Inarinsaamenkielinen kirjallisuus on hyvin nuorta. Sen kehittymiselle ovat asettaneet esteitä käytännön ongelmat. Kirjoitustapaa ei ole ollut ennen kuin 1900-luvun alusta lähtien. Saamelaisilta puuttui kielen ja kirjoittamisen opetus; sitä alkoi saada vasta 1970-luvulla. Lukeminen ja vähä kirjoittaminen tapahtui suomen kielellä.</p>
+    <p>Kirjallisuuden tarve eri funktioineen on aikaisemmin tyydytetty suullisella kerronnalla, joka onkin kehittynyt monipuoliseksi. Kerrottu tarina, muistelus on keskeisellä sijalla saamelaisessa sanataiteessa. Taitava kertoja yltää samaan kuin kirjailijakin. Hän voi kertoessaan korostaa tärkeitä ja meheviä kohtia, voi kertoessaan liikkua toden ja kuvitellun rajoilla niin, että kuulija joutuu koko ajan arvioimaan kuulemaansa. Kertojan äänenkäyttö, nauru ja eleet mehevöittävät kerrontaa; niitä ei näe kirjoitetussa tekstissä. Se on samalla romaani, näytelmä ja teatteria.</p>
+    <p>Seuraavassa on aikajärjestyksessä inarinsaamenkielisiä teoksia, joissa on tietty kaunokirjallinen ote, proosaa ja runoa. Oppikirjoja ei ole mukana.</p>
+    <p>
+      <em type="italic">1. Tekstikokoelmat </em>
+      <em type="italic">1. 1. Inarinlappalaista kansantietoutta </em>
+    </p>
+    <p>Kirjoitetun inarinsaamenkielisen kirjallisuuden voidaan katsoa alkavan siitä, kun A. V. Koskimiehen ja T. I. Itkosen kokoama ja julkaisema <em type="italic">Inarinlappalaista kansantietoutta </em>ilmestyi vuonna 1917. Se koostuu aineistosta, jonka A. V. Koskimies keräsi v. 1886. Kertojina olivat Heikki Mattus, Iisakki Mannermaa, Mikko Aikio, Pekka Aikio, Juho Petteri Lusmaniemi, Paavali Valle, Santeri Valle, Antti Kitti, Antti Sarre, Matti Sarre, Pietari Valle, Yrjänä Sarre, Heikki Morottaja, Uula Morottaja ja <span type="quote" xml:lang="fkv">"Juutuan muori"</span>. Kirjasta ilmestyi Lea Laitisen toimittamana, hieman muunneltuna versiona uusi painos v. 1979. Tässä käytettiin Erkki Itkosen <span type="quote" xml:lang="fkv">"sanakirjaortografiaa"</span> (samaa, jota käytetään sanakirjassa Inarilappisches Wörterbuch), kun aikaisempi oli kirjoitettu foneettisella eli tarkekirjoituksella. </p>
+    <p>Kokoelma on perinnelajeiltaan monipuolinen. <em type="italic">Satutyyppejä </em>ovat eläinsadut, ihmesadut, novellisadut ja pilasadut. <em type="italic">Syntykertomuksia </em>on yksi, tunnettu kertomus kuuntervaajasta. <em type="italic">Uskomustarinat </em>ovat suunnilleen samanlaiset kuin muillakin saamelsisilla: Staalo, kufittar, aarteenhaltija, jättiläinen, seidat, noidat, muodonmuutokset ja kuolleitten kummittelu. <em type="italic">Historiallisia </em>ja <em type="italic">paikallistarinoita </em>on paljon. Niistä tunnetuimmat ovat Siggan tarina ja vainolaistarinat. Lisäksi on <em type="italic">muistitietoa </em>, joilla on historiallista merkitystä. <em type="italic">Pienfolklorea </em>on sananlaskuja, puheenparsia, arvoituksia, merkkejä ja enteitä. Kirjassa on myös <em type="italic">joikuja ja lauluja </em>. </p>
+    <p>Varsinkin saduista voi tunnistaa yhteyden suomalaisiin ja yleismaailmallisiin satuihin. Asiaa valaisee kirjan alussa mainittu tieto, että eräs kertojista oli ahkera Oulun suomalaisten lehtien kirjeenvaihtaja ja ilmeisesti Oulun Viikkosanomien tilaaja, jossa on ollut kertomuksia suomen kielellä. Sadut ja tarinat ovat saameksi kerrottuina saaneet enemmän ja vähemmän paikallisväriä, niinkuin yleensäkin tapahtuu.</p>
+    <p>1.2. <em type="italic">Aanaarkiela </em><em type="italic">čájttuzeh </em>ilmestyi v. 1992. Sen sisältönä on Erkki Itkosen äänittämiä muisteluksia, jotka toimitti kirjaksi Lea Laitinen. Kirjassa käytetään <span type="quote" xml:lang="fkv">"sanakirjaortografiaa"</span>. </p>
+    <p xml:lang="smn">1.3. <em type="italic">Tovlááh mainâseh </em>on v. 1968-70 kerätyistä äänitteistä, Anarâš- ja Sabmelaš-lehdistä ja kokoelmasta <em type="italic">Aanaarkiela čájttuzeh </em>valikoituja kertomuksia. Sen on toimittanut Matti Morottaja v. 1996. </p>
+    <p>1.4. <em type="italic">Javrij jie </em><em type="italic">ŋah parguu </em>(Järvien jäät parkuivat) on aikuisopiskelijoille tarkoitettu tekstikokokoelma, jonka näytteet on koottu kirjoista, Anarâš-lehdestä ja radionauhoitteista. Toimittanut Pekka Sammallahti v. 2004. </p>
+    <p>1.5. Matti Morottajan ja Ilmari Mattuksen toimittama 305-sivuinen novellikokoelma “ <em type="italic">Kyelisieidi maccâm já eres </em><em type="italic">novelleh </em>” (Kalaseidan paluu ja muita novelleja) ilmestyi jouluna 2005. Kirjoittajia on yhteensä 14 ja aikaväli, josta antologia kertoo, on 500 vuotta. </p>
+    <p>
+      <em type="italic">2. Inarinsaameksi kirjoitetut yksittäiset kirjat ja tekstit </em>
+    </p>
+    <p>2.1. <em type="italic">Uula Morottaja </em>kirjoitti Sabmelaš/Sápmelaš -lehteen ahkerasti inarinsaameksi muisteluksia ja ajankohtaisia asioita. Ensimmäinen kirjoitus ilmestyi v. 1936. Hänen kielensä oli rikasta ja kirjoitus sujuvaa. Erkki Itkonen sanoikin, että Uula Morottajasta olisi tullut Johan Turin veroinen kirjailija, jos mahdollisuuksia olisi ollut. </p>
+    <p>2.1. Lasten laulukirja inarinsaameksi ja pohjoissaameksi “ <em type="italic">Piiččus </em>” (Kapustarinta). Kirjan laulujen sanat ja sävellykset <em type="italic">Aune Vesan </em>. Kirja julkaistiin v. 1987. </p>
+    <p>2.3 <em type="italic">. </em>Aune Vesan kirjoittama “ <em type="italic">Uáináh-uv </em>”, (Näetkö)-niminen runokirja ilmestyi v. 1992. Kirja on inarinsaamen- ja pohjoisaamenkielinen. Siinä on runoja ja Martti Rikkosen ottamia mustavalkokuvia. </p>
+    <p>2.4. Aune Kuuvan kirjoittama lastenkirja “ <em type="italic">Tuálu faŋgâ </em>” (Roudan vanki) ilmestyi 1994. Kirjassa on valokuvaaja Martti Rikkosen kuvitus. </p>
+    <p><em type="italic">2.5. Iisakki Mattukselta </em>ilmestyi v. 1996 muistelmateos " <em type="italic">Eellimpäälgis" </em>, jossa on novellimaisia kertomuksia kirjoittajan elämän varrelta. </p>
+    <p>2.6. <em type="italic">Ilmari Mattuksen </em>dokumenttiromaani " <em type="italic">Čovčjäävrist Kaamâsân </em>" kuvaa aikaa kirjoittajan lapsuus- ja kouluajalta. Ilmestyi 1996. </p>
+    <p>2.7 <em type="italic">. </em><em type="italic">Petter Morottajan </em>kirjoittama ja <em type="italic">Martti Rikkosen </em>kuvittama nuortenromaani “ <em type="italic">Suábi maainâs </em>” (Sauvan tarina) ilmestyi vuonna 1999. Kirja tyypiltään fantasiaromaani, jossa on pohjana saamelainen kerronta. </p>
+    <p>2.7. <em type="italic">Petter Morottajan </em>kirjoittama ja Martti Rikkosen kuvittama lastenromaani “ <em type="italic">Riävskánieidâ </em>” (Riekkotyttö) ilmestyi 2000. </p>
+    <p>
+      <em type="italic">3. Inarinsaameksi käännetyt kirjat </em>
+    </p>
+    <p>3.1. Samuli Aikion toimittaman vanhan sadun mukaan “ <em type="italic">Nieidâ kote šoodâi kollekuálsin </em>” (Tyttö joka muuttui kultakoskeloksi). Kirjan on pohjoissaamesta kääntänyt Matti Morottaja. Ilmestyi 1982. </p>
+    <p>3.2. Rauna Paadar-Leivon kirjoittama lastenkirja “ <em type="italic">Halstemjeegi noaidi </em>” (Halstamojängän noita), ilmestyi v. 1990. Pohjoissaamesta kääntänyt Matti Morottaja. </p>
+    <p>3.3. Kirsti Palton kirjoittama ja Matti Morottajan kääntämä lastenkirja “ <em type="italic">Tivgâ </em>” (Tiuku) ilmestyi v. 1994. Kirja on ensimmäinen Anarâškielâ servi r.o:n kustanne, joka kertoo Mikko-pojan ja valaan ystävyydestä. </p>
+    <p>3.4. Veikko Holmbergin kirjoittama, Marja Helanderin kuvittama, Matti Morottajan kääntämä ja Davvi Girji os:n kustantama “ <em type="italic">Tuuru-kuobžâ </em>” (Tuuru-karhu) ilmestyi v 1995. </p>
+    <p>3.5. Antoine de Saint-Exupéryn kirjoittama ja Iisakki Mattuksen kääntämä “ <em type="italic">Uccâ </em><em type="italic">priinsâš </em>” (Pikku prinssi) 2., korjattu painos ilmestyi 2004. Saamelaiskäräjät, 95 s. </p>
+    <p>3.6. Iisakki Mattuksen kääntämä Shamaanisiskot “ <em type="italic">Kollepäddi </em>” (Kultapanta) ilmestyi vuonna 2001. Saamelaiskäräjät, 160 s. <em type="italic">Matti Morottaja </em> </p>
+    <p xml:lang="smn">Javrij jieŋah parguu  Toimittanut Pekka Sammallahti vuodelta 2004.</p>
+    <p xml:lang="smn">Kyelisieidi maccâm já eres novelleh Toimittaneet Matti  Morottajan ja Ilmari Mattus vuodelta 2005.</p>
+    <p>Petter Morottajan kirjoittama Suábi maainâs ilmestyi vuonna 1999.</p>
+    <p xml:lang="smn">Aune Vesan Uáináh-uv vuodelta 1992.</p>
+    <p>
+      <em type="bold">Kirjallisuusnäyte </em>
+    </p>
+    <p>
+      <em type="bold">Lastenkirjallisuus </em>
+    </p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

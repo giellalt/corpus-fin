@@ -1,0 +1,74 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>459</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Vardgaranti</origFileName>
+    <parallel_text xml:lang="eng" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fit" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sma" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sme" location="vardgaranti.html"/>
+    <parallel_text xml:lang="smj" location="vardgaranti.html"/>
+    <parallel_text xml:lang="swe" location="vardgarantier.html"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmn"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmu"/>
+    <parallel_text location="vardgaranti.html" xml:lang="yid"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Hoitotakuu / Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title">HoitotakuuVårdgaranti</p>
+    <p>Hoitotakuu määrittää, kuinka kauan hoitoon hakeutuvan tarvitsee odottaa hoitoa. Eri hoitomuotoja varten on eri ​​määräajat, esimerkiksi terveyskeskuksen lääkärille on saatava aika 7 päivän kuluessa tai erikoissairaanhoidon vastaanotolta on saatava aika tai hoitoa 90 päivän kuluessa.</p>
+    <p>Hoitotakuu ei koske akuuttisairaanhoitoa. Äkillisesti sairastuneen tai loukkaantuneen tulee saada hoitoa mahdollisimman pian.</p>
+    <p type="title">Miten se toimii</p>
+    <p>Hoitotakuu merkitsee, että hoitoon hakeutuva saa hoitoa tietyn ajan kuluessa. Se on lakisääteinen osa terveyden- ja sairaanhoitolakia. Hoitotakuu säätelee, minkä aikarajojen kuluessa maakäräjien tai alueen on tarjottava hoitoa. Hoitotakuu ei sitä vastoin säätele sitä, onko hoitoa annettava tai mikä hoito voi tulla kyseeseen.</p>
+    <p>Jos hoitoon hakeutuvan valitsema hoitoyksikkö ei pysty antamaan hoitoa määräajan kuluessa, tälle tarjotaan vastaanottoaika tai hoitoa toisessa hoitoyksikössä. Joskus hoitoa voidaan tarjota toisten maakäräjien alueelta. Asianomaisella on aina oikeus hyväksyä tai hylätä muussa hoitoyksikössä tarjottava hoito.</p>
+    <p>Jos hoitoon hakeutuvalle tarjotaan vastaanottoaikaa tai hoitoa, jota ei voida antaa hoitotakuun määräajan mukaisesti, hoitoa on tarjottava toisessa hoitoyksikössä. Kyseessä voi olla terveyskeskus, sairaala tai tietyt yksityisvastaanotot. Toiveen hoitoyksiköstä voi esittää, mutta hoitotakuun puitteissa yksikköä ei voi valita vapaasti. Jos hoitoon hakeutuva ei halua hoitoa muualta kuin valitsemastaan hoitoyksiköstä, hän voi jättää hoitotakuutarjouksen käyttämättä. Tämä voi merkitä, että odotusaika pitenee. Jos hän myöhemmin katuu päätöstä, hän voi aina ottaa yhteyttä hoidonantajaansa. Hoitotakuu tulee silloin voimaan tästä päivämäärästä.</p>
+    <p type="title">Voimassa vain oman läänin / alue</p>
+    <p>Hoitotakuu on voimassa vain niiden maakäräjien tai sen alueen piirissä, jossa potilas on kirjoilla. Jos hakeudutaan kotimaakäräjien ulkopuolelle, ei hoidon saaminen määrätyn ajan sisällä ole taattua.</p>
+    <p type="title">Kansallinen hoitotakuu 0–7–90–90</p>
+    <p>Hoitotakuun mukaisesti hoitoon hakeutuvalla on oikeus:</p>
+    <list>
+      <p type="listitem"><em type="italic">0 – Yhteys terveyskeskukseen samana päivänä </em>Perusterveydenhuoltoon, esimerkiksi terveyskeskukseen tai sairaanhoitoneuvontaan, on saatava yhteys samana päivänä. Yhteydenotto voi tapahtua puhelimitse tai käymällä terveyskeskuksessa. </p>
+      <p type="listitem"><em type="italic">7 – Aika perusterveydenhuollon lääkärille seitsemän päivän kuluessa </em>Jos hoitohenkilökunta katsoo, että hoitoon hakeutuvan on tavattava lääkäri, esimerkiksi terveyskeskus- tai perhelääkärin vastaanotolle tulee päästä seitsemän päivän kuluessa. </p>
+      <p type="listitem"><em type="italic">90 – Aika erikoissairaanhoidon vastaanotolle 90 päivän kuluessa </em>Erikoissairaanhoidon vastaanotolle tulee päästä 90 päivän kuluessa lähetteen saamisesta. Määräaika on voimassa, vaikka hoitoon hakeutuvalla ei olisi lähetettä. </p>
+      <p type="listitem"><em type="italic">90 – Hoito aloitetaan 90 päivän kuluessa </em>Hoitoon, esimerkiksi leikkaukseen, tulee päästä 90 päivän kuluessa hoitopäätöksestä. </p>
+    </list>
+    <p type="title">Milloin hoitotakuu ei ole voimassa?</p>
+    <p>Hoitotakuu ei koske</p>
+    <list>
+      <p type="listitem">uusintakäyntejä</p>
+      <p type="listitem">jos lääketieteellisistä syistä on odotettava takuun määräaikaa pitempään</p>
+      <p type="listitem">lääketieteellisiä palveluita, esimerkiksi laboratorio- ja röntgentutkimusta</p>
+      <p type="listitem">selvityksiä ja tutkimuksia</p>
+      <p type="listitem">apuvälineiden hankintaa, poikkeuksena kuulolaitteen sovitus</p>
+      <p type="listitem">jos hoitoon hakeutuva kieltäytyy toisen hoitoyksikön hoitotarjouksesta (jos hän myöhemmin muuttaa mieltään, hän voi hyväksyä tarjouksen).</p>
+      <p type="listitem">hoitotakuu ei ole voimassa, jos hoitoa haetaan joidenkin muiden maakäräjien alueella toimivasta terveyskeskuksesta tai vastaanotolta, kuin sieltä missä potilas on kirjoilla.</p>
+    </list>
+    <p>Hoitotakuu ei säätele sitä, annetaanko hoitoa, millaista hoitoa annetaan, tai miten pitkän ajan selvitys vie.</p>
+    <p type="title">Hoidon odotusajat</p>
+    <p>Hoitotakuun ja odotusaikojen seurantaan on olemassa kansallinen verkkosivusto Vantetider.se. Verkkosivustolla on esillä kaikkien maakäräjien ja alueiden odotusaikatilanne.</p>
+  </body>
+</document>

@@ -1,0 +1,49 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>195</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Symtom_sjukdom/Cellforandringar-i-livmoderhalsen</origFileName>
+    <parallel_text xml:lang="eng" location="cellforandringar-i-livmoderhalsen.html"/>
+    <parallel_text xml:lang="rus" location="cellforandringar-i-livmoderhalsen.html"/>
+    <parallel_text xml:lang="swe" location="cellforandringa.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kohdunkaulan solumuutokset / Cellförändringar i livmoderhalsen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Kohdunkaulan solumuutoksetCellförändringar i livmoderhalsen</p>
+    <p type="title">Yleiskatsaus</p>
+    <p type="title">Yleistä</p>
+    <p>Kohdunkaula on kohdun alaosa. Kaikista alimpana on kohdunnapukka, ja siellä voi kehittyä solumuutoksia. Se ei useimmiten tarkoita, että olisit sairas, mutta joskus solumuutoksista voi kehittyä useiden vuosien kuluessa syöpä. Käymällä säännöllisissä solunäytetutkimuksissa tällaiset muutokset voidaan havaita ja hoitaa varhain.</p>
+    <p>Syöpään johtavat solumuutokset johtuvat usein sukupuoliteitse tarttuneesta viruksesta. Osittain itsensä voi suojata käyttämällä kondomia. Yleisimpiä syöpää aiheuttavia viruksia vastaan voi myös ottaa rokotuksen. Jotta suoja olisi mahdollisimman hyvä, rokotus olisi otettava ennen sukupuolielämän aloittamista.</p>
+    <p>Kohdunkaulan solumuutoksiin on myös tietty perinnöllinen riski. Tupakointi lisää riskiä.</p>
+    <p type="title">Oireet</p>
+    <p>Solumuutoksista ei aiheudu oireita tai vaivoja.</p>
+    <p>Ne voidaan havaita vain solunäytteestä.</p>
+    <p type="title">Hoito</p>
+    <p>Yleensä solumuutokset menevät ohi itsestään. Jos niitä on hoidettava, ne poistetaan pienellä leikkauksella. Ne voidaan poistaa myös lämpö-, kylmä- tai laserhoidolla. Hoito tehdään sairaalassa tai gynekologin vastaanotolla paikallispuudutuksessa tai nukutuksessa. Kotiin pääsee yleensä samana päivänä.</p>
+    <p>Jälkeen päin vointi on normaali, mutta yhdyntää on vältettävä 3-4 viikon ajan.</p>
+    <p type="title">Milloin on hakeuduttava hoitoon?</p>
+    <p>Koska solumuutokset eivät aiheuta oireita, on tärkeää käydä kaikissa sinulle tarjotuissa tutkimuksissa.</p>
+    <p>Voit aina soittaa terveydenhuollon neuvontaan ja ottaa selville missä pääset solunäytetutkimukseen.</p>
+  </body>
+</document>

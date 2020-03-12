@@ -1,0 +1,51 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>210</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/Fi/lantbruk-och-landsbygd/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmu"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rka"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmf"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmn"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Maatalous ja maaseutu - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem">Maatalous ja maaseutu</p>
+    </list>
+    <p type="title">Maatalous ja maaseutu</p>
+    <p>
+      <em type="italic">Lääninhallitus toimii EU:n ja Ruotsin maatalous- ja maaseutupolitiikan toteuttamiseksi alueellisella tasolla. Sen mukaan maataloudesta pitää kehittää kilpailukykyinen ja pitkällä tähtäimellä kestävä elinkeino samalla kun ekologinen viljely lisääntyy ja arvokkaat luonnon- ja kulttuurimaisemat säilytetään. Elävä maaseutu merkitsee myös vaihtoehtoisten työpaikkojen, hyvän palvelun ja houkuttelevien asumisympäristöjen luomista. </em>
+    </p>
+    <p type="title">Eläintenpito</p>
+    <p>Lääninhallitus käsittelee monia eläintenpitoon liittyviä kysymyksiä. Tarkistamme, että eläintallit täyttävät vaatimukset hyvästä eläinympäristöstä. Jotta eläimet, ja viime kädessä myös me ihmiset, voisimme hyvin, on tärkeää, että eläimille annettava rehu tuotetaan, käsitellään, säilytetään, kuljetetaan ja käytetään turvallisella tavalla. Lääninhallitus ja Ruotsin maatalousvirasto tarkastavat tämän useassa eri vaiheessa. Vähintään 400 eläinyksikön eläintilat edellyttävät lupaa lääninhallitukselta. Myönnämme lupia myös muille eläimiin liittyville toiminnoille, esim. koirapäiväkodeille ja ratsastuskouluille</p>
+    <p type="title">Maaseudun kehitys</p>
+    <p>Käytämme hyväksi kunkin paikkakunnan ainutlaatuisia edellytyksiä ja myötävaikutamme siten maaseudun hyvään kehitykseen. Maaseutuohjelma on EU-ohjelma, joka antaa maaseudun toimijoille ja yrittäjille mahdollisuuden hakea avustusta yrityksen perustamiseen tai laajentamiseen, mutta myös yritysten kompetenssin parantamiseen.</p>
+    <p type="title">Maatalous</p>
+    <p>Lääninhallitus toimii maanviljelyelinkeinon kehittämiseksi läänissä. Elinvoimainen maatalous on edellytys avoimelle viljelymaisemalle ja elävälle maaseudulle. Päätehtävänämme on vaikuttaa kestävän, tehokkaan ja ympäristöä säästävän maatalouden edistämiseen Ruotsin ja EU:n maatalouspolitiikan avulla. Tämä merkitsee, että annamme tietoja ja neuvoja läänin maanviljelijöille. Otamme vastaan myös EU-tukihakemuksia, käsittelemme asioita, tarkastamme toimintoja ja teemme päätöksiä EU:n säännöstön mukaisesti.</p>
+  </body>
+</document>

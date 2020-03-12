@@ -1,0 +1,56 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>238</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Second-opinion-en-andra-lakarbedomning</origFileName>
+    <parallel_text xml:lang="eng" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="fit" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="sma" location="second-opinion.html"/>
+    <parallel_text xml:lang="sme" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="smj" location="second-opinion-en-andra-lakerbedomning.html"/>
+    <parallel_text xml:lang="swe" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rka"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmn"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmu"/>
+    <parallel_text location="second-opinion-en-andra-lakerbedomning.html" xml:lang="yid"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Tilan uudelleenarviointi, toisen lääkärin lausunto / Ny medicinsk bedömning, second opinion - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Tilan uudelleenarviointi, toisen lääkärin lausuntoNy medicinsk bedömning, second opinion</p>
+    <p>Jos lääkäri toteaa sairauden, jonka johdosta potilaan edessä on vaikeita terveydentilaa koskevia päätöksiä, hänellä saattaa olla oikeus uuteen, toisen lääkärin tekemään tilan uudelleenarviointiin (nk. second opinion). Tilan uudelleenarvioinnin tarkoituksena on varmistaa, että potilas saa tarvitsemansa hoidon.</p>
+    <p>Potilaalla on oikeus tilan uudelleenarviointiin, jos hänellä on hengenvaarallinen tai erityisen vakava sairaus tai vamma. Esimerkiksi syöpää tai hermostollista sairautta sairastavilla saattaa olla oikeus tilan uudelleenarviointiin. Potilas voi aina kysyä lääkäriltään tilansa uudelleenarvioinnin mahdollisuutta.</p>
+    <p type="title">Miten voin mennä siitä?</p>
+    <p>Jos lääkäri on todennut sinulla sairauden, joka edellyttää vaikeaa lääketieteellistä päätöstä, sinulla on tietyissä tapauksissa oikeus toisen lääkärin arvioon, joka tunnetaan myös nimellä second opinion. Tämä tarkoittaa, että sinulla on mahdollisuus tutkituttaa itsesi toisella lääkärillä. Toisen lausunnon tarkoituksena on varmistaa, että saat itsellesi parhaiten sopivaa hoitoa.</p>
+    <p>Jos potilas haluaa päästä määrätyn lääkärin vastaanotolle tai määrätylle muualla maassa sijaitsevalle klinikalle, asuinpaikan maakäräjät pyrkivät järjestämään asian.</p>
+    <p>Jos potilaalle uudelleenarvioinnin perusteella ehdotetaan toisenlaista hoitoa, hänellä on oikeus siihen. Edellytyksenä on,</p>
+    <list>
+      <p type="listitem">että hoito perustuu tieteeseen tai parhaisiin toimitapoihin</p>
+      <p type="listitem">että hoitokustannusten katsotaan olevan kohtuulliset sairauteen tai vammaan nähden.</p>
+    </list>
+    <p>Oma maakäräjäkunta on velvollinen kustantamaan toisen lääketieteellisen arvion, vaikka joutuisit matkustamaan toisen maakäräjäkunnan alueelle. Oma maakäräjäkunta maksaa myös matkasta aiheutuvat kulut.</p>
+    <p>Potilaalla on myös mahdollisuus ottaa yhteyttä asuinpaikkansa maakäräjien potilaslautakuntaan tai potilasasiamieheen selvittääkseen, miten tilan uudelleenarvioinnin voi saada.</p>
+  </body>
+</document>

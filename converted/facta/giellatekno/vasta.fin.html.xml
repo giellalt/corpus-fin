@@ -1,0 +1,44 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Vasta</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>169</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/vasta.fin.html</origFileName>
+    <parallel_text xml:lang="eng" location="vasta.eng.html"/>
+    <parallel_text xml:lang="nob" location="vasta.nob.html"/>
+    <parallel_text xml:lang="sme" location="vasta.html"/>
+    <parallel_text xml:lang="swe" location="vasta.swe.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Vasta</p>
+    <p>Vasta-ohjelmassa sinun on tarkoitus antaa vastauksia sattumanvaraisiin kysymyksiin. Harjoituksen tarkoituksena on harjoitella verbien ja nominien taivutusta. Ohjelma hyväksyy useita vastausvaihtoehtoja ja antaa kommentteja mahdollisiin virheisiin.</p>
+    <p>Ohjelma edellyttää, että vastaus annetaan kokonaisena ​​lauseena (lauseessa on oltava finiittiverbi). Jos kysymyksessä on me-pronomini, sinun pitää vastata pronominilla <span type="quote">"te". Sama pätee myös, jos kysymyksessä on "te"</span>-pronomini. Tavoitteena on harjoitella verbien taivutusta monipuolisesti subjekti-verbi-yhdistelmien avulla</p>
+    <p>Vasta-ohjelmassa on kaksi vaihtoehtoa: Vasta-S ja Vasta-F:</p>
+    <p><em type="italic">Vasta-S: </em>Ohjelma antaa sinulle muutaman sanan, joita sinun pitää käyttää vastauksessasi. Sinun pitää taivuttaa siniset sanat oikein. Voit valita montako sinistä sanaa haluat ohjelman antavan sinulle. Ohjelmassa on seuraavat vaikeusasteet: </p>
+    <list>
+      <p type="listitem">Taso 1: Vain preesens ja yksinkertainen sijakäyttö.</p>
+      <p type="listitem">Tasot 1-2: Kysymykset tulevat myös preteritissä, vastauslauseessa voi olla monta verbiä sekä lauseenjäseniä, joissa on lukusanoja ja/tai demonstratiivipronomineja.</p>
+    </list>
+    <p><em type="italic">Vasta-F: </em>Voit muotoilla vastauksesi vapaasti. Ohjelmassa on seuraavat vaikeusasteet: </p>
+    <list>
+      <p type="listitem">Taso 1: Verbit vain preesensissä ja sijamuotojen peruskäyttö, lähinnä yksikössä.</p>
+      <p type="listitem">Taso 1-2: Verbejä myös preteritissä ja enemmän monikkomuotoja, sekä lisäksi adverbiaalisijamuotoja.</p>
+      <p type="listitem">Taso 1-3: Lukusanojen sijataivutus, kollektiiviset luvut, verbien konditionaalimuotoja.</p>
+    </list>
+    <p>Otamme mielellään vastaan kommentteja ohjelmasta: (oahpa@uit.no).</p>
+    <p>Linkki Vasta-ohjelmaan</p>
+  </body>
+</document>

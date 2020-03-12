@@ -1,0 +1,88 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>731</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden</origFileName>
+    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fit" location="barns-och-.html"/>
+    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Lasten ja huoltajien oikeudet terveydenhuollossa / Barns och vårdnadshavares rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Lasten ja huoltajien oikeudet terveydenhuollossaBarns och vårdnadshavares rättigheter i vården</p>
+    <p>Huoltajat osallistuvat ja vaikuttavat lapsen hoitoon. Huoltajien on sen johdosta saatava lapsen hoitoa, hoitovaihtoehtoja ja hoitopaikkoja koskevia tietoja.</p>
+    <p>Myös lapsen on saatava osallistua hoitoonsa. Hoitohenkilöstön on sen johdosta aina toimittava lapsen parhaaksi ja otettava selvää lapsen tahdosta. Lapsilla on myös oikeus tehdä omia päätöksiä, ja mitä isompi lapsi, sitä tärkeämpää se on. Lapsen saavuttaessa täysivaltaisuuden 18 vuoden iässä, hän saa suurimmaksi osaksi päättää omista asioistaan itse.</p>
+    <p>Lapselle ja huoltajalle on siis annettava tietoja ja mahdollisuus ottaa kantaa esimerkiksi hoitomenetelmään. Ymmärtääksenne todella ja pystyäksenne osallistumaan saatatte sen johdosta tarvita esimerkiksi tulkkia, hoitoa koskevan tekstin luettavaksi kotiin tai muunlaista mukautettua tukea.</p>
+    <p>Useat eri lait kuvaavat terveydenhuollon velvollisuuksia antaa lapsille, nuorille ja heidän huoltajilleen mahdollisuuden myötämääräämiseen. Niitä ovat ennen kaikkea potilaslaki sekä terveyden- ja sairaanhoitolaki. Ruotsi on myös allekirjoittanut YK:n lapsen oikeuksien sopimuksen. Sen mukaan lapsella on oikeus parhaaseen mahdolliseen terveyteen ja sairaanhoitoon. Lapsella on myös oikeus henkilökohtaiseen koskemattomuuteen ja mielipiteen ilmaisuun.</p>
+    <p type="title">Tiedonsaantioikeus</p>
+    <p>Osallistumisen johdosta on tärkeää saada tarvittavat tiedot. Teille on esimerkiksi annettava tietoja</p>
+    <list>
+      <p type="listitem">terveydentilasta</p>
+      <p type="listitem">saatavilla olevista tutkimus- ja hoitotavoista</p>
+      <p type="listitem">apuvälineistä</p>
+      <p type="listitem">hoidon odotettavissa olevasta tuloksesta</p>
+      <p type="listitem">mahdollisista komplikaatioista ja sivuvaikutuksista</p>
+      <p type="listitem">sairauden tai vamman ehkäisytavoista.</p>
+    </list>
+    <p>Lapsen osallistumiselle hoitoa koskeviin päätöksiin ei ole ikärajaa. Lapsen oikeus päättää asioistaan liittyy hänen kypsyyteensä, eikä ikä ole ainoa kypsyyteen vaikuttava tekijä. Pitkään sairastanut tai toimintarajoitteinen lapsi saattaa esimerkiksi olla kypsempi tekemään hoitoaan koskevia päätöksiä kuin toinen samanikäinen lapsi ilman senkaltaisia kokemuksia.</p>
+    <p>Mitä vanhemmaksi lapsi tulee, sitä useammin lapsen ja huoltajan on saatava antaa suostumuksensa tarjottavalle hoidolle. Hoidosta vastaavat arvioivat, useimmiten yhdessä huoltajan kanssa, milloin lapsi pystyy osallistumaan hoitoa koskevaan päätöksentekoon.</p>
+    <p type="title">Tietoja ilman vanhempien osallistumista</p>
+    <p>Joissakin tilanteissa lapset voivat olla itse suoraan yhteydessä terveydenhuoltoon ilman huoltajan sekaantumista, vaikka se saattaakin tapahtua huoltajan ollessa tietoinen asiasta. Lapsella on esimerkiksi oikeus keskustella hoitohenkilöstön kanssa ilman vanhempiaan ja ilman, että he saavat tietää, mitä lapsi on kertonut. Mikäli keskustelussa ilmenee jotakin lapsen suojaan ja terveyteen vaikuttavaa, hoitohenkilöstö on velvollinen ilmoittamaan siitä kunnan sosiaalipalveluun.</p>
+    <p>Jos lapsi pystyy hakeutumaan hoitoon omasta aloitteestaan, hänellä on oikeus terveysneuvontaan ilman vanhemman läsnäoloa ja ilman, että vanhempi saa tutustua tuloksiin. Nuorisovastaanotolla käyneellä nuorella on myös oikeus päättää, saako joku muu tietää käynnistä tai lukea potilaskertomusta.</p>
+    <p>Lapsella on oikeus saada omaa tukea, neuvoja ja tietoja perhettään koskevissa kysymyksissä kuten esimerkiksi perheenjäsenen toimintarajoitteen, fyysisen tai psyykkisen sairauden tai perheenjäsenen kuoleman johdosta.</p>
+    <p type="title">Hoito mukautetaan lapsen tarpeisiin.</p>
+    <p>Lasta hoidetaan ensisijaisesti lastenosastolla. Muita esimerkkejä siitä, miten terveyden- ja sairaanhoidon tehtävänä on huomioida lasten tarpeet on</p>
+    <list>
+      <p type="listitem">että he saavat pitää ainakin yhden läheisen luonaan sairaalassa olon aikana</p>
+      <p type="listitem">että he saavat keskeyttää tutkimuksen tai hoidon ja pitää tauon yrittääkseen myöhemmin uudelleen</p>
+      <p type="listitem">että saavat päättää, miten lääke otetaan tai miten tutkimus toteutetaan silloin, kun tarjolla on useita yhdenvertaisia vaihtoehtoja.</p>
+    </list>
+    <p type="title">Kun lapset eivät saa osallistua</p>
+    <p>Joissakin tapauksissa lapsi ja nuori eivät voi osallistua päätöksen tekoon, vaikka he voivatkin vaikuttaa siihen. Se koskee esimerkiksi päätöksiä, jotka vaativat lääketieteellistä osaamista. Lapsi ja huoltaja eivät saa kieltäytyä hoidosta, jos hoitoa annetaan tartuntasuojalain, nuorten huoltoa koskevien erityismääräysten (LVU) tai psykiatrisesta pakkohoidosta annetun lain (LPT) nojalla.</p>
+    <p type="title">Huoltajan oikeudet</p>
+    <p>Huoltajalla on mahdollisuus kieltäytyä määrätystä lapselle annettavasta hoidosta. Vaikka olette suostuneet johonkin, mielen muuttaminen ja päätöksen peruminen on mahdollista.</p>
+    <p>Jos huoltaja ja lapsi, tai lapsen eri huoltajat eivät ole yhtä mieltä, hoidonantajan tehtävänä on päättää, miten tilanne ratkaistaan. Joskus hoidon puolelta pyydetään sosiaalipalvelua valitsemaan lääketieteellisen huoltajan, jos huoltajat eivät pääse yksimielisyyteen.</p>
+    <p>Vaikeisiin tilanteisiin osallistumisesta on mahdollista kieltäytyä. Hoitohenkilöstö saattaa esimerkiksi pyytää pitämään kiinni lapsesta epämiellyttävän tutkimuksen tai hoidon yhteydessä. Huoltaja voi sen sijaan olla paikalla lohduttamassa ja tukemassa lasta hoitoa tai tutkimusta ennen ja niiden jälkeen.</p>
+    <p>Huoltaja saa nukkua lapsen lähellä sairaalahoidon aikana, tutustua osaston tiloihin ja saada osaston rutiineja ja linjauksia koskevan kuvauksen.</p>
+    <p>Huoltajalla on oikeus lapsen potilaskertomuksen kopioon, mutta lapsen kypsyystason kehittyessä lapsen on annettava suostumuksensa potilaskertomuskopion luovuttamiselle.</p>
+    <p type="title">Mistä huoltajat eivät saa päättää</p>
+    <p>Hoitohenkilöstö ei ole määrätyissä tilanteissa velvollinen huomioimaan huoltajan toivomuksia. Esimerkkeinä siitä ovat</p>
+    <list>
+      <p type="listitem">että lapselle annetaan hoitoa, joka on ristiriidassa tieteen tai hoidon parhaiden toimintatapojen kanssa</p>
+      <p type="listitem">että huoltaja haluaa evätä lapselta hengenpelastavan hoidon</p>
+      <p type="listitem">että lapsen potilaskertomukseen sisältyviä tietoja ei anneta muille hoidonantajille.</p>
+    </list>
+    <p type="title">Jos hoito ei tyydytä</p>
+    <p>Jos lapselle annettua hoitoa pidetään virheellisenä, tai jos teitä on kohdeltu huonosti, kääntykää ensi kädessä vastaanotolla työskentelevän henkilöstön tai lasta hoitaneen osaston puoleen. Potilaslautakunnan puoleen on myös mahdollista kääntyä. Se auttaa saamaan yhteyden vastaavaan hoitohenkilöstöön ja antaa tietoja tapahtuneen raportoinnista.</p>
+  </body>
+</document>

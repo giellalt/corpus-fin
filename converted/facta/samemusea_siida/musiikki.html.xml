@@ -1,0 +1,59 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Kulttuuri - Musiikki</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Marko" lastname="Jouste" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>784</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/kulttuuri/musiikki.html</origFileName>
+    <parallel_text xml:lang="eng" location="musiikki.html"/>
+    <parallel_text xml:lang="smn" location="musiikki.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="fkv">Käsityö</p>
+    <p>Saamenpuku</p>
+    <p>Musiikki</p>
+    <p>Suomen saamelaisten musiikkiperinteistä vähiten huomiota on saanut inarinsaamelainen musiikkiperinne. Tämä johtuu osittain siitä, että inarinsaame on ollut kielenä vähemmistön vähemistönä sangen marginaalisessa asemassa. Inarinsaamelaisia musiikintekijöitä on myös hyvin vähän ja nämä tekijät ovat heijastuneet myös inarinsaamelaisen kulttuurin arvostukseen. Tunnetuimpia ovat laulaja ja säveltäjä <em type="italic">Aune Kuuva </em>, räp-artisti <em type="italic">Amoc </em>sekä sisarukset <em type="italic">Heli ja Satu Aikio </em>. Vanhemman polven musiikkimiehistä voidaan mainita <em type="italic">Ilmari Mattus </em>sekä <em type="italic">Matti Morottaja </em>, joka esiintyi mm. ensimmäisillä Kaustisen kansamusiikkifestivaaleilla vuonna 1968. </p>
+    <p>Viime vuosikymmeninä inarinsaamelainen musiikkiperinne on joutunut vähemmälle huomiolle ja toisinaan on jopa kysytty, onko omaa inarinsaamelaista musiikkiperinnettä ollut olemassakaan. Kuitenkin 1800-luvun ja 1900-luvun alkupuolen arkistolähteiden avulla saadaan kuuluviin hyvin elävä inarinsaamelainen musiikkiperinne.</p>
+    <p>Inarinsaamelainen musiikkiperinne hahmottuu arkistolähteiden mukaan seuraaviin osiin: Keskeisen osan perinteestä muodostavat inarilaisten ihmisten livđet sekä eläinlivđet. Vanhimmat tunnetut livđe-tekstit on tallennettu Mikko Aikiolta 1880-luvulta. 1900-luvun aikana tallennuksia on tehty runsaasti. Laajin inarinsaamelaisen musiikin kokoelma on tallennettu <em type="italic">Anna-Briitta Mattukselta </em>(os. Morottaja). </p>
+    <p>Seuraavassa on kolme tekstiä karhun livđelle, joka on yksi tunnetuimmista inarinsaamelaisista livđeistä. Vanhin toisinto on <em type="italic">Mikko Aikion </em>vuonna 1886 esittämä. </p>
+    <p xml:lang="smn">Koccáá juo viljâžâm Piäiváš juo vaarijd páštá kuđhiih juo kuodduužij mield ruotâdeh lode ruojâ jo peljijd vaaldij káálguh juo nuotijdis čihteh kálláh juo kiävuidis vuorkkiistileh párnááh juo sierâtávgáiguin sierih</p>
+    <p>Herää jo veliseni Päivä paistaa jo vaaroille muurahaiset juoksevat jo puiden rungoilla linnun laulu jo korviin kaikuu akat jo nuottiansa korjaavat ukot panevat jo verkkokävyt talteen lapset leikkivät jo leikkijousineen</p>
+    <p>Frans Äimän muistiinmerkitsemästä Karhun livđen toisinnosta selviää, että veli-sana liittyy tilanteeseen, jossa karhu herättelee veljeään, toista karhua.</p>
+    <p>Karhu sanoo veikkoselleen: Nouse jo veikkoseni! Päivyt jo vaaroilla paistaa, linnun ääni jo korviin raikuu, pienet muurahaiset jo liekosille laukkaavat, ukot jo käpyjänsä panevat talteen, akat jo nuottiansa korjaavat.</p>
+    <p>Vuonna 1946 <em type="italic">Anna-Briitta Mattus </em>esitti livđen Helsingissä musiikintutkija A. O. Väisäselle. Inarinsaamenkieliset tekstit on nykyortografialle translitteroinut Matti Morottaja. </p>
+    <p xml:lang="smn">Viljâžâm viljâžâm koccáá jo no piäiváš jo vaarijd páštá, lol-lo-lo… kuuđhah jo muorâi mield ryettih, lal-lal-lal… kálláh jo kiävuidis rähtih, lal-lal-lal… káálguh jo nuotijdis čihteh, lal-lal-lal… kaandah jo tävgipisoiguin sierâdeh, lal-lal-lal… ludij ruojâ jo peljidân vaaldij, lal-lal-lal… kuuđhâmievtâ siste, lal-lal-lal… ráávhust lii uáđđâm kale, lal-lal-lal… täälvis lii uáđđâm kale, lal-lal-lal… te tot jo muorjijd porá, lal-lal-lal… tuot kustoo meid jo koccáá lal-lal-lal</p>
+    <p>Veliseni veliseni herää jo päivä jo vaaroihin paistaa, lol-lo-lo, loo-loo kusiaiset jo puita myöten juoksee lol-lo-lo … ukot jo käpyjänsä laittaa lol-lo-lo, loo-loo lol-loo… akat jo nuottiaan korjaa lol-lo-lo, loo-loo lol-loo… pojat jo jousipyssyillä leikkivät lol-lo-lo… lintujen laulu (meteli) jo korviini otti lol-lo-lo… muurahaismättään sisällä rauhassa on nukkunut kyllä talvensa on nukkunut kyllä, lol-lo-lo, loo-loo lol-loo … nyt se jo marjoja syöpi lol-lo-lo, loo-loo lol-loo … Tuo (pentu) tuossa näköjään myös herää lol-lo-lo, loo-loo lol-loo</p>
+    <p>Musiikillisesti livđet ovat hyvin samankaltaisia kuin Inarin pohjoissaamelaiset joiut ja siksi niitä on pelkästään musiikillisten piirteiden kautta toisinaan vaikea erottaa toisistaan. Lisäksi inarinsaamelaiseen perinteeseen on kuulunut livđejen ohella myös pohjoissaamelaisia joikuja, joihin viitataan inarinsaamessa termillä <em type="italic">juáigus </em>, (pl. <em type="italic">juáiguseh </em>). Vanhimmat kuvaukset inarinsaamelaisesta musiikista ovat 1800-luvun alkupuolelta ja ne ovat pappien sekä virkamiesten tekemiä. Niissä käsitellään erityisesti inarilaisten veisuutaitoa. Inarinkielinen nimitys virsille on <em type="italic">salmâ </em>(pl. <em type="italic">saalmah </em>) ja 1800-luvun virsiperinne liittyi ns. Vanhan virsikirjan virsistöön. Vuonna 1993 ilmeistyi nykyinen inarinsaamemenkielinne virsikirja. Livđejen, joikujen ja virsien ohella tunnetaan lukuisia inarinsaamenkielisiä lauluja. Inarinsaamenkielinen nimitys on <em type="italic">laavlâ </em>(pl. <em type="italic">lavluuh </em>). Tunnetuin laulu lienee ns. <em type="italic">Kihlajaislaulu </em>, joka tunnetaan myös Äidin ja Tyttären vuoropuhelulauluna. Laulua kerrotaan esitetyn kihlajaisissa 1800-luvun lopulla ja 1900-luvun alkupuolella. Eräs syy inarinsaamelaisen musiikkiperinteen heikkenemiseen 1900-luvulla lienee ollut vuoden 1920 <em type="italic">espanjantautiepidemia </em>. Tautiin menehtyi noin 200 ihmistä Inarissa ja hyvin suuri osa heistä oli juuri inarinsaamelaisia. Koska vainajien livđejä ei mielellään esitetty, hävisi perinteestä merkittävä osa, samoin kuin lukuisia perinteentaitajia. 1920- ja 1930-lukujen aikana Inaria kosketti voimakas suomalainen muuttoliike, joka myös vaikutti musiikkikulttuuriin ja varmasti Lapin sodan vaikutus heikensi perinnekulttuuria entisestään. </p>
+    <p>Inarinsaamelaista musiikkiperinnettä on kuitenkin tallennettu sotien jälkeenkin erityisesti 1960-luvun lopulla mm. Matti Morottajan ja Saamen radion toimesta. Runsaiden arkistoaineistojen avulla ja yhteistyöllä vanhojen perinteentaitajien kanssa on mahdollista <em type="italic">elvyttää vanhaa inarinsaamelaista musiikkiperinnettä </em>. Tämän vuoden Ijahis Ija -festivaalin inarinsaamelaiskonsertissa kuultiinkin uudemman inarinkielisen laulun ohella myös vanhoja livđejä. <em type="italic">Marko Jouste </em> </p>
+    <p>Yli sata  joikunäytettä A.O. Väisäselle ja Erkki Ala-Könnille esittänyt Anna-Briita Mattus laulaa fonografiin. A.O. Väisänen 1946.</p>
+    <p xml:lang="smn">Amoc, Mikkâl Antti Morottaja ja Jouni Petteri Morottaja räppäävät inarinsaameksi.</p>
+    <p xml:lang="nno">››</p>
+    <p xml:lang="smn">Anna-Briita Mattus: Karhun livđe</p>
+    <p>Vahalieriötallenne vuodelta 1946</p>
+    <p xml:lang="sms">( .mp3 800 kb)</p>
+    <p><em type="italic">Mikä on livđe? </em>Saamelaisessa musiikkiperinteessä kuvataan musiikillisin ja tekstillisin keinoin kunkin alueen omaa elinympäristöä ja ihmisiä. Keskeistä perinteessä on se, että laulun kohde omistaa oman laulunsa. Eurooppalaisessa ja skandinaavisissa lauluperinteissä on kyse kertovista lauluista. Kertovilla lauluilla puolestaan kuvataan ihmisiä, tapahtumia ja tunteita ilman kohteeseen liittyvää omistussuhdetta. Pohjoissaamen alueella omistetuista lauluista käytetään nimeä <em type="italic">luohti </em>, vaikkakin suomen kieleen on vakiintunut termi joiku. Inarinsaamenkielinen nimitys on <em type="italic">livđe </em>ja kolttasaamessa <em type="italic">leu’dd </em>. </p>
+    <p>Ilmari Mattus ja <span type="quote" xml:lang="smn">"Sáárámáárjá"</span>.</p>
+    <p>Inarinsaamelaisia musiikintekijöitä:</p>
+    <p xml:lang="smn">
+      <em type="bold">Aune Kuuva </em>
+    </p>
+    <p xml:lang="smn">
+      <em type="bold">Amoc </em>
+    </p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

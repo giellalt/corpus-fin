@@ -1,0 +1,35 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Eduskunta säätää lait - 
+	Oikeusministeriö
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2016</year>
+    <wordcount>155</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.oikeusministerio.fi/fi/index/julkaisut/esitteet/perustuslaki/eduskuntasaataalait.html</origFileName>
+    <parallel_text xml:lang="eng" location="eduskuntasaataalait.html"/>
+    <parallel_text xml:lang="sme" location="riikkabeaivvitasahitlagaid.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Perustuslaki</p>
+    <p type="title">Eduskunta säätää lait</p>
+    <p xml:lang="vep">6 LUKU</p>
+    <p>Eduskunnan tärkein tehtävä on säätää lakeja. Uusi laki säädetään tai vanhaa lakia muutetaan hallituksen esityksestä, kansanedustajan aloitteesta tai kansalaisaloitteen johdosta.</p>
+    <p>Eduskunnassa lakiesitys tai aloite menee lähetekeskustelun jälkeen valiokunnan käsiteltäväksi. Valiokunnassa asiaa pohditaan perusteellisesti ja kuullaan asiantuntijoita. Valiokunta valmistelee mietinnön, ja esitys palaa eduskunnan täysistuntoon ensimmäiseen käsittelyyn. Siinä käydään yleiskeskustelu, jonka aikana eduskunta voi lähettää esityksen suuren valiokunnan käsittelyyn. Yksityiskohtaisessa käsittelyssä päätetään lakiesityksen sisällöstä.</p>
+    <p>Toisessa käsittelyssä eduskunta hyväksyy tai hylkää esityksen.</p>
+    <p>Hyväksytty laki annetaan presidentin vahvistettavaksi. Jos hän ei vahvista sitä kolmen kuukauden kuluessa, laki palaa eduskuntaan. Jos eduskunta pysyy kannassaan, laki tulee voimaan ilman presidentin vahvistustakin.</p>
+    <p>Perustuslain muuttaminen tapahtuu samalla tavoin toisen käsittelyn loppuun asti, jolloin eduskunta hyväksyy sen lepäämään seuraavien eduskuntavaalien yli. Uuden eduskunnan äänestyksessä kahden kolmasosan edustajista on kannatettava muutosta. Perustuslakia voidaan muuttaa yhdessäkin eduskunnassa, jos muutos julistetaan kiireelliseksi viiden kuudesosan enemmistöllä. Tasavallan presidentti, valtioneuvosto tai ministeriö voivat antaa asetuksia perustuslain nojalla tai eduskunnan säätämän lain perusteella.</p>
+  </body>
+</document>

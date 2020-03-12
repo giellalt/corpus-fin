@@ -1,0 +1,111 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1320</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
+    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Mitä reseptilääkkeet maksavat? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Mitä reseptilääkkeet maksavat?Vad kostar läkemedel på recept?</p>
+    <p type="title">Mitkä ovat määräykset?</p>
+    <p type="title">Suurkustannussuoja</p>
+    <p>Valtio subventoi, antaa ts. taloudellista tukea lääkkeisiin ja eräisiin muihin tuotteisiin, joita tarvitaan tiettyjen sairauksien hoitoon. Suurin osa reseptilääkkeistä kuuluu tämän tuen piiriin. Subventio määritellään lääke-etuuksista annetussa laissa. Lain tarjoamaa tukea korkeiden kulujen kattamiseksi kutsutaan suurkustannussuojaksi.</p>
+    <p>Lain mukaan</p>
+    <list>
+      <p type="listitem">useimmista lääkkeistä, e-pillereistä ja avannehoitotarvikkeista saa alennusta ns. suurkustannusportaan mukaan</p>
+      <p type="listitem">tietyt käyttötarvikkeet, joita tarvitaan lääkkeiden saattamiseksi elimistöön ja lääkityksen omavalvontaan, kuten verensokerin mittaukseen käytettävät liuskat, ovat maksuttomia</p>
+      <p type="listitem">tiettyjen elintarvikkeiden korkeiden hintojen kattamiseksi saa erityistukea alle 16-vuotiaille lapsille.</p>
+    </list>
+    <p type="title">Hinta ja tuki</p>
+    <p>Hinnoista ja tuesta päättää Hammashuolto- ja lääke-etuusvirasto, TLV. Tuesta päättäessään TLV arvioi, vastaako lääkkeestä saatava hyöty sen subvennoinnista aiheutuvia kustannuksia. Hyöty voi olla esimerkiksi parempi terveys ja pidempi elinikä. TLV arvioi myös, voiko lääkkeen käyttö pienentää yhteiskunnalle esimerkiksi leikkauksista, sairauslomista tai vanhustenhuollosta aiheutuvia kustannuksia.</p>
+    <p>Lääkeyritykset voivat itse päättää lääkkeen myymisestä ilman suurkustannussuojaa. Silloin hinnoittelu on vapaa, ts. lääkeyritykset määräävät hinnan itse. Jos lääke ei kuulu suurkustannussuojan piiriin, se on maksettava kokonaan itse.</p>
+    <p>Osaa lääkkeistä tuetaan rajoitetusti. Tämä merkitsee, että lääkettä subventoidaan vain tietylle potilasryhmälle tai tietyn sairauden hoidossa.</p>
+    <p>TLV:llä ja FASS:lla on omat verkkosivut, joilta voi tarkistaa, subventoidaanko lääkettä vai ei.</p>
+    <p type="title">Halvin vaihtokelpoinen lääke</p>
+    <p>Joskus samasta lääkkeestä on tarjolla useita samanarvoisia vaihtoehtoja. Niitä kutsutaan rinnakkaisvalmisteiksi. Niissä on sama määrä vaikuttavaa ainetta tai aineita, ja niillä on sama teho. Ne voivat kuitenkin näyttää erilaisilta ja sisältää erilaisia lisäaineita, esimerkiksi säilöntäaineita. Rinnakkaislääkkeet voivat olla eri lääkeyritysten valmistamia ja ne voivat olla erihintaisia. Nämä vaihtoehdot ovat keskenään vaihdettavissa apteekeissa. Ruotsin lääkevirasto päättää, mitä lääkkeitä saa vaihtaa toiseen vastaavaan.</p>
+    <p>Jos myynnissä on useita rinnakkaislääkkeitä ja reseptiin merkitty ei ole niistä halvin, apteekin tulee vaihtaa se vaihtoehtoon, jonka hinta on markkinoiden alin. Vain halvin vaihtoehto on kokonaan subventoitu. Asiakas voi ostaa reseptissä määrätyn, kalliimman lääkkeen, mutta silloin hintojen erotus on maksettava itse, sillä se ei sisälly suurkustannussuojaan. Jos asiakas ei halua sitä vaihtoehtoa, johon apteekki vaihtaa lääkkeen, eikä myöskään sitä, joka on määrätty reseptissä, hän voi valita toisen rinnakkaisvalmisteen. Silloin lääke on kuitenkin maksettava kokonaan itse. Vain reseptissä määrätty lääke ja halvin vaihtokelpoinen lääke ovat subventoituja. Perusteena on, että kenenkään ei tarvitse maksaa lääkkeestä enempää kuin välttämätöntä, jos on olemassa useampia samantyyppisiä, erihintaisia lääkkeitä.</p>
+    <p>Jos asiakkaan on lääketieteellisistä syistä käytettävä tietyn valmistajan lääkettä, lääkäri voi reseptiin tekemällään merkinnällä kieltää lääkkeen vaihdon. Silloin asiakkaan ei tarvitse maksaa lisäkustannusta edellyttäen, että lääke kuuluu suurkustannussuojan piiriin. Lääketieteellisiä syitä voivat esimerkiksi olla allergia jonkin tabletin väriaineelle tai että potilaan on vaikea avata tietty pakkaus.</p>
+    <p type="title">Kauden tuote</p>
+    <p>TLV päättää joka kuukausi voimassa olevat hinnat lääkeyritysten haettua hintamuutoksia. Lääkkeen hinta voi muuttua hakemuksesta joka kuukausi.</p>
+    <p>Halvinta rinnakkaisvalmistevaihtoehtoa kutsutaan nimellä kauden tuote. TLV ilmoittaa apteekeille, mikä vaihtoehto on kauden tuote ja mihin apteekin tulee vaihtaa lääke. TVL päättää myös kahdesta varavaihtoehdosta, joihin voi vaihtaa, jos kauden tuote loppuu. Mihin vaihtoehtoon apteekit vaihtavat lääkkeen, voi siis vaihdella kuukaudesta toiseen.</p>
+    <p>Kauden tuotteen tarkoituksena on, että ne verovarat, jotka on tarkoitettu lääkkeiden subventointiin, riittävät mahdollisimman pitkälle ja mahdollisimman monelle.</p>
+    <p>Kauden tuote on sama kaikissa apteekeissa. Joskus voi kuitenkin käydä, että apteekki on ostanut liian suuren määrän kauden tuotetta. Siinä tapauksessa apteekki voi myydä sitä myös seuraavan kuukauden aikana. Tämä merkitsee, että yhdessä apteekissa voidaan tarjota edellisen kuukauden tuotetta ja toisessa kuluvan kuukauden tuotetta. Näillä kahdella tuotteella voi olla eri hinta.</p>
+    <p type="title">Suurkustannussuoja</p>
+    <p type="title">Maksu enintään 2 200 kruunua vuodessa</p>
+    <p>Suurkustannussuoja tarkoittaa, että asiakas maksaa lääkkeistä enintään 2 200 kruunua vuoden aikana. Tätä kutsutaan suurkustannuskaudeksi.</p>
+    <p>Suurkustannussuoja koskee reseptilääkkeitä, joita TLV:n päätöksen mukaan subventoidaan. Se koskee myös käyttötarvikkeita, joita saa ns. apuvälinekortilla.</p>
+    <p>Useimmista reseptilääkkeistä maksetaan joka kerta ns. omavastuuosuus kunnes on maksanut 2 200 kruunua. Sama koskee avannepotilaan hoidossa tarvittavia käyttötarvikkeita.</p>
+    <p>Osasta lääkkeitä ei makseta lainkaan omavastuuosuutta. Jos diabeteksen hoidossa tarvitaan insuliinia, se on maksutonta. Jos potilas on sairastunut tartuntatautilain mukaiseen sairauteen, maakäräjät maksavat kaikki niiden lääkkeiden kulut, jotka pienentävät tarttuvuutta, esimerkiksi virusta heikentävät hiv-lääkkeet.</p>
+    <p>Jotkut maakäräjät maksavat tiettyjen lääkkeiden ja tiettyjen potilasryhmien omavastuuosuuden kokonaan tai osittain, tämä koskee esimerkiksi nuorten naisen e-pillereitä.</p>
+    <p>Käyttötarvikkeet, joita tarvitaan lääkeaineiden saattamiseksi elimistöön ja lääkityksen omavalvontaan, ovat maksuttomia. Esimerkkejä tällaisista tuotteista ovat ruiskut ja verensokerin mittaukseen käytettävät liuskat.</p>
+    <p type="title">Omavastuuosuus suurkustannusportaan mukaan</p>
+    <p>Kun vuoden kestävä suurkustannuskausi alkaa, asiakas maksaa kaikki lääkkeiden ja avanteen hoitoon tarkoitettujen tarvikkeiden kulut itse, kunnes hän on maksanut yhteensä 1 100 kruunua. Sen jälkeen omavastuuosuus pienenee asteittain ns. suurkustannusportaan mukaan. Jokaisen uuden ostoksen osalta aloitetaan siitä kustannuksesta, johon on päätynyt edellisen ostoksen yhteydessä, ja noustaan portaita ylöspäin.</p>
+    <p>Kun on maksettu 2 200 kruunua, suurkustannuskauden aikana ei tarvitse enää maksaa enempää. Edellytyksenä on, että ostetut lääkkeet kuuluvat suurkustannussuojan piiriin. Kun suurkustannuskausi päättyy, aloitetaan seuraavalla ostokerralla alusta huolimatta siitä, missä kohtaa suurkustannusporrasta asiakas on.</p>
+    <p type="title">Näin suurkustannusporras toimii</p>
+    <p>Lääkekustannukset yhteensä</p>
+    <p>Maksu enintään</p>
+    <p>5 400</p>
+    <p>2 200</p>
+    <p>3 900</p>
+    <p>90 % alennus</p>
+    <p>2 050</p>
+    <p>2 100</p>
+    <p>75 % alennus</p>
+    <p>1 600</p>
+    <p>1 100</p>
+    <p>50 % alennus</p>
+    <p>1 100</p>
+    <p>0 % alennus</p>
+    <p>Taulukko osoittaa, kuinka suurkustannussuoja alentaa kuluja asteittain.</p>
+    <p type="title">Erityiselintarvikkeet lapsille</p>
+    <p>Myös alle 16-vuotiaalle lapselle tarkoitetut elintarvikkeet ovat subventoituja, jos lapsella on tietty sairaus, esimerkiksi keliakia. Elintarvikkeet määrätään ns. elintarvikereseptillä ja niitä voi saada enintään 90 päiväksi kerralla. Omavastuuosuus on joka kerta 120 kruunua, mutta tätä maksua ei lasketa suurkustannussuojaan.</p>
+    <p type="title">Paljonko kerralla saa ostaa?</p>
+    <p>Suurkustannussuojan nojalla ei voi ostaa kuinka paljon tahansa. Ostettavan määrän tulee olla tarkoitettu riittämään 90 päiväksi, ts. noin kolmeksi kuukaudeksi. Ehkäisyvälineet, esimerkiksi e-pillerit ja -ruiskut, ovat poikkeuksia tästä kolmen kuukauden säännöstä.</p>
+    <p>Jos reseptillä voi hakea lääkkeitä useamman kerran, uuden erän voi hakea vasta sitten, kun on kulunut kaksi kolmasosaa siitä ajasta, jonka lääkkeen lasketaan riittävän edellisen kerran jälkeen. Jos on esimerkiksi hakenut lääkkeitä kolmen kuukauden käyttöä varten, on siis täytynyt kulua kaksi kuukautta ennen kuin reseptillä saa lisää lääkkeitä.</p>
+    <p>Kerralla voi ostaa enemmän kuin yhden reseptillä olevan lääke-erän, mutta silloin on maksettava täysi hinta siitä osasta, joka ylittää kolmen kuukauden käytön. Jos lääkäri on kirjoittanut reseptiin, että lääkkeiden haun välillä on oltava tietyn pituinen aika, lääkettä ei voi saada useammin kuin lääkäri on ilmoittanut.</p>
+    <p>Erityisistä syistä, esimerkiksi pitkän ulkomailla oleskelun vuoksi, lääkkeitä voi hakea suurkustannussuojan nojalla kolmea kuukautta pitemmäksi ajaksi. Silloin oleskelu tulee kuitenkin pystyä todistamaan esimerkiksi matka-asiakirjoin.</p>
+    <p type="title">Milloin suurkustannussuoja on voimassa?</p>
+    <p>Jotta suurkustannussuoja olisi voimassa, lääkkeen määräävän henkilön on ilmoitettava reseptissä työpaikkansa lukukelpoisella viivakoodilla. Jos resepti koskee rajoitetusti subventoitavaa lääkettä, määräävän henkilön on ilmoitettava reseptissä, että suurkustannussuoja on voimassa.</p>
+    <p>Suurkustannussuoja koskee sitä, joka asuu tai on työsuhteessa Ruotsissa, tai jolla on eurooppalainen sairausvakuutuskortti toisesta ETA-maasta tai Sveitsistä. Eurooppalainen sairausvakuutuskortti tulee näyttää sekä lääkärissä että apteekissa. Ruotsilla on sopimus myös tiettyjen Euroopan ulkopuolisten maiden – Algerian, Australian ja Kanadan Quebeckin osavaltion – kanssa, mikä merkitsee, että lääke-etuudet koskevat näiden maiden kansalaisia, jos he tarvitsevat lääkkeitä ollessaan Ruotsissa.</p>
+    <p>Kaikilla alle 18-vuotiailla samassa taloudessa asuvilla lapsilla, jotka ts. ovat kirjoilla samassa asunto-osoitteessa, on yhteinen suurkustannussuoja. Tämä merkitsee, että kaikkien lasten omavastuuosuudet lasketaan yhteen. Näin ollen biologisilla sisaruksilla, jotka ovat kirjoilla eri osoitteissa, on kaikilla oma suurkustannussuoja.</p>
+    <p type="title">Suurkustannustietokanta</p>
+    <p>Lääkkeen ostajan ei tarvitse itse olla selvillä siitä, millä summalla hän on ostanut lääkkeitä. Kaikki suurkustannussuojaan kuuluvat ostot rekisteröidään ns. suurkustannustietokantaan, jota ylläpitää valtiollinen Ehälsomyndigheten (E-terveys viranomainen). Järjestelmä seuraa, kuinka paljon omavastuuosuuksia on maksettu, ja laskee aina oston yhteydessä suurkustannusportaan mukaisen alennuksen. Kaikilla apteekeilla on käytössä sama tietokanta, joten ei ole merkitystä sillä, missä apteekissa asioi.</p>
+    <p>Suurkustannustietokantaan liittyminen on vapaaehtoista. Tietokantaan rekisteröidään nimi, henkilötunnus, ostopäivä, mistä apteekista reseptilääkkeet on noudettu, paljonko asiakas on maksanut, mihin määrään asiakas on päässyt suurkustannussuojaa laskettaessa ja suurkustannuskauden aloituspäivämäärä. Rekisteröitäviä tietoja käytetään vain oikean alennuksen määrittämiseen. Tietoja saaduista lääkkeistä tai reseptin kirjoittaneesta lääkäristä ei rekisteröidä.</p>
+    <p>Asiakas voi koska tahansa pyytää otteen suurkustannustietokannassa olevista itseä ja lapsiaan koskevista tiedoista. Tämän voi tehdä täyttämällä ja lähettämälle lomakkeen Ehälsomyndigheten:ille (E-terveys viranomainen).</p>
+    <p type="title">Tietokannan ulkopuolelle jääminen</p>
+    <p>Asiakas voi halutessaan päättää, että hänen tietojaan ei tallenneta suurkustannustietokantaan. Kun asiakas tällöin ostaa lääkkeitä, jotka kuuluvat suurkustannussuojan piiriin, apteekki antaa kuitin, jota kutsutaan nimellä suurkustannustodistus. Todistuksesta ilmenee maksetun omavastuuosuuden kokonaismäärä. On tärkeää pitää tallessa viimeisin suurkustannustodistus ja esittää se yhdessä reseptin kanssa lääkkeitä ostettaessa. Apteekin tulee saada tietää, millä suurkustannusportaan tasolla asiakas on, jotta tämä saa oikean alennuksen.</p>
+  </body>
+</document>

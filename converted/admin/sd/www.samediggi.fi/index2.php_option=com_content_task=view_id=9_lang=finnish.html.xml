@@ -1,0 +1,33 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Samediggi - Saamelaiskäräjät - Lautakunnat</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>84</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
+    <multilingual>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=9&amp;lang=finnish.html</origFileName>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=9_lang=english.html"/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=9_lang=davvi.html"/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=9_lang=anaras.html"/>
+    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=9_lang=nuortta.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Lautakunnat Saamelaiskäräjien kokous asettaa vaalikaudekseen neljä lautakuntaa, saamen kielineuvoston sekä vaalilautakunnan, jonka toimikausi on muita lautakuntia lyhyempi.</p>
+    <p>Lautakunnat toimivat hallituksen alaisuudessa valmistellen omaan toimialaansa kuuluvia asioita ja tehden päätöksiä omaan alaansa kuuluvien varojen jakamisesta ja käyttämisestä.</p>
+    <p>Lautakuntien puheenjohtajien ja varapuheenjohtajien tulee olla saamelaiskäräjien varsinaisia jäseniä. Heidän lisäkseen jokaiseen lautakuntaan kuuluu viisi muuta jäsentä sekä jokaiselle henkilökohtainen varajäsen.</p>
+    <p>Lautakuntien tulee edustaa mahdollisimman hyvin Suomen saamelaisten kielellisiä ja alueellisia ryhmiä sekä hyvää asiantuntemusta toimialallaan. Lautakuntien tehtävistä on määrätty saamelaiskäräjien työjärjestyksessä. Lautakunnat hoitavat omaan toimialaansa liittyvää tiedotusta.</p>
+  </body>
+</document>

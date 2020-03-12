@@ -1,0 +1,30 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Samediggi - Saamelaiskäräjät - Peruskiven muuraustilaisuus 2010</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>10</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
+    <multilingual>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=423&amp;lang=finnish.html</origFileName>
+    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=423_lang=english.html"/>
+    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=423_lang=davvi.html"/>
+    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=423_lang=anaras.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Peruskiven muuraustilaisuus 2010</p>
+    <p>Saamelaiskulttuurikeskuksen peruskiven muuraustilaisuus 10.6.2010. Kuvat: Ulla Isotalo</p>
+  </body>
+</document>

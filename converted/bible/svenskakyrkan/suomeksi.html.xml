@@ -1,0 +1,46 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>256</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/suomeksi</origFileName>
+    <parallel_text xml:lang="sma" location="default.aspx_id=655194.html"/>
+    <parallel_text xml:lang="sme" location="default.aspx_id=655195.html"/>
+    <parallel_text xml:lang="smj" location="default.aspx_id=655196.html"/>
+    <parallel_text xml:lang="swe" location="kyrkans-grundlaggande-uppgifter.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Suomeksi (finska) - Svenska kyrkan - Om oss</p>
+    <p type="title">Tervetuloa Ruotsin kirkkoon</p>
+    <p type="title">Ruotsin kirkko on evankelis-luterilainen kirkko jonka perustana on Raamatun evankeliumit ja niiden kertomukset Jeesuksen elämästä, kuolemasta ja ylösnousemuksesta.</p>
+    <p>Luterilaisuuden perustana on saksalaisen teologin Martin Lutherin uskonpuhdistus 1500-luvulla. Ruotsin kirkko on avoin kansankirkko kaikille Ruotsissa asuville.</p>
+    <p>Yhteinen tehtävä</p>
+    <p>Ruotsin kirkon perustehtäviä ovat jumalanpalvelus, opetus, diakonia ja lähetys. Kirkko toimii ennen kaikkea paikallisten seurakuntien kautta. Seurakunnan toiminta on tarkoitettu kaikille, jotka asuvat seurakunnan alueella pysyvästi tai ovat siellä tilapäisesti. Seurakunta huolehtii kirkollisista toimituksista kuten kaste, konfirmaatio, vihkiminen ja hautaus.</p>
+    <p>Jumalanpalvelus</p>
+    <p>Seurakunnan jumalanpalvelus on avoin jossa voit kohdata muita seurakuntalaisia ja lähestyä Jumalaa rukouksessa. Kristittyinä saamme ammentaa voimaa rukouksesta, ehtoollisesta ja lauluista. Jokainen on tervetullut, riippumatta uskon määrästä tai laadusta. Jumalanpalveluksen eri osat kertovat perinteestä, niin myös kirkkorakennukset kuten musiikkikin. Jumalanpalveluksen rukouksia ja lauluja uudistetaan niin että ne sopisivat myös tähän päivään ja aikaan.</p>
+    <p>Opetus</p>
+    <p>Kun Jeesus eli maan päällä, hän kohtasi ihmisiä, opetti heitä ja kertoi Jumalan rakkaudesta. Opetuslasten tehtävänä oli viedä hyvää sanomaa eteenpäin ja tehtävä jatkuu edelleen kirkon välityksellä. Eräs esimerkki kirkon opetusmuodosta tänä päivänä on rippikoulu.</p>
+    <p>Diakonia</p>
+    <p>Diakonia on kirkon sosiaalista palvelutyötä. Tehtävänä on avoimesti ja ennakkoluulottomasti kohdata ja auttaa lähimmäisiä jotka tarvitsevat apuamme. Tämän perustana on Jumalan rakkaus, niin kuin sen kohtaamme Jeesuksessa Kristuksessa.</p>
+    <p>Lähetys</p>
+    <p>Ruotsin kirkko on tehnyt lähetystyötä jo 1800-luvulta lähtien. Perinteisiä lähetystyön muotoja olivat sairaaloiden, koulujen ja kirkkojen rakentaminen sekä evankeliumin levittäminen. Tänään lähetystyö on ennen kaikkea yhteistyötä kirkkojen välillä ja kohdemaan kirkkoja tuetaan tarpeiden mukaan. Lähetystyön ja kansainvälisen diakonian perustana on evankeliumin toteuttaminen tekoina, ei vain sanoina.</p>
+    <p>http://player.vimeo.com/video/57213500</p>
+    <p>//</p>
+  </body>
+</document>

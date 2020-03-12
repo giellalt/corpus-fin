@@ -1,0 +1,49 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Kieli - Kirjoitustavat</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>538</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/kieli/ortografiat.html</origFileName>
+    <parallel_text xml:lang="eng" location="ortografiat.html"/>
+    <parallel_text xml:lang="smn" location="ortografiat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kirjoitustavat</p>
+    <p>Kieli ja identiteetti</p>
+    <p xml:lang="nob">Kertomaperinne</p>
+    <p>Kirjallisuus</p>
+    <p>Julkaistut teokset</p>
+    <p>1. <em type="italic">Elias Lönnrot </em>kirjoitti vuonna 1854 artikkelin <em type="italic">Ueber den Enarelappischen Dialekt </em>, joka on ilmestynyt 4. osana teossarjassa <em type="italic">Acta Societatis Scientiarum Fennicae </em>. Artikkelissa on inarinsaamen verbien ja nominien taivuskaavoja, tekstejä ja sanasto. Lönnrotin ortografia ei ole kovin looginen, eikä hän ilmeisesti ollut kuullut aivan tarkkaan kielimestariensa ääntämistä. Esimerkkinä Isä meidän -rukous: </p>
+    <p xml:lang="smn">Ææc´e miij, kii læh olmin, paasotuvos tuu nommot! Aldanos tuu väldekoddat. Læos tuu taattot nuut æædnamest, kuo almest. Adde miijen odne miij juöhepæivac´ læibem! Ja adde miijen miij væælgiidem addagas, nuut kuo mijuv addagas addelep miij væælgogasaidem. Ja æla toalvu miij kivsedossan, poits pææste miij pa´ast, tälle tuust li väldekodde ja vuöime ja kudne nuvvohadna.</p>
+    <p>2. <em type="italic">E. W. Borg </em>julkaisi vuonna 1857 kirjan <em type="italic">Anar </em><em type="italic">sämi kiela aapis kirje ja doktor Martti Lutherus Ucca katkismus </em>. (Inarinsaamen kielen aapiskirja ja tohtori Martti Lutheruksen Pieni katekismus.) Siinä Isä meidän näytti seuraavalta: </p>
+    <p xml:lang="smn">Mii Eec kote läh almest. Pasottum lävus Tu nommad Alda puodus Tuu wäldekoddad. Sados Tuu taattud. nuut eednamest, kuo almest. Adde miijan taan päivi mii jyöche päiväli leipim. Ja adde miijan mii sudoidim addagas, nuutkuo miiuv addagas addelep mii welguliidim. Ja elä tualwu mii kiusadossan mutto päästeh mii paast. Talle Tuu li wäldekodde ja wuöime ja kudne, nuuvhannawuodast.</p>
+    <p>3. Inarin kirkkoherra <em type="italic">Lauri Itkonen </em>toimitti kirjat <em type="italic">Katkismus </em>1902 ja <em type="italic">Ráámmát Historja </em>(raamatunhistoria) 1906. Jos vertaa ortografiaa edellisiin, niin muutos on merkittävä. Kirjoitus näyttää vastaavan melko tarkasti puhetta. Käytössä ovat nykykirjoitustavassakin esiintyvät <em type="italic">č, š, đ, ŋ ja á </em>. Kirjoitustapa on melkein sama kuin vuosina 1934-1990 käytetty: </p>
+    <p xml:lang="smn">Mii Eeči, kote lah oolmijn. Pasottum leävus tuu nomm. Poađus tuu väldikodde. Šados tuu táttu eennâm alne, nuutko almeest. Adde miijan onnaa peeivi mii jyehipeäiválii leibi. Ja adde miijan addagas mii suddoid, nuutko mijuv addagas addelep toid, keäh lee mi vuästárikkom. Ja ele jođeet mii kivsadasan. Mut peesti paast. Tastko tuu lii väldikodde ja vyeimi ja kunnee nuuvhannaavuođast.</p>
+    <p>4. Edellistä tarkempi on <em type="italic">Erkki Itkosen </em>laatima kirjoitustapa, joka oli käytössä vuosina 1934-1990. Sillä kirjoitettiin enimmäkseen Sabmelaš (Sápmelaš) -lehden inarinsaamenkieliset kirjoitukset, joita alkoi lehdessä ilmestyä loppuvuodesta 1934 alkaen. 5. Nykyisessä kirjoitustavassa eräät äänteet merkitään aikaisempaa tarkemmin vastaamaan puhuttua kieltä. Muutokset olivat seuraavat: - <em type="italic">eä </em>merkitään <em type="italic">iä </em>, esim. <em type="italic">eänui - iänui </em>- <em type="italic">oa </em> merkitään <em type="italic">uá </em> , esim. <em type="italic">koati - kuáti </em> - takaista <em type="italic">a- </em>äännettä alettiin merkitä kirjaimella â; esim. <em type="italic">kulma - kulmâ </em>- j:llä merkittävää puolivokaalia ja sitä edeltävää <em type="italic">i </em>:tä alettiin merkitä loogisemmin: <em type="italic">ij:iij , </em>esim. <em type="italic">nijbe: niijbán </em>(veitsi: veitseen) - samoin v:llä merkittävää puolivokaalia ja sitä edeltävää u :ta <em type="italic">: </em><em type="italic">uv:uuv , </em>esim. <em type="italic">puvdâ: puuvdâst </em>(kauppa: kaupassa). </p>
+    <p xml:lang="smn">1934-1990 kirjoitustapa <em type="italic">Pasottum leävus tuu nomma. Poađus tuu väldikodde. </em></p>
+    <p xml:lang="smn">nykyinen kirjoitustapa <em type="italic">Pasottum liävus tuu nommâ. Puáđus tuu väldikodde. </em></p>
+    <p>Inarinsaamen nykyinen ortografia on tietyiltä osin väljä. Esim. kaikkia murre-eroja ei ole normitettu, vaan hyväksyttäviä sanoja ja taivutuksia voi olla useampi kuin yksi. Oppikirjoissa kieltä kuitenkin yhtenäistetään.</p>
+    <p>6. <em type="italic">Erkki Itkonen </em>on käyttänyt omaa, yleisestä kirjoitustavasta poikkeavaa merkintätapaa eräissä kielitieteen tekstikirjoissa ja sanakirjassaan <em type="italic">Inarilappisches W </em><em type="italic">örterbuch </em>. Eräitä esimerkkejä: </p>
+    <p xml:lang="smn">Itkonen <em type="italic">æænab ain </em><em type="italic">skīipa ooudast kuáysuj Taaa vaīin roozaj </em></p>
+    <p xml:lang="smn">nykyinen <em type="italic">eenâb ain </em><em type="italic">skiijpâ </em><em type="italic">oovdâst kuávsui </em><em type="italic">Taažâ vazzijn roosâi </em></p>
+    <p><em type="italic">Matti Morottaja </em> </p>
+    <p>Näyte Elias Lönnrotin teoksesta Ueber den Enarelappischen Dialekt vuodelta 1854.</p>
+    <p>Juhani Aikion kirje veljelleen Iisakille Königstedin kartanosta, Espoosta vuodelta 1910.</p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

@@ -1,0 +1,57 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Kieli - Kirjoitustavat</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>936</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/kieli/kertomaperinne.html</origFileName>
+    <parallel_text xml:lang="eng" location="kertomaperinne.html"/>
+    <parallel_text xml:lang="smn" location="kertomaperinne.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kirjoitustavat</p>
+    <p>Kieli ja identiteetti</p>
+    <p xml:lang="nob">Kertomaperinne</p>
+    <p>Kirjallisuus</p>
+    <p>Julkaistut teokset</p>
+    <p>Kertomusperinne on samantapainen kaikilla saamelaisilla. Tarinoiden kehys on usein sama, mutta miljöö ja muut yksityiskohdat antavat paikallisväriä. Niinpä vanhat syntykertomukset ja uskomustarinat ovat ovat suunnilleen samanlaisia eri puolilla saamelaisaluetta.</p>
+    <p><em type="italic">Satuja </em>ovat eläinsadut, ihmesadut, novellisadut ja pilasadut. Ne ovat suureksi osaksi lainaa muualta, niinkuin sadut usein ovatkin. Vuonna 1917 julkaistussa kokoelmassa <span type="quote">"Inarinlappalaista kansantietoutta"</span> on runsaasti satuja. Niiden aihepiirit ja asiat ovat enimmäkseen vieraita inarilaisille, kerrotaan mm. kuninkaista, jalopeuroista, hevosista, tukkitöistä ja tammenterhoista. Eläinsadutkin näyttävät olevan tuontitavaraa, koska poro tai peura ei esiinny saduissa juuri ollenkaan. Saduissa on kuitenkin paljon paikallisväriä ja tapahtumia on käsitelty saamelaiselta kannalta, kuten Menes-Antin seikkailu Ranskanmaalla. <em type="italic">Uskomustarinoista </em>yleisimpiä ovat kertomukset staalosta, maahisista, aarteenvartijasta, seidoista, samoin kummitus-, etiäis- ja kaksoisolentotarinat. </p>
+    <p><em type="italic">Varoitustarinoiden </em>tehtävänä on mieleenpainuvasti selittää, miten käy, jos toimii väärin. </p>
+    <p><em type="italic">Henkilötarinat </em>ja <em type="italic">historialliset tarinat </em>ovat enemmän sidoksissa paikkaan ja tiettyyn aikaan. </p>
+    <p><em type="italic">Memoraatti </em>kertoo jonkun tietyn henkilön kokemuksesta. Siinä on mukana uskomustarinan aineksia ja paljon yksityiskohtia, jotka eivät välttämättä vie kertomusta eteenpäin. Yksityiskohtien kerronnalla koetetaan ehkä todistaa tapahtuma todeksi, mutta niistä käy myös ilmi, että kerrottu tapaus on tuore. Kerrotaan henkilöt, aika ja paikka tarkasti ja mitä tapahtui. </p>
+    <p>Jos tarinan juoni unohtuu tai sitä ei haluta kertoa, niin se voi supistua lauseeksi tai tokaisuksi. Lasta voidaan varoittaa: Jos menet veden rannalle, <em type="italic">vuáŋŋáš </em>tempaa sinut veden alle. Tai jos lapsi on alasti, sanottiin: <em type="italic">Piettemes čáhálig ! </em>Čáhálig nimittäin oli pienikokoinen alaston aarteenvartija-haltija. </p>
+    <p>Inarinsaamessa ei ole eri nimityksiä sadulle, tarinalle tai memoraatille, on vain <em type="italic">maainâs </em>ja verbi <em type="italic">mainâstiđ </em>. On myös <em type="italic">muštâlus </em>, joka tarkoittaa kertomusta, muisteloa. <em type="italic">Muštâlus </em>, memoraatti ja usein tarinakin kerrotaan totena, satu taas epätotena. </p>
+    <p>
+      <em type="italic">Eri kertomustyyppejä </em>
+    </p>
+    <p><em type="italic">Novellisadun </em>juoni selviää teoksesta <span type="quote">"Inarinlappalaista kansantietoutta"</span> (1886). Menes-Antti kertoo kuinka hän maailmalla kulkiessaan meni Ranskaan. Pariisissa hän nukkavierussa asussa meni erääseen rakennukseen, jossa oli juhlat. Hänet yritettiin ensin ajaa pois, mutta myöhemmin hän kuuli erään herran sopivan kuninkantyttären kanssa siitä, että he menevät yhdessä nukkumaan. Menes-Antti kyllä osasi ranskaa. Kosijaksi tekeytymällä hän pääsi tyttären luo neljänteen kerrokseen. Sängyssä Antti kuitenkin paljastui, kun joutui kovasti raapimaan täitä. Tytär antoi Menes-Antille kolmetuhatta kultataaleria, ennen kuin sai hänet lähtemään. Kuninkaantytär on kuulemma tullut raskaaksi. </p>
+    <p><em type="italic">Stáálu </em>(staalo) on iso, vahva, ruma ja yksinäinen olio, joka haastaa ihmisen painiin. Jos ihminen voittaa, hänen on omalla veitsellään tapettava staalo. Staalo tarjoaa omaa veistään, mutta sillä se ei kuole, vaan saa vain lisää voimaa. Myös staalon koira, joka kylläkin voi olla näkymätön, pitää tappaa, muuten se nuolee staalon haavat ja herättää sen henkiin entistä vahvempana. Ihminen saa staalon rahat ja kullat itselleen. </p>
+    <p><em type="italic">Kufittâr eli kuhvittâr </em>on hyvätapaisempi olio. Se asuu maan alla, mutta voi joskus ilmaantua ihmisten näkyville, ellei halua jostakin syystä liikkua näkymättömänä. Kuhvittârit ovat kauniita, rikkaita ja hyvinpukeutuneita. Heidän poronsakin ovat erikoisen värisiä. Kuhvittârtarinoissa yleensä ihminen näkee outoja poroja ison tokan, joka ei jätä lumeen jälkiä. Mutta jos heittää veitsen tai jonkin raudan porojen yli, niin saa itselleen kaikki ne porot, jotka jäävät putomanispaikan ja ihmisen väliin. Joku onkin rikastunut sillä tavoin. </p>
+    <p>Seita eli <em type="italic">sieidi </em>oli jumala tai ainakin hengen olopaikka. Tunnettu on kertomus Iijärven seidasta. Siinä eräs äiti ja tytär menivät ilmoittamaan seidalle, etteivät aio enää uhrata tälle. Silloin veneeseen astuessa tytön jalka takertui rantaan niin, että hänen oli huudettava seitaa avuksi ja luvattava edelleen uhrata: "Älä ota kusikinttua, ota mieluummin pässinkaula!". Silloin jalka irtosi rannasta, ja heidän täytyi edelleen jatkaa uhrien tuomista seidalle. </p>
+    <p>Tulijan <em type="italic">ovdâsâš </em>eli etiäinen ilmestyi jonkin aikaa aikaisemmin kuin henkilö itse todellisuudessa. Joidenkin etiäinen oli tuli vuorokautta aikaisemmin. Tällainen oli ainakin Kaapin Jounilla. Se oli niin täsmällinen, että vaimo saattoi keittää kahvin valmiiksi vuorokauden kuluttua etiäisen näkymisestä. Etiäinen muistutti tarkalleen varsinaista ihmistä. Paksumaassa asuvalla Akun Jounilla oli etiäinen, jonka useat ihmiset näkivät samanaikaisesti. Tapauksia oli useita ja eräs oli sellainenkin, että Jouni näkyi samanaikaisesti etiäisensä kanssa ja puhuikin sille. Lieneekö etiäinen ollut myöhässä vai Jouni liian aikaisessa. Tyypillinen <em type="italic">vainolaistarina </em>on sellainen, että vainolaiset eli <em type="italic">čuđeh </em>tulevat hävittämään saamelaisten taloja, tappamaan ja ryöstämään. Saamelasten sankari <em type="italic">Lavrukâš </em>kuitenkin neuvokkuudellaan tuhoaa vainolaiset. Eräässä tarinassa vainolaiset Inarijärvellä kulkiessan palkkasivat Lavrukâšin oppaaksi. Hän houkutteli heidät saareen syömään hilloja. Kun vainolaiset olivat menneet kauemmaksi, Lavrukâš työnsi kaikki veneet vesille ja jätti vainolaiset saareen. Kahden viikon kuluttua vainolaiset olivat kuolleen nälkään, vaikka olivat syöneet kuoren sadasta männystä. Saaren nimi on Satapetäjäsaari. Lavrukâš oli aikansa McGyver. </p>
+    <p><em type="italic">Historiallisista tarinoita </em>esimerkkinä on tässä Sigan tarina. Sigga oli tyttö, jolla oli kaksi kosijaa. Kun hän ei osannut tehdä valintaa, sulhaset menivät kapean salmen kahden puolen ja ampuivat jousillaan toisiaan. Kumpikin poika kuoli. Salmi sai nimekseen Sigá čiärrumčuálm  <em type="italic">i </em>eli Sigan itkusalmi. Tarinalla on kaksi loppua, ikäänkuin valittavana. Toisessa Sigga haudataan kosijoiden väliin sanoilla: "Kun et kumpaakaan hylännyt, niin nyt saat molemmat." Toinen loppu on sellainen, että Sigga muutta asumaan Norjan puolelle Isoonvuonoon, jossa meni naimisiin ja eli elämänsä siellä. Isonvuonon eteläpuolella on paikannimet Sigákieddi (Sigankenttä) ja Sigákuolbâ (Sigankangas) </p>
+    <p>Kertomuksista yleisimpiä ovat varmaankin <em type="italic">tarinat henkilöistä </em>. Mehevimmät tarinat käsittelevät henkilöitä, jotka ovat luonteensa, tapojensa tai toimiensa puolesta erikoisia. Tarinoiden kerronnassa on syytä kuitenkin tietää asioiden mahdollinen arkaluontoisuus. Pitää tietää tarinoiden taustat, sillä usein kerronnan kohteena olevat henkilöt ovat vielä elossa tai ainakin heidän sukulaisensa. Pitää tietää, missä yhteydessä ja keille jutun kertoo. Aina ei voi kertoa esim. sellaisesta tapahtumasta, jossa noita yrittää parantaa mielenvikaisen ihmisen. </p>
+    <p>Joskus voi kuitenkin kertoa porovarkaasta, kun lisää aspektin veijari-sankarista, joka huijaa suomalaisia poliiseja. Tällaisia ovat mm. muistelukset Menes-Jussasta. Eräässä Jussa pääsee karkuun eksyttämällä nimismiehen ja poliisin laajaan kiekeröön. Toisessa Jussa karkaa vanginkuljettajalta kaivautumalla yöpymistalon ladon heiniin. Kolmannessa Jussa karkaa Kittilän puulinnasta tekeytymällä jalkavaivaiseksi. <em type="italic">Matti Morottaja </em> </p>
+    <p xml:lang="smn">Kuvitusta Aune Kuuvan teoksesta Riävskánieidâ (Riekkotyttö).</p>
+    <p xml:lang="nno">››</p>
+    <p>Sammeli Morottaja kertoo: Jaakon Yrjö</p>
+    <p>YLE Sámi radion sarjasta Sitä ihmistä unohda (.mp3 900 kb)</p>
+    <p>Vuonna 1917 julkaistu  kokoelma Inarinlappalaista kansantietoutta.</p>
+    <p xml:lang="smn">Nitsijärven seita.</p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

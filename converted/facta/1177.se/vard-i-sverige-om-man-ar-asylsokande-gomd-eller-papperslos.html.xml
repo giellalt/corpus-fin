@@ -1,0 +1,53 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>313</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Vard-i-Sverige-om-man-ar-asylsokande-gomd-eller-papperslos</origFileName>
+    <parallel_text xml:lang="eng" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text xml:lang="sme" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text xml:lang="swe" location="vard-i-sverige-om-man-ar-asylsokande.html"/>
+    <parallel_text location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Turvapaikanhakijoiden, piileskelevien ja paperittomien terveydenhoito / Vård i Sverige om man är asylsökande, gömd eller papperslös - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Turvapaikanhakijoiden, piileskelevien ja paperittomien terveydenhoitoVård i Sverige om man är asylsökande, gömd eller papperslös</p>
+    <p>Turvapaikanhakijoilla ja paperittomilla on oikeus terveydenhoitoon ja hammashoitoon Ruotsissa. Alle 18-vuotiailla lapsilla on yleensä oikeus ilmaiseen hoitoon.</p>
+    <p type="title">Vaino ja vaara</p>
+    <p>Ruotsista saa hakea turvapaikkaa, jos katsoo tarvitsevansa pakolaissuojaa jouduttuaan kotimaassaan vainon kohteeksi. Turvapaikan haulle, ts. oleskeluluvan saamiselle ja Ruotsiin jäämiselle saattaa olla myös muita syitä.</p>
+    <p>Ruotsissa piileskelevät ja paperittomat oleskelevat maassa luvattomasti ehkä karkottamispäätöksen johdosta.</p>
+    <p type="title">Terveystarkastus</p>
+    <p>Kaikille turvapaikkaa hakeville aikuisille ja lapsille tarjotaan maksutonta terveystarkastusta, joka tehdään niin pian kuin mahdollista maahantulon jälkeen. Paperittomille ja maassa piileskeleville tarjotaan terveystarkastusta heidän hakeutuessaan hoitoon.</p>
+    <p type="title">Turvapaikan hakijat, piileskelevät ja paperittomat lapset</p>
+    <p>Turvapaikkaa hakevien, maassa piileskelevien ja paperittomien alle 18-vuotiaiden lasten ja nuorten tulee saada terveyden- ja sairaanhoitoa sekä hammashoitoa samoilla ehdoilla kuin muidenkin samojen maakäräjien alueella asuvien lasten ja nuorten. Useimmat maakäräjät ja alueet eivät peri maksuja alle 18-vuotiailta lapsilta ja nuorilta.</p>
+    <p type="title">Turvapaikanhakijat, piileskelevät ja paperittomat aikuiset</p>
+    <p>Aikuisille, ts. yli 18-vuotiaille, annetaan välttämätöntä sairaan- ja hammashoitoa. Sellaiseksi katsotaan myös äitiyshuolto, aborttihoito ja ehkäisyneuvonta.</p>
+    <p>Lääkärillä käynnistä terveyskeskuksessa ja läheteperusteisesta lääkärinhoidosta peritään 50 kruunun maksu. Jos läheteperusteinen käynti koskee muuta kuin lääkärinhoitoa, maksua peritään 25 kruunua. Sellaiseksi katsotaan esimerkiksi käynti kuraattorin luona.</p>
+    <p>Käynnin voi tehdä valinnaiseen terveyskeskukseen tai avohoidon erikoissairaanhoitoon valinnaisten maakäräjien alueella. Turvapaikanhakijoilta vaaditaan lähete, jos hoitopaikassa edellytetään sitä.</p>
+    <p>Käynnistä julkisen hammashuollon piiriin kuuluvan hammaslääkärin vastaanotolla veloitetaan 50 kruunua.</p>
+    <p>Myös reseptilääkkeistä peritään 50 kruunun maksu, ja sairausmatkoista maksetaan enintään 40 kruunua. Matkasta toisten maakäräjien alueelle veloitetaan normaalihinta.</p>
+    <p>Ehkäisevä lastenhoito ja äitiyshuolto sekä raskauden ja synnytyksen yhteydessä annettava hoito ovat ilmaisia. Myös tartuntatautiin sairastuneiden tarvitsema tartuntasuojahoito on ilmaista.</p>
+    <p>Turvapaikan hakijoiden tulee hoitoon hakeutuessaan esittää Migraatiovirastolta saamansa nk. LMA-kortti. LMA on lyhennys turvapaikanhakijoiden vastaanottoa säätelevästä laista [lagen om mottagande av asylsökande], ja toimii turvapaikanhakijoiden tilapäisenä henkilöllisyystodistuksena.</p>
+  </body>
+</document>

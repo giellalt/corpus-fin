@@ -1,0 +1,56 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Retkeilyn ABC - Luontoon.fi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>181</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://www.luontoon.fi/retkeilynabc</origFileName>
+    <parallel_text xml:lang="sme" location="vanddardeamiabc.html"/>
+    <parallel_text xml:lang="smn" location="vandardemabc.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p>Avaa Valikko</p>
+    <list>
+      <p type="listitem">In English</p>
+      <p type="listitem">På svenska</p>
+      <p type="listitem">Anarâškielâ</p>
+      <p type="listitem">Davvisámegiella</p>
+      <p type="listitem">中文</p>
+      <p type="listitem">По-русски</p>
+    </list>
+    <list>
+      <p type="listitem">Retkeilyn ABCn sisällysluettelo</p>
+      <p type="listitem">Yleistä retkeilystä</p>
+      <p type="listitem">Jokamiehenoikeudet</p>
+      <p type="listitem">Retken suunnittelu</p>
+      <p type="listitem">Varusteet</p>
+      <p type="listitem">Retkiruoka</p>
+      <p type="listitem">Retkeilytaidot</p>
+      <p type="listitem">Turvallisuus</p>
+      <p type="listitem">Ympäristövinkit</p>
+      <p type="listitem">Terveyttä ja hyvinvointia luonnosta</p>
+      <p type="listitem">Linkit</p>
+      <p type="listitem">Kirjallisuusluettelo</p>
+    </list>
+    <p type="title">Retkeilyn ABC - retkeilijän vinkit</p>
+    <p>Oletpa aloitteleva retkeilijä tai kokenut eränkävijä, saat näiltä sivuilta monenlaisia vinkkejä retkeilyyn. Kun retkeilytaidot karttuvat, retkeilystä tulee turvallisempaa ja retkistä nauttii enemmän.</p>
+    <p>Retkeily ja patikointi ovat suosittuja ulkoilumuotoja ja retkeilyn suosio harrastuksena on kasvussa Suomessa. Nykyään joka neljäs suomalainen harrastaa vähintään 10 kilometrin patikkaretkiä ja joka kymmenes käy yön yli kestävillä vaelluksilla. Retkeilyä harrastetaan monesta eri syystä. Retkeily voi olla vaikkapa vastapainoa sisätyölle. Retkeilemällä voidaan myös pitää kuntoa yllä tai käydä tekemässä havaintoja ja nauttimassa luonnosta. Lyhytkin retki virkistää ja ulkoilulla on myös osoitettuja positiivisia vaikutuksia ihmisen fyysiseen ja henkiseen terveyteen.</p>
+    <p>Retkeilyn ABC -sivut ovat kolmen luonnossa liikkumista edistävän tahon yhteistyön tulos: Metsähallituksen,  Suomen Ladun (www.suomenlatu.fi) ja  Suomen Partiolaisten (www.partio.fi). Sivuja täydennetään jatkossakin retkeilijöiden ja lukijoiden toiveita kuunnellen. Kerro  palautelomakkeella toiveitasi, mistä retkeilyasioista sinä toivoisit sivuille lisää tietoa. Voit myös antaa muuta palautetta sivuista.</p>
+    <p type="title">Retkeilyn ABC:n tuottavat</p>
+    <p>© Metsähallitus 2017</p>
+    <list/>
+    <p>Jaa tämä sivu</p>
+    <p>Avaa Valikko</p>
+  </body>
+</document>

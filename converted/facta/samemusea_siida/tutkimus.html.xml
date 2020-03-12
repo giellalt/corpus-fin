@@ -1,0 +1,80 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Anaras - Tutkimus</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
+    </author>
+    <year>2006</year>
+    <wordcount>550</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.samimuseum.fi/anaras/tutkimus/tutkimus.html</origFileName>
+    <parallel_text xml:lang="eng" location="tutkimus.html"/>
+    <parallel_text xml:lang="smn" location="tutkimus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="vep">Elias Lönnrot</p>
+    <p xml:lang="deu">E.W. Borg</p>
+    <p xml:lang="smn">Heikki Mattus</p>
+    <p xml:lang="smn">A.V. Koskimies</p>
+    <p xml:lang="vep">Lauri Itkonen</p>
+    <p>T.I. Itkonen</p>
+    <p>Erkki Itkonen</p>
+    <p>Uula Morottaja</p>
+    <p>Matti Morottaja</p>
+    <p xml:lang="sme">Pekka Sammallahti</p>
+    <p xml:lang="vep">Lea Laitinen</p>
+    <p>Marja-Liisa Olthuis</p>
+    <p>Kirjallisuusluettelo</p>
+    <p>Lappia ja saamelaisia on tutkittu paljon ja tutkimuksia tai tutkimuksenomaisia kuvauksia on kirjoitettu runsaasti viime vuosisatojen aikana. Inarinsaamelaista kulttuuria tai elämäntapaa ei ole tutkittu kokonaisuutena juuri ollenkaan. Joitakin piirteitä kuvataan osana yleistä, laajempaa saamelaista tutkimusta tai niitä käsitellään viittauksenomaisesti, ohimennen. Inaria kuvataan monessakin matkakertomuksessa tai -kuvauksessa, mutta silloinkin kun kerrotaan Inarin alueen saamelaisista, niputetaan inarinsaamelaiset vain saamelaisiksi yleensä. Tällaisia kirjoittajia ovat mm. Jacob Fellman, M. A. Castrén, Antti Hämäläinen ja Ilmari Hustich Inarinsaamelaiset eivät näytä olleen kovin mielenkiintoinen tutkimuskohde. Kolttia on tutkittu enemmän. On olemassa lukuisia tutkimuksia, jotka käsittelevät pelkästään kolttia. Tavallista on myös, että saamelaisia yleisesti käsittelevässä tutkimuksessa on erillinen kolttia koskeva luku, mutta ei koskaan inarinsaamelaista osuutta.</p>
+    <p>Yksinomaan inarinsaamelaisia koskevia tutkimuksia on kyllä olemassa, mutta niistä kaikki tutkivat tai kuvaavat kieltä. Sellaisia aloja, joissa inarinsaamelaiset ovat mukana osana laajempaa tutkimusta, on lisäksi kansatiede, historia ja musiikki.</p>
+    <p>
+      <em type="italic">1. Inarinsaamelaisia käsitteleviä tutkimusteoksia </em>
+    </p>
+    <p><em type="italic">Elias Lönnrot: </em>Ueber den Enare-Lappischen Dialekt (1854). Kirjassa on verbien ja nominien taivutusta sekä näytteitä kielestä ja sanaluettelo. </p>
+    <p><em type="italic">A. V. Koskimiehen </em>ja <em type="italic">T. I. Itkosen </em>työnä ilmestyi kertomaperinteen kokoelma Inarinlappalaista kansantietoutta (1918). Kirjan aineiston oli Koskimies kerännyt v. 1886. </p>
+    <p><em type="italic">Frans Äimä </em>tutki inarinsaamen äänneoppia teoksessaan Phonetik und Lautlehre des InarilappischenI-II (1918). Hän kokosi myös sanaluettelon, jossa on kaikkiaan 10.000 sanaa. Äimän sanaluettelo on pohjana Erkki Itkosen sanakirjaan Inarilappisches Wörterbuch I-IV <em type="italic">. </em>Toimittaneet Raija Bartens ja Lea Laitinen. (1986-1991). </p>
+    <p xml:lang="smn"><em type="italic">Erkki Itkonen </em>: Inarinsaamelaisia kielennäytteitä – Aanaarkiela čájttuzeh (1992). Tekstikokoelma, toimittanut Lea Laitinen. </p>
+    <p xml:lang="smn"><em type="italic">Pekka Sammallahti-Matti Morottaja: </em>Inarinsaamen kielen sanakirja <em type="italic">Säämi-suomâ sänikirje (1993) </em>. </p>
+    <p xml:lang="smn"><em type="italic">Anja Akujärvi: </em>Morottajan suku (1998). </p>
+    <p xml:lang="sms"><em type="italic">Irja Jefremoff: </em>Varriistâllâm - inarinsaamelaisten vuotuismuutto (2001). </p>
+    <p><em type="italic">Pekka Sammallahti </em>on laatinut käsikirjoitusasteelle inarinsaamen fonologian. </p>
+    <p><em type="italic">Marja-Liisa Olthuis: </em>Inarinsaamelaiset lajinnimet. Lintujen ja sienten kansannimitysten historiaa ja oppitekoisten uudisnimien muodostuksen metodiikkaa (2007). </p>
+    <p><em type="italic">Marja-Liisa Olthuis </em>on tehnyt inarinsaamen sanakirjan ja kieliopin, jotka ovat kokeilumonisteina. </p>
+    <p><em type="italic">Annika Pasanen </em>valmistelee väitöskirjaa inarinsaamen revitalisaatiosta. </p>
+    <p>
+      <em type="italic">2. Teoksia ja artikkeleita, joissa inarinsaamen kieltä tai muuta kulttuuria käsitellään osana laajempaa kokonaisuutta </em>
+    </p>
+    <p><em type="italic">A. Andelin: </em>Kertomus Utsjoen pitäjästä (1858). </p>
+    <p xml:lang="vep"><em type="italic">Armas Launis: </em>Lappische Juoigos-Melodien (1908). </p>
+    <p xml:lang="swe"><em type="italic">A. W. Granit </em>: Anteckningar om geografiska benämningar i Enare lappmark (1912). </p>
+    <p><em type="italic">J. E. Rosberg: </em>Lappi (1911) ja Lapplynne (1922). Tutkimusalana maantiede. </p>
+    <p><em type="italic">Samuli Paulaharju: </em>Taka-Lappia (1927). </p>
+    <p xml:lang="deu"><em type="italic">Erkki Itkonen </em>: Der ostlappische Vokalismus vom qualitativen Standpunkt aus mit besonderer Berücksichtigung des Inari- und Skoltlappischen. (1939). Äänneoppi. </p>
+    <p><em type="italic">T. I. Itkonen </em>: Suomen lappalaiset vuoteen 1945 I-II (1948). Kansatiede. </p>
+    <p><em type="italic">Tuomo Itkonen </em>: Inari. Inarin kirkkojen ja paimenten muisto (1952). Täydennetty painos 1981. </p>
+    <p><em type="italic">Mikko Korhonen </em>: Die Konjugation im Lappischen 1-2, (1967, 1974), Johdatus lapin kielen historiaan (1981). </p>
+    <p><em type="italic">Raija Bartens </em>: Inarinlapin, merilapin ja luulajanlapin kaasussyntaksi (1972), Synteettiset ja analyyttiset rakenteet lapin paikanilmauksissa (1978). </p>
+    <p><em type="italic">Juhani Lehtiranta </em>: Yhteissaamelainen sanasto (1989). </p>
+    <p><em type="italic">Veli-Pekka Lehtola </em>: Saamelaiset - Historia, yhteiskunta, taide. (1997). </p>
+    <p xml:lang="smn"><em type="italic">Pekka Sammallahti </em>: The Saami Languages. An Introduction (1998). </p>
+    <p><em type="italic">Voitto Viinanen </em>: Inarin rajahistoria I (2002). </p>
+    <p><em type="italic">Voitto Viinanen </em>: Inarin rajahistoria II (2006). </p>
+    <p><em type="italic">Ilmari Mattus </em>on laatinut laajan paikannimikirjan, jossa on inarinsaamenkielisten nimien lisäksi myös pohjoissaamen, koltansaamen ja suomen paikannimiä. Kirja on käsikirjoituksena. </p>
+    <p><em type="italic">Marko Jouste </em>on tutkinut inarinsaamelaista joikua. Hänen väitöskirjatyönsä Inarin pohjoissaamelaisesta joiusta on viimeistelyn alla. </p>
+    <p><em type="italic">Matti Morottaja </em> </p>
+    <p>Heikki Väisänen ja Uula Morottaja Talvitupalompolon talolla. Kuvaaja Frans Äimä.</p>
+    <p>Iijärven Mujoja turvekodan edustalla J. E. Rosbergin kirjassa Lappi vuodelta 1911.</p>
+    <p xml:lang="fkv">Takaisin ylös</p>
+    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+    <p xml:lang="sme">siida@samimuseum.fi</p>
+  </body>
+</document>

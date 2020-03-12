@@ -1,0 +1,82 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>748</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Undersokningarprover/PSA</origFileName>
+    <parallel_text xml:lang="eng" location="psa.html"/>
+    <parallel_text xml:lang="fit" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="rus" location="psa.html"/>
+    <parallel_text xml:lang="sma" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="sme" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="smj" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="swe" location="psa.html"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="rmf"/>
+    <parallel_text location="blodprov-psa1.html" xml:lang="rmu"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/>
+    <parallel_text location="blodprov.html" xml:lang="rmn"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="yid"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Verikoe: PSA / Blodprov: PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title">Verikoe: PSABlodprov: PSA</p>
+    <p type="title">Miksi näyte on syytä antaa?</p>
+    <p type="title">Milloin PSA-näyte annetaan?</p>
+    <p>PSA on verikoe, joka kuuluu eturauhasta tutkittaessa mahdollisesti tehtäviin tutkimuksiin.</p>
+    <p>Joskus PSA-näyte otetaan virtsatievaivojen takia, joiden lääkäri epäilee johtuvan eturauhasesta, jos esimerkiksi on tiheä virtsaamistarve ja samanaikaisesti heikko virtsasuihku.</p>
+    <p>PSA-näyte voidaan ottaa myös silloin, jos lääkäri tuntee eturauhasta tutkiessaan muutoksia, jotka voivat aiheuttaa monia erilaisia vaivoja ja sairauksia.</p>
+    <p>On tärkeätä tietää, että PSA-arvon kohoaminen ei merkitse eturauhassyöpää. PSA:n lievään tai kohtalaiseen kohoamiseen on yleensä muu, vaaraton syy.</p>
+    <p>Samoin normaali PSA-arvo ei myöskään voi täysin sulkea pois eturauhassyöpää. Tulokset on aina arvioitava potilaan vaivojen ja muiden tutkimusten tulosten perusteella.</p>
+    <p>Jos kahdella tai useammalla miespuolisella sukulaisella on ollut eturauhassyöpä, syöpään sairastumisen riski on suurempi. Siinä tapauksessa PSA-näyte suositellaan otettavaksi joka vuosi 40–50 vuoden iästä 70 vuoden ikään asti.</p>
+    <p>PSA-arvo mitataan myös eturauhassyövän hoidon aikana. Jos hoito auttaa, PSA-arvo laskee.</p>
+    <p type="title">PSA-näytteen edut ja haitat</p>
+    <p>PSA-näytettä ei oteta rutiininomaisesti miesten yleisenä terveystarkastuksena, jotta hyvin varhaiset eturauhassyövän muutokset voitaisiin havaita. Tämä johtuu siitä, että juuri eturauhassyövän varhaisten muotojen havaitseminen ja hoito eivät aina ole etu. Hoidoista voi olla pysyviä haittavaikutuksia, esimerkiksi impotenssi ja pidätyskyvyttömyys miehillä, joilla eturauhassyöpä ei milloinkaan olisi voinut kehittyä vakavaksi sairaudeksi.</p>
+    <p>Eturauhasen syöpäkasvain voi kasvaa joko hitaasti aiheuttamatta vaivaa tai nopeasti ja levitä elimistön muihin osiin. Varhaisessa vaiheessa näitä kahta syöpätyyppiä ei voi erottaa, minkä vuoksi riskinä on saada hoitoa syöpämuotoon, josta ei välttämättä olisi ilmennyt lainkaan oireita koko elinaikana.</p>
+    <p>Monet miehet haluavat kuitenkin käydä tutkimuksessa selvittämässä, onko heillä eturauhassyöpä. Ennen kuin päätät PSA-näytteen jättämisestä voi olla hyvä perehtyä lähemmin varhain havaitun kasvaimen hoidon etuihin ja haittoihin. Jos tämän jälkeen haluat jatkaa ja keskustella lääkärin kanssa, varaa aika omasta terveyskeskuksestasi tai työterveyshuollosta.</p>
+    <p type="title">Mikä PSA on ja missä sitä on?</p>
+    <p>PSA on lyhenne sanoista prostataspesifinen antigeeni. Se on eturauhasen tuottama proteiini, jota erittyy siemennesteen mukana siemensyöksyssä ja joka tekee siittiöistä liikkuvampia.</p>
+    <p>PSA:ta on normaalisti pieniä määriä veressäkin, ja juuri tätä pitoisuutta mitataan PSA-näytteestä. Syövän lisäksi eturauhasessa esiintyy useita tavallisia muutoksia, joiden vuoksi veren PSA-pitoisuus voi nousta. Esimerkiksi hyvänlaatuinen eturauhasen suurentuma tai tulehdus eli prostatiitti, voi aiheuttaa sen, että eturauhanen erittää verenkiertoon enemmän PSA:ta.</p>
+    <p>Iän myötä useimpien miesten veren PSA-pitoisuus nousee eturauhasen koon suuretessa.</p>
+    <p>Suurin osa veren PSA:sta on sitoutunut erilaisiin proteiineihin. Veressä on kuitenkin hieman myös vapaata, sitoutumatonta PSA:ta. Kun PSA:n kohtalaisen kohoamisen syy on jokin muu kuin syöpä, vapaata PSA:ta on veressä enemmän. Siksi se antaa lääkärille tietynlaista osviittaa mitata sitoutuneen ja vapaan PSA:n suhde.</p>
+    <p type="title">Kuinka näyte otetaan?</p>
+    <p>Näyte otetaan käsivarresta ohuella neulalla, joka pistetään verisuoneen, laskimoon. Tämäntyyppistä verikoetta nimitetään laskimoverikokeeksi.</p>
+    <p>Näyte voidaan ottaa mihin vuorokauden aikaan hyvänsä. Ennen näytteen ottamista on istuttava 15 minuutin ajan. Muuten ei tarvitse valmistautua mitenkään.</p>
+    <p>Jos eturauhaseen tehdään kirurgisia toimenpiteitä, PSA-arvo kohoaa. Tällöin on odotettava vähintään 10 päivää, ennen kuin PSA-näytettä kannattaa ottaa. PSA-arvo ei kohoa, jos lääkäri pelkästään tunnustelee eturauhasta.</p>
+    <p type="title">Koska vastaukset tulevat?</p>
+    <p>Näyte lähetetään sairaalan laboratorioon tutkimuksia varten. Voit sopia lääkärin kanssa, milloin ja miten haluat tietää tutkimustulokset. Lääkäri saa laboratoriovastaukset 1–2 päivän kuluessa.</p>
+    <p type="title">Kuinka tutkimustuloksia tulkitaan?</p>
+    <p>Tulokset on aina arvioitava potilaan vaivojen ja muiden tutkimusten tulosten perusteella.</p>
+    <p>Veren PSA-arvo on erilainen eri miehillä, myös niillä, joilla ei ole eturauhasvaivoja. Jotta lääkärillä olisi jokin vertailukohde tutkimustulosten arvioinnissa, käytetään apuna ns. viitearvoja. PSA:n osalta kohonneeksi arvoksi voidaan laskea yli kolme mikrogrammaa litralta (3 μg/l).</p>
+    <p type="title">Mistä korkeat arvot voivat johtua?</p>
+    <p>Noin yhdellä kymmenestä keski-ikäisestä miehestä PSA-arvo on koholla. Yleinen syy lievästi kohonneisiin arvoihin on hyvänlaatuinen eturauhasen suurentuma.</p>
+    <p>Arvot voivat olla koholla myös eturauhastulehduksen, ns. kroonisen prostatiitin vuoksi.</p>
+    <p>Tavallinen virtsatietulehduskin voi nostaa PSA-arvoa tilapäisesti, mutta voimakkaasti. Jos asianomainen ei kykene virtsaamaan ja tyhjentämään virtsarakkoaan, PSA-arvo voi myös kohota tilapäisesti. Jos on vaikea tyhjentää rakko ja sinne jää jatkuvasti runsaasti virtsaa, puhutaan virtsaummesta.</p>
+    <p>Kohonneet arvot voivat johtua myös eturauhassyövästä. Niistä, joilla PSA-arvo on koholla, syöpä löydetään noin kolmannekselta. Vapaan ja sitoutuneen PSA:n suhde voi antaa lääkärille tiettyä osviittaa hyvänlaatuisten eturauhasvaivojen erottamiseksi eturauhassyövästä.</p>
+    <p>Niistä, jotka käyvät monen vuoden aikana useita kertoja testeissä, noin yhdellä neljästä on sellainen PSA-arvo, jonka perusteella on aihetta tehdä lisätutkimuksia.</p>
+    <p>Jos PSA-arvo on korkea, lääkäri tekee yleensä ultraäänitutkimuksen ja ottaa eturauhasesta näytteen. Jos lääkäri havaitsee syövän, se voidaan hoitaa leikkauksella, sädehoidolla tai hormonihoidolla.</p>
+    <p type="title">Mistä matalat arvot voivat johtua?</p>
+    <p>Matalat arvot puhuvat eturauhassyöpää vastaan, vaikka sitä ei täysin varmasti voida sulkea pois pelkän PSA-näytteen perusteella.</p>
+    <p>Jos eturauhanen poistetaan leikkauksella, PSA-arvo laskee tuskin mitattavissa olevalle tasolle. Matalaa PSA-arvoa voidaan siis käyttää mittana sille, että leikkaus on tehonnut hyvin. Myös kahdessa muussa hoitomuodossa, sädehoidossa ja hormonihoidossa, alentunut PSA-arvo on yleensä merkki siitä, että hoito on tehonnut hyvin.</p>
+  </body>
+</document>

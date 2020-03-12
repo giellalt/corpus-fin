@@ -1,0 +1,92 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Kouluruokailu QA</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>980</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/kouluruoka/kouluruokailu-qa/</origFileName>
+    <parallel_text xml:lang="sme" location="skuvlaboradeapmi_q_a.html"/>
+    <parallel_text xml:lang="swe" location="vanliga_fragor_om_skolmaten.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Siirry sisältöön</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem">suomi</p>
+      <p type="listitem" xml:lang="swe">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem">suomi</p>
+      <p type="listitem" xml:lang="swe">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title" xml:lang="kal">Kouluruokailu Q&amp;A</p>
+    <p type="title">Saako kouluruokaa ottaa lisää?</p>
+    <p>Kouluruokaa saa ottaa lisää. Lautasmallia kannattaa pitää ohjenuorana myös silloin, kun ottaa lisää ruokaa.</p>
+    <p type="title">Miksi kouluruoka loppuu välillä kesken linjastosta?</p>
+    <p>Ruokapalveluiden on toisinaan vaikea arvioida kouluruuan menekkiä. Joskus ruoka saattaa loppua hetkellisesti, jos sitä ollaan juuri hakemassa lisää keittiöstä tai uuden satsin kypsentäminen on viivästynyt.. Jos ruoka loppuu kokonaan esimerkiksi oppilaiden liikunnallisen koulupäivän vuoksi, keittiöstä löytyy valmiudet tarjota vaihtoehtoinen ruoka.</p>
+    <p>Jos ruoka on linjastosta loppu syystä tai toisesta, silloin on parasta kysyä suoraan ruokapalveluhenkilöstöltä, milloin ruokaa on tulossa lisää.</p>
+    <p type="title">Miten kouluruuasta voi antaa palautetta ja huomioidaanko koululaisten mielipiteitä ruokalistasuunnittelussa?</p>
+    <p>Koululaisilla on monia eri tapoja antaa palautetta kouluruuasta koulusta ja kunnasta riippuen. Palautetta voi antaa esimerkiksi suullisesti ruokapalveluhenkilöstölle, kirjallisesti ruokasalissa olevaan palautelaatikkoon tai sähköisen ja mobiilin palautteenantojärjestelmän avulla. Lisäksi monet ruokapalvelut järjestävät asiakaspalautekyselyitä tietyin väliajoin. Koulussa mahdollisesti toimiva ruokaraati tai kouluruokatoimikunta on myös hyvä kanava vaikuttaa kouluruokailuun.</p>
+    <p>Koululaisten antamat mielipiteet ja huomiot käsitellään ruokapalveluissa. Asiakaspalautteita hyödynnetään muun muassa ruokaohjeiden kehittämisessä, ruokalistasuunnittelussa ja toiveruokapäivien järjestämisessä. Ruokapalvelut ottavat mielellään vastaan palautetta ja keskustelevat kouluruokailun kehittämiseen liittyvistä ideoista.</p>
+    <p type="title">Voiko huoltaja tulla tutustumaan kouluruokailuun?</p>
+    <p>Huoltajilla on yleensä mahdollisuus mennä tutustumaan kouluruokailuun ja syödä samalla koulussa tarjottava koululounas. Tätä mahdollisuutta voi tiedustella suoraan ruokapalveluilta, jos siitä ei ole kerrottu koulun tai kunnan kouluruokailua käsittelevillä nettisivuilla. Tulosta on hyvä ilmoittaa etukäteen koulun keittiön ruokapalveluista vastaavalle, jotta hän osaa varata aikaa tapaamiseen ja varautua ruokailuusi. Ruokapalveluiden ja huoltajien yhteistyö kouluruokailuun liittyvissä asioissa on hyvin toivottavaa.</p>
+    <p type="title">Mistä saa tiedon koulujen ruokalistoista?</p>
+    <p>Käytäntöjä on useita. Tavallisimmin ruokalistat löytyvät koulun ja tai kunnan nettisivuilta sekä ilmaisjakelu- ja paikallislehdistä. Joissakin kunnissa on käytössä myös mobiilisovellus, josta voi tarkistaa mitä minäkin päivänä on ruokana. Ruokalista on esillä myös ruokasalissa. Oman kunnan käytännöistä voi tiedustella kunnan ruokapalveluilta.</p>
+    <p type="title">Miten kotimaisuus ja lähiruoka huomioidaan kouluruokalistalla?</p>
+    <p>Käytännöt ovat kuntakohtaisia, mutta monissa kunnissa on tehty linjauksia kotimaisten elintarvikkeiden ja/tai lähiruuan hankinnan puolesta. Myös kouluruokailusuosituksissa (VRN, 2017) kannustetaan ympäristöä huomioiviin ja kestävää kehitystä tukeviin ruokavalintoihin.</p>
+    <p type="title">Otetaanko kouluruokailussa huomioon eettiseen vakaumukseen perustuvat ja uskonnolliset ruokavaliot?</p>
+    <p>Eettiset ja eri uskontoihin liittyvät tarpeet, jotka poikkeavat merkittävästi suomalaisesta valtaväestön ruokailutottumuksia noudattavasta ruokavaliosta, huomioidaan kuntakohtaisten tai opetuksen järjestäjän linjausten mukaisesti.</p>
+    <p type="title">Mikä on koulussa tarjottavan koululounaan osuus päivittäisestä energiantarpeesta?</p>
+    <p>Koulussa tarjottavan lounaan tulee kattaa noin kolmannes päivittäisestä energiantarpeesta.</p>
+    <p type="title">Mitä kouluateria sisältää?</p>
+    <p>Täysipainoinen kouluateria sisältää päivittäin:</p>
+    <list>
+      <p type="listitem">lämpimän ruuan, jossa on kalaa, vaaleaa tai punaista lihaa, palkokasveja tai munaa</p>
+      <p type="listitem">kasvislisäkkeen ja salaatinkastikkeen/öljyn</p>
+      <p type="listitem">ruokajuomaa (maito/maitojuoma/piimä)</p>
+      <p type="listitem">täysjyväleipää ja</p>
+      <p type="listitem" xml:lang="est">margariinia</p>
+    </list>
+    <p>Puuro- ja kasviskeittoaterialla tarjotaan lisänä aterian ravintosisältöä täydentäviä lisäkkeitä.</p>
+    <p type="title">Mistä huoltajat saavat tietoa koululaisten kouluruokailusta ja hyvistä ruokailutottumuksista?</p>
+    <p>Syödään ja opitaan yhdessä -kouluruokailusuositus (Valtion ravitsemusneuvottelukunta, 2017) ja Syödään yhdessä -ruokasuositukset lapsiperheille (Valtion ravitsemusneuvottelukunta, 2016) ovat julkaisuja, joista löytyy kattavasti tietoa kouluruokailusta ja lasten hyvistä ruokailutottumuksista perusteluineen sekä tietoa huoltajien, koulun ja ruokapalvelun roolista ja yhteistyömahdollisuuksista koululaisten ruokakasvatuksessa. Suositukset perustuvat tieteellisesti tutkittuun tietoon ja niiden laadinnassa on ollut mukana laaja asiantuntijaryhmä.</p>
+    <p>Myös näiltä Ruokatutka-kampanjan sivuilta löytyy paljon tietoa kouluruokailuun liittyen.</p>
+    <p type="title">Miksi kouluruokailussa tarjotaan rasvatonta maitoa ja margariinia täysmaidon ja voin sijaan?</p>
+    <p>Rasvaton maito ja margariini ovat suositeltavampia vaihtoehtoja, koska rasvaisissa maitovalmisteissa ja voissa on runsaasti tyydyttynyttä eli kovaa rasvaa, joka on tutkimusten mukaan terveydelle haitallista. Rasvaton maito on EU:n koulujakelutuen piirissä.</p>
+    <p>Koulussa tarjottavien aterioiden ja välipalojen suunnittelua ja tarjontaa ohjaavat Valtion ravitsemusneuvottelukunnan voimassa olevat väestötason ja koululaisten ruokasuositukset (Terveyttä ruoasta – Suomalaiset ravitsemussuositukset, VRN 2014 ja Syödään ja opitaan yhdessä -kouluruokailusuositus, VRN 2017). Näissä suosituksissa kerrotaan eri elintarvikeryhmien suositeltavat valintakriteerit.</p>
+    <p type="title">Miksi joka viikko kaikille on tarjolla kasvisruokaa?</p>
+    <p>Kasvisruuan tarjoamisessa ja tarjoamisen useudessa on kuntakohtaisia eroja. Terveyttä edistävistä ja ympäristösyistä kasvisruuan tarjoaminen on yleistynyt ja tullut monissa kouluissa osaksi normaalia ruokalistakiertoa tai toiseksi päivittäiseksi ruokavaihtoehdoksi. Kasvisruokavaihtoehtojen tarjoaminen edistää kasvisruokien syömistä myös niillä oppilailla, jotka eivät ole niihin vielä tottuneet. Vapaasti valittava kasvisruokavaihtoehto totuttaa ruokailijoita kasvispainotteiseen syömiseen, mikä tukee sekä terveyttä edistävää että ympäristövastuullista syömistä. Kasvisruokavaihtoehto auttaa myös toteuttamaan punaisen lihan käyttömäärän vähentämistä koskevia suosituksia.</p>
+    <p type="title">Miksi riisiä korvataan ohralla?</p>
+    <p>Kouluruokailusuosituksissa suositellaan viljavalmisteista valitsemaan runsaskuituisia vaihtoehtoja. Ohrassa on runsaammin kuitua kuin riisissä. Ohran käyttö riisin sijaan kuuluu myös kestävää kehitystä tukeviin valintoihin, joihin suositukset ohjaavat.</p>
+    <p type="title">Kuinka paljon kouluruoka maksaa?</p>
+    <p>Opetushallituksen raportin (2015) mukaan keskimääräiset kouluruokailun kustannukset ovat 2,76 euroa oppilasta kohden päivässä. Kouluruokailun hintaan lasketaan aterian raaka-aineiden lisäksi muun muassa ruuanvalmistuskustannukset eli henkilöstökulut ja kuljetuskuluja. Kouluruokailun kustannukset vaihtelevat kunnittain.</p>
+    <p>Yksi kouluruokailun hintaan vaikuttavista tekijöistä on kunnan koko. Suurissa kaupungeissa kouluruuan kustannukset ovat oppilasta kohden keskimäärin pienemmät kuin pienissä kunnissa. Suurissa kaupungeissa kouluruokaa valmistetaan yleensä keskitetysti. Lisäksi koulut sijaitsevat lähempänä toisiaan kuin pienissä kunnissa, joten kuljetuskustannukset ovat pienempiä.</p>
+    <p>Aterian ei tarvitse olla kallis ollakseen maukas, täysipainoinen, monipuolinen ja terveellinen.</p>
+    <p type="title">Saako kasvisruuasta riittävästi proteiinia?</p>
+    <p>Kouluruokailussa kasvisruokavalio toteutetaan yleensä lakto-ovovegetaarisena (maitovalmisteita ja kananmunaa sisältävä), jolloin proteiinin riittävyys ruokavaliossa on helpompi toteuttaa. Sama koskee myös semivegetaarista (kalaa ja/tai vaaleaa lihaa sisältävä) ja laktovegetaarista (maitovalmisteita sisältävä) ruokavaliota. Kasvisaterian riittävä proteiinisisältö varmistetaan palkokasveilla, muilla kasviproteiinin lähteillä, maitovalmisteilla tai kananmunalla.</p>
+    <p>Vegaaniruokavalio edellyttää, että kasvikunnan tuotteista valitaan ja käytetään riittävästi kasviproteiinin lähteitä, jotta voidaan taata aterian täysipainoisuus. Proteiinin riittävän saannin lisäksi on huolehdittava aterian riittävästä energiamäärästä. Vegaaniruokavalion tarjoaminen on kuntakohtaista, joten asiaa kannattaa tiedustella oman kunnan ruokapalveluilta.</p>
+    <p type="title">Miksi kouruokana tarjotaan välillä puuroa?</p>
+    <p>Saadun palautteen perusteella koululaiset pitävät puuroista ja toivovat niitä ruokalistalle. Puuron kanssa tarjotaan aterian ravintosisältöä täydentäviä lisäkkeitä. Ruokalistat suunnitellaan siten, että listassa on suosituksien mukaisesti vuorotellen eri ruokalajeja, jolla taataan vaihtelevuus ja monipuolisuus.</p>
+    <p type="title">Mihin voi ottaa yhteyttä, jos jokin kouluruokailussa askarruttaa?</p>
+    <p>Kouluruokailuun liittyvissä kysymyksissä kannattaa olla yhteydessä koulun keittiön ruokapalveluista vastaavaan tai kunnan ruokapalvelupäällikköön. Yhteystiedot voivat löytyä esimerkiksi koulun tai kunnan nettisivuilta tai koulun toimintaa esittelevästä esitteestä.</p>
+    <p type="title">Voivatko oppilaat ja rehtori/opettajat osallistua kouluruokailun kehittämiseen?</p>
+    <p>Kyllä voivat ja se olisi toivottavaakin! Kouluun voi perustaa ravintolatoimikunnan, ruokaraadin tai vastaavan, jos sellainen ei ole koulussa jo toiminnassa. Koko koulu voi kehittää kouluruokailua yhteistyössä, jolloin siitä tulee juuri oman koulun näköistä toimintaa. Samalla pystytään kehittämään kouluruokailuun liittyviä asioita monesta näkökulmasta. Yhteistä toimintaa voisivat olla esimerkiksi osallistuminen teemaviikkojen ja-päivien suunnitteluun ja toteutukseen (esitykset, askartelut), ruokasalin viihtyisyyteen, ruokailuajankohtiin ja ruokailun pituuteen sekä koulun omien ruokailu <span type="quote">”sääntöjen”</span> laatimiseen liittyvät asiat.</p>
+    <p type="title" xml:lang="est">LUE LISÄÄ:</p>
+    <p type="title">Kouluruokailu on muutakin kuin ruokaa</p>
+    <p type="title">Ruokapöydästä tärkeitä eväitä elämään</p>
+    <p type="title">Kouluruokatesti</p>
+  </body>
+</document>

@@ -1,0 +1,41 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>292</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=655205</origFileName>
+    <parallel_text xml:lang="sma" location="default.aspx_id=767243.html"/>
+    <parallel_text xml:lang="sme" location="default.aspx_id=767288.html"/>
+    <parallel_text xml:lang="smj" location="default.aspx_id=766398.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kuolema ja hautaus - Svenska kyrkan - Om oss</p>
+    <p type="title">Kuolema ja hautaus</p>
+    <p type="title">Ei ole kiire. Kuolemantapauksen sattuessa omainen joutuu usein shokkitilaan. On tarve tehdä jotakin, toimia, heti. Tai sitten toimintakyky salpautuu. Yleispätevä ohje on, että kaikki suunnittelu saa odottaa. Tapahtuneen sulattaminen vie aikansa.</p>
+    <p>Vainajan ruumiista huolehtii useimmiten sairaala, sairaskoti tai onnettomuuden sattuessa poliisi. Ne toimittavat vainajan ruumishuoneelle. Arkun hankinnasta ei tässä vaiheessa tarvitse vielä päättää. Sen sijaan voi vähitellen keskittyä hautajaisten suunnitteluun. Hyvästien ottaminen on tärkeää, varsinkin viimeisten jäähyväisten jättäminen poisnukkuneelle. Hautaamiseen liittyvät perinteet ja symbolit voivat lohduttaa ja tukea vaikean ja tuskallisen eron hetkellä.</p>
+    <p>Ensimmäinen toimenpide</p>
+    <p>Ennen lähdettiin suoraan papin puheille heti kun joku oli kuollut. Nykyään kuolemasta ilmoitetaan paikalliselle veroviranomaiselle. Siitä onkin hyvä alkaa. He kirjoittavat hautaus- ja tuhkausluvan, jotka tarvitaan hautausta varten. Veroviranomaisilta saa myös muita tarvittavia asiakirjoja, kuten virkatodistus (pankin kanssa asioimiseen), kuolintodistus sekä sukuselvitys (myöhemmin suoritettavaa pesänjakoa varten).</p>
+    <p>Yhteydenotto seurakuntaan</p>
+    <p>Omaisten kannattaa itse ottaa yhteys seurakuntaan ja hautauksen toimittavaan pappiin. Silloin voidaan sopia yhdessä hautausjumalanpalveluksen ajankohdasta ja omaiset voivat varmistua siitä, että saavat toivomansa papin hautauksen toimittajaksi.  Omaiset voivat itse varata papin ja sopia hautausjumalanpalveluksen ajankohdan.</p>
+    <p>Keskustelu papin tai diakonin kanssa</p>
+    <p>Pelon ja epävarmuuden tunne kuoleman edessä on luonnollista. Surun ja kuoleman kohtaaminen saa aikaan sekä fyysisiä että psyykkisiä reaktioita. Joskus suru tuntuu liian raskaalta yksin kannettavaksi. Papit ja diakonit ovat tottuneet kohtaamaan ihmisiä hädän hetkellä ja heillä on vaitiolovelvollisuus. Omasta seurakunnasta löytyy tuki.</p>
+    <p>Ei ole oikeaa tapaa surra – kaikki surevat omalla tavallaan eikä mikään tapa ole toista parempi tai huonompi. On vain hyväksyttävä se, että surun kohtaaminen on yksilöllistä. Suru voi ilmetä alistuneisuutena tai epätoivona siitä, mikä jäi sanomatta tai tekemättä, tai mahdollisesti vihan tunteena siitä, että toinen lähti ja jätti. Voimme tuntea myös helpotusta silloin kun kuoleman kokee vapauttajana pitkään jatkuneen sairauden jälkeen.</p>
+    <p>//</p>
+  </body>
+</document>

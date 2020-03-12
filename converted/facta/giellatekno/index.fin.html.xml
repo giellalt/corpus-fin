@@ -1,0 +1,44 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title>Tervetuloa OAHPA-davvi-ohjelmiin!</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>235</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/index.fin.html</origFileName>
+    <parallel_text xml:lang="eng" location="index.eng.html"/>
+    <parallel_text xml:lang="nob" location="index.nob.html"/>
+    <parallel_text xml:lang="sme" location="index.html"/>
+    <parallel_text xml:lang="swe" location="index.swe.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="sme">Tervetuloa OAHPA-davvi-ohjelmiin!</p>
+    <p>OAHPA-davvi voi toimia kielikurssien tai opetuksen apuneuvona. Se on myös osa kattavasta saamen kielen kurssista, vrt. http://kursa.oahpa.no (huom!, myös suomeksi, ks linkki <em type="italic">Suoma kursa </em>). Oahpa-ohjelmissa on monia vaihtoehtoja, ja niitä voidaan säätää eri tasoille. Olemme tehneet pienen oppaan jokaiselle ohjelmalle: </p>
+    <list>
+      <p type="listitem">Numra - harjoitella lukusanoja</p>
+      <p type="listitem">Leksa - harjoitella sanoja ja paikannimiä</p>
+      <p type="listitem">Morfa - taivuttaa sanoja, yksinään tai lauseyhteyksissä</p>
+      <p type="listitem">Vasta - vastaa kysymyksiin</p>
+      <p type="listitem">Sahka - osallistua vuoropuheluun</p>
+    </list>
+    <p>Tavoitteenamme on antaa oppilaille mahdollisuus harjoitella alkuopetuksessa käytettyä perussanastoa. Useimmissa ohjelmissa oppilaat voivat rajoittaa sanaston oppikirjansa mukaan. Jos he mieluummin haluavat työskennellä tiettyjen teemojen kanssa, löytyy mahdoolisuus tulostaa teemasanalistoja.</p>
+    <p>Olemme rakentaneet kieliopin , jossa jokainen sanaluokka selittyy taivutuksesimerkkien ja käyttöesimerkkien avulla. Oppilaat löytävät kieliopin helposti OAHPA-ohjelman oikeassa yläkulmassa olevan valikon kautta.</p>
+    <p>Oppilaat voivat valita läntisen tai itäisen murteen. Tämä tarkoittaa, että sanastoa, taivutusmuotoja ja selityksiä mukautetaan murrevalikoiman mukaan. Ohjelma rakentaa tehtävät murrevalikoiman mukaan, esim parittomien verbien preesensmuotojen yhteydessä: <span type="quote" xml:lang="sme">"mii muitalat"</span> (Itä), <span type="quote" xml:lang="sme">"mii muitalit"</span> (Länsi). Ohjelma hyväksyy kuitenkin kaikki oppilaiden annetut muodot, ovatko he mistä murteesta tahansa, kunhan ne noudattavat saamen virallista ortografiaa.</p>
+    <p>Meillä on myös ohjelmia saamea osaaville oppilaille, jotka haluavat oppia lisää kielioppia ja syntaksi - VISL pelit - katso VISL-linkkiä oikealla. VISL-ohjelma Killerfiller sopii myös vasta-aloittaville opiskelijoille.</p>
+    <p>Linkki <span type="quote" xml:lang="kal">"Ressursit"</span> tarjoaa sanakirjoja, sana- ja tekstianalyysia, mahdollisuuden rakentaa taivutusparadigmoja, sekä tietoa sanaluokista ja lausejäsenistä.</p>
+    <p>Jotkin näistä lisäohjelmien vielä betaversiot, mikä merkitsee sitä, että niissä voi olla virheitä. Kommentit ovat tervetulleita! (oahpa@uit.no).</p>
+    <p>Tekniset tiedot ja linkit</p>
+    <p>Tietoa hankkeesta</p>
+  </body>
+</document>

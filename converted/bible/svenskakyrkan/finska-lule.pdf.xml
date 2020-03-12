@@ -1,0 +1,51 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>295</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.svenskakyrkan.se/kyrkoval2005/documents/Finska-lule.pdf</origFileName>
+    <parallel_text xml:lang="fit" location="meankieli-lule.pdf"/>
+    <parallel_text xml:lang="sme" location="nordsamiska-lulea.pdf"/>
+    <parallel_text xml:lang="smj" location="lulesamiska-lule.pdf"/>
+    <parallel_text xml:lang="swe" location="4i.htm.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Tietoa Kirkollisvaaleista 2005</p>
+    <p>Ruotsin kirkko on rakenteeltaan demokraattinen, mikä vaatii sen noin 5,8 miljoonalta äänioikeutetulta jäseneltä osallistumista ja vastuunottoa. Valitsemme kirkon piirissä joka neljäs vuosi päätöksentekijät seurakuntiin, yhteisöihin, hiippakuntiin sekä kirkolliskokoukseen.</p>
+    <p>Sunnuntaina 18. syyskuuta 2005 Ruotsin kirkossa pidetään vaalit. Äänioikeutettuja ovat ne Ruotsin kirkon jäsenet jotka ovat viimeistään vaalipäivänä täyttäneet 16 vuotta. Kirkollisvaalissa äänestetään etukäteen rekisteröityjä nimeämisryhmiä (joita yleisissä vaaleissa kutsutaan puolueiksi). Myös henkilöä voi äänestää – siis merkitä äänestyslipukkeeseen sen kandidaatin jonka mieluiten haluaa saada valituksi.</p>
+    <p>Näihin voit äänestää</p>
+    <p>Seurakuntaan</p>
+    <p>Siihen seurakuntaan jossa olet väestökirjoilla. Kirkkovaltuusto tai ns suoraan valittu kirkkoneuvosto on seurakunnan korkein päättävä elin.</p>
+    <p>Yhtymään</p>
+    <p>Jos seurakuntasi  kuuluu yhtymään niin suoritetaan vaali myös yhteiseen kirkkovaltuustoon. Seurakunnat tekevät yteistyötä yhtyminä lähinnä taloudellisissa kysymyksissä.</p>
+    <p>Hiippakuntavaltuustoon</p>
+    <p>Ruotsin kirkko on jaettu kolmeentoista hiippakuntaan. Hiippakunnan johtajana toimii piispa ja siihen kuuluvat kaikki sen maantieteellisellä alueella sijaitsevat seurakunnat. Hiippakunnan tehtävänä on tukea ja valvoa seurakuntaelämää. Hiippakuntavaltuusto on hiippakunnan korkein päättävä elin.</p>
+    <p>Kirkolliskokous</p>
+    <p>Ruotsin kirkon korkein päättävä elin.</p>
+    <p>Osallistuminen</p>
+    <p>18 syyskuuta pidettävien kirkollisvaalien kautta on kaikilla Ruotsin kirkkoon kuuluvilla mahdollisuus olla mukana muotoilemassa tulevaisuuden kirkkoa. Joko äänestämällä tai asettumalla valittavaksi nimeämisryhmään. Osallistua voi joko menemällä mukaan johonkin jo olemassaolevaan nimeämisryhmään tai muodostamalla oman ryhmän. Vaalikelpoisuusikä on viimeistään vaalipäivänä täytetty 18 vuoden ikä. Esite <span type="quote" xml:lang="swe">”Att ställa upp”</span> (Osallistuminen) kuvaa ruotsin kielellä kuinka kirkollisvaaliin voi osallistua. Sen voi hakea Internetiltä:</p>
+    <p>http://www.svenskakyrkan.se/kyrkoval2005/4.htm.</p>
+    <p>Aikataulu</p>
+    <p>15 huhtikuuta tulisi nimeämisryhmän rekisteröintianomuksen kuten myös kandidaattiilmoitusten mieluiten olla saapunut hiippakuntahallitukseen tai kirkkohallitukseen. Viimeinen päivämäärä on 15 toukokuuta.</p>
+    <p>31 elokuuta on äänestyskortit lähetetty niille joilla on oikeus äänestää. 5 – 14 syyskuuta on ennakkoäänestyksen aika. Äänestyskortti vaaditaan aina ennakkoäänestystä tehtäessä. Äänestää voi myös sekä kirjeitse että valtuutetun välityksellä. Kirjeitse ja valtuutetun välityksellä tapahtuvaan äänestykseen vaaditaan erityinen kirjekuori jonka voit saada seurakunnaltasi.</p>
+    <p>18 syyskuuta tapahtuu äänestys Vaalihuoneissa. Vaalihuone ja aukioloajat löytyvät äänestyskortista.</p>
+    <p>1 tammikuuta 2006 astuvat vastavalitut tehtäviinsä.</p>
+    <p>___</p>
+  </body>
+</document>

@@ -1,0 +1,59 @@
+<document xml:lang="fin" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>464</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Tander/Tandvard-i-Sverige---vad-galler</origFileName>
+    <parallel_text xml:lang="eng" location="tandvard-i-sverige---vad-galler.html"/>
+    <parallel_text xml:lang="rus" location="tandvard-i-sverige---vad-galler.html"/>
+    <parallel_text xml:lang="swe" location="tandvard-i-sverige-om-man-kommer-fran-ett-annat-land.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Hammashoito Ruotsissa / Tandvård i Sverige - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">SuomeksiFinska</p>
+    <list>
+      <p type="listitem">Takaisin teeman aloitussivulle</p>
+    </list>
+    <p type="title" xml:lang="swe">Hammashoito RuotsissaTandvård i Sverige</p>
+    <p type="title">Termejä?</p>
+    <p>Suurin ero Ruotsin terveydenhuollon ja hammashuollon välillä on, että potilas maksaa itse suuremman osan tutkimus- ja hoitokuluista. Terveydenhuollossa on 900 kruunun kustannuskatto, minkä jälkeen hoito on maksuton.</p>
+    <p>Eri hammaslääkäreillä ja suuhygienisteillä voi olla erilaiset hinnat ja takuut. Myös alueellisia eroja on. Siksi kustannukset on syytä aina ensin selvittää omalta hammaslääkäriltä tai suuhygienistiltä.</p>
+    <p type="title">Lasten ja nuorten hammashoito</p>
+    <p>Kaikilla Ruotsissa kirjoilla olevilla on oikeus maksuttomaan hammashuoltoon sen vuoden loppuun asti, jolloin he täyttävät 19 vuotta. Joillakin alueilla ja maakäräjillä hammashuoltoa on mahdollista saada maksutta vielä muutamia vuosia tämän jälkeenkin.</p>
+    <p type="title">Aikuisten hammashuolto</p>
+    <p>Aikuiset kustantavat suuren osan hammashoidosta itse alkaen tammikuun 1. päivästä sinä vuonna, jolloin he täyttävät 20 vuotta mutta saavat taloudellista tukea valtiolta. Korvauksia voi saada sellaisen hammaslääkärin tai suuhygienistin hoidosta, joka kuuluu vakuutuskassaan (Försäkringskassan).</p>
+    <p>Kaikki 20 vuotta täyttäneet saavat vuosittain hammashoitoavustuksen, joka on suuruudeltaan 150 tai 300 kruunua. Avustusta voi säästää kaksi vuotta ja käyttää yhteen hoitokertaan, mutta kerrallaan ei voi säästää kuin kaksi avustuserää.</p>
+    <p>On myös olemassa nk. suurkustannussuoja, mikä tarkoittaa että valtio maksaa osan yli 3000 kruunun hammashoitokustannuksista vuoden aikana. Potilas maksaa siis ensimmäiset 3000 kruunua itse.</p>
+    <p>Kaikki hoidot ja toimenpiteet eivät kuulu korvauksen piiriin eikä niitä voi kaikissa tapauksissa sisällyttää suurkustannussuojaan. Siksi hammaslääkäriltä tai suuhygienistiltä on hyvä pyytää kustannusarvio hoidosta.</p>
+    <p type="title">Hammashoitoa samalla maksulla kuin sairaanhoitoakin</p>
+    <p>Jos hammashoitoa tarvitaan osana muun sairauden hoitoa, esimerkiksi jos kaulan tai pään alueelle saadaan sädehoitoa, voi tietyissä tapauksissa saada oikeuden hammashoitoon samaan hintaan kuin sairaanhoidonkin.</p>
+    <p>Oikeuden tietyn laajuiseen hammashoitoon sairaanhoidon hintaan voi saada myös, jos tarvitsee päivittäin paljon hoitoa ja hoivaa.</p>
+    <p>Sairaanhoidon hinnalla saatavista hammashoitopalveluista saa lisätietoa omalta asuinalueeltaan tai maakäräjiltä. Neuvoa voi kysyä myös omalta hammaslääkäriltä tai omasta kunnasta.</p>
+    <p type="title">Hammashoito ulkomailta tuleville</p>
+    <p>Riippuen siitä, mistä maasta on kotoisin, Ruotsissa saatavaan hammashoitoon on eri mahdollisuuksia hakea avustusta. Tuetusta hammashuollosta Ruotsiin muuton jälkeen on olemassa omat säädöksensä.</p>
+    <p>Jos on Ruotsissa tilapäisellä käynnillä ja on kotoisin toisesta Pohjoismaasta, EU:n alueelta, Liechtensteinista tai Sveitsistä, on oikeus akuuttiin hammashoitoon samalla hinnalla kuin Ruotsissa vakuutetuilla. Hammashoidon saamiseksi kaikilla, Pohjoismaiden kansalaisia lukuun ottamatta, täytyy olla nk. EU-kortti. Näistä maista tulevilla lapsilla ja nuorilla on oikeus maksuttomaan akuuttihoitoon sen vuoden loppuun asti, jolloin he täyttävät 19 vuotta.</p>
+    <p>EU:n ulkopuolelta tulevien Ruotsissa vierailijoiden on useimmiten maksettava hammashoidostaan täysi hinta, mutta Ruotsilla on tiettyjen maiden kanssa alennettuun hintaan oikeuttavia erityissopimuksia.</p>
+    <p>Vakuutuskassa (Försäkringskassan) vastaa kysymyksiin hammashoidon tuista.</p>
+    <p type="title">Turvapaikanhakijat</p>
+    <p>Ruotsista turvapaikkaa hakevien alle 18-vuotiaiden ei tarvitse maksaa hammashoidostaan. Turvapaikkaa hakevat aikuiset voivat saada akuuttia hammashoitoa maksusta, mutta yleensä maksu on hyvin pieni.</p>
+    <p>Hammashoidon saamiseksi on esitettävä Maahanmuuttoviraston (Migrationsverket) myöntämä todistus, nk. LMA-kortti. Lyhenne LMA tulee sanoista <span type="quote" xml:lang="swe">”Lagen om mottagande av asylsökande”</span>, ja kortti on tilapäinen henkilöllisyystodistus, joka on voimassa oleskeluluvan hakemisen aikana.</p>
+    <p type="title">Oikeus tulkkiin</p>
+    <p>Jos hammashoitokäyntiä varten tarvitaan tulkkia, siitä on ilmoitettava hoitoaikaa varattaessa.</p>
+  </body>
+</document>
