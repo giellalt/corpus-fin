@@ -1,119 +1,83 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Maorit valokeilassa vuoden 2017 Skábmagovat-festivaalilla — Siida</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>491</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.siida.fi/sisalto/tiedotteet/maorit-valokeilassa-vuoden-2017-skbmagovat-festivaalilla</origFileName>
-    <parallel_text xml:lang="eng" location="the-2017-skbmagovat-film-festival-spotlights-the-maori.html"/>
-    <parallel_text xml:lang="sme" location="maorit-lvkejit-lvdi-jagi-2017-skbmagovat-festivlas.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="sme">sámegillii |</p>
-      <p type="listitem" xml:lang="eng">in English |</p>
-      <p type="listitem">suomeksi |</p>
-      <p type="listitem" xml:lang="rus">Русский</p>
-    </list>
-    <p xml:lang="nob">Hae</p>
-    <p>Laajennettu haku...</p>
-    <p>Siirry sisältöön. | Siirry navigointiin</p>
-    <p type="title" xml:lang="eng">Osiot</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Pääsivu |</p>
-      <p type="listitem">Kokoelmat |</p>
-      <p type="listitem">Luontopalvelut |</p>
-      <p type="listitem">Ravintola |</p>
-      <p type="listitem">Kokoukset |</p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet |</p>
-      <p type="listitem">Kolttien Perinnetalo</p>
-    </list>
-    <list>
-      <p type="listitem">Sivukartta |</p>
-      <p type="listitem">Ota yhteyttä |</p>
-      <p type="listitem" xml:lang="smj">RSS |</p>
-      <p type="listitem">Uutiskirje</p>
-    </list>
-    <p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
-    <p xml:lang="est">POHJOINEN LUONTO  Luontokeskus</p>
-    <p xml:lang="eng">Info</p>
-    <p xml:lang="smn">Pääsivu</p>
-    <p xml:lang="koi">/</p>
-    <p xml:lang="fkv">Tiedotteet /</p>
-    <p>Maorit valokeilassa vuoden 2017 Skábmagovat-festivaalilla</p>
-    <p type="title">Maorit valokeilassa vuoden 2017 Skábmagovat-festivaalilla</p>
-    <p>perjantai 18. Marraskuuta 2016, 12.30</p>
-    <p>Maorielokuva ja saamelaisten juhlavuosi näkyvät vahvoina 19. Skábmagovat-festivaalin ohjelmistossa Inarissa tammikuussa.</p>
-    <p>Maorilaulaja-elokuvantekijä Moana Maniapoto saapuu tammikuussa Inariin, jossa Skábmagovat-elokuvafestivaalin pääteemana on Aotearoan (Uuden Seelannin) maorielokuva. Syyskuussa kotimaassaan musiikin Hall of Fameen valittu Maniapoto esiintyy kulttuurikeskus Sajoksessa lauantaina 28. tammikuuta 2017.</p>
-    <p>Maorielokuva elää vahvaa kautta. Tuorein esimerkki tästä on Taika Waititi, joka toisena maorina Lee Tamahorin (Kerran sotureita) jälkeen on päässyt tekemään elokuvia Hollywood-rahoituksella. Runsaan maorikavalkadin ohella Skábmagovat esittää valikoiman Waititin elokuvia, joista kaksi (Boy ja Hunt for the Wilderpeople) on noussut Uuden Seelannin kaikkien aikojen katsotuimmiksi.</p>
-    <p>
-      <em type="italic">Saamelaista juhlaa </em>
-    </p>
-    <p>Oman mausteensa ohjelmistoon tuo saamelainen juhlavuosi. Saamelaisten kansallispäivä täyttää sata vuotta helmikuussa ja saamelainen elokuva 30 vuotta.</p>
-    <p>Kansallispäivää pohjustaa Elsa Laula Renbergistä kertovan dokumentin maailmanensi-ilta. Renberg, eteläsaamelainen aktivisti ja poliitikko, oli keskeinen hahmo yhteispohjoismaisen saamelaistunteen sytyttäjänä 1900-luvun alussa. Elokuvan on ohjannut Roger Manndal.</p>
-    <p>Saamelaiselokuvan merkkivuotta puolestaan juhlistetaan maorien kanssa näytöksessä, jossa kohtaa kaksi Oscar-ehdokkaana ollutta alkuperäiskansojen elokuvaa: Nils Gaupin vauhdikas Tiennäyttäjä (1987) ja Taika Waititin hurmaava lyhytelokuva Two Cars, One Night (2004).</p>
-    <p>Katja Gauriloffin menestysdokumentti Kuun metsän Kaisa saa seurakseen mm. aikalaismuistelmia kirjailija Robert Crottetista sekä Arkistojen aarteina kolttadokumentteja Jarmo Laineen Yleisradio-aineistosta, jonka perikunta syksyllä luovutti Saamelaisarkistolle.</p>
-    <p>Ensimmäistä kertaa Skábmagovat tarjoaa myös tanssitaidetta lumiteatterissa. Jotteeh-esityksen on suunnitellut Suomen Kansallisbaletissa ja Tero Saarinen Companyssa vuosia tanssinut, Inariin viime vuonna muuttanut inarinsaamelainen Auri Ahola.</p>
-    <p>Järjestyksessään 19. Skábmagovat-festivaali järjestetään Inarissa 26.–29.1.2017. Elokuvia esitetään saamelaiskulttuurikeskus Sajoksessa, Saamelaismuseo ja luontokeskus Siidassa ja lumesta rakennetussa Revontuliteatterissa. Tarkempi ohjelmisto julkaistaan joulukuussa osoitteessa www.skabmagovat.fi.</p>
-    <p>Festivaali on osa Suomi 100 -juhlavuoden ohjelmistoa.</p>
-    <p>Lisätietoja:</p>
-    <p>Jorma Lehtola, taiteellinen johtaja, p. 050 4144349</p>
-    <p xml:lang="smn">Anne Kirste Aikio, festivaalijohtaja, p. 040 7681689</p>
-    <p>Sunna Nousuniemi, tuottaja, p. 040 9666318.</p>
-    <p>
-      <em type="italic">Skábmagovat-elokuvafestivaalin järjestävät Saamelaistaiteen tukiyhdistys yhteistyössä Saamelaismuseo ja luontokeskus Siidan, saamelaiskulttuurikeskus Sajoksen, alkuperäiskansojen elokuvakeskus Skábman, Saamelaisalueen koulutuskeskuksen, International Sámi Film Instituten ja YLE Sápmin kanssa. </em>
-    </p>
-    <p>Festivaalin suojelijana toimii Jenni Haukio.</p>
-    <p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
-    <p type="title">Tehdyt toimenpiteet</p>
-    <list>
-      <p type="listitem">Lähetä</p>
-      <p type="listitem">Tulosta</p>
-    </list>
-    <p xml:lang="vep">SISÄLTÖ</p>
-    <p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
-    <p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
-    <p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
-    <p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
-    <p>Saamelainen tarinaperinne ja luonto tutuksi</p>
-    <p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
-    <p>Karhuja Siidan luontoilloissa Inarissa</p>
-    <p>Siidan kesätyöpaikat 2017 auki</p>
-    <p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
-    <p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
-    <p type="title" xml:lang="vep">VIERAILIJAINFO</p>
-    <p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
-    <p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
-    <p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
-    <p>&gt; aukioloajat</p>
-    <p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
-    <p>&gt; yhteystiedot</p>
-    <p>&gt; saavutettavuus</p>
-    <p>&gt; opastukset</p>
-    <p>&gt; Siidan arkkitehtuuri</p>
-    <p>kalenteri</p>
-    <p xml:lang="koi">|</p>
-    <p>mediakuvapankki</p>
-    <p xml:lang="sme">matkailuinfo</p>
-    <p xml:lang="sme">Siida</p>
-    <p xml:lang="sms">Siida Shop</p>
-    <p>Saamelaismuseon blogi</p>
-    <p>medialle | matkanjärjestäjille</p>
-    <p xml:lang="sme">Copyright Siida 2010</p>
-    <p xml:lang="koi">|</p>
-    <p xml:lang="est">Updated 10.6.2010</p>
-    <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Maorit valokeilassa vuoden 2017 Skábmagovat-festivaalilla — Siida</title><genre code="facta"/><author><unknown/></author><year>2016</year><wordcount>491</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/maorit-valokeilassa-vuoden-2017-skbmagovat-festivaalilla</origFileName><parallel_text xml:lang="eng" location="the-2017-skbmagovat-film-festival-spotlights-the-maori.html"/><parallel_text xml:lang="sme" location="maorit-lvkejit-lvdi-jagi-2017-skbmagovat-festivlas.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<p type="listitem" xml:lang="eng">in English |</p>
+<p type="listitem">suomeksi |</p>
+<p type="listitem" xml:lang="rus">Русский</p>
+</list><p xml:lang="nob">Hae</p>
+<p>Laajennettu haku...</p>
+<p>Siirry sisältöön. | Siirry navigointiin</p>
+<p type="title" xml:lang="eng">Osiot</p>
+<list><p type="listitem" xml:lang="smn">Pääsivu |</p>
+<p type="listitem">Kokoelmat |</p>
+<p type="listitem">Luontopalvelut |</p>
+<p type="listitem">Ravintola |</p>
+<p type="listitem">Kokoukset |</p>
+<p type="listitem" xml:lang="fkv">Tiedotteet |</p>
+<p type="listitem">Kolttien Perinnetalo</p>
+</list><list><p type="listitem">Sivukartta |</p>
+<p type="listitem">Ota yhteyttä |</p>
+<p type="listitem" xml:lang="smj">RSS |</p>
+<p type="listitem">Uutiskirje</p>
+</list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
+<p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
+<p xml:lang="eng">Info</p>
+<p xml:lang="smn">Pääsivu</p>
+<p xml:lang="vep">/</p>
+<p xml:lang="fkv">Tiedotteet /</p>
+<p>Maorit valokeilassa vuoden 2017 Skábmagovat-festivaalilla</p>
+<p type="title">Maorit valokeilassa vuoden 2017 Skábmagovat-festivaalilla</p>
+<p>perjantai 18. Marraskuuta 2016, 12.30</p>
+<p>Maorielokuva ja saamelaisten juhlavuosi näkyvät vahvoina 19. Skábmagovat-festivaalin ohjelmistossa Inarissa tammikuussa.</p>
+<p>Maorilaulaja-elokuvantekijä Moana Maniapoto saapuu tammikuussa Inariin, jossa Skábmagovat-elokuvafestivaalin pääteemana on Aotearoan (Uuden Seelannin) maorielokuva. Syyskuussa kotimaassaan musiikin Hall of Fameen valittu Maniapoto esiintyy kulttuurikeskus Sajoksessa lauantaina 28. tammikuuta 2017.</p>
+<p>Maorielokuva elää vahvaa kautta. Tuorein esimerkki tästä on Taika Waititi, joka toisena maorina Lee Tamahorin (Kerran sotureita) jälkeen on päässyt tekemään elokuvia Hollywood-rahoituksella. Runsaan maorikavalkadin ohella Skábmagovat esittää valikoiman Waititin elokuvia, joista kaksi (Boy ja Hunt for the Wilderpeople) on noussut Uuden Seelannin kaikkien aikojen katsotuimmiksi.</p>
+<p><em type="italic">Saamelaista juhlaa </em></p>
+<p>Oman mausteensa ohjelmistoon tuo saamelainen juhlavuosi. Saamelaisten kansallispäivä täyttää sata vuotta helmikuussa ja saamelainen elokuva 30 vuotta.</p>
+<p>Kansallispäivää pohjustaa Elsa Laula Renbergistä kertovan dokumentin maailmanensi-ilta. Renberg, eteläsaamelainen aktivisti ja poliitikko, oli keskeinen hahmo yhteispohjoismaisen saamelaistunteen sytyttäjänä 1900-luvun alussa. Elokuvan on ohjannut Roger Manndal.</p>
+<p>Saamelaiselokuvan merkkivuotta puolestaan juhlistetaan maorien kanssa näytöksessä, jossa kohtaa kaksi Oscar-ehdokkaana ollutta alkuperäiskansojen elokuvaa: Nils Gaupin vauhdikas Tiennäyttäjä (1987) ja Taika Waititin hurmaava lyhytelokuva Two Cars, One Night (2004).</p>
+<p>Katja Gauriloffin menestysdokumentti Kuun metsän Kaisa saa seurakseen mm. aikalaismuistelmia kirjailija Robert Crottetista sekä Arkistojen aarteina kolttadokumentteja Jarmo Laineen Yleisradio-aineistosta, jonka perikunta syksyllä luovutti Saamelaisarkistolle.</p>
+<p>Ensimmäistä kertaa Skábmagovat tarjoaa myös tanssitaidetta lumiteatterissa. Jotteeh-esityksen on suunnitellut Suomen Kansallisbaletissa ja Tero Saarinen Companyssa vuosia tanssinut, Inariin viime vuonna muuttanut inarinsaamelainen Auri Ahola.</p>
+<p>Järjestyksessään 19. Skábmagovat-festivaali järjestetään Inarissa 26.–29.1.2017. Elokuvia esitetään saamelaiskulttuurikeskus Sajoksessa, Saamelaismuseo ja luontokeskus Siidassa ja lumesta rakennetussa Revontuliteatterissa. Tarkempi ohjelmisto julkaistaan joulukuussa osoitteessa www.skabmagovat.fi.</p>
+<p>Festivaali on osa Suomi 100 -juhlavuoden ohjelmistoa.</p>
+<p>Lisätietoja:</p>
+<p>Jorma Lehtola, taiteellinen johtaja, p. 050 4144349</p>
+<p xml:lang="smn">Anne Kirste Aikio, festivaalijohtaja, p. 040 7681689</p>
+<p>Sunna Nousuniemi, tuottaja, p. 040 9666318.</p>
+<p><em type="italic">Skábmagovat-elokuvafestivaalin järjestävät Saamelaistaiteen tukiyhdistys yhteistyössä Saamelaismuseo ja luontokeskus Siidan, saamelaiskulttuurikeskus Sajoksen, alkuperäiskansojen elokuvakeskus Skábman, Saamelaisalueen koulutuskeskuksen, International Sámi Film Instituten ja YLE Sápmin kanssa. </em></p>
+<p>Festivaalin suojelijana toimii Jenni Haukio.</p>
+<p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
+<p type="title">Tehdyt toimenpiteet</p>
+<list><p type="listitem">Lähetä</p>
+<p type="listitem">Tulosta</p>
+</list><p xml:lang="vep">SISÄLTÖ</p>
+<p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
+<p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
+<p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
+<p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
+<p>Saamelainen tarinaperinne ja luonto tutuksi</p>
+<p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
+<p>Karhuja Siidan luontoilloissa Inarissa</p>
+<p>Siidan kesätyöpaikat 2017 auki</p>
+<p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
+<p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
+<p type="title" xml:lang="deu">VIERAILIJAINFO</p>
+<p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
+<p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
+<p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
+<p>&gt; aukioloajat</p>
+<p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
+<p>&gt; yhteystiedot</p>
+<p>&gt; saavutettavuus</p>
+<p>&gt; opastukset</p>
+<p>&gt; Siidan arkkitehtuuri</p>
+<p>kalenteri</p>
+<p xml:lang="vep">|</p>
+<p>mediakuvapankki</p>
+<p xml:lang="sme">matkailuinfo</p>
+<p xml:lang="sme">Siida</p>
+<p xml:lang="sms">Siida Shop</p>
+<p>Saamelaismuseon blogi</p>
+<p>medialle | matkanjärjestäjille</p>
+<p xml:lang="sme">Copyright Siida 2010</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="est">Updated 10.6.2010</p>
+<p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
+</body></document>

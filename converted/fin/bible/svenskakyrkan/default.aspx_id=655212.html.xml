@@ -1,44 +1,16 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>314</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=655212</origFileName>
-    <parallel_text xml:lang="sma" location="lihtsegevoete.html"/>
-    <parallel_text xml:lang="sme" location="miellahttuvuohta.html"/>
-    <parallel_text xml:lang="smj" location="sebrulasjvuohta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Jäsenyys Ruotsin kirkossa - Svenska kyrkan - Om oss</p>
-    <p type="title">Jäsenyys Ruotsin kirkossa</p>
-    <p type="title">Ruotsin kirkko haluaa olla läsnä ilossa ja surussa, arjessa ja juhlassa. Kirkko on myös hiljainen tila omille ajatuksille.</p>
-    <p>Enemmistö kirkon lähes seitsemästä miljoonasta jäsenestä osallistuu vuosittain kirkolliseen toimintaan.  Kyseessä voi olla vaikkapa kotiseurakunnan kuoro, rippikoululeiri tai varojen kerääminen Ruotsin kirkon kansainväliseen kehitysyhteistyöhön. Kirkon jäsenenä voit olla tukemassa sen kehitystä ja saat osallistua kirkon työhön rakkauden, ihmisarvon ja laadukkaan elämän puolesta.</p>
-    <p>Rajatonta yhdessäoloa</p>
-    <p>Kirkko kulkee rinnalla, sekä kotimaassa että Ruotsin ulkopuolella, onnettomuuksien ja kriisien kohdatessa.  Monelle ulkomailla asuvalle ruotsalaiselle kirkosta on tullut kiintopiste ja tärkeä kohtaamispaikka maailmalla. Joskus auttava käsi on tarpeen omalla kotiseudulla. Moni sairas, yksinäinen tai koditon on saanut apua kirkon diakoniatyöntekijältä. Sama kirkko tavoittaa ihmiset sekä lähellä että kaukana.</p>
-    <p>Kirkko arjen keskellä</p>
-    <p>Kirkon jäsenmaksusta suurin osa ohjautuu paikallisseurakuntaan, päivittäiseen seurakunta- ja palvelutyöhön: lapsi- ja nuorisotyö, aikuistyö, musiikkitoiminta, sairaalakirkko, perheneuvonta, päivystävä pappi, diakoniatyö. Jäsenmaksuilla huolehditaan myös oman kirkkorakennuksen huollosta sekä kulttuurihistoriallisten arvojen säilymisestä tuleville sukupolville.</p>
-    <p>Monikielinen kirkko</p>
-    <p>Ruotsin kirkko on monikielinen ja monikulttuurinen. Eri kieliä puhuvat ja eri kulttuuritaustaiset ihmiset rikastuttavat yhteiskuntaa ja kirkkoa. Ruotsin kirkko on kaikkia varten ja se tarjoaa mahdollisuuksia viettää jumalanpalvelusta tai elää uskonelämää kunkin omalla kielellä. Kirkko tiedottaa toiminnastaan eri kielillä ja haluaa olla jäsentensä rinnalla heidän omilla kielillään elämän kriisien kohdatessa.</p>
-    <p>Usko on henkilökohtaista</p>
-    <p>Ruotsin kirkko haluaa olla kohtaamispaikka, jossa voi vaalia yhteyttä sekä Jumalaan että lähimmäisiin ja kasvaa itse omassa uskossaan. Yhteinen perusta on usko Jeesukseen Kristukseen, joka on meidän Herramme ja yhteinen liikkeelle paneva voima. Kirkkoon liitytään kasteen kautta. Jos sinut on jo kastettu jossakin muussa kristillisessä kirkossa, voit liittyä Ruotsin kirkon jäseneksi. Ota yhteyttä sen seurakunnan kirkkoherraan, jonka alueella asut.</p>
-    <p>Kysymyksiä jäsenyydestä</p>
-    <p>Aikaisempien sääntöjen mukaan vastasyntyneestä tuli automaattisesti Ruotsin kirkon jäsen. Jos et ole varma omasta jäsenyydestäsi tai sinulla on muita jäsenyyteen liittyviä kysymyksiä, ota yhteyttä siihen seurakuntaan, jonka alueella asut. Oman seurakuntasi löydät seuraamalla oikealla olevaa linkkiä <span type="quote" xml:lang="swe">”Sök din församling”</span>.</p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>314</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=655212</origFileName><parallel_text xml:lang="sma" location="lihtsegevoete.html"/><parallel_text xml:lang="sme" location="miellahttuvuohta.html"/><parallel_text xml:lang="smj" location="sebrulasjvuohta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Jäsenyys Ruotsin kirkossa - Svenska kyrkan - Om oss</p>
+<p type="title">Jäsenyys Ruotsin kirkossa</p>
+<p type="title">Ruotsin kirkko haluaa olla läsnä ilossa ja surussa, arjessa ja juhlassa. Kirkko on myös hiljainen tila omille ajatuksille.</p>
+<p>Enemmistö kirkon lähes seitsemästä miljoonasta jäsenestä osallistuu vuosittain kirkolliseen toimintaan.  Kyseessä voi olla vaikkapa kotiseurakunnan kuoro, rippikoululeiri tai varojen kerääminen Ruotsin kirkon kansainväliseen kehitysyhteistyöhön. Kirkon jäsenenä voit olla tukemassa sen kehitystä ja saat osallistua kirkon työhön rakkauden, ihmisarvon ja laadukkaan elämän puolesta.</p>
+<p>Rajatonta yhdessäoloa</p>
+<p>Kirkko kulkee rinnalla, sekä kotimaassa että Ruotsin ulkopuolella, onnettomuuksien ja kriisien kohdatessa.  Monelle ulkomailla asuvalle ruotsalaiselle kirkosta on tullut kiintopiste ja tärkeä kohtaamispaikka maailmalla. Joskus auttava käsi on tarpeen omalla kotiseudulla. Moni sairas, yksinäinen tai koditon on saanut apua kirkon diakoniatyöntekijältä. Sama kirkko tavoittaa ihmiset sekä lähellä että kaukana.</p>
+<p>Kirkko arjen keskellä</p>
+<p>Kirkon jäsenmaksusta suurin osa ohjautuu paikallisseurakuntaan, päivittäiseen seurakunta- ja palvelutyöhön: lapsi- ja nuorisotyö, aikuistyö, musiikkitoiminta, sairaalakirkko, perheneuvonta, päivystävä pappi, diakoniatyö. Jäsenmaksuilla huolehditaan myös oman kirkkorakennuksen huollosta sekä kulttuurihistoriallisten arvojen säilymisestä tuleville sukupolville.</p>
+<p>Monikielinen kirkko</p>
+<p>Ruotsin kirkko on monikielinen ja monikulttuurinen. Eri kieliä puhuvat ja eri kulttuuritaustaiset ihmiset rikastuttavat yhteiskuntaa ja kirkkoa. Ruotsin kirkko on kaikkia varten ja se tarjoaa mahdollisuuksia viettää jumalanpalvelusta tai elää uskonelämää kunkin omalla kielellä. Kirkko tiedottaa toiminnastaan eri kielillä ja haluaa olla jäsentensä rinnalla heidän omilla kielillään elämän kriisien kohdatessa.</p>
+<p>Usko on henkilökohtaista</p>
+<p>Ruotsin kirkko haluaa olla kohtaamispaikka, jossa voi vaalia yhteyttä sekä Jumalaan että lähimmäisiin ja kasvaa itse omassa uskossaan. Yhteinen perusta on usko Jeesukseen Kristukseen, joka on meidän Herramme ja yhteinen liikkeelle paneva voima. Kirkkoon liitytään kasteen kautta. Jos sinut on jo kastettu jossakin muussa kristillisessä kirkossa, voit liittyä Ruotsin kirkon jäseneksi. Ota yhteyttä sen seurakunnan kirkkoherraan, jonka alueella asut.</p>
+<p>Kysymyksiä jäsenyydestä</p>
+<p>Aikaisempien sääntöjen mukaan vastasyntyneestä tuli automaattisesti Ruotsin kirkon jäsen. Jos et ole varma omasta jäsenyydestäsi tai sinulla on muita jäsenyyteen liittyviä kysymyksiä, ota yhteyttä siihen seurakuntaan, jonka alueella asut. Oman seurakuntasi löydät seuraamalla oikealla olevaa linkkiä <span type="quote" xml:lang="swe">”Sök din församling”</span>.</p>
+<p>//</p>
+</body></document>

@@ -1,49 +1,21 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Ruokailutottumukset kehittyvät läpi elämän</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>280</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruokakasvatus/ruokailutottumukset-kehittyvat-lapi-elaman/</origFileName>
-    <parallel_text xml:lang="sme" location="boradanharjanumit_ovdanit_miehta_eallima.html"/>
-    <parallel_text xml:lang="swe" location="matvanorna_utvecklas_genom_hela_livet.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Ruokailutottumukset kehittyvät läpi elämän</p>
-    <p>Ruualla on keskeinen, monitahoinen merkitys elämässämme. Ruoka liittyy kulttuuriin ja yhdessä oloon, rytmittää päivää tuoden turvallisuuden tunnetta ja on hyvinvoinnin perusta. Ruokailutottumuksemme sekä suhteemme ruokaan ja syömiseen muovautuvat koko elämämme ajan ruokakulttuurin eläessä ja ollessamme vuorovaikutuksessa muiden kanssa.</p>
-    <p type="title">Ruokailutottumusten perusta valetaan jo lapsuudessa</p>
-    <p>Ruokakokemukset ja ruokailutottumukset, jotka saamme ja opimme lapsuudessa säilyvät mukanamme pitkälle aikuisuuteen. Ne luovat pohjan ruokamieltymyksille, joihin pohjautuen teemme päivittäisiä ruokavalintojamme sekä itsellemme että perheellemme.</p>
-    <p>Ruokailutottumusten kehittymiseen vaikuttavat useat yksiölliset tekijät, joita ovat muun muassa tietotaso, pystyvyyden tunne ja itsetunto. Lapsen ja nuoren lähipiirillä on suuri merkitys niiden vahvaksi kehittymisen kannalta. Yksilöllisiin tekijöihin lukeutuvat myös yksilölliset erot maistamisessa; toiset meistä maistavat esimerkiksi makean makeampana ja karvaan karvaampana kuin toiset. Ruuan maku ylipäätään voi olla aikuisen suussa erilainen kuin lapsen suussa. Yksilöllisistä eroista huolimatta erilaisista mauista pitämistä tai niiden hyväksymistä voidaan harjoitella. Tässä apuna voivat toimia lapsen ja nuoren osallistaminen ruuanvalmistukseen ja erilaiset maistamistehtävät, jotka hyödyntävät esimerkiksi kaikkien aistien avulla ruokaan tutustumista. Aistilähtöisestä ruokakasvatus-menetelmästä löytyy lisää tietoa Makukoulu -kappaleesta.</p>
-    <p type="title">Ruokakasvatus on yhteistä arkea ruuan parissa</p>
-    <p>Yksilöllisten tekijöiden lisäksi lapsen ja nuoren lähiympäristöllä, kodilla ja koululla on keskeinen merkitys ruokailutottumusten kehittymisen kannalta. Lähipiiriin kuuluvien henkilöiden, kuten vanhempien, muiden lähiaikuisten ja koulun henkilökunnan omat ruokailutottumukset, ruokaan liittyvä puhe ja käyttäytyminen ohjaavat myös lasta ja nuorta. Näin ollen myös kaikki lapsen ja nuoren lähipiiriin kuuluvat henkilöt toimivat osaltaan ruokakasvattajina. Onko sinulla jäänyt mieleen omasta lapsuudestasi aikuinen, joka osasi luoda ruokailuhetkestä erityisen mukavan? Oliko hän kenties isovanhempi, joka kuunteli uteliaana lasten kertomuksia ruokapöydässä, vai oma tai ystävän vanhempi, jonka kattilasta riitti perunoita myös kaveriseurueelle?</p>
-    <p type="title" xml:lang="est">LUE LISÄÄ:</p>
-    <p type="title">Kodin ja koulun ruokakasvatuksen top 5</p>
-    <p type="title">Ruokakasvatus varhaiskasvatuksessa ja perusopetuksessa</p>
-    <p type="title">Ruokaympäristö</p>
-    <p type="title">Yhdessä tekemistä ja ruokailoa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Ruokailutottumukset kehittyvät läpi elämän</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>282</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruokakasvatus/ruokailutottumukset-kehittyvat-lapi-elaman/</origFileName><parallel_text xml:lang="sme" location="boradanharjanumit_ovdanit_miehta_eallima.html"/><parallel_text xml:lang="swe" location="matvanorna_utvecklas_genom_hela_livet.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Ruokailutottumukset kehittyvät läpi elämän</p>
+<p>Ruualla on keskeinen, monitahoinen merkitys elämässämme. Ruoka liittyy kulttuuriin ja yhdessä oloon, rytmittää päivää tuoden turvallisuuden tunnetta ja on hyvinvoinnin perusta. Ruokailutottumuksemme sekä suhteemme ruokaan ja syömiseen muovautuvat koko elämämme ajan ruokakulttuurin eläessä ja ollessamme vuorovaikutuksessa muiden kanssa.</p>
+<p type="title">Ruokailutottumusten perusta valetaan jo lapsuudessa</p>
+<p>Ruokakokemukset ja ruokailutottumukset, jotka saamme ja opimme lapsuudessa säilyvät mukanamme pitkälle aikuisuuteen. Ne luovat pohjan ruokamieltymyksille, joihin pohjautuen teemme päivittäisiä ruokavalintojamme sekä itsellemme että perheellemme.</p>
+<p>Ruokailutottumusten kehittymiseen vaikuttavat useat yksiölliset tekijät, joita ovat muun muassa tietotaso, pystyvyyden tunne ja itsetunto. Lapsen ja nuoren lähipiirillä on suuri merkitys niiden vahvaksi kehittymisen kannalta. Yksilöllisiin tekijöihin lukeutuvat myös yksilölliset erot maistamisessa; toiset meistä maistavat esimerkiksi makean makeampana ja karvaan karvaampana kuin toiset. Ruuan maku ylipäätään voi olla aikuisen suussa erilainen kuin lapsen suussa. Yksilöllisistä eroista huolimatta erilaisista mauista pitämistä tai niiden hyväksymistä voidaan harjoitella. Tässä apuna voivat toimia lapsen ja nuoren osallistaminen ruuanvalmistukseen ja erilaiset maistamistehtävät, jotka hyödyntävät esimerkiksi kaikkien aistien avulla ruokaan tutustumista. Aistilähtöisestä ruokakasvatus-menetelmästä löytyy lisää tietoa Makukoulu -kappaleesta.</p>
+<p type="title">Ruokakasvatus on yhteistä arkea ruuan parissa</p>
+<p>Yksilöllisten tekijöiden lisäksi lapsen ja nuoren lähiympäristöllä, kodilla ja koululla on keskeinen merkitys ruokailutottumusten kehittymisen kannalta. Lähipiiriin kuuluvien henkilöiden, kuten vanhempien, muiden lähiaikuisten ja koulun henkilökunnan omat ruokailutottumukset, ruokaan liittyvä puhe ja käyttäytyminen ohjaavat myös lasta ja nuorta. Näin ollen myös kaikki lapsen ja nuoren lähipiiriin kuuluvat henkilöt toimivat osaltaan ruokakasvattajina. Onko sinulla jäänyt mieleen omasta lapsuudestasi aikuinen, joka osasi luoda ruokailuhetkestä erityisen mukavan? Oliko hän kenties isovanhempi, joka kuunteli uteliaana lasten kertomuksia ruokapöydässä, vai oma tai ystävän vanhempi, jonka kattilasta riitti perunoita myös kaveriseurueelle?</p>
+<p type="title" xml:lang="est">LUE LISÄÄ:</p>
+<p type="title">Kodin ja koulun ruokakasvatuksen top 5</p>
+<p type="title">Ruokakasvatus varhaiskasvatuksessa ja perusopetuksessa</p>
+<p type="title">Ruokaympäristö</p>
+<p type="title">Yhdessä tekemistä ja ruokailoa</p>
+</body></document>

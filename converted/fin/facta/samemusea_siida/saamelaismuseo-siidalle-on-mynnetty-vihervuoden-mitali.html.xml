@@ -1,111 +1,78 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Saamelaismuseo Siidalle on myönnetty Vihervuoden mitali — Siida</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>401</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.siida.fi/sisalto/tiedotteet/saamelaismuseo-siidalle-on-mynnetty-vihervuoden-mitali</origFileName>
-    <parallel_text xml:lang="eng" location="smi-museum-siida-gets-the-green-year-medal.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="sme">sámegillii |</p>
-      <p type="listitem" xml:lang="eng">in English |</p>
-      <p type="listitem">suomeksi |</p>
-      <p type="listitem" xml:lang="rus">Русский</p>
-    </list>
-    <p xml:lang="nob">Hae</p>
-    <p>Laajennettu haku...</p>
-    <p>Siirry sisältöön. | Siirry navigointiin</p>
-    <p type="title" xml:lang="eng">Osiot</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Pääsivu |</p>
-      <p type="listitem">Kokoelmat |</p>
-      <p type="listitem">Luontopalvelut |</p>
-      <p type="listitem">Ravintola |</p>
-      <p type="listitem">Kokoukset |</p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet |</p>
-      <p type="listitem">Kolttien Perinnetalo</p>
-    </list>
-    <list>
-      <p type="listitem">Sivukartta |</p>
-      <p type="listitem">Ota yhteyttä |</p>
-      <p type="listitem" xml:lang="smj">RSS |</p>
-      <p type="listitem">Uutiskirje</p>
-    </list>
-    <p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
-    <p xml:lang="est">POHJOINEN LUONTO  Luontokeskus</p>
-    <p xml:lang="eng">Info</p>
-    <p xml:lang="smn">Pääsivu</p>
-    <p xml:lang="koi">/</p>
-    <p xml:lang="fkv">Tiedotteet /</p>
-    <p>Saamelaismuseo Siidalle on myönnetty Vihervuoden mitali</p>
-    <p type="title">Saamelaismuseo Siidalle on myönnetty Vihervuoden mitali</p>
-    <p>torstai 02. Kesäkuuta 2016, 11.10</p>
-    <p>Vihervuoden päätapahtuma järjestetään 2.6.2016 Luonto ja vesi -teemavuotta juhlivassa Hämeenlinnassa. Päivä alkaa kutsuvierasseminaarilla, jossa käsitellään mm. yksityisen ja julkisen suhdetta kestävässä maisemassa, kulttuuriympäristöstrategiaa, tulevaisuuden kaupunkiviljelyä sekä paikallisia teemoja. Seminaarin jälkeen puistokohteet tutustuttavat yleisön Vihervuoden alateemoihin ja torilla vietetään Koko kansan kesäjuhlaa.</p>
-    <p>Vihervuoden mitalin saa tänä vuonna Saamelaismuseo Siida Inarista. Mitalin myöntämisestä päättää mitalitoimikunta, jonka puheenjohtaja on tänä vuonna presidentti Tarja Halonen. Mitalit ovat Asuntosäätiön lahjoittamia ja niitä myönnetään aina Vihervuoden yhteydessä. Ensimmäiset mitalit myönnettiin vuonna 1985, jolloin vietettiin ensimmäistä Vihervuotta.</p>
-    <p>
-      <em type="italic">Perustelut mitalin myöntämiseksi ovat: </em>
-    </p>
-    <p xml:lang="sme">Vihervuosi 2016, mitali nr. 215</p>
-    <p>”Saamelaismuseo Siida on tehnyt määrätietoista ja ansiokasta työtä saamelaisen kulttuuriperinnön puolesta. Monipuolisen tutkimus-, tiedotus- ja näyttelytoimintansa myötä Siida on onnistunut huomattavasti kohottamaan saamelaiskulttuurin arvostusta sekä siihen kohdistuvaa yleisen tietoisuuden tasoa koko maassa.</p>
-    <p>Siidan Ylä-Lapissa tekemät valtakunnallisesti arvokkaita maisema-alueita koskevat selvitykset nostavat saamelaiset kulttuurimaisemat suomalaisten kulttuurimaisemien monimuotoisuuden tärkeäksi osaksi.</p>
-    <p>Saamelaismuseo Siida on samalla onnistunut avaamaan ja uudistamaan koko kulttuurimaiseman käsitettä jopa kansainvälisellä tasolla, kun luonnon ehdoilla tapahtuvien alkuperäisten elinkeinojen kulttuurinen ja henkinen merkitys sekä niiden yhteys maisemiin on osoitettu konkreettisesti ja laajasti. ”</p>
-    <p>Lisätietoja:</p>
-    <p>Seppo Närhi,  Pääsihteeri Viherympäristöliitto ry, puh. 0400 41908</p>
-    <p>Päivi Magga, tutkija Saamelaismuseo Siida, puh. 040 180 1501</p>
-    <p>Sari Valkonen, museonjohtaja Saamelaismuseo Siida, puh. 040 767 1052</p>
-    <p xml:lang="smn">http://www.vihervuosi.fi/content/fi/1030/21981/</p>
-    <p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
-    <p type="title">Tehdyt toimenpiteet</p>
-    <list>
-      <p type="listitem">Lähetä</p>
-      <p type="listitem">Tulosta</p>
-    </list>
-    <p xml:lang="vep">SISÄLTÖ</p>
-    <p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
-    <p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
-    <p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
-    <p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
-    <p>Saamelainen tarinaperinne ja luonto tutuksi</p>
-    <p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
-    <p>Karhuja Siidan luontoilloissa Inarissa</p>
-    <p>Siidan kesätyöpaikat 2017 auki</p>
-    <p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
-    <p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
-    <p type="title" xml:lang="vep">VIERAILIJAINFO</p>
-    <p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
-    <p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
-    <p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
-    <p>&gt; aukioloajat</p>
-    <p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
-    <p>&gt; yhteystiedot</p>
-    <p>&gt; saavutettavuus</p>
-    <p>&gt; opastukset</p>
-    <p>&gt; Siidan arkkitehtuuri</p>
-    <p>kalenteri</p>
-    <p xml:lang="koi">|</p>
-    <p>mediakuvapankki</p>
-    <p xml:lang="sme">matkailuinfo</p>
-    <p xml:lang="sme">Siida</p>
-    <p xml:lang="sms">Siida Shop</p>
-    <p>Saamelaismuseon blogi</p>
-    <p>medialle | matkanjärjestäjille</p>
-    <p xml:lang="sme">Copyright Siida 2010</p>
-    <p xml:lang="koi">|</p>
-    <p xml:lang="est">Updated 10.6.2010</p>
-    <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Saamelaismuseo Siidalle on myönnetty Vihervuoden mitali — Siida</title><genre code="facta"/><author><unknown/></author><year>2016</year><wordcount>401</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/saamelaismuseo-siidalle-on-mynnetty-vihervuoden-mitali</origFileName><parallel_text xml:lang="eng" location="smi-museum-siida-gets-the-green-year-medal.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<p type="listitem" xml:lang="eng">in English |</p>
+<p type="listitem">suomeksi |</p>
+<p type="listitem" xml:lang="rus">Русский</p>
+</list><p xml:lang="nob">Hae</p>
+<p>Laajennettu haku...</p>
+<p>Siirry sisältöön. | Siirry navigointiin</p>
+<p type="title" xml:lang="eng">Osiot</p>
+<list><p type="listitem" xml:lang="smn">Pääsivu |</p>
+<p type="listitem">Kokoelmat |</p>
+<p type="listitem">Luontopalvelut |</p>
+<p type="listitem">Ravintola |</p>
+<p type="listitem">Kokoukset |</p>
+<p type="listitem" xml:lang="fkv">Tiedotteet |</p>
+<p type="listitem">Kolttien Perinnetalo</p>
+</list><list><p type="listitem">Sivukartta |</p>
+<p type="listitem">Ota yhteyttä |</p>
+<p type="listitem" xml:lang="smj">RSS |</p>
+<p type="listitem">Uutiskirje</p>
+</list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
+<p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
+<p xml:lang="eng">Info</p>
+<p xml:lang="smn">Pääsivu</p>
+<p xml:lang="vep">/</p>
+<p xml:lang="fkv">Tiedotteet /</p>
+<p>Saamelaismuseo Siidalle on myönnetty Vihervuoden mitali</p>
+<p type="title">Saamelaismuseo Siidalle on myönnetty Vihervuoden mitali</p>
+<p>torstai 02. Kesäkuuta 2016, 11.10</p>
+<p>Vihervuoden päätapahtuma järjestetään 2.6.2016 Luonto ja vesi -teemavuotta juhlivassa Hämeenlinnassa. Päivä alkaa kutsuvierasseminaarilla, jossa käsitellään mm. yksityisen ja julkisen suhdetta kestävässä maisemassa, kulttuuriympäristöstrategiaa, tulevaisuuden kaupunkiviljelyä sekä paikallisia teemoja. Seminaarin jälkeen puistokohteet tutustuttavat yleisön Vihervuoden alateemoihin ja torilla vietetään Koko kansan kesäjuhlaa.</p>
+<p>Vihervuoden mitalin saa tänä vuonna Saamelaismuseo Siida Inarista. Mitalin myöntämisestä päättää mitalitoimikunta, jonka puheenjohtaja on tänä vuonna presidentti Tarja Halonen. Mitalit ovat Asuntosäätiön lahjoittamia ja niitä myönnetään aina Vihervuoden yhteydessä. Ensimmäiset mitalit myönnettiin vuonna 1985, jolloin vietettiin ensimmäistä Vihervuotta.</p>
+<p><em type="italic">Perustelut mitalin myöntämiseksi ovat: </em></p>
+<p xml:lang="sme">Vihervuosi 2016, mitali nr. 215</p>
+<p>”Saamelaismuseo Siida on tehnyt määrätietoista ja ansiokasta työtä saamelaisen kulttuuriperinnön puolesta. Monipuolisen tutkimus-, tiedotus- ja näyttelytoimintansa myötä Siida on onnistunut huomattavasti kohottamaan saamelaiskulttuurin arvostusta sekä siihen kohdistuvaa yleisen tietoisuuden tasoa koko maassa.</p>
+<p>Siidan Ylä-Lapissa tekemät valtakunnallisesti arvokkaita maisema-alueita koskevat selvitykset nostavat saamelaiset kulttuurimaisemat suomalaisten kulttuurimaisemien monimuotoisuuden tärkeäksi osaksi.</p>
+<p>Saamelaismuseo Siida on samalla onnistunut avaamaan ja uudistamaan koko kulttuurimaiseman käsitettä jopa kansainvälisellä tasolla, kun luonnon ehdoilla tapahtuvien alkuperäisten elinkeinojen kulttuurinen ja henkinen merkitys sekä niiden yhteys maisemiin on osoitettu konkreettisesti ja laajasti. ”</p>
+<p>Lisätietoja:</p>
+<p>Seppo Närhi,  Pääsihteeri Viherympäristöliitto ry, puh. 0400 41908</p>
+<p>Päivi Magga, tutkija Saamelaismuseo Siida, puh. 040 180 1501</p>
+<p>Sari Valkonen, museonjohtaja Saamelaismuseo Siida, puh. 040 767 1052</p>
+<p xml:lang="smn">http://www.vihervuosi.fi/content/fi/1030/21981/</p>
+<p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
+<p type="title">Tehdyt toimenpiteet</p>
+<list><p type="listitem">Lähetä</p>
+<p type="listitem">Tulosta</p>
+</list><p xml:lang="vep">SISÄLTÖ</p>
+<p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
+<p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
+<p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
+<p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
+<p>Saamelainen tarinaperinne ja luonto tutuksi</p>
+<p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
+<p>Karhuja Siidan luontoilloissa Inarissa</p>
+<p>Siidan kesätyöpaikat 2017 auki</p>
+<p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
+<p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
+<p type="title" xml:lang="deu">VIERAILIJAINFO</p>
+<p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
+<p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
+<p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
+<p>&gt; aukioloajat</p>
+<p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
+<p>&gt; yhteystiedot</p>
+<p>&gt; saavutettavuus</p>
+<p>&gt; opastukset</p>
+<p>&gt; Siidan arkkitehtuuri</p>
+<p>kalenteri</p>
+<p xml:lang="vep">|</p>
+<p>mediakuvapankki</p>
+<p xml:lang="sme">matkailuinfo</p>
+<p xml:lang="sme">Siida</p>
+<p xml:lang="sms">Siida Shop</p>
+<p>Saamelaismuseon blogi</p>
+<p>medialle | matkanjärjestäjille</p>
+<p xml:lang="sme">Copyright Siida 2010</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="est">Updated 10.6.2010</p>
+<p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
+</body></document>

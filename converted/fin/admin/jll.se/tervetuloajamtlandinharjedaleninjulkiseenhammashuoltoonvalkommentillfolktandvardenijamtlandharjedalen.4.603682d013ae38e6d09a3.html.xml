@@ -1,38 +1,13 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Tervetuloa Jämtlandin/Härjedalenin julkiseen hammashuoltoon! (Välkommen till Folktandvården i Jämtland/Härjedalen!) - Region Jämtland Härjedalen</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>228</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://jll.se/omoss/informationpaandrasprak/suomifinska/tervetuloajamtlandinharjedaleninjulkiseenhammashuoltoonvalkommentillfolktandvardenijamtlandharjedalen.4.603682d013ae38e6d09a3.html</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="swe">Tervetuloa Jämtlandin/Härjedalenin julkiseen hammashuoltoon! (Välkommen till Folktandvården i Jämtland/Härjedalen!)</p>
-    <p>Hammastahnan sisältämä fluori on avain terveellisiin hampaisiin</p>
-    <p type="listitem">Näin saat parhaan hyödyn fluorihammastahnasta:</p>
-    <p type="listitem">Harjaa vähintään kahdesti päivässä eli aamulla ja illalla.</p>
-    <p type="listitem">Käytä vähintään 2 cm fluorihammastahnaa. Levitä hammastahnaa hampaisiin hammasharjalla.</p>
-    <p type="listitem">Harjaa kaikkia hammaspintoja vähintään kahden minuutin ajan. Ota lopuksi hieman vettä suuhun, purskuta hammastahnavaahtoa hammasväleihin ja sylje vesi suusta. Älä huuhtele suuta tämän jälkeen.</p>
-    <p type="listitem">Vältä syöntiä ja juontia kahden tunnin ajan harjauksesta.</p>
-    <p>Tarjoamme laadukasta hammashoitoa kaikille läänin asukkaille. Reilu puolet aikuisista asukkaista ja lähes kaikki läänissä asuvat lapset ja nuoret hoidetaan meillä. Julkista hammashuoltoa on saatavana kaikkialla Jämtlandin läänissä pohjoisen Gäddedestä etelän Svegiin. Yhteensä meillä on 21 klinikkaa. Östersundissa on lisäksi saatavana erikois- ja sairaalahammashoitoa.</p>
-    <p>Visiomme on: Julkinen hammashoito — johtava toimija ja itsestään selvä hammashoidon valinta kaikille ja läpi elämän!</p>
-    <p>Äkillisen hammashoidon tarpeessa: Soita arkisin ensi sijassa omalle klinikallesi tai päivystysnumeroomme 063 153 300. Voit soittaa päivystysnumeroon 063 153 300 silloinkin, kun klinikka on suljettu. Lauantaisin, sunnuntaisin ja pyhäpäivinä annettavasta hammashoidosta peritään 50 %:n lisäkulut.</p>
-    <p>Sjukvårdsrådgivningen eli SVR voi antaa lisätietoja, itsehoitoa koskevia neuvoja ja niin edelleen. Mene osoitteeseen www.1177.se tai soita numeroon 1177. Vuoden ensimmäisen puoliskon aikana tehtiin lähes 650 uutta frisktandvård-hammashoitosopimusta. Oletko kiinnostunut asiasta? Lisätietoja on kohdassa Frisktandvård.</p>
-    <p>Julkisen hammashuollon kansliaan saat yhteyden soittamalla maakäräjäkunnan vaihteen numeroon 063 147 500. Oman <span type="quote">"kotiklinikkasi"</span> puhelinnumeron ja lisää eri puolilla lääniä sijaitsevien klinikoiden ja kanslian yhteystietoja saat napsauttamalla linkkiä Tandvårdskliniker.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Tervetuloa Jämtlandin/Härjedalenin julkiseen hammashuoltoon! (Välkommen till Folktandvården i Jämtland/Härjedalen!) - Region Jämtland Härjedalen</title><genre code="admin"/><author><unknown/></author><wordcount>228</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://jll.se/omoss/informationpaandrasprak/suomifinska/tervetuloajamtlandinharjedaleninjulkiseenhammashuoltoonvalkommentillfolktandvardenijamtlandharjedalen.4.603682d013ae38e6d09a3.html</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="swe">Tervetuloa Jämtlandin/Härjedalenin julkiseen hammashuoltoon! (Välkommen till Folktandvården i Jämtland/Härjedalen!)</p>
+<p>Hammastahnan sisältämä fluori on avain terveellisiin hampaisiin</p>
+<p type="listitem">Näin saat parhaan hyödyn fluorihammastahnasta:</p>
+<p type="listitem">Harjaa vähintään kahdesti päivässä eli aamulla ja illalla.</p>
+<p type="listitem">Käytä vähintään 2 cm fluorihammastahnaa. Levitä hammastahnaa hampaisiin hammasharjalla.</p>
+<p type="listitem">Harjaa kaikkia hammaspintoja vähintään kahden minuutin ajan. Ota lopuksi hieman vettä suuhun, purskuta hammastahnavaahtoa hammasväleihin ja sylje vesi suusta. Älä huuhtele suuta tämän jälkeen.</p>
+<p type="listitem">Vältä syöntiä ja juontia kahden tunnin ajan harjauksesta.</p>
+<p>Tarjoamme laadukasta hammashoitoa kaikille läänin asukkaille. Reilu puolet aikuisista asukkaista ja lähes kaikki läänissä asuvat lapset ja nuoret hoidetaan meillä. Julkista hammashuoltoa on saatavana kaikkialla Jämtlandin läänissä pohjoisen Gäddedestä etelän Svegiin. Yhteensä meillä on 21 klinikkaa. Östersundissa on lisäksi saatavana erikois- ja sairaalahammashoitoa.</p>
+<p>Visiomme on: Julkinen hammashoito — johtava toimija ja itsestään selvä hammashoidon valinta kaikille ja läpi elämän!</p>
+<p>Äkillisen hammashoidon tarpeessa: Soita arkisin ensi sijassa omalle klinikallesi tai päivystysnumeroomme 063 153 300. Voit soittaa päivystysnumeroon 063 153 300 silloinkin, kun klinikka on suljettu. Lauantaisin, sunnuntaisin ja pyhäpäivinä annettavasta hammashoidosta peritään 50 %:n lisäkulut.</p>
+<p>Sjukvårdsrådgivningen eli SVR voi antaa lisätietoja, itsehoitoa koskevia neuvoja ja niin edelleen. Mene osoitteeseen www.1177.se tai soita numeroon 1177. Vuoden ensimmäisen puoliskon aikana tehtiin lähes 650 uutta frisktandvård-hammashoitosopimusta. Oletko kiinnostunut asiasta? Lisätietoja on kohdassa Frisktandvård.</p>
+<p>Julkisen hammashuollon kansliaan saat yhteyden soittamalla maakäräjäkunnan vaihteen numeroon 063 147 500. Oman <span type="quote">"kotiklinikkasi"</span> puhelinnumeron ja lisää eri puolilla lääniä sijaitsevien klinikoiden ja kanslian yhteystietoja saat napsauttamalla linkkiä Tandvårdskliniker.</p>
+</body></document>

@@ -1,56 +1,31 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Yhteystiedot</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>81</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=302&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=302_lang=english.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Yhteystiedot</p>
-    <p type="title">SAAMELAISKULTTUURIKESKUS SAJOS</p>
-    <p type="title">Kokous- ja tapahtumapalvelut</p>
-    <p>Saamelaiskulttuurikeskus Sajos</p>
-    <p>Sajos</p>
-    <p>99870 Inari</p>
-    <p>Sähköposti     http://www.sajos.fi/</p>
-    <p><em type="italic">Tilavaraukset ja markkinointi </em>  </p>
-    <p>Puh. 010 839 3109</p>
-    <p>Gsm: 050 364 1378</p>
-    <p><em type="italic">Sajoksen Info </em>  </p>
-    <p>Puh. 050-5651346</p>
-    <p><em type="italic">Av-tekniikka </em>  </p>
-    <p>Av-teknikko Joonas Saari Puh 040-5347738</p>
-    <p>Av-teknikko Janne Lappalainen</p>
-    <p>Puh 010 8393156</p>
-    <p><em type="italic">Siivous </em>  </p>
-    <p>Laitoshuoltaja Pirkko Pieski</p>
-    <p>Puh. 050-5651130</p>
-    <p><em type="italic">Toimitilahuolto/Vahtimestari </em>  </p>
-    <p>Toimitilahuoltaja Pauli Saijets</p>
-    <p>Puh. 050-5650888</p>
-    <p><em type="italic">Myyntilaskutus </em>  </p>
-    <p>Toimistosihteeri Ritva Tammela</p>
-    <p> <em type="italic">Ravintola Lyeme </em>   </p>
-    <p>Puh. 040-7644543</p>
-    <p/>
-    <p>
-      <span type="quote">SAAMELAISKÄRÄJÄT&#13;
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Yhteystiedot</title><genre code="admin"/><author><unknown/></author><wordcount>81</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=302&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=302_lang=english.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Yhteystiedot</p>
+<p type="title">SAAMELAISKULTTUURIKESKUS SAJOS</p>
+<p type="title">Kokous- ja tapahtumapalvelut</p>
+<p>Saamelaiskulttuurikeskus Sajos</p>
+<p>Sajos</p>
+<p>99870 Inari</p>
+<p>Sähköposti     http://www.sajos.fi/</p>
+<p><em type="italic">Tilavaraukset ja markkinointi </em>  </p>
+<p>Puh. 010 839 3109</p>
+<p>Gsm: 050 364 1378</p>
+<p><em type="italic">Sajoksen Info </em>  </p>
+<p>Puh. 050-5651346</p>
+<p><em type="italic">Av-tekniikka </em>  </p>
+<p>Av-teknikko Joonas Saari Puh 040-5347738</p>
+<p>Av-teknikko Janne Lappalainen</p>
+<p>Puh 010 8393156</p>
+<p><em type="italic">Siivous </em>  </p>
+<p>Laitoshuoltaja Pirkko Pieski</p>
+<p>Puh. 050-5651130</p>
+<p><em type="italic">Toimitilahuolto/Vahtimestari </em>  </p>
+<p>Toimitilahuoltaja Pauli Saijets</p>
+<p>Puh. 050-5650888</p>
+<p><em type="italic">Myyntilaskutus </em>  </p>
+<p>Toimistosihteeri Ritva Tammela</p>
+<p> <em type="italic">Ravintola Lyeme </em>   </p>
+<p>Puh. 040-7644543</p>
+<p/>
+<p><span type="quote">SAAMELAISKÄRÄJÄT&#13;
 				Sajos&#13;
 				99870 INARI  &#13;
 				   	&#13;
@@ -60,8 +35,6 @@
 				www.samediggi.fi &#13;
 				&#13;
 				Pia Ruotsala&#13;
-				   	Sajoksen johtaja, hallintopäällikkö ma.Puh: 010 839 3106Gsm: 040 726 2688</span>
-    </p>
-    <p/>
-  </body>
-</document>
+				   	Sajoksen johtaja, hallintopäällikkö ma.Puh: 010 839 3106Gsm: 040 726 2688</span></p>
+<p/>
+</body></document>

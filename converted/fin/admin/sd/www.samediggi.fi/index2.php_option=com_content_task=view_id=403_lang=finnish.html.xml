@@ -1,39 +1,10 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - SámiSoster ry</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>110</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=403&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=403_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=403_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=403_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>SámiSoster ry</p>
-    <p>SámiSoster ry on valtakunnallinen yhdistys, jonka sääntöjen mukaisena tarkoituksena on valvoa, ylläpitää ja edistää saamelaisten asemaa ja oikeuksia alkuperäiskansana sosiaali- ja terveysalalla sekä hyvinvointiin liittyvissä kysymyksissä kansallisissa ja kansainvälisissä yhteyksissä. Yhdistys harjoittaa saamelaisväestön sosiaali- ja terveysalaan kuuluvaa kehittämis-, kokeilu-, koulutus-, kuntoutus-, tiedotus-, julkaisu- ja tutkimustoimintaa (2 §). Pyrkimyksenä on, että saamelaisten sosiaali- ja terveyspalvelut sekä järjestölähtöinen auttamistoiminta järjestetään saamelaisten omalla äidinkielellä. Lisäksi auttamistoiminta suunnitellaan ja toteutetaan sellaisin toimintamuodoin, jotka perustuvat saamelaiseen kulttuuriin ja perinteisiin ja tukevat saamelaisen elämäntavan käytäntöjä ja saamelaisyhteisöjä.</p>
-    <p>Sámi Soster ry:n toimitilat ovat Sajoksen toisessa kerroksessa.</p>
-    <p>
-      <em type="italic">Yhteystiedot: </em>
-    </p>
-    <p>SámiSoster ry, Sajos, 99870 Inari</p>
-    <p>* Toiminnanjohtaja Risten-Rauna Magga,</p>
-    <p>* Inger-Anni Äärelä,</p>
-    <p>* Anne Näkkäläjärvi,</p>
-    <p>Lue lisää SámiSosterista.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - SámiSoster ry</title><genre code="admin"/><author><unknown/></author><wordcount>110</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=403&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=403_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=403_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=403_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>SámiSoster ry</p>
+<p>SámiSoster ry on valtakunnallinen yhdistys, jonka sääntöjen mukaisena tarkoituksena on valvoa, ylläpitää ja edistää saamelaisten asemaa ja oikeuksia alkuperäiskansana sosiaali- ja terveysalalla sekä hyvinvointiin liittyvissä kysymyksissä kansallisissa ja kansainvälisissä yhteyksissä. Yhdistys harjoittaa saamelaisväestön sosiaali- ja terveysalaan kuuluvaa kehittämis-, kokeilu-, koulutus-, kuntoutus-, tiedotus-, julkaisu- ja tutkimustoimintaa (2 §). Pyrkimyksenä on, että saamelaisten sosiaali- ja terveyspalvelut sekä järjestölähtöinen auttamistoiminta järjestetään saamelaisten omalla äidinkielellä. Lisäksi auttamistoiminta suunnitellaan ja toteutetaan sellaisin toimintamuodoin, jotka perustuvat saamelaiseen kulttuuriin ja perinteisiin ja tukevat saamelaisen elämäntavan käytäntöjä ja saamelaisyhteisöjä.</p>
+<p>Sámi Soster ry:n toimitilat ovat Sajoksen toisessa kerroksessa.</p>
+<p><em type="italic">Yhteystiedot: </em></p>
+<p>SámiSoster ry, Sajos, 99870 Inari</p>
+<p>* Toiminnanjohtaja Risten-Rauna Magga,</p>
+<p>* Inger-Anni Äärelä,</p>
+<p>* Anne Näkkäläjärvi,</p>
+<p>Lue lisää SámiSosterista.</p>
+</body></document>

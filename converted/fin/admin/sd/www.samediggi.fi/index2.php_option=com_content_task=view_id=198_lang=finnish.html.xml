@@ -1,212 +1,171 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamen suvun laulu - Sámi soga lávlla</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>942</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="sms"/>
-      <language xml:lang="sme"/>
-      <language xml:lang="fin"/>
-      <language xml:lang="smn"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=198&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=198_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=198_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamen suvun laulu - Sámi soga lávlla</p>
-    <p>Saamen suvun laulu (Sámi soga lávlla) on saamelaisten kansallislaulu. Laulun sanat on kirjoittanut saamelaisten merkkimies Isak Saba (1875-1921). Hän oli Finnmarkin Nessebystä (Unjárga/ Uuniemi) kotoisin ollut opettaja ja ensimmäinen saamelainen valtiopäivämies.</p>
-    <p>Saban runo valittiin kansallislauluksi 13. saamelaiskonferenssissa Åressa elokuussa 1986. Laulun on säveltänyt norjalainen Arne Sørlie. Sävellys hyväksyttiin virallisesti saamelaisten 15. konferenssissa Helsingissä vuonna 1992. Saamen suvun laulu on käännetty kuudelle saamen kielelle ja myös suomeksi, jonka käännöksen on tehnyt Otto Manninen.</p>
-    <p>Kansallislaulua lauletaan kaikkialla siellä, missä vietetään saamelaisten juhlaa. Yleensä sitä lauletaan seisaalleen nousten.</p>
-    <p type="title" xml:lang="sme">Isak Saba (1875-1921)</p>
-    <p>Isak Mikal (Mikkel) syntyi Per Sabbasenin ja Britha Aikion seitsenlapsisen perheen toiseksi nuorimmaksi lapseksi. Hänen isänsä oli kauppias, karjanhoitaja ja kalastaja, ja siksi perheellä olikin varaa asua monia muita mukavammin. Sittemmin Saban synnyinkoti on korjattu ja siitä on tehty osa Várjjat Sámi Musean (Varanger Sámi museum) näyttelyä.</p>
-    <p>Saba tunnetaan erityisesti saamelaisten kansallislaulun sanoittajana, mutta hän oli myös opettaja ja poliitikko. Ensimmäisenä saamelaisena valtiopäivämiehenä Norjan Suurkäräjillä vuosina 1907-1912 hän edusti Ruijan työväenpuoluetta.</p>
-    <p>Saba tuli valituksi valtiopäiville, sillä hän onnistui viemään eteenpäin saamelaisten oikeuksia koskevaa ohjelmaa, jossa korostettiin muun muassa saamenkielisten jumalanpalvelusten ja Raamattujen tärkeyttä sekä vaadittiin yhtäläisiä maanosto-oikeuksia. Saban vaikuttaessa Norjassa elettiin vielä virallisen norjalaistamispolitiikan aikaa, jolloin saamen kieli ja saamelainen kulttuuri pyrittiin kitkemään pois.</p>
-    <p>Isak Saba kuoli alkukesästä vuonna 1921 vain 46-vuotiaana. Sanomalehti Nuorttanáste julkaisi pian hänen kuolemansa jälkeen muistokirjoituksen, jonka mukaan saamelaiset olivat menettäneet tärkeän edustajansa, joka jätti jälkeensä sukupolvien ajan elävän perinnön.</p>
-    <p type="title">Kuuntele ja laula pohjoissaameksi</p>
-    <p xml:lang="smn">
-      <em type="italic">Audio: Annukka Hirvasvuopio-Laiti </em>
-    </p>
-    <p>
-      <em type="italic">(julkaistu esittäjän luvalla) </em>
-    </p>
-    <p xml:lang="smn">SÁMI SOGA LÁVLLA</p>
-    <p xml:lang="sme">Sánit: Isak Saba</p>
-    <p xml:lang="sme">Nuohtta: Arne Sørlie</p>
-    <p xml:lang="sme">Guhkkin davvin Dávggáid vuolde</p>
-    <p xml:lang="sme">sabmá suolggai Sámieatnan:</p>
-    <p xml:lang="sme">Duottar leabbá duoddar duohkin,</p>
-    <p xml:lang="sme">jávri seabbá jávrri lahka,</p>
-    <p xml:lang="sme">čohkat čilggiin, čorut čearuin</p>
-    <p xml:lang="sme">allanaddet almmi vuostá;</p>
-    <p xml:lang="sme">šávvet jogat, šuvvet vuovddit,</p>
-    <p xml:lang="sme">cáhket ceakko stállenjárggat</p>
-    <p xml:lang="sme">máraideaddji mearaide.</p>
-    <p xml:lang="sme">Dálvit dáppe buolašbiekkat,</p>
-    <p xml:lang="sme">muohtaborggat meariheamit,</p>
-    <p xml:lang="sme">Sámi sohka sieluin mielain</p>
-    <p xml:lang="sme">eahccá datte eatnamiiddis:</p>
-    <p xml:lang="sme">Mátkkálažžii manoheabit,</p>
-    <p xml:lang="sme">giđđudeaddji guovssahasat,</p>
-    <p xml:lang="sme">ruoškkas, ruovggas rođuin gullo,</p>
-    <p xml:lang="sme">juhca jávrriin, jalgadasain,</p>
-    <p xml:lang="sme">geresskálla máđii miel.</p>
-    <p xml:lang="sme">Ja go geassebeaivváš gollut</p>
-    <p xml:lang="sme">mehciid, mearaid, mearragáttiid,</p>
-    <p xml:lang="sme">golli siste guollebivdit</p>
-    <p xml:lang="sme">suilot mearain, suilot jávrriin</p>
-    <p xml:lang="sme">gollin čuvget čáhcelottit,</p>
-    <p xml:lang="sme">silban šovvot sámi deanut,</p>
-    <p xml:lang="sme">šelgot čuoimmit, šleđgot áirrut,</p>
-    <p xml:lang="sme">luitet albmát lávllodemiin</p>
-    <p xml:lang="sme">geavgŋáid, guoikkaid, goatniliid.</p>
-    <p xml:lang="sme">Sámieatnan sohkagoddi,</p>
-    <p xml:lang="sme">dat lea gierdan doddjokeahttá</p>
-    <p xml:lang="sme">goddi čuđiid, garrogávppiid,</p>
-    <p xml:lang="sme">viehkis vearrevearrováldiid.</p>
-    <p xml:lang="sme">Dearvva dutnje, sitkes sohka!</p>
-    <p xml:lang="sme">Dearvva dutnje, ráfi ruohtas!</p>
-    <p xml:lang="sme">Eai leat doarut dorrojuvvon,</p>
-    <p xml:lang="sme">eai leat vieljain varat vardán</p>
-    <p xml:lang="sme">Sámi siivo soga sis.</p>
-    <p xml:lang="sme">Máttarádját mis leat dovle</p>
-    <p xml:lang="sme">vuoitán vearredahkkiid badjel;</p>
-    <p xml:lang="sme">vuostálastot, vieljat, miige</p>
-    <p xml:lang="sme">sitkatvuođain soardiideamet!</p>
-    <p xml:lang="sme">Beaivvi bártniid nana nálli!</p>
-    <p xml:lang="sme">Eai du vuoitte vašálaččat,</p>
-    <p xml:lang="sme">jos fal gáhttet gollegielat,</p>
-    <p xml:lang="sme">muittát máttarmáttuid sáni:</p>
-    <p xml:lang="sme">Sámieatnan sámiide!</p>
-    <p type="title">Kuuntele ja laula inarinsaameksi</p>
-    <p xml:lang="smn">
-      <em type="italic">Audio: Matti Morottaja, Ilmari Mattus, Aune Kuuva, Kirsti Ranta </em>
-    </p>
-    <p>
-      <em type="italic">(julkaistu esittäjien luvalla) </em>
-    </p>
-    <p xml:lang="smn">SÄÄMI SUUVÂ LAAVLÂ</p>
-    <p xml:lang="sme">~ Isak Saba</p>
-    <p xml:lang="smn">Jurgâlâm Matti Morottaja</p>
-    <p xml:lang="smn">Tääbbin tavveen Távgái vyelni</p>
-    <p xml:lang="smn">mist lii stuorrâ Säämieennâm.</p>
-    <p xml:lang="smn">Tuodâr liäbbáá tuoddâr tyehin,</p>
-    <p xml:lang="smn">jävri šiärráá jäävri alda.</p>
-    <p xml:lang="smn">Coheh cielgijn, coroh cuumâin</p>
-    <p xml:lang="smn">alanedeh alme vuástá.</p>
-    <p xml:lang="smn">šäävvih juuvah, šuveh vyevdih,</p>
-    <p xml:lang="smn">cäähih ciägu stälinjaargah</p>
-    <p xml:lang="smn">meendu muávroo meerâ siis.</p>
-    <p xml:lang="smn">Tälviv tääbbin puolâšpiegah,</p>
-    <p xml:lang="smn">muotâpuurgah merettemeh.</p>
-    <p xml:lang="smn">Säämi suuhâ siäloin mieláin</p>
-    <p xml:lang="smn">iäccá kuittâg enâmijdis.</p>
-    <p xml:lang="smn">Má háliist láá mánutteveh,</p>
-    <p xml:lang="smn">ki ordeijee kuovsâkkâsah,</p>
-    <p xml:lang="smn">ruoškâs, ruovgâs roo oin kulloo,</p>
-    <p xml:lang="smn">juucâ jaavrijn, jolgâdâsâin,</p>
-    <p xml:lang="smn">kerrisskaalâ maa ij mield.</p>
-    <p xml:lang="smn">Já ko kesipiäiváš páštá</p>
-    <p xml:lang="smn">meecijn, meerâin, merâriddoin,</p>
-    <p xml:lang="smn">kole siste kuálásteijeeh</p>
-    <p xml:lang="smn">suiloh meerâin, suiloh jaavrijn.</p>
-    <p xml:lang="smn">Kollen cyevih cäcilodeh,</p>
-    <p xml:lang="smn">silbân kolgeh Säämi juuvah,</p>
-    <p xml:lang="smn">šiälguh cyeimih, šaleh ááiruh,</p>
-    <p xml:lang="smn">lyeštih almaah lávlustâlân</p>
-    <p xml:lang="smn">kiäv áid, kuoškâid, kuánilijd.</p>
-    <p xml:lang="smn">Säämieennâm suhâkodde</p>
-    <p xml:lang="smn">tot lii killám toijuuhánnáá</p>
-    <p xml:lang="smn">koddee cuu ijd, karokaavpijd,</p>
-    <p xml:lang="smn">viehis veriviäru väldeid.</p>
-    <p xml:lang="smn">Tiervâ tunjin, si hes suuhâ!</p>
-    <p xml:lang="smn">Tiervâ tunjin, ráávhu ruotâs!</p>
-    <p xml:lang="smn">Tust láá suá ih so âhánnáá,</p>
-    <p xml:lang="smn">viiljâin vorrâ vardehánnáá.</p>
-    <p xml:lang="smn">Sijvo suuhâ sämmilâš!</p>
-    <p xml:lang="smn">Madâräijiheh láá tovle</p>
-    <p xml:lang="smn">vuáittâm verrušeijee vievâid.</p>
-    <p xml:lang="smn">Vuástálistup viiljah mij-uv</p>
-    <p xml:lang="sme">si hesvuo áin suárdálâsâid.</p>
-    <p xml:lang="smn">Peeivi parnij noonâ nääli,</p>
-    <p xml:lang="smn">iä tuu vyeiti vajaliihkin,</p>
-    <p xml:lang="smn">jis tun toolah kollekielâd,</p>
-    <p xml:lang="smn">muštáh maddârijdâd sääni:</p>
-    <p xml:lang="smn">Säämieennâm sämmiláid!</p>
-    <p type="title">Kuuntele ja laula koltansaameksi</p>
-    <p xml:lang="sms">
-      <em type="italic">Audio: Seija Sivertsen, Erkki Lumisalmi, Aulikki Lumisalmi, Tiina Sanila, Sonja Sanila </em>
-    </p>
-    <p>
-      <em type="italic">(julkaistu esittäjien luvalla) </em>
-    </p>
-    <p xml:lang="sms">SÄÄʹMSOOǤǤ LAULL</p>
-    <p xml:lang="sme">~Isak Saba</p>
-    <p xml:lang="sms">Säämas Sinikka Semenoja da Anni Feodoroff</p>
-    <p xml:lang="sms">Kuʹǩǩen tâʹvven Juuʹse vueʹlnn,</p>
-    <p xml:lang="sms">Sääʹm čiõkk, Sääʹmjânnam.</p>
-    <p xml:lang="sms">Tuõddâr kuâsttai tuõddâr tueʹǩǩen,</p>
-    <p xml:lang="sms">jääuʹr špelkka jääuʹr veâlgga.</p>
-    <p xml:lang="sms">Ceägg tuõddâr čokk laaǥǥ,</p>
-    <p xml:lang="sms">pâjjnâʹdde ââʹlm vuâstta.</p>
-    <p xml:lang="sms">Šuâlee jooǥǥ, šuuvee vääʹr,</p>
-    <p xml:lang="sms">ciägg njaarǥ ruʹvddrââʹdd</p>
-    <p xml:lang="sms">cäkkâʹtte šuârmm miâr vuâstta.</p>
-    <p xml:lang="sms">Vâččai tääiʹb lie täʹlvvfiõlli,</p>
-    <p xml:lang="sms">piõgg da porgg lie meäʹrteʹmes.</p>
-    <p xml:lang="sms">Sääʹm sokk siõlin miõlin,</p>
-    <p xml:lang="sms">tõn diõtt väiʹmmstes rääʹǩǩast jânnmes.</p>
-    <p xml:lang="sms">Joođjid, määtklaid mään čuâvat,</p>
-    <p xml:lang="sms">tâʹvven pueʹlle kuuskõõzz ââʹlmest.</p>
-    <p xml:lang="sms">Ruåčkâs, ruõvggâs rååđain kollai,</p>
-    <p xml:lang="sms">groom teâudd jääuʹrid, jieʹǧǧid.</p>
-    <p xml:lang="sms">Ǩeʹrres kuâlkkan täʹlvvǩeeiʹn mieʹldd.</p>
-    <p xml:lang="sms">Na ǥo ǩieʹss peeivaž kållad,</p>
-    <p xml:lang="sms">mieʹccid, miârid, jäuʹrr-reeddaid,</p>
-    <p xml:lang="sms">kåʹllǩimaldõõzzâst kueʹllšiiʹlli</p>
-    <p xml:lang="sms">soʹǩǩe miârin, soʹǩǩe jääuʹrin.</p>
-    <p xml:lang="sms">Koʹllen čueʹvve čääʹcclåådda,</p>
-    <p xml:lang="sms">silbbân čueʹvve Sääʹmveeʹrd,</p>
-    <p xml:lang="sme">čuâlmma čuâlmain, leädggat ääirain,</p>
-    <p xml:lang="sms">soʹǩǩe, lueʹštte åumma lääuʹleeʹl</p>
-    <p xml:lang="sms">kuõškid, ǩeâuŋŋsid, sâvvnid.</p>
-    <p xml:lang="sms">Sääʹmjânnam sokk-kåʹdd</p>
-    <p xml:lang="sms">tät lij ǩeârddam koʹddji reeisaid,</p>
-    <p xml:lang="sms">koʹddičuuʹđid, kårrkaaupid,</p>
-    <p xml:lang="smn">smuut veäʹreld piiđ vaaʹldjid.</p>
-    <p xml:lang="sms">Tiõrv Tuʹnne, siʹtǩǩes sokk</p>
-    <p xml:lang="sms">tiõrv, rääʹǩǩes rääuh maadd!</p>
-    <p xml:lang="sms">Jeäʹla tuäraid tuärrvuättam,</p>
-    <p xml:lang="sms">jeäʹla viilljeez võõr vuârdtama</p>
-    <p xml:lang="sms">saaʹmi sijvâs sooǥǥ seʹst.</p>
-    <p xml:lang="sms">Maaddârääʹjj meeʹst lie tuuʹl</p>
-    <p xml:lang="sms">vuäittam veäʹreld tueʹjjeei pâʹjjel.</p>
-    <p xml:lang="smn">Vuâsttlâʹsttep viillj, mij še,</p>
-    <p xml:lang="sms">sitkkâdvuõđin suärddjeejeem!</p>
-    <p xml:lang="sms">Sokk rääʹves Peiʹvvpäärnai</p>
-    <p xml:lang="sms">ij tuu vueiʹt vâjjlažžat</p>
-    <p xml:lang="sms">jõs veâl määttak kåʹllǩiõlad,</p>
-    <p xml:lang="sms">mooštak maaddârmaddji saaʹnid:</p>
-    <p xml:lang="sms">Sääʹmjânnam Saaʹmi lij!</p>
-    <p type="title">Sanat suomeksi</p>
-    <p xml:lang="smn">SAAMEN SUVUN LAULU</p>
-    <p xml:lang="smn">~ Isak Saba suomentanut Otto Manninen</p>
-    <p>Kaukaa alta seitsentähden Lapin kulma kuumottavi aava Turjan tunturisto järvi järven tuolla puolen, valtahiset harjat, huiput kohoo kohti ilman kantta, joet joikaa, korvet kaikaa, niemet pystyt, rautarinnat, työntyy tyrskymerta päin.</p>
-    <p>Tuimat tääl' on talven viimat, tuulet, tuiskut määrättömät, Saamen suku sieluin, mielin silti rakastavi maitaan; kulkijalle kuudan hohtaa, roihuavat pohjanpalot, poro pärskyy koivikossa, melu täyttää järvet, jängät pulkankolke talvitiet.</p>
-    <p>Taas kun kesäpäivän kehrä kultaa metsät, meret, rannat, kalamiehet meren, järven kultakimalteessa keinuu, kultasotkat soutaa, soiluu hopeoina Lapin virrat, välkkyy airo, vilkkuu sauvoin, miehet laskee lauleskellen kosket, könkäät, suvannot.</p>
-    <p>Sortumatta Saamen heimo kestänyt on vainolaisten tapporetket, kirokaupat, viekkaat väärän veron viejät. Terve, sitkeä sa heimo, Terve, rakas rauhan juuri, veljesriidan raastamaton, veljesveren vuotamaton Saamen heimo hiljainen!</p>
-    <p>Saivat esi-isät ammoin voiton väärintekijöistä. Veljet, mekin torjukaamme sitkeästi sortajamme! Suku vankka Päivän poikain, ei sua voita vainolainen, kultakieltäs jos vain vaalit, taattojen jos neuvot muistat: Saamien on Saamen maa!</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamen suvun laulu - Sámi soga lávlla</title><genre code="admin"/><author><unknown/></author><wordcount>942</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="sms"/><language xml:lang="sme"/><language xml:lang="fin"/><language xml:lang="smn"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=198&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=198_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=198_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamen suvun laulu - Sámi soga lávlla</p>
+<p>Saamen suvun laulu (Sámi soga lávlla) on saamelaisten kansallislaulu. Laulun sanat on kirjoittanut saamelaisten merkkimies Isak Saba (1875-1921). Hän oli Finnmarkin Nessebystä (Unjárga/ Uuniemi) kotoisin ollut opettaja ja ensimmäinen saamelainen valtiopäivämies.</p>
+<p>Saban runo valittiin kansallislauluksi 13. saamelaiskonferenssissa Åressa elokuussa 1986. Laulun on säveltänyt norjalainen Arne Sørlie. Sävellys hyväksyttiin virallisesti saamelaisten 15. konferenssissa Helsingissä vuonna 1992. Saamen suvun laulu on käännetty kuudelle saamen kielelle ja myös suomeksi, jonka käännöksen on tehnyt Otto Manninen.</p>
+<p>Kansallislaulua lauletaan kaikkialla siellä, missä vietetään saamelaisten juhlaa. Yleensä sitä lauletaan seisaalleen nousten.</p>
+<p type="title" xml:lang="sme">Isak Saba (1875-1921)</p>
+<p>Isak Mikal (Mikkel) syntyi Per Sabbasenin ja Britha Aikion seitsenlapsisen perheen toiseksi nuorimmaksi lapseksi. Hänen isänsä oli kauppias, karjanhoitaja ja kalastaja, ja siksi perheellä olikin varaa asua monia muita mukavammin. Sittemmin Saban synnyinkoti on korjattu ja siitä on tehty osa Várjjat Sámi Musean (Varanger Sámi museum) näyttelyä.</p>
+<p>Saba tunnetaan erityisesti saamelaisten kansallislaulun sanoittajana, mutta hän oli myös opettaja ja poliitikko. Ensimmäisenä saamelaisena valtiopäivämiehenä Norjan Suurkäräjillä vuosina 1907-1912 hän edusti Ruijan työväenpuoluetta.</p>
+<p>Saba tuli valituksi valtiopäiville, sillä hän onnistui viemään eteenpäin saamelaisten oikeuksia koskevaa ohjelmaa, jossa korostettiin muun muassa saamenkielisten jumalanpalvelusten ja Raamattujen tärkeyttä sekä vaadittiin yhtäläisiä maanosto-oikeuksia. Saban vaikuttaessa Norjassa elettiin vielä virallisen norjalaistamispolitiikan aikaa, jolloin saamen kieli ja saamelainen kulttuuri pyrittiin kitkemään pois.</p>
+<p>Isak Saba kuoli alkukesästä vuonna 1921 vain 46-vuotiaana. Sanomalehti Nuorttanáste julkaisi pian hänen kuolemansa jälkeen muistokirjoituksen, jonka mukaan saamelaiset olivat menettäneet tärkeän edustajansa, joka jätti jälkeensä sukupolvien ajan elävän perinnön.</p>
+<p type="title">Kuuntele ja laula pohjoissaameksi</p>
+<p xml:lang="smn"><em type="italic">Audio: Annukka Hirvasvuopio-Laiti </em></p>
+<p><em type="italic">(julkaistu esittäjän luvalla) </em></p>
+<p xml:lang="smn">SÁMI SOGA LÁVLLA</p>
+<p xml:lang="sme">Sánit: Isak Saba</p>
+<p xml:lang="sme">Nuohtta: Arne Sørlie</p>
+<p xml:lang="sme">Guhkkin davvin Dávggáid vuolde</p>
+<p xml:lang="sme">sabmá suolggai Sámieatnan:</p>
+<p xml:lang="sme">Duottar leabbá duoddar duohkin,</p>
+<p xml:lang="sme">jávri seabbá jávrri lahka,</p>
+<p xml:lang="sme">čohkat čilggiin, čorut čearuin</p>
+<p xml:lang="sme">allanaddet almmi vuostá;</p>
+<p xml:lang="sme">šávvet jogat, šuvvet vuovddit,</p>
+<p xml:lang="sme">cáhket ceakko stállenjárggat</p>
+<p xml:lang="sme">máraideaddji mearaide.</p>
+<p xml:lang="sme">Dálvit dáppe buolašbiekkat,</p>
+<p xml:lang="sme">muohtaborggat meariheamit,</p>
+<p xml:lang="sme">Sámi sohka sieluin mielain</p>
+<p xml:lang="sme">eahccá datte eatnamiiddis:</p>
+<p xml:lang="sme">Mátkkálažžii manoheabit,</p>
+<p xml:lang="sme">giđđudeaddji guovssahasat,</p>
+<p xml:lang="sme">ruoškkas, ruovggas rođuin gullo,</p>
+<p xml:lang="sme">juhca jávrriin, jalgadasain,</p>
+<p xml:lang="sme">geresskálla máđii miel.</p>
+<p xml:lang="sme">Ja go geassebeaivváš gollut</p>
+<p xml:lang="sme">mehciid, mearaid, mearragáttiid,</p>
+<p xml:lang="sme">golli siste guollebivdit</p>
+<p xml:lang="sme">suilot mearain, suilot jávrriin</p>
+<p xml:lang="sme">gollin čuvget čáhcelottit,</p>
+<p xml:lang="sme">silban šovvot sámi deanut,</p>
+<p xml:lang="sme">šelgot čuoimmit, šleđgot áirrut,</p>
+<p xml:lang="sme">luitet albmát lávllodemiin</p>
+<p xml:lang="sme">geavgŋáid, guoikkaid, goatniliid.</p>
+<p xml:lang="sme">Sámieatnan sohkagoddi,</p>
+<p xml:lang="sme">dat lea gierdan doddjokeahttá</p>
+<p xml:lang="sme">goddi čuđiid, garrogávppiid,</p>
+<p xml:lang="sme">viehkis vearrevearrováldiid.</p>
+<p xml:lang="sme">Dearvva dutnje, sitkes sohka!</p>
+<p xml:lang="sme">Dearvva dutnje, ráfi ruohtas!</p>
+<p xml:lang="sme">Eai leat doarut dorrojuvvon,</p>
+<p xml:lang="sme">eai leat vieljain varat vardán</p>
+<p xml:lang="sme">Sámi siivo soga sis.</p>
+<p xml:lang="sme">Máttarádját mis leat dovle</p>
+<p xml:lang="sme">vuoitán vearredahkkiid badjel;</p>
+<p xml:lang="sme">vuostálastot, vieljat, miige</p>
+<p xml:lang="sme">sitkatvuođain soardiideamet!</p>
+<p xml:lang="sme">Beaivvi bártniid nana nálli!</p>
+<p xml:lang="sme">Eai du vuoitte vašálaččat,</p>
+<p xml:lang="sme">jos fal gáhttet gollegielat,</p>
+<p xml:lang="sme">muittát máttarmáttuid sáni:</p>
+<p xml:lang="sme">Sámieatnan sámiide!</p>
+<p type="title">Kuuntele ja laula inarinsaameksi</p>
+<p xml:lang="smn"><em type="italic">Audio: Matti Morottaja, Ilmari Mattus, Aune Kuuva, Kirsti Ranta </em></p>
+<p><em type="italic">(julkaistu esittäjien luvalla) </em></p>
+<p xml:lang="smn">SÄÄMI SUUVÂ LAAVLÂ</p>
+<p xml:lang="sme">~ Isak Saba</p>
+<p xml:lang="smn">Jurgâlâm Matti Morottaja</p>
+<p xml:lang="smn">Tääbbin tavveen Távgái vyelni</p>
+<p xml:lang="smn">mist lii stuorrâ Säämieennâm.</p>
+<p xml:lang="smn">Tuodâr liäbbáá tuoddâr tyehin,</p>
+<p xml:lang="smn">jävri šiärráá jäävri alda.</p>
+<p xml:lang="smn">Coheh cielgijn, coroh cuumâin</p>
+<p xml:lang="smn">alanedeh alme vuástá.</p>
+<p xml:lang="smn">šäävvih juuvah, šuveh vyevdih,</p>
+<p xml:lang="smn">cäähih ciägu stälinjaargah</p>
+<p xml:lang="smn">meendu muávroo meerâ siis.</p>
+<p xml:lang="smn">Tälviv tääbbin puolâšpiegah,</p>
+<p xml:lang="smn">muotâpuurgah merettemeh.</p>
+<p xml:lang="smn">Säämi suuhâ siäloin mieláin</p>
+<p xml:lang="smn">iäccá kuittâg enâmijdis.</p>
+<p xml:lang="smn">Má háliist láá mánutteveh,</p>
+<p xml:lang="smn">ki ordeijee kuovsâkkâsah,</p>
+<p xml:lang="smn">ruoškâs, ruovgâs roo oin kulloo,</p>
+<p xml:lang="smn">juucâ jaavrijn, jolgâdâsâin,</p>
+<p xml:lang="smn">kerrisskaalâ maa ij mield.</p>
+<p xml:lang="smn">Já ko kesipiäiváš páštá</p>
+<p xml:lang="smn">meecijn, meerâin, merâriddoin,</p>
+<p xml:lang="smn">kole siste kuálásteijeeh</p>
+<p xml:lang="smn">suiloh meerâin, suiloh jaavrijn.</p>
+<p xml:lang="smn">Kollen cyevih cäcilodeh,</p>
+<p xml:lang="smn">silbân kolgeh Säämi juuvah,</p>
+<p xml:lang="smn">šiälguh cyeimih, šaleh ááiruh,</p>
+<p xml:lang="smn">lyeštih almaah lávlustâlân</p>
+<p xml:lang="smn">kiäv áid, kuoškâid, kuánilijd.</p>
+<p xml:lang="smn">Säämieennâm suhâkodde</p>
+<p xml:lang="smn">tot lii killám toijuuhánnáá</p>
+<p xml:lang="smn">koddee cuu ijd, karokaavpijd,</p>
+<p xml:lang="smn">viehis veriviäru väldeid.</p>
+<p xml:lang="smn">Tiervâ tunjin, si hes suuhâ!</p>
+<p xml:lang="smn">Tiervâ tunjin, ráávhu ruotâs!</p>
+<p xml:lang="smn">Tust láá suá ih so âhánnáá,</p>
+<p xml:lang="smn">viiljâin vorrâ vardehánnáá.</p>
+<p xml:lang="smn">Sijvo suuhâ sämmilâš!</p>
+<p xml:lang="smn">Madâräijiheh láá tovle</p>
+<p xml:lang="smn">vuáittâm verrušeijee vievâid.</p>
+<p xml:lang="smn">Vuástálistup viiljah mij-uv</p>
+<p xml:lang="smn">si hesvuo áin suárdálâsâid.</p>
+<p xml:lang="smn">Peeivi parnij noonâ nääli,</p>
+<p xml:lang="smn">iä tuu vyeiti vajaliihkin,</p>
+<p xml:lang="smn">jis tun toolah kollekielâd,</p>
+<p xml:lang="smn">muštáh maddârijdâd sääni:</p>
+<p xml:lang="smn">Säämieennâm sämmiláid!</p>
+<p type="title">Kuuntele ja laula koltansaameksi</p>
+<p xml:lang="sms"><em type="italic">Audio: Seija Sivertsen, Erkki Lumisalmi, Aulikki Lumisalmi, Tiina Sanila, Sonja Sanila </em></p>
+<p><em type="italic">(julkaistu esittäjien luvalla) </em></p>
+<p xml:lang="sms">SÄÄʹMSOOǤǤ LAULL</p>
+<p xml:lang="sme">~Isak Saba</p>
+<p xml:lang="sms">Säämas Sinikka Semenoja da Anni Feodoroff</p>
+<p xml:lang="sms">Kuʹǩǩen tâʹvven Juuʹse vueʹlnn,</p>
+<p xml:lang="sms">Sääʹm čiõkk, Sääʹmjânnam.</p>
+<p xml:lang="sms">Tuõddâr kuâsttai tuõddâr tueʹǩǩen,</p>
+<p xml:lang="sms">jääuʹr špelkka jääuʹr veâlgga.</p>
+<p xml:lang="sms">Ceägg tuõddâr čokk laaǥǥ,</p>
+<p xml:lang="sms">pâjjnâʹdde ââʹlm vuâstta.</p>
+<p xml:lang="sms">Šuâlee jooǥǥ, šuuvee vääʹr,</p>
+<p xml:lang="sms">ciägg njaarǥ ruʹvddrââʹdd</p>
+<p xml:lang="sms">cäkkâʹtte šuârmm miâr vuâstta.</p>
+<p xml:lang="sms">Vâččai tääiʹb lie täʹlvvfiõlli,</p>
+<p xml:lang="sms">piõgg da porgg lie meäʹrteʹmes.</p>
+<p xml:lang="sms">Sääʹm sokk siõlin miõlin,</p>
+<p xml:lang="sms">tõn diõtt väiʹmmstes rääʹǩǩast jânnmes.</p>
+<p xml:lang="sms">Joođjid, määtklaid mään čuâvat,</p>
+<p xml:lang="sms">tâʹvven pueʹlle kuuskõõzz ââʹlmest.</p>
+<p xml:lang="sms">Ruåčkâs, ruõvggâs rååđain kollai,</p>
+<p xml:lang="sms">groom teâudd jääuʹrid, jieʹǧǧid.</p>
+<p xml:lang="sms">Ǩeʹrres kuâlkkan täʹlvvǩeeiʹn mieʹldd.</p>
+<p xml:lang="sms">Na ǥo ǩieʹss peeivaž kållad,</p>
+<p xml:lang="sms">mieʹccid, miârid, jäuʹrr-reeddaid,</p>
+<p xml:lang="sms">kåʹllǩimaldõõzzâst kueʹllšiiʹlli</p>
+<p xml:lang="sms">soʹǩǩe miârin, soʹǩǩe jääuʹrin.</p>
+<p xml:lang="sms">Koʹllen čueʹvve čääʹcclåådda,</p>
+<p xml:lang="sms">silbbân čueʹvve Sääʹmveeʹrd,</p>
+<p xml:lang="sme">čuâlmma čuâlmain, leädggat ääirain,</p>
+<p xml:lang="sms">soʹǩǩe, lueʹštte åumma lääuʹleeʹl</p>
+<p xml:lang="sms">kuõškid, ǩeâuŋŋsid, sâvvnid.</p>
+<p xml:lang="sms">Sääʹmjânnam sokk-kåʹdd</p>
+<p xml:lang="sms">tät lij ǩeârddam koʹddji reeisaid,</p>
+<p xml:lang="sms">koʹddičuuʹđid, kårrkaaupid,</p>
+<p xml:lang="smn">smuut veäʹreld piiđ vaaʹldjid.</p>
+<p xml:lang="sms">Tiõrv Tuʹnne, siʹtǩǩes sokk</p>
+<p xml:lang="sms">tiõrv, rääʹǩǩes rääuh maadd!</p>
+<p xml:lang="sms">Jeäʹla tuäraid tuärrvuättam,</p>
+<p xml:lang="sms">jeäʹla viilljeez võõr vuârdtama</p>
+<p xml:lang="sms">saaʹmi sijvâs sooǥǥ seʹst.</p>
+<p xml:lang="sms">Maaddârääʹjj meeʹst lie tuuʹl</p>
+<p xml:lang="sms">vuäittam veäʹreld tueʹjjeei pâʹjjel.</p>
+<p xml:lang="smn">Vuâsttlâʹsttep viillj, mij še,</p>
+<p xml:lang="sms">sitkkâdvuõđin suärddjeejeem!</p>
+<p xml:lang="sms">Sokk rääʹves Peiʹvvpäärnai</p>
+<p xml:lang="sms">ij tuu vueiʹt vâjjlažžat</p>
+<p xml:lang="sms">jõs veâl määttak kåʹllǩiõlad,</p>
+<p xml:lang="sms">mooštak maaddârmaddji saaʹnid:</p>
+<p xml:lang="sms">Sääʹmjânnam Saaʹmi lij!</p>
+<p type="title">Sanat suomeksi</p>
+<p xml:lang="smn">SAAMEN SUVUN LAULU</p>
+<p xml:lang="smn">~ Isak Saba suomentanut Otto Manninen</p>
+<p>Kaukaa alta seitsentähden Lapin kulma kuumottavi aava Turjan tunturisto järvi järven tuolla puolen, valtahiset harjat, huiput kohoo kohti ilman kantta, joet joikaa, korvet kaikaa, niemet pystyt, rautarinnat, työntyy tyrskymerta päin.</p>
+<p>Tuimat tääl' on talven viimat, tuulet, tuiskut määrättömät, Saamen suku sieluin, mielin silti rakastavi maitaan; kulkijalle kuudan hohtaa, roihuavat pohjanpalot, poro pärskyy koivikossa, melu täyttää järvet, jängät pulkankolke talvitiet.</p>
+<p>Taas kun kesäpäivän kehrä kultaa metsät, meret, rannat, kalamiehet meren, järven kultakimalteessa keinuu, kultasotkat soutaa, soiluu hopeoina Lapin virrat, välkkyy airo, vilkkuu sauvoin, miehet laskee lauleskellen kosket, könkäät, suvannot.</p>
+<p>Sortumatta Saamen heimo kestänyt on vainolaisten tapporetket, kirokaupat, viekkaat väärän veron viejät. Terve, sitkeä sa heimo, Terve, rakas rauhan juuri, veljesriidan raastamaton, veljesveren vuotamaton Saamen heimo hiljainen!</p>
+<p>Saivat esi-isät ammoin voiton väärintekijöistä. Veljet, mekin torjukaamme sitkeästi sortajamme! Suku vankka Päivän poikain, ei sua voita vainolainen, kultakieltäs jos vain vaalit, taattojen jos neuvot muistat: Saamien on Saamen maa!</p>
+</body></document>

@@ -1,37 +1,11 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Evankelis-luterilainen kirkko</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>341</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=202&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=202_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=202_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Evankelis-luterilainen kirkko</p>
-    <p>Kirkolla on kautta historian ollut suuri merkitys saamelaisille ja saamen kielen käytölle. Ennen yleisen oppivelvollisuuskoulun aikaa kansanopetuksesta vastasi kirkko ja saamenkielinen kirjallisuus sai alkunsa kirkollisista teksteistä. Tänä päivänä saamen kieli kuuluu luonnollisena osana kirkon toimintaan. Kirkolliset toimitukset kuten kaste, vihkiminen ja hautaus voidaan toimittaa inarin- ja pohjoissaamen kielillä.</p>
-    <p>Kirkolliskokous perusti keväällä 2008 saamelaistyön sihteerin viran, jonka sijoituspaikkana on Oulun hiippakunnan tuomiokapituli. Saamelaistyön sihteerin virka on kokonaiskirkon virka, jonka tehtävänä on saamelaisten kirkollisen työn ja erilaisten hankkeiden koordinointi sekä Barentsin alueen saamelaisten kirkollisten yhteyksien hoitaminen. Saamelaispapin virkapaikka on Inarin seurakunnassa, mutta hänen työkenttänään on koko saamelaisten kotiseutualue. Saamelaisten papin tehtävänä on palvella saamelaisten kotiseutualueen seurakuntia ja tarjota saamenkielisiä kirkollisia palveluita.</p>
-    <p>Oulun hiippakunnan tuomiokapituli perusti saamelaistyön neuvottelukunnan vuonna 2008. Neuvottelukunnan tehtävänä on edistää saamelaisten kirkollista työtä ja tukea saamelaistyön sihteerin työtä asiantuntijaelimenä. Kirkko tekee saamelaistyössä pohjoismaista yhteistyötä ja järjestää joka neljäs vuosi ekumeeniset saamelaiset kirkkopäivät (Sámi girkobeaivvit). Edelliset kirkkopäivät vietettiin Norjan Mo i Ranassa 9.-11.8.2013 .</p>
-    <p>Saamen kielilaki koskee myös kirkkoa ja erityisesti Oulun hiippakuntaa. Vuonna 1994 voimaan tulleeseen kirkkolakiin kirjoitettiin tätä koskeva säännös. Vuonna 2006 uudistetulla säädöksellä saamelaisalueen seurakunnat määriteltiin selkeästi kaksikielisiksi seurakunniksi. Tämä velvoittaa saamen kielet näkymään myös esimerkiksi kirkollisissa ilmoituksissa.</p>
-    <p type="title">Saamenkielinen uskonnollinen kirjallisuus</p>
-    <p>Kirkon virallisia kirjoja, kuten jumalanpalveluskirjaa ja toimitusten kirjaa, ryhdyttiin kääntämään saamenkielelle 1990-luvulla ja ne valmistuivat 2002. Pohjoissaamenkielinen virsikirja ilmestyi vuonna 1993. Pohjoissaamenkielinen Uuden Testamentin käännös julkaistiin vuonna 1998. Pohjoissaamenkielinen Vanhan Testamentin käännöstyö alkoi vuonna 1998 ja työ jatkuu edelleen. Lasten Raamattu on julkaistu pohjoissaame n  ja  inar  insaamen kielillä. Inarinsaamenkielinen virsikirja julkistettiin vuonna 1993 ja osia Kirkkokäsikirjasta vuonna 2000. Myös Katekismus on käännetty inarin- ja pohjoissaamen kielille. Tuomiokapitulin suunnitelmissa on Kirkkokäsikirjan kääntäminen inarinsaamen kielelle.</p>
-    <p>Saamenkielisten palvelujen saaminen kirkollisten toimitusten, kuten hautajaisten, kasteen ja vihkimisen yhteydessä on mahdollista Saamelaisten kotiseutualueella, joka on saamelaisten papille kuuluvaa aluetta. Saamenkielisiä ja kaksikielisiä messuja toimitetaan Inarin ja Utsjoen alueilla. Saamelaisten kotiseutualueella ei ole mahdollisuutta saada saamenkielistä palvelua diakoniatyön ja kasvatustyön alueilla, koska ei ole saamen kielen taitoisia työntekijöitä. Siten esimerkiksi saamenkielinen rippikoulu ei toteudu Suomessa. Saamenkielisistä työntekijöistä on puutetta.</p>
-    <p>Saamenkieliset kirkkokäsikirjat löytyvät osoitteesta www.sakasti.f i</p>
-    <p>Saamenkielinen raamattu löytyy osoitteesta www.bibeln.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Evankelis-luterilainen kirkko</title><genre code="admin"/><author><unknown/></author><wordcount>341</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=202&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=202_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=202_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Evankelis-luterilainen kirkko</p>
+<p>Kirkolla on kautta historian ollut suuri merkitys saamelaisille ja saamen kielen käytölle. Ennen yleisen oppivelvollisuuskoulun aikaa kansanopetuksesta vastasi kirkko ja saamenkielinen kirjallisuus sai alkunsa kirkollisista teksteistä. Tänä päivänä saamen kieli kuuluu luonnollisena osana kirkon toimintaan. Kirkolliset toimitukset kuten kaste, vihkiminen ja hautaus voidaan toimittaa inarin- ja pohjoissaamen kielillä.</p>
+<p>Kirkolliskokous perusti keväällä 2008 saamelaistyön sihteerin viran, jonka sijoituspaikkana on Oulun hiippakunnan tuomiokapituli. Saamelaistyön sihteerin virka on kokonaiskirkon virka, jonka tehtävänä on saamelaisten kirkollisen työn ja erilaisten hankkeiden koordinointi sekä Barentsin alueen saamelaisten kirkollisten yhteyksien hoitaminen. Saamelaispapin virkapaikka on Inarin seurakunnassa, mutta hänen työkenttänään on koko saamelaisten kotiseutualue. Saamelaisten papin tehtävänä on palvella saamelaisten kotiseutualueen seurakuntia ja tarjota saamenkielisiä kirkollisia palveluita.</p>
+<p>Oulun hiippakunnan tuomiokapituli perusti saamelaistyön neuvottelukunnan vuonna 2008. Neuvottelukunnan tehtävänä on edistää saamelaisten kirkollista työtä ja tukea saamelaistyön sihteerin työtä asiantuntijaelimenä. Kirkko tekee saamelaistyössä pohjoismaista yhteistyötä ja järjestää joka neljäs vuosi ekumeeniset saamelaiset kirkkopäivät (Sámi girkobeaivvit). Edelliset kirkkopäivät vietettiin Norjan Mo i Ranassa 9.-11.8.2013 .</p>
+<p>Saamen kielilaki koskee myös kirkkoa ja erityisesti Oulun hiippakuntaa. Vuonna 1994 voimaan tulleeseen kirkkolakiin kirjoitettiin tätä koskeva säännös. Vuonna 2006 uudistetulla säädöksellä saamelaisalueen seurakunnat määriteltiin selkeästi kaksikielisiksi seurakunniksi. Tämä velvoittaa saamen kielet näkymään myös esimerkiksi kirkollisissa ilmoituksissa.</p>
+<p type="title">Saamenkielinen uskonnollinen kirjallisuus</p>
+<p>Kirkon virallisia kirjoja, kuten jumalanpalveluskirjaa ja toimitusten kirjaa, ryhdyttiin kääntämään saamenkielelle 1990-luvulla ja ne valmistuivat 2002. Pohjoissaamenkielinen virsikirja ilmestyi vuonna 1993. Pohjoissaamenkielinen Uuden Testamentin käännös julkaistiin vuonna 1998. Pohjoissaamenkielinen Vanhan Testamentin käännöstyö alkoi vuonna 1998 ja työ jatkuu edelleen. Lasten Raamattu on julkaistu pohjoissaame n  ja  inar  insaamen kielillä. Inarinsaamenkielinen virsikirja julkistettiin vuonna 1993 ja osia Kirkkokäsikirjasta vuonna 2000. Myös Katekismus on käännetty inarin- ja pohjoissaamen kielille. Tuomiokapitulin suunnitelmissa on Kirkkokäsikirjan kääntäminen inarinsaamen kielelle.</p>
+<p>Saamenkielisten palvelujen saaminen kirkollisten toimitusten, kuten hautajaisten, kasteen ja vihkimisen yhteydessä on mahdollista Saamelaisten kotiseutualueella, joka on saamelaisten papille kuuluvaa aluetta. Saamenkielisiä ja kaksikielisiä messuja toimitetaan Inarin ja Utsjoen alueilla. Saamelaisten kotiseutualueella ei ole mahdollisuutta saada saamenkielistä palvelua diakoniatyön ja kasvatustyön alueilla, koska ei ole saamen kielen taitoisia työntekijöitä. Siten esimerkiksi saamenkielinen rippikoulu ei toteudu Suomessa. Saamenkielisistä työntekijöistä on puutetta.</p>
+<p>Saamenkieliset kirkkokäsikirjat löytyvät osoitteesta www.sakasti.f i</p>
+<p>Saamenkielinen raamattu löytyy osoitteesta www.bibeln.fi</p>
+</body></document>

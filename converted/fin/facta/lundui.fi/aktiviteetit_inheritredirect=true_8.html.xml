@@ -1,154 +1,115 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Lemmenjoen aktiviteetit - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>580</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/lemmenjoki/aktiviteetit?inheritRedirect=true</origFileName>
-    <parallel_text xml:lang="eng" location="activities_4.html"/>
-    <parallel_text xml:lang="sme" location="aktivitehtat_5.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Lemmenjoki</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Etelä-Konnevesi</p>
-      <p type="listitem">Helvetinjärvi</p>
-      <p type="listitem">Hiidenportti</p>
-      <p type="listitem">Isojärvi</p>
-      <p type="listitem">Itäinen Suomenlahti</p>
-      <p type="listitem">Kauhaneva - Pohjankangas</p>
-      <p type="listitem">Koli</p>
-      <p type="listitem">Kolovesi</p>
-      <p type="listitem">Kurjenrahka</p>
-      <p type="listitem">Lauhanvuori</p>
-      <p type="listitem">Leivonmäki</p>
-      <p type="listitem">Lemmenjoki</p>
-      <p type="listitem">Liesjärvi</p>
-      <p type="listitem">Linnansaari</p>
-      <p type="listitem">Nuuksio</p>
-      <p type="listitem">Oulanka</p>
-      <p type="listitem">Pallas-Yllästunturi</p>
-      <p type="listitem">Patvinsuo</p>
-      <p type="listitem">Perämeri</p>
-      <p type="listitem">Petkeljärvi</p>
-      <p type="listitem">Puurijärvi ja Isosuo</p>
-      <p type="listitem">Pyhä-Häkki</p>
-      <p type="listitem">Pyhä-Luosto</p>
-      <p type="listitem">Päijänne</p>
-      <p type="listitem">Repovesi</p>
-      <p type="listitem">Riisitunturi</p>
-      <p type="listitem">Rokua</p>
-      <p type="listitem">Saaristomeri</p>
-      <p type="listitem">Salamajärvi</p>
-      <p type="listitem">Seitseminen</p>
-      <p type="listitem">Selkämeri</p>
-      <p type="listitem">Sipoonkorpi</p>
-      <p type="listitem">Syöte</p>
-      <p type="listitem">Tammisaaren saaristo</p>
-      <p type="listitem">Teijo</p>
-      <p type="listitem">Tiilikkajärvi</p>
-      <p type="listitem">Torronsuo</p>
-      <p type="listitem">Urho Kekkosen kansallispuisto</p>
-      <p type="listitem">Valkmusa</p>
-    </list>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p>Lemmenjoen sivut</p>
-    <p type="title">Lemmenjoki</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p type="title">Lemmenjoen aktiviteetit</p>
-    <p>Suomen suurin kansallispuisto Lemmenjoki tarjoaa koettavaa niin päiväretkeilijöille kuin päiväkausia erämaan rauhassa viihtyville vaeltajille. Kiehtova kulta-alue, saamelaiskulttuurikohteet ja upea luonto takaavat, että mieleenpainuvaa nähtävää löytyy jokaiselle.</p>
-    <p>Huomaathan, että Ravadaskönkään rajoitusosassa liikkuminen on sallittu ainoastaan merkityillä poluilla.</p>
-    <p type="title">Veneily</p>
-    <p>Lemmenjoen päivittäiset jokivenekuljetukset vievät sinut vaivattomasti kansallispuiston sydämeen. Jokivenekyydin varrella maisemat vaihtelevat mäntymetsistä jokivarren reheviin lehtoihin ja kaukaisuudessa siintäviin tuntureihin. Voit jäädä veneen kyydistä vaikkapa Ravadaskönkään vesiputouksella, yhdellä Lemmenjoen upeimmista nähtävyyksistä, tai kulkea koko matkan kultamaille saakka. Sekä Ravadaskönkäältä että reitin päätepisteestä Kultahaminasta pääsee kätevästi Lemmenjoen kesäretkeilyreitille.</p>
-    <p type="title">Vaellus</p>
-    <p>Lemmenjoen jokilaakso ja kulta-alue sen läheisyydessä ovat kansallispuiston suosituimpia retkikohteita. Merkityt reitit (60 km), autio- ja varaustuvat sekä lukuisat tulipaikat palvelevat retkeilijää. Merkittyjen reittien varrella voi tutustua Lemmenjoen kullankaivun historiaan ja nykypäivään ja ihailla Lemmenjoen monimuotoista luontoa.</p>
-    <p>Suurin osa Lemmenjoen kansallispuistosta on aitoa erämaata, jossa vaeltaja voi kulkea päiväkausia omassa rauhassaan. Ikivanhoja mäntymetsiä kirjovat laajat jängät ja halkovat lukuisat jokilaaksot, sieltä täältä kohoavat tunturit ja jylhät vaarat. Onnekas kulkija saattaa nähdä uhanalaisen, Lemmenjoella harvalukuisena pesivän ahman jäljet. Vaellus kansallispuiston erämaisissa osissa vaatii hyviä erätaitoja, sillä retkeilyrakenteita ei ole ja autiotupiakin on vain harvakseltaan.</p>
-    <p type="title">Nähtävyyksien ja näköalojen katselu</p>
-    <p>Lemmenjoen henkeäsalpaavan upeat maisemat avautuvat puiston lukemattomilta tuntureilta. Alempana ikimetsissä vuosisatojen ikäisten kilpikaarnaisten mäntyvanhusten keskellä kulkiessa voi tuntea oman pienuutensa ja rauhoittua puiden huminaan. Siellä täällä aukeavilta soilta kantautuu huumaava suopursun tuoksu ja jänkäkurpan tai liron laulu.</p>
-    <p>Vertaansa vailla olevien maisemien lisäksi Lemmenjoel-</p>
-    <p>la kiehtovat saamelais-</p>
-    <p>kulttuuri ja kullankaivu. Vanhat saamelaiset asuin- ja pyyntipaikat eri puolilla puistoa valottavat entispäivän saamelaiskulttuuria. Kulta-alueella Lemmenjokilaakson läheisyydessä voi tutustua kullankaivun jännittävään historiaan, mutta nähdä myös nykypäivän kullankaivajia. Legendaaristen kultamiesten tuvat ja kaivupaikat kertovat omaa tarinaansa vaeltajalle, ja opastetuilla retkillä kävijät pääsevät itsekin kokeilemaan kullan huuhtomista.</p>
-    <p type="title">Muut aktiviteetit</p>
-    <list>
-      <p type="listitem"><em type="italic">Kalastus: </em>Puiston poikki kulkee Lemmenjoen kalastusalue (nro 1562), josta saaliiksi voi saada vaikkapa siikaa, taimenta tai harjusta. Kalastusluvan voi ostaa Eräluvat.fi –sivustolta (www.eraluvat.fi), alueen yrittäjiltä tai Metsähallituksen palvelupisteistä. Viehekalastus edellyttää kalastonhoitomaksun (www.eraluvat.fi) suorittamista. Pilkkiä ja onkia saa jokamiehenoikeudella järvivesissä. </p>
-      <p type="listitem"><em type="italic">Luontokeskus: </em>Ylä-Lapin luontokeskus Siidan näyttelyt tutustuttavat sinut pohjoiseen luontoon ja saamelaiskulttuuriin. Retkeily- ja matkailuneuvontaa, myynnissä luontoaiheisia tuotteita, karttoja ja lupia. </p>
-      <p type="listitem"><em type="italic">Luontopolku: </em>Lemmenjoen luontopolku (4,5 km) seurailee alkumatkan jokivartta ja mutkittelee takaisin Njurgulahteen kauniin mäntymaaston halki. Polun varrella voit nähdä mm. peurakuoppia ja pysähtyä tulistelemaan Muurahaislammen tulipaikalle. </p>
-      <p type="listitem"><em type="italic">Maastopyöräily: </em>Maastopyöräily on järjestyssäännön mukaan sallittu ainoastaan merkityillä kesäreiteillä. </p>
-      <p type="listitem"><em type="italic">Melominen ja soutaminen: </em>Rauhallinen Lemmenjoki sopii mainiosti aloittelevallekin melojalle. Njurgulahdesta Kultahaminaan matkaa tulee noin 20 km. Njurgulahdesta voi lähteä melomaan myös Paadarjärven suuntaan ja jatkaa matkaa aina Solojärvelle saakka. Lemmenjoen yrittäjät vuokraavat kanootteja. </p>
-      <p type="listitem"><em type="italic">Kullankaivuu: </em>Kullan kaivamista varten täytyy kohteelle olla haettuna valtaus tai kaivospiiri. Paikalliset yrittäjät järjestävät tilauksesta kullankaivuretkiä omille valtauksilleen. On myös kullankaivajia, joiden valtauksilla satunnainen vaeltaja voi kokeilla huuhtomista. Näistä paikoista voi kysellä mm. Ylä-Lapin luontokeskus Siidasta . </p>
-    </list>
-    <list>
-      <p type="listitem">Lemmenjoen kansallispuiston kalastuslupa</p>
-    </list>
-    <p type="title">Kalastonhoitomaksu 2016</p>
-    <p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Lemmenjoen aktiviteetit - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>580</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/lemmenjoki/aktiviteetit?inheritRedirect=true</origFileName><parallel_text xml:lang="eng" location="activities_4.html"/><parallel_text xml:lang="sme" location="aktivitehtat_5.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Lemmenjoki</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Etelä-Konnevesi</p>
+<p type="listitem">Helvetinjärvi</p>
+<p type="listitem">Hiidenportti</p>
+<p type="listitem">Isojärvi</p>
+<p type="listitem">Itäinen Suomenlahti</p>
+<p type="listitem">Kauhaneva - Pohjankangas</p>
+<p type="listitem">Koli</p>
+<p type="listitem">Kolovesi</p>
+<p type="listitem">Kurjenrahka</p>
+<p type="listitem">Lauhanvuori</p>
+<p type="listitem">Leivonmäki</p>
+<p type="listitem">Lemmenjoki</p>
+<p type="listitem">Liesjärvi</p>
+<p type="listitem">Linnansaari</p>
+<p type="listitem">Nuuksio</p>
+<p type="listitem">Oulanka</p>
+<p type="listitem">Pallas-Yllästunturi</p>
+<p type="listitem">Patvinsuo</p>
+<p type="listitem">Perämeri</p>
+<p type="listitem">Petkeljärvi</p>
+<p type="listitem">Puurijärvi ja Isosuo</p>
+<p type="listitem">Pyhä-Häkki</p>
+<p type="listitem">Pyhä-Luosto</p>
+<p type="listitem">Päijänne</p>
+<p type="listitem">Repovesi</p>
+<p type="listitem">Riisitunturi</p>
+<p type="listitem">Rokua</p>
+<p type="listitem">Saaristomeri</p>
+<p type="listitem">Salamajärvi</p>
+<p type="listitem">Seitseminen</p>
+<p type="listitem">Selkämeri</p>
+<p type="listitem">Sipoonkorpi</p>
+<p type="listitem">Syöte</p>
+<p type="listitem">Tammisaaren saaristo</p>
+<p type="listitem">Teijo</p>
+<p type="listitem">Tiilikkajärvi</p>
+<p type="listitem">Torronsuo</p>
+<p type="listitem">Urho Kekkosen kansallispuisto</p>
+<p type="listitem">Valkmusa</p>
+</list><list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p>Lemmenjoen sivut</p>
+<p type="title">Lemmenjoki</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p type="title">Lemmenjoen aktiviteetit</p>
+<p>Suomen suurin kansallispuisto Lemmenjoki tarjoaa koettavaa niin päiväretkeilijöille kuin päiväkausia erämaan rauhassa viihtyville vaeltajille. Kiehtova kulta-alue, saamelaiskulttuurikohteet ja upea luonto takaavat, että mieleenpainuvaa nähtävää löytyy jokaiselle.</p>
+<p>Huomaathan, että Ravadaskönkään rajoitusosassa liikkuminen on sallittu ainoastaan merkityillä poluilla.</p>
+<p type="title">Veneily</p>
+<p>Lemmenjoen päivittäiset jokivenekuljetukset vievät sinut vaivattomasti kansallispuiston sydämeen. Jokivenekyydin varrella maisemat vaihtelevat mäntymetsistä jokivarren reheviin lehtoihin ja kaukaisuudessa siintäviin tuntureihin. Voit jäädä veneen kyydistä vaikkapa Ravadaskönkään vesiputouksella, yhdellä Lemmenjoen upeimmista nähtävyyksistä, tai kulkea koko matkan kultamaille saakka. Sekä Ravadaskönkäältä että reitin päätepisteestä Kultahaminasta pääsee kätevästi Lemmenjoen kesäretkeilyreitille.</p>
+<p type="title">Vaellus</p>
+<p>Lemmenjoen jokilaakso ja kulta-alue sen läheisyydessä ovat kansallispuiston suosituimpia retkikohteita. Merkityt reitit (60 km), autio- ja varaustuvat sekä lukuisat tulipaikat palvelevat retkeilijää. Merkittyjen reittien varrella voi tutustua Lemmenjoen kullankaivun historiaan ja nykypäivään ja ihailla Lemmenjoen monimuotoista luontoa.</p>
+<p>Suurin osa Lemmenjoen kansallispuistosta on aitoa erämaata, jossa vaeltaja voi kulkea päiväkausia omassa rauhassaan. Ikivanhoja mäntymetsiä kirjovat laajat jängät ja halkovat lukuisat jokilaaksot, sieltä täältä kohoavat tunturit ja jylhät vaarat. Onnekas kulkija saattaa nähdä uhanalaisen, Lemmenjoella harvalukuisena pesivän ahman jäljet. Vaellus kansallispuiston erämaisissa osissa vaatii hyviä erätaitoja, sillä retkeilyrakenteita ei ole ja autiotupiakin on vain harvakseltaan.</p>
+<p type="title">Nähtävyyksien ja näköalojen katselu</p>
+<p>Lemmenjoen henkeäsalpaavan upeat maisemat avautuvat puiston lukemattomilta tuntureilta. Alempana ikimetsissä vuosisatojen ikäisten kilpikaarnaisten mäntyvanhusten keskellä kulkiessa voi tuntea oman pienuutensa ja rauhoittua puiden huminaan. Siellä täällä aukeavilta soilta kantautuu huumaava suopursun tuoksu ja jänkäkurpan tai liron laulu.</p>
+<p>Vertaansa vailla olevien maisemien lisäksi Lemmenjoel-</p>
+<p>la kiehtovat saamelais-</p>
+<p>kulttuuri ja kullankaivu. Vanhat saamelaiset asuin- ja pyyntipaikat eri puolilla puistoa valottavat entispäivän saamelaiskulttuuria. Kulta-alueella Lemmenjokilaakson läheisyydessä voi tutustua kullankaivun jännittävään historiaan, mutta nähdä myös nykypäivän kullankaivajia. Legendaaristen kultamiesten tuvat ja kaivupaikat kertovat omaa tarinaansa vaeltajalle, ja opastetuilla retkillä kävijät pääsevät itsekin kokeilemaan kullan huuhtomista.</p>
+<p type="title">Muut aktiviteetit</p>
+<list><p type="listitem"><em type="italic">Kalastus: </em>Puiston poikki kulkee Lemmenjoen kalastusalue (nro 1562), josta saaliiksi voi saada vaikkapa siikaa, taimenta tai harjusta. Kalastusluvan voi ostaa Eräluvat.fi –sivustolta (www.eraluvat.fi), alueen yrittäjiltä tai Metsähallituksen palvelupisteistä. Viehekalastus edellyttää kalastonhoitomaksun (www.eraluvat.fi) suorittamista. Pilkkiä ja onkia saa jokamiehenoikeudella järvivesissä. </p>
+<p type="listitem"><em type="italic">Luontokeskus: </em>Ylä-Lapin luontokeskus Siidan näyttelyt tutustuttavat sinut pohjoiseen luontoon ja saamelaiskulttuuriin. Retkeily- ja matkailuneuvontaa, myynnissä luontoaiheisia tuotteita, karttoja ja lupia. </p>
+<p type="listitem"><em type="italic">Luontopolku: </em>Lemmenjoen luontopolku (4,5 km) seurailee alkumatkan jokivartta ja mutkittelee takaisin Njurgulahteen kauniin mäntymaaston halki. Polun varrella voit nähdä mm. peurakuoppia ja pysähtyä tulistelemaan Muurahaislammen tulipaikalle. </p>
+<p type="listitem"><em type="italic">Maastopyöräily: </em>Maastopyöräily on järjestyssäännön mukaan sallittu ainoastaan merkityillä kesäreiteillä. </p>
+<p type="listitem"><em type="italic">Melominen ja soutaminen: </em>Rauhallinen Lemmenjoki sopii mainiosti aloittelevallekin melojalle. Njurgulahdesta Kultahaminaan matkaa tulee noin 20 km. Njurgulahdesta voi lähteä melomaan myös Paadarjärven suuntaan ja jatkaa matkaa aina Solojärvelle saakka. Lemmenjoen yrittäjät vuokraavat kanootteja. </p>
+<p type="listitem"><em type="italic">Kullankaivuu: </em>Kullan kaivamista varten täytyy kohteelle olla haettuna valtaus tai kaivospiiri. Paikalliset yrittäjät järjestävät tilauksesta kullankaivuretkiä omille valtauksilleen. On myös kullankaivajia, joiden valtauksilla satunnainen vaeltaja voi kokeilla huuhtomista. Näistä paikoista voi kysellä mm. Ylä-Lapin luontokeskus Siidasta . </p>
+</list><list><p type="listitem">Lemmenjoen kansallispuiston kalastuslupa</p>
+</list><p type="title">Kalastonhoitomaksu 2016</p>
+<p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

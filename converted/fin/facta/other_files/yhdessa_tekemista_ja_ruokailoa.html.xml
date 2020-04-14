@@ -1,60 +1,26 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Yhdessä tekemistä ja ruokailoa</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>692</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruokakasvatus/yhdessa-tekemista-ja-ruokailoa/</origFileName>
-    <parallel_text xml:lang="sme" location="ovttas_dahkan_ja_borramusillu.html"/>
-    <parallel_text xml:lang="swe" location="samvaro_och_matgladje.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Yhdessä tekemistä ja ruokailoa</p>
-    <p>
-      <em type="italic">Syödään yhdessä </em>
-    </p>
-    <p>Yhdessä kotona lapsen ja nuoren kanssa nautittu ateria ei ole itsestäänselvyys nykyajan kiireisessä elämänrytmissä. Työ, koulutehtävät ja harrastukset vaativat aikansa, eivätkä kaikki perheenjäsenet välttämättä ole ruoka-aikoina paikalla johtuen vaikkapa vuorotyöstä. Yhdessä ateriointiin on kuitenkin hyvä panostaa mahdollisuuksien mukaan, sillä se rytmittää päivää ja antaa tilaisuuden rauhoittua ja tehdä yhdessä lujittaen siten perheenjäsenten välisiä suhteita ja yhteenkuuluvuuden tunnetta. Mitäpä jos joku perheenjäsenistä tekisi ehtiessään vaikka sämpylätaikinan valmiiksi ja toinen leipoisi ja paistaisi ne? Ja kaikki söisivät ne sitten iltapalalla yhdessä.</p>
-    <p>Myös kouluissa tulisi suosia yhdessä oppilaiden kanssa syömistä. Yhdessä ruokailulla, ruokailun ilmapiirillä ja ruokapuheella on merkitystä lasten ja nuorten ruokailutottumusten kehittymisessä niin kotona kuin koulussa. Yhteinen ruokailu on tärkeää myös vanhemmille lapsille ja nuorille. Yhdessä ruokaileminen on myös välittämistä, ja se tuo lapselle ja nuorelle turvallisuuden tunnetta.</p>
-    <p>Rento ja kannustava ilmapiiri edistää myönteistä suhtautumista ruokailuun. Siksi onkin hyvä miettiä jo valmiiksi erilaisia toimintamalleja myönteisen ruokailuilmapiirin luomiseksi. Yhdessä syöminen on myös mallioppimisen kautta erinomaista ohjausta täysipainoisen aterian kokoamiseen. Vanhemmat ja opettajat voivat näin omalla esimerkillään, ilman sanojakin, ohjata lapsen ja nuoren ruuanvalintaa ja syömistä.</p>
-    <p>
-      <em type="italic">Tehdään yhdessä </em>
-    </p>
-    <p>Yhteisten ruokailuhetkien lisäksi lasten ja nuorten osallistaminen ja vastuuttaminen ruokailuun liittyvään toimintaan voi vahvistaa heidän pystyvyyden tunnettaan ja lujittaa perheen ja kouluyhteisön yhteisöllisyyttä. Se voi olla esimerkiksi ruuanvalmistusta tai siinä avustamista, ruokalistasuunnittelua tai kauppaostoksiin osallistumista, koulussa puolestaan vaikkapa keittiön toimintaan tai ruuan reittiin pellolta pöytään tutustumista. Lapselle tai nuorelle tarjottavat tehtävät tulee kuitenkin valita huolella, jotta ne vastaavat hänen osaamistasoaan, ja niistä suoriutuminen voi tarjota onnistumisen kokemuksia ja vahvistaa pystyvyyden tunnetta.</p>
-    <p>Erilaiset ruokaan ja ruokailuun liittyvät tehtävät ovat pienemmille lapsille myös oiva tilaisuus tutustua uusiin ruoka-aineisiin ja kerätä rohkeutta niiden maistamiseen; uuden ruoka-aineen käsittelyn myötä se voi olla jo aavistuksen lähempänä siirtyä suuhunkin asti. Erityisen antoisa tehtävä voi olla päivän ruokalistan suunnittelu siten, että suunniteltaviin ruokiin tulee sisällyttää joku uusi ruoka-aine. Ruokailuun liittyvillä tehtävillä voidaan edistää myös ruuan arvostusta ja opettaa ruokailutapoja. Muun muassa ruuan kaunis esille laittaminen lisää ruokaan liittyvää arvostusta ja tässä pienetkin lapset voivat olla mukana, vaikkapa taittelemassa oman näköisiä lautasliinamalleja ja lisäämässä aterimia oikeille paikoille.  Miten teillä edistetään yhdessä tekemistä ja ruokailoa?</p>
-    <p>
-      <em type="italic">Sopivassa suhteessa rajoja ja vapautta </em>
-    </p>
-    <p>Sanonta <span type="quote">”rajat ovat rakkautta”</span> pätee ruokakasvatuksessakin, mutta monessa kohdin parhaaseen lopputulokseen päästään luottamalla myös lapsen ja nuoren omaan harkintaan. Lapsen ja nuoren lähipiirin, vanhempien ja koulun tulee asettaa raamit ateriarytmin ja tarjottavien ruoka-aineiden suhteen. Tässä Suomalaiset ravitsemussuositukset , Kouluruokasuositus ja Varhaiskasvatuksen ruokasuositus tulevat avuksi. Konkreettisimpina esimerkkeinä toimivat ruokakolmio ja lautasmalli. Niiden viitoittamien suuntaviivojen sisällä on sitten hyvä antaa myös lapselle ja nuorelle mahdollisuus vaikuttaa tarjottavaan ja syötyyn ruokaan. Heidät voi ottaa mukaan vaikkapa ruokalistasuunnitteluun. Maistuisiko aamulla omena vai banaani? Tehtäisiinkö päivälliseksi kalakeittoa vai uunikalaa? Paistaisiko nuori iltapalaksi pinaatti- tai porkkanalettuja?</p>
-    <p>On myös tärkeää luottaa lapsen ja nuoren kykyyn säädellä aterioilla syömäänsä ruokamäärää. Lapset harvoin syövät reippaasti jokaisella aterialla, vaan toisinaan ruoka maistuu paremmin, toisinaan heikommin. Syömiseen liittyvä pakottaminen, palkkioilla houkuttelu tai ruuan määrän rajoittaminen voivat häiritä lapsen ja nuoren luontaista kykyä säädellä syömistään, mikä puolestaan voi johtaa painohuoliin tai jopa häiriintyneeseen syömiskäyttäytymiseen. Niiden ennaltaehkäisemiseksi merkityksellistä on myös se, mitä ja miten lapsille ja nuorille puhutaan kehosta – niin omasta kuin lapsen tai nuoren – jota ruualla ravitaan. Aikuiset ovat tärkeitä roolimalleja tässäkin suhteessa ja positiivinen kehonkuva tukee siten osaltaan tasapainoisia ruokailutottumuksia.</p>
-    <p>No entäs se karkkipäivä? Toisille se sopii paremmin ja toisille huonommin, niin lapsilla kuin aikuisillakin. Valitettavan usein käy kuitenkin niin, että kun oikein kieltää niin houkutus kiellettyä asiaa kohtaan kasvaa entisestään. Karkkipäivään saattaa kohdistua kovia paineita ja makeismäärät voivat kasvaa jopa suuremmiksi kuin jos karkkipäivää ei erikseen vietettäisi. Sokeristen tuotteiden rajoittaminen vain yhdelle päivälle viikossa saattaa lisäksi vääristää lasten ja nuorten suhtautumista tätä ruokaryhmää kohtaan, vaikka ajatus taustalla onkin hyvää tarkoittava. Kun sokeristen herkkujen syömiseen ei liitetä turhia jännitteitä, kasvaa lapsista ja nuorista todennäköisemmin neutraalisti herkkuihin suhtautuvia aikuisia. Siten myös silloin tällöin vietetyt herkkuhetket yhdistettynä säännölliseen ateriarytmiin ja täysipainoisiin aterioihin voivat tukea hyvää terveyttä. Jos perhe on kuitenkin todennut karkkipäivän toimivaksi omassa arjessaan, kannattaa lasten ja nuorten kanssa pohtia yhdessä mikä määrä on kohtuullista ja nautintoa tuottavaa. Maistuuko karkkipussin viimeinen karkki yhtä hyvälle kuin ensimmäinen?</p>
-    <p type="title" xml:lang="est">LUE LISÄÄ</p>
-    <p type="title">Kodin ja koulun ruokakasvatuksen top 5</p>
-    <p type="title">Ruokailutottumukset kehittyvät läpi elämän</p>
-    <p type="title">Ruokakasvatus varhaiskasvatuksessa ja perusopetuksessa</p>
-    <p type="title">Ruokaympäristö</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Yhdessä tekemistä ja ruokailoa</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>693</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruokakasvatus/yhdessa-tekemista-ja-ruokailoa/</origFileName><parallel_text xml:lang="sme" location="ovttas_dahkan_ja_borramusillu.html"/><parallel_text xml:lang="swe" location="samvaro_och_matgladje.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Yhdessä tekemistä ja ruokailoa</p>
+<p><em type="italic">Syödään yhdessä </em></p>
+<p>Yhdessä kotona lapsen ja nuoren kanssa nautittu ateria ei ole itsestäänselvyys nykyajan kiireisessä elämänrytmissä. Työ, koulutehtävät ja harrastukset vaativat aikansa, eivätkä kaikki perheenjäsenet välttämättä ole ruoka-aikoina paikalla johtuen vaikkapa vuorotyöstä. Yhdessä ateriointiin on kuitenkin hyvä panostaa mahdollisuuksien mukaan, sillä se rytmittää päivää ja antaa tilaisuuden rauhoittua ja tehdä yhdessä lujittaen siten perheenjäsenten välisiä suhteita ja yhteenkuuluvuuden tunnetta. Mitäpä jos joku perheenjäsenistä tekisi ehtiessään vaikka sämpylätaikinan valmiiksi ja toinen leipoisi ja paistaisi ne? Ja kaikki söisivät ne sitten iltapalalla yhdessä.</p>
+<p>Myös kouluissa tulisi suosia yhdessä oppilaiden kanssa syömistä. Yhdessä ruokailulla, ruokailun ilmapiirillä ja ruokapuheella on merkitystä lasten ja nuorten ruokailutottumusten kehittymisessä niin kotona kuin koulussa. Yhteinen ruokailu on tärkeää myös vanhemmille lapsille ja nuorille. Yhdessä ruokaileminen on myös välittämistä, ja se tuo lapselle ja nuorelle turvallisuuden tunnetta.</p>
+<p>Rento ja kannustava ilmapiiri edistää myönteistä suhtautumista ruokailuun. Siksi onkin hyvä miettiä jo valmiiksi erilaisia toimintamalleja myönteisen ruokailuilmapiirin luomiseksi. Yhdessä syöminen on myös mallioppimisen kautta erinomaista ohjausta täysipainoisen aterian kokoamiseen. Vanhemmat ja opettajat voivat näin omalla esimerkillään, ilman sanojakin, ohjata lapsen ja nuoren ruuanvalintaa ja syömistä.</p>
+<p><em type="italic">Tehdään yhdessä </em></p>
+<p>Yhteisten ruokailuhetkien lisäksi lasten ja nuorten osallistaminen ja vastuuttaminen ruokailuun liittyvään toimintaan voi vahvistaa heidän pystyvyyden tunnettaan ja lujittaa perheen ja kouluyhteisön yhteisöllisyyttä. Se voi olla esimerkiksi ruuanvalmistusta tai siinä avustamista, ruokalistasuunnittelua tai kauppaostoksiin osallistumista, koulussa puolestaan vaikkapa keittiön toimintaan tai ruuan reittiin pellolta pöytään tutustumista. Lapselle tai nuorelle tarjottavat tehtävät tulee kuitenkin valita huolella, jotta ne vastaavat hänen osaamistasoaan, ja niistä suoriutuminen voi tarjota onnistumisen kokemuksia ja vahvistaa pystyvyyden tunnetta.</p>
+<p>Erilaiset ruokaan ja ruokailuun liittyvät tehtävät ovat pienemmille lapsille myös oiva tilaisuus tutustua uusiin ruoka-aineisiin ja kerätä rohkeutta niiden maistamiseen; uuden ruoka-aineen käsittelyn myötä se voi olla jo aavistuksen lähempänä siirtyä suuhunkin asti. Erityisen antoisa tehtävä voi olla päivän ruokalistan suunnittelu siten, että suunniteltaviin ruokiin tulee sisällyttää joku uusi ruoka-aine. Ruokailuun liittyvillä tehtävillä voidaan edistää myös ruuan arvostusta ja opettaa ruokailutapoja. Muun muassa ruuan kaunis esille laittaminen lisää ruokaan liittyvää arvostusta ja tässä pienetkin lapset voivat olla mukana, vaikkapa taittelemassa oman näköisiä lautasliinamalleja ja lisäämässä aterimia oikeille paikoille.  Miten teillä edistetään yhdessä tekemistä ja ruokailoa?</p>
+<p><em type="italic">Sopivassa suhteessa rajoja ja vapautta </em></p>
+<p>Sanonta <span type="quote">”rajat ovat rakkautta”</span> pätee ruokakasvatuksessakin, mutta monessa kohdin parhaaseen lopputulokseen päästään luottamalla myös lapsen ja nuoren omaan harkintaan. Lapsen ja nuoren lähipiirin, vanhempien ja koulun tulee asettaa raamit ateriarytmin ja tarjottavien ruoka-aineiden suhteen. Tässä Suomalaiset ravitsemussuositukset , Kouluruokasuositus ja Varhaiskasvatuksen ruokasuositus tulevat avuksi. Konkreettisimpina esimerkkeinä toimivat ruokakolmio ja lautasmalli. Niiden viitoittamien suuntaviivojen sisällä on sitten hyvä antaa myös lapselle ja nuorelle mahdollisuus vaikuttaa tarjottavaan ja syötyyn ruokaan. Heidät voi ottaa mukaan vaikkapa ruokalistasuunnitteluun. Maistuisiko aamulla omena vai banaani? Tehtäisiinkö päivälliseksi kalakeittoa vai uunikalaa? Paistaisiko nuori iltapalaksi pinaatti- tai porkkanalettuja?</p>
+<p>On myös tärkeää luottaa lapsen ja nuoren kykyyn säädellä aterioilla syömäänsä ruokamäärää. Lapset harvoin syövät reippaasti jokaisella aterialla, vaan toisinaan ruoka maistuu paremmin, toisinaan heikommin. Syömiseen liittyvä pakottaminen, palkkioilla houkuttelu tai ruuan määrän rajoittaminen voivat häiritä lapsen ja nuoren luontaista kykyä säädellä syömistään, mikä puolestaan voi johtaa painohuoliin tai jopa häiriintyneeseen syömiskäyttäytymiseen. Niiden ennaltaehkäisemiseksi merkityksellistä on myös se, mitä ja miten lapsille ja nuorille puhutaan kehosta – niin omasta kuin lapsen tai nuoren – jota ruualla ravitaan. Aikuiset ovat tärkeitä roolimalleja tässäkin suhteessa ja positiivinen kehonkuva tukee siten osaltaan tasapainoisia ruokailutottumuksia.</p>
+<p>No entäs se karkkipäivä? Toisille se sopii paremmin ja toisille huonommin, niin lapsilla kuin aikuisillakin. Valitettavan usein käy kuitenkin niin, että kun oikein kieltää niin houkutus kiellettyä asiaa kohtaan kasvaa entisestään. Karkkipäivään saattaa kohdistua kovia paineita ja makeismäärät voivat kasvaa jopa suuremmiksi kuin jos karkkipäivää ei erikseen vietettäisi. Sokeristen tuotteiden rajoittaminen vain yhdelle päivälle viikossa saattaa lisäksi vääristää lasten ja nuorten suhtautumista tätä ruokaryhmää kohtaan, vaikka ajatus taustalla onkin hyvää tarkoittava. Kun sokeristen herkkujen syömiseen ei liitetä turhia jännitteitä, kasvaa lapsista ja nuorista todennäköisemmin neutraalisti herkkuihin suhtautuvia aikuisia. Siten myös silloin tällöin vietetyt herkkuhetket yhdistettynä säännölliseen ateriarytmiin ja täysipainoisiin aterioihin voivat tukea hyvää terveyttä. Jos perhe on kuitenkin todennut karkkipäivän toimivaksi omassa arjessaan, kannattaa lasten ja nuorten kanssa pohtia yhdessä mikä määrä on kohtuullista ja nautintoa tuottavaa. Maistuuko karkkipussin viimeinen karkki yhtä hyvälle kuin ensimmäinen?</p>
+<p type="title" xml:lang="est">LUE LISÄÄ</p>
+<p type="title">Kodin ja koulun ruokakasvatuksen top 5</p>
+<p type="title">Ruokailutottumukset kehittyvät läpi elämän</p>
+<p type="title">Ruokakasvatus varhaiskasvatuksessa ja perusopetuksessa</p>
+<p type="title">Ruokaympäristö</p>
+</body></document>

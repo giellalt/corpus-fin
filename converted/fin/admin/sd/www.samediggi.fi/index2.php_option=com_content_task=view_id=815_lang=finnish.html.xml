@@ -1,37 +1,14 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisopetuksen oppilasmäärä kasvaa</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>379</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=815&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=815_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=815_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisopetuksen oppilasmäärä kasvaa</p>
-    <p>Saamenkielisen ja saamen kielen opetuksen oppilasmäärä Suomen perusopetuksessa ja lukiossa kasvaa. Oppilasmäärä on lisääntynyt noin 170 oppilaalla lukuvuodesta 2005-2006. Kuluvana lukuvuonna kokonaisoppilasmäärä on 613, kun se syksyllä 2005 oli 444. Saamen kielen opetusta annetaan äidinkielen ja vieraan kielen oppiaineina kaikissa kolmessa saamen kielessä. Saamenkielistä opetusta järjestetään inarin- ja pohjoissaamen kielillä saamelaisten kotiseutualueella.</p>
-    <p>Kokonaisoppilasmäärä on kasvanut edellisestä lukuvuodesta yhteensä 59. Suurin nousu on tapahtunut saamen kielen aineopetuksessa (+70). Saamenkielistä opetusta saavien oppilaiden määrä sen sijaan on laskenut 11 oppilaalla. Inarinsaamenkielisen opetuksen oppilasmäärä on edellisen vuoden tasolla (15), koltansaamenkielinen opetus on muuttunut aineopetukseksi (-5) ja pohjoissaamenkielisen opetuksen oppilasmäärä laskenut kuudella. Oppilasennusteet osoittavat kuitenkin, että saamenkielinen opetus tulee lähivuosina lisääntymään saamenkielisen varhaiskasvatuksen vahvistaessa asemaansa. Saamenkielistä varhaiskasvatusta järjestetään saamenkielisissä päiväkodeissa tai päiväkotiryhmissä ja saamen kieliä elvyttävissä kielipesissä. Kielipesätoiminta on laajenemassa saamelaisten kotiseutualueelta muille alueille.</p>
-    <p>Valtaosa saamelaisopetuksesta annetaan saamelaisten kotiseutualueen kunnissa, jotka saavat tähän opetukseen erityisen korvamerkityn valtionavustuksen. Kotiseutualueen kunnissa saamenkielisessä ja saamen kielen opetuksessa on yhteensä 549 oppilasta. Lisäystä on yhteensä 33 oppilasta edelliseen kouluvuoteen verrattuna.</p>
-    <p>Inarin kunnan kouluissa saamen kielen ja saamenkielisessä opetuksessa on yhteensä 262 oppilasta, jossa lisäystä edelliseen vuoteen 22. Omien oppilaiden lisäksi Inarin kunnan opettajat antavat etäopetusta yhteensä kahdeksalle lukiolaiselle. Inarin kunnan saamelaisopetuksen oppilasmäärä on kasvanut tasaisesti vuodesta 2007 lähtien.</p>
-    <p>Utsjoen kunnan kouluissa  saamen kielen ja saamenkielistä opetusta annetaan yhteensä 124 oppilaalle, jossa lisäystä edelliseen vuoteen 16. Saamenkielisen opetuksen suhteellinen osuus on suurin Utsjoella. Saamenkielisen opetuksen osuus on vuosien mittaan kasvanut selvästi. Kuluvana lukuvuonna myös saamen kielen aineopetusta saavien oppilaiden määrä on kasvanut 18.</p>
-    <p>Enontekiön kunnan kouluissa saamen kielen ja saamenkielistä opetusta annetaan yhteensä 61 oppilaalle. Oppilasmäärä on pienentynyt edellisestä kouluvuodesta 15 oppilaalla. Myös Enontekiöltä ja Utsjoelta annetaan etäopetusta muualle maahan.</p>
-    <p>Sodankylän kunnan kouluissa pääpaino on saamen kielen aineopetuksessa, jota saa yhteensä 99 oppilasta. Oppilasmäärä on kasvanut edellisestä kouluvuodesta 10. Saamenkielistä perusopetusta annetaan kolmelle oppilaalle. Saamenkielisen opetuksen oppilasmäärän ennakoidaan kasvavan tulevina vuosina.</p>
-    <p>Saamelaisten kotiseutualueen kuntien ulkopuolella oppilasmäärä on suurin Oulun seudulla, jossa kielen aineopetusta annetaan yhteensä 15 perusopetuksen oppilaalle ja 13 lukiolaiselle. Rovaniemen kaupungin alueella saamen kielen opetusta saa yhteensä 12 perusopetuksen oppilasta ja kuusi lukiolaista. Helsingin seudulla saamen kielen opetuksessa on yhteensä 10 perusopetuksen oppilasta.</p>
-    <p>Koko maassa saamen kielen tai saamenkielistä perusopetusta saa yhteensä 542 oppilasta. Lukioiden yhteenlaskettu saamen kielen opiskelijamäärä on 71.</p>
-    <p>Saamelaiskäräjät seuraa ja raportoi saamelaisopetuksen kokonaisuudesta Suomessa.</p>
-    <p>Saamelaisopetuksen oppilastilastot ovat löydettävissä</p>
-    <p xml:lang="fkv">tästä.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisopetuksen oppilasmäärä kasvaa</title><genre code="admin"/><author><unknown/></author><wordcount>379</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=815&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=815_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=815_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisopetuksen oppilasmäärä kasvaa</p>
+<p>Saamenkielisen ja saamen kielen opetuksen oppilasmäärä Suomen perusopetuksessa ja lukiossa kasvaa. Oppilasmäärä on lisääntynyt noin 170 oppilaalla lukuvuodesta 2005-2006. Kuluvana lukuvuonna kokonaisoppilasmäärä on 613, kun se syksyllä 2005 oli 444. Saamen kielen opetusta annetaan äidinkielen ja vieraan kielen oppiaineina kaikissa kolmessa saamen kielessä. Saamenkielistä opetusta järjestetään inarin- ja pohjoissaamen kielillä saamelaisten kotiseutualueella.</p>
+<p>Kokonaisoppilasmäärä on kasvanut edellisestä lukuvuodesta yhteensä 59. Suurin nousu on tapahtunut saamen kielen aineopetuksessa (+70). Saamenkielistä opetusta saavien oppilaiden määrä sen sijaan on laskenut 11 oppilaalla. Inarinsaamenkielisen opetuksen oppilasmäärä on edellisen vuoden tasolla (15), koltansaamenkielinen opetus on muuttunut aineopetukseksi (-5) ja pohjoissaamenkielisen opetuksen oppilasmäärä laskenut kuudella. Oppilasennusteet osoittavat kuitenkin, että saamenkielinen opetus tulee lähivuosina lisääntymään saamenkielisen varhaiskasvatuksen vahvistaessa asemaansa. Saamenkielistä varhaiskasvatusta järjestetään saamenkielisissä päiväkodeissa tai päiväkotiryhmissä ja saamen kieliä elvyttävissä kielipesissä. Kielipesätoiminta on laajenemassa saamelaisten kotiseutualueelta muille alueille.</p>
+<p>Valtaosa saamelaisopetuksesta annetaan saamelaisten kotiseutualueen kunnissa, jotka saavat tähän opetukseen erityisen korvamerkityn valtionavustuksen. Kotiseutualueen kunnissa saamenkielisessä ja saamen kielen opetuksessa on yhteensä 549 oppilasta. Lisäystä on yhteensä 33 oppilasta edelliseen kouluvuoteen verrattuna.</p>
+<p>Inarin kunnan kouluissa saamen kielen ja saamenkielisessä opetuksessa on yhteensä 262 oppilasta, jossa lisäystä edelliseen vuoteen 22. Omien oppilaiden lisäksi Inarin kunnan opettajat antavat etäopetusta yhteensä kahdeksalle lukiolaiselle. Inarin kunnan saamelaisopetuksen oppilasmäärä on kasvanut tasaisesti vuodesta 2007 lähtien.</p>
+<p>Utsjoen kunnan kouluissa  saamen kielen ja saamenkielistä opetusta annetaan yhteensä 124 oppilaalle, jossa lisäystä edelliseen vuoteen 16. Saamenkielisen opetuksen suhteellinen osuus on suurin Utsjoella. Saamenkielisen opetuksen osuus on vuosien mittaan kasvanut selvästi. Kuluvana lukuvuonna myös saamen kielen aineopetusta saavien oppilaiden määrä on kasvanut 18.</p>
+<p>Enontekiön kunnan kouluissa saamen kielen ja saamenkielistä opetusta annetaan yhteensä 61 oppilaalle. Oppilasmäärä on pienentynyt edellisestä kouluvuodesta 15 oppilaalla. Myös Enontekiöltä ja Utsjoelta annetaan etäopetusta muualle maahan.</p>
+<p>Sodankylän kunnan kouluissa pääpaino on saamen kielen aineopetuksessa, jota saa yhteensä 99 oppilasta. Oppilasmäärä on kasvanut edellisestä kouluvuodesta 10. Saamenkielistä perusopetusta annetaan kolmelle oppilaalle. Saamenkielisen opetuksen oppilasmäärän ennakoidaan kasvavan tulevina vuosina.</p>
+<p>Saamelaisten kotiseutualueen kuntien ulkopuolella oppilasmäärä on suurin Oulun seudulla, jossa kielen aineopetusta annetaan yhteensä 15 perusopetuksen oppilaalle ja 13 lukiolaiselle. Rovaniemen kaupungin alueella saamen kielen opetusta saa yhteensä 12 perusopetuksen oppilasta ja kuusi lukiolaista. Helsingin seudulla saamen kielen opetuksessa on yhteensä 10 perusopetuksen oppilasta.</p>
+<p>Koko maassa saamen kielen tai saamenkielistä perusopetusta saa yhteensä 542 oppilasta. Lukioiden yhteenlaskettu saamen kielen opiskelijamäärä on 71.</p>
+<p>Saamelaiskäräjät seuraa ja raportoi saamelaisopetuksen kokonaisuudesta Suomessa.</p>
+<p>Saamelaisopetuksen oppilastilastot ovat löydettävissä</p>
+<p xml:lang="fkv">tästä.</p>
+</body></document>

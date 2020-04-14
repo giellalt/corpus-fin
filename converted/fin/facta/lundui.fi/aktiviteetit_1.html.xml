@@ -1,274 +1,235 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Saariselän alueen aktiviteetit - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1059</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/saariselka/aktiviteetit</origFileName>
-    <parallel_text xml:lang="eng" location="activities_1.html"/>
-    <parallel_text xml:lang="sme" location="aktivitehtat_10.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Saariselkä</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Alkkianvuori</p>
-      <p type="listitem">Aulanko</p>
-      <p type="listitem">Auttiköngäs</p>
-      <p type="listitem">Elimyssalo</p>
-      <p type="listitem">Espoonlahti</p>
-      <p type="listitem">Etelä-Sydänmaa</p>
-      <p type="listitem">Hailuoto</p>
-      <p type="listitem">Harola</p>
-      <p type="listitem">Hepoköngäs</p>
-      <p type="listitem">Herankaira</p>
-      <p type="listitem">Hetta</p>
-      <p type="listitem">Hirvisuo</p>
-      <p type="listitem">Hämeenkangas</p>
-      <p type="listitem">Iivaara</p>
-      <p type="listitem">Ilmakkiaapa</p>
-      <p type="listitem">Iso-Palonen - Maariansärkät</p>
-      <p type="listitem">Jauhovaara</p>
-      <p type="listitem">Jonkerinsalo</p>
-      <p type="listitem">Jouhteninen</p>
-      <p type="listitem">Julma-Ölkky</p>
-      <p type="listitem">Julunkivi</p>
-      <p type="listitem">Juortanansalo-Lapinsuo</p>
-      <p type="listitem">Jämäsvaara</p>
-      <p type="listitem">Järvisen aihkikko</p>
-      <p type="listitem">Kaihuanvaara ja Kivalot</p>
-      <p type="listitem">Kakonsalo</p>
-      <p type="listitem">Karkali</p>
-      <p type="listitem">Karoliinanportaat</p>
-      <p type="listitem">Kermajärvi</p>
-      <p type="listitem">Kevo</p>
-      <p type="listitem">Kieverrysjärvet</p>
-      <p type="listitem">Kilpelänkangas</p>
-      <p type="listitem">Koitajoki</p>
-      <p type="listitem">Kolvananuuro</p>
-      <p type="listitem">Komio</p>
-      <p type="listitem">Korouoma</p>
-      <p type="listitem">Koskeljärvi</p>
-      <p type="listitem">Kulhanvuori</p>
-      <p type="listitem">Kurimonkoski</p>
-      <p type="listitem">Laahtanen</p>
-      <p type="listitem">Laajalahti</p>
-      <p type="listitem">Langinkoski</p>
-      <p type="listitem">Lauttavaara</p>
-      <p type="listitem">Lenholm</p>
-      <p type="listitem">Lentua</p>
-      <p type="listitem">Levaneva</p>
-      <p type="listitem">Liimanninkoski</p>
-      <p type="listitem">Liminganlahti</p>
-      <p type="listitem">Litokaira</p>
-      <p type="listitem">Luiron suot</p>
-      <p type="listitem">Malla</p>
-      <p type="listitem">Martimoaapa</p>
-      <p type="listitem">Martinselkonen</p>
-      <p type="listitem">Medvastö-Stormossen</p>
-      <p type="listitem">Melkuttimet</p>
-      <p type="listitem">Miekojärvi</p>
-      <p type="listitem">Mietoistenlahti</p>
-      <p type="listitem">Mujejärvi</p>
-      <p type="listitem">Murhisalo</p>
-      <p type="listitem">Mustasaarenkeidas</p>
-      <p type="listitem">Neitvuori-Luonteri</p>
-      <p type="listitem">Nellim</p>
-      <p type="listitem">Näränkä</p>
-      <p type="listitem">Olvassuo</p>
-      <p type="listitem">Omenojärvi</p>
-      <p type="listitem">Otajärvi</p>
-      <p type="listitem">Paistjärvi</p>
-      <p type="listitem">Paljakka</p>
-      <p type="listitem">Paukaneva</p>
-      <p type="listitem">Perämeren saaret</p>
-      <p type="listitem">Peurajärvi</p>
-      <p type="listitem">Pieni Ritojärvi</p>
-      <p type="listitem">Pihlajavesi</p>
-      <p type="listitem">Pinkjärvi</p>
-      <p type="listitem">Pirunkirkko</p>
-      <p type="listitem">Pisa</p>
-      <p type="listitem">Pukala</p>
-      <p type="listitem">Punkaharju</p>
-      <p type="listitem">Puula ja Kyyvesi</p>
-      <p type="listitem">Pääjärvi</p>
-      <p type="listitem">Raesärkät</p>
-      <p type="listitem">Rahja</p>
-      <p type="listitem">Reposuo</p>
-      <p type="listitem">Riuttaskorpi</p>
-      <p type="listitem">Ruostejärvi</p>
-      <p type="listitem">Ruunaan luonnonsuojelualue</p>
-      <p type="listitem">Ryövärinkuoppa</p>
-      <p type="listitem">Saaren kansanpuisto</p>
-      <p type="listitem">Saarijärvi, Hyrynsalmi</p>
-      <p type="listitem">Saarijärvi, Puolanka</p>
-      <p type="listitem">Saariselkä</p>
-      <p type="listitem">Sallatunturi</p>
-      <p type="listitem">Saltfjärden</p>
-      <p type="listitem">Sevettijärvi-Näätämö</p>
-      <p type="listitem">Siikalahti</p>
-      <p type="listitem">Siikaneva</p>
-      <p type="listitem">Siikavaara</p>
-      <p type="listitem">Simojärvi ja Soppana</p>
-      <p type="listitem">Simpsiö</p>
-      <p type="listitem">Sininen polku</p>
-      <p type="listitem">Soiperoinen</p>
-      <p type="listitem">Sompio</p>
-      <p type="listitem">Suvasvesi</p>
-      <p type="listitem">Syväjärvi</p>
-      <p type="listitem">Säynäjäsuo-Matalasuo</p>
-      <p type="listitem">Talaskangas</p>
-      <p type="listitem">Teerisuo-Lososuo</p>
-      <p type="listitem">Telkkämäki</p>
-      <p type="listitem">Teuravuoma-Kivijärvenvuoma</p>
-      <p type="listitem">Tiilitehtaanmäki-Pohjoislahti</p>
-      <p type="listitem">Täktomin merenlahdet</p>
-      <p type="listitem">Uddskatan</p>
-      <p type="listitem">Ukkohalla-Vorlokki</p>
-      <p type="listitem">Ukonsärkkä</p>
-      <p type="listitem">Unarinköngäs</p>
-      <p type="listitem">Utsjoki</p>
-      <p type="listitem">Vaarunvuoret</p>
-      <p type="listitem">Vaisakko</p>
-      <p type="listitem">Valtavaara-Pyhävaara</p>
-      <p type="listitem">Vehoniemenharju</p>
-      <p type="listitem">Viiankiaapa</p>
-      <p type="listitem">Ystävyyden puisto</p>
-      <p type="listitem">Älänne</p>
-      <p type="listitem">Änäkäinen</p>
-      <p type="listitem">Öjen</p>
-    </list>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p>Saariselän sivut</p>
-    <p type="title">Saariselkä</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Saariselän alueen aktiviteetit</p>
-    <p type="title">Mitä Saariselän alueella voi tehdä?</p>
-    <p type="title">Kävellä merkityllä reitillä</p>
-    <p>Saariselän lähialueella on noin 200 km merkittyjä retkeilyreittejä ja luontopolkuja päiväretkeilyyn. Reitit ovat vaikeusasteeltaan eritasoisia. Osa reiteistä ja poluista on Urho Kekkosen kansallispuistossa, osa kansallispuiston ulkopuolella. Polut ja reitit on merkitty maastoon ja retkeilykarttoihin. Talviaikaan voi kävellä merkityllä talvikävelyreitillä välillä Siula-talo - Laanila.</p>
-    <p type="title">Tehdä erävaelluksia kävellen</p>
-    <p>Saariselän alue soveltuu hyvin myös pitkien, yöpymistä vaativien vaellusten aloituspaikaksi. Kiilopää ja Saariselkä ovat keskeisiä aloituspaikkoja lähdettäessä pidemmille retkille Urho Kekkosen kansallispuistoon merkittyjen reittien ulkopuolelle kartan ja kompassin kanssa. Sompion luonnonpuistoon voi tehdä vaelluksen Ruijanpolkua pitkin. Saariselältä on lyhyt matka myös Hammastunturin erämaa-alueelle.</p>
-    <p type="title">Hiihtää huolletulla ladulla</p>
-    <p>Talviaikaan Saariselän alueella on parhaimmillaan noin 250 km huollettuja latu-uria. Pääosa laduista soveltuu sekä luistelu- että perinteiseen hiihtoon. Pelkästään perinteiseen hiihtoon soveltuvat luontoladut. Valaistuja latuja on 34 km. Huolletuilla laduilla pääsee kokemaan hiihtoelämyksiä upeaan tunturimaastoon, mäntymetsiin ja jokien varsille. Ladut vaihtelevat helposta vaativaan. Laduista on oma karttansa (www.saariselka.fi), johon vaikeusasteet on merkitty väritunnuksin.</p>
-    <p type="title">Hiihtää koiran kanssa</p>
-    <p>Saariselän koiralatu lähtee Ski Saariselän ala-asemalta kulkien Luttotuvan kautta Kuukkelilammelle, Palopään yli Palo-ojalle ja sieltä takaisin laskettelurinteiden ala-asemalle. Palo-oja – Kaunispään huippu ei  sisälly koiralatuun. Ski Saariselän ala-asemalla on paikoitusalue ja kahvila. Koiraladun pituus on n. 20 km.</p>
-    <p>Ko. ladulla saa hiihtää koirien kanssa tai ilman. Koiradulla koirat on pidettävä kytkettynä ja jätökset kerättävä. Ladun varrella ei ole erillisiä roskapönttöjä, kt.</p>
-    <p>roskaton retkeily.</p>
-    <p type="title">Tehdä erävaelluksia hiihtäen</p>
-    <p>Saariselän alue on keskeinen vaelluksen aloituspaikka pitkille ja vaativille hiihtovaelluksille Urho Kekkosen kansallispuistoon sekä Hammastunturi erämaa-alueelle. Pitkille, yöpymistä vaativille hiihtovaelluksille on varauduttava huolellisesti, koska silloin liikutaan huolletun latuverkoston ulkopuolella kartan ja kompassin avulla. Latuverkoston ulkopuolella liikuttaessa tarvitaan leveämmät maastosukset, joilla voi hiihtää umpihangessa.</p>
-    <p type="title">Tarkkailla lintuja</p>
-    <p>Saariselän alueella on hyvät mahdollisuudet niin metsä- kuin tunturilintujenkin näkemiseen. Puuttoman avotunturin lajit voivat tosin olla arkoja, mutta hyvällä onnella voi nähdä vaikkapa kiirunan, pulmusen tai keräkurmitsan. Alempana tunturikoivikossa voi kuulla sinirinnan monivivahteista laulua tai nähdä riekon nousevan siivilleen.</p>
-    <p>Lintuja voi lähteä tarkkailemaan vaikkapa alueen luontopolkuja pitkin. Tankavaaran luontokeskuksessa , 30 km Saariselän matkailukeskuksesta etelään, on petolinnuista kertova näyttely, joka perehdyttää alueella tavattaviin petolintuihin ja niiden elintapoihin.</p>
-    <p type="title">Katsella nähtävyyksiä ja näköaloja</p>
-    <p>Saariselältä löytyy paljon mielenkiintoista nähtävää: luonnonnähtävyyksiä ja näköaloja. Hieno näköala avautuu mm. Kaunispään laelta. Alueen kultahistoriaan voi tutustua Laanilan Kultareitillä ja eräretkeily vanhoine kämppineen kiinnostavat monia kävijöitä.</p>
-    <p type="title">Tutustua asiakaspalvelupisteeseen</p>
-    <p>Saariselän alueella liikkuva saa lisätietoja pohjoisen luonnosta ja retkeilymahdollisuuksista Metsähallituksen Saariselän palvelupiste Kiehisestä Saariselän Siula-talossa, joka on myös luvanmyyntipiste. Palvelupiste Kiehisessä toimii myös Saariselän matkailuneuvonta, josta saa tietoa alueen monipuolisista matkailupalveluista.</p>
-    <p type="title">Tutustua luontopolkuihin</p>
-    <p>Alueella on luontopolkuja, joiden varrella kerrotaan opastustauluin eri luontokohteista. Luontopolut johdattavat kulkijansa Urho Kekkosen kansallispuistoon. Saariselän (2 ja 6 km) ja Kiilopään (1, 3 ja 6 km) luontopolut kulkevat tunturimaastossa.</p>
-    <p type="title">Kalastaa</p>
-    <p>Saariselän lähialueen vesistöihin myydään seuraavia Metsähallituksen vapalupia:</p>
-    <list>
-      <p type="listitem">UK-puiston kalastusalueelle nro 1563 (www.eraluvat.fi) myydään kolmen tunnin, vuorokauden, viikon sekä koko kauden kattavia lupia. Alueellisen luvan lisäksi kalastajalla pitää olla kalastonhoitomaksu (www.eraluvat.fi) suoritettuna.</p>
-      <p type="listitem">Inarin kalastusalueelle nro 1564 (www.eraluvat.fi) myydään kolmen tunnin, vuorokauden, viikon sekä koko kauden kattavia lupia. Alueellisen luvan lisäksi kalastajalla pitää olla kalastonhoitomaksu (www.eraluvat.fi) suoritettuna.</p>
-      <p type="listitem">Ivalojoen kalastusalueelle nro 1567 (www.eraluvat.fi) myydään kolmen tunnin, vuorokauden, viikon sekä koko kauden kattavia lupia. Alueellisen luvan lisäksi kalastajalla pitää olla kalastonhoitomaksu (www.eraluvat.fi) suoritettuna.</p>
-      <p type="listitem">Onkiminen ja pilkkiminen ovat maksuttomia yleiskalastusoikeuksia eli jokamiehenoikeuksia (www.ymparisto.fi). Niitä ei kuitenkaan saa harjoittaa lohi- ja siikapitoisten vesistöjen koski- ja virtapaikoissa tai muilla vesialueilla, joissa kalastuslainsäädännön tai sen perusteella annettujen määräysten mukaan kalastaminen on kielletty.</p>
-      <p type="listitem">Kalastuslupia voi ostaa Metsähallituksen erälupien verkkokaupasta (www.eräluvat.fi), Saariselän palvelupiste Kiehisestä tai Tankavaaran luontokeskuksesta joista saat myös lisätietoja kalastuksesta, kalastusalueista ja lupakäytännöistä.</p>
-    </list>
-    <p type="title">Pyöräillä</p>
-    <p>Saariselän alueella on useita eri mittaisia pyöräilyreittejä. Pyöräilemään voi lähteä Saariselän matkailukeskuksesta, Laanilasta, Kakslauttasesta tai Kiilopäältä. Pyöräilyreitit on merkitty Saariselkä - Kiilopää kesäreittikarttaan (www.saariselka.fi).</p>
-    <p type="title">Osallistua ryhmäopastukseen luontokeskuksissa ja maastossa</p>
-    <p>Tankavaaran luontokeskus tarjoaa opastusta eri vuodenaikoina niin sisällä kuin ulkonakin. Tarjolla on erilaisia, eri kohderyhmille suunnattuja opastuspaketteja, joista voi koota ryhmälleen sopivan ohjelman. Opastukset toivotaan tilattavan etukäteen.</p>
-    <p type="title">Metsästää</p>
-    <p>Urho Kekkosen kansallispuistossa voivat metsästää vain paikalliset asukkaat oman kuntansa alueella. Saariselän lähellä on pienriistan metsästysalueita mm. Lokka - Porttipahta (nro 3615) ja Kuttura (nro 1611), joihin metsästysluvan voi ostaa Metsähallituksen erälupien verkkokaupasta (www.eräluvat.fi), Saariselän palvelupiste Kiehisestä tai Ivalon palvelupisteestä.</p>
-    <p type="title">Marjastaa ja sienestää</p>
-    <p>Saariselän alueella on mahdollisuus marjastaa ja sienestää. Marjastus ja sienestys ovat sallittuja myös Urho Kekkosen kansallispuistossa. Sompion luonnonpuistossa saavat marjastaa ja sienestää vain paikalliset asukkaat. Hillaa eli lakkaa voi kerätä suoalueilta jo heinäkuun loppupuolella. Seuraavaksi kypsyvät mustikka ja variksenmarja. Puolukka on parhaimmillaan syyskuussa ja karpalo vasta syyskuun lopulla ensimmäisten hallaöiden jälkeen. Sateisina syksyinä sienisato on runsas ja sienistä saa helposti vaihtelua retkiruokaan.</p>
-    <p type="title">Uida</p>
-    <p>Saariselän alueen vesistöissä on mahdollisuus uida. Vesistöt ja rannat ovat luonnontilaisia, eikä virallisia uimarantoja ole.</p>
-    <p type="title">Liikkua lumikengillä</p>
-    <p>Saariselän alueella on hyvät mahdollisuudet lumikenkäilyyn. Lumikenkäillä voi vapaasti umpihangessa tai siihen tarkoitukseen merkityillä luontopoluilla Saariselällä ja Kiilopäällä.</p>
-    <p type="title">Ajaa moottorikelkalla</p>
-    <p>Saariselän alueella on Metsähallituksen ja kuntien ylläpitämiä moottorikelkkauria ja -reittejä. Metsähallituksen ylläpitämille urille tulee ulkopaikkakuntalaisen aina lunastaa maksullinen uralupa. Kuntien ylläpitämille reiteille ei maksullista lupaa tarvita. Lisätietoja moottorikelkkailusta saa mm. Saariselän palvelupiste Kiehisestä .</p>
-    <list>
-      <p type="listitem">Urho Kekkosen kansallispuiston kalastuslupa</p>
-      <p type="listitem">Inarin erämaan kalastuslupa</p>
-      <p type="listitem">Ivalojoen kalastuslupa</p>
-      <p type="listitem">Lokka-Porttipahdan pienriistalupa</p>
-      <p type="listitem">Kutturan pienriistalupa</p>
-    </list>
-    <p type="title">Kalastonhoitomaksu 2016</p>
-    <p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Saariselän alueen aktiviteetit - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>1059</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/saariselka/aktiviteetit</origFileName><parallel_text xml:lang="eng" location="activities_1.html"/><parallel_text xml:lang="sme" location="aktivitehtat_10.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Saariselkä</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Alkkianvuori</p>
+<p type="listitem">Aulanko</p>
+<p type="listitem">Auttiköngäs</p>
+<p type="listitem">Elimyssalo</p>
+<p type="listitem">Espoonlahti</p>
+<p type="listitem">Etelä-Sydänmaa</p>
+<p type="listitem">Hailuoto</p>
+<p type="listitem">Harola</p>
+<p type="listitem">Hepoköngäs</p>
+<p type="listitem">Herankaira</p>
+<p type="listitem">Hetta</p>
+<p type="listitem">Hirvisuo</p>
+<p type="listitem">Hämeenkangas</p>
+<p type="listitem">Iivaara</p>
+<p type="listitem">Ilmakkiaapa</p>
+<p type="listitem">Iso-Palonen - Maariansärkät</p>
+<p type="listitem">Jauhovaara</p>
+<p type="listitem">Jonkerinsalo</p>
+<p type="listitem">Jouhteninen</p>
+<p type="listitem">Julma-Ölkky</p>
+<p type="listitem">Julunkivi</p>
+<p type="listitem">Juortanansalo-Lapinsuo</p>
+<p type="listitem">Jämäsvaara</p>
+<p type="listitem">Järvisen aihkikko</p>
+<p type="listitem">Kaihuanvaara ja Kivalot</p>
+<p type="listitem">Kakonsalo</p>
+<p type="listitem">Karkali</p>
+<p type="listitem">Karoliinanportaat</p>
+<p type="listitem">Kermajärvi</p>
+<p type="listitem">Kevo</p>
+<p type="listitem">Kieverrysjärvet</p>
+<p type="listitem">Kilpelänkangas</p>
+<p type="listitem">Koitajoki</p>
+<p type="listitem">Kolvananuuro</p>
+<p type="listitem">Komio</p>
+<p type="listitem">Korouoma</p>
+<p type="listitem">Koskeljärvi</p>
+<p type="listitem">Kulhanvuori</p>
+<p type="listitem">Kurimonkoski</p>
+<p type="listitem">Laahtanen</p>
+<p type="listitem">Laajalahti</p>
+<p type="listitem">Langinkoski</p>
+<p type="listitem">Lauttavaara</p>
+<p type="listitem">Lenholm</p>
+<p type="listitem">Lentua</p>
+<p type="listitem">Levaneva</p>
+<p type="listitem">Liimanninkoski</p>
+<p type="listitem">Liminganlahti</p>
+<p type="listitem">Litokaira</p>
+<p type="listitem">Luiron suot</p>
+<p type="listitem">Malla</p>
+<p type="listitem">Martimoaapa</p>
+<p type="listitem">Martinselkonen</p>
+<p type="listitem">Medvastö-Stormossen</p>
+<p type="listitem">Melkuttimet</p>
+<p type="listitem">Miekojärvi</p>
+<p type="listitem">Mietoistenlahti</p>
+<p type="listitem">Mujejärvi</p>
+<p type="listitem">Murhisalo</p>
+<p type="listitem">Mustasaarenkeidas</p>
+<p type="listitem">Neitvuori-Luonteri</p>
+<p type="listitem">Nellim</p>
+<p type="listitem">Näränkä</p>
+<p type="listitem">Olvassuo</p>
+<p type="listitem">Omenojärvi</p>
+<p type="listitem">Otajärvi</p>
+<p type="listitem">Paistjärvi</p>
+<p type="listitem">Paljakka</p>
+<p type="listitem">Paukaneva</p>
+<p type="listitem">Perämeren saaret</p>
+<p type="listitem">Peurajärvi</p>
+<p type="listitem">Pieni Ritojärvi</p>
+<p type="listitem">Pihlajavesi</p>
+<p type="listitem">Pinkjärvi</p>
+<p type="listitem">Pirunkirkko</p>
+<p type="listitem">Pisa</p>
+<p type="listitem">Pukala</p>
+<p type="listitem">Punkaharju</p>
+<p type="listitem">Puula ja Kyyvesi</p>
+<p type="listitem">Pääjärvi</p>
+<p type="listitem">Raesärkät</p>
+<p type="listitem">Rahja</p>
+<p type="listitem">Reposuo</p>
+<p type="listitem">Riuttaskorpi</p>
+<p type="listitem">Ruostejärvi</p>
+<p type="listitem">Ruunaan luonnonsuojelualue</p>
+<p type="listitem">Ryövärinkuoppa</p>
+<p type="listitem">Saaren kansanpuisto</p>
+<p type="listitem">Saarijärvi, Hyrynsalmi</p>
+<p type="listitem">Saarijärvi, Puolanka</p>
+<p type="listitem">Saariselkä</p>
+<p type="listitem">Sallatunturi</p>
+<p type="listitem">Saltfjärden</p>
+<p type="listitem">Sevettijärvi-Näätämö</p>
+<p type="listitem">Siikalahti</p>
+<p type="listitem">Siikaneva</p>
+<p type="listitem">Siikavaara</p>
+<p type="listitem">Simojärvi ja Soppana</p>
+<p type="listitem">Simpsiö</p>
+<p type="listitem">Sininen polku</p>
+<p type="listitem">Soiperoinen</p>
+<p type="listitem">Sompio</p>
+<p type="listitem">Suvasvesi</p>
+<p type="listitem">Syväjärvi</p>
+<p type="listitem">Säynäjäsuo-Matalasuo</p>
+<p type="listitem">Talaskangas</p>
+<p type="listitem">Teerisuo-Lososuo</p>
+<p type="listitem">Telkkämäki</p>
+<p type="listitem">Teuravuoma-Kivijärvenvuoma</p>
+<p type="listitem">Tiilitehtaanmäki-Pohjoislahti</p>
+<p type="listitem">Täktomin merenlahdet</p>
+<p type="listitem">Uddskatan</p>
+<p type="listitem">Ukkohalla-Vorlokki</p>
+<p type="listitem">Ukonsärkkä</p>
+<p type="listitem">Unarinköngäs</p>
+<p type="listitem">Utsjoki</p>
+<p type="listitem">Vaarunvuoret</p>
+<p type="listitem">Vaisakko</p>
+<p type="listitem">Valtavaara-Pyhävaara</p>
+<p type="listitem">Vehoniemenharju</p>
+<p type="listitem">Viiankiaapa</p>
+<p type="listitem">Ystävyyden puisto</p>
+<p type="listitem">Älänne</p>
+<p type="listitem">Änäkäinen</p>
+<p type="listitem">Öjen</p>
+</list><list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p>Saariselän sivut</p>
+<p type="title">Saariselkä</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Saariselän alueen aktiviteetit</p>
+<p type="title">Mitä Saariselän alueella voi tehdä?</p>
+<p type="title">Kävellä merkityllä reitillä</p>
+<p>Saariselän lähialueella on noin 200 km merkittyjä retkeilyreittejä ja luontopolkuja päiväretkeilyyn. Reitit ovat vaikeusasteeltaan eritasoisia. Osa reiteistä ja poluista on Urho Kekkosen kansallispuistossa, osa kansallispuiston ulkopuolella. Polut ja reitit on merkitty maastoon ja retkeilykarttoihin. Talviaikaan voi kävellä merkityllä talvikävelyreitillä välillä Siula-talo - Laanila.</p>
+<p type="title">Tehdä erävaelluksia kävellen</p>
+<p>Saariselän alue soveltuu hyvin myös pitkien, yöpymistä vaativien vaellusten aloituspaikaksi. Kiilopää ja Saariselkä ovat keskeisiä aloituspaikkoja lähdettäessä pidemmille retkille Urho Kekkosen kansallispuistoon merkittyjen reittien ulkopuolelle kartan ja kompassin kanssa. Sompion luonnonpuistoon voi tehdä vaelluksen Ruijanpolkua pitkin. Saariselältä on lyhyt matka myös Hammastunturin erämaa-alueelle.</p>
+<p type="title">Hiihtää huolletulla ladulla</p>
+<p>Talviaikaan Saariselän alueella on parhaimmillaan noin 250 km huollettuja latu-uria. Pääosa laduista soveltuu sekä luistelu- että perinteiseen hiihtoon. Pelkästään perinteiseen hiihtoon soveltuvat luontoladut. Valaistuja latuja on 34 km. Huolletuilla laduilla pääsee kokemaan hiihtoelämyksiä upeaan tunturimaastoon, mäntymetsiin ja jokien varsille. Ladut vaihtelevat helposta vaativaan. Laduista on oma karttansa (www.saariselka.fi), johon vaikeusasteet on merkitty väritunnuksin.</p>
+<p type="title">Hiihtää koiran kanssa</p>
+<p>Saariselän koiralatu lähtee Ski Saariselän ala-asemalta kulkien Luttotuvan kautta Kuukkelilammelle, Palopään yli Palo-ojalle ja sieltä takaisin laskettelurinteiden ala-asemalle. Palo-oja – Kaunispään huippu ei  sisälly koiralatuun. Ski Saariselän ala-asemalla on paikoitusalue ja kahvila. Koiraladun pituus on n. 20 km.</p>
+<p>Ko. ladulla saa hiihtää koirien kanssa tai ilman. Koiradulla koirat on pidettävä kytkettynä ja jätökset kerättävä. Ladun varrella ei ole erillisiä roskapönttöjä, kt.</p>
+<p>roskaton retkeily.</p>
+<p type="title">Tehdä erävaelluksia hiihtäen</p>
+<p>Saariselän alue on keskeinen vaelluksen aloituspaikka pitkille ja vaativille hiihtovaelluksille Urho Kekkosen kansallispuistoon sekä Hammastunturi erämaa-alueelle. Pitkille, yöpymistä vaativille hiihtovaelluksille on varauduttava huolellisesti, koska silloin liikutaan huolletun latuverkoston ulkopuolella kartan ja kompassin avulla. Latuverkoston ulkopuolella liikuttaessa tarvitaan leveämmät maastosukset, joilla voi hiihtää umpihangessa.</p>
+<p type="title">Tarkkailla lintuja</p>
+<p>Saariselän alueella on hyvät mahdollisuudet niin metsä- kuin tunturilintujenkin näkemiseen. Puuttoman avotunturin lajit voivat tosin olla arkoja, mutta hyvällä onnella voi nähdä vaikkapa kiirunan, pulmusen tai keräkurmitsan. Alempana tunturikoivikossa voi kuulla sinirinnan monivivahteista laulua tai nähdä riekon nousevan siivilleen.</p>
+<p>Lintuja voi lähteä tarkkailemaan vaikkapa alueen luontopolkuja pitkin. Tankavaaran luontokeskuksessa , 30 km Saariselän matkailukeskuksesta etelään, on petolinnuista kertova näyttely, joka perehdyttää alueella tavattaviin petolintuihin ja niiden elintapoihin.</p>
+<p type="title">Katsella nähtävyyksiä ja näköaloja</p>
+<p>Saariselältä löytyy paljon mielenkiintoista nähtävää: luonnonnähtävyyksiä ja näköaloja. Hieno näköala avautuu mm. Kaunispään laelta. Alueen kultahistoriaan voi tutustua Laanilan Kultareitillä ja eräretkeily vanhoine kämppineen kiinnostavat monia kävijöitä.</p>
+<p type="title">Tutustua asiakaspalvelupisteeseen</p>
+<p>Saariselän alueella liikkuva saa lisätietoja pohjoisen luonnosta ja retkeilymahdollisuuksista Metsähallituksen Saariselän palvelupiste Kiehisestä Saariselän Siula-talossa, joka on myös luvanmyyntipiste. Palvelupiste Kiehisessä toimii myös Saariselän matkailuneuvonta, josta saa tietoa alueen monipuolisista matkailupalveluista.</p>
+<p type="title">Tutustua luontopolkuihin</p>
+<p>Alueella on luontopolkuja, joiden varrella kerrotaan opastustauluin eri luontokohteista. Luontopolut johdattavat kulkijansa Urho Kekkosen kansallispuistoon. Saariselän (2 ja 6 km) ja Kiilopään (1, 3 ja 6 km) luontopolut kulkevat tunturimaastossa.</p>
+<p type="title">Kalastaa</p>
+<p>Saariselän lähialueen vesistöihin myydään seuraavia Metsähallituksen vapalupia:</p>
+<list><p type="listitem">UK-puiston kalastusalueelle nro 1563 (www.eraluvat.fi) myydään kolmen tunnin, vuorokauden, viikon sekä koko kauden kattavia lupia. Alueellisen luvan lisäksi kalastajalla pitää olla kalastonhoitomaksu (www.eraluvat.fi) suoritettuna.</p>
+<p type="listitem">Inarin kalastusalueelle nro 1564 (www.eraluvat.fi) myydään kolmen tunnin, vuorokauden, viikon sekä koko kauden kattavia lupia. Alueellisen luvan lisäksi kalastajalla pitää olla kalastonhoitomaksu (www.eraluvat.fi) suoritettuna.</p>
+<p type="listitem">Ivalojoen kalastusalueelle nro 1567 (www.eraluvat.fi) myydään kolmen tunnin, vuorokauden, viikon sekä koko kauden kattavia lupia. Alueellisen luvan lisäksi kalastajalla pitää olla kalastonhoitomaksu (www.eraluvat.fi) suoritettuna.</p>
+<p type="listitem">Onkiminen ja pilkkiminen ovat maksuttomia yleiskalastusoikeuksia eli jokamiehenoikeuksia (www.ymparisto.fi). Niitä ei kuitenkaan saa harjoittaa lohi- ja siikapitoisten vesistöjen koski- ja virtapaikoissa tai muilla vesialueilla, joissa kalastuslainsäädännön tai sen perusteella annettujen määräysten mukaan kalastaminen on kielletty.</p>
+<p type="listitem">Kalastuslupia voi ostaa Metsähallituksen erälupien verkkokaupasta (www.eräluvat.fi), Saariselän palvelupiste Kiehisestä tai Tankavaaran luontokeskuksesta joista saat myös lisätietoja kalastuksesta, kalastusalueista ja lupakäytännöistä.</p>
+</list><p type="title">Pyöräillä</p>
+<p>Saariselän alueella on useita eri mittaisia pyöräilyreittejä. Pyöräilemään voi lähteä Saariselän matkailukeskuksesta, Laanilasta, Kakslauttasesta tai Kiilopäältä. Pyöräilyreitit on merkitty Saariselkä - Kiilopää kesäreittikarttaan (www.saariselka.fi).</p>
+<p type="title">Osallistua ryhmäopastukseen luontokeskuksissa ja maastossa</p>
+<p>Tankavaaran luontokeskus tarjoaa opastusta eri vuodenaikoina niin sisällä kuin ulkonakin. Tarjolla on erilaisia, eri kohderyhmille suunnattuja opastuspaketteja, joista voi koota ryhmälleen sopivan ohjelman. Opastukset toivotaan tilattavan etukäteen.</p>
+<p type="title">Metsästää</p>
+<p>Urho Kekkosen kansallispuistossa voivat metsästää vain paikalliset asukkaat oman kuntansa alueella. Saariselän lähellä on pienriistan metsästysalueita mm. Lokka - Porttipahta (nro 3615) ja Kuttura (nro 1611), joihin metsästysluvan voi ostaa Metsähallituksen erälupien verkkokaupasta (www.eräluvat.fi), Saariselän palvelupiste Kiehisestä tai Ivalon palvelupisteestä.</p>
+<p type="title">Marjastaa ja sienestää</p>
+<p>Saariselän alueella on mahdollisuus marjastaa ja sienestää. Marjastus ja sienestys ovat sallittuja myös Urho Kekkosen kansallispuistossa. Sompion luonnonpuistossa saavat marjastaa ja sienestää vain paikalliset asukkaat. Hillaa eli lakkaa voi kerätä suoalueilta jo heinäkuun loppupuolella. Seuraavaksi kypsyvät mustikka ja variksenmarja. Puolukka on parhaimmillaan syyskuussa ja karpalo vasta syyskuun lopulla ensimmäisten hallaöiden jälkeen. Sateisina syksyinä sienisato on runsas ja sienistä saa helposti vaihtelua retkiruokaan.</p>
+<p type="title">Uida</p>
+<p>Saariselän alueen vesistöissä on mahdollisuus uida. Vesistöt ja rannat ovat luonnontilaisia, eikä virallisia uimarantoja ole.</p>
+<p type="title">Liikkua lumikengillä</p>
+<p>Saariselän alueella on hyvät mahdollisuudet lumikenkäilyyn. Lumikenkäillä voi vapaasti umpihangessa tai siihen tarkoitukseen merkityillä luontopoluilla Saariselällä ja Kiilopäällä.</p>
+<p type="title">Ajaa moottorikelkalla</p>
+<p>Saariselän alueella on Metsähallituksen ja kuntien ylläpitämiä moottorikelkkauria ja -reittejä. Metsähallituksen ylläpitämille urille tulee ulkopaikkakuntalaisen aina lunastaa maksullinen uralupa. Kuntien ylläpitämille reiteille ei maksullista lupaa tarvita. Lisätietoja moottorikelkkailusta saa mm. Saariselän palvelupiste Kiehisestä .</p>
+<list><p type="listitem">Urho Kekkosen kansallispuiston kalastuslupa</p>
+<p type="listitem">Inarin erämaan kalastuslupa</p>
+<p type="listitem">Ivalojoen kalastuslupa</p>
+<p type="listitem">Lokka-Porttipahdan pienriistalupa</p>
+<p type="listitem">Kutturan pienriistalupa</p>
+</list><p type="title">Kalastonhoitomaksu 2016</p>
+<p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

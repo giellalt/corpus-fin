@@ -1,31 +1,7 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - SaKaste- hankkeen tuotokset nyt käytettävissä</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>104</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=825&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=825_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=825_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=825_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>SaKaste- hankkeen tuotokset nyt käytettävissä</p>
-    <p>Vuonna 2013 päättyneen SaKaste- hankkeen tuotokset ovat nyt kaikkien käytettävissä netissä. Hankkeen kehittämistyön tuotoksena tehtiin oppaat saamelaiseen vanhus- ja varhaiskasvatustyöhön.</p>
-    <p>SaKaste- Saamelaisten sosiaali- ja terveyspalveluiden kehittämisrakenne-hanke toteutettiin vuosina 2011 -2013. Hanke oli PaKaste 2 - Pohjoisen alueen Kaste- osahanketta.</p>
-    <p>SaKaste- hankkeen aikana parannettiin saamenkielisten ja kulttuuriin pohjautuvien palveluiden laatua, vaikuttavuutta ja saatavuutta. Lisäksi pyrittiin kaventamaan alueellisia eroja luomalla saamenkielisiä ja -kulttuuriin pohjautuvia hyviä työmenetelmiä ja toimintamalleja. Kehittämistyöprosessin aikana saamelaisten työntekijöiden oma ammatti-identiteetti vahvistui ja keskinäinen asiantuntijaverkosto laajeni ja tiivistyi.</p>
-    <p>Kehittämistyötä tehtiin prosessiluontoisesti ja saamelaiskulttuurin lähtökohdista. Saamelaisen varhaiskasvatuksen ja vanhustyön parissa työskentelevä saamenkielinen henkilöstö toimi tiimityöskentelyn aikana kehittäjäasiantuntijoina.</p>
-    <p xml:lang="sms">Lue lisää</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - SaKaste- hankkeen tuotokset nyt käytettävissä</title><genre code="admin"/><author><unknown/></author><wordcount>104</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=825&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=825_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=825_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=825_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>SaKaste- hankkeen tuotokset nyt käytettävissä</p>
+<p>Vuonna 2013 päättyneen SaKaste- hankkeen tuotokset ovat nyt kaikkien käytettävissä netissä. Hankkeen kehittämistyön tuotoksena tehtiin oppaat saamelaiseen vanhus- ja varhaiskasvatustyöhön.</p>
+<p>SaKaste- Saamelaisten sosiaali- ja terveyspalveluiden kehittämisrakenne-hanke toteutettiin vuosina 2011 -2013. Hanke oli PaKaste 2 - Pohjoisen alueen Kaste- osahanketta.</p>
+<p>SaKaste- hankkeen aikana parannettiin saamenkielisten ja kulttuuriin pohjautuvien palveluiden laatua, vaikuttavuutta ja saatavuutta. Lisäksi pyrittiin kaventamaan alueellisia eroja luomalla saamenkielisiä ja -kulttuuriin pohjautuvia hyviä työmenetelmiä ja toimintamalleja. Kehittämistyöprosessin aikana saamelaisten työntekijöiden oma ammatti-identiteetti vahvistui ja keskinäinen asiantuntijaverkosto laajeni ja tiivistyi.</p>
+<p>Kehittämistyötä tehtiin prosessiluontoisesti ja saamelaiskulttuurin lähtökohdista. Saamelaisen varhaiskasvatuksen ja vanhustyön parissa työskentelevä saamenkielinen henkilöstö toimi tiimityöskentelyn aikana kehittäjäasiantuntijoina.</p>
+<p xml:lang="sms">Lue lisää</p>
+</body></document>

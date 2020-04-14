@@ -1,49 +1,20 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisten kielipesien ja kielikylpykerhotoiminnan rahoitukseen 450 000 euroa</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>195</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=453&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=453_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisten kielipesien ja kielikylpykerhotoiminnan rahoitukseen 450 000 euroa</p>
-    <p>Opetus- ja kulttuuriministeriö myönsi saamelaiskäräjille valtionavustuksena 350 000 euroa inarinsaamen, koltansaamen ja pohjoissaamen kulttuuri- ja kielipesätoimintaan sekä 100 000 euroa kielikylpykerhotoimintaan.</p>
-    <p>Eduskunta hyväksyi valtion vuoden 2011 talousarviossa erillisen määrärahan saamelaisten kulttuuri- ja kielipesätoimintaan saamelaisten kotiseutualueella. Rahoitus kanavoituu saamelaiskäräjien kautta toimintaa järjestäville tahoille.</p>
-    <p>Kielipesä on kielellisen vähemmistön tai alkuperäiskansan lapsille tarkoitettu päivähoitopaikka, jossa kaikki toiminta tapahtuu alusta asti pelkästään saamen kielellä. Toiminta toteutetaan järjestämällä alle kouluikäisille lapsille päivähoitoa tai avointa varhaiskasvatustoimintaa sekä koululaisille iltapäivätoimintaa kielikylpymenetelmää käyttäen.</p>
-    <p>Saamen kieltä ja kulttuuria elvyttävä kerhotoiminta toteutetaan järjestämällä alle kouluikäisille lapsille ja koululaisille muutamana päivänä viikossa saamelaiskulttuuriin pohjautuvaa toimintaa kielikylpymenetelmää käyttäen</p>
-    <p>Saamelaiskäräjien hallitus vahvisti kokouksessaan 11.2.2011 avustusten käyttösuunnitelmat.</p>
-    <p>Saamelaisten kielipesien valtionavustukset vuonna 2011:</p>
-    <list>
-      <p type="listitem">Koltansaamen kielipesä, Ivalo 72 720 €</p>
-      <p type="listitem">Inarinsaamen kielipesä I, Inari 81 990 €</p>
-      <p type="listitem">Inarinsaamen kielipesä II, Ivalo 68 175 €</p>
-      <p type="listitem">Inarinsaamen kielipesä III, Inari 68 175 €</p>
-      <p type="listitem">Koltansaamen kielipesä, Sevettijärvi 19 500 €</p>
-      <p type="listitem">Pohjoissaamen kielipesä, Vuotso 39 440 €</p>
-    </list>
-    <p>Saamelaisten kielikylpykerhotoiminnan avustukset vuonna 2011:</p>
-    <list>
-      <p type="listitem">Koltansaamen kielipesä, Sevettijärvi 15 584 €</p>
-      <p type="listitem">Pohjoissaamen kielipesä, Vuotso 34 184 €</p>
-      <p type="listitem">Pohjoissaamen kielikylpykerho, Enontekiön kunta 27 000 €</p>
-      <p type="listitem">Pohjoissaamen kielikylpykerho, Utsjoen kunta 23 232 €</p>
-    </list>
-    <p>Lisätietoja: Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät, 040-7262688, pia.ruotsala(at)samediggi.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisten kielipesien ja kielikylpykerhotoiminnan rahoitukseen 450 000 euroa</title><genre code="admin"/><author><unknown/></author><wordcount>195</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=453&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=453_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisten kielipesien ja kielikylpykerhotoiminnan rahoitukseen 450 000 euroa</p>
+<p>Opetus- ja kulttuuriministeriö myönsi saamelaiskäräjille valtionavustuksena 350 000 euroa inarinsaamen, koltansaamen ja pohjoissaamen kulttuuri- ja kielipesätoimintaan sekä 100 000 euroa kielikylpykerhotoimintaan.</p>
+<p>Eduskunta hyväksyi valtion vuoden 2011 talousarviossa erillisen määrärahan saamelaisten kulttuuri- ja kielipesätoimintaan saamelaisten kotiseutualueella. Rahoitus kanavoituu saamelaiskäräjien kautta toimintaa järjestäville tahoille.</p>
+<p>Kielipesä on kielellisen vähemmistön tai alkuperäiskansan lapsille tarkoitettu päivähoitopaikka, jossa kaikki toiminta tapahtuu alusta asti pelkästään saamen kielellä. Toiminta toteutetaan järjestämällä alle kouluikäisille lapsille päivähoitoa tai avointa varhaiskasvatustoimintaa sekä koululaisille iltapäivätoimintaa kielikylpymenetelmää käyttäen.</p>
+<p>Saamen kieltä ja kulttuuria elvyttävä kerhotoiminta toteutetaan järjestämällä alle kouluikäisille lapsille ja koululaisille muutamana päivänä viikossa saamelaiskulttuuriin pohjautuvaa toimintaa kielikylpymenetelmää käyttäen</p>
+<p>Saamelaiskäräjien hallitus vahvisti kokouksessaan 11.2.2011 avustusten käyttösuunnitelmat.</p>
+<p>Saamelaisten kielipesien valtionavustukset vuonna 2011:</p>
+<list><p type="listitem">Koltansaamen kielipesä, Ivalo 72 720 €</p>
+<p type="listitem">Inarinsaamen kielipesä I, Inari 81 990 €</p>
+<p type="listitem">Inarinsaamen kielipesä II, Ivalo 68 175 €</p>
+<p type="listitem">Inarinsaamen kielipesä III, Inari 68 175 €</p>
+<p type="listitem">Koltansaamen kielipesä, Sevettijärvi 19 500 €</p>
+<p type="listitem">Pohjoissaamen kielipesä, Vuotso 39 440 €</p>
+</list><p>Saamelaisten kielikylpykerhotoiminnan avustukset vuonna 2011:</p>
+<list><p type="listitem">Koltansaamen kielipesä, Sevettijärvi 15 584 €</p>
+<p type="listitem">Pohjoissaamen kielipesä, Vuotso 34 184 €</p>
+<p type="listitem">Pohjoissaamen kielikylpykerho, Enontekiön kunta 27 000 €</p>
+<p type="listitem">Pohjoissaamen kielikylpykerho, Utsjoen kunta 23 232 €</p>
+</list><p>Lisätietoja: Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät, 040-7262688, pia.ruotsala(at)samediggi.fi</p>
+</body></document>

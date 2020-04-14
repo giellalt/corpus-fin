@@ -1,84 +1,62 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Ympäristövinkit - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>215</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/ymparistovinkit</origFileName>
-    <parallel_text xml:lang="sme" location="vanddardeapmijabiras.html"/>
-    <parallel_text xml:lang="smn" location="pirradahan.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <list>
-      <p type="listitem">Retkeilyn ABCn sisällysluettelo</p>
-      <p type="listitem">Yleistä retkeilystä</p>
-      <p type="listitem">Jokamiehenoikeudet</p>
-      <p type="listitem">Retken suunnittelu</p>
-      <p type="listitem">Varusteet</p>
-      <p type="listitem">Retkiruoka</p>
-      <p type="listitem">Retkeilytaidot</p>
-      <p type="listitem">Turvallisuus</p>
-      <p type="listitem">Ympäristövinkit <list><p type="listitem">Leirituli</p><p type="listitem">Leiriytyminen</p><p type="listitem">Liikkuminen</p><p type="listitem">Luontosuhde</p><p type="listitem">Matka</p><p type="listitem">Rauhoitetut kasvit ja eläimet</p><p type="listitem">Retkimuona</p><p type="listitem">Roskaton retkeily</p><p type="listitem">Valinnoillasi voit vaikuttaa ympäristön tilaan</p><p type="listitem">Varusteet</p><p type="listitem">Ympäristövaikutusten mittarit</p></list> </p>
-      <p type="listitem">Terveyttä ja hyvinvointia luonnosta</p>
-      <p type="listitem">Linkit</p>
-      <p type="listitem">Kirjallisuusluettelo</p>
-    </list>
-    <p>Ympäristövinkit - Avaa valikko</p>
-    <p type="title">Ympäristövinkit</p>
-    <list>
-      <p type="listitem">Leirituli</p>
-      <p type="listitem">Leiriytyminen</p>
-      <p type="listitem">Liikkuminen</p>
-      <p type="listitem">Luontosuhde</p>
-      <p type="listitem">Matka</p>
-      <p type="listitem">Rauhoitetut kasvit ja eläimet</p>
-      <p type="listitem">Retkimuona</p>
-      <p type="listitem">Roskaton retkeily</p>
-      <p type="listitem">Valinnoillasi voit vaikuttaa ympäristön tilaan</p>
-      <p type="listitem">Varusteet</p>
-      <p type="listitem">Ympäristövaikutusten mittarit</p>
-    </list>
-    <p type="title">Ekoretkeilijä ottaa ympäristön huomioon</p>
-    <p type="title">Retkeilijän ympäristövinkit</p>
-    <p>Haluatko rentoutua luonnossa ilman häiritseviä tekijöitä: roskia, kulunutta maastoa tai melua? Haluatko, että tulevillakin sukupolvilla on samanlaiset mahdollisuudet retkeillä tai virkistäytyä luonnossa kuin sinulla? Sinä voit vaikuttaa omilla valinnoillasi suoraan siihen, miten paljon tai vähän tapasi toimia kuormittaa ja muuttaa ympäristöä. Myös välinehankinnoillasi on merkitystä.</p>
-    <p>Näiltä sivuilta saat tietoa retkeilyn haitallisista vaikutuksista ympäristöön ja terveydelle sekä tavoista, joilla niitä voi vähentää. Pienikin askel kerrallaan riittää säästämään ympäristöä. Se askel voisi olla vaikka retken suunnittelu ja valmistelu:</p>
-    <list>
-      <p type="listitem">mikä olisi mukava retkeilykohde?</p>
-      <p type="listitem">miten retkeilykohteeseen pääsee?</p>
-      <p type="listitem">mitä retkeilyvarusteita mukaan? Mistä niitä saa?</p>
-      <p type="listitem">mitä evääksi?</p>
-      <p type="listitem">miten eväät pakataan?</p>
-    </list>
-    <p type="title">Lue lisää</p>
-    <list>
-      <p type="listitem">Retkeilyn ympäristö- ja terveyshaitat (pdf, 22 kt)</p>
-      <p type="listitem">Metsähallituksen kestävän luontomatkailun periaatteet luonnonsuojelualueilla (www.metsa.fi)</p>
-      <p type="listitem">Retkisuunnittelu (lnt.org, englanniksi)</p>
-      <p type="listitem">Vastuullinen kuluttaminen (www.kuluttajaliitto.fi)</p>
-    </list>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Ympäristövinkit - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>215</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/ymparistovinkit</origFileName><parallel_text xml:lang="sme" location="vanddardeapmijabiras.html"/><parallel_text xml:lang="smn" location="pirradahan.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><list><p type="listitem">Retkeilyn ABCn sisällysluettelo</p>
+<p type="listitem">Yleistä retkeilystä</p>
+<p type="listitem">Jokamiehenoikeudet</p>
+<p type="listitem">Retken suunnittelu</p>
+<p type="listitem">Varusteet</p>
+<p type="listitem">Retkiruoka</p>
+<p type="listitem">Retkeilytaidot</p>
+<p type="listitem">Turvallisuus</p>
+<p type="listitem">Ympäristövinkit <list><p type="listitem">Leirituli</p>
+<p type="listitem">Leiriytyminen</p>
+<p type="listitem">Liikkuminen</p>
+<p type="listitem">Luontosuhde</p>
+<p type="listitem">Matka</p>
+<p type="listitem">Rauhoitetut kasvit ja eläimet</p>
+<p type="listitem">Retkimuona</p>
+<p type="listitem">Roskaton retkeily</p>
+<p type="listitem">Valinnoillasi voit vaikuttaa ympäristön tilaan</p>
+<p type="listitem">Varusteet</p>
+<p type="listitem">Ympäristövaikutusten mittarit</p>
+</list> </p>
+<p type="listitem">Terveyttä ja hyvinvointia luonnosta</p>
+<p type="listitem">Linkit</p>
+<p type="listitem">Kirjallisuusluettelo</p>
+</list><p>Ympäristövinkit - Avaa valikko</p>
+<p type="title">Ympäristövinkit</p>
+<list><p type="listitem">Leirituli</p>
+<p type="listitem">Leiriytyminen</p>
+<p type="listitem">Liikkuminen</p>
+<p type="listitem">Luontosuhde</p>
+<p type="listitem">Matka</p>
+<p type="listitem">Rauhoitetut kasvit ja eläimet</p>
+<p type="listitem">Retkimuona</p>
+<p type="listitem">Roskaton retkeily</p>
+<p type="listitem">Valinnoillasi voit vaikuttaa ympäristön tilaan</p>
+<p type="listitem">Varusteet</p>
+<p type="listitem">Ympäristövaikutusten mittarit</p>
+</list><p type="title">Ekoretkeilijä ottaa ympäristön huomioon</p>
+<p type="title">Retkeilijän ympäristövinkit</p>
+<p>Haluatko rentoutua luonnossa ilman häiritseviä tekijöitä: roskia, kulunutta maastoa tai melua? Haluatko, että tulevillakin sukupolvilla on samanlaiset mahdollisuudet retkeillä tai virkistäytyä luonnossa kuin sinulla? Sinä voit vaikuttaa omilla valinnoillasi suoraan siihen, miten paljon tai vähän tapasi toimia kuormittaa ja muuttaa ympäristöä. Myös välinehankinnoillasi on merkitystä.</p>
+<p>Näiltä sivuilta saat tietoa retkeilyn haitallisista vaikutuksista ympäristöön ja terveydelle sekä tavoista, joilla niitä voi vähentää. Pienikin askel kerrallaan riittää säästämään ympäristöä. Se askel voisi olla vaikka retken suunnittelu ja valmistelu:</p>
+<list><p type="listitem">mikä olisi mukava retkeilykohde?</p>
+<p type="listitem">miten retkeilykohteeseen pääsee?</p>
+<p type="listitem">mitä retkeilyvarusteita mukaan? Mistä niitä saa?</p>
+<p type="listitem">mitä evääksi?</p>
+<p type="listitem">miten eväät pakataan?</p>
+</list><p type="title">Lue lisää</p>
+<list><p type="listitem">Retkeilyn ympäristö- ja terveyshaitat (pdf, 22 kt)</p>
+<p type="listitem">Metsähallituksen kestävän luontomatkailun periaatteet luonnonsuojelualueilla (www.metsa.fi)</p>
+<p type="listitem">Retkisuunnittelu (lnt.org, englanniksi)</p>
+<p type="listitem">Vastuullinen kuluttaminen (www.kuluttajaliitto.fi)</p>
+</list><p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

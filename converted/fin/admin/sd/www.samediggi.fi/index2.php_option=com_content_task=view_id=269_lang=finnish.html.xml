@@ -1,33 +1,8 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Arkkitehtuurikilpailun ehdotukset nähtävillä Siidassa Inarissa</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>106</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=269&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=269_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=269_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Arkkitehtuurikilpailun ehdotukset nähtävillä Siidassa Inarissa</p>
-    <p>Kuluvan vuoden joulukuun alussa julkistetun Saamelaiskulttuurikeskuksen arkkitehtuurikilpailun ehdotukset ovat esillä yleisön tutustumista varten Siidan Rampissa Inarin kirkonkylässä 6.1.2009 asti. Kilpailun kuudesta parhaasta työstä on näyttelyssä esillä myös kolmiulotteiset pienoismallit. Tähän erikoisnäyttelyyn on kaikilla vapaa pääsy.</p>
-    <p>Siida on avoinna tiistaista sunnuntaihin kello 10.00 – 17.00, suljettu maanantaisin. Joulun aikaan Siida on suljettu jouluaattona ja joulupäivänä. Siida on avoinna Tapaninpäivänä ja uudenvuodenaattona ja uudenvuodenpäivänä sekä loppiaisena. Lisätietoja Siidasta, puh. 0400-898 212.</p>
-    <p>
-      <em type="italic">Lisätietoja Saamelaiskulttuurikeskuksesta: </em>
-    </p>
-    <p>Rakennushanke ja arkkitehtuurikilpailu: tilapäällikkö Tanja Rytkönen-Romppanen, Senaatti-kiinteistöt, puh. 040-573 7006 www.senaatti.fi</p>
-    <p>Saamelaiskulttuurikeskuksen toiminta: hallintopäällikkö Juha Guttorm, puh. 0400-142 518 www.samediggi.fi</p>
-    <p>Kuvamateriaalia ja arkkitehtuurikilpailun pöytäkirja on nähtävissä myös Saamelaiskäräjien kotisivuilla www.samediggi.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Arkkitehtuurikilpailun ehdotukset nähtävillä Siidassa Inarissa</title><genre code="admin"/><author><unknown/></author><wordcount>106</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=269&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=269_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=269_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Arkkitehtuurikilpailun ehdotukset nähtävillä Siidassa Inarissa</p>
+<p>Kuluvan vuoden joulukuun alussa julkistetun Saamelaiskulttuurikeskuksen arkkitehtuurikilpailun ehdotukset ovat esillä yleisön tutustumista varten Siidan Rampissa Inarin kirkonkylässä 6.1.2009 asti. Kilpailun kuudesta parhaasta työstä on näyttelyssä esillä myös kolmiulotteiset pienoismallit. Tähän erikoisnäyttelyyn on kaikilla vapaa pääsy.</p>
+<p>Siida on avoinna tiistaista sunnuntaihin kello 10.00 – 17.00, suljettu maanantaisin. Joulun aikaan Siida on suljettu jouluaattona ja joulupäivänä. Siida on avoinna Tapaninpäivänä ja uudenvuodenaattona ja uudenvuodenpäivänä sekä loppiaisena. Lisätietoja Siidasta, puh. 0400-898 212.</p>
+<p><em type="italic">Lisätietoja Saamelaiskulttuurikeskuksesta: </em></p>
+<p>Rakennushanke ja arkkitehtuurikilpailu: tilapäällikkö Tanja Rytkönen-Romppanen, Senaatti-kiinteistöt, puh. 040-573 7006 www.senaatti.fi</p>
+<p>Saamelaiskulttuurikeskuksen toiminta: hallintopäällikkö Juha Guttorm, puh. 0400-142 518 www.samediggi.fi</p>
+<p>Kuvamateriaalia ja arkkitehtuurikilpailun pöytäkirja on nähtävissä myös Saamelaiskäräjien kotisivuilla www.samediggi.fi</p>
+</body></document>

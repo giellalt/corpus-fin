@@ -1,48 +1,24 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>186</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=598&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=598_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=598_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=598_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</p>
-    <p>Saamelaiskäräjät jakoi koulujen kevätjuhlissa stipendejä saamen kielen opinnoissa hyvin menestyneille oppilaille. Stipendi annettiin yhteensä 13:lle saamen kielen kokeen ylioppilastutkinnossa suorittaneelle ja 18:lle perusopetuksen päättäneelle.</p>
-    <p>Saamelaiskäräjien stipendin saivat seuraavat nuoret:</p>
-    <p type="title" xml:lang="kal">Ylioppilaat:</p>
-    <p>Sodankylän lukio: Riinamari Mustonen (pohjoissaame) ja Anni-Saara Aikio (pohjoissaame)</p>
-    <p>Enontekiön erälukio: Emma Eira (pohjoissaame), Mira Kärki (pohjoissaame) ja Lars-Aslak Tornensis (pohjoissaame)</p>
-    <p>Ivalon lukio: Ville-Riiko Fofonoff (koltansaame), Mari Guttorm (pohjoissaame) ja Sunna Nousuniemi (pohjoissaame)</p>
-    <p>Utsjoen saamelaislukio: Oula Järvensivu (pohjoissaame) ja Hilda Länsman (pohjoissaame)</p>
-    <p>Ounasvaaran lukio, Rovaniemi: Martta Alajärvi (pohjoissaame)</p>
-    <p>Haukiputaan lukio: Olá-Mihkku Länsman (pohjoissaame)</p>
-    <p>Porin Aikuislukio: Saana Lappalainen (pohjoissaame)</p>
-    <p type="title">Perusopetuksen suorittaneet oppilaat:</p>
-    <p>Vuotson koulu: Salla Rouvinen (pohjoissaame)</p>
-    <p>Hetan peruskoulu: Paulus Näkkäläjärvi (pohjoissaame), Marielle Labba (pohjoissaame), Jouna Näkkälä (pohjoissaame) ja Saija Alamattila (pohjoissaame)</p>
-    <p>Inarin yläkoulu: Jussa Seurujärvi (inarinsaame), Piäkká Moilanen (inarinsaame), Ylva Hakovirta (inarinsaame), Irina Saijets (pohjois- ja koltansaame) ja Nina Nuorgam (pohjoissaame)</p>
-    <p>Karigasniemen koulu: Laura Pieski (pohjoissaame)</p>
-    <p>Utsjokisuun koulu: Piret Järvensivu (pohjoissaame)</p>
-    <p>Aleksanteri Kenan koulu, Sodankylä: Riikka Yliriesto (pohjoissaame)</p>
-    <p>Ivalon yläkoulu: Leevi Olli (pohjoissaame)</p>
-    <p>Oulunsalon yläkoulu: Natalia Länsman (pohjoissaame)</p>
-    <p>Haukiputaan yläkoulu: Máren-Elle Länsman (pohjoissaame)</p>
-    <p>Myllytullin koulu, Oulu: Linda Akujärvi (pohjoissaame) ja Anton Valle (pohjoissaame)</p>
-    <p type="title">Saamelaiskäräjät toivottaa onnea ja hyvää kesälomaa kaikille!</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</title><genre code="admin"/><author><unknown/></author><wordcount>186</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=598&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=598_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=598_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=598_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</p>
+<p>Saamelaiskäräjät jakoi koulujen kevätjuhlissa stipendejä saamen kielen opinnoissa hyvin menestyneille oppilaille. Stipendi annettiin yhteensä 13:lle saamen kielen kokeen ylioppilastutkinnossa suorittaneelle ja 18:lle perusopetuksen päättäneelle.</p>
+<p>Saamelaiskäräjien stipendin saivat seuraavat nuoret:</p>
+<p type="title" xml:lang="kal">Ylioppilaat:</p>
+<p>Sodankylän lukio: Riinamari Mustonen (pohjoissaame) ja Anni-Saara Aikio (pohjoissaame)</p>
+<p>Enontekiön erälukio: Emma Eira (pohjoissaame), Mira Kärki (pohjoissaame) ja Lars-Aslak Tornensis (pohjoissaame)</p>
+<p>Ivalon lukio: Ville-Riiko Fofonoff (koltansaame), Mari Guttorm (pohjoissaame) ja Sunna Nousuniemi (pohjoissaame)</p>
+<p>Utsjoen saamelaislukio: Oula Järvensivu (pohjoissaame) ja Hilda Länsman (pohjoissaame)</p>
+<p>Ounasvaaran lukio, Rovaniemi: Martta Alajärvi (pohjoissaame)</p>
+<p>Haukiputaan lukio: Olá-Mihkku Länsman (pohjoissaame)</p>
+<p>Porin Aikuislukio: Saana Lappalainen (pohjoissaame)</p>
+<p type="title">Perusopetuksen suorittaneet oppilaat:</p>
+<p>Vuotson koulu: Salla Rouvinen (pohjoissaame)</p>
+<p>Hetan peruskoulu: Paulus Näkkäläjärvi (pohjoissaame), Marielle Labba (pohjoissaame), Jouna Näkkälä (pohjoissaame) ja Saija Alamattila (pohjoissaame)</p>
+<p>Inarin yläkoulu: Jussa Seurujärvi (inarinsaame), Piäkká Moilanen (inarinsaame), Ylva Hakovirta (inarinsaame), Irina Saijets (pohjois- ja koltansaame) ja Nina Nuorgam (pohjoissaame)</p>
+<p>Karigasniemen koulu: Laura Pieski (pohjoissaame)</p>
+<p>Utsjokisuun koulu: Piret Järvensivu (pohjoissaame)</p>
+<p>Aleksanteri Kenan koulu, Sodankylä: Riikka Yliriesto (pohjoissaame)</p>
+<p>Ivalon yläkoulu: Leevi Olli (pohjoissaame)</p>
+<p>Oulunsalon yläkoulu: Natalia Länsman (pohjoissaame)</p>
+<p>Haukiputaan yläkoulu: Máren-Elle Länsman (pohjoissaame)</p>
+<p>Myllytullin koulu, Oulu: Linda Akujärvi (pohjoissaame) ja Anton Valle (pohjoissaame)</p>
+<p type="title">Saamelaiskäräjät toivottaa onnea ja hyvää kesälomaa kaikille!</p>
+</body></document>

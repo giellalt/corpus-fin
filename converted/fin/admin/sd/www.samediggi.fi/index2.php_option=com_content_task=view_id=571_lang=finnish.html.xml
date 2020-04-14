@@ -1,32 +1,8 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisnuorten taidetapahtumaan ennätysmäärä osallistujia</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>146</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=571&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=571_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=571_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=571_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisnuorten taidetapahtumaan ennätysmäärä osallistujia</p>
-    <p>Inarissa Sajoksessa maaliskuun lopussa järjestettävään Saamelaisnuorten taidetapahtumaan on tulossa ennätysmäärä osallistujia. Ilmoittautuneita on tällä hetkellä jo yli 350, mutta kun viimeisetkin ilmoittautumiset saapuvat, osallistujien määrä noussee yli neljän sadan. Osallistujia on tänä vuonna saamelaisalueen lisäksi myös Rovaniemeltä ja Helsingistä. Musiikkikilpailuun on ilmoittautunut yhteensä 19 ryhmää, joissa edustettuina ovat sekä inarin-, koltan-, että pohjoissaamen kielet ja yhteensä 140 nuorta.</p>
-    <p>Ilmoittautumisia on tullut sekä keskiviikkona 28.03. järjestettävään suopunkiviestiin ja suopunginheittokilpailuun, että torstaiseen musiikkikatselmukseen. Musiikkikatselmuksesta tuomaristo valitsee saamelaisnuorten edustajat kansalliseen Sounds -tapahtumaan Turkuun.</p>
-    <p>Saamelaiskulttuurikeskus Sajos antaa tämän vuoden tapahtumalle upeat puitteet. Torstaina järjestettävän musiikkikatselmuksen paikkana on noin 400 hengen Dolla-auditorio, jossa käytettävissä on laadukas tekniikka valoineen ja tehosteineen.</p>
-    <p>Saamelaisnuorten taidetapahtuma on valtakunnalliseen Nuori kulttuuri-tapahtumaketjuun kuuluva saamenkielinen aluetapahtuma, jonka pääjärjestäjänä on saamelaiskäräjät. Inarin tapahtumaa ovat järjestämässä myös Inarin koulu, Saamelaisalueen koulutuskeskus ja paikallinen saamelaisyhdistys Anára Sámi searvi.</p>
-    <p>Lisätietoja saamelaisnuorten taidetapahtumasta tästä. Seuraa nettisivuja.</p>
-    <p>Tavataan Sajoksessa 28.-29.03!</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisnuorten taidetapahtumaan ennätysmäärä osallistujia</title><genre code="admin"/><author><unknown/></author><wordcount>146</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=571&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=571_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=571_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=571_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisnuorten taidetapahtumaan ennätysmäärä osallistujia</p>
+<p>Inarissa Sajoksessa maaliskuun lopussa järjestettävään Saamelaisnuorten taidetapahtumaan on tulossa ennätysmäärä osallistujia. Ilmoittautuneita on tällä hetkellä jo yli 350, mutta kun viimeisetkin ilmoittautumiset saapuvat, osallistujien määrä noussee yli neljän sadan. Osallistujia on tänä vuonna saamelaisalueen lisäksi myös Rovaniemeltä ja Helsingistä. Musiikkikilpailuun on ilmoittautunut yhteensä 19 ryhmää, joissa edustettuina ovat sekä inarin-, koltan-, että pohjoissaamen kielet ja yhteensä 140 nuorta.</p>
+<p>Ilmoittautumisia on tullut sekä keskiviikkona 28.03. järjestettävään suopunkiviestiin ja suopunginheittokilpailuun, että torstaiseen musiikkikatselmukseen. Musiikkikatselmuksesta tuomaristo valitsee saamelaisnuorten edustajat kansalliseen Sounds -tapahtumaan Turkuun.</p>
+<p>Saamelaiskulttuurikeskus Sajos antaa tämän vuoden tapahtumalle upeat puitteet. Torstaina järjestettävän musiikkikatselmuksen paikkana on noin 400 hengen Dolla-auditorio, jossa käytettävissä on laadukas tekniikka valoineen ja tehosteineen.</p>
+<p>Saamelaisnuorten taidetapahtuma on valtakunnalliseen Nuori kulttuuri-tapahtumaketjuun kuuluva saamenkielinen aluetapahtuma, jonka pääjärjestäjänä on saamelaiskäräjät. Inarin tapahtumaa ovat järjestämässä myös Inarin koulu, Saamelaisalueen koulutuskeskus ja paikallinen saamelaisyhdistys Anára Sámi searvi.</p>
+<p>Lisätietoja saamelaisnuorten taidetapahtumasta tästä. Seuraa nettisivuja.</p>
+<p>Tavataan Sajoksessa 28.-29.03!</p>
+</body></document>

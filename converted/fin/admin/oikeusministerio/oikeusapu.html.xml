@@ -1,33 +1,10 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Oikeusapu - 
+<document xml:lang="fin" id="no_id"><header><title>Oikeusapu - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2014</year>
-    <wordcount>88</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/fi/index/esitteet/oikeusapu.html</origFileName>
-    <parallel_text xml:lang="sme" location="die273utvuoigatvuo273aveahkis.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Oikeusapu</p>
-    <p type="title">Oikeusapu</p>
-    <p>Oikeudenkäynnissä ja muiden oikeudellisten asioiden hoitamisessa tarvitaan usein lainoppinutta avustajaa.</p>
-    <p>Lähtökohta on, että asianosainen kustantaa itse tarvitsemansa oikeudellisen avun. Jollei hänellä ole varaa itse hankkia tarvitsemaansa apua, se voidaan kustantaa joko osaksi tai kokonaan valtion varoin. Tämä esite kertoo valtion varoin kustannetusta oikeusavusta.</p>
-    <p>Oikeusavun antamista varten valtiolla on oikeusaputoimistoja. Niissä oikeusapua tarjoavat julkiset oikeusavustajat. Oikeusapua antavat myös asianajajat ja muut lakimiehet, joilla on lupa toimia oikeudenkäyntiavustajana.</p>
-    <p>Lisätietoa oikeusavusta sekä oikeusaputoimistojen yhteystiedot ovat osoitteessa www.oikeus.fi . Asianajajien yhteystietoja saa osoitteesta www.asianajajat.fi . Päivitetty 25.8.2014 Oikeusministeriö</p>
-    <p type="title">Aiheesta lisää</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2014</year><wordcount>88</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/oikeusapu.html</origFileName><parallel_text xml:lang="sme" location="die273utvuoigatvuo273aveahkis.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Oikeusapu</p>
+<p type="title">Oikeusapu</p>
+<p>Oikeudenkäynnissä ja muiden oikeudellisten asioiden hoitamisessa tarvitaan usein lainoppinutta avustajaa.</p>
+<p>Lähtökohta on, että asianosainen kustantaa itse tarvitsemansa oikeudellisen avun. Jollei hänellä ole varaa itse hankkia tarvitsemaansa apua, se voidaan kustantaa joko osaksi tai kokonaan valtion varoin. Tämä esite kertoo valtion varoin kustannetusta oikeusavusta.</p>
+<p>Oikeusavun antamista varten valtiolla on oikeusaputoimistoja. Niissä oikeusapua tarjoavat julkiset oikeusavustajat. Oikeusapua antavat myös asianajajat ja muut lakimiehet, joilla on lupa toimia oikeudenkäyntiavustajana.</p>
+<p>Lisätietoa oikeusavusta sekä oikeusaputoimistojen yhteystiedot ovat osoitteessa www.oikeus.fi . Asianajajien yhteystietoja saa osoitteesta www.asianajajat.fi . Päivitetty 25.8.2014 Oikeusministeriö</p>
+<p type="title">Aiheesta lisää</p>
+</body></document>

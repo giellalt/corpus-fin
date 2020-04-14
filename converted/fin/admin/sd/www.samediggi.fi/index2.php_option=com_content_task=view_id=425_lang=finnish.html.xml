@@ -1,30 +1,3 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Sajoksen rakennusurakan toteuttajaksi Keski-Suomen Betonirakenne Oy</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>32</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=425&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=425_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=425_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=425_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sajoksen rakennusurakan toteuttajaksi Keski-Suomen Betonirakenne Oy</p>
-    <p>Saamelaiskulttuurikeskus Sajoksen rakennusurakan toteuttajaksi Senaatti-kiinteistöt on valinnut Keski-Suomen Betonirakenne Oy:n (KSBR). KSBR urakoi myös kulttuurikeskuksen pohjatyöt. Rakennusurakka alkaa lokakuun alussa 2010 ja kestää marraskuuhun 2011 saakka.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sajoksen rakennusurakan toteuttajaksi Keski-Suomen Betonirakenne Oy</title><genre code="admin"/><author><unknown/></author><wordcount>32</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=425&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=425_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=425_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=425_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sajoksen rakennusurakan toteuttajaksi Keski-Suomen Betonirakenne Oy</p>
+<p>Saamelaiskulttuurikeskus Sajoksen rakennusurakan toteuttajaksi Senaatti-kiinteistöt on valinnut Keski-Suomen Betonirakenne Oy:n (KSBR). KSBR urakoi myös kulttuurikeskuksen pohjatyöt. Rakennusurakka alkaa lokakuun alussa 2010 ja kestää marraskuuhun 2011 saakka.</p>
+</body></document>

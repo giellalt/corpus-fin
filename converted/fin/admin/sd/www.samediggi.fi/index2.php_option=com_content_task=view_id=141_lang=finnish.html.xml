@@ -1,31 +1,7 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Stipendejä saamen kielen oppilaille</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>161</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=141&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=141_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=141_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=141_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Stipendejä saamen kielen oppilaille</p>
-    <p>Saamelaiskäräjät jakaa stipendejä 17:lle saamen kielen opinnoissa hyvin menestyneelle oppilaalle saamelaisten kotiseutualueen kuntien kouluissa.</p>
-    <p>Stipendejä jaetaan koulujen kevätjuhlissa sekä äidinkielisille että saamen kielen vieraan kielen oppilaille. Stipendit jaetaan 6 uudelle ylioppilaalle Utsjoen, Inarin, Enontekiön ja Sodankylän lukioissa. He ovat kaikki suorittaneet ylioppilastutkinnossa pohjoissaamen kielen kokeen.</p>
-    <p>11 stipendiä jaetaan perusopetuksen suorittaneille, yhdeksännen luokan oppilaille. Perusopetuksen stipendin saa 10 pohjoissaamen kielen oppilasta ja yksi koltansaamen kielen oppilas.</p>
-    <p xml:lang="sms">PERUSOPETUKSEN SUORITTANEET OPPILAAT: 1. Gáregasnjárga/ Karigasniemi Tiia Pohjanrinne 2. Čeavetjávri/ Sevettijärvi Wille-Akseli Feodoroff 3. Gilbbešjávri/ Kilpisjärvi Laura Romakkaniemi 4. Anár/ Inari Juulienna Näkkäläjärvi 5. Anár/ Inari Saana Lappalainen 6. SoađegilLi/ Sodankylä Aleksi Syrjä 7. Vuohčču/ Vuotso Karen-Anni Hetta 8. Ohcejotnjálbmi/ Utsjokisuu Áile Risten Holmberg 9. Heahttá/ Hetta Juhani Kultima 10. Heahttá/ Hetta Nilla-Máhtte Magga 11. Avvil/ Ivalo Paula Rauhala</p>
-    <p xml:lang="smn">UUSIEN YLIOPPILAIDEN STIPENDIT: 1. Ohcejohka/ Utsjoki Jani Guttorm 2. Ohcejohka/ Utsjoki Milla Pulska 3. Eanodat/ Enontekiö Nils-Juhan Juuso 4. Avvil/ Ivalo Leena Niittyvuopio 5. Avvil/ Ivalo Marjinga Sara 6. Soađegilli/ Sodankylä Reeta Pyhäjärvi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Stipendejä saamen kielen oppilaille</title><genre code="admin"/><author><unknown/></author><wordcount>161</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=141&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=141_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=141_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=141_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Stipendejä saamen kielen oppilaille</p>
+<p>Saamelaiskäräjät jakaa stipendejä 17:lle saamen kielen opinnoissa hyvin menestyneelle oppilaalle saamelaisten kotiseutualueen kuntien kouluissa.</p>
+<p>Stipendejä jaetaan koulujen kevätjuhlissa sekä äidinkielisille että saamen kielen vieraan kielen oppilaille. Stipendit jaetaan 6 uudelle ylioppilaalle Utsjoen, Inarin, Enontekiön ja Sodankylän lukioissa. He ovat kaikki suorittaneet ylioppilastutkinnossa pohjoissaamen kielen kokeen.</p>
+<p>11 stipendiä jaetaan perusopetuksen suorittaneille, yhdeksännen luokan oppilaille. Perusopetuksen stipendin saa 10 pohjoissaamen kielen oppilasta ja yksi koltansaamen kielen oppilas.</p>
+<p xml:lang="sms">PERUSOPETUKSEN SUORITTANEET OPPILAAT: 1. Gáregasnjárga/ Karigasniemi Tiia Pohjanrinne 2. Čeavetjávri/ Sevettijärvi Wille-Akseli Feodoroff 3. Gilbbešjávri/ Kilpisjärvi Laura Romakkaniemi 4. Anár/ Inari Juulienna Näkkäläjärvi 5. Anár/ Inari Saana Lappalainen 6. SoađegilLi/ Sodankylä Aleksi Syrjä 7. Vuohčču/ Vuotso Karen-Anni Hetta 8. Ohcejotnjálbmi/ Utsjokisuu Áile Risten Holmberg 9. Heahttá/ Hetta Juhani Kultima 10. Heahttá/ Hetta Nilla-Máhtte Magga 11. Avvil/ Ivalo Paula Rauhala</p>
+<p xml:lang="smn">UUSIEN YLIOPPILAIDEN STIPENDIT: 1. Ohcejohka/ Utsjoki Jani Guttorm 2. Ohcejohka/ Utsjoki Milla Pulska 3. Eanodat/ Enontekiö Nils-Juhan Juuso 4. Avvil/ Ivalo Leena Niittyvuopio 5. Avvil/ Ivalo Marjinga Sara 6. Soađegilli/ Sodankylä Reeta Pyhäjärvi</p>
+</body></document>

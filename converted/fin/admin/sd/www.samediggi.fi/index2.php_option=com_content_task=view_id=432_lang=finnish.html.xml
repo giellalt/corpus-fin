@@ -1,31 +1,5 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Senaatti-kiinteistöt</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>63</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=432&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=432_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=432_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Senaatti-kiinteistöt</p>
-    <p>Senaatti-kiinteistöt vastasi Sajoksen rakennuttamisesta ja hallinnoi kiinteistöä.</p>
-    <p>Senaatti-kiinteistöt on valtion liikelaitos, joka tarjoaa tilapalveluja ensisijaisesti valtionhallinnolle. Toimitilojen vuokraus, investoinnit, kiinteistövarallisuuden kehittäminen ja hallinta muodostavat palvelujen perustan. Asiakaskuntaan kuuluvat muun muassa valtion virastot, ministeriöt, tutkimus- ja kulttuurilaitokset, vankilat sekä puolustushallinto. Asiakkaan toimitiloista huolehtiminen ei ole pelkästään tilojen vuokraamista - Senaatti-kiinteistöjen tarjontaan sisältyy kasvava, asiakkaan tarpeista lähtevä palveluvalikoima.</p>
-    <p>Senaatti-kiinteistöjen vastuuhenkilö Sajoksessa on Lasse Porsanger.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Senaatti-kiinteistöt</title><genre code="admin"/><author><unknown/></author><wordcount>63</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=432&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=432_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=432_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Senaatti-kiinteistöt</p>
+<p>Senaatti-kiinteistöt vastasi Sajoksen rakennuttamisesta ja hallinnoi kiinteistöä.</p>
+<p>Senaatti-kiinteistöt on valtion liikelaitos, joka tarjoaa tilapalveluja ensisijaisesti valtionhallinnolle. Toimitilojen vuokraus, investoinnit, kiinteistövarallisuuden kehittäminen ja hallinta muodostavat palvelujen perustan. Asiakaskuntaan kuuluvat muun muassa valtion virastot, ministeriöt, tutkimus- ja kulttuurilaitokset, vankilat sekä puolustushallinto. Asiakkaan toimitiloista huolehtiminen ei ole pelkästään tilojen vuokraamista - Senaatti-kiinteistöjen tarjontaan sisältyy kasvava, asiakkaan tarpeista lähtevä palveluvalikoima.</p>
+<p>Senaatti-kiinteistöjen vastuuhenkilö Sajoksessa on Lasse Porsanger.</p>
+</body></document>

@@ -1,77 +1,34 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>709</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName>
-    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
-    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
-    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Vaitiolovelvollisuus ja salassapito / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Vaitiolovelvollisuus ja salassapitoTystnadsplikt och sekretess</p>
-    <p>Hoitoon hakeuduttaessa on tärkeää, että jokainen tuntee luottamusta hoitohenkilökuntaa kohtaan. Luottamus on tärkeää, jotta potilas uskaltaa avoimesti kertoa vaivoistaan ja oireistaan ja voi saada tarvitsemansa avun. Sen vuoksi kaikki terveyden- ja sairaanhoidossa työskentelevät ovat vaitiolovelvollisia.</p>
-    <p>Hoitoon hakeuduttaessa on tärkeää, että jokainen tuntee luottamusta hoitohenkilökuntaa kohtaan. Luottamus on tärkeää, jotta potilas uskaltaa avoimesti kertoa vaivoistaan ja oireistaan ja voi saada tarvitsemansa avun. Sen vuoksi kaikki terveyden- ja sairaanhoidossa työskentelevät ovat vaitiolovelvollisia. Perusperiaatteena on, että kukaan hoitohenkilökuntaan kuuluva ei saa antaa ulkopuolisille tietoja ilman potilaan lupaa. Tämä koskee esimerkiksi tietoja hoidettavan sairaudesta, hoidosta tai yksityiselämästä.</p>
-    <p>Terveydenhuollossa yhtäläinen salassapito koskee kaikkia potilaita katsomatta siihen, onko heillä oikeus oleskella Ruotsissa vai ei.</p>
-    <p>Julkisella sektorilla työskentelevien vaitiolovelvollisuudesta on säädetty julkisuus- ja salassapitolaissa, kun taas yksityisen sektorin hoidonantajien palveluksessa työskentelevät noudattavat potilasturvalaissa vaitiolovelvollisuudesta säädettyjä sääntöjä. Vaitiolovelvollisuutta rikkova voidaan tuomita tuomioistuimessa tai hoitoa valvovat viranomaiset voivat rangaista häntä muulla tavoin.</p>
-    <p>Vaitiolovelvollisuus koskee sairaala- ja terveyskeskushenkilökuntaa. Potilaan terveydentilasta tai henkilökohtaisista asioista saa keskustella keskenään vain tätä hoitava henkilökunta. Esimerkiksi lääkäri saa keskustella potilaan hoidosta kollegansa kanssa vain silloin, jos he molemmat osallistuvat potilaan hoitoon.</p>
-    <p>Vaitiolovelvollisuus koskee kaikkia työntekijöitä, jotka ovat tekemisissä potilaiden kanssa, katsomatta siihen, työskentelevätkö he julkisella vai yksityisellä sektorilla ja ovatko he lääkäreitä, sairaanhoitajia tai hallintohenkilökuntaa. Myös terveydenhuollossa työskentelevillä tulkeilla ja kääntäjillä on vaitiolovelvollisuus. Vaitiolovelvollisuus koskee myös apteekin henkilökuntaa.</p>
-    <p type="title">Jokainen päättää itse</p>
-    <p>Lakien mukaan edes lähiomaisilla ei ole oikeutta saada tietää, mitä sairaalassa sanotaan ja mitä siellä tapahtuu, jos potilas ei halua tietoja annettavan. Sairaalahenkilökunnalla on tapana kysyä potilaalta, kenelle tietoja saa antaa. Potilas päättää itse, kenelle tietoja saa antaa. Esimerkiksi ennen leikkausta potilas voi kertoa henkilökunnalle, kenelle leikkauksesta saa antaa tietoja ennen kuin hän herää.</p>
-    <p type="title">Lasten oikeus luottamuksellisuuteen</p>
-    <p>Lasten ja alle 18-vuotiaiden nuorten huoltajilla on yleensä oikeus osallistua lastensa hoitoon ja saada lukea heidän potilaskertomuksensa. Lapsilla ja alle 18-vuotiailla nuorilla saattaa kuitenkin olla oikeus päättää itse, saako hoitohenkilöstö luovuttaa tiedot jollekulle, ja kenelle tiedot saa luovuttaa. Huoltajilla ja muilla läheisillä ei aina ole oikeutta saada tietää, mitä lapsi on kertonut hoitohenkilöstölle, tai mitä hänen potilaskertomuksessaan lukee.</p>
-    <p>Lapsen osallistumiselle omaa hoitoaan koskeviin päätöksiin ei siis ole asetettu ikärajaa, vaan asiasta päätetään potilaskohtaisesti.</p>
-    <p>Jos hoitohenkilökuntaa epäillä, että lapsi on pahoinpidelty hänen huoltajansa tai huoltajan voi suojella lasta, lapsen terveystiedot ei tilalle.</p>
-    <p>Vaitiolovelvollisuus koskee useimpien alle 18-vuotiaiden käyntejä nuorisovastaanotolla. Henkilöstön vaitiolovelvollisuus on mahdollista murtaa luvalla, jos terveys on jollakin tapaa vaarassa.</p>
-    <p xml:lang="swe">﻿</p>
-    <p type="title">Poikkeukset</p>
-    <p>Vaikka salassapito ja vaitiolovelvollisuus on laaja, siitä voidaan poiketa tietyissä tapauksissa ilman potilaan suostumusta. Näin voidaan menetellä esimerkiksi jos:</p>
-    <list>
-      <p type="listitem">tuomioistuin, syyttäjä-, poliisi-, kruununvouti- tai veroviranomainen vaatii saada tietää, onko tietty henkilö jossakin hoitolaitoksessa</p>
-      <p type="listitem">sosiaalihallituksen oikeudellisten, sosiaalisten ja lääketieteellisten asioiden neuvosto tarvitsee tietoja toimintaansa varten</p>
-      <p type="listitem">Kuljetushallitus tarvitsee tietoja tarkastaakseen henkilön sopivuuden ajokortin, traktorikortin tai taksinkuljettajatodistuksen myöntämiseksi</p>
-      <p type="listitem">Tietoja tarvitaan päätökseen, joka koskee henkilön sulkemista korkeakouluopinnoista</p>
-      <p type="listitem">tietoja tarvitaan oikeuslääketieteelliseen tutkimukseen.</p>
-    </list>
-    <p>Jos potilasta epäillään niin vakavasta rikoksesta, että se johtaa vähintään yhden vuoden vankeuteen, hoitohenkilökunnalla on oikeus rikkoa vaitiolovelvollisuus tekemällä rikoksesta ilmoitus poliisille ja vastaamalla sekä poliisin että syyttäjäviranomaisten kysymyksiin. Tällaisia rikoksia ovat esimerkiksi murha, raiskaus ja törkeä pahoinpitely. On myös eräitä liikennerikoksia, kuten rattijuopumus, joiden rangaistusasteikko on lievempi mutta jotka hoitohenkilökunnalla on oikeus ilmoittaa.</p>
-    <p type="title">Erityiset lapsia koskevat poikkeukset</p>
-    <p>Jos kyseessä on lapsi, hoitohenkilökunta voi poiketa vaitiolovelvollisuudesta, jos lapsen epäillään joutuneen rikoksen uhriksi. Kyseessä voi olla pahoinpitely tai seksuaalinen väkivalta.</p>
-    <p>Jos hoitohenkilökunta epäilee lapsen altistuvan vaaralle, henkilökunnan tulee tehdä ilmoitus sosiaalipalveluun, joka tekee asiasta selvityksen ja mahdollisen poliisi-ilmoituksen. Sama pätee silloin, kun ollaan tekemässä jonkinlaista selvitystä alaikäisen tarpeesta suojeluun. Hoitohenkilökunnalla on silloin velvollisuus antaa tietoja, joilla saattaa olla merkitystä selvityksen kannalta.</p>
-    <p type="title">Vakuutuskassa ja vakuutusyhtiöt</p>
-    <p>Potilaalla on oikeus päättää, saako terveyden- ja sairaanhoito antaa tietoja sairauksista tai niihin annetuista hoidoista. Jos potilas on sairas ja hakee sairauskorvausta vakuutuskassasta, hoitohenkilökunta saa antaa sairauskorvausoikeuden arvioimiseen tarvittavat tiedot.</p>
-    <p>Tämä pätee myös silloin, jos potilas on saanut vamman tai sairauden ja hän haluaa korvausta vakuutusyhtiöltä. Vakuutusyhtiöllä on tällöin oikeus saada korvausoikeuden arvioimiseen tarvittavat tiedot.</p>
-    <p type="title">Vaitiolovelvollisuuden rikkominen</p>
-    <p>Vaikka hoitohenkilökunta saa tietyissä tapauksissa rikkoa vaitiolovelvollisuutensa ja vaikka se joskus on tehtävä, on kyse vain poikkeustapauksista. Vaitiolovelvollisuuden perimmäinen tarkoitus on suojata potilasta.</p>
-    <p>Jos potilas epäilee jonkun hoitohenkilökuntaan kuuluvan rikkoneen vaitiolovelvollisuutensa, hän voi tehdä siitä ilmoituksen poliisille tai Sosiaalihallitukselle. Ilmoitus saattaa johtaa siihen, että vaitiolovelvollisuutensa rikkonut saa syytteen ja että hänet tuomitaan.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>705</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName><parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/><parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/><parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/><parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Vaitiolovelvollisuus ja salassapito / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Vaitiolovelvollisuus ja salassapitoTystnadsplikt och sekretess</p>
+<p>Hoitoon hakeuduttaessa on tärkeää, että jokainen tuntee luottamusta hoitohenkilökuntaa kohtaan. Luottamus on tärkeää, jotta potilas uskaltaa avoimesti kertoa vaivoistaan ja oireistaan ja voi saada tarvitsemansa avun. Sen vuoksi kaikki terveyden- ja sairaanhoidossa työskentelevät ovat vaitiolovelvollisia.</p>
+<p>Hoitoon hakeuduttaessa on tärkeää, että jokainen tuntee luottamusta hoitohenkilökuntaa kohtaan. Luottamus on tärkeää, jotta potilas uskaltaa avoimesti kertoa vaivoistaan ja oireistaan ja voi saada tarvitsemansa avun. Sen vuoksi kaikki terveyden- ja sairaanhoidossa työskentelevät ovat vaitiolovelvollisia. Perusperiaatteena on, että kukaan hoitohenkilökuntaan kuuluva ei saa antaa ulkopuolisille tietoja ilman potilaan lupaa. Tämä koskee esimerkiksi tietoja hoidettavan sairaudesta, hoidosta tai yksityiselämästä.</p>
+<p>Terveydenhuollossa yhtäläinen salassapito koskee kaikkia potilaita katsomatta siihen, onko heillä oikeus oleskella Ruotsissa vai ei.</p>
+<p>Julkisella sektorilla työskentelevien vaitiolovelvollisuudesta on säädetty julkisuus- ja salassapitolaissa, kun taas yksityisen sektorin hoidonantajien palveluksessa työskentelevät noudattavat potilasturvalaissa vaitiolovelvollisuudesta säädettyjä sääntöjä. Vaitiolovelvollisuutta rikkova voidaan tuomita tuomioistuimessa tai hoitoa valvovat viranomaiset voivat rangaista häntä muulla tavoin.</p>
+<p>Vaitiolovelvollisuus koskee sairaala- ja terveyskeskushenkilökuntaa. Potilaan terveydentilasta tai henkilökohtaisista asioista saa keskustella keskenään vain tätä hoitava henkilökunta. Esimerkiksi lääkäri saa keskustella potilaan hoidosta kollegansa kanssa vain silloin, jos he molemmat osallistuvat potilaan hoitoon.</p>
+<p>Vaitiolovelvollisuus koskee kaikkia työntekijöitä, jotka ovat tekemisissä potilaiden kanssa, katsomatta siihen, työskentelevätkö he julkisella vai yksityisellä sektorilla ja ovatko he lääkäreitä, sairaanhoitajia tai hallintohenkilökuntaa. Myös terveydenhuollossa työskentelevillä tulkeilla ja kääntäjillä on vaitiolovelvollisuus. Vaitiolovelvollisuus koskee myös apteekin henkilökuntaa.</p>
+<p type="title">Jokainen päättää itse</p>
+<p>Lakien mukaan edes lähiomaisilla ei ole oikeutta saada tietää, mitä sairaalassa sanotaan ja mitä siellä tapahtuu, jos potilas ei halua tietoja annettavan. Sairaalahenkilökunnalla on tapana kysyä potilaalta, kenelle tietoja saa antaa. Potilas päättää itse, kenelle tietoja saa antaa. Esimerkiksi ennen leikkausta potilas voi kertoa henkilökunnalle, kenelle leikkauksesta saa antaa tietoja ennen kuin hän herää.</p>
+<p type="title">Lasten oikeus luottamuksellisuuteen</p>
+<p>Lasten ja alle 18-vuotiaiden nuorten huoltajilla on yleensä oikeus osallistua lastensa hoitoon ja saada lukea heidän potilaskertomuksensa. Lapsilla ja alle 18-vuotiailla nuorilla saattaa kuitenkin olla oikeus päättää itse, saako hoitohenkilöstö luovuttaa tiedot jollekulle, ja kenelle tiedot saa luovuttaa. Huoltajilla ja muilla läheisillä ei aina ole oikeutta saada tietää, mitä lapsi on kertonut hoitohenkilöstölle, tai mitä hänen potilaskertomuksessaan lukee.</p>
+<p>Lapsen osallistumiselle omaa hoitoaan koskeviin päätöksiin ei siis ole asetettu ikärajaa, vaan asiasta päätetään potilaskohtaisesti.</p>
+<p>Jos hoitohenkilökuntaa epäillä, että lapsi on pahoinpidelty hänen huoltajansa tai huoltajan voi suojella lasta, lapsen terveystiedot ei tilalle.</p>
+<p>Vaitiolovelvollisuus koskee useimpien alle 18-vuotiaiden käyntejä nuorisovastaanotolla. Henkilöstön vaitiolovelvollisuus on mahdollista murtaa luvalla, jos terveys on jollakin tapaa vaarassa.</p>
+<p xml:lang="swe">﻿</p>
+<p type="title">Poikkeukset</p>
+<p>Vaikka salassapito ja vaitiolovelvollisuus on laaja, siitä voidaan poiketa tietyissä tapauksissa ilman potilaan suostumusta. Näin voidaan menetellä esimerkiksi jos:</p>
+<list><p type="listitem">tuomioistuin, syyttäjä-, poliisi-, kruununvouti- tai veroviranomainen vaatii saada tietää, onko tietty henkilö jossakin hoitolaitoksessa</p>
+<p type="listitem">sosiaalihallituksen oikeudellisten, sosiaalisten ja lääketieteellisten asioiden neuvosto tarvitsee tietoja toimintaansa varten</p>
+<p type="listitem">Kuljetushallitus tarvitsee tietoja tarkastaakseen henkilön sopivuuden ajokortin, traktorikortin tai taksinkuljettajatodistuksen myöntämiseksi</p>
+<p type="listitem">Tietoja tarvitaan päätökseen, joka koskee henkilön sulkemista korkeakouluopinnoista</p>
+<p type="listitem">tietoja tarvitaan oikeuslääketieteelliseen tutkimukseen.</p>
+</list><p>Jos potilasta epäillään niin vakavasta rikoksesta, että se johtaa vähintään yhden vuoden vankeuteen, hoitohenkilökunnalla on oikeus rikkoa vaitiolovelvollisuus tekemällä rikoksesta ilmoitus poliisille ja vastaamalla sekä poliisin että syyttäjäviranomaisten kysymyksiin. Tällaisia rikoksia ovat esimerkiksi murha, raiskaus ja törkeä pahoinpitely. On myös eräitä liikennerikoksia, kuten rattijuopumus, joiden rangaistusasteikko on lievempi mutta jotka hoitohenkilökunnalla on oikeus ilmoittaa.</p>
+<p type="title">Erityiset lapsia koskevat poikkeukset</p>
+<p>Jos kyseessä on lapsi, hoitohenkilökunta voi poiketa vaitiolovelvollisuudesta, jos lapsen epäillään joutuneen rikoksen uhriksi. Kyseessä voi olla pahoinpitely tai seksuaalinen väkivalta.</p>
+<p>Jos hoitohenkilökunta epäilee lapsen altistuvan vaaralle, henkilökunnan tulee tehdä ilmoitus sosiaalipalveluun, joka tekee asiasta selvityksen ja mahdollisen poliisi-ilmoituksen. Sama pätee silloin, kun ollaan tekemässä jonkinlaista selvitystä alaikäisen tarpeesta suojeluun. Hoitohenkilökunnalla on silloin velvollisuus antaa tietoja, joilla saattaa olla merkitystä selvityksen kannalta.</p>
+<p type="title">Vakuutuskassa ja vakuutusyhtiöt</p>
+<p>Potilaalla on oikeus päättää, saako terveyden- ja sairaanhoito antaa tietoja sairauksista tai niihin annetuista hoidoista. Jos potilas on sairas ja hakee sairauskorvausta vakuutuskassasta, hoitohenkilökunta saa antaa sairauskorvausoikeuden arvioimiseen tarvittavat tiedot.</p>
+<p>Tämä pätee myös silloin, jos potilas on saanut vamman tai sairauden ja hän haluaa korvausta vakuutusyhtiöltä. Vakuutusyhtiöllä on tällöin oikeus saada korvausoikeuden arvioimiseen tarvittavat tiedot.</p>
+<p type="title">Vaitiolovelvollisuuden rikkominen</p>
+<p>Vaikka hoitohenkilökunta saa tietyissä tapauksissa rikkoa vaitiolovelvollisuutensa ja vaikka se joskus on tehtävä, on kyse vain poikkeustapauksista. Vaitiolovelvollisuuden perimmäinen tarkoitus on suojata potilasta.</p>
+<p>Jos potilas epäilee jonkun hoitohenkilökuntaan kuuluvan rikkoneen vaitiolovelvollisuutensa, hän voi tehdä siitä ilmoituksen poliisille tai Sosiaalihallitukselle. Ilmoitus saattaa johtaa siihen, että vaitiolovelvollisuutensa rikkonut saa syytteen ja että hänet tuomitaan.</p>
+</body></document>

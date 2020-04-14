@@ -1,59 +1,24 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>434</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Tandvardsstod-om-man-har-en-funktionsnedsattning</origFileName>
-    <parallel_text xml:lang="eng" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <parallel_text xml:lang="fit" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <parallel_text xml:lang="sme" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <parallel_text xml:lang="swe" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Toimintarajoitteisen henkilön hammashuollon tuki / Tandvårdsstöd om man har en funktionsnedsättning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Toimintarajoitteisen henkilön hammashuollon tukiTandvårdsstöd om man har en funktionsnedsättning</p>
-    <p type="title">Jos tarvitset paljon hammashuoltoa</p>
-    <p>Tietyissä pitkäaikaissairauksissa ja toimintarajoitteissa tarvitaan usein tavallista enemmän hammashoitoa. Se voi johtua siitä, että sairaus lisää hammasvaurioiden riskiä tai ongelmia suuhygienian hoidossa, ja potilaalla on vapinaa tai täydellinen tai osittainen kasvohalvaus.</p>
-    <p>Sairauden vuoksi voi olla myös vaikeaa avata suu ammolleen, ja silloin hammaslääkärin tai suuhygienistin voi olla vaikea hoitaa hampaita. Hammashoito maksaa silloin kuten sairaanhoito. Se tarkoittaa, että maksu voidaan laskea yhteen muiden terveyden- ja sairaanhoidon maksujen kanssa, ja se voi siten sisältyä sairaanhoidon maksukattoon (högkostnadsskydd).</p>
-    <p>Kaikki hammashoito ei sisälly tukeen. Tukeen sisältyviä hoitoja ovat tutkimukset, ennalta ehkäisevä hoito, paikkaukset, hampaiden irtoamissairauden (parodontiitin) hoidot, juurentäytöt ja hampaiden poisto. Irrotettavat proteesit kuuluvat myös hammashuoltotuen piiriin. Kiinteät proteesit, kuten kruunut, sillat ja implantit eivät sitä vastoin kuulu sen piiriin.</p>
-    <p>Potilas valitsee itse hammaslääkärin ja suuhygienistin, jonka vastaanotolla hän haluaa käydä.</p>
-    <p type="title">Kenellä on oikeus hammashuoltotukeen?</p>
-    <p>Asuinpaikkakunnan maakäräjät ja läänit päättävät, onko henkilö oikeutettu hammashuoltotukeen. Jokainen hakemus käsitellään erikseen. Ei riitä, että henkilö on saanut diagnoosin sairaudestaan tai tilastaan. Toimintarajoitteisuus on myös arvioitava, toisin sanoen on arvioitava, kuinka sairaus vaikuttaa potilaan mahdollisuuteen hoitaa suuhygieniansa ja mitä ongelmia voi tulla hampaiden hoidossa.</p>
-    <p>Pitkäaikaisiin sairauksiin ja toimintarajoitteisiin, jotka voivat oikeuttaa hammashuoltotukeen, kuuluvat:</p>
-    <list>
-      <p type="listitem">Psyykkinen sairaus, joka johtaa siihen, että henkilön on vaikea hoitaa suuhygieniansa.</p>
-      <p type="listitem">Parkinsonin tauti ja multippeliskleroosi, MS ja amyotrofinen lateraaliskleroosi, jotka ovat kaikki hermoston sairauksia.</p>
-      <p type="listitem">Cerebral palsy, CP-vamma.</p>
-      <p type="listitem">Nivelreuma, skleroderma ja systeeminen lupus erythematosus, SLE.</p>
-      <p type="listitem">Leukojen epämuodostumat tai vammat.</p>
-      <p type="listitem">Aivohalvauksen eli stroken jälkeiset toimintarajoitteet.</p>
-      <p type="listitem">Harvinaiset diagnoosit Sosiaalihallituksen (Socialstyrelsen) luettelon mukaisesti.</p>
-    </list>
-    <p type="title">Kuinka hammashuoltotukea haetaan?</p>
-    <p>Tuen hakemiseksi potilas tarvitsee erityisen lääkärintodistuksen, jossa lääkäri kuvailee sairauden ja toimintarajoitteen. Hoitava lääkäri tietää, mitä tietoja maakäräjät tai läänit vaativat lääkärintodistukseen.</p>
-    <p>Lääkäri, hammaslääkäri tai potilas lähettää lääkärintodistuksen asuinseudun maakäräjien tai läänin hammashuollosta vastaavaan yksikköön. Sitä kutsutaan joskus hammashuoltoyksiköksi (tandvårdsenhet), mutta nimitys voi vaihdella asuinpaikasta riippuen. Sen jälkeen arvioiva hammaslääkäri tekee päätöksen, onko potilaalla oikeus hammashuoltotukeen ja kuinka pitkään se on voimassa.</p>
-    <p>Jos potilas on oikeutettu hammashuoltotukeen, hän saa kortin tai todistuksen, joka esitetään hammaslääkärissä tai suuhygienistillä. Hammashuoltokortilla voi olla erilaisia voimassaoloaikoja riippuen siitä, miten toimintarajoitteisuutta arvioidaan ja se on esitettävä aina hammashoitoon tultaessa. Silloin potilas maksaa hammashoitokäynnistään samalla tavalla kuin sairaanhoidosta. Maksukattokorttiin (högkostnadskortet) tulee myös leima, ja jos potilaalla on vapaakortti (frikort), se on voimassa myös hammashoitokäynnillä.</p>
-    <p type="title">Kenen puoleen voi kääntyä, jos on kysyttävää?</p>
-    <p>Jos on kysyttävää tai haluaa lisätietoja hammashoidosta tiettyjen pitkäaikaissairauksien ja toimintarajoitteiden yhteydessä, on ensisijaisesti kysyttävä omalta hammaslääkäriltä tai hoitavalta lääkäriltä. Toissijaisesti voi kääntyä kysymyksineen asuinseudun maakäräjien tai läänin sen yksikön puoleen, joka vastaa hammashuollosta.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>430</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Tandvardsstod-om-man-har-en-funktionsnedsattning</origFileName><parallel_text xml:lang="eng" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><parallel_text xml:lang="fit" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><parallel_text xml:lang="sme" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><parallel_text xml:lang="swe" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Toimintarajoitteisen henkilön hammashuollon tuki / Tandvårdsstöd om man har en funktionsnedsättning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Toimintarajoitteisen henkilön hammashuollon tukiTandvårdsstöd om man har en funktionsnedsättning</p>
+<p type="title">Jos tarvitset paljon hammashuoltoa</p>
+<p>Tietyissä pitkäaikaissairauksissa ja toimintarajoitteissa tarvitaan usein tavallista enemmän hammashoitoa. Se voi johtua siitä, että sairaus lisää hammasvaurioiden riskiä tai ongelmia suuhygienian hoidossa, ja potilaalla on vapinaa tai täydellinen tai osittainen kasvohalvaus.</p>
+<p>Sairauden vuoksi voi olla myös vaikeaa avata suu ammolleen, ja silloin hammaslääkärin tai suuhygienistin voi olla vaikea hoitaa hampaita. Hammashoito maksaa silloin kuten sairaanhoito. Se tarkoittaa, että maksu voidaan laskea yhteen muiden terveyden- ja sairaanhoidon maksujen kanssa, ja se voi siten sisältyä sairaanhoidon maksukattoon (högkostnadsskydd).</p>
+<p>Kaikki hammashoito ei sisälly tukeen. Tukeen sisältyviä hoitoja ovat tutkimukset, ennalta ehkäisevä hoito, paikkaukset, hampaiden irtoamissairauden (parodontiitin) hoidot, juurentäytöt ja hampaiden poisto. Irrotettavat proteesit kuuluvat myös hammashuoltotuen piiriin. Kiinteät proteesit, kuten kruunut, sillat ja implantit eivät sitä vastoin kuulu sen piiriin.</p>
+<p>Potilas valitsee itse hammaslääkärin ja suuhygienistin, jonka vastaanotolla hän haluaa käydä.</p>
+<p type="title">Kenellä on oikeus hammashuoltotukeen?</p>
+<p>Asuinpaikkakunnan maakäräjät ja läänit päättävät, onko henkilö oikeutettu hammashuoltotukeen. Jokainen hakemus käsitellään erikseen. Ei riitä, että henkilö on saanut diagnoosin sairaudestaan tai tilastaan. Toimintarajoitteisuus on myös arvioitava, toisin sanoen on arvioitava, kuinka sairaus vaikuttaa potilaan mahdollisuuteen hoitaa suuhygieniansa ja mitä ongelmia voi tulla hampaiden hoidossa.</p>
+<p>Pitkäaikaisiin sairauksiin ja toimintarajoitteisiin, jotka voivat oikeuttaa hammashuoltotukeen, kuuluvat:</p>
+<list><p type="listitem">Psyykkinen sairaus, joka johtaa siihen, että henkilön on vaikea hoitaa suuhygieniansa.</p>
+<p type="listitem">Parkinsonin tauti ja multippeliskleroosi, MS ja amyotrofinen lateraaliskleroosi, jotka ovat kaikki hermoston sairauksia.</p>
+<p type="listitem">Cerebral palsy, CP-vamma.</p>
+<p type="listitem">Nivelreuma, skleroderma ja systeeminen lupus erythematosus, SLE.</p>
+<p type="listitem">Leukojen epämuodostumat tai vammat.</p>
+<p type="listitem">Aivohalvauksen eli stroken jälkeiset toimintarajoitteet.</p>
+<p type="listitem">Harvinaiset diagnoosit Sosiaalihallituksen (Socialstyrelsen) luettelon mukaisesti.</p>
+</list><p type="title">Kuinka hammashuoltotukea haetaan?</p>
+<p>Tuen hakemiseksi potilas tarvitsee erityisen lääkärintodistuksen, jossa lääkäri kuvailee sairauden ja toimintarajoitteen. Hoitava lääkäri tietää, mitä tietoja maakäräjät tai läänit vaativat lääkärintodistukseen.</p>
+<p>Lääkäri, hammaslääkäri tai potilas lähettää lääkärintodistuksen asuinseudun maakäräjien tai läänin hammashuollosta vastaavaan yksikköön. Sitä kutsutaan joskus hammashuoltoyksiköksi (tandvårdsenhet), mutta nimitys voi vaihdella asuinpaikasta riippuen. Sen jälkeen arvioiva hammaslääkäri tekee päätöksen, onko potilaalla oikeus hammashuoltotukeen ja kuinka pitkään se on voimassa.</p>
+<p>Jos potilas on oikeutettu hammashuoltotukeen, hän saa kortin tai todistuksen, joka esitetään hammaslääkärissä tai suuhygienistillä. Hammashuoltokortilla voi olla erilaisia voimassaoloaikoja riippuen siitä, miten toimintarajoitteisuutta arvioidaan ja se on esitettävä aina hammashoitoon tultaessa. Silloin potilas maksaa hammashoitokäynnistään samalla tavalla kuin sairaanhoidosta. Maksukattokorttiin (högkostnadskortet) tulee myös leima, ja jos potilaalla on vapaakortti (frikort), se on voimassa myös hammashoitokäynnillä.</p>
+<p type="title">Kenen puoleen voi kääntyä, jos on kysyttävää?</p>
+<p>Jos on kysyttävää tai haluaa lisätietoja hammashoidosta tiettyjen pitkäaikaissairauksien ja toimintarajoitteiden yhteydessä, on ensisijaisesti kysyttävä omalta hammaslääkäriltä tai hoitavalta lääkäriltä. Toissijaisesti voi kääntyä kysymyksineen asuinseudun maakäräjien tai läänin sen yksikön puoleen, joka vastaa hammashuollosta.</p>
+</body></document>

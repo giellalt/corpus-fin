@@ -1,36 +1,10 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>315</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=650396</origFileName>
-    <parallel_text xml:lang="swe" location="sverigefinsk_verksamhet.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Suomeksi - Svenska kyrkan - Härnösands stift</p>
-    <p type="title">Hiippakunnan ruotsinsuomalainen toiminta ja sen uudistuvat tarpeet</p>
-    <p type="title">Ruotsinsuomalainen toiminta hiippakunnan eri seurakunnissa ajankohtaistaa sekä suomen kielen että suomalaiset perinteet. Ruotsinsuomalaiset on saatava näkyviksi ja kantaessaan kortensa kekoon he ovat näin mukana rakentamassa yhtenäistä kirkkoa.</p>
-    <p>http://player.vimeo.com/video/57213500</p>
-    <p>Härnösandin piispa Tuulikki Koivunen Bylund on suomalaissyntyinen. Hänen avullaan monikielinen toiminta, varsinkin ruotsinsuomalainen, muodostunee erityisen mielekkääksi. Hiippakunnan ruotsinsuomalaisella työllä on pitkät perinteet. Ne juontavat juurensa toisen maailmansodan aikana alkaneeseen ja myöhemmin sen jälkeiseen Suomesta hiippakunnan rannikkoseudun teollisuusalueille suuntautuneeseen muuttoliikkeeseen. Tänä päivänä ruotsinsuomalaisia asuu runsaasti Sundsvallissa, Kramforsissa ja Örnsködsvikissä. Hiippakunta keskittää ruotsinsuomalaisen toimintansa juuri näille alueille.</p>
-    <p><em type="italic">Sekä kieltä että kulttuuria </em>Hiippakunnan ja sen seurakuntien vähemmistökielisen toiminnan perustana ei ole ainoastaan kieli vaan myös kulttuuri. Suomalaistaustaisista nuorista monet eivät osaa suomea. He haluavat kuitenkin oppia suomenkieltä vahvistaakseen identiteettiään ja kyetäkseen pitämään yhteyttä Suomessa asuviin sukulaisiinsa. Suomen kielen ja oman kulttuuritaustan tunteminen nousee yhä keskeisemmäksi. Kirkko painottaa sitä, että jokaiselle on tärkeää tulla nähdyksi, kokea olevansa osallinen, tuntea olevansa mukana vaikuttamassa ja näin rikastuttamassa kokonaisuutta. Äidinkielen merkitys kasvaa ikääntyessä ja muistin heiketessä se on lopulta ainoa jäljellä oleva kieli. Seurakunnille tämä merkitsee kasvavaa suomenkielisen diakonian tarvetta. </p>
-    <p><em type="italic">Jumalanpalvelukset ja kuorot </em>Seurakuntien ruotsinsuomalainen toiminta - yhteistyössä naapuriseurakuntien tai hiippakunnan kanssa – koostuu ensisijaisesti suomen- tai kaksikielisistä jumalanpalveluksista sekä kirkollisista toimituksista. Lisäksi monissa seurakunnissa järjestetään raamattupiirejä, kuorotoimintaa, erilaisia juhlia ja <span type="quote">”Kauneimmat joululaulut”</span>- tilaisuuksia. Seurakunnat pyrkivät tarjoamaan myös sielunhoidollista apua. Seurakuntien ja erilaisten suomenkielisten yhdistysten yhteistyötä tulee vahvistaa eri tavoi. Ruotsinsuomalainen toiminta kaipaa kipeästi vapaaehtoisia työntekijöitä, sekä palvelevassa puhelimessa että lähimmäispalvelussa. </p>
-    <p><em type="italic">Tarve-ja kehittämiskeskus tukee seurakuntia </em>Härnösandin hiippakunta on perustanut ruotsinsuomalaisen tarve- ja kehittämiskeskuksen Sundsvalliin, jossa ruotsinsuomalaisia on eniten. Keskuksen tarkoituksena on sekä tukea ruotsinsuomalaista työtä seurakunnissa että rekrytoida, kouluttaa ja valistaa. Hiippakuntatasolla toimii ruotsinsuomalainen viiteryhmä, tiiviissä yhteistyössä tarve- ja kehittämiskeskuksen kanssa, kaikupohjana palkatulle henkilökunnalle ja hiippakuntahallitukselle. Lisätietoja: Minna Lehto , diakoni, p. 060-53 101 22, 070-648 68 19 Reijo Oivaeus , pappi, p. 060-53 101 14, 073-271 01 14 </p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>315</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=650396</origFileName><parallel_text xml:lang="swe" location="sverigefinsk_verksamhet.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Suomeksi - Svenska kyrkan - Härnösands stift</p>
+<p type="title">Hiippakunnan ruotsinsuomalainen toiminta ja sen uudistuvat tarpeet</p>
+<p type="title">Ruotsinsuomalainen toiminta hiippakunnan eri seurakunnissa ajankohtaistaa sekä suomen kielen että suomalaiset perinteet. Ruotsinsuomalaiset on saatava näkyviksi ja kantaessaan kortensa kekoon he ovat näin mukana rakentamassa yhtenäistä kirkkoa.</p>
+<p>http://player.vimeo.com/video/57213500</p>
+<p>Härnösandin piispa Tuulikki Koivunen Bylund on suomalaissyntyinen. Hänen avullaan monikielinen toiminta, varsinkin ruotsinsuomalainen, muodostunee erityisen mielekkääksi. Hiippakunnan ruotsinsuomalaisella työllä on pitkät perinteet. Ne juontavat juurensa toisen maailmansodan aikana alkaneeseen ja myöhemmin sen jälkeiseen Suomesta hiippakunnan rannikkoseudun teollisuusalueille suuntautuneeseen muuttoliikkeeseen. Tänä päivänä ruotsinsuomalaisia asuu runsaasti Sundsvallissa, Kramforsissa ja Örnsködsvikissä. Hiippakunta keskittää ruotsinsuomalaisen toimintansa juuri näille alueille.</p>
+<p><em type="italic">Sekä kieltä että kulttuuria </em>Hiippakunnan ja sen seurakuntien vähemmistökielisen toiminnan perustana ei ole ainoastaan kieli vaan myös kulttuuri. Suomalaistaustaisista nuorista monet eivät osaa suomea. He haluavat kuitenkin oppia suomenkieltä vahvistaakseen identiteettiään ja kyetäkseen pitämään yhteyttä Suomessa asuviin sukulaisiinsa. Suomen kielen ja oman kulttuuritaustan tunteminen nousee yhä keskeisemmäksi. Kirkko painottaa sitä, että jokaiselle on tärkeää tulla nähdyksi, kokea olevansa osallinen, tuntea olevansa mukana vaikuttamassa ja näin rikastuttamassa kokonaisuutta. Äidinkielen merkitys kasvaa ikääntyessä ja muistin heiketessä se on lopulta ainoa jäljellä oleva kieli. Seurakunnille tämä merkitsee kasvavaa suomenkielisen diakonian tarvetta. </p>
+<p><em type="italic">Jumalanpalvelukset ja kuorot </em>Seurakuntien ruotsinsuomalainen toiminta - yhteistyössä naapuriseurakuntien tai hiippakunnan kanssa – koostuu ensisijaisesti suomen- tai kaksikielisistä jumalanpalveluksista sekä kirkollisista toimituksista. Lisäksi monissa seurakunnissa järjestetään raamattupiirejä, kuorotoimintaa, erilaisia juhlia ja <span type="quote">”Kauneimmat joululaulut”</span>- tilaisuuksia. Seurakunnat pyrkivät tarjoamaan myös sielunhoidollista apua. Seurakuntien ja erilaisten suomenkielisten yhdistysten yhteistyötä tulee vahvistaa eri tavoi. Ruotsinsuomalainen toiminta kaipaa kipeästi vapaaehtoisia työntekijöitä, sekä palvelevassa puhelimessa että lähimmäispalvelussa. </p>
+<p><em type="italic">Tarve-ja kehittämiskeskus tukee seurakuntia </em>Härnösandin hiippakunta on perustanut ruotsinsuomalaisen tarve- ja kehittämiskeskuksen Sundsvalliin, jossa ruotsinsuomalaisia on eniten. Keskuksen tarkoituksena on sekä tukea ruotsinsuomalaista työtä seurakunnissa että rekrytoida, kouluttaa ja valistaa. Hiippakuntatasolla toimii ruotsinsuomalainen viiteryhmä, tiiviissä yhteistyössä tarve- ja kehittämiskeskuksen kanssa, kaikupohjana palkatulle henkilökunnalle ja hiippakuntahallitukselle. Lisätietoja: Minna Lehto , diakoni, p. 060-53 101 22, 070-648 68 19 Reijo Oivaeus , pappi, p. 060-53 101 14, 073-271 01 14 </p>
+<p>//</p>
+</body></document>

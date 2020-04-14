@@ -1,105 +1,73 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Uusi kirja saamelaisesta kulttuuriympäristöstä ilmestyy — Siida</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2013</year>
-    <wordcount>513</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.siida.fi/sisalto/tiedotteet/uusi-kirja-saamelaisesta-kulttuuriympristst-ilmestyy</origFileName>
-    <parallel_text xml:lang="eng" location="oa-girji-smi-kulturbirrasis-almmustuvv.html"/>
-    <parallel_text xml:lang="sme" location="oa-girji-smi-kulturbirrasis-almmustuvv.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="sme">sámegillii |</p>
-      <p type="listitem" xml:lang="eng">in English |</p>
-      <p type="listitem">suomeksi |</p>
-      <p type="listitem" xml:lang="rus">Русский</p>
-    </list>
-    <p xml:lang="nob">Hae</p>
-    <p>Laajennettu haku...</p>
-    <p>Siirry sisältöön. | Siirry navigointiin</p>
-    <p type="title" xml:lang="eng">Osiot</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Pääsivu |</p>
-      <p type="listitem">Kokoelmat |</p>
-      <p type="listitem">Luontopalvelut |</p>
-      <p type="listitem">Ravintola |</p>
-      <p type="listitem">Kokoukset |</p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet |</p>
-      <p type="listitem">Kolttien Perinnetalo</p>
-    </list>
-    <list>
-      <p type="listitem">Sivukartta |</p>
-      <p type="listitem">Ota yhteyttä |</p>
-      <p type="listitem" xml:lang="smj">RSS |</p>
-      <p type="listitem">Uutiskirje</p>
-    </list>
-    <p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
-    <p xml:lang="est">POHJOINEN LUONTO  Luontokeskus</p>
-    <p xml:lang="eng">Info</p>
-    <p xml:lang="smn">Pääsivu</p>
-    <p xml:lang="koi">/</p>
-    <p xml:lang="fkv">Tiedotteet /</p>
-    <p>Uusi kirja saamelaisesta kulttuuriympäristöstä ilmestyy</p>
-    <p type="title">Uusi kirja saamelaisesta kulttuuriympäristöstä ilmestyy</p>
-    <p>perjantai 01. Marraskuuta 2013, 11.55</p>
-    <p>Ealli biras – Elävä ympäristö - saamelainen kulttuuriympäristöohjelma -kirja kertoo Suomen saamelaisalueen kulttuuriympäristöistä saamelaisen kulttuurin näkökulmasta. Kirja julkistetaan Saamelaismuseon auditoriossa tiistaina 19. marraskuuta 2013 klo 13.00. Kirjan ovat toimittaneet Päivi Magga ja Eija Ojanlatva. Kirjassa on useiden kirjoittajien artikkeleita, jotka kertovat saamelaisalueen historiasta ja nykypäivästä ja esittelevät erilaisia kohteita. Saamelainen kulttuuriympäristöohjelma on tehty Saamelaismuseo Siidan Ealli biras -hankkeessa. Hankkeen rahoittaja on EU:n aluekehitysrahasto EAKR ja kansallinen rahoittaja Lapin liitto. Kirja ilmestyy Saamelaismuseosäätiön julkaisusarjassa, ja sitä on saatavilla Siidan museokaupassa.</p>
-    <p>Saamelainen kulttuuriympäristöohjelma -kirjan kansi</p>
-    <p>Julkaisun tavoitteena on tuoda esiin saamelaisalueen kulttuuriympäristön erityispiirteitä. Siinä luodaan katsaus saamelaisalueen kulttuuriympäristöjen historialliseen kehitykseen aina ensimmäisistä löydetyistä ihmisen jäljistä nykyaikaan saakka sekä esitellään arkeologisen kulttuuriperinnön ja rakennetun ympäristön nykytilaa. Kirja tarjoaa mielenkiintoista tietoa kaikille kotiseudustaan kiinnostuneille, viranomaisille kaavoituksen ja muun maankäytön suunnittelun välineeksi sekä eri oppilaitoksille opetuksen tueksi.</p>
-    <p>Laajan saamelaisalueen luonnonolosuhteet vaihtelevat pohjoisimmista tunturipaljakoista Keski-Lapin metsiin ja aapasoihin. Erilaiset alueet ovat synnyttäneet erilaisia maankäytön, elinkeinojen ja asumisen muotoja. Luonnonolosuhteiden mukaiset eriytymiset ovat ajan myötä muodostuneet myös kieli- ja kulttuurirajoiksi. Toisaalta valtioiden harjoittama politiikka, rajojen vedot, sodat sekä asutus- ja elinkeinopolitiikka ovat kaikki osaltaan vaikuttaneet siihen, millainen saamelaisalueen kulttuuriympäristö on nykyään. Näitä aihepiirejä saamelainen kulttuuriympäristöohjelma esittelee teemoittain saamelaisen kulttuurin näkökulmasta. Julkaisu sisältää pitkän aikaperspektiivin aina ensimmäisistä löydetyistä ihmisen jäljistä nykyaikaan saakka.</p>
-    <p>Saamelainen kulttuuriympäristöohjelma -julkaisuun liittyy myös Ealli biras -näyttely, joka on esillä Siidassa 28.9.2014 saakka. Julkaisu ja näyttely ovat syntyneet Ealli biras-hankkeen ja Saamelaismuseon toisen hankkeen, Saamelainen kulttuuriympäristöyksikkö -pilottihankkeen yhteistyössä.</p>
-    <p>Ealli biras -hanke toteutettiin 1.3.2011–30.9.2013, ja sen toiminta-alueena oli saamelaisten kotiseutualue. Hankkeen rahoittajana oli EAKR – Euroopan aluekehitysrahasto ja kansallisena rahoittajana Lapin liitto. Hankkeen projektikoordinaattorina on työskennellyt Päivi Magga.</p>
-    <p>Saamelainen kulttuuriympäristöyksikkö -hanke (21.2.2011–31.12.2013) on opetus- ja kulttuuriministeriön rahoittama pilottihanke. Hankkeen avulla siirrettiin saamelaisalueen arkeologiseen kulttuuriperintöön ja sen hoitoon liittyvät viranomaistehtävät Saamelaismuseon alaisuuteen. Toimintojen siirtymisen saamelaisten kotiseutualueelle mahdollisti Museoviraston ja Saamelaismuseon 1.1.2011 allekirjoittama arkeologista kulttuuriperintöä koskeva yhteistyösopimus. Hankkeessa on työskennellyt arkeologi Eija Ojanlatva. Näiden hankkeiden kautta Saamelaismuseolla on aloitettu kulttuuriympäristöyksikön toiminta.</p>
-    <p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
-    <p type="title">Tehdyt toimenpiteet</p>
-    <list>
-      <p type="listitem">Lähetä</p>
-      <p type="listitem">Tulosta</p>
-    </list>
-    <p xml:lang="vep">SISÄLTÖ</p>
-    <p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
-    <p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
-    <p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
-    <p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
-    <p>Saamelainen tarinaperinne ja luonto tutuksi</p>
-    <p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
-    <p>Karhuja Siidan luontoilloissa Inarissa</p>
-    <p>Siidan kesätyöpaikat 2017 auki</p>
-    <p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
-    <p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
-    <p type="title" xml:lang="vep">VIERAILIJAINFO</p>
-    <p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
-    <p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
-    <p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
-    <p>&gt; aukioloajat</p>
-    <p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
-    <p>&gt; yhteystiedot</p>
-    <p>&gt; saavutettavuus</p>
-    <p>&gt; opastukset</p>
-    <p>&gt; Siidan arkkitehtuuri</p>
-    <p>kalenteri</p>
-    <p xml:lang="koi">|</p>
-    <p>mediakuvapankki</p>
-    <p xml:lang="sme">matkailuinfo</p>
-    <p xml:lang="sme">Siida</p>
-    <p xml:lang="sms">Siida Shop</p>
-    <p>Saamelaismuseon blogi</p>
-    <p>medialle | matkanjärjestäjille</p>
-    <p xml:lang="sme">Copyright Siida 2010</p>
-    <p xml:lang="koi">|</p>
-    <p xml:lang="est">Updated 10.6.2010</p>
-    <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Uusi kirja saamelaisesta kulttuuriympäristöstä ilmestyy — Siida</title><genre code="facta"/><author><unknown/></author><year>2013</year><wordcount>513</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/uusi-kirja-saamelaisesta-kulttuuriympristst-ilmestyy</origFileName><parallel_text xml:lang="eng" location="oa-girji-smi-kulturbirrasis-almmustuvv.html"/><parallel_text xml:lang="sme" location="oa-girji-smi-kulturbirrasis-almmustuvv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<p type="listitem" xml:lang="eng">in English |</p>
+<p type="listitem">suomeksi |</p>
+<p type="listitem" xml:lang="rus">Русский</p>
+</list><p xml:lang="nob">Hae</p>
+<p>Laajennettu haku...</p>
+<p>Siirry sisältöön. | Siirry navigointiin</p>
+<p type="title" xml:lang="eng">Osiot</p>
+<list><p type="listitem" xml:lang="smn">Pääsivu |</p>
+<p type="listitem">Kokoelmat |</p>
+<p type="listitem">Luontopalvelut |</p>
+<p type="listitem">Ravintola |</p>
+<p type="listitem">Kokoukset |</p>
+<p type="listitem" xml:lang="fkv">Tiedotteet |</p>
+<p type="listitem">Kolttien Perinnetalo</p>
+</list><list><p type="listitem">Sivukartta |</p>
+<p type="listitem">Ota yhteyttä |</p>
+<p type="listitem" xml:lang="smj">RSS |</p>
+<p type="listitem">Uutiskirje</p>
+</list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
+<p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
+<p xml:lang="eng">Info</p>
+<p xml:lang="smn">Pääsivu</p>
+<p xml:lang="vep">/</p>
+<p xml:lang="fkv">Tiedotteet /</p>
+<p>Uusi kirja saamelaisesta kulttuuriympäristöstä ilmestyy</p>
+<p type="title">Uusi kirja saamelaisesta kulttuuriympäristöstä ilmestyy</p>
+<p>perjantai 01. Marraskuuta 2013, 11.55</p>
+<p>Ealli biras – Elävä ympäristö - saamelainen kulttuuriympäristöohjelma -kirja kertoo Suomen saamelaisalueen kulttuuriympäristöistä saamelaisen kulttuurin näkökulmasta. Kirja julkistetaan Saamelaismuseon auditoriossa tiistaina 19. marraskuuta 2013 klo 13.00. Kirjan ovat toimittaneet Päivi Magga ja Eija Ojanlatva. Kirjassa on useiden kirjoittajien artikkeleita, jotka kertovat saamelaisalueen historiasta ja nykypäivästä ja esittelevät erilaisia kohteita. Saamelainen kulttuuriympäristöohjelma on tehty Saamelaismuseo Siidan Ealli biras -hankkeessa. Hankkeen rahoittaja on EU:n aluekehitysrahasto EAKR ja kansallinen rahoittaja Lapin liitto. Kirja ilmestyy Saamelaismuseosäätiön julkaisusarjassa, ja sitä on saatavilla Siidan museokaupassa.</p>
+<p>Saamelainen kulttuuriympäristöohjelma -kirjan kansi</p>
+<p>Julkaisun tavoitteena on tuoda esiin saamelaisalueen kulttuuriympäristön erityispiirteitä. Siinä luodaan katsaus saamelaisalueen kulttuuriympäristöjen historialliseen kehitykseen aina ensimmäisistä löydetyistä ihmisen jäljistä nykyaikaan saakka sekä esitellään arkeologisen kulttuuriperinnön ja rakennetun ympäristön nykytilaa. Kirja tarjoaa mielenkiintoista tietoa kaikille kotiseudustaan kiinnostuneille, viranomaisille kaavoituksen ja muun maankäytön suunnittelun välineeksi sekä eri oppilaitoksille opetuksen tueksi.</p>
+<p>Laajan saamelaisalueen luonnonolosuhteet vaihtelevat pohjoisimmista tunturipaljakoista Keski-Lapin metsiin ja aapasoihin. Erilaiset alueet ovat synnyttäneet erilaisia maankäytön, elinkeinojen ja asumisen muotoja. Luonnonolosuhteiden mukaiset eriytymiset ovat ajan myötä muodostuneet myös kieli- ja kulttuurirajoiksi. Toisaalta valtioiden harjoittama politiikka, rajojen vedot, sodat sekä asutus- ja elinkeinopolitiikka ovat kaikki osaltaan vaikuttaneet siihen, millainen saamelaisalueen kulttuuriympäristö on nykyään. Näitä aihepiirejä saamelainen kulttuuriympäristöohjelma esittelee teemoittain saamelaisen kulttuurin näkökulmasta. Julkaisu sisältää pitkän aikaperspektiivin aina ensimmäisistä löydetyistä ihmisen jäljistä nykyaikaan saakka.</p>
+<p>Saamelainen kulttuuriympäristöohjelma -julkaisuun liittyy myös Ealli biras -näyttely, joka on esillä Siidassa 28.9.2014 saakka. Julkaisu ja näyttely ovat syntyneet Ealli biras-hankkeen ja Saamelaismuseon toisen hankkeen, Saamelainen kulttuuriympäristöyksikkö -pilottihankkeen yhteistyössä.</p>
+<p>Ealli biras -hanke toteutettiin 1.3.2011–30.9.2013, ja sen toiminta-alueena oli saamelaisten kotiseutualue. Hankkeen rahoittajana oli EAKR – Euroopan aluekehitysrahasto ja kansallisena rahoittajana Lapin liitto. Hankkeen projektikoordinaattorina on työskennellyt Päivi Magga.</p>
+<p>Saamelainen kulttuuriympäristöyksikkö -hanke (21.2.2011–31.12.2013) on opetus- ja kulttuuriministeriön rahoittama pilottihanke. Hankkeen avulla siirrettiin saamelaisalueen arkeologiseen kulttuuriperintöön ja sen hoitoon liittyvät viranomaistehtävät Saamelaismuseon alaisuuteen. Toimintojen siirtymisen saamelaisten kotiseutualueelle mahdollisti Museoviraston ja Saamelaismuseon 1.1.2011 allekirjoittama arkeologista kulttuuriperintöä koskeva yhteistyösopimus. Hankkeessa on työskennellyt arkeologi Eija Ojanlatva. Näiden hankkeiden kautta Saamelaismuseolla on aloitettu kulttuuriympäristöyksikön toiminta.</p>
+<p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
+<p type="title">Tehdyt toimenpiteet</p>
+<list><p type="listitem">Lähetä</p>
+<p type="listitem">Tulosta</p>
+</list><p xml:lang="vep">SISÄLTÖ</p>
+<p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
+<p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
+<p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
+<p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
+<p>Saamelainen tarinaperinne ja luonto tutuksi</p>
+<p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
+<p>Karhuja Siidan luontoilloissa Inarissa</p>
+<p>Siidan kesätyöpaikat 2017 auki</p>
+<p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
+<p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
+<p type="title" xml:lang="deu">VIERAILIJAINFO</p>
+<p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
+<p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
+<p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
+<p>&gt; aukioloajat</p>
+<p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
+<p>&gt; yhteystiedot</p>
+<p>&gt; saavutettavuus</p>
+<p>&gt; opastukset</p>
+<p>&gt; Siidan arkkitehtuuri</p>
+<p>kalenteri</p>
+<p xml:lang="vep">|</p>
+<p>mediakuvapankki</p>
+<p xml:lang="sme">matkailuinfo</p>
+<p xml:lang="sme">Siida</p>
+<p xml:lang="sms">Siida Shop</p>
+<p>Saamelaismuseon blogi</p>
+<p>medialle | matkanjärjestäjille</p>
+<p xml:lang="sme">Copyright Siida 2010</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="est">Updated 10.6.2010</p>
+<p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
+</body></document>

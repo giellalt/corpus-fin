@@ -1,34 +1,8 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - ”Raportti saamelaisten ihmisoikeuksista on ainutlaatuinen tehtävä”</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>176</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=370&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=370_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=370_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=370_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <span type="quote">”Raportti saamelaisten ihmisoikeuksista on ainutlaatuinen tehtävä”</span>
-    </p>
-    <p>- Saamelaisten ihmisoikeuksia käsittelevän raportin laatiminen on ainutlaatuinen tehtävä. &#13; - Aiemmat alkuperäiskansojen ihmisoikeusraportit ovat olleet &#13; valtiokohtaisia, joissa monissa on useita alkuperäiskansoja. &#13; Saamelaisten ihmisoikeuksia käsittelevä raportti on ensimmäinen, joka &#13; tulee käsittelemään yhtä kansaa neljän valtion alueella, totesi YK:n &#13; alkuperäiskansaraportoija James Anaya Rovaniemellä.</p>
-    <p>Kuvassa YK:n alkuperäiskansojen oikeuksien erityisraportoija, professori James Anaya Rovaniemellä. Kuva: Sára Márjá Magga.</p>
-    <p>Erityisraportoija Anaya kertoi, että hänen pyrkimyksenään on tarkastella saamelaisten ihmisoikeuksien toteutumista alkuperäiskansan näkökulmasta. Rovaniemellä 15.-16.4. järjestetyt tilaisuudet olivat osa saamelaisten, valtioiden ja erityisraportoijan välistä vuoropuhelua, joka tulee jatkumaan tilaisuuksien jälkeen. – Raportointia varten järjestettyjen tilaisuuksien jälkeen tulee yleensä lisää kysymyksiä, joihin haluamme vastauksia.</p>
-    <p>- Valmistettavan ihmisoikeusraportin tavoitteena on edistää alkuperäiskansan oikeuksien ja tilanteen positiivista kehittymistä. Raportti tulee sisältämään johtopäätöksiä ja suosituksia, jotka perustuvat Pohjoismaiden omaa alkuperäiskansaansa koskeviin velvoitteisiin.</p>
-    <p>- Raportti tulee tiedoksi valtioiden hallituksille, saamelaisille ja julkisuuteen ja se esitellään YK:n ihmisoikeusneuvostolle. Hallitusten ja saamelaisten edustajilla on mahdollisuus olla mukana ihmisoikeusneuvoston kokouksessa, joka on julkinen, kertoi Anaya.</p>
-    <p>Lue erityisraportoija James Anayan puhe 15.4. pidetyn konferenssin avauksessa tästä: OPENING STATEMENT OF THE SPECIAL RAPPORTEUR JAMES ANAYA 15042010</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - ”Raportti saamelaisten ihmisoikeuksista on ainutlaatuinen tehtävä”</title><genre code="admin"/><author><unknown/></author><wordcount>176</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=370&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=370_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=370_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=370_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><span type="quote">”Raportti saamelaisten ihmisoikeuksista on ainutlaatuinen tehtävä”</span></p>
+<p>- Saamelaisten ihmisoikeuksia käsittelevän raportin laatiminen on ainutlaatuinen tehtävä. &#13; - Aiemmat alkuperäiskansojen ihmisoikeusraportit ovat olleet &#13; valtiokohtaisia, joissa monissa on useita alkuperäiskansoja. &#13; Saamelaisten ihmisoikeuksia käsittelevä raportti on ensimmäinen, joka &#13; tulee käsittelemään yhtä kansaa neljän valtion alueella, totesi YK:n &#13; alkuperäiskansaraportoija James Anaya Rovaniemellä.</p>
+<p>Kuvassa YK:n alkuperäiskansojen oikeuksien erityisraportoija, professori James Anaya Rovaniemellä. Kuva: Sára Márjá Magga.</p>
+<p>Erityisraportoija Anaya kertoi, että hänen pyrkimyksenään on tarkastella saamelaisten ihmisoikeuksien toteutumista alkuperäiskansan näkökulmasta. Rovaniemellä 15.-16.4. järjestetyt tilaisuudet olivat osa saamelaisten, valtioiden ja erityisraportoijan välistä vuoropuhelua, joka tulee jatkumaan tilaisuuksien jälkeen. – Raportointia varten järjestettyjen tilaisuuksien jälkeen tulee yleensä lisää kysymyksiä, joihin haluamme vastauksia.</p>
+<p>- Valmistettavan ihmisoikeusraportin tavoitteena on edistää alkuperäiskansan oikeuksien ja tilanteen positiivista kehittymistä. Raportti tulee sisältämään johtopäätöksiä ja suosituksia, jotka perustuvat Pohjoismaiden omaa alkuperäiskansaansa koskeviin velvoitteisiin.</p>
+<p>- Raportti tulee tiedoksi valtioiden hallituksille, saamelaisille ja julkisuuteen ja se esitellään YK:n ihmisoikeusneuvostolle. Hallitusten ja saamelaisten edustajilla on mahdollisuus olla mukana ihmisoikeusneuvoston kokouksessa, joka on julkinen, kertoi Anaya.</p>
+<p>Lue erityisraportoija James Anayan puhe 15.4. pidetyn konferenssin avauksessa tästä: OPENING STATEMENT OF THE SPECIAL RAPPORTEUR JAMES ANAYA 15042010</p>
+</body></document>

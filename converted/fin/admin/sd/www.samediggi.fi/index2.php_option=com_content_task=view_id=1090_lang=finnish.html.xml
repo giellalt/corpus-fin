@@ -1,27 +1,3 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>30</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1090&amp;lang=finnish</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1090_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1090_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1090_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015</p>
-    <p>Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015 välisen ajan. Hallintopäällikön kesäloman sijaisena 1.-31.7.2015 toimii vs. lakimiessihteeri Kalle Varis, puh. 010 8393 187, gsm. 050 384 70 40.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015</title><genre code="admin"/><author><unknown/></author><wordcount>30</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1090&amp;lang=finnish</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1090_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1090_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1090_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015</p>
+<p>Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015 välisen ajan. Hallintopäällikön kesäloman sijaisena 1.-31.7.2015 toimii vs. lakimiessihteeri Kalle Varis, puh. 010 8393 187, gsm. 050 384 70 40.</p>
+</body></document>

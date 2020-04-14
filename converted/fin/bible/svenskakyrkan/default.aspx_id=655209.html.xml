@@ -1,35 +1,8 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>86</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=655209</origFileName>
-    <parallel_text xml:lang="sme" location="default.aspx_id=767264.html"/>
-    <parallel_text xml:lang="smj" location="default.aspx_id=766393.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Konfirmaatio - Svenska kyrkan - Om oss</p>
-    <p type="title">Konfirmaatio</p>
-    <p type="title">Rippikoulu ja konfirmaatio tarjoavat mahdollisuuden sinulle, joka olet kiinnostunut elämästä ja haluat oppia enemmän kristillisestä uskosta ja sen merkityksestä elämässäsi.</p>
-    <p>Rippikouluopetukseen sisältyvät keskustelut, pohdinnat ja jumalanpalvelukset avartavat mietteitä omasta minuudesta ja omasta uskosta.</p>
-    <p>Kuka Jeesus oli? Mitä Raamatussa sanotaan? Siinä tärkeitä uskon kysymyksiä. Keskeisiä ovat myös ihmisyyteen liittyvät peruskysymykset oikeasta ja väärästä, ystävyydestä, rakkaudesta, seksistä, elämän tarkoituksesta.</p>
-    <p>Rippikoulu päättyy konfirmaatiojumalanpalvelukseen. Konfirmaatio on kasteen vahvistus. Jumalan silmissä jokainen ihminen on arvokas. Myös sinä. Konfirmaatio on siitä vahvistus sinulle.</p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>86</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=655209</origFileName><parallel_text xml:lang="sme" location="default.aspx_id=767264.html"/><parallel_text xml:lang="smj" location="default.aspx_id=766393.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Konfirmaatio - Svenska kyrkan - Om oss</p>
+<p type="title">Konfirmaatio</p>
+<p type="title">Rippikoulu ja konfirmaatio tarjoavat mahdollisuuden sinulle, joka olet kiinnostunut elämästä ja haluat oppia enemmän kristillisestä uskosta ja sen merkityksestä elämässäsi.</p>
+<p>Rippikouluopetukseen sisältyvät keskustelut, pohdinnat ja jumalanpalvelukset avartavat mietteitä omasta minuudesta ja omasta uskosta.</p>
+<p>Kuka Jeesus oli? Mitä Raamatussa sanotaan? Siinä tärkeitä uskon kysymyksiä. Keskeisiä ovat myös ihmisyyteen liittyvät peruskysymykset oikeasta ja väärästä, ystävyydestä, rakkaudesta, seksistä, elämän tarkoituksesta.</p>
+<p>Rippikoulu päättyy konfirmaatiojumalanpalvelukseen. Konfirmaatio on kasteen vahvistus. Jumalan silmissä jokainen ihminen on arvokas. Myös sinä. Konfirmaatio on siitä vahvistus sinulle.</p>
+<p>//</p>
+</body></document>

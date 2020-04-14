@@ -1,241 +1,205 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Sevettijärven-Näätämön alueen aktiviteetit - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>636</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/sevettijarvi-naatamo/aktiviteetit</origFileName>
-    <parallel_text xml:lang="sms" location="aktiviteett.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Sevettijärvi-Näätämö</p>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Alkkianvuori</p>
-      <p type="listitem">Aulanko</p>
-      <p type="listitem">Auttiköngäs</p>
-      <p type="listitem">Elimyssalo</p>
-      <p type="listitem">Espoonlahti</p>
-      <p type="listitem">Etelä-Sydänmaa</p>
-      <p type="listitem">Hailuoto</p>
-      <p type="listitem">Harola</p>
-      <p type="listitem">Hepoköngäs</p>
-      <p type="listitem">Herankaira</p>
-      <p type="listitem">Hetta</p>
-      <p type="listitem">Hirvisuo</p>
-      <p type="listitem">Hämeenkangas</p>
-      <p type="listitem">Iivaara</p>
-      <p type="listitem">Ilmakkiaapa</p>
-      <p type="listitem">Iso-Palonen - Maariansärkät</p>
-      <p type="listitem">Jauhovaara</p>
-      <p type="listitem">Jonkerinsalo</p>
-      <p type="listitem">Jouhteninen</p>
-      <p type="listitem">Julma-Ölkky</p>
-      <p type="listitem">Julunkivi</p>
-      <p type="listitem">Juortanansalo-Lapinsuo</p>
-      <p type="listitem">Jämäsvaara</p>
-      <p type="listitem">Järvisen aihkikko</p>
-      <p type="listitem">Kaihuanvaara ja Kivalot</p>
-      <p type="listitem">Kakonsalo</p>
-      <p type="listitem">Karkali</p>
-      <p type="listitem">Karoliinanportaat</p>
-      <p type="listitem">Kermajärvi</p>
-      <p type="listitem">Kevo</p>
-      <p type="listitem">Kieverrysjärvet</p>
-      <p type="listitem">Kilpelänkangas</p>
-      <p type="listitem">Koitajoki</p>
-      <p type="listitem">Kolvananuuro</p>
-      <p type="listitem">Komio</p>
-      <p type="listitem">Korouoma</p>
-      <p type="listitem">Koskeljärvi</p>
-      <p type="listitem">Kulhanvuori</p>
-      <p type="listitem">Kurimonkoski</p>
-      <p type="listitem">Laahtanen</p>
-      <p type="listitem">Laajalahti</p>
-      <p type="listitem">Langinkoski</p>
-      <p type="listitem">Lauttavaara</p>
-      <p type="listitem">Lenholm</p>
-      <p type="listitem">Lentua</p>
-      <p type="listitem">Levaneva</p>
-      <p type="listitem">Liimanninkoski</p>
-      <p type="listitem">Liminganlahti</p>
-      <p type="listitem">Litokaira</p>
-      <p type="listitem">Luiron suot</p>
-      <p type="listitem">Malla</p>
-      <p type="listitem">Martimoaapa</p>
-      <p type="listitem">Martinselkonen</p>
-      <p type="listitem">Medvastö-Stormossen</p>
-      <p type="listitem">Melkuttimet</p>
-      <p type="listitem">Miekojärvi</p>
-      <p type="listitem">Mietoistenlahti</p>
-      <p type="listitem">Mujejärvi</p>
-      <p type="listitem">Murhisalo</p>
-      <p type="listitem">Mustasaarenkeidas</p>
-      <p type="listitem">Neitvuori-Luonteri</p>
-      <p type="listitem">Nellim</p>
-      <p type="listitem">Näränkä</p>
-      <p type="listitem">Olvassuo</p>
-      <p type="listitem">Omenojärvi</p>
-      <p type="listitem">Otajärvi</p>
-      <p type="listitem">Paistjärvi</p>
-      <p type="listitem">Paljakka</p>
-      <p type="listitem">Paukaneva</p>
-      <p type="listitem">Perämeren saaret</p>
-      <p type="listitem">Peurajärvi</p>
-      <p type="listitem">Pieni Ritojärvi</p>
-      <p type="listitem">Pihlajavesi</p>
-      <p type="listitem">Pinkjärvi</p>
-      <p type="listitem">Pirunkirkko</p>
-      <p type="listitem">Pisa</p>
-      <p type="listitem">Pukala</p>
-      <p type="listitem">Punkaharju</p>
-      <p type="listitem">Puula ja Kyyvesi</p>
-      <p type="listitem">Pääjärvi</p>
-      <p type="listitem">Raesärkät</p>
-      <p type="listitem">Rahja</p>
-      <p type="listitem">Reposuo</p>
-      <p type="listitem">Riuttaskorpi</p>
-      <p type="listitem">Ruostejärvi</p>
-      <p type="listitem">Ruunaan luonnonsuojelualue</p>
-      <p type="listitem">Ryövärinkuoppa</p>
-      <p type="listitem">Saaren kansanpuisto</p>
-      <p type="listitem">Saarijärvi, Hyrynsalmi</p>
-      <p type="listitem">Saarijärvi, Puolanka</p>
-      <p type="listitem">Saariselkä</p>
-      <p type="listitem">Sallatunturi</p>
-      <p type="listitem">Saltfjärden</p>
-      <p type="listitem">Sevettijärvi-Näätämö</p>
-      <p type="listitem">Siikalahti</p>
-      <p type="listitem">Siikaneva</p>
-      <p type="listitem">Siikavaara</p>
-      <p type="listitem">Simojärvi ja Soppana</p>
-      <p type="listitem">Simpsiö</p>
-      <p type="listitem">Sininen polku</p>
-      <p type="listitem">Soiperoinen</p>
-      <p type="listitem">Sompio</p>
-      <p type="listitem">Suvasvesi</p>
-      <p type="listitem">Syväjärvi</p>
-      <p type="listitem">Säynäjäsuo-Matalasuo</p>
-      <p type="listitem">Talaskangas</p>
-      <p type="listitem">Teerisuo-Lososuo</p>
-      <p type="listitem">Telkkämäki</p>
-      <p type="listitem">Teuravuoma-Kivijärvenvuoma</p>
-      <p type="listitem">Tiilitehtaanmäki-Pohjoislahti</p>
-      <p type="listitem">Täktomin merenlahdet</p>
-      <p type="listitem">Uddskatan</p>
-      <p type="listitem">Ukkohalla-Vorlokki</p>
-      <p type="listitem">Ukonsärkkä</p>
-      <p type="listitem">Unarinköngäs</p>
-      <p type="listitem">Utsjoki</p>
-      <p type="listitem">Vaarunvuoret</p>
-      <p type="listitem">Vaisakko</p>
-      <p type="listitem">Valtavaara-Pyhävaara</p>
-      <p type="listitem">Vehoniemenharju</p>
-      <p type="listitem">Viiankiaapa</p>
-      <p type="listitem">Ystävyyden puisto</p>
-      <p type="listitem">Älänne</p>
-      <p type="listitem">Änäkäinen</p>
-      <p type="listitem">Ärjänsaari</p>
-      <p type="listitem">Öjen</p>
-    </list>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p>Sevettijärven-Näätämön sivut</p>
-    <p type="title">Sevettijärvi-Näätämö</p>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Sevettijärven-Näätämön alueen aktiviteetit</p>
-    <p type="title">Mitä Sevettijärven-Näätämön alueella voi tehdä?</p>
-    <p type="title">Kävellä merkityllä reitillä</p>
-    <p>Alue liittyy pohjoisessa kiinteästi Kaldoaivin erämaa-alueeseen , jonka läpi kulkee kaksi pitkää Sevettijärveltä alkavaa reittiä. Sevettijärven-Näätämön alueen eteläpuolella alkaa Vätsärin erämaa . Seudun luontoon voi tutustua myös omia polkuja kulkien.</p>
-    <p type="title">Meloa ja soutaa</p>
-    <p>Näätämöjoen koskien kuohujen läpi sekä Sevettijärveen liittyvien joki- ja järviosuuksien halki kulkee melontareittejä. Vesireitit ovat erämaisia: lähimmälle tielle on usean kilometrin matka. Lukuisat järvenselät sopivat myös souteluun.</p>
-    <p type="title">Katsella nähtävyyksiä ja näköaloja</p>
-    <p>Komeat maisemat avautuvat Villavaaran ja Vainospään laelta Saamenpolun varrella. Jänispään valloittaminen palkitaan hienolla näkymällä yli Sevettijärven.</p>
-    <p>Kolttien perinnetalo sijaitsee Sevettijärven kylässä. Perinnetalon vanhat esineet ja valokuvat kertovat kolttasaamelaisten historiasta ja kulttuurista. Talolta saa opastusta ja myynnissä on perinteisiä kolttasaamelaisia käsitöitä. Perinnetalo on auki kesäisin.</p>
-    <p type="title">Hiihtää maastossa</p>
-    <p>Alueella saa hiihtää vapaasti. Punaisin vinoristein merkitty Sevettijärvi-Pulmanki-hiihtoreitti on erämainen: hiihtouraa ei pohjusteta säännöllisesti ja todennäköisesti hiihtäjä saa luovia umpisessa ainakin osan matkaa. Huoltotöiden ja paikallisten asukkaiden liikkumisen seurauksena muodostuu kelkkauria, joita voi hyödyntää etenemisessä esimerkiksi huonolla hankikelillä.</p>
-    <p type="title">Kalastaa</p>
-    <p>Alue on vesistöjensä vuoksi kalastajien suosiossa. Alueella saa onkia ja pilkkiä ilman lupaa, ei kuitenkaan vaelluskalavesistöjen koski- ja virtapaikoissa. Muuta kalastusta kuin onkimista ja pilkkimistä varten 18-64-vuotiaan on suoritettava kalastonhoitomaksu (www.eraluvat.fi) ja ostettava asiaankuuluva kalastuslupa. Inarin kalastusalueen lupa nro 1564 kattaa valtaosan puro-, joki- ja järvivesistä Inarin kunnan alueella. Näätämöjoelle on kalastuslupa nro 1565. Näätämöjoella on kaksi kalastusaluetta.</p>
-    <p>Lupia myydään muun muassa Metsähallituksen palvelupisteessä Ivalossa ja Ylä-Lapin luontokeskus Siidassa ja Metsähallituksen erälupien verkkokaupassa (www.eräluvat.fi).</p>
-    <p><em type="italic">Gyrodactylus salaris </em>-lohiloinen ei ole vielä levinnyt arvokkaisiin lohijokiimme. Lue lisää. </p>
-    <p type="title">Metsästää</p>
-    <p>Sevettijärven-Näätämön alue kuuluu kahteen lupa-alueeseen: 1605 Näätämö ja 1606 Vätsäri. Alueille myydään vuorokausittain rajattu määrä pienriistalupia, joilla ulkopaikkakuntalainenkin voi metsästää metsästysaikojen puitteissa riekkoa, jänistä, pienpetoja sekä vesilintuja. Aluetta ympäröivät lähitunturit tarjoavat helposti tavoitettavia riekkomaita. Poronhoito on alueella merkittävä elinkeino, joten ajavalla koiralla metsästäminen on myytävillä luvilla kielletty. Alueilla voi olla poronhoitotöistä johtuvia kausittain vaihtuvia rajoituksia.</p>
-    <p>Sevettijärven-Näätämön alueella paikallisten metsästäjien tärkeimmät saaliseläimet ovat hirvi ja riekko. Monet paikalliset ansovat alueella riekkoja kotitarpeisiinsa. Metsästys luontomatkailualana on alueella vasta kehittymässä. Enontekiön, Inarin ja Utsjoen kunnissa vakituisesti asuvilla on vapaa metsästysoikeus kotikuntansa valtion mailla.</p>
-    <p>Lupia myydään muun muassa Metsähallituksen Ivalon palvelupiste ja Ylä-Lapin luontokeskus Siida ja Metsähallituksen erälupien verkkokaupassa (www.eräluvat.fi).</p>
-    <p type="title">Marjastaa ja sienestää</p>
-    <p>Alueella marjovat hilla, puolukka, mustikka ja variksenmarja. Koko alueella saa vapaasti marjastaa ja sienestää. Tatit ovat yleisiä - ja vain harvoin toukan syömiä.</p>
-    <p type="title">Uida</p>
-    <p>Vedet ovat vilvoittavia kesän kuumimpinakin päivinä. Järvien rannoilta voi löytää upeita luonnonhiekkarantoja. Virallista uimarantaa ei kuitenkaan ole.</p>
-    <list>
-      <p type="listitem">Inarin erämaan kalastuslupa</p>
-      <p type="listitem">Näätämöjoen kalastuslupa</p>
-      <p type="listitem">Näätämön pienriistalupa</p>
-      <p type="listitem">Vätsärin pienriistalupa</p>
-    </list>
-    <p type="title">Kalastonhoitomaksu 2016</p>
-    <p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4,6 MB).</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Sevettijärven-Näätämön alueen aktiviteetit - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>636</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/sevettijarvi-naatamo/aktiviteetit</origFileName><parallel_text xml:lang="sms" location="aktiviteett.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Sevettijärvi-Näätämö</p>
+<list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Alkkianvuori</p>
+<p type="listitem">Aulanko</p>
+<p type="listitem">Auttiköngäs</p>
+<p type="listitem">Elimyssalo</p>
+<p type="listitem">Espoonlahti</p>
+<p type="listitem">Etelä-Sydänmaa</p>
+<p type="listitem">Hailuoto</p>
+<p type="listitem">Harola</p>
+<p type="listitem">Hepoköngäs</p>
+<p type="listitem">Herankaira</p>
+<p type="listitem">Hetta</p>
+<p type="listitem">Hirvisuo</p>
+<p type="listitem">Hämeenkangas</p>
+<p type="listitem">Iivaara</p>
+<p type="listitem">Ilmakkiaapa</p>
+<p type="listitem">Iso-Palonen - Maariansärkät</p>
+<p type="listitem">Jauhovaara</p>
+<p type="listitem">Jonkerinsalo</p>
+<p type="listitem">Jouhteninen</p>
+<p type="listitem">Julma-Ölkky</p>
+<p type="listitem">Julunkivi</p>
+<p type="listitem">Juortanansalo-Lapinsuo</p>
+<p type="listitem">Jämäsvaara</p>
+<p type="listitem">Järvisen aihkikko</p>
+<p type="listitem">Kaihuanvaara ja Kivalot</p>
+<p type="listitem">Kakonsalo</p>
+<p type="listitem">Karkali</p>
+<p type="listitem">Karoliinanportaat</p>
+<p type="listitem">Kermajärvi</p>
+<p type="listitem">Kevo</p>
+<p type="listitem">Kieverrysjärvet</p>
+<p type="listitem">Kilpelänkangas</p>
+<p type="listitem">Koitajoki</p>
+<p type="listitem">Kolvananuuro</p>
+<p type="listitem">Komio</p>
+<p type="listitem">Korouoma</p>
+<p type="listitem">Koskeljärvi</p>
+<p type="listitem">Kulhanvuori</p>
+<p type="listitem">Kurimonkoski</p>
+<p type="listitem">Laahtanen</p>
+<p type="listitem">Laajalahti</p>
+<p type="listitem">Langinkoski</p>
+<p type="listitem">Lauttavaara</p>
+<p type="listitem">Lenholm</p>
+<p type="listitem">Lentua</p>
+<p type="listitem">Levaneva</p>
+<p type="listitem">Liimanninkoski</p>
+<p type="listitem">Liminganlahti</p>
+<p type="listitem">Litokaira</p>
+<p type="listitem">Luiron suot</p>
+<p type="listitem">Malla</p>
+<p type="listitem">Martimoaapa</p>
+<p type="listitem">Martinselkonen</p>
+<p type="listitem">Medvastö-Stormossen</p>
+<p type="listitem">Melkuttimet</p>
+<p type="listitem">Miekojärvi</p>
+<p type="listitem">Mietoistenlahti</p>
+<p type="listitem">Mujejärvi</p>
+<p type="listitem">Murhisalo</p>
+<p type="listitem">Mustasaarenkeidas</p>
+<p type="listitem">Neitvuori-Luonteri</p>
+<p type="listitem">Nellim</p>
+<p type="listitem">Näränkä</p>
+<p type="listitem">Olvassuo</p>
+<p type="listitem">Omenojärvi</p>
+<p type="listitem">Otajärvi</p>
+<p type="listitem">Paistjärvi</p>
+<p type="listitem">Paljakka</p>
+<p type="listitem">Paukaneva</p>
+<p type="listitem">Perämeren saaret</p>
+<p type="listitem">Peurajärvi</p>
+<p type="listitem">Pieni Ritojärvi</p>
+<p type="listitem">Pihlajavesi</p>
+<p type="listitem">Pinkjärvi</p>
+<p type="listitem">Pirunkirkko</p>
+<p type="listitem">Pisa</p>
+<p type="listitem">Pukala</p>
+<p type="listitem">Punkaharju</p>
+<p type="listitem">Puula ja Kyyvesi</p>
+<p type="listitem">Pääjärvi</p>
+<p type="listitem">Raesärkät</p>
+<p type="listitem">Rahja</p>
+<p type="listitem">Reposuo</p>
+<p type="listitem">Riuttaskorpi</p>
+<p type="listitem">Ruostejärvi</p>
+<p type="listitem">Ruunaan luonnonsuojelualue</p>
+<p type="listitem">Ryövärinkuoppa</p>
+<p type="listitem">Saaren kansanpuisto</p>
+<p type="listitem">Saarijärvi, Hyrynsalmi</p>
+<p type="listitem">Saarijärvi, Puolanka</p>
+<p type="listitem">Saariselkä</p>
+<p type="listitem">Sallatunturi</p>
+<p type="listitem">Saltfjärden</p>
+<p type="listitem">Sevettijärvi-Näätämö</p>
+<p type="listitem">Siikalahti</p>
+<p type="listitem">Siikaneva</p>
+<p type="listitem">Siikavaara</p>
+<p type="listitem">Simojärvi ja Soppana</p>
+<p type="listitem">Simpsiö</p>
+<p type="listitem">Sininen polku</p>
+<p type="listitem">Soiperoinen</p>
+<p type="listitem">Sompio</p>
+<p type="listitem">Suvasvesi</p>
+<p type="listitem">Syväjärvi</p>
+<p type="listitem">Säynäjäsuo-Matalasuo</p>
+<p type="listitem">Talaskangas</p>
+<p type="listitem">Teerisuo-Lososuo</p>
+<p type="listitem">Telkkämäki</p>
+<p type="listitem">Teuravuoma-Kivijärvenvuoma</p>
+<p type="listitem">Tiilitehtaanmäki-Pohjoislahti</p>
+<p type="listitem">Täktomin merenlahdet</p>
+<p type="listitem">Uddskatan</p>
+<p type="listitem">Ukkohalla-Vorlokki</p>
+<p type="listitem">Ukonsärkkä</p>
+<p type="listitem">Unarinköngäs</p>
+<p type="listitem">Utsjoki</p>
+<p type="listitem">Vaarunvuoret</p>
+<p type="listitem">Vaisakko</p>
+<p type="listitem">Valtavaara-Pyhävaara</p>
+<p type="listitem">Vehoniemenharju</p>
+<p type="listitem">Viiankiaapa</p>
+<p type="listitem">Ystävyyden puisto</p>
+<p type="listitem">Älänne</p>
+<p type="listitem">Änäkäinen</p>
+<p type="listitem">Ärjänsaari</p>
+<p type="listitem">Öjen</p>
+</list><list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Lisätietoja</p>
+</list><p>Sevettijärven-Näätämön sivut</p>
+<p type="title">Sevettijärvi-Näätämö</p>
+<list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Sevettijärven-Näätämön alueen aktiviteetit</p>
+<p type="title">Mitä Sevettijärven-Näätämön alueella voi tehdä?</p>
+<p type="title">Kävellä merkityllä reitillä</p>
+<p>Alue liittyy pohjoisessa kiinteästi Kaldoaivin erämaa-alueeseen , jonka läpi kulkee kaksi pitkää Sevettijärveltä alkavaa reittiä. Sevettijärven-Näätämön alueen eteläpuolella alkaa Vätsärin erämaa . Seudun luontoon voi tutustua myös omia polkuja kulkien.</p>
+<p type="title">Meloa ja soutaa</p>
+<p>Näätämöjoen koskien kuohujen läpi sekä Sevettijärveen liittyvien joki- ja järviosuuksien halki kulkee melontareittejä. Vesireitit ovat erämaisia: lähimmälle tielle on usean kilometrin matka. Lukuisat järvenselät sopivat myös souteluun.</p>
+<p type="title">Katsella nähtävyyksiä ja näköaloja</p>
+<p>Komeat maisemat avautuvat Villavaaran ja Vainospään laelta Saamenpolun varrella. Jänispään valloittaminen palkitaan hienolla näkymällä yli Sevettijärven.</p>
+<p>Kolttien perinnetalo sijaitsee Sevettijärven kylässä. Perinnetalon vanhat esineet ja valokuvat kertovat kolttasaamelaisten historiasta ja kulttuurista. Talolta saa opastusta ja myynnissä on perinteisiä kolttasaamelaisia käsitöitä. Perinnetalo on auki kesäisin.</p>
+<p type="title">Hiihtää maastossa</p>
+<p>Alueella saa hiihtää vapaasti. Punaisin vinoristein merkitty Sevettijärvi-Pulmanki-hiihtoreitti on erämainen: hiihtouraa ei pohjusteta säännöllisesti ja todennäköisesti hiihtäjä saa luovia umpisessa ainakin osan matkaa. Huoltotöiden ja paikallisten asukkaiden liikkumisen seurauksena muodostuu kelkkauria, joita voi hyödyntää etenemisessä esimerkiksi huonolla hankikelillä.</p>
+<p type="title">Kalastaa</p>
+<p>Alue on vesistöjensä vuoksi kalastajien suosiossa. Alueella saa onkia ja pilkkiä ilman lupaa, ei kuitenkaan vaelluskalavesistöjen koski- ja virtapaikoissa. Muuta kalastusta kuin onkimista ja pilkkimistä varten 18-64-vuotiaan on suoritettava kalastonhoitomaksu (www.eraluvat.fi) ja ostettava asiaankuuluva kalastuslupa. Inarin kalastusalueen lupa nro 1564 kattaa valtaosan puro-, joki- ja järvivesistä Inarin kunnan alueella. Näätämöjoelle on kalastuslupa nro 1565. Näätämöjoella on kaksi kalastusaluetta.</p>
+<p>Lupia myydään muun muassa Metsähallituksen palvelupisteessä Ivalossa ja Ylä-Lapin luontokeskus Siidassa ja Metsähallituksen erälupien verkkokaupassa (www.eräluvat.fi).</p>
+<p><em type="italic">Gyrodactylus salaris </em>-lohiloinen ei ole vielä levinnyt arvokkaisiin lohijokiimme. Lue lisää. </p>
+<p type="title">Metsästää</p>
+<p>Sevettijärven-Näätämön alue kuuluu kahteen lupa-alueeseen: 1605 Näätämö ja 1606 Vätsäri. Alueille myydään vuorokausittain rajattu määrä pienriistalupia, joilla ulkopaikkakuntalainenkin voi metsästää metsästysaikojen puitteissa riekkoa, jänistä, pienpetoja sekä vesilintuja. Aluetta ympäröivät lähitunturit tarjoavat helposti tavoitettavia riekkomaita. Poronhoito on alueella merkittävä elinkeino, joten ajavalla koiralla metsästäminen on myytävillä luvilla kielletty. Alueilla voi olla poronhoitotöistä johtuvia kausittain vaihtuvia rajoituksia.</p>
+<p>Sevettijärven-Näätämön alueella paikallisten metsästäjien tärkeimmät saaliseläimet ovat hirvi ja riekko. Monet paikalliset ansovat alueella riekkoja kotitarpeisiinsa. Metsästys luontomatkailualana on alueella vasta kehittymässä. Enontekiön, Inarin ja Utsjoen kunnissa vakituisesti asuvilla on vapaa metsästysoikeus kotikuntansa valtion mailla.</p>
+<p>Lupia myydään muun muassa Metsähallituksen Ivalon palvelupiste ja Ylä-Lapin luontokeskus Siida ja Metsähallituksen erälupien verkkokaupassa (www.eräluvat.fi).</p>
+<p type="title">Marjastaa ja sienestää</p>
+<p>Alueella marjovat hilla, puolukka, mustikka ja variksenmarja. Koko alueella saa vapaasti marjastaa ja sienestää. Tatit ovat yleisiä - ja vain harvoin toukan syömiä.</p>
+<p type="title">Uida</p>
+<p>Vedet ovat vilvoittavia kesän kuumimpinakin päivinä. Järvien rannoilta voi löytää upeita luonnonhiekkarantoja. Virallista uimarantaa ei kuitenkaan ole.</p>
+<list><p type="listitem">Inarin erämaan kalastuslupa</p>
+<p type="listitem">Näätämöjoen kalastuslupa</p>
+<p type="listitem">Näätämön pienriistalupa</p>
+<p type="listitem">Vätsärin pienriistalupa</p>
+</list><p type="title">Kalastonhoitomaksu 2016</p>
+<p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4,6 MB).</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

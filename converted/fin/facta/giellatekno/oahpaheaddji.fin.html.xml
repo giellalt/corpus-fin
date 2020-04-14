@@ -1,45 +1,22 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Opettajalle</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>172</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/oahpaheaddji.fin.html</origFileName>
-    <parallel_text xml:lang="eng" location="oahpaheaddji.eng.html"/>
-    <parallel_text xml:lang="nob" location="oahpaheaddji.nob.html"/>
-    <parallel_text xml:lang="sme" location="oahpaheaddji.sme.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Opettajalle</p>
-    <p xml:lang="nob">Nordsamisk Norsk English</p>
-    <p>
-      <em type="italic">Kodin suomeksi </em>
-    </p>
-    <p>Tästä löytyvät linkit pohjoissaamen opettajille.</p>
-    <list>
-      <p type="listitem">OAHPA-davvi - Interaktiiviset ohjelmat, joilla voit harjoitella sanoja ja kielioppia.</p>
-      <p type="listitem">Oahpa-ohjelmien käyttöohje</p>
-      <p type="listitem" xml:lang="sme">Oahpa giela (Kursa) - oppimispolku yliopistion saamen kielen opiskelijoita varten. Jietnafiillat ja liŋkkat hárjehusaide. Čilgehusat leat dáro- ja sámegillii. Ovtta bálgás leat čilgehusat suomagillii.</p>
-      <p type="listitem">Kielioppi</p>
-      <p type="listitem">Sanojen taivutusparadigmat - Tietokone antaa haluamasi sananan taivutusparadigma</p>
-      <p type="listitem" xml:lang="sme">Neahttadigisánit : sámi-dáru ja dáru-sámi. <list><p type="listitem" xml:lang="sme">Doaibmá dušše go lea interneahttaoktavuohta.</p><p type="listitem" xml:lang="sme">Sátnegirji ipmirda sojahuvvon sániid ja čajeha mo sátni sojahuvvo.</p><p type="listitem" xml:lang="sme">Liŋkkain beassá oaidnit mo sátni geavahuvvo teavsttain.</p><p type="listitem" xml:lang="sme">Girjemearka/favorihta-fálu bokte prográmma jorgala sániid go coahkkalat daid.</p></list></p>
-      <p type="listitem" xml:lang="sme">Webdict : sámi-dáru ja dáru-sámi. <list><p type="listitem" xml:lang="sme">Čájeha sániid listun, juoga mii sáhttá leat ávkin jus it dieđe mo sátni čállojuvvo.</p><p type="listitem" xml:lang="sme">Dušše vuođđohámit.</p></list></p>
-      <p type="listitem" xml:lang="sme">Eanet sátnegirjjit</p>
-      <p type="listitem">Korpus haku – hae sanoja tekstipankista</p>
-      <p type="listitem">GEO - paikannimet kielestä toiseen</p>
-      <p type="listitem">Tästä löyty lista ohjelmien asentamisesta koulun tietokonevastuuhenkilölle.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Opettajalle</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>172</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/oahpaheaddji.fin.html</origFileName><parallel_text xml:lang="eng" location="oahpaheaddji.eng.html"/><parallel_text xml:lang="nob" location="oahpaheaddji.nob.html"/><parallel_text xml:lang="sme" location="oahpaheaddji.sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Opettajalle</p>
+<p xml:lang="nob">Nordsamisk Norsk English</p>
+<p><em type="italic">Kodin suomeksi </em></p>
+<p>Tästä löytyvät linkit pohjoissaamen opettajille.</p>
+<list><p type="listitem">OAHPA-davvi - Interaktiiviset ohjelmat, joilla voit harjoitella sanoja ja kielioppia.</p>
+<p type="listitem">Oahpa-ohjelmien käyttöohje</p>
+<p type="listitem" xml:lang="sme">Oahpa giela (Kursa) - oppimispolku yliopistion saamen kielen opiskelijoita varten. Jietnafiillat ja liŋkkat hárjehusaide. Čilgehusat leat dáro- ja sámegillii. Ovtta bálgás leat čilgehusat suomagillii.</p>
+<p type="listitem">Kielioppi</p>
+<p type="listitem">Sanojen taivutusparadigmat - Tietokone antaa haluamasi sananan taivutusparadigma</p>
+<p type="listitem" xml:lang="sme">Neahttadigisánit : sámi-dáru ja dáru-sámi. <list><p type="listitem" xml:lang="sme">Doaibmá dušše go lea interneahttaoktavuohta.</p>
+<p type="listitem" xml:lang="sme">Sátnegirji ipmirda sojahuvvon sániid ja čajeha mo sátni sojahuvvo.</p>
+<p type="listitem" xml:lang="sme">Liŋkkain beassá oaidnit mo sátni geavahuvvo teavsttain.</p>
+<p type="listitem" xml:lang="sme">Girjemearka/favorihta-fálu bokte prográmma jorgala sániid go coahkkalat daid.</p>
+</list></p>
+<p type="listitem" xml:lang="sme">Webdict : sámi-dáru ja dáru-sámi. <list><p type="listitem" xml:lang="sme">Čájeha sániid listun, juoga mii sáhttá leat ávkin jus it dieđe mo sátni čállojuvvo.</p>
+<p type="listitem" xml:lang="sme">Dušše vuođđohámit.</p>
+</list></p>
+<p type="listitem" xml:lang="sme">Eanet sátnegirjjit</p>
+<p type="listitem">Korpus haku – hae sanoja tekstipankista</p>
+<p type="listitem">GEO - paikannimet kielestä toiseen</p>
+<p type="listitem">Tästä löyty lista ohjelmien asentamisesta koulun tietokonevastuuhenkilölle.</p>
+</list></body></document>

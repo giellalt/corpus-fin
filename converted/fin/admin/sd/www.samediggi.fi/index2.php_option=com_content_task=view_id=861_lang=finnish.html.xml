@@ -1,40 +1,16 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamen käsitöiden työpajoja järjestetään Sajoksessa jo toista kesää</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>242</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=861&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=861_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=861_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=861_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=861_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamen käsitöiden työpajoja järjestetään Sajoksessa jo toista kesää</p>
-    <p>Inarin kylällä sijaitsevassa saamelaiskulttuurikeskus Sajoksessa toteutetaan jo toista kesää perinteisten ja vähän modernienkin saamen käsitöiden työpajoja tänä kesänä. Työpajoissa perinteistä kiinnostuneet matkailijat pääsevät itse tekemään saamen käsitöitä matkamuistokseen ja samalla oppimaan saa  men käsitöiden historiasta ja perinteistä.</p>
-    <p>Käsityöpajassa asiakkaat saavat valita eri käsityövaihtoehdoista mieleisensä ja tehdä käsityön ohjaajan avustamana itselleen matkamuistoksi. Käsitöiden teon lomassa käsityöohjaaja kertoo saamen käsitöiden historiasta ja perinteistä sekä omista käsityötavoistaan.</p>
-    <p>Käsityöpajat ovat osa Sajoksen kulttuurillisen sisällöntuotannon kehittämistä. Käsityöpajojen tarkoitus on lisätä saamen käsitöiden tunnettavuutta ja levittää sitä kautta tietoa saamelaisista alkuperäiskansana. Käsityöpajat toteutetaan yhteistyössä Sajoksessa sijaitsevan saamen käsitöiden kaupan, Duodji Shopin kanssa.</p>
-    <p> <em type="italic">Erilaisia käsitöitä erilaiseen tarpeeseen  </em> </p>
-    <p>Saamen käsitöillä on pitkät perinteet ja yleisesti saamen käsitöiksi ymmärretään käyttötarvikkeet, kuten vaatteet, työvälineet, taloustavarat, pyyntivälineet ja korut, jotka on tehty käsin. Myös nykyaikana käsitöiden perinteet ovat luonnonmateriaaleissa, käsityöt tehdään vanhan perinteen mukaan soveltaen uusiin työmenetelmiin ja uuteen käyttöön alueittain.</p>
-    <p>Sajoksessa asiakas voi tehdä kesän aikana oman aikataulunsa puitteissa tina- tai helmirannerenkaan, tiuhtanauhan, verasta tehdyn kantopussin tai laukun ja poronahkaisen pussukan eli sisnapussin. Käsityöpajat toteutetaan Sajoksen valoisassa pääaulassa maksua vastaan. Ryhmien tulee varata oma työpaja-aika, jotta heille voidaan järjestää tarvittaessa lisäohjaajia.</p>
-    <p><em type="italic">Sajoksen käsityöpajat toteutetaan ajalla 1.7. - 15.8.2014 arkisin klo 11–17.      </em>  </p>
-    <p><em type="italic">Sajoksen kesän aukioloajat:  </em>  </p>
-    <p>Sajos info:   ma-pe klo 9-17</p>
-    <p>Duodji shop:  ma-pe klo 10-17</p>
-    <p>Saamelaiskirjasto:  ma-ti klo 13–19, ke-to klo 10–17, pe 10–16</p>
-    <p><em type="italic">Lisätietoa:  </em>  </p>
-    <p>Johanna Alatorvinen, markkinointipäällikkö, Saamelaiskulttuurikeskus Sajos, <em type="italic"> </em>, puh  010 839 3109, <em type="italic">www.sajos.fi  </em> </p>
-    <p>Aune Musta, toimitusjohtaja, Duodji Shop, <em type="italic"> </em>, puh. 0400-637178, <em type="italic">www.samiduodji.com  </em> </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamen käsitöiden työpajoja järjestetään Sajoksessa jo toista kesää</title><genre code="admin"/><author><unknown/></author><wordcount>242</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=861&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=861_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=861_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=861_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=861_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamen käsitöiden työpajoja järjestetään Sajoksessa jo toista kesää</p>
+<p>Inarin kylällä sijaitsevassa saamelaiskulttuurikeskus Sajoksessa toteutetaan jo toista kesää perinteisten ja vähän modernienkin saamen käsitöiden työpajoja tänä kesänä. Työpajoissa perinteistä kiinnostuneet matkailijat pääsevät itse tekemään saamen käsitöitä matkamuistokseen ja samalla oppimaan saa  men käsitöiden historiasta ja perinteistä.</p>
+<p>Käsityöpajassa asiakkaat saavat valita eri käsityövaihtoehdoista mieleisensä ja tehdä käsityön ohjaajan avustamana itselleen matkamuistoksi. Käsitöiden teon lomassa käsityöohjaaja kertoo saamen käsitöiden historiasta ja perinteistä sekä omista käsityötavoistaan.</p>
+<p>Käsityöpajat ovat osa Sajoksen kulttuurillisen sisällöntuotannon kehittämistä. Käsityöpajojen tarkoitus on lisätä saamen käsitöiden tunnettavuutta ja levittää sitä kautta tietoa saamelaisista alkuperäiskansana. Käsityöpajat toteutetaan yhteistyössä Sajoksessa sijaitsevan saamen käsitöiden kaupan, Duodji Shopin kanssa.</p>
+<p> <em type="italic">Erilaisia käsitöitä erilaiseen tarpeeseen  </em> </p>
+<p>Saamen käsitöillä on pitkät perinteet ja yleisesti saamen käsitöiksi ymmärretään käyttötarvikkeet, kuten vaatteet, työvälineet, taloustavarat, pyyntivälineet ja korut, jotka on tehty käsin. Myös nykyaikana käsitöiden perinteet ovat luonnonmateriaaleissa, käsityöt tehdään vanhan perinteen mukaan soveltaen uusiin työmenetelmiin ja uuteen käyttöön alueittain.</p>
+<p>Sajoksessa asiakas voi tehdä kesän aikana oman aikataulunsa puitteissa tina- tai helmirannerenkaan, tiuhtanauhan, verasta tehdyn kantopussin tai laukun ja poronahkaisen pussukan eli sisnapussin. Käsityöpajat toteutetaan Sajoksen valoisassa pääaulassa maksua vastaan. Ryhmien tulee varata oma työpaja-aika, jotta heille voidaan järjestää tarvittaessa lisäohjaajia.</p>
+<p><em type="italic">Sajoksen käsityöpajat toteutetaan ajalla 1.7. - 15.8.2014 arkisin klo 11–17.      </em>  </p>
+<p><em type="italic">Sajoksen kesän aukioloajat:  </em>  </p>
+<p>Sajos info:   ma-pe klo 9-17</p>
+<p>Duodji shop:  ma-pe klo 10-17</p>
+<p>Saamelaiskirjasto:  ma-ti klo 13–19, ke-to klo 10–17, pe 10–16</p>
+<p><em type="italic">Lisätietoa:  </em>  </p>
+<p>Johanna Alatorvinen, markkinointipäällikkö, Saamelaiskulttuurikeskus Sajos, <em type="italic"> </em>, puh  010 839 3109, <em type="italic">www.sajos.fi  </em> </p>
+<p>Aune Musta, toimitusjohtaja, Duodji Shop, <em type="italic"> </em>, puh. 0400-637178, <em type="italic">www.samiduodji.com  </em> </p>
+</body></document>

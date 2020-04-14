@@ -1,206 +1,148 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamen lippu - Sámi leavga</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1033</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=199&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=199_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=199_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamen lippu - Sámi leavga</p>
-    <p>Saamelaisten lippu poikkeaa selvästi Pohjoismaiden lipuista, joissa kaikissa liehuvat ristikuviot. Saamen lipun punainen ympyrä kuvaa aurinkoa ja sininen ympyrä kuuta. Lipun kuva-aihe tulee noitarummusta ja Ruotsin saamelaisen Anders Fjellnerin (1795–1876) runosta Biejjie-baernie eli Auringonpojat. Fjellner kuvaa saamelaisia runossaan auringon tyttäriksi ja pojiksi.</p>
-    <p>Ensimmäisenä omaa lippua saamelaisille ehdotti taiteilija Synnøve Persen, joka myös suunnitteli oman lippuehdotuksensa. Persenin kolmiväristä lippua ehdittiin käyttää mm. Altan vesivoimalan ja padon vastustamisen yhteydessä 1970- ja 1980-lukujen vaihteessa, mutta se ei jäänyt pidempiaikaiseen käyttöön.</p>
-    <p>Suomen, Ruotsin, Norjan ja Venäjän saamelaisten yhteistyöjärjestö Saamelaisneuvosto (Sámiráddi/ Samerådet/ Saami council) päätti käynnistää lipun suunnittelukilpailun 1980-luvulla. Voittaneen lipun suunnitteli Norjan saamelainen Astrid Båhl. Hänen suunnittelemassaan lipussa leiskuvat kirkas punainen, sininen, keltainen ja vihreä. Samoja värejä on perinteisesti käytetty saamelaisten kansan- ja kansallispuvussa, gáktissa.</p>
-    <p>Lippu hyväksyttiin saamelaisten viralliseksi symboliksi saamelaisten 13. pohjoismaisessa konferenssissa Åressa 15. elokuuta 1986. Samalla hyväksyttiin myös toinen kansallinen symboli: Sámi soga lávlla/Saamen suvun laulu.</p>
-    <p>Saamelaisilla on nykyään 11 yhteistä saamelaiskonferenssissa hyväksyttyä liputuspäivää. Suomen sisäasiainministeriö suosittaa saamen liputuspäiville myös yleistä liputusta. Liputtamisessa noudatetaan kunkin valtion lakeja. Yksityisillä kansalaisilla, yhteisöillä ja yrityksillä on juhlamielen, kunnioituksen tai surun osoittamiseksi vapaus liputtaa Saamen lipulla muulloinkin kuin virallisina liputuspäivinä.</p>
-    <p type="title">Saamelaisten liputuspäivät</p>
-    <p>
-      <span type="quote">6.2. Saamelaisten kansallispäivä&#13;
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamen lippu - Sámi leavga</title><genre code="admin"/><author><unknown/></author><wordcount>1033</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=199&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=199_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=199_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamen lippu - Sámi leavga</p>
+<p>Saamelaisten lippu poikkeaa selvästi Pohjoismaiden lipuista, joissa kaikissa liehuvat ristikuviot. Saamen lipun punainen ympyrä kuvaa aurinkoa ja sininen ympyrä kuuta. Lipun kuva-aihe tulee noitarummusta ja Ruotsin saamelaisen Anders Fjellnerin (1795–1876) runosta Biejjie-baernie eli Auringonpojat. Fjellner kuvaa saamelaisia runossaan auringon tyttäriksi ja pojiksi.</p>
+<p>Ensimmäisenä omaa lippua saamelaisille ehdotti taiteilija Synnøve Persen, joka myös suunnitteli oman lippuehdotuksensa. Persenin kolmiväristä lippua ehdittiin käyttää mm. Altan vesivoimalan ja padon vastustamisen yhteydessä 1970- ja 1980-lukujen vaihteessa, mutta se ei jäänyt pidempiaikaiseen käyttöön.</p>
+<p>Suomen, Ruotsin, Norjan ja Venäjän saamelaisten yhteistyöjärjestö Saamelaisneuvosto (Sámiráddi/ Samerådet/ Saami council) päätti käynnistää lipun suunnittelukilpailun 1980-luvulla. Voittaneen lipun suunnitteli Norjan saamelainen Astrid Båhl. Hänen suunnittelemassaan lipussa leiskuvat kirkas punainen, sininen, keltainen ja vihreä. Samoja värejä on perinteisesti käytetty saamelaisten kansan- ja kansallispuvussa, gáktissa.</p>
+<p>Lippu hyväksyttiin saamelaisten viralliseksi symboliksi saamelaisten 13. pohjoismaisessa konferenssissa Åressa 15. elokuuta 1986. Samalla hyväksyttiin myös toinen kansallinen symboli: Sámi soga lávlla/Saamen suvun laulu.</p>
+<p>Saamelaisilla on nykyään 11 yhteistä saamelaiskonferenssissa hyväksyttyä liputuspäivää. Suomen sisäasiainministeriö suosittaa saamen liputuspäiville myös yleistä liputusta. Liputtamisessa noudatetaan kunkin valtion lakeja. Yksityisillä kansalaisilla, yhteisöillä ja yrityksillä on juhlamielen, kunnioituksen tai surun osoittamiseksi vapaus liputtaa Saamen lipulla muulloinkin kuin virallisina liputuspäivinä.</p>
+<p type="title">Saamelaisten liputuspäivät</p>
+<p><span type="quote">6.2. Saamelaisten kansallispäivä&#13;
 	Helmikuun 6. päivänä 1917 pidettiin Norjan Trondheimissa ensimmäinen saamelaiskokous, jonne oli kokoontunut sekä pohjois- että eteläsaamelaisia. Kokousta pidetään pohjoismaisen saamelaisyhteistyön alkuna. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">2.3. Suomen Saamelaiskäräjien perustamispäivä&#13;
+	</span></p>
+<p><span type="quote">2.3. Suomen Saamelaiskäräjien perustamispäivä&#13;
 	Suomen Saamelaiskäräjät (Sámediggi ), perustettiin omalla laillaan vuonna 1995. Sen virallisia avajaisia vietettiin 2.3.1996. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">Marian päivä&#13;
+	</span></p>
+<p><span type="quote">Marian päivä&#13;
 	Saamelaisten perinteinen juhlapäivä. Marian päivän ajankohta kalenterissa vaihtelee ja päivää voidaan juhlia eri maiden Marian  päivän mukaan. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">Juhannuspäivä &#13;
+	</span></p>
+<p><span type="quote">Juhannuspäivä &#13;
 	Yleinen juhlapäivä. Voidaan liputtaa eri maiden juhannuspäivän mukaan. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">9.8. YK:n kansainvälinen alkuperäiskansojen päivä&#13;
+	</span></p>
+<p><span type="quote">9.8. YK:n kansainvälinen alkuperäiskansojen päivä&#13;
 	Yhdistyneet kansakunnat on nimennyt 9.8. kansainväliseksi alkuperäiskansojen päiväksi . &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">15.8. Saamen lipun hyväksymispäivä&#13;
+	</span></p>
+<p><span type="quote">15.8. Saamen lipun hyväksymispäivä&#13;
 	Saamen lippu hyväksyttiin Saamelaisten 13. konferenssissa 15.8.1986 Åressa Ruotsissa. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">18.8. Saamelaisneuvoston perustamispäivä&#13;
+	</span></p>
+<p><span type="quote">18.8. Saamelaisneuvoston perustamispäivä&#13;
 	Saamelaisneuvosto perustettiin virallisesti saamelaisten 2. pohjoismaisessa konferenssissa 18.8.1956 Norjan Kaarasjoella. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">26.8. Ruotsin Saamelaiskäräjien perustamispäivä&#13;
+	</span></p>
+<p><span type="quote">26.8. Ruotsin Saamelaiskäräjien perustamispäivä&#13;
 	Ruotsin Saamelaiskäräjät (Sámediggi/Sametinget ) perustettiin omalla laillaan vuonna 1992. Sen virallisia avajaisia vietettiin 26.8.1993. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">9.10. Norjan Saamelaiskäräjien perustamispäivä&#13;
+	</span></p>
+<p><span type="quote">9.10. Norjan Saamelaiskäräjien perustamispäivä&#13;
 	Norjan Saamelaiskäräjät (Sámediggi/Sametinget ) perustettiin omalla laillaan vuonna 1987. Sen virallisia avajaisia vietettiin 9.10.1989. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">9.11. Saamelaisvaltuuskunnan (Sámi Parlamenta) perustamispäivä&#13;
+	</span></p>
+<p><span type="quote">9.11. Saamelaisvaltuuskunnan (Sámi Parlamenta) perustamispäivä&#13;
 	Suomessa annettiin asetus Saamelaisvaltuuskunnasta 9.11.1973. Sámi Parlamenta/ Saamelaisvaltuuskunta oli vuonna 1996 toimintansa aloittaneen uuden edustuksellisen elimen, Saamelaiskäräjien, edeltäjä. &#13;
-	</span>
-    </p>
-    <p>
-      <span type="quote">15.11. Ensimmäisen saamelaisen valtiopäivämiehen Isak Saban (Sápp Issát) syntymäpäivä&#13;
+	</span></p>
+<p><span type="quote">15.11. Ensimmäisen saamelaisen valtiopäivämiehen Isak Saban (Sápp Issát) syntymäpäivä&#13;
 	Isak Saba syntyi 15.11.1875 Uuniemessä Varangissa. Hän oli Norjan Suurkäräjien jäsenen kahden kauden ajan (1906-1912) Isak Saba edusti työväenpuoluetta.&#13;
-	</span>
-    </p>
-    <p type="title">Lähteitä:</p>
-    <p>www.galdu.org</p>
-    <p>www.saamicouncil.net</p>
-    <p type="title">Anders Fjellner (1795–1876)</p>
-    <p>Anders Fjellner syntyi taivasalla Ruotsin Härjedalenissa syyskuun 18. päivänä vuonna 1795 saamelaiseen perheeseen. Hänen isänsä kuoli Andersin ollessa vielä lapsi, mutta sukulaisten avulla tämä pystyi kouluttautumaan ja suoritti 1800-luvun alkupuolella pappisopintoja Uppsalan yliopistossa.</p>
-    <p>Fjellner toimi pappisvihkimyksensä jälkeen aluksi kiertävänä saarnaajana Jukkasjärvellä ja Karesuvannossa. Kertoman mukaan hän oli niin lyhyt, että saarnastuolissakin oli seisottava jakkaran päällä. Työnsä ohella Fjellner omistautui kansallisromanttisten aatevirtausten vaikutuksesta myös saamelaisen kansanperinteen, kuten joikujen, myyttien, legendojen ja laulujen muistiin merkitsemiselle. Hän käänsi keräämiään ja kirjaamiaan saamenkielisiä tekstejä niin, että myös muilla kuin saamenkielisillä oli mahdollisuus tutustua niihin.</p>
-    <p>Fjellner kertoi kuulleensa muistiin merkitsemänsä joikurunot eri puolilta Saamenmaata. Jälkipolville parhaiten on säilynyt Saamen lippuun kytkeytyvä Biejjie-baernie-runo. Tuo runo on tyyliltään, mitaltaan ja sisällöltään niin taidokas, ettei sen uskota olevan puhtaasti suullista kansanperinnettä. Fjellnerin maine innokkaana ja uppoutuvana kuuntelijana ja loistavana tarinankertojana ovat osaltaan vaikuttaneet siihen, että monet saamelaiskulttuurin tutkijat ovatkin päätyneet pitämään runoa paitsi perinteikkäänä joikurunona, myös kirjailijan taidonnäytteenä.</p>
-    <p>Saamen lippuun hengen puhaltanut Anders Fjellnerin runo Beaivvi bárdni on myyttinen sankarirunoelma. Siinä päivän poika matkustaa jättiläisten maahan, rakastuu siellä jättiläisen tyttäreen ja lopulta nai tämän. Liitosta syntyvät Päivän pojat, joista saamelaiset polveutuvat.</p>
-    <p>Seuraavassa ensimmäisiä säkeitä Fjellnerin pitkästä runoelmasta, joka kertoo Päivän pojan kosiomatkasta jättiläisten maailmaan. Fjellnerin alkuperäiskieli oli eteläsaame, josta runo on käännetty pohjoissaameksi (Harald Gaski), inarinsaameksi (Ilmari Mattus) ja englanniksi (Tr. John Weinstock).</p>
-    <p>
-      <em type="italic">Lähteitä: </em>
-    </p>
-    <p>Harald Gaski 2003: Biejjien baernie/ Sámi Son of the Sun/ Beaivvi bárdni. Davvi Girji OS: www.davvi.no .</p>
-    <p>Runosäkeet kirjasta julkaistu Gaskin ja Davvi Girjin luvalla.</p>
-    <p>Heroic Epic, Utopia and Prayer</p>
-    <p>– the Son of the Sun, the Daughter of the Sun and the Sámi</p>
-    <p type="title">Eteläsaameksi:</p>
-    <p>
-      <em type="italic">Biejjie-baernien såangoe Jeahnaj eatnamisnie </em>
-    </p>
-    <p>Badtsetji baernieh lin dovletje</p>
-    <p>Vaenies niejth ålmide</p>
-    <p>Daatema lij nyjsenæjjemes diedteme</p>
-    <p>virreh sjoevelin aktese</p>
-    <p>Ietnie lij guedtiemassem njammehtamme</p>
-    <p>Gaalles baerniem laavkojamme bøypmedehteme</p>
-    <p>Goh gaalla gierhkemassem tjiektji</p>
-    <p>Sjiehtedimmeste nænnoes soenh</p>
-    <p>Sjiehtedæjja leajhkeli mielem</p>
-    <p>Gaalla-baerniej maadth-maadtoe.</p>
-    <p>Jiehtese lea jiehteme</p>
-    <p>Saake lea beagkeme:</p>
-    <p>Dubpelen noerhtemes naestiem</p>
-    <p>Luvleli biejjien jih asken</p>
-    <p>Silpe gullie joeveh aaregh</p>
-    <p>Aernie-gierkieh, aajeh-gierkieh</p>
-    <p>Gullie giltie, silpe sjiltie</p>
-    <p>Mearoe-gaejsieh guelmiedahkem giehtjieh</p>
-    <p>Biejjieh, askh jih naestieh</p>
-    <p>Guekieh giltieh mojjesisnie</p>
-    <p>- - - - - - - -</p>
-    <p type="title">Pohjoissaameksi:</p>
-    <p>
-      <em type="italic">Beaivvi bártni soagŋu jiehtanasaid máilmmis </em>
-    </p>
-    <p>Bođuid bártnit ledje dolin</p>
-    <p>Nieiddat vátnásat olbmáide</p>
-    <p>Dievdu lei nissonis deaddán</p>
-    <p>Varaideaskka vuohčudan oktii</p>
-    <p>Eadni lei njamahan guoddámis</p>
-    <p>Gállá gándda lávgon ja biebman</p>
-    <p>Go gállis gietkamis čievččai</p>
-    <p>Sahkanahttistis nana suonaid</p>
-    <p>Sahkkejeaddji mielaid leikii</p>
-    <p>Gállábártniid máttarmáddui.</p>
-    <p>Nu leat mii gullan</p>
-    <p>Sáhka lea beaggán:</p>
-    <p>Dobbelis davimus nástti</p>
-    <p>Oarjjabeal beaivvi ja mánu</p>
-    <p>Silba-golli juovat, bávttit</p>
-    <p>Árrangeađggit ájageađggit</p>
-    <p>Golli giilá, silba šiilá</p>
-    <p>Mearas gáissát govaset gehččet</p>
-    <p>Beaivvážat, mánut ja násttit</p>
-    <p>Muođuineaset mojit čuvget</p>
-    <p>- - - - - - - -</p>
-    <p type="title">Englanniksi:</p>
-    <p>
-      <em type="italic">The Son of the Sun´s Courting in the Land of the Giants </em>
-    </p>
-    <p>Few men were there before</p>
-    <p>A lack of women for the men.</p>
-    <p>The man hugged his woman</p>
-    <p>Their blood they blended together.</p>
-    <p>The mother suckled her offspring</p>
-    <p>Washed and fed the child.</p>
-    <p>The boy kicked in the cradle</p>
-    <p>From his father got strong sinews</p>
-    <p>From his mother gained good sense.</p>
-    <p>Ancestor of the Sun´s sons.</p>
-    <p>That´s how we heard it</p>
-    <p>So it is told:</p>
-    <p>Beyond the easternmost star</p>
-    <p>To the west of moon and sun</p>
-    <p>Are found fells of silver and gold</p>
-    <p>Stones for hearth, stones for adornment.</p>
-    <p>Gold sparkles, silver glimmers</p>
-    <p>Sea mirrors the mountains´image.</p>
-    <p>The suns, the moons and the stars</p>
-    <p>Smile on the mountains´cheeks.</p>
-    <p>- - - - - - - -</p>
-    <p type="title">Inarinsaameksi:</p>
-    <p>(käännös Ilmari Mattus 2009)</p>
-    <p>
-      <em type="italic">Piäiváá pärni suáŋu jietânâsâi mailmist </em>
-    </p>
-    <p>Pođoi päärnih lijjii tovle</p>
-    <p>Nieidah vääni almaid</p>
-    <p>Almai lâi nisonis tiäddám</p>
-    <p>Vorâidis vuáčudâm oohtân</p>
-    <p>Enni lâi njomâttâm kyeddimis</p>
-    <p>Kállá kaandâ lávgum já piemmâm</p>
-    <p>Ko käälis kietkâmist čievčâi</p>
-    <p>Šovâtteijeestis noonâ suonâid</p>
-    <p>Šovâtteijee mielâid leškij</p>
-    <p>Kállápaarnij maddârmaddui.</p>
-    <p>Nuvt lep mij kuullâm</p>
-    <p>Saahâ lii piäggám:</p>
-    <p>Tobbeláá tavemuš täsni</p>
-    <p>Uárjibeln piäiváš já máánu</p>
-    <p>Silbâ-kolle juovah, päävtih</p>
-    <p>Aarrânkeeđgih aajâriddoin</p>
-    <p>Kolle kildá, silbâ šiälgu</p>
-    <p>Meerâst kááisáh kuvijdis keččih</p>
-    <p>Piäivááh, máánuh já tääsnih</p>
-    <p>Muáđuinis mojeh čyevih</p>
-    <p>- - - - - - - -</p>
-  </body>
-</document>
+	</span></p>
+<p type="title">Lähteitä:</p>
+<p>www.galdu.org</p>
+<p>www.saamicouncil.net</p>
+<p type="title">Anders Fjellner (1795–1876)</p>
+<p>Anders Fjellner syntyi taivasalla Ruotsin Härjedalenissa syyskuun 18. päivänä vuonna 1795 saamelaiseen perheeseen. Hänen isänsä kuoli Andersin ollessa vielä lapsi, mutta sukulaisten avulla tämä pystyi kouluttautumaan ja suoritti 1800-luvun alkupuolella pappisopintoja Uppsalan yliopistossa.</p>
+<p>Fjellner toimi pappisvihkimyksensä jälkeen aluksi kiertävänä saarnaajana Jukkasjärvellä ja Karesuvannossa. Kertoman mukaan hän oli niin lyhyt, että saarnastuolissakin oli seisottava jakkaran päällä. Työnsä ohella Fjellner omistautui kansallisromanttisten aatevirtausten vaikutuksesta myös saamelaisen kansanperinteen, kuten joikujen, myyttien, legendojen ja laulujen muistiin merkitsemiselle. Hän käänsi keräämiään ja kirjaamiaan saamenkielisiä tekstejä niin, että myös muilla kuin saamenkielisillä oli mahdollisuus tutustua niihin.</p>
+<p>Fjellner kertoi kuulleensa muistiin merkitsemänsä joikurunot eri puolilta Saamenmaata. Jälkipolville parhaiten on säilynyt Saamen lippuun kytkeytyvä Biejjie-baernie-runo. Tuo runo on tyyliltään, mitaltaan ja sisällöltään niin taidokas, ettei sen uskota olevan puhtaasti suullista kansanperinnettä. Fjellnerin maine innokkaana ja uppoutuvana kuuntelijana ja loistavana tarinankertojana ovat osaltaan vaikuttaneet siihen, että monet saamelaiskulttuurin tutkijat ovatkin päätyneet pitämään runoa paitsi perinteikkäänä joikurunona, myös kirjailijan taidonnäytteenä.</p>
+<p>Saamen lippuun hengen puhaltanut Anders Fjellnerin runo Beaivvi bárdni on myyttinen sankarirunoelma. Siinä päivän poika matkustaa jättiläisten maahan, rakastuu siellä jättiläisen tyttäreen ja lopulta nai tämän. Liitosta syntyvät Päivän pojat, joista saamelaiset polveutuvat.</p>
+<p>Seuraavassa ensimmäisiä säkeitä Fjellnerin pitkästä runoelmasta, joka kertoo Päivän pojan kosiomatkasta jättiläisten maailmaan. Fjellnerin alkuperäiskieli oli eteläsaame, josta runo on käännetty pohjoissaameksi (Harald Gaski), inarinsaameksi (Ilmari Mattus) ja englanniksi (Tr. John Weinstock).</p>
+<p><em type="italic">Lähteitä: </em></p>
+<p>Harald Gaski 2003: Biejjien baernie/ Sámi Son of the Sun/ Beaivvi bárdni. Davvi Girji OS: www.davvi.no .</p>
+<p>Runosäkeet kirjasta julkaistu Gaskin ja Davvi Girjin luvalla.</p>
+<p>Heroic Epic, Utopia and Prayer</p>
+<p>– the Son of the Sun, the Daughter of the Sun and the Sámi</p>
+<p type="title">Eteläsaameksi:</p>
+<p><em type="italic">Biejjie-baernien såangoe Jeahnaj eatnamisnie </em></p>
+<p>Badtsetji baernieh lin dovletje</p>
+<p>Vaenies niejth ålmide</p>
+<p>Daatema lij nyjsenæjjemes diedteme</p>
+<p>virreh sjoevelin aktese</p>
+<p>Ietnie lij guedtiemassem njammehtamme</p>
+<p>Gaalles baerniem laavkojamme bøypmedehteme</p>
+<p>Goh gaalla gierhkemassem tjiektji</p>
+<p>Sjiehtedimmeste nænnoes soenh</p>
+<p>Sjiehtedæjja leajhkeli mielem</p>
+<p>Gaalla-baerniej maadth-maadtoe.</p>
+<p>Jiehtese lea jiehteme</p>
+<p>Saake lea beagkeme:</p>
+<p>Dubpelen noerhtemes naestiem</p>
+<p>Luvleli biejjien jih asken</p>
+<p>Silpe gullie joeveh aaregh</p>
+<p>Aernie-gierkieh, aajeh-gierkieh</p>
+<p>Gullie giltie, silpe sjiltie</p>
+<p>Mearoe-gaejsieh guelmiedahkem giehtjieh</p>
+<p>Biejjieh, askh jih naestieh</p>
+<p>Guekieh giltieh mojjesisnie</p>
+<p>- - - - - - - -</p>
+<p type="title">Pohjoissaameksi:</p>
+<p><em type="italic">Beaivvi bártni soagŋu jiehtanasaid máilmmis </em></p>
+<p>Bođuid bártnit ledje dolin</p>
+<p>Nieiddat vátnásat olbmáide</p>
+<p>Dievdu lei nissonis deaddán</p>
+<p>Varaideaskka vuohčudan oktii</p>
+<p>Eadni lei njamahan guoddámis</p>
+<p>Gállá gándda lávgon ja biebman</p>
+<p>Go gállis gietkamis čievččai</p>
+<p>Sahkanahttistis nana suonaid</p>
+<p>Sahkkejeaddji mielaid leikii</p>
+<p>Gállábártniid máttarmáddui.</p>
+<p>Nu leat mii gullan</p>
+<p>Sáhka lea beaggán:</p>
+<p>Dobbelis davimus nástti</p>
+<p>Oarjjabeal beaivvi ja mánu</p>
+<p>Silba-golli juovat, bávttit</p>
+<p>Árrangeađggit ájageađggit</p>
+<p>Golli giilá, silba šiilá</p>
+<p>Mearas gáissát govaset gehččet</p>
+<p>Beaivvážat, mánut ja násttit</p>
+<p>Muođuineaset mojit čuvget</p>
+<p>- - - - - - - -</p>
+<p type="title">Englanniksi:</p>
+<p><em type="italic">The Son of the Sun´s Courting in the Land of the Giants </em></p>
+<p>Few men were there before</p>
+<p>A lack of women for the men.</p>
+<p>The man hugged his woman</p>
+<p>Their blood they blended together.</p>
+<p>The mother suckled her offspring</p>
+<p>Washed and fed the child.</p>
+<p>The boy kicked in the cradle</p>
+<p>From his father got strong sinews</p>
+<p>From his mother gained good sense.</p>
+<p>Ancestor of the Sun´s sons.</p>
+<p>That´s how we heard it</p>
+<p>So it is told:</p>
+<p>Beyond the easternmost star</p>
+<p>To the west of moon and sun</p>
+<p>Are found fells of silver and gold</p>
+<p>Stones for hearth, stones for adornment.</p>
+<p>Gold sparkles, silver glimmers</p>
+<p>Sea mirrors the mountains´image.</p>
+<p>The suns, the moons and the stars</p>
+<p>Smile on the mountains´cheeks.</p>
+<p>- - - - - - - -</p>
+<p type="title">Inarinsaameksi:</p>
+<p>(käännös Ilmari Mattus 2009)</p>
+<p><em type="italic">Piäiváá pärni suáŋu jietânâsâi mailmist </em></p>
+<p>Pođoi päärnih lijjii tovle</p>
+<p>Nieidah vääni almaid</p>
+<p>Almai lâi nisonis tiäddám</p>
+<p>Vorâidis vuáčudâm oohtân</p>
+<p>Enni lâi njomâttâm kyeddimis</p>
+<p>Kállá kaandâ lávgum já piemmâm</p>
+<p>Ko käälis kietkâmist čievčâi</p>
+<p>Šovâtteijeestis noonâ suonâid</p>
+<p>Šovâtteijee mielâid leškij</p>
+<p>Kállápaarnij maddârmaddui.</p>
+<p>Nuvt lep mij kuullâm</p>
+<p>Saahâ lii piäggám:</p>
+<p>Tobbeláá tavemuš täsni</p>
+<p>Uárjibeln piäiváš já máánu</p>
+<p>Silbâ-kolle juovah, päävtih</p>
+<p>Aarrânkeeđgih aajâriddoin</p>
+<p>Kolle kildá, silbâ šiälgu</p>
+<p>Meerâst kááisáh kuvijdis keččih</p>
+<p>Piäivááh, máánuh já tääsnih</p>
+<p>Muáđuinis mojeh čyevih</p>
+<p>- - - - - - - -</p>
+</body></document>

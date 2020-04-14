@@ -1,46 +1,19 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="fin" id="no_id"><header><title> 
 Untitled
-</title>
-    <genre code="ficti"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <person firstname="Pirjo" lastname="Paavalniemi" sex="f" born="" nationality="FIN"/>
-    </translator>
-    <wordcount>51</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Uuet laulut 2010</p>
-    <p xml:lang="nob">Storfjord språksenter: Sateenkaarilaulu</p>
-    <p xml:lang="nob">Oversatt til finsk: Kainun institutti-Kvensk institutt/ Pirjo Paavalniemi</p>
-    <p xml:lang="nob">SATEENKAARILAULU</p>
-    <p>Vihree, punainen, sininen</p>
-    <p>keltainen, oranssikin.</p>
-    <p>Laulan sateenkaaren, sateenkaaren,</p>
-    <p>värit satehen.</p>
-    <p>Kuule silmilläs, kuule silmilläs</p>
-    <p>ja laula sen minkä näät.</p>
-    <p>Nyt laulu/ värit sateenkaaren, sateenkaaren,</p>
-    <p>meitä yhdistää.</p>
-    <p>Vihree, punainen, sininen</p>
-    <p>keltainen, oranssikin.</p>
-    <p>Laulan sateenkaaren, sateenkaaren,</p>
-    <p>värit satehen.</p>
-  </body>
-</document>
+</title><genre code="ficti"/><author><unknown/></author><translator><person firstname="Pirjo" lastname="Paavalniemi" sex="f" born="" nationality="FIN"/></translator><wordcount>51</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/><multilingual><language xml:lang="nob"/><language xml:lang="fin"/></multilingual><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Uuet laulut 2010</p>
+<p xml:lang="nob">Storfjord språksenter: Sateenkaarilaulu</p>
+<p xml:lang="nob">Oversatt til finsk: Kainun institutti-Kvensk institutt/ Pirjo Paavalniemi</p>
+<p xml:lang="nob">SATEENKAARILAULU</p>
+<p>Vihree, punainen, sininen</p>
+<p>keltainen, oranssikin.</p>
+<p>Laulan sateenkaaren, sateenkaaren,</p>
+<p>värit satehen.</p>
+<p>Kuule silmilläs, kuule silmilläs</p>
+<p>ja laula sen minkä näät.</p>
+<p>Nyt laulu/ värit sateenkaaren, sateenkaaren,</p>
+<p>meitä yhdistää.</p>
+<p>Vihree, punainen, sininen</p>
+<p>keltainen, oranssikin.</p>
+<p>Laulan sateenkaaren, sateenkaaren,</p>
+<p>värit satehen.</p>
+</body></document>

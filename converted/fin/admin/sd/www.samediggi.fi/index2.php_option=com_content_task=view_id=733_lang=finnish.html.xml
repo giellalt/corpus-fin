@@ -1,52 +1,18 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Uusia oppikirjoja ilmestyi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>194</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=733&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=733_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=733_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=733_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Uusia oppikirjoja ilmestyi</p>
-    <p>Perusopetuksen pohjoissaamenkieliset kolmasluokkalaiset saavat käyttöönsä uudistetun äidinkielen oppikirjan</p>
-    <p xml:lang="smj">
-      <em type="italic">Gollegiellan 3 </em>
-    </p>
-    <p>ja viidesluokkalaiset uuden uskonnon oppikirjan</p>
-    <p xml:lang="smn">
-      <em type="italic">Násti 5 </em>
-    </p>
-    <p>ja siihen kuuluvan työkirjan. Lisäksi ilmestyivät uusintapainokset inarinsaamenkielisestä käsityökirjasta</p>
-    <p xml:lang="smn">
-      <em type="italic">Anarâš pivtâstem, </em>
-    </p>
-    <p>pohjoissaamenkielisestä äidinkielen oppikirjasta</p>
-    <p xml:lang="smj">
-      <em type="italic">Mu giella 5-6 </em>
-    </p>
-    <p>ja aapisen syyslukukauden työkirjasta</p>
-    <p xml:lang="sme">
-      <em type="italic">Áppes, Min meahci máidnasat. </em>
-    </p>
-    <p>Äidinkielen kolmannen luokan oppikirja <em type="italic">Gollegiellan 3 </em>on Kaaren Kitin tekemä. Tekijä on uudistanut kirjaa lähinnä tekstien osalta. Kirja pohjautuu saamelaiseen tarinaperinteeseen ja saamenkieliseen kirjallisuuteen. </p>
-    <p>Uskonnon oppikirja <em type="italic">Násti 5 </em>ja siihen liittyvä samanniminen työkirja ovat käännöksiä Kustannusyhtiö Otavan julkaisemasta Tähti -nimisestä oppikirjasta ja työkirjasta. Saamenkieliset käännökset on tehnyt Anu Katekeetta. Sarjassa on aiemmin julkaistu kuudennen luokan oppikirja ja työkirja. </p>
-    <p>Ella Sarren inarinsaamenkielisestä Anaraš pivtâstem -kirjasta julkaistiin toinen painos. Kirja sisältää opastuksen inarinsaamelaisen puvuston valmistamiseen. Ensimmäinen painos, joka julkaistiin vuonna 2012, myytiin pian loppuun.</p>
-    <p>Pohjoissaamenkielisen aapisen Min meahci máidnasat kirjoittaja on Inga Guttorm/ Oahptii Iŋgá ja kuvittaja Salli Parikka. Sarjaan kuuluvat aapisen lisäksi erilliset työkirjat syys- ja kevätlukukausia varten.</p>
-    <p>Toivo Westin kirjoittamasta 5-6 luokkien äidinkielen oppikirjasta ilmestyi nyt toinen painos. Kirjaan liittyvät myös aiemmin julkaistut työkirjat 5- ja 6 -luokille.</p>
-    <p>Kaikki kirjat ovat saatavilla Saamelaiskulttuurikeskus Sajoksesta saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta ja Sámi duodjin myymälästä. Kirjoja voi tilata sähköpostitse info(at)samediggi.fi. Lisätietoja tästä</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Uusia oppikirjoja ilmestyi</title><genre code="admin"/><author><unknown/></author><wordcount>194</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=733&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=733_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=733_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=733_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Uusia oppikirjoja ilmestyi</p>
+<p>Perusopetuksen pohjoissaamenkieliset kolmasluokkalaiset saavat käyttöönsä uudistetun äidinkielen oppikirjan</p>
+<p xml:lang="smj"><em type="italic">Gollegiellan 3 </em></p>
+<p>ja viidesluokkalaiset uuden uskonnon oppikirjan</p>
+<p xml:lang="smn"><em type="italic">Násti 5 </em></p>
+<p>ja siihen kuuluvan työkirjan. Lisäksi ilmestyivät uusintapainokset inarinsaamenkielisestä käsityökirjasta</p>
+<p xml:lang="smn"><em type="italic">Anarâš pivtâstem, </em></p>
+<p>pohjoissaamenkielisestä äidinkielen oppikirjasta</p>
+<p xml:lang="smj"><em type="italic">Mu giella 5-6 </em></p>
+<p>ja aapisen syyslukukauden työkirjasta</p>
+<p xml:lang="sme"><em type="italic">Áppes, Min meahci máidnasat. </em></p>
+<p>Äidinkielen kolmannen luokan oppikirja <em type="italic">Gollegiellan 3 </em>on Kaaren Kitin tekemä. Tekijä on uudistanut kirjaa lähinnä tekstien osalta. Kirja pohjautuu saamelaiseen tarinaperinteeseen ja saamenkieliseen kirjallisuuteen. </p>
+<p>Uskonnon oppikirja <em type="italic">Násti 5 </em>ja siihen liittyvä samanniminen työkirja ovat käännöksiä Kustannusyhtiö Otavan julkaisemasta Tähti -nimisestä oppikirjasta ja työkirjasta. Saamenkieliset käännökset on tehnyt Anu Katekeetta. Sarjassa on aiemmin julkaistu kuudennen luokan oppikirja ja työkirja. </p>
+<p>Ella Sarren inarinsaamenkielisestä Anaraš pivtâstem -kirjasta julkaistiin toinen painos. Kirja sisältää opastuksen inarinsaamelaisen puvuston valmistamiseen. Ensimmäinen painos, joka julkaistiin vuonna 2012, myytiin pian loppuun.</p>
+<p>Pohjoissaamenkielisen aapisen Min meahci máidnasat kirjoittaja on Inga Guttorm/ Oahptii Iŋgá ja kuvittaja Salli Parikka. Sarjaan kuuluvat aapisen lisäksi erilliset työkirjat syys- ja kevätlukukausia varten.</p>
+<p>Toivo Westin kirjoittamasta 5-6 luokkien äidinkielen oppikirjasta ilmestyi nyt toinen painos. Kirjaan liittyvät myös aiemmin julkaistut työkirjat 5- ja 6 -luokille.</p>
+<p>Kaikki kirjat ovat saatavilla Saamelaiskulttuurikeskus Sajoksesta saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta ja Sámi duodjin myymälästä. Kirjoja voi tilata sähköpostitse info(at)samediggi.fi. Lisätietoja tästä</p>
+</body></document>

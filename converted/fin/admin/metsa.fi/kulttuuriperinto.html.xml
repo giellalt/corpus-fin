@@ -1,370 +1,111 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Kulttuuriperintö - www.metsa.fi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>244</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.metsa.fi/kulttuuriperinto</origFileName>
-    <parallel_text xml:lang="sme" location="kulturarbi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="nno">
-        <list>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                        </list>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-        </list>
-      </p>
-    </list>
-    <p type="title">Metsähallitus suojelee myös kulttuuriperintöä</p>
-    <p>Näkyvin osa Metsähallituksen hoidossa olevaa kulttuuriperintöä ovat vanhat rakennukset ja muinaisjäännökset. Lisäksi ylläpidämme mm. rakennusten ja kulttuuriympäristöjen hoitoon liittyviä perinnetaitoja ja jaamme tietoa kohteiden historiasta.</p>
-    <p>Suurimpana yksittäisenä valtion maa- ja vesiomaisuuden haltijana Metsähallitus vastaa myös monien kulttuuriperintökohteiden säilymisestä: niin kansallispuistojen perinnetiloista kuin ulkosaariston muinaisista kivilatomuksista ja saamelaisesta rakennusperinnöstä. Metsähallitus hoitaa kohteita yhteistyössä museoviranomaisten kanssa. Muutamat kohteet liittyvät Metsähallituksen omaan historiaan, lähinnä metsätalouteen.</p>
-    <p>Kaskeamisen ja muun vanhan maankäytön synnyttämät perinnemaisemat ovat Suomen monimuotoisimpia mutta myös uhanalaisimpia luontotyyppejä. Niiden lajirunsaus on syntynyt ihmistyön ja karjanlaidunnuksen seurauksena ja samat toimet sen säilyttävät. Metsähallitus ja vapaaehtoiset hoitavat vuosittain noin neljää tuhatta hehtaaria perinnemaisemia.</p>
-    <p>Kartoitamme myös vedenalaista kulttuuriperintöä.</p>
-    <p type="title">Lait ja sopimukset antavat Metsähallitukselle vastuuta kulttuuriperinnön vaalimisessa</p>
-    <p>Metsähallituksella on lakisääteinen velvollisuus vaalia hallussaan olevaa kulttuuriomaisuutta, turvata saamelaiskulttuurin harjoittamisen edellytykset saamelaisten kotiseutualueilla sekä suojella Saaristomeren kansallispuiston kulttuuria.</p>
-    <p>Viranomaisena Metsähallitus on velvollinen ottamaan huomioon valtakunnalliset alueidenkäyttötavoitteet, myös kulttuuriympäristöjen vaalimisessa. Metsähallitus osallistuu UNESCOn Maailmanperintöluetteloon esitettävien luontokohteiden valmistelutyöhön.</p>
-    <p type="title">Kulttuuriperinnön hoidon yhteyshenkilöt Metsähallituksessa 2017:</p>
-    <list>
-      <p type="listitem">luonnonsuojelualueet, rauniolinnat ja linnoitukset: erikoissuunnittelija Anu Vauramo, p. 0206 39 4327, anu.vauramo(at)metsa.fi</p>
-      <p type="listitem">monikäyttömetsät (metsätalousalueet): ympäristöasiantuntija Risto Savolainen, p. 0206 39 4465, risto.savolainen(at)metsa.fi</p>
-    </list>
-    <p>Kulttuuriperintöä Metsähallituksen hoidossa</p>
-    <p>
-      <em type="italic">Metsähallitus kulttuuriperinnön hoitajana </em>
-    </p>
-    <list>
-      <p type="listitem">Tietoa kulttuuriperinnön suojelusta ja hoidosta valtionmailla.</p>
-    </list>
-    <p>
-      <em type="italic">Blogi: Luonto ja kulttuuri </em>
-    </p>
-    <list>
-      <p type="listitem">Blogissamme ajankohtaisia kuulumisia ja tietoa kohteista. (http://luontojakulttuuri.wordpress.com)</p>
-    </list>
-    <p>
-      <em type="italic">Metsähallitus myös Vallisaaren linnoitusten hoitajaksi </em>
-    </p>
-    <list>
-      <p type="listitem">Vallisaari Helsingin edustalla on uusi luonto- ja historiamatkailun kohde (www.luontoon.fi/vallisaari).</p>
-    </list>
-    <p>
-      <em type="italic">Örön sotahistoriallinen saari uuteen käyttöön </em>
-    </p>
-    <list>
-      <p type="listitem">Puolustusvoimien toiminnan päättyessä Metsähallitus kehittää Örötä Saaristomeren kansallispuiston matkailukohteena (www.luontoon.fi/oro).</p>
-    </list>
-    <p>
-      <em type="italic">Metsähallituksen Luontopalvelujen hoitovastuulle Museovirastolta tulleita kohteita </em>
-    </p>
-    <list>
-      <p type="listitem">Hankkeessa kehitetään kohteiden matkailua kulttuuriperintöarvot huomioiden.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Kulttuuriperintö - www.metsa.fi</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>244</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.metsa.fi/kulttuuriperinto</origFileName><parallel_text xml:lang="sme" location="kulturarbi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+</list></p>
+</list><p type="title">Metsähallitus suojelee myös kulttuuriperintöä</p>
+<p>Näkyvin osa Metsähallituksen hoidossa olevaa kulttuuriperintöä ovat vanhat rakennukset ja muinaisjäännökset. Lisäksi ylläpidämme mm. rakennusten ja kulttuuriympäristöjen hoitoon liittyviä perinnetaitoja ja jaamme tietoa kohteiden historiasta.</p>
+<p>Suurimpana yksittäisenä valtion maa- ja vesiomaisuuden haltijana Metsähallitus vastaa myös monien kulttuuriperintökohteiden säilymisestä: niin kansallispuistojen perinnetiloista kuin ulkosaariston muinaisista kivilatomuksista ja saamelaisesta rakennusperinnöstä. Metsähallitus hoitaa kohteita yhteistyössä museoviranomaisten kanssa. Muutamat kohteet liittyvät Metsähallituksen omaan historiaan, lähinnä metsätalouteen.</p>
+<p>Kaskeamisen ja muun vanhan maankäytön synnyttämät perinnemaisemat ovat Suomen monimuotoisimpia mutta myös uhanalaisimpia luontotyyppejä. Niiden lajirunsaus on syntynyt ihmistyön ja karjanlaidunnuksen seurauksena ja samat toimet sen säilyttävät. Metsähallitus ja vapaaehtoiset hoitavat vuosittain noin neljää tuhatta hehtaaria perinnemaisemia.</p>
+<p>Kartoitamme myös vedenalaista kulttuuriperintöä.</p>
+<p type="title">Lait ja sopimukset antavat Metsähallitukselle vastuuta kulttuuriperinnön vaalimisessa</p>
+<p>Metsähallituksella on lakisääteinen velvollisuus vaalia hallussaan olevaa kulttuuriomaisuutta, turvata saamelaiskulttuurin harjoittamisen edellytykset saamelaisten kotiseutualueilla sekä suojella Saaristomeren kansallispuiston kulttuuria.</p>
+<p>Viranomaisena Metsähallitus on velvollinen ottamaan huomioon valtakunnalliset alueidenkäyttötavoitteet, myös kulttuuriympäristöjen vaalimisessa. Metsähallitus osallistuu UNESCOn Maailmanperintöluetteloon esitettävien luontokohteiden valmistelutyöhön.</p>
+<p type="title">Kulttuuriperinnön hoidon yhteyshenkilöt Metsähallituksessa 2017:</p>
+<list><p type="listitem">luonnonsuojelualueet, rauniolinnat ja linnoitukset: erikoissuunnittelija Anu Vauramo, p. 0206 39 4327, anu.vauramo(at)metsa.fi</p>
+<p type="listitem">monikäyttömetsät (metsätalousalueet): ympäristöasiantuntija Risto Savolainen, p. 0206 39 4465, risto.savolainen(at)metsa.fi</p>
+</list><p>Kulttuuriperintöä Metsähallituksen hoidossa</p>
+<p><em type="italic">Metsähallitus kulttuuriperinnön hoitajana </em></p>
+<list><p type="listitem">Tietoa kulttuuriperinnön suojelusta ja hoidosta valtionmailla.</p>
+</list><p><em type="italic">Blogi: Luonto ja kulttuuri </em></p>
+<list><p type="listitem">Blogissamme ajankohtaisia kuulumisia ja tietoa kohteista. (http://luontojakulttuuri.wordpress.com)</p>
+</list><p><em type="italic">Metsähallitus myös Vallisaaren linnoitusten hoitajaksi </em></p>
+<list><p type="listitem">Vallisaari Helsingin edustalla on uusi luonto- ja historiamatkailun kohde (www.luontoon.fi/vallisaari).</p>
+</list><p><em type="italic">Örön sotahistoriallinen saari uuteen käyttöön </em></p>
+<list><p type="listitem">Puolustusvoimien toiminnan päättyessä Metsähallitus kehittää Örötä Saaristomeren kansallispuiston matkailukohteena (www.luontoon.fi/oro).</p>
+</list><p><em type="italic">Metsähallituksen Luontopalvelujen hoitovastuulle Museovirastolta tulleita kohteita </em></p>
+<list><p type="listitem">Hankkeessa kehitetään kohteiden matkailua kulttuuriperintöarvot huomioiden.</p>
+</list></body></document>

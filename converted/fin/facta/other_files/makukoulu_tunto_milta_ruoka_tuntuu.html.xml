@@ -1,59 +1,25 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Makukoulu: Tunto – miltä ruoka tuntuu</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>404</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-tunto-milta-ruoka-tuntuu/</origFileName>
-    <parallel_text xml:lang="sme" location="smahkkaskuvlla_dovdu_mo_borramus_dovdo.html"/>
-    <parallel_text xml:lang="swe" location="smakskolan_kanseln_hur_kanns_maten.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Makukoulu: Tunto – miltä ruoka tuntuu</p>
-    <p>Sormilla voi arvioida leipäpalan pehmeyttä tai rapeutta. Suussa havaitaan ruuan mureus tai tahmeus. Ruuan suutuntuma vaikuttaa suuresti sen miellyttävyyteen. Vääränlainen suutuntuma, kuten pehmeä näkkileipä tai kova vaahtokarkki koetaan epämiellyttäväksi.</p>
-    <p>Ruuan rakenneominaisuudet luokitellaan mekaanisiin ja geometrisiin sekä vesi- ja rasvasisältöön liittyviin ominaisuuksiin. Mekaaniset ominaisuudet, kuten kovuus ja tarttuvuus kuvaavat ennen kaikkea pureskelun aikana syntyviä tuntemuksia. Geometriset ominaisuudet, kuten sileys, kokkareisuus tai säikeisyys voidaan havaita jo näkemällä, mutta ne käyvät ilmi myös suun kosketustunnon perusteella. Suutuntumalla havaitaan myös vesi- ja rasvasisältöön liittyvät ominaisuudet, kuten kuivuus, mehevyys tai öljymäisyys. Tuntohavainnot ruuasta muuttuvat pureskelun, syljen sekoittumisen ja ruuan lämpenemisen seurauksena suussa.</p>
-    <p>Tietyt yhdisteet aiheuttavat suussa ja nenässä <em type="italic">kemotuntoaistimuksen </em>, joka on esimerkiksi polttava tai viilentävä. Emme maista chilin polttavuutta, vaan tunnemme sen tulisena suussa ja nenässä. Kemotuntoaistimuksia aiheuttavia yhdisteitä ovat muun muassa chilin kapsaisiini, piparmintun mentoli ja aniksen anetoli. Kemotuntoaistimus voi myös aiheuttaa aivastelua ja silmien vuotamista. </p>
-    <p>
-      <em type="italic">Tuntoaisti </em>
-    </p>
-    <p>Tuntoreseptorimme ihossa aistivat kosketusta, kipua, lämpötilaa, kemotuntoaistimuksia sekä lihastemme liikettä, asentoa ja supistusvoimakkuutta. Erityyppiset reseptorit havaitsevat erilaisia aistimuksia. Reseptoriin tuleva ärsyke saa reseptorin lähettämään viestin hermoja pitkin aivoihin, joissa se tulkitaan tuntoaistimukseksi. Ruuan havainnointiin osallistuvia tuntoreseptoreita on sormissa, huulilla ja suussa. Ruuan suutuntumasta puhuttaessa tarkoitetaan suun pinnoilla koettuja aistimuksia. <em type="italic">Kemotunnoksi </em>kutsutaan tuntoaistimuksia, joita kemialliset yhdisteet saavat aikaan suun ja nenän limakalvoilla. </p>
-    <p>
-      <em type="italic">Tuntoaistiin liittyviä tehtäviä oppitunnille </em>
-    </p>
-    <list>
-      <p type="listitem">Oppitunnilla tuntoaistiin tutustuessa hyvä apuväline on tunnustelupussi. Se voi olla läpinäkymätön kankainen tai muovinen pussi. Isommille lapsille pussiin laitetaan sisään useampia ruokaan liittyviä asioita, kuten kuivia ruoka-aineita, ruokailuvälineitä sekä ruuanvalmistustarvikkeita, ja lapset tunnustelevat, mikä ruokaan liittyvä aine tai esine on kyseessä. Pienemmille lapsille pussiin laitetaan vain yksi tunnusteltava asia kerrallaan. Kaikki lapset saavat kokeilla, mitä pussissa on ennen kuin kerrotaan ääneen pussin sisältö.</p>
-      <p type="listitem">Tuntoaistilla havaittavien ominaisuuksien kuvailua voi opetella tunnustelupussin avulla niin, että oppilas kertoo käsi tunnustelupussissa, miltä ruoka tai ruokaan liittyvä esine tuntuu, ja muut yrittävät arvata, mikä se on.</p>
-      <p type="listitem">Oppitunnilla voi käydä yhdessä läpi erilaisia elintarvikkeita ja pohtia, miltä ne tuntuvat kädellä ja suussa. Esimerkiksi näkkileipä on karhea, kuiva, kova ja mureneva. Mietitään yhdessä jotakin elintarviketta, kuten porkkanaa kokonaisena, kuutioina, raasteena, keitettynä ja soseena. Miltä se tuntuu eri muodoissa kädellä? Entä suussa? Millaiseksi eri ruokien, kuten näkkileivän, pihvin, omenan, suklaan ja jäätelön rakenne muuttuu suussa?</p>
-      <p type="listitem">Kemotuntoa voi oppilaiden kanssa havainnollistaa maistelemalla piparminttupastilleja ja isompien oppilaiden kanssa myös mietoa chiliä.</p>
-    </list>
-    <p type="title" xml:lang="est">LUE LISÄÄ:</p>
-    <p type="title">Näkö - ensin katsotaan</p>
-    <p type="title">Haju - kutittaa nenässä</p>
-    <p type="title">Maku - maistuu kielellä</p>
-    <p type="title">Kuulo - korvatkin tykkäävät ruuasta</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Makukoulu: Tunto – miltä ruoka tuntuu</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>404</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-tunto-milta-ruoka-tuntuu/</origFileName><parallel_text xml:lang="sme" location="smahkkaskuvlla_dovdu_mo_borramus_dovdo.html"/><parallel_text xml:lang="swe" location="smakskolan_kanseln_hur_kanns_maten.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Makukoulu: Tunto – miltä ruoka tuntuu</p>
+<p>Sormilla voi arvioida leipäpalan pehmeyttä tai rapeutta. Suussa havaitaan ruuan mureus tai tahmeus. Ruuan suutuntuma vaikuttaa suuresti sen miellyttävyyteen. Vääränlainen suutuntuma, kuten pehmeä näkkileipä tai kova vaahtokarkki koetaan epämiellyttäväksi.</p>
+<p>Ruuan rakenneominaisuudet luokitellaan mekaanisiin ja geometrisiin sekä vesi- ja rasvasisältöön liittyviin ominaisuuksiin. Mekaaniset ominaisuudet, kuten kovuus ja tarttuvuus kuvaavat ennen kaikkea pureskelun aikana syntyviä tuntemuksia. Geometriset ominaisuudet, kuten sileys, kokkareisuus tai säikeisyys voidaan havaita jo näkemällä, mutta ne käyvät ilmi myös suun kosketustunnon perusteella. Suutuntumalla havaitaan myös vesi- ja rasvasisältöön liittyvät ominaisuudet, kuten kuivuus, mehevyys tai öljymäisyys. Tuntohavainnot ruuasta muuttuvat pureskelun, syljen sekoittumisen ja ruuan lämpenemisen seurauksena suussa.</p>
+<p>Tietyt yhdisteet aiheuttavat suussa ja nenässä <em type="italic">kemotuntoaistimuksen </em>, joka on esimerkiksi polttava tai viilentävä. Emme maista chilin polttavuutta, vaan tunnemme sen tulisena suussa ja nenässä. Kemotuntoaistimuksia aiheuttavia yhdisteitä ovat muun muassa chilin kapsaisiini, piparmintun mentoli ja aniksen anetoli. Kemotuntoaistimus voi myös aiheuttaa aivastelua ja silmien vuotamista. </p>
+<p><em type="italic">Tuntoaisti </em></p>
+<p>Tuntoreseptorimme ihossa aistivat kosketusta, kipua, lämpötilaa, kemotuntoaistimuksia sekä lihastemme liikettä, asentoa ja supistusvoimakkuutta. Erityyppiset reseptorit havaitsevat erilaisia aistimuksia. Reseptoriin tuleva ärsyke saa reseptorin lähettämään viestin hermoja pitkin aivoihin, joissa se tulkitaan tuntoaistimukseksi. Ruuan havainnointiin osallistuvia tuntoreseptoreita on sormissa, huulilla ja suussa. Ruuan suutuntumasta puhuttaessa tarkoitetaan suun pinnoilla koettuja aistimuksia. <em type="italic">Kemotunnoksi </em>kutsutaan tuntoaistimuksia, joita kemialliset yhdisteet saavat aikaan suun ja nenän limakalvoilla. </p>
+<p><em type="italic">Tuntoaistiin liittyviä tehtäviä oppitunnille </em></p>
+<list><p type="listitem">Oppitunnilla tuntoaistiin tutustuessa hyvä apuväline on tunnustelupussi. Se voi olla läpinäkymätön kankainen tai muovinen pussi. Isommille lapsille pussiin laitetaan sisään useampia ruokaan liittyviä asioita, kuten kuivia ruoka-aineita, ruokailuvälineitä sekä ruuanvalmistustarvikkeita, ja lapset tunnustelevat, mikä ruokaan liittyvä aine tai esine on kyseessä. Pienemmille lapsille pussiin laitetaan vain yksi tunnusteltava asia kerrallaan. Kaikki lapset saavat kokeilla, mitä pussissa on ennen kuin kerrotaan ääneen pussin sisältö.</p>
+<p type="listitem">Tuntoaistilla havaittavien ominaisuuksien kuvailua voi opetella tunnustelupussin avulla niin, että oppilas kertoo käsi tunnustelupussissa, miltä ruoka tai ruokaan liittyvä esine tuntuu, ja muut yrittävät arvata, mikä se on.</p>
+<p type="listitem">Oppitunnilla voi käydä yhdessä läpi erilaisia elintarvikkeita ja pohtia, miltä ne tuntuvat kädellä ja suussa. Esimerkiksi näkkileipä on karhea, kuiva, kova ja mureneva. Mietitään yhdessä jotakin elintarviketta, kuten porkkanaa kokonaisena, kuutioina, raasteena, keitettynä ja soseena. Miltä se tuntuu eri muodoissa kädellä? Entä suussa? Millaiseksi eri ruokien, kuten näkkileivän, pihvin, omenan, suklaan ja jäätelön rakenne muuttuu suussa?</p>
+<p type="listitem">Kemotuntoa voi oppilaiden kanssa havainnollistaa maistelemalla piparminttupastilleja ja isompien oppilaiden kanssa myös mietoa chiliä.</p>
+</list><p type="title" xml:lang="est">LUE LISÄÄ:</p>
+<p type="title">Näkö - ensin katsotaan</p>
+<p type="title">Haju - kutittaa nenässä</p>
+<p type="title">Maku - maistuu kielellä</p>
+<p type="title">Kuulo - korvatkin tykkäävät ruuasta</p>
+</body></document>

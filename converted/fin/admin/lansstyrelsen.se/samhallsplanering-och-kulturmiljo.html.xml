@@ -1,63 +1,23 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>578</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/Fi/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Yhteiskuntasuunnittelu ja kulttuuriympäristö - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem">Yhteiskuntasuunnittelu ja kulttuuriympäristö</p>
-    </list>
-    <p type="title">Yhteiskuntasuunnittelu ja kulttuuriympäristö</p>
-    <p>
-      <em type="italic">Lääninhallituksen yhteiskuntasuunnittelutyön tulee myötävaikuttaa hyvien ja turvallisten elinolosuhteiden sekä pitkällä tähtäimellä kestävään elinympäristön luomiseen läänin asukkaille ja vierailijoille. Kulttuuriympäristö on osa yhteiskunnan historiaa, se luo jatkuvuutta arkipäivään sekä lisää ympäröivän maailman ymmärtämistä. </em>
-    </p>
-    <p type="title">Infrastruktuuri ja IT</p>
-    <p>Lääninhallitus toimii viestintäyhteyksien parantamiseksi läänissä ja myös muualle ympäröivään maailmaan ja että niistä tulisi ympäristömielessä mahdollisimman hyviä. Hyvät viestintäyhteydet ja hyvä IT-infrastruktuuri edesauttavat ihmisiä, yrityksiä ja järjestöjä laajentamaan työmarkkinoitaan. Lääninhallitus valvoo muun muassa valtakunnallisesti tärkeiden tai useita kuntia koskevien etujen huomioon ottamista infrastruktuurihankkeiden suunnittelussa. Hoidamme myös valtiollisen tuen jakamisen laajakaistayhteyksien rakentamisessa maaseudulle.</p>
-    <p type="title">Energia</p>
-    <p>Lääninhallitus koordinoi alueellisen työn pitkällä tähtäimellä turvallisen ja kestävän energiahuollon rakentamiseksi. Yhdessä läänin toimijoiden kanssa olemme kehitelleet ilmasto- ja energiastrategian, joka osoittaa, miten meidän on toimittava Ruotsin ympäristötavoitteiden saavuttamiseksi ja energiajärjestelmän muuttamiseksi. Lääninhallituksella on meneillään useita eri hankkeita kestävän kehityksen edistämiseksi ja tietoperustan luomiseksi kuntien energiankäytön suunnittelulle. Erityyppisiä valtion avustuksia on saatavana energiatehokkuuden lisäämiseksi ja siirtymiseksi uusiutuvien energialähteiden käyttöön. Näistä avustuksista päättää lääninhallitus. Lääninhallituksen ympäristölupavaltuuskunta päättää suurten energialaitosten, kuten tuulivoimapuistot ja kaukolämpövoimalat, toimiluvista.</p>
-    <p type="title">Asuminen</p>
-    <p>Lääninhallitus käsittelee vanhusten- ja turva-asuntorakentamisen sekä pikkutalojen radonsaneerauksen valtiollista tukea koskevat asiat ja päättää asuinrakennusten ja tiettyjen muiden tilojen energia-avustuksista. Lääninhallitus tekee yhteenvedon läänin asuntomarkkinoita koskevista tiedoista ja laatii vuosittain analyyseja niistä muun muassa tueksi kuntien asuntotuotantotyölle.</p>
-    <p type="title">Suunnittelukysymykset</p>
-    <p>Lääninhallitus laatii eri alueille suunnittelun perustana olevaa tietomateriaalia, jolla osoitetaan esimerkiksi rakentamisessa ja maankäytössä tärkeänä pidettävät asiat. Tavoitteena on luoda hyvät ja turvalliset elinolosuhteet ja pitkällä tähtäimellä kestävä elinympäristö. Suunnittelutyöhön vaikuttavat eri kansalliset tavoitteet ja koko maata koskevat intressit, esimerkiksi silloin kun on kyse energiantuotannosta, luonnonsuojelusta, ulkoilusta tai liikenne- ja viestintäyhteyksistä. Tarkastamme myös kuntien suunnittelua ihmisten terveyden ja turvallisuuden, valtakunnallisten tavoitteiden, ympäristölaatunormien ja rantojen suojelun kannalta. Jos olet tyytymätön kunnan rakennuslupaan tai asemakaavaan, voit valittaa siitä meille.</p>
-    <p type="title">Suojattu asutus</p>
-    <p>Lääninhallitus voi päättää, että kulttuurihistoriallisesti arvokkaita rakennuksia, asutus- ja kirkkoympäristöjä, puistoja, puutarhoja ja vastaavia voidaan suojella rakennusmuistomerkkeinä. Lääninhallitus selvittää ja päättää, julistetaanko kohde rakennusmuistomerkiksi, valvoo niitä sekä antaa luvan rakennusmuistomerkkien, kirkkojen ja hautausmaiden muuttamiseen.</p>
-    <p type="title">Rakennussuojelu</p>
-    <p>Rakennussuojelu on osa lääninhallituksen pitkän tähtäimen työtä läänin kulttuuriympäristön suojelemisessa. Jotta asutus voisi säilyttää kulttuurihistoriallisen arvonsa, on tärkeää suorittaa rakennusten suojelu, kunnossapito ja peruskorjaukset yksittäisten talojen omista edellytyksistä lähtien. On myös tärkeää käyttää kulttuurihistoriallisesti oikeita materiaaleja ja menetelmiä. Yksityiset ihmiset, kunnat, säätiöt ja yritykset voivat hakea lääninhallitukselta valtionavustusta, ns. rakennussuojeluavustusta, kulttuurihistoriallisesti tärkeän asutuksen suojelemiseksi.</p>
-    <p type="title">Arkeologia ja muinaisjäännökset</p>
-    <p>Muinaisjäännökset ovat jälkiä aikaisemmasta ihmisten toiminnasta, esimerkiksi asuinpaikoista, kalmistoista, raunioista tai keskiaikaisten kaupunkien kulttuurikerroksista. Lääninhallituksen tehtävänä on suojella, hoitaa ja valmistaa yleisön nähtäväksi omat muinaisjäännösympäristömme siten, että sekä nykyiset että tulevat sukupolvet voisivat ymmärtää ja kokea tämän historiallisen kulttuuriperinnön. Kulttuuriperintölain mukaan muinaisjäännöksen muuttaminen, poistaminen, vahingoittaminen tai peittäminen on kielletty, mutta tietyissä tapauksissa lääninhallitus voi antaa luvan tällaisen toimenpiteen suorittamiseen.</p>
-    <p type="title">Kulttuurisuojelualue</p>
-    <p>Lääninhallitus ja kunnat voivat päättää erityisen arvokkaiden kulttuurimaisemien suojelemisesta kulttuurisuojelualueina. Tällöin suojeluksen piiriin kuuluvat rakennukset, laitokset, jäännökset ja maat, mutta myös ne arvot, joita sisältyy eri toimintoihin, osaamiseen ja perinteisiin. Kulttuurisuojelualue voi olla kaikkea tyypillisistä maanviljelysalueista kulttuurihistoriallisesti kiinnostaviin teollisuusympäristöihin – alueita, joita eri tavoin leimaa menneiden aikojen maan ja voimavarojen käyttö. Kun lääninhallitus on tehnyt päätöksen kulttuurisuojelualueesta, meistä tulee myös sen hoitajia ja vastuullamme on silloin siellä olevien kulttuuriarvojen hoito ja kunnossapito.</p>
-    <p type="title">Maisemansuojelu</p>
-    <p>Lääninhallitus tekee maisemansuojelutyötä maisemien arvon säilyttämiseksi ja nähtäväksi asettamiseksi. Jos haluat suojella arvokasta, läänin historiasta kertovaa kulttuurimaisemaa, voit saada lääninhallitukselta avustusta tämän tekemiseen. Suoritettavissa toimenpiteissä voi olla kyse kulttuurijäännöksistä ja kasvistosta tai eläimistöstä. Lääninhallitus antaa avustusta myös yhdistyksille, yrityksille ja yksittäisille ihmisille, jotka aikovat toteuttaa paikallisia luonnonsuojeluhankkeita (LONA). Jos haluat saada avustusta LONA-hankkeeseen, ilmoita siitä kunnalle, joka sen jälkeen jättää hakemuksen lääninhallitukselle.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>578</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/Fi/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Yhteiskuntasuunnittelu ja kulttuuriympäristö - Länsstyrelsen Skåne</p>
+<list><p type="listitem">Yhteiskuntasuunnittelu ja kulttuuriympäristö</p>
+</list><p type="title">Yhteiskuntasuunnittelu ja kulttuuriympäristö</p>
+<p><em type="italic">Lääninhallituksen yhteiskuntasuunnittelutyön tulee myötävaikuttaa hyvien ja turvallisten elinolosuhteiden sekä pitkällä tähtäimellä kestävään elinympäristön luomiseen läänin asukkaille ja vierailijoille. Kulttuuriympäristö on osa yhteiskunnan historiaa, se luo jatkuvuutta arkipäivään sekä lisää ympäröivän maailman ymmärtämistä. </em></p>
+<p type="title">Infrastruktuuri ja IT</p>
+<p>Lääninhallitus toimii viestintäyhteyksien parantamiseksi läänissä ja myös muualle ympäröivään maailmaan ja että niistä tulisi ympäristömielessä mahdollisimman hyviä. Hyvät viestintäyhteydet ja hyvä IT-infrastruktuuri edesauttavat ihmisiä, yrityksiä ja järjestöjä laajentamaan työmarkkinoitaan. Lääninhallitus valvoo muun muassa valtakunnallisesti tärkeiden tai useita kuntia koskevien etujen huomioon ottamista infrastruktuurihankkeiden suunnittelussa. Hoidamme myös valtiollisen tuen jakamisen laajakaistayhteyksien rakentamisessa maaseudulle.</p>
+<p type="title">Energia</p>
+<p>Lääninhallitus koordinoi alueellisen työn pitkällä tähtäimellä turvallisen ja kestävän energiahuollon rakentamiseksi. Yhdessä läänin toimijoiden kanssa olemme kehitelleet ilmasto- ja energiastrategian, joka osoittaa, miten meidän on toimittava Ruotsin ympäristötavoitteiden saavuttamiseksi ja energiajärjestelmän muuttamiseksi. Lääninhallituksella on meneillään useita eri hankkeita kestävän kehityksen edistämiseksi ja tietoperustan luomiseksi kuntien energiankäytön suunnittelulle. Erityyppisiä valtion avustuksia on saatavana energiatehokkuuden lisäämiseksi ja siirtymiseksi uusiutuvien energialähteiden käyttöön. Näistä avustuksista päättää lääninhallitus. Lääninhallituksen ympäristölupavaltuuskunta päättää suurten energialaitosten, kuten tuulivoimapuistot ja kaukolämpövoimalat, toimiluvista.</p>
+<p type="title">Asuminen</p>
+<p>Lääninhallitus käsittelee vanhusten- ja turva-asuntorakentamisen sekä pikkutalojen radonsaneerauksen valtiollista tukea koskevat asiat ja päättää asuinrakennusten ja tiettyjen muiden tilojen energia-avustuksista. Lääninhallitus tekee yhteenvedon läänin asuntomarkkinoita koskevista tiedoista ja laatii vuosittain analyyseja niistä muun muassa tueksi kuntien asuntotuotantotyölle.</p>
+<p type="title">Suunnittelukysymykset</p>
+<p>Lääninhallitus laatii eri alueille suunnittelun perustana olevaa tietomateriaalia, jolla osoitetaan esimerkiksi rakentamisessa ja maankäytössä tärkeänä pidettävät asiat. Tavoitteena on luoda hyvät ja turvalliset elinolosuhteet ja pitkällä tähtäimellä kestävä elinympäristö. Suunnittelutyöhön vaikuttavat eri kansalliset tavoitteet ja koko maata koskevat intressit, esimerkiksi silloin kun on kyse energiantuotannosta, luonnonsuojelusta, ulkoilusta tai liikenne- ja viestintäyhteyksistä. Tarkastamme myös kuntien suunnittelua ihmisten terveyden ja turvallisuuden, valtakunnallisten tavoitteiden, ympäristölaatunormien ja rantojen suojelun kannalta. Jos olet tyytymätön kunnan rakennuslupaan tai asemakaavaan, voit valittaa siitä meille.</p>
+<p type="title">Suojattu asutus</p>
+<p>Lääninhallitus voi päättää, että kulttuurihistoriallisesti arvokkaita rakennuksia, asutus- ja kirkkoympäristöjä, puistoja, puutarhoja ja vastaavia voidaan suojella rakennusmuistomerkkeinä. Lääninhallitus selvittää ja päättää, julistetaanko kohde rakennusmuistomerkiksi, valvoo niitä sekä antaa luvan rakennusmuistomerkkien, kirkkojen ja hautausmaiden muuttamiseen.</p>
+<p type="title">Rakennussuojelu</p>
+<p>Rakennussuojelu on osa lääninhallituksen pitkän tähtäimen työtä läänin kulttuuriympäristön suojelemisessa. Jotta asutus voisi säilyttää kulttuurihistoriallisen arvonsa, on tärkeää suorittaa rakennusten suojelu, kunnossapito ja peruskorjaukset yksittäisten talojen omista edellytyksistä lähtien. On myös tärkeää käyttää kulttuurihistoriallisesti oikeita materiaaleja ja menetelmiä. Yksityiset ihmiset, kunnat, säätiöt ja yritykset voivat hakea lääninhallitukselta valtionavustusta, ns. rakennussuojeluavustusta, kulttuurihistoriallisesti tärkeän asutuksen suojelemiseksi.</p>
+<p type="title">Arkeologia ja muinaisjäännökset</p>
+<p>Muinaisjäännökset ovat jälkiä aikaisemmasta ihmisten toiminnasta, esimerkiksi asuinpaikoista, kalmistoista, raunioista tai keskiaikaisten kaupunkien kulttuurikerroksista. Lääninhallituksen tehtävänä on suojella, hoitaa ja valmistaa yleisön nähtäväksi omat muinaisjäännösympäristömme siten, että sekä nykyiset että tulevat sukupolvet voisivat ymmärtää ja kokea tämän historiallisen kulttuuriperinnön. Kulttuuriperintölain mukaan muinaisjäännöksen muuttaminen, poistaminen, vahingoittaminen tai peittäminen on kielletty, mutta tietyissä tapauksissa lääninhallitus voi antaa luvan tällaisen toimenpiteen suorittamiseen.</p>
+<p type="title">Kulttuurisuojelualue</p>
+<p>Lääninhallitus ja kunnat voivat päättää erityisen arvokkaiden kulttuurimaisemien suojelemisesta kulttuurisuojelualueina. Tällöin suojeluksen piiriin kuuluvat rakennukset, laitokset, jäännökset ja maat, mutta myös ne arvot, joita sisältyy eri toimintoihin, osaamiseen ja perinteisiin. Kulttuurisuojelualue voi olla kaikkea tyypillisistä maanviljelysalueista kulttuurihistoriallisesti kiinnostaviin teollisuusympäristöihin – alueita, joita eri tavoin leimaa menneiden aikojen maan ja voimavarojen käyttö. Kun lääninhallitus on tehnyt päätöksen kulttuurisuojelualueesta, meistä tulee myös sen hoitajia ja vastuullamme on silloin siellä olevien kulttuuriarvojen hoito ja kunnossapito.</p>
+<p type="title">Maisemansuojelu</p>
+<p>Lääninhallitus tekee maisemansuojelutyötä maisemien arvon säilyttämiseksi ja nähtäväksi asettamiseksi. Jos haluat suojella arvokasta, läänin historiasta kertovaa kulttuurimaisemaa, voit saada lääninhallitukselta avustusta tämän tekemiseen. Suoritettavissa toimenpiteissä voi olla kyse kulttuurijäännöksistä ja kasvistosta tai eläimistöstä. Lääninhallitus antaa avustusta myös yhdistyksille, yrityksille ja yksittäisille ihmisille, jotka aikovat toteuttaa paikallisia luonnonsuojeluhankkeita (LONA). Jos haluat saada avustusta LONA-hankkeeseen, ilmoita siitä kunnalle, joka sen jälkeen jättää hakemuksen lääninhallitukselle.</p>
+</body></document>

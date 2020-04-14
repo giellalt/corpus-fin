@@ -1,110 +1,71 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>462</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.avi.fi/web/avi/perhe-ja-sosiaalipalvelut#.WR68QsYvHNQ</origFileName>
-    <parallel_text xml:lang="eng" location="perhe-ja-sosiaalipalvelut_.wr68ocyvhnq.html"/>
-    <parallel_text xml:lang="sme" location="bearas-ja-sosialabalvalusat_.wr68pcyvhnq.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Perhe- ja sosiaalipalvelut - Aluehallintovirasto</p>
-    <p>› Graafinen versio</p>
-    <p xml:lang="fkv">Henkilöhaku</p>
-    <list>
-      <p type="listitem">Sosiaalipalvelujen ohjaus ja valvonta</p>
-      <p type="listitem">Asiakkaan asema ja oikeudet</p>
-      <p type="listitem" xml:lang="vep">Kantelu</p>
-      <p type="listitem">Rikos- ja riita-asioiden sovittelu</p>
-      <p type="listitem">Lupa perheasioiden sovitteluun</p>
-      <p type="listitem">Yksityiset sosiaalipalvelut</p>
-      <p type="listitem" xml:lang="kal">Romaniasiat</p>
-    </list>
-    <p xml:lang="koi">2013-05-21</p>
-    <p>Aluehallintovirasto (AVI) on sosiaalihuollon alueellinen ohjaus-, lupa- ja valvontaviranomainen. Viraston tavoitteena on laadukkaiden sosiaalihuollon palvelujen turvaaminen väestölle.</p>
-    <p>AVI ohjaa ja valvoo sekä kunnallisia että yksityisiä sosiaalihuollon palveluja. Virasto toimii alueensa asukkaiden parhaaksi yhteistyössä kuntien sekä muiden paikallisten ja alueellisten toimijoiden kanssa. AVIsta on mahdollista saada ohjausta, jos palveluissa tai laadussa on vakavia puutteita, epäkohtia tai asiasta kohdellaan epäasiallisesti.</p>
-    <p>AVIn toimintaa sosiaalipalveluissa ohjaavat lainsäädäntö ja AVI toimii yhteistyössä sosiaali- ja terveysministeriön (STM), Sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) ja muiden toimijoiden kanssa.</p>
-    <p>AVIn tehtäviä ovat:</p>
-    <list>
-      <p type="listitem">sosiaalihuollon ohjaus ja valvonta</p>
-      <p type="listitem">yksityisten sosiaalipalvelujen tuottajien luvat ja ilmoitukset (lupien myöntäminen ja sosiaalipalvelutoiminnan rekisteröinti)</p>
-      <p type="listitem">kantelujen käsittely.</p>
-    </list>
-    <p type="title" xml:lang="fkv">Tiedotteita</p>
-    <list>
-      <p type="listitem">Neljälle itäsuomalaiselle äidille kunniamerkki (Itä-Suomi)</p>
-      <p type="listitem">Jämsän lastensuojelussa liian vähän väkeä - tilanne korjattava syksyyn mennessä (Länsi- ja Sisä-Suomi)</p>
-      <p type="listitem">Sosiaali- ja terveydenhuollon lupa- ja rekisteröintipäätökset sekä vireille tulleet lupa-asiat huhtikuussa (Etelä-Suomi)</p>
-      <p type="listitem">Helsingin sosiaali- ja terveyslautakunnalle määräys oikaisuvaatimusten käsittelyajan lyhentämisestä (Etelä-Suomi)</p>
-      <p type="listitem">Aluehallintovirastojen määräajat itsenäisyyspäivän kunniamerkeille</p>
-    </list>
-    <p xml:lang="nno">RSS  (Opens New Window)</p>
-    <p type="title">Tietoa alueelta</p>
-    <p type="title">Perhe- ja sosiaalipalvelut - Itä-Suomi</p>
-    <p>
-      <em type="italic">Yhteystiedot </em>
-    </p>
-    <p><em type="italic">Sähköpostiosoitteet: </em>etunimi.sukunimi@avi.fi kirjaamo.ita@avi.fi </p>
-    <p xml:lang="est"><em type="italic">Puhelinvaihde </em>: 0295 016 800 </p>
-    <p><em type="italic">Itä-Suomen aluehallintovirasto </em>Postiosoite: PL 50 50101 Mikkeli </p>
-    <p>sosiaalihuollon ylitarkastaja, ryhmävastaava Satu Syrjälä, p. 0295 016 944 - kehitysvammahuolto - sosiaaliasiamiestoiminta - lastenvalvojan tehtävät (isyys, elatus, huolto- ja tapaamisoikeudet)</p>
-    <p>sosiaalihuollon ylitarkastaja Sirkka Koponen, p. 0295 016 912 - yksityinen sosiaalipalvelutoiminta, luvat ja valvonta</p>
-    <p>sosiaalihuollon ylitarkastaja Marena Paahto. p. 0295 016 846 - lastensuojelu - muut lasten ja lapsiperheiden sosiaalipalvelut (ei lastenvalvojapalvelut)</p>
-    <p>tarkastaja Marja Porkka, p. 0295 016 937 - yksityisten sosiaalipalvelujen rekisteröinti ja laskutus - ilmoituksen varaiset sosiaalipalvelut - perustoimeentulotuen valtionosuuden maksatus - perustamishankkeiden valtionosuudet (STM)</p>
-    <p>sosiaalihuollon ylitarkastaja Pia Sorsa, p. 0295 016 942 - vanhustenhuolto - vammaispalvelut - sosiaalihuollon valmiusasiat</p>
-    <p>sosiaalihuollon ylitarkastaja Marita Uusitalo, p. 0295 016 951 - päihdehuolto - mielenterveyspalvelut - toimeentulotuki ja aikuissosiaalityö - sosiaalipäivystys - YVA (sosiaalihuolto) - lähisuhdeväkivallan ehkäisy - kuntouttava työtoiminta - sosiaalihuollon valmiusasiat</p>
-    <p>suunnittelija Helena Valentin, p. 0295 016 952 - romaniasiat - etniset asiat</p>
-    <p><em type="italic">Toimipaikkojen asiointiosoitteet ja faksinumerot </em>Mikkelin päätoimipaikka Maaherrankatu 16, 50100 Mikkeli (kirjaamo) Faksi: 015 760 0150 Joensuun toimipaikka Torikatu 36 C, 80100 Joensuu Faksi: 013 610 0260 </p>
-    <p>Kuopion toimipaikka Hallituskatu 12–14, 70100 Kuopio Faksi: 017 580 8690</p>
-    <p>Päivitetty 03.04.2017</p>
-    <p>Päivitetty</p>
-    <p>Tulosta</p>
-    <p xml:lang="fkv">Jaa</p>
-    <p type="title">Oikopolut</p>
-    <p xml:lang="koi">2014-10-13</p>
-    <list>
-      <p type="listitem">Asiointi</p>
-      <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
-      <p type="listitem">Valviran ja aluehallintovirastojen linjauksia</p>
-    </list>
-    <p type="title">Muualla verkossa</p>
-    <p xml:lang="koi">2013-05-03</p>
-    <list>
-      <p type="listitem">Sosiaali- ja terveysministeriö (STM)</p>
-      <p type="listitem" xml:lang="vep">Kuntainfo 10/2011 (STM)</p>
-      <p type="listitem">Turvallinen lääkehoito (STM)</p>
-      <p type="listitem">Sosiaali- ja terveysalan lupa- ja valvonta virasto (Valvira)</p>
-      <p type="listitem">Valvontaohjelmat (Valvira)</p>
-      <p type="listitem">Omavalvontasuunnitelman laatimista, sisältöä ja seurantaa koskevat määräykset (Valvira)</p>
-      <p type="listitem">Opas omavalvonnan toteuttamiseksi (Valvira)</p>
-    </list>
-    <p type="title" xml:lang="fkv">Lomakkeet</p>
-    <p xml:lang="koi">2013-05-23</p>
-    <list>
-      <p type="listitem">Hakemus ympärivuorokautisten yksityisten sosiaalipalvelujen antamiseen</p>
-      <p type="listitem">Ilmoitus yksityisten sosiaalipalvelujen tuottamisesta</p>
-    </list>
-    <p type="title">Lait ja asetukset</p>
-    <p xml:lang="koi">2016-04-11</p>
-    <list>
-      <p type="listitem">Sosiaalihuoltolaki 1301/2014</p>
-      <p type="listitem" xml:lang="est">Sosiaalihuoltoasetus 607/1983</p>
-      <p type="listitem">Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista 812/2000</p>
-      <p type="listitem">Laki yksityisistä sosiaalipalveluista 922/2011</p>
-      <p type="listitem">Asetus yksityisistä sosiaalipalveluista 1053/2011</p>
-      <p type="listitem">Laki lasten kanssa työskentelevien rikostaustan selvittämisestä 504/2002</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>462</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/perhe-ja-sosiaalipalvelut#.WR68QsYvHNQ</origFileName><parallel_text xml:lang="eng" location="perhe-ja-sosiaalipalvelut_.wr68ocyvhnq.html"/><parallel_text xml:lang="sme" location="bearas-ja-sosialabalvalusat_.wr68pcyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Perhe- ja sosiaalipalvelut - Aluehallintovirasto</p>
+<p>› Graafinen versio</p>
+<p xml:lang="fkv">Henkilöhaku</p>
+<list><p type="listitem">Sosiaalipalvelujen ohjaus ja valvonta</p>
+<p type="listitem">Asiakkaan asema ja oikeudet</p>
+<p type="listitem" xml:lang="fkv">Kantelu</p>
+<p type="listitem">Rikos- ja riita-asioiden sovittelu</p>
+<p type="listitem">Lupa perheasioiden sovitteluun</p>
+<p type="listitem">Yksityiset sosiaalipalvelut</p>
+<p type="listitem" xml:lang="kal">Romaniasiat</p>
+</list><p xml:lang="vep">2013-05-21</p>
+<p>Aluehallintovirasto (AVI) on sosiaalihuollon alueellinen ohjaus-, lupa- ja valvontaviranomainen. Viraston tavoitteena on laadukkaiden sosiaalihuollon palvelujen turvaaminen väestölle.</p>
+<p>AVI ohjaa ja valvoo sekä kunnallisia että yksityisiä sosiaalihuollon palveluja. Virasto toimii alueensa asukkaiden parhaaksi yhteistyössä kuntien sekä muiden paikallisten ja alueellisten toimijoiden kanssa. AVIsta on mahdollista saada ohjausta, jos palveluissa tai laadussa on vakavia puutteita, epäkohtia tai asiasta kohdellaan epäasiallisesti.</p>
+<p>AVIn toimintaa sosiaalipalveluissa ohjaavat lainsäädäntö ja AVI toimii yhteistyössä sosiaali- ja terveysministeriön (STM), Sosiaali- ja terveysalan lupa- ja valvontaviraston (Valvira) ja muiden toimijoiden kanssa.</p>
+<p>AVIn tehtäviä ovat:</p>
+<list><p type="listitem">sosiaalihuollon ohjaus ja valvonta</p>
+<p type="listitem">yksityisten sosiaalipalvelujen tuottajien luvat ja ilmoitukset (lupien myöntäminen ja sosiaalipalvelutoiminnan rekisteröinti)</p>
+<p type="listitem">kantelujen käsittely.</p>
+</list><p type="title" xml:lang="fkv">Tiedotteita</p>
+<list><p type="listitem">Neljälle itäsuomalaiselle äidille kunniamerkki (Itä-Suomi)</p>
+<p type="listitem">Jämsän lastensuojelussa liian vähän väkeä - tilanne korjattava syksyyn mennessä (Länsi- ja Sisä-Suomi)</p>
+<p type="listitem">Sosiaali- ja terveydenhuollon lupa- ja rekisteröintipäätökset sekä vireille tulleet lupa-asiat huhtikuussa (Etelä-Suomi)</p>
+<p type="listitem">Helsingin sosiaali- ja terveyslautakunnalle määräys oikaisuvaatimusten käsittelyajan lyhentämisestä (Etelä-Suomi)</p>
+<p type="listitem">Aluehallintovirastojen määräajat itsenäisyyspäivän kunniamerkeille</p>
+</list><p xml:lang="nno">RSS  (Opens New Window)</p>
+<p type="title">Tietoa alueelta</p>
+<p type="title">Perhe- ja sosiaalipalvelut - Itä-Suomi</p>
+<p><em type="italic">Yhteystiedot </em></p>
+<p><em type="italic">Sähköpostiosoitteet: </em>etunimi.sukunimi@avi.fi kirjaamo.ita@avi.fi </p>
+<p xml:lang="est"><em type="italic">Puhelinvaihde </em>: 0295 016 800 </p>
+<p><em type="italic">Itä-Suomen aluehallintovirasto </em>Postiosoite: PL 50 50101 Mikkeli </p>
+<p>sosiaalihuollon ylitarkastaja, ryhmävastaava Satu Syrjälä, p. 0295 016 944 - kehitysvammahuolto - sosiaaliasiamiestoiminta - lastenvalvojan tehtävät (isyys, elatus, huolto- ja tapaamisoikeudet)</p>
+<p>sosiaalihuollon ylitarkastaja Sirkka Koponen, p. 0295 016 912 - yksityinen sosiaalipalvelutoiminta, luvat ja valvonta</p>
+<p>sosiaalihuollon ylitarkastaja Marena Paahto. p. 0295 016 846 - lastensuojelu - muut lasten ja lapsiperheiden sosiaalipalvelut (ei lastenvalvojapalvelut)</p>
+<p>tarkastaja Marja Porkka, p. 0295 016 937 - yksityisten sosiaalipalvelujen rekisteröinti ja laskutus - ilmoituksen varaiset sosiaalipalvelut - perustoimeentulotuen valtionosuuden maksatus - perustamishankkeiden valtionosuudet (STM)</p>
+<p>sosiaalihuollon ylitarkastaja Pia Sorsa, p. 0295 016 942 - vanhustenhuolto - vammaispalvelut - sosiaalihuollon valmiusasiat</p>
+<p xml:lang="sme">sosiaalihuollon ylitarkastaja Marita Uusitalo, p. 0295 016 951 - päihdehuolto - mielenterveyspalvelut - toimeentulotuki ja aikuissosiaalityö - sosiaalipäivystys - YVA (sosiaalihuolto) - lähisuhdeväkivallan ehkäisy - kuntouttava työtoiminta - sosiaalihuollon valmiusasiat</p>
+<p>suunnittelija Helena Valentin, p. 0295 016 952 - romaniasiat - etniset asiat</p>
+<p><em type="italic">Toimipaikkojen asiointiosoitteet ja faksinumerot </em>Mikkelin päätoimipaikka Maaherrankatu 16, 50100 Mikkeli (kirjaamo) Faksi: 015 760 0150 Joensuun toimipaikka Torikatu 36 C, 80100 Joensuu Faksi: 013 610 0260 </p>
+<p>Kuopion toimipaikka Hallituskatu 12–14, 70100 Kuopio Faksi: 017 580 8690</p>
+<p>Päivitetty 03.04.2017</p>
+<p>Päivitetty</p>
+<p>Tulosta</p>
+<p xml:lang="fit">Jaa</p>
+<p type="title">Oikopolut</p>
+<p xml:lang="vep">2014-10-13</p>
+<list><p type="listitem">Asiointi</p>
+<p type="listitem" xml:lang="fkv">Henkilöhaku</p>
+<p type="listitem">Valviran ja aluehallintovirastojen linjauksia</p>
+</list><p type="title">Muualla verkossa</p>
+<p xml:lang="vep">2013-05-03</p>
+<list><p type="listitem">Sosiaali- ja terveysministeriö (STM)</p>
+<p type="listitem" xml:lang="vep">Kuntainfo 10/2011 (STM)</p>
+<p type="listitem">Turvallinen lääkehoito (STM)</p>
+<p type="listitem">Sosiaali- ja terveysalan lupa- ja valvonta virasto (Valvira)</p>
+<p type="listitem">Valvontaohjelmat (Valvira)</p>
+<p type="listitem">Omavalvontasuunnitelman laatimista, sisältöä ja seurantaa koskevat määräykset (Valvira)</p>
+<p type="listitem">Opas omavalvonnan toteuttamiseksi (Valvira)</p>
+</list><p type="title" xml:lang="fkv">Lomakkeet</p>
+<p xml:lang="vep">2013-05-23</p>
+<list><p type="listitem">Hakemus ympärivuorokautisten yksityisten sosiaalipalvelujen antamiseen</p>
+<p type="listitem">Ilmoitus yksityisten sosiaalipalvelujen tuottamisesta</p>
+</list><p type="title">Lait ja asetukset</p>
+<p xml:lang="vep">2016-04-11</p>
+<list><p type="listitem">Sosiaalihuoltolaki 1301/2014</p>
+<p type="listitem" xml:lang="est">Sosiaalihuoltoasetus 607/1983</p>
+<p type="listitem">Laki sosiaalihuollon asiakkaan asemasta ja oikeuksista 812/2000</p>
+<p type="listitem">Laki yksityisistä sosiaalipalveluista 922/2011</p>
+<p type="listitem">Asetus yksityisistä sosiaalipalveluista 1053/2011</p>
+<p type="listitem">Laki lasten kanssa työskentelevien rikostaustan selvittämisestä 504/2002</p>
+</list></body></document>

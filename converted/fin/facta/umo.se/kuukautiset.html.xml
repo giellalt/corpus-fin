@@ -1,69 +1,29 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>675</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Finska/Kuukautiset</origFileName>
-    <parallel_text xml:lang="fit" location="mensi.html"/>
-    <parallel_text xml:lang="sma" location="gujnelemmie.html"/>
-    <parallel_text xml:lang="sme" location="manodavddat.html"/>
-    <parallel_text xml:lang="smj" location="liejbbe.html"/>
-    <parallel_text xml:lang="swe" location="mens.html"/>
-    <parallel_text location="rattepha.html" xml:lang="rmu"/>
-    <parallel_text location="meni.html" xml:lang="rmf"/>
-    <parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/>
-    <parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mensturacija.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kuukautiset</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Kuukautiset</p>
-    <p>Kuukautiset tarkoittavat kohdusta poistuvaa verenvuotoa, joka toistuu tytöillä enemmän tai vähemmän säännöllisesti murrosiästä alkaen. Kuukautiset ovat merkki tytölle, että hänen kehonsa on lisääntymiskykyinen.</p>
-    <p>Tytön munasarjoista irtoaa kerran kuukaudessa munasolu murrosiästä vaihdevuosiin saakka. Munasolun irrotessa kohdun limakalvo paksuuntuu ja valmistautuu vastaanottamaan hedelmöittyneen munasolun. Munasolun hedelmöittymiseksi emättimeen on päästävä siittiöitä. Tällöin nainen voi tulla raskaaksi. Jos munasolu ei hedelmöity, kohdun limakalvo poistuu kohdusta vuotona. Tästä käytetään nimitystä kuukautiset.</p>
-    <p type="title">Koska kuukautiset alkavat?</p>
-    <p>Kuukautisten alkamisaika vaihtelee yksilöllisesti. Tämä johtuu siitä, että jokaisen murrosikä on erilainen. Murrosiän varhaista tai myöhäistä alkamisaikaa ei voi hallita.</p>
-    <p>Kuukautiset alkavat keskimäärin 12–14 vuoden iässä. Kuukautiset voivat alkaa jo yhdeksän vuoden iässä tai vasta 16-vuotiaana, mikä on täysin normaalia. Jos kuukautiset eivät ole alkaneet 16–17 vuoden ikään mennessä, on syytä mennä lääkäriin.</p>
-    <p>Ensimmäiset kuukautiset voivat tulla yllätyksenä. Se voi olla ahdistavaa. Ehkä kellään luokkatoverilla ei vielä ole kuukautisia. Kuukautissuojan valinta voi huolestuttaa, ja niistä puhuminen aikuisten kanssa saattaa nolottaa.</p>
-    <p>Toisaalta ensimmäiset kuukautiset voivat olla jotain, mitä on jo kauan odottanut. Useimmilla kavereilla ne ovat jo alkaneet, ja tuntuu helpottuneelta kuulua lopultakin samaan <span type="quote">"jengiin"</span>.</p>
-    <p type="title">Kuinka paljon vuotoa tulee?</p>
-    <p>Vuodon määrä ja kesto vaihtelevat henkilöstä toiseen. Kuukautisten aikana verta vuotaa tavallisesti noin 20–80 millilitraa, eli korkeintaan desilitran verran. Koska vereen sekoittuu kehon nesteitä ja kohdun limakalvoa, vuotoa näyttää olevan enemmän kuin sitä oikeasti on.</p>
-    <p type="title">Runsas vuoto</p>
-    <p>Vuoto voi tuntua runsaalta, vaikka itse asiassa se ei sitä olisikaan. Jos kuukautissuoja on vaihdettava niin usein, että siitä on runsaasti vaivaa tai jos joutuu käyttämään kaksinkertaista terveyssidettä, jotta vuoto ei tulisi läpi, puhutaan runsaasta vuodosta. Runsas vuoto johtuu usein siitä, että kohdussa on runsaasti ainetta, joka liuottaa verihyytymiä. Tämä heikentää veren hyytymistä ja aiheuttaa runsaampaa vuotoa. Runsaan kuukautisvuodon vuoksi olo voi tuntua väsyneeltä ja voimattomalta. Tämä johtuu alhaisista veriarvoista.</p>
-    <p>Runsaista kuukautisista kärsivä voi ottaa yhteyttä kouluterveydenhuoltoon, nuorisovastaanottoon tai terveyskeskukseen. Lääkäri voi määrätä hoidoksi pillereitä, joilla vuotoa voi hillitä, esimerkiksi ehkäisypillerit.</p>
-    <p type="title">Epäsäännölliset kuukautiset</p>
-    <p>Nuorena kuukautiskierto on tavallisesti epäsäännöllinen. Se tarkoittaa sitä, että kuukautiset eivät tule joka kuukausi samaan aikaan. Yleensä kierto tasaantuu itsestään ajan myötä niin, että jokainen kuukautiskierto, eli aika kuukautisten alusta seuraavien alkuun, kestää 21–35 päivää. Kuukautiskiertoa kannattaa tarkkailla merkitsemällä päivämäärät kalenteriin tai muuhun muistivihkoon. Se auttaa pysymään selvillä kuukautiskierron säännöllisyydestä ja seuraavien kuukautisten alkamisesta. Näin on myös helppo huomata, jos kuukautiset ovat myöhässä.</p>
-    <p>Joillakin naisilla kuukautiset saattavat olla epäsäännölliset koko elämän ajan, eikä se ole vaarallista. Jos epäsäännölliset kuukautiset tuntuvat kuitenkin vaivalloisilta, ne voidaan saada säännöllisiksi esimerkiksi ehkäisypillereiden avulla.</p>
-    <p type="title">Kuukautiset myöhässä tai poissa</p>
-    <p type="title">Raskaus</p>
-    <p>Luonnollinen syy kuukautisten poisjäämiseen on raskaus. Raskaus edellyttää, että emättimeen on päässyt siittiöitä, mikä tapahtuu yleensä aina yhdynnässä. Jos harrastaa hyväilyseksiä, ja sormissa on tuoretta spermaa, jonka vie suoraan emättimeen, on olemassa riski tulla raskaaksi.</p>
-    <p>Jos kuukautisten poisjäämisen uskoo voivan johtua raskaudesta, kannattaa tehdä raskaustesti. Raskaustestin voi ostaa apteekista, monista tavarataloista ja lähikaupoista. Testin voi myös tehdä ilmaiseksi nuorisovastaanotolla tai äitiysneuvolassa.</p>
-    <p type="title">Stressi, ympäristön muutos tai laihduttaminen</p>
-    <p>Kuukautisten poisjäämiseen voi olla monia muitakin syitä. Jos kuukautiset ovat vain muutaman viikon myöhässä tai jäävät tulematta yhtenä tai kahtena kuukautena, syynä voivat olla monet erilaiset asiat, kuten ympäristön muutos tai väliaikainen stressi.</p>
-    <p>Jos kuukautiset jäävät pois pitemmäksi aikaa, kannattaa hakeutua tutkimuksiin ja selvittää syy. Syynä voi olla esimerkiksi voimakas stressi, pahoinvointi, kova treenaus, laihduttaminen, syömishäiriöt tai jokin sairaus. Se on kehon tapa sanoa, että jotain on vialla. Jos tuntuu, että tarvitsee apua tai tukea ongelmien ratkaisuun, voi kääntyä esimerkiksi kouluterveydenhuollon tai nuorisovastaanoton puoleen.</p>
-    <p>Jos kuukautiset jäävät pois yli kuudeksi kuukaudeksi, kannattaa aina ottaa yhteyttä esimerkiksi nuorisovastaanottoon tai terveyskeskuksen lääkäriin. Kuukautisten poisjäämistä voidaan selvittää muun muassa verikokeella, jolla mitataan hormonipitoisuuksia. Tarvittaessa lääkäri voi määrätä tabletteja, jotka käynnistävät kuukautiset uudelleen.</p>
-    <p type="title">Kuukautiskivut ja PMS</p>
-    <p>Noin viikkoa ennen kuukautisten alkua kehoon kertyy nestettä. Tämän seurauksena rinnat voivat aristaa ja keho tuntua turvonneelta. Tätä kutsutaan premenstruaaliseksi syndroomaksi, PMS. Oireyhtymä johtuu kehon hormoneista, ja se voi aiheuttaa kiukkuisuutta, ärtymystä tai alakuloisuutta. Lisäksi voi ilmetä päänsärkyä, makeanhimoa tai näppylöitä. Useimmiten PMS-oireet ovat pahimmillaan kolmesta neljään päivää ennen kuukautisia ja häviävät kuukautisten alkaessa, mutta niitä voi ilmetä myös kuukautisten aikana.</p>
-    <p>Liikunta ja rentoutusharjoitukset voivat helpottaa PMS-oireita. Oireisina päivinä kannattaa myös nukkua riittävästi, ottaa rauhallisesti ja yrittää välttää stressiä.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>670</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Finska/Kuukautiset</origFileName><parallel_text xml:lang="fit" location="mensi.html"/><parallel_text xml:lang="sma" location="gujnelemmie.html"/><parallel_text xml:lang="sme" location="manodavddat.html"/><parallel_text xml:lang="smj" location="liejbbe.html"/><parallel_text xml:lang="swe" location="mens.html"/><parallel_text location="rattepha.html" xml:lang="rmu"/><parallel_text location="meni.html" xml:lang="rmf"/><parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/><parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/><parallel_text location="mensturacija.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kuukautiset</p>
+<p type="title">Kuukautiset</p>
+<p>Kuukautiset tarkoittavat kohdusta poistuvaa verenvuotoa, joka toistuu tytöillä enemmän tai vähemmän säännöllisesti murrosiästä alkaen. Kuukautiset ovat merkki tytölle, että hänen kehonsa on lisääntymiskykyinen.</p>
+<p>Tytön munasarjoista irtoaa kerran kuukaudessa munasolu murrosiästä vaihdevuosiin saakka. Munasolun irrotessa kohdun limakalvo paksuuntuu ja valmistautuu vastaanottamaan hedelmöittyneen munasolun. Munasolun hedelmöittymiseksi emättimeen on päästävä siittiöitä. Tällöin nainen voi tulla raskaaksi. Jos munasolu ei hedelmöity, kohdun limakalvo poistuu kohdusta vuotona. Tästä käytetään nimitystä kuukautiset.</p>
+<p type="title">Koska kuukautiset alkavat?</p>
+<p>Kuukautisten alkamisaika vaihtelee yksilöllisesti. Tämä johtuu siitä, että jokaisen murrosikä on erilainen. Murrosiän varhaista tai myöhäistä alkamisaikaa ei voi hallita.</p>
+<p>Kuukautiset alkavat keskimäärin 12–14 vuoden iässä. Kuukautiset voivat alkaa jo yhdeksän vuoden iässä tai vasta 16-vuotiaana, mikä on täysin normaalia. Jos kuukautiset eivät ole alkaneet 16–17 vuoden ikään mennessä, on syytä mennä lääkäriin.</p>
+<p>Ensimmäiset kuukautiset voivat tulla yllätyksenä. Se voi olla ahdistavaa. Ehkä kellään luokkatoverilla ei vielä ole kuukautisia. Kuukautissuojan valinta voi huolestuttaa, ja niistä puhuminen aikuisten kanssa saattaa nolottaa.</p>
+<p>Toisaalta ensimmäiset kuukautiset voivat olla jotain, mitä on jo kauan odottanut. Useimmilla kavereilla ne ovat jo alkaneet, ja tuntuu helpottuneelta kuulua lopultakin samaan <span type="quote">"jengiin"</span>.</p>
+<p type="title">Kuinka paljon vuotoa tulee?</p>
+<p>Vuodon määrä ja kesto vaihtelevat henkilöstä toiseen. Kuukautisten aikana verta vuotaa tavallisesti noin 20–80 millilitraa, eli korkeintaan desilitran verran. Koska vereen sekoittuu kehon nesteitä ja kohdun limakalvoa, vuotoa näyttää olevan enemmän kuin sitä oikeasti on.</p>
+<p type="title">Runsas vuoto</p>
+<p>Vuoto voi tuntua runsaalta, vaikka itse asiassa se ei sitä olisikaan. Jos kuukautissuoja on vaihdettava niin usein, että siitä on runsaasti vaivaa tai jos joutuu käyttämään kaksinkertaista terveyssidettä, jotta vuoto ei tulisi läpi, puhutaan runsaasta vuodosta. Runsas vuoto johtuu usein siitä, että kohdussa on runsaasti ainetta, joka liuottaa verihyytymiä. Tämä heikentää veren hyytymistä ja aiheuttaa runsaampaa vuotoa. Runsaan kuukautisvuodon vuoksi olo voi tuntua väsyneeltä ja voimattomalta. Tämä johtuu alhaisista veriarvoista.</p>
+<p>Runsaista kuukautisista kärsivä voi ottaa yhteyttä kouluterveydenhuoltoon, nuorisovastaanottoon tai terveyskeskukseen. Lääkäri voi määrätä hoidoksi pillereitä, joilla vuotoa voi hillitä, esimerkiksi ehkäisypillerit.</p>
+<p type="title">Epäsäännölliset kuukautiset</p>
+<p>Nuorena kuukautiskierto on tavallisesti epäsäännöllinen. Se tarkoittaa sitä, että kuukautiset eivät tule joka kuukausi samaan aikaan. Yleensä kierto tasaantuu itsestään ajan myötä niin, että jokainen kuukautiskierto, eli aika kuukautisten alusta seuraavien alkuun, kestää 21–35 päivää. Kuukautiskiertoa kannattaa tarkkailla merkitsemällä päivämäärät kalenteriin tai muuhun muistivihkoon. Se auttaa pysymään selvillä kuukautiskierron säännöllisyydestä ja seuraavien kuukautisten alkamisesta. Näin on myös helppo huomata, jos kuukautiset ovat myöhässä.</p>
+<p>Joillakin naisilla kuukautiset saattavat olla epäsäännölliset koko elämän ajan, eikä se ole vaarallista. Jos epäsäännölliset kuukautiset tuntuvat kuitenkin vaivalloisilta, ne voidaan saada säännöllisiksi esimerkiksi ehkäisypillereiden avulla.</p>
+<p type="title">Kuukautiset myöhässä tai poissa</p>
+<p type="title">Raskaus</p>
+<p>Luonnollinen syy kuukautisten poisjäämiseen on raskaus. Raskaus edellyttää, että emättimeen on päässyt siittiöitä, mikä tapahtuu yleensä aina yhdynnässä. Jos harrastaa hyväilyseksiä, ja sormissa on tuoretta spermaa, jonka vie suoraan emättimeen, on olemassa riski tulla raskaaksi.</p>
+<p>Jos kuukautisten poisjäämisen uskoo voivan johtua raskaudesta, kannattaa tehdä raskaustesti. Raskaustestin voi ostaa apteekista, monista tavarataloista ja lähikaupoista. Testin voi myös tehdä ilmaiseksi nuorisovastaanotolla tai äitiysneuvolassa.</p>
+<p type="title">Stressi, ympäristön muutos tai laihduttaminen</p>
+<p>Kuukautisten poisjäämiseen voi olla monia muitakin syitä. Jos kuukautiset ovat vain muutaman viikon myöhässä tai jäävät tulematta yhtenä tai kahtena kuukautena, syynä voivat olla monet erilaiset asiat, kuten ympäristön muutos tai väliaikainen stressi.</p>
+<p>Jos kuukautiset jäävät pois pitemmäksi aikaa, kannattaa hakeutua tutkimuksiin ja selvittää syy. Syynä voi olla esimerkiksi voimakas stressi, pahoinvointi, kova treenaus, laihduttaminen, syömishäiriöt tai jokin sairaus. Se on kehon tapa sanoa, että jotain on vialla. Jos tuntuu, että tarvitsee apua tai tukea ongelmien ratkaisuun, voi kääntyä esimerkiksi kouluterveydenhuollon tai nuorisovastaanoton puoleen.</p>
+<p>Jos kuukautiset jäävät pois yli kuudeksi kuukaudeksi, kannattaa aina ottaa yhteyttä esimerkiksi nuorisovastaanottoon tai terveyskeskuksen lääkäriin. Kuukautisten poisjäämistä voidaan selvittää muun muassa verikokeella, jolla mitataan hormonipitoisuuksia. Tarvittaessa lääkäri voi määrätä tabletteja, jotka käynnistävät kuukautiset uudelleen.</p>
+<p type="title">Kuukautiskivut ja PMS</p>
+<p>Noin viikkoa ennen kuukautisten alkua kehoon kertyy nestettä. Tämän seurauksena rinnat voivat aristaa ja keho tuntua turvonneelta. Tätä kutsutaan premenstruaaliseksi syndroomaksi, PMS. Oireyhtymä johtuu kehon hormoneista, ja se voi aiheuttaa kiukkuisuutta, ärtymystä tai alakuloisuutta. Lisäksi voi ilmetä päänsärkyä, makeanhimoa tai näppylöitä. Useimmiten PMS-oireet ovat pahimmillaan kolmesta neljään päivää ennen kuukautisia ja häviävät kuukautisten alkaessa, mutta niitä voi ilmetä myös kuukautisten aikana.</p>
+<p>Liikunta ja rentoutusharjoitukset voivat helpottaa PMS-oireita. Oireisina päivinä kannattaa myös nukkua riittävästi, ottaa rauhallisesti ja yrittää välttää stressiä.</p>
+</body></document>

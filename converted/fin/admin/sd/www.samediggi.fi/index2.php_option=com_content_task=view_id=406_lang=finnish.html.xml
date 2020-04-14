@@ -1,60 +1,36 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Tilavuokraus</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>164</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=406&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=406_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=406_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=406_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tilavuokraus</p>
-    <p>Saamelaiskulttuurikeskus Sajos on Pohjois-Lapin suurin kongressi- ja tapahtumatalo. Saamelaiskulttuurikeskus Sajos soveltuu erinomaisesti kansainvälisiin kokouksiin ja kongresseihin. Sajoksen tilojen lisäksi on varattavissa muutaman minuutin kävelymatkan päässä sijaitsevan Saamelaismuseo Siidan auditorio.</p>
-    <p>AUDITORIO DOLLA</p>
-    <p>195-260 henkilölle, 298 m2.</p>
-    <p>DOLLAGADDI-SALI</p>
-    <p>70-140 henkilölle, 117 m2.</p>
-    <p>PÄÄSALI</p>
-    <p>195-430 henkilölle, 417 m2. Muodostuu auditorio Dollasta ja Dollagáddi-salista</p>
-    <p>PARLAMENTTISALI SOLJU</p>
-    <p>60 henkilölle.</p>
-    <p>KOKOUSTILA SILBA 10 henkilölle, 25 m2</p>
-    <p>KOKOUSTILA NÁSTI</p>
-    <p>15 henkilölle, 35 m2</p>
-    <p>KOKOUSTILA SILBANÁSTI</p>
-    <p>25 henkilölle 50 m2 (yhdistetty tila Silbasta ja Nástista)</p>
-    <p>KOKOUSTILA SISTI</p>
-    <p>16-20 henkilölle 40 m2</p>
-    <p>ESIINTYJÄLÄMPIÖ (lämpiö ja maskeeraustila)</p>
-    <p>MUSIIKKISTUDIO</p>
-    <p>VIDEOSTUDIO</p>
-    <p>AULA 300 m2.</p>
-    <p>LUOKKAHUONEET, 3 KPL: SAAMELUOKKA, KULTTUURILUOKKA  JA MEDIALUOKKA.</p>
-    <p>Varattavissa vain koulujen kesälomien aikana.</p>
-    <p>ULKOALUE</p>
-    <p>RAVINTOLA</p>
-    <p>50 (+ 90) henkilölle</p>
-    <p>SIIDAN AUDITORIO, SAAMELAISMUSEO-LUONTOKESKUS SIIDA</p>
-    <p>80 henkilölle.</p>
-    <p>Siida sijaitsee 200 metrin päässä Sajoksesta.</p>
-    <p>AV-TEKNIKOT; Varattavissa ääni- ja/tai valoteknikot. AV-teknikkoa tarvitaan mm. tulkkauskokouksissa sekä musiikki- ja teatteriesityksissä. Teknikot avustavat myös peruskokoustekniikassa.</p>
-    <p>KOKOUSAVUSTAJA: Saatavana myös kokousavustajia.</p>
-    <p>TULKIT: Järjestämme tarvittaessa myös simultaanitulkit.</p>
-    <p>TILA- ja PALVELUVARAUKSET SAJOKSEN MYYNTIPALVELUSTA:</p>
-    <p>Tarjouspyynnön tai varauksen voitte tehdä tällä lomakkeella.</p>
-    <p>Katso pohjapiirros (pdf).</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Tilavuokraus</title><genre code="admin"/><author><unknown/></author><wordcount>164</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=406&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=406_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=406_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=406_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tilavuokraus</p>
+<p>Saamelaiskulttuurikeskus Sajos on Pohjois-Lapin suurin kongressi- ja tapahtumatalo. Saamelaiskulttuurikeskus Sajos soveltuu erinomaisesti kansainvälisiin kokouksiin ja kongresseihin. Sajoksen tilojen lisäksi on varattavissa muutaman minuutin kävelymatkan päässä sijaitsevan Saamelaismuseo Siidan auditorio.</p>
+<p>AUDITORIO DOLLA</p>
+<p>195-260 henkilölle, 298 m2.</p>
+<p>DOLLAGADDI-SALI</p>
+<p>70-140 henkilölle, 117 m2.</p>
+<p>PÄÄSALI</p>
+<p>195-430 henkilölle, 417 m2. Muodostuu auditorio Dollasta ja Dollagáddi-salista</p>
+<p>PARLAMENTTISALI SOLJU</p>
+<p>60 henkilölle.</p>
+<p>KOKOUSTILA SILBA 10 henkilölle, 25 m2</p>
+<p>KOKOUSTILA NÁSTI</p>
+<p>15 henkilölle, 35 m2</p>
+<p>KOKOUSTILA SILBANÁSTI</p>
+<p>25 henkilölle 50 m2 (yhdistetty tila Silbasta ja Nástista)</p>
+<p>KOKOUSTILA SISTI</p>
+<p>16-20 henkilölle 40 m2</p>
+<p>ESIINTYJÄLÄMPIÖ (lämpiö ja maskeeraustila)</p>
+<p>MUSIIKKISTUDIO</p>
+<p>VIDEOSTUDIO</p>
+<p>AULA 300 m2.</p>
+<p>LUOKKAHUONEET, 3 KPL: SAAMELUOKKA, KULTTUURILUOKKA  JA MEDIALUOKKA.</p>
+<p>Varattavissa vain koulujen kesälomien aikana.</p>
+<p>ULKOALUE</p>
+<p>RAVINTOLA</p>
+<p>50 (+ 90) henkilölle</p>
+<p>SIIDAN AUDITORIO, SAAMELAISMUSEO-LUONTOKESKUS SIIDA</p>
+<p>80 henkilölle.</p>
+<p>Siida sijaitsee 200 metrin päässä Sajoksesta.</p>
+<p>AV-TEKNIKOT; Varattavissa ääni- ja/tai valoteknikot. AV-teknikkoa tarvitaan mm. tulkkauskokouksissa sekä musiikki- ja teatteriesityksissä. Teknikot avustavat myös peruskokoustekniikassa.</p>
+<p>KOKOUSAVUSTAJA: Saatavana myös kokousavustajia.</p>
+<p>TULKIT: Järjestämme tarvittaessa myös simultaanitulkit.</p>
+<p>TILA- ja PALVELUVARAUKSET SAJOKSEN MYYNTIPALVELUSTA:</p>
+<p>Tarjouspyynnön tai varauksen voitte tehdä tällä lomakkeella.</p>
+<p>Katso pohjapiirros (pdf).</p>
+</body></document>

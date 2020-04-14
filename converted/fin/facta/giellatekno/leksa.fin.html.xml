@@ -1,41 +1,12 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Leksa</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>150</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/useoahpa/leksa.fin.html</origFileName>
-    <parallel_text xml:lang="eng" location="leksa.eng.html"/>
-    <parallel_text xml:lang="nob" location="leksa.nob.html"/>
-    <parallel_text xml:lang="sme" location="leksa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="est">Leksa</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Vaihtoehtoja</p>
-    </list>
-    <p>Sanakysely on hauska ja hyödyllinen tapa harjotella uusia sanoja. Leksa sopii saamen kielen opiskelijoille ja myös niille, joiden tarvitsee harjoittella kirjoittamista. Ohjelma hyväksyy synonyymit, joten esimerkiksi sanan <span type="quote" xml:lang="sme">"dolla"</span> voit kääntää sekä sanoilla <span type="quote" xml:lang="krl">"tuli"</span> että <span type="quote" xml:lang="smn">"nuotio"</span>. Anna meille palautetta, jos huomaat puuttuvia synonyymeja!</p>
-    <p type="title" xml:lang="sma">Vaihtoehtoja</p>
-    <list>
-      <p type="listitem">Saamesta norjaksi/suomeksi, tai norjasta/suomesta saameksi.</p>
-      <p type="listitem">Sinä saat vain yhden sanan saameksi, mutta norjan tai suomen käännöksessä voi olla enemmän kuin yksi sana, esim. <span type="quote">"vanha nainen"</span>.</p>
-      <p type="listitem">Jos valitset <span type="quote" xml:lang="kal">"Fraasit"</span>, niin joudut kirjoittamaan vähintään kaksi saamenkielistä sanaa, esim. <span type="quote" xml:lang="sme">"báze dearvan"</span></p>
-      <p type="listitem">Voit rajoittaa sanojen valikoimaa valitsemalla joko oppikirjan tai aihepiirin.</p>
-      <p type="listitem">Paikannimet: Voit rajoittaa joko maantieteen perusteella (<span type="quote">"Saamen maa"</span>, <span type="quote" xml:lang="est">"Maailma"</span> tai <span type="quote">"Suomi"</span>) tai taajuuden perusteella (<span type="quote">"tavalliset"</span> tai <span type="quote">"harvat"</span>).</p>
-    </list>
-    <p>Leksa-ohjelman avulla käyttäjät voivat harjoittella arkikieltä. Tämän ohjelman perusteena ovat alkeisopetuksen sanat; lisätietoa löytyy Oahpa-sanasto-sivulla. Me voimme lisätä Leksaan paikannimiä omalta alueeltasi, tai me voimme rakentaa kyselyjä halutuista aiheista, kuten esimerkiksi käsityöstä. Ota yhteyttä meihin, jos sinulla on ehdotuksia!</p>
-    <p>Linkki Leksa-ohjelmaan</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Leksa</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>150</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/leksa.fin.html</origFileName><parallel_text xml:lang="eng" location="leksa.eng.html"/><parallel_text xml:lang="nob" location="leksa.nob.html"/><parallel_text xml:lang="sme" location="leksa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="est">Leksa</p>
+<list><p type="listitem" xml:lang="sma">Vaihtoehtoja</p>
+</list><p>Sanakysely on hauska ja hyödyllinen tapa harjotella uusia sanoja. Leksa sopii saamen kielen opiskelijoille ja myös niille, joiden tarvitsee harjoittella kirjoittamista. Ohjelma hyväksyy synonyymit, joten esimerkiksi sanan <span type="quote" xml:lang="sme">"dolla"</span> voit kääntää sekä sanoilla <span type="quote" xml:lang="krl">"tuli"</span> että <span type="quote" xml:lang="smn">"nuotio"</span>. Anna meille palautetta, jos huomaat puuttuvia synonyymeja!</p>
+<p type="title" xml:lang="sma">Vaihtoehtoja</p>
+<list><p type="listitem">Saamesta norjaksi/suomeksi, tai norjasta/suomesta saameksi.</p>
+<p type="listitem">Sinä saat vain yhden sanan saameksi, mutta norjan tai suomen käännöksessä voi olla enemmän kuin yksi sana, esim. <span type="quote">"vanha nainen"</span>.</p>
+<p type="listitem">Jos valitset <span type="quote" xml:lang="kal">"Fraasit"</span>, niin joudut kirjoittamaan vähintään kaksi saamenkielistä sanaa, esim. <span type="quote" xml:lang="sme">"báze dearvan"</span></p>
+<p type="listitem">Voit rajoittaa sanojen valikoimaa valitsemalla joko oppikirjan tai aihepiirin.</p>
+<p type="listitem">Paikannimet: Voit rajoittaa joko maantieteen perusteella (<span type="quote">"Saamen maa"</span>, <span type="quote" xml:lang="est">"Maailma"</span> tai <span type="quote">"Suomi"</span>) tai taajuuden perusteella (<span type="quote">"tavalliset"</span> tai <span type="quote">"harvat"</span>).</p>
+</list><p>Leksa-ohjelman avulla käyttäjät voivat harjoittella arkikieltä. Tämän ohjelman perusteena ovat alkeisopetuksen sanat; lisätietoa löytyy Oahpa-sanasto-sivulla. Me voimme lisätä Leksaan paikannimiä omalta alueeltasi, tai me voimme rakentaa kyselyjä halutuista aiheista, kuten esimerkiksi käsityöstä. Ota yhteyttä meihin, jos sinulla on ehdotuksia!</p>
+<p>Linkki Leksa-ohjelmaan</p>
+</body></document>

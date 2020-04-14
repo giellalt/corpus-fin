@@ -1,56 +1,22 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Makukoulu: Kuulo – korvatkin tykkäävät ruuasta</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>358</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-kuulo-korvatkin-tykkaavat-ruuasta/</origFileName>
-    <parallel_text xml:lang="sme" location="smahkkaskuvlla_gullu_bealjitge_liikojit_borramusas.html"/>
-    <parallel_text xml:lang="swe" location="smakskolan_horseln_aven_oronen_gillar_mat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Makukoulu: Kuulo – korvatkin tykkäävät ruuasta</p>
-    <p>Ruokaan liittyy monenlaisia ääniä. Osa äänistä kertoo ruuan valmistamisesta ja osa syntyy itse syömistilanteessa. Keittiöstä kantautuva veitsen kolke, pannun tirinä, kattilan porina tai popcornien paukkuminen valmistavat meitä syömiseen. Jotkut äänet ovat osa ruokanautintoa, esimerkiksi kun näkkileivän ja keksien puraisusta kuuluu rapsahdus. Kuuloaistilla havaitaan rapeiden ja tiiviiden ruokien rakenneominaisuuksia. Hedelmien ja kasvisten puraisusta syntyy rouskaisu. Jos kiinnitämme tarkasti huomiota ruokaan liittyviin kuuloaistimuksiin, huomaamme hiljaisempiakin ääniä. Jotkut juustot voivat narskua tai ratista ja jopa juomien poreilun voi kuulla. Myös ruokapuhe ja ruuasta puhuminen ovat syömiseen liittyviä ääniä, jotka viestittävät meille muun muassa ruokaan liittyvistä asenteista.</p>
-    <p>
-      <em type="italic">Kuuloaisti </em>
-    </p>
-    <p>Kuuloaisti perustuu korvakäytävän sisällä olevan tärykalvon värähtelyyn ääniaaltojen tahtiin. Värähtely etenee tärykalvoon kiinnittyneitä kuuloluita pitkin sisäkorvan kuuloelimeen, simpukkaan, jossa kuuloaistinsolut sijaitsevat. Simpukkaan saapuva ääniaalto saa sen sisällä olevan nesteen värähtelemään ja kuuloaistinsolut välittämään viestin kuulohermoa pitkin aivoihin, joissa se tulkitaan ääneksi.</p>
-    <p>
-      <em type="italic">Kuuloaistiin liittyviä tehtäviä oppitunnille </em>
-    </p>
-    <list>
-      <p type="listitem">Kuulopelissä rasioihin tai purkkeihin, joista ei näy läpi, lisätään erilaisia raaka-aineita, kuten herneitä, makaronia ja hiutaleita niin, että aina kahdessa purkissa on samaa raaka-ainetta. Tarkoituksena on purkkeja ravistelemalla etsiä, mitkä purkit ovat pareja. Isommat lapset voivat myös miettiä, mitä purkeissa voisi olla. Tölkistä lähtevään ääneen vaikuttaa sisällä olevan ruoka-aineen määrä, joten pareja kannattaa mitata aina sama määrä.</p>
-      <p type="listitem">Oppilaat voivat nauhoittaa kännykällä ruuanvalmistukseen ja syömiseen liittyviä ääniä, joita arvuutellaan oppitunnilla yhdessä. Vaihtoehtoisesti ääniä voi tuottaa oppitunnilla näköesteen takana. Tunnistettavia ääniä syntyy esimerkiksi, kun kaataa vettä tai riisiä kattilaan, kuorii tai raastaa porkkanaa, avaa virvoitusjuomapullon, pureskelee näkkileipää tai hapankorppua, vatkaa kulhoa vispilällä, aukoo ja sulkee kattilan kantta, rapistelee elintarvikepakkausta tai kilistelee astioita ja ruokailuvälineitä. Ruokamaailman ääniä lähtee myös kodinkoneista, kuten kahvin- ja vedenkeittimestä, mikroaaltouunista ja jääkaapista. Lisäksi ruuanvalmistukseen, kuten liedellä paistamiseen ja keittämiseen, kuuluu oma äänimaailmansa.</p>
-      <p type="listitem">Oppitunnilla voi ideoida mahdollisimman äänekkään aterian. Millainen se olisi? Mitä silloin syötäisiin ja juotaisiin? Millaisesta syömisestä ja juomisesta lähtee eniten ääntä? Tehtävän teho paranee, jos ateria on mahdollista toteuttaa ja äänittää. Äänityksen kuuntelun jälkeen syntyy hyvää keskustelua siitä, oliko aterian äänimaailma miellyttävä ja viihtyisä? Entä miten koulun ruokasalin viihtyisyyttä saisi lisättyä?</p>
-    </list>
-    <p type="title" xml:lang="est">LUE LISÄÄ:</p>
-    <p type="title">Näkö - ensin katsotaan</p>
-    <p type="title">Haju - kutittaa nenässä</p>
-    <p type="title">Tunto - miltä ruoka tuntuu</p>
-    <p type="title">Maku - maistuu kielellä</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Makukoulu: Kuulo – korvatkin tykkäävät ruuasta</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>358</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-kuulo-korvatkin-tykkaavat-ruuasta/</origFileName><parallel_text xml:lang="sme" location="smahkkaskuvlla_gullu_bealjitge_liikojit_borramusas.html"/><parallel_text xml:lang="swe" location="smakskolan_horseln_aven_oronen_gillar_mat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Makukoulu: Kuulo – korvatkin tykkäävät ruuasta</p>
+<p>Ruokaan liittyy monenlaisia ääniä. Osa äänistä kertoo ruuan valmistamisesta ja osa syntyy itse syömistilanteessa. Keittiöstä kantautuva veitsen kolke, pannun tirinä, kattilan porina tai popcornien paukkuminen valmistavat meitä syömiseen. Jotkut äänet ovat osa ruokanautintoa, esimerkiksi kun näkkileivän ja keksien puraisusta kuuluu rapsahdus. Kuuloaistilla havaitaan rapeiden ja tiiviiden ruokien rakenneominaisuuksia. Hedelmien ja kasvisten puraisusta syntyy rouskaisu. Jos kiinnitämme tarkasti huomiota ruokaan liittyviin kuuloaistimuksiin, huomaamme hiljaisempiakin ääniä. Jotkut juustot voivat narskua tai ratista ja jopa juomien poreilun voi kuulla. Myös ruokapuhe ja ruuasta puhuminen ovat syömiseen liittyviä ääniä, jotka viestittävät meille muun muassa ruokaan liittyvistä asenteista.</p>
+<p><em type="italic">Kuuloaisti </em></p>
+<p>Kuuloaisti perustuu korvakäytävän sisällä olevan tärykalvon värähtelyyn ääniaaltojen tahtiin. Värähtely etenee tärykalvoon kiinnittyneitä kuuloluita pitkin sisäkorvan kuuloelimeen, simpukkaan, jossa kuuloaistinsolut sijaitsevat. Simpukkaan saapuva ääniaalto saa sen sisällä olevan nesteen värähtelemään ja kuuloaistinsolut välittämään viestin kuulohermoa pitkin aivoihin, joissa se tulkitaan ääneksi.</p>
+<p><em type="italic">Kuuloaistiin liittyviä tehtäviä oppitunnille </em></p>
+<list><p type="listitem">Kuulopelissä rasioihin tai purkkeihin, joista ei näy läpi, lisätään erilaisia raaka-aineita, kuten herneitä, makaronia ja hiutaleita niin, että aina kahdessa purkissa on samaa raaka-ainetta. Tarkoituksena on purkkeja ravistelemalla etsiä, mitkä purkit ovat pareja. Isommat lapset voivat myös miettiä, mitä purkeissa voisi olla. Tölkistä lähtevään ääneen vaikuttaa sisällä olevan ruoka-aineen määrä, joten pareja kannattaa mitata aina sama määrä.</p>
+<p type="listitem">Oppilaat voivat nauhoittaa kännykällä ruuanvalmistukseen ja syömiseen liittyviä ääniä, joita arvuutellaan oppitunnilla yhdessä. Vaihtoehtoisesti ääniä voi tuottaa oppitunnilla näköesteen takana. Tunnistettavia ääniä syntyy esimerkiksi, kun kaataa vettä tai riisiä kattilaan, kuorii tai raastaa porkkanaa, avaa virvoitusjuomapullon, pureskelee näkkileipää tai hapankorppua, vatkaa kulhoa vispilällä, aukoo ja sulkee kattilan kantta, rapistelee elintarvikepakkausta tai kilistelee astioita ja ruokailuvälineitä. Ruokamaailman ääniä lähtee myös kodinkoneista, kuten kahvin- ja vedenkeittimestä, mikroaaltouunista ja jääkaapista. Lisäksi ruuanvalmistukseen, kuten liedellä paistamiseen ja keittämiseen, kuuluu oma äänimaailmansa.</p>
+<p type="listitem">Oppitunnilla voi ideoida mahdollisimman äänekkään aterian. Millainen se olisi? Mitä silloin syötäisiin ja juotaisiin? Millaisesta syömisestä ja juomisesta lähtee eniten ääntä? Tehtävän teho paranee, jos ateria on mahdollista toteuttaa ja äänittää. Äänityksen kuuntelun jälkeen syntyy hyvää keskustelua siitä, oliko aterian äänimaailma miellyttävä ja viihtyisä? Entä miten koulun ruokasalin viihtyisyyttä saisi lisättyä?</p>
+</list><p type="title" xml:lang="est">LUE LISÄÄ:</p>
+<p type="title">Näkö - ensin katsotaan</p>
+<p type="title">Haju - kutittaa nenässä</p>
+<p type="title">Tunto - miltä ruoka tuntuu</p>
+<p type="title">Maku - maistuu kielellä</p>
+</body></document>

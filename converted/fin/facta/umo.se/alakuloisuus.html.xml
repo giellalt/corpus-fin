@@ -1,85 +1,42 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>599</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Finska/Alakuloisuus</origFileName>
-    <parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/>
-    <parallel_text xml:lang="sma" location="hujnesne.html"/>
-    <parallel_text xml:lang="sme" location="lossesvuohta.html"/>
-    <parallel_text xml:lang="smj" location="hajesvuohta.html"/>
-    <parallel_text xml:lang="swe" location="nedstamdhet.html"/>
-    <parallel_text location="togalopha.html" xml:lang="rmu"/>
-    <parallel_text location="mulano.html" xml:lang="rmf"/>
-    <parallel_text location="depresirime.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tristimos.html" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Alakuloisuus</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Alakuloisuus</p>
-    <p>Alakuloisuuden, surullisuuden, ahdistuksen tai toivottomuuden tunteet ovat luonnollinen osa elämää. Joskus saattaa olla päiviä, jolloin mikään ei huvita, mikään ei tunnu hauskalta tai mielessä pyörii monenlaisia asioita. Tällaiset tunteet menevät usein ohi. Kurjaa oloa voi kohentaa eri tavoin itse, tai hakea tarvittaessa apua.</p>
-    <p>Kaikilla on joskus mieli maassa. Negatiivisia ajatuksia ja tunteita ei tarvitse pelätä. Jos tällaisia tunteita yrittää välttää, ahdistus ja levottomuus voivat pahentua. Tunteet on elettävä läpi ja niille on annettava aikaa.</p>
-    <p type="title">Joskus alakulon syy on tiedossa</p>
-    <p>Joskus alakuloisuus voi johtua jostain tietystä asiasta. Syynä voi olla esimerkiksi seurustelun päättyminen, vanhempien muuttaminen erilleen tai muut ongelmat perheessä tai ystävien kanssa.</p>
-    <p>Mieli voi olla maassa myös silloin, kun elämässä tapahtuu suuria muutoksia, esimerkiksi muuton, koulun vaihtumisen tai lukion ja työn aloittamisen myötä.</p>
-    <p>Vaikka tällaiset ongelmat voivat tuntua ylivoimaisilta, useimmiten ne menevät ohitse ystävien ja perheen tuella.</p>
-    <p>On myös tavallista tuntea itsensä alakuloiseksi, vaikka mitään erikoista ei olisi tapahtunutkaan. Jos koulussa tai työssä ilmenevät ongelmat aiheuttavat stressiä tai nukkumisvaikeuksia, seurauksena voi olla surullinen tai masentunut olo. Seksuaalisuus, ympäristön odotukset ja vartalon kehittyminen voivat vaivata mieltä. Tytöt voivat tuntea olonsa masentuneiksi ennen kuukautisia.</p>
-    <p type="title">Mieliala ei aina näy päältäpäin</p>
-    <p>Kavereiden, vanhempien, opettajien tai muiden läheisten on usein hankala ymmärtää miltä nuoresta todella tuntuu. Mieliala ei aina näy ulospäin, vaikka itsestä siltä saattaisikin tuntua.</p>
-    <p>Alakuloisuus voi aiheuttaa myös vihaisuutta ja ärtyisyyttä. Silloin ympärillä olevat ihmiset saattavat huomata ärtyisyyden, mutta eivät ymmärrä, että se johtuu masentuneisuudesta ja alakuloisuudesta. Tämän vuoksi omista tunteistaan kannattaa puhua, jotta voi saada apua ja tukea. Puhuminen jonkun kanssa voi usein auttaa ymmärtämään itseään paremmin.</p>
-    <p type="title">Miten oloaan voi kohentaa?</p>
-    <p>Omaan mielialaan voi vaikuttaa. Säännöllinen liikunta tai urheilun harrastaminen parantavat mielialaa ja lisäävät energiaa. Jos tahtoo saada paremman mielen, on tärkeää syödä hyvin ja säännöllisesti sekä nukkua riittävästi. Silloin vaikealta tuntuvien asioiden käsittely on helpompaa. Sekä liian pitkät että liian lyhyet yöunet voivat väsyttää.</p>
-    <p>Jos olo tuntuu masentuneelta, on hyvä pitää mielessä muutamia asioita:</p>
-    <list>
-      <p type="listitem">Kannattaa tehdä asioita, joista pitää, esimerkiksi tavata ystäviä. Masentuneena saattaa kaivata myös yksinoloa.</p>
-      <p type="listitem">Liikunnasta voi olla apua. Jos mieltä vaivaavat monenlaiset asiat, kävely tai treenaus saattaa helpottaa oloa ja parantaa yöunta.</p>
-      <p type="listitem">Ulkoilu aurinkoisella säällä on hyväksi, koska valolla on piristävä vaikutus.</p>
-      <p type="listitem">Puhuminen esimerkiksi ystävän tai perheenjäsenen kanssa voi auttaa. On mahdollista käydä juttelemassa myös esimerkiksi kouluterveydenhoitajan tai kuraattorin luona.</p>
-      <p type="listitem">Omista tunteista kirjoittaminen. Tunteiden ja ajatusten pukeminen sanoiksi auttaa yleensä ymmärtämään itseään paremmin ja huomaamaan mahdolliset ongelmat, jotka täytyy ratkaista.</p>
-    </list>
-    <p type="title">Alkoholi ja huumeet eivät ole ratkaisu</p>
-    <p>Masentuneena saattaa helposti kuvitella, että alkoholin juominen tai huumeiden käyttö parantavat oloa. Päihteiden käyttö voi tehdä iloisemmaksi ja auttaa hetkeksi unohtamaan ikävät ajatukset, mutta ajan myötä se päinvastoin pahentaa ahdistusta ja muita vaikeita tunteita. Alkoholi tai huumeet saattavat jopa olla syy alakuloisuuteen.</p>
-    <p type="title">Alakuloisuus menee yleensä ohi</p>
-    <p>Masentuneena olo voi tuntua hyvin toivottomalta. On helpottavaa tietää, että useimmiten masennus menee ohi itsestään, vaikka se voikin viedä aikaa.</p>
-    <p type="title">Joskus tarvitaan apua</p>
-    <p>Joskus on hyvä ottaa asia puheeksi ulkopuolisen kanssa. Apua voi pyytää esimerkiksi nuorisokeskuksesta, terveyskeskuksesta tai kouluterveydenhuollosta. Nämä ammattilaiset ovat tottuneet tapaamaan masentuneita nuoria. Tarvittaessa he voivat auttaa ottamaan yhteyttä esimerkiksi psykologiin tai lääkäriin.</p>
-    <p>Puhelimitse voi ottaa yhteyttä tukipuhelimiin tai käydä internetsivustoilla, joista voi saada apua chattailemalla, sähköpostitse tai lukemalla neuvoja. Tukipalveluihin voi ottaa yhteyttä nimettömänä.</p>
-    <p type="title" xml:lang="swe">Depressio</p>
-    <p>Depressio tarkoittaa aivan muuta kuin tilapäistä masentuneisuutta. Kyseessä voi olla depressio, jos masentuneisuus kestää useita viikkoja ja samalla ilmenee seuraavia oireita</p>
-    <list>
-      <p type="listitem">mielenkiinnon menetys asioihin, jotka aiemmin ovat kiinnostaneet</p>
-      <p type="listitem">unettomuus tai liikaunisuus</p>
-      <p type="listitem">keskittymisvaikeudet</p>
-      <p type="listitem">ruokahalun katoaminen</p>
-      <p type="listitem">tavallista suurempi ruokahalu</p>
-      <p type="listitem">ärtyneisyys</p>
-      <p type="listitem">itseluottamuksen huononeminen tai kohtuuton itsekritiikki</p>
-      <p type="listitem">halu vältellä muita</p>
-      <p type="listitem">asioiden jatkuva pohdiskelu</p>
-      <p type="listitem">ongelmat koulussa tai töissä</p>
-      <p type="listitem">itsetuhoiset ajatukset.</p>
-    </list>
-    <p>Depressiota sairastava tarvitsee ammattiapua voidakseen paremmin. Apua voi hakea esimerkiksi nuorisokeskuksesta, terveyskeskuksesta tai kouluterveydenhuollosta.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>594</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Finska/Alakuloisuus</origFileName><parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/><parallel_text xml:lang="sma" location="hujnesne.html"/><parallel_text xml:lang="sme" location="lossesvuohta.html"/><parallel_text xml:lang="smj" location="hajesvuohta.html"/><parallel_text xml:lang="swe" location="nedstamdhet.html"/><parallel_text location="togalopha.html" xml:lang="rmu"/><parallel_text location="mulano.html" xml:lang="rmf"/><parallel_text location="depresirime.html" xml:lang="rmy-rlo"/><parallel_text location="tristimos.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Alakuloisuus</p>
+<p type="title">Alakuloisuus</p>
+<p>Alakuloisuuden, surullisuuden, ahdistuksen tai toivottomuuden tunteet ovat luonnollinen osa elämää. Joskus saattaa olla päiviä, jolloin mikään ei huvita, mikään ei tunnu hauskalta tai mielessä pyörii monenlaisia asioita. Tällaiset tunteet menevät usein ohi. Kurjaa oloa voi kohentaa eri tavoin itse, tai hakea tarvittaessa apua.</p>
+<p>Kaikilla on joskus mieli maassa. Negatiivisia ajatuksia ja tunteita ei tarvitse pelätä. Jos tällaisia tunteita yrittää välttää, ahdistus ja levottomuus voivat pahentua. Tunteet on elettävä läpi ja niille on annettava aikaa.</p>
+<p type="title">Joskus alakulon syy on tiedossa</p>
+<p>Joskus alakuloisuus voi johtua jostain tietystä asiasta. Syynä voi olla esimerkiksi seurustelun päättyminen, vanhempien muuttaminen erilleen tai muut ongelmat perheessä tai ystävien kanssa.</p>
+<p>Mieli voi olla maassa myös silloin, kun elämässä tapahtuu suuria muutoksia, esimerkiksi muuton, koulun vaihtumisen tai lukion ja työn aloittamisen myötä.</p>
+<p>Vaikka tällaiset ongelmat voivat tuntua ylivoimaisilta, useimmiten ne menevät ohitse ystävien ja perheen tuella.</p>
+<p>On myös tavallista tuntea itsensä alakuloiseksi, vaikka mitään erikoista ei olisi tapahtunutkaan. Jos koulussa tai työssä ilmenevät ongelmat aiheuttavat stressiä tai nukkumisvaikeuksia, seurauksena voi olla surullinen tai masentunut olo. Seksuaalisuus, ympäristön odotukset ja vartalon kehittyminen voivat vaivata mieltä. Tytöt voivat tuntea olonsa masentuneiksi ennen kuukautisia.</p>
+<p type="title">Mieliala ei aina näy päältäpäin</p>
+<p>Kavereiden, vanhempien, opettajien tai muiden läheisten on usein hankala ymmärtää miltä nuoresta todella tuntuu. Mieliala ei aina näy ulospäin, vaikka itsestä siltä saattaisikin tuntua.</p>
+<p>Alakuloisuus voi aiheuttaa myös vihaisuutta ja ärtyisyyttä. Silloin ympärillä olevat ihmiset saattavat huomata ärtyisyyden, mutta eivät ymmärrä, että se johtuu masentuneisuudesta ja alakuloisuudesta. Tämän vuoksi omista tunteistaan kannattaa puhua, jotta voi saada apua ja tukea. Puhuminen jonkun kanssa voi usein auttaa ymmärtämään itseään paremmin.</p>
+<p type="title">Miten oloaan voi kohentaa?</p>
+<p>Omaan mielialaan voi vaikuttaa. Säännöllinen liikunta tai urheilun harrastaminen parantavat mielialaa ja lisäävät energiaa. Jos tahtoo saada paremman mielen, on tärkeää syödä hyvin ja säännöllisesti sekä nukkua riittävästi. Silloin vaikealta tuntuvien asioiden käsittely on helpompaa. Sekä liian pitkät että liian lyhyet yöunet voivat väsyttää.</p>
+<p>Jos olo tuntuu masentuneelta, on hyvä pitää mielessä muutamia asioita:</p>
+<list><p type="listitem">Kannattaa tehdä asioita, joista pitää, esimerkiksi tavata ystäviä. Masentuneena saattaa kaivata myös yksinoloa.</p>
+<p type="listitem">Liikunnasta voi olla apua. Jos mieltä vaivaavat monenlaiset asiat, kävely tai treenaus saattaa helpottaa oloa ja parantaa yöunta.</p>
+<p type="listitem">Ulkoilu aurinkoisella säällä on hyväksi, koska valolla on piristävä vaikutus.</p>
+<p type="listitem">Puhuminen esimerkiksi ystävän tai perheenjäsenen kanssa voi auttaa. On mahdollista käydä juttelemassa myös esimerkiksi kouluterveydenhoitajan tai kuraattorin luona.</p>
+<p type="listitem">Omista tunteista kirjoittaminen. Tunteiden ja ajatusten pukeminen sanoiksi auttaa yleensä ymmärtämään itseään paremmin ja huomaamaan mahdolliset ongelmat, jotka täytyy ratkaista.</p>
+</list><p type="title">Alkoholi ja huumeet eivät ole ratkaisu</p>
+<p>Masentuneena saattaa helposti kuvitella, että alkoholin juominen tai huumeiden käyttö parantavat oloa. Päihteiden käyttö voi tehdä iloisemmaksi ja auttaa hetkeksi unohtamaan ikävät ajatukset, mutta ajan myötä se päinvastoin pahentaa ahdistusta ja muita vaikeita tunteita. Alkoholi tai huumeet saattavat jopa olla syy alakuloisuuteen.</p>
+<p type="title">Alakuloisuus menee yleensä ohi</p>
+<p>Masentuneena olo voi tuntua hyvin toivottomalta. On helpottavaa tietää, että useimmiten masennus menee ohi itsestään, vaikka se voikin viedä aikaa.</p>
+<p type="title">Joskus tarvitaan apua</p>
+<p>Joskus on hyvä ottaa asia puheeksi ulkopuolisen kanssa. Apua voi pyytää esimerkiksi nuorisokeskuksesta, terveyskeskuksesta tai kouluterveydenhuollosta. Nämä ammattilaiset ovat tottuneet tapaamaan masentuneita nuoria. Tarvittaessa he voivat auttaa ottamaan yhteyttä esimerkiksi psykologiin tai lääkäriin.</p>
+<p>Puhelimitse voi ottaa yhteyttä tukipuhelimiin tai käydä internetsivustoilla, joista voi saada apua chattailemalla, sähköpostitse tai lukemalla neuvoja. Tukipalveluihin voi ottaa yhteyttä nimettömänä.</p>
+<p type="title" xml:lang="swe">Depressio</p>
+<p>Depressio tarkoittaa aivan muuta kuin tilapäistä masentuneisuutta. Kyseessä voi olla depressio, jos masentuneisuus kestää useita viikkoja ja samalla ilmenee seuraavia oireita</p>
+<list><p type="listitem">mielenkiinnon menetys asioihin, jotka aiemmin ovat kiinnostaneet</p>
+<p type="listitem">unettomuus tai liikaunisuus</p>
+<p type="listitem">keskittymisvaikeudet</p>
+<p type="listitem">ruokahalun katoaminen</p>
+<p type="listitem">tavallista suurempi ruokahalu</p>
+<p type="listitem">ärtyneisyys</p>
+<p type="listitem">itseluottamuksen huononeminen tai kohtuuton itsekritiikki</p>
+<p type="listitem">halu vältellä muita</p>
+<p type="listitem">asioiden jatkuva pohdiskelu</p>
+<p type="listitem">ongelmat koulussa tai töissä</p>
+<p type="listitem">itsetuhoiset ajatukset.</p>
+</list><p>Depressiota sairastava tarvitsee ammattiapua voidakseen paremmin. Apua voi hakea esimerkiksi nuorisokeskuksesta, terveyskeskuksesta tai kouluterveydenhuollosta.</p>
+</body></document>

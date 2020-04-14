@@ -1,146 +1,112 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Pielpajärven erämaakirkon historiaa - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>622</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/pielpajarveneramaakirkko/historiaa</origFileName>
-    <parallel_text xml:lang="eng" location="historyofthepielpajarviwildernesschurch.html"/>
-    <parallel_text xml:lang="sme" location="bielbajavrrimeahccegirkuhistorja.html"/>
-    <parallel_text xml:lang="smn" location="pialppaajavrimeccikirhohistorja.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Pielpajärven erämaakirkko</p>
-    <list>
-      <p type="listitem">Historiaa</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Ailinpietin kalamaja</p>
-      <p type="listitem">Berghamnin perinneympäristö</p>
-      <p type="listitem">Gustavsvärnin linnoitus</p>
-      <p type="listitem">Hauensuolen kalliopiirrokset</p>
-      <p type="listitem">Heretyn metsätyökämppä</p>
-      <p type="listitem">Huhtalan torppa</p>
-      <p type="listitem">Hytermä</p>
-      <p type="listitem">Iso Linnamäki</p>
-      <p type="listitem">Ivalojoen Kultala</p>
-      <p type="listitem">Jyppyrän peurahaudat</p>
-      <p type="listitem">Kaapin Jounin tila</p>
-      <p type="listitem">Kajaanin rauniolinna</p>
-      <p type="listitem">Kalmosärkkä</p>
-      <p type="listitem">Kappelniityn muinaisjäännösalue</p>
-      <p type="listitem">Katanpään linnakesaari</p>
-      <p type="listitem">Kolttien perinnetalo</p>
-      <p type="listitem">Koroistenniemi</p>
-      <p type="listitem">Korteniemen perinnetila</p>
-      <p type="listitem">Koveron perinnetila</p>
-      <p type="listitem">Kuhmon vaara-asutukset</p>
-      <p type="listitem">Kurjenpolven hautausmaa</p>
-      <p type="listitem">Kuusiston piispanlinnan rauniot</p>
-      <p type="listitem">Kärnäkosken linnoitus</p>
-      <p type="listitem">Käräjämäki</p>
-      <p type="listitem">Langinkosken keisarillinen kalastusmaja</p>
-      <p type="listitem">Latvavaaran tila</p>
-      <p type="listitem">Lemmenjoen peurakuopat</p>
-      <p type="listitem">Levävaaran tila</p>
-      <p type="listitem">Liinmaan muinaislinna</p>
-      <p type="listitem">Linnansaaren torppa</p>
-      <p type="listitem">Lounatkoski</p>
-      <p type="listitem">Luttojoen kolttakentät</p>
-      <p type="listitem">Mattilan tila</p>
-      <p type="listitem">Matti Mustan tupa</p>
-      <p type="listitem">Ollilan ja Turulan tilat</p>
-      <p type="listitem">Paimensaaren perinneympäristö</p>
-      <p type="listitem">Pakasaivo ja Kirkkopahdan seitakivi</p>
-      <p type="listitem">Petkeljärven puistonvartijan maja</p>
-      <p type="listitem">Pielpajärven erämaakirkko</p>
-      <p type="listitem">Pisamalahden linnavuori</p>
-      <p type="listitem">Pitkäjärven metsätyökämppä</p>
-      <p type="listitem">Päivääniemen kalmisto</p>
-      <p type="listitem">Raappanan kammi</p>
-      <p type="listitem">Raaseporin rauniolinna</p>
-      <p type="listitem">Raja-Joosepin kenttä</p>
-      <p type="listitem">Rapolan linnavuori</p>
-      <p type="listitem">Ristinpelto</p>
-      <p type="listitem">Rumakurun vanha kämppä</p>
-      <p type="listitem">Rytivaaran kruununmetsätorppa</p>
-      <p type="listitem">Rödjanin kalastajatila</p>
-      <p type="listitem">Röytän luotsiasema</p>
-      <p type="listitem">Sallivaaran poroerotuspaikka</p>
-      <p type="listitem">Salpalinja, Änäkäinen</p>
-      <p type="listitem">Seili</p>
-      <p type="listitem">Suomujoen kolttakenttä</p>
-      <p type="listitem">Suomunruoktun vanha kämppä</p>
-      <p type="listitem">Svartholman merilinnoitus</p>
-      <p type="listitem">Söderskär</p>
-      <p type="listitem">Taatsin seita ja Taatsinkirkko</p>
-      <p type="listitem">Telkkämäen perinnetila</p>
-      <p type="listitem">Tiaisen torppa</p>
-      <p type="listitem">Tiilikanaution tila</p>
-      <p type="listitem">Täyssinän rauhan rajakivet</p>
-      <p type="listitem">Ukonsaari</p>
-      <p type="listitem">Ulko-Tammio</p>
-      <p type="listitem">Untamalan muinaisjäännösalue</p>
-      <p type="listitem">Vallisaari</p>
-      <p type="listitem">Välimaan saamelaistila</p>
-      <p type="listitem">Värikallio</p>
-      <p type="listitem">Äkässaivo ja Seitapahta</p>
-      <p type="listitem">Örön linnakesaari</p>
-    </list>
-    <list>
-      <p type="listitem">Historiaa</p>
-    </list>
-    <p type="title">Pielpajärven erämaakirkon historiaa</p>
-    <p type="title">Pielpajärvestä Inarin keskus</p>
-    <p>Inarijärveä ympäröiviä alueita on iät ja ajat asuttanut inarinsaamelainen kansa. Inarinsaamelaisten tärkeimmät elinkeinot olivat kalastus ja metsästys. Poronhoito oli pienimuotoista, ja poroja käytettiin lähinnä kanto- ja vetojuhtina.</p>
-    <p>Inarinsaamelaisten elämäntapaan kuului oleellisesti vuotuiskierto. Keväästä syksyyn perheet siirtyivät asuinpaikasta toiseen metsästyksen ja kalastuksen kohteiden mukaan. Talvisin perheet ja suvut kuitenkin kokoontuivat yhteen asuinpaikkaan, talvikylään. Talvikylä oli sosiaalisen elämän keskus, jonne myös kauppiaat, papit ja verottajat tulivat vierailuillaan. Inarin talvikylä siirrettiin 1600-luvun alkupuolella Pielpajärvelle, josta muodostui Inarin keskuspaikka pitkäksi aikaa.</p>
-    <p type="title">Pielpajärven ensimmäinen kirkko</p>
-    <p>Oli siis luonnollista, että Inarin ensimmäinen kirkko rakennettiin juuri Pielpajärvelle. Lapinvouti sai 1642 määrärahat ja vapaat kädet rakentaa kaunis puukirkko. Kirkon kauneudesta ei ole säilynyt tietoja eikä se ollut mitoiltaan (6,9 x 5,5 metriä) kappelia suurempi. Jo valmistuessaan se oli liian pieni inarilaisten tarpeisiin. Myös papin saaminen paikkakunnalle tuotti ongelmia, sillä hänelle ei ollut tarjolla kunnollista asuinpaikkaa. Pappi vierailikin Inarissa vain kerran, pari vuodessa.</p>
-    <p>Kirkonmenot olivat tuolloin merkittävä tapahtuma. Ne kestivät talvisin viikosta puoleentoista ja kesällä kaksi tai kolme päivää. Tämän ajan ihmiset asuivat kirkkotuvissa, joita oli rakennettu ympäröivälle kirkkokentälle. Kirkonmenojen yhteydessä hoidettiin hengellisten asioiden ohella myös maallisia asioita: pappi ja lukkari valistivat kansaa ja opettivat lapsia, järjestettiin markkinat, kannettiin veroa ja usein myös istuttiin käräjiä.</p>
-    <p type="title">Uusi kirkko</p>
-    <p>Uuden kirkon rakentaminen tuli ajankohtaiseksi 1700-luvun puolivälissä, kun vanha kirkko oli päässyt rapistumaan lähes sortumistilaan. Pielpajärven nykyisen kirkon rakennustyöt aloitettiin 1752, ja valmiiksi se saatiin 1760. Uusi kirkko rakennettiin todennäköisesti vanhan päälle, kuten tuolloin oli yleisesti tapana.</p>
-    <p>Kirkko on muodoltaan lähes tasavartinen ristikirkko. Kooltaan se on pohjois-eteläsuunnassa 14 metriä ja itälänsisuunnassa 13,6 metriä. Länsiristin jatkeeksi rakennettiin 1760 - 1766 kellotapuli, jonka alaosa toimii kirkon eteisenä. Lehterit sijaitsevat pohjois- ja länsiristeissä. Kivistä kirkkomaata ympäröi taidokkaasti tehty säleaita. Kirkon läheisyydessä ei ole hautausmaata, sillä vainajat haudattiin läheisiin Hautuumaasaariin petoeläinten takia.</p>
-    <p>Kirkkoa huollettiin säännöllisesti pitkän aikaa, mutta 1800-luvun puolivälin jälkeen sen hoitoa alettiin laiminlyödä. Kirkko pääsikin rapistumaan pahoin eikä korjaaminen tullut lopulta enää kyseeseen. Uusi kirkko päätettiin rakentaa parempien kulkuyhteyksien varrelle Juutuanjoen suulle, jonne nykyinen Inarin kirkonkylä oli alkanut muodostua. Uuden kirkon valmistuttua 1888 Pielpajärven kirkko jäi pois käytöstä.</p>
-    <p type="title">Uusi nousukausi</p>
-    <p>Pielpajärven kirkko otettiin uudelleen käyttöön 1940. Inarin kirkonkylän kirkko oli tuhoutunut aiemmin samana vuonna talvisodan pommituksissa, ja Ivalon rukoushuoneesta oli tehty väliaikainen kirkko. Inarilaiset kuitenkin päättivät pitää juhannusjumalanpalveluksen Pielpajärvellä. Tästä muodostui perinne, joka jatkuu edelleen. Nykyisin kirkossa järjestetään jumalanpalvelus myös pääsiäisenä. Vihkikirkkonakin se on varsin suosittu.</p>
-    <p>Kirkko on lailla rauhoitettu muinaisjäännös. Kirkkokentällä sijainneet 30 - 40 kirkkotupaa ja pappila ovat hävinneet lähes täysin. Museovirasto kunnosti kirkkoa perinteisin työmenetelmin 1975 - 1976. Tämän jälkeen sitä on korjattu ja kunnostettu säännöllisin väliajoin.</p>
-    <p>Kirkkokentän kasvilajisto on runsas, ja Metsähallitus on tehnyt alueelle hoitosuunnitelman. Kirkkokenttää on niitetty loppukesäisin talkoovoimin vuodesta 2000 lähtien.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Pielpajärven erämaakirkon historiaa - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>622</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/pielpajarveneramaakirkko/historiaa</origFileName><parallel_text xml:lang="eng" location="historyofthepielpajarviwildernesschurch.html"/><parallel_text xml:lang="sme" location="bielbajavrrimeahccegirkuhistorja.html"/><parallel_text xml:lang="smn" location="pialppaajavrimeccikirhohistorja.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Pielpajärven erämaakirkko</p>
+<list><p type="listitem">Historiaa</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Ailinpietin kalamaja</p>
+<p type="listitem">Berghamnin perinneympäristö</p>
+<p type="listitem">Gustavsvärnin linnoitus</p>
+<p type="listitem">Hauensuolen kalliopiirrokset</p>
+<p type="listitem">Heretyn metsätyökämppä</p>
+<p type="listitem">Huhtalan torppa</p>
+<p type="listitem">Hytermä</p>
+<p type="listitem">Iso Linnamäki</p>
+<p type="listitem">Ivalojoen Kultala</p>
+<p type="listitem">Jyppyrän peurahaudat</p>
+<p type="listitem">Kaapin Jounin tila</p>
+<p type="listitem">Kajaanin rauniolinna</p>
+<p type="listitem">Kalmosärkkä</p>
+<p type="listitem">Kappelniityn muinaisjäännösalue</p>
+<p type="listitem">Katanpään linnakesaari</p>
+<p type="listitem">Kolttien perinnetalo</p>
+<p type="listitem">Koroistenniemi</p>
+<p type="listitem">Korteniemen perinnetila</p>
+<p type="listitem">Koveron perinnetila</p>
+<p type="listitem">Kuhmon vaara-asutukset</p>
+<p type="listitem">Kurjenpolven hautausmaa</p>
+<p type="listitem">Kuusiston piispanlinnan rauniot</p>
+<p type="listitem">Kärnäkosken linnoitus</p>
+<p type="listitem">Käräjämäki</p>
+<p type="listitem">Langinkosken keisarillinen kalastusmaja</p>
+<p type="listitem">Latvavaaran tila</p>
+<p type="listitem">Lemmenjoen peurakuopat</p>
+<p type="listitem">Levävaaran tila</p>
+<p type="listitem">Liinmaan muinaislinna</p>
+<p type="listitem">Linnansaaren torppa</p>
+<p type="listitem">Lounatkoski</p>
+<p type="listitem">Luttojoen kolttakentät</p>
+<p type="listitem">Mattilan tila</p>
+<p type="listitem">Matti Mustan tupa</p>
+<p type="listitem">Ollilan ja Turulan tilat</p>
+<p type="listitem">Paimensaaren perinneympäristö</p>
+<p type="listitem">Pakasaivo ja Kirkkopahdan seitakivi</p>
+<p type="listitem">Petkeljärven puistonvartijan maja</p>
+<p type="listitem">Pielpajärven erämaakirkko</p>
+<p type="listitem">Pisamalahden linnavuori</p>
+<p type="listitem">Pitkäjärven metsätyökämppä</p>
+<p type="listitem">Päivääniemen kalmisto</p>
+<p type="listitem">Raappanan kammi</p>
+<p type="listitem">Raaseporin rauniolinna</p>
+<p type="listitem">Raja-Joosepin kenttä</p>
+<p type="listitem">Rapolan linnavuori</p>
+<p type="listitem">Ristinpelto</p>
+<p type="listitem">Rumakurun vanha kämppä</p>
+<p type="listitem">Rytivaaran kruununmetsätorppa</p>
+<p type="listitem">Rödjanin kalastajatila</p>
+<p type="listitem">Röytän luotsiasema</p>
+<p type="listitem">Sallivaaran poroerotuspaikka</p>
+<p type="listitem">Salpalinja, Änäkäinen</p>
+<p type="listitem">Seili</p>
+<p type="listitem">Suomujoen kolttakenttä</p>
+<p type="listitem">Suomunruoktun vanha kämppä</p>
+<p type="listitem">Svartholman merilinnoitus</p>
+<p type="listitem">Söderskär</p>
+<p type="listitem">Taatsin seita ja Taatsinkirkko</p>
+<p type="listitem">Telkkämäen perinnetila</p>
+<p type="listitem">Tiaisen torppa</p>
+<p type="listitem">Tiilikanaution tila</p>
+<p type="listitem">Täyssinän rauhan rajakivet</p>
+<p type="listitem">Ukonsaari</p>
+<p type="listitem">Ulko-Tammio</p>
+<p type="listitem">Untamalan muinaisjäännösalue</p>
+<p type="listitem">Vallisaari</p>
+<p type="listitem">Välimaan saamelaistila</p>
+<p type="listitem">Värikallio</p>
+<p type="listitem">Äkässaivo ja Seitapahta</p>
+<p type="listitem">Örön linnakesaari</p>
+</list><list><p type="listitem">Historiaa</p>
+</list><p type="title">Pielpajärven erämaakirkon historiaa</p>
+<p type="title">Pielpajärvestä Inarin keskus</p>
+<p>Inarijärveä ympäröiviä alueita on iät ja ajat asuttanut inarinsaamelainen kansa. Inarinsaamelaisten tärkeimmät elinkeinot olivat kalastus ja metsästys. Poronhoito oli pienimuotoista, ja poroja käytettiin lähinnä kanto- ja vetojuhtina.</p>
+<p>Inarinsaamelaisten elämäntapaan kuului oleellisesti vuotuiskierto. Keväästä syksyyn perheet siirtyivät asuinpaikasta toiseen metsästyksen ja kalastuksen kohteiden mukaan. Talvisin perheet ja suvut kuitenkin kokoontuivat yhteen asuinpaikkaan, talvikylään. Talvikylä oli sosiaalisen elämän keskus, jonne myös kauppiaat, papit ja verottajat tulivat vierailuillaan. Inarin talvikylä siirrettiin 1600-luvun alkupuolella Pielpajärvelle, josta muodostui Inarin keskuspaikka pitkäksi aikaa.</p>
+<p type="title">Pielpajärven ensimmäinen kirkko</p>
+<p>Oli siis luonnollista, että Inarin ensimmäinen kirkko rakennettiin juuri Pielpajärvelle. Lapinvouti sai 1642 määrärahat ja vapaat kädet rakentaa kaunis puukirkko. Kirkon kauneudesta ei ole säilynyt tietoja eikä se ollut mitoiltaan (6,9 x 5,5 metriä) kappelia suurempi. Jo valmistuessaan se oli liian pieni inarilaisten tarpeisiin. Myös papin saaminen paikkakunnalle tuotti ongelmia, sillä hänelle ei ollut tarjolla kunnollista asuinpaikkaa. Pappi vierailikin Inarissa vain kerran, pari vuodessa.</p>
+<p>Kirkonmenot olivat tuolloin merkittävä tapahtuma. Ne kestivät talvisin viikosta puoleentoista ja kesällä kaksi tai kolme päivää. Tämän ajan ihmiset asuivat kirkkotuvissa, joita oli rakennettu ympäröivälle kirkkokentälle. Kirkonmenojen yhteydessä hoidettiin hengellisten asioiden ohella myös maallisia asioita: pappi ja lukkari valistivat kansaa ja opettivat lapsia, järjestettiin markkinat, kannettiin veroa ja usein myös istuttiin käräjiä.</p>
+<p type="title">Uusi kirkko</p>
+<p>Uuden kirkon rakentaminen tuli ajankohtaiseksi 1700-luvun puolivälissä, kun vanha kirkko oli päässyt rapistumaan lähes sortumistilaan. Pielpajärven nykyisen kirkon rakennustyöt aloitettiin 1752, ja valmiiksi se saatiin 1760. Uusi kirkko rakennettiin todennäköisesti vanhan päälle, kuten tuolloin oli yleisesti tapana.</p>
+<p>Kirkko on muodoltaan lähes tasavartinen ristikirkko. Kooltaan se on pohjois-eteläsuunnassa 14 metriä ja itälänsisuunnassa 13,6 metriä. Länsiristin jatkeeksi rakennettiin 1760 - 1766 kellotapuli, jonka alaosa toimii kirkon eteisenä. Lehterit sijaitsevat pohjois- ja länsiristeissä. Kivistä kirkkomaata ympäröi taidokkaasti tehty säleaita. Kirkon läheisyydessä ei ole hautausmaata, sillä vainajat haudattiin läheisiin Hautuumaasaariin petoeläinten takia.</p>
+<p>Kirkkoa huollettiin säännöllisesti pitkän aikaa, mutta 1800-luvun puolivälin jälkeen sen hoitoa alettiin laiminlyödä. Kirkko pääsikin rapistumaan pahoin eikä korjaaminen tullut lopulta enää kyseeseen. Uusi kirkko päätettiin rakentaa parempien kulkuyhteyksien varrelle Juutuanjoen suulle, jonne nykyinen Inarin kirkonkylä oli alkanut muodostua. Uuden kirkon valmistuttua 1888 Pielpajärven kirkko jäi pois käytöstä.</p>
+<p type="title">Uusi nousukausi</p>
+<p>Pielpajärven kirkko otettiin uudelleen käyttöön 1940. Inarin kirkonkylän kirkko oli tuhoutunut aiemmin samana vuonna talvisodan pommituksissa, ja Ivalon rukoushuoneesta oli tehty väliaikainen kirkko. Inarilaiset kuitenkin päättivät pitää juhannusjumalanpalveluksen Pielpajärvellä. Tästä muodostui perinne, joka jatkuu edelleen. Nykyisin kirkossa järjestetään jumalanpalvelus myös pääsiäisenä. Vihkikirkkonakin se on varsin suosittu.</p>
+<p>Kirkko on lailla rauhoitettu muinaisjäännös. Kirkkokentällä sijainneet 30 - 40 kirkkotupaa ja pappila ovat hävinneet lähes täysin. Museovirasto kunnosti kirkkoa perinteisin työmenetelmin 1975 - 1976. Tämän jälkeen sitä on korjattu ja kunnostettu säännöllisin väliajoin.</p>
+<p>Kirkkokentän kasvilajisto on runsas, ja Metsähallitus on tehnyt alueelle hoitosuunnitelman. Kirkkokenttää on niitetty loppukesäisin talkoovoimin vuodesta 2000 lähtien.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

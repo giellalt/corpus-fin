@@ -1,116 +1,71 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>687</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Finska</origFileName>
-    <parallel_text xml:lang="eng" location="umo-in-english.html"/>
-    <parallel_text xml:lang="fit" location="meankieli.html"/>
-    <parallel_text xml:lang="sma" location="sydsamiska.html"/>
-    <parallel_text xml:lang="sme" location="nordsamiska.html"/>
-    <parallel_text xml:lang="smj" location="lulesamiska.html"/>
-    <parallel_text location="resanderomska.html" xml:lang="rmu"/>
-    <parallel_text location="romska-kalderash.html" xml:lang="rmy-rka"/>
-    <parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="romska-kale.html" xml:lang="rmf"/>
-    <parallel_text location="romska-arli.html" xml:lang="rmn"/>
-    <parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Suomeksi (finska)</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Suomeksi (finska)</p>
-    <p>UMO – nuorisovastaanotto verkossa</p>
-    <p>
-      <em type="italic">UMO:n aihealueet: </em>
-    </p>
-    <list>
-      <p type="listitem">Mielenterveys</p>
-      <p type="listitem">Väkivalta ja loukkaaminen</p>
-      <p type="listitem">Alkoholi, tupakka, huumeet</p>
-      <p type="listitem">Minä</p>
-      <p type="listitem">Seksi</p>
-      <p type="listitem">Rakkaus ja ystävyys</p>
-      <p type="listitem">Keho</p>
-    </list>
-    <p type="title">Abortti</p>
-    <p>Abortti tarkoittaa raskauden keskeyttämistä. Aborttia harkitsevalla voi olla mielessään monenlaisia kysymyksiä, joista on mahdollista keskustella ja joihin voi saada vastauksia. Tämä koskee myös poikaa, joka on saattanut tytön raskaaksi.</p>
-    <p>» Abortti</p>
-    <p type="title">Ahdistus</p>
-    <p>Ahdistuksella tarkoitetaan voimakasta, pelonsekaista tai huolestunutta tunnetilaa, joka tuntuu koko kehossa, ja jota useimmat joskus kokevat. Vaikka ahdistus voi tuntua ikävältä, kannattaa kuitenkin yrittää tehdä haluamiaan asioita eikä vältellä tilanteita, joiden uskoo aiheuttavan ahdistusta.</p>
-    <p>» Ahdistus</p>
-    <p type="title">Alakuloisuus</p>
-    <p>Alakuloisuuden, surullisuuden, ahdistuksen tai toivottomuuden tunteet ovat luonnollinen osa elämää. Joskus saattaa olla päiviä, jolloin mikään ei huvita, mikään ei tunnu hauskalta tai mielessä pyörii monenlaisia asioita. Tällaiset tunteet menevät usein ohi. Kurjaa oloa voi kohentaa eri tavoin itse, tai hakea tarvittaessa apua.</p>
-    <p>» Alakuloisuus</p>
-    <p type="title">Alkoholi</p>
-    <p>Alkoholijuomiin kuuluvat muun muassa olut, viini ja väkevät alkoholijuomat. Alkoholia juodaan maun vuoksi tai päihtymyksen saavuttamiseksi. Alkoholin käytöllä voi kuitenkin olla monenlaisia vakavia haittavaikutuksia. Se voi aiheuttaa vammoja ja sairauksia tai saada ajautumaan vaikeisiin tai vaarallisiin tilanteisiin. Joillekin alkoholin käyttö aiheuttaa ahdistuneisuutta ja pahoinvointia.</p>
-    <p>» Alkoholi</p>
-    <p type="title">Ehkäisypilleri</p>
-    <p>Ehkäisypilleri on tyttöjen ehkäisymenetelmä. Ehkäisypillereillä tarkoitetaan useimmiten yhdistelmäehkäisypillereitä. Ne sisältävät kahta eri hormonia, estrogeenia ja progesteronia (keltarauhashormonia), jotka muun muassa estävät ovulaation ja siten myös raskaaksi tulemisen.</p>
-    <p>» Ehkäisypilleri</p>
-    <p type="title">Eka kerta</p>
-    <p>Ennen ensimmäisiä seksuaalisia kokeiluja toisen kanssa monet ovat harjoittaneet itsetyydytystä. Ensimmäinen seksuaalinen kokemus tapahtuu siis usein oman itsensä kanssa. On luonnollista, että ensimmäinen seksikokemus toisen kanssa herättää monenlaisia ajatuksia ja odotuksia.</p>
-    <p>» Eka kerta</p>
-    <p type="title">Hiivatulehdus</p>
-    <p>Emättimen limakalvolla elää normaalisti hiivasieni. Joskus hiivasieni voi yltyä liikakasvuun ja aiheuttaa tulehduksen. Tämä on hyvin yleistä varsinkin tytöillä. Kolme neljästä tytöstä kärsii jossain vaiheessa elämäänsä hiivatulehduksesta, ja monilla se toistuu useita kertoja. Myös pojat voivat saada hiivatulehduksen. Hiivatulehdus on vaaraton, mutta se voi aiheuttaa kutinaa ja kirvelyä.</p>
-    <p>» Hiivatulehdus</p>
-    <p type="title">Itsetunto</p>
-    <p>Itsetunto tarkoittaa tietoisuutta itsestä ja omasta arvosta. Itsetunto ei liity lainkaan siihen, kuinka hyvin tai huonosti ihminen menestyy, vaan kysymys on oman itsensä hyväksymisestä. Itsensä arvostamista voi kehittää.</p>
-    <p>» Itsetunto</p>
-    <p type="title">Jälkiehkäisypilleri</p>
-    <p>Jälkiehkäisypilleri on tabletti, jonka tyttö voi ottaa ehkäistäkseen raskauden. Jälkiehkäisy ei ole tavanomainen ehkäisykeino, eli sitä ei käytetä suojana ennen yhdyntää tai sen aikana. Jälkiehkäisytablettia tulisi käyttää vain viimeisenä hätäkeinona eikä säännölliseen raskauden ehkäisyyn.</p>
-    <p>» Jälkiehkäisypilleri</p>
-    <p type="title">Kiusatuksi joutuminen</p>
-    <p>Joutuessaan kiusatuksi saattaa helposti alkaa tuntea olonsa surulliseksi ja alakuloiseksi. Joskus kiusaaminen vaikuttaa elämään niin paljon, että kiusatun itsetunto heikkenee ja hän yrittää vältellä tilanteita, joissa saattaisi törmätä kiusaajiin. Kenenkään ei tarvitsisi joutua piiloutumaan kiusaamisen vuoksi.</p>
-    <p>» Kiusatuksi joutuminen</p>
-    <p type="title">Kiusaaminen</p>
-    <p>Kiusaamisella tarkoitetaan sitä, kun joku joutuu ympärillä olevien ihmisten huonon kohtelun kohteeksi. Yksittäiset erimielisyydet eivät ole kiusaamista. Kun ilkeää kohtelua tapahtuu toistuvasti, ja se aiheuttaa kiusatulle harmia ja pahaa mieltä, puhutaan kiusaamisesta.</p>
-    <p>» Kiusaaminen</p>
-    <p type="title">Kondomi</p>
-    <p>Kondomi on ohut lateksinen (kuminen) pussi, joka voidaan asettaa peniksen tai seksilelun päälle seksiä harrastettaessa.</p>
-    <p>» Kondomi</p>
-    <p type="title">Kuukautiset</p>
-    <p>Kuukautiset tarkoittavat kohdusta poistuvaa verenvuotoa, joka toistuu tytöillä enemmän tai vähemmän säännöllisesti murrosiästä alkaen. Kuukautiset ovat merkki tytölle, että hänen kehonsa on lisääntymiskykyinen.</p>
-    <p>» Kuukautiset</p>
-    <p type="title">Murrosikä</p>
-    <p>Murrosikä alkaa yleensä 10–13-vuotiaana. Murrosiän aikana vartalo kehittyy lapsesta aikuiseksi. Esimerkiksi ääni ja sukupuolielimet muuttuvat, kasvoihin saattaa ilmaantua näppylöitä ja kiinnostus seksiin herää.</p>
-    <p>» Murrosikä</p>
-    <p type="title">Pussailu, suutelu ja hyväily</p>
-    <p>Monet tykkäävät pussailusta, suutelusta ja hyväilystä. Ne ovat asioita, joista moni nuori haaveilee ja odottaa pääsevänsä kokemaan. Samanaikaisesti ensimmäinen suudelma tai hyväily saattaa hermostuttaa. Miten oikeastaan hyväillään?</p>
-    <p>» Pussailu, suutelu ja hyväily</p>
-    <p type="title">Seksitautitestit</p>
-    <p>Jos on harrastanut suojaamatonta seksiä, kannattaa aina käydä seksitautitesteissä. Testimenetelmä riippuu testattavasta seksitaudista. Usein testit otetaan virtsanäytteestä tai verikokeesta. Jos testattava seksitauti on tartuntasuojalain mukaan ilmoitettava tauti, testi on ilmainen.</p>
-    <p>» Seksitautitestit</p>
-    <p type="title">Seksuaalinen suuntautuminen -bi, hetero, homo</p>
-    <p>Seksuaalinen suuntautuminen tarkoittaa rakastumisen tai seksuaalisen kiinnostuksen kohdetta. Ihmiset voivat olla bi-, hetero- tai homoseksuaaleja.</p>
-    <p>» Seksuaalinen suuntautuminen -bi, hetero, homo</p>
-    <p type="title">Tupakointi</p>
-    <p>Tupakoiva ihminen imee itseensä tuhansia myrkyllisiä aineita. Tupakointi voi aiheuttaa erilaisia terveyshaittoja ja sairauksia, ja noin joka toinen tupakoitsija kuolee nuorempana kuin tupakoimaton ikätoveri. Tupakka on myös kallista, se voi aiheuttaa aknea, heikentää fyysistä kuntoa ja vähentää seksihaluja. Silti monet nuoret aloittavat tupakoinnin ollakseen cooleja tai siistejä.</p>
-    <p>» Tupakointi</p>
-    <p type="title">Vinkkejä itsetunnon kohentamiseen</p>
-    <p>Omaa itsetuntoaan voi kohentaa monin eri tavoin. Tässä muutamia kokeilunarvoisia vinkkejä.</p>
-    <p>» Vinkkejä itsetunnon kohentamiseen</p>
-    <p type="title">UMOsta</p>
-    <p>» UMOsta</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>682</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Finska</origFileName><parallel_text xml:lang="eng" location="umo-in-english.html"/><parallel_text xml:lang="fit" location="meankieli.html"/><parallel_text xml:lang="sma" location="sydsamiska.html"/><parallel_text xml:lang="sme" location="nordsamiska.html"/><parallel_text xml:lang="smj" location="lulesamiska.html"/><parallel_text location="resanderomska.html" xml:lang="rmu"/><parallel_text location="romska-kalderash.html" xml:lang="rmy-rka"/><parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/><parallel_text location="romska-kale.html" xml:lang="rmf"/><parallel_text location="romska-arli.html" xml:lang="rmn"/><parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Suomeksi (finska)</p>
+<p type="title" xml:lang="swe">Suomeksi (finska)</p>
+<p>UMO – nuorisovastaanotto verkossa</p>
+<p><em type="italic">UMO:n aihealueet: </em></p>
+<list><p type="listitem">Mielenterveys</p>
+<p type="listitem">Väkivalta ja loukkaaminen</p>
+<p type="listitem">Alkoholi, tupakka, huumeet</p>
+<p type="listitem">Minä</p>
+<p type="listitem">Seksi</p>
+<p type="listitem">Rakkaus ja ystävyys</p>
+<p type="listitem">Keho</p>
+</list><p type="title">Abortti</p>
+<p>Abortti tarkoittaa raskauden keskeyttämistä. Aborttia harkitsevalla voi olla mielessään monenlaisia kysymyksiä, joista on mahdollista keskustella ja joihin voi saada vastauksia. Tämä koskee myös poikaa, joka on saattanut tytön raskaaksi.</p>
+<p>» Abortti</p>
+<p type="title">Ahdistus</p>
+<p>Ahdistuksella tarkoitetaan voimakasta, pelonsekaista tai huolestunutta tunnetilaa, joka tuntuu koko kehossa, ja jota useimmat joskus kokevat. Vaikka ahdistus voi tuntua ikävältä, kannattaa kuitenkin yrittää tehdä haluamiaan asioita eikä vältellä tilanteita, joiden uskoo aiheuttavan ahdistusta.</p>
+<p>» Ahdistus</p>
+<p type="title">Alakuloisuus</p>
+<p>Alakuloisuuden, surullisuuden, ahdistuksen tai toivottomuuden tunteet ovat luonnollinen osa elämää. Joskus saattaa olla päiviä, jolloin mikään ei huvita, mikään ei tunnu hauskalta tai mielessä pyörii monenlaisia asioita. Tällaiset tunteet menevät usein ohi. Kurjaa oloa voi kohentaa eri tavoin itse, tai hakea tarvittaessa apua.</p>
+<p>» Alakuloisuus</p>
+<p type="title">Alkoholi</p>
+<p>Alkoholijuomiin kuuluvat muun muassa olut, viini ja väkevät alkoholijuomat. Alkoholia juodaan maun vuoksi tai päihtymyksen saavuttamiseksi. Alkoholin käytöllä voi kuitenkin olla monenlaisia vakavia haittavaikutuksia. Se voi aiheuttaa vammoja ja sairauksia tai saada ajautumaan vaikeisiin tai vaarallisiin tilanteisiin. Joillekin alkoholin käyttö aiheuttaa ahdistuneisuutta ja pahoinvointia.</p>
+<p>» Alkoholi</p>
+<p type="title">Ehkäisypilleri</p>
+<p>Ehkäisypilleri on tyttöjen ehkäisymenetelmä. Ehkäisypillereillä tarkoitetaan useimmiten yhdistelmäehkäisypillereitä. Ne sisältävät kahta eri hormonia, estrogeenia ja progesteronia (keltarauhashormonia), jotka muun muassa estävät ovulaation ja siten myös raskaaksi tulemisen.</p>
+<p>» Ehkäisypilleri</p>
+<p type="title">Eka kerta</p>
+<p>Ennen ensimmäisiä seksuaalisia kokeiluja toisen kanssa monet ovat harjoittaneet itsetyydytystä. Ensimmäinen seksuaalinen kokemus tapahtuu siis usein oman itsensä kanssa. On luonnollista, että ensimmäinen seksikokemus toisen kanssa herättää monenlaisia ajatuksia ja odotuksia.</p>
+<p>» Eka kerta</p>
+<p type="title">Hiivatulehdus</p>
+<p>Emättimen limakalvolla elää normaalisti hiivasieni. Joskus hiivasieni voi yltyä liikakasvuun ja aiheuttaa tulehduksen. Tämä on hyvin yleistä varsinkin tytöillä. Kolme neljästä tytöstä kärsii jossain vaiheessa elämäänsä hiivatulehduksesta, ja monilla se toistuu useita kertoja. Myös pojat voivat saada hiivatulehduksen. Hiivatulehdus on vaaraton, mutta se voi aiheuttaa kutinaa ja kirvelyä.</p>
+<p>» Hiivatulehdus</p>
+<p type="title">Itsetunto</p>
+<p>Itsetunto tarkoittaa tietoisuutta itsestä ja omasta arvosta. Itsetunto ei liity lainkaan siihen, kuinka hyvin tai huonosti ihminen menestyy, vaan kysymys on oman itsensä hyväksymisestä. Itsensä arvostamista voi kehittää.</p>
+<p>» Itsetunto</p>
+<p type="title">Jälkiehkäisypilleri</p>
+<p>Jälkiehkäisypilleri on tabletti, jonka tyttö voi ottaa ehkäistäkseen raskauden. Jälkiehkäisy ei ole tavanomainen ehkäisykeino, eli sitä ei käytetä suojana ennen yhdyntää tai sen aikana. Jälkiehkäisytablettia tulisi käyttää vain viimeisenä hätäkeinona eikä säännölliseen raskauden ehkäisyyn.</p>
+<p>» Jälkiehkäisypilleri</p>
+<p type="title">Kiusatuksi joutuminen</p>
+<p>Joutuessaan kiusatuksi saattaa helposti alkaa tuntea olonsa surulliseksi ja alakuloiseksi. Joskus kiusaaminen vaikuttaa elämään niin paljon, että kiusatun itsetunto heikkenee ja hän yrittää vältellä tilanteita, joissa saattaisi törmätä kiusaajiin. Kenenkään ei tarvitsisi joutua piiloutumaan kiusaamisen vuoksi.</p>
+<p>» Kiusatuksi joutuminen</p>
+<p type="title">Kiusaaminen</p>
+<p>Kiusaamisella tarkoitetaan sitä, kun joku joutuu ympärillä olevien ihmisten huonon kohtelun kohteeksi. Yksittäiset erimielisyydet eivät ole kiusaamista. Kun ilkeää kohtelua tapahtuu toistuvasti, ja se aiheuttaa kiusatulle harmia ja pahaa mieltä, puhutaan kiusaamisesta.</p>
+<p>» Kiusaaminen</p>
+<p type="title">Kondomi</p>
+<p>Kondomi on ohut lateksinen (kuminen) pussi, joka voidaan asettaa peniksen tai seksilelun päälle seksiä harrastettaessa.</p>
+<p>» Kondomi</p>
+<p type="title">Kuukautiset</p>
+<p>Kuukautiset tarkoittavat kohdusta poistuvaa verenvuotoa, joka toistuu tytöillä enemmän tai vähemmän säännöllisesti murrosiästä alkaen. Kuukautiset ovat merkki tytölle, että hänen kehonsa on lisääntymiskykyinen.</p>
+<p>» Kuukautiset</p>
+<p type="title">Murrosikä</p>
+<p>Murrosikä alkaa yleensä 10–13-vuotiaana. Murrosiän aikana vartalo kehittyy lapsesta aikuiseksi. Esimerkiksi ääni ja sukupuolielimet muuttuvat, kasvoihin saattaa ilmaantua näppylöitä ja kiinnostus seksiin herää.</p>
+<p>» Murrosikä</p>
+<p type="title">Pussailu, suutelu ja hyväily</p>
+<p>Monet tykkäävät pussailusta, suutelusta ja hyväilystä. Ne ovat asioita, joista moni nuori haaveilee ja odottaa pääsevänsä kokemaan. Samanaikaisesti ensimmäinen suudelma tai hyväily saattaa hermostuttaa. Miten oikeastaan hyväillään?</p>
+<p>» Pussailu, suutelu ja hyväily</p>
+<p type="title">Seksitautitestit</p>
+<p>Jos on harrastanut suojaamatonta seksiä, kannattaa aina käydä seksitautitesteissä. Testimenetelmä riippuu testattavasta seksitaudista. Usein testit otetaan virtsanäytteestä tai verikokeesta. Jos testattava seksitauti on tartuntasuojalain mukaan ilmoitettava tauti, testi on ilmainen.</p>
+<p>» Seksitautitestit</p>
+<p type="title">Seksuaalinen suuntautuminen -bi, hetero, homo</p>
+<p>Seksuaalinen suuntautuminen tarkoittaa rakastumisen tai seksuaalisen kiinnostuksen kohdetta. Ihmiset voivat olla bi-, hetero- tai homoseksuaaleja.</p>
+<p>» Seksuaalinen suuntautuminen -bi, hetero, homo</p>
+<p type="title">Tupakointi</p>
+<p>Tupakoiva ihminen imee itseensä tuhansia myrkyllisiä aineita. Tupakointi voi aiheuttaa erilaisia terveyshaittoja ja sairauksia, ja noin joka toinen tupakoitsija kuolee nuorempana kuin tupakoimaton ikätoveri. Tupakka on myös kallista, se voi aiheuttaa aknea, heikentää fyysistä kuntoa ja vähentää seksihaluja. Silti monet nuoret aloittavat tupakoinnin ollakseen cooleja tai siistejä.</p>
+<p>» Tupakointi</p>
+<p type="title">Vinkkejä itsetunnon kohentamiseen</p>
+<p>Omaa itsetuntoaan voi kohentaa monin eri tavoin. Tässä muutamia kokeilunarvoisia vinkkejä.</p>
+<p>» Vinkkejä itsetunnon kohentamiseen</p>
+<p type="title">UMOsta</p>
+<p>» UMOsta</p>
+</body></document>

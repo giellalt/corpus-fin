@@ -1,63 +1,33 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>OAHPA! Sanasto ja sanalistat</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>162</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/useoahpa/satnevuorka.fin.html</origFileName>
-    <parallel_text xml:lang="eng" location="satnevuorka.eng.html"/>
-    <parallel_text xml:lang="nob" location="satnevuorka.nob.html"/>
-    <parallel_text xml:lang="sme" location="satnevuorka.html"/>
-    <parallel_text xml:lang="swe" location="satnevuorka.swe.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">OAHPA! Sanasto ja sanalistat</p>
-    <p>Oahpa!-sanastossa on sanoja mm. näistä kirjoista:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">Davvin 1-4</p>
-      <p type="listitem" xml:lang="sme">Sárá ja su ustibat</p>
-      <p type="listitem" xml:lang="eng">Bures, bures fas</p>
-      <p type="listitem" xml:lang="sme">Oaidnalit</p>
-      <p type="listitem" xml:lang="sme">Romssa universitehta SAM-1031 kompendiija</p>
-      <p type="listitem" xml:lang="sme">Helmi Länsman: Cealkka dearvvuođat 1-4</p>
-      <p type="listitem" xml:lang="smn">Ante Aikio universitehta kompendiija</p>
-    </list>
-    <p>Käyttäjä voi itse valita minkä teeman tai oppikirjan sanojen avulla hän haluaa työskennellä Leksassa ja Morfassa.</p>
-    <p>Sanastoa käytetään aktiivisesti ohjelmissamme, mutta Vasta- ja Sahka-ohjelmat hyväksyvät suuremman määrän sanoja. Ohjelma käyttää silloin leksikkoa, jossa on noin 100.000 sanaa (niiden joukossa 40.000 nimeä).</p>
-    <p>Alla lydät sanalistat, jotka sisältävät niin substantiivejä, verbejä, adverbija kuin adjektiivejakin aakkosjärjestyksessä. Niitä voi käyttää opetuksessa monella eri tavoin. Tämän jälkeen oppilaat voivat testata tietojaan Leksa- ja Morfa-ohjelmien avulla. Tiedostot ovat word-muodossa niin, että niitä olisi helppo muunnella. Jako aiheisiin on suunnileen sama kuin Leksassa, mutta Leksassa sanoilla on enemmän käännöksiä kuin sanalistoissa.</p>
-    <list>
-      <p type="listitem" xml:lang="sme">Borramušat ja juhkamušat</p>
-      <p type="listitem" xml:lang="sme">Biktasat</p>
-      <p type="listitem" xml:lang="sme">Áigi</p>
-      <p type="listitem" xml:lang="kal">Gorut</p>
-      <p type="listitem" xml:lang="sme">Lagamusat</p>
-      <p type="listitem" xml:lang="sme">Olbmot</p>
-      <p type="listitem" xml:lang="sme">Sánit olbmuid birra</p>
-      <p type="listitem" xml:lang="sme">Ruovttus ja astoáiggis</p>
-      <p type="listitem" xml:lang="sme">Bargu ja reaiddut</p>
-      <p type="listitem" xml:lang="sme">Viesut, lanjat ja viesuid siste</p>
-      <p type="listitem" xml:lang="sme">Luonddus</p>
-      <p type="listitem" xml:lang="sme">Báikkit ja mátkkošteapmi</p>
-      <p type="listitem" xml:lang="kal">Eallit</p>
-      <p type="listitem" xml:lang="sme">Skuvla</p>
-      <p type="listitem" xml:lang="smj">Giella, teaksta</p>
-      <p type="listitem" xml:lang="sme">Gávpogis</p>
-      <p type="listitem" xml:lang="sme">Juovllat</p>
-      <p type="listitem" xml:lang="sme">Biergasat</p>
-      <p type="listitem" xml:lang="sme">Abstrávttat</p>
-      <p type="listitem" xml:lang="sme">Frásat</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>OAHPA! Sanasto ja sanalistat</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>162</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/satnevuorka.fin.html</origFileName><parallel_text xml:lang="eng" location="satnevuorka.eng.html"/><parallel_text xml:lang="nob" location="satnevuorka.nob.html"/><parallel_text xml:lang="sme" location="satnevuorka.html"/><parallel_text xml:lang="swe" location="satnevuorka.swe.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">OAHPA! Sanasto ja sanalistat</p>
+<p>Oahpa!-sanastossa on sanoja mm. näistä kirjoista:</p>
+<list><p type="listitem" xml:lang="sme">Davvin 1-4</p>
+<p type="listitem" xml:lang="sme">Sárá ja su ustibat</p>
+<p type="listitem" xml:lang="deu">Bures, bures fas</p>
+<p type="listitem" xml:lang="sme">Oaidnalit</p>
+<p type="listitem" xml:lang="sme">Romssa universitehta SAM-1031 kompendiija</p>
+<p type="listitem" xml:lang="sme">Helmi Länsman: Cealkka dearvvuođat 1-4</p>
+<p type="listitem" xml:lang="smn">Ante Aikio universitehta kompendiija</p>
+</list><p>Käyttäjä voi itse valita minkä teeman tai oppikirjan sanojen avulla hän haluaa työskennellä Leksassa ja Morfassa.</p>
+<p>Sanastoa käytetään aktiivisesti ohjelmissamme, mutta Vasta- ja Sahka-ohjelmat hyväksyvät suuremman määrän sanoja. Ohjelma käyttää silloin leksikkoa, jossa on noin 100.000 sanaa (niiden joukossa 40.000 nimeä).</p>
+<p>Alla lydät sanalistat, jotka sisältävät niin substantiivejä, verbejä, adverbija kuin adjektiivejakin aakkosjärjestyksessä. Niitä voi käyttää opetuksessa monella eri tavoin. Tämän jälkeen oppilaat voivat testata tietojaan Leksa- ja Morfa-ohjelmien avulla. Tiedostot ovat word-muodossa niin, että niitä olisi helppo muunnella. Jako aiheisiin on suunnileen sama kuin Leksassa, mutta Leksassa sanoilla on enemmän käännöksiä kuin sanalistoissa.</p>
+<list><p type="listitem" xml:lang="sme">Borramušat ja juhkamušat</p>
+<p type="listitem" xml:lang="sme">Biktasat</p>
+<p type="listitem" xml:lang="sme">Áigi</p>
+<p type="listitem" xml:lang="kal">Gorut</p>
+<p type="listitem" xml:lang="sme">Lagamusat</p>
+<p type="listitem" xml:lang="sme">Olbmot</p>
+<p type="listitem" xml:lang="sme">Sánit olbmuid birra</p>
+<p type="listitem" xml:lang="sme">Ruovttus ja astoáiggis</p>
+<p type="listitem" xml:lang="sme">Bargu ja reaiddut</p>
+<p type="listitem" xml:lang="sme">Viesut, lanjat ja viesuid siste</p>
+<p type="listitem" xml:lang="sme">Luonddus</p>
+<p type="listitem" xml:lang="sme">Báikkit ja mátkkošteapmi</p>
+<p type="listitem" xml:lang="kal">Eallit</p>
+<p type="listitem" xml:lang="sme">Skuvla</p>
+<p type="listitem" xml:lang="smj">Giella, teaksta</p>
+<p type="listitem" xml:lang="sme">Gávpogis</p>
+<p type="listitem" xml:lang="sme">Juovllat</p>
+<p type="listitem" xml:lang="sme">Biergasat</p>
+<p type="listitem" xml:lang="sme">Abstrávttat</p>
+<p type="listitem" xml:lang="sme">Frásat</p>
+</list></body></document>

@@ -1,246 +1,154 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Saamelainen maailmankuva ja mytologia - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1471</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/ukonsaari/saamelainenmaailmankuvajamytologia?inheritRedirect=true</origFileName>
-    <parallel_text xml:lang="eng" location="thesamiworldviewandmythology.html"/>
-    <parallel_text xml:lang="sme" location="samiid-mailmmigovva-ja-mytologiija.html"/>
-    <parallel_text xml:lang="smn" location="sammilasmailmkovejamytologia.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Ukonsaari</p>
-    <list>
-      <p type="listitem">Saamelainen maailmankuva ja mytologia</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Ailinpietin kalamaja</p>
-      <p type="listitem">Berghamnin perinneympäristö</p>
-      <p type="listitem">Gustavsvärnin linnoitus</p>
-      <p type="listitem">Hauensuolen kalliopiirrokset</p>
-      <p type="listitem">Heretyn metsätyökämppä</p>
-      <p type="listitem">Huhtalan torppa</p>
-      <p type="listitem">Hytermä</p>
-      <p type="listitem">Iso Linnamäki</p>
-      <p type="listitem">Ivalojoen Kultala</p>
-      <p type="listitem">Jyppyrän peurahaudat</p>
-      <p type="listitem">Kaapin Jounin tila</p>
-      <p type="listitem">Kajaanin rauniolinna</p>
-      <p type="listitem">Kalmosärkkä</p>
-      <p type="listitem">Kappelniityn muinaisjäännösalue</p>
-      <p type="listitem">Katanpään linnakesaari</p>
-      <p type="listitem">Kolttien perinnetalo</p>
-      <p type="listitem">Koroistenniemi</p>
-      <p type="listitem">Korteniemen perinnetila</p>
-      <p type="listitem">Koveron perinnetila</p>
-      <p type="listitem">Kuhmon vaara-asutukset</p>
-      <p type="listitem">Kurjenpolven hautausmaa</p>
-      <p type="listitem">Kuusiston piispanlinnan rauniot</p>
-      <p type="listitem">Kärnäkosken linnoitus</p>
-      <p type="listitem">Käräjämäki</p>
-      <p type="listitem">Langinkosken keisarillinen kalastusmaja</p>
-      <p type="listitem">Latvavaaran tila</p>
-      <p type="listitem">Lemmenjoen peurakuopat</p>
-      <p type="listitem">Levävaaran tila</p>
-      <p type="listitem">Liinmaan muinaislinna</p>
-      <p type="listitem">Linnansaaren torppa</p>
-      <p type="listitem">Lounatkoski</p>
-      <p type="listitem">Luttojoen kolttakentät</p>
-      <p type="listitem">Mattilan tila</p>
-      <p type="listitem">Matti Mustan tupa</p>
-      <p type="listitem">Ollilan ja Turulan tilat</p>
-      <p type="listitem">Paimensaaren perinneympäristö</p>
-      <p type="listitem">Pakasaivo ja Kirkkopahdan seitakivi</p>
-      <p type="listitem">Petkeljärven puistonvartijan maja</p>
-      <p type="listitem">Pielpajärven erämaakirkko</p>
-      <p type="listitem">Pisamalahden linnavuori</p>
-      <p type="listitem">Pitkäjärven metsätyökämppä</p>
-      <p type="listitem">Päivääniemen kalmisto</p>
-      <p type="listitem">Raappanan kammi</p>
-      <p type="listitem">Raaseporin rauniolinna</p>
-      <p type="listitem">Raja-Joosepin kenttä</p>
-      <p type="listitem">Rapolan linnavuori</p>
-      <p type="listitem">Ristinpelto</p>
-      <p type="listitem">Rumakurun vanha kämppä</p>
-      <p type="listitem">Rytivaaran kruununmetsätorppa</p>
-      <p type="listitem">Rödjanin kalastajatila</p>
-      <p type="listitem">Röytän luotsiasema</p>
-      <p type="listitem">Sallivaaran poroerotuspaikka</p>
-      <p type="listitem">Salpalinja, Änäkäinen</p>
-      <p type="listitem">Seili</p>
-      <p type="listitem">Suomujoen kolttakenttä</p>
-      <p type="listitem">Suomunruoktun vanha kämppä</p>
-      <p type="listitem">Svartholman merilinnoitus</p>
-      <p type="listitem">Söderskär</p>
-      <p type="listitem">Taatsin seita ja Taatsinkirkko</p>
-      <p type="listitem">Telkkämäen perinnetila</p>
-      <p type="listitem">Tiaisen torppa</p>
-      <p type="listitem">Tiilikanaution tila</p>
-      <p type="listitem">Täyssinän rauhan rajakivet</p>
-      <p type="listitem">Ukonsaari</p>
-      <p type="listitem">Ulko-Tammio</p>
-      <p type="listitem">Untamalan muinaisjäännösalue</p>
-      <p type="listitem">Vallisaari</p>
-      <p type="listitem">Välimaan saamelaistila</p>
-      <p type="listitem">Värikallio</p>
-      <p type="listitem">Äkässaivo ja Seitapahta</p>
-      <p type="listitem">Örön linnakesaari</p>
-    </list>
-    <list>
-      <p type="listitem">Saamelainen maailmankuva ja mytologia</p>
-    </list>
-    <p type="title">Saamelainen maailmankuva ja mytologia</p>
-    <p type="title">Saamelainen maailmankuva ja mytologia</p>
-    <p>Saamelaisten vanhaa uskomusmaailmaa ja perinteitä on ollut vaikea tutkia, sillä elämäntapa ja kulttuuri muuttuivat äkillisesti kristillisen käännytystyön ja muun valtiollisen toiminnan seurauksena 1600 – 1700-luvulla. Jonkin verran perimätietoa on saatu kerättyä, mutta useimmiten kerääjät olivat pappeja ja vieraan kulttuurin edustajia, joten tietoihin on suhtauduttava varauksella. Myös kansatieteelliset sekä arkeologiset tutkimukset ovat valottaneet vanhaa saamelaista henkistä kulttuuria.</p>
-    <p type="title">Ihminen ja luonto ovat yhtä</p>
-    <p>Saamelaisen maailmankuvan mukaan ihminen ja luonto olivat yhtä. Luonto on ollut saamelaisille koti, elämäntapa, historia ja tulevaisuus. Saamelaisten, kuten muidenkin pohjoisten kansojen maailmankatsomuksessa ihmisen ja luonnon tasapainosta riippuu kummankin osapuolen hyvinvointi. Koska ympäröivä luonto oli osa ihmistä, koettiin luonnon voima osaksi ihmisen voimaa. Ihmisen luontosuhteen heikkenemisestä ja tasapainon rikkoutumisesta seurasi ihmisen voiman väheneminen. Ympäröivää maailmaa kunnioitettiin ja sen eheyttä varjeltiin, jottei tasapaino järkkyisi.</p>
-    <p>Siinä missä suomalaisen agraarikulttuurin näkemys oli, että ihmisen tulee joko alistua luonnolle tai ottaa se kristinuskon linjaa mukaillen herrana haltuun, pyrkivät saamelaiset sopeutumaan luontoon muuttamatta sitä. Luonnonvaroja käytettiin vain sen verran kuin oli välttämätöntä, sillä hengissä pysymisen ymmärrettiin riippuvan luonnonvarojen uusiutumisesta. Myös nykysaamelaisessa ajattelutavassa on suurelta osin säilynyt käsitys ihmisen ja luonnon yhteydestä sekä keskinäisestä riippuvuussuhteesta.</p>
-    <p type="title">Shamanismi ja rituaalit</p>
-    <p>Erilaiset rituaalit auttoivat pitämään yllä suhdetta ihmisen sisäiseen ja ihmistä ympäröivään maailmaan sekä yksilön että yhteisön tasolla. Toimimalla tietyllä tavalla sekä noudattamalla käyttäytymismalleja ja sääntöjä ajateltiin voitavan vaikuttaa luontoon ja ihmisen elinolosuhteisiin. Luonnonpalvonta oli saamelaisten henkisessä perinteessä tärkeässä osassa. Jumalolennot olivat luonnonhaltijoita, kuten ukkosen-, tuulen-, veden- ja pyynninjumala. Suurin osa saamelaisten seremonioista ja rituaaleista liittyi elannon hankkimiseen, erityisesti metsästykseen ja kalastukseen. Uhrilahjojen avulla pyydettiin hyvää saalista, ja kun luonto soi antimiaan, siitä vastavuoroisesti kiitettiin lahjoin.</p>
-    <p>Saamelainen shamanismi on ollut tapa hahmottaa maailmaa ja toimia siinä. Maailman rakenne koostui kolmesta tasosta: alisesta, keskisestä ja ylisestä. Alisessa asuivat vainajat ja maahiset, keskisessä ihmiset ja haltijat ja ylisessä jumalat. Shamaani, pohjoissaameksi noaidi, oli saamelaisyhteisön tärkein jäsen, joka piti yllä maailmanjärjestystä ihmisten keskuudessa. Noidan tehtävänä oli edistää yhteisön hyvinvointia. Hän oli yhteydessä tuonpuoleiseen maailmaan, paransi sairaita ja ennusti tulevaisuutta. Hän toimi metsästyksen ja kalastuksen turvaamiseksi, nautinta-alueiden suojelemiseksi ja huolehti luonnonvaroista. Noidan tärkein rituaaliesine oli noitarumpu, jonka poron nahasta viritetylle kalvolle oli piirretty myyttisiä kuvioita. Noita lankesi loveen rummun avulla ja hänen sielunsa lähti eläimen hahmossa suorittamaan tehtäviään. Valtiovalta ja kirkko tuhosivat tai takavarikoivat ja veivät pois saamelaisalueelta monet saamelaisrummuista. Nykyään suurin osa hävitykseltä säästyneistä saamelaisrummuista on talletettu ulkomaisiin museoihin.</p>
-    <p type="title">Jumalia ja luonnonhaltijoita</p>
-    <p>Ukko (tunnettu saameksi mm. nimillä Äijih, Dearpmes ja Horagállis) oli saamelaisten tärkein jumalhahmo. Ukko antoi ihmisille elämän ja suojeli heidän terveyttään. Pilvien haltijana hän varjeli ihmisiä pahoilta hengiltä heidän lähtiessä kalastamaan ja metsästämään. Inarinsaamelaisilla oli Inarijärvellä useita Ukko-nimisiä pyhiä palvontapaikkoja, tunnetuimmat niistä Ukonselällä ja Ukonjärvellä. Ukolla oli vaimo Akka, inarinsaameksi Ákku. Perinteen mukaan Ukko ja Ákku muodostivat parin. Tästä esimerkkeinä ovat mm. Inarijärven Ukonsaari ja Kalkuvaara (Kálguváári, kálgu = vaimo) sen läheisyydessä, sekä Ukonjärven Ukko ja Ákku.</p>
-    <p>T. I. Itkonen kirjoittaa Suomen lappalaiset – teoksessaan Ukosta:</p>
-    <p>
-      <em type="italic">"Ukkosella on vasara, jolla se iskee pahoja henkiä päähän. Ukkonen antaa ihmisille elämän, suojelee heidän terveyttään niin, ettei kuolemakaan heitä uhkaa hänen tahtomattaan. Koska pahat henget vahingoittavat lappalaisten metsänkäyntiä ja kalastusta ja Ukkonen antaa niille ansaitun rangaistuksen, palvovat ihmiset häntä ennen muita (jumalia). – – Koillis-Inarin porolappalaiset nimittävät Ukkosta 'pilvien haltijaksi', joka tulee puhdistamaan ilmaa taudeista. Päjän-äd'dä (Ukkos-äijä) ajaa valkealla pilvellä, selässään laukku, jossa on nuolia eli salamoita, ja kädessään kaksi onttoa esinettä, ikään kuin puukupit, joita yhteenlyödessä syntyy jyrinä. Hän lähettää sateen, jott'eivät salamat polttaisi maata." </em>
-    </p>
-    <p>Akasta Itkonen kirjoittaa:</p>
-    <p>
-      <em type="italic">"Ukon puoliso oli Akka (Ákku). Tämän asuinpaikka, ei niin pyhä ja palvottu kuin Ukko, on korkea samanniminen vaara Inarijärven lounaisrannalla, sen ja Ukonjärven välissä. Ukonsaaresta luultiin käytävän johtavan järven alitse Akkuun, jota myöten nuo korkeat puolisot puhelivat toisilleen." </em>
-    </p>
-    <p>Tuulenjumala, Biegga-almmái, hallitsi tuulta ja oli merkittävä erityisesti siksi, että hän saattoi kuljettaa poroja laittamalla tuulen puhaltamaan jatkuvasti samalta suunnalta. Tuulenjumalalle on uhrattu mm. Inarin Tuulispäällä, noin kymmenen kilometrin päässä Inarin kirkonkylästä. Aurinkoa hallitsi Beaivváš, jolle uhrattiin juhannuksena ja syksyisin. Vedenjumalalta, Čáhcealmmái, toivottiin mitä kulloinkin haluttiin, esimerkiksi rahoja, peuroja, kaloja tai majavia. Máttáráhkká oli elämän äiti ja hänen kolme tytärtään Sáráhkká, Uksáhkká ja Juksáhkká muita merkittäviä saamelaisia erityisesti naiseuteen, synnytykseen ja kotaan liittyneitä jumalattaria.</p>
-    <p>Tunnetuimpia saamelaisia haltijoita ja luonnonhenkiä olivat muiden muassa kodin-, veden- ja metsänhaltijat, ihmiselle vihamielinen stállu, ihmisiä syövä ja verta imevä vuovru, lintujen suojelijatar loddedžan, lapsia pelottelevat lávvaráddjá ja skuŋká sekä maan alla asustelevat tšahkkal-menninkäiset, gufihttaret ja uldat. Saamelaisessa mytologiassa haltijoita ja henkiolentoja oli paljon, sillä luonnossa kaikella oli haltijansa.</p>
-    <p type="title">Seidat</p>
-    <p>
-      <em type="italic">"Lappalaiset palvelivat kiviä, panivat niitä jumaliksi ja </em>
-    </p>
-    <p>
-      <em type="italic">voitelivat kalanrasvalla ja poronkuulla, sillä ihmisen suku </em>
-    </p>
-    <p>
-      <em type="italic">on sellaista, että pitää palvella jotakin, vaikka ei Jumalasta </em>
-    </p>
-    <p>
-      <em type="italic">tiijä mitään." </em>
-    </p>
-    <p>– Vanha saamelaismies S. Paulaharjun mukaan</p>
-    <p>Seita (saameksi sieidi) eli palvontapaikka oli tärkeässä osassa saamelaisten rituaaleissa. Palvontapaikat olivat useimmiten ympäristöstään jollain tavalla erottuvia ja poikkeavia luonnonmuodostelmia - korkeita kallioita, suuria kiviä, kantoja, puupylväitä, saaria, lähteitä tai tunturin huippuja. Kiviseidat olivat puuseitoja yleisempiä ja niitä pidettiin pyhempinä. Siidoilla, eli saamelaisten kyläyhteisöillä oli omat seitansa, mutta yhtä lailla seitoja oli myös suvuilla, perheillä ja yksittäisillä ihmisillä. Kalastajilla, metsästäjillä ja poronhoitajilla oli omat palvontapaikkansa: kalaseidat, peuraseidat ja poroseidat. Kalaseidat sijaitsivat vesien äärellä, metsä- ja poromiesten seidat useimmiten vaarassa tai tunturissa. Oli myös seitoja, joilta saatettiin pyytää apua monenlaiseen tarpeeseen elinkeinosta riippumatta. Seitojen merkitys saattoi muuttua toiseksi aikojen kuluessa ja elinkeinojen muuttuessa. Ihmiset kävivät yleensä palvomassa seitoja asuinpaikkansa lähellä, mutta esimerkiksi Kittilän mahtavaa Taatsin seitaa tultiin palvomaan pitkienkin matkojen päästä.</p>
-    <p>Seidoille uhrattiin, sillä tiedettiin, että luonnonvoimat vaikuttavat ihmisten pyyntionneen. Pääsääntöisesti vain miehet saivat harjoittaa uhrausmenoja, mutta naisille tiedetään myös olleen omia uhripaikkoja, esimerkiksi Inarijärven Naarassaaret. Suuren pyhyyden vuoksi seitaa tuli lähestyä kunnioittaen. Ennen pyyntiin lähtöä mentiin seidalle anomaan suopeutta ja apua. Seidalta saatettiin myös kysyä neuvoja esimerkiksi siitä, minne päin olisi mentävä. Sille lueteltiin paikannimiä, ja mitä nimeä mainitessa seita liikahti, sinne päin lähdettiin. Seitaa voideltiin kalojen ja eläinten rasvalla ja verellä ja esitettiin pyynnöt. Mikäli saalista tulisi, luvattiin seidalle tuoda vastavuoroisesti osa siitä kiitokseksi. Kalaseitaa kiitettiin tuomalla sille lahjaksi kalojen päitä tai kokonaisia kaloja, ja sitä voideltiin kalojen rasvalla, suolilla ja suljulla. Peuraseidalle tuotiin peuran sarvet, pää tai joskus jopa koko eläin ja sitä voideltiin peuran rasvalla ja verellä. Poroseidalle tuotiin parhaiden ajokkaiden pudottamia sarvia, poron luita, kalloja ja taljoja. Uudempina aikoina seidoille on uhrattu myös viinaa, tupakkaa, voita, rahaa ja muita arvoesineitä. Ajateltiin, että seita saa mahtia uhreistaan ja luo sille uhratuista eläimistä uusia eläimiä.</p>
-    <p>
-      <em type="italic">"On huono sää. </em>
-    </p>
-    <p>
-      <em type="italic">Veämme nyt palvoskalaa. </em>
-    </p>
-    <p>
-      <em type="italic">Jos saamme hyvin kalaa, </em>
-    </p>
-    <p>
-      <em type="italic">niin kyllä voijamme sinut rasvalla. </em>
-    </p>
-    <p>
-      <em type="italic">Kyllä sinä, raukka, olet siinä ruostunut. </em>
-    </p>
-    <p>
-      <em type="italic">Mutta jos saamme hyvin kalaa, </em>
-    </p>
-    <p>
-      <em type="italic">niin kyllä me sinulle tuomme rasvaa, </em>
-    </p>
-    <p>
-      <em type="italic">ja puhistamme sinut." </em>
-    </p>
-    <p>
-      <em type="italic">"Jos saamme peuroja, </em>
-    </p>
-    <p>
-      <em type="italic">niin suurimukset naamasarvet </em>
-    </p>
-    <p>
-      <em type="italic">me sinulle tuomme." </em>
-    </p>
-    <p>
-      <em type="italic">"Jos saamme kaloja, </em>
-    </p>
-    <p>
-      <em type="italic">suuren siian, </em>
-    </p>
-    <p>
-      <em type="italic">niin suurimuksen siianpään </em>
-    </p>
-    <p>tuomme sinulle."</p>
-    <p>– Vanhoja lauluja ja puheita seidoille S. Paulaharjun mukaan</p>
-    <p>Mikäli seita ei täyttänyt velvollisuuttaan palvojaa kohtaan, saattoi se saada rangaistuksen. Seidan syrjästä lyötiin pala irti, tuodut uhrilahjat vietiin pois tai seita poltettiin. Seita saattoi kuitenkin silloin näyttää mahtinsa. Samuli Paulaharju kertoo kirjassaan seuraavasta tapauksesta:</p>
-    <p>
-      <em type="italic">"Tenolainen sai lohta padostaan ja antoi osan seidallekin. Mutta sattuipa sitten niin, ettei luossaa tullut muutamaan päivään. Tenomies suuttui, meni ja piiskasi koivurisuilla jumalaansa ja pilkkasi: </em>
-    </p>
-    <p>
-      <em type="italic">"Et sie ole mikään jumala! </em>
-    </p>
-    <p>
-      <em type="italic">Vaikka mie olen sinua voijellut rasvalla, </em>
-    </p>
-    <p>
-      <em type="italic">et ole antanut kalaa." </em>
-    </p>
-    <p>
-      <em type="italic">Kun kalamies taas meni padolleen, niin kova tuulenpuska paiskasi veneen kumoon, ja ukko oli vähällä hukkua. Peloissaan kääpersi kalamies kiven luo pyytämään, ettei se enää olisi vihainen." </em>
-    </p>
-    <p>Tunnettuja seitoja Suomessa ovat mm. Ukko Inarijärvellä, Taatsin seita Kittilässä, kirkkopahta Muoniossa, Outakosken peuraseita Utsjoella ja Näkkälän seitakivi Enontekiöllä. Suuri osa seidoista on tuhottu järjestelmällisesti saamelaisia kristinuskoon käännytettäessä.</p>
-    <p type="title">Lähteet:</p>
-    <p>
-      <em type="bold">Itkonen, T. I. 1948. </em>
-    </p>
-    <p>Suomen lappalaiset vuoteen 1945. II osa. WSOY. Porvoo.</p>
-    <p>
-      <em type="bold">Paulaharju, S. 1932. </em>
-    </p>
-    <p>Seitoja ja seidan palvontaa. Suomalaisen kirjallisuuden seura.</p>
-    <p>
-      <em type="bold">Pennanen, J. &amp; Näkkäläjärvi, K. (toim.). 2000. </em>
-    </p>
-    <p>Siiddastallan – siidoista kyliin. Inarin saamelaismuseon julkaisuja n:o 3. Jyväskylä.</p>
-    <p>
-      <em type="bold">Pentikäinen J. 1995. </em>
-    </p>
-    <p>Saamelaiset. Pohjoisen kansan mytologia. Suomalaisen Kirjallisuuden Seuran Toimituksia 596. Hämeenlinna. 408 s.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Saamelainen maailmankuva ja mytologia - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>1471</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/ukonsaari/saamelainenmaailmankuvajamytologia?inheritRedirect=true</origFileName><parallel_text xml:lang="eng" location="thesamiworldviewandmythology.html"/><parallel_text xml:lang="sme" location="samiid-mailmmigovva-ja-mytologiija.html"/><parallel_text xml:lang="smn" location="sammilasmailmkovejamytologia.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Ukonsaari</p>
+<list><p type="listitem">Saamelainen maailmankuva ja mytologia</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Ailinpietin kalamaja</p>
+<p type="listitem">Berghamnin perinneympäristö</p>
+<p type="listitem">Gustavsvärnin linnoitus</p>
+<p type="listitem">Hauensuolen kalliopiirrokset</p>
+<p type="listitem">Heretyn metsätyökämppä</p>
+<p type="listitem">Huhtalan torppa</p>
+<p type="listitem">Hytermä</p>
+<p type="listitem">Iso Linnamäki</p>
+<p type="listitem">Ivalojoen Kultala</p>
+<p type="listitem">Jyppyrän peurahaudat</p>
+<p type="listitem">Kaapin Jounin tila</p>
+<p type="listitem">Kajaanin rauniolinna</p>
+<p type="listitem">Kalmosärkkä</p>
+<p type="listitem">Kappelniityn muinaisjäännösalue</p>
+<p type="listitem">Katanpään linnakesaari</p>
+<p type="listitem">Kolttien perinnetalo</p>
+<p type="listitem">Koroistenniemi</p>
+<p type="listitem">Korteniemen perinnetila</p>
+<p type="listitem">Koveron perinnetila</p>
+<p type="listitem">Kuhmon vaara-asutukset</p>
+<p type="listitem">Kurjenpolven hautausmaa</p>
+<p type="listitem">Kuusiston piispanlinnan rauniot</p>
+<p type="listitem">Kärnäkosken linnoitus</p>
+<p type="listitem">Käräjämäki</p>
+<p type="listitem">Langinkosken keisarillinen kalastusmaja</p>
+<p type="listitem">Latvavaaran tila</p>
+<p type="listitem">Lemmenjoen peurakuopat</p>
+<p type="listitem">Levävaaran tila</p>
+<p type="listitem">Liinmaan muinaislinna</p>
+<p type="listitem">Linnansaaren torppa</p>
+<p type="listitem">Lounatkoski</p>
+<p type="listitem">Luttojoen kolttakentät</p>
+<p type="listitem">Mattilan tila</p>
+<p type="listitem">Matti Mustan tupa</p>
+<p type="listitem">Ollilan ja Turulan tilat</p>
+<p type="listitem">Paimensaaren perinneympäristö</p>
+<p type="listitem">Pakasaivo ja Kirkkopahdan seitakivi</p>
+<p type="listitem">Petkeljärven puistonvartijan maja</p>
+<p type="listitem">Pielpajärven erämaakirkko</p>
+<p type="listitem">Pisamalahden linnavuori</p>
+<p type="listitem">Pitkäjärven metsätyökämppä</p>
+<p type="listitem">Päivääniemen kalmisto</p>
+<p type="listitem">Raappanan kammi</p>
+<p type="listitem">Raaseporin rauniolinna</p>
+<p type="listitem">Raja-Joosepin kenttä</p>
+<p type="listitem">Rapolan linnavuori</p>
+<p type="listitem">Ristinpelto</p>
+<p type="listitem">Rumakurun vanha kämppä</p>
+<p type="listitem">Rytivaaran kruununmetsätorppa</p>
+<p type="listitem">Rödjanin kalastajatila</p>
+<p type="listitem">Röytän luotsiasema</p>
+<p type="listitem">Sallivaaran poroerotuspaikka</p>
+<p type="listitem">Salpalinja, Änäkäinen</p>
+<p type="listitem">Seili</p>
+<p type="listitem">Suomujoen kolttakenttä</p>
+<p type="listitem">Suomunruoktun vanha kämppä</p>
+<p type="listitem">Svartholman merilinnoitus</p>
+<p type="listitem">Söderskär</p>
+<p type="listitem">Taatsin seita ja Taatsinkirkko</p>
+<p type="listitem">Telkkämäen perinnetila</p>
+<p type="listitem">Tiaisen torppa</p>
+<p type="listitem">Tiilikanaution tila</p>
+<p type="listitem">Täyssinän rauhan rajakivet</p>
+<p type="listitem">Ukonsaari</p>
+<p type="listitem">Ulko-Tammio</p>
+<p type="listitem">Untamalan muinaisjäännösalue</p>
+<p type="listitem">Vallisaari</p>
+<p type="listitem">Välimaan saamelaistila</p>
+<p type="listitem">Värikallio</p>
+<p type="listitem">Äkässaivo ja Seitapahta</p>
+<p type="listitem">Örön linnakesaari</p>
+</list><list><p type="listitem">Saamelainen maailmankuva ja mytologia</p>
+</list><p type="title">Saamelainen maailmankuva ja mytologia</p>
+<p type="title">Saamelainen maailmankuva ja mytologia</p>
+<p>Saamelaisten vanhaa uskomusmaailmaa ja perinteitä on ollut vaikea tutkia, sillä elämäntapa ja kulttuuri muuttuivat äkillisesti kristillisen käännytystyön ja muun valtiollisen toiminnan seurauksena 1600 – 1700-luvulla. Jonkin verran perimätietoa on saatu kerättyä, mutta useimmiten kerääjät olivat pappeja ja vieraan kulttuurin edustajia, joten tietoihin on suhtauduttava varauksella. Myös kansatieteelliset sekä arkeologiset tutkimukset ovat valottaneet vanhaa saamelaista henkistä kulttuuria.</p>
+<p type="title">Ihminen ja luonto ovat yhtä</p>
+<p>Saamelaisen maailmankuvan mukaan ihminen ja luonto olivat yhtä. Luonto on ollut saamelaisille koti, elämäntapa, historia ja tulevaisuus. Saamelaisten, kuten muidenkin pohjoisten kansojen maailmankatsomuksessa ihmisen ja luonnon tasapainosta riippuu kummankin osapuolen hyvinvointi. Koska ympäröivä luonto oli osa ihmistä, koettiin luonnon voima osaksi ihmisen voimaa. Ihmisen luontosuhteen heikkenemisestä ja tasapainon rikkoutumisesta seurasi ihmisen voiman väheneminen. Ympäröivää maailmaa kunnioitettiin ja sen eheyttä varjeltiin, jottei tasapaino järkkyisi.</p>
+<p>Siinä missä suomalaisen agraarikulttuurin näkemys oli, että ihmisen tulee joko alistua luonnolle tai ottaa se kristinuskon linjaa mukaillen herrana haltuun, pyrkivät saamelaiset sopeutumaan luontoon muuttamatta sitä. Luonnonvaroja käytettiin vain sen verran kuin oli välttämätöntä, sillä hengissä pysymisen ymmärrettiin riippuvan luonnonvarojen uusiutumisesta. Myös nykysaamelaisessa ajattelutavassa on suurelta osin säilynyt käsitys ihmisen ja luonnon yhteydestä sekä keskinäisestä riippuvuussuhteesta.</p>
+<p type="title">Shamanismi ja rituaalit</p>
+<p>Erilaiset rituaalit auttoivat pitämään yllä suhdetta ihmisen sisäiseen ja ihmistä ympäröivään maailmaan sekä yksilön että yhteisön tasolla. Toimimalla tietyllä tavalla sekä noudattamalla käyttäytymismalleja ja sääntöjä ajateltiin voitavan vaikuttaa luontoon ja ihmisen elinolosuhteisiin. Luonnonpalvonta oli saamelaisten henkisessä perinteessä tärkeässä osassa. Jumalolennot olivat luonnonhaltijoita, kuten ukkosen-, tuulen-, veden- ja pyynninjumala. Suurin osa saamelaisten seremonioista ja rituaaleista liittyi elannon hankkimiseen, erityisesti metsästykseen ja kalastukseen. Uhrilahjojen avulla pyydettiin hyvää saalista, ja kun luonto soi antimiaan, siitä vastavuoroisesti kiitettiin lahjoin.</p>
+<p>Saamelainen shamanismi on ollut tapa hahmottaa maailmaa ja toimia siinä. Maailman rakenne koostui kolmesta tasosta: alisesta, keskisestä ja ylisestä. Alisessa asuivat vainajat ja maahiset, keskisessä ihmiset ja haltijat ja ylisessä jumalat. Shamaani, pohjoissaameksi noaidi, oli saamelaisyhteisön tärkein jäsen, joka piti yllä maailmanjärjestystä ihmisten keskuudessa. Noidan tehtävänä oli edistää yhteisön hyvinvointia. Hän oli yhteydessä tuonpuoleiseen maailmaan, paransi sairaita ja ennusti tulevaisuutta. Hän toimi metsästyksen ja kalastuksen turvaamiseksi, nautinta-alueiden suojelemiseksi ja huolehti luonnonvaroista. Noidan tärkein rituaaliesine oli noitarumpu, jonka poron nahasta viritetylle kalvolle oli piirretty myyttisiä kuvioita. Noita lankesi loveen rummun avulla ja hänen sielunsa lähti eläimen hahmossa suorittamaan tehtäviään. Valtiovalta ja kirkko tuhosivat tai takavarikoivat ja veivät pois saamelaisalueelta monet saamelaisrummuista. Nykyään suurin osa hävitykseltä säästyneistä saamelaisrummuista on talletettu ulkomaisiin museoihin.</p>
+<p type="title">Jumalia ja luonnonhaltijoita</p>
+<p>Ukko (tunnettu saameksi mm. nimillä Äijih, Dearpmes ja Horagállis) oli saamelaisten tärkein jumalhahmo. Ukko antoi ihmisille elämän ja suojeli heidän terveyttään. Pilvien haltijana hän varjeli ihmisiä pahoilta hengiltä heidän lähtiessä kalastamaan ja metsästämään. Inarinsaamelaisilla oli Inarijärvellä useita Ukko-nimisiä pyhiä palvontapaikkoja, tunnetuimmat niistä Ukonselällä ja Ukonjärvellä. Ukolla oli vaimo Akka, inarinsaameksi Ákku. Perinteen mukaan Ukko ja Ákku muodostivat parin. Tästä esimerkkeinä ovat mm. Inarijärven Ukonsaari ja Kalkuvaara (Kálguváári, kálgu = vaimo) sen läheisyydessä, sekä Ukonjärven Ukko ja Ákku.</p>
+<p>T. I. Itkonen kirjoittaa Suomen lappalaiset – teoksessaan Ukosta:</p>
+<p><em type="italic">"Ukkosella on vasara, jolla se iskee pahoja henkiä päähän. Ukkonen antaa ihmisille elämän, suojelee heidän terveyttään niin, ettei kuolemakaan heitä uhkaa hänen tahtomattaan. Koska pahat henget vahingoittavat lappalaisten metsänkäyntiä ja kalastusta ja Ukkonen antaa niille ansaitun rangaistuksen, palvovat ihmiset häntä ennen muita (jumalia). – – Koillis-Inarin porolappalaiset nimittävät Ukkosta 'pilvien haltijaksi', joka tulee puhdistamaan ilmaa taudeista. Päjän-äd'dä (Ukkos-äijä) ajaa valkealla pilvellä, selässään laukku, jossa on nuolia eli salamoita, ja kädessään kaksi onttoa esinettä, ikään kuin puukupit, joita yhteenlyödessä syntyy jyrinä. Hän lähettää sateen, jott'eivät salamat polttaisi maata." </em></p>
+<p>Akasta Itkonen kirjoittaa:</p>
+<p><em type="italic">"Ukon puoliso oli Akka (Ákku). Tämän asuinpaikka, ei niin pyhä ja palvottu kuin Ukko, on korkea samanniminen vaara Inarijärven lounaisrannalla, sen ja Ukonjärven välissä. Ukonsaaresta luultiin käytävän johtavan järven alitse Akkuun, jota myöten nuo korkeat puolisot puhelivat toisilleen." </em></p>
+<p>Tuulenjumala, Biegga-almmái, hallitsi tuulta ja oli merkittävä erityisesti siksi, että hän saattoi kuljettaa poroja laittamalla tuulen puhaltamaan jatkuvasti samalta suunnalta. Tuulenjumalalle on uhrattu mm. Inarin Tuulispäällä, noin kymmenen kilometrin päässä Inarin kirkonkylästä. Aurinkoa hallitsi Beaivváš, jolle uhrattiin juhannuksena ja syksyisin. Vedenjumalalta, Čáhcealmmái, toivottiin mitä kulloinkin haluttiin, esimerkiksi rahoja, peuroja, kaloja tai majavia. Máttáráhkká oli elämän äiti ja hänen kolme tytärtään Sáráhkká, Uksáhkká ja Juksáhkká muita merkittäviä saamelaisia erityisesti naiseuteen, synnytykseen ja kotaan liittyneitä jumalattaria.</p>
+<p>Tunnetuimpia saamelaisia haltijoita ja luonnonhenkiä olivat muiden muassa kodin-, veden- ja metsänhaltijat, ihmiselle vihamielinen stállu, ihmisiä syövä ja verta imevä vuovru, lintujen suojelijatar loddedžan, lapsia pelottelevat lávvaráddjá ja skuŋká sekä maan alla asustelevat tšahkkal-menninkäiset, gufihttaret ja uldat. Saamelaisessa mytologiassa haltijoita ja henkiolentoja oli paljon, sillä luonnossa kaikella oli haltijansa.</p>
+<p type="title">Seidat</p>
+<p><em type="italic">"Lappalaiset palvelivat kiviä, panivat niitä jumaliksi ja </em></p>
+<p><em type="italic">voitelivat kalanrasvalla ja poronkuulla, sillä ihmisen suku </em></p>
+<p><em type="italic">on sellaista, että pitää palvella jotakin, vaikka ei Jumalasta </em></p>
+<p><em type="italic">tiijä mitään." </em></p>
+<p>– Vanha saamelaismies S. Paulaharjun mukaan</p>
+<p>Seita (saameksi sieidi) eli palvontapaikka oli tärkeässä osassa saamelaisten rituaaleissa. Palvontapaikat olivat useimmiten ympäristöstään jollain tavalla erottuvia ja poikkeavia luonnonmuodostelmia - korkeita kallioita, suuria kiviä, kantoja, puupylväitä, saaria, lähteitä tai tunturin huippuja. Kiviseidat olivat puuseitoja yleisempiä ja niitä pidettiin pyhempinä. Siidoilla, eli saamelaisten kyläyhteisöillä oli omat seitansa, mutta yhtä lailla seitoja oli myös suvuilla, perheillä ja yksittäisillä ihmisillä. Kalastajilla, metsästäjillä ja poronhoitajilla oli omat palvontapaikkansa: kalaseidat, peuraseidat ja poroseidat. Kalaseidat sijaitsivat vesien äärellä, metsä- ja poromiesten seidat useimmiten vaarassa tai tunturissa. Oli myös seitoja, joilta saatettiin pyytää apua monenlaiseen tarpeeseen elinkeinosta riippumatta. Seitojen merkitys saattoi muuttua toiseksi aikojen kuluessa ja elinkeinojen muuttuessa. Ihmiset kävivät yleensä palvomassa seitoja asuinpaikkansa lähellä, mutta esimerkiksi Kittilän mahtavaa Taatsin seitaa tultiin palvomaan pitkienkin matkojen päästä.</p>
+<p>Seidoille uhrattiin, sillä tiedettiin, että luonnonvoimat vaikuttavat ihmisten pyyntionneen. Pääsääntöisesti vain miehet saivat harjoittaa uhrausmenoja, mutta naisille tiedetään myös olleen omia uhripaikkoja, esimerkiksi Inarijärven Naarassaaret. Suuren pyhyyden vuoksi seitaa tuli lähestyä kunnioittaen. Ennen pyyntiin lähtöä mentiin seidalle anomaan suopeutta ja apua. Seidalta saatettiin myös kysyä neuvoja esimerkiksi siitä, minne päin olisi mentävä. Sille lueteltiin paikannimiä, ja mitä nimeä mainitessa seita liikahti, sinne päin lähdettiin. Seitaa voideltiin kalojen ja eläinten rasvalla ja verellä ja esitettiin pyynnöt. Mikäli saalista tulisi, luvattiin seidalle tuoda vastavuoroisesti osa siitä kiitokseksi. Kalaseitaa kiitettiin tuomalla sille lahjaksi kalojen päitä tai kokonaisia kaloja, ja sitä voideltiin kalojen rasvalla, suolilla ja suljulla. Peuraseidalle tuotiin peuran sarvet, pää tai joskus jopa koko eläin ja sitä voideltiin peuran rasvalla ja verellä. Poroseidalle tuotiin parhaiden ajokkaiden pudottamia sarvia, poron luita, kalloja ja taljoja. Uudempina aikoina seidoille on uhrattu myös viinaa, tupakkaa, voita, rahaa ja muita arvoesineitä. Ajateltiin, että seita saa mahtia uhreistaan ja luo sille uhratuista eläimistä uusia eläimiä.</p>
+<p><em type="italic">"On huono sää. </em></p>
+<p><em type="italic">Veämme nyt palvoskalaa. </em></p>
+<p><em type="italic">Jos saamme hyvin kalaa, </em></p>
+<p><em type="italic">niin kyllä voijamme sinut rasvalla. </em></p>
+<p><em type="italic">Kyllä sinä, raukka, olet siinä ruostunut. </em></p>
+<p><em type="italic">Mutta jos saamme hyvin kalaa, </em></p>
+<p><em type="italic">niin kyllä me sinulle tuomme rasvaa, </em></p>
+<p><em type="italic">ja puhistamme sinut." </em></p>
+<p><em type="italic">"Jos saamme peuroja, </em></p>
+<p><em type="italic">niin suurimukset naamasarvet </em></p>
+<p><em type="italic">me sinulle tuomme." </em></p>
+<p><em type="italic">"Jos saamme kaloja, </em></p>
+<p><em type="italic">suuren siian, </em></p>
+<p><em type="italic">niin suurimuksen siianpään </em></p>
+<p>tuomme sinulle."</p>
+<p>– Vanhoja lauluja ja puheita seidoille S. Paulaharjun mukaan</p>
+<p>Mikäli seita ei täyttänyt velvollisuuttaan palvojaa kohtaan, saattoi se saada rangaistuksen. Seidan syrjästä lyötiin pala irti, tuodut uhrilahjat vietiin pois tai seita poltettiin. Seita saattoi kuitenkin silloin näyttää mahtinsa. Samuli Paulaharju kertoo kirjassaan seuraavasta tapauksesta:</p>
+<p><em type="italic">"Tenolainen sai lohta padostaan ja antoi osan seidallekin. Mutta sattuipa sitten niin, ettei luossaa tullut muutamaan päivään. Tenomies suuttui, meni ja piiskasi koivurisuilla jumalaansa ja pilkkasi: </em></p>
+<p><em type="italic">"Et sie ole mikään jumala! </em></p>
+<p><em type="italic">Vaikka mie olen sinua voijellut rasvalla, </em></p>
+<p><em type="italic">et ole antanut kalaa." </em></p>
+<p><em type="italic">Kun kalamies taas meni padolleen, niin kova tuulenpuska paiskasi veneen kumoon, ja ukko oli vähällä hukkua. Peloissaan kääpersi kalamies kiven luo pyytämään, ettei se enää olisi vihainen." </em></p>
+<p>Tunnettuja seitoja Suomessa ovat mm. Ukko Inarijärvellä, Taatsin seita Kittilässä, kirkkopahta Muoniossa, Outakosken peuraseita Utsjoella ja Näkkälän seitakivi Enontekiöllä. Suuri osa seidoista on tuhottu järjestelmällisesti saamelaisia kristinuskoon käännytettäessä.</p>
+<p type="title">Lähteet:</p>
+<p><em type="bold">Itkonen, T. I. 1948. </em></p>
+<p>Suomen lappalaiset vuoteen 1945. II osa. WSOY. Porvoo.</p>
+<p><em type="bold">Paulaharju, S. 1932. </em></p>
+<p>Seitoja ja seidan palvontaa. Suomalaisen kirjallisuuden seura.</p>
+<p><em type="bold">Pennanen, J. &amp; Näkkäläjärvi, K. (toim.). 2000. </em></p>
+<p>Siiddastallan – siidoista kyliin. Inarin saamelaismuseon julkaisuja n:o 3. Jyväskylä.</p>
+<p><em type="bold">Pentikäinen J. 1995. </em></p>
+<p>Saamelaiset. Pohjoisen kansan mytologia. Suomalaisen Kirjallisuuden Seuran Toimituksia 596. Hämeenlinna. 408 s.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

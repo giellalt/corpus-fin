@@ -1,47 +1,25 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamenkieliset sosiaali- ja terveyspalvelut v. 2008</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>280</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=35&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=35_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamenkieliset sosiaali- ja terveyspalvelut v. 2008</p>
-    <p>Saamelaiskäräjät ja saamelaisalueen kunnat ovat sopineet saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseksi osoitetun 600.000 euron valtionavustuksen käytöstä vuonna 2008.</p>
-    <p>Saamelaisten kielellisten ja kulttuuristen oikeuksien toteuttamiseksi on valtion talousarviossa ollut vuodesta 2002 lähtien erillinen valtionavustus. Valtionavustus maksetaan Saamelaiskäräjien kautta saamelaisten kotiseutualueen kunnille. Saamelaisalueen kuntien esittämä määrärahantarve saamenkielisiin sosiaali- ja terveyspalveluihin oli vuodelle 2008 yhteensä 1.051.000 euroa. 600 000 euron valtionavustus jakautui saamelaisalueen kuntien kesken seuraavasti:</p>
-    <p>Enontekiön kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä</p>
-    <p xml:lang="ron">77 000 euroa:</p>
-    <p>- Saamenkielisen päivähoidon turvaaminen Hetassa 32 000 €</p>
-    <p>- Saamenkielinen kotiavustaja ostopalveluna 20 000 €</p>
-    <p>- Saamenkielinen kehittäjä-sosiaalityöntekijä 25 000 €</p>
-    <p>Inarin kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä</p>
-    <p xml:lang="ron">319 455 euroa:</p>
-    <p>- Inarin pohjoissaamenkielisen ryhmäperhepäiväkodin toiminnan turvaaminen 44 790 €</p>
-    <p>- Ivalon pohjoissaamenkielisen ryhmäperhepäiväkodin toiminnan turvaaminen 33 390 €</p>
-    <p>- Inarinsaamen kielipesä 64 000 €</p>
-    <p>- Koltansaamenkielinen terveydenhoitaja/palveluneuvoja Sevettijärven alueelle 26 825 €</p>
-    <p>- Koltansaamenkielinen kotipalvelutyöntekijä Sevettijärven alueelle 31 550 €</p>
-    <p>- Pohjoissaamen/inarinsaamenkielinen/koltansaamenkielinen lähihoitaja</p>
-    <p xml:lang="fkv">(Männikön palvelukoti)  30 000 €</p>
-    <p>- Koltansaamenkielinen kylätyöntekijä Sevettijärven alueelle 20 000 €</p>
-    <p>- Pohjoissaamen/inarinsaamenkielinen/koltansaamenkielinen lähihoitaja (terveyskeskus)</p>
-    <p xml:lang="koi">33 000 €</p>
-    <p>- Ivalon koltansaamenkielinen kielipesä 35 900 €</p>
-    <p>Sodankylän kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä</p>
-    <p xml:lang="ron">59 545 euroa:</p>
-    <p>- Saamenkielinen lähihoitaja Sodankylän keskustan koti- ja laitoshoidossa oleville saamenkielisille vanhuksille sekä saamenkielisten terveyspalvelujen tarjoamiseksi Vuotson alueella sekä saamenkielinen seniorityöntekijä Vuotson alueelle 35 000 € - Saamen kielipesä Biedju 24 545 € Utsjoen kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä 144 000 euroa: - Saamenkielisen päivähoidon turvaaminen Utsjoen kirkonkylässä 56 000 € - Saamenkielinen perhetyö 28 000 € - Karasjoen kriisi- ja insestikeskuksen sopimuksen jatkaminen 1000 € - Auttaja-Aslak –toiminta 44 000 € - Hoivatyöntekijä 15 000 € Lisätietoja: Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät, 016-665036, 040-7262688,</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamenkieliset sosiaali- ja terveyspalvelut v. 2008</title><genre code="admin"/><author><unknown/></author><wordcount>280</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=35&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=35_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamenkieliset sosiaali- ja terveyspalvelut v. 2008</p>
+<p>Saamelaiskäräjät ja saamelaisalueen kunnat ovat sopineet saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseksi osoitetun 600.000 euron valtionavustuksen käytöstä vuonna 2008.</p>
+<p>Saamelaisten kielellisten ja kulttuuristen oikeuksien toteuttamiseksi on valtion talousarviossa ollut vuodesta 2002 lähtien erillinen valtionavustus. Valtionavustus maksetaan Saamelaiskäräjien kautta saamelaisten kotiseutualueen kunnille. Saamelaisalueen kuntien esittämä määrärahantarve saamenkielisiin sosiaali- ja terveyspalveluihin oli vuodelle 2008 yhteensä 1.051.000 euroa. 600 000 euron valtionavustus jakautui saamelaisalueen kuntien kesken seuraavasti:</p>
+<p>Enontekiön kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä</p>
+<p xml:lang="ron">77 000 euroa:</p>
+<p>- Saamenkielisen päivähoidon turvaaminen Hetassa 32 000 €</p>
+<p>- Saamenkielinen kotiavustaja ostopalveluna 20 000 €</p>
+<p>- Saamenkielinen kehittäjä-sosiaalityöntekijä 25 000 €</p>
+<p>Inarin kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä</p>
+<p xml:lang="ron">319 455 euroa:</p>
+<p>- Inarin pohjoissaamenkielisen ryhmäperhepäiväkodin toiminnan turvaaminen 44 790 €</p>
+<p>- Ivalon pohjoissaamenkielisen ryhmäperhepäiväkodin toiminnan turvaaminen 33 390 €</p>
+<p>- Inarinsaamen kielipesä 64 000 €</p>
+<p>- Koltansaamenkielinen terveydenhoitaja/palveluneuvoja Sevettijärven alueelle 26 825 €</p>
+<p>- Koltansaamenkielinen kotipalvelutyöntekijä Sevettijärven alueelle 31 550 €</p>
+<p>- Pohjoissaamen/inarinsaamenkielinen/koltansaamenkielinen lähihoitaja</p>
+<p xml:lang="fkv">(Männikön palvelukoti)  30 000 €</p>
+<p>- Koltansaamenkielinen kylätyöntekijä Sevettijärven alueelle 20 000 €</p>
+<p>- Pohjoissaamen/inarinsaamenkielinen/koltansaamenkielinen lähihoitaja (terveyskeskus)</p>
+<p xml:lang="vep">33 000 €</p>
+<p>- Ivalon koltansaamenkielinen kielipesä 35 900 €</p>
+<p>Sodankylän kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä</p>
+<p xml:lang="ron">59 545 euroa:</p>
+<p>- Saamenkielinen lähihoitaja Sodankylän keskustan koti- ja laitoshoidossa oleville saamenkielisille vanhuksille sekä saamenkielisten terveyspalvelujen tarjoamiseksi Vuotson alueella sekä saamenkielinen seniorityöntekijä Vuotson alueelle 35 000 € - Saamen kielipesä Biedju 24 545 € Utsjoen kunnan saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseen yhteensä 144 000 euroa: - Saamenkielisen päivähoidon turvaaminen Utsjoen kirkonkylässä 56 000 € - Saamenkielinen perhetyö 28 000 € - Karasjoen kriisi- ja insestikeskuksen sopimuksen jatkaminen 1000 € - Auttaja-Aslak –toiminta 44 000 € - Hoivatyöntekijä 15 000 € Lisätietoja: Pia Ruotsala, sosiaali- ja terveyssihteeri, Saamelaiskäräjät, 016-665036, 040-7262688,</p>
+</body></document>

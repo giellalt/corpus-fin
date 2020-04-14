@@ -1,384 +1,251 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Pohjoissaame, äidinkieli</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1220</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=124&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=124_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=124_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=124_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Pohjoissaame, äidinkieli</p>
-    <p><em type="italic">Petra Kuuva </em> , <em type="italic">Bigga-Helena Magga </em> , <em type="italic">Tiina Sanila-Aikio, Petter Morottaja </em> </p>
-    <p>kuvitus <em type="italic">Sunna Kitti  </em></p>
-    <p><em type="italic">Dieppe dáppe </em>  <em type="italic"> </em> </p>
-    <p>
-      <em type="italic">Ovdaskuvlla buđaldallangirji  </em>
-    </p>
-    <p><em type="italic">12,00 € </em> </p>
-    <p>sivuja: 96</p>
-    <p>ISBN 978-952-441-314-5</p>
-    <p>Saamelaiskäräjät 2015</p>
-    <p><span type="quote">“Esikoululaisen puuhakirja”</span> ilmestyi samaan aikaan kaikilla kolmella Suomessa puhutulla saamenkielellä. Kirjan ystävykset Eeʹled, Uábbee ja Sámmol kyläilevät toistensa kotiseuduilla ja kertovat toisilleen omaan kulttuuripiiriinsä kuuluvista asioista. <em type="italic">Eeʹled </em>on koltansaamenkielinen tyttö, <em type="italic">Uabbee </em>inarinsaamenkielinen tyttö ja <em type="italic">Sámmol </em>on pohjoisaamenkielinen poika. </p>
-    <p>Kirjan tarinoiden lähtökohtana ovat saamelaisten kahdeksan vuodenaikaa töineen ja tapahtumineen. Kirjan johtoajatuksena on ollut, että Suomen kolme saamelaisryhmää elävät rinnakkain ja haluavat välittää rikasta kulttuuriperintöään ja perinnetietouttaan myös muille.</p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Johanna Kiiski </em> , <em type="italic">Laura Pursiainen  </em>, <em type="italic">Päivi Hakkarainen </em> saameksi <em type="italic">Jaana Ruokolainen  </em></p>
-    <p>Julkaisija: Oppimis- ja ohjauskeskus <em type="italic">Mikael-koulu </em> 2015 </p>
-    <p><em type="italic">Muorjedievvá 1  </em> </p>
-    <p><em type="italic">Äidinkielen lisämateriaali  </em><em type="italic">kielen opetukseen, erityisopetukseen ja kielikylpyopetukseen. </em> </p>
-    <p>Oppimateriaalin tarkoituksena on lisätä lapsen sanavarastoa, tukea hänen kertomistaitojaan ja auttaa kehittämään nimeämistaitoja. Harjoituskirja on tarkoitettu 5-10 –vuotiaille lapsille.</p>
-    <p>Materiaaliin kuuluu vihkonen sekä kuvasalkku.</p>
-    <p>Saamelaiskäräjät jakaa materiaalia ilmaiseksi saamenopetukseen Suomessa.</p>
-    <p><em type="italic">20 </em> <em type="italic">,00 € </em> </p>
-    <p>ISBN 978-952-5819-48-9</p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Toivo West, </em>kuvitus <em type="italic">Outi Pieski, </em>ulkoasu <em type="italic">Studio Borga/Minna Saastamoinen </em> </p>
-    <p><em type="italic">Mu giella 4  </em> <em type="italic">Äidinkielen oppimateriaali peruskoulun 4. luokalle  </em></p>
-    <p>Kirjassa on 10 kappaletta, viisi kielioppiosaa ja viisi muuta kielen oppimisen kannalta tärkeää osaa. Oppikirjan kertomukset on tarkoitettu ohjenuoraksi oppitunneille.</p>
-    <p><em type="italic">25,00 € </em> </p>
-    <p>sivuja: 198</p>
-    <p>ISBN 978-952-441-296-4</p>
-    <p>Saamelaiskäräjät 2014</p>
-    <p>Kertomus Johanas –pojan seikkailuista kulkee läpi koko kirjan. Erilaisten tekstien tarkoituksena on vahvistaa oppilaan kielitaitoa. Teksteihin liittyy sanojen selityksiä ja kuvia, joiden tarkoituksena on laajentaa oppilaan sanavarastoa.</p>
-    <p><em type="italic">Mu giella 4 Bargogirji  </em> </p>
-    <p><em type="italic">1 </em> <em type="italic">5,00 € </em> </p>
-    <p>sivuja: 152</p>
-    <p>ISBN 978-952-441-297-1</p>
-    <p>Saamelaiskäräjät 2015</p>
-    <p>Tämä työkirja on tarkoitettu käytettäväksi yhdessä saamenkielen oppikirjan Mu giella 4 ohessa. Suurin osa harjoituksista tehdään työkirjaan, mutta tarvitset myös vihon pitempiä kirjoituksia varten. Ennen kuin alat tehdä työkirjan tehtäviä, lue teksti ja ohjeet oppikirjan sivuilta.</p>
-    <p>Työkirjassa on myös noppapelejä, joita varten tarvitaan nopat ja nappeja.</p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p>
-      <em type="italic">Äidinkielen oheismateriaali </em>
-    </p>
-    <p><em type="italic">Matti Morottaja  </em>, kuvitus <em type="italic">Sirpa Mänty  </em>, pohjoissaamen sanat <em type="italic">Kaisa Tapiola-Länsman  </em></p>
-    <p type="title">Oahpa sániid</p>
-    <p><em type="italic">15,00 € </em> </p>
-    <p>ISBN 978-952-441-303-9</p>
-    <p>2. painos</p>
-    <p>Saamelaiskäräjät 2014</p>
-    <p>- kuvasanakirja on pohjoisaamenkielelle sovitettu käännös <em type="italic">Matti Morottajan  </em>inarinsaamenkielisestä <em type="italic">Oopâ saanijd </em> -kirjasta. Kirjassa on selitetty kuvin noin 500 saamen kielen sanaa. Kirjan lopussa on lisäksi aihepiireittäin jaoteltu sanasto. Esimerkiksi verbien selittäminen kuvien avulla voi olla vaikeaa, joten niitä on lisätty sanastoon myös suomeksi käännettynä. </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Elna Magga </em>ja <em type="italic">Päivikki Nillukka-Rauhala </em>, kuvitus <em type="italic">Merja Aletta Ranttila </em> </p>
-    <p type="title">Giellaleaika</p>
-    <p>
-      <em type="italic">Äidinkielen oppimateriaali  </em>
-    </p>
-    <p>
-      <em type="italic">peruskoulun 2. luokalle  </em>
-    </p>
-    <p><em type="italic">Giđđagirji - </em>  kevätkirja </p>
-    <p>sivuja: 140</p>
-    <p><em type="italic">12,00 € </em> </p>
-    <p>ISBN 978-952-441-191-2</p>
-    <p>Saamelaiskäräjät 2010</p>
-    <p><em type="italic">Giellaleaika čakčagirji - syyskirjaan </em> on lisätty uusia lukukappaleita ja harjoituksia. Kirjan lopussa on oppimispäiväkirja sekä ohjeita kuva-analyysin tekemiseen. Takakannen sisäpuolella on lisäkysymyksiä, joiden avulla voi syventää tekstin ymmärtämistä ja kielen oppimista. </p>
-    <p>sivuja: 131</p>
-    <p><em type="italic">15,00 € </em> </p>
-    <p>ISBN 978-952-441-294-0</p>
-    <p>uudistettu 3. painos, <em type="italic">Saamelaiskäräjät 2014 </em></p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="bold">Marjaana Aikio, Helmi Länsman, Maarit Magga   </em>ja   <em type="bold">Elen Anne Sara,   </em>graafinen suunnittelu <em type="bold">Svea Päiviö </em></p>
-    <p type="title">Giela geainnut - Logahaga eatnigiella</p>
-    <p>
-      <em type="bold">Pohjoissaamenkielinen äidinkielen oppimateriaali lukiolaisille  </em>
-    </p>
-    <p><em type="italic">Giela geainnut 1 </em> sisältää </p>
-    <p>lukion 1. kurssin opintokokonaisuuden, jonka teemoina ovat suullinen ja kirjoitettu kieli sekä tekstin ymmärtäminen. Kurssin kielioppiosassa käsitellään verbien taivutus. Termit selitetään kirjan lopussa. Kirja sisältää myös harjoitustehtäviä ja esimerkkitekstejä.</p>
-    <p type="title">Giela geainnut 1</p>
-    <p>sivuja: 150</p>
-    <p>koko: 19 x 24 cm, pehmeäkantinen</p>
-    <p><em type="italic">1 8,00 €  </em> </p>
-    <p>ISBN 978-952-441-235-3</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2012 </em>
-    </p>
-    <p><em type="italic">Giela geainnut 2 </em> sisältää </p>
-    <p>lukion 2. kurssin opintokokonaisuuden.</p>
-    <p>Keskeisiä teemoja ovat teksti kokonaisuutena, kirjallisuus ja kielenhuolto. Kielioppiosassa käsitellään konjunktiot sekä relatiivi- ja interrogatiivipronominit. Kirjassa käytetyt termit selitetään kirjan lopussa. Kirja sisältää myös harjoitustehtäviä ja esimerkkitekstejä.</p>
-    <p type="title">Giela geainnut 2</p>
-    <p>sivuja: 161</p>
-    <p>koko: 19 x 24 cm, pehmeäkantinen</p>
-    <p>
-      <em type="italic">1 8,00 €  </em>
-    </p>
-    <p>ISBN 978-952-441-283-4</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2014 </em>
-    </p>
-    <p>
-      <em type="italic">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Kaaren Kitti </em> , </p>
-    <p>kuvat <em type="italic">Merja Aletta Ranttila  </em></p>
-    <p type="title">Gollegiellan</p>
-    <p>
-      <em type="italic">Äidinkielen oppimateriaali  </em>
-    </p>
-    <p>
-      <em type="italic">peruskoulun 3. luokalle  </em>
-    </p>
-    <p><em type="italic">Čakčagirji </em>- syksykirja  </p>
-    <p>pohjautuu saamelaiseen tarinaperinteeseen ja saamenkieliseen kirjallisuuteen.</p>
-    <p>sivuja: 136</p>
-    <p><em type="italic">18,00 € </em> </p>
-    <p>ISBN 978-952-441-241-4</p>
-    <p>
-      <em type="italic">Valtion painatuskeskus 1992, Saamelaiskäräjät 2013 </em>
-    </p>
-    <p><em type="italic">Gollegiellan - Giđđagirji -   </em>kevätkirja </p>
-    <p>Kevätkirjaan on otettu mukaan kaikki äidinkielen opetussuunnitelmaan kuuluvat asiat. Pääpäinon saavat kuitenkin sanaluokat - verbit, substantiivit, adjektiivit ja numeraalit. Gollegiellan on sekä teksti- että harjoituskirja.</p>
-    <p>sivuja: 133</p>
-    <p><em type="italic">15,00 € </em> </p>
-    <p>ISBN 978-925-441-214-8</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2010 </em>
-    </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Oahptii Iŋgá -   Inga Guttorm, </em> </p>
-    <p/>
-    <p>kuvitus <em type="italic">Salli Parikka, </em>graafinen suunnittelu <em type="italic">Studio Borga - Minna Saastamoinen </em> </p>
-    <p type="title">Áppes Min meahci máidnasat</p>
-    <p>
-      <em type="bold">Aapinen Metsiemme tarinoita </em>
-    </p>
-    <p>
-      <em type="bold">30,00 € </em>
-    </p>
-    <p>Inga Guttorm on työskennellyt vuosia saamenkielisen alkuopetuksen parissa Utsjoella. Kirjan kuvittaja Salli Parikka (Wahlberg) on kuvittanut monia lapsille ja nuorille tarkoitettuja kirjoja. Taittaja Minna Saastamoinen on pohjoissaamen-kielentaitoisena palvellut oppikirjakustantajia myös Norjassa.</p>
-    <p>Edellinen aapinen, Áppes 1 ja 2, julkaistiin Suomessa 1970-luvulla.</p>
-    <p>sivuja 128, koko 21,4 x 28,5 cm, kovakantinen</p>
-    <p>ISBN 978-952-441-219-3</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2010 </em>
-    </p>
-    <p><em type="italic">B </em> <em type="italic">argogirji čakčii </em>  </p>
-    <p>(syksyn työkirja)</p>
-    <p>sivuja: 96</p>
-    <p>pehmeäkantinen, sisus 4-värinen</p>
-    <p><em type="italic">20,00 € </em> </p>
-    <p>ISBN 978-952-441-227-8</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2011 </em>
-    </p>
-    <p><em type="italic">Bargogirji giđđii </em> </p>
-    <p>(kevään työkirja)</p>
-    <p>sivuja: 126</p>
-    <p><em type="italic">20,00 € </em> </p>
-    <p>ISBN 978-952-441-245-2</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2012 </em>
-    </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Jovnna-Ánde Vest </em> , kannen kuva <em type="italic">Tiia Semenoff  </em></p>
-    <p type="title">Sámi synonymat</p>
-    <p><em type="italic">Pohjoissaamen synonyymisanakirja </em> </p>
-    <p>sivuja: 221</p>
-    <p><em type="italic">12,00 € </em> </p>
-    <p>ISBN 978-952-441-205-6</p>
-    <p>3. painos</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2010 </em>
-    </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Toivo West  </em>, kuvitus <em type="italic">Outi Pieski </em> ja <em type="italic">Salla-Mari West  </em>, layout <em type="italic">Rannveig Persen  </em></p>
-    <p><em type="italic">Mu giella 5 - 6 -  </em>  <em type="italic">äidinkielen oppimateriaali 5. ja 6. luokkien oppilaille.   </em> </p>
-    <p><em type="italic">25,00 € </em> </p>
-    <p>Tekstikirja sisältää kaikki äidinkielen opiskelun osa-alueet kuten kieli ymmärtämisen ja oppimisen välineenä, kielioppi, kirjallisuus, kielen kehittyminen, kirjoitus, kielen muuttuminen, draama, media ja kielenhuolto. Sarjaan kuuluu tekstikirjan lisäksi kaksi työkirjaa sekä äänite.</p>
-    <p>Oppilas käyttää tekstikirjaa kaksi vuotta, ja molempia vuosia varten on oma työkirja. Osa harjoituksista tehdään vihkoon tai piirustuspaperille, osa taas ryhmätöinä, esim. keskusteluharjoitukset sekä pelit.</p>
-    <p>sivuja: 208</p>
-    <p>ISBN 978-952-441-186-8</p>
-    <p type="title">Mu giella 5-6 Jietnačájánasat CD</p>
-    <p>sisältää yhteensä 25 näytettä inarin- ja koltansaamenkielistä sekä pohjoissaamen eri murteista. Työkirjoissa on äänitteisiin liittyviä tehtäviä.</p>
-    <p><em type="italic">5,00 € </em> </p>
-    <p>
-      <em type="italic">Bargogirji  5  </em>
-    </p>
-    <p>Työkirja 5</p>
-    <p>sivuja: 195</p>
-    <p><em type="italic">20,00 € </em> </p>
-    <p>ISBN 978-952-441-187-5</p>
-    <p>Saamelaiskäräjät 2010</p>
-    <p/>
-    <p type="title">Bargogirji 6</p>
-    <p>Työkirja 6</p>
-    <p>sivuja: 172</p>
-    <p><em type="italic">20,00 € </em> </p>
-    <p>ISBN 978-952-441-188-2</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2010 </em>
-    </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Äidinkielen oheismateriaali - </em>Kouluradion sarja </p>
-    <p><em type="italic">Siiri Miettunen ja Ritva Torikka </em> </p>
-    <p><em type="italic">Lodderáidalas  </em> </p>
-    <p>11 radioohjelmaa</p>
-    <p>2 CD-äänitettä</p>
-    <p>taso: alakoulu</p>
-    <p><em type="italic">4,00 € </em> </p>
-    <p>Materiaaliin kuuluu myös työkirja, johon</p>
-    <p><em type="italic">Merja-Anttila Ranttila </em> on piirtänyt kuvat. </p>
-    <p>Äänitys ja tuotanto: Yle Sámi Radio ja Saamen kouluasiain neuvosto 1989</p>
-    <p>Saamelaiskäräjät 2008</p>
-    <p>
-      <em type="bold">____________________________  ___________   ___________________________________  </em>
-    </p>
-    <p>
-      <em type="italic">Äidinkielen oheismateriaali: tarinoita, runoja ja kirjoitusharjoituksia. </em>
-    </p>
-    <p>
-      <em type="italic">Toivo West  </em>
-    </p>
-    <p type="title">Lásse, Áilu ja mun</p>
-    <p>kuvat: <em type="italic">Martti Salo </em> </p>
-    <p>sivuja: 116</p>
-    <p><em type="italic">10,00 € </em> </p>
-    <p>ISBN: 951-53-1268-X</p>
-    <p>taso: 4-6 lk</p>
-    <p>Saamelaiskäräjät 1997</p>
-    <p>
-      <em type="italic"> </em>
-      <em type="italic">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p><em type="italic">Aapinen - </em><em type="italic">Helena Valkeapää, Seija Guttorm </em> , kuvat <em type="italic">Aletta Ranttila  </em></p>
-    <p type="title">Áppes</p>
-    <p>
-      <em type="italic">Aapinen, syksy  </em>
-      <em type="italic">LOPPUUNMYYTY!  </em>
-    </p>
-    <p>sivuja: 124</p>
-    <p><em type="italic">15,00 € </em> </p>
-    <p>ISBN 978-952-441-183-7</p>
-    <p>
-      <em type="italic">4. painos </em>
-    </p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2009 </em>
-    </p>
-    <p/>
-    <p>Opettajan opas 1</p>
-    <p type="title">Áppes 1,oahpaheaddji rávagirji</p>
-    <p>sivuja: 91</p>
-    <p><em type="italic">4,00 € </em> </p>
-    <p>
-      <em type="italic">Painatuskeskus Oy 1986 </em>
-    </p>
-    <p>
-      <em type="italic">Aapinen, kevät  </em>
-    </p>
-    <p>sivuja: 134</p>
-    <p><em type="italic">15,00 € </em> </p>
-    <p>ISBN 978-952-441-161-5</p>
-    <p>
-      <em type="italic">(1. p. 1987) </em>
-      <em type="italic">4. uusittu painos </em>
-    </p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2008 </em>
-    </p>
-    <p><em type="italic">Opettajan opas </em>2 </p>
-    <p type="title">Áppes 2,oahpaheaddji rávagirji</p>
-    <p>ISBN 951-47-1660-4</p>
-    <p><em type="italic">4,00 € </em> </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p>Tarja Länsman</p>
-    <p type="title">Mu vuosttas giehtačálagihpa</p>
-    <p>
-      <em type="italic">Ensimmäinen kirjoitusvihkoni </em>
-    </p>
-    <p>sivuja: 58</p>
-    <p>ISBN-13: 978-952-441-153-0</p>
-    <p><em type="italic">7,00 € </em> </p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2007 </em>
-    </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p type="title">Sámás - saamenkielen luku- ja kirjoituskurssi</p>
-    <p>on pohjoismaisen projektin tulos vuodelta 1987. Sarja sopii sekä kouluille että aikuisopetukseen.</p>
-    <p>Kirjoittajat: Per Stefan Labba, Aage Solbakk, Veikko Holmberg, Samuli Aikio, Thor Frette, Elina Helander, Nils Øivind Helander, Nils Jernsletten, Olavi Korhonen, Ole Henrik Magga, Pekka Sammallahti ja Mikael Svonni, kuvitus Liisa Helander</p>
-    <p type="title">Sámás 1</p>
-    <p>sivuja: 231</p>
-    <p><em type="italic">7,50 € </em> </p>
-    <p>ISBN 951-43-0420-9</p>
-    <p>YLE Sámi Radio 1987</p>
-    <p type="title">Sámás 2</p>
-    <p>sivuja: 229</p>
-    <p><em type="italic">7,50 € </em> </p>
-    <p>ISBN 951-43-0473-X</p>
-    <p>YLE Sámi Radio 1987</p>
-    <p type="title">Loppuunmyyty!</p>
-    <p type="title">Sámás 3</p>
-    <p>ISBN 82-10-02675-5</p>
-    <p>1987</p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p>
-      <em type="italic">Äidinkielen harjoituksia (Palin) </em>
-    </p>
-    <p>Leena Aikio, Kaaren Kitti, kuvat Jussi Joensuu</p>
-    <p type="title">Eatnigiela hárjehusat 1</p>
-    <p>Palina oahpahusortnega mielde</p>
-    <p>sivuja: 38</p>
-    <p><em type="italic">2,00 € </em> </p>
-    <p>ISBN: 951-46-5685-7</p>
-    <p>
-      <em type="italic">Painatuskeskus Oy 1981 </em>
-    </p>
-    <p>
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p>
-      <em type="italic">Äidinkielen oppikirja, syksykirja </em>
-    </p>
-    <p>Elna Magga, Päivikki Nillukka-Rauhala, kuvat Merja Aletta Ranttila,</p>
-    <p>graafinen suunnittelu ja taitto: Anneli Aikio</p>
-    <p type="title">Giellaleaika 2, Eatnigiella čakča</p>
-    <p>Peruskoulun 2. luokan äidinkielen oppikirja, joka sisältää tekstiä ja tehtäviä.</p>
-    <p>sivuja: 120</p>
-    <p><em type="italic">10,00 € </em> </p>
-    <p>ISBN 978-951-47-8884-2</p>
-    <p>
-      <em type="italic">2. painos </em>
-      <em type="italic">Saamelaiskäräjät 2011    </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Pohjoissaame, äidinkieli</title><genre code="admin"/><author><unknown/></author><wordcount>1220</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=124&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=124_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=124_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=124_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pohjoissaame, äidinkieli</p>
+<p><em type="italic">Petra Kuuva </em> , <em type="italic">Bigga-Helena Magga </em> , <em type="italic">Tiina Sanila-Aikio, Petter Morottaja </em> </p>
+<p>kuvitus <em type="italic">Sunna Kitti  </em></p>
+<p><em type="italic">Dieppe dáppe </em>  <em type="italic"> </em> </p>
+<p><em type="italic">Ovdaskuvlla buđaldallangirji  </em></p>
+<p><em type="italic">12,00 € </em> </p>
+<p>sivuja: 96</p>
+<p>ISBN 978-952-441-314-5</p>
+<p>Saamelaiskäräjät 2015</p>
+<p><span type="quote">“Esikoululaisen puuhakirja”</span> ilmestyi samaan aikaan kaikilla kolmella Suomessa puhutulla saamenkielellä. Kirjan ystävykset Eeʹled, Uábbee ja Sámmol kyläilevät toistensa kotiseuduilla ja kertovat toisilleen omaan kulttuuripiiriinsä kuuluvista asioista. <em type="italic">Eeʹled </em>on koltansaamenkielinen tyttö, <em type="italic">Uabbee </em>inarinsaamenkielinen tyttö ja <em type="italic">Sámmol </em>on pohjoisaamenkielinen poika. </p>
+<p>Kirjan tarinoiden lähtökohtana ovat saamelaisten kahdeksan vuodenaikaa töineen ja tapahtumineen. Kirjan johtoajatuksena on ollut, että Suomen kolme saamelaisryhmää elävät rinnakkain ja haluavat välittää rikasta kulttuuriperintöään ja perinnetietouttaan myös muille.</p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Johanna Kiiski </em> , <em type="italic">Laura Pursiainen  </em>, <em type="italic">Päivi Hakkarainen </em> saameksi <em type="italic">Jaana Ruokolainen  </em></p>
+<p>Julkaisija: Oppimis- ja ohjauskeskus <em type="italic">Mikael-koulu </em> 2015 </p>
+<p><em type="italic">Muorjedievvá 1  </em> </p>
+<p><em type="italic">Äidinkielen lisämateriaali  </em><em type="italic">kielen opetukseen, erityisopetukseen ja kielikylpyopetukseen. </em> </p>
+<p>Oppimateriaalin tarkoituksena on lisätä lapsen sanavarastoa, tukea hänen kertomistaitojaan ja auttaa kehittämään nimeämistaitoja. Harjoituskirja on tarkoitettu 5-10 –vuotiaille lapsille.</p>
+<p>Materiaaliin kuuluu vihkonen sekä kuvasalkku.</p>
+<p>Saamelaiskäräjät jakaa materiaalia ilmaiseksi saamenopetukseen Suomessa.</p>
+<p><em type="italic">20 </em> <em type="italic">,00 € </em> </p>
+<p>ISBN 978-952-5819-48-9</p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Toivo West, </em>kuvitus <em type="italic">Outi Pieski, </em>ulkoasu <em type="italic">Studio Borga/Minna Saastamoinen </em> </p>
+<p><em type="italic">Mu giella 4  </em> <em type="italic">Äidinkielen oppimateriaali peruskoulun 4. luokalle  </em></p>
+<p>Kirjassa on 10 kappaletta, viisi kielioppiosaa ja viisi muuta kielen oppimisen kannalta tärkeää osaa. Oppikirjan kertomukset on tarkoitettu ohjenuoraksi oppitunneille.</p>
+<p><em type="italic">25,00 € </em> </p>
+<p>sivuja: 198</p>
+<p>ISBN 978-952-441-296-4</p>
+<p>Saamelaiskäräjät 2014</p>
+<p>Kertomus Johanas –pojan seikkailuista kulkee läpi koko kirjan. Erilaisten tekstien tarkoituksena on vahvistaa oppilaan kielitaitoa. Teksteihin liittyy sanojen selityksiä ja kuvia, joiden tarkoituksena on laajentaa oppilaan sanavarastoa.</p>
+<p><em type="italic">Mu giella 4 Bargogirji  </em> </p>
+<p><em type="italic">1 </em> <em type="italic">5,00 € </em> </p>
+<p>sivuja: 152</p>
+<p>ISBN 978-952-441-297-1</p>
+<p>Saamelaiskäräjät 2015</p>
+<p>Tämä työkirja on tarkoitettu käytettäväksi yhdessä saamenkielen oppikirjan Mu giella 4 ohessa. Suurin osa harjoituksista tehdään työkirjaan, mutta tarvitset myös vihon pitempiä kirjoituksia varten. Ennen kuin alat tehdä työkirjan tehtäviä, lue teksti ja ohjeet oppikirjan sivuilta.</p>
+<p>Työkirjassa on myös noppapelejä, joita varten tarvitaan nopat ja nappeja.</p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Äidinkielen oheismateriaali </em></p>
+<p><em type="italic">Matti Morottaja  </em>, kuvitus <em type="italic">Sirpa Mänty  </em>, pohjoissaamen sanat <em type="italic">Kaisa Tapiola-Länsman  </em></p>
+<p type="title">Oahpa sániid</p>
+<p><em type="italic">15,00 € </em> </p>
+<p>ISBN 978-952-441-303-9</p>
+<p>2. painos</p>
+<p>Saamelaiskäräjät 2014</p>
+<p>- kuvasanakirja on pohjoisaamenkielelle sovitettu käännös <em type="italic">Matti Morottajan  </em>inarinsaamenkielisestä <em type="italic">Oopâ saanijd </em> -kirjasta. Kirjassa on selitetty kuvin noin 500 saamen kielen sanaa. Kirjan lopussa on lisäksi aihepiireittäin jaoteltu sanasto. Esimerkiksi verbien selittäminen kuvien avulla voi olla vaikeaa, joten niitä on lisätty sanastoon myös suomeksi käännettynä. </p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Elna Magga </em>ja <em type="italic">Päivikki Nillukka-Rauhala </em>, kuvitus <em type="italic">Merja Aletta Ranttila </em> </p>
+<p type="title">Giellaleaika</p>
+<p><em type="italic">Äidinkielen oppimateriaali  </em></p>
+<p><em type="italic">peruskoulun 2. luokalle  </em></p>
+<p><em type="italic">Giđđagirji - </em>  kevätkirja </p>
+<p>sivuja: 140</p>
+<p><em type="italic">12,00 € </em> </p>
+<p>ISBN 978-952-441-191-2</p>
+<p>Saamelaiskäräjät 2010</p>
+<p><em type="italic">Giellaleaika čakčagirji - syyskirjaan </em> on lisätty uusia lukukappaleita ja harjoituksia. Kirjan lopussa on oppimispäiväkirja sekä ohjeita kuva-analyysin tekemiseen. Takakannen sisäpuolella on lisäkysymyksiä, joiden avulla voi syventää tekstin ymmärtämistä ja kielen oppimista. </p>
+<p>sivuja: 131</p>
+<p><em type="italic">15,00 € </em> </p>
+<p>ISBN 978-952-441-294-0</p>
+<p>uudistettu 3. painos, <em type="italic">Saamelaiskäräjät 2014 </em></p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="bold">Marjaana Aikio, Helmi Länsman, Maarit Magga   </em>ja   <em type="bold">Elen Anne Sara,   </em>graafinen suunnittelu <em type="bold">Svea Päiviö </em></p>
+<p type="title">Giela geainnut - Logahaga eatnigiella</p>
+<p><em type="bold">Pohjoissaamenkielinen äidinkielen oppimateriaali lukiolaisille  </em></p>
+<p><em type="italic">Giela geainnut 1 </em> sisältää </p>
+<p>lukion 1. kurssin opintokokonaisuuden, jonka teemoina ovat suullinen ja kirjoitettu kieli sekä tekstin ymmärtäminen. Kurssin kielioppiosassa käsitellään verbien taivutus. Termit selitetään kirjan lopussa. Kirja sisältää myös harjoitustehtäviä ja esimerkkitekstejä.</p>
+<p type="title">Giela geainnut 1</p>
+<p>sivuja: 150</p>
+<p>koko: 19 x 24 cm, pehmeäkantinen</p>
+<p><em type="italic">1 8,00 €  </em> </p>
+<p>ISBN 978-952-441-235-3</p>
+<p><em type="italic">Saamelaiskäräjät 2012 </em></p>
+<p><em type="italic">Giela geainnut 2 </em> sisältää </p>
+<p>lukion 2. kurssin opintokokonaisuuden.</p>
+<p>Keskeisiä teemoja ovat teksti kokonaisuutena, kirjallisuus ja kielenhuolto. Kielioppiosassa käsitellään konjunktiot sekä relatiivi- ja interrogatiivipronominit. Kirjassa käytetyt termit selitetään kirjan lopussa. Kirja sisältää myös harjoitustehtäviä ja esimerkkitekstejä.</p>
+<p type="title">Giela geainnut 2</p>
+<p>sivuja: 161</p>
+<p>koko: 19 x 24 cm, pehmeäkantinen</p>
+<p><em type="italic">1 8,00 €  </em></p>
+<p>ISBN 978-952-441-283-4</p>
+<p><em type="italic">Saamelaiskäräjät 2014 </em></p>
+<p><em type="italic">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Kaaren Kitti </em> , </p>
+<p>kuvat <em type="italic">Merja Aletta Ranttila  </em></p>
+<p type="title">Gollegiellan</p>
+<p><em type="italic">Äidinkielen oppimateriaali  </em></p>
+<p><em type="italic">peruskoulun 3. luokalle  </em></p>
+<p><em type="italic">Čakčagirji </em>- syksykirja  </p>
+<p>pohjautuu saamelaiseen tarinaperinteeseen ja saamenkieliseen kirjallisuuteen.</p>
+<p>sivuja: 136</p>
+<p><em type="italic">18,00 € </em> </p>
+<p>ISBN 978-952-441-241-4</p>
+<p><em type="italic">Valtion painatuskeskus 1992, Saamelaiskäräjät 2013 </em></p>
+<p><em type="italic">Gollegiellan - Giđđagirji -   </em>kevätkirja </p>
+<p>Kevätkirjaan on otettu mukaan kaikki äidinkielen opetussuunnitelmaan kuuluvat asiat. Pääpäinon saavat kuitenkin sanaluokat - verbit, substantiivit, adjektiivit ja numeraalit. Gollegiellan on sekä teksti- että harjoituskirja.</p>
+<p>sivuja: 133</p>
+<p><em type="italic">15,00 € </em> </p>
+<p>ISBN 978-925-441-214-8</p>
+<p><em type="italic">Saamelaiskäräjät 2010 </em></p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Oahptii Iŋgá -   Inga Guttorm, </em> </p>
+<p/>
+<p>kuvitus <em type="italic">Salli Parikka, </em>graafinen suunnittelu <em type="italic">Studio Borga - Minna Saastamoinen </em> </p>
+<p type="title">Áppes Min meahci máidnasat</p>
+<p><em type="bold">Aapinen Metsiemme tarinoita </em></p>
+<p><em type="bold">30,00 € </em></p>
+<p>Inga Guttorm on työskennellyt vuosia saamenkielisen alkuopetuksen parissa Utsjoella. Kirjan kuvittaja Salli Parikka (Wahlberg) on kuvittanut monia lapsille ja nuorille tarkoitettuja kirjoja. Taittaja Minna Saastamoinen on pohjoissaamen-kielentaitoisena palvellut oppikirjakustantajia myös Norjassa.</p>
+<p>Edellinen aapinen, Áppes 1 ja 2, julkaistiin Suomessa 1970-luvulla.</p>
+<p>sivuja 128, koko 21,4 x 28,5 cm, kovakantinen</p>
+<p>ISBN 978-952-441-219-3</p>
+<p><em type="italic">Saamelaiskäräjät 2010 </em></p>
+<p><em type="italic">B </em> <em type="italic">argogirji čakčii </em>  </p>
+<p>(syksyn työkirja)</p>
+<p>sivuja: 96</p>
+<p>pehmeäkantinen, sisus 4-värinen</p>
+<p><em type="italic">20,00 € </em> </p>
+<p>ISBN 978-952-441-227-8</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em></p>
+<p><em type="italic">Bargogirji giđđii </em> </p>
+<p>(kevään työkirja)</p>
+<p>sivuja: 126</p>
+<p><em type="italic">20,00 € </em> </p>
+<p>ISBN 978-952-441-245-2</p>
+<p><em type="italic">Saamelaiskäräjät 2012 </em></p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Jovnna-Ánde Vest </em> , kannen kuva <em type="italic">Tiia Semenoff  </em></p>
+<p type="title">Sámi synonymat</p>
+<p><em type="italic">Pohjoissaamen synonyymisanakirja </em> </p>
+<p>sivuja: 221</p>
+<p><em type="italic">12,00 € </em> </p>
+<p>ISBN 978-952-441-205-6</p>
+<p>3. painos</p>
+<p><em type="italic">Saamelaiskäräjät 2010 </em></p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Toivo West  </em>, kuvitus <em type="italic">Outi Pieski </em> ja <em type="italic">Salla-Mari West  </em>, layout <em type="italic">Rannveig Persen  </em></p>
+<p><em type="italic">Mu giella 5 - 6 -  </em>  <em type="italic">äidinkielen oppimateriaali 5. ja 6. luokkien oppilaille.   </em> </p>
+<p><em type="italic">25,00 € </em> </p>
+<p>Tekstikirja sisältää kaikki äidinkielen opiskelun osa-alueet kuten kieli ymmärtämisen ja oppimisen välineenä, kielioppi, kirjallisuus, kielen kehittyminen, kirjoitus, kielen muuttuminen, draama, media ja kielenhuolto. Sarjaan kuuluu tekstikirjan lisäksi kaksi työkirjaa sekä äänite.</p>
+<p>Oppilas käyttää tekstikirjaa kaksi vuotta, ja molempia vuosia varten on oma työkirja. Osa harjoituksista tehdään vihkoon tai piirustuspaperille, osa taas ryhmätöinä, esim. keskusteluharjoitukset sekä pelit.</p>
+<p>sivuja: 208</p>
+<p>ISBN 978-952-441-186-8</p>
+<p type="title">Mu giella 5-6 Jietnačájánasat CD</p>
+<p>sisältää yhteensä 25 näytettä inarin- ja koltansaamenkielistä sekä pohjoissaamen eri murteista. Työkirjoissa on äänitteisiin liittyviä tehtäviä.</p>
+<p><em type="italic">5,00 € </em> </p>
+<p><em type="italic">Bargogirji  5  </em></p>
+<p>Työkirja 5</p>
+<p>sivuja: 195</p>
+<p><em type="italic">20,00 € </em> </p>
+<p>ISBN 978-952-441-187-5</p>
+<p>Saamelaiskäräjät 2010</p>
+<p/>
+<p type="title">Bargogirji 6</p>
+<p>Työkirja 6</p>
+<p>sivuja: 172</p>
+<p><em type="italic">20,00 € </em> </p>
+<p>ISBN 978-952-441-188-2</p>
+<p><em type="italic">Saamelaiskäräjät 2010 </em></p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Äidinkielen oheismateriaali - </em>Kouluradion sarja </p>
+<p><em type="italic">Siiri Miettunen ja Ritva Torikka </em> </p>
+<p><em type="italic">Lodderáidalas  </em> </p>
+<p>11 radioohjelmaa</p>
+<p>2 CD-äänitettä</p>
+<p>taso: alakoulu</p>
+<p><em type="italic">4,00 € </em> </p>
+<p>Materiaaliin kuuluu myös työkirja, johon</p>
+<p><em type="italic">Merja-Anttila Ranttila </em> on piirtänyt kuvat. </p>
+<p>Äänitys ja tuotanto: Yle Sámi Radio ja Saamen kouluasiain neuvosto 1989</p>
+<p>Saamelaiskäräjät 2008</p>
+<p><em type="bold">____________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Äidinkielen oheismateriaali: tarinoita, runoja ja kirjoitusharjoituksia. </em></p>
+<p><em type="italic">Toivo West  </em></p>
+<p type="title">Lásse, Áilu ja mun</p>
+<p>kuvat: <em type="italic">Martti Salo </em> </p>
+<p>sivuja: 116</p>
+<p><em type="italic">10,00 € </em> </p>
+<p>ISBN: 951-53-1268-X</p>
+<p>taso: 4-6 lk</p>
+<p>Saamelaiskäräjät 1997</p>
+<p><em type="italic"> </em><em type="italic">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Aapinen - </em><em type="italic">Helena Valkeapää, Seija Guttorm </em> , kuvat <em type="italic">Aletta Ranttila  </em></p>
+<p type="title">Áppes</p>
+<p><em type="italic">Aapinen, syksy  </em><em type="italic">LOPPUUNMYYTY!  </em></p>
+<p>sivuja: 124</p>
+<p><em type="italic">15,00 € </em> </p>
+<p>ISBN 978-952-441-183-7</p>
+<p><em type="italic">4. painos </em></p>
+<p><em type="italic">Saamelaiskäräjät 2009 </em></p>
+<p/>
+<p>Opettajan opas 1</p>
+<p type="title">Áppes 1,oahpaheaddji rávagirji</p>
+<p>sivuja: 91</p>
+<p><em type="italic">4,00 € </em> </p>
+<p><em type="italic">Painatuskeskus Oy 1986 </em></p>
+<p><em type="italic">Aapinen, kevät  </em></p>
+<p>sivuja: 134</p>
+<p><em type="italic">15,00 € </em> </p>
+<p>ISBN 978-952-441-161-5</p>
+<p><em type="italic">(1. p. 1987) </em><em type="italic">4. uusittu painos </em></p>
+<p><em type="italic">Saamelaiskäräjät 2008 </em></p>
+<p><em type="italic">Opettajan opas </em>2 </p>
+<p type="title">Áppes 2,oahpaheaddji rávagirji</p>
+<p>ISBN 951-47-1660-4</p>
+<p><em type="italic">4,00 € </em> </p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p>Tarja Länsman</p>
+<p type="title">Mu vuosttas giehtačálagihpa</p>
+<p><em type="italic">Ensimmäinen kirjoitusvihkoni </em></p>
+<p>sivuja: 58</p>
+<p>ISBN-13: 978-952-441-153-0</p>
+<p><em type="italic">7,00 € </em> </p>
+<p><em type="italic">Saamelaiskäräjät 2007 </em></p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p type="title">Sámás - saamenkielen luku- ja kirjoituskurssi</p>
+<p>on pohjoismaisen projektin tulos vuodelta 1987. Sarja sopii sekä kouluille että aikuisopetukseen.</p>
+<p>Kirjoittajat: Per Stefan Labba, Aage Solbakk, Veikko Holmberg, Samuli Aikio, Thor Frette, Elina Helander, Nils Øivind Helander, Nils Jernsletten, Olavi Korhonen, Ole Henrik Magga, Pekka Sammallahti ja Mikael Svonni, kuvitus Liisa Helander</p>
+<p type="title">Sámás 1</p>
+<p>sivuja: 231</p>
+<p><em type="italic">7,50 € </em> </p>
+<p>ISBN 951-43-0420-9</p>
+<p>YLE Sámi Radio 1987</p>
+<p type="title">Sámás 2</p>
+<p>sivuja: 229</p>
+<p><em type="italic">7,50 € </em> </p>
+<p>ISBN 951-43-0473-X</p>
+<p>YLE Sámi Radio 1987</p>
+<p type="title">Loppuunmyyty!</p>
+<p type="title">Sámás 3</p>
+<p>ISBN 82-10-02675-5</p>
+<p>1987</p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Äidinkielen harjoituksia (Palin) </em></p>
+<p>Leena Aikio, Kaaren Kitti, kuvat Jussi Joensuu</p>
+<p type="title">Eatnigiela hárjehusat 1</p>
+<p>Palina oahpahusortnega mielde</p>
+<p>sivuja: 38</p>
+<p><em type="italic">2,00 € </em> </p>
+<p>ISBN: 951-46-5685-7</p>
+<p><em type="italic">Painatuskeskus Oy 1981 </em></p>
+<p><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p><em type="italic">Äidinkielen oppikirja, syksykirja </em></p>
+<p>Elna Magga, Päivikki Nillukka-Rauhala, kuvat Merja Aletta Ranttila,</p>
+<p>graafinen suunnittelu ja taitto: Anneli Aikio</p>
+<p type="title">Giellaleaika 2, Eatnigiella čakča</p>
+<p>Peruskoulun 2. luokan äidinkielen oppikirja, joka sisältää tekstiä ja tehtäviä.</p>
+<p>sivuja: 120</p>
+<p><em type="italic">10,00 € </em> </p>
+<p>ISBN 978-951-47-8884-2</p>
+<p><em type="italic">2. painos </em><em type="italic">Saamelaiskäräjät 2011    </em></p>
+</body></document>

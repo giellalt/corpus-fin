@@ -1,87 +1,47 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>191</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.utsjoki.fi/media/Tekninen/Tiedotteet/Sekaj%C3%A4te%20on%20nyt%20nimelt%C3%A4%C3%A4n.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="sekaja_te_on_nyt_nimelta_a_n_saameksi.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">Utsjoen kunnan jätehuolto tiedottaa </em>
-    </p>
-    <p>Sekajäte on nyt nimeltään</p>
-    <p xml:lang="krl">Poltettava jäte</p>
-    <p>
-      <em type="bold">Poltettavaan jätteeseen voi laittaa </em>
-    </p>
-    <p type="listitem">• likaiset muovit (myös puhtaat, jos muovipakkausten keräyspistettä ei ole saatavilla)</p>
-    <p type="listitem" xml:lang="eng">• styroxit</p>
-    <p type="listitem">• lahja-, pakkaus- ja käärepaperit</p>
-    <p type="listitem" xml:lang="fkv">• likaiset pahvit ja paperit</p>
-    <p type="listitem" xml:lang="fkv">• hygieniatuotteet</p>
-    <p type="listitem">• käyttökelvottomat vaatteet, jalkineet ja kodin tekstiilit</p>
-    <p type="listitem">• pienet räsymatot</p>
-    <p type="listitem" xml:lang="fkv">• pölypussit ja siivousjätteet</p>
-    <p type="listitem">• tupakantumpit ja tuhka (tuhka pakattuna)</p>
-    <p type="listitem">• lemmikkieläinten kuivikkeet</p>
-    <p type="listitem">• pienet puukappaleet</p>
-    <p type="listitem">• vaahtomuovin kappaleet</p>
-    <p type="listitem">• Sukset ja sauvat</p>
-    <p>
-      <em type="bold">Vietävä kunnan hyötyjäteasemalle </em>
-    </p>
-    <p type="listitem">• lasiastiat</p>
-    <p type="listitem">• kristallit</p>
-    <p type="listitem" xml:lang="fkv">• hehkulamput ja halogeenilamput</p>
-    <p type="listitem">• posliini ja keramiikka</p>
-    <p type="listitem" xml:lang="sme">• PVC-muovit</p>
-    <p type="listitem" xml:lang="smn">• muovimatot</p>
-    <p type="listitem">• kokolattiamatot</p>
-    <p type="listitem" xml:lang="est">• lasikuitu</p>
-    <p type="listitem" xml:lang="krl">• isokokoiset jätteet</p>
-    <p type="listitem">• vaaralliset jätteet</p>
-    <p type="listitem" xml:lang="fkv">• sähkölaitteet.</p>
-    <p type="listitem">• Metallit</p>
-    <p type="listitem">• Ongelmajätteet/Vaaralliset jätteet (mm. akut)</p>
-    <p type="listitem" xml:lang="fkv">• Öljyt</p>
-    <p type="listitem">• Renkaat (palautetaan renkaita myyviin liikkeisiin)</p>
-    <p type="listitem" xml:lang="fkv">• Rakennusjätteet</p>
-    <p>
-      <em type="bold">Utsjoen kunnan hyötyjäteasemat: </em>
-    </p>
-    <p xml:lang="deu">
-      <em type="bold">KARIGASNIEMI: Ylätenontie 51,   </em>
-    </p>
-    <p xml:lang="fkv">
-      <em type="bold">UTSJOKI: Sullamintie 151 </em>
-    </p>
-    <p>
-      <em type="bold">Uusi jätteenkerääjä on 2.5.2017 alkaen RenoNorden Oy </em>
-    </p>
-    <p><em type="bold">Tyhjennyspäivät ovat kuten aikaisemminkin, parillisen viikon tiistai </em>(Karigasniemi ja Utsjoen kirkonkylä)<em type="bold"> ja </em></p>
-    <p xml:lang="smn"><em type="bold">keskiviikko </em>(Utsjoki ja Nuorgam)<em type="bold"> </em></p>
-    <p>Auto, joka ajaa Utsjoella on auto 17 GKR-597, puh.nro.050 4661641</p>
-    <p>Pääsääntöisesti kuljettajat jotka ajavat Utsjoella ovat:</p>
-    <p xml:lang="smn">Juha Niiniaho puh.040 2191948</p>
-    <p xml:lang="smn">Jarmo Niiniaho puh.040 8727899</p>
-    <p>
-      <em type="bold">Utsjoen kirkonkylän siirtokuormaus- ja hyötyjäteasema on avoinna jatkossa parillisen viikon tiistai klo 15 </em>
-    </p>
-    <p type="listitem" xml:lang="koi">
-      <em type="bold">– 19.  </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>191</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.utsjoki.fi/media/Tekninen/Tiedotteet/Sekaj%C3%A4te%20on%20nyt%20nimelt%C3%A4%C3%A4n.pdf</origFileName><parallel_text xml:lang="sme" location="sekaja_te_on_nyt_nimelta_a_n_saameksi.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Utsjoen kunnan jätehuolto tiedottaa </em></p>
+<p>Sekajäte on nyt nimeltään</p>
+<p xml:lang="krl">Poltettava jäte</p>
+<p><em type="bold">Poltettavaan jätteeseen voi laittaa </em></p>
+<p type="listitem">• likaiset muovit (myös puhtaat, jos muovipakkausten keräyspistettä ei ole saatavilla)</p>
+<p type="listitem" xml:lang="eng">• styroxit</p>
+<p type="listitem">• lahja-, pakkaus- ja käärepaperit</p>
+<p type="listitem" xml:lang="fkv">• likaiset pahvit ja paperit</p>
+<p type="listitem" xml:lang="fkv">• hygieniatuotteet</p>
+<p type="listitem">• käyttökelvottomat vaatteet, jalkineet ja kodin tekstiilit</p>
+<p type="listitem">• pienet räsymatot</p>
+<p type="listitem">• pölypussit ja siivousjätteet</p>
+<p type="listitem">• tupakantumpit ja tuhka (tuhka pakattuna)</p>
+<p type="listitem">• lemmikkieläinten kuivikkeet</p>
+<p type="listitem">• pienet puukappaleet</p>
+<p type="listitem">• vaahtomuovin kappaleet</p>
+<p type="listitem">• Sukset ja sauvat</p>
+<p><em type="bold">Vietävä kunnan hyötyjäteasemalle </em></p>
+<p type="listitem">• lasiastiat</p>
+<p type="listitem">• kristallit</p>
+<p type="listitem" xml:lang="fkv">• hehkulamput ja halogeenilamput</p>
+<p type="listitem">• posliini ja keramiikka</p>
+<p type="listitem" xml:lang="sme">• PVC-muovit</p>
+<p type="listitem" xml:lang="smn">• muovimatot</p>
+<p type="listitem">• kokolattiamatot</p>
+<p type="listitem" xml:lang="est">• lasikuitu</p>
+<p type="listitem" xml:lang="krl">• isokokoiset jätteet</p>
+<p type="listitem" xml:lang="krl">• vaaralliset jätteet</p>
+<p type="listitem" xml:lang="fkv">• sähkölaitteet.</p>
+<p type="listitem">• Metallit</p>
+<p type="listitem">• Ongelmajätteet/Vaaralliset jätteet (mm. akut)</p>
+<p type="listitem" xml:lang="fkv">• Öljyt</p>
+<p type="listitem">• Renkaat (palautetaan renkaita myyviin liikkeisiin)</p>
+<p type="listitem" xml:lang="fkv">• Rakennusjätteet</p>
+<p><em type="bold">Utsjoen kunnan hyötyjäteasemat: </em></p>
+<p xml:lang="deu"><em type="bold">KARIGASNIEMI: Ylätenontie 51,   </em></p>
+<p xml:lang="fkv"><em type="bold">UTSJOKI: Sullamintie 151 </em></p>
+<p><em type="bold">Uusi jätteenkerääjä on 2.5.2017 alkaen RenoNorden Oy </em></p>
+<p><em type="bold">Tyhjennyspäivät ovat kuten aikaisemminkin, parillisen viikon tiistai </em>(Karigasniemi ja Utsjoen kirkonkylä)<em type="bold"> ja </em></p>
+<p xml:lang="smn"><em type="bold">keskiviikko </em>(Utsjoki ja Nuorgam)<em type="bold"> </em></p>
+<p>Auto, joka ajaa Utsjoella on auto 17 GKR-597, puh.nro.050 4661641</p>
+<p>Pääsääntöisesti kuljettajat jotka ajavat Utsjoella ovat:</p>
+<p xml:lang="smn">Juha Niiniaho puh.040 2191948</p>
+<p xml:lang="smn">Jarmo Niiniaho puh.040 8727899</p>
+<p><em type="bold">Utsjoen kirkonkylän siirtokuormaus- ja hyötyjäteasema on avoinna jatkossa parillisen viikon tiistai klo 15 </em></p>
+<p type="listitem" xml:lang="vep"><em type="bold">– 19.  </em></p>
+</body></document>

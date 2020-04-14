@@ -1,365 +1,256 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Pohjoissaame, alakoulun matematiikka</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>787</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=133&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=133_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=133_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Pohjoissaame, alakoulun matematiikka</p>
-    <p type="title" xml:lang="sme">Lohkoleaika</p>
-    <p><em type="italic">- </em>oppimateriaali on käännetty saamenkielelle WSOY:n sarjasta <em type="italic">Matikka. </em> </p>
-    <p><em type="italic">Lohkoleaika 3-6 koepaketteja </em> sekä  <em type="italic">oppikirjan tehtävien ratkaisut  </em>     </p>
-    <p xml:lang="fkv">voi tilata opetuskäyttöön oppimateriaalitoimistolta!</p>
-    <p type="title">Lohkoleaika 1taso: 1 lk</p>
-    <p><em type="italic">Päivi Okkonen-Sotka, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em>saameksi    <em type="italic">Merja Nillukka    </em></p>
-    <p type="title">čakčaoassi (syyskirja)</p>
-    <p>sivuja: 180</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em> </p>
-    <p xml:lang="sms">ISBN 978-952-441-207-0</p>
-    <p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
-    <p type="title">giđđaoassi (kevätkirja)</p>
-    <p>sivuja: 192</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-231-5</p>
-    <p><em type="italic">Saamelaiskäräjät 2012 </em> </p>
-    <p type="title" xml:lang="sme">Lohkoleaika 2</p>
-    <p type="title">taso: 2 lk</p>
-    <p><em type="italic">Päivi Okkonen-Sotka, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em> saameksi    <em type="italic">Merja Nillukka    </em>  </p>
-    <p type="title">čakčaoassi (syyskirja)</p>
-    <p xml:lang="nno"/>
-    <p>sivuja: 194</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-226-1</p>
-    <p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
-    <p type="title">giđđaoassi (kevätkirja)</p>
-    <p>sivuja: 191</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-232-2</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2012  </em>
-    </p>
-    <p type="title" xml:lang="sme">Lohkoleaika 3</p>
-    <p type="title">taso: 3 lk</p>
-    <p><em type="italic">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em> </p>
-    <p>saameksi <em type="italic">Jovnna-Ánde Vest    </em> </p>
-    <p type="title">čakčaoassi (syyskirja)</p>
-    <p xml:lang="nno">
-      <em type="bold"> </em>
-    </p>
-    <p>sivuja: 204</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-224-7</p>
-    <p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
-    <p type="title">giđđaoassi (kevätkirja)</p>
-    <p>sivuja: 210</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-222-3</p>
-    <p><em type="italic">Saamelaiskäräjät 2012 </em> </p>
-    <p type="title" xml:lang="sme">Lohkoleaika 4</p>
-    <p type="title">taso: 4 lk</p>
-    <p>
-      <em type="bold">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  saameksi    </em>
-    </p>
-    <p>saameksi</p>
-    <p>
-      <em type="bold">Jovnna-Ánde Vest    </em>
-    </p>
-    <p type="title">čakčaoassi (syyskirja)</p>
-    <p>sivuja: 200</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-225-4</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2011 </em>
-    </p>
-    <p><em type="italic">giđđaoassi (kevätkirja) </em>  </p>
-    <p>sivuja: 210</p>
-    <p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-230-8</p>
-    <p>Saamelaiskäräjät 2012</p>
-    <p type="title" xml:lang="sme">Lohkoleaika 5</p>
-    <p type="title">taso: 5 lk</p>
-    <p>
-      <em type="bold">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  saameksi    </em>
-    </p>
-    <p>saameksi</p>
-    <p>
-      <em type="bold">Jovnna-Ánde Vest    </em>
-    </p>
-    <p type="title">čakčaoassi (syyskirja)</p>
-    <p>sivuja: 203</p>
-    <p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-237-7</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2012 </em>
-    </p>
-    <p xml:lang="vep">g  <em type="italic">iđđaoassi (kevätkirja) </em>  </p>
-    <p>sivuja: 211</p>
-    <p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-238-4</p>
-    <p>Saamelaiskäräjät 2012</p>
-    <p type="title" xml:lang="sme">Lohkoleaika 6</p>
-    <p type="title">taso: 6 lk</p>
-    <p>
-      <em type="bold">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  saameksi    </em>
-    </p>
-    <p>saameksi</p>
-    <p>
-      <em type="bold">Jovnna-Ánde Vest    </em>
-    </p>
-    <p type="title">čakčaoassi (syyskirja)</p>
-    <p>sivuja: 203</p>
-    <p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-242-1</p>
-    <p>Saamelaiskäräjät 2012</p>
-    <p type="title">giđđaoassi (kevätkirja)</p>
-    <p>sivuja: 211</p>
-    <p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
-    <p xml:lang="sms">ISBN 978-952-441-243-8</p>
-    <p>Saamelaiskäräjät 2012</p>
-    <p xml:lang="koi">
-      <em type="bold">______________________________  ___________   ___________________________________  </em>
-    </p>
-    <p type="title" xml:lang="sme">Oahpa rehkenastit</p>
-    <p xml:lang="ron">
-      <em type="bold">O </em>
-    </p>
-    <p>ppimateriaali käännetty saamenkielelle WSOY:n sarjasta</p>
-    <p xml:lang="vep">
-      <em type="bold">Laskutaito. </em>
-    </p>
-    <p>Sarjan on kääntänyt saameksi Jovnna-Ánde Vest.</p>
-    <p><em type="italic">Oahpa rehkenastit 1  </em> ,  taso: 1 lk  </p>
-    <p>Seppo Rikala, Helena Sieppi, Tuula Strang, Risto Ilmavirta,</p>
-    <p>kuvat Olli Luotonen, Pekka Könönen ja Merja-Aletta Ranttila; Esa ja Timo Kontoniemi</p>
-    <p><em type="italic">čakčaoassi (syyskirja)  </em> </p>
-    <p>hinta: 7,50 €</p>
-    <p xml:lang="sms">ISBN 951-47-9797-3</p>
-    <p>
-      <em type="italic">Lapin lääninhallitus 1994 </em>
-    </p>
-    <p><em type="italic">giđđaoassi (kevätkirja)  </em> </p>
-    <p>hinta: 10,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-064-8</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2002 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-47-9803-1</p>
-    <p>
-      <em type="italic">Lapin lääninhallitus 1994 </em>
-    </p>
-    <p><em type="italic">Oahpa rehkenastit 2  </em> ,  taso: 2 lk  </p>
-    <p>Seppo Rikala, Helena Sieppi, Tuula Strang, Risto Ilmavirta,</p>
-    <p>kuvat Olli Luotonen, Esa Kontoniemi, Merja-Aletta Ranttila ja Virpi Jefremoff; Tuovi Laine</p>
-    <p xml:lang="sme"><em type="italic">čakčaoassi  </em> </p>
-    <p>hinta: 10,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-065-6</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2002 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">giđđaoassi  </em> </p>
-    <p>hinta: 10,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-066-4</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2002 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Boađusgirji 2 Čakča ja giđđa </em> </p>
-    <p xml:lang="fkv">(Tuloskirja 2 syksy ja kevät)</p>
-    <p>hinta: 5,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-025-7</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1999 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čakčaoassi </em> </p>
-    <p>ISBN 951-47-9804-X</p>
-    <p>hinta: 4,00 €</p>
-    <p>
-      <em type="italic">Lapin lääninhallitus 1995 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-53-0980-8</p>
-    <p>
-      <em type="italic">Lapin lääninhallitus 1995 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 2 </em>  </p>
-    <p xml:lang="sme">Čakča- ja giđđaoassi</p>
-    <p>(Työkirjan ratkaisut, syksy ja kevät)</p>
-    <p>hinta: 3,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-041-9</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2000 </em>
-    </p>
-    <p><em type="italic">Oahpa rehkenastit 3  </em> ,  taso: 3 lk  </p>
-    <p>Seppo Rikala, Tuula Strang, Risto Ilmavirta</p>
-    <p>kuvat Olli Luotonen, Esa Kontoniemi, Merja-Aletta Ranttila; Tuovi Laine ja Anne Piisilä</p>
-    <p xml:lang="sme"><em type="italic">čakčaoassi  </em> </p>
-    <p>hinta: 15,00 €</p>
-    <p xml:lang="sms">ISBN 978-952-441-184-4</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2009 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">giđđaoassi  </em> </p>
-    <p>hinta: 15,00 €</p>
-    <p xml:lang="sms">ISBN 978-952-441-216-2</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2011 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Boađusgirji 3  </em> </p>
-    <p xml:lang="sme">Čakča ja giđđa</p>
-    <p>(Tuloskirja, syys- ja kevätkirja)</p>
-    <p>hinta: 5,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-021-4</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1999 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-47-9806-6</p>
-    <p>Lapin lääninhallitus 1994</p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-47-9807-4</p>
-    <p>
-      <em type="italic">Lapin lääninhallitus 1995 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 3 </em>  </p>
-    <p xml:lang="sme">Čakča- ja giđđaoassi</p>
-    <p>(Työkirjan ratkaisut, syksy ja kevät)</p>
-    <p>hinta: 3,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-042-7</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2000 </em>
-    </p>
-    <p><em type="italic">Oahpa rehkenastit 4  </em> ,  taso: 4 lk  </p>
-    <p>Seppo Rikala, Tuula Strang, Risto Ilmavirta</p>
-    <p>kuvat Olli Luotonen, Esa Kontoniemi, Tuovi Laine, Sirpa Seppänen, Timo Kontoniemi, &#13; 			Tuula Niemitukia-Sole ja Merja-Aletta Ranttila</p>
-    <p xml:lang="sme"><em type="italic">čakčaoassi  </em> </p>
-    <p>hinta: 15,00 €</p>
-    <p xml:lang="sms">ISBN 978-952-441-185-1</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2009 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">giđđaoassi  </em> </p>
-    <p>hinta: 10,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-068-0</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2002 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Boađusgirji 4, čakča ja giđđa  </em> </p>
-    <p xml:lang="fkv">(Tuloskirja 4 syksy ja kevät)</p>
-    <p xml:lang="sms">ISBN 952-441-024-9</p>
-    <p>hinta: haddi: 5,00 €</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1999 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-53-0565-9</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1997 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
-    <p>hinta: haddi: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-53-0566-7</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1997 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 4 </em> </p>
-    <p xml:lang="sme">Čakča- ja giđđaoassi</p>
-    <p>(Työkirjan ratkaisut, syksy ja kevät)</p>
-    <p xml:lang="sms">ISBN 952-441-044-5</p>
-    <p>hinta: 3,00 €</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2000 </em>
-    </p>
-    <p><em type="italic">Oahpa rehkenastit 5  </em> ,  taso: 5 lk  </p>
-    <p>Marjatta Koivisto, Merja Salonen, Tuula Uus-Leponiemi, Risto Ilmavirta</p>
-    <p>kuvat Marjaana Aikio (kansi), Susan Reed, Taina Niemitukia-Sole, Tuovi Laine, Merja-Aletta Ranttila; Esa Kontoniemi</p>
-    <p xml:lang="sme"><em type="italic">čakča- ja giđđagirji  </em> </p>
-    <p>hinta: 25,00 €</p>
-    <p xml:lang="nno">ISBN 951-53-0466-6E</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2003 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Boađusgirji 5, čakča- ja giđđagirji  </em> </p>
-    <p xml:lang="fkv">(Tuloskirja 5 syksy ja kevät)</p>
-    <p xml:lang="sms">ISBN 952-441-023-0</p>
-    <p>hinta: 4,00 €</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1999 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-53-0602-7</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1996 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">S  </em><em type="italic">uokkardangihpa giđđaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 951-53-0980-8</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1996 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 5 </em> </p>
-    <p xml:lang="sme">Čakča- ja giđđaoassi</p>
-    <p>(Työkirjan ratkaisut syksy ja kevät)</p>
-    <p xml:lang="sms">ISBN 952-441-044-3</p>
-    <p>hinta: 3,00 €</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2000 </em>
-    </p>
-    <p><em type="italic">Oahpa rehkenastit 6  </em> ,  taso: 6 lk  </p>
-    <p>Marjatta Koivisto, Merja Salonen, Tuula Uus-Leponiemi, Risto Ilmavirta</p>
-    <p>kuvat Johanna Seurujärvi (kansi), Susan Reed, Taina Niemitukia-Sole, Tuovi Laine, Merja-Aletta Ranttila; Esa Kontoniemi</p>
-    <p xml:lang="sme"><em type="italic">čakča- ja giđđaoassi  </em> </p>
-    <p>hinta: 25,00 €</p>
-    <p>ISBN 952-441-094-X</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2003 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Boađusgirji 6 čakča- ja giđđaoassi  </em> </p>
-    <p xml:lang="fkv">(Tuloskirja 6 syksy ja kevät)</p>
-    <p xml:lang="sms">ISBN 952-441-022-2</p>
-    <p>hinta: 4,00 €</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1999 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p>ISBN 952-441-001-X</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1997 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
-    <p>hinta: 4,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-002-8</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 1997 </em>
-    </p>
-    <p xml:lang="sme"><em type="italic">Suokkardangihpa čovdosat 6  </em> </p>
-    <p xml:lang="sme">Čakča- ja giđđaoassi</p>
-    <p>(Työkirjan ratkaisut syksy ja kevät)</p>
-    <p xml:lang="sms">ISBN 952-441-045-1</p>
-    <p>hinta: 3,00 €</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2000 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Pohjoissaame, alakoulun matematiikka</title><genre code="admin"/><author><unknown/></author><wordcount>787</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=133&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=133_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=133_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pohjoissaame, alakoulun matematiikka</p>
+<p type="title" xml:lang="sme">Lohkoleaika</p>
+<p><em type="italic">- </em>oppimateriaali on käännetty saamenkielelle WSOY:n sarjasta <em type="italic">Matikka. </em> </p>
+<p><em type="italic">Lohkoleaika 3-6 koepaketteja </em> sekä  <em type="italic">oppikirjan tehtävien ratkaisut  </em>     </p>
+<p xml:lang="fkv">voi tilata opetuskäyttöön oppimateriaalitoimistolta!</p>
+<p type="title">Lohkoleaika 1taso: 1 lk</p>
+<p><em type="italic">Päivi Okkonen-Sotka, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em>saameksi    <em type="italic">Merja Nillukka    </em></p>
+<p type="title">čakčaoassi (syyskirja)</p>
+<p>sivuja: 180</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em> </p>
+<p xml:lang="sms">ISBN 978-952-441-207-0</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
+<p type="title">giđđaoassi (kevätkirja)</p>
+<p>sivuja: 192</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-231-5</p>
+<p><em type="italic">Saamelaiskäräjät 2012 </em> </p>
+<p type="title" xml:lang="sme">Lohkoleaika 2</p>
+<p type="title">taso: 2 lk</p>
+<p><em type="italic">Päivi Okkonen-Sotka, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em> saameksi    <em type="italic">Merja Nillukka    </em>  </p>
+<p type="title">čakčaoassi (syyskirja)</p>
+<p xml:lang="swe"/>
+<p>sivuja: 194</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-226-1</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
+<p type="title">giđđaoassi (kevätkirja)</p>
+<p>sivuja: 191</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-232-2</p>
+<p><em type="italic">Saamelaiskäräjät 2012  </em></p>
+<p type="title" xml:lang="sme">Lohkoleaika 3</p>
+<p type="title">taso: 3 lk</p>
+<p><em type="italic">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em> </p>
+<p>saameksi <em type="italic">Jovnna-Ánde Vest    </em> </p>
+<p type="title">čakčaoassi (syyskirja)</p>
+<p xml:lang="swe"><em type="bold"> </em></p>
+<p>sivuja: 204</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-224-7</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
+<p type="title">giđđaoassi (kevätkirja)</p>
+<p>sivuja: 210</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-222-3</p>
+<p><em type="italic">Saamelaiskäräjät 2012 </em> </p>
+<p type="title" xml:lang="sme">Lohkoleaika 4</p>
+<p type="title">taso: 4 lk</p>
+<p><em type="bold">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  saameksi    </em></p>
+<p>saameksi</p>
+<p><em type="bold">Jovnna-Ánde Vest    </em></p>
+<p type="title">čakčaoassi (syyskirja)</p>
+<p>sivuja: 200</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-225-4</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em></p>
+<p><em type="italic">giđđaoassi (kevätkirja) </em>  </p>
+<p>sivuja: 210</p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-230-8</p>
+<p>Saamelaiskäräjät 2012</p>
+<p type="title" xml:lang="sme">Lohkoleaika 5</p>
+<p type="title">taso: 5 lk</p>
+<p><em type="bold">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  saameksi    </em></p>
+<p>saameksi</p>
+<p><em type="bold">Jovnna-Ánde Vest    </em></p>
+<p type="title">čakčaoassi (syyskirja)</p>
+<p>sivuja: 203</p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-237-7</p>
+<p><em type="italic">Saamelaiskäräjät 2012 </em></p>
+<p xml:lang="est">g  <em type="italic">iđđaoassi (kevätkirja) </em>  </p>
+<p>sivuja: 211</p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-238-4</p>
+<p>Saamelaiskäräjät 2012</p>
+<p type="title" xml:lang="sme">Lohkoleaika 6</p>
+<p type="title">taso: 6 lk</p>
+<p><em type="bold">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  saameksi    </em></p>
+<p>saameksi</p>
+<p><em type="bold">Jovnna-Ánde Vest    </em></p>
+<p type="title">čakčaoassi (syyskirja)</p>
+<p>sivuja: 203</p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-242-1</p>
+<p>Saamelaiskäräjät 2012</p>
+<p type="title">giđđaoassi (kevätkirja)</p>
+<p>sivuja: 211</p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="sms">ISBN 978-952-441-243-8</p>
+<p>Saamelaiskäräjät 2012</p>
+<p xml:lang="vep"><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p type="title" xml:lang="sme">Oahpa rehkenastit</p>
+<p xml:lang="rmn"><em type="bold">O </em></p>
+<p>ppimateriaali käännetty saamenkielelle WSOY:n sarjasta</p>
+<p xml:lang="vep"><em type="bold">Laskutaito. </em></p>
+<p>Sarjan on kääntänyt saameksi Jovnna-Ánde Vest.</p>
+<p><em type="italic">Oahpa rehkenastit 1  </em> ,  taso: 1 lk  </p>
+<p>Seppo Rikala, Helena Sieppi, Tuula Strang, Risto Ilmavirta,</p>
+<p>kuvat Olli Luotonen, Pekka Könönen ja Merja-Aletta Ranttila; Esa ja Timo Kontoniemi</p>
+<p><em type="italic">čakčaoassi (syyskirja)  </em> </p>
+<p>hinta: 7,50 €</p>
+<p xml:lang="sms">ISBN 951-47-9797-3</p>
+<p><em type="italic">Lapin lääninhallitus 1994 </em></p>
+<p><em type="italic">giđđaoassi (kevätkirja)  </em> </p>
+<p>hinta: 10,00 €</p>
+<p xml:lang="sms">ISBN 952-441-064-8</p>
+<p><em type="italic">Saamelaiskäräjät 2002 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-47-9803-1</p>
+<p><em type="italic">Lapin lääninhallitus 1994 </em></p>
+<p><em type="italic">Oahpa rehkenastit 2  </em> ,  taso: 2 lk  </p>
+<p>Seppo Rikala, Helena Sieppi, Tuula Strang, Risto Ilmavirta,</p>
+<p>kuvat Olli Luotonen, Esa Kontoniemi, Merja-Aletta Ranttila ja Virpi Jefremoff; Tuovi Laine</p>
+<p xml:lang="kal"><em type="italic">čakčaoassi  </em> </p>
+<p>hinta: 10,00 €</p>
+<p xml:lang="sms">ISBN 952-441-065-6</p>
+<p><em type="italic">Saamelaiskäräjät 2002 </em></p>
+<p xml:lang="sme"><em type="italic">giđđaoassi  </em> </p>
+<p>hinta: 10,00 €</p>
+<p xml:lang="sms">ISBN 952-441-066-4</p>
+<p><em type="italic">Saamelaiskäräjät 2002 </em></p>
+<p xml:lang="sme"><em type="italic">Boađusgirji 2 Čakča ja giđđa </em> </p>
+<p xml:lang="fkv">(Tuloskirja 2 syksy ja kevät)</p>
+<p>hinta: 5,00 €</p>
+<p xml:lang="sms">ISBN 952-441-025-7</p>
+<p><em type="italic">Saamelaiskäräjät 1999 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čakčaoassi </em> </p>
+<p>ISBN 951-47-9804-X</p>
+<p>hinta: 4,00 €</p>
+<p><em type="italic">Lapin lääninhallitus 1995 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-53-0980-8</p>
+<p><em type="italic">Lapin lääninhallitus 1995 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 2 </em>  </p>
+<p xml:lang="sme">Čakča- ja giđđaoassi</p>
+<p>(Työkirjan ratkaisut, syksy ja kevät)</p>
+<p>hinta: 3,00 €</p>
+<p xml:lang="sms">ISBN 952-441-041-9</p>
+<p><em type="italic">Saamelaiskäräjät 2000 </em></p>
+<p><em type="italic">Oahpa rehkenastit 3  </em> ,  taso: 3 lk  </p>
+<p>Seppo Rikala, Tuula Strang, Risto Ilmavirta</p>
+<p>kuvat Olli Luotonen, Esa Kontoniemi, Merja-Aletta Ranttila; Tuovi Laine ja Anne Piisilä</p>
+<p xml:lang="kal"><em type="italic">čakčaoassi  </em> </p>
+<p>hinta: 15,00 €</p>
+<p xml:lang="sms">ISBN 978-952-441-184-4</p>
+<p><em type="italic">Saamelaiskäräjät 2009 </em></p>
+<p xml:lang="sme"><em type="italic">giđđaoassi  </em> </p>
+<p>hinta: 15,00 €</p>
+<p xml:lang="sms">ISBN 978-952-441-216-2</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em></p>
+<p xml:lang="sme"><em type="italic">Boađusgirji 3  </em> </p>
+<p xml:lang="sme">Čakča ja giđđa</p>
+<p>(Tuloskirja, syys- ja kevätkirja)</p>
+<p>hinta: 5,00 €</p>
+<p xml:lang="sms">ISBN 952-441-021-4</p>
+<p><em type="italic">Saamelaiskäräjät 1999 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-47-9806-6</p>
+<p>Lapin lääninhallitus 1994</p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-47-9807-4</p>
+<p><em type="italic">Lapin lääninhallitus 1995 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 3 </em>  </p>
+<p xml:lang="sme">Čakča- ja giđđaoassi</p>
+<p>(Työkirjan ratkaisut, syksy ja kevät)</p>
+<p>hinta: 3,00 €</p>
+<p xml:lang="sms">ISBN 952-441-042-7</p>
+<p><em type="italic">Saamelaiskäräjät 2000 </em></p>
+<p><em type="italic">Oahpa rehkenastit 4  </em> ,  taso: 4 lk  </p>
+<p>Seppo Rikala, Tuula Strang, Risto Ilmavirta</p>
+<p>kuvat Olli Luotonen, Esa Kontoniemi, Tuovi Laine, Sirpa Seppänen, Timo Kontoniemi, &#13; 			Tuula Niemitukia-Sole ja Merja-Aletta Ranttila</p>
+<p xml:lang="kal"><em type="italic">čakčaoassi  </em> </p>
+<p>hinta: 15,00 €</p>
+<p xml:lang="sms">ISBN 978-952-441-185-1</p>
+<p><em type="italic">Saamelaiskäräjät 2009 </em></p>
+<p xml:lang="sme"><em type="italic">giđđaoassi  </em> </p>
+<p>hinta: 10,00 €</p>
+<p xml:lang="sms">ISBN 952-441-068-0</p>
+<p><em type="italic">Saamelaiskäräjät 2002 </em></p>
+<p xml:lang="sme"><em type="italic">Boađusgirji 4, čakča ja giđđa  </em> </p>
+<p xml:lang="fkv">(Tuloskirja 4 syksy ja kevät)</p>
+<p xml:lang="sms">ISBN 952-441-024-9</p>
+<p xml:lang="sme">hinta: haddi: 5,00 €</p>
+<p><em type="italic">Saamelaiskäräjät 1999 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-53-0565-9</p>
+<p><em type="italic">Saamelaiskäräjät 1997 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
+<p xml:lang="sme">hinta: haddi: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-53-0566-7</p>
+<p><em type="italic">Saamelaiskäräjät 1997 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 4 </em> </p>
+<p xml:lang="sme">Čakča- ja giđđaoassi</p>
+<p>(Työkirjan ratkaisut, syksy ja kevät)</p>
+<p xml:lang="sms">ISBN 952-441-044-5</p>
+<p>hinta: 3,00 €</p>
+<p><em type="italic">Saamelaiskäräjät 2000 </em></p>
+<p><em type="italic">Oahpa rehkenastit 5  </em> ,  taso: 5 lk  </p>
+<p>Marjatta Koivisto, Merja Salonen, Tuula Uus-Leponiemi, Risto Ilmavirta</p>
+<p>kuvat Marjaana Aikio (kansi), Susan Reed, Taina Niemitukia-Sole, Tuovi Laine, Merja-Aletta Ranttila; Esa Kontoniemi</p>
+<p xml:lang="sme"><em type="italic">čakča- ja giđđagirji  </em> </p>
+<p>hinta: 25,00 €</p>
+<p xml:lang="nno">ISBN 951-53-0466-6E</p>
+<p><em type="italic">Saamelaiskäräjät 2003 </em></p>
+<p xml:lang="sme"><em type="italic">Boađusgirji 5, čakča- ja giđđagirji  </em> </p>
+<p xml:lang="fkv">(Tuloskirja 5 syksy ja kevät)</p>
+<p xml:lang="sms">ISBN 952-441-023-0</p>
+<p>hinta: 4,00 €</p>
+<p><em type="italic">Saamelaiskäräjät 1999 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-53-0602-7</p>
+<p><em type="italic">Saamelaiskäräjät 1996 </em></p>
+<p xml:lang="sme"><em type="italic">S  </em><em type="italic">uokkardangihpa giđđaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 951-53-0980-8</p>
+<p><em type="italic">Saamelaiskäräjät 1996 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa </em><em type="italic">čovdosat 5 </em> </p>
+<p xml:lang="sme">Čakča- ja giđđaoassi</p>
+<p>(Työkirjan ratkaisut syksy ja kevät)</p>
+<p xml:lang="sms">ISBN 952-441-044-3</p>
+<p>hinta: 3,00 €</p>
+<p><em type="italic">Saamelaiskäräjät 2000 </em></p>
+<p><em type="italic">Oahpa rehkenastit 6  </em> ,  taso: 6 lk  </p>
+<p>Marjatta Koivisto, Merja Salonen, Tuula Uus-Leponiemi, Risto Ilmavirta</p>
+<p>kuvat Johanna Seurujärvi (kansi), Susan Reed, Taina Niemitukia-Sole, Tuovi Laine, Merja-Aletta Ranttila; Esa Kontoniemi</p>
+<p xml:lang="sme"><em type="italic">čakča- ja giđđaoassi  </em> </p>
+<p>hinta: 25,00 €</p>
+<p>ISBN 952-441-094-X</p>
+<p><em type="italic">Saamelaiskäräjät 2003 </em></p>
+<p xml:lang="sme"><em type="italic">Boađusgirji 6 čakča- ja giđđaoassi  </em> </p>
+<p xml:lang="fkv">(Tuloskirja 6 syksy ja kevät)</p>
+<p xml:lang="sms">ISBN 952-441-022-2</p>
+<p>hinta: 4,00 €</p>
+<p><em type="italic">Saamelaiskäräjät 1999 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa čakčaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p>ISBN 952-441-001-X</p>
+<p><em type="italic">Saamelaiskäräjät 1997 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa giđđaoassi  </em> </p>
+<p>hinta: 4,00 €</p>
+<p xml:lang="sms">ISBN 952-441-002-8</p>
+<p><em type="italic">Saamelaiskäräjät 1997 </em></p>
+<p xml:lang="sme"><em type="italic">Suokkardangihpa čovdosat 6  </em> </p>
+<p xml:lang="sme">Čakča- ja giđđaoassi</p>
+<p>(Työkirjan ratkaisut syksy ja kevät)</p>
+<p xml:lang="sms">ISBN 952-441-045-1</p>
+<p>hinta: 3,00 €</p>
+<p><em type="italic">Saamelaiskäräjät 2000 </em></p>
+</body></document>

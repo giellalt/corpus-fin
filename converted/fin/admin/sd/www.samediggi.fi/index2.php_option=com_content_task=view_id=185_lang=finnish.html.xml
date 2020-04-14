@@ -1,32 +1,6 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Pohjoismainen saamelaissopimus esillä ministerikokouksessa Helsingissä</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>143</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=185&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=185_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=185_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Pohjoismainen saamelaissopimus esillä ministerikokouksessa Helsingissä</p>
-    <p>Saamelaisasioista vastaavien Suomen, Norjan ja Ruotsin ministerien ja saamelaiskäräjien puheenjohtajien vuosittainen kokous pidettiin Helsingissä 12. marraskuuta oikeusministeri Tuija Braxin johdolla. Kokouksessa käsiteltiin muun ohella pohjoismaisen saamelaissopimuksen jatkovalmistelua.</p>
-    <p>Sopimuksen jatkovalmisteluun tähtäävä työ on pitkittynyt, koska Suomi on joutunut panemaan etusijalle saamelaisten kotiseutualueen valtionmaiden käyttöön liittyvän kansallisen hankkeen valmistelun. Pohjoismaista saamelaissopimusta koskevaa prosessia päätettiin kuitenkin jatkaa Norjan puheenjohtajuuskaudella 2009 selvittämällä, millä tavoin mahdolliset sopimusneuvottelut tulisi käytännössä toteuttaa.</p>
-    <p>Norjan, Ruotsin ja Suomen välisen sopimuksen tavoitteena on luoda saamelaisten oikeusasemaa koskeva yhdenmukainen pohjoismainen sääntely. Sopimuksessa olisi määräyksiä muun muassa saamelaisten itsemääräämisoikeudesta, yhteistyöstä saamelaiskäräjien ja valtioiden välillä, saamelaisten kielellisistä ja kulttuurisista oikeuksista sekä elinkeinojen harjoittamisesta.</p>
-    <p>Ruotsia kokouksessa edusti maatalousministeri Eskil Erlandsson. Saamelaiskäräjiä edustivat puheenjohtajat Egil Olli Norjasta, Lars-Anders Baer Ruotsista ja Klemetti Näkkäläjärvi ja Irja Seurujärvi-Kari Suomesta. Norjan työ- ja integraatioministeri Dag Terje Andersen ei yllättäen voinut osallistua kokoukseen lentomatkaan liittyneiden ongelmien takia.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Pohjoismainen saamelaissopimus esillä ministerikokouksessa Helsingissä</title><genre code="admin"/><author><unknown/></author><wordcount>143</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=185&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=185_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=185_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pohjoismainen saamelaissopimus esillä ministerikokouksessa Helsingissä</p>
+<p>Saamelaisasioista vastaavien Suomen, Norjan ja Ruotsin ministerien ja saamelaiskäräjien puheenjohtajien vuosittainen kokous pidettiin Helsingissä 12. marraskuuta oikeusministeri Tuija Braxin johdolla. Kokouksessa käsiteltiin muun ohella pohjoismaisen saamelaissopimuksen jatkovalmistelua.</p>
+<p>Sopimuksen jatkovalmisteluun tähtäävä työ on pitkittynyt, koska Suomi on joutunut panemaan etusijalle saamelaisten kotiseutualueen valtionmaiden käyttöön liittyvän kansallisen hankkeen valmistelun. Pohjoismaista saamelaissopimusta koskevaa prosessia päätettiin kuitenkin jatkaa Norjan puheenjohtajuuskaudella 2009 selvittämällä, millä tavoin mahdolliset sopimusneuvottelut tulisi käytännössä toteuttaa.</p>
+<p>Norjan, Ruotsin ja Suomen välisen sopimuksen tavoitteena on luoda saamelaisten oikeusasemaa koskeva yhdenmukainen pohjoismainen sääntely. Sopimuksessa olisi määräyksiä muun muassa saamelaisten itsemääräämisoikeudesta, yhteistyöstä saamelaiskäräjien ja valtioiden välillä, saamelaisten kielellisistä ja kulttuurisista oikeuksista sekä elinkeinojen harjoittamisesta.</p>
+<p>Ruotsia kokouksessa edusti maatalousministeri Eskil Erlandsson. Saamelaiskäräjiä edustivat puheenjohtajat Egil Olli Norjasta, Lars-Anders Baer Ruotsista ja Klemetti Näkkäläjärvi ja Irja Seurujärvi-Kari Suomesta. Norjan työ- ja integraatioministeri Dag Terje Andersen ei yllättäen voinut osallistua kokoukseen lentomatkaan liittyneiden ongelmien takia.</p>
+</body></document>

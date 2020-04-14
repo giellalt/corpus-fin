@@ -1,50 +1,18 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>221</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Undersokningarprover/Koloskopi</origFileName>
-    <parallel_text xml:lang="eng" location="koloskopi.html"/>
-    <parallel_text xml:lang="rus" location="koloskopi.html"/>
-    <parallel_text xml:lang="swe" location="koloskopi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Koloskopia / Koloskopi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title">KoloskopiaKoloskopi</p>
-    <p type="title">Yleiskatsaus</p>
-    <p type="title">Yleistä</p>
-    <p>Koloskopiassa paksusuoli (kolon) tutkitaan taipuisan tähystysletkun, nk. koloskoopin kanssa. Tutkimus voidaan tehdä potilaille, joiden ulosteessa on verta tai joilla on ummetusta tai ripulia. Koloskoopin avulla voidaan myös ottaa kudosnäytteitä ja tehdä erilaisia hoitotoimenpiteitä.</p>
-    <p>Koloskoopilla voidaan muun muassa nähdä onko paksusuolessa kasvaimia tai tulehdus.</p>
-    <p>Kerro lääkärille ennen toimenpidettä, jos sinulla on sydän- tai keuhko-ongelmia. Sama pätee jos käytät insuliinia tai verta ohentavia lääkkeitä.</p>
-    <p type="title">Valmistautuminen</p>
-    <p>Ennen tutkimusta suolen sisältö on tyhjennettävä laksatiivilla (suolen toimintaa kiihdyttävällä aineella). Jos käytät kuitua tai rautaa sisältäviä lääkkeitä, lopeta niiden käyttö viikkoa ennen toimenpidettä.</p>
-    <p type="title">Kuinka tutkimus tehdään?</p>
-    <p>Ennen toimenpidettä peräaukko voidellaan puuduttavalla voiteella. Sen jälkeen käyt makuulle tutkimuspöydälle, ja lääkäri vie koloskoopin peräsuolen läpi.</p>
-    <p>Tutkimus voi toisinaan tehdä kipeää tai olla epämiellyttävä koloskooppia sisään vietäessä, mutta voit saada tarvittaessa rentouttavaa ja kipua lievittävää lääkettä.</p>
-    <p>Tutkimuksen kesto on noin 15–60 minuuttia.</p>
-    <p type="title">Vointi tutkimuksen jälkeen</p>
-    <p>Tutkimuksen jälkeen voit tuntea olosi jännittyneeksi ja vatsaasi voi turvottaa sinne päässeen ilman vuoksi. Vatsassa voi myös tuntua nipistelyä. Epämiellyttävä olo lakkaa yleensä, kun ilma pääsee pois. Tutkimuksen jälkeen voit syödä ja juoda tavalliseen tapaan.</p>
-    <p>Jos olet saanut rauhoittavia lääkkeitä, saat jäädä vastaanotolle tunniksi tai pariksi. Autoa saat ajaa vasta seuraavana päivänä.</p>
-    <p>Voi olla hyvä ottaa joku läheinen tutkimukseen mukaan. Saatat myös tarvita työstä vapaata loppupäivän.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>217</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Undersokningarprover/Koloskopi</origFileName><parallel_text xml:lang="eng" location="koloskopi.html"/><parallel_text xml:lang="rus" location="koloskopi.html"/><parallel_text xml:lang="swe" location="koloskopi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Koloskopia / Koloskopi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">KoloskopiaKoloskopi</p>
+<p type="title">Yleiskatsaus</p>
+<p type="title">Yleistä</p>
+<p>Koloskopiassa paksusuoli (kolon) tutkitaan taipuisan tähystysletkun, nk. koloskoopin kanssa. Tutkimus voidaan tehdä potilaille, joiden ulosteessa on verta tai joilla on ummetusta tai ripulia. Koloskoopin avulla voidaan myös ottaa kudosnäytteitä ja tehdä erilaisia hoitotoimenpiteitä.</p>
+<p>Koloskoopilla voidaan muun muassa nähdä onko paksusuolessa kasvaimia tai tulehdus.</p>
+<p>Kerro lääkärille ennen toimenpidettä, jos sinulla on sydän- tai keuhko-ongelmia. Sama pätee jos käytät insuliinia tai verta ohentavia lääkkeitä.</p>
+<p type="title">Valmistautuminen</p>
+<p>Ennen tutkimusta suolen sisältö on tyhjennettävä laksatiivilla (suolen toimintaa kiihdyttävällä aineella). Jos käytät kuitua tai rautaa sisältäviä lääkkeitä, lopeta niiden käyttö viikkoa ennen toimenpidettä.</p>
+<p type="title">Kuinka tutkimus tehdään?</p>
+<p>Ennen toimenpidettä peräaukko voidellaan puuduttavalla voiteella. Sen jälkeen käyt makuulle tutkimuspöydälle, ja lääkäri vie koloskoopin peräsuolen läpi.</p>
+<p>Tutkimus voi toisinaan tehdä kipeää tai olla epämiellyttävä koloskooppia sisään vietäessä, mutta voit saada tarvittaessa rentouttavaa ja kipua lievittävää lääkettä.</p>
+<p>Tutkimuksen kesto on noin 15–60 minuuttia.</p>
+<p type="title">Vointi tutkimuksen jälkeen</p>
+<p>Tutkimuksen jälkeen voit tuntea olosi jännittyneeksi ja vatsaasi voi turvottaa sinne päässeen ilman vuoksi. Vatsassa voi myös tuntua nipistelyä. Epämiellyttävä olo lakkaa yleensä, kun ilma pääsee pois. Tutkimuksen jälkeen voit syödä ja juoda tavalliseen tapaan.</p>
+<p>Jos olet saanut rauhoittavia lääkkeitä, saat jäädä vastaanotolle tunniksi tai pariksi. Autoa saat ajaa vasta seuraavana päivänä.</p>
+<p>Voi olla hyvä ottaa joku läheinen tutkimukseen mukaan. Saatat myös tarvita työstä vapaata loppupäivän.</p>
+</body></document>

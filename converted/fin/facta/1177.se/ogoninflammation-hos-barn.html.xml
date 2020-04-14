@@ -1,66 +1,23 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>458</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Ogoninflammation-hos-barn</origFileName>
-    <parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Lapsen silmätulehdus - mitä voi tehdä itse? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Lapsen silmätulehdus - mitä voi tehdä itse?Ögoninflammation hos barn - vad kan man göra själv?</p>
-    <list>
-      <p type="listitem">Pese silmä sideharsolla tai vanulapulla ulkonurkasta sisäänpäin.</p>
-    </list>
-    <p type="title">Silmätulehdus paranee yleensä viikossa</p>
-    <p>Lasten silmätulehdus on yleinen vaiva, jota esiintyy usein flunssan kaltaisen virustartunnan yhteydessä. Silmän valkuaiset punoittavat ja ärtyvät, ja silmistä vuotaa tahmeaa, useimmiten kellertävää nestettä. Silmä näyttää tavallisesti turvonneelta. Useimmiten silmätulehdus paranee viikossa ilman hoitoa. Silmätulehdus tarttuu herkästi.</p>
-    <p>Lapset voivat saada silmätulehduksen myös muista syistä. Syynä voi olla allerginen reaktio tai että lapsi on loukannut silmänsä tai saanut siihen roskan. Tulehdus on kehon puolustautumiskeino.</p>
-    <p type="title">Voiko lapsi mennä esikouluun?</p>
-    <p>Lievästi flunssainen lapsi, jonka silmät punoittavat ja rähmivät, voi mennä esikouluun, jos lapsen yleisvointi on hyvä. Esikouluun menevän lapsen on oltava niin pirteä, että hän jaksaa osallistua siellä kaikkeen toimintaan. Allergian aiheuttamista silmävaivoista kärsivien lasten ei myöskään tarvitse pysytellä kotona.</p>
-    <p type="title">Lapsen tulee olla kotona, jos silmät rähmivät voimakkaasti</p>
-    <p>Jos lapsen silmät liimautuvat kiinni, ja rähmivä silmä täytyy pyyhkiä puhtaaksi monta kertaa päivässä, lapsi on saanut voimakkaan tartunnan. Useimmiten molemmat silmät ärtyvät ja saattavat rähmiä. Lapsen tulee tällöin olla kotona, toisaalta suuren tartuntariskin vuoksi, toisaalta siksi, että lapsen silmä pitää puhdistaa useita kertoja päivässä. Lapsi voi palata lapsiryhmään vasta sitten, kun voimakkain tulehdus on mennyt ohi ja silmän rähmiminen loppunut.</p>
-    <p>Silmäinfektio tarttuu herkimmin pienten lasten keskuudessa, koska lapset leikkivät niin lähellä toisiaan. Tartunta leviää mm. kun tartunnan saanut lapsi hieroo silmiään ja tämän jälkeen koskee leluja tai toisia lapsia. Koululaiset eivät ole yhtä läheisessä kontaktissa toistensa kanssa, mutta heidänkin saattaa olla hyvä pysytellä kotona, jos silmät ovat ärtyneet.</p>
-    <p type="title">Silmien puhdistus vedellä</p>
-    <p>Jos lapsen silmät rähmivät, ne on hyvä pestä tavallisella vedellä niin usein kuin on tarpeen. Pese silmä sideharsolla tai vanulapulla ulkonurkasta sisäänpäin.</p>
-    <p type="title">Huolehdi käsien puhtaudesta</p>
-    <p>Kädet on silmätartuntojen ehkäisemiseksi pestävä huolella, jos joutuu olemaan flunssaisten keskuudessa. Sekä kotona että esikoulussa on myös hyvä vaihtaa käsipyyhkeet usein.</p>
-    <p type="title">Vastasyntyneet lapset</p>
-    <p>On tavallista, että vastasyntyneiden lasten silmiin kertyy kellertävää eritettä. Tämä johtuu siitä, että vastasyntyneiden kyynelkanavat ovat ahtaammat kuin vanhempien lasten ja aikuisten. Pese silmä ulkonurkasta sisäänpäin vedessä tai keittosuolaliuoksessa kostutetulla sideharsolla tai vanulapulla.</p>
-    <p type="title">Milloin tarpeen ottaa yhteys sairaanhoitoon</p>
-    <p>Jos silmätulehdus ei ole parantunut viikossa, saatetaan hoitoon tarvita antibiootteja. Tällöin voi ottaa yhteyttä terveyskeskukseen. Kahden päivän lääkitsemisen jälkeen tartuntavaaraa ei enää ole ja lapsi voi mennä takaisin esikouluun.</p>
-    <p>Yhteydenottoa sairaanhoitoon ei pidä viivyttää, jos lapsi on saanut voimakkaan, runsaasti rähmivän tartunnan. Sama pätee silloin, kun lapsen silmät aristavat valoa tai jos tällä on vaikeita flunssaoireita. Jos lapsella on ankaria kipuja vain toisessa silmässä ja jos lapsen epäillään loukanneen silmänsä, sairaanhoitoon tulee ottaa yhteyttä viipymättä.</p>
-    <p>Jos vastasyntyneellä lapsella on silmätulehdus, tulee yhteyttä ottaa sairaanhoitoon.</p>
-    <p>Sairaanhoitoneuvontaan voi soittaa koska tahansa.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>454</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Ogoninflammation-hos-barn</origFileName><parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/><parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Lapsen silmätulehdus - mitä voi tehdä itse? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Lapsen silmätulehdus - mitä voi tehdä itse?Ögoninflammation hos barn - vad kan man göra själv?</p>
+<list><p type="listitem">Pese silmä sideharsolla tai vanulapulla ulkonurkasta sisäänpäin.</p>
+</list><p type="title">Silmätulehdus paranee yleensä viikossa</p>
+<p>Lasten silmätulehdus on yleinen vaiva, jota esiintyy usein flunssan kaltaisen virustartunnan yhteydessä. Silmän valkuaiset punoittavat ja ärtyvät, ja silmistä vuotaa tahmeaa, useimmiten kellertävää nestettä. Silmä näyttää tavallisesti turvonneelta. Useimmiten silmätulehdus paranee viikossa ilman hoitoa. Silmätulehdus tarttuu herkästi.</p>
+<p>Lapset voivat saada silmätulehduksen myös muista syistä. Syynä voi olla allerginen reaktio tai että lapsi on loukannut silmänsä tai saanut siihen roskan. Tulehdus on kehon puolustautumiskeino.</p>
+<p type="title">Voiko lapsi mennä esikouluun?</p>
+<p>Lievästi flunssainen lapsi, jonka silmät punoittavat ja rähmivät, voi mennä esikouluun, jos lapsen yleisvointi on hyvä. Esikouluun menevän lapsen on oltava niin pirteä, että hän jaksaa osallistua siellä kaikkeen toimintaan. Allergian aiheuttamista silmävaivoista kärsivien lasten ei myöskään tarvitse pysytellä kotona.</p>
+<p type="title">Lapsen tulee olla kotona, jos silmät rähmivät voimakkaasti</p>
+<p>Jos lapsen silmät liimautuvat kiinni, ja rähmivä silmä täytyy pyyhkiä puhtaaksi monta kertaa päivässä, lapsi on saanut voimakkaan tartunnan. Useimmiten molemmat silmät ärtyvät ja saattavat rähmiä. Lapsen tulee tällöin olla kotona, toisaalta suuren tartuntariskin vuoksi, toisaalta siksi, että lapsen silmä pitää puhdistaa useita kertoja päivässä. Lapsi voi palata lapsiryhmään vasta sitten, kun voimakkain tulehdus on mennyt ohi ja silmän rähmiminen loppunut.</p>
+<p>Silmäinfektio tarttuu herkimmin pienten lasten keskuudessa, koska lapset leikkivät niin lähellä toisiaan. Tartunta leviää mm. kun tartunnan saanut lapsi hieroo silmiään ja tämän jälkeen koskee leluja tai toisia lapsia. Koululaiset eivät ole yhtä läheisessä kontaktissa toistensa kanssa, mutta heidänkin saattaa olla hyvä pysytellä kotona, jos silmät ovat ärtyneet.</p>
+<p type="title">Silmien puhdistus vedellä</p>
+<p>Jos lapsen silmät rähmivät, ne on hyvä pestä tavallisella vedellä niin usein kuin on tarpeen. Pese silmä sideharsolla tai vanulapulla ulkonurkasta sisäänpäin.</p>
+<p type="title">Huolehdi käsien puhtaudesta</p>
+<p>Kädet on silmätartuntojen ehkäisemiseksi pestävä huolella, jos joutuu olemaan flunssaisten keskuudessa. Sekä kotona että esikoulussa on myös hyvä vaihtaa käsipyyhkeet usein.</p>
+<p type="title">Vastasyntyneet lapset</p>
+<p>On tavallista, että vastasyntyneiden lasten silmiin kertyy kellertävää eritettä. Tämä johtuu siitä, että vastasyntyneiden kyynelkanavat ovat ahtaammat kuin vanhempien lasten ja aikuisten. Pese silmä ulkonurkasta sisäänpäin vedessä tai keittosuolaliuoksessa kostutetulla sideharsolla tai vanulapulla.</p>
+<p type="title">Milloin tarpeen ottaa yhteys sairaanhoitoon</p>
+<p>Jos silmätulehdus ei ole parantunut viikossa, saatetaan hoitoon tarvita antibiootteja. Tällöin voi ottaa yhteyttä terveyskeskukseen. Kahden päivän lääkitsemisen jälkeen tartuntavaaraa ei enää ole ja lapsi voi mennä takaisin esikouluun.</p>
+<p>Yhteydenottoa sairaanhoitoon ei pidä viivyttää, jos lapsi on saanut voimakkaan, runsaasti rähmivän tartunnan. Sama pätee silloin, kun lapsen silmät aristavat valoa tai jos tällä on vaikeita flunssaoireita. Jos lapsella on ankaria kipuja vain toisessa silmässä ja jos lapsen epäillään loukanneen silmänsä, sairaanhoitoon tulee ottaa yhteyttä viipymättä.</p>
+<p>Jos vastasyntyneellä lapsella on silmätulehdus, tulee yhteyttä ottaa sairaanhoitoon.</p>
+<p>Sairaanhoitoneuvontaan voi soittaa koska tahansa.</p>
+</body></document>

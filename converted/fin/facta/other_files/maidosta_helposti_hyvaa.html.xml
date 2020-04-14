@@ -1,67 +1,47 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Maidosta helposti hyvää</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>409</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/maidosta-helposti-hyvaa/</origFileName>
-    <parallel_text xml:lang="sme" location="mielkkis_alkit_buorri.html"/>
-    <parallel_text xml:lang="swe" location="mjolk_ger_mycket_gott.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">Tekemistä tunneille ja kotiin <list><p type="listitem" xml:lang="fkv">Tehtävät</p><p type="listitem" xml:lang="fkv">RuokaTutkaTube</p><p type="listitem">Testaamo</p><p type="listitem" xml:lang="fkv">RuokaTutkaPeli</p></list></p>
-      <p type="listitem">Tietoa ruuasta <list><p type="listitem">Maidosta helposti hyvää</p><p type="listitem">Kasvikset ovat superruokaa</p><p type="listitem" xml:lang="est">Ruokakasvatus</p><p type="listitem" xml:lang="fkv">Kouluruokailu</p><p type="listitem">Ruoka ja aistit <list><p type="listitem">9 askelta rohkeaan maisteluun</p><p type="listitem">Makukoulu – aistit käyttöön</p></list></p><p type="listitem" xml:lang="fkv">Luomuruoka maistuu</p><p type="listitem" xml:lang="eng">OpeTube</p></list></p>
-      <p type="listitem">Tietoa hankkeesta <list><p type="listitem">Lapset ja nuoret ruokatutkijoina</p><p type="listitem">RuokaTutka-materiaalien pedagogiset lähtökohdat</p></list></p>
-      <p type="listitem" xml:lang="est">Juliste</p>
-      <p type="listitem">RuokaTaide-kilpailu</p>
-    </list>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Maidosta helposti hyvää</p>
-    <p type="title">Maailman maidonkulutus Top 5Suomi Irlanti Uusi-Seelanti Australia Kypros</p>
-    <p type="title">Maito on osa suomalaista ruokakulttuuria</p>
-    <p>Suomalaiset kuluttavatkin eniten maitoa maailmassa, yli 300 kiloa henkeä kohden vuodessa. Tilastoa johtavan viisikon lisäksi kovia maidonjuojia löytyy muista Pohjoismaista, Iso-Britanniasta ja Virosta. Kouluissa juodaan maitoa myös esimerkiksi Japanissa, Malesiassa, Thaimaassa, Argentiinassa, Meksikossa ja Iranissa. Suomalaiset nauttivat vajaan puolet maidosta nestemuodossa eli maitona, piimänä ja jogurttina. Lisäksi syödään juustoa ja rahkaa. Jäätelönsyönnissä johdamme tilastoja Euroopassa. Meijerituotteet ovat merkittäviä vientituotteitamme.</p>
-    <p>
-      <em type="italic">Maidontuotanto on tärkeä elinkeino </em>
-    </p>
-    <p>Maidontuotanto elävöittää ja pitää maaseutua asuttuna, ja Suomessa on noin 300 000 lypsylehmää. Maidontuotannon sivutuotteena saadaan 85 prosenttia naudanlihatuotannosta. Nautojen vahvuus on niiden kyky käyttää ravintonaan nurmea, joka ei sovellu sikojen ja siipikarjan ruokintaan. Nurmen pitäminen <em type="italic">viljelykierrossa </em>pitää huolta peltomaan rakenteesta. </p>
-    <p type="title">Maito on tutkimuksissa todettu hyödylliseksi tai neutraaliksi terveydelle.</p>
-    <p>Maidon juonnilla voi olla myönteisiä vaikutuksia erityisesti lihavuuden ja tyypin 2 diabeteksen ehkäisyn kannalta. Kun tutkijat arvioivat ruoka-aineiden terveellisyyttä, he perehtyvät tutkimustietoon laajasti. <em type="italic">Suomalaiset ravitsemussuositukset </em>pohjautuvatkin perusteellisen tieteellisen selvitystyön tuloksena laadittuihin Pohjoismaiden ravitsemussuosituksiin. Päivittäin suositellaan nautittavaksi 5-6 desilitraa nestemäisiä maitovalmisteita, kuten maitoa, piimää, jogurttia ja viiliä ja syömään lisäksi 2-3 viipaletta juustoa. Koska maidon rasva on kovaa, tyydyttynyttä rasvaa, on hyvä valita vähärasvaisia ja rasvattomia vaihtoehtoja. </p>
-    <p type="title">Maito sopii mainiosti koululaisen ruokajuomaksi</p>
-    <p>Kalsiumia ja D-vitamiinia tarvitaan luuston rakennusaineeksi, B-vitamiinit osallistuvat tärkeisiin aineenvaihduntareaktioihin ja B 12 -vitamiinia on luonnostaan vain eläinkunnan tuotteissa. Kaikkiin luomumaitoihin D-vitamiinia ei lisätä, mutta koulumaito on vitaminoitua. Myös jodi on välttämätön aineenvaihdunnan normaalille toiminnalle. D-vitamiinin ja jodin saanti on suomalaisilla ollut niukkaa. Maitoproteiinit ovat korkealaatuisia, ja sisältävät lysiiniä, jota kasvikunnan tuotteissa on vain vähän. Maito siis täydentää hyvin kasvisruokavaliota. Hapanmaitotuotteiden maitohappobakteerit voivat edistää terveyttä, sillä ne pitävät yllä suoliston hyvää bakteerikantaa.</p>
-    <p type="title">Maitovalmisteet sopivat liikunnasta palautumiseen</p>
-    <p>Maito ja maitovalmisteet sisältävät juuri sopivassa suhteessa hiilihydraatteja, proteiineja ja kivennäisaineita, joita lihakset kaipaavat liikuntasuorituksen jälkeen. Hapanmaitotuotteet ja juustovoileipä täysjyväleivästä sopivat aamu-, väli- ja iltapaloille. Maustamattomasta jogurtista ja marjoista tai hedelmistä valmistuu herkullinen smoothie.</p>
-    <p xml:lang="sms">
-      <em type="italic">Lue lisää: </em>
-    </p>
-    <list>
-      <p type="listitem">Terveyttä ruoasta! Suomalaiset ravitsemussuositukset 2014</p>
-      <p type="listitem">Syödään yhdessä – ruokasuositukset lapsiperheille</p>
-      <p type="listitem">Hyvä tietää maidosta</p>
-      <p type="listitem">Maidon reitti</p>
-      <p type="listitem">Maitotuotteiden valmistus</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Maidosta helposti hyvää</title><genre code="facta"/><author><unknown/></author><wordcount>409</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/maidosta-helposti-hyvaa/</origFileName><parallel_text xml:lang="sme" location="mielkkis_alkit_buorri.html"/><parallel_text xml:lang="swe" location="mjolk_ger_mycket_gott.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">Tekemistä tunneille ja kotiin <list><p type="listitem" xml:lang="fkv">Tehtävät</p>
+<p type="listitem">RuokaTutkaTube</p>
+<p type="listitem">Testaamo</p>
+<p type="listitem" xml:lang="fkv">RuokaTutkaPeli</p>
+</list></p>
+<p type="listitem">Tietoa ruuasta <list><p type="listitem">Maidosta helposti hyvää</p>
+<p type="listitem">Kasvikset ovat superruokaa</p>
+<p type="listitem" xml:lang="est">Ruokakasvatus</p>
+<p type="listitem" xml:lang="fkv">Kouluruokailu</p>
+<p type="listitem">Ruoka ja aistit <list><p type="listitem">9 askelta rohkeaan maisteluun</p>
+<p type="listitem">Makukoulu – aistit käyttöön</p>
+</list></p>
+<p type="listitem" xml:lang="fkv">Luomuruoka maistuu</p>
+<p type="listitem" xml:lang="eng">OpeTube</p>
+</list></p>
+<p type="listitem">Tietoa hankkeesta <list><p type="listitem">Lapset ja nuoret ruokatutkijoina</p>
+<p type="listitem">RuokaTutka-materiaalien pedagogiset lähtökohdat</p>
+</list></p>
+<p type="listitem" xml:lang="fit">Juliste</p>
+<p type="listitem">RuokaTaide-kilpailu</p>
+</list><list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Maidosta helposti hyvää</p>
+<p type="title">Maailman maidonkulutus Top 5Suomi Irlanti Uusi-Seelanti Australia Kypros</p>
+<p type="title">Maito on osa suomalaista ruokakulttuuria</p>
+<p>Suomalaiset kuluttavatkin eniten maitoa maailmassa, yli 300 kiloa henkeä kohden vuodessa. Tilastoa johtavan viisikon lisäksi kovia maidonjuojia löytyy muista Pohjoismaista, Iso-Britanniasta ja Virosta. Kouluissa juodaan maitoa myös esimerkiksi Japanissa, Malesiassa, Thaimaassa, Argentiinassa, Meksikossa ja Iranissa. Suomalaiset nauttivat vajaan puolet maidosta nestemuodossa eli maitona, piimänä ja jogurttina. Lisäksi syödään juustoa ja rahkaa. Jäätelönsyönnissä johdamme tilastoja Euroopassa. Meijerituotteet ovat merkittäviä vientituotteitamme.</p>
+<p><em type="italic">Maidontuotanto on tärkeä elinkeino </em></p>
+<p>Maidontuotanto elävöittää ja pitää maaseutua asuttuna, ja Suomessa on noin 300 000 lypsylehmää. Maidontuotannon sivutuotteena saadaan 85 prosenttia naudanlihatuotannosta. Nautojen vahvuus on niiden kyky käyttää ravintonaan nurmea, joka ei sovellu sikojen ja siipikarjan ruokintaan. Nurmen pitäminen <em type="italic">viljelykierrossa </em>pitää huolta peltomaan rakenteesta. </p>
+<p type="title">Maito on tutkimuksissa todettu hyödylliseksi tai neutraaliksi terveydelle.</p>
+<p>Maidon juonnilla voi olla myönteisiä vaikutuksia erityisesti lihavuuden ja tyypin 2 diabeteksen ehkäisyn kannalta. Kun tutkijat arvioivat ruoka-aineiden terveellisyyttä, he perehtyvät tutkimustietoon laajasti. <em type="italic">Suomalaiset ravitsemussuositukset </em>pohjautuvatkin perusteellisen tieteellisen selvitystyön tuloksena laadittuihin Pohjoismaiden ravitsemussuosituksiin. Päivittäin suositellaan nautittavaksi 5-6 desilitraa nestemäisiä maitovalmisteita, kuten maitoa, piimää, jogurttia ja viiliä ja syömään lisäksi 2-3 viipaletta juustoa. Koska maidon rasva on kovaa, tyydyttynyttä rasvaa, on hyvä valita vähärasvaisia ja rasvattomia vaihtoehtoja. </p>
+<p type="title">Maito sopii mainiosti koululaisen ruokajuomaksi</p>
+<p>Kalsiumia ja D-vitamiinia tarvitaan luuston rakennusaineeksi, B-vitamiinit osallistuvat tärkeisiin aineenvaihduntareaktioihin ja B 12 -vitamiinia on luonnostaan vain eläinkunnan tuotteissa. Kaikkiin luomumaitoihin D-vitamiinia ei lisätä, mutta koulumaito on vitaminoitua. Myös jodi on välttämätön aineenvaihdunnan normaalille toiminnalle. D-vitamiinin ja jodin saanti on suomalaisilla ollut niukkaa. Maitoproteiinit ovat korkealaatuisia, ja sisältävät lysiiniä, jota kasvikunnan tuotteissa on vain vähän. Maito siis täydentää hyvin kasvisruokavaliota. Hapanmaitotuotteiden maitohappobakteerit voivat edistää terveyttä, sillä ne pitävät yllä suoliston hyvää bakteerikantaa.</p>
+<p type="title">Maitovalmisteet sopivat liikunnasta palautumiseen</p>
+<p>Maito ja maitovalmisteet sisältävät juuri sopivassa suhteessa hiilihydraatteja, proteiineja ja kivennäisaineita, joita lihakset kaipaavat liikuntasuorituksen jälkeen. Hapanmaitotuotteet ja juustovoileipä täysjyväleivästä sopivat aamu-, väli- ja iltapaloille. Maustamattomasta jogurtista ja marjoista tai hedelmistä valmistuu herkullinen smoothie.</p>
+<p xml:lang="sms"><em type="italic">Lue lisää: </em></p>
+<list><p type="listitem">Terveyttä ruoasta! Suomalaiset ravitsemussuositukset 2014</p>
+<p type="listitem">Syödään yhdessä – ruokasuositukset lapsiperheille</p>
+<p type="listitem">Hyvä tietää maidosta</p>
+<p type="listitem">Maidon reitti</p>
+<p type="listitem">Maitotuotteiden valmistus</p>
+</list></body></document>

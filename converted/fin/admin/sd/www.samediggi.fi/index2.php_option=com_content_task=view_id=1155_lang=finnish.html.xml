@@ -1,36 +1,12 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Kieliteko -palkinto 2015</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>208</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1155&amp;lang=finnish</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1155_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1155_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1155_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kieliteko -palkinto 2015</p>
-    <p>Saamen kielineuvosto on osoittanut vuoden 2015</p>
-    <p xml:lang="smn">Kieliteko 2015</p>
-    <p>Mielenterveystalo.fi-yhteistyöhankkeelle saamenkielisten palvelujen ja saamen kielen aseman edistämiseksi tehdystä ansiokkaasta työstä Suomessa.</p>
-    <p>Mielenterveystalo.fi-yhteistyöhankkeen verkkopalvelu sisältää masennuksen omahoito-ohjelman pohjoissaamen kielellä.</p>
-    <p>Kieliteko–palkinnolla saamen kielineuvosto haluaa kiinnittää huomiota siihen, että Mielenterveystalo.fi-yhteistyöhanke on toteuttanut saamelaisten kielellisiä palveluja uudenaikaisella tavalla, joka saavuttaa suuren joukon saamenkielisiä henkilöitä.</p>
-    <p>Mielenterveystalo.fi-yhteistyöhankkeen verkkojulkaisu Omahoito-opas ja sen käyttäminen eivät ole aikaan ja paikkaan sidottuja. Omahoito-opas saavuttaa verkkojulkaisuna saamenkielisen väestön niin saamelaisalueella kuin sen ulkopuolella. Verkossa toimiminen ja oppaiden ja esitteiden julkaiseminen verkossa ovat nykyaikaisia palvelumuotoja, joita tulee entisestään lisätä olemassa olevien palvelumuotojen lisäksi.</p>
-    <p>Verkkojulkaisuna Omahoito-opas tavoittaa paremmin erityisesti saamenkielisen nuoremman väestön, joka on tottunut asioimaan verkossa ja käyttämään sähköisiä palveluja. Saamenkielinen Omahoito-opas antaa opastusta oman voinnin tukemiseksi ja oppaseen voi tutustua omaan tahtiin paikasta riippumatta.</p>
-    <p>Saamen kielineuvosto pitää tärkeänä, että se on saatavilla myös saamen kielillä. Saamenkielisten verkkojulkaisujen tuottamisessa on olennaista, että julkaisu on helposti löydettävissä.</p>
-    <p>Vaikka Omahoito-ohjelmaan ei ole suoraa linkkiä Mielenterveystalo.fi-sivustolta, se löytyy kuitenkin Mielenterveystalo.fi-sivuston omahoito-oppaita selaamalla. Omahoito-oppaan toimittaminen verkossa pohjoissaamen kielellä on saamenkielisten palvelujen tarjonnassa sellainen päänavaus, jonka Saamen kielineuvosto toivoo rohkaisevan myös muita tahoja järjestämään saamenkielisiä palveluita verkossa.</p>
-    <p>Nyt julkaistu Omahoito-opas on ensimmäinen Mielenterveystalo.fi-yhteistyöhankkeen pohjoissaamenkielinen verkkojulkaisu. Saamen kielineuvosto toivoo Kieliteko-palkinnon innoittavan palkinnonsaajaa laajentamaan pohjoissaamenkielistä tarjontaansa sekä toimittavan verkkomateriaalia mahdollisuuksien mukaan myös inarinsaameksi ja koltansaameksi.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Kieliteko -palkinto 2015</title><genre code="admin"/><author><unknown/></author><wordcount>208</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1155&amp;lang=finnish</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1155_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1155_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1155_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kieliteko -palkinto 2015</p>
+<p>Saamen kielineuvosto on osoittanut vuoden 2015</p>
+<p xml:lang="smn">Kieliteko 2015</p>
+<p>Mielenterveystalo.fi-yhteistyöhankkeelle saamenkielisten palvelujen ja saamen kielen aseman edistämiseksi tehdystä ansiokkaasta työstä Suomessa.</p>
+<p>Mielenterveystalo.fi-yhteistyöhankkeen verkkopalvelu sisältää masennuksen omahoito-ohjelman pohjoissaamen kielellä.</p>
+<p>Kieliteko–palkinnolla saamen kielineuvosto haluaa kiinnittää huomiota siihen, että Mielenterveystalo.fi-yhteistyöhanke on toteuttanut saamelaisten kielellisiä palveluja uudenaikaisella tavalla, joka saavuttaa suuren joukon saamenkielisiä henkilöitä.</p>
+<p>Mielenterveystalo.fi-yhteistyöhankkeen verkkojulkaisu Omahoito-opas ja sen käyttäminen eivät ole aikaan ja paikkaan sidottuja. Omahoito-opas saavuttaa verkkojulkaisuna saamenkielisen väestön niin saamelaisalueella kuin sen ulkopuolella. Verkossa toimiminen ja oppaiden ja esitteiden julkaiseminen verkossa ovat nykyaikaisia palvelumuotoja, joita tulee entisestään lisätä olemassa olevien palvelumuotojen lisäksi.</p>
+<p>Verkkojulkaisuna Omahoito-opas tavoittaa paremmin erityisesti saamenkielisen nuoremman väestön, joka on tottunut asioimaan verkossa ja käyttämään sähköisiä palveluja. Saamenkielinen Omahoito-opas antaa opastusta oman voinnin tukemiseksi ja oppaseen voi tutustua omaan tahtiin paikasta riippumatta.</p>
+<p>Saamen kielineuvosto pitää tärkeänä, että se on saatavilla myös saamen kielillä. Saamenkielisten verkkojulkaisujen tuottamisessa on olennaista, että julkaisu on helposti löydettävissä.</p>
+<p>Vaikka Omahoito-ohjelmaan ei ole suoraa linkkiä Mielenterveystalo.fi-sivustolta, se löytyy kuitenkin Mielenterveystalo.fi-sivuston omahoito-oppaita selaamalla. Omahoito-oppaan toimittaminen verkossa pohjoissaamen kielellä on saamenkielisten palvelujen tarjonnassa sellainen päänavaus, jonka Saamen kielineuvosto toivoo rohkaisevan myös muita tahoja järjestämään saamenkielisiä palveluita verkossa.</p>
+<p>Nyt julkaistu Omahoito-opas on ensimmäinen Mielenterveystalo.fi-yhteistyöhankkeen pohjoissaamenkielinen verkkojulkaisu. Saamen kielineuvosto toivoo Kieliteko-palkinnon innoittavan palkinnonsaajaa laajentamaan pohjoissaamenkielistä tarjontaansa sekä toimittavan verkkomateriaalia mahdollisuuksien mukaan myös inarinsaameksi ja koltansaameksi.</p>
+</body></document>

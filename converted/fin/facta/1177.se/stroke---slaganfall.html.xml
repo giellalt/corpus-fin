@@ -1,61 +1,28 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>282</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Symtom_sjukdom/Stroke---slaganfall</origFileName>
-    <parallel_text xml:lang="eng" location="sammanfattning-stroke.html"/>
-    <parallel_text xml:lang="swe" location="stroke.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Aivohalvaus / Stroke - slaganfall - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title">Aivohalvaus Stroke - slaganfall</p>
-    <p xml:lang="swe">Skriv ut (ca 1 sida)</p>
-    <p type="title">Yhteenveto</p>
-    <p type="title">Yhteenveto</p>
-    <p type="title">Yleistä</p>
-    <p>Jos saa halvauskohtauksen nimeltä aivohalvaus (ruotsiksi stroke), tarkoittaa se, että aivoihin on muodostunut veritulppa tai verenvuoto. Se johtaa aivojen hapenpuutteeseen, mikä vioittaa niitä toimintoja, jotka ohjautuvat juuri siltä aivojen alueelta, jossa veritulppa tai vuoto sijaitsee. Aivohalvauksen saaminen on hengenvaarallista ja hoitoon on hakeuduttava välittömästi.</p>
-    <p>Useimmat aivohalvauksen saaneista ovat yli 65-vuotiaita, mutta myös nuoremmalla iällä voi sairastua. Riski saada aivohalvaus kasvaa esimerkiksi niillä henkilöillä, jotka tupakoivat, joilla on korkea verenpaine, korkeat veren rasva-arvot, diabetes tai joilla esiintyy sydämen eteisvärinää.</p>
-    <p>On tavallista, että aivohalvauksesta jää joitakin häiriöitä, mutta se vaihtelee henkilöstä toiseen. Hoidon ja kuntoutuksen avulla voivat monet potilaat tulla parempaan kuntoon tai myös löytää uusia tapoja tehdä asioita.</p>
-    <p type="title">Oireet</p>
-    <p>On tavallista, että aivohalvaukseen sairastuneella potilaalla ilmenee äkillistä</p>
-    <list>
-      <p type="listitem">kasvojen, käsien tai jalkojen usein kehon toispuoleista puutumista tai halvaantumista</p>
-      <p type="listitem">puhevaikeuksia tai puheen ymmärtämisvaikeuksia</p>
-      <p type="listitem">näköhäiriöitä toisessa tai molemmissa silmissä</p>
-      <p type="listitem">kävelyvaikeuksia</p>
-      <p type="listitem">selittämätöntä pyörrytystä, huimausta tai tasapainohäiriöitä</p>
-    </list>
-    <p>Myös äkillinen voimakas päänsärky, jolle ei ole selvää syytä, voi olla yksi oireista.</p>
-    <p type="title">Hoito</p>
-    <p>Mitä nopeammin hoitoon pääsee, sitä suurempi on mahdollisuus, että oireet katoavat tai tulevat paremmiksi.</p>
-    <p>Jos potilaalla on aivoveritulppa, saa hän yleensä uusia tukoksia ennaltaehkäisevää lääkettä. Potilaalla voi myös olla tarve saada veritulppia liuottavaa lääkettä, mutta siinä tapauksessa sairaalaan on tultava nopeasti oireiden alkamisen jälkeen. Jos potilas on saanut aivoverenvuodon, voidaan tarvita leikkaushoitoa.</p>
-    <p>Myös muuta hoitoa voidaan tarvita, esimerkiksi verenpainetta laskevaa lääkitystä.</p>
-    <p>Usein sairaalaan joutuu jäämään joksikin ajaksi hoidon ja kuntoutuksen saamiseksi.</p>
-    <p type="title">Milloin pitää hakeutua hoitoon?</p>
-    <p>Jos epäilee itsellään tai läheisellään aivohalvauksen oireita, pitää heti soittaa hätänumeroon 112.</p>
-    <p>Aina voi soittaa sairaanhoitoneuvontaan (sjukvårdsrådgivningen) saadakseen ohjausta.</p>
-    <p xml:lang="swe">﻿</p>
-    <p xml:lang="swe">Visa mer</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>278</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Symtom_sjukdom/Stroke---slaganfall</origFileName><parallel_text xml:lang="eng" location="sammanfattning-stroke.html"/><parallel_text xml:lang="swe" location="stroke.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Aivohalvaus / Stroke - slaganfall - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Aivohalvaus Stroke - slaganfall</p>
+<p xml:lang="swe">Skriv ut (ca 1 sida)</p>
+<p type="title">Yhteenveto</p>
+<p type="title">Yhteenveto</p>
+<p type="title">Yleistä</p>
+<p>Jos saa halvauskohtauksen nimeltä aivohalvaus (ruotsiksi stroke), tarkoittaa se, että aivoihin on muodostunut veritulppa tai verenvuoto. Se johtaa aivojen hapenpuutteeseen, mikä vioittaa niitä toimintoja, jotka ohjautuvat juuri siltä aivojen alueelta, jossa veritulppa tai vuoto sijaitsee. Aivohalvauksen saaminen on hengenvaarallista ja hoitoon on hakeuduttava välittömästi.</p>
+<p>Useimmat aivohalvauksen saaneista ovat yli 65-vuotiaita, mutta myös nuoremmalla iällä voi sairastua. Riski saada aivohalvaus kasvaa esimerkiksi niillä henkilöillä, jotka tupakoivat, joilla on korkea verenpaine, korkeat veren rasva-arvot, diabetes tai joilla esiintyy sydämen eteisvärinää.</p>
+<p>On tavallista, että aivohalvauksesta jää joitakin häiriöitä, mutta se vaihtelee henkilöstä toiseen. Hoidon ja kuntoutuksen avulla voivat monet potilaat tulla parempaan kuntoon tai myös löytää uusia tapoja tehdä asioita.</p>
+<p type="title">Oireet</p>
+<p>On tavallista, että aivohalvaukseen sairastuneella potilaalla ilmenee äkillistä</p>
+<list><p type="listitem">kasvojen, käsien tai jalkojen usein kehon toispuoleista puutumista tai halvaantumista</p>
+<p type="listitem">puhevaikeuksia tai puheen ymmärtämisvaikeuksia</p>
+<p type="listitem">näköhäiriöitä toisessa tai molemmissa silmissä</p>
+<p type="listitem">kävelyvaikeuksia</p>
+<p type="listitem">selittämätöntä pyörrytystä, huimausta tai tasapainohäiriöitä</p>
+</list><p>Myös äkillinen voimakas päänsärky, jolle ei ole selvää syytä, voi olla yksi oireista.</p>
+<p type="title">Hoito</p>
+<p>Mitä nopeammin hoitoon pääsee, sitä suurempi on mahdollisuus, että oireet katoavat tai tulevat paremmiksi.</p>
+<p>Jos potilaalla on aivoveritulppa, saa hän yleensä uusia tukoksia ennaltaehkäisevää lääkettä. Potilaalla voi myös olla tarve saada veritulppia liuottavaa lääkettä, mutta siinä tapauksessa sairaalaan on tultava nopeasti oireiden alkamisen jälkeen. Jos potilas on saanut aivoverenvuodon, voidaan tarvita leikkaushoitoa.</p>
+<p>Myös muuta hoitoa voidaan tarvita, esimerkiksi verenpainetta laskevaa lääkitystä.</p>
+<p>Usein sairaalaan joutuu jäämään joksikin ajaksi hoidon ja kuntoutuksen saamiseksi.</p>
+<p type="title">Milloin pitää hakeutua hoitoon?</p>
+<p>Jos epäilee itsellään tai läheisellään aivohalvauksen oireita, pitää heti soittaa hätänumeroon 112.</p>
+<p>Aina voi soittaa sairaanhoitoneuvontaan (sjukvårdsrådgivningen) saadakseen ohjausta.</p>
+<p xml:lang="swe">﻿</p>
+<p xml:lang="swe">Visa mer</p>
+</body></document>

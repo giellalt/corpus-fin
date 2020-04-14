@@ -1,99 +1,59 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>968</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Forbered-ditt-lakarbesok--tio-tips-</origFileName>
-    <parallel_text xml:lang="eng" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="swe" location="motet-med-varden.html"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Valmistaudu käyntiin lääkärin vastaanotolla - 10 vihjeen avulla / Förbered ditt läkarbesök – tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title">Valmistaudu käyntiin lääkärin vastaanotolla - 10 vihjeen avulla Förbered ditt läkarbesök – tio tips</p>
-    <p>Valmistautuminen auttaa hoitoon osallistumisessa ja yksilöllisessä tarveperustaisessa toteutuksessa yhdessä hoitohenkilöstön kanssa. Turvallinen ja riskitön hoito perustuu potilaan ja hoitohenkilöstön väliseen toimivaan keskusteluyhteyteen.</p>
-    <p type="title">1. Valitse sopiva vastaanotto</p>
-    <p>Hoitoa tarvitseva valitsee itselleen sopivan vastaanoton. Vastaanoton saa valita mistä tahansa koko maassa riippumatta siitä, millä paikkakunnalla on kirjoilla.</p>
-    <p>Hoitoa tarvitseva saa valita sekä perusterveydenhuollon hoidonantajan, esimerkiksi terveyskeskuksen, että avohoidossa toimivan erikoissairaanhoidon antajan, kuten esimerkiksi lasten vastaanoton. Erikoissairaanhoito saattaa vaatia lähetettä.</p>
-    <p>Uutta terveyskeskusta tai erikoissairaanhoidon vastaanottoa valittaessa niiden henkilöstö ei pääse tutustumaan automaattisesti aiempien hoidonantajien potilaskertomuksiin. Jos uudelle hoidonantajalle halutaan antaa mahdollisuus aiempiin potilaskertomuksiin tutustumiseen, se vaatii potilaan hyväksyntää. Hoidonantaja antaa tietoja menettelytavasta.</p>
-    <p>Hoitotakuu määrittelee hoitoon pääsyn aikarajat. Jos hoitopaikaksi valitaan toisten maakäräjien alue, hoitotakuu ei ole voimassa.</p>
-    <p type="title">2. Varmista ymmärtämys</p>
-    <p>Lääkärin vastaanotolla on tärkeää ymmärtää, mitä sanotaan, ja mitä se merkitsee. Hoitohenkilöstön tulee varmistaa, että potilas ymmärtää annetut tiedot, kuten esimerkiksi lääkkeen annostelun. Tärkeimpiä tietoja voi pyytää kirjallisina. Jos on kysyttävää, on mahdollista pyytää uutta tapaamista hoitohenkilöstön kanssa.</p>
-    <p>Annettavat tiedot on mukautettava potilaan mukaan. Jos ruotsin kielen ymmärtäminen tai puhuminen tuottaa vaikeuksia, on mahdollista saada tulkin apua. Tulkkausapua annetaan myös kuulon ja näön heikkenemisen tai kuurosokeuden perusteella. Kerro tulkkaustarpeesta otettaessa yhteyttä vastaanottoon käyntiä ennen.</p>
-    <p>Myös lapsilla on oikeus osallistua hoitoonsa. Lapsen osallistumiselle hoitotilannetta koskeviin päätöksiin ei ole ikärajaa, vaan se määräytyy lapsen kypsyyden ja hoidon mukaan.</p>
-    <p>Jos tietoihin ei pysty tutustumaan esimerkiksi muistisairauden johdosta, hoitohenkilöstö antaa tiedot sen sijaan läheiselle.</p>
-    <p type="title">3. Kerro tilanteesta ja esitä kysymyksiä</p>
-    <p>Lääkärin vastaanotolla käyntiin on hyvä valmistautua miettimällä, mitä haluaa kertoa lääkärille ja millaisiin kysymyksiin saada vastauksen. Kerro lääkärille käyntiin kohdistuvista odotuksista ja erityisistä huolenaiheista. Kysymykset on hyvä kirjoittaa paperille niiden muistamiseksi. Voi myös pyytää jotakuta toista kirjoittamaan ne muistiin. Ehdotuksia seikoista, jotka on hyvä kirjoittaa etukäteen muistiin:</p>
-    <list>
-      <p type="listitem">Millaisista vaivoista on kysymys.</p>
-      <p type="listitem">Milloin vaivat ilmaantuivat, ja mitkä seikat vaikuttavat niiden voimistumiseen tai heikkenemiseen.</p>
-      <p type="listitem">Lääkeluettelo, mukaan lukien käsikauppalääkkeet ja luontaistuotteet.</p>
-      <p type="listitem">Nykyiset ja aiemmat vakavat sairaudet.</p>
-    </list>
-    <p>Oireet on helpompi muistaa pitämällä niistä päiväkirjaa. Voi esimerkiksi kirjata, missä tilanteissa oireet ilmaantuvat, miltä ne tuntuvat ja missä kipua on.</p>
-    <p type="title">4. Omaan hoitoon osallistuminen</p>
-    <p>Potilaalla on oikeus ilmaista mielipiteensä hoidosta ja osallistua hoitoa koskevien päätösten tekemiseen mahdollisuuksien mukaan. Pystyäkseen osallistumaan hoitoon potilaan on saatava yksilöllisiä tietoja:</p>
-    <list>
-      <p type="listitem">Terveydentilastaan.</p>
-      <p type="listitem">Saatavilla olevista tutkimus- ja hoitomenetelmistä.</p>
-      <p type="listitem">Tutkimuksiin ja hoitoihin liittyvistä riskeistä ja sivuvaikutuksista.</p>
-      <p type="listitem">Arvioidusta hoitoajankohdasta.</p>
-      <p type="listitem">Suunnitellun hoidon yksityiskohdistaJälkihoidosta, ts. millaista hoitoa ja hoivaa potilas saattaa tarvita jälkikäteen.</p>
-      <p type="listitem">Miten sairastumista tai vammoja on mahdollista ehkäistä.</p>
-      <p type="listitem">Toimintarajoitteisille annetaan tietoja saatavilla olevista apuvälineistä.</p>
-    </list>
-    <p type="title">5. Tutkimuksia ja hoitoja koskevat tiedot</p>
-    <p>Diagnoosin jälkeiset tutkimukset ja hoidot noudattavat useimmiten rutiineja. Joskus valittavana on useita eri tutkimus- ja hoitovaihtoehtoja. Potilaalla on oikeus saada tietoa eri vaihtoehdoista ja valita niistä itselleen sopivimmat.</p>
-    <p>Päätä itse myös siitä, suostutko tutkimuksiin ja hoitoihin.</p>
-    <p>Potilaana ei voi vaatia hoitohenkilöstöltä hoitoa, joka on ristiriidassa tieteellisen tutkimuksen tai hoitoalan luotettavan kokemusperäisen tiedon kanssa. Hoitohenkilöstöllä ei myöskään ole velvollisuutta osallistua vaihtoehtolääkintään.</p>
-    <p type="title">6. Hoidosta kieltäytyminen</p>
-    <p>Tarjotusta hoidosta on useimmissa tapauksissa oikeus kieltäytyä. Poikkeuksena on psykiatrinen pakkohoito ja jotkut nk. yleisvaaralliset tartuntataudit, kuten esimerkiksi tartuntasuojalain piiriin kuuluva HIV.</p>
-    <p>Läheisillä ei ole oikeutta tehdä potilaan hoitoa koskevia päätöksiä. Jos potilas ei itse pysty ilmaisemaan tahtoaan, hoitohenkilöstö saattaa kysyä läheiseltä, tuntevatko he potilaan tahdon.</p>
-    <p type="title">7. Päätä itse, annetaanko läheisille tietoja</p>
-    <p>Joskus saattaa olla hyväksi tulla vastaanotolle yhdessä läheisen kanssa. Läheinen auttaa muistamaan, mitä vastaanotolla sanottiin, ja hän voi olla myös henkisenä tukena. Päätä kuitenkin itse, annetaanko tietoja läheisille sekä millaisia tietoja heille annetaan. Vaitiolo- ja salassapitovelvollisuuden johdosta läheiset saavat tietoja vain, kun potilas on itse läsnä, mutta hoitohenkilöstölle on mahdollista sanoa, että läheisille saa antaa tietoja. Hoitohenkilöstöllä on tapana kysyä, kenelle tietoja saa luovuttaa.</p>
-    <p>Kotona oleville aikuisille ei yleensä kerrota, että alle 18-vuotias hakee hoitoa. Heihin ei esimerkiksi oteta yhteyttä</p>
-    <list>
-      <p type="listitem">nuorisovastaanotolla käynnin johdosta</p>
-      <p type="listitem">kuraattorin tapaamisen johdosta</p>
-      <p type="listitem">ehkäisyneuvonnan johdosta</p>
-      <p type="listitem">sukupuolitautitestin johdosta.</p>
-    </list>
-    <p>Heille ei myöskään tarvitse kertoa hakeutumisesta hoitoon terveyskeskuksessa. Yhteydenoton ratkaisee hoidon syy, mutta myös nuoren ikä ja kypsyys. Kerro lääkärille, jos hoito halutaan salata vanhemmilta. Lue lisää vaitiolo- ja salassapitovelvollisuudesta osoitteessa UMO.se.</p>
-    <p>Pikkulasten huoltajat päättävät, saako lapsia koskevia tietoja luovuttaa muille. Lapsen varttuessa ja kypsyessä hän saa enenevässä määrin päättää itse, saako hoitohenkilöstö luovuttaa häntä koskevia tietoja, ja kenelle tietoja saa luovuttaa.</p>
-    <p type="title">8. Esitä jatkohoitoa koskevia kysymyksiä</p>
-    <p>Potilaalle on kerrottava, milloin ja keneltä koevastaukset ja tutkimustulokset saadaan. Potilaalle on myös kerrottava, kenen puoleen kääntyä, jos tila huononee.</p>
-    <p>Sairaalahoidon jälkeen hoitohenkilöstö yhdessä potilaan kanssa laatii ja vahvistaa hoitosuunnitelman kotiuttamista ennen.</p>
-    <p>Jos potilaalla on eri hoitosuhteita, on mahdollista pyytää pysyvän hoitoyhteyden nimeämistä. Hänen tehtävänään on koordinoida hoidon eri yhteyshenkilöt.</p>
-    <p type="title">9. Vakava tai hengenvaarallinen sairaus tai vamma</p>
-    <p>Jos sairaus tai vamma on hengenvaarallinen tai erityisen vakava, on mahdollista saada toisen lääkärin tekemä tilan uudelleenarviointi (nk. second opinion). Siitä voi olla apua esimerkiksi, jos tuntee epävarmuutta parhaiten sopivasta hoidosta. Uuden lääketieteellisen arvion pyytäminen ei välttämättä tarkoita sitä, että omalääkärin tekemään arvioon ei oltaisi tyytyväisiä.</p>
-    <p>Uuden lääkinnällisen arvion tekijäksi saa valita lääkärin mistä tahansa maassa. Lääkäri antaa tarvittaessa lisätietoja.</p>
-    <p type="title">10. Jos hoito ei ole tyydyttävä</p>
-    <p>Jos oma tai läheisen saama hoito ei ole tyydyttävä, asian johdosta on hyvä esittää näkökanta. Näin hoitoa parannetaan.</p>
-    <p>Ota ensi kädessä yhteyttä tutkineeseen tai hoitaneeseen lääkäriin tai hoitohenkilöstöön. Yhteyttä on mahdollista ottaa myös hoitopaikan johtajaan. Hoitopaikka selvittää tapahtuneen ja kertoo, miten vastaavan tapauksen toistuminen on mahdollista estää.</p>
-    <p>Kysymyksiä on mahdollista esittää myös potilaslautakunnalle. Jokaisten maakäräjien yhteydessä toimii potilaslautakunta tai potilaita auttava potilasasiamies. Potilaslautakunta ja potilasasiamies ottavat vastaan näkökantoja ja valituksia, muttei heillä ole valtuuksia päättää, onko sairaanhoitohenkilöstö tehnyt virheen. Myös potilasyhdistykset saattavat joskus auttaa valituksia koskevissa asioissa.</p>
-    <p>Syrjintäasiamiehelle (DO) on mahdollista tehdä ilmoitus, jos tuntee tulleensa syrjityksi hoidon aikana.</p>
-    <p>Jos hoito on vahingoittanut tai potilasturvassa on havaittu puutteita, asiasta on mahdollista tehdä ilmoitus Hoidon ja hoivan tarkastuslaitokselle (IVO). IVO tutkii virheen ja sen syyt selvittääkseen, miten vastaavan tapauksen toistuminen on mahdollista estää.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>964</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Forbered-ditt-lakarbesok--tio-tips-</origFileName><parallel_text xml:lang="eng" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="swe" location="motet-med-varden.html"/><parallel_text location="forbered-ditt-lakarbesok--tio-tips.html" xml:lang="rmy-rlo"/><parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Valmistaudu käyntiin lääkärin vastaanotolla - 10 vihjeen avulla / Förbered ditt läkarbesök – tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Valmistaudu käyntiin lääkärin vastaanotolla - 10 vihjeen avulla Förbered ditt läkarbesök – tio tips</p>
+<p>Valmistautuminen auttaa hoitoon osallistumisessa ja yksilöllisessä tarveperustaisessa toteutuksessa yhdessä hoitohenkilöstön kanssa. Turvallinen ja riskitön hoito perustuu potilaan ja hoitohenkilöstön väliseen toimivaan keskusteluyhteyteen.</p>
+<p type="title">1. Valitse sopiva vastaanotto</p>
+<p>Hoitoa tarvitseva valitsee itselleen sopivan vastaanoton. Vastaanoton saa valita mistä tahansa koko maassa riippumatta siitä, millä paikkakunnalla on kirjoilla.</p>
+<p>Hoitoa tarvitseva saa valita sekä perusterveydenhuollon hoidonantajan, esimerkiksi terveyskeskuksen, että avohoidossa toimivan erikoissairaanhoidon antajan, kuten esimerkiksi lasten vastaanoton. Erikoissairaanhoito saattaa vaatia lähetettä.</p>
+<p>Uutta terveyskeskusta tai erikoissairaanhoidon vastaanottoa valittaessa niiden henkilöstö ei pääse tutustumaan automaattisesti aiempien hoidonantajien potilaskertomuksiin. Jos uudelle hoidonantajalle halutaan antaa mahdollisuus aiempiin potilaskertomuksiin tutustumiseen, se vaatii potilaan hyväksyntää. Hoidonantaja antaa tietoja menettelytavasta.</p>
+<p>Hoitotakuu määrittelee hoitoon pääsyn aikarajat. Jos hoitopaikaksi valitaan toisten maakäräjien alue, hoitotakuu ei ole voimassa.</p>
+<p type="title">2. Varmista ymmärtämys</p>
+<p>Lääkärin vastaanotolla on tärkeää ymmärtää, mitä sanotaan, ja mitä se merkitsee. Hoitohenkilöstön tulee varmistaa, että potilas ymmärtää annetut tiedot, kuten esimerkiksi lääkkeen annostelun. Tärkeimpiä tietoja voi pyytää kirjallisina. Jos on kysyttävää, on mahdollista pyytää uutta tapaamista hoitohenkilöstön kanssa.</p>
+<p>Annettavat tiedot on mukautettava potilaan mukaan. Jos ruotsin kielen ymmärtäminen tai puhuminen tuottaa vaikeuksia, on mahdollista saada tulkin apua. Tulkkausapua annetaan myös kuulon ja näön heikkenemisen tai kuurosokeuden perusteella. Kerro tulkkaustarpeesta otettaessa yhteyttä vastaanottoon käyntiä ennen.</p>
+<p>Myös lapsilla on oikeus osallistua hoitoonsa. Lapsen osallistumiselle hoitotilannetta koskeviin päätöksiin ei ole ikärajaa, vaan se määräytyy lapsen kypsyyden ja hoidon mukaan.</p>
+<p>Jos tietoihin ei pysty tutustumaan esimerkiksi muistisairauden johdosta, hoitohenkilöstö antaa tiedot sen sijaan läheiselle.</p>
+<p type="title">3. Kerro tilanteesta ja esitä kysymyksiä</p>
+<p>Lääkärin vastaanotolla käyntiin on hyvä valmistautua miettimällä, mitä haluaa kertoa lääkärille ja millaisiin kysymyksiin saada vastauksen. Kerro lääkärille käyntiin kohdistuvista odotuksista ja erityisistä huolenaiheista. Kysymykset on hyvä kirjoittaa paperille niiden muistamiseksi. Voi myös pyytää jotakuta toista kirjoittamaan ne muistiin. Ehdotuksia seikoista, jotka on hyvä kirjoittaa etukäteen muistiin:</p>
+<list><p type="listitem">Millaisista vaivoista on kysymys.</p>
+<p type="listitem">Milloin vaivat ilmaantuivat, ja mitkä seikat vaikuttavat niiden voimistumiseen tai heikkenemiseen.</p>
+<p type="listitem">Lääkeluettelo, mukaan lukien käsikauppalääkkeet ja luontaistuotteet.</p>
+<p type="listitem">Nykyiset ja aiemmat vakavat sairaudet.</p>
+</list><p>Oireet on helpompi muistaa pitämällä niistä päiväkirjaa. Voi esimerkiksi kirjata, missä tilanteissa oireet ilmaantuvat, miltä ne tuntuvat ja missä kipua on.</p>
+<p type="title">4. Omaan hoitoon osallistuminen</p>
+<p>Potilaalla on oikeus ilmaista mielipiteensä hoidosta ja osallistua hoitoa koskevien päätösten tekemiseen mahdollisuuksien mukaan. Pystyäkseen osallistumaan hoitoon potilaan on saatava yksilöllisiä tietoja:</p>
+<list><p type="listitem">Terveydentilastaan.</p>
+<p type="listitem">Saatavilla olevista tutkimus- ja hoitomenetelmistä.</p>
+<p type="listitem">Tutkimuksiin ja hoitoihin liittyvistä riskeistä ja sivuvaikutuksista.</p>
+<p type="listitem">Arvioidusta hoitoajankohdasta.</p>
+<p type="listitem">Suunnitellun hoidon yksityiskohdistaJälkihoidosta, ts. millaista hoitoa ja hoivaa potilas saattaa tarvita jälkikäteen.</p>
+<p type="listitem">Miten sairastumista tai vammoja on mahdollista ehkäistä.</p>
+<p type="listitem">Toimintarajoitteisille annetaan tietoja saatavilla olevista apuvälineistä.</p>
+</list><p type="title">5. Tutkimuksia ja hoitoja koskevat tiedot</p>
+<p>Diagnoosin jälkeiset tutkimukset ja hoidot noudattavat useimmiten rutiineja. Joskus valittavana on useita eri tutkimus- ja hoitovaihtoehtoja. Potilaalla on oikeus saada tietoa eri vaihtoehdoista ja valita niistä itselleen sopivimmat.</p>
+<p>Päätä itse myös siitä, suostutko tutkimuksiin ja hoitoihin.</p>
+<p>Potilaana ei voi vaatia hoitohenkilöstöltä hoitoa, joka on ristiriidassa tieteellisen tutkimuksen tai hoitoalan luotettavan kokemusperäisen tiedon kanssa. Hoitohenkilöstöllä ei myöskään ole velvollisuutta osallistua vaihtoehtolääkintään.</p>
+<p type="title">6. Hoidosta kieltäytyminen</p>
+<p>Tarjotusta hoidosta on useimmissa tapauksissa oikeus kieltäytyä. Poikkeuksena on psykiatrinen pakkohoito ja jotkut nk. yleisvaaralliset tartuntataudit, kuten esimerkiksi tartuntasuojalain piiriin kuuluva HIV.</p>
+<p>Läheisillä ei ole oikeutta tehdä potilaan hoitoa koskevia päätöksiä. Jos potilas ei itse pysty ilmaisemaan tahtoaan, hoitohenkilöstö saattaa kysyä läheiseltä, tuntevatko he potilaan tahdon.</p>
+<p type="title">7. Päätä itse, annetaanko läheisille tietoja</p>
+<p>Joskus saattaa olla hyväksi tulla vastaanotolle yhdessä läheisen kanssa. Läheinen auttaa muistamaan, mitä vastaanotolla sanottiin, ja hän voi olla myös henkisenä tukena. Päätä kuitenkin itse, annetaanko tietoja läheisille sekä millaisia tietoja heille annetaan. Vaitiolo- ja salassapitovelvollisuuden johdosta läheiset saavat tietoja vain, kun potilas on itse läsnä, mutta hoitohenkilöstölle on mahdollista sanoa, että läheisille saa antaa tietoja. Hoitohenkilöstöllä on tapana kysyä, kenelle tietoja saa luovuttaa.</p>
+<p>Kotona oleville aikuisille ei yleensä kerrota, että alle 18-vuotias hakee hoitoa. Heihin ei esimerkiksi oteta yhteyttä</p>
+<list><p type="listitem">nuorisovastaanotolla käynnin johdosta</p>
+<p type="listitem">kuraattorin tapaamisen johdosta</p>
+<p type="listitem">ehkäisyneuvonnan johdosta</p>
+<p type="listitem">sukupuolitautitestin johdosta.</p>
+</list><p>Heille ei myöskään tarvitse kertoa hakeutumisesta hoitoon terveyskeskuksessa. Yhteydenoton ratkaisee hoidon syy, mutta myös nuoren ikä ja kypsyys. Kerro lääkärille, jos hoito halutaan salata vanhemmilta. Lue lisää vaitiolo- ja salassapitovelvollisuudesta osoitteessa UMO.se.</p>
+<p>Pikkulasten huoltajat päättävät, saako lapsia koskevia tietoja luovuttaa muille. Lapsen varttuessa ja kypsyessä hän saa enenevässä määrin päättää itse, saako hoitohenkilöstö luovuttaa häntä koskevia tietoja, ja kenelle tietoja saa luovuttaa.</p>
+<p type="title">8. Esitä jatkohoitoa koskevia kysymyksiä</p>
+<p>Potilaalle on kerrottava, milloin ja keneltä koevastaukset ja tutkimustulokset saadaan. Potilaalle on myös kerrottava, kenen puoleen kääntyä, jos tila huononee.</p>
+<p>Sairaalahoidon jälkeen hoitohenkilöstö yhdessä potilaan kanssa laatii ja vahvistaa hoitosuunnitelman kotiuttamista ennen.</p>
+<p>Jos potilaalla on eri hoitosuhteita, on mahdollista pyytää pysyvän hoitoyhteyden nimeämistä. Hänen tehtävänään on koordinoida hoidon eri yhteyshenkilöt.</p>
+<p type="title">9. Vakava tai hengenvaarallinen sairaus tai vamma</p>
+<p>Jos sairaus tai vamma on hengenvaarallinen tai erityisen vakava, on mahdollista saada toisen lääkärin tekemä tilan uudelleenarviointi (nk. second opinion). Siitä voi olla apua esimerkiksi, jos tuntee epävarmuutta parhaiten sopivasta hoidosta. Uuden lääketieteellisen arvion pyytäminen ei välttämättä tarkoita sitä, että omalääkärin tekemään arvioon ei oltaisi tyytyväisiä.</p>
+<p>Uuden lääkinnällisen arvion tekijäksi saa valita lääkärin mistä tahansa maassa. Lääkäri antaa tarvittaessa lisätietoja.</p>
+<p type="title">10. Jos hoito ei ole tyydyttävä</p>
+<p>Jos oma tai läheisen saama hoito ei ole tyydyttävä, asian johdosta on hyvä esittää näkökanta. Näin hoitoa parannetaan.</p>
+<p>Ota ensi kädessä yhteyttä tutkineeseen tai hoitaneeseen lääkäriin tai hoitohenkilöstöön. Yhteyttä on mahdollista ottaa myös hoitopaikan johtajaan. Hoitopaikka selvittää tapahtuneen ja kertoo, miten vastaavan tapauksen toistuminen on mahdollista estää.</p>
+<p>Kysymyksiä on mahdollista esittää myös potilaslautakunnalle. Jokaisten maakäräjien yhteydessä toimii potilaslautakunta tai potilaita auttava potilasasiamies. Potilaslautakunta ja potilasasiamies ottavat vastaan näkökantoja ja valituksia, muttei heillä ole valtuuksia päättää, onko sairaanhoitohenkilöstö tehnyt virheen. Myös potilasyhdistykset saattavat joskus auttaa valituksia koskevissa asioissa.</p>
+<p>Syrjintäasiamiehelle (DO) on mahdollista tehdä ilmoitus, jos tuntee tulleensa syrjityksi hoidon aikana.</p>
+<p>Jos hoito on vahingoittanut tai potilasturvassa on havaittu puutteita, asiasta on mahdollista tehdä ilmoitus Hoidon ja hoivan tarkastuslaitokselle (IVO). IVO tutkii virheen ja sen syyt selvittääkseen, miten vastaavan tapauksen toistuminen on mahdollista estää.</p>
+</body></document>

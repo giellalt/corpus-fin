@@ -1,37 +1,12 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Saamelaisen vanhustyöen työkalupakki</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>unknown</year>
-    <wordcount>127</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2157&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="sme" location="1_vanhustyo_pohsaame.pdf"/>
-    <parallel_text xml:lang="smn" location="1_vanhustyo_insaame.pdf"/>
-    <parallel_text xml:lang="sms" location="1_vanhustyo_koltsaame.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tavoitteena saamenkielisten ja kulttuuriin pohjautuvien palveluiden laatu, vaikuttavuus ja saatavuus</p>
-    <p xml:lang="vep">SAAMELAISEN VANHUSTYÖN TYÖKALUPAKKI</p>
-    <p> <em type="italic">- Miten toimin, kun asiakkaana on saamelainen ikäihminen?</em> </p>
-    <p><em type="bold">Työkalupakin avulla</em> </p>
-    <p type="listitem">•  Saamen kieli ja kulttuuri tulevat näkyviksi hoitotyössä.       Oman taustan merkitys ja hoitotyön laatu korostuvat.</p>
-    <p type="listitem">•  Henkilöstö huomioi paremmin saamelaisen ikääntyneen       tarpeet ja asiakas saa mahdollisuuden vaikuttaa omaan   hoitoonsa kotipalvelussa, palveluasumisessa, tehostetussa       palveluasumisessa ja laitoshoidossa.</p>
-    <p type="listitem">•  Henkilöstö saa käytännön tietoa siitä, miten saamelainen       ikääntynyt ihminen voi säilyttää ja ylläpitää kieltään,   kulttuuriaan ja identiteettiään.</p>
-    <p type="listitem">•  Ohjekirjasen avulla työyhteisöön tuleva työntekijä voidaan       helposti perehdyttää.</p>
-    <p type="listitem">•  Työkalupakista saa helposti ja nopeasti käsityksen siitä,   mitä saamelaisen vanhustyö työpaikalla tarkoittaa.</p>
-    <p type="listitem">•  Saamelaisen ikääntyneen ja omaisten vaikutusmahdollisuudet      hoitoon paranevat.</p>
-    <p type="listitem">•  Jokaisen luvun kohdalla on saamelaisten kotiseutualueella       tehtävää vanhustyötä koskevaa tietoa ja ohjeita. Lisäksi on tila,   johon työpaikkakohtaisia käytäntöjä voi täydentää.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Saamelaisen vanhustyöen työkalupakki</title><genre code="admin"/><author><unknown/></author><year>unknown</year><wordcount>127</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2157&amp;Itemid=10</origFileName><parallel_text xml:lang="sme" location="1_vanhustyo_pohsaame.pdf"/><parallel_text xml:lang="smn" location="1_vanhustyo_insaame.pdf"/><parallel_text xml:lang="sms" location="1_vanhustyo_koltsaame.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tavoitteena saamenkielisten ja kulttuuriin pohjautuvien palveluiden laatu, vaikuttavuus ja saatavuus</p>
+<p xml:lang="vep">SAAMELAISEN VANHUSTYÖN TYÖKALUPAKKI</p>
+<p> <em type="italic">- Miten toimin, kun asiakkaana on saamelainen ikäihminen?</em> </p>
+<p><em type="bold">Työkalupakin avulla</em> </p>
+<p type="listitem">•  Saamen kieli ja kulttuuri tulevat näkyviksi hoitotyössä.       Oman taustan merkitys ja hoitotyön laatu korostuvat.</p>
+<p type="listitem">•  Henkilöstö huomioi paremmin saamelaisen ikääntyneen       tarpeet ja asiakas saa mahdollisuuden vaikuttaa omaan   hoitoonsa kotipalvelussa, palveluasumisessa, tehostetussa       palveluasumisessa ja laitoshoidossa.</p>
+<p type="listitem">•  Henkilöstö saa käytännön tietoa siitä, miten saamelainen       ikääntynyt ihminen voi säilyttää ja ylläpitää kieltään,   kulttuuriaan ja identiteettiään.</p>
+<p type="listitem">•  Ohjekirjasen avulla työyhteisöön tuleva työntekijä voidaan       helposti perehdyttää.</p>
+<p type="listitem">•  Työkalupakista saa helposti ja nopeasti käsityksen siitä,   mitä saamelaisen vanhustyö työpaikalla tarkoittaa.</p>
+<p type="listitem">•  Saamelaisen ikääntyneen ja omaisten vaikutusmahdollisuudet      hoitoon paranevat.</p>
+<p type="listitem">•  Jokaisen luvun kohdalla on saamelaisten kotiseutualueella       tehtävää vanhustyötä koskevaa tietoa ja ohjeita. Lisäksi on tila,   johon työpaikkakohtaisia käytäntöjä voi täydentää.</p>
+</body></document>

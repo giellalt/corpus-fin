@@ -1,29 +1,5 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Neljä uutta pohjoissaamenkielistä matematiikan kirjaa ilmestyi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>65</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=590&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=590_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=590_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=590_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Neljä uutta pohjoissaamenkielistä matematiikan kirjaa ilmestyi</p>
-    <p>Perusopetuksen uuteen matematiikan oppikirjasarjaan on ilmestynyt neljä uutta pohjoissaamenkielistä oppikirjaa. Uudet oppikirjat ovat kevätlukukauden oppilaankirjoja luokille 1-4. <em type="italic">Lohkoleaika- </em>nimiset oppikirjat on käännetty WSOY:n Matikka-nimisestä sarjasta. Pohjoissaamenkieliset syyslukukauden oppikirjat 1-4 ja inarinsaamenkielinen syyslukukauden oppikirja <em type="italic">Lohosierâ 1 </em>on julkaistu vuonna 2011. Koko sarja tullaan julkaisemaan inarin- ja pohjoissaamen kielillä. </p>
-    <p>Oppikirjoja voi tilata saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta: anni.nakkalajarvi(at)samediggi.fi tai ritva.tammela(at)samediggi.fi.</p>
-    <p>Lisätietoja tästä.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Neljä uutta pohjoissaamenkielistä matematiikan kirjaa ilmestyi</title><genre code="admin"/><author><unknown/></author><wordcount>65</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=590&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=590_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=590_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=590_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Neljä uutta pohjoissaamenkielistä matematiikan kirjaa ilmestyi</p>
+<p>Perusopetuksen uuteen matematiikan oppikirjasarjaan on ilmestynyt neljä uutta pohjoissaamenkielistä oppikirjaa. Uudet oppikirjat ovat kevätlukukauden oppilaankirjoja luokille 1-4. <em type="italic">Lohkoleaika- </em>nimiset oppikirjat on käännetty WSOY:n Matikka-nimisestä sarjasta. Pohjoissaamenkieliset syyslukukauden oppikirjat 1-4 ja inarinsaamenkielinen syyslukukauden oppikirja <em type="italic">Lohosierâ 1 </em>on julkaistu vuonna 2011. Koko sarja tullaan julkaisemaan inarin- ja pohjoissaamen kielillä. </p>
+<p>Oppikirjoja voi tilata saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta: anni.nakkalajarvi(at)samediggi.fi tai ritva.tammela(at)samediggi.fi.</p>
+<p>Lisätietoja tästä.</p>
+</body></document>

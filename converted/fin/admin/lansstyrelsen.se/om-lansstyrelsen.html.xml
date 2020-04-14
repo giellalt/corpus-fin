@@ -1,84 +1,42 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>584</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/Fi/om-lansstyrelsen/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="fit" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="sme" location="om-lansstyrelsen.html"/>
-    <parallel_text xml:lang="swe" location="om-lansstyrelsen.html"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmu"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rka"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmf"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmn"/>
-    <parallel_text location="om-lansstyrelsen.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lääninhallituksesta - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem">Lääninhallituksesta</p>
-    </list>
-    <p type="title">Lääninhallituksesta</p>
-    <p>
-      <em type="italic">Lääninhallitus on lähellä ihmisiä jokaisessa läänissä toimiva valtion viranomainen. Olemme tärkeä linkki toisaalta ihmisten ja kuntien ja toisaalta hallituksen, eduskunnan ja keskeisten viranomaisten välillä. Maaherra on lääninhallituksen johtaja, ja hänen tehtävänään on seurata läänin kehitystä sekä tiedottaa hallitukselle läänin tarpeista. </em>
-    </p>
-    <p type="title">Tehtävämme</p>
-    <p>Lääninhallituksen tehtävänä on edistää kehitystä, jossa ympäristö, kasvu ja hyvät elinolosuhteet kulkevat käsi kädessä. Lyhyesti sanottuna se toimii kestävän kehityksen aikaansaamiseksi läänissä. Lääninhallitus vastaa eduskunnan ja hallituksen tekemien päätösten toteuttamisesta läänissä ja koordinoi valtion toimintaa. Läänin kehittämisessä meidän tulee käyttää hyväksi ja toimia yksityisten ihmisten ja yhteiskunnan etujen mukaisesti.</p>
-    <p>Lääninhallitusten toimintaohjeiden mukaisesti meidän tulee toimia seuraavilla alueilla</p>
-    <list>
-      <p type="listitem">elintarvikevalvonta, eläinsuojelu ja yleiset eläinlääkäritoimintaa koskevat kysymykset</p>
-      <p type="listitem">alueellisen kasvun edistäminen</p>
-      <p type="listitem">infrastruktuurin suunnittelu</p>
-      <p type="listitem">kestävän yhteiskunnan ja asumisen suunnittelu</p>
-      <p type="listitem">energia ja ilmasto</p>
-      <p type="listitem">kulttuuriympäristö</p>
-      <p type="listitem">onnettomuuksien ehkäisy sekä kriisivalmius ja siviilipuolustus</p>
-      <p type="listitem">luonnonsuojelu sekä ympäristön- ja terveydensuojelut</p>
-      <p type="listitem">maatalous ja maaseutu</p>
-      <p type="listitem">kalastus</p>
-      <p type="listitem">tasavertaisuus</p>
-      <p type="listitem" xml:lang="swe">integraatio.</p>
-    </list>
-    <p type="title">Maaherran ja läänin johto</p>
-    <p>Maaherra on hallituksen edustaja läänissä, ja hallitus valitsee hänet suoraan. Eräs maaherran tärkeistä tehtävistä on koordinoida valtion toimintaa läänissä, seurata läänin kehitystä ja tiedottaa hallitukselle läänin tarpeista. Tukholman, Skånen ja Itä-Göötanmaan lääneissä lääninhallituksen päivittäistä työtä johtaa lääninylijohtaja ja muissa lääneissä lääninneuvos, joka maaherran lähin avustaja ja hänen sijaisensa, kun tämä ei ole paikalla.</p>
-    <p type="title">Viraston päiväkirja</p>
-    <p>Lääninhallitus rekisteröi päivittäin viraston päiväkirjaan uudet asiat, meneillään olevien asioiden asiakirjat sekä asioissa tehdyt päätökset. Asiarekisteri on julkinen asiakirja ja sen voi tarkistaa Internetistä lääninhallituksen päiväkirjan (diarium) nimellä. Tietyissä tapauksissa tietojen julkaisua voidaan rajoittaa henkilötietolain nojalla.</p>
-    <p>Siirry lääninhallituksen viraston päiväkirjaan (ruotsinkielinen)</p>
-    <p type="title">Kuulutukset ja tiedoksiannot</p>
-    <p>Lääninhallitus tekee monia eri päätöksiä, jotka suoraan tai epäsuorasti koskevat läänin asukkaita ja yrityksiä. Tietyt päätökset pitää antaa tiedoksi sille, jota asia koskee. Jos asianosaisten joukko on suuri, asiasta voidaan kaikille asianosaisille lähetettävän asiakirjan sijaan ilmoittaa paikallislehdessä ns. kuulutusilmoituksella.</p>
-    <p type="title">Valittaminen</p>
-    <p>Jos lääninhallituksen tekemä päätös koskee sinua, voit valittaa siitä. Tehtyyn päätökseen sisällytetään tiedot valituksen tekemisestä. Lääninhallitus lähettää sen jälkeen valituksesi eteenpäin asian ratkaisevalle viranomaiselle. Voimme myös korjata omia päätöksiämme ja ottaa niitä uudelleen harkittavaksi.</p>
-    <p>Monista kunnan tekemistä päätöksistä, esimerkiksi rakennuslupaa koskevista, voidaan valittaa lääninoikeuteen. Jos haluat valittaa kunnan tekemästä päätöksestä, lähetä valituskirjelmäsi päätöksen tehneelle kunnalle. Voit valittaa vain sinua itseäsi koskevista päätöksestä.</p>
-    <p type="title">Säädökset</p>
-    <p>Säädökset ovat määräyksinä pidettäviä oikeussääntöjä. Ne eivät koske ketään yksittäistä henkilöä, vaan suurta yleisöä. Paikalliset määräykset koskevat muun muassa päätöksiä vesiensuojelusta, luonnossuojelualueesta, meriliikenteestä ja hirvenmetsästyksestä. Lääninhallitus julkaisee läänin säädöskokoelman, jossa on sekä sen itse että kuntien tai Ruotsin liikenneviraston antamia määräyksiä.</p>
-    <p type="title">Lähetteet</p>
-    <p>Lääninhallitus vastaanottaa vuosittain suuren määrän lausuntopyyntöjä. Tämä merkitsee, että saamme mahdollisuuden ilmaista mielipiteemme eri ministeriöiden tai valtion laitosten yms. lähettämistä ehdotuksista. Lääninhallitus lähettää myös monia omista päätöksistään lausuntokierrokselle läänin asianosaisille sidosryhmille.</p>
-    <p type="title">Lehdistöhuone</p>
-    <p>Lääninhallitus toimii aktiivisesti tärkeiden yhteiskuntaa koskevien tietojen levittämiseksi kansalaisille ja medioille. Verkkosivumme ja lehdistötiedotteemme ovat eräs tapa palvella sinua ja tiedottaa toiminnastamme.</p>
-    <p type="title">EU ja kansainvälinen toiminta</p>
-    <p>EU:n jäsenyys vaikuttaa meihin kansalaisina usealla eri tavalla sekä pienissä että suurissa asioissa. Lääninhallitukselle tämä merkitsee mahdollisuutta käyttää hyväksi yhteisiä voimavaroja, mutta myös yhteisten sääntöjen sääntöjen huomioon ottamista. Useilla lääninhallituksilla on kansainvälisiä kontakteja ja tietojenvaihtoa tai ne osallistuvat monilla tavoin läänin kehitykselle hyödyllisiin, rajat ylittäviin yhteistyöhankkeisiin. Erimuotoista yhteistyötä harjoitetaan myös EU:n ulkopuolisten maiden kanssa.</p>
-    <p type="title">Tule töihin meille</p>
-    <p>Lääninhallitus on monipuolisesta toiminnasta koostuva työpaikka. Olemme tieto- ja valvontaelin, jolla on laaja kokemus monilta eri alueilta. Päivittäisen työmme lähtökohtana on eduskunnan ja hallituksen päätösten täytäntöönpanosta huolehtiminen läänissä, eri intressien koordinointi ja läänin asukkaiden tarpeiden esille tuominen luodaksemme kestävän yhteiskunnan – jossa taloudellinen kehitys, ympäristö ja sosiaalinen hyvinvointi yhdistyvät.</p>
-    <p type="title">Hankinnat</p>
-    <p>Jokainen lääninhallitus on oma hankintoja tekevä viranomaisensa. Meillä on määrätyt suuntaviivat tavaroiden ja palveluiden ostosta ja vuokrauksesta, ja noudatamme lakia julkisista hankinnoista. Käytämme mahdollisuutta tehdä tilauksia valtion puitesopimusten mukaisesti.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>584</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/Fi/om-lansstyrelsen/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="om-lansstyrelsen.html"/><parallel_text xml:lang="fit" location="om-lansstyrelsen.html"/><parallel_text xml:lang="sma" location="om-lansstyrelsen.html"/><parallel_text xml:lang="sme" location="om-lansstyrelsen.html"/><parallel_text xml:lang="swe" location="om-lansstyrelsen.html"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmu"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rka"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmf"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rlo"/><parallel_text location="om-lansstyrelsen.html" xml:lang="rmn"/><parallel_text location="om-lansstyrelsen.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lääninhallituksesta - Länsstyrelsen Skåne</p>
+<list><p type="listitem">Lääninhallituksesta</p>
+</list><p type="title">Lääninhallituksesta</p>
+<p><em type="italic">Lääninhallitus on lähellä ihmisiä jokaisessa läänissä toimiva valtion viranomainen. Olemme tärkeä linkki toisaalta ihmisten ja kuntien ja toisaalta hallituksen, eduskunnan ja keskeisten viranomaisten välillä. Maaherra on lääninhallituksen johtaja, ja hänen tehtävänään on seurata läänin kehitystä sekä tiedottaa hallitukselle läänin tarpeista. </em></p>
+<p type="title">Tehtävämme</p>
+<p>Lääninhallituksen tehtävänä on edistää kehitystä, jossa ympäristö, kasvu ja hyvät elinolosuhteet kulkevat käsi kädessä. Lyhyesti sanottuna se toimii kestävän kehityksen aikaansaamiseksi läänissä. Lääninhallitus vastaa eduskunnan ja hallituksen tekemien päätösten toteuttamisesta läänissä ja koordinoi valtion toimintaa. Läänin kehittämisessä meidän tulee käyttää hyväksi ja toimia yksityisten ihmisten ja yhteiskunnan etujen mukaisesti.</p>
+<p>Lääninhallitusten toimintaohjeiden mukaisesti meidän tulee toimia seuraavilla alueilla</p>
+<list><p type="listitem">elintarvikevalvonta, eläinsuojelu ja yleiset eläinlääkäritoimintaa koskevat kysymykset</p>
+<p type="listitem">alueellisen kasvun edistäminen</p>
+<p type="listitem">infrastruktuurin suunnittelu</p>
+<p type="listitem">kestävän yhteiskunnan ja asumisen suunnittelu</p>
+<p type="listitem">energia ja ilmasto</p>
+<p type="listitem">kulttuuriympäristö</p>
+<p type="listitem">onnettomuuksien ehkäisy sekä kriisivalmius ja siviilipuolustus</p>
+<p type="listitem">luonnonsuojelu sekä ympäristön- ja terveydensuojelut</p>
+<p type="listitem">maatalous ja maaseutu</p>
+<p type="listitem">kalastus</p>
+<p type="listitem">tasavertaisuus</p>
+<p type="listitem" xml:lang="swe">integraatio.</p>
+</list><p type="title">Maaherran ja läänin johto</p>
+<p>Maaherra on hallituksen edustaja läänissä, ja hallitus valitsee hänet suoraan. Eräs maaherran tärkeistä tehtävistä on koordinoida valtion toimintaa läänissä, seurata läänin kehitystä ja tiedottaa hallitukselle läänin tarpeista. Tukholman, Skånen ja Itä-Göötanmaan lääneissä lääninhallituksen päivittäistä työtä johtaa lääninylijohtaja ja muissa lääneissä lääninneuvos, joka maaherran lähin avustaja ja hänen sijaisensa, kun tämä ei ole paikalla.</p>
+<p type="title">Viraston päiväkirja</p>
+<p>Lääninhallitus rekisteröi päivittäin viraston päiväkirjaan uudet asiat, meneillään olevien asioiden asiakirjat sekä asioissa tehdyt päätökset. Asiarekisteri on julkinen asiakirja ja sen voi tarkistaa Internetistä lääninhallituksen päiväkirjan (diarium) nimellä. Tietyissä tapauksissa tietojen julkaisua voidaan rajoittaa henkilötietolain nojalla.</p>
+<p>Siirry lääninhallituksen viraston päiväkirjaan (ruotsinkielinen)</p>
+<p type="title">Kuulutukset ja tiedoksiannot</p>
+<p>Lääninhallitus tekee monia eri päätöksiä, jotka suoraan tai epäsuorasti koskevat läänin asukkaita ja yrityksiä. Tietyt päätökset pitää antaa tiedoksi sille, jota asia koskee. Jos asianosaisten joukko on suuri, asiasta voidaan kaikille asianosaisille lähetettävän asiakirjan sijaan ilmoittaa paikallislehdessä ns. kuulutusilmoituksella.</p>
+<p type="title">Valittaminen</p>
+<p>Jos lääninhallituksen tekemä päätös koskee sinua, voit valittaa siitä. Tehtyyn päätökseen sisällytetään tiedot valituksen tekemisestä. Lääninhallitus lähettää sen jälkeen valituksesi eteenpäin asian ratkaisevalle viranomaiselle. Voimme myös korjata omia päätöksiämme ja ottaa niitä uudelleen harkittavaksi.</p>
+<p>Monista kunnan tekemistä päätöksistä, esimerkiksi rakennuslupaa koskevista, voidaan valittaa lääninoikeuteen. Jos haluat valittaa kunnan tekemästä päätöksestä, lähetä valituskirjelmäsi päätöksen tehneelle kunnalle. Voit valittaa vain sinua itseäsi koskevista päätöksestä.</p>
+<p type="title">Säädökset</p>
+<p>Säädökset ovat määräyksinä pidettäviä oikeussääntöjä. Ne eivät koske ketään yksittäistä henkilöä, vaan suurta yleisöä. Paikalliset määräykset koskevat muun muassa päätöksiä vesiensuojelusta, luonnossuojelualueesta, meriliikenteestä ja hirvenmetsästyksestä. Lääninhallitus julkaisee läänin säädöskokoelman, jossa on sekä sen itse että kuntien tai Ruotsin liikenneviraston antamia määräyksiä.</p>
+<p type="title">Lähetteet</p>
+<p>Lääninhallitus vastaanottaa vuosittain suuren määrän lausuntopyyntöjä. Tämä merkitsee, että saamme mahdollisuuden ilmaista mielipiteemme eri ministeriöiden tai valtion laitosten yms. lähettämistä ehdotuksista. Lääninhallitus lähettää myös monia omista päätöksistään lausuntokierrokselle läänin asianosaisille sidosryhmille.</p>
+<p type="title">Lehdistöhuone</p>
+<p>Lääninhallitus toimii aktiivisesti tärkeiden yhteiskuntaa koskevien tietojen levittämiseksi kansalaisille ja medioille. Verkkosivumme ja lehdistötiedotteemme ovat eräs tapa palvella sinua ja tiedottaa toiminnastamme.</p>
+<p type="title">EU ja kansainvälinen toiminta</p>
+<p>EU:n jäsenyys vaikuttaa meihin kansalaisina usealla eri tavalla sekä pienissä että suurissa asioissa. Lääninhallitukselle tämä merkitsee mahdollisuutta käyttää hyväksi yhteisiä voimavaroja, mutta myös yhteisten sääntöjen sääntöjen huomioon ottamista. Useilla lääninhallituksilla on kansainvälisiä kontakteja ja tietojenvaihtoa tai ne osallistuvat monilla tavoin läänin kehitykselle hyödyllisiin, rajat ylittäviin yhteistyöhankkeisiin. Erimuotoista yhteistyötä harjoitetaan myös EU:n ulkopuolisten maiden kanssa.</p>
+<p type="title">Tule töihin meille</p>
+<p>Lääninhallitus on monipuolisesta toiminnasta koostuva työpaikka. Olemme tieto- ja valvontaelin, jolla on laaja kokemus monilta eri alueilta. Päivittäisen työmme lähtökohtana on eduskunnan ja hallituksen päätösten täytäntöönpanosta huolehtiminen läänissä, eri intressien koordinointi ja läänin asukkaiden tarpeiden esille tuominen luodaksemme kestävän yhteiskunnan – jossa taloudellinen kehitys, ympäristö ja sosiaalinen hyvinvointi yhdistyvät.</p>
+<p type="title">Hankinnat</p>
+<p>Jokainen lääninhallitus on oma hankintoja tekevä viranomaisensa. Meillä on määrätyt suuntaviivat tavaroiden ja palveluiden ostosta ja vuokrauksesta, ja noudatamme lakia julkisista hankinnoista. Käytämme mahdollisuutta tehdä tilauksia valtion puitesopimusten mukaisesti.</p>
+</body></document>

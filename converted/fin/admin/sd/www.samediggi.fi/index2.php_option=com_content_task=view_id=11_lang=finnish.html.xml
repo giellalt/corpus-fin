@@ -1,53 +1,25 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Parlamentaarinen neuvosto</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>541</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=11&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=11_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=11_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=11_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=11_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Parlamentaarinen neuvosto</p>
-    <p>Saamelainen parlamentaarinen neuvosto (SPN) on Suomen, Norjan ja Ruotsin saamelaiskäräjien välinen parlamentaarinen yhteistyöelin. Venäjän saamelaisjärjestöt osallistuvat yhteistyöhön tarkkailijoina SPN:ssä. Murmanskin alueen saamelaisparlamentti on hakenut pysyvää jäsenyyttä SPN:ssä. SPN perustettiin maaliskuun 2. päivä vuonna 2000. Ruotsin Saamelaiskäräjät liittyi neuvostoon huhtikuussa 2002. Norjan, Ruotsin ja Suomen saamelaiskäräjät johtavat neuvostoa 16 kuukauden kausissa. Sihteeristönä toimii se saamelaiskäräjät, jolla johtamisvastuu aina kulloinkin on. SPN:n toimintaa ohjaavat vuonna 1997 sovittu yhteistyösopimus ja vuonna 2003 hyväksytty työjärjestys . Puheenjohtajuus on parhaillaan Ruotsin saamelaiskäräjillä. Vuonna 2015 puheenjohtajuusvuorossa on Suomen saamelaiskäräjät.</p>
-    <p type="title">SPN:n logo</p>
-    <p type="title">Suomen saamelaiskäräjien edustajat SPN:ssä</p>
-    <p>Saamelaiskäräjien kokous valitsee edustajat saamelaiseen parlamentaariseen neuvostoon vaalikaudeksi. SPN:n yhteistyösopimuksen mukaan saamelaiskäräjien poliittisen johdon tulee kuulua neuvostoon. Toimikaudella 2012-2015 edustajina ovat:</p>
-    <p>Klemetti Näkkäläjärvi (varalla Ulla Magga )</p>
-    <p>Tiina Sanila-Aikio (varalla Pertti Heikkuri )</p>
-    <p>Heikki Paltto (varalla Yrjö Musta )</p>
-    <p>Anne Nuorgam (varalla Ilmari Tapiola )</p>
-    <p>Rauni Äärelä (varalla Petra Magga-Vars )</p>
-    <p>Nihkolas Valkeapää (varalla Veikko Porsanger )</p>
-    <p>Pentti Valle (varalla Tauno Haltta )</p>
-    <p>Saamelaisen parlamentaarisen neuvoston hallituksessa Suomen saamelaiskäräjiä edustavat Klemetti Näkkäläjärvi ja Tiina Sanila-Aikio. SPN:n yhteistyösopimuksen mukaan saamelaiskäräjien poliittisen johdon tulee osallistua jäseninä SPN:n hallituksen toimintaan.</p>
-    <p type="title">Toiminta</p>
-    <p>SPN:n toimintaa ohjaa vuosittain vähintään kerran järjestettävä täysistunto. Kokous hyväksyy SPN:n toimintasuunnitelman, joka laaditaan kahdeksi vuodeksi kerrallaan. SPN piti edellisen kerran kokouksensa Uumajassa syksyllä 2013. SPN on perustanut yhteyteensä nuorisolautakunnan, johon tulevat edustajat kunkin maan saamelaiskäräjien nuorisoneuvostoista/-lautakunnista. Nuorisolautakunta kokoontuu SPN:n yleiskokouksen yhteydessä. Suomen saamelaiskäräjien edustajina lautakunnassa on nuorisoneuvoston puheenjohtaja Nilla Rahko ja jäsen Anne-Máret Labba. SPN on perustanut myös petoasioiden lautakunnan. Lautakunnassa Suomen saamelaiskäräjiä edustaa II varapuheenjohtaja Heikki Paltto</p>
-    <p>SPN:n toimintasuunnitelmaa toimeenpanee SPN:n hallitus, joka kokoontuu noin 4 kertaa vuodessa.</p>
-    <p>SPN:n tehtävänä on edistää saamelaiskäräjien välistä yhteistyötä sekä käsitellä asioita, jotka koskevat tai voivat koskea saamelaisia useammassa maassa tai saamelaisia kansana. SPN edustaa Suomen, Ruotsin ja Norjan saamelaisia pohjoismaisissa ja kansainvälisissä yhteyksissä.</p>
-    <p>SPN:n päätavoitteita on pohjoismaisen saamelaissopimuksen hyväksyminen, SPN:n toiminnan kehittäminen ja saamelaisten oikeusaseman parantaminen. SPN on päättänyt, että saamelaiset muodostavat yhteisen kannan SPN:ssä pohjoismaisen saamelaissopimuksen jatkoneuvotteluissa. Tavoitteena on kehittää SPN:n toimintaa suhteessa pohjoismaisen saamelaissopimuksen velvoitteisiin sekä parantaa Venäjän saamelaisten mahdollisuutta osallistua yhteistyöhön.</p>
-    <p type="title">Saamelaisparlamentaarikkojen konferenssi</p>
-    <p>Saamelaisparlamentaarikkojen ensimmäinen yhteinen konferenssi järjestettiin Jokkmokkissa 24.2.2005. Konferenssiin osallistuivat Norjan, Ruotsin ja Suomen saamelaiskäräjien sekä Venäjän saamelaisten edustajat. Ennen konferenssia kunkin maan saamelaiskäräjät piti oman täysistuntonsa Jokkmokkissa. Saamelaisparlamentaarikkojen konferenssi oli historiallinen tapahtuma. Konferenssi hyväksyi Jokkmokkin julistuksen, jonka mukaan yhteinen konferenssi oli historiallinen merkkipaalu saamelaispoliittisessa työssä. Konferenssi muistutti siitä, että saamelaiset ovat yksi kansa, jonka yhtenäisyyttä valtioiden rajat eivät saa rikkoa. Julistus painottaa muun muassa saamelaisten itsemääräämisoikeutta ja työtä pohjoismaisen saamelaissopimuksen aikaansaamiseksi. Jokkmokkissa päätettiin, että saamelaisparlamentaarikkojen yhteinen konferenssi järjestetään kolmen vuoden välein. Toinen saamelaisparlamentaarikkojen konferenssi järjestettiin Rovaniemellä 28.10.2008.</p>
-    <p>Kolmas saamelaisparlamentaarikkojen konferenssi järjestettiin Kirkkoniemellä 10.11.2011. Konferenssin julistuksessa käsitellään saamelaisten yhteistyön kehittämistä, saamelaisten itsemääräämisoikeuden toteutumista sekä kehotetaan valtioita ratifioimaan ILO-169 sopimus alkuperäiskansojen oikeuksista. Konferenssin mukaan määritelmän siitä, keitä pidetään saamelaisina, tulee perustua saamelaisten omaan ja yhteiseen käsitykseen asiasta.</p>
-    <p>Neljäs saamelaisparlamentaarikkojen konferenssi järjestettiin Uumajassa 20.2.2014. Konferenssin aiheena oli saamelaisten perinteisen asuinalueiden luonnonvarojen hyödyntäminen ja pohjoismainen saamelaissopimus. Konferenssiin osallistuivat Norjan, Ruotsin ja Suomen saamelaiskäräjien jäsenet sekä Venäjän saamelaisjärjestöjen edustajat. Suomen saamelaiskäräjiltä konferenssiin osallistui 16 parlamentaarikkoa.</p>
-    <p><em type="italic">Saamelaisparlamentaarikot koolla Uumajassa </em>. Kuva: Pia Ruotsala </p>
-    <p>Uumajan konferenssi hyväksyi julistuksen pohjoismaisesta saamelaissopimuksest a sekä saamelaisten perinteisten asuinalueiden luonnonvarojen hyväksikäyttöä käsittelevän julistuksen . Suomen saamelaiskäräjien yhdeksän jäsentä jätti erillisen lausuman luonnonvarojen hyväksikäyttöä saamelaisten perinteisillä asuinalueilla käsittelevän julistuksen artiklaan 4. Muilta osin kaikki Suomen saamelaiskäräjien edustajat tukivat julistusta.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Parlamentaarinen neuvosto</title><genre code="admin"/><author><unknown/></author><wordcount>541</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=11&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=11_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=11_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=11_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=11_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Parlamentaarinen neuvosto</p>
+<p>Saamelainen parlamentaarinen neuvosto (SPN) on Suomen, Norjan ja Ruotsin saamelaiskäräjien välinen parlamentaarinen yhteistyöelin. Venäjän saamelaisjärjestöt osallistuvat yhteistyöhön tarkkailijoina SPN:ssä. Murmanskin alueen saamelaisparlamentti on hakenut pysyvää jäsenyyttä SPN:ssä. SPN perustettiin maaliskuun 2. päivä vuonna 2000. Ruotsin Saamelaiskäräjät liittyi neuvostoon huhtikuussa 2002. Norjan, Ruotsin ja Suomen saamelaiskäräjät johtavat neuvostoa 16 kuukauden kausissa. Sihteeristönä toimii se saamelaiskäräjät, jolla johtamisvastuu aina kulloinkin on. SPN:n toimintaa ohjaavat vuonna 1997 sovittu yhteistyösopimus ja vuonna 2003 hyväksytty työjärjestys . Puheenjohtajuus on parhaillaan Ruotsin saamelaiskäräjillä. Vuonna 2015 puheenjohtajuusvuorossa on Suomen saamelaiskäräjät.</p>
+<p type="title">SPN:n logo</p>
+<p type="title">Suomen saamelaiskäräjien edustajat SPN:ssä</p>
+<p>Saamelaiskäräjien kokous valitsee edustajat saamelaiseen parlamentaariseen neuvostoon vaalikaudeksi. SPN:n yhteistyösopimuksen mukaan saamelaiskäräjien poliittisen johdon tulee kuulua neuvostoon. Toimikaudella 2012-2015 edustajina ovat:</p>
+<p>Klemetti Näkkäläjärvi (varalla Ulla Magga )</p>
+<p>Tiina Sanila-Aikio (varalla Pertti Heikkuri )</p>
+<p>Heikki Paltto (varalla Yrjö Musta )</p>
+<p>Anne Nuorgam (varalla Ilmari Tapiola )</p>
+<p>Rauni Äärelä (varalla Petra Magga-Vars )</p>
+<p>Nihkolas Valkeapää (varalla Veikko Porsanger )</p>
+<p>Pentti Valle (varalla Tauno Haltta )</p>
+<p>Saamelaisen parlamentaarisen neuvoston hallituksessa Suomen saamelaiskäräjiä edustavat Klemetti Näkkäläjärvi ja Tiina Sanila-Aikio. SPN:n yhteistyösopimuksen mukaan saamelaiskäräjien poliittisen johdon tulee osallistua jäseninä SPN:n hallituksen toimintaan.</p>
+<p type="title">Toiminta</p>
+<p>SPN:n toimintaa ohjaa vuosittain vähintään kerran järjestettävä täysistunto. Kokous hyväksyy SPN:n toimintasuunnitelman, joka laaditaan kahdeksi vuodeksi kerrallaan. SPN piti edellisen kerran kokouksensa Uumajassa syksyllä 2013. SPN on perustanut yhteyteensä nuorisolautakunnan, johon tulevat edustajat kunkin maan saamelaiskäräjien nuorisoneuvostoista/-lautakunnista. Nuorisolautakunta kokoontuu SPN:n yleiskokouksen yhteydessä. Suomen saamelaiskäräjien edustajina lautakunnassa on nuorisoneuvoston puheenjohtaja Nilla Rahko ja jäsen Anne-Máret Labba. SPN on perustanut myös petoasioiden lautakunnan. Lautakunnassa Suomen saamelaiskäräjiä edustaa II varapuheenjohtaja Heikki Paltto</p>
+<p>SPN:n toimintasuunnitelmaa toimeenpanee SPN:n hallitus, joka kokoontuu noin 4 kertaa vuodessa.</p>
+<p>SPN:n tehtävänä on edistää saamelaiskäräjien välistä yhteistyötä sekä käsitellä asioita, jotka koskevat tai voivat koskea saamelaisia useammassa maassa tai saamelaisia kansana. SPN edustaa Suomen, Ruotsin ja Norjan saamelaisia pohjoismaisissa ja kansainvälisissä yhteyksissä.</p>
+<p>SPN:n päätavoitteita on pohjoismaisen saamelaissopimuksen hyväksyminen, SPN:n toiminnan kehittäminen ja saamelaisten oikeusaseman parantaminen. SPN on päättänyt, että saamelaiset muodostavat yhteisen kannan SPN:ssä pohjoismaisen saamelaissopimuksen jatkoneuvotteluissa. Tavoitteena on kehittää SPN:n toimintaa suhteessa pohjoismaisen saamelaissopimuksen velvoitteisiin sekä parantaa Venäjän saamelaisten mahdollisuutta osallistua yhteistyöhön.</p>
+<p type="title">Saamelaisparlamentaarikkojen konferenssi</p>
+<p>Saamelaisparlamentaarikkojen ensimmäinen yhteinen konferenssi järjestettiin Jokkmokkissa 24.2.2005. Konferenssiin osallistuivat Norjan, Ruotsin ja Suomen saamelaiskäräjien sekä Venäjän saamelaisten edustajat. Ennen konferenssia kunkin maan saamelaiskäräjät piti oman täysistuntonsa Jokkmokkissa. Saamelaisparlamentaarikkojen konferenssi oli historiallinen tapahtuma. Konferenssi hyväksyi Jokkmokkin julistuksen, jonka mukaan yhteinen konferenssi oli historiallinen merkkipaalu saamelaispoliittisessa työssä. Konferenssi muistutti siitä, että saamelaiset ovat yksi kansa, jonka yhtenäisyyttä valtioiden rajat eivät saa rikkoa. Julistus painottaa muun muassa saamelaisten itsemääräämisoikeutta ja työtä pohjoismaisen saamelaissopimuksen aikaansaamiseksi. Jokkmokkissa päätettiin, että saamelaisparlamentaarikkojen yhteinen konferenssi järjestetään kolmen vuoden välein. Toinen saamelaisparlamentaarikkojen konferenssi järjestettiin Rovaniemellä 28.10.2008.</p>
+<p>Kolmas saamelaisparlamentaarikkojen konferenssi järjestettiin Kirkkoniemellä 10.11.2011. Konferenssin julistuksessa käsitellään saamelaisten yhteistyön kehittämistä, saamelaisten itsemääräämisoikeuden toteutumista sekä kehotetaan valtioita ratifioimaan ILO-169 sopimus alkuperäiskansojen oikeuksista. Konferenssin mukaan määritelmän siitä, keitä pidetään saamelaisina, tulee perustua saamelaisten omaan ja yhteiseen käsitykseen asiasta.</p>
+<p>Neljäs saamelaisparlamentaarikkojen konferenssi järjestettiin Uumajassa 20.2.2014. Konferenssin aiheena oli saamelaisten perinteisen asuinalueiden luonnonvarojen hyödyntäminen ja pohjoismainen saamelaissopimus. Konferenssiin osallistuivat Norjan, Ruotsin ja Suomen saamelaiskäräjien jäsenet sekä Venäjän saamelaisjärjestöjen edustajat. Suomen saamelaiskäräjiltä konferenssiin osallistui 16 parlamentaarikkoa.</p>
+<p><em type="italic">Saamelaisparlamentaarikot koolla Uumajassa </em>. Kuva: Pia Ruotsala </p>
+<p>Uumajan konferenssi hyväksyi julistuksen pohjoismaisesta saamelaissopimuksest a sekä saamelaisten perinteisten asuinalueiden luonnonvarojen hyväksikäyttöä käsittelevän julistuksen . Suomen saamelaiskäräjien yhdeksän jäsentä jätti erillisen lausuman luonnonvarojen hyväksikäyttöä saamelaisten perinteisillä asuinalueilla käsittelevän julistuksen artiklaan 4. Muilta osin kaikki Suomen saamelaiskäräjien edustajat tukivat julistusta.</p>
+</body></document>

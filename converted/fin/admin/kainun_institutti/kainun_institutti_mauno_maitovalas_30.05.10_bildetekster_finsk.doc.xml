@@ -1,121 +1,96 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="fin" id="no_id"><header><title> 
 Aga+-003026
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/>
-    </translator>
-    <wordcount>413</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
-    <multilingual/>
-    <parallel_text xml:lang="fkv" location="kainun_institutti_mauno_maitovalas_30.05.10_bildetekster_kvensk.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="est">Aga+-003026.jpg</p>
-    <p>Oceanologisen Shirshov-instituutin maitovalaiden asiantuntija Aleksandr Agafonov työryhmineen</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="eng">Aleksandr Agafonov with his crew from Shirshov Institute of Russian Academy of Science</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">Aga+audience-003484-2.jpg</p>
-    <p>Kolezhman kylän maitovalasfestivaali heinäkuussa 2006</p>
-    <p xml:lang="eng">The belukha festival in Kolezhma, 2006</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">anchor-003132.jpg</p>
-    <p>Odotusta Mäkisaaren silokalliolla</p>
-    <p xml:lang="eng">Waiting for Belukhas in Mäkisaari</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="est">asennus2991.jpg</p>
-    <p>Hydrofonit lasketaan vedenalaiseen äänimaailmaan</p>
-    <p xml:lang="eng">Hydrophones being lowered into the underwater soundscape.</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">back-003315.jpg</p>
-    <p>Pomoriveneessä</p>
-    <p xml:lang="eng">On a Pomor boat</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">beachStone-003177.jpg</p>
-    <p>Kiven jalous</p>
-    <p xml:lang="eng">The nobleness of a stone.</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">boysOnStage-003455.jpg</p>
-    <p>Kolezhman Beluga-festivaalien odotusta</p>
-    <p xml:lang="nno">Preparing a Belukha festival in Kolezhma</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">DavidSunset-003104.jpg</p>
-    <p>Hiljaisuus</p>
-    <p xml:lang="eng">The silence</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">DimprovisingSky-003246.jpg</p>
-    <p xml:lang="nob">David improvisoi</p>
-    <p xml:lang="nob">David improvises</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">flowers-003160.jpg</p>
-    <p>Rantakallio kukkii</p>
-    <p xml:lang="eng">A coastal rock is blooming</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">girls-003510.jpg</p>
-    <p>Kolezman kylän tytöt</p>
-    <p xml:lang="vep">Girls in Kolezhma village</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">hillaPose-003420.jpg</p>
-    <p xml:lang="est">Hillasaalis</p>
-    <p xml:lang="eng">Cloudberry</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">ikoniBala-003429.jpg</p>
-    <p>Majapaikan ikoninurkkaus</p>
-    <p xml:lang="eng">An Icon corner in an inn</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">judin-003448.jpg</p>
-    <p>J.I. Judin, Kolezhman kolhoosin perustaja</p>
-    <p xml:lang="eng">J.I Judin a founder father of Kolezhma kholhoze</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="est">Kcooling-003043.jpg</p>
-    <p>Pohjoisen outo kuumuus</p>
-    <p xml:lang="eng">The strange heat of the North</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">kolexmaYo-003440.jpg</p>
-    <p>Kylä elää</p>
-    <p xml:lang="eng">The village is alive</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">lampaatTuimaMies3367.jpg</p>
-    <p>Ohituksia</p>
-    <p xml:lang="kal">Passings</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">landingOk-002952.jpg</p>
-    <p>Retkikunta Mäkisaarelle</p>
-    <p xml:lang="eng">The expedition to the Mäkisaari</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="smn">PoikaSupermarketissa-003407.jpg</p>
-    <p>Kolezhman valinta</p>
-    <p xml:lang="eng">Kolezhma supermarket</p>
-    <p>(Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">sheds-003337.jpg</p>
-    <p>Kolhoosin aikaisia merileväaittoja</p>
-    <p xml:lang="eng">Seaweed storehouses from kholhoze period</p>
-    <p xml:lang="smn">StoneSession-003068.jpg</p>
-    <p xml:lang="fkv">Kivi soi</p>
-    <p xml:lang="eng">A stone is ringing</p>
-    <p xml:lang="smn">StoneBelugasRD-003119.jpg</p>
-    <p>Klarinetin kutsu</p>
-    <p xml:lang="eng">A clarinet is calling</p>
-    <p xml:lang="smn">WholeGroup-003041.jpg</p>
-    <p>Hiljaista taltioimista</p>
-    <p xml:lang="eng">Peaceful recordings</p>
-    <p xml:lang="eng">All these photos must have a photographer name as (Photo: Anna Koivisto)</p>
-    <p xml:lang="nno">Aleksandr Agafonov med sitt mannskap fra Shirshov Institute of Russian Academy of Science (Foto: Anna Koivisto) Belukha festival i Kolezhma, 2006 (Foto: Anna Koivisto) Venter på melkehvaler i Mäkisaari (Foto: Anna Koivisto) Hydrofoner som senkes ned i vannets lydverden (Foto: Anna Koivisto) På en pomor båt (Foto: Anna Koivisto) Det <em type="italic">nobleness </em>av en stein (Foto: Anna Koivisto) Forberelse av Beluga festival i Kolezhma (Foto: Anna Koivisto) Stillheten (Foto: Anna Koivisto) David improviserer (Foto: Anna Koivisto) En klipp blomstrer (Foto: Anna Koivisto) Jenter fra bygda Kolezhma (Foto: Anna Koivisto) Multer (Foto: Anna Koivisto) Et ikonhjørn i et herberge (Foto: Anna Koivisto) J.I Judin faren til kollektiven Kolezhma </p>
-    <p xml:lang="nno">(Foto: Anna Koivisto) Den merkelige varme i nord (Foto: Anna Koivisto) Bygda lever (Foto: Anna Koivisto) Forbikjørninger (Foto: Anna Koivisto) Ekspedisjonen til Mäkisaari (Foto: Anna Koivisto) Kolezhma supermarked (Foto: Anna Koivisto) Lagerhus for tang fra kollektivperioden En stein klanger En klarinett inviterer Fredelig opptak</p>
-    <p>kuvatekstit3.doc</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><translator><person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/></translator><wordcount>413</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/><multilingual/><parallel_text xml:lang="fkv" location="kainun_institutti_mauno_maitovalas_30.05.10_bildetekster_kvensk.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="est">Aga+-003026.jpg</p>
+<p>Oceanologisen Shirshov-instituutin maitovalaiden asiantuntija Aleksandr Agafonov työryhmineen</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="eng">Aleksandr Agafonov with his crew from Shirshov Institute of Russian Academy of Science</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="nno">Aga+audience-003484-2.jpg</p>
+<p>Kolezhman kylän maitovalasfestivaali heinäkuussa 2006</p>
+<p xml:lang="eng">The belukha festival in Kolezhma, 2006</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="eng">anchor-003132.jpg</p>
+<p>Odotusta Mäkisaaren silokalliolla</p>
+<p xml:lang="eng">Waiting for Belukhas in Mäkisaari</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="est">asennus2991.jpg</p>
+<p>Hydrofonit lasketaan vedenalaiseen äänimaailmaan</p>
+<p xml:lang="eng">Hydrophones being lowered into the underwater soundscape.</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="nob">back-003315.jpg</p>
+<p>Pomoriveneessä</p>
+<p xml:lang="eng">On a Pomor boat</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="nno">beachStone-003177.jpg</p>
+<p>Kiven jalous</p>
+<p xml:lang="eng">The nobleness of a stone.</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">boysOnStage-003455.jpg</p>
+<p>Kolezhman Beluga-festivaalien odotusta</p>
+<p xml:lang="nno">Preparing a Belukha festival in Kolezhma</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">DavidSunset-003104.jpg</p>
+<p>Hiljaisuus</p>
+<p xml:lang="eng">The silence</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">DimprovisingSky-003246.jpg</p>
+<p xml:lang="nob">David improvisoi</p>
+<p xml:lang="nob">David improvises</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="nno">flowers-003160.jpg</p>
+<p>Rantakallio kukkii</p>
+<p xml:lang="eng">A coastal rock is blooming</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">girls-003510.jpg</p>
+<p>Kolezman kylän tytöt</p>
+<p xml:lang="vep">Girls in Kolezhma village</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">hillaPose-003420.jpg</p>
+<p>Hillasaalis</p>
+<p xml:lang="eng">Cloudberry</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">ikoniBala-003429.jpg</p>
+<p>Majapaikan ikoninurkkaus</p>
+<p xml:lang="eng">An Icon corner in an inn</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">judin-003448.jpg</p>
+<p>J.I. Judin, Kolezhman kolhoosin perustaja</p>
+<p xml:lang="eng">J.I Judin a founder father of Kolezhma kholhoze</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="est">Kcooling-003043.jpg</p>
+<p>Pohjoisen outo kuumuus</p>
+<p xml:lang="eng">The strange heat of the North</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">kolexmaYo-003440.jpg</p>
+<p>Kylä elää</p>
+<p xml:lang="eng">The village is alive</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="smn">lampaatTuimaMies3367.jpg</p>
+<p>Ohituksia</p>
+<p xml:lang="kal">Passings</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="nno">landingOk-002952.jpg</p>
+<p>Retkikunta Mäkisaarelle</p>
+<p xml:lang="eng">The expedition to the Mäkisaari</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="nno">PoikaSupermarketissa-003407.jpg</p>
+<p>Kolezhman valinta</p>
+<p xml:lang="eng">Kolezhma supermarket</p>
+<p>(Photo: Anna Koivisto)</p>
+<p xml:lang="nno">sheds-003337.jpg</p>
+<p>Kolhoosin aikaisia merileväaittoja</p>
+<p xml:lang="eng">Seaweed storehouses from kholhoze period</p>
+<p xml:lang="nno">StoneSession-003068.jpg</p>
+<p xml:lang="fkv">Kivi soi</p>
+<p xml:lang="eng">A stone is ringing</p>
+<p xml:lang="smn">StoneBelugasRD-003119.jpg</p>
+<p>Klarinetin kutsu</p>
+<p xml:lang="eng">A clarinet is calling</p>
+<p xml:lang="smn">WholeGroup-003041.jpg</p>
+<p>Hiljaista taltioimista</p>
+<p xml:lang="eng">Peaceful recordings</p>
+<p xml:lang="eng">All these photos must have a photographer name as (Photo: Anna Koivisto)</p>
+<p xml:lang="nno">Aleksandr Agafonov med sitt mannskap fra Shirshov Institute of Russian Academy of Science (Foto: Anna Koivisto) Belukha festival i Kolezhma, 2006 (Foto: Anna Koivisto) Venter på melkehvaler i Mäkisaari (Foto: Anna Koivisto) Hydrofoner som senkes ned i vannets lydverden (Foto: Anna Koivisto) På en pomor båt (Foto: Anna Koivisto) Det <em type="italic">nobleness </em>av en stein (Foto: Anna Koivisto) Forberelse av Beluga festival i Kolezhma (Foto: Anna Koivisto) Stillheten (Foto: Anna Koivisto) David improviserer (Foto: Anna Koivisto) En klipp blomstrer (Foto: Anna Koivisto) Jenter fra bygda Kolezhma (Foto: Anna Koivisto) Multer (Foto: Anna Koivisto) Et ikonhjørn i et herberge (Foto: Anna Koivisto) J.I Judin faren til kollektiven Kolezhma </p>
+<p xml:lang="nno">(Foto: Anna Koivisto) Den merkelige varme i nord (Foto: Anna Koivisto) Bygda lever (Foto: Anna Koivisto) Forbikjørninger (Foto: Anna Koivisto) Ekspedisjonen til Mäkisaari (Foto: Anna Koivisto) Kolezhma supermarked (Foto: Anna Koivisto) Lagerhus for tang fra kollektivperioden En stein klanger En klarinett inviterer Fredelig opptak</p>
+<p>kuvatekstit3.doc</p>
+</body></document>

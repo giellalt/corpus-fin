@@ -1,152 +1,123 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Pallastunturin ympäristön nähtävyydet - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>401</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/pallas-yllastunturi/nahtavyydet/pallastunturinymparisto</origFileName>
-    <parallel_text xml:lang="eng" location="sightsaroundpallastunturifell.html"/>
-    <parallel_text xml:lang="sme" location="ballasduoddarabirrasaoaidnamusat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Pallas-Yllästunturi</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet <list><p type="listitem">Ounastunturin ympäristö</p><p type="listitem">Pallastunturin ympäristö</p><p type="listitem">Yllästunturin ympäristö</p><p type="listitem">Taidetta Pallastunturilla</p></list> </p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Etelä-Konnevesi</p>
-      <p type="listitem">Helvetinjärvi</p>
-      <p type="listitem">Hiidenportti</p>
-      <p type="listitem">Isojärvi</p>
-      <p type="listitem">Itäinen Suomenlahti</p>
-      <p type="listitem">Kauhaneva - Pohjankangas</p>
-      <p type="listitem">Koli</p>
-      <p type="listitem">Kolovesi</p>
-      <p type="listitem">Kurjenrahka</p>
-      <p type="listitem">Lauhanvuori</p>
-      <p type="listitem">Leivonmäki</p>
-      <p type="listitem">Lemmenjoki</p>
-      <p type="listitem">Liesjärvi</p>
-      <p type="listitem">Linnansaari</p>
-      <p type="listitem">Nuuksio</p>
-      <p type="listitem">Oulanka</p>
-      <p type="listitem">Pallas-Yllästunturi</p>
-      <p type="listitem">Patvinsuo</p>
-      <p type="listitem">Perämeri</p>
-      <p type="listitem">Petkeljärvi</p>
-      <p type="listitem">Puurijärvi ja Isosuo</p>
-      <p type="listitem">Pyhä-Häkki</p>
-      <p type="listitem">Pyhä-Luosto</p>
-      <p type="listitem">Päijänne</p>
-      <p type="listitem">Repovesi</p>
-      <p type="listitem">Riisitunturi</p>
-      <p type="listitem">Rokua</p>
-      <p type="listitem">Saaristomeri</p>
-      <p type="listitem">Salamajärvi</p>
-      <p type="listitem">Seitseminen</p>
-      <p type="listitem">Selkämeri</p>
-      <p type="listitem">Sipoonkorpi</p>
-      <p type="listitem">Syöte</p>
-      <p type="listitem">Tammisaaren saaristo</p>
-      <p type="listitem">Teijo</p>
-      <p type="listitem">Tiilikkajärvi</p>
-      <p type="listitem">Torronsuo</p>
-      <p type="listitem">Urho Kekkosen kansallispuisto</p>
-      <p type="listitem">Valkmusa</p>
-    </list>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <list>
-      <p type="listitem">Ounastunturin ympäristö</p>
-      <p type="listitem">Pallastunturin ympäristö</p>
-      <p type="listitem">Yllästunturin ympäristö</p>
-      <p type="listitem">Taidetta Pallastunturilla</p>
-    </list>
-    <p>Pallas-Yllästunturin sivut</p>
-    <p type="title">Pallas-Yllästunturi</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet <list><p type="listitem">Ounastunturin ympäristö</p><p type="listitem">Pallastunturin ympäristö</p><p type="listitem">Yllästunturin ympäristö</p><p type="listitem">Taidetta Pallastunturilla</p></list> </p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Pallastunturin ympäristön nähtävyydet</p>
-    <p type="title">Pallasjärvi</p>
-    <p>Tule katsomaan, kuinka Pallastunturit peilaavat kuvankauniin Pallasjärven pintaan tyynellä säällä! Autoilija pääsee Pallasjärvelle helpoimmin ajamalla Hirvaslahden tai Pallaslompolon venevalkamaan. Molemmissa on kota ja tulentekomahdollisuus.</p>
-    <p>Pyhäjoen lehtokorpi</p>
-    <p>Pallasjärveen laskevan Pyhäjoen vartta seuraileva 3,5 kilometrin pituinen luontopolku johdattaa kävijän erityisen rehevään lehtomaiseen kuusikkoon, jossa kotkansiivet muodostavat muhkeita saniaiskasvustoja. Polun varrella näet mutkaisen joen kalliojyrkänteiset seinämät. Kuusikon pehmeä sammalpohja tuo mieleen satumaailman ja tarjoaa elinympäristön monille pikkunisäkkäille.</p>
-    <p type="title">Taivaskeron näköalapaikka</p>
-    <p>Taivaskero on Pallastuntureiden ja koko tunturiketjun korkein huippu, jonka kivinen laki kurkottaa 807 metrin korkeuteen merenpinnasta. Sieltä ihailet ympäröivää tunturiluontoa ja nautit avaruudesta. Taivaskeron laella on vuoden 1952 olympialaisten muistolaatta, sillä Suomen olympiatuli sytytettiin siellä yöauringon loisteessa. Viestijuoksijat kuljettivat sen Taivaskerolta Helsinkiin, jossa se yhtyi Ateenasta tuotuun tuleen.</p>
-    <p>Taivaskerolle on merkittyä polkua pitkin 4 kilometrin matka Pallastunturin luontokeskuksesta. Polulla on yli 300 metriä nousua, joten kohdetta ei suositella huonokuntoisille.</p>
-    <p type="title">Montellin maja</p>
-    <p>Montellin maja sijaitsee Pallastuntureilla Vuontiskeron ja Saivokeron välisessä satulassa puurajan yläpuolella. Aluemetsänhoitaja Justus Montell rakensi ensimmäisen majan 1900-luvun alussa tutkimusmatkojensa tukikohdaksi. Se tuhoutui sodan aikana, mutta tilalle rakennettiin uusi, samanlainen maja. Montellin maja toimii retkeilijöiden autiotupana ja poromiesten taukopaikkana.</p>
-    <p type="title">Keimiöjärvi ja Keimiöniemen kalamajat</p>
-    <p>Keimiötunturin koillispuolella sijaitsee omaleimainen Keimiöjärvi. Tumman kuusikon yläpuolella näkyvä Keimiötunturi näyttää kohoavan suoraan järvestä. Keimiöjärven itärannalla on päivätupa, jonne on Jerisjärven tieltä 3,5 kilometrin matka. Länsirannan kämppä toimii vuokratupana.</p>
-    <p>Jerisjärven Keimiöniemi ei sijaitse kansallispuistossa, mutta sen kalamajat ovat kulttuurihistoriallinen nähtävyys. Rivissä seisovat kalapirtit ovat yksityisiä ja lukittuja mutta ehdottomasti näkemisen arvoisia.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Pallastunturin ympäristön nähtävyydet - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>401</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/pallas-yllastunturi/nahtavyydet/pallastunturinymparisto</origFileName><parallel_text xml:lang="eng" location="sightsaroundpallastunturifell.html"/><parallel_text xml:lang="sme" location="ballasduoddarabirrasaoaidnamusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Pallas-Yllästunturi</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet <list><p type="listitem">Ounastunturin ympäristö</p>
+<p type="listitem">Pallastunturin ympäristö</p>
+<p type="listitem">Yllästunturin ympäristö</p>
+<p type="listitem">Taidetta Pallastunturilla</p>
+</list> </p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Etelä-Konnevesi</p>
+<p type="listitem">Helvetinjärvi</p>
+<p type="listitem">Hiidenportti</p>
+<p type="listitem">Isojärvi</p>
+<p type="listitem">Itäinen Suomenlahti</p>
+<p type="listitem">Kauhaneva - Pohjankangas</p>
+<p type="listitem">Koli</p>
+<p type="listitem">Kolovesi</p>
+<p type="listitem">Kurjenrahka</p>
+<p type="listitem">Lauhanvuori</p>
+<p type="listitem">Leivonmäki</p>
+<p type="listitem">Lemmenjoki</p>
+<p type="listitem">Liesjärvi</p>
+<p type="listitem">Linnansaari</p>
+<p type="listitem">Nuuksio</p>
+<p type="listitem">Oulanka</p>
+<p type="listitem">Pallas-Yllästunturi</p>
+<p type="listitem">Patvinsuo</p>
+<p type="listitem">Perämeri</p>
+<p type="listitem">Petkeljärvi</p>
+<p type="listitem">Puurijärvi ja Isosuo</p>
+<p type="listitem">Pyhä-Häkki</p>
+<p type="listitem">Pyhä-Luosto</p>
+<p type="listitem">Päijänne</p>
+<p type="listitem">Repovesi</p>
+<p type="listitem">Riisitunturi</p>
+<p type="listitem">Rokua</p>
+<p type="listitem">Saaristomeri</p>
+<p type="listitem">Salamajärvi</p>
+<p type="listitem">Seitseminen</p>
+<p type="listitem">Selkämeri</p>
+<p type="listitem">Sipoonkorpi</p>
+<p type="listitem">Syöte</p>
+<p type="listitem">Tammisaaren saaristo</p>
+<p type="listitem">Teijo</p>
+<p type="listitem">Tiilikkajärvi</p>
+<p type="listitem">Torronsuo</p>
+<p type="listitem">Urho Kekkosen kansallispuisto</p>
+<p type="listitem">Valkmusa</p>
+</list><list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><list><p type="listitem">Ounastunturin ympäristö</p>
+<p type="listitem">Pallastunturin ympäristö</p>
+<p type="listitem">Yllästunturin ympäristö</p>
+<p type="listitem">Taidetta Pallastunturilla</p>
+</list><p>Pallas-Yllästunturin sivut</p>
+<p type="title">Pallas-Yllästunturi</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet <list><p type="listitem">Ounastunturin ympäristö</p>
+<p type="listitem">Pallastunturin ympäristö</p>
+<p type="listitem">Yllästunturin ympäristö</p>
+<p type="listitem">Taidetta Pallastunturilla</p>
+</list> </p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Pallastunturin ympäristön nähtävyydet</p>
+<p type="title">Pallasjärvi</p>
+<p>Tule katsomaan, kuinka Pallastunturit peilaavat kuvankauniin Pallasjärven pintaan tyynellä säällä! Autoilija pääsee Pallasjärvelle helpoimmin ajamalla Hirvaslahden tai Pallaslompolon venevalkamaan. Molemmissa on kota ja tulentekomahdollisuus.</p>
+<p>Pyhäjoen lehtokorpi</p>
+<p>Pallasjärveen laskevan Pyhäjoen vartta seuraileva 3,5 kilometrin pituinen luontopolku johdattaa kävijän erityisen rehevään lehtomaiseen kuusikkoon, jossa kotkansiivet muodostavat muhkeita saniaiskasvustoja. Polun varrella näet mutkaisen joen kalliojyrkänteiset seinämät. Kuusikon pehmeä sammalpohja tuo mieleen satumaailman ja tarjoaa elinympäristön monille pikkunisäkkäille.</p>
+<p type="title">Taivaskeron näköalapaikka</p>
+<p>Taivaskero on Pallastuntureiden ja koko tunturiketjun korkein huippu, jonka kivinen laki kurkottaa 807 metrin korkeuteen merenpinnasta. Sieltä ihailet ympäröivää tunturiluontoa ja nautit avaruudesta. Taivaskeron laella on vuoden 1952 olympialaisten muistolaatta, sillä Suomen olympiatuli sytytettiin siellä yöauringon loisteessa. Viestijuoksijat kuljettivat sen Taivaskerolta Helsinkiin, jossa se yhtyi Ateenasta tuotuun tuleen.</p>
+<p>Taivaskerolle on merkittyä polkua pitkin 4 kilometrin matka Pallastunturin luontokeskuksesta. Polulla on yli 300 metriä nousua, joten kohdetta ei suositella huonokuntoisille.</p>
+<p type="title">Montellin maja</p>
+<p>Montellin maja sijaitsee Pallastuntureilla Vuontiskeron ja Saivokeron välisessä satulassa puurajan yläpuolella. Aluemetsänhoitaja Justus Montell rakensi ensimmäisen majan 1900-luvun alussa tutkimusmatkojensa tukikohdaksi. Se tuhoutui sodan aikana, mutta tilalle rakennettiin uusi, samanlainen maja. Montellin maja toimii retkeilijöiden autiotupana ja poromiesten taukopaikkana.</p>
+<p type="title">Keimiöjärvi ja Keimiöniemen kalamajat</p>
+<p>Keimiötunturin koillispuolella sijaitsee omaleimainen Keimiöjärvi. Tumman kuusikon yläpuolella näkyvä Keimiötunturi näyttää kohoavan suoraan järvestä. Keimiöjärven itärannalla on päivätupa, jonne on Jerisjärven tieltä 3,5 kilometrin matka. Länsirannan kämppä toimii vuokratupana.</p>
+<p>Jerisjärven Keimiöniemi ei sijaitse kansallispuistossa, mutta sen kalamajat ovat kulttuurihistoriallinen nähtävyys. Rivissä seisovat kalapirtit ovat yksityisiä ja lukittuja mutta ehdottomasti näkemisen arvoisia.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

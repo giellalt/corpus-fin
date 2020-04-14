@@ -1,62 +1,32 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisten kansallispäivä 6.2.</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>602</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=197&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=197_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=197_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisten kansallispäivä 6.2.</p>
-    <p>Neljän valtakunnan alueella asuvat saamelaiset viettävät yhteistä kansallispäivää (Sámiid álbmotbeaivi) helmikuun 6. päivänä. Juhlallisuuksia järjestetään silloin eri puolilla Saamenmaata. Päivä on yksi saamelaisten liputuspäivistä, mutta lisäksi niin Suomen, Ruotsin kuin Norjankin viranomaiset suosittavat yleistä liputusta.</p>
-    <p>Saamelaisten kansallispäivä on vielä nuori juhlapäivä. Suomalaiseen almanakkaan se merkittiin vasta vuonna 2004. Kansallispäivästä päätettiin kuitenkin jo vuonna 1992, ja juhlapäivän juuret juontavat yli sadan vuoden taakse, vuoteen 1917. Tuolloin Norjan Trondheimissä järjestettiin ensimmäinen pohjoismainen saamelaiskokous, jonka tarkoitus oli pohtia saamelaisten elinmahdollisuuksia ja ottaa kantaa saamelaisia koskeviin kysymyksiin. Käsitellyistä aiheista tärkeimpiä olivat liikkumiseen, maiden käyttöön, poronhoitoon ja koulunkäyntiin liittyvät kysymykset.</p>
-    <p>Ensimmäisen kokouksen satakunta osanottajaa tulivat pelkästään Ruotsista ja Norjasta, eikä historiallinen kokous vielä tarkoittanut säännöllisen ja valtakunnan rajat ylittävän saamelaisyhteistyön alkua. Silti sen merkitys oli suuri: pohja tulevalle työlle oli luotu, ja saamelaisten yhteinen esiintyminen huomattiin. Saamelaisten poliittisen tietoisuuden katsotaankin heränneen juuri tuolloin.</p>
-    <p>Helsingin kaupungintalon juhlaliputus saamelaisten kansallispäivänä 6.2.2008. Kuva: Pirita Näkkäläjärvi. Julkaistu kuvaajan luvalla.</p>
-    <p>” <em type="italic">Emme ole koskaan ymmärtäneet toimia yhdessä yhtenä kansana. Tänään yritämme ensi kertaa sitoa - - - saamelaiset toisiinsa </em>”, totesi saamelaisyhteistyön äidiksi kutsuttu naisjärjestön aktiivi Elsa Laula Renberg Trondheimin kokouksen avajaispuheessaan. Nykyään saamelaiset juhlivat yhteistä kansallispäiväänsä yhtä aikaa. Juhlallisuuksissa puhutaan eri kieliä ja pukeudutaan paikallisiin pukuihin, mutta juhlapäivä, lippu ja kansallislaulu ovat kaikkialla samat. </p>
-    <p type="title">Elsa Laula Renberg – saamelaisyhteistyön äiti</p>
-    <p>Vuoden 1917 historiallisen kokouksen koollekutsujana oli naisjärjestö Brurskanken samisk kvindeforening, jonka johdossa toimi aktiivinen vaikuttaja Elsa Laula (1877-1931). Hän oli alkujaan Ruotsin saamelainen, joka avioiduttuaan ja muutettuaan Norjaan tunnettiin sukunimellä Laula Renberg. Hänen sanansa kokouksen avauspuheenvuorossa nostavat hyvin esille vuoden 1917 kokouksen tarkoituksen:</p>
-    <p>
-      <span type="quote">Emme ole koskaan ymmärtäneet toimia yhdessä yhtenä kansana.  Tänään yritämme ensi kertaa sitoa - - - saamelaiset toisiinsa.</span>
-    </p>
-    <p>Kokouksen yhtenä seurauksena Ruotsin Östersundissa järjestettiin jo seuraavana vuonna (1918) valtakunnallinen saamelaiskokous, jonka keskeisiksi asioiksi nousivat koulukysymykset. Norjassa vastaava valtakunnallinen saamelaiskokous järjestettiin Tenon kunnassa vuonna 1919.</p>
-    <p>Elsa Laula oli jo aikaisemmin vaikuttanut aktiivisesti saamelaisen yhdistystoiminnan alkamiseen. Hän oli vuonna 1904 Ruotsissa perustetun ensimmäisen saamelaisyhdistyksen, Wilhelminan-Åselen saamelaisyhdistyksen, puheenjohtaja. Yhdistys toimi aktiivisesti muun muassa poronhoitajasaamelaisten ja maanviljelijöiden ristiriitojen ratkaisemiseksi ja pyrki vaikuttamaan saamelaisten kouluoloihin.</p>
-    <p>Elsa Laula Renberg vaikutti aktiivisesti saamelaisyhdistysten syntymiseen myös Norjassa, jossa perustettiin viisi saamelaisyhdistystä vuosina 1906-08, nekin Ruotsin tapaan eteläsaamelaisilla alueilla. Finnmarkenin alueella saamelaisyhdistysten perustaminen oli vilkasta 1910–luvulla.</p>
-    <p>Yhdistystoiminnan lisäksi Norjan ja Ruotsin saamelaiset pyrkivät 1900–luvun alussa ajamaan asioitaan myös sanomalehtien avulla. Vuonna 1904 Finnmarkissa perustettu sanomalehti Sagai Muittaleagje (Uutisten kertoja) jää historiaan ensimmäisen saamelaisen valtiopäivämiehen Isak Saban (Sápp-Issát) saamisessa Norjan Suurkäräjille kahdeksi istuntokaudeksi (1906-1912).</p>
-    <p>Suomen saamelaisten yhdistystoiminta alkoi toisen maailmansodan jälkeen, vuonna 1945, kun Samii Litto–Saamelaisten yhdistys perustettiin evakkomatkalla Alavieskassa. Sitä ennen olivat suomalaiset Lapin ystävät perustaneet Lapin Sivistysseuran (Sámi Cuvgehussearvi) vuonna 1932 Helsingissä. Seura alkoi vuonna 1934 julkaista saamenkielistä Sabmelaš–lehteä ja vaikutti yhdessä Samii Litton kanssa ensimmäisen saamelaisasiain komitean asettamiseen Suomessa vuonna 1949. Samii Litton aikaansaannoksiin voidaan lisäksi lukea Saamelaisten kristillisen kansanopiston (Sámii kristtalaš nuoraidskuvla) perustaminen Inariin vuonna 1952 (-1993) ja Saamelaismuseon (Sámi musea) avaaminen kävijöille Inarissa vuonna 1962. Saamelaismuseo on edelleen toiminnassa ja se on yksi Suomen suosituimmista museoista, ks. www.siida.fi .</p>
-    <p>
-      <em type="italic">Lähteitä: </em>
-    </p>
-    <p>Karl Nickul 1970: Saamelaiset kansana ja kansalaisina. Suomalaisen kirjallisuuden seuran toimituksia 297. Helsinki.</p>
-    <p>Samuli Aikio 1992: Olbmot ovdal min. Girjegiisá Oy/ Utsjoki.</p>
-    <p>Veli-Pekka Lehtola: Saamelaiset – historia, yhteiskunta, taide.</p>
-    <p>Kustannus-Puntsi 1997: www.puntsi.fi</p>
-    <p>Aage Solbakk 1997: Sámi historjá II.</p>
-    <p>Davvi Girji OS: www.davvi.no</p>
-    <p>John T. Solbakk 2006 (ed.): The Sámi People – A Handbook.</p>
-    <p>Davvi Girji OS: www.davvi.no</p>
-    <p>John T. Solbakk &amp; Aage Solbakk 1999: - dasgo eallin gáibida min soahtái ja mii boahtit – mii boahtit dállán!/ - selve livet kalder os til kamp og vi kommer – vi kommer straks!</p>
-    <p>Čálliidlágádus: www.calliidlagadus.org</p>
-    <p>Saamelaisten kansallispäivä otetaan almanakkaan 2004</p>
-    <p>The Sámi Flag and Sámi People´s Day</p>
-    <p>Saamelaiskulttuurin ensyklopedia</p>
-    <p>www.siida.fi</p>
-    <p>www.calliidlagadus.org/leksikon</p>
-    <p>www.samer.se</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisten kansallispäivä 6.2.</title><genre code="admin"/><author><unknown/></author><wordcount>602</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=197&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=197_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=197_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisten kansallispäivä 6.2.</p>
+<p>Neljän valtakunnan alueella asuvat saamelaiset viettävät yhteistä kansallispäivää (Sámiid álbmotbeaivi) helmikuun 6. päivänä. Juhlallisuuksia järjestetään silloin eri puolilla Saamenmaata. Päivä on yksi saamelaisten liputuspäivistä, mutta lisäksi niin Suomen, Ruotsin kuin Norjankin viranomaiset suosittavat yleistä liputusta.</p>
+<p>Saamelaisten kansallispäivä on vielä nuori juhlapäivä. Suomalaiseen almanakkaan se merkittiin vasta vuonna 2004. Kansallispäivästä päätettiin kuitenkin jo vuonna 1992, ja juhlapäivän juuret juontavat yli sadan vuoden taakse, vuoteen 1917. Tuolloin Norjan Trondheimissä järjestettiin ensimmäinen pohjoismainen saamelaiskokous, jonka tarkoitus oli pohtia saamelaisten elinmahdollisuuksia ja ottaa kantaa saamelaisia koskeviin kysymyksiin. Käsitellyistä aiheista tärkeimpiä olivat liikkumiseen, maiden käyttöön, poronhoitoon ja koulunkäyntiin liittyvät kysymykset.</p>
+<p>Ensimmäisen kokouksen satakunta osanottajaa tulivat pelkästään Ruotsista ja Norjasta, eikä historiallinen kokous vielä tarkoittanut säännöllisen ja valtakunnan rajat ylittävän saamelaisyhteistyön alkua. Silti sen merkitys oli suuri: pohja tulevalle työlle oli luotu, ja saamelaisten yhteinen esiintyminen huomattiin. Saamelaisten poliittisen tietoisuuden katsotaankin heränneen juuri tuolloin.</p>
+<p>Helsingin kaupungintalon juhlaliputus saamelaisten kansallispäivänä 6.2.2008. Kuva: Pirita Näkkäläjärvi. Julkaistu kuvaajan luvalla.</p>
+<p>” <em type="italic">Emme ole koskaan ymmärtäneet toimia yhdessä yhtenä kansana. Tänään yritämme ensi kertaa sitoa - - - saamelaiset toisiinsa </em>”, totesi saamelaisyhteistyön äidiksi kutsuttu naisjärjestön aktiivi Elsa Laula Renberg Trondheimin kokouksen avajaispuheessaan. Nykyään saamelaiset juhlivat yhteistä kansallispäiväänsä yhtä aikaa. Juhlallisuuksissa puhutaan eri kieliä ja pukeudutaan paikallisiin pukuihin, mutta juhlapäivä, lippu ja kansallislaulu ovat kaikkialla samat. </p>
+<p type="title">Elsa Laula Renberg – saamelaisyhteistyön äiti</p>
+<p>Vuoden 1917 historiallisen kokouksen koollekutsujana oli naisjärjestö Brurskanken samisk kvindeforening, jonka johdossa toimi aktiivinen vaikuttaja Elsa Laula (1877-1931). Hän oli alkujaan Ruotsin saamelainen, joka avioiduttuaan ja muutettuaan Norjaan tunnettiin sukunimellä Laula Renberg. Hänen sanansa kokouksen avauspuheenvuorossa nostavat hyvin esille vuoden 1917 kokouksen tarkoituksen:</p>
+<p><span type="quote">Emme ole koskaan ymmärtäneet toimia yhdessä yhtenä kansana.  Tänään yritämme ensi kertaa sitoa - - - saamelaiset toisiinsa.</span></p>
+<p>Kokouksen yhtenä seurauksena Ruotsin Östersundissa järjestettiin jo seuraavana vuonna (1918) valtakunnallinen saamelaiskokous, jonka keskeisiksi asioiksi nousivat koulukysymykset. Norjassa vastaava valtakunnallinen saamelaiskokous järjestettiin Tenon kunnassa vuonna 1919.</p>
+<p>Elsa Laula oli jo aikaisemmin vaikuttanut aktiivisesti saamelaisen yhdistystoiminnan alkamiseen. Hän oli vuonna 1904 Ruotsissa perustetun ensimmäisen saamelaisyhdistyksen, Wilhelminan-Åselen saamelaisyhdistyksen, puheenjohtaja. Yhdistys toimi aktiivisesti muun muassa poronhoitajasaamelaisten ja maanviljelijöiden ristiriitojen ratkaisemiseksi ja pyrki vaikuttamaan saamelaisten kouluoloihin.</p>
+<p>Elsa Laula Renberg vaikutti aktiivisesti saamelaisyhdistysten syntymiseen myös Norjassa, jossa perustettiin viisi saamelaisyhdistystä vuosina 1906-08, nekin Ruotsin tapaan eteläsaamelaisilla alueilla. Finnmarkenin alueella saamelaisyhdistysten perustaminen oli vilkasta 1910–luvulla.</p>
+<p>Yhdistystoiminnan lisäksi Norjan ja Ruotsin saamelaiset pyrkivät 1900–luvun alussa ajamaan asioitaan myös sanomalehtien avulla. Vuonna 1904 Finnmarkissa perustettu sanomalehti Sagai Muittaleagje (Uutisten kertoja) jää historiaan ensimmäisen saamelaisen valtiopäivämiehen Isak Saban (Sápp-Issát) saamisessa Norjan Suurkäräjille kahdeksi istuntokaudeksi (1906-1912).</p>
+<p>Suomen saamelaisten yhdistystoiminta alkoi toisen maailmansodan jälkeen, vuonna 1945, kun Samii Litto–Saamelaisten yhdistys perustettiin evakkomatkalla Alavieskassa. Sitä ennen olivat suomalaiset Lapin ystävät perustaneet Lapin Sivistysseuran (Sámi Cuvgehussearvi) vuonna 1932 Helsingissä. Seura alkoi vuonna 1934 julkaista saamenkielistä Sabmelaš–lehteä ja vaikutti yhdessä Samii Litton kanssa ensimmäisen saamelaisasiain komitean asettamiseen Suomessa vuonna 1949. Samii Litton aikaansaannoksiin voidaan lisäksi lukea Saamelaisten kristillisen kansanopiston (Sámii kristtalaš nuoraidskuvla) perustaminen Inariin vuonna 1952 (-1993) ja Saamelaismuseon (Sámi musea) avaaminen kävijöille Inarissa vuonna 1962. Saamelaismuseo on edelleen toiminnassa ja se on yksi Suomen suosituimmista museoista, ks. www.siida.fi .</p>
+<p><em type="italic">Lähteitä: </em></p>
+<p>Karl Nickul 1970: Saamelaiset kansana ja kansalaisina. Suomalaisen kirjallisuuden seuran toimituksia 297. Helsinki.</p>
+<p>Samuli Aikio 1992: Olbmot ovdal min. Girjegiisá Oy/ Utsjoki.</p>
+<p>Veli-Pekka Lehtola: Saamelaiset – historia, yhteiskunta, taide.</p>
+<p>Kustannus-Puntsi 1997: www.puntsi.fi</p>
+<p>Aage Solbakk 1997: Sámi historjá II.</p>
+<p>Davvi Girji OS: www.davvi.no</p>
+<p>John T. Solbakk 2006 (ed.): The Sámi People – A Handbook.</p>
+<p>Davvi Girji OS: www.davvi.no</p>
+<p>John T. Solbakk &amp; Aage Solbakk 1999: - dasgo eallin gáibida min soahtái ja mii boahtit – mii boahtit dállán!/ - selve livet kalder os til kamp og vi kommer – vi kommer straks!</p>
+<p>Čálliidlágádus: www.calliidlagadus.org</p>
+<p>Saamelaisten kansallispäivä otetaan almanakkaan 2004</p>
+<p>The Sámi Flag and Sámi People´s Day</p>
+<p>Saamelaiskulttuurin ensyklopedia</p>
+<p>www.siida.fi</p>
+<p>www.calliidlagadus.org/leksikon</p>
+<p>www.samer.se</p>
+</body></document>

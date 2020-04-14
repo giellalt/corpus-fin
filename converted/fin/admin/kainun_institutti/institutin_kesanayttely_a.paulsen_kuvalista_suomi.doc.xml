@@ -1,76 +1,45 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="fin" id="no_id"><header><title> 
 Untitled
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/>
-    </translator>
-    <wordcount>181</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
-    <multilingual/>
-    <parallel_text xml:lang="fkv" location="kainun_institutti_kesanayttely_2011_a._paulsen_kuvatekstit_kvaani.doc"/>
-    <parallel_text xml:lang="nob" location="institutin_kesanayttely_a._paulsen_kuvalista_norja.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="smj">Almar Paulsen: <em type="bold"><span type="quote" xml:lang="fkv">“Täälä, -ja pikkusen tuolaki”</span> </em><span type="quote" xml:lang="fkv">“HER, -OG LITT DER”</span> -VALOKUVANÄYTTELY </p>
-    <p>1. Pikkulaukku <em type="italic">(Rhinanthus </em><em type="italic">minor) </em>helmikuussa </p>
-    <p xml:lang="fkv">2. Skuanvaaran länsipuolisia kaisoja (Porsanki)</p>
-    <p xml:lang="fkv">3. Merivirtoja</p>
-    <p xml:lang="fkv">4. Meriharakka soitimella Storsteinissa (Sokkuvuono)</p>
-    <p xml:lang="fkv">5. Kevättulva Sangofossenissa</p>
-    <p xml:lang="fkv">6. Taikametsä. Yökuva Skuanvaarasta (Porsanki)</p>
-    <p xml:lang="fkv">7. Monoliitti Persfjordissa (Varanki)</p>
-    <p xml:lang="fkv">8. Trollholmsund (Porsanki)</p>
-    <p>9. Solovetskin luostari, Vienanmeri (Venäjä)</p>
-    <p>10. Iltavalaistus Sennalandissa</p>
-    <p>11. Taiteilijakylä Vance Etelä-Ranskassa</p>
-    <p xml:lang="fkv">12. Ulko-ovi Montanzassa (Kuuba)</p>
-    <p xml:lang="fkv">13. Jäkälää Lohtivaarassa (Porsanki)</p>
-    <p xml:lang="fkv">14. Värileikkiä kivellä</p>
-    <p xml:lang="fkv">15. Asbestiranta Korsikalla</p>
-    <p xml:lang="fkv">16. Pakkasen taideteoksia Nedrevannilla (Porsanki)</p>
-    <p>17. Rakennus Mallorcalla. Nauhojen tarkoituksena on karkottaa pulut</p>
-    <p xml:lang="fkv">18. Lillukka <em type="italic">(Rubus saxatilis) </em><em type="italic">. </em>Kuvattu Silfarilla (Porsanki) </p>
-    <p xml:lang="fkv">19. Lokin soidin Väkkärässä (Porsanki)</p>
-    <p>20. Hotelliaamiainen</p>
-    <p>21. Orava ensimmäisen pakkasyön jälkeen Lemmijoessa (Porsanki)</p>
-    <p xml:lang="fkv">22. Kuubalainen laulajatar</p>
-    <p xml:lang="fkv">23. Koski (Porsanki)</p>
-    <p>24a. Tunturikohokki <em type="italic">(Sile </em><em type="italic">ne ac </em><em type="italic">aulis) </em></p>
-    <p xml:lang="fkv">24b. Harakankello <em type="italic">(Ca </em><em type="italic">m </em><em type="italic">panula patula) </em><em type="italic">. </em>Löydetty Pyssyjoelta. Harvinainen </p>
-    <p xml:lang="fkv">25. Näkymä Porsankivuonon yli. Kuvattu Väkkärästä</p>
-    <p xml:lang="fkv">26. Hirviön hahmo rinteessä (Porsanki)</p>
-    <p>27. Hálkavárri Siritoppenin suunnasta</p>
-    <p xml:lang="fkv">
-      <em type="bold">Lastenseinä </em>
-      <em type="bold">: </em>
-    </p>
-    <p xml:lang="fkv">28. Lokki pesällään</p>
-    <p xml:lang="fkv">29. Käpytikka</p>
-    <p xml:lang="fkv">30. Kapustarinta</p>
-    <p xml:lang="fkv">31. Meriharakka makeassa vedessä (Porsanki)</p>
-    <p xml:lang="fkv">32. Jänis kukkapenkissä</p>
-    <p xml:lang="fkv">33. Köynnöskrassia aamupalaksi</p>
-    <p xml:lang="fkv">34. Kurre ei aina istu puussa</p>
-    <p xml:lang="fkv">35. Elefantti Samburussa (Kenia)</p>
-    <p xml:lang="fkv">36. Seepra (Kenia)</p>
-    <p xml:lang="fkv">37. Kirahvi Samburussa (Kenia)</p>
-    <p xml:lang="fkv">38. Gepardinpentuja</p>
-    <p>
-      <em type="bold">suomi </em>
-    </p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><translator><person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN"/></translator><wordcount>181</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/><multilingual/><parallel_text xml:lang="fkv" location="kainun_institutti_kesanayttely_2011_a._paulsen_kuvatekstit_kvaani.doc"/><parallel_text xml:lang="nob" location="institutin_kesanayttely_a._paulsen_kuvalista_norja.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="smj">Almar Paulsen: <em type="bold"><span type="quote" xml:lang="fkv">“Täälä, -ja pikkusen tuolaki”</span> </em><span type="quote" xml:lang="fkv">“HER, -OG LITT DER”</span> -VALOKUVANÄYTTELY </p>
+<p>1. Pikkulaukku <em type="italic">(Rhinanthus </em><em type="italic">minor) </em>helmikuussa </p>
+<p xml:lang="fkv">2. Skuanvaaran länsipuolisia kaisoja (Porsanki)</p>
+<p xml:lang="fkv">3. Merivirtoja</p>
+<p xml:lang="fkv">4. Meriharakka soitimella Storsteinissa (Sokkuvuono)</p>
+<p xml:lang="fkv">5. Kevättulva Sangofossenissa</p>
+<p xml:lang="fkv">6. Taikametsä. Yökuva Skuanvaarasta (Porsanki)</p>
+<p xml:lang="fkv">7. Monoliitti Persfjordissa (Varanki)</p>
+<p xml:lang="fkv">8. Trollholmsund (Porsanki)</p>
+<p>9. Solovetskin luostari, Vienanmeri (Venäjä)</p>
+<p>10. Iltavalaistus Sennalandissa</p>
+<p>11. Taiteilijakylä Vance Etelä-Ranskassa</p>
+<p xml:lang="fkv">12. Ulko-ovi Montanzassa (Kuuba)</p>
+<p xml:lang="fkv">13. Jäkälää Lohtivaarassa (Porsanki)</p>
+<p xml:lang="fkv">14. Värileikkiä kivellä</p>
+<p xml:lang="fkv">15. Asbestiranta Korsikalla</p>
+<p xml:lang="fkv">16. Pakkasen taideteoksia Nedrevannilla (Porsanki)</p>
+<p>17. Rakennus Mallorcalla. Nauhojen tarkoituksena on karkottaa pulut</p>
+<p xml:lang="fkv">18. Lillukka <em type="italic">(Rubus saxatilis) </em><em type="italic">. </em>Kuvattu Silfarilla (Porsanki) </p>
+<p xml:lang="fkv">19. Lokin soidin Väkkärässä (Porsanki)</p>
+<p>20. Hotelliaamiainen</p>
+<p>21. Orava ensimmäisen pakkasyön jälkeen Lemmijoessa (Porsanki)</p>
+<p xml:lang="fkv">22. Kuubalainen laulajatar</p>
+<p xml:lang="fkv">23. Koski (Porsanki)</p>
+<p>24a. Tunturikohokki <em type="italic">(Sile </em><em type="italic">ne ac </em><em type="italic">aulis) </em></p>
+<p xml:lang="fkv">24b. Harakankello <em type="italic">(Ca </em><em type="italic">m </em><em type="italic">panula patula) </em><em type="italic">. </em>Löydetty Pyssyjoelta. Harvinainen </p>
+<p xml:lang="fkv">25. Näkymä Porsankivuonon yli. Kuvattu Väkkärästä</p>
+<p xml:lang="fkv">26. Hirviön hahmo rinteessä (Porsanki)</p>
+<p>27. Hálkavárri Siritoppenin suunnasta</p>
+<p xml:lang="fkv"><em type="bold">Lastenseinä </em><em type="bold">: </em></p>
+<p xml:lang="fkv">28. Lokki pesällään</p>
+<p xml:lang="fkv">29. Käpytikka</p>
+<p xml:lang="fkv">30. Kapustarinta</p>
+<p xml:lang="fkv">31. Meriharakka makeassa vedessä (Porsanki)</p>
+<p xml:lang="fkv">32. Jänis kukkapenkissä</p>
+<p xml:lang="fkv">33. Köynnöskrassia aamupalaksi</p>
+<p xml:lang="fkv">34. Kurre ei aina istu puussa</p>
+<p xml:lang="fkv">35. Elefantti Samburussa (Kenia)</p>
+<p xml:lang="fkv">36. Seepra (Kenia)</p>
+<p xml:lang="fkv">37. Kirahvi Samburussa (Kenia)</p>
+<p xml:lang="fkv">38. Gepardinpentuja</p>
+<p><em type="bold">suomi </em></p>
+</body></document>

@@ -1,120 +1,83 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1703</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod</origFileName>
-    <parallel_text xml:lang="eng" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/>
-    <parallel_text xml:lang="fit" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/>
-    <parallel_text xml:lang="sme" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/>
-    <parallel_text xml:lang="swe" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Hammashoito kun olet yli 20-vuotias - valtiollinen hammashuoltoavustus / Tandvård när man är över 20 år - statligt tandvårdsstöd - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Hammashoito kun olet yli 20-vuotias - valtiollinen hammashuoltoavustusTandvård när man är över 20 år - statligt tandvårdsstöd</p>
-    <p type="title">Yhteenveto</p>
-    <p type="title">Sinä vuonna kun täytät 20 vuotta alkaa hammashoito maksaa</p>
-    <p>Sen vuoden tammikuun ensimmäisestä päivästä lähtien kun täytät 20 vuotta, sinun täytyy useimmissa maakäräjäkunnissa maksaa hammashoidosta.Useimmiten voit edelleen saada kutsuja tarkastuksiin, mutta muuten sinun on itse tilattava aika hammaslääkäriltä tai suuhygienistiltä.</p>
-    <p type="title">Hammashoidon taloudellinen tuki</p>
-    <p>Heinäkuun ensimmäisestä päivästä 2008 lähtien on ollut voimassa valtiollinen hammashuoltoavustus, jonka jokainen saa sinä vuonna kun täyttää 20 vuotta.</p>
-    <p>Taloudellinen tuki koostuu kahdesta osasta:</p>
-    <p>Yleisestä hammashuollon avustuksesta (ATB), jonka suuruus on 150 tai 300 kruunua vuodessa riippuen siitä, minkä ikäinen on.</p>
-    <p>Kustannuskatto (högkostnadsskydd) on turva, joka kattaa osan hinnasta, kun hammashoito maksaa niin sanotuin viitehinnoin yli 3 000 kruunua vuodessa.</p>
-    <p>Et saa mitään tukia tai rahoja kotiin, eikä rahaa myöskään tarvitse maksaa ennen sen takaisinsaamista, vaan se vähennetään hoitokäynnin maksun yhteydessä. Hammaslääkäri tai suuhygienisti saa sitten korvauksen jälkikäteen vakuutuskassalta (Försäkringskassan). Taloudellinen tuki koskee kaikkia tutkimuksia ja useimpia hoitoja.On olemassa tietyt, niin kutsutut viitehinnat, jotka ovat perusteina sille, mitä saa laskea mukaan kustannuskattoon. Jos hammashoitoa antavan vastaanoton hinta on korkeampi kuin viitehinta, vain viitehinta saadaan sisällyttää kustannuskattoturvaan.</p>
-    <p type="title">Kiireellinen hammashoito voi tulla kalliimmaksi</p>
-    <p>Joskus apua täytyy saada heti, niin kutsuttua akuuttihammashoitoa (akut tandvård). Joka kerran kiireelliseen hoitoon hakeutuessaan asiakas joutuu yleensä maksamaan kiireellisestä tutkimuksesta. Usein myös vain kaikkein kiireellisin tutkitaan ja hoidetaan. Jos tarvitaan lisähoitoa myöhemmin, jotta kaikki olisi selvää, on myös siitä maksettava. Iltaisin ja pyhäpäivisin on sitä paitsi useimmiten kalliimpaa, jos kyseessä on päivystysaika. On myös hammaslääkärin vastaanottoja, jotka ovat aina avoinna iltaisin ja pyhäpäivisin ja jotka eivät ota siitä lisämaksua.</p>
-    <p type="title">Hammaslääkärin ja suuhygienistin valinta</p>
-    <p>Voit valita, kenen tahansa hammaslääkärin tai suuhygienistin, jonka haluat, millä paikkakunnalla haluat. Voit valita, hoidatatko hampaasi yleisessä hammashuollossa vai yksityisellä vastaanotolla. Jos olet käynyt tietyllä hammaslääkärillä tai suuhygienistillä jo aikaisemmin, voit valita, jatkatko edelleen samalla vastaanotolla. Saadakseen taloudellista tukea hammashoidon vastaanoton pitää kuulua vakuutuskassaan (Försäkringskassan), johon useimmat kuuluvatkin. Varatessasi ajan hammashoidon vastaanotolta voit kysyä, kuuluvatko he vakuutuskassaan. Halutessasi yhteyden uuteen hammaslääkäriin löydät luettelon hammaslääkäreistä yleisen hammashoidon tai yksityisten hammaslääkäreiden (Privattandläkarna) verkkosivuilta.</p>
-    <p type="title">Kysy aina, mitä hoito maksaa</p>
-    <p>Hammaslääkäri ja suuhygienisti saavat itse päättää, mitä he ottavat maksuksi eri tutkimuksista ja hoidoista.Koska eri vastaanottojen hinnat voivat vaihdella ja kustannuskattoa koskevat säännöt ovat yksityiskohtaisia, pitää ennen hoidon aloittamista pyytää hintatiedot. Sinulla on oikeus saada tietää, saatko taloudellista tukea. Jos hoito tehdään useassa vaiheessa tai jos hoitoa on annettava monta kertaa, on oikeus saada kirjallinen ehdotus siitä, mitä hoito maksaa ja kuuluuko se kustannuskattoturvan piiriin. Jos on vaikea ilmoittaa tarkkaa hintaa, on asiakkaalla kuitenkin oikeus saada likimääräinen hinta tai arvio siitä, mitä se voi vähimmillään ja enimmillään maksaa. Hammashoidon vastaanottojen tulee selkeästi näyttää hinnastonsa odotushuoneessa, jotta potilas voi tehdä vertailuja jo ennen hoidon alkua. Osalla vastaanotoista on myös hinnastot nettisivuillaan.</p>
-    <p type="title">Yleinen hammashuoltoavustus</p>
-    <p type="title">Kaikille kuuluva tuki</p>
-    <p>Heinäkuun ensimmäisestä päivästä sinä vuonna kun täyttää 20 vuotta on kaikilla oikeus vuosittaiseen hammashoitotukeen. Sitä kutsutaan yleiseksi hammashuoltoavustukseksi (allmänt tandvårdsbidrag), josta käytetään lyhennettä ATB. Siitä vuodesta kun täyttää 20 vuotta siihen vuoteen kun täyttää 29 vuotta, tuki on 300 kruunua vuodessa. Siitä vuodesta kun täyttää 30 vuotta ja siihen vuoteen asti kun täyttää 74 vuotta, tuki on 150 kruunua vuodessa. Siitä vuodesta kun täyttää 75 vuotta tuki on 300 kruunua vuodessa. Uusi hammashuoltoavustus lasketaan joka vuoden heinäkuun ensimmäisestä päivästä eteenpäin. Tuki vähennetään tavallisesti maksettaessa, mutta voi olla hyvä itse kertoa, haluaako käyttää sitä.</p>
-    <p type="title">Hammashuoltoavustuksen voi säästää seuraavalle vuodelle</p>
-    <p>Yhden vuoden tuen voi säästää seuraavaksi vuodeksi ja käyttää kaksi tukea yhden vuoden aikana, joko samanaikaisesti tai kahdessa eri tilaisuudessa. Kuitenkin korkeintaan kahta tukea voi säästää tai käyttää kerrallaan.</p>
-    <p>Jos olet esimerkiksi 28-vuotias, voit säästää vuoden 300 kruunun suuruisen tuen ja käyttää molemmat tuet seuraavana vuonna, toisin sanoen 600 kruunua.</p>
-    <p>Jos olet esimerkiksi 29-vuotias ja saat 300 kruunua yhtenä vuonna, saat seuraavana vuonna 30-vuotiaana 150 kruunun yleisen hammashuoltoavustuksen, siis 450 kruunua näiksi kahdeksi vuodeksi.</p>
-    <p>Jos olet epävarma siitä, oletko käyttänyt hammashuoltoavustuksesi, voit kysyä sitä hammaslääkäriltä. Yleistä hammashuoltoavustusta voi myös käyttää maksuna niin kutsutussa tilaushammashuollossa. Kyseessä on monivuotinen, osamaksuun perustuva sopimus, joka voidaan solmia yleisen hammashuollon ja tiettyjen yksityisten hammaslääkärin vastaanottojen kanssa.</p>
-    <p type="title">Hammashoidon kustannuskatto</p>
-    <p type="title">Kustannuskatto tietyn rahamäärän jälkeen</p>
-    <p>Jotta hammashoito ei maksaisi liikaa, on olemassa kustannuskatto, joka merkitsee, että potilas saa avustusta sen jälkeen kun hän on käyttänyt hammashoitoon tietyn rahasumman. Tämä kustannuskatto eroaa sairaanhoidon kustannuskatosta siinä, että asiakkaan pitää itse maksaa suurempi rahamäärä ennen turvan voimaantuloa, ja hän saa sen jälkeen tukea vain osalle hinnasta.</p>
-    <p type="title">Taloudellista tukea hammashoidon tullessa kalliimmaksi</p>
-    <p>Hieman yksinkertaistaen kustannuskatto toimii siten, että asiakas maksaa hammashoitonsa kaikki kustannukset 3 000 kruunuun asti, minkä jälkeen hän saa taloudellista tukea osalle tämän summan ylittävistä kustannuksista. Mitä kalliimmaksi hoito tulee, sitä suurempi on taloudellinen tuki.</p>
-    <p>Hinnasta vähennetään</p>
-    <p>50 prosenttia 3 001 - 15 000 kruunua maksavasta hoidosta</p>
-    <p>85 prosenttia yli 15 000 kruunua ylittävältä osalta.</p>
-    <p>
-      <em type="italic">Hammshoidon kustannukset </em>
-    </p>
-    <p>
-      <em type="italic">Kuka maksaa? </em>
-    </p>
-    <p>3 000 kruunuun asti</p>
-    <p>Asiakas maksaa kaikki kustannukset</p>
-    <p>3 001 - 15 000 kruunun kustannuksista</p>
-    <p>Asiakas maksaa 50 % - vakuutuskassa maksaa 50 %</p>
-    <p>Yli 15 000 kruunun kustannuksista</p>
-    <p>Asiakas makaaa 15 % - vakuutuskassa maksaa 85 %</p>
-    <p>Kausi, jonka ajalta kustannukset lasketaan yhteen, on kahdentoista kuukauden mittainen, sitten aloitetaan alusta. Jos asiakkaan hoito ei valmistu kahdentoista kuukauden mittaisen kauden aikana, on aloitettava uusi jakso ja maksettava alusta lähtien. Asiakkaan on itse pidettävä huolta jakson päättymispäivästä.Jakson voi halutessaan lopettaa ja aloittaa uuden ennen jakson aikaisemmin kuin kahdentoista kuukauden kuluttua.</p>
-    <p>Se voi olla kannattavaa, jos on esimerkiksi jo aloittanut jakson, mutta tarvitseekin hoitoa, joka jatkuu pidemmän aikaa ja joka tulee maksamaan paljon. Aloituspäivämäärää ei voi muuttaa jälkikäteen.</p>
-    <p>Hammaslääkärin/suuhygienistin vastaanotto saa tiedon vakuutuskassan (Försäkringskassan) kautta siitä, kuinka paljon asiakkaan saamasta hammashoidosta voidaan sisällyttää kustannuskattoturvaan.</p>
-    <p>Jos asiakas vaihtaa vastaanottoa, uusi vastaanotto voi nähdä, minkä arvosta asiakas on siihen mennessä saanut hoitoja.</p>
-    <p>Kustannuskattoturvaa voit hyödyntää sen vuoden tammikuun ensimmäisestä päivästä lähtien kun täytät 20 vuotta.</p>
-    <p type="title">Mitä kalliimpaa, sitä suurempi taloudellinen tuki</p>
-    <p>All kaksi laskuesimerkkiä, jotka osoittavat, kuinka kustannuskatto vaikuttaa ja kuinka paljon asiakas lopulta maksaa.</p>
-    <p>Esimerkki 1:</p>
-    <p>Asiakkaalle tehdään tutkimuksia ja hoitoja 10 000 kruunun arvosta.</p>
-    <p>Asiakas maksaa ensin itse 3 000 kruunua.</p>
-    <p>Sitten asiakas maksaa 50 % hoidosta, joka maksaa 3001 - 15 000, 50 % 7 000:sta = 3 500</p>
-    <p>Asiakas maksaa siis yhteensä 3 000 + 3 500 = 6 500.</p>
-    <p>Kustannuskaton ansiosta asiakas maksaa 6 500 kruunua 10 000 kruunun sijasta.</p>
-    <p>Esimerkki 2:</p>
-    <p>Asiakas saa tutkimuksia ja hoitoja 24 000 kruunun arvosta.</p>
-    <p>Ensin hän maksaa itse 3 000 kruunua.</p>
-    <p>Sitten hän maksaa 50 % hoidosta, joka maksaa 3001 - 15 000, 50 % 12 000:sta = 6 000.</p>
-    <p>Sitten hän maksaa 15 % hoidosta, joka maksaa yli 15 000, 15 % 9 000:sta = 1 350.</p>
-    <p>Asiakas maksaa siis yhteensä 3 000 + 6 000 + 1 350 = 10 350.</p>
-    <p>Kustannuskaton ansiosta asiakas maksaa 10 350 kruunua 24 000 kruunun sijasta.</p>
-    <p type="title">Kaikki ei kuulu kustannuskaton piiriin</p>
-    <p>On olemassa säännöt siitä, mitä tutkimuksia, hoitoja ja materiaaleja kustannuskatto kattaa.</p>
-    <p>Jos asiakas valitsee hoidon, joka ei lainkaan sisälly kustannuskaton piiriin, hänen on itse maksettava koko hinta.Joskus osa hoidosta oikeuttaa taloudelliseen tukeen. Hammaslääkäri tai suuhygienisti on velvollinen kertomaan, mitkä hoidot kuuluvat kustannuskaton piiriin.</p>
-    <p type="title">Mitkä tutkimukset ja hoidot kuuluvat kustannuskaton piiriin?</p>
-    <p>Osa yksi on yläleuan oikea puoli, osa kaksi yläleuan vasen puoli, osa kolme on alaleuan vasen puoli ja osa neljä alaleuan oikea puoli. Kustannuskaton ansiosta asiakas maksaa 10 350 kruunua 24 000 kruunun sijasta.</p>
-    <p>Jokaisen osan hampaat numeroidaan edestä katsoen numeroilla 1 - 8.</p>
-    <p>Hampaiden 1 - 6 hoito kuuluu lähes aina kustannuskaton piiriin.</p>
-    <p>Jokaisella hampaalla on yksilöllinen numeronsa sen mukaan, millä leukaneljänneksellä se sijaitsee, esimerkiksi osan 3 hampaiden numerot ovat 31, 32, 33, 34 jne.</p>
-    <p>Kaikki tutkimukset ja useimmat hoidot oikeuttavat taloudelliseen tukeen. Sitä vastoin niin kutsuttuun kosmeettiseen hoitoon, jonka tarkoituksena on ainoastaan parantaa hampaiden ulkonäköä, ei saa mitään tukea.Potilaalla on aina oikeus saada hoitoa, jos hänellä on kipuja tai sairaus, mutta viisaudenhampaan juurihoitoon ei saa mitään taloudellista tukea.</p>
-    <p>Jos vaivat liittyvät johonkin kahdestatoista keskimmäisestä ylä- ja alaleuan hampaasta, lähes kaikki hoidot ovat kustannuskaton piirissä. Jos on tarpeen paikata reikä, se kuuluu suojan piiriin riippumatta siitä, missä osassa suuta reikä on. Irrotettavat proteesit kuuluvat aina kustannuskaton piiriin.Hammaskruunut ovat kustannuskatosta korvattavia hampaissa 1 - 6 keskiviivasta katsoen, jos hammas on suurelta osin vahingoittunut. Sekä hampaasta 7, jos saman puolen hammas numero 6 puuttuu.</p>
-    <p>Niin kutsuttuja siltoja ja hammasimplantteja koskevat monet yksityiskohtaiset säännöt, jotka määräävät, mitkä hampaat ja minkä tyyppiset materiaalit voidaan lukea kustannuskaton piiriin. Siksi on parasta kysyä hammaslääkäriltä, mitkä määräykset kussakin tapauksessa ovat voimassa.</p>
-    <p type="title">Hoito käsittää useita osia</p>
-    <p>Tutkimus tai hoito koostuu useimmiten useammista eri osista. Myös jälkitarkastus ja -hoito, esimerkiksi tikkien poisto, kuuluvat kustannuskaton piiriin. Jos tarvitaan puudutusta, se kuuluu aina kustannuskaton piiriin.</p>
-    <p type="title">Joskus hoidosta voi tulla kalliimpaa</p>
-    <p>Jos potilas tarvitsee kattavaa hoitoa, voi hammaslääkärin joskus olla vaikea tietää tarkalleen, kuinka paljon hoitoa tarvitaan ja mitä se voi tulla maksamaan.</p>
-    <p>Alkuperäistä hintatarjousta voidaan muuttaa, jos tarvitaan useampia hoitoja, mitä hammaslääkäri ensin uskoi, voi tulla esimerkiksi komplikaatioita tai parantuminen kestää kauemmin. Silloin voi joutua maksamaan tarvittavasta lisähoidosta. Asiakkaalla on kuitenkin oikeus saada tietää heti kun hammaslääkäri huomaa, että hoito tulee maksamaan enemmän.</p>
-    <p type="title">Kustannuskaton perustana on viitehinta</p>
-    <p>Hinta, jonka hammaslääkäri veloittaa, ei aina ole sama kuin se hinta, joka voidaan sisällyttää kustannuskattoon. Niin kutsutut viitehinnat määrittävät, kuinka paljon tukea voi saada. Viitehinta on määrätty hinta, joka otetaan huomioon kustannuskattoa laskettaessa, se ei ole keskihinta eikä suositushinta, joka hammaslääkärin täytyy veloittaa. Kaikki hammaslääkärit ja suuhygienistit voivat asettaa omat hintansa, voimassa on niin kutsuttu vapaa hinnoittelu.</p>
-    <p>Jos asiakas menee hammashoidon vastaanotolle, joka veloittaa viitehintaa korkeamman hinnan, kustannuskattoon saa sisällyttää vain viitehinnan ja maksaa sitten erotuksen itse. Kun hammaslääkäri tai suuhygienisti veloittaa muun kuin viitehinnan, kustannuskaton perustana on aina alempi hinta. Vastaanotot veloittavat usein korkeamman hinnan päivystysaikana tehdystä hammashoidosta, mutta viitehinnat ovat samat kuin suunnitellusta hammashoidosta.Viitehinnat lasketaan uudelleen ja niitä muutetaan vuosittain.</p>
-    <p type="title">Hinnaston on oltava selkeä</p>
-    <p>Jo ennen käyntiä hammashoidon vastaanotolla asiakkaan on voitava saada tietää hinnat etukäteen.Odotushuoneessa on oltava hinnasto.Vastaanotoilla on oltava selkeästi esillä viitehinnat ja vastaanoton omat hinnat, jotta asiakkaat voivat tehdä vertailuja.Jos asiakas on tutkittu ja hän tarvitsee useita hoitoja, hänellä on oikeus saada kirjallinen arvio siitä, mitä tulevat hoidot maksavat ja kuuluvatko ne kustannuskattoturvan piiriin. Jos hoidon tarkkaa hintaa on vaikea ilmoittaa, asiakkaalla on kuitenkin oikeus saada likimääräinen hinta tai arvio siitä, mitä hoito voi vähintään ja enintään maksaa.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1699</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod</origFileName><parallel_text xml:lang="eng" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/><parallel_text xml:lang="fit" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/><parallel_text xml:lang="sme" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/><parallel_text xml:lang="swe" location="tandvard-nar-man-ar-over-20-ar---statligt-tandvardsstod.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Hammashoito kun olet yli 20-vuotias - valtiollinen hammashuoltoavustus / Tandvård när man är över 20 år - statligt tandvårdsstöd - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Hammashoito kun olet yli 20-vuotias - valtiollinen hammashuoltoavustusTandvård när man är över 20 år - statligt tandvårdsstöd</p>
+<p type="title">Yhteenveto</p>
+<p type="title">Sinä vuonna kun täytät 20 vuotta alkaa hammashoito maksaa</p>
+<p>Sen vuoden tammikuun ensimmäisestä päivästä lähtien kun täytät 20 vuotta, sinun täytyy useimmissa maakäräjäkunnissa maksaa hammashoidosta.Useimmiten voit edelleen saada kutsuja tarkastuksiin, mutta muuten sinun on itse tilattava aika hammaslääkäriltä tai suuhygienistiltä.</p>
+<p type="title">Hammashoidon taloudellinen tuki</p>
+<p>Heinäkuun ensimmäisestä päivästä 2008 lähtien on ollut voimassa valtiollinen hammashuoltoavustus, jonka jokainen saa sinä vuonna kun täyttää 20 vuotta.</p>
+<p>Taloudellinen tuki koostuu kahdesta osasta:</p>
+<p>Yleisestä hammashuollon avustuksesta (ATB), jonka suuruus on 150 tai 300 kruunua vuodessa riippuen siitä, minkä ikäinen on.</p>
+<p>Kustannuskatto (högkostnadsskydd) on turva, joka kattaa osan hinnasta, kun hammashoito maksaa niin sanotuin viitehinnoin yli 3 000 kruunua vuodessa.</p>
+<p>Et saa mitään tukia tai rahoja kotiin, eikä rahaa myöskään tarvitse maksaa ennen sen takaisinsaamista, vaan se vähennetään hoitokäynnin maksun yhteydessä. Hammaslääkäri tai suuhygienisti saa sitten korvauksen jälkikäteen vakuutuskassalta (Försäkringskassan). Taloudellinen tuki koskee kaikkia tutkimuksia ja useimpia hoitoja.On olemassa tietyt, niin kutsutut viitehinnat, jotka ovat perusteina sille, mitä saa laskea mukaan kustannuskattoon. Jos hammashoitoa antavan vastaanoton hinta on korkeampi kuin viitehinta, vain viitehinta saadaan sisällyttää kustannuskattoturvaan.</p>
+<p type="title">Kiireellinen hammashoito voi tulla kalliimmaksi</p>
+<p>Joskus apua täytyy saada heti, niin kutsuttua akuuttihammashoitoa (akut tandvård). Joka kerran kiireelliseen hoitoon hakeutuessaan asiakas joutuu yleensä maksamaan kiireellisestä tutkimuksesta. Usein myös vain kaikkein kiireellisin tutkitaan ja hoidetaan. Jos tarvitaan lisähoitoa myöhemmin, jotta kaikki olisi selvää, on myös siitä maksettava. Iltaisin ja pyhäpäivisin on sitä paitsi useimmiten kalliimpaa, jos kyseessä on päivystysaika. On myös hammaslääkärin vastaanottoja, jotka ovat aina avoinna iltaisin ja pyhäpäivisin ja jotka eivät ota siitä lisämaksua.</p>
+<p type="title">Hammaslääkärin ja suuhygienistin valinta</p>
+<p>Voit valita, kenen tahansa hammaslääkärin tai suuhygienistin, jonka haluat, millä paikkakunnalla haluat. Voit valita, hoidatatko hampaasi yleisessä hammashuollossa vai yksityisellä vastaanotolla. Jos olet käynyt tietyllä hammaslääkärillä tai suuhygienistillä jo aikaisemmin, voit valita, jatkatko edelleen samalla vastaanotolla. Saadakseen taloudellista tukea hammashoidon vastaanoton pitää kuulua vakuutuskassaan (Försäkringskassan), johon useimmat kuuluvatkin. Varatessasi ajan hammashoidon vastaanotolta voit kysyä, kuuluvatko he vakuutuskassaan. Halutessasi yhteyden uuteen hammaslääkäriin löydät luettelon hammaslääkäreistä yleisen hammashoidon tai yksityisten hammaslääkäreiden (Privattandläkarna) verkkosivuilta.</p>
+<p type="title">Kysy aina, mitä hoito maksaa</p>
+<p>Hammaslääkäri ja suuhygienisti saavat itse päättää, mitä he ottavat maksuksi eri tutkimuksista ja hoidoista.Koska eri vastaanottojen hinnat voivat vaihdella ja kustannuskattoa koskevat säännöt ovat yksityiskohtaisia, pitää ennen hoidon aloittamista pyytää hintatiedot. Sinulla on oikeus saada tietää, saatko taloudellista tukea. Jos hoito tehdään useassa vaiheessa tai jos hoitoa on annettava monta kertaa, on oikeus saada kirjallinen ehdotus siitä, mitä hoito maksaa ja kuuluuko se kustannuskattoturvan piiriin. Jos on vaikea ilmoittaa tarkkaa hintaa, on asiakkaalla kuitenkin oikeus saada likimääräinen hinta tai arvio siitä, mitä se voi vähimmillään ja enimmillään maksaa. Hammashoidon vastaanottojen tulee selkeästi näyttää hinnastonsa odotushuoneessa, jotta potilas voi tehdä vertailuja jo ennen hoidon alkua. Osalla vastaanotoista on myös hinnastot nettisivuillaan.</p>
+<p type="title">Yleinen hammashuoltoavustus</p>
+<p type="title">Kaikille kuuluva tuki</p>
+<p>Heinäkuun ensimmäisestä päivästä sinä vuonna kun täyttää 20 vuotta on kaikilla oikeus vuosittaiseen hammashoitotukeen. Sitä kutsutaan yleiseksi hammashuoltoavustukseksi (allmänt tandvårdsbidrag), josta käytetään lyhennettä ATB. Siitä vuodesta kun täyttää 20 vuotta siihen vuoteen kun täyttää 29 vuotta, tuki on 300 kruunua vuodessa. Siitä vuodesta kun täyttää 30 vuotta ja siihen vuoteen asti kun täyttää 74 vuotta, tuki on 150 kruunua vuodessa. Siitä vuodesta kun täyttää 75 vuotta tuki on 300 kruunua vuodessa. Uusi hammashuoltoavustus lasketaan joka vuoden heinäkuun ensimmäisestä päivästä eteenpäin. Tuki vähennetään tavallisesti maksettaessa, mutta voi olla hyvä itse kertoa, haluaako käyttää sitä.</p>
+<p type="title">Hammashuoltoavustuksen voi säästää seuraavalle vuodelle</p>
+<p>Yhden vuoden tuen voi säästää seuraavaksi vuodeksi ja käyttää kaksi tukea yhden vuoden aikana, joko samanaikaisesti tai kahdessa eri tilaisuudessa. Kuitenkin korkeintaan kahta tukea voi säästää tai käyttää kerrallaan.</p>
+<p>Jos olet esimerkiksi 28-vuotias, voit säästää vuoden 300 kruunun suuruisen tuen ja käyttää molemmat tuet seuraavana vuonna, toisin sanoen 600 kruunua.</p>
+<p>Jos olet esimerkiksi 29-vuotias ja saat 300 kruunua yhtenä vuonna, saat seuraavana vuonna 30-vuotiaana 150 kruunun yleisen hammashuoltoavustuksen, siis 450 kruunua näiksi kahdeksi vuodeksi.</p>
+<p>Jos olet epävarma siitä, oletko käyttänyt hammashuoltoavustuksesi, voit kysyä sitä hammaslääkäriltä. Yleistä hammashuoltoavustusta voi myös käyttää maksuna niin kutsutussa tilaushammashuollossa. Kyseessä on monivuotinen, osamaksuun perustuva sopimus, joka voidaan solmia yleisen hammashuollon ja tiettyjen yksityisten hammaslääkärin vastaanottojen kanssa.</p>
+<p type="title">Hammashoidon kustannuskatto</p>
+<p type="title">Kustannuskatto tietyn rahamäärän jälkeen</p>
+<p>Jotta hammashoito ei maksaisi liikaa, on olemassa kustannuskatto, joka merkitsee, että potilas saa avustusta sen jälkeen kun hän on käyttänyt hammashoitoon tietyn rahasumman. Tämä kustannuskatto eroaa sairaanhoidon kustannuskatosta siinä, että asiakkaan pitää itse maksaa suurempi rahamäärä ennen turvan voimaantuloa, ja hän saa sen jälkeen tukea vain osalle hinnasta.</p>
+<p type="title">Taloudellista tukea hammashoidon tullessa kalliimmaksi</p>
+<p>Hieman yksinkertaistaen kustannuskatto toimii siten, että asiakas maksaa hammashoitonsa kaikki kustannukset 3 000 kruunuun asti, minkä jälkeen hän saa taloudellista tukea osalle tämän summan ylittävistä kustannuksista. Mitä kalliimmaksi hoito tulee, sitä suurempi on taloudellinen tuki.</p>
+<p>Hinnasta vähennetään</p>
+<p>50 prosenttia 3 001 - 15 000 kruunua maksavasta hoidosta</p>
+<p>85 prosenttia yli 15 000 kruunua ylittävältä osalta.</p>
+<p><em type="italic">Hammshoidon kustannukset </em></p>
+<p><em type="italic">Kuka maksaa? </em></p>
+<p>3 000 kruunuun asti</p>
+<p>Asiakas maksaa kaikki kustannukset</p>
+<p>3 001 - 15 000 kruunun kustannuksista</p>
+<p>Asiakas maksaa 50 % - vakuutuskassa maksaa 50 %</p>
+<p>Yli 15 000 kruunun kustannuksista</p>
+<p>Asiakas makaaa 15 % - vakuutuskassa maksaa 85 %</p>
+<p>Kausi, jonka ajalta kustannukset lasketaan yhteen, on kahdentoista kuukauden mittainen, sitten aloitetaan alusta. Jos asiakkaan hoito ei valmistu kahdentoista kuukauden mittaisen kauden aikana, on aloitettava uusi jakso ja maksettava alusta lähtien. Asiakkaan on itse pidettävä huolta jakson päättymispäivästä.Jakson voi halutessaan lopettaa ja aloittaa uuden ennen jakson aikaisemmin kuin kahdentoista kuukauden kuluttua.</p>
+<p>Se voi olla kannattavaa, jos on esimerkiksi jo aloittanut jakson, mutta tarvitseekin hoitoa, joka jatkuu pidemmän aikaa ja joka tulee maksamaan paljon. Aloituspäivämäärää ei voi muuttaa jälkikäteen.</p>
+<p>Hammaslääkärin/suuhygienistin vastaanotto saa tiedon vakuutuskassan (Försäkringskassan) kautta siitä, kuinka paljon asiakkaan saamasta hammashoidosta voidaan sisällyttää kustannuskattoturvaan.</p>
+<p>Jos asiakas vaihtaa vastaanottoa, uusi vastaanotto voi nähdä, minkä arvosta asiakas on siihen mennessä saanut hoitoja.</p>
+<p>Kustannuskattoturvaa voit hyödyntää sen vuoden tammikuun ensimmäisestä päivästä lähtien kun täytät 20 vuotta.</p>
+<p type="title">Mitä kalliimpaa, sitä suurempi taloudellinen tuki</p>
+<p>All kaksi laskuesimerkkiä, jotka osoittavat, kuinka kustannuskatto vaikuttaa ja kuinka paljon asiakas lopulta maksaa.</p>
+<p>Esimerkki 1:</p>
+<p>Asiakkaalle tehdään tutkimuksia ja hoitoja 10 000 kruunun arvosta.</p>
+<p>Asiakas maksaa ensin itse 3 000 kruunua.</p>
+<p>Sitten asiakas maksaa 50 % hoidosta, joka maksaa 3001 - 15 000, 50 % 7 000:sta = 3 500</p>
+<p>Asiakas maksaa siis yhteensä 3 000 + 3 500 = 6 500.</p>
+<p>Kustannuskaton ansiosta asiakas maksaa 6 500 kruunua 10 000 kruunun sijasta.</p>
+<p>Esimerkki 2:</p>
+<p>Asiakas saa tutkimuksia ja hoitoja 24 000 kruunun arvosta.</p>
+<p>Ensin hän maksaa itse 3 000 kruunua.</p>
+<p>Sitten hän maksaa 50 % hoidosta, joka maksaa 3001 - 15 000, 50 % 12 000:sta = 6 000.</p>
+<p>Sitten hän maksaa 15 % hoidosta, joka maksaa yli 15 000, 15 % 9 000:sta = 1 350.</p>
+<p>Asiakas maksaa siis yhteensä 3 000 + 6 000 + 1 350 = 10 350.</p>
+<p>Kustannuskaton ansiosta asiakas maksaa 10 350 kruunua 24 000 kruunun sijasta.</p>
+<p type="title">Kaikki ei kuulu kustannuskaton piiriin</p>
+<p>On olemassa säännöt siitä, mitä tutkimuksia, hoitoja ja materiaaleja kustannuskatto kattaa.</p>
+<p>Jos asiakas valitsee hoidon, joka ei lainkaan sisälly kustannuskaton piiriin, hänen on itse maksettava koko hinta.Joskus osa hoidosta oikeuttaa taloudelliseen tukeen. Hammaslääkäri tai suuhygienisti on velvollinen kertomaan, mitkä hoidot kuuluvat kustannuskaton piiriin.</p>
+<p type="title">Mitkä tutkimukset ja hoidot kuuluvat kustannuskaton piiriin?</p>
+<p>Osa yksi on yläleuan oikea puoli, osa kaksi yläleuan vasen puoli, osa kolme on alaleuan vasen puoli ja osa neljä alaleuan oikea puoli. Kustannuskaton ansiosta asiakas maksaa 10 350 kruunua 24 000 kruunun sijasta.</p>
+<p>Jokaisen osan hampaat numeroidaan edestä katsoen numeroilla 1 - 8.</p>
+<p>Hampaiden 1 - 6 hoito kuuluu lähes aina kustannuskaton piiriin.</p>
+<p>Jokaisella hampaalla on yksilöllinen numeronsa sen mukaan, millä leukaneljänneksellä se sijaitsee, esimerkiksi osan 3 hampaiden numerot ovat 31, 32, 33, 34 jne.</p>
+<p>Kaikki tutkimukset ja useimmat hoidot oikeuttavat taloudelliseen tukeen. Sitä vastoin niin kutsuttuun kosmeettiseen hoitoon, jonka tarkoituksena on ainoastaan parantaa hampaiden ulkonäköä, ei saa mitään tukea.Potilaalla on aina oikeus saada hoitoa, jos hänellä on kipuja tai sairaus, mutta viisaudenhampaan juurihoitoon ei saa mitään taloudellista tukea.</p>
+<p>Jos vaivat liittyvät johonkin kahdestatoista keskimmäisestä ylä- ja alaleuan hampaasta, lähes kaikki hoidot ovat kustannuskaton piirissä. Jos on tarpeen paikata reikä, se kuuluu suojan piiriin riippumatta siitä, missä osassa suuta reikä on. Irrotettavat proteesit kuuluvat aina kustannuskaton piiriin.Hammaskruunut ovat kustannuskatosta korvattavia hampaissa 1 - 6 keskiviivasta katsoen, jos hammas on suurelta osin vahingoittunut. Sekä hampaasta 7, jos saman puolen hammas numero 6 puuttuu.</p>
+<p>Niin kutsuttuja siltoja ja hammasimplantteja koskevat monet yksityiskohtaiset säännöt, jotka määräävät, mitkä hampaat ja minkä tyyppiset materiaalit voidaan lukea kustannuskaton piiriin. Siksi on parasta kysyä hammaslääkäriltä, mitkä määräykset kussakin tapauksessa ovat voimassa.</p>
+<p type="title">Hoito käsittää useita osia</p>
+<p>Tutkimus tai hoito koostuu useimmiten useammista eri osista. Myös jälkitarkastus ja -hoito, esimerkiksi tikkien poisto, kuuluvat kustannuskaton piiriin. Jos tarvitaan puudutusta, se kuuluu aina kustannuskaton piiriin.</p>
+<p type="title">Joskus hoidosta voi tulla kalliimpaa</p>
+<p>Jos potilas tarvitsee kattavaa hoitoa, voi hammaslääkärin joskus olla vaikea tietää tarkalleen, kuinka paljon hoitoa tarvitaan ja mitä se voi tulla maksamaan.</p>
+<p>Alkuperäistä hintatarjousta voidaan muuttaa, jos tarvitaan useampia hoitoja, mitä hammaslääkäri ensin uskoi, voi tulla esimerkiksi komplikaatioita tai parantuminen kestää kauemmin. Silloin voi joutua maksamaan tarvittavasta lisähoidosta. Asiakkaalla on kuitenkin oikeus saada tietää heti kun hammaslääkäri huomaa, että hoito tulee maksamaan enemmän.</p>
+<p type="title">Kustannuskaton perustana on viitehinta</p>
+<p>Hinta, jonka hammaslääkäri veloittaa, ei aina ole sama kuin se hinta, joka voidaan sisällyttää kustannuskattoon. Niin kutsutut viitehinnat määrittävät, kuinka paljon tukea voi saada. Viitehinta on määrätty hinta, joka otetaan huomioon kustannuskattoa laskettaessa, se ei ole keskihinta eikä suositushinta, joka hammaslääkärin täytyy veloittaa. Kaikki hammaslääkärit ja suuhygienistit voivat asettaa omat hintansa, voimassa on niin kutsuttu vapaa hinnoittelu.</p>
+<p>Jos asiakas menee hammashoidon vastaanotolle, joka veloittaa viitehintaa korkeamman hinnan, kustannuskattoon saa sisällyttää vain viitehinnan ja maksaa sitten erotuksen itse. Kun hammaslääkäri tai suuhygienisti veloittaa muun kuin viitehinnan, kustannuskaton perustana on aina alempi hinta. Vastaanotot veloittavat usein korkeamman hinnan päivystysaikana tehdystä hammashoidosta, mutta viitehinnat ovat samat kuin suunnitellusta hammashoidosta.Viitehinnat lasketaan uudelleen ja niitä muutetaan vuosittain.</p>
+<p type="title">Hinnaston on oltava selkeä</p>
+<p>Jo ennen käyntiä hammashoidon vastaanotolla asiakkaan on voitava saada tietää hinnat etukäteen.Odotushuoneessa on oltava hinnasto.Vastaanotoilla on oltava selkeästi esillä viitehinnat ja vastaanoton omat hinnat, jotta asiakkaat voivat tehdä vertailuja.Jos asiakas on tutkittu ja hän tarvitsee useita hoitoja, hänellä on oikeus saada kirjallinen arvio siitä, mitä tulevat hoidot maksavat ja kuuluvatko ne kustannuskattoturvan piiriin. Jos hoidon tarkkaa hintaa on vaikea ilmoittaa, asiakkaalla on kuitenkin oikeus saada likimääräinen hinta tai arvio siitä, mitä hoito voi vähintään ja enintään maksaa.</p>
+</body></document>

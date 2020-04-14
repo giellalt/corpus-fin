@@ -1,30 +1,6 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisalueen koulutuskeskus</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>98</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=396&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=396_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=396_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=396_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisalueen koulutuskeskus</p>
-    <p>Saamelaiskulttuurikeskuksen toinen päävuokralainen on Saamelaisalueen koulutuskeskus (SAKK). Saamelaiskulttuurikeskuksen ensimmäiseen kerrokseen tuli oppilaitoksen media- ja kieliopetustilat, virtuaalikoulu sekä huipputekniikalla varustettu musiikki- ja elokuvastudio.</p>
-    <p>Saamelaisalueen koulutuskeskus on toisen asteen oppilaitos, joka järjestää monialaista ammatillista koulutusta suomeksi ja saameksi sekä edistää saamelaiskulttuuria koko saamelaisalueella. Ainutlaatuisen oppilaitoksen päätoimipaikka sijaitsee monikulttuurisessa Inarissa. Muut toimipaikat ovat Ivalossa, Kaamasen Toivoniemessä ja Enontekiön Hetassa. Koulutus- ja tutkimusyhteistyö ulottuu saamelaisalueen valtioiden lisäksi erityisesti pohjoisten alkuperäiskansojen maailmaan.</p>
-    <p>Saamelaisalueen koulutuskeskuksesta valmistuu merkonomeja, datanomeja, ravintolan kokkeja, matkailupalvelun tuottajia, artisaaneja, porotalousyrittäjiä, poronhoitajia ja lähihoitajia. Lisäksi koulutuskeskuksessa on yleissivistäviä linjoja ja aikuiskoulutusta.</p>
-    <p>Saamelaisalueen koulutuskeskuksen Sajoksen vastuuhenkilö on rehtori Liisa Holmberg.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisalueen koulutuskeskus</title><genre code="admin"/><author><unknown/></author><wordcount>98</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=396&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=396_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=396_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=396_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisalueen koulutuskeskus</p>
+<p>Saamelaiskulttuurikeskuksen toinen päävuokralainen on Saamelaisalueen koulutuskeskus (SAKK). Saamelaiskulttuurikeskuksen ensimmäiseen kerrokseen tuli oppilaitoksen media- ja kieliopetustilat, virtuaalikoulu sekä huipputekniikalla varustettu musiikki- ja elokuvastudio.</p>
+<p>Saamelaisalueen koulutuskeskus on toisen asteen oppilaitos, joka järjestää monialaista ammatillista koulutusta suomeksi ja saameksi sekä edistää saamelaiskulttuuria koko saamelaisalueella. Ainutlaatuisen oppilaitoksen päätoimipaikka sijaitsee monikulttuurisessa Inarissa. Muut toimipaikat ovat Ivalossa, Kaamasen Toivoniemessä ja Enontekiön Hetassa. Koulutus- ja tutkimusyhteistyö ulottuu saamelaisalueen valtioiden lisäksi erityisesti pohjoisten alkuperäiskansojen maailmaan.</p>
+<p>Saamelaisalueen koulutuskeskuksesta valmistuu merkonomeja, datanomeja, ravintolan kokkeja, matkailupalvelun tuottajia, artisaaneja, porotalousyrittäjiä, poronhoitajia ja lähihoitajia. Lisäksi koulutuskeskuksessa on yleissivistäviä linjoja ja aikuiskoulutusta.</p>
+<p>Saamelaisalueen koulutuskeskuksen Sajoksen vastuuhenkilö on rehtori Liisa Holmberg.</p>
+</body></document>

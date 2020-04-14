@@ -1,128 +1,91 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Paistunturin aktiviteetit - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>519</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/paistunturi/aktiviteetit</origFileName>
-    <parallel_text xml:lang="eng" location="activities_inheritredirect=true_7.html"/>
-    <parallel_text xml:lang="sme" location="astoaiggevejolasvuodat_8.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Paistunturi</p>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Hammastunturi</p>
-      <p type="listitem">Kaldoaivi</p>
-      <p type="listitem">Kemihaara</p>
-      <p type="listitem">Käsivarsi</p>
-      <p type="listitem">Muotkatunturi</p>
-      <p type="listitem">Paistunturi</p>
-      <p type="listitem">Pulju</p>
-      <p type="listitem">Pöyrisjärvi</p>
-      <p type="listitem">Tarvantovaara</p>
-      <p type="listitem">Tsarmitunturi</p>
-      <p type="listitem">Tuntsa</p>
-      <p type="listitem">Vätsäri</p>
-    </list>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p>Paistunturin sivut</p>
-    <p type="title">Paistunturi</p>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Paistunturin aktiviteetit</p>
-    <p type="title">Mitä Paistunturissa voi tehdä?</p>
-    <p type="title">Kävellä merkityllä reitillä</p>
-    <p>Paistunturin erämaassa on yksi merkitty vaellusreitti, Utsjoen retkeilyreitti. Viereisen Kevon luonnonpuiston merkityt reitit täydentävät alueen retkeilymahdollisuuksia. On kuitenkin huomattava, että luonnonpuistossa saa liikkua kesäaikaan ainoastaan merkityillä reiteillä, joten erämaa-alueen ja luonnonpuiston rajan voi ylittää silloin vain merkityllä reitillä. Karu Paistunturin erämaa-alue on haastava erävaelluskohde.</p>
-    <p type="title">Katsella nähtävyyksiä ja näköaloja</p>
-    <p>Erämaa-alueen korkeimmalta huipulta, Gáimmoivi-tunturilta, avautuu komea näköala yli erämaan ja aina Norjan puoleisille ikilumen peittämille tuntureille saakka.</p>
-    <p type="title">Tutustua luontopolkuun</p>
-    <p>Erämaa-alueen ulkopuolella, Sulaojalla Karigasniemen tien (nro 92) varressa, on kahden kilometrin pituinen luontopolku. Luontopolku kertoo muun muassa Sulaojan pyhästä lähteestä. Samasta pisteestä alkaa Kevon reitti, jota pitkin vaeltaja pääsee kätevästi myös Paistunturin erämaa-alueelle.</p>
-    <p>Utsjoen kylän läheisyydessä on myös <span type="quote">"Geologinen polku"</span>.</p>
-    <p type="title">Hiihtää maastossa</p>
-    <p>Erämaan talvisessa rauhassa saa hiihtää rajoituksetta. Merkittyjä hiihtoreittejä ei ole. Viereisessä Kevon luonnonpuistossa on rajoituksia: tunturialueella voi hiihtää kaikkialla 16.10. - 30.4., rotkoalueella hiihtäminen on sallittu 16.10. - 31.3.</p>
-    <p type="title">Kalastaa</p>
-    <p>Paistunturin alue sopii kalastusta harrastaville vaeltajille. Kalastaja voi odottaa saavansa erämaan kirkkaista vesistä rautua, taimenta, harjusta ja siikaa. Erämaan pohjoisosissa on hyviä rautuvesiä. Kaamasjoki on erityisesti harjus- ja taimenjoki.</p>
-    <p>Erämaa-alueella saa onkia ja pilkkiä ilman lupaa, ei kuitenkaan erityisissä hoitovesissä. Erityiset hoitovedet tulee aina tarkistaa etukäteen. Muuta kalastusta kuin onkimista ja pilkkimistä varten 18-64-vuotiaan on suoritettava kalastonhoitomaksu (www.eraluvat.fi) ja ostettava asiaankuuluva kalastuslupa. Utsjoen kalastusalueen lupa nro 1574 (www.eräluvat.fi) kattavat valtaosan puro-, joki- ja järvivesistä Utsjoen kunnan alueella. Tenojoen lähivesiä nämä luvat eivät kata.Viereisessä Kevon luonnonpuistossa kalastus on kielletty.</p>
-    <p>Lupia myydään muun muassa Metsähallituksen palvelupisteessä Ivalossa ja Ylä-Lapin luontokeskus Siidassa sekä Metsähallituksen erälupien verkkokaupassa (www.eräluvat.fi)</p>
-    <p><em type="italic">Gyrodactylus salaris </em>-lohiloinen ei ole vielä levinnyt arvokkaisiin Jäämereen laskeviin lohijokiimme. Lue lisää . </p>
-    <p type="title">Metsästää</p>
-    <p>Paistunturin erämaa-alue kuuluu kahteen lupa-alueeseen: 1601 Karigasniemi ja 1602 Paistunturi (www.eräluvat.fi). Alueille myydään vuorokausittain rajattu määrä pienriistalupia, joilla ulkopaikkakuntalainenkin voi metsästää metsästysaikana riekkoa, jänistä, pienpetoja sekä vesilintuja. Paistunturin tunturiylängöt ja -koivikot ovat erityisesti kanakoiralla metsästävien suosiossa. Poronhoito on alueella merkittävä elinkeino, joten ajavalla koiralla metsästäminen on kielletty. Alueilla voi olla poronhoitotöiden takia kausittain vaihtuvia rajoituksia.</p>
-    <p>Metsästyksellä on suuri merkitys paikallisille asukkaille virkistäytymismuotona. Paistunturin alueella paikallisten metsästäjien tärkeimmät saaliseläimet ovat hirvi ja riekko. Ylä-Lapissa paikalliset hallitsevat vielä vanhan metsästysmuodon - riekon ansapyynnin. Enontekiön, Inarin ja Utsjoen kunnissa vakituisesti asuvilla on vapaa metsästysoikeus kotikuntansa valtion mailla.</p>
-    <p>Pienriistan metsästyslupia Ylä-Lapin alueille myyvät Metsähallituksen Ivalon palvelupiste , Ylä-Lapin luontokeskus Siida ja Metsähallituksen erälupien verkkokauppa (www.eräluvat.fi)</p>
-    <p type="title">Marjastaa ja sienestää</p>
-    <p>Variksenmarja ja puolukka ovat yleisimmät erämaan marjat. Alueella saa poimia vapaasti marjoja ja sieniä.</p>
-    <p type="title">Uida</p>
-    <p>Erämaa-alueen pienet ja suuret järvet sekä joet ovat virkistävän raikkaita kesän hellejaksojenkin aikana. Virallista uimarantaa ei kuitenkaan ole.</p>
-    <list>
-      <p type="listitem">Utsjoen erämaan kalastuslupa</p>
-      <p type="listitem">Karigasniemen pienriistalupa</p>
-      <p type="listitem">Paistunturin pienriistalupa</p>
-    </list>
-    <p type="title">Kalastonhoitomaksu 2016</p>
-    <p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Paistunturin aktiviteetit - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>519</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/paistunturi/aktiviteetit</origFileName><parallel_text xml:lang="eng" location="activities_inheritredirect=true_7.html"/><parallel_text xml:lang="sme" location="astoaiggevejolasvuodat_8.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Paistunturi</p>
+<list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Hammastunturi</p>
+<p type="listitem">Kaldoaivi</p>
+<p type="listitem">Kemihaara</p>
+<p type="listitem">Käsivarsi</p>
+<p type="listitem">Muotkatunturi</p>
+<p type="listitem">Paistunturi</p>
+<p type="listitem">Pulju</p>
+<p type="listitem">Pöyrisjärvi</p>
+<p type="listitem">Tarvantovaara</p>
+<p type="listitem">Tsarmitunturi</p>
+<p type="listitem">Tuntsa</p>
+<p type="listitem">Vätsäri</p>
+</list><list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Lisätietoja</p>
+</list><p>Paistunturin sivut</p>
+<p type="title">Paistunturi</p>
+<list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Paistunturin aktiviteetit</p>
+<p type="title">Mitä Paistunturissa voi tehdä?</p>
+<p type="title">Kävellä merkityllä reitillä</p>
+<p>Paistunturin erämaassa on yksi merkitty vaellusreitti, Utsjoen retkeilyreitti. Viereisen Kevon luonnonpuiston merkityt reitit täydentävät alueen retkeilymahdollisuuksia. On kuitenkin huomattava, että luonnonpuistossa saa liikkua kesäaikaan ainoastaan merkityillä reiteillä, joten erämaa-alueen ja luonnonpuiston rajan voi ylittää silloin vain merkityllä reitillä. Karu Paistunturin erämaa-alue on haastava erävaelluskohde.</p>
+<p type="title">Katsella nähtävyyksiä ja näköaloja</p>
+<p>Erämaa-alueen korkeimmalta huipulta, Gáimmoivi-tunturilta, avautuu komea näköala yli erämaan ja aina Norjan puoleisille ikilumen peittämille tuntureille saakka.</p>
+<p type="title">Tutustua luontopolkuun</p>
+<p>Erämaa-alueen ulkopuolella, Sulaojalla Karigasniemen tien (nro 92) varressa, on kahden kilometrin pituinen luontopolku. Luontopolku kertoo muun muassa Sulaojan pyhästä lähteestä. Samasta pisteestä alkaa Kevon reitti, jota pitkin vaeltaja pääsee kätevästi myös Paistunturin erämaa-alueelle.</p>
+<p>Utsjoen kylän läheisyydessä on myös <span type="quote">"Geologinen polku"</span>.</p>
+<p type="title">Hiihtää maastossa</p>
+<p>Erämaan talvisessa rauhassa saa hiihtää rajoituksetta. Merkittyjä hiihtoreittejä ei ole. Viereisessä Kevon luonnonpuistossa on rajoituksia: tunturialueella voi hiihtää kaikkialla 16.10. - 30.4., rotkoalueella hiihtäminen on sallittu 16.10. - 31.3.</p>
+<p type="title">Kalastaa</p>
+<p>Paistunturin alue sopii kalastusta harrastaville vaeltajille. Kalastaja voi odottaa saavansa erämaan kirkkaista vesistä rautua, taimenta, harjusta ja siikaa. Erämaan pohjoisosissa on hyviä rautuvesiä. Kaamasjoki on erityisesti harjus- ja taimenjoki.</p>
+<p>Erämaa-alueella saa onkia ja pilkkiä ilman lupaa, ei kuitenkaan erityisissä hoitovesissä. Erityiset hoitovedet tulee aina tarkistaa etukäteen. Muuta kalastusta kuin onkimista ja pilkkimistä varten 18-64-vuotiaan on suoritettava kalastonhoitomaksu (www.eraluvat.fi) ja ostettava asiaankuuluva kalastuslupa. Utsjoen kalastusalueen lupa nro 1574 (www.eräluvat.fi) kattavat valtaosan puro-, joki- ja järvivesistä Utsjoen kunnan alueella. Tenojoen lähivesiä nämä luvat eivät kata.Viereisessä Kevon luonnonpuistossa kalastus on kielletty.</p>
+<p>Lupia myydään muun muassa Metsähallituksen palvelupisteessä Ivalossa ja Ylä-Lapin luontokeskus Siidassa sekä Metsähallituksen erälupien verkkokaupassa (www.eräluvat.fi)</p>
+<p><em type="italic">Gyrodactylus salaris </em>-lohiloinen ei ole vielä levinnyt arvokkaisiin Jäämereen laskeviin lohijokiimme. Lue lisää . </p>
+<p type="title">Metsästää</p>
+<p>Paistunturin erämaa-alue kuuluu kahteen lupa-alueeseen: 1601 Karigasniemi ja 1602 Paistunturi (www.eräluvat.fi). Alueille myydään vuorokausittain rajattu määrä pienriistalupia, joilla ulkopaikkakuntalainenkin voi metsästää metsästysaikana riekkoa, jänistä, pienpetoja sekä vesilintuja. Paistunturin tunturiylängöt ja -koivikot ovat erityisesti kanakoiralla metsästävien suosiossa. Poronhoito on alueella merkittävä elinkeino, joten ajavalla koiralla metsästäminen on kielletty. Alueilla voi olla poronhoitotöiden takia kausittain vaihtuvia rajoituksia.</p>
+<p>Metsästyksellä on suuri merkitys paikallisille asukkaille virkistäytymismuotona. Paistunturin alueella paikallisten metsästäjien tärkeimmät saaliseläimet ovat hirvi ja riekko. Ylä-Lapissa paikalliset hallitsevat vielä vanhan metsästysmuodon - riekon ansapyynnin. Enontekiön, Inarin ja Utsjoen kunnissa vakituisesti asuvilla on vapaa metsästysoikeus kotikuntansa valtion mailla.</p>
+<p>Pienriistan metsästyslupia Ylä-Lapin alueille myyvät Metsähallituksen Ivalon palvelupiste , Ylä-Lapin luontokeskus Siida ja Metsähallituksen erälupien verkkokauppa (www.eräluvat.fi)</p>
+<p type="title">Marjastaa ja sienestää</p>
+<p>Variksenmarja ja puolukka ovat yleisimmät erämaan marjat. Alueella saa poimia vapaasti marjoja ja sieniä.</p>
+<p type="title">Uida</p>
+<p>Erämaa-alueen pienet ja suuret järvet sekä joet ovat virkistävän raikkaita kesän hellejaksojenkin aikana. Virallista uimarantaa ei kuitenkaan ole.</p>
+<list><p type="listitem">Utsjoen erämaan kalastuslupa</p>
+<p type="listitem">Karigasniemen pienriistalupa</p>
+<p type="listitem">Paistunturin pienriistalupa</p>
+</list><p type="title">Kalastonhoitomaksu 2016</p>
+<p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

@@ -1,35 +1,9 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Olen Satu Aikio (2008)</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>308</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=263&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=263_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=263_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Olen Satu Aikio (2008)</p>
-    <p>ja syntynyt pian 25 vuotta sitten kuopuksena inarinsaamelaiseen perheeseen, johon itseni lisäksi kuuluu isä, äiti sekä isosisko ja -veli. Lapsuuteni ja nuoruuteni olen viettänyt Sevetintien varrella pienessä kylässä nimeltään Väylä, jossa vanhempani edelleen asuvat. Tätä nykyä tieni on vienyt minut asustelemaan Ivaloon, jossa myös molemmat sisarukseni asuvat.</p>
-    <p>Peruskouluni olen käynyt Kaamasessa (1-3lk) ja Inarissa (4-9lk) sekä lukion Ivalossa. Saatuani ylioppilaslakin vuonna 2003, elämä kuljetti erinäisten työpaikkojen jälkeen opiskelemaan perhepäivähoitajaksi saamelaisalueen koulutuskeskukseen Ivaloon, josta valmistuin kyseiseen ammattiin syksyllä 2008. Tällä hetkellä työskentelen Inarissa inarinsaamen kielipesässä eli päiväkodissa, jossa lapsille puhutaan ainoastaan inarinsaamea.</p>
-    <p>Inarinsaame on näkynyt elämässäni koko elämäni ajan niin kielen takia kuin harrastuksen ja työni kautta. Lapsuuskodissani Väylässä kuulin joka päivä inarinsaamen kieltä, jota poromies-kalastajaisäni puhui niin samassa pihapiirissä asuneiden edesmenneiden isovanhempieni kuin sukulaistenikin kanssa. Kotona kuulemaani ja oppimaani kieltä opiskelin lisää koulussa ja opiskelu on jatkunut tähän päivään asti, koska uusia inarinsaamenkielisiä sanoja kehitetään jatkuvasti.</p>
-    <p>Yksi harrastuksistani on laulaminen, jonka puitteissa teen silloin tällöin myös keikkaa inarinsaameksi erinäisissä tilaisuuksissa niin yksin kuin yhdessä siskoni kanssa.</p>
-    <p>Inarinsaame on vähemmistökieli, joka oli pitkään uhanalainen sen puhujien vähyyden takia. Tätä nykyä näen inarinsaamen kielen tulevaisuuden valoisana juurikin vuonna 1997 perustetun inarinsaamen kielen kielipesän ansiosta sekä myös sen, että kieltä opetetaan myös aikuisille ihmisille, jotka välttämättä eivät ole juuriltaan inarinsaamelaisia. Inarissa sijaitseva saamelaismuseo Siida, jossa olen monet kesät työskennellyt, välittää osaltaan tietoa inarinsaamelaisuudesta ja kielestä. Uskon ja toivon, että inarinsaamen arvostus on kasvanut ja että useimmat myös tiedostavat nykyään Suomessa puhuttavan kolmea eri saamen kieltä, joista yksi on inarinsaame.</p>
-    <p>Inarinsaamelaisuus merkitsee minulle kielen puhumisen lisäksi sitä, että voin käyttää inarinsaamenpukua, jota pidän useissa eri tilaisuuksissa sekä myös esiintyessäni. Kun monet tuskailevat, mitä laittaa päälleen tilaisuuksiin, minulla tätä ongelmaa ei juurikaan ole ollut, koska voin käyttää saamenpukuani monissa eri tilaisuuksissa.</p>
-    <p>Tällä hetkellä olen iloinen voidessani osaltani edistää inarin saamenkielen asemaa tämän hetkisen työni kautta sekä myös musiikin avulla.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Olen Satu Aikio (2008)</title><genre code="admin"/><author><unknown/></author><wordcount>308</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=263&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=263_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=263_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Olen Satu Aikio (2008)</p>
+<p>ja syntynyt pian 25 vuotta sitten kuopuksena inarinsaamelaiseen perheeseen, johon itseni lisäksi kuuluu isä, äiti sekä isosisko ja -veli. Lapsuuteni ja nuoruuteni olen viettänyt Sevetintien varrella pienessä kylässä nimeltään Väylä, jossa vanhempani edelleen asuvat. Tätä nykyä tieni on vienyt minut asustelemaan Ivaloon, jossa myös molemmat sisarukseni asuvat.</p>
+<p>Peruskouluni olen käynyt Kaamasessa (1-3lk) ja Inarissa (4-9lk) sekä lukion Ivalossa. Saatuani ylioppilaslakin vuonna 2003, elämä kuljetti erinäisten työpaikkojen jälkeen opiskelemaan perhepäivähoitajaksi saamelaisalueen koulutuskeskukseen Ivaloon, josta valmistuin kyseiseen ammattiin syksyllä 2008. Tällä hetkellä työskentelen Inarissa inarinsaamen kielipesässä eli päiväkodissa, jossa lapsille puhutaan ainoastaan inarinsaamea.</p>
+<p>Inarinsaame on näkynyt elämässäni koko elämäni ajan niin kielen takia kuin harrastuksen ja työni kautta. Lapsuuskodissani Väylässä kuulin joka päivä inarinsaamen kieltä, jota poromies-kalastajaisäni puhui niin samassa pihapiirissä asuneiden edesmenneiden isovanhempieni kuin sukulaistenikin kanssa. Kotona kuulemaani ja oppimaani kieltä opiskelin lisää koulussa ja opiskelu on jatkunut tähän päivään asti, koska uusia inarinsaamenkielisiä sanoja kehitetään jatkuvasti.</p>
+<p>Yksi harrastuksistani on laulaminen, jonka puitteissa teen silloin tällöin myös keikkaa inarinsaameksi erinäisissä tilaisuuksissa niin yksin kuin yhdessä siskoni kanssa.</p>
+<p>Inarinsaame on vähemmistökieli, joka oli pitkään uhanalainen sen puhujien vähyyden takia. Tätä nykyä näen inarinsaamen kielen tulevaisuuden valoisana juurikin vuonna 1997 perustetun inarinsaamen kielen kielipesän ansiosta sekä myös sen, että kieltä opetetaan myös aikuisille ihmisille, jotka välttämättä eivät ole juuriltaan inarinsaamelaisia. Inarissa sijaitseva saamelaismuseo Siida, jossa olen monet kesät työskennellyt, välittää osaltaan tietoa inarinsaamelaisuudesta ja kielestä. Uskon ja toivon, että inarinsaamen arvostus on kasvanut ja että useimmat myös tiedostavat nykyään Suomessa puhuttavan kolmea eri saamen kieltä, joista yksi on inarinsaame.</p>
+<p>Inarinsaamelaisuus merkitsee minulle kielen puhumisen lisäksi sitä, että voin käyttää inarinsaamenpukua, jota pidän useissa eri tilaisuuksissa sekä myös esiintyessäni. Kun monet tuskailevat, mitä laittaa päälleen tilaisuuksiin, minulla tätä ongelmaa ei juurikaan ole ollut, koska voin käyttää saamenpukuani monissa eri tilaisuuksissa.</p>
+<p>Tällä hetkellä olen iloinen voidessani osaltani edistää inarin saamenkielen asemaa tämän hetkisen työni kautta sekä myös musiikin avulla.</p>
+</body></document>
