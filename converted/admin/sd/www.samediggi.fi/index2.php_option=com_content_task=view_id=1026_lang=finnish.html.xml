@@ -1,38 +1,14 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät tiedottaa saamelaiskäräjälaista</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>229</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1026&amp;lang=finnish</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1026_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1026_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1026_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaiskäräjät tiedottaa saamelaiskäräjälaista</p>
-    <p>Eduskunnan perustuslakivaliokunta on pyytänyt saamelaiskäräjiltä 4.3.2015 lausuntoa hallituksen esityksestä saamelaiskäräjälaiksi (HE 167/2014) vp valiokunnan kello 5.3.2015 kello 8.30 alkavaan kokoukseen.</p>
-    <p>Saamelaiskäräjät on antanut kirjallisen lausunnon. Saamelaiskäräjät julkistaa kaikki valiokunnalle antamansa lausunnot kotisivuillaan kun perustuslakivaliokunta on saanut työnsä päätökseen. Saamelaiskäräjät antaa perustuslakivaliokunnalle työrauhan. Saamelaiskäräjien 5.3. antama lausunto perustuu saamelaiskäräjien kokouksen hyväksymiin päätöksiin kokouksissaan 4/2013 ja 2/2014 sekä saamelaiskäräjien kokouksien hyväksymiin muihin lausuntoihin ja vaalikauden toimintaohjelmaan. Hallituksen esityksellä on saamelaiskäräjien antama tietoon perustuva ennakkosuostumus. Perustuslakivaliokunnan harkitsemilla muutoksilla saamelaiskäräjälakiin ei ole saamelaisten tietoon perustuvaa ennakkosuostumusta.</p>
-    <p>Saamelaiskäräjien kanta on, että saamelaiskäräjien vaaleja koskevia säännöksiä on sovellettava kuluvan vuoden saamelaiskäräjävaaleissa. Saamelaiskäräjille keskeisintä hallituksen esityksessä on saamelaismääritelmä sekä yhteistoimintavelvoite ja saamelaisten alkuperäiskansa-aseman turvaaminen ja kehittäminen ja edellyttää niiden hyväksymistä hallituksen esityksen mukaisesti. Hallituksen esitys on hyväksyttävä asiasisällöltään sellaisenaan sekä itse lakitekstin että niiden erityisperustelujen osalta. Saamelaiskäräjien ehdoton kanta on se, että saamelaiskäräjälailla on oltava saamelaisten tietoon perustuva ennakkosuostumus.</p>
-    <p>Saamelaiskäräjät kunnioittaa valtioneuvoston kanssa saavutettua yhteisymmärrystä saamelaiskäräjälaiksi ja edellyttää tämän yhteisymmärryksen kunnioittamista myös eduskunnassa. Saamelaiskäräjät tekee kaikkensa, että saamelaiskäräjälaki voidaan hyväksyä kuluvalla eduskuntakaudella saamelaisten tietoon perustuvalla ennakkosuostumuksella. Saamelaiskäräjät ei hyväksy saamelaisten alkuperäiskansa-aseman heikennyksiä eikä luovu periaatteistaan eikä arvoistaan ja toimii yleiskokouksen antamien päätöksien mukaisesti saamelaiskäräjälain eduskuntakäsittelyn aikana.</p>
-    <p>Saamelaiskäräjät 5.3.2015.</p>
-    <p>Saamelaiskäräjien avoin kirje kansanedustajille</p>
-    <p>Lausunto saamelaiskäräjälakityöryhmän mietinnöstä</p>
-    <p>Saamelaiskäräjien kokous 2/2014</p>
-    <p>Saamelaiskäräjien lausunto hallituksen esityksestä saamelaiskäräjälain muuttamiseksi (HE 167/2014) 6.7.2014</p>
-    <p>Saamelaiskäräjien lausunto perustuslakivaliokunnalle saamelaiskäräjälaista 10.12.2014</p>
-    <p>Saamelaiskäräjien lausunto perustuslakivaliokunnalle 5.3.2015 saamelaiskäräjälaista</p>
-    <p>Lausunto hallituksen esitysluonnoksesta ILO 169-sopimuksen ratifioimiseksi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät tiedottaa saamelaiskäräjälaista</title><genre code="admin"/><author><unknown/></author><wordcount>229</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1026&amp;lang=finnish</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1026_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1026_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1026_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaiskäräjät tiedottaa saamelaiskäräjälaista</p>
+<p>Eduskunnan perustuslakivaliokunta on pyytänyt saamelaiskäräjiltä 4.3.2015 lausuntoa hallituksen esityksestä saamelaiskäräjälaiksi (HE 167/2014) vp valiokunnan kello 5.3.2015 kello 8.30 alkavaan kokoukseen.</p>
+<p>Saamelaiskäräjät on antanut kirjallisen lausunnon. Saamelaiskäräjät julkistaa kaikki valiokunnalle antamansa lausunnot kotisivuillaan kun perustuslakivaliokunta on saanut työnsä päätökseen. Saamelaiskäräjät antaa perustuslakivaliokunnalle työrauhan. Saamelaiskäräjien 5.3. antama lausunto perustuu saamelaiskäräjien kokouksen hyväksymiin päätöksiin kokouksissaan 4/2013 ja 2/2014 sekä saamelaiskäräjien kokouksien hyväksymiin muihin lausuntoihin ja vaalikauden toimintaohjelmaan. Hallituksen esityksellä on saamelaiskäräjien antama tietoon perustuva ennakkosuostumus. Perustuslakivaliokunnan harkitsemilla muutoksilla saamelaiskäräjälakiin ei ole saamelaisten tietoon perustuvaa ennakkosuostumusta.</p>
+<p>Saamelaiskäräjien kanta on, että saamelaiskäräjien vaaleja koskevia säännöksiä on sovellettava kuluvan vuoden saamelaiskäräjävaaleissa. Saamelaiskäräjille keskeisintä hallituksen esityksessä on saamelaismääritelmä sekä yhteistoimintavelvoite ja saamelaisten alkuperäiskansa-aseman turvaaminen ja kehittäminen ja edellyttää niiden hyväksymistä hallituksen esityksen mukaisesti. Hallituksen esitys on hyväksyttävä asiasisällöltään sellaisenaan sekä itse lakitekstin että niiden erityisperustelujen osalta. Saamelaiskäräjien ehdoton kanta on se, että saamelaiskäräjälailla on oltava saamelaisten tietoon perustuva ennakkosuostumus.</p>
+<p>Saamelaiskäräjät kunnioittaa valtioneuvoston kanssa saavutettua yhteisymmärrystä saamelaiskäräjälaiksi ja edellyttää tämän yhteisymmärryksen kunnioittamista myös eduskunnassa. Saamelaiskäräjät tekee kaikkensa, että saamelaiskäräjälaki voidaan hyväksyä kuluvalla eduskuntakaudella saamelaisten tietoon perustuvalla ennakkosuostumuksella. Saamelaiskäräjät ei hyväksy saamelaisten alkuperäiskansa-aseman heikennyksiä eikä luovu periaatteistaan eikä arvoistaan ja toimii yleiskokouksen antamien päätöksien mukaisesti saamelaiskäräjälain eduskuntakäsittelyn aikana.</p>
+<p>Saamelaiskäräjät 5.3.2015.</p>
+<p>Saamelaiskäräjien avoin kirje kansanedustajille</p>
+<p>Lausunto saamelaiskäräjälakityöryhmän mietinnöstä</p>
+<p>Saamelaiskäräjien kokous 2/2014</p>
+<p>Saamelaiskäräjien lausunto hallituksen esityksestä saamelaiskäräjälain muuttamiseksi (HE 167/2014) 6.7.2014</p>
+<p>Saamelaiskäräjien lausunto perustuslakivaliokunnalle saamelaiskäräjälaista 10.12.2014</p>
+<p>Saamelaiskäräjien lausunto perustuslakivaliokunnalle 5.3.2015 saamelaiskäräjälaista</p>
+<p>Lausunto hallituksen esitysluonnoksesta ILO 169-sopimuksen ratifioimiseksi</p>
+</body></document>

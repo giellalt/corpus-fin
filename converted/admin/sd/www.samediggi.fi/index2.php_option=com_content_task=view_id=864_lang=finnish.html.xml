@@ -1,33 +1,11 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Mari Boine konsertoi elokuussa Ijahis idjassa</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>270</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=864&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=864_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mari Boine konsertoi elokuussa Ijahis idjassa</p>
-    <p>Ijahis idja -alkuperäiskansojen musiikkitapahtuman tämänvuotinen pääesiintyjä on norjansaamelainen Mari Boine yhtyeineen. Maailman tunnetuimmaksi saamelaiseksi kutsuttu Boine esiintyy tapahtumassa reilun tunnin mittaisessa ulkoilmakonsertissa lauantai-iltana 16.8.</p>
-    <p>Boine yhdistää musiikissaan vahvalla ja ainutlaatuisella tavalla jazzia, folkia, bluesia, maailmanmusiikkia sekä joikua. Lauluillaan Boine ottaa kantaa politiikkaan sekä yhteiskunnan ilmiöihin, ja käsittelee lauluissaan saamelaisten tärkeiksi kokemia asioita.</p>
-    <p>Nuorena Boine ei arvostanut saamelaisia juuriaan eikä osannut vaalia saamenkieltä tai kulttuuria. Vasta vuonna 1981 käyty kuuluisa Alta-joen kapina sai Boinen heräämään saamelaisuuteen, ja puolustamaan kansansa oikeuksia sekä tuomaan julki saamelaisten kokemaa epäoikeudenmukaisuutta musiikkinsa avulla. Esikoislevynsä, Jaskatvuoða maŋŋá, Mari Boine julkaisi vuonna 1985, jonka jälkeen hän on levyttänyt yhdeksän kertaa. Vuonna 2012 Boinelle myönnettiin Norjan valtion 11-vuotinen taiteilijastipendi, jonka turvin hän työstää mm. uutta levyään ja nauttii ajastaan kotiseudullaan Pohjois-Norjan Porsangissa.</p>
-    <p>Inarin kirkonkylällä järjestettävä Ijahis idja on ainoa saamelaismusiikkiin keskittyvä festivaali Suomessa ja se on vakiinnuttanut paikkansa yhtenä tärkeimpänä Pohjois -Lapin kesätapahtumana. Viime vuonna tapahtuma keräsi Saamelaiskulttuurikeskus Sajokseen kahden päivän aikana ennätysmäärän kävijöitä. Yhdettätoista kertaa järjestettävän Ijahis idjan ohjelma on jälleen laaja ja monipuolinen. Festivaalin ohjelmaan kuuluu niin perinteisen saamelaismusiikin taitajien esityksiä, nousevien saamelaisartistien konsertteja, lasten ohjelmaa, alkuperäiskansavieraiden musiikkiesityksiä sekä saamelaismusiikkiin keskittyvät klubi-illat. Tapahtuman tämänvuotinen teema on <span type="quote" xml:lang="smj">”Jávrebiekkat”</span>, jonka tarkoituksena on nostaa esiin pienet saamelaisvähemmistöt eli koltta- ja inarinsaamelaiset sekä heidän musiikki- ja tanssiperinteensä. Tapahtuman alkuperäiskansavieraat tulevat tänä vuonna Chukotkasta, Siperiasta, jonka lisäksi festivaali tutustuttaa kävijänsä myös Länsi-Afrikkalaiseen musiikki- ja tanssiperinteeseen. Ijahis idjan ohjelma julkistetaan kokonaisuudessaan kesäkuun puolessa välissä tapahtuman omilla nettisivuilla.</p>
-    <p>Ijahis idjan järjestävät yhteistyössä Anára Sámisearvi ry, Saamelaiskäräjät, Saamelaisalueen koulutuskeskus, Inarin kunta, Taiteen edistämiskeskuksen Lapin toimipiste, Yle Sápmi ja Hotelli Kultahovi.</p>
-    <p xml:lang="smn"><em type="italic">www.ijahisidja.fi  </em>  </p>
-    <p>Lisätietoja:</p>
-    <p xml:lang="smj">Anu Magga</p>
-    <p xml:lang="koi">+358 50 567 22 04</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Mari Boine konsertoi elokuussa Ijahis idjassa</title><genre code="admin"/><author><unknown/></author><wordcount>270</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=864&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=864_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mari Boine konsertoi elokuussa Ijahis idjassa</p>
+<p>Ijahis idja -alkuperäiskansojen musiikkitapahtuman tämänvuotinen pääesiintyjä on norjansaamelainen Mari Boine yhtyeineen. Maailman tunnetuimmaksi saamelaiseksi kutsuttu Boine esiintyy tapahtumassa reilun tunnin mittaisessa ulkoilmakonsertissa lauantai-iltana 16.8.</p>
+<p>Boine yhdistää musiikissaan vahvalla ja ainutlaatuisella tavalla jazzia, folkia, bluesia, maailmanmusiikkia sekä joikua. Lauluillaan Boine ottaa kantaa politiikkaan sekä yhteiskunnan ilmiöihin, ja käsittelee lauluissaan saamelaisten tärkeiksi kokemia asioita.</p>
+<p>Nuorena Boine ei arvostanut saamelaisia juuriaan eikä osannut vaalia saamenkieltä tai kulttuuria. Vasta vuonna 1981 käyty kuuluisa Alta-joen kapina sai Boinen heräämään saamelaisuuteen, ja puolustamaan kansansa oikeuksia sekä tuomaan julki saamelaisten kokemaa epäoikeudenmukaisuutta musiikkinsa avulla. Esikoislevynsä, Jaskatvuoða maŋŋá, Mari Boine julkaisi vuonna 1985, jonka jälkeen hän on levyttänyt yhdeksän kertaa. Vuonna 2012 Boinelle myönnettiin Norjan valtion 11-vuotinen taiteilijastipendi, jonka turvin hän työstää mm. uutta levyään ja nauttii ajastaan kotiseudullaan Pohjois-Norjan Porsangissa.</p>
+<p>Inarin kirkonkylällä järjestettävä Ijahis idja on ainoa saamelaismusiikkiin keskittyvä festivaali Suomessa ja se on vakiinnuttanut paikkansa yhtenä tärkeimpänä Pohjois -Lapin kesätapahtumana. Viime vuonna tapahtuma keräsi Saamelaiskulttuurikeskus Sajokseen kahden päivän aikana ennätysmäärän kävijöitä. Yhdettätoista kertaa järjestettävän Ijahis idjan ohjelma on jälleen laaja ja monipuolinen. Festivaalin ohjelmaan kuuluu niin perinteisen saamelaismusiikin taitajien esityksiä, nousevien saamelaisartistien konsertteja, lasten ohjelmaa, alkuperäiskansavieraiden musiikkiesityksiä sekä saamelaismusiikkiin keskittyvät klubi-illat. Tapahtuman tämänvuotinen teema on <span type="quote" xml:lang="smj">”Jávrebiekkat”</span>, jonka tarkoituksena on nostaa esiin pienet saamelaisvähemmistöt eli koltta- ja inarinsaamelaiset sekä heidän musiikki- ja tanssiperinteensä. Tapahtuman alkuperäiskansavieraat tulevat tänä vuonna Chukotkasta, Siperiasta, jonka lisäksi festivaali tutustuttaa kävijänsä myös Länsi-Afrikkalaiseen musiikki- ja tanssiperinteeseen. Ijahis idjan ohjelma julkistetaan kokonaisuudessaan kesäkuun puolessa välissä tapahtuman omilla nettisivuilla.</p>
+<p>Ijahis idjan järjestävät yhteistyössä Anára Sámisearvi ry, Saamelaiskäräjät, Saamelaisalueen koulutuskeskus, Inarin kunta, Taiteen edistämiskeskuksen Lapin toimipiste, Yle Sápmi ja Hotelli Kultahovi.</p>
+<p xml:lang="smn"><em type="italic">www.ijahisidja.fi  </em>  </p>
+<p>Lisätietoja:</p>
+<p xml:lang="smj">Anu Magga</p>
+<p xml:lang="vep">+358 50 567 22 04</p>
+</body></document>

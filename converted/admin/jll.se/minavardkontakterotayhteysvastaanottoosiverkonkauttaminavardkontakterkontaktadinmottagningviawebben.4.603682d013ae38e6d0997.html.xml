@@ -1,50 +1,18 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Mina vårdkontakter – ota yhteys vastaanottoosi verkon kautta (Mina vårdkontakter – kontakta din mottagning via webben) - Region Jämtland Härjedalen</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>382</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://jll.se/omoss/informationpaandrasprak/suomifinska/minavardkontakterotayhteysvastaanottoosiverkonkauttaminavardkontakterkontaktadinmottagningviawebben.4.603682d013ae38e6d0997.html</origFileName>
-    <parallel_text xml:lang="sma" location="movhoksegaskeshminavardkontakter.4.60018e7312debfe732b80009697.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="swe">Mina vårdkontakter – ota yhteys vastaanottoosi verkon kautta (Mina vårdkontakter – kontakta din mottagning via webben)</p>
-    <p>
-      <em type="italic">Mina vårdkontakter -verkkopalvelun avulla voit kirjautua sisään ja tehdä yksinkertaisia hoitoon liittyviä tehtäviä itse verkon kautta — ilman puhelinjonoja ja vuorokauden ympäri. Se on turvallista ja luotettavaa, ja sinun tarvitsee vain hankkia itsellesi oma käyttäjätili. </em>
-    </p>
-    <p type="title">Hanki tili</p>
-    <p>Mina vårdkontakter -palvelun käyttöä varten sinun on luotava itsellesi Mina vårdkontakter -tili. Kun rekisteröidyt, voit valita, haluatko kirjautua sisään käyttämällä sähköistä henkilökorttia tai henkilötunnustasi. Jos kirjaudut sisään käyttämällä sähköistä henkilökorttia, voit käyttää palvelua jo samana päivänä, jolloin luot tilisi. Jos haluat kirjautua sisään käyttämällä henkilötunnuskoodia ja kertakoodia, voit käyttää palvelua vasta muutaman päivän kuluttua, sillä koodi lähetetään kotiosoitteeseesi postitse. Jos käytössäsi on postin edelleenlähetys, et voi saada salasanakirjettä uuteen osoitteeseen. Jos et asu väestökirjanpidon mukaisessa osoitteessasi, suosittelemme, että hankit sähköisen henkilökortin. Voit esittää ainoastaan itseäsi koskevia kysymyksiä. Lapsilla ja muilla omaisilla täytyy olla oma tili.</p>
-    <p type="title">Aloita palvelujen käyttö</p>
-    <list>
-      <p type="listitem">Napsauta linkkiä <span type="quote" xml:lang="swe">"Logga in"</span>. Uusi sivu avautuu.</p>
-      <p type="listitem">Valitse sähköinen henkilökortti tai näppäile henkilötunnuksesi ja salasana ja napsauta painiketta <span type="quote" xml:lang="swe">"Logga in"</span>.</p>
-      <p type="listitem">Jos kirjaudut sisään käyttämällä henkilötunnusta ja salasanaa, saat tämän jälkeen kertasalasanan tekstiviestinä matkapuhelimeesi.</p>
-      <p type="listitem">Kun olet ensimmäistä kertaa Mina vårdkontakter -palvelussa, sinun on valittava terveyskeskus/vastaanotto, johon haluat olla yhteydessä. Tee se napsauttamalla välilehteä <span type="quote" xml:lang="swe">"Hitta och lägg till mottagning"</span> ja lisää terveyskeskus/vastaanotto, johon haluat olla yhteydessä. Tämän jälkeen se tulee näkyviin vihreällä värillä merkittynä ylävasemmalla olevassa ruudussa. Nyt voit napsauttaa vihreällä värillä merkittyä terveyskeskusta/vastaanottoa ja katsoa, mitä palveluja se tarjoaa. Sen jälkeen sinun tarvitsee vain napsauttaa haluttua palvelua.</p>
-      <p type="listitem">Jos olet ilmoittanut matkapuhelinnumerosi tai sähköpostiosoitteesi kohdassa <span type="quote" xml:lang="swe">"Mina inställningar"</span>, saat tekstiviestin matkapuhelimeesi tai viestin sähköpostiosoitteeseesi, kun valitsemasi vastaanotto on vastannut sinulle. Näin tapahtuu esimerkiksi silloin, kun resepti on uusittu.</p>
-      <p type="listitem">Sinun on kirjauduttava uudestaan sisään, jotta voit lukea vastauksen.</p>
-    </list>
-    <p type="title">Muita palveluja</p>
-    <list>
-      <p type="listitem">Jos olet kirjautunut sisään käyttämällä sähköistä henkilökorttia, voit lukea reseptejäsi koskevia tietoja apteekin lääkeluettelosta kohdassa <span type="quote" xml:lang="swe">"Mina recept och läkemedel"</span>. Siinä on tietoja esimerkiksi siitä, mitä lääkkeitä olet hakenut apteekista 15 edellisen kuukauden aikana ja mitä reseptejä sinulla on vielä jäljellä.</p>
-      <p type="listitem">Kohdassa <span type="quote" xml:lang="swe">"Min kalender"</span> voit ilmoittaa vastaanotolle saamasi käyntiajan ja saada asiasta tekstiviestimuistutuksen päivää ennen käyntiä.</p>
-    </list>
-    <p type="title">Ongelmia?</p>
-    <p>Voit soittaa puhelintukeen: 08-1231 3500 — avoinna päivittäin klo 8—21 (ruotsiksi). Voit myös ottaa yhteyden tukeen Internetin kautta.</p>
-    <p>Mina vårdkontakter -palvelua ei saa käyttää äkillisissä tai hengenvaarallisissa tilanteissa. Soita tällöin numeroon 112. Tervetuloa käyttämään Jämtlandin läänin Mina vårdkontakter -palvelua!</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Mina vårdkontakter – ota yhteys vastaanottoosi verkon kautta (Mina vårdkontakter – kontakta din mottagning via webben) - Region Jämtland Härjedalen</title><genre code="admin"/><author><unknown/></author><wordcount>382</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://jll.se/omoss/informationpaandrasprak/suomifinska/minavardkontakterotayhteysvastaanottoosiverkonkauttaminavardkontakterkontaktadinmottagningviawebben.4.603682d013ae38e6d0997.html</origFileName><parallel_text xml:lang="sma" location="movhoksegaskeshminavardkontakter.4.60018e7312debfe732b80009697.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="swe">Mina vårdkontakter – ota yhteys vastaanottoosi verkon kautta (Mina vårdkontakter – kontakta din mottagning via webben)</p>
+<p><em type="italic">Mina vårdkontakter -verkkopalvelun avulla voit kirjautua sisään ja tehdä yksinkertaisia hoitoon liittyviä tehtäviä itse verkon kautta — ilman puhelinjonoja ja vuorokauden ympäri. Se on turvallista ja luotettavaa, ja sinun tarvitsee vain hankkia itsellesi oma käyttäjätili. </em></p>
+<p type="title">Hanki tili</p>
+<p>Mina vårdkontakter -palvelun käyttöä varten sinun on luotava itsellesi Mina vårdkontakter -tili. Kun rekisteröidyt, voit valita, haluatko kirjautua sisään käyttämällä sähköistä henkilökorttia tai henkilötunnustasi. Jos kirjaudut sisään käyttämällä sähköistä henkilökorttia, voit käyttää palvelua jo samana päivänä, jolloin luot tilisi. Jos haluat kirjautua sisään käyttämällä henkilötunnuskoodia ja kertakoodia, voit käyttää palvelua vasta muutaman päivän kuluttua, sillä koodi lähetetään kotiosoitteeseesi postitse. Jos käytössäsi on postin edelleenlähetys, et voi saada salasanakirjettä uuteen osoitteeseen. Jos et asu väestökirjanpidon mukaisessa osoitteessasi, suosittelemme, että hankit sähköisen henkilökortin. Voit esittää ainoastaan itseäsi koskevia kysymyksiä. Lapsilla ja muilla omaisilla täytyy olla oma tili.</p>
+<p type="title">Aloita palvelujen käyttö</p>
+<list><p type="listitem">Napsauta linkkiä <span type="quote" xml:lang="swe">"Logga in"</span>. Uusi sivu avautuu.</p>
+<p type="listitem">Valitse sähköinen henkilökortti tai näppäile henkilötunnuksesi ja salasana ja napsauta painiketta <span type="quote" xml:lang="swe">"Logga in"</span>.</p>
+<p type="listitem">Jos kirjaudut sisään käyttämällä henkilötunnusta ja salasanaa, saat tämän jälkeen kertasalasanan tekstiviestinä matkapuhelimeesi.</p>
+<p type="listitem">Kun olet ensimmäistä kertaa Mina vårdkontakter -palvelussa, sinun on valittava terveyskeskus/vastaanotto, johon haluat olla yhteydessä. Tee se napsauttamalla välilehteä <span type="quote" xml:lang="swe">"Hitta och lägg till mottagning"</span> ja lisää terveyskeskus/vastaanotto, johon haluat olla yhteydessä. Tämän jälkeen se tulee näkyviin vihreällä värillä merkittynä ylävasemmalla olevassa ruudussa. Nyt voit napsauttaa vihreällä värillä merkittyä terveyskeskusta/vastaanottoa ja katsoa, mitä palveluja se tarjoaa. Sen jälkeen sinun tarvitsee vain napsauttaa haluttua palvelua.</p>
+<p type="listitem">Jos olet ilmoittanut matkapuhelinnumerosi tai sähköpostiosoitteesi kohdassa <span type="quote" xml:lang="swe">"Mina inställningar"</span>, saat tekstiviestin matkapuhelimeesi tai viestin sähköpostiosoitteeseesi, kun valitsemasi vastaanotto on vastannut sinulle. Näin tapahtuu esimerkiksi silloin, kun resepti on uusittu.</p>
+<p type="listitem">Sinun on kirjauduttava uudestaan sisään, jotta voit lukea vastauksen.</p>
+</list><p type="title">Muita palveluja</p>
+<list><p type="listitem">Jos olet kirjautunut sisään käyttämällä sähköistä henkilökorttia, voit lukea reseptejäsi koskevia tietoja apteekin lääkeluettelosta kohdassa <span type="quote" xml:lang="swe">"Mina recept och läkemedel"</span>. Siinä on tietoja esimerkiksi siitä, mitä lääkkeitä olet hakenut apteekista 15 edellisen kuukauden aikana ja mitä reseptejä sinulla on vielä jäljellä.</p>
+<p type="listitem">Kohdassa <span type="quote" xml:lang="swe">"Min kalender"</span> voit ilmoittaa vastaanotolle saamasi käyntiajan ja saada asiasta tekstiviestimuistutuksen päivää ennen käyntiä.</p>
+</list><p type="title">Ongelmia?</p>
+<p>Voit soittaa puhelintukeen: 08-1231 3500 — avoinna päivittäin klo 8—21 (ruotsiksi). Voit myös ottaa yhteyden tukeen Internetin kautta.</p>
+<p>Mina vårdkontakter -palvelua ei saa käyttää äkillisissä tai hengenvaarallisissa tilanteissa. Soita tällöin numeroon 112. Tervetuloa käyttämään Jämtlandin läänin Mina vårdkontakter -palvelua!</p>
+</body></document>

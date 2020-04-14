@@ -1,116 +1,82 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Edellisvuoden kävijäennätys lyötiin, Skábmagovat-elokuvat herättivät monenlaisia tunteita — Siida</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>632</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.siida.fi/sisalto/tiedotteet/edellisvuoden-kvijenntys-lytiin-skbmagovat-elokuvat-herttivt-monenlaisia-tunteita</origFileName>
-    <parallel_text xml:lang="eng" location="spectator-numbers-higher-than-last-year-2013-films-shown-at-skbmagovat-evoked-a-range-of-emotions.html"/>
-    <parallel_text xml:lang="sme" location="dn-jagi-skbmagovat-aske-mannan-jagi-gehiidlogu.-festivla-filmmat-bohciidahtte-mggalgan-dovdduid.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="sme">sámegillii |</p>
-      <p type="listitem" xml:lang="eng">in English |</p>
-      <p type="listitem">suomeksi |</p>
-      <p type="listitem" xml:lang="rus">Русский</p>
-    </list>
-    <p xml:lang="nob">Hae</p>
-    <p>Laajennettu haku...</p>
-    <p>Siirry sisältöön. | Siirry navigointiin</p>
-    <p type="title" xml:lang="eng">Osiot</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Pääsivu |</p>
-      <p type="listitem">Kokoelmat |</p>
-      <p type="listitem">Luontopalvelut |</p>
-      <p type="listitem">Ravintola |</p>
-      <p type="listitem">Kokoukset |</p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet |</p>
-      <p type="listitem">Kolttien Perinnetalo</p>
-    </list>
-    <list>
-      <p type="listitem">Sivukartta |</p>
-      <p type="listitem">Ota yhteyttä |</p>
-      <p type="listitem" xml:lang="smj">RSS |</p>
-      <p type="listitem">Uutiskirje</p>
-    </list>
-    <p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
-    <p xml:lang="est">POHJOINEN LUONTO  Luontokeskus</p>
-    <p xml:lang="eng">Info</p>
-    <p xml:lang="smn">Pääsivu</p>
-    <p xml:lang="koi">/</p>
-    <p xml:lang="fkv">Tiedotteet /</p>
-    <p>Edellisvuoden kävijäennätys lyötiin, Skábmagovat-elokuvat herättivät monenlaisia tunteita</p>
-    <p type="title">Edellisvuoden kävijäennätys lyötiin, Skábmagovat-elokuvat herättivät monenlaisia tunteita</p>
-    <p>tiistai 26. Tammikuuta 2016, 14.40</p>
-    <p>18. kertaa järjestetty alkuperäiskansojen elokuvafestivaali Skábmagovat –Kaamoksen kuvia pidettiin 21.1.-24.1.2016 Inarissa. Festivaalin pääteemana olivat Navajo-intiaanit. Lisämaustetta festivaalille toivat mm. elokuvat Burmasta ja Krimin taatareilta, kaiken muun alkuperäiskansatarjonnan lisäksi.</p>
-    <p>Kuva: Tapio Seppänen</p>
-    <p>Päävieraamme festivaalilla oli Blackhorse Lowe (navajo), palkittu ohjaaja New Mexicosta, Yhdysvalloista. Hän on yli 15 vuoden ajan tarkastellut perinteen ja nykyajan ristivetoa navajoreservaattiin sijoittuvissa elokuvissaan, joiden tuotantoon perheenjäsenet ovat aktiivisesti osallistuneet mm. näyttelijöinä. Lowen uusin pitkä elokuva Chasing the Light (2015) nostatti tunteita laidasta laitaan katsojien joukossa Inarissa.</p>
-    <p>Paikallisia katsojia kiinnosti suuresti Skabmagovat aloittanut torstai-illan poronhoitoa käsittelevä näytös. Porot kuuluvat tuulelle -elokuvassa laaja joukkio Käsivarren poromiehiä kuvailevat haasteista liittyen ympäristön käyttöön. Festivaalin vieraana näytöksen yhteydessä oli saamelaisten oma elokuvatähti, näyttelijä ja OTM Anni-Kristiina Juuso. Samassa näytöksessä nähtiin myös Aslak Palton kuvaus petopolitiikasta poromiehen näkökulmasta.</p>
-    <p>Lauantaina Sajoksen elokuvasali täyttyi hetkessä, kun vuorossa oli Suvi Westin Sparrooabbán-elokuvan ennakkoensi-ilta. Koskettava dokumenttielokuva kertoo ohjaajan siskosta Kaisasta, joka on valinnut tien, joka konservatiivisessa saamelaisyhteisössä on tabu: rakkauden toiseen naiseen. Road movie-tyyppisessä elokuvassa vastauksia etsiessään sisarukset törmäävät vaikenemisen muuriin. Näytöksessä esitettiin myös maailmalla palkittu ja Sundance-festivaalilla esitetty Amanda Kernellin Stuorre Vaarie. Näytöksen suuren kiinnostuksen takia, siitä järjestettiin toiveuusintänäytös sunnuntaille.</p>
-    <p>Saamelaisohjelmistossa nähtiin myös Ima Aikion tuorein dokumenttielokuva räppäristä Amocista. Kiitosta sai myös blackfoot-saamelaisohjaaja Elle-Máijá Tailfeathersin koskettavasti heidän perhe-elämäänsä avaava elokuva Bihttoš, joka esitettiin mm. lauantai-iltana reunoja myöten täydelle Revontuliteatterin yleisölle täyden kuun loisteessa.</p>
-    <p>Iltajuhlissa katsojia tanssitti perjantai-iltana räp-kaksikko Ailu Valle ja Amoc. Lauantaina Veijo Länsmanin laulut heräsivät jälleen kerran henkiin Niillas Holmbergin ja Šuvvábojat yhtyeen soittamana. Festivaalitarjontaa myös laajennettiin teatteritaiteen puolelle, kun torstai-iltana ruotsinsaamelainen Giron Sami Teahter toi Inariin sijoittuvan tulevaisuusnäytelmän Reaktorin.</p>
-    <p>Perjantaina pidetty keskustelutilaisuus käsitteli monia saamelaisvanhempia vaivaavaa aihetta; saamenkielisten lastenohjelmien puute. Tilaisuudessa suunnitelmia lastenohjelmien dubbauksesta tekivät yhdessä Saamelaiskäräjien oppimateriaalitoimisto, Yle Sapmi, elokuvakeskus Skabma, Kansainvälisen Saamelaisen elokuvakeskuksen yhdessä vanhempien kanssa.</p>
-    <p>Vuoden 2016 kävijämäärät ylittivät vuoden 2015 kävijämäärän 300:lla kävijällä. Festivaalin historian ennatysyleisö kerättiin vuonna 2013, kun vietettiin festivaalin 15-vuotisjuhlaa. Festivaaleilla oli tänä vuonna kävijöitä yhteensä 3100, joista iltakonsertit vetivät kaikkiaan 350 kävijää. Lapsia ja nuoria oli noin 300, elokuva ja työpajakäyntejä kertyi lähemmäs 800. Sajoksen lisäksi esityksiä oli Siidan auditoriossa ja festivaalien tunnusmerkin, lumesta rakennetun Revontuliteatterin tiloissa. Elokuvia esitettiin enemmän kuin koskaan, yhteensä 95.</p>
-    <p>Festivaali järjestetään seuraavan kerran 26.-19.1.2017.</p>
-    <p>Skábmagovat-festivaalin järjestää Saamelaistaiteen Tuki ry yhteistyössä Saamelaismuseo ja luontokeskus Siidan, kulttuurikeskus Sajoksen, Elokuvakeskus Skábman, Saamelaisalueen koulutuskeskuksen ja YLE Sápmin kanssa.</p>
-    <p>Festivaalin suojelijana toimii rouva Jenni Haukio.</p>
-    <p>
-      <em type="italic">Tapahtuman rahoittajina toimivat Suomen Saamelaiskäräjät – Inarin kunta – Opetus- ja kulttuuriministeriö - Suomen kulttuurirahasto - Taiteen edistämiskeskus – Koneen säätiö – Jenny ja Antti Wihurin rahasto – Saamelaisneuvosto – Lapin rahasto  </em>
-    </p>
-    <p>Lisätietoja:</p>
-    <p>Jorma Lehtola, taiteellinen johtaja, puh. 050 414 4349</p>
-    <p xml:lang="smn">Anne Kirste Aikio, puh. 040 768 1689</p>
-    <p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
-    <p type="title">Tehdyt toimenpiteet</p>
-    <list>
-      <p type="listitem">Lähetä</p>
-      <p type="listitem">Tulosta</p>
-    </list>
-    <p xml:lang="vep">SISÄLTÖ</p>
-    <p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
-    <p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
-    <p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
-    <p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
-    <p>Saamelainen tarinaperinne ja luonto tutuksi</p>
-    <p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
-    <p>Karhuja Siidan luontoilloissa Inarissa</p>
-    <p>Siidan kesätyöpaikat 2017 auki</p>
-    <p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
-    <p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
-    <p type="title" xml:lang="vep">VIERAILIJAINFO</p>
-    <p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
-    <p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
-    <p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
-    <p>&gt; aukioloajat</p>
-    <p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
-    <p>&gt; yhteystiedot</p>
-    <p>&gt; saavutettavuus</p>
-    <p>&gt; opastukset</p>
-    <p>&gt; Siidan arkkitehtuuri</p>
-    <p>kalenteri</p>
-    <p xml:lang="koi">|</p>
-    <p>mediakuvapankki</p>
-    <p xml:lang="sme">matkailuinfo</p>
-    <p xml:lang="sme">Siida</p>
-    <p xml:lang="sms">Siida Shop</p>
-    <p>Saamelaismuseon blogi</p>
-    <p>medialle | matkanjärjestäjille</p>
-    <p xml:lang="sme">Copyright Siida 2010</p>
-    <p xml:lang="koi">|</p>
-    <p xml:lang="est">Updated 10.6.2010</p>
-    <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Edellisvuoden kävijäennätys lyötiin, Skábmagovat-elokuvat herättivät monenlaisia tunteita — Siida</title><genre code="facta"/><author><unknown/></author><year>2016</year><wordcount>632</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/edellisvuoden-kvijenntys-lytiin-skbmagovat-elokuvat-herttivt-monenlaisia-tunteita</origFileName><parallel_text xml:lang="eng" location="spectator-numbers-higher-than-last-year-2013-films-shown-at-skbmagovat-evoked-a-range-of-emotions.html"/><parallel_text xml:lang="sme" location="dn-jagi-skbmagovat-aske-mannan-jagi-gehiidlogu.-festivla-filmmat-bohciidahtte-mggalgan-dovdduid.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<p type="listitem" xml:lang="eng">in English |</p>
+<p type="listitem">suomeksi |</p>
+<p type="listitem" xml:lang="rus">Русский</p>
+</list><p xml:lang="nob">Hae</p>
+<p>Laajennettu haku...</p>
+<p>Siirry sisältöön. | Siirry navigointiin</p>
+<p type="title" xml:lang="eng">Osiot</p>
+<list><p type="listitem" xml:lang="smn">Pääsivu |</p>
+<p type="listitem">Kokoelmat |</p>
+<p type="listitem">Luontopalvelut |</p>
+<p type="listitem">Ravintola |</p>
+<p type="listitem">Kokoukset |</p>
+<p type="listitem" xml:lang="fkv">Tiedotteet |</p>
+<p type="listitem">Kolttien Perinnetalo</p>
+</list><list><p type="listitem">Sivukartta |</p>
+<p type="listitem">Ota yhteyttä |</p>
+<p type="listitem" xml:lang="smj">RSS |</p>
+<p type="listitem">Uutiskirje</p>
+</list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
+<p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
+<p xml:lang="eng">Info</p>
+<p xml:lang="smn">Pääsivu</p>
+<p xml:lang="vep">/</p>
+<p xml:lang="fkv">Tiedotteet /</p>
+<p>Edellisvuoden kävijäennätys lyötiin, Skábmagovat-elokuvat herättivät monenlaisia tunteita</p>
+<p type="title">Edellisvuoden kävijäennätys lyötiin, Skábmagovat-elokuvat herättivät monenlaisia tunteita</p>
+<p>tiistai 26. Tammikuuta 2016, 14.40</p>
+<p>18. kertaa järjestetty alkuperäiskansojen elokuvafestivaali Skábmagovat –Kaamoksen kuvia pidettiin 21.1.-24.1.2016 Inarissa. Festivaalin pääteemana olivat Navajo-intiaanit. Lisämaustetta festivaalille toivat mm. elokuvat Burmasta ja Krimin taatareilta, kaiken muun alkuperäiskansatarjonnan lisäksi.</p>
+<p>Kuva: Tapio Seppänen</p>
+<p>Päävieraamme festivaalilla oli Blackhorse Lowe (navajo), palkittu ohjaaja New Mexicosta, Yhdysvalloista. Hän on yli 15 vuoden ajan tarkastellut perinteen ja nykyajan ristivetoa navajoreservaattiin sijoittuvissa elokuvissaan, joiden tuotantoon perheenjäsenet ovat aktiivisesti osallistuneet mm. näyttelijöinä. Lowen uusin pitkä elokuva Chasing the Light (2015) nostatti tunteita laidasta laitaan katsojien joukossa Inarissa.</p>
+<p>Paikallisia katsojia kiinnosti suuresti Skabmagovat aloittanut torstai-illan poronhoitoa käsittelevä näytös. Porot kuuluvat tuulelle -elokuvassa laaja joukkio Käsivarren poromiehiä kuvailevat haasteista liittyen ympäristön käyttöön. Festivaalin vieraana näytöksen yhteydessä oli saamelaisten oma elokuvatähti, näyttelijä ja OTM Anni-Kristiina Juuso. Samassa näytöksessä nähtiin myös Aslak Palton kuvaus petopolitiikasta poromiehen näkökulmasta.</p>
+<p>Lauantaina Sajoksen elokuvasali täyttyi hetkessä, kun vuorossa oli Suvi Westin Sparrooabbán-elokuvan ennakkoensi-ilta. Koskettava dokumenttielokuva kertoo ohjaajan siskosta Kaisasta, joka on valinnut tien, joka konservatiivisessa saamelaisyhteisössä on tabu: rakkauden toiseen naiseen. Road movie-tyyppisessä elokuvassa vastauksia etsiessään sisarukset törmäävät vaikenemisen muuriin. Näytöksessä esitettiin myös maailmalla palkittu ja Sundance-festivaalilla esitetty Amanda Kernellin Stuorre Vaarie. Näytöksen suuren kiinnostuksen takia, siitä järjestettiin toiveuusintänäytös sunnuntaille.</p>
+<p>Saamelaisohjelmistossa nähtiin myös Ima Aikion tuorein dokumenttielokuva räppäristä Amocista. Kiitosta sai myös blackfoot-saamelaisohjaaja Elle-Máijá Tailfeathersin koskettavasti heidän perhe-elämäänsä avaava elokuva Bihttoš, joka esitettiin mm. lauantai-iltana reunoja myöten täydelle Revontuliteatterin yleisölle täyden kuun loisteessa.</p>
+<p>Iltajuhlissa katsojia tanssitti perjantai-iltana räp-kaksikko Ailu Valle ja Amoc. Lauantaina Veijo Länsmanin laulut heräsivät jälleen kerran henkiin Niillas Holmbergin ja Šuvvábojat yhtyeen soittamana. Festivaalitarjontaa myös laajennettiin teatteritaiteen puolelle, kun torstai-iltana ruotsinsaamelainen Giron Sami Teahter toi Inariin sijoittuvan tulevaisuusnäytelmän Reaktorin.</p>
+<p>Perjantaina pidetty keskustelutilaisuus käsitteli monia saamelaisvanhempia vaivaavaa aihetta; saamenkielisten lastenohjelmien puute. Tilaisuudessa suunnitelmia lastenohjelmien dubbauksesta tekivät yhdessä Saamelaiskäräjien oppimateriaalitoimisto, Yle Sapmi, elokuvakeskus Skabma, Kansainvälisen Saamelaisen elokuvakeskuksen yhdessä vanhempien kanssa.</p>
+<p>Vuoden 2016 kävijämäärät ylittivät vuoden 2015 kävijämäärän 300:lla kävijällä. Festivaalin historian ennatysyleisö kerättiin vuonna 2013, kun vietettiin festivaalin 15-vuotisjuhlaa. Festivaaleilla oli tänä vuonna kävijöitä yhteensä 3100, joista iltakonsertit vetivät kaikkiaan 350 kävijää. Lapsia ja nuoria oli noin 300, elokuva ja työpajakäyntejä kertyi lähemmäs 800. Sajoksen lisäksi esityksiä oli Siidan auditoriossa ja festivaalien tunnusmerkin, lumesta rakennetun Revontuliteatterin tiloissa. Elokuvia esitettiin enemmän kuin koskaan, yhteensä 95.</p>
+<p>Festivaali järjestetään seuraavan kerran 26.-19.1.2017.</p>
+<p>Skábmagovat-festivaalin järjestää Saamelaistaiteen Tuki ry yhteistyössä Saamelaismuseo ja luontokeskus Siidan, kulttuurikeskus Sajoksen, Elokuvakeskus Skábman, Saamelaisalueen koulutuskeskuksen ja YLE Sápmin kanssa.</p>
+<p>Festivaalin suojelijana toimii rouva Jenni Haukio.</p>
+<p><em type="italic">Tapahtuman rahoittajina toimivat Suomen Saamelaiskäräjät – Inarin kunta – Opetus- ja kulttuuriministeriö - Suomen kulttuurirahasto - Taiteen edistämiskeskus – Koneen säätiö – Jenny ja Antti Wihurin rahasto – Saamelaisneuvosto – Lapin rahasto  </em></p>
+<p>Lisätietoja:</p>
+<p>Jorma Lehtola, taiteellinen johtaja, puh. 050 414 4349</p>
+<p xml:lang="smn">Anne Kirste Aikio, puh. 040 768 1689</p>
+<p xml:lang="smn">Saamelaismuseo, Siida, Inarintie 46, 99870 Inari, puh. 0400 898 212, siida@samimuseum.fi , www.siida.fi</p>
+<p type="title">Tehdyt toimenpiteet</p>
+<list><p type="listitem">Lähetä</p>
+<p type="listitem">Tulosta</p>
+</list><p xml:lang="vep">SISÄLTÖ</p>
+<p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
+<p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
+<p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
+<p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
+<p>Saamelainen tarinaperinne ja luonto tutuksi</p>
+<p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
+<p>Karhuja Siidan luontoilloissa Inarissa</p>
+<p>Siidan kesätyöpaikat 2017 auki</p>
+<p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
+<p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
+<p type="title" xml:lang="deu">VIERAILIJAINFO</p>
+<p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
+<p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
+<p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
+<p>&gt; aukioloajat</p>
+<p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
+<p>&gt; yhteystiedot</p>
+<p>&gt; saavutettavuus</p>
+<p>&gt; opastukset</p>
+<p>&gt; Siidan arkkitehtuuri</p>
+<p>kalenteri</p>
+<p xml:lang="vep">|</p>
+<p>mediakuvapankki</p>
+<p xml:lang="sme">matkailuinfo</p>
+<p xml:lang="sme">Siida</p>
+<p xml:lang="sms">Siida Shop</p>
+<p>Saamelaismuseon blogi</p>
+<p>medialle | matkanjärjestäjille</p>
+<p xml:lang="sme">Copyright Siida 2010</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="est">Updated 10.6.2010</p>
+<p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
+</body></document>

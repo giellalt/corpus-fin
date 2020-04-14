@@ -1,38 +1,14 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Korvaukset - 
+<document xml:lang="fin" id="no_id"><header><title>Korvaukset - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>244</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/fi/index/esitteet/josjoudutrikoksenuhriksi/korvaukset.html</origFileName>
-    <parallel_text xml:lang="eng" location="korvaukset.html"/>
-    <parallel_text xml:lang="sme" location="buhtadusat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Jos joudut rikoksen uhriksi</p>
-    <p type="title">Korvaukset</p>
-    <p type="title">Vahingonkorvaukset</p>
-    <p>Jos tuomioistuin on velvoittanut rikoksentekijän maksamaan korvauksia, maksujärjestelyistä voi sopia hänen kanssaan tai antaa korvausten perimisen ulosottomiehen hoidettavaksi. Käräjäoikeuden kansliasta maksutta saatava jäljennös tuomioistuimen ratkaisusta sekä ulosottohakemus toimitetaan ulosottovirastolle. Sieltä voi myös kysyä tarkempia ohjeita korvauksen hakemiseen.</p>
-    <p>Korvauksia voi saada myös Valtiokonttorista, vakuutusyhtiöltä tai Kelasta. Mahdollisuudet saada korvauksia vaihtelevat, joten ne on selvitettävä tapauskohtaisesti.</p>
-    <p type="title">Valtion varoista maksettavat korvaukset</p>
-    <p>Rikoksen uhrille voidaan maksaa valtion varoista korvausta rikoksella aiheutetuista vahingoista. Korvausta maksetaan pääasiassa henkilövahingosta ja kärsimyksestä. Valtion varoista maksettava korvaus perustuu rikosvahinkolakiin ja sen maksamisesta huolehtii Valtiokonttori.</p>
-    <p>Korvausta saadakseen rikoksen uhrin on ilmoitettava rikoksesta poliisille. Jos asiaa käsitellään oikeudessa, on rikoksen uhrin esitettävä siellä korvausvaatimus rikoksen tekijälle. Korvausta on haettava kolmen vuoden kuluessa korvausasiassa annetusta lainvoimaisesta tuomiosta. Mikäli asiaa ei ole käsitelty tuomioistuimessa, korvausta on haettava kymmenen vuoden kuluessa rikoksen tekemisestä. Korvausta voi hakea, vaikka tuomio ei olisi lainvoimainen.</p>
-    <p>Korvaus määrätään lähtökohtaisesti vahingonkorvauslaissa säädettyjen perusteiden mukaan, mutta rikosvahinkolaki poikkeaa eräiltä osin siitä, mitä vahingonkorvauslaissa on säädetty. Jos Valtiokonttori poikkeaa tuomioistuimen korvausasiassa antamasta ratkaisusta, se perustelee päätöksessään poikkeamisen syyt.</p>
-    <p>Valtion varoista maksettava korvaus on toissijainen. Siitä vähennetään, mitä uhri on saanut tai tulee saamaan jonkin muun lain tai vakuutuksen perusteella. Siitä vähennetään myös korvaus, jonka rikoksen tekijä on maksanut rikoksen uhrille. Korvausta saadakseen uhrin ei kuitenkaan tarvitse yrittää periä korvausta ensin rikoksen tekijältä.</p>
-    <p>Valtion varoista maksettavaa korvausta haetaan Valtiokonttorista. Hakemukseen liitetään tuomioistuimen ratkaisu tai poliisin esitutkintapöytäkirja sekä lääkärintodistukset ja muu luotettava selvitys vahinkojen suuruudesta. Hakemuslomakkeita ja lisätietoja saa Valtiokonttorista www.valtiokonttori.fi .</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>244</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/josjoudutrikoksenuhriksi/korvaukset.html</origFileName><parallel_text xml:lang="eng" location="korvaukset.html"/><parallel_text xml:lang="sme" location="buhtadusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Jos joudut rikoksen uhriksi</p>
+<p type="title">Korvaukset</p>
+<p type="title">Vahingonkorvaukset</p>
+<p>Jos tuomioistuin on velvoittanut rikoksentekijän maksamaan korvauksia, maksujärjestelyistä voi sopia hänen kanssaan tai antaa korvausten perimisen ulosottomiehen hoidettavaksi. Käräjäoikeuden kansliasta maksutta saatava jäljennös tuomioistuimen ratkaisusta sekä ulosottohakemus toimitetaan ulosottovirastolle. Sieltä voi myös kysyä tarkempia ohjeita korvauksen hakemiseen.</p>
+<p>Korvauksia voi saada myös Valtiokonttorista, vakuutusyhtiöltä tai Kelasta. Mahdollisuudet saada korvauksia vaihtelevat, joten ne on selvitettävä tapauskohtaisesti.</p>
+<p type="title">Valtion varoista maksettavat korvaukset</p>
+<p>Rikoksen uhrille voidaan maksaa valtion varoista korvausta rikoksella aiheutetuista vahingoista. Korvausta maksetaan pääasiassa henkilövahingosta ja kärsimyksestä. Valtion varoista maksettava korvaus perustuu rikosvahinkolakiin ja sen maksamisesta huolehtii Valtiokonttori.</p>
+<p>Korvausta saadakseen rikoksen uhrin on ilmoitettava rikoksesta poliisille. Jos asiaa käsitellään oikeudessa, on rikoksen uhrin esitettävä siellä korvausvaatimus rikoksen tekijälle. Korvausta on haettava kolmen vuoden kuluessa korvausasiassa annetusta lainvoimaisesta tuomiosta. Mikäli asiaa ei ole käsitelty tuomioistuimessa, korvausta on haettava kymmenen vuoden kuluessa rikoksen tekemisestä. Korvausta voi hakea, vaikka tuomio ei olisi lainvoimainen.</p>
+<p>Korvaus määrätään lähtökohtaisesti vahingonkorvauslaissa säädettyjen perusteiden mukaan, mutta rikosvahinkolaki poikkeaa eräiltä osin siitä, mitä vahingonkorvauslaissa on säädetty. Jos Valtiokonttori poikkeaa tuomioistuimen korvausasiassa antamasta ratkaisusta, se perustelee päätöksessään poikkeamisen syyt.</p>
+<p>Valtion varoista maksettava korvaus on toissijainen. Siitä vähennetään, mitä uhri on saanut tai tulee saamaan jonkin muun lain tai vakuutuksen perusteella. Siitä vähennetään myös korvaus, jonka rikoksen tekijä on maksanut rikoksen uhrille. Korvausta saadakseen uhrin ei kuitenkaan tarvitse yrittää periä korvausta ensin rikoksen tekijältä.</p>
+<p>Valtion varoista maksettavaa korvausta haetaan Valtiokonttorista. Hakemukseen liitetään tuomioistuimen ratkaisu tai poliisin esitutkintapöytäkirja sekä lääkärintodistukset ja muu luotettava selvitys vahinkojen suuruudesta. Hakemuslomakkeita ja lisätietoja saa Valtiokonttorista www.valtiokonttori.fi .</p>
+</body></document>

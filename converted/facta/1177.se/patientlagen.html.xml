@@ -1,79 +1,38 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>544</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Patientlagen</origFileName>
-    <parallel_text xml:lang="eng" location="patientlagen.html"/>
-    <parallel_text xml:lang="fit" location="patientlagen.html"/>
-    <parallel_text xml:lang="sma" location="patientlagen.html"/>
-    <parallel_text xml:lang="sme" location="patientlagen.html"/>
-    <parallel_text xml:lang="smj" location="patientlagen.html"/>
-    <parallel_text xml:lang="swe" location="patientlagen.html"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmf"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rka"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Potilaslaki / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">PotilaslakiPatientlagen</p>
-    <p>Potilaslaki on laadittu potilaita varten. Potilaslain mukaan sinulle tulee antaa tietoa sairaudestasi ja siihen saatavilla olevista hoitovaihtoehdoista. Näin voit itse osallistua hoitoasi koskeviin päätöksiin. Sinulle tulee antaa tietoa myös siitä, missä tarvitsemaasi hoitoa on tarjolla.</p>
-    <p type="title">Sinun pitäisi ymmärtää tiedot</p>
-    <p>Hoitohenkilöstön on annettava sinulle tarvitsemasi tiedot henkilöllisyydestäsi ja taustastasi riippumatta. Saatat esimerkiksi tarvita tulkkia tai kirjallisia tietoja, jotta ymmärrät, kuinka tutkimus tehdään.</p>
-    <p>Annettavat tiedot tulee sovittaa tilanteesi ja edellytystesi mukaan, jotta pystyt ymmärtämään tiedot ja osallistumaan omaan hoitoosi. Valitset itse, kuinka aktiivisesti haluat osallistua omaan hoitoosi, mutta sinulla on aina oikeus omien toiveittesi kertomiseen.</p>
-    <p>Kun tunnet ymmärtäneesi, mitä vaihtoehtoja ja mahdollisuuksia on tarjolla, voit antaa suostumuksesi hoitoon tai ilmaista hyväksymisesi jollain muulla tavalla. Voit myös kieltäytyä sinulle tarjottavasta hoidosta. Vaikka olisitkin antanut suostumuksesi tiettyyn hoitoon, sinun on mahdollista muuttaa mieltäsi asiasta.</p>
-    <p>Myös lapsille tulee antaa mahdollisuus ilmaista mielipiteensä omasta hoidostaan. Pienten lasten kohdalla tämä voi tapahtua yhdessä lapsen huoltajien kanssa, mutta mitä isommasta lapsesta on kysymys, sitä tärkeämpää on, että hän saa itse osallistua hoitoonsa. Lapsen tulee ymmärtää hänelle annetut tiedot, jotta hän pystyy osallistumaan aktiivisesti omaan hoitoonsa ja tekemään sitä koskevia päätöksiä.</p>
-    <p type="title">Millaisia tietoja potilaalle voidaan antaa?</p>
-    <p>Potilaana sinun tulee saada tietoa</p>
-    <list>
-      <p type="listitem">omasta terveydentilastasisaatavilla</p>
-      <p type="listitem">olevista tutkimus- ja hoitotavoista</p>
-      <p type="listitem">saatavilla olevista apuvälineistä</p>
-      <p type="listitem">arvioidusta hoitoajankohdasta</p>
-      <p type="listitem">hoidon odotettavissa olevasta tuloksesta</p>
-      <p type="listitem">mahdollisista komplikaatioista ja sivuvaikutuksista</p>
-      <p type="listitem">mahdollisesti tarvittavasta jälkihoidosta</p>
-      <p type="listitem">sairauden tai vamman ehkäisytavoista</p>
-      <p type="listitem">Försäkringskassanin mahdollisuuksista kertoa muussa ETA-maassa tai Sveitsissä annettavasta hoidosta.</p>
-    </list>
-    <p>Joissain tapauksissa läheisesi voivat tarvita hoitoasi koskevia tietoja. Salassapitosäännösten vuoksi tietoja voidaan antaa läheisillesi ainoastaan läsnäollessasi tai suostumuksellasi.</p>
-    <p>Akuuttitilanteissa, jolloin et voi antaa suostumustasi hoitoon esimerkiksi tajuttomuuden takia, sinua hoidetaan joka tapauksessa, mikäli henkesi on vaarassa.</p>
-    <p type="title">Avohoitopaikka valittavissa koko maan alueelta</p>
-    <p>Potilaana sinulle tulee antaa tietoa siitä, millaista hoitoa asuinpaikkasi maakäräjäkunta voi tarjota, ja mikäli hoitoa on mahdollista saada muiden maakäräjäkuntien alueella.</p>
-    <p>Voit myös valita avohoitopaikan mistä tahansa Ruotsissa. Voit siis valita, missä terveyskeskuksessa tai erikoissairaanhoidon avovastaanotolla haluat käydä tutkimuksissa. Erikoissairaanhoidon avovastaanoton toimenpiteitä ovat esimerkiksi kaihileikkaukset.</p>
-    <p>Hoidonantajan voi valita joko julkisten tai yksityisten terveyspalvelujen puolelta, kunhan hoito on maakäräjäkunnan rahoittamaa.</p>
-    <p>Tietyn terveyskeskuksen valintaa kutsutaan joskus listaukseksi. Voit kuitenkin käydä missä tahansa terveyskeskuksessa koko Ruotsissa. Terveyskeskuksesta on mahdollista saada myös omalääkäri.</p>
-    <p>Erikoissairaanhoidon avohoitopaikaksi voi valita myös muiden maakäräjäkuntien alueella sijaitsevan aluesairaalan, esimerkiksi syöpähoidon seurantaa varten.</p>
-    <p type="title">Potilaan tarpeet etusijalla</p>
-    <p>Kun haet hoitoa muiden maakäräjäkuntien alueelta, lääketieteelliset tarpeesi ratkaisevat hoitoajankohdan. Lääketieteelliset tarpeet arvioi lääkäri. Avohoitoa annetaan kaikille tasavertaisesti riippumatta siitä, missä he ovat kirjoilla. Esimerkiksi avohoidon potilasmaksu on siis samansuuruinen kaikille. Mikäli valitset toisen maakäräjäkunnan alueella annettavan hoidon, vastaat itse matkoistasi ja asumisestasi.</p>
-    <p>Toisen maakäräjäkunnan alueelta tulevana potilaana et kuulu hoitoa antavan maakäräjäkunnan hoitotakuun piiriin.</p>
-    <p type="title">Uusi lääketieteellinen arvio</p>
-    <p>Mikäli sinulla on hengenvaarallinen tai erityisen vakava sairaus tai vamma ja sinun on tehtävä vaikeita lääketieteellisiä päätöksiä, voit pyytää uutta lääketieteellistä arviota tehtäväksi. Arvion tekee muu kuin sinua jo hoitava lääkäri, joko asuinpaikkasi maakäräjäkunnassa tai muussa maakäräjäkunnassa.</p>
-    <p>Asuinpaikkasi maakäräjäkunta maksaa uuden lääketieteellisen arvion.</p>
-    <p type="title">Lähetteen tarve vaihtelee</p>
-    <p>Mikäli avoimeen erikoissairaanhoitoon vaaditaan lähete, sinun tulee hankkia se terveyskeskuksestasi.</p>
-    <p type="title">Mikäli et ole tyytyväinen hoitoosi</p>
-    <p>Jokaisessa maakäräjäkunnassa on potilaslautakunta, jonka tehtävä on auttaa sinua siinä tapauksessa, että et tunne saavasi osallistua omaan hoitoosi tai et ole muulla tavoin tyytyväinen hoitoosi. Potilaslautakunta voi esimerkiksi auttaa sinua saamaan yhteyden vastaavaan hoitohenkilöstöön ja antaa sinulle tietoa siitä, kuinka voit tehdä ilmoituksen tapahtuneesta.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>540</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Patientlagen</origFileName><parallel_text xml:lang="eng" location="patientlagen.html"/><parallel_text xml:lang="fit" location="patientlagen.html"/><parallel_text xml:lang="sma" location="patientlagen.html"/><parallel_text xml:lang="sme" location="patientlagen.html"/><parallel_text xml:lang="smj" location="patientlagen.html"/><parallel_text xml:lang="swe" location="patientlagen.html"/><parallel_text location="patientlagen.html" xml:lang="rmf"/><parallel_text location="patientlagen.html" xml:lang="rmy-rka"/><parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/><parallel_text location="patientlagen.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Potilaslaki / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">PotilaslakiPatientlagen</p>
+<p>Potilaslaki on laadittu potilaita varten. Potilaslain mukaan sinulle tulee antaa tietoa sairaudestasi ja siihen saatavilla olevista hoitovaihtoehdoista. Näin voit itse osallistua hoitoasi koskeviin päätöksiin. Sinulle tulee antaa tietoa myös siitä, missä tarvitsemaasi hoitoa on tarjolla.</p>
+<p type="title">Sinun pitäisi ymmärtää tiedot</p>
+<p>Hoitohenkilöstön on annettava sinulle tarvitsemasi tiedot henkilöllisyydestäsi ja taustastasi riippumatta. Saatat esimerkiksi tarvita tulkkia tai kirjallisia tietoja, jotta ymmärrät, kuinka tutkimus tehdään.</p>
+<p>Annettavat tiedot tulee sovittaa tilanteesi ja edellytystesi mukaan, jotta pystyt ymmärtämään tiedot ja osallistumaan omaan hoitoosi. Valitset itse, kuinka aktiivisesti haluat osallistua omaan hoitoosi, mutta sinulla on aina oikeus omien toiveittesi kertomiseen.</p>
+<p>Kun tunnet ymmärtäneesi, mitä vaihtoehtoja ja mahdollisuuksia on tarjolla, voit antaa suostumuksesi hoitoon tai ilmaista hyväksymisesi jollain muulla tavalla. Voit myös kieltäytyä sinulle tarjottavasta hoidosta. Vaikka olisitkin antanut suostumuksesi tiettyyn hoitoon, sinun on mahdollista muuttaa mieltäsi asiasta.</p>
+<p>Myös lapsille tulee antaa mahdollisuus ilmaista mielipiteensä omasta hoidostaan. Pienten lasten kohdalla tämä voi tapahtua yhdessä lapsen huoltajien kanssa, mutta mitä isommasta lapsesta on kysymys, sitä tärkeämpää on, että hän saa itse osallistua hoitoonsa. Lapsen tulee ymmärtää hänelle annetut tiedot, jotta hän pystyy osallistumaan aktiivisesti omaan hoitoonsa ja tekemään sitä koskevia päätöksiä.</p>
+<p type="title">Millaisia tietoja potilaalle voidaan antaa?</p>
+<p>Potilaana sinun tulee saada tietoa</p>
+<list><p type="listitem">omasta terveydentilastasisaatavilla</p>
+<p type="listitem">olevista tutkimus- ja hoitotavoista</p>
+<p type="listitem">saatavilla olevista apuvälineistä</p>
+<p type="listitem">arvioidusta hoitoajankohdasta</p>
+<p type="listitem">hoidon odotettavissa olevasta tuloksesta</p>
+<p type="listitem">mahdollisista komplikaatioista ja sivuvaikutuksista</p>
+<p type="listitem">mahdollisesti tarvittavasta jälkihoidosta</p>
+<p type="listitem">sairauden tai vamman ehkäisytavoista</p>
+<p type="listitem">Försäkringskassanin mahdollisuuksista kertoa muussa ETA-maassa tai Sveitsissä annettavasta hoidosta.</p>
+</list><p>Joissain tapauksissa läheisesi voivat tarvita hoitoasi koskevia tietoja. Salassapitosäännösten vuoksi tietoja voidaan antaa läheisillesi ainoastaan läsnäollessasi tai suostumuksellasi.</p>
+<p>Akuuttitilanteissa, jolloin et voi antaa suostumustasi hoitoon esimerkiksi tajuttomuuden takia, sinua hoidetaan joka tapauksessa, mikäli henkesi on vaarassa.</p>
+<p type="title">Avohoitopaikka valittavissa koko maan alueelta</p>
+<p>Potilaana sinulle tulee antaa tietoa siitä, millaista hoitoa asuinpaikkasi maakäräjäkunta voi tarjota, ja mikäli hoitoa on mahdollista saada muiden maakäräjäkuntien alueella.</p>
+<p>Voit myös valita avohoitopaikan mistä tahansa Ruotsissa. Voit siis valita, missä terveyskeskuksessa tai erikoissairaanhoidon avovastaanotolla haluat käydä tutkimuksissa. Erikoissairaanhoidon avovastaanoton toimenpiteitä ovat esimerkiksi kaihileikkaukset.</p>
+<p>Hoidonantajan voi valita joko julkisten tai yksityisten terveyspalvelujen puolelta, kunhan hoito on maakäräjäkunnan rahoittamaa.</p>
+<p>Tietyn terveyskeskuksen valintaa kutsutaan joskus listaukseksi. Voit kuitenkin käydä missä tahansa terveyskeskuksessa koko Ruotsissa. Terveyskeskuksesta on mahdollista saada myös omalääkäri.</p>
+<p>Erikoissairaanhoidon avohoitopaikaksi voi valita myös muiden maakäräjäkuntien alueella sijaitsevan aluesairaalan, esimerkiksi syöpähoidon seurantaa varten.</p>
+<p type="title">Potilaan tarpeet etusijalla</p>
+<p>Kun haet hoitoa muiden maakäräjäkuntien alueelta, lääketieteelliset tarpeesi ratkaisevat hoitoajankohdan. Lääketieteelliset tarpeet arvioi lääkäri. Avohoitoa annetaan kaikille tasavertaisesti riippumatta siitä, missä he ovat kirjoilla. Esimerkiksi avohoidon potilasmaksu on siis samansuuruinen kaikille. Mikäli valitset toisen maakäräjäkunnan alueella annettavan hoidon, vastaat itse matkoistasi ja asumisestasi.</p>
+<p>Toisen maakäräjäkunnan alueelta tulevana potilaana et kuulu hoitoa antavan maakäräjäkunnan hoitotakuun piiriin.</p>
+<p type="title">Uusi lääketieteellinen arvio</p>
+<p>Mikäli sinulla on hengenvaarallinen tai erityisen vakava sairaus tai vamma ja sinun on tehtävä vaikeita lääketieteellisiä päätöksiä, voit pyytää uutta lääketieteellistä arviota tehtäväksi. Arvion tekee muu kuin sinua jo hoitava lääkäri, joko asuinpaikkasi maakäräjäkunnassa tai muussa maakäräjäkunnassa.</p>
+<p>Asuinpaikkasi maakäräjäkunta maksaa uuden lääketieteellisen arvion.</p>
+<p type="title">Lähetteen tarve vaihtelee</p>
+<p>Mikäli avoimeen erikoissairaanhoitoon vaaditaan lähete, sinun tulee hankkia se terveyskeskuksestasi.</p>
+<p type="title">Mikäli et ole tyytyväinen hoitoosi</p>
+<p>Jokaisessa maakäräjäkunnassa on potilaslautakunta, jonka tehtävä on auttaa sinua siinä tapauksessa, että et tunne saavasi osallistua omaan hoitoosi tai et ole muulla tavoin tyytyväinen hoitoosi. Potilaslautakunta voi esimerkiksi auttaa sinua saamaan yhteyden vastaavaan hoitohenkilöstöön ja antaa sinulle tietoa siitä, kuinka voit tehdä ilmoituksen tapahtuneesta.</p>
+</body></document>

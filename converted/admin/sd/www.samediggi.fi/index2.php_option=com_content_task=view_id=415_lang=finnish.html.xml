@@ -1,46 +1,18 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Musiikkistudio</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>127</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=415&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=415_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=415_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=415_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="est">Musiikkistudio</p>
-    <p>Korkeatasoinen äänitysstudio soveltuu vaativaan musiikin äänittämiseen. Studiotiloihin kuuluu studio, laulukoppi, äänitarkkaamo ja live-editointitila. Studiotiloista vastaa Saamelaisalueen koulutuskeskus, mutta keskuksen ulkopuoliset varaukset tulevat keskitetysti Sajoksen Kongressi- ja tapahtumapalveluiden kautta.</p>
-    <p>Studio sijaitsee pääsisäänkäynnin vasemmalla puolella Saamelaisalueen koulutuskeskuksen media- ja kieliopiskelutilojen yhteydessä. Katso pohjapiirustus.</p>
-    <p>Kuva: Tuupa Records/Jussi Isokoski ja Nillas Holmberg tekivät uuden levyn toukokuussa 2013. Tutustu kyseisessä äänityksessä tehtyyn studiomusiikkivideoon.</p>
-    <p>
-      <em type="italic">TILAVUUS: </em>
-    </p>
-    <p>* Studio 44 m2; n 7 m x 6,3 m, korkea tila</p>
-    <p>* Laulukoppi 5,5 m2; 2 m x 2,6 m</p>
-    <p xml:lang="nob">* Live-editointitila 10 m2; 4,7 m x 2 m</p>
-    <p>* Äänitarkkaamo 26,5 m2; 4,3 m x 6,5 m</p>
-    <p>* Editointitila 3 kpl x 5,5m2</p>
-    <p>
-      <em type="italic">TEKNIIKKA JA VARUSTEET: </em>
-    </p>
-    <p>* Mikseri ja prosessointi</p>
-    <p xml:lang="deu">* Hardware + Software</p>
-    <p xml:lang="vep">- Protools Core</p>
-    <p xml:lang="est">- Protools I/O</p>
-    <p>* Erilaisia äänitysmikrofoneja</p>
-    <p>* Soittimia</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Musiikkistudio</title><genre code="admin"/><author><unknown/></author><wordcount>127</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=415&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=415_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=415_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=415_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="est">Musiikkistudio</p>
+<p>Korkeatasoinen äänitysstudio soveltuu vaativaan musiikin äänittämiseen. Studiotiloihin kuuluu studio, laulukoppi, äänitarkkaamo ja live-editointitila. Studiotiloista vastaa Saamelaisalueen koulutuskeskus, mutta keskuksen ulkopuoliset varaukset tulevat keskitetysti Sajoksen Kongressi- ja tapahtumapalveluiden kautta.</p>
+<p>Studio sijaitsee pääsisäänkäynnin vasemmalla puolella Saamelaisalueen koulutuskeskuksen media- ja kieliopiskelutilojen yhteydessä. Katso pohjapiirustus.</p>
+<p>Kuva: Tuupa Records/Jussi Isokoski ja Nillas Holmberg tekivät uuden levyn toukokuussa 2013. Tutustu kyseisessä äänityksessä tehtyyn studiomusiikkivideoon.</p>
+<p><em type="italic">TILAVUUS: </em></p>
+<p>* Studio 44 m2; n 7 m x 6,3 m, korkea tila</p>
+<p>* Laulukoppi 5,5 m2; 2 m x 2,6 m</p>
+<p xml:lang="nob">* Live-editointitila 10 m2; 4,7 m x 2 m</p>
+<p>* Äänitarkkaamo 26,5 m2; 4,3 m x 6,5 m</p>
+<p>* Editointitila 3 kpl x 5,5m2</p>
+<p><em type="italic">TEKNIIKKA JA VARUSTEET: </em></p>
+<p>* Mikseri ja prosessointi</p>
+<p xml:lang="deu">* Hardware + Software</p>
+<p xml:lang="vep">- Protools Core</p>
+<p xml:lang="est">- Protools I/O</p>
+<p>* Erilaisia äänitysmikrofoneja</p>
+<p>* Soittimia</p>
+</body></document>

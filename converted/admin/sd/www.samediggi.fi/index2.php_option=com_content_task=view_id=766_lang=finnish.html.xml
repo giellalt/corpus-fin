@@ -1,68 +1,39 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Oppimateriaaleja internetissä</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>278</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=766&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=766_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=766_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=766_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=766_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Oppimateriaaleja internetissä</p>
-    <p><em type="italic">satni.org  - </em> Tervetuloa OAHPA-sivuille! Kokeile vaikkapa sanojen taivuttamista : </p>
-    <p xml:lang="fkv"><em type="italic">Ovttas.no </em> Saamenkielisiä oppimateriaaleja netissä </p>
-    <p><em type="italic">Oktavuohta </em> Nettilehti saamelaisista ja saamelaiskulttuurista </p>
-    <p><em type="italic">Nettisaje </em> - inarinsaamenkieliset nettisivut, joilla voi jakaa tietoja, keskustella ja löytää monenlalista materiaalia, kuten artikkeleleita, kuvia, laulujen sanoja ja oppimateriaaleja. </p>
-    <p><em type="italic">Álgu -diehtovuođđu </em> - Saamelaiskielten sanojen alkuperä - etymologinen tietokanta </p>
-    <p xml:lang="sme"><em type="italic">E-girji </em> </p>
-    <p>- nettisivusto, jossa voi harjoitella itsenäisesti saamenkieltä monipuolisilla opetusohjelmilla.</p>
-    <p>- opetusohjelmia voi käyttää myös opettajan johdolla koko opetusryhmän kanssa. Opetusohjelmat soveltuvat hyvin myös erityisopetukseen.</p>
-    <p>- Suomessa sivuja voi käyttää ilmaisksi saamenkielen ja saamenkielisessä opetuksessa. Opettajan tulee pyytää käyttäjätunnus Toivo Westiltä (toivo.west(at)yahoo.co.uk.).</p>
-    <p>- Norjan ja Ruotsin puolella koulujen tulee ostaa ohjelman lisenssi.</p>
-    <p><em type="italic">Sátnemeahccái </em> - luku- ja kirjoitustaidon alkuopetus I - pohjoissaame </p>
-    <p><em type="italic">Lohkan- ja čállindáiddu </em> alkuopetus II - pohjoissaame </p>
-    <p><em type="italic">Davvi Girji/Sajus </em> Näillä sivuilla on ikäluokittain materiaalia ja tehtäviä pohjoissaameksi ja uumajansaameksi. Esim. pienille <em type="italic">Boađe mu mielde </em>- osiossa kirjain-, numero- ja lukuharjoituksia sekä videoita. Isommille esim. saamenkirjallisuuden sivusto. </p>
-    <p><em type="italic">Cujaju </em> on sivusto, jonka avulla voi helposti kertoa päiväkoti-ikäisille joikaamisesta ja joiusta! </p>
-    <p xml:lang="sme"><em type="italic">E-skuvla </em> </p>
-    <p>- lapsille ja nuorille saamenkielen ja saamenkielisiä nettiopetusmateriaaleja,</p>
-    <p>- peruskouluihin ja lukioon etäopetusta,</p>
-    <p>- aikuisille pohjois- luulajan- ja eteläsaamen kursseja,</p>
-    <p>- monikulttuurisuuden ymmärtämisen kursseja.</p>
-    <p xml:lang="smn">
-      <em type="italic">Anarâsah  </em>
-    </p>
-    <p xml:lang="smn">- Saamelaismuseosäätiö Siida ja Anarâškielâ servin tuottama tietosivusto inarinsaamelaisista</p>
-    <p><em type="italic">Nuortalaččat  </em>- Saamelaismuseosäätiö Siidan tuottama tietosivusto koltansaamelaisista </p>
-    <p><em type="italic">Maahisweb </em> - Saamelaismuseosäätiö Siidan tuottama nettisivusto lapsille </p>
-    <p><em type="italic">Bildetema  </em>- Interaktiivinen monikielinen kuvasanakirja </p>
-    <p xml:lang="smj">
-      <em type="italic">Giellatekno </em>
-    </p>
-    <p>- nettisanakirja</p>
-    <p>- pohjoissaame</p>
-    <p>- inarinsaame</p>
-    <p xml:lang="est">- koltasaame</p>
-    <p><em type="italic">Nettisanakirjoja  </em>pohjoissaame - suomi </p>
-    <p><em type="italic">Yle Sámi radio </em> (Unna Junná - lasten TV ja Binna bánna lasten radio) </p>
-    <p><em type="italic">SVT Sápmi </em> - lasten TV </p>
-    <p xml:lang="sme"><em type="italic">NRK Sámi radio </em> - lasten TV </p>
-    <p><em type="italic">Cugu </em> - nettisivusto lapsille </p>
-    <p><em type="italic">Eanadállu  </em>- Interaktiivinen pelisivusto lapsille </p>
-    <p><em type="italic">Gos lea Nora gielká? </em> - Lasten kertomus jonka voi lukea tai kuunnella. </p>
-    <p>Sámi Giellagáldu julkaisee saamenkielten uusinta terminologiaa ja normitusta.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Oppimateriaaleja internetissä</title><genre code="admin"/><author><unknown/></author><wordcount>278</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=766&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=766_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=766_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=766_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=766_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Oppimateriaaleja internetissä</p>
+<p><em type="italic">satni.org  - </em> Tervetuloa OAHPA-sivuille! Kokeile vaikkapa sanojen taivuttamista : </p>
+<p xml:lang="fkv"><em type="italic">Ovttas.no </em> Saamenkielisiä oppimateriaaleja netissä </p>
+<p><em type="italic">Oktavuohta </em> Nettilehti saamelaisista ja saamelaiskulttuurista </p>
+<p><em type="italic">Nettisaje </em> - inarinsaamenkieliset nettisivut, joilla voi jakaa tietoja, keskustella ja löytää monenlalista materiaalia, kuten artikkeleleita, kuvia, laulujen sanoja ja oppimateriaaleja. </p>
+<p><em type="italic">Álgu -diehtovuođđu </em> - Saamelaiskielten sanojen alkuperä - etymologinen tietokanta </p>
+<p xml:lang="sme"><em type="italic">E-girji </em> </p>
+<p>- nettisivusto, jossa voi harjoitella itsenäisesti saamenkieltä monipuolisilla opetusohjelmilla.</p>
+<p>- opetusohjelmia voi käyttää myös opettajan johdolla koko opetusryhmän kanssa. Opetusohjelmat soveltuvat hyvin myös erityisopetukseen.</p>
+<p>- Suomessa sivuja voi käyttää ilmaisksi saamenkielen ja saamenkielisessä opetuksessa. Opettajan tulee pyytää käyttäjätunnus Toivo Westiltä (toivo.west(at)yahoo.co.uk.).</p>
+<p>- Norjan ja Ruotsin puolella koulujen tulee ostaa ohjelman lisenssi.</p>
+<p><em type="italic">Sátnemeahccái </em> - luku- ja kirjoitustaidon alkuopetus I - pohjoissaame </p>
+<p><em type="italic">Lohkan- ja čállindáiddu </em> alkuopetus II - pohjoissaame </p>
+<p><em type="italic">Davvi Girji/Sajus </em> Näillä sivuilla on ikäluokittain materiaalia ja tehtäviä pohjoissaameksi ja uumajansaameksi. Esim. pienille <em type="italic">Boađe mu mielde </em>- osiossa kirjain-, numero- ja lukuharjoituksia sekä videoita. Isommille esim. saamenkirjallisuuden sivusto. </p>
+<p><em type="italic">Cujaju </em> on sivusto, jonka avulla voi helposti kertoa päiväkoti-ikäisille joikaamisesta ja joiusta! </p>
+<p xml:lang="sme"><em type="italic">E-skuvla </em> </p>
+<p>- lapsille ja nuorille saamenkielen ja saamenkielisiä nettiopetusmateriaaleja,</p>
+<p>- peruskouluihin ja lukioon etäopetusta,</p>
+<p>- aikuisille pohjois- luulajan- ja eteläsaamen kursseja,</p>
+<p>- monikulttuurisuuden ymmärtämisen kursseja.</p>
+<p xml:lang="smn"><em type="italic">Anarâsah  </em></p>
+<p xml:lang="smn">- Saamelaismuseosäätiö Siida ja Anarâškielâ servin tuottama tietosivusto inarinsaamelaisista</p>
+<p><em type="italic">Nuortalaččat  </em>- Saamelaismuseosäätiö Siidan tuottama tietosivusto koltansaamelaisista </p>
+<p><em type="italic">Maahisweb </em> - Saamelaismuseosäätiö Siidan tuottama nettisivusto lapsille </p>
+<p><em type="italic">Bildetema  </em>- Interaktiivinen monikielinen kuvasanakirja </p>
+<p xml:lang="smj"><em type="italic">Giellatekno </em></p>
+<p>- nettisanakirja</p>
+<p>- pohjoissaame</p>
+<p>- inarinsaame</p>
+<p xml:lang="est">- koltasaame</p>
+<p><em type="italic">Nettisanakirjoja  </em>pohjoissaame - suomi </p>
+<p><em type="italic">Yle Sámi radio </em> (Unna Junná - lasten TV ja Binna bánna lasten radio) </p>
+<p><em type="italic">SVT Sápmi </em> - lasten TV </p>
+<p xml:lang="sme"><em type="italic">NRK Sámi radio </em> - lasten TV </p>
+<p><em type="italic">Cugu </em> - nettisivusto lapsille </p>
+<p><em type="italic">Eanadállu  </em>- Interaktiivinen pelisivusto lapsille </p>
+<p><em type="italic">Gos lea Nora gielká? </em> - Lasten kertomus jonka voi lukea tai kuunnella. </p>
+<p>Sámi Giellagáldu julkaisee saamenkielten uusinta terminologiaa ja normitusta.</p>
+</body></document>

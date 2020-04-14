@@ -1,108 +1,72 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Vätsärin historia - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>430</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/vatsari/historia</origFileName>
-    <parallel_text xml:lang="eng" location="history_3.html"/>
-    <parallel_text xml:lang="sme" location="historja_9.html"/>
-    <parallel_text xml:lang="sms" location="histoor_1.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Vätsäri</p>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Hammastunturi</p>
-      <p type="listitem">Kaldoaivi</p>
-      <p type="listitem">Kemihaara</p>
-      <p type="listitem">Käsivarsi</p>
-      <p type="listitem">Muotkatunturi</p>
-      <p type="listitem">Paistunturi</p>
-      <p type="listitem">Pulju</p>
-      <p type="listitem">Pöyrisjärvi</p>
-      <p type="listitem">Tarvantovaara</p>
-      <p type="listitem">Tsarmitunturi</p>
-      <p type="listitem">Tuntsa</p>
-      <p type="listitem">Vätsäri</p>
-    </list>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p>Vätsärin sivut</p>
-    <p type="title">Vätsäri</p>
-    <list>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Vätsärin historia</p>
-    <p>Vätsärin aluetta ovat asuttaneet inarinsaamelaiset niin kauan kuin tiedetään. He elivät kalastuksesta ja metsästyksestä ja viimeisinä vuosisatoina pienimuotoisesta karjataloudesta lampaineen ja lehmineen. Porotalous oli alkujaan sekin pienimuotoista. Norjan porosaamelaiset liikkuivat alueella talvisaikaan. Suurvaltapolitiikka rajankäynteineen johti rajojen sulkeutumiseen vuonna 1852. Porot kulkivat kuitenkin rajan yli vielä toista sataa vuotta ennen kuin maiden välille rakennettu poroaita esti kulun. Ensimmäiset Norjasta muuttaneet porosaamelaiset asettuivat Vätsärin alueelle 1860-luvulla. Inarinsaamelaisten keskuudessa porotalouden merkitys kasvoi 1900-luvun alussa. Nykyisin Vätsärin erämaata kuuluu neljään paliskuntaan: Muddusjärven, Näätämön, Paatsjoen ja Vätsärin paliskuntiin, ja poronhoito on merkittävä elinkeino alueella.</p>
-    <p type="title">Lapinkylät</p>
-    <p>Vätsärin alue kuuluu Inarin kuntaan, joka on Inarin lapinkylän eli siidan perillinen. Lapinkylä oli tiettyjen perheiden muodostama alueellinen yksikkö, jonka rajat olivat käytännössä nautinta-alueen rajoja. Toisten lapinkylien asukkaat saattoivat harjoittaa kalastusta ja metsästystä tuolla alueella vain vuokraamalla siihen oikeuden. Lapinkylien rajat muodostuivat pääasiassa keskiajalla, jolloin niiden merkitseminen kirjoihin ja maastoon alkoi. Pohjoiskalotti oli jaettu verotuspiireihin lapinkylittäin, ja vuoden 1751 rauhansopimuksesta lähtien myös valtakuntien rajat noudattelivat lapinkylien rajoja. Ruotsi-Suomi ja Venäjä pohtivat kaksisataa vuotta rajan oikeaa paikkaa Varanginvuonon ja Paatsjoen seutuvilla niin, että kulku ja kaupankäynti Jäämeren rannikolle olisi mahdollista. Toisen maailmansodan jälkeen lopputuloksena oli kuitenkin, että Suomi menetti lopullisesti yhteyden Jäämereen. Vätsärin hiljainen kulmakunta on ollut siis merkittävä näyttämö kolmen valtakunnan historiassa.</p>
-    <p type="title">Ruijan polku</p>
-    <p>Vätsärin erämaan kuvetta ovat kulkeneet Ruijan rannikolle matkanneet kauppiaat ja kalastajat. Tärkein kulkureitti meni Inarijärven poikki Suolisvuonoon ja siitä maataivalten yli vuonon pohjukkaan. Jäämeren rannassa käytiin kauppaa ja kalastettiin. Vielä 1880-luvun lopulla Inarista kävi vuosittain 150 henkeä Ruijassa kalassa. Ruijan markkinoista on mainintoja jo 1500-luvulta. Markkinoilla sisämaan tavara vaihdettiin meren antimiin ja ulkomaan tavaraan. Inarilaiset myivät eläviä poroja, porotuotteita, turkiksia, karvakenkiä, lintuja, riistaa, juuriköysiä ja koreja. Tavaroillaan he ostivat tai vaihtoivat sarkaa, verkaa, ulkomaisia kankaita, hamppua, vaskiastioita, ruutia, pyssyjä, kirveitä, viljaa, jauhoja, viinaa, tupakkaa, suolaa ja mausteita. Kauppaa tehtiin sekä venäläisten että norjalaisten kanssa aina kyseisen ajan kauppasäännösten mukaan.</p>
-    <p>Vasta 1800-luvun lopulla kulkureittiä parannettiin valtion toimesta. Suolisvuonon pohjoispäästä linjattiin polkutie Norjan rajalle, venereitit viitoitettiin ja Suolistaipaleen yli rakennettiin 45 m pitkä rullasilta veneen vetämistä helpottamaan. Inarijärvelle rakennettiin kulkijoiden suojaksi Pisteriniemen ja Suolisvuonon autiotuvat.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Vätsärin historia - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>430</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/vatsari/historia</origFileName><parallel_text xml:lang="eng" location="history_3.html"/><parallel_text xml:lang="sme" location="historja_9.html"/><parallel_text xml:lang="sms" location="histoor_1.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Vätsäri</p>
+<list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Hammastunturi</p>
+<p type="listitem">Kaldoaivi</p>
+<p type="listitem">Kemihaara</p>
+<p type="listitem">Käsivarsi</p>
+<p type="listitem">Muotkatunturi</p>
+<p type="listitem">Paistunturi</p>
+<p type="listitem">Pulju</p>
+<p type="listitem">Pöyrisjärvi</p>
+<p type="listitem">Tarvantovaara</p>
+<p type="listitem">Tsarmitunturi</p>
+<p type="listitem">Tuntsa</p>
+<p type="listitem">Vätsäri</p>
+</list><list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p>Vätsärin sivut</p>
+<p type="title">Vätsäri</p>
+<list><p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Vätsärin historia</p>
+<p>Vätsärin aluetta ovat asuttaneet inarinsaamelaiset niin kauan kuin tiedetään. He elivät kalastuksesta ja metsästyksestä ja viimeisinä vuosisatoina pienimuotoisesta karjataloudesta lampaineen ja lehmineen. Porotalous oli alkujaan sekin pienimuotoista. Norjan porosaamelaiset liikkuivat alueella talvisaikaan. Suurvaltapolitiikka rajankäynteineen johti rajojen sulkeutumiseen vuonna 1852. Porot kulkivat kuitenkin rajan yli vielä toista sataa vuotta ennen kuin maiden välille rakennettu poroaita esti kulun. Ensimmäiset Norjasta muuttaneet porosaamelaiset asettuivat Vätsärin alueelle 1860-luvulla. Inarinsaamelaisten keskuudessa porotalouden merkitys kasvoi 1900-luvun alussa. Nykyisin Vätsärin erämaata kuuluu neljään paliskuntaan: Muddusjärven, Näätämön, Paatsjoen ja Vätsärin paliskuntiin, ja poronhoito on merkittävä elinkeino alueella.</p>
+<p type="title">Lapinkylät</p>
+<p>Vätsärin alue kuuluu Inarin kuntaan, joka on Inarin lapinkylän eli siidan perillinen. Lapinkylä oli tiettyjen perheiden muodostama alueellinen yksikkö, jonka rajat olivat käytännössä nautinta-alueen rajoja. Toisten lapinkylien asukkaat saattoivat harjoittaa kalastusta ja metsästystä tuolla alueella vain vuokraamalla siihen oikeuden. Lapinkylien rajat muodostuivat pääasiassa keskiajalla, jolloin niiden merkitseminen kirjoihin ja maastoon alkoi. Pohjoiskalotti oli jaettu verotuspiireihin lapinkylittäin, ja vuoden 1751 rauhansopimuksesta lähtien myös valtakuntien rajat noudattelivat lapinkylien rajoja. Ruotsi-Suomi ja Venäjä pohtivat kaksisataa vuotta rajan oikeaa paikkaa Varanginvuonon ja Paatsjoen seutuvilla niin, että kulku ja kaupankäynti Jäämeren rannikolle olisi mahdollista. Toisen maailmansodan jälkeen lopputuloksena oli kuitenkin, että Suomi menetti lopullisesti yhteyden Jäämereen. Vätsärin hiljainen kulmakunta on ollut siis merkittävä näyttämö kolmen valtakunnan historiassa.</p>
+<p type="title">Ruijan polku</p>
+<p>Vätsärin erämaan kuvetta ovat kulkeneet Ruijan rannikolle matkanneet kauppiaat ja kalastajat. Tärkein kulkureitti meni Inarijärven poikki Suolisvuonoon ja siitä maataivalten yli vuonon pohjukkaan. Jäämeren rannassa käytiin kauppaa ja kalastettiin. Vielä 1880-luvun lopulla Inarista kävi vuosittain 150 henkeä Ruijassa kalassa. Ruijan markkinoista on mainintoja jo 1500-luvulta. Markkinoilla sisämaan tavara vaihdettiin meren antimiin ja ulkomaan tavaraan. Inarilaiset myivät eläviä poroja, porotuotteita, turkiksia, karvakenkiä, lintuja, riistaa, juuriköysiä ja koreja. Tavaroillaan he ostivat tai vaihtoivat sarkaa, verkaa, ulkomaisia kankaita, hamppua, vaskiastioita, ruutia, pyssyjä, kirveitä, viljaa, jauhoja, viinaa, tupakkaa, suolaa ja mausteita. Kauppaa tehtiin sekä venäläisten että norjalaisten kanssa aina kyseisen ajan kauppasäännösten mukaan.</p>
+<p>Vasta 1800-luvun lopulla kulkureittiä parannettiin valtion toimesta. Suolisvuonon pohjoispäästä linjattiin polkutie Norjan rajalle, venereitit viitoitettiin ja Suolistaipaleen yli rakennettiin 45 m pitkä rullasilta veneen vetämistä helpottamaan. Inarijärvelle rakennettiin kulkijoiden suojaksi Pisteriniemen ja Suolisvuonon autiotuvat.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

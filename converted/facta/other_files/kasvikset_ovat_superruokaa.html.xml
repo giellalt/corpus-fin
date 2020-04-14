@@ -1,80 +1,52 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Kasvikset ovat superruokaa</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>530</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/kasvikset-ovat-superruokaa/</origFileName>
-    <parallel_text xml:lang="sme" location="sattut_leat_superborramus.html"/>
-    <parallel_text xml:lang="swe" location="gronsaker_ar_supermat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">Tekemistä tunneille ja kotiin <list><p type="listitem" xml:lang="fkv">Tehtävät</p><p type="listitem" xml:lang="fkv">RuokaTutkaTube</p><p type="listitem">Testaamo</p><p type="listitem" xml:lang="fkv">RuokaTutkaPeli</p></list></p>
-      <p type="listitem">Tietoa ruuasta <list><p type="listitem">Maidosta helposti hyvää</p><p type="listitem">Kasvikset ovat superruokaa</p><p type="listitem" xml:lang="est">Ruokakasvatus</p><p type="listitem" xml:lang="fkv">Kouluruokailu</p><p type="listitem">Ruoka ja aistit <list><p type="listitem">9 askelta rohkeaan maisteluun</p><p type="listitem">Makukoulu – aistit käyttöön</p></list></p><p type="listitem" xml:lang="fkv">Luomuruoka maistuu</p><p type="listitem" xml:lang="eng">OpeTube</p></list></p>
-      <p type="listitem">Tietoa hankkeesta <list><p type="listitem">Lapset ja nuoret ruokatutkijoina</p><p type="listitem">RuokaTutka-materiaalien pedagogiset lähtökohdat</p></list></p>
-      <p type="listitem" xml:lang="est">Juliste</p>
-      <p type="listitem">RuokaTaide-kilpailu</p>
-    </list>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Kasvikset ovat superruokaa</p>
-    <p type="title">Kasviksiin lasketaan kaikki vihannekset, juurekset, marjat ja hedelmät</p>
-    <p>Kasvisten syöminen edistää terveyttä. Ne parantavat verenpainetta ja vähentävät vaaraa sairastua tyypin 2 diabetekseen, sydän- ja verisuonisairauksiin sekä joihinkin syöpiin.</p>
-    <p type="title">Kasvisten voima piilee niiden tehoaineissa</p>
-    <p>Kasvisten tehoaineista saa vitamiineja, kivennäisaineita, kuituja ja antioksidantteja, jotka ovat välttämättömiä elimistön toiminnalle, kasvulle ja hyvinvoinnille. Pilleripurkista ei näitä aineita kannata napsia, sillä tutkimusten mukaan vitamiinivalmisteilla ei ole vastaavia hyötyjä kuin kasvisten syönnillä. Koska kasviksissa on paljon vettä, niistä saa vain vähän energiaa ja ne helpottavat painonhallintaa. Niiden kuitu täyttää mahaa ja tasoittaa verensokerin vaihtelua, mikä auttaa koululaisia jaksamaan ja keskittymään pidempään. Myös hampaat ja ikenet tykkäävät kasvisten pureskelusta.</p>
-    <p type="title">Suomalaisten olisi hyvä lisätä kasvisten syöntiä</p>
-    <p>Kolmannes 4-5 -luokkalaisista ei syö lainkaan päivittäin kasviksia, hedelmiä tai marjoja. Yläkouluikäisistä vain joka kuudes syö kasviksia ja joka viides hedelmiä tai marjoja päivittäin. Lapselle riittää 5-6 lapsen kourallista kasviksia päivässä. Perunaa ei lasketa kasvisten määrään, koska sille on oma lohkonsa lautasmallissa.</p>
-    <p type="title">Kasvikset tuovat ruokapöytään uusia makuelämyksiä ja silmäniloa</p>
-    <p>Monet kasvisten terveyttä edistävistä yhdisteistä ovat niiden väriaineita. Siksi on hyvä herkutella monen värisillä kasviksilla joka päivä. Kasvikset maistuvat niin sellaisenaan kuin kypsennettynä lisukkeena, ja niillä voi lisätä ruokien makua ja mehevyyttä. Raasta porkkanaa tai kesäkurpitsaa pastakastikkeeseen ja makaronilaatikkoon. Lisää juureksia keittoihin ja pataruokiin, voit korvata puolet ruokaohjeen lihasta kasviksilla. Etsikää yhdessä uusia kasvisreseptejä.</p>
-    <p type="title">Lautasmallilla lisää kasviksia</p>
-    <p>Kun lautasen täyttää aterioilla lautasmallin mukaan eli puolet lautasesta tuoreilla ja kypsennetyillä kasviksilla, on puolet päivän kasvismäärästä kasassa. Aamulla voi nauttia marjoja puuron tai jogurtin kanssa ja iltapalaleivälle viipaloida vihanneksia. Hedelmä on hyvä välipala ja kulkee koululaisen repussa kouluun ja harrastuksiin. Vanhemmatkin lapset arvostavat jääkaappiin valmiiksi pilkottuja kasviksia koulusta kotiin tullessaan. Kasvikset sopivat myös herkutteluun: jälkiruokana maistuu marjarahka tai hedelmäsalaatti ja naposteluun sopivat dipattavat kasvis- ja juurestikut.</p>
-    <p type="title">Tutkitusti lapsille maistuu se, mitä kotona on tarjolla</p>
-    <p>Jos kotiin ostetaan kasviksia ja hedelmiä, ja ne ovat helposti ja houkuttelevasti lapsen saatavilla, ne myös päätyvät suuhun. Anna lapsenkin valita kaupassa, mitä kasviksia ja hedelmiä kotiin ostetaan. Kaikista ei tarvitse tykätä heti, mutta uusiin makuihin tottuu vähitellen, kun niitä maistelee useita kertoja. Kasvikset maistuvat lapsille parhaiten, kun salaatin raaka-aineet tarjotaan erikseen, ja uusiin makuihin tutustumiseen kannustetaan, mutta ei pakoteta. Kun terveelliset ruokailutottumukset oppii jo lapsena, ne todennäköisesti säilyvät myös aikuisena.</p>
-    <p type="title">Syödään sesonkien mukaan</p>
-    <p>Edullisimpia ja parhaita kasvikset ovat sesonkien aikaan. Kaupassa se näkyy esimerkiksi sitrushedelmä- tai parsatarjouksina, jotka kannattaa käyttää hyväksi. Vihannekset, marjat ja hedelmät ovat herkullisimmillaan loppukesällä ja syksyllä. Talvella juurekset, sipulit ja kaalit ovat hyvää ja edullista ruokaa. Itse pakastetut tai kaupan pakastealtaasta poimitut marjat tuovat pöytään marjojen maut ja antioksidantit talvellakin.</p>
-    <p type="title">Näin kertyvät päivän kasvikset</p>
-    <p type="title" xml:lang="sms">Lue lisää:</p>
-    <list>
-      <p type="listitem">
-        <span>Syödään yhdessä – ruokasuositukset lapsiperheille </span>
-      </p>
-      <p type="listitem">
-        <span>Hyvä tietää kasviksista </span>
-      </p>
-      <p type="listitem">
-        <span>Kasvisten reitti </span>
-      </p>
-      <p type="listitem">
-        <span>Kasvikset osaksi jokaista ateriaa </span>
-      </p>
-      <p type="listitem">
-        <span>Sesonkikalenteri helpottaa kausiruokailua </span>
-      </p>
-      <p type="listitem">
-        <span>Vinkkivihko kasviksiin, hedelmiin ja marjoihin tutustumiseen (Maa- ja kotitalousnaiset) </span>
-      </p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Kasvikset ovat superruokaa</title><genre code="facta"/><author><unknown/></author><wordcount>530</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/kasvikset-ovat-superruokaa/</origFileName><parallel_text xml:lang="sme" location="sattut_leat_superborramus.html"/><parallel_text xml:lang="swe" location="gronsaker_ar_supermat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">Tekemistä tunneille ja kotiin <list><p type="listitem" xml:lang="fkv">Tehtävät</p>
+<p type="listitem">RuokaTutkaTube</p>
+<p type="listitem">Testaamo</p>
+<p type="listitem" xml:lang="fkv">RuokaTutkaPeli</p>
+</list></p>
+<p type="listitem">Tietoa ruuasta <list><p type="listitem">Maidosta helposti hyvää</p>
+<p type="listitem">Kasvikset ovat superruokaa</p>
+<p type="listitem" xml:lang="est">Ruokakasvatus</p>
+<p type="listitem" xml:lang="fkv">Kouluruokailu</p>
+<p type="listitem">Ruoka ja aistit <list><p type="listitem">9 askelta rohkeaan maisteluun</p>
+<p type="listitem">Makukoulu – aistit käyttöön</p>
+</list></p>
+<p type="listitem" xml:lang="fkv">Luomuruoka maistuu</p>
+<p type="listitem" xml:lang="eng">OpeTube</p>
+</list></p>
+<p type="listitem">Tietoa hankkeesta <list><p type="listitem">Lapset ja nuoret ruokatutkijoina</p>
+<p type="listitem">RuokaTutka-materiaalien pedagogiset lähtökohdat</p>
+</list></p>
+<p type="listitem" xml:lang="fit">Juliste</p>
+<p type="listitem">RuokaTaide-kilpailu</p>
+</list><list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Kasvikset ovat superruokaa</p>
+<p type="title">Kasviksiin lasketaan kaikki vihannekset, juurekset, marjat ja hedelmät</p>
+<p>Kasvisten syöminen edistää terveyttä. Ne parantavat verenpainetta ja vähentävät vaaraa sairastua tyypin 2 diabetekseen, sydän- ja verisuonisairauksiin sekä joihinkin syöpiin.</p>
+<p type="title">Kasvisten voima piilee niiden tehoaineissa</p>
+<p>Kasvisten tehoaineista saa vitamiineja, kivennäisaineita, kuituja ja antioksidantteja, jotka ovat välttämättömiä elimistön toiminnalle, kasvulle ja hyvinvoinnille. Pilleripurkista ei näitä aineita kannata napsia, sillä tutkimusten mukaan vitamiinivalmisteilla ei ole vastaavia hyötyjä kuin kasvisten syönnillä. Koska kasviksissa on paljon vettä, niistä saa vain vähän energiaa ja ne helpottavat painonhallintaa. Niiden kuitu täyttää mahaa ja tasoittaa verensokerin vaihtelua, mikä auttaa koululaisia jaksamaan ja keskittymään pidempään. Myös hampaat ja ikenet tykkäävät kasvisten pureskelusta.</p>
+<p type="title">Suomalaisten olisi hyvä lisätä kasvisten syöntiä</p>
+<p>Kolmannes 4-5 -luokkalaisista ei syö lainkaan päivittäin kasviksia, hedelmiä tai marjoja. Yläkouluikäisistä vain joka kuudes syö kasviksia ja joka viides hedelmiä tai marjoja päivittäin. Lapselle riittää 5-6 lapsen kourallista kasviksia päivässä. Perunaa ei lasketa kasvisten määrään, koska sille on oma lohkonsa lautasmallissa.</p>
+<p type="title">Kasvikset tuovat ruokapöytään uusia makuelämyksiä ja silmäniloa</p>
+<p>Monet kasvisten terveyttä edistävistä yhdisteistä ovat niiden väriaineita. Siksi on hyvä herkutella monen värisillä kasviksilla joka päivä. Kasvikset maistuvat niin sellaisenaan kuin kypsennettynä lisukkeena, ja niillä voi lisätä ruokien makua ja mehevyyttä. Raasta porkkanaa tai kesäkurpitsaa pastakastikkeeseen ja makaronilaatikkoon. Lisää juureksia keittoihin ja pataruokiin, voit korvata puolet ruokaohjeen lihasta kasviksilla. Etsikää yhdessä uusia kasvisreseptejä.</p>
+<p type="title">Lautasmallilla lisää kasviksia</p>
+<p>Kun lautasen täyttää aterioilla lautasmallin mukaan eli puolet lautasesta tuoreilla ja kypsennetyillä kasviksilla, on puolet päivän kasvismäärästä kasassa. Aamulla voi nauttia marjoja puuron tai jogurtin kanssa ja iltapalaleivälle viipaloida vihanneksia. Hedelmä on hyvä välipala ja kulkee koululaisen repussa kouluun ja harrastuksiin. Vanhemmatkin lapset arvostavat jääkaappiin valmiiksi pilkottuja kasviksia koulusta kotiin tullessaan. Kasvikset sopivat myös herkutteluun: jälkiruokana maistuu marjarahka tai hedelmäsalaatti ja naposteluun sopivat dipattavat kasvis- ja juurestikut.</p>
+<p type="title">Tutkitusti lapsille maistuu se, mitä kotona on tarjolla</p>
+<p>Jos kotiin ostetaan kasviksia ja hedelmiä, ja ne ovat helposti ja houkuttelevasti lapsen saatavilla, ne myös päätyvät suuhun. Anna lapsenkin valita kaupassa, mitä kasviksia ja hedelmiä kotiin ostetaan. Kaikista ei tarvitse tykätä heti, mutta uusiin makuihin tottuu vähitellen, kun niitä maistelee useita kertoja. Kasvikset maistuvat lapsille parhaiten, kun salaatin raaka-aineet tarjotaan erikseen, ja uusiin makuihin tutustumiseen kannustetaan, mutta ei pakoteta. Kun terveelliset ruokailutottumukset oppii jo lapsena, ne todennäköisesti säilyvät myös aikuisena.</p>
+<p type="title">Syödään sesonkien mukaan</p>
+<p>Edullisimpia ja parhaita kasvikset ovat sesonkien aikaan. Kaupassa se näkyy esimerkiksi sitrushedelmä- tai parsatarjouksina, jotka kannattaa käyttää hyväksi. Vihannekset, marjat ja hedelmät ovat herkullisimmillaan loppukesällä ja syksyllä. Talvella juurekset, sipulit ja kaalit ovat hyvää ja edullista ruokaa. Itse pakastetut tai kaupan pakastealtaasta poimitut marjat tuovat pöytään marjojen maut ja antioksidantit talvellakin.</p>
+<p type="title">Näin kertyvät päivän kasvikset</p>
+<p type="title" xml:lang="sms">Lue lisää:</p>
+<list><p type="listitem"><span>Syödään yhdessä – ruokasuositukset lapsiperheille </span></p>
+<p type="listitem"><span>Hyvä tietää kasviksista </span></p>
+<p type="listitem"><span>Kasvisten reitti </span></p>
+<p type="listitem"><span>Kasvikset osaksi jokaista ateriaa </span></p>
+<p type="listitem"><span>Sesonkikalenteri helpottaa kausiruokailua </span></p>
+<p type="listitem"><span>Vinkkivihko kasviksiin, hedelmiin ja marjoihin tutustumiseen (Maa- ja kotitalousnaiset) </span></p>
+</list></body></document>

@@ -1,75 +1,35 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>605</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Finska/Seksitautitestit</origFileName>
-    <parallel_text xml:lang="fit" location="testata-ittea.html"/>
-    <parallel_text xml:lang="sma" location="teestedh.html"/>
-    <parallel_text xml:lang="sme" location="testet-ieas.html"/>
-    <parallel_text xml:lang="smj" location="ietjas-atsadit.html"/>
-    <parallel_text xml:lang="swe" location="att-testa-sig.html"/>
-    <parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/>
-    <parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/>
-    <parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/>
-    <parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Seksitautitestit</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Seksitautitestit</p>
-    <p>Jos on harrastanut suojaamatonta seksiä, kannattaa aina käydä seksitautitesteissä. Testimenetelmä riippuu testattavasta seksitaudista. Usein testit otetaan virtsanäytteestä tai verikokeesta. Jos testattava seksitauti on tartuntasuojalain mukaan ilmoitettava tauti, testi on ilmainen.</p>
-    <p>Seksi voi olla kaunista, hauskaa ja jännittävää. Joskus voi kuitenkin käydä niin, että viime hetkellä unohtuu jotain, jonka tietää olevan tärkeää. Esimerkiksi suojata itsensä seksitauteja vastaan. Jos tämä kuulostaa tutulta, voi olla aika käydä seksitautitesteissä.</p>
-    <p type="title">Miksi seksitautitesteissä kannattaa käydä?</p>
-    <p>Seksitautitesteissä kannattaa käydä aina, jos on harrastanut suojaamatonta seksiä. Testeissä kannattaa käydä, vaikka tuntisi itsensä terveeksi, sillä osa seksitaudeista ei aiheuta mitään oireita.</p>
-    <p>Jos on tavannut jonkun, jonka kanssa haluaa muodostaa suhteen ja suunnittelee suojauksesta luopumista, kummankin kannattaa käydä ensin seksitautitesteissä.</p>
-    <p>Voi myös käydä niin, että jollakin, jonka kanssa on harrastanut seksiä, on todettu seksitauti. Jos kyseinen tauti kuuluu tartuntasuojalain piiriin, vastaanotto voi kutsua testiin kirjeitse tai puhelimitse.</p>
-    <p>Tartunnan saaminen ei ole varmaa, mutta lain mukaan olet velvollinen käymään testeissä taudin leviämisriskin pienentämiseksi.</p>
-    <p type="title">Milloin seksitautitestissä kannattaa käydä?</p>
-    <p>Koskaan ei ole liian myöhäistä käydä seksitautitestissä, jos on ollut suojaamattomassa yhdynnässä. Joidenkin tautien kohdalla voi kestää useita kuukausia ja joskus jopa vuosia riskitilanteen jälkeen, kunnes oireita ilmenee.</p>
-    <p>Liian aikainen testaaminen voi siis olla joskus mahdollista. Testaus seuraavana päivänä suojaamattoman seksin jälkeen ei kannata, koska infektion aiheuttava virus tai bakteeri ei ole ehtinyt lisääntyä tarpeeksi näkyäkseen testissä.</p>
-    <p>Esimerkiksi klamydian ja tippurin voi yleensä testata aikaisintaan viikon kuluttua suojaamattomasta seksistä. Tietyt sairaudet, kuten HIV, voivat näkyä täysin luotettavasti testissä vasta kolme kuukautta tartunnan jälkeen.</p>
-    <p>Sairaudesta riippumatta pitäisi mennä vastaanotolle, jos on huolissaan tai ilmenee oireita. Jos tietää, että seksitaudin riski on todennäköinen, esimerkiksi jos seksikumppanilla on tauti, voi joskus saada hoitoa jo ennen testituloksen varmistumista.</p>
-    <p>Seksitautia ei voi saada, jos ei ole harrastanut seksiä. Silloin ei myöskään tarvitse käydä testeissä.</p>
-    <p type="title">Missä seksitautitestin voi tehdä?</p>
-    <p>Seksitautitestiin voi hakeutua nuorisovastaanotolle, iho- ja sukupuoliklinikalle tai terveyskeskukseen. Myös RFSU:lla on klinikoita, jossa voi käydä tutkimuksissa.</p>
-    <p>Tytöt voivat hakeutua naistenklinikalle tai gynekologin vastaanotolle. Klamydiatestin voi myös tilata netistä tai ostaa apteekista.</p>
-    <p>Saadakseen selville oman asuinalueen testipaikat voi soittaa sairaanhoitoneuvontaan 1177.</p>
-    <p type="title">Kuinka testi suoritetaan?</p>
-    <p>Seksitautien testaaminen on nopeaa ja helppoa. Testimenetelmä riippuu testattavasta sairaudesta ja siitä, millaista seksiä on harrastettu ja miten tartunta on levinnyt.</p>
-    <p>Emätinyhdynnän jälkeen annetaan usein virtsanäyte. Klamydian testaamiseen pojilta riittää yleensä virtsanäyte. Tyttöjen tulee antaa lisäksi näyte emättimen limakalvolta. Näytteen voi ottaa itse pumpulipuikolla, jonka saa vastaanotolta tai kotiin tilattavasta testistä.</p>
-    <p>Jos testissä on annettava virtsanäyte, ennen näytteenottoa on oltava vähintään yhdestä kahteen tuntia virtsaamatta.</p>
-    <p>Joidenkin sairauksien, erityisesti tippurin, näyte otetaan ohuella näytteenottopuikolla, joka näyttää pumpulipuikolta. Näytteenottopuikkoa pyöritellään varovasti emättimen, virtsaputken, kurkun tai peräaukon limakalvolla. Näytteen ottopaikka riippuu siitä, millaista seksiä on harrastanut. Näytteen ottaminen voi kuulostaa epämiellyttävältä, mutta yleensä se on nopeaa ja kivutonta.</p>
-    <p>Muut sairaudet testataan verikokeesta. Se otetaan ohuella neulalla kyynärtaipeen verisuonesta.</p>
-    <p>Jos testin suorittaja epäilee herpestä, hän voi ottaa näytteen herpesrakkulasta pumpulipuikolla.</p>
-    <p>Jos näkyvissä on kondyloomasyyliä, yleensä näyte ei ole tarpeen, koska testin ottaja näkee heti, mistä on kyse.</p>
-    <p type="title">Koska vastaukset tulevat?</p>
-    <p>Useimpien näytteiden tuloksen saa viikon kuluessa. Näytettä jätettäessä sovitaan vastaanoton kanssa tiedon ilmoittamisesta. Tulos voidaan ilmoittaa esimerkiksi puhelimitse, kirjeitse tai vastaanotolla.</p>
-    <p>Testituloksen odottaminen voi olla stressaavaa. Vastauksen odottaminen voi tuntua pitkältä ja hermostuttavalta. Jos mieli on maassa, kannattaa jutella ajatuksista ja tunteista jonkun kanssa. Kyseessä voi olla ystävä, perheenjäsen tai joku muu läheinen.</p>
-    <p>Voi myös ottaa yhteyttä nuorisovastaanottoon. Henkilökunnalta voi saada tukea vaikeina aikoina, ja he ovat tottuneet seksitauteja koskeviin kysymyksiin ja huoliin.</p>
-    <p type="title">Mitä testit maksavat?</p>
-    <p>Jos seksitaudit kuuluvat tartuntasuojalain piiriin, kuten klamydia, tippuri ja HIV, testit ovat maksuttomia iästä ja paikasta riippumatta.</p>
-    <p>Muiden seksitautitestien hinta voi vaihdella asuinpaikan ja vastaanoton mukaan. Testeissä voidaan yleensä testata useita tauteja samanaikaisesti. Testi on maksuton, jos yksi testattavista taudeista kuuluu tartuntasuojalain piiriin.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>600</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Finska/Seksitautitestit</origFileName><parallel_text xml:lang="fit" location="testata-ittea.html"/><parallel_text xml:lang="sma" location="teestedh.html"/><parallel_text xml:lang="sme" location="testet-ieas.html"/><parallel_text xml:lang="smj" location="ietjas-atsadit.html"/><parallel_text xml:lang="swe" location="att-testa-sig.html"/><parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/><parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/><parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/><parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/><parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Seksitautitestit</p>
+<p type="title">Seksitautitestit</p>
+<p>Jos on harrastanut suojaamatonta seksiä, kannattaa aina käydä seksitautitesteissä. Testimenetelmä riippuu testattavasta seksitaudista. Usein testit otetaan virtsanäytteestä tai verikokeesta. Jos testattava seksitauti on tartuntasuojalain mukaan ilmoitettava tauti, testi on ilmainen.</p>
+<p>Seksi voi olla kaunista, hauskaa ja jännittävää. Joskus voi kuitenkin käydä niin, että viime hetkellä unohtuu jotain, jonka tietää olevan tärkeää. Esimerkiksi suojata itsensä seksitauteja vastaan. Jos tämä kuulostaa tutulta, voi olla aika käydä seksitautitesteissä.</p>
+<p type="title">Miksi seksitautitesteissä kannattaa käydä?</p>
+<p>Seksitautitesteissä kannattaa käydä aina, jos on harrastanut suojaamatonta seksiä. Testeissä kannattaa käydä, vaikka tuntisi itsensä terveeksi, sillä osa seksitaudeista ei aiheuta mitään oireita.</p>
+<p>Jos on tavannut jonkun, jonka kanssa haluaa muodostaa suhteen ja suunnittelee suojauksesta luopumista, kummankin kannattaa käydä ensin seksitautitesteissä.</p>
+<p>Voi myös käydä niin, että jollakin, jonka kanssa on harrastanut seksiä, on todettu seksitauti. Jos kyseinen tauti kuuluu tartuntasuojalain piiriin, vastaanotto voi kutsua testiin kirjeitse tai puhelimitse.</p>
+<p>Tartunnan saaminen ei ole varmaa, mutta lain mukaan olet velvollinen käymään testeissä taudin leviämisriskin pienentämiseksi.</p>
+<p type="title">Milloin seksitautitestissä kannattaa käydä?</p>
+<p>Koskaan ei ole liian myöhäistä käydä seksitautitestissä, jos on ollut suojaamattomassa yhdynnässä. Joidenkin tautien kohdalla voi kestää useita kuukausia ja joskus jopa vuosia riskitilanteen jälkeen, kunnes oireita ilmenee.</p>
+<p>Liian aikainen testaaminen voi siis olla joskus mahdollista. Testaus seuraavana päivänä suojaamattoman seksin jälkeen ei kannata, koska infektion aiheuttava virus tai bakteeri ei ole ehtinyt lisääntyä tarpeeksi näkyäkseen testissä.</p>
+<p>Esimerkiksi klamydian ja tippurin voi yleensä testata aikaisintaan viikon kuluttua suojaamattomasta seksistä. Tietyt sairaudet, kuten HIV, voivat näkyä täysin luotettavasti testissä vasta kolme kuukautta tartunnan jälkeen.</p>
+<p>Sairaudesta riippumatta pitäisi mennä vastaanotolle, jos on huolissaan tai ilmenee oireita. Jos tietää, että seksitaudin riski on todennäköinen, esimerkiksi jos seksikumppanilla on tauti, voi joskus saada hoitoa jo ennen testituloksen varmistumista.</p>
+<p>Seksitautia ei voi saada, jos ei ole harrastanut seksiä. Silloin ei myöskään tarvitse käydä testeissä.</p>
+<p type="title">Missä seksitautitestin voi tehdä?</p>
+<p>Seksitautitestiin voi hakeutua nuorisovastaanotolle, iho- ja sukupuoliklinikalle tai terveyskeskukseen. Myös RFSU:lla on klinikoita, jossa voi käydä tutkimuksissa.</p>
+<p>Tytöt voivat hakeutua naistenklinikalle tai gynekologin vastaanotolle. Klamydiatestin voi myös tilata netistä tai ostaa apteekista.</p>
+<p>Saadakseen selville oman asuinalueen testipaikat voi soittaa sairaanhoitoneuvontaan 1177.</p>
+<p type="title">Kuinka testi suoritetaan?</p>
+<p>Seksitautien testaaminen on nopeaa ja helppoa. Testimenetelmä riippuu testattavasta sairaudesta ja siitä, millaista seksiä on harrastettu ja miten tartunta on levinnyt.</p>
+<p>Emätinyhdynnän jälkeen annetaan usein virtsanäyte. Klamydian testaamiseen pojilta riittää yleensä virtsanäyte. Tyttöjen tulee antaa lisäksi näyte emättimen limakalvolta. Näytteen voi ottaa itse pumpulipuikolla, jonka saa vastaanotolta tai kotiin tilattavasta testistä.</p>
+<p>Jos testissä on annettava virtsanäyte, ennen näytteenottoa on oltava vähintään yhdestä kahteen tuntia virtsaamatta.</p>
+<p>Joidenkin sairauksien, erityisesti tippurin, näyte otetaan ohuella näytteenottopuikolla, joka näyttää pumpulipuikolta. Näytteenottopuikkoa pyöritellään varovasti emättimen, virtsaputken, kurkun tai peräaukon limakalvolla. Näytteen ottopaikka riippuu siitä, millaista seksiä on harrastanut. Näytteen ottaminen voi kuulostaa epämiellyttävältä, mutta yleensä se on nopeaa ja kivutonta.</p>
+<p>Muut sairaudet testataan verikokeesta. Se otetaan ohuella neulalla kyynärtaipeen verisuonesta.</p>
+<p>Jos testin suorittaja epäilee herpestä, hän voi ottaa näytteen herpesrakkulasta pumpulipuikolla.</p>
+<p>Jos näkyvissä on kondyloomasyyliä, yleensä näyte ei ole tarpeen, koska testin ottaja näkee heti, mistä on kyse.</p>
+<p type="title">Koska vastaukset tulevat?</p>
+<p>Useimpien näytteiden tuloksen saa viikon kuluessa. Näytettä jätettäessä sovitaan vastaanoton kanssa tiedon ilmoittamisesta. Tulos voidaan ilmoittaa esimerkiksi puhelimitse, kirjeitse tai vastaanotolla.</p>
+<p>Testituloksen odottaminen voi olla stressaavaa. Vastauksen odottaminen voi tuntua pitkältä ja hermostuttavalta. Jos mieli on maassa, kannattaa jutella ajatuksista ja tunteista jonkun kanssa. Kyseessä voi olla ystävä, perheenjäsen tai joku muu läheinen.</p>
+<p>Voi myös ottaa yhteyttä nuorisovastaanottoon. Henkilökunnalta voi saada tukea vaikeina aikoina, ja he ovat tottuneet seksitauteja koskeviin kysymyksiin ja huoliin.</p>
+<p type="title">Mitä testit maksavat?</p>
+<p>Jos seksitaudit kuuluvat tartuntasuojalain piiriin, kuten klamydia, tippuri ja HIV, testit ovat maksuttomia iästä ja paikasta riippumatta.</p>
+<p>Muiden seksitautitestien hinta voi vaihdella asuinpaikan ja vastaanoton mukaan. Testeissä voidaan yleensä testata useita tauteja samanaikaisesti. Testi on maksuton, jos yksi testattavista taudeista kuuluu tartuntasuojalain piiriin.</p>
+</body></document>

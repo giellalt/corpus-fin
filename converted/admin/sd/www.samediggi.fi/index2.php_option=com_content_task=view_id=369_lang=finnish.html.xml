@@ -1,35 +1,11 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamen kielen elvytysohjelmalle suuri tarve</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>339</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=369&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=369_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=369_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=369_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamen kielen elvytysohjelmalle suuri tarve</p>
-    <p>Saamelaiskäräjät odottaa Suomen hallitukselta pikaista päätöstä kokonaisvaltaisen saamen kielen elvytysohjelman käynnistämisestä, totesi saamelaiskäräjien varapuheenjohtaja Irja Seurujärvi-Kari Rovaniemellä.</p>
-    <p>Kuvassa Suomen saamelaiskäräjien varapuheenjohtaja Irja Seurujärvi-Kari.</p>
-    <p>Saamelaisten kielelliset oikeudet eivät toteudu lainsäädännön &#13; edellyttämällä tavalla. Saamen kielen taitoisista henkilöistä on &#13; puutetta hallinnossa, julkisissa palveluissa ja opetuksessa. Saamen &#13; kielen opetuksessa saamen virallisten hallintoalueiden ulkopuolella on &#13; hätätila Suomessa ja Ruotsissa. Saamelaiskäräjät odottaa Suomen &#13; hallitukselta pikaista päätöstä kokonaisvaltaisen saamen kielen &#13; elvytysohjelman käynnistämisestä, totesi saamelaiskäräjien &#13; varapuheenjohtaja Irja Seurujärvi-Kari 15.4. Rovaniemellä järjestetyssä &#13; kansainvälisessä konferenssissa.</p>
-    <p>Kaikki saamen kielet ovat Unescon luokittelun mukaan uhattuja. Kaikkein uhatuimmassa asemassa ovat Suomessa puhutut inarin- ja koltansaame sekä Ruotsissa ja Norjassa puhutut luulajan- ja eteläsaame.</p>
-    <p>Seurujärvi-Kari muistutti YK:n erityisraportoija James Anayan raportointimatkaan liittyvässä konferenssissa, että esityksiä saamen kielten erityiseksi tukemiseksi ja kokonaisvaltaisen elvytysohjelman käynnistämiseksi on tehty useaan kertaan eikä aikaa ole enää tuhlattavana. Saamelaisopetukseen liittyvät lainsäädännölliset ja rahoituksen puutteet ovat johtamassa saamen kieltä osaavien ihmisten määrän nopeaan vähenemiseen ja erityisesti virallisten saamelaisalueiden ulkopuolella asuvien saamelaisten kielen ja identiteetin vaihtumiseen. Myös Tasavallan Presidentti ja vähemmistövaltuutettu ovat tukeneet saamen kielen elvytysohjelman käynnistämistä. Asia mainitaan myös Suomen hallituksen ihmisoikeusraportissa vuonna 2009.</p>
-    <p>Hallitusneuvos Mirja Kurkinen Suomen oikeusministeriöstä kertoi konferenssille, että saamen kieliä koskevan elvytysohjelman käynnistämistä valmistellaan parhaillaan ministeriöissä ja asiasta pitäisi tulla päätös vielä kevään aikana. Sivistystoimenarkastaja Kari Torikka Lapin aluehallintovirastosta, joka edusti konferenssissa Suomen opetusministeriötä, totesi, että saamen kielen opetus myös kotiseutualueeen ulkopuolella on mahdollista. –Opetuksen järjestäminen edellyttää kuitenkin vanhemmilta erityistä aktiivisuutta ja jopa opetuksen järjestämiseen osallistumista.</p>
-    <p>Seurujärvi-Kari kuvasi saamelaisopetuksen tilannetta kriittiseksi. Saamelaisten kotiseutualueella tilanne heikkenee pienenevien ikäluokkien ja poismuuton takia. Kotiseutualueen ulkopuolella, jossa suurin osa saamelaislapsista ja –nuorista asuu, tilanne on hälyttävä eikä kielen opetusta järjestetä juuri lainkaan. Tilanne enteilee paluuta aikaan, jolloin saamen kielellä ei ollut koulussa asemaa ja kielenvaihdos eteni voimakkaasti.</p>
-    <p>- Saamen kielen asema suomalaisessa koulussa on kaksijakoinen. Kotiseutualueella kieli on alueellisen vähemmistökielen asemassa ja kotiseutualueen ulkopuolella maahanmuuttajakielen asemassa. Saamen kielellä ei ole koulussa sille kuuluvaa alkuperäiskansan kielen asemaa, totesi Seurujärvi-Kari. Alkuperäiskansan kielellisiin oikeuksiin kuuluu myös oikeus oman kielen elvyttämiseen, revitalisaatioon.</p>
-    <p>Lue Irja Seurujärvi-Karin puhe kokonaisuudessaan tästä. Statement by Irja Seurujärvi-Kari on Saami language, Culture and Youth 15.4.2010</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamen kielen elvytysohjelmalle suuri tarve</title><genre code="admin"/><author><unknown/></author><wordcount>339</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=369&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=369_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=369_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=369_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamen kielen elvytysohjelmalle suuri tarve</p>
+<p>Saamelaiskäräjät odottaa Suomen hallitukselta pikaista päätöstä kokonaisvaltaisen saamen kielen elvytysohjelman käynnistämisestä, totesi saamelaiskäräjien varapuheenjohtaja Irja Seurujärvi-Kari Rovaniemellä.</p>
+<p>Kuvassa Suomen saamelaiskäräjien varapuheenjohtaja Irja Seurujärvi-Kari.</p>
+<p>Saamelaisten kielelliset oikeudet eivät toteudu lainsäädännön &#13; edellyttämällä tavalla. Saamen kielen taitoisista henkilöistä on &#13; puutetta hallinnossa, julkisissa palveluissa ja opetuksessa. Saamen &#13; kielen opetuksessa saamen virallisten hallintoalueiden ulkopuolella on &#13; hätätila Suomessa ja Ruotsissa. Saamelaiskäräjät odottaa Suomen &#13; hallitukselta pikaista päätöstä kokonaisvaltaisen saamen kielen &#13; elvytysohjelman käynnistämisestä, totesi saamelaiskäräjien &#13; varapuheenjohtaja Irja Seurujärvi-Kari 15.4. Rovaniemellä järjestetyssä &#13; kansainvälisessä konferenssissa.</p>
+<p>Kaikki saamen kielet ovat Unescon luokittelun mukaan uhattuja. Kaikkein uhatuimmassa asemassa ovat Suomessa puhutut inarin- ja koltansaame sekä Ruotsissa ja Norjassa puhutut luulajan- ja eteläsaame.</p>
+<p>Seurujärvi-Kari muistutti YK:n erityisraportoija James Anayan raportointimatkaan liittyvässä konferenssissa, että esityksiä saamen kielten erityiseksi tukemiseksi ja kokonaisvaltaisen elvytysohjelman käynnistämiseksi on tehty useaan kertaan eikä aikaa ole enää tuhlattavana. Saamelaisopetukseen liittyvät lainsäädännölliset ja rahoituksen puutteet ovat johtamassa saamen kieltä osaavien ihmisten määrän nopeaan vähenemiseen ja erityisesti virallisten saamelaisalueiden ulkopuolella asuvien saamelaisten kielen ja identiteetin vaihtumiseen. Myös Tasavallan Presidentti ja vähemmistövaltuutettu ovat tukeneet saamen kielen elvytysohjelman käynnistämistä. Asia mainitaan myös Suomen hallituksen ihmisoikeusraportissa vuonna 2009.</p>
+<p>Hallitusneuvos Mirja Kurkinen Suomen oikeusministeriöstä kertoi konferenssille, että saamen kieliä koskevan elvytysohjelman käynnistämistä valmistellaan parhaillaan ministeriöissä ja asiasta pitäisi tulla päätös vielä kevään aikana. Sivistystoimenarkastaja Kari Torikka Lapin aluehallintovirastosta, joka edusti konferenssissa Suomen opetusministeriötä, totesi, että saamen kielen opetus myös kotiseutualueeen ulkopuolella on mahdollista. –Opetuksen järjestäminen edellyttää kuitenkin vanhemmilta erityistä aktiivisuutta ja jopa opetuksen järjestämiseen osallistumista.</p>
+<p>Seurujärvi-Kari kuvasi saamelaisopetuksen tilannetta kriittiseksi. Saamelaisten kotiseutualueella tilanne heikkenee pienenevien ikäluokkien ja poismuuton takia. Kotiseutualueen ulkopuolella, jossa suurin osa saamelaislapsista ja –nuorista asuu, tilanne on hälyttävä eikä kielen opetusta järjestetä juuri lainkaan. Tilanne enteilee paluuta aikaan, jolloin saamen kielellä ei ollut koulussa asemaa ja kielenvaihdos eteni voimakkaasti.</p>
+<p>- Saamen kielen asema suomalaisessa koulussa on kaksijakoinen. Kotiseutualueella kieli on alueellisen vähemmistökielen asemassa ja kotiseutualueen ulkopuolella maahanmuuttajakielen asemassa. Saamen kielellä ei ole koulussa sille kuuluvaa alkuperäiskansan kielen asemaa, totesi Seurujärvi-Kari. Alkuperäiskansan kielellisiin oikeuksiin kuuluu myös oikeus oman kielen elvyttämiseen, revitalisaatioon.</p>
+<p>Lue Irja Seurujärvi-Karin puhe kokonaisuudessaan tästä. Statement by Irja Seurujärvi-Kari on Saami language, Culture and Youth 15.4.2010</p>
+</body></document>

@@ -1,119 +1,68 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>682</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Barnsakerhet-over-1-ar</origFileName>
-    <parallel_text xml:lang="eng" location="barnsakerhet-over-1-ar.html"/>
-    <parallel_text xml:lang="swe" location="barnsakerhet-over-1-ar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Lapsiturvallisuus, yli 1 v. / Barnsäkerhet över 1 år - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Lapsiturvallisuus, yli 1 v.Barnsäkerhet över 1 år</p>
-    <p type="title">Neuvoja ja ohjeita</p>
-    <list>
-      <p type="listitem">Ikkunansalvalla voi estää lasta avaamasta ikkunaa ja putoamasta</p>
-      <p type="listitem">Kirjahylly voidaan kiinnittää seinään kulmaraudalla, ettei lapsen onnistu kaataa hyllyä päällensä.</p>
-    </list>
-    <p type="title">Putoamisvammojen ehkäisemiseksi on hyvä</p>
-    <list>
-      <p type="listitem">pitää ikkunat ja ovet parvekkeelle, altaanille tai ulkokäytäville lukittuina tai varustaa ne salvoilla, jottei lapsen onnistu avata niitä itse</p>
-      <p type="listitem">käyttää lastenvaunuissa valjaita niin kauan kuin lapsi niitä tarvitsee</p>
-      <p type="listitem">käyttää ainoastaan kävelytuolia, jossa on porraseste, joka estää tuolia ajautumasta reunan yli portaikkoon</p>
-      <p type="listitem">kiinnittää korkeat syöttötuolit pöytään erityisellä kiinnittimellä</p>
-      <p type="listitem">käyttää porttia sekä portaikon ylä- että alapäässä, jos kotona on portaat</p>
-      <p type="listitem">kiinnittää painavat huonekalut seinään huonekaluankkurilla</p>
-      <p type="listitem">pitää liukuestettä kylpyammeessa</p>
-      <p type="listitem">laskea pinnasängyn pohjaa ennen kuin lapsi oppii nousemaan ylös</p>
-    </list>
-    <p type="title">Palovammojen ehkäisemiseksi</p>
-    <list>
-      <p type="listitem">sijoita tulitikut ja sytytin paikkaan, josta lapsi ei voi saada niitä käsiinsä.</p>
-      <p type="listitem">opeta lasta olemaan käyttämättä kuumavesihanaa</p>
-      <p type="listitem">käytä liedellä liesisuojusta</p>
-      <p type="listitem">käsittele kattiloita ja muita kuumasisältöisiä astioita niin, ettei lapsi voi loukkaantua</p>
-      <p type="listitem">suojele lasta kuumalta auringolta antamalla tämän oleilla varjossa mahdollisimman paljon tai pukemalla lapselle aurinkohatun ja auringolta suojaavat vaatteet</p>
-      <p type="listitem">vältä kahvipöydän reunan yli roikkuvia liinoja, joista lapsen mielestä saattaa olla houkuttelevaa vetää</p>
-      <p type="listitem">pidä huoli, etteivät lämpöpatterit ole yli 60 asteisia</p>
-    </list>
-    <p type="title">Tukehtumisen välttämiseksi</p>
-    <list>
-      <p type="listitem">kerää pois pienet esineet, jotka voivat juuttua kurkkuun</p>
-      <p type="listitem">pidä huoli, ettei lapsi saa käsiinsä muovipusseja</p>
-      <p type="listitem">anna lasten istua aina syödessään</p>
-      <p type="listitem">säilytä pähkinöitä lasten ulottumattomissa</p>
-      <p type="listitem">vedä usein tutin kuminupista kokeillaksesi onko se ehjä</p>
-    </list>
-    <p>On olemassa erityisiä pienosasylintereitä joiden avulla voi kokeilla onko jokin esine liian pieni lapselle annettavaksi tukehtumisriskin vuoksi. Sylinterin voi saada neuvolasta tai kuluttajaneuvonnasta.</p>
-    <p type="title">Kuulon suojaamiseksi on hyvä</p>
-    <list>
-      <p type="listitem">välttää kovia äänenvoimakkuuksia. Pidä esimerkiksi huoli, ettei lapsi pääse vääntämään stereoiden äänenvoimakkuutta kovalle tain altistu yllättäville koville äänille</p>
-      <p type="listitem">varmistaa, ettei lapsen leikkikaluista lähde liian voimakkaita, kimeitä ääniä – kokeile niitä ennen ostamista</p>
-    </list>
-    <p type="title">Myrkytyksen välttämiseksi</p>
-    <list>
-      <p type="listitem">säilytä kemikaaleja ja lääkkeitä lasten ulottumattomissa, esimerkiksi lukittavassa lääkekaapissa</p>
-      <p type="listitem">pidä huoli, ettei lapsi pääse käsiksi savukkeisiin tai nuuskaan</p>
-      <p type="listitem">varmista, ettei kotonanne ole myrkyllisiä kasveja</p>
-    </list>
-    <p type="title">Onnettomuuksien ehkäisemiseksi keittiössä</p>
-    <list>
-      <p type="listitem">säilytä teräviä esineitä lasten ulottumattomissa, esimerkiksi lapsiturvallisissa kaapeissa tai laatikoissa</p>
-      <p type="listitem">säilytä konetiskiainetta ja kemikaaleja lapsen ulottumattomissa</p>
-      <p type="listitem">käytä liesisuojaa ja pidä huoli, että liesi on kiinnitetty seinään kaatumisen ehkäisemiseksi</p>
-      <p type="listitem">tulee uuninluukussa olla lukko ja uuniluukun suojus mikäli uunin luukun lämpötila ylittää 60 astetta</p>
-      <p type="listitem">vedä pistoke pois pistokerasiasta kun et käytä sähkölaitetta</p>
-    </list>
-    <p type="title">Sähköonnettomuusriskin vähentämiseksi on hyvä</p>
-    <list>
-      <p type="listitem">varustaa kaikki pistokerasiat pistokesuojin</p>
-      <p type="listitem">jos kaikki johdot, sähkölaitteet ja lamput ovat ehjiä</p>
-      <p type="listitem">ettei lapsi voi tarttua roikkuviin sähköjohtoihin</p>
-      <p type="listitem">varmistaa, että sähkön pääkatkaisin on asennettu valtuutetun sähkömiehen toimesta</p>
-    </list>
-    <p type="title">Vähentääksesi onnettomuusriskiä veden äärellä</p>
-    <list>
-      <p type="listitem">ole aina lapsen lähellä tämän uidessa tai leikkiessä veden äärellä hukkumisonnettomuuden välttämiseksi</p>
-      <p type="listitem">muista, että myös suuret vesilätäköt, runsasvetiset ojat, lintujen juoma-altaat ja pienet lammet voivat muodostaa hukkumisriskin pienelle lapselle</p>
-      <p type="listitem">tyhjennä pienten lasten kahluualtaat vedestä kun niitä ei käytetä</p>
-      <p type="listitem">varmista, että lapsella on oikean kokoiset omalle painolle tarkoitetut pelastusliivit</p>
-    </list>
-    <p>On olemassa säännöksiä kuinka uima-altaat tai muunlaisten vesialtaat tulee onnettomuuksien välttämiseksi peittää tai aidata. Kuluttajaviraston mukaan uima-altaat, matalat lammet sekä puutarhalammet pitää aidata ja niissä tulee olla lapsiturvallinen lukitus.</p>
-    <p type="title">Riskien vähentämiseksi auto- ja pyörämatkan aikana</p>
-    <list>
-      <p type="listitem">on lastenturvaistuimen oltava yleisesti hyväksytty ja se tulee kiinnittää niin, että lapsi istuu selkä menosuuntaan</p>
-      <p type="listitem">on 4 – 5-vuotiaiden istuttava turvavyöistuimessa tai korokeistuimella</p>
-      <p type="listitem">varmista, ettei autossa ole irrallisia esineitä, jotka voivat lennellä ympäriinsä voimakkaassa jarrutuksessa</p>
-      <p type="listitem">käytä pyöräilykypäriä, lastenistuinta ja pinnasuojusta jos kyyditset lasta pyörällä</p>
-      <p type="listitem">odota, että lapsi on täyttänyt viisi ennen kuin annat hänen ajaa kaksipyöräistä polkupyörää. Ennen sitä lapsi ei ole vielä riittävän kypsä. Apupyöriä käytettäessä vauhti saattaa kiihtyä niin kovaksi, ettei lapsi enää hallitse pyörää. Se suurentaa onnettomuusriskiä merkittävästi.</p>
-      <p type="listitem">pidä huoli, että alle seitsemänvuotias lapsi käyttää erityisiä pienten lasten kypärää, jonka vihreä leukahihna aukeaa rajun riuhtaisun voimasta. Ruotsissa lain mukaan alle 15-vuotiaiden on käytettävä pyöräillessään kypärää.</p>
-      <p type="listitem">käytä heijastimia</p>
-      <p type="listitem">harjoittele lapsen kanssa liikennekäyttäytymistä</p>
-    </list>
-    <p>On hyvä jos lapsi voi matkustaa turvaistuimessa selkä menosuuntaan mahdollisimman pitkään. Turvaistuin on jäänyt pieneksi kun istuimen yläreuna on samalla tasolla lapsen korvien tasalla tai kun suositeltu painoraja on ylitetty.</p>
-    <p type="title">Muiden onnettomuuksien ehkäisy</p>
-    <p>Muunlaisten onnettomuuksien ehkäisemiseksi on hyvä tarkastaa lapsen varusteet ja leikkikalut säännöllisesti, esimerkiksi lastenvaunujen jarrut ja tutin kuminuppi.</p>
-    <p type="title">Passiivinen tupakointi</p>
-    <p>Passiivinen tupakointi altistaa lapsen terveysriskeille. Jos tupakoinnin lopettaminen kokonaan ei onnistu, voi tupakointitapojaan muuttaa ja olla polttamatta kotona. Täysin savuton ympäristö on lapselle paras.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>678</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Barnsakerhet-over-1-ar</origFileName><parallel_text xml:lang="eng" location="barnsakerhet-over-1-ar.html"/><parallel_text xml:lang="swe" location="barnsakerhet-over-1-ar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Lapsiturvallisuus, yli 1 v. / Barnsäkerhet över 1 år - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Lapsiturvallisuus, yli 1 v.Barnsäkerhet över 1 år</p>
+<p type="title">Neuvoja ja ohjeita</p>
+<list><p type="listitem">Ikkunansalvalla voi estää lasta avaamasta ikkunaa ja putoamasta</p>
+<p type="listitem">Kirjahylly voidaan kiinnittää seinään kulmaraudalla, ettei lapsen onnistu kaataa hyllyä päällensä.</p>
+</list><p type="title">Putoamisvammojen ehkäisemiseksi on hyvä</p>
+<list><p type="listitem">pitää ikkunat ja ovet parvekkeelle, altaanille tai ulkokäytäville lukittuina tai varustaa ne salvoilla, jottei lapsen onnistu avata niitä itse</p>
+<p type="listitem">käyttää lastenvaunuissa valjaita niin kauan kuin lapsi niitä tarvitsee</p>
+<p type="listitem">käyttää ainoastaan kävelytuolia, jossa on porraseste, joka estää tuolia ajautumasta reunan yli portaikkoon</p>
+<p type="listitem">kiinnittää korkeat syöttötuolit pöytään erityisellä kiinnittimellä</p>
+<p type="listitem">käyttää porttia sekä portaikon ylä- että alapäässä, jos kotona on portaat</p>
+<p type="listitem">kiinnittää painavat huonekalut seinään huonekaluankkurilla</p>
+<p type="listitem">pitää liukuestettä kylpyammeessa</p>
+<p type="listitem">laskea pinnasängyn pohjaa ennen kuin lapsi oppii nousemaan ylös</p>
+</list><p type="title">Palovammojen ehkäisemiseksi</p>
+<list><p type="listitem">sijoita tulitikut ja sytytin paikkaan, josta lapsi ei voi saada niitä käsiinsä.</p>
+<p type="listitem">opeta lasta olemaan käyttämättä kuumavesihanaa</p>
+<p type="listitem">käytä liedellä liesisuojusta</p>
+<p type="listitem">käsittele kattiloita ja muita kuumasisältöisiä astioita niin, ettei lapsi voi loukkaantua</p>
+<p type="listitem">suojele lasta kuumalta auringolta antamalla tämän oleilla varjossa mahdollisimman paljon tai pukemalla lapselle aurinkohatun ja auringolta suojaavat vaatteet</p>
+<p type="listitem">vältä kahvipöydän reunan yli roikkuvia liinoja, joista lapsen mielestä saattaa olla houkuttelevaa vetää</p>
+<p type="listitem">pidä huoli, etteivät lämpöpatterit ole yli 60 asteisia</p>
+</list><p type="title">Tukehtumisen välttämiseksi</p>
+<list><p type="listitem">kerää pois pienet esineet, jotka voivat juuttua kurkkuun</p>
+<p type="listitem">pidä huoli, ettei lapsi saa käsiinsä muovipusseja</p>
+<p type="listitem">anna lasten istua aina syödessään</p>
+<p type="listitem">säilytä pähkinöitä lasten ulottumattomissa</p>
+<p type="listitem">vedä usein tutin kuminupista kokeillaksesi onko se ehjä</p>
+</list><p>On olemassa erityisiä pienosasylintereitä joiden avulla voi kokeilla onko jokin esine liian pieni lapselle annettavaksi tukehtumisriskin vuoksi. Sylinterin voi saada neuvolasta tai kuluttajaneuvonnasta.</p>
+<p type="title">Kuulon suojaamiseksi on hyvä</p>
+<list><p type="listitem">välttää kovia äänenvoimakkuuksia. Pidä esimerkiksi huoli, ettei lapsi pääse vääntämään stereoiden äänenvoimakkuutta kovalle tain altistu yllättäville koville äänille</p>
+<p type="listitem">varmistaa, ettei lapsen leikkikaluista lähde liian voimakkaita, kimeitä ääniä – kokeile niitä ennen ostamista</p>
+</list><p type="title">Myrkytyksen välttämiseksi</p>
+<list><p type="listitem">säilytä kemikaaleja ja lääkkeitä lasten ulottumattomissa, esimerkiksi lukittavassa lääkekaapissa</p>
+<p type="listitem">pidä huoli, ettei lapsi pääse käsiksi savukkeisiin tai nuuskaan</p>
+<p type="listitem">varmista, ettei kotonanne ole myrkyllisiä kasveja</p>
+</list><p type="title">Onnettomuuksien ehkäisemiseksi keittiössä</p>
+<list><p type="listitem">säilytä teräviä esineitä lasten ulottumattomissa, esimerkiksi lapsiturvallisissa kaapeissa tai laatikoissa</p>
+<p type="listitem">säilytä konetiskiainetta ja kemikaaleja lapsen ulottumattomissa</p>
+<p type="listitem">käytä liesisuojaa ja pidä huoli, että liesi on kiinnitetty seinään kaatumisen ehkäisemiseksi</p>
+<p type="listitem">tulee uuninluukussa olla lukko ja uuniluukun suojus mikäli uunin luukun lämpötila ylittää 60 astetta</p>
+<p type="listitem">vedä pistoke pois pistokerasiasta kun et käytä sähkölaitetta</p>
+</list><p type="title">Sähköonnettomuusriskin vähentämiseksi on hyvä</p>
+<list><p type="listitem">varustaa kaikki pistokerasiat pistokesuojin</p>
+<p type="listitem">jos kaikki johdot, sähkölaitteet ja lamput ovat ehjiä</p>
+<p type="listitem">ettei lapsi voi tarttua roikkuviin sähköjohtoihin</p>
+<p type="listitem">varmistaa, että sähkön pääkatkaisin on asennettu valtuutetun sähkömiehen toimesta</p>
+</list><p type="title">Vähentääksesi onnettomuusriskiä veden äärellä</p>
+<list><p type="listitem">ole aina lapsen lähellä tämän uidessa tai leikkiessä veden äärellä hukkumisonnettomuuden välttämiseksi</p>
+<p type="listitem">muista, että myös suuret vesilätäköt, runsasvetiset ojat, lintujen juoma-altaat ja pienet lammet voivat muodostaa hukkumisriskin pienelle lapselle</p>
+<p type="listitem">tyhjennä pienten lasten kahluualtaat vedestä kun niitä ei käytetä</p>
+<p type="listitem">varmista, että lapsella on oikean kokoiset omalle painolle tarkoitetut pelastusliivit</p>
+</list><p>On olemassa säännöksiä kuinka uima-altaat tai muunlaisten vesialtaat tulee onnettomuuksien välttämiseksi peittää tai aidata. Kuluttajaviraston mukaan uima-altaat, matalat lammet sekä puutarhalammet pitää aidata ja niissä tulee olla lapsiturvallinen lukitus.</p>
+<p type="title">Riskien vähentämiseksi auto- ja pyörämatkan aikana</p>
+<list><p type="listitem">on lastenturvaistuimen oltava yleisesti hyväksytty ja se tulee kiinnittää niin, että lapsi istuu selkä menosuuntaan</p>
+<p type="listitem">on 4 – 5-vuotiaiden istuttava turvavyöistuimessa tai korokeistuimella</p>
+<p type="listitem">varmista, ettei autossa ole irrallisia esineitä, jotka voivat lennellä ympäriinsä voimakkaassa jarrutuksessa</p>
+<p type="listitem">käytä pyöräilykypäriä, lastenistuinta ja pinnasuojusta jos kyyditset lasta pyörällä</p>
+<p type="listitem">odota, että lapsi on täyttänyt viisi ennen kuin annat hänen ajaa kaksipyöräistä polkupyörää. Ennen sitä lapsi ei ole vielä riittävän kypsä. Apupyöriä käytettäessä vauhti saattaa kiihtyä niin kovaksi, ettei lapsi enää hallitse pyörää. Se suurentaa onnettomuusriskiä merkittävästi.</p>
+<p type="listitem">pidä huoli, että alle seitsemänvuotias lapsi käyttää erityisiä pienten lasten kypärää, jonka vihreä leukahihna aukeaa rajun riuhtaisun voimasta. Ruotsissa lain mukaan alle 15-vuotiaiden on käytettävä pyöräillessään kypärää.</p>
+<p type="listitem">käytä heijastimia</p>
+<p type="listitem">harjoittele lapsen kanssa liikennekäyttäytymistä</p>
+</list><p>On hyvä jos lapsi voi matkustaa turvaistuimessa selkä menosuuntaan mahdollisimman pitkään. Turvaistuin on jäänyt pieneksi kun istuimen yläreuna on samalla tasolla lapsen korvien tasalla tai kun suositeltu painoraja on ylitetty.</p>
+<p type="title">Muiden onnettomuuksien ehkäisy</p>
+<p>Muunlaisten onnettomuuksien ehkäisemiseksi on hyvä tarkastaa lapsen varusteet ja leikkikalut säännöllisesti, esimerkiksi lastenvaunujen jarrut ja tutin kuminuppi.</p>
+<p type="title">Passiivinen tupakointi</p>
+<p>Passiivinen tupakointi altistaa lapsen terveysriskeille. Jos tupakoinnin lopettaminen kokonaan ei onnistu, voi tupakointitapojaan muuttaa ja olla polttamatta kotona. Täysin savuton ympäristö on lapselle paras.</p>
+</body></document>

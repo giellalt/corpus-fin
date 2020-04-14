@@ -1,32 +1,8 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Sammallahden sanakirjan uusi painos ilmestyi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>82</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=822&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=822_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=822_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=822_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sammallahden sanakirjan uusi painos ilmestyi</p>
-    <p>Uusi painos Pekka Sammallahden saamelais-suomalais-saamelaisesta sanakirjasta (Sámi-suoma-sámi sátnegirji) on ilmestynyt. Saamelaiskäräjät julkaisi näköispainoksen Girjegiisá Oy:n alunperin vuonna 1993 julkaisemasta teoksesta.</p>
-    <p>Sanakirjan saame-suomi -osassa on yli 12.000 sanaa, suomi-saame -osassa puolestaan yli 20.000 sanaa. Sanakirjan saamen kieli tarkoittaa pohjoissaamea. Kirjan lopussa on lueteltu mm. pohjoissaamen nominien ja verbien taivutustyypit ja annettu joitakin esimerkkejä taivutuksesta.</p>
-    <p>Saamelais-suomalais-saamelaista sanakirjaa on kysytty paljon edellisen painoksen loputtua. Kirja on nyt saatavissa</p>
-    <p>Sámi duodji-kaupasta Sajoksesta Inarista, yhdistyksen</p>
-    <p>verkkokaupasta</p>
-    <p>tai saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta ritva.tammela(at)samediggi.fi.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sammallahden sanakirjan uusi painos ilmestyi</title><genre code="admin"/><author><unknown/></author><wordcount>82</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=822&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=822_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=822_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=822_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sammallahden sanakirjan uusi painos ilmestyi</p>
+<p>Uusi painos Pekka Sammallahden saamelais-suomalais-saamelaisesta sanakirjasta (Sámi-suoma-sámi sátnegirji) on ilmestynyt. Saamelaiskäräjät julkaisi näköispainoksen Girjegiisá Oy:n alunperin vuonna 1993 julkaisemasta teoksesta.</p>
+<p>Sanakirjan saame-suomi -osassa on yli 12.000 sanaa, suomi-saame -osassa puolestaan yli 20.000 sanaa. Sanakirjan saamen kieli tarkoittaa pohjoissaamea. Kirjan lopussa on lueteltu mm. pohjoissaamen nominien ja verbien taivutustyypit ja annettu joitakin esimerkkejä taivutuksesta.</p>
+<p>Saamelais-suomalais-saamelaista sanakirjaa on kysytty paljon edellisen painoksen loputtua. Kirja on nyt saatavissa</p>
+<p>Sámi duodji-kaupasta Sajoksesta Inarista, yhdistyksen</p>
+<p>verkkokaupasta</p>
+<p>tai saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta ritva.tammela(at)samediggi.fi.</p>
+</body></document>

@@ -1,82 +1,37 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>673</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Finska/Eka-kerta</origFileName>
-    <parallel_text xml:lang="fit" location="seksia-ensi-kerran.html"/>
-    <parallel_text xml:lang="sma" location="sekse-voestes-aejkien.html"/>
-    <parallel_text xml:lang="sme" location="seksa-vuostta-geardde.html"/>
-    <parallel_text xml:lang="smj" location="seksa-vuostasj-bale.html"/>
-    <parallel_text xml:lang="swe" location="sex-forsta-gangen.html"/>
-    <parallel_text location="jeckesta-tjiron-gla-bulopha.html" xml:lang="rmu"/>
-    <parallel_text location="seksi-vaguno-var.html" xml:lang="rmf"/>
-    <parallel_text location="buledimos-angluni-data.html" xml:lang="rmy-rka"/>
-    <parallel_text location="sekso-angluni-data.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="seksi-o-prvo-puti.html" xml:lang="rmn"/>
-    <parallel_text location="seks-tsum-ershtn-mol.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Eka kerta</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Eka kerta</p>
-    <p>Ennen ensimmäisiä seksuaalisia kokeiluja toisen kanssa monet ovat harjoittaneet itsetyydytystä. Ensimmäinen seksuaalinen kokemus tapahtuu siis usein oman itsensä kanssa. On luonnollista, että ensimmäinen seksikokemus toisen kanssa herättää monenlaisia ajatuksia ja odotuksia.</p>
-    <p type="title">Eka kerta mietityttää</p>
-    <p>Ennen ensimmäisiä seksikokeiluja toisen kanssa mielessä voi olla monenlaisia ajatuksia siitä, miltä se tuntuu, millaista sen haluaa olevan ja milloin se tapahtuu. Moni on saattanut kuulla kavereiden puhuvan, nähnyt elokuvissa, lukenut lehdistä tai kuullut ekasta kerrasta jotain, jonka pohjalta kuvittelee, millaista sen tulisi olla.</p>
-    <p>Usein pohdinnat koskevat emätinyhdyntää. Tutkimukset osoittavat, että monet nuorista eivät ole olleet emätinyhdynnässä ennen kun he pääsevät lukiosta. Tämä voi johtua monista eri syistä, esimerkiksi siitä, että ei halua, että ei ole ollut mahdollisuutta, että haluaa harrastaa seksiä samaa sukupuolta olevien ihmisten kanssa tai että haluaa harrastaa muunlaista seksiä.</p>
-    <p type="title">Jokainen päättää itse</p>
-    <p>Joskus voi tulla sellainen olo, että seksiä pitäisi harrastaa, vaikka ei haluaisikaan tai tuntisi olevansa vielä valmis.</p>
-    <p>Joku taas voi tuntea joutuvansa odottamaan ensimmäistä seksikokemusta, vaikka haluaisikin jo kokea sen. Painostuksen kokeminen tai seksin odottaminen voi johtua kaveripiirin luomasta paineesta tai esimerkiksi perheen odotuksista.</p>
-    <p>On tärkeää muistaa, että tekee niin, mikä tuntuu itsestä hyvältä.</p>
-    <p>Jokainen päättää itse:</p>
-    <list>
-      <p type="listitem">omasta kehostaan</p>
-      <p type="listitem">jos ja kun haluaa seksiä</p>
-      <p type="listitem">millaista seksiä haluaa</p>
-      <p type="listitem">kenen kanssa seksiä haluaa.</p>
-    </list>
-    <p type="title">Seksin ikäraja?</p>
-    <p>Kukaan ei voi sanoa oikeaa ikää seksin aloittamiselle, vaan jokainen tuntee itse koska on siihen valmis. Lain mukaan yli 15-vuotias henkilö ei saa olla sukupuoliyhteydessä tai tehdä muita seksuaalisia tekoja alle 15-vuotiaan kanssa. Laissa todetaan myös, että tekoa ei pidetä tuomittavana, jos voidaan selkeästi osoittaa, että kyseessä ei ole seksuaalinen hyväksikäyttö.</p>
-    <p>Ratkaisevaa on ennen kaikkea se, ovatko osapuolet iältään tai henkiseltä ja fyysiseltä kehitykseltään lähellä toisiaan ja onko kyseessä molemminpuolinen suostumus. Laki koskee yhtä lailla kaikkia sukupuolesta riippumatta. Tämän lain tarkoituksena on suojella lapsia joutumasta tahtomattaan alttiiksi seksuaalisille teoille vanhemman henkilön kanssa. Lain mukaan kellään ei ole oikeutta tehdä toiselle mitään seksuaalista ilman toisen osapuolen suostumusta.</p>
-    <p type="title">Vinkkejä ensimmäiseen seksikokemukseen toisen kanssa</p>
-    <p>On tavallista, että ensimmäinen seksikokemus on erilainen kuin on kuvitellut. Joskus voi jopa tuntea itsensä epäonnistuneeksi, koska seksi ei ollutkaan odotusten mukaista.</p>
-    <p>Seksi on jotain, joka vaatii harjoittelua, kuten monet muutkin asiat elämässä. Tuskin kukaan osaa soittaa lempikappalettaan kitaralla tuntematta sointuja tai ilman että olisi pitänyt edes instrumenttia kädessään! Ennen ensimmäistä kertaa kannattaa pohtia ja harjoitella joitakin asioita.</p>
-    <list>
-      <p type="listitem">Itsetyydytys on hyvä tapa ottaa selville, mikä tuntuu hyvältä.</p>
-      <p type="listitem">Etsikää toistenne kehosta herkkiä kohtia: puhukaa toisillenne, etsikää, tuntekaa ja keskustelkaa.</p>
-      <p type="listitem">Toista voi kiihottaa hyväilemällä, suutelemalla ja muilla ihanilla keinoilla.</p>
-      <p type="listitem">Käytä suojavälinettä, kuten kondomia tai suuseksisuojaa ja harjoittele niiden käyttöä.</p>
-      <p type="listitem">Seksin harrastaminen turvallisessa paikassa voi auttaa rentoutumaan.</p>
-    </list>
-    <p type="title">Neitsyys</p>
-    <p>Neitsyydellä tarkoitetaan sitä, että ei ole harrastanut seksiä. Tämä voi tarkoittaa sitä, että ei ole harrastanut seksiä, jossa penis on emättimessä, mutta se voi myös tarkoittaa sitä, että ei ole harrastunut seksiä ollenkaan.</p>
-    <p>Jotkut eivät halua käyttää sanaa neitsyt. Ehkä se kuulostaa siltä, kuin seksuaalinen kokemattomuus olisi taakka. Ikään kuin kokemattomuutta pitäisi hävetä.</p>
-    <p>Useimmat, jotka käyttävät sanaa neitsyt, eivät ajattele niin. Sana vain kuvaa henkilöä, joka ei ole harrastanut seksiä. Kun on harrastanut seksiä ensimmäistä kertaa, sanotaan, että on päässyt eroon neitsyydestä tai on menettänyt neitsyytensä. Silloin saattaa tuntea ylpeyttä tai iloa, että ei ole enää neitsyt.</p>
-    <p>Jokaisella on oikeus päättää itse, milloin harrastaa seksiä ensimmäistä kertaa. Se ei kuulu kellekään muulle. Kenestäkään ei näe päältäpäin, onko hän harrastanut seksiä vai ei. Edes lääkäri tai kätilö eivät voi huomata sitä.</p>
-    <p type="title">Immenkalvo?</p>
-    <p>Immenkalvolla tarkoitetaan emättimen suuaukolla olevaa ohutta kudosta kohdassa, jossa emättimen ulko-osa muuttuu sisäosaksi. Suuaukko voi olla muodoltaan epäsäännöllinen, ja aukon reuna voi olla hieman poimuinen tai liuskamainen. Aukko laajenee ja venyy murrosiässä, mutta se ei koskaan katoa kokonaan. Emätintä ei siis peitä minkäänlainen kalvo.</p>
-    <p>Koska emättimen aukkoa ei peitä minkäänlainen kalvo, mikään ei voi myöskään puhjeta yhdynnän aikana. Sitä vastoin osa tytöistä kokee verenvuotoa ensimmäisessä yhdynnässä, mutta tavallisesti vuotoa ei ilmene.</p>
-    <p>Mahdollinen verenvuoto voi johtua emättimen aukon reunojen tiukkuudesta. Tavallisempaa on, että verenvuoto johtuu muusta syystä, esimerkiksi jännityksestä tai siitä, että ei ole riittävän kiihottunut.</p>
-    <p>Kenestäkään ei näe päältäpäin, onko hän neitsyt vai ei. Edes lääkäri tai kätilö ei voi nähdä, onko harrastanut seksiä.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>668</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Finska/Eka-kerta</origFileName><parallel_text xml:lang="fit" location="seksia-ensi-kerran.html"/><parallel_text xml:lang="sma" location="sekse-voestes-aejkien.html"/><parallel_text xml:lang="sme" location="seksa-vuostta-geardde.html"/><parallel_text xml:lang="smj" location="seksa-vuostasj-bale.html"/><parallel_text xml:lang="swe" location="sex-forsta-gangen.html"/><parallel_text location="jeckesta-tjiron-gla-bulopha.html" xml:lang="rmu"/><parallel_text location="seksi-vaguno-var.html" xml:lang="rmf"/><parallel_text location="buledimos-angluni-data.html" xml:lang="rmy-rka"/><parallel_text location="sekso-angluni-data.html" xml:lang="rmy-rlo"/><parallel_text location="seksi-o-prvo-puti.html" xml:lang="rmn"/><parallel_text location="seks-tsum-ershtn-mol.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Eka kerta</p>
+<p type="title">Eka kerta</p>
+<p>Ennen ensimmäisiä seksuaalisia kokeiluja toisen kanssa monet ovat harjoittaneet itsetyydytystä. Ensimmäinen seksuaalinen kokemus tapahtuu siis usein oman itsensä kanssa. On luonnollista, että ensimmäinen seksikokemus toisen kanssa herättää monenlaisia ajatuksia ja odotuksia.</p>
+<p type="title">Eka kerta mietityttää</p>
+<p>Ennen ensimmäisiä seksikokeiluja toisen kanssa mielessä voi olla monenlaisia ajatuksia siitä, miltä se tuntuu, millaista sen haluaa olevan ja milloin se tapahtuu. Moni on saattanut kuulla kavereiden puhuvan, nähnyt elokuvissa, lukenut lehdistä tai kuullut ekasta kerrasta jotain, jonka pohjalta kuvittelee, millaista sen tulisi olla.</p>
+<p>Usein pohdinnat koskevat emätinyhdyntää. Tutkimukset osoittavat, että monet nuorista eivät ole olleet emätinyhdynnässä ennen kun he pääsevät lukiosta. Tämä voi johtua monista eri syistä, esimerkiksi siitä, että ei halua, että ei ole ollut mahdollisuutta, että haluaa harrastaa seksiä samaa sukupuolta olevien ihmisten kanssa tai että haluaa harrastaa muunlaista seksiä.</p>
+<p type="title">Jokainen päättää itse</p>
+<p>Joskus voi tulla sellainen olo, että seksiä pitäisi harrastaa, vaikka ei haluaisikaan tai tuntisi olevansa vielä valmis.</p>
+<p>Joku taas voi tuntea joutuvansa odottamaan ensimmäistä seksikokemusta, vaikka haluaisikin jo kokea sen. Painostuksen kokeminen tai seksin odottaminen voi johtua kaveripiirin luomasta paineesta tai esimerkiksi perheen odotuksista.</p>
+<p>On tärkeää muistaa, että tekee niin, mikä tuntuu itsestä hyvältä.</p>
+<p>Jokainen päättää itse:</p>
+<list><p type="listitem">omasta kehostaan</p>
+<p type="listitem">jos ja kun haluaa seksiä</p>
+<p type="listitem">millaista seksiä haluaa</p>
+<p type="listitem">kenen kanssa seksiä haluaa.</p>
+</list><p type="title">Seksin ikäraja?</p>
+<p>Kukaan ei voi sanoa oikeaa ikää seksin aloittamiselle, vaan jokainen tuntee itse koska on siihen valmis. Lain mukaan yli 15-vuotias henkilö ei saa olla sukupuoliyhteydessä tai tehdä muita seksuaalisia tekoja alle 15-vuotiaan kanssa. Laissa todetaan myös, että tekoa ei pidetä tuomittavana, jos voidaan selkeästi osoittaa, että kyseessä ei ole seksuaalinen hyväksikäyttö.</p>
+<p>Ratkaisevaa on ennen kaikkea se, ovatko osapuolet iältään tai henkiseltä ja fyysiseltä kehitykseltään lähellä toisiaan ja onko kyseessä molemminpuolinen suostumus. Laki koskee yhtä lailla kaikkia sukupuolesta riippumatta. Tämän lain tarkoituksena on suojella lapsia joutumasta tahtomattaan alttiiksi seksuaalisille teoille vanhemman henkilön kanssa. Lain mukaan kellään ei ole oikeutta tehdä toiselle mitään seksuaalista ilman toisen osapuolen suostumusta.</p>
+<p type="title">Vinkkejä ensimmäiseen seksikokemukseen toisen kanssa</p>
+<p>On tavallista, että ensimmäinen seksikokemus on erilainen kuin on kuvitellut. Joskus voi jopa tuntea itsensä epäonnistuneeksi, koska seksi ei ollutkaan odotusten mukaista.</p>
+<p>Seksi on jotain, joka vaatii harjoittelua, kuten monet muutkin asiat elämässä. Tuskin kukaan osaa soittaa lempikappalettaan kitaralla tuntematta sointuja tai ilman että olisi pitänyt edes instrumenttia kädessään! Ennen ensimmäistä kertaa kannattaa pohtia ja harjoitella joitakin asioita.</p>
+<list><p type="listitem">Itsetyydytys on hyvä tapa ottaa selville, mikä tuntuu hyvältä.</p>
+<p type="listitem">Etsikää toistenne kehosta herkkiä kohtia: puhukaa toisillenne, etsikää, tuntekaa ja keskustelkaa.</p>
+<p type="listitem">Toista voi kiihottaa hyväilemällä, suutelemalla ja muilla ihanilla keinoilla.</p>
+<p type="listitem">Käytä suojavälinettä, kuten kondomia tai suuseksisuojaa ja harjoittele niiden käyttöä.</p>
+<p type="listitem">Seksin harrastaminen turvallisessa paikassa voi auttaa rentoutumaan.</p>
+</list><p type="title">Neitsyys</p>
+<p>Neitsyydellä tarkoitetaan sitä, että ei ole harrastanut seksiä. Tämä voi tarkoittaa sitä, että ei ole harrastanut seksiä, jossa penis on emättimessä, mutta se voi myös tarkoittaa sitä, että ei ole harrastunut seksiä ollenkaan.</p>
+<p>Jotkut eivät halua käyttää sanaa neitsyt. Ehkä se kuulostaa siltä, kuin seksuaalinen kokemattomuus olisi taakka. Ikään kuin kokemattomuutta pitäisi hävetä.</p>
+<p>Useimmat, jotka käyttävät sanaa neitsyt, eivät ajattele niin. Sana vain kuvaa henkilöä, joka ei ole harrastanut seksiä. Kun on harrastanut seksiä ensimmäistä kertaa, sanotaan, että on päässyt eroon neitsyydestä tai on menettänyt neitsyytensä. Silloin saattaa tuntea ylpeyttä tai iloa, että ei ole enää neitsyt.</p>
+<p>Jokaisella on oikeus päättää itse, milloin harrastaa seksiä ensimmäistä kertaa. Se ei kuulu kellekään muulle. Kenestäkään ei näe päältäpäin, onko hän harrastanut seksiä vai ei. Edes lääkäri tai kätilö eivät voi huomata sitä.</p>
+<p type="title">Immenkalvo?</p>
+<p>Immenkalvolla tarkoitetaan emättimen suuaukolla olevaa ohutta kudosta kohdassa, jossa emättimen ulko-osa muuttuu sisäosaksi. Suuaukko voi olla muodoltaan epäsäännöllinen, ja aukon reuna voi olla hieman poimuinen tai liuskamainen. Aukko laajenee ja venyy murrosiässä, mutta se ei koskaan katoa kokonaan. Emätintä ei siis peitä minkäänlainen kalvo.</p>
+<p>Koska emättimen aukkoa ei peitä minkäänlainen kalvo, mikään ei voi myöskään puhjeta yhdynnän aikana. Sitä vastoin osa tytöistä kokee verenvuotoa ensimmäisessä yhdynnässä, mutta tavallisesti vuotoa ei ilmene.</p>
+<p>Mahdollinen verenvuoto voi johtua emättimen aukon reunojen tiukkuudesta. Tavallisempaa on, että verenvuoto johtuu muusta syystä, esimerkiksi jännityksestä tai siitä, että ei ole riittävän kiihottunut.</p>
+<p>Kenestäkään ei näe päältäpäin, onko hän neitsyt vai ei. Edes lääkäri tai kätilö ei voi nähdä, onko harrastanut seksiä.</p>
+</body></document>

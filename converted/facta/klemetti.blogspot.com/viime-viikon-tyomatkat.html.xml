@@ -1,41 +1,18 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Suoma sámedikki ságadoalli: Viime viikon työmatkat</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Klemetti" lastname="Näkkäläjärvi" sex="m" born="19601018" nationality="fin"/>
-    </author>
-    <year>2009</year>
-    <wordcount>393</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual/>
-    <parallel_text xml:lang="sme" location="mannan-vahku-bargomatkkit.html"/>
-    <metadata>
-      <complete/>
-    </metadata>
-    <version>XSLtemplate  1.22 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">tiistaina 6. lokakuuta 2009</p>
-    <p type="title">Viime viikon työmatkat</p>
-    <p>Viime viikko on ollut yhtä kokousta ja pendelöintiä. Toissa viikolla olin hallintovaliokunnan kuultavana Alku-hankkeesta. Lakiesitys on nyt eduskuntakäsittelyssä eikä kovin suuria muutoksia lakiesitykseen enää tule. Alku-lakisesityksessä mahdollistetaan saamenkielisten palveluyksikön perustaminen ja esitin että palveluyksikön suunnittelu tulisi aloittaa heti. Tilaisuudessa jättämä lausunto löytyy Saamelaiskäräjien kotisivuilta.</p>
-    <p>Saamelaiskäräjät antoi alustavan kannanottonsa Metsähallituksen hallintomallin tulevaisuudesta asiaa suunnitteleville työryhmille. Kannanottoa tarkennetaan kun saamme asiassa lisätietoa ja kun asian parlamentaarinen käsittely etenee. Elinkeino- ja oikeuslautakunta valmistelee kannanottoa Saamelaiskäräjien hallitukselle seuraavassa kokouksessaan. Hallitus kokoontuu 15.10.</p>
-    <p>Viime viikko alkoi artikla 8 (j)-työryhmän kokouksella Rovaniemellä. Valmistelimme kokouksessa Suomen kantoja biodiversiteettisopimuksen artikla 8 (j):stä ja sen toimeenpanoon liittyvistä esityksistä. Montrealissa on marraskuun alussa monipäiväinen biodiversiteettisopimusosapuolten artikla 8 (j):n ad hoc- työryhmän kokous, jonne kansallinen 8 (j)-työryhmä valmistelee   Suomen kantoja. Asiakokonaisuudet ovat niin laajoja, että jatkamme Montrealin kokouksen valmistelua lokakuun loppupuolella.</p>
-    <p>Rovaniemeltä suuntasin Helsinkiin biodiversiteettityöryhmän kokousta varten. Bd-työryhmän kokouksessa kuulimme Ruotsin järjestämän kansanvälisen biodiversiteettikokouksen ehdotuksista ja biodiversiteettisopimuksen kansallisen toimintaohjelman toimeenpanosta. Asiasta kiinnostuneille, ympäristöministeriön kotisivuilta löytyvät työryhmän pöytäkirjat (linkki: seurantaryhmän pöytäkirjat)  ja tietoa Suomen biodiversiteettipolitiikasta (http://www.ymparisto.fi/default.asp?node=7349&amp;lan=fi ).</p>
-    <p>Keskiviikkona minulla oli kokous taas Rovaniemellä, Lapin korkeakoulukonsernin neuvottelukunnan kokous. Korkeakoulukonsernilla tarkoitetaan Lapin yliopiston ja Lapin eri ammattikorkeakoulujen muodostamaa koulutusyhteistyötä. Kuulimme kokouksessa korkeakoulukonsernin lähiajan suunnitelmista ja sen toiminnasta. Otin kokouksessa esille saamen kielen ja saamelaiskulttuurin tutkimuksen ja opetuksen tarpeita.</p>
-    <p>Torstaina vuorossa oli taas kokous Helsingissä. Osallistuin aamupäivällä Ihmisoikeusliiton ja Eduskunnan ihmisoikeustyöryhmän järjestämään perus- ja ihmisoikeusfoorumiin, jonka avasi Tasavallan presidentti Tarja Halonen. Useat puhujat vetosivat että Suomen tulee ratifioida Ilo 169-sopimus. Käytin tilaisuudessa myös lyhyen puheenvuoron keskusteluosuudessa. Foorumin jälkeen osallistuin korkeimman oikeuden 200-vuotisjuhliin Helsingin yliopistolla.</p>
-    <p>Saamelaiskäräjät antoi viime viikolla lausunnon maa- ja metsätalousvaliokunnalle luonnonsuojelulain uudistamisesta. Lausunto pohjautui Saamelaiskäräjien hallituksen 6.5.2009 hyväksymään lausuntoon ympäristöministeriölle. Tässä uudessa lausunnossa Saamelaiskäräjät on huomioinut mahdollisten Metsähallituksen hallintomallin muutoksien vaikutukset luonnonsuojelulakiin.</p>
-    <p>Viime viikolla kuulun erinomaisia uutisia Enontekiön kunnasta. Kunta on aloittanut saamenkielisen tulkkauspalvelun, jota voi saada etukäteen sovittaessa sosiaali- ja terveyspalvelujen sektorilta. Tämä on hyvä uutinen ja esimerkki myös muille saamelaisten kotiseutualueen kunnille. On hyvä, että Enontekiön kunta on alkanut esimerkillisesti toteuttaa saamen kielilakia sosiaali- ja terveyspalveluissa.</p>
-    <p>Perjantaina minulla oli kunnia osallistua Valtioneuvoston 200-vuotisjuhliin Turussa. Ensi viikolla ohjelmassani on kokouksia taas Helsingissä,  kestävän kehityksen toimikunnan kokous ja saamelaiskäräjälain § 9 mukaiset neuvottelut maa- ja metsätalousministeriössä poronhoitajien luopumistuesta. Minulla on ilo osallistua myös oikeuskansleriviraston 200-vuotisjuhliin. Muuten työaika menee Saamelaiskäräjien lausuntojen läpikäymiseen ja seuraavan artikla 8 (j)-työryhmän valmisteluun.</p>
-    <p>Vuontisjärvellä 6.10.09</p>
-    <p>Klemetti Näkkäläjärvi</p>
-    <p type="title" xml:lang="swe">0 kommenttia:</p>
-    <p>Lähetä kommentti</p>
-    <p xml:lang="fkv">Tilaa:</p>
-    <p>Lähetä kommentteja (Atom)</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Suoma sámedikki ságadoalli: Viime viikon työmatkat</title><genre code="facta"/><author><person firstname="Klemetti" lastname="Näkkäläjärvi" sex="m" born="19601018" nationality="fin"/></author><year>2009</year><wordcount>393</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><parallel_text xml:lang="sme" location="mannan-vahku-bargomatkkit.html"/><metadata><complete/></metadata><version>XSLtemplate  1.22 ; file-specific xsl  $Revision: 1.1 $; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">tiistaina 6. lokakuuta 2009</p>
+<p type="title">Viime viikon työmatkat</p>
+<p>Viime viikko on ollut yhtä kokousta ja pendelöintiä. Toissa viikolla olin hallintovaliokunnan kuultavana Alku-hankkeesta. Lakiesitys on nyt eduskuntakäsittelyssä eikä kovin suuria muutoksia lakiesitykseen enää tule. Alku-lakisesityksessä mahdollistetaan saamenkielisten palveluyksikön perustaminen ja esitin että palveluyksikön suunnittelu tulisi aloittaa heti. Tilaisuudessa jättämä lausunto löytyy Saamelaiskäräjien kotisivuilta.</p>
+<p>Saamelaiskäräjät antoi alustavan kannanottonsa Metsähallituksen hallintomallin tulevaisuudesta asiaa suunnitteleville työryhmille. Kannanottoa tarkennetaan kun saamme asiassa lisätietoa ja kun asian parlamentaarinen käsittely etenee. Elinkeino- ja oikeuslautakunta valmistelee kannanottoa Saamelaiskäräjien hallitukselle seuraavassa kokouksessaan. Hallitus kokoontuu 15.10.</p>
+<p>Viime viikko alkoi artikla 8 (j)-työryhmän kokouksella Rovaniemellä. Valmistelimme kokouksessa Suomen kantoja biodiversiteettisopimuksen artikla 8 (j):stä ja sen toimeenpanoon liittyvistä esityksistä. Montrealissa on marraskuun alussa monipäiväinen biodiversiteettisopimusosapuolten artikla 8 (j):n ad hoc- työryhmän kokous, jonne kansallinen 8 (j)-työryhmä valmistelee   Suomen kantoja. Asiakokonaisuudet ovat niin laajoja, että jatkamme Montrealin kokouksen valmistelua lokakuun loppupuolella.</p>
+<p>Rovaniemeltä suuntasin Helsinkiin biodiversiteettityöryhmän kokousta varten. Bd-työryhmän kokouksessa kuulimme Ruotsin järjestämän kansanvälisen biodiversiteettikokouksen ehdotuksista ja biodiversiteettisopimuksen kansallisen toimintaohjelman toimeenpanosta. Asiasta kiinnostuneille, ympäristöministeriön kotisivuilta löytyvät työryhmän pöytäkirjat (linkki: seurantaryhmän pöytäkirjat)  ja tietoa Suomen biodiversiteettipolitiikasta (http://www.ymparisto.fi/default.asp?node=7349&amp;lan=fi ).</p>
+<p>Keskiviikkona minulla oli kokous taas Rovaniemellä, Lapin korkeakoulukonsernin neuvottelukunnan kokous. Korkeakoulukonsernilla tarkoitetaan Lapin yliopiston ja Lapin eri ammattikorkeakoulujen muodostamaa koulutusyhteistyötä. Kuulimme kokouksessa korkeakoulukonsernin lähiajan suunnitelmista ja sen toiminnasta. Otin kokouksessa esille saamen kielen ja saamelaiskulttuurin tutkimuksen ja opetuksen tarpeita.</p>
+<p>Torstaina vuorossa oli taas kokous Helsingissä. Osallistuin aamupäivällä Ihmisoikeusliiton ja Eduskunnan ihmisoikeustyöryhmän järjestämään perus- ja ihmisoikeusfoorumiin, jonka avasi Tasavallan presidentti Tarja Halonen. Useat puhujat vetosivat että Suomen tulee ratifioida Ilo 169-sopimus. Käytin tilaisuudessa myös lyhyen puheenvuoron keskusteluosuudessa. Foorumin jälkeen osallistuin korkeimman oikeuden 200-vuotisjuhliin Helsingin yliopistolla.</p>
+<p>Saamelaiskäräjät antoi viime viikolla lausunnon maa- ja metsätalousvaliokunnalle luonnonsuojelulain uudistamisesta. Lausunto pohjautui Saamelaiskäräjien hallituksen 6.5.2009 hyväksymään lausuntoon ympäristöministeriölle. Tässä uudessa lausunnossa Saamelaiskäräjät on huomioinut mahdollisten Metsähallituksen hallintomallin muutoksien vaikutukset luonnonsuojelulakiin.</p>
+<p>Viime viikolla kuulun erinomaisia uutisia Enontekiön kunnasta. Kunta on aloittanut saamenkielisen tulkkauspalvelun, jota voi saada etukäteen sovittaessa sosiaali- ja terveyspalvelujen sektorilta. Tämä on hyvä uutinen ja esimerkki myös muille saamelaisten kotiseutualueen kunnille. On hyvä, että Enontekiön kunta on alkanut esimerkillisesti toteuttaa saamen kielilakia sosiaali- ja terveyspalveluissa.</p>
+<p>Perjantaina minulla oli kunnia osallistua Valtioneuvoston 200-vuotisjuhliin Turussa. Ensi viikolla ohjelmassani on kokouksia taas Helsingissä,  kestävän kehityksen toimikunnan kokous ja saamelaiskäräjälain § 9 mukaiset neuvottelut maa- ja metsätalousministeriössä poronhoitajien luopumistuesta. Minulla on ilo osallistua myös oikeuskansleriviraston 200-vuotisjuhliin. Muuten työaika menee Saamelaiskäräjien lausuntojen läpikäymiseen ja seuraavan artikla 8 (j)-työryhmän valmisteluun.</p>
+<p>Vuontisjärvellä 6.10.09</p>
+<p>Klemetti Näkkäläjärvi</p>
+<p type="title" xml:lang="swe">0 kommenttia:</p>
+<p>Lähetä kommentti</p>
+<p xml:lang="fkv">Tilaa:</p>
+<p>Lähetä kommentteja (Atom)</p>
+</body></document>

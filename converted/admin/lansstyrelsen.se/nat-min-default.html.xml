@@ -1,51 +1,17 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>223</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/suomeksi/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="nat-min-default.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-default.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-default.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-default.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ruotsin kansalliset vähemmistöt - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Ruotsin kansalliset vähemmistöt</p>
-    <p>
-      <em type="italic">Tukholman läänin lääninhallitus ja Saamelaiskäräjät ovat 1.1.2010 lähtien olleet päävastuussa Ruotsin vähemmistöpolitiikan koordinoinnista ja sen toteutuksen seurannasta. </em>
-    </p>
-    <p>Suomikoti i Enskede Foto: Johan Jeppsson</p>
-    <p>Joulukuussa 1999 valtiopäivät päättivät, että Ruotsi liittyy Euroopan neuvoston kansallisten vähemmistöjen suojelua koskevaan puiteyleissopimukseen ja alueellisia kieliä ja vähemmistökieliä koskevaan eurooppalaiseen peruskirjaan. Lisäksi valtiopäivät päättivät vähemmistöpolitiikasta ja viiden kansallisen vähemmistön ja niiden kielten (kaikkien varieteettien) tunnustamisesta.</p>
-    <p type="title">Ruotsin kansalliset vähemmistöt ja vähemmistökielet</p>
-    <p>Ruotsin viisi tunnustettua kansallista vähemmistöä ovat juutalaiset, romanit, saamelaiset (jotka ovat myös alkuperäiskansa), ruotsinsuomalaiset ja tornionlaaksolaiset. Historiallisia vähemmistökieliä ovat jiddiš, romani chib, saame, suomi ja meänkieli.</p>
-    <p>Yhteistä vähemmistöryhmille on se, että ne ovat asuneet Ruotsissa kauan ja että kullakin ryhmällä on selvä keskinäinen yhteenkuuluvuus. Ryhmillä on myös oma uskonnollinen, kielellinen tai kulttuurinen viiteryhmä ja halu säilyttää identiteettinsä.</p>
-    <p type="title">Hallituksen vähemmistöpolitiikka</p>
-    <p>Vähemmistöpolitiikkaan kuuluu kansallisten vähemmistöjen ja historiallisten vähemmistökielten suojelu ja tukeminen. Kansallisten vähemmistöjen suojelun vahvistaminen on osa Ruotsissa tehtävää työtä ihmisoikeuksien vaalimiseksi.</p>
-    <p type="title">Vähemmistöpoliittinen strategia</p>
-    <p>Vuoden 2009 kuluessa hallitus esitteli uuden vähemmistöpoliittisen strategian, joka sisältää toimia kansallisten vähemmistöjen oikeuksien edelleen vahvistamiseksi. Hallituksen strategiaan kuuluu myös 1.1.2010 voimaan tullut uusi laki kansallisista vähemmistöistä ja vähemmistökielistä. Strategiaan sisältyy ehdotuksia kansallisten vähemmistöjen oikeuksien vahvistamisesta käytännössä, kuten toimia joilla:</p>
-    <list>
-      <p type="listitem">varmistetaan Euroopan vähemmistökielisopimusten aikaisempaa parempi noudattaminen ja meneillään olevien toimien seuranta</p>
-      <p type="listitem">estetään kansallisten vähemmistöjen syrjintä ja ulkopuolisuus</p>
-      <p type="listitem">vahvistetaan kansallisten vähemmistöjen itsemääräämis- ja vaikutusmahdollisuuksia</p>
-      <p type="listitem">edistetään kansallisten vähemmistökielten säilyttämistä.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>223</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/suomeksi/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="nat-min-default.html"/><parallel_text xml:lang="sme" location="nat-min-default.html"/><parallel_text xml:lang="smj" location="nat-min-default.html"/><parallel_text xml:lang="swe" location="nat-min-default.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ruotsin kansalliset vähemmistöt - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Ruotsin kansalliset vähemmistöt</p>
+<p><em type="italic">Tukholman läänin lääninhallitus ja Saamelaiskäräjät ovat 1.1.2010 lähtien olleet päävastuussa Ruotsin vähemmistöpolitiikan koordinoinnista ja sen toteutuksen seurannasta. </em></p>
+<p>Suomikoti i Enskede Foto: Johan Jeppsson</p>
+<p>Joulukuussa 1999 valtiopäivät päättivät, että Ruotsi liittyy Euroopan neuvoston kansallisten vähemmistöjen suojelua koskevaan puiteyleissopimukseen ja alueellisia kieliä ja vähemmistökieliä koskevaan eurooppalaiseen peruskirjaan. Lisäksi valtiopäivät päättivät vähemmistöpolitiikasta ja viiden kansallisen vähemmistön ja niiden kielten (kaikkien varieteettien) tunnustamisesta.</p>
+<p type="title">Ruotsin kansalliset vähemmistöt ja vähemmistökielet</p>
+<p>Ruotsin viisi tunnustettua kansallista vähemmistöä ovat juutalaiset, romanit, saamelaiset (jotka ovat myös alkuperäiskansa), ruotsinsuomalaiset ja tornionlaaksolaiset. Historiallisia vähemmistökieliä ovat jiddiš, romani chib, saame, suomi ja meänkieli.</p>
+<p>Yhteistä vähemmistöryhmille on se, että ne ovat asuneet Ruotsissa kauan ja että kullakin ryhmällä on selvä keskinäinen yhteenkuuluvuus. Ryhmillä on myös oma uskonnollinen, kielellinen tai kulttuurinen viiteryhmä ja halu säilyttää identiteettinsä.</p>
+<p type="title">Hallituksen vähemmistöpolitiikka</p>
+<p>Vähemmistöpolitiikkaan kuuluu kansallisten vähemmistöjen ja historiallisten vähemmistökielten suojelu ja tukeminen. Kansallisten vähemmistöjen suojelun vahvistaminen on osa Ruotsissa tehtävää työtä ihmisoikeuksien vaalimiseksi.</p>
+<p type="title">Vähemmistöpoliittinen strategia</p>
+<p>Vuoden 2009 kuluessa hallitus esitteli uuden vähemmistöpoliittisen strategian, joka sisältää toimia kansallisten vähemmistöjen oikeuksien edelleen vahvistamiseksi. Hallituksen strategiaan kuuluu myös 1.1.2010 voimaan tullut uusi laki kansallisista vähemmistöistä ja vähemmistökielistä. Strategiaan sisältyy ehdotuksia kansallisten vähemmistöjen oikeuksien vahvistamisesta käytännössä, kuten toimia joilla:</p>
+<list><p type="listitem">varmistetaan Euroopan vähemmistökielisopimusten aikaisempaa parempi noudattaminen ja meneillään olevien toimien seuranta</p>
+<p type="listitem">estetään kansallisten vähemmistöjen syrjintä ja ulkopuolisuus</p>
+<p type="listitem">vahvistetaan kansallisten vähemmistöjen itsemääräämis- ja vaikutusmahdollisuuksia</p>
+<p type="listitem">edistetään kansallisten vähemmistökielten säilyttämistä.</p>
+</list></body></document>

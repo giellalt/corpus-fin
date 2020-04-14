@@ -1,32 +1,8 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Jokainen on velvollinen puolustamaan Suomea - 
+<document xml:lang="fin" id="no_id"><header><title>Jokainen on velvollinen puolustamaan Suomea - 
 	Oikeusministeriö
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>36</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.oikeusministerio.fi/fi/index/julkaisut/esitteet/perustuslaki/jokainenonvelvollinenpuolustamaansuomea.html</origFileName>
-    <parallel_text xml:lang="eng" location="jokainenonvelvollinenpuolustamaansuomea.html"/>
-    <parallel_text xml:lang="sme" location="juohkehaccasleageatnegasvuohtabealustitsuoma.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Perustuslaki</p>
-    <p type="title">Jokainen on velvollinen puolustamaan Suomea</p>
-    <p xml:lang="vep">12 LUKU</p>
-    <p>Jokainen suomalainen on velvollinen puolustamaan Suomea hädän hetkellä.</p>
-    <p>Presidentti on puolustusvoimien ylipäällikkö ja nimittää upseerit. Presidentti päättää hallituksen esityksestä puolustusvoimien liikekannallepanosta. Sodasta ja rauhasta presidentti päättää eduskunnan suostumuksella.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>36</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.oikeusministerio.fi/fi/index/julkaisut/esitteet/perustuslaki/jokainenonvelvollinenpuolustamaansuomea.html</origFileName><parallel_text xml:lang="eng" location="jokainenonvelvollinenpuolustamaansuomea.html"/><parallel_text xml:lang="sme" location="juohkehaccasleageatnegasvuohtabealustitsuoma.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Perustuslaki</p>
+<p type="title">Jokainen on velvollinen puolustamaan Suomea</p>
+<p xml:lang="vep">12 LUKU</p>
+<p>Jokainen suomalainen on velvollinen puolustamaan Suomea hädän hetkellä.</p>
+<p>Presidentti on puolustusvoimien ylipäällikkö ja nimittää upseerit. Presidentti päättää hallituksen esityksestä puolustusvoimien liikekannallepanosta. Sodasta ja rauhasta presidentti päättää eduskunnan suostumuksella.</p>
+</body></document>

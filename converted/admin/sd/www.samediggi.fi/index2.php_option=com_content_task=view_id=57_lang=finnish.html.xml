@@ -1,124 +1,70 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamen kielen toimisto</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>364</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=57&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=57_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=57_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=57_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=57_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamen kielen toimisto</p>
-    <p>Saamen kielen toimiston työntekijät</p>
-    <p>
-      <em type="italic">Kieliturvasihteeri </em>
-    </p>
-    <p>Siiri Jomppanen</p>
-    <p>-toimiston esimies</p>
-    <p>-saamen kielilain toteutumisen valvonta ja seuranta</p>
-    <p>-kielilaista ja muista saamelaisten kielellisistä oikeuksista tiedottaminen.</p>
-    <p>-saamelaisväestön ja viranomaisten neuvonta ja opastaminen saamen kielilain käyttämisestä ja soveltamisesta</p>
-    <p>-toimialaan liittyvien saamelaisia koskevien asioiden käsittelyn seuranta eri viranomaisissa</p>
-    <p>-saamen kielineuvoston esittelijä ja sihteeri sekä päätösten toimeenpanijana tehtäviinsä kuuluvissa  asioissa</p>
-    <p>
-      <em type="italic">Kielenkääntäjät </em>
-    </p>
-    <p>I Kielenkääntäjä - Irma Laiti , toimipaikka Inari</p>
-    <p>II Kielenkääntäjä – Anja Vest , toimipaikka Inari, vv. 31.10.2016 saakka</p>
-    <p>Ma. kielenkääntäjä Anneli Länsman</p>
-    <p>Ma.Kielenkääntäjä– Kirsti Guttorm , toimipaikka Utsjoki</p>
-    <p>ma.kielenkääntäjä Seija Aikio-Järviluoma</p>
-    <p>Inarinsaamen kielenkääntäjä - Tanja Kyrö , vv. 18.5.2016 saakka.</p>
-    <p>Inarinsaamen kääntäjän viransijainen Saammal Morottaja</p>
-    <p>Koltansaamen kääntäjä - Merja Fofonoff</p>
-    <p>Kielenkääntäjät auttavat tarvittaessa viranomaisten kanssa asioinnissa tarvittavien saamenkielisten asiakirjojen kääntämisessä.</p>
-    <p>
-      <em type="italic">SAAMEN KIELEN TOIMISTON HENKILÖKUNTA NEUVOO JA AUTTAA MIELELLÄÄN SAAMEN KIELEEN JA SAAMEN KIELILAKIIN LIITTYVISSÄ ASIOISSA. </em>
-    </p>
-    <p>Tarvitessasi saamen kielen kääntäjää tai tulkkia löydät heidän yhteystiedot alla olevasta linkistä.</p>
-    <p>www.samediggi.fi/tulkit</p>
-    <p>www.samediggi.fi/sanastot</p>
-    <list>
-      <p type="listitem">Inarinsaamen kääntäjät ja tulkit Koltansaamen kääntäjät ja tulkit Pohjoissaamen kielen kääntäjät ja tulkit Saame-Englanti-Norja-Ruotsi-Venäjä kääntäjät ja tulkit</p>
-    </list>
-    <p>
-      <em type="italic">SÁMI GIELLAGÁLDU (SAAMEN KIELIKALTIO) </em>
-    </p>
-    <p>Ammatti- ja resurssikeskuksen  tehtäviä ovat muun muassa kielenhuolto, kielen kehittäminen, terminologiatyö, normitus ja paikannimistöpalvelu. Kielityöntekijät antavat ohjeita ja neuvoja saamen kielten käyttöön liittyvissä kysymyksissä ja valmistelevat oman kielensä asioita kielijaostojen päätettäväksi. Kielijaostot antavat suosituksia saamen kielten käyttöön liittyvistä asioista, kuten normituksesta ja uudesta terminologiasta.</p>
-    <p>Sámi Giellagáldun kotisivulta http://www.giella.org/ löytyy tarkempaa tietoa Sámi Giellagáldusta ja ajankohtaista tietoa ammatti- ja resurssikeskuksen toiminnasta, uutta terminologiaa ja normituksia. Sámi Giellagáldulla on myös FB-sivu www.facebook.com/SamiGiellagaldu , jonka kautta voi esittää saamen kielten käyttöön liittyviä kysymyksiä. Sivulla tiedotetaan myös Sámi Giellagáldun toiminnasta. Kielikysymyksiä voi lähettää myös sähköpostiosoitteeseen info(at)giellagaldu.com  tai soittaa suoraan Sámi Giellagáldun kielityöntekijöille.</p>
-    <p>
-      <em type="italic">S </em>
-      <em type="italic">ÁMI GIELLAGÁLDUN  </em>
-      <em type="italic">Y  HTEYSTIEDOT </em>
-    </p>
-    <p>Marko Marjomaa, projektipäällikkö</p>
-    <p>marko.marjomaa(at)samediggi.fi</p>
-    <p>+358 (0)10 839 3183</p>
-    <p>Mika Saijets, hallintotyöntekijä</p>
-    <p>mika.saijets(at)			samediggi.no</p>
-    <p>+47			78 47 41 48</p>
-    <p>Hannele Sieppi, projektisihteeri</p>
-    <p>hannele.sieppi(at)samediggi.fi</p>
-    <p>+358 40 574 9150</p>
-    <p>
-      <em type="bold">KIELITYÖNTEKIJÄT </em>
-    </p>
-    <p>
-      <em type="bold">Koltansaame </em>
-    </p>
-    <p>Terhi Harju</p>
-    <p>terhi.harju(at)samediggi.fi</p>
-    <p>+358			40 671 9534</p>
-    <p>
-      <em type="bold">Inarinsaame </em>
-    </p>
-    <p>Miina Seurujärvi</p>
-    <p>miina.seurujarvi(at)samediggi.fi</p>
-    <p>+358 (0)10 839 3193</p>
-    <p>Neeta Jääskö</p>
-    <p>neeta.jaasko(at)samediggi.fi</p>
-    <p>+358			40 652 6235</p>
-    <p>
-      <em type="bold">Pohjoissaame </em>
-    </p>
-    <p>Bigga-Helena Magga</p>
-    <p>bigga-helena.magga(at)samediggi.fi</p>
-    <p>+358 40 570			2786</p>
-    <p>Marja K. Partapuoli</p>
-    <p>marja.partapuoli(at)sametinget.se</p>
-    <p>+46			980 780 43</p>
-    <p>Máret</p>
-    <p>Láilá Anti</p>
-    <p>maret.laila.anti(at)samediggi.no</p>
-    <p>+47 78 47 40 87</p>
-    <p>
-      <em type="bold">Luulajansaame  </em>
-    </p>
-    <p>Gun Aira</p>
-    <p>gun.aira(at)sametinget.se</p>
-    <p>+46 980			780 53</p>
-    <p>Svenn-Egil K. Duolljá</p>
-    <p>svenn-egil.knutsen(at)samediggi.no</p>
-    <p>+47			78 47 41 74</p>
-    <p>
-      <em type="bold">Eteläsaame </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamen kielen toimisto</title><genre code="admin"/><author><unknown/></author><wordcount>364</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=57&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=57_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=57_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=57_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=57_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamen kielen toimisto</p>
+<p>Saamen kielen toimiston työntekijät</p>
+<p><em type="italic">Kieliturvasihteeri </em></p>
+<p>Siiri Jomppanen</p>
+<p>-toimiston esimies</p>
+<p>-saamen kielilain toteutumisen valvonta ja seuranta</p>
+<p>-kielilaista ja muista saamelaisten kielellisistä oikeuksista tiedottaminen.</p>
+<p>-saamelaisväestön ja viranomaisten neuvonta ja opastaminen saamen kielilain käyttämisestä ja soveltamisesta</p>
+<p>-toimialaan liittyvien saamelaisia koskevien asioiden käsittelyn seuranta eri viranomaisissa</p>
+<p>-saamen kielineuvoston esittelijä ja sihteeri sekä päätösten toimeenpanijana tehtäviinsä kuuluvissa  asioissa</p>
+<p><em type="italic">Kielenkääntäjät </em></p>
+<p>I Kielenkääntäjä - Irma Laiti , toimipaikka Inari</p>
+<p>II Kielenkääntäjä – Anja Vest , toimipaikka Inari, vv. 31.10.2016 saakka</p>
+<p>Ma. kielenkääntäjä Anneli Länsman</p>
+<p>Ma.Kielenkääntäjä– Kirsti Guttorm , toimipaikka Utsjoki</p>
+<p>ma.kielenkääntäjä Seija Aikio-Järviluoma</p>
+<p>Inarinsaamen kielenkääntäjä - Tanja Kyrö , vv. 18.5.2016 saakka.</p>
+<p>Inarinsaamen kääntäjän viransijainen Saammal Morottaja</p>
+<p>Koltansaamen kääntäjä - Merja Fofonoff</p>
+<p>Kielenkääntäjät auttavat tarvittaessa viranomaisten kanssa asioinnissa tarvittavien saamenkielisten asiakirjojen kääntämisessä.</p>
+<p><em type="italic">SAAMEN KIELEN TOIMISTON HENKILÖKUNTA NEUVOO JA AUTTAA MIELELLÄÄN SAAMEN KIELEEN JA SAAMEN KIELILAKIIN LIITTYVISSÄ ASIOISSA. </em></p>
+<p>Tarvitessasi saamen kielen kääntäjää tai tulkkia löydät heidän yhteystiedot alla olevasta linkistä.</p>
+<p>www.samediggi.fi/tulkit</p>
+<p>www.samediggi.fi/sanastot</p>
+<list><p type="listitem">Inarinsaamen kääntäjät ja tulkit Koltansaamen kääntäjät ja tulkit Pohjoissaamen kielen kääntäjät ja tulkit Saame-Englanti-Norja-Ruotsi-Venäjä kääntäjät ja tulkit</p>
+</list><p><em type="italic">SÁMI GIELLAGÁLDU (SAAMEN KIELIKALTIO) </em></p>
+<p>Ammatti- ja resurssikeskuksen  tehtäviä ovat muun muassa kielenhuolto, kielen kehittäminen, terminologiatyö, normitus ja paikannimistöpalvelu. Kielityöntekijät antavat ohjeita ja neuvoja saamen kielten käyttöön liittyvissä kysymyksissä ja valmistelevat oman kielensä asioita kielijaostojen päätettäväksi. Kielijaostot antavat suosituksia saamen kielten käyttöön liittyvistä asioista, kuten normituksesta ja uudesta terminologiasta.</p>
+<p>Sámi Giellagáldun kotisivulta http://www.giella.org/ löytyy tarkempaa tietoa Sámi Giellagáldusta ja ajankohtaista tietoa ammatti- ja resurssikeskuksen toiminnasta, uutta terminologiaa ja normituksia. Sámi Giellagáldulla on myös FB-sivu www.facebook.com/SamiGiellagaldu , jonka kautta voi esittää saamen kielten käyttöön liittyviä kysymyksiä. Sivulla tiedotetaan myös Sámi Giellagáldun toiminnasta. Kielikysymyksiä voi lähettää myös sähköpostiosoitteeseen info(at)giellagaldu.com  tai soittaa suoraan Sámi Giellagáldun kielityöntekijöille.</p>
+<p><em type="italic">S </em><em type="italic">ÁMI GIELLAGÁLDUN  </em><em type="italic">Y  HTEYSTIEDOT </em></p>
+<p>Marko Marjomaa, projektipäällikkö</p>
+<p>marko.marjomaa(at)samediggi.fi</p>
+<p>+358 (0)10 839 3183</p>
+<p>Mika Saijets, hallintotyöntekijä</p>
+<p>mika.saijets(at)			samediggi.no</p>
+<p>+47			78 47 41 48</p>
+<p>Hannele Sieppi, projektisihteeri</p>
+<p>hannele.sieppi(at)samediggi.fi</p>
+<p>+358 40 574 9150</p>
+<p><em type="bold">KIELITYÖNTEKIJÄT </em></p>
+<p><em type="bold">Koltansaame </em></p>
+<p>Terhi Harju</p>
+<p>terhi.harju(at)samediggi.fi</p>
+<p>+358			40 671 9534</p>
+<p><em type="bold">Inarinsaame </em></p>
+<p>Miina Seurujärvi</p>
+<p>miina.seurujarvi(at)samediggi.fi</p>
+<p>+358 (0)10 839 3193</p>
+<p>Neeta Jääskö</p>
+<p>neeta.jaasko(at)samediggi.fi</p>
+<p>+358			40 652 6235</p>
+<p><em type="bold">Pohjoissaame </em></p>
+<p>Bigga-Helena Magga</p>
+<p>bigga-helena.magga(at)samediggi.fi</p>
+<p>+358 40 570			2786</p>
+<p>Marja K. Partapuoli</p>
+<p>marja.partapuoli(at)sametinget.se</p>
+<p>+46			980 780 43</p>
+<p>Máret</p>
+<p>Láilá Anti</p>
+<p>maret.laila.anti(at)samediggi.no</p>
+<p>+47 78 47 40 87</p>
+<p><em type="bold">Luulajansaame  </em></p>
+<p>Gun Aira</p>
+<p>gun.aira(at)sametinget.se</p>
+<p>+46 980			780 53</p>
+<p>Svenn-Egil K. Duolljá</p>
+<p>svenn-egil.knutsen(at)samediggi.no</p>
+<p>+47			78 47 41 74</p>
+<p><em type="bold">Eteläsaame </em></p>
+</body></document>

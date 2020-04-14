@@ -1,102 +1,71 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Luontoladut ja lumikenkäreitti Inarissa valmiina retkeilijöitä varten — Siida</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2015</year>
-    <wordcount>383</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.siida.fi/sisalto/tiedotteet/luontoladut-ja-lumikenkreitti-inarissa-valmiina-retkeilijit-varten</origFileName>
-    <parallel_text xml:lang="sme" location="meahcceuoiganlhtut-ja-muohtagmajohtolat-leat-grvt-vnddardeddjiide-anris.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="sme">sámegillii |</p>
-      <p type="listitem" xml:lang="eng">in English |</p>
-      <p type="listitem">suomeksi |</p>
-      <p type="listitem" xml:lang="rus">Русский</p>
-    </list>
-    <p xml:lang="nob">Hae</p>
-    <p>Laajennettu haku...</p>
-    <p>Siirry sisältöön. | Siirry navigointiin</p>
-    <p type="title" xml:lang="eng">Osiot</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Pääsivu |</p>
-      <p type="listitem">Kokoelmat |</p>
-      <p type="listitem">Luontopalvelut |</p>
-      <p type="listitem">Ravintola |</p>
-      <p type="listitem">Kokoukset |</p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet |</p>
-      <p type="listitem">Kolttien Perinnetalo</p>
-    </list>
-    <list>
-      <p type="listitem">Sivukartta |</p>
-      <p type="listitem">Ota yhteyttä |</p>
-      <p type="listitem" xml:lang="smj">RSS |</p>
-      <p type="listitem">Uutiskirje</p>
-    </list>
-    <p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
-    <p xml:lang="est">POHJOINEN LUONTO  Luontokeskus</p>
-    <p xml:lang="eng">Info</p>
-    <p xml:lang="smn">Pääsivu</p>
-    <p xml:lang="koi">/</p>
-    <p xml:lang="fkv">Tiedotteet /</p>
-    <p>Luontoladut ja lumikenkäreitti Inarissa valmiina retkeilijöitä varten</p>
-    <p type="title">Luontoladut ja lumikenkäreitti Inarissa valmiina retkeilijöitä varten</p>
-    <p>tiistai 17. Helmikuuta 2015, 16.11</p>
-    <p>Inarin kirkonkylän lähialueilla kiertää kolme luontolatua, joita pitkin pääsee tutustumaan monipuolisiin maisemiin. Juutuajoen vartta pitkin hiihtäessä pääsee nauttimaan jokivarren luonnosta, Inarijärven laajoille selkosille näkee nousemalla Otsamo-tunturin huipulle ja Pielpajärven kirkolle vievä reitti tutustuttaa niin järvellä hiihtämiseen kuin Inarin mäntymetsiinkin.</p>
-    <p>Jäniskoski helmikuussa.</p>
-    <p>Luontoladut huolletaan viikoittain 16.2. alkaen. Maanantaisin ajetaan reitti Juutuanjoelle ja Jäniskosken laavulle, keskiviikkoisin Otsamo-tunturille vievä luontolatu ja perjantaisin aukaistaan reitti Pielpajärven erämaakirkolle. Latuhuollosta vastaavat Inarin yrittäjät yhteistyössä Metsähallituksen luontopalvelujen kanssa. Latuja huolletaan lumitilanteen salliessa huhtikuulle saakka.</p>
-    <p>Inarin kirkonkylällä kulkeva lumikenkäpolku on myös merkitty ja retkeilijöiden käytettävissä. Lumikenkäpolun pituus on noin 1,3 kilometriä ja se kulkee Inarijärven rantamaita Juutuanvuonon suulla. Reitin lähtöpisteet ovat Siidan ja Hotelli Kultahovin pihalla. Siidan ulkomuseoalueelle tultaessa merkinnät loppuvat, mutta ulkomuseon reittejä ja opasteita seuraten pääsee Saamelaismuseo ja Ylä-Lapin luontokeskus Siidan piha-alueelle. Lumikenkäillessä pääsee myös tutustumaan lumeen myös muutoin kun siinä kävelemällä, sillä polun varteen on sijoitettu kahdeksan informaatiotaulua, jotka kertovat lumesta.</p>
-    <p>Ajankohtaisimman tiedon Inarin retkeilyalueen reittien kunnosta saa Ylä-Lapin luontokeskus Siidasta. Luontokeskuksesta voi myös ostaa Inarin retkireitit -karttaa 4 euron hintaa. Jokaisesta reitistä on myös kirjoitettu reittikuvaukset, jotka löytyvät karttalehden kääntöpuolelta.</p>
-    <p>Metsähallituksen luontokeskus, Siida, Inarintie 46, 99870 Inari, puh. 0206 39 7740, siida@metsa.fi , www.siida.fi , www.luontoon.fi</p>
-    <p type="title">Tehdyt toimenpiteet</p>
-    <list>
-      <p type="listitem">Lähetä</p>
-      <p type="listitem">Tulosta</p>
-    </list>
-    <p xml:lang="vep">SISÄLTÖ</p>
-    <p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
-    <p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
-    <p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
-    <p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
-    <p>Saamelainen tarinaperinne ja luonto tutuksi</p>
-    <p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
-    <p>Karhuja Siidan luontoilloissa Inarissa</p>
-    <p>Siidan kesätyöpaikat 2017 auki</p>
-    <p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
-    <p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
-    <p type="title" xml:lang="vep">VIERAILIJAINFO</p>
-    <p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
-    <p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
-    <p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
-    <p>&gt; aukioloajat</p>
-    <p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
-    <p>&gt; yhteystiedot</p>
-    <p>&gt; saavutettavuus</p>
-    <p>&gt; opastukset</p>
-    <p>&gt; Siidan arkkitehtuuri</p>
-    <p>kalenteri</p>
-    <p xml:lang="koi">|</p>
-    <p>mediakuvapankki</p>
-    <p xml:lang="sme">matkailuinfo</p>
-    <p xml:lang="sme">Siida</p>
-    <p xml:lang="sms">Siida Shop</p>
-    <p>Saamelaismuseon blogi</p>
-    <p>medialle | matkanjärjestäjille</p>
-    <p xml:lang="sme">Copyright Siida 2010</p>
-    <p xml:lang="koi">|</p>
-    <p xml:lang="est">Updated 10.6.2010</p>
-    <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Luontoladut ja lumikenkäreitti Inarissa valmiina retkeilijöitä varten — Siida</title><genre code="facta"/><author><unknown/></author><year>2015</year><wordcount>383</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/luontoladut-ja-lumikenkreitti-inarissa-valmiina-retkeilijit-varten</origFileName><parallel_text xml:lang="sme" location="meahcceuoiganlhtut-ja-muohtagmajohtolat-leat-grvt-vnddardeddjiide-anris.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<p type="listitem" xml:lang="eng">in English |</p>
+<p type="listitem">suomeksi |</p>
+<p type="listitem" xml:lang="rus">Русский</p>
+</list><p xml:lang="nob">Hae</p>
+<p>Laajennettu haku...</p>
+<p>Siirry sisältöön. | Siirry navigointiin</p>
+<p type="title" xml:lang="eng">Osiot</p>
+<list><p type="listitem" xml:lang="smn">Pääsivu |</p>
+<p type="listitem">Kokoelmat |</p>
+<p type="listitem">Luontopalvelut |</p>
+<p type="listitem">Ravintola |</p>
+<p type="listitem">Kokoukset |</p>
+<p type="listitem" xml:lang="fkv">Tiedotteet |</p>
+<p type="listitem">Kolttien Perinnetalo</p>
+</list><list><p type="listitem">Sivukartta |</p>
+<p type="listitem">Ota yhteyttä |</p>
+<p type="listitem" xml:lang="smj">RSS |</p>
+<p type="listitem">Uutiskirje</p>
+</list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
+<p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
+<p xml:lang="eng">Info</p>
+<p xml:lang="smn">Pääsivu</p>
+<p xml:lang="vep">/</p>
+<p xml:lang="fkv">Tiedotteet /</p>
+<p>Luontoladut ja lumikenkäreitti Inarissa valmiina retkeilijöitä varten</p>
+<p type="title">Luontoladut ja lumikenkäreitti Inarissa valmiina retkeilijöitä varten</p>
+<p>tiistai 17. Helmikuuta 2015, 16.11</p>
+<p>Inarin kirkonkylän lähialueilla kiertää kolme luontolatua, joita pitkin pääsee tutustumaan monipuolisiin maisemiin. Juutuajoen vartta pitkin hiihtäessä pääsee nauttimaan jokivarren luonnosta, Inarijärven laajoille selkosille näkee nousemalla Otsamo-tunturin huipulle ja Pielpajärven kirkolle vievä reitti tutustuttaa niin järvellä hiihtämiseen kuin Inarin mäntymetsiinkin.</p>
+<p>Jäniskoski helmikuussa.</p>
+<p>Luontoladut huolletaan viikoittain 16.2. alkaen. Maanantaisin ajetaan reitti Juutuanjoelle ja Jäniskosken laavulle, keskiviikkoisin Otsamo-tunturille vievä luontolatu ja perjantaisin aukaistaan reitti Pielpajärven erämaakirkolle. Latuhuollosta vastaavat Inarin yrittäjät yhteistyössä Metsähallituksen luontopalvelujen kanssa. Latuja huolletaan lumitilanteen salliessa huhtikuulle saakka.</p>
+<p>Inarin kirkonkylällä kulkeva lumikenkäpolku on myös merkitty ja retkeilijöiden käytettävissä. Lumikenkäpolun pituus on noin 1,3 kilometriä ja se kulkee Inarijärven rantamaita Juutuanvuonon suulla. Reitin lähtöpisteet ovat Siidan ja Hotelli Kultahovin pihalla. Siidan ulkomuseoalueelle tultaessa merkinnät loppuvat, mutta ulkomuseon reittejä ja opasteita seuraten pääsee Saamelaismuseo ja Ylä-Lapin luontokeskus Siidan piha-alueelle. Lumikenkäillessä pääsee myös tutustumaan lumeen myös muutoin kun siinä kävelemällä, sillä polun varteen on sijoitettu kahdeksan informaatiotaulua, jotka kertovat lumesta.</p>
+<p>Ajankohtaisimman tiedon Inarin retkeilyalueen reittien kunnosta saa Ylä-Lapin luontokeskus Siidasta. Luontokeskuksesta voi myös ostaa Inarin retkireitit -karttaa 4 euron hintaa. Jokaisesta reitistä on myös kirjoitettu reittikuvaukset, jotka löytyvät karttalehden kääntöpuolelta.</p>
+<p>Metsähallituksen luontokeskus, Siida, Inarintie 46, 99870 Inari, puh. 0206 39 7740, siida@metsa.fi , www.siida.fi , www.luontoon.fi</p>
+<p type="title">Tehdyt toimenpiteet</p>
+<list><p type="listitem">Lähetä</p>
+<p type="listitem">Tulosta</p>
+</list><p xml:lang="vep">SISÄLTÖ</p>
+<p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
+<p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
+<p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
+<p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
+<p>Saamelainen tarinaperinne ja luonto tutuksi</p>
+<p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
+<p>Karhuja Siidan luontoilloissa Inarissa</p>
+<p>Siidan kesätyöpaikat 2017 auki</p>
+<p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
+<p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
+<p type="title" xml:lang="deu">VIERAILIJAINFO</p>
+<p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
+<p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
+<p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
+<p>&gt; aukioloajat</p>
+<p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
+<p>&gt; yhteystiedot</p>
+<p>&gt; saavutettavuus</p>
+<p>&gt; opastukset</p>
+<p>&gt; Siidan arkkitehtuuri</p>
+<p>kalenteri</p>
+<p xml:lang="vep">|</p>
+<p>mediakuvapankki</p>
+<p xml:lang="sme">matkailuinfo</p>
+<p xml:lang="sme">Siida</p>
+<p xml:lang="sms">Siida Shop</p>
+<p>Saamelaismuseon blogi</p>
+<p>medialle | matkanjärjestäjille</p>
+<p xml:lang="sme">Copyright Siida 2010</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="est">Updated 10.6.2010</p>
+<p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
+</body></document>

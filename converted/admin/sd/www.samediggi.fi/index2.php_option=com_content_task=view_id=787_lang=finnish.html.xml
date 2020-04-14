@@ -1,129 +1,103 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisten oikeuksia käsittelevät ihmisoikeuselinten uusimmat suositukset</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1643</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=787&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=787_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=787_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisten oikeuksia käsittelevät ihmisoikeuselinten uusimmat suositukset</p>
-    <p type="title">Tämän sivun lyhytosoite on: www.samediggi.fi/suositukset</p>
-    <p type="title">Elin</p>
-    <p type="title">Sopimus</p>
-    <p type="title">Vuosi</p>
-    <p type="title">Suositus</p>
-    <p type="title">Linkki suosituksiin</p>
-    <p>YK:n ihmisoikeuskomitea</p>
-    <p>Kansalais- ja poliittisia oikeuksia koskeva yleissopimus</p>
-    <p>2013</p>
-    <p>Sopimusvaltion tulisi edistää saamelaisten oikeuksien toteutumista vahvistamalla saamelaisten edustuksellisten instituutioiden, kuten saamelaiskäräjien, päätöksentekovaltaa. Sopimusvaltion tulisi lisätä ponnistelujaan lainsäädäntömuutosten tekemiseksi saamelaisten oikeuksien täysimittaiseksi takaamiseksi heidän perinteisillä alueillaan varmistamalla, että saamelaisyhteisöjen oikeutta vapaaseen, ennalta tapahtuvaan ja informoituun osallistumiseen heitä koskeviin poliittisiin prosesseihin ja kehittämishankkeisiin noudatetaan.</p>
-    <p>Sopimusvaltion tulisi myös ryhtyä asianmukaisiin toimiin edistääkseen, siinä laajuudessa kuin on mahdollista, kaikkien saamelaislasten oikeutta saada opetusta omalla kielellään sopimusvaltion alueella.</p>
-    <p>CCPR/C/FIN/CO/6</p>
-    <p>Taloudellisten, sosiaalisten ja sivistyksellisten oikeuksien komitea</p>
-    <p>Taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskeva yleissopimus</p>
-    <p>2007</p>
-    <p>Komitea kehottaa sopimusvaltiota toteuttamaan kaikki tarvittavat toimet, joilla varmistetaan, että metsänhakkuut ja muu toiminta, joita yksityiset tällä hetkellä harjoittavat saamelaisten kotiseutualueella, eivät rajoita saamelaisten oikeutta ylläpitää ja kehittää perinteistä kulttuuriaan ja elämäntapaansa, erityisesti poronhoitoa, eivätkä heidän taloudellisten, sosiaalisten ja sivistyksellisten oikeuksiensa käyttöä.</p>
-    <p>Lisäksi komitea kehottaa sopimusvaltiota - neuvotellen asiasta tiiviisti kaikkien osapuolten kanssa, saamelaiskäräjät mukaan lukien - löytämään asianmukaisen ratkaisun kysymykseen maanomistuksesta ja -käytöstä saamelaisten kotiseutualueella sekä ratifioimaan pikaisesti itsenäisten maiden alkuperäis- ja heimokansoja koskevan ILO:n yleissopimuksen N:o 169.</p>
-    <p>E/C.12/FIN/CO/5</p>
-    <p>Rotusyrjintäkomitea</p>
-    <p>Kaikkinaisen rotusyrjinnän poistamista koskeva kansainvälinen yleissopimus</p>
-    <p>2013</p>
-    <p>11. Komitea suosittelee, että sopimusvaltio saamelaiskäräjistä annettua lakia uudistaessaan lisää saamelaiskäräjien päätösvaltaa saamelaisten kulttuuri-itsehallintoon liittyvissä asioissa, mukaan lukien oikeudet, jotka liittyvät maan ja luonnonvarojen käyttöön saamelaisten perinteisesti asuttamilla alueilla.</p>
-    <p>12. Komitea suosittelee, että kun sopimusvaltio määrittelee, kenellä on äänioikeus saamelais- käräjien vaaleissa, se antaa asianmukaisen painoarvon saamelaisten itsemääräämisoikeudelle, joka liittyy heidän asemaansa Suomessa, heidän oikeudelleen määrätä omasta jäsenyydestään ja oikeudelleen siihen, ettei heitä pakkosulauteta.</p>
-    <p>13. Komitea suosittelee, että sopimusvaltio ottaa tässä yhteydessä huomioon Kansainvälisen työjärjestön yleissopimuksen nro 169, jonka sopimusvaltio on sitoutunut ratifioimaan. Lisäksi komitea suosittelee, että sopimusvaltio ryhtyy asianmukaisiin toimiin suojellakseen saamelaisten perinteistä poronhoitoelinkeinoa.</p>
-    <p>14 Komitea suosittelee myös, että sopimusvaltio tosiasiallisesti varmistaa saamenkielisten sosiaali- ja terveydenhuollon palvelujen saatavuuden saamelaisille näiden koti- seutualueella. Lisäksi komitea suosittelee, että sopimusvaltio jouduttaa opetus- ja kulttuuriministeriön ehdottaman, saamen kielen edistämiseksi ja suojelemiseksi tarkoitetun elvytysohjelman toteuttamista, myös joukkoviestimissä, koulutuksessa, sosiaali- ja terveyspalveluissa ja kulttuurin alalla.</p>
-    <p>CERD/C/FIN/CO/20-22</p>
-    <p>Lapsen oikeuksien komitea</p>
-    <p>Lasten oikeuksien yleissopimus</p>
-    <p>2011</p>
-    <p>63. Komitea suosittelee, että sopimusvaltio:</p>
-    <p>a) seuraa ja arvioi romani- ja saamelaislasten oikeuksien huomioon ottamista kansallisissa suunnitelmissa ja ohjelmissa;</p>
-    <p>b) varmistaa, että romani- ja saamelaislapsilla, myös saamelaisalueen ulkopuolella asuvilla saamelaislapsilla, on oikeus kulttuurisensitiivisiin koulutus- ja terveydenhuoltopalveluihin omalla kielellään;</p>
-    <p>c) tiivistää yhteistyötään Ruotsin ja Norjan hallitusten kanssa muun muassa asioissa, jotka koskevat koulujen opetussuunnitelmia, opettajien koulutusta, opettajien materiaalin tuottamista ja mediasisällön tuottamista saamelaislapsia varten;</p>
-    <p>d)ottaa huomioon komitean yleisen huomautuksen no. 11 (2009) alkuperäiskansojen lapsista ja heidän yleissopimuksen mukaisista oikeuksistaan (CRC/C/GC/11); ja</p>
-    <p>e)ratifioi ILOn yleissopimuksen no. 169 itsenäisten maiden alkuperäis- ja heimokansoista.</p>
-    <p>CRC/C/FIN/CO/4</p>
-    <p>Naisten syrjinnän poistamista käsittelevä komitea</p>
-    <p>Kaikkinaisten naisten syrjinnän poistamista käsittelevä yleissopimu</p>
-    <p>s</p>
-    <p>2014</p>
-    <p>37. Komitea suosittaa, että osapuoli</p>
-    <p>a) varmistaa, että sukupuolinäkökulma on valtavirtaistettu kaikkiin saamelaisia koskeviin poliitikkoihin ja ohjelmiin,</p>
-    <p>b) hyväksyy konkreettisia toimenpiteitä tavoitteenaan lisätä saamelaisnaisten edustusta poliittisessa ja julkisessa elämässä sekä saamelaisyhteisössä että koko yhteiskunnassa,</p>
-    <p>c) ryhtyy toimenpiteisiin varmistaakseen että saamelaisnaisille tarjotaan asianmukaisia sosiaali- ja terveyspalveluja, mukaan lukien äitiyshuolto ja</p>
-    <p>d) varmistaa, että kotiväkivallan uhreina olevilla saamelaisnaisilla on pääsy turvakoteihin ja palveluihin, jotka vastaavat heidän tarpeitaan</p>
-    <p>CEDAW/C/FIN/CO/7</p>
-    <p>ILO:n asiantuntijakomitea</p>
-    <p>Ilon yleissopimus nro 111</p>
-    <p>2012</p>
-    <p>Saamelaisten pääsy perinteisiin elinkeinoihin</p>
-    <p>Komitea pyytää Suomea tiedottamaan saamelaisten ammatillisesta koulutuksesta ja miten se on edistänyt saamelaisten perinteisten elinkeinojen harjoittamista. Komitea myös pyytää Suomea osoittamaan miten laajasti se on ottanut huomioon saamelaisten maahan perustuvat elinkeinot ja elämäntavan toimeenpannessaan erilaisia projekteja ja erilaisia toimenpiteitä saamelaiskäräjien kanssa varmistaakseen saamelaisten pääsyn perinteisiin elinkeinoihin ja millä keinoin nämä tavoitteet on saavutettu.</p>
-    <p>Direct Request (CEACR) - adopted 2012, published 102nd ILC session (2013)</p>
-    <p>Euroopan Neuvoston ministerikomitea</p>
-    <p>Kansallisten vähemmistöjen suojelua koskeva yleissopimus</p>
-    <p>2012</p>
-    <p>ottaen huomioon hallituksen aikomus ratifioida ILOn yleissopimus nro 169 olisi ryhdyttävä pikaisiin toimiin, joilla käynnistetään pysähtyneet neuvottelut saamelaisten kotiseutualueen maaoikeuksista ja aloitetaan uudelleen rakentava vuoropuhelu saamelaiskäräjien kanssa, jotta asiaan liittyvä oikeudellinen epävarmuus saadaan ratkaistuksi;</p>
-    <p>olisi jatkettava saamelaiskäräjien kanssa neuvotellen määrätietoisia toimia, joilla pyritään riittävän rahoituksen ja saamen kielten elvytysohjelman tehokkaan täytäntöönpanon avulla estämään saamen kieliä katoamasta julkisesta elämästä nykyistä enempää,</p>
-    <p>ja olisi investoitava asianmukaisiin koulutustoimiin, joilla varmistetaan, että saamelaiset saavat nykyistä paremmin saamenkielisiä julkisia palveluja;</p>
-    <p>olisi ryhdyttävä asianmukaisiin toimiin, joilla varmistetaan, että kansallisiin vähemmistöihin kuuluvia henkilöitä koskevia erilaisia kuulemisjärjestelmiä ja -menettelyjä täydennetään ja järjestetään uudelleen selkeiden viestintäkanavien tarjoamiseksi, ja olisi parannettava vähemmistöjen, myös lukumääräisesti pienimpien vähemmistöjen, edustajien mahdollisuuksia vaikuttaa tosiasiallisesti päätöksentekoprosessiin;</p>
-    <p>olisi järjestettävä lisätukea vähemmistöjen joukkoviestimille, erityisesti venäjän- ja saamenkielisille viestimille, jotta kyseiset vähemmistökielet olisivat asianmukaisesti läsnä painetuissa ja sähköisissä joukkoviestimissä;</p>
-    <p>olisi luotava hallintoon erityinen järjestelmä, jonka tehtävänä on olla yhteydessä saamelaiskäräjiin kaikissa saamelaisia koskevissa asioissa ja sovittaa yhteen selkeiden hallituksen kantojen kehittämistä saamelaisten kannalta merkittävissä kysymyksissä;</p>
-    <p>olisi ryhdyttävä asianmukaisiin toimiin etenkin korkea-asteen koulutuksen, ammattikoulutuksen ja asianomaisten palvelukseenottokäytäntöjen muuttamisen osalta, jotta saataisiin lisätyksi kansallisiin vähemmistöihin kuuluvien henkilöiden määrää virallisilla työmarkkinoilla, valtionhallinto mukaan lukien</p>
-    <p>CM/ResCMN(2012)3</p>
-    <p>Euroopan Neuvoston ministerikomitea</p>
-    <p>Alueellisia ja vähemmistökieliä koskeva peruskirj</p>
-    <p>a</p>
-    <p>2012</p>
-    <p>1. vahvistavat edelleen saamenkielistä koulutusta, erityisesti kehittämällä järjestelmällisen politiikan ja pitkän aikavälin rahoitussuunnitelman,</p>
-    <p>2. ryhtyvät pikaisesti toimiin suojellakseen ja edistääkseen inarin- ja koltansaamea, jotka ovat erityisenuhanalaisia kieliä, varsinkin järjestämällä pysyvästi toimivia kielipesiä,</p>
-    <p>3.toteuttavat lisätoimia varmistaakseen ruotsin- ja saamenkielisten sosiaali- ja terveydenhuoltopalvelujen saatavuuden,</p>
-    <p>5. ryhtyvät toimiin lisätäkseen tietoisuutta Suomen alueellisista ja vähemmistökielistä ja suvaitsevaisuutta niitä kohtaan, sekä kaikkien koulutusasteiden yleisten opetussuunnitelmien että joukkoviestinten avulla.</p>
-    <p>RecChL(2012)2</p>
-    <p>Euroopan neuvoston ihmisoikeuskomissaari</p>
-    <p>(komissaarin tehtävänä on edistää tietämystä ja kunnioitusta ihmisoikeuksia kohtaan Euroopan neuvoston jäsenmaissa)</p>
-    <p>122. Suomen perustuslaki on tunnustanut saamelaisten aseman Suomen alkuperäiskansana ja taannut heille erityiset kulttuuriset ja kielelliset oikeudet. Oikeuksien tunnustaminen ei kuitenkaan toistaiseksi ole ulottunut maanomistus- eikä poronhoito-oikeuksiin, vaikka YK:n julistus alkuperäiskansojen oikeuksista ja ILO:n sopimus nro 169 selvästi antavat oikeuksia näillä alueilla.</p>
-    <p>Ihmisoikeusvaltuutettu huomauttaa, että Suomen valmistelut ILO:n sopimuksen nro 169 ratifioimiseksi ovat kestäneet jo yli 20 vuotta. Keskeinen kysymys ovat erityistoimenpiteet, joita saamelaisten taloudellisten ja kulttuuristen alkuperäiskansaoikeuksien varmistaminen edellyttää. Kansainvälisen ihmisoikeuslainsäädännön mukaan erityistoimenpiteet voivat olla perusteltuja kyseisessä tilanteessa edellyttäen, että ne ovat oikeassa suhteessa tavoiteltuihin hyväksyttäviin päämääriin nähden. Ihmisoikeusvaltuutettu korostaa, että ratifiointiprosessia ei tule pitää nollasumapelinä, jossa vain toinen osapuoli voittaa, vaan myös valtaväestön maankäyttöoikeudet ja oikeus harjoittaa elinkeinoja tulee ottaa huomioon.</p>
-    <p>123. Ihmisoikeusvaltuutettu kehottaa Suomea ratifioimaan ILO:n sopimuksen nro 169 ja tunnustamaan saamelaisten maankäyttöoikeudet ja oikeuden harjoittaa perinteistä poronhoitoa. Muiden lakiuudistustarpeiden yhtenäinen käsittely edellyttää eri ministeriöiden tiivistä yhteistyötä. Tämä helpottaisi myös neuvotteluja saamelaisedustajien kanssa, joilla on oltava merkittävä rooli ratifiointiprosessissa. Ehdotus eduskunnan ja saamelaiskäräjien yhteisen ratifiointityöryhmän perustamisesta on todella harkitsemisen arvoinen. Metsähallituksen uudistaminen tarjoaa myös mahdollisuuden löytää innovatiivisia ratkaisuja esillä oleviin kysymyksiin.</p>
-    <p>Meneillään olevissa neuvotteluissa pohjoismaisen saamelaissopimuksen aikaansaamiseksi painotetaan, että saamelaiskysymys ylittää valtioiden rajat, ja neuvotteluissa saatetaan korostaa myönteisiä käytäntöjä ja mahdollisuuksia yhdenmukaistettuun lähestymistapaan.</p>
-    <p>CommDH(2012)27</p>
-    <p>Euroopan rasismin ja suvaitsemattomuuden vastainen komissio</p>
-    <p>ECRI</p>
-    <p>( komissio on Euroopan Neuvoston alainen elin, jonka tehtävänä on toimia rasismia, etnistä syrjintää, muukalaisvihaa ja suvaitsemattomuutta vastaan ihmisoikeuksien edistämisen hengessä.)</p>
-    <p>2013</p>
-    <p>ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskulttuurin ja tämän vähemmistön merkityksen käsittelemiseksi kouluopetuksessa ja pyrkivät lisäämään tietoisuutta saamelaiskansasta enemmistön keskuudessa mm. tietoa lisäävin kampanjoin.</p>
-    <p>ECRI kannustaa Suomen viranomaisia seuraamaan saamen kielilain ja saamelaisten äidinkielistä opetusta koskevan oikeuden toteutumista. ECRI suosittaa, että viranomaiset ryhtyvät tarpeellisiin toimiin varmistaakseen näiden oikeuksien tyydyttävän toteutumisen yhteistyössä saamelaisen edustajien kanssa.</p>
-    <p>52. ECRI kannustaa Suomen viranomaisia jatkamaan toimintaansa saamen kielten elvyttämiseksi ja suosittaa, että tätä varten koulutetaan riittävä määrä opettajia. ECRI suosittaa, että Suomen viranomaiset ryhtyvät lisätoimiin sen varmistamiseksi, että saamen kieliä opetetaan sekä saamelaisten kotiseutualueella että sen ulkopuolella. ECRI suosittaa, että Suomen viranomaiset varaavat riittävät taloudelliset ja henkilöresurssit näihin pyrkimyksiin.</p>
-    <p>106. ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskulttuurin ja tämän vähemmistön merkityksen käsittelemiseksi kouluopetuksessa hyödyntäen ECRI:n yleistä politiikkaa koskevaa suositusta n:o 10, joka koskee rasismin ja rotusyrjinnän vastustamista koulussa ja koulun avulla. Lisäksi ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskansaa koskevan yleisen tietoisuuden lisäämiseksi enemmistön piirissä esim. tälle väestölle suunnatuin tietoa lisäävin kampanjoin.</p>
-    <p>(ECRI(2013)19</p>
-    <p>YK:n alkuperäiskansaraportoija</p>
-    <p>YK:n alkuperäiskansojen oikeuksia koskeva julistus</p>
-    <p>2010</p>
-    <p>75.  Erityisraportoija suosittelee, että Pohjoismaat jatkavat ja tehostavat ponnistelujaan saamelaiskansojen itsemääräämisoikeuden sekä aiempaa aidompien vaikuttamismahdollisuuksien toteuttamiseksi heitä koskevan päätöksenteon osalta. Tämä tavoite voidaan jossain määrin saavuttaa aiempaa tehokkaammilla kuulemismenettelyillä, joilla varmistetaan, että saamelaisiin välittömästi vaikuttavia päätöksiä ei tehdä ilman heidän vapaaehtoista ja tietoon perustuvaa etukäteissuostumustaan. Lisäksi valtioiden tulisi harkita yhdessä saamelaiskäräjien kanssa määrättyjen alueiden rajaamista siten, että saamelaiskäräjät toimisivat niiden puitteissa ensisijaisena tai yksinomaisena päätöksentekijöinä etenkin saamelaisia koskevissa kysymyksissä, myös saamelaisten maa-alueisiin, kieliin, perinteisiin elinkeinoihin ja kulttuureihin liittyvissä asioissa.</p>
-    <p>76.  Erityisraportoija suorittelee, että Pohjoismaat ja erityisesti Ruotsi tekisivät tarvittavat uudistukset, joilla varmistetaan saamelaiskäräjien – saamelaiskansojen ylimpänä edustuselimenä – aiempaa suurempi itsenäisyys suhteessa valtion laitoksiin ja viranomaisiin. tavoitteena saamelaiskäräjien itsenäisen päätöksentekovallan kasvattaminen.</p>
-    <p>77.  Pohjoismaiden tulisi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin ne voivat tehokkaasti toteuttaa itsehallinnollisia tehtäviään. Erityisesti olisi järjestettävä aiempaa enemmän rahoitusta saamelaiskäräjien itsenäisesti yksilöimille, kehittämille ja toteuttamille hakkeille ja aloitteille. Valtioiden tulisi kehittää sopivat menettelytavat yhteydenpitoon saamelaiskäräjien kanssa tämän tavoitteen toteuttamiseksi.</p>
-    <p>83.  Suomen tulisi tehostaa toimiaan saamelaisten maa-alueita ja luonnonvaroja koskevien oikeuksien selvittämiseksi ja turvaamiseksi juridisessa mielessä. Suomen tulisi erityisesti varmistaa saamelaisten harjoittaman poronhoidon erityisaseman turvaaminen ottaen huomioon kyseisen elinkeinon keskeinen merkitys saamelaisten kulttuurille ja perinnölle.</p>
-    <p>84.  Luonnonvarojen hyödyntämisen saamelaisalueilla mahdollistavien lainsäädännöllisten ja hallinnollisten mekanismien tulisi olla soveltuvien kansainvälisten normien mukaisia, myös silloin, kun ne koskevat näiden toimien vaikutusten kohteena olevien alkuperäisyhteisöjen asianmukaista kuulemista sekä vapaaehtoista ja tietoon perustuvaa etukäteissuostumusta, vaikutusten lieventämiseksi tarvittavia toimia, korvauksia ja hyötyjen jakamista.</p>
-    <p>85.  Pohjoismaiden tulisi saamelaiskäräjien kanssa neuvotellen koordinoida toimenpiteitä, joilla pyritään hillitsemään ilmastonmuutoksen haitallisia vaikutuksia saamelaisiin. Samalla tulisi varmistaa, että uusiutuvien energianlähteiden käytön edistämiseksi tehtävillä toimenpiteillä, kuten tuulipuistojen rakentamisella, ei itsessään ole haitallista vaikutusta saamelaisten elinkeinoihin.</p>
-    <p>86.  Pohjoismaiden tulee pyrkiä pitämään poronhoitoalueiden petoeläinpopulaatiot paliskuntien sietämillä tasoilla, ja petoeläinten aiheuttamat vahingot tulee korvata poronhoitajille täysimääräisesti.</p>
-    <p>87.  Erityisraportoija suosittelee, että Pohjoismaat ja saamelaiskäräjät tehostavat yhteisiä ponnistelujaan saamelaiskielten elvyttämiseksi ja vahvistavat saamelaiskielten ja -kulttuurin koulutusohjelmia. Valtioiden tulee välittömästi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin näiden tavoitteiden saavuttamiseksi voidaan toteuttaa yhteisesti sovitut toimenpiteet. Valtioiden tulisi myös lisätä saamentaitoisten opettajien saatavuutta ja lukumäärää. Lisäksi valtioiden tulisi pyrkiä vahvistamaan saamelaiskielten käyttöä tuomioistuimessa ja muiden viranomaisten kanssa asioitaessa ja parantaa edelleen julkisten palvelujen saatavuutta saamelaiskielillä.</p>
-    <p>88.  Valtioiden ja saamelaiskäräjien tulisi yhteistoimin kehittää ja toteuttaa toimenpiteitä yleisen tietoisuuden lisäämiseksi saamelaiskansoista mediassa ja suuren yleisön keskuudessa. Tällaista tietoisuuden lisäämistä tulisi edistää muun muassa perus- ja keskiasteen koulujen sekä yliopistojen opetusohjelmissa.</p>
-    <p>SA/HRC/18/XX/Add.Y</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisten oikeuksia käsittelevät ihmisoikeuselinten uusimmat suositukset</title><genre code="admin"/><author><unknown/></author><wordcount>1643</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=787&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=787_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=787_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisten oikeuksia käsittelevät ihmisoikeuselinten uusimmat suositukset</p>
+<p type="title">Tämän sivun lyhytosoite on: www.samediggi.fi/suositukset</p>
+<p type="title">Elin</p>
+<p type="title">Sopimus</p>
+<p type="title">Vuosi</p>
+<p type="title">Suositus</p>
+<p type="title">Linkki suosituksiin</p>
+<p>YK:n ihmisoikeuskomitea</p>
+<p>Kansalais- ja poliittisia oikeuksia koskeva yleissopimus</p>
+<p>2013</p>
+<p>Sopimusvaltion tulisi edistää saamelaisten oikeuksien toteutumista vahvistamalla saamelaisten edustuksellisten instituutioiden, kuten saamelaiskäräjien, päätöksentekovaltaa. Sopimusvaltion tulisi lisätä ponnistelujaan lainsäädäntömuutosten tekemiseksi saamelaisten oikeuksien täysimittaiseksi takaamiseksi heidän perinteisillä alueillaan varmistamalla, että saamelaisyhteisöjen oikeutta vapaaseen, ennalta tapahtuvaan ja informoituun osallistumiseen heitä koskeviin poliittisiin prosesseihin ja kehittämishankkeisiin noudatetaan.</p>
+<p>Sopimusvaltion tulisi myös ryhtyä asianmukaisiin toimiin edistääkseen, siinä laajuudessa kuin on mahdollista, kaikkien saamelaislasten oikeutta saada opetusta omalla kielellään sopimusvaltion alueella.</p>
+<p>CCPR/C/FIN/CO/6</p>
+<p>Taloudellisten, sosiaalisten ja sivistyksellisten oikeuksien komitea</p>
+<p>Taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskeva yleissopimus</p>
+<p>2007</p>
+<p>Komitea kehottaa sopimusvaltiota toteuttamaan kaikki tarvittavat toimet, joilla varmistetaan, että metsänhakkuut ja muu toiminta, joita yksityiset tällä hetkellä harjoittavat saamelaisten kotiseutualueella, eivät rajoita saamelaisten oikeutta ylläpitää ja kehittää perinteistä kulttuuriaan ja elämäntapaansa, erityisesti poronhoitoa, eivätkä heidän taloudellisten, sosiaalisten ja sivistyksellisten oikeuksiensa käyttöä.</p>
+<p>Lisäksi komitea kehottaa sopimusvaltiota - neuvotellen asiasta tiiviisti kaikkien osapuolten kanssa, saamelaiskäräjät mukaan lukien - löytämään asianmukaisen ratkaisun kysymykseen maanomistuksesta ja -käytöstä saamelaisten kotiseutualueella sekä ratifioimaan pikaisesti itsenäisten maiden alkuperäis- ja heimokansoja koskevan ILO:n yleissopimuksen N:o 169.</p>
+<p>E/C.12/FIN/CO/5</p>
+<p>Rotusyrjintäkomitea</p>
+<p>Kaikkinaisen rotusyrjinnän poistamista koskeva kansainvälinen yleissopimus</p>
+<p>2013</p>
+<p>11. Komitea suosittelee, että sopimusvaltio saamelaiskäräjistä annettua lakia uudistaessaan lisää saamelaiskäräjien päätösvaltaa saamelaisten kulttuuri-itsehallintoon liittyvissä asioissa, mukaan lukien oikeudet, jotka liittyvät maan ja luonnonvarojen käyttöön saamelaisten perinteisesti asuttamilla alueilla.</p>
+<p>12. Komitea suosittelee, että kun sopimusvaltio määrittelee, kenellä on äänioikeus saamelais- käräjien vaaleissa, se antaa asianmukaisen painoarvon saamelaisten itsemääräämisoikeudelle, joka liittyy heidän asemaansa Suomessa, heidän oikeudelleen määrätä omasta jäsenyydestään ja oikeudelleen siihen, ettei heitä pakkosulauteta.</p>
+<p>13. Komitea suosittelee, että sopimusvaltio ottaa tässä yhteydessä huomioon Kansainvälisen työjärjestön yleissopimuksen nro 169, jonka sopimusvaltio on sitoutunut ratifioimaan. Lisäksi komitea suosittelee, että sopimusvaltio ryhtyy asianmukaisiin toimiin suojellakseen saamelaisten perinteistä poronhoitoelinkeinoa.</p>
+<p>14 Komitea suosittelee myös, että sopimusvaltio tosiasiallisesti varmistaa saamenkielisten sosiaali- ja terveydenhuollon palvelujen saatavuuden saamelaisille näiden koti- seutualueella. Lisäksi komitea suosittelee, että sopimusvaltio jouduttaa opetus- ja kulttuuriministeriön ehdottaman, saamen kielen edistämiseksi ja suojelemiseksi tarkoitetun elvytysohjelman toteuttamista, myös joukkoviestimissä, koulutuksessa, sosiaali- ja terveyspalveluissa ja kulttuurin alalla.</p>
+<p>CERD/C/FIN/CO/20-22</p>
+<p>Lapsen oikeuksien komitea</p>
+<p>Lasten oikeuksien yleissopimus</p>
+<p>2011</p>
+<p>63. Komitea suosittelee, että sopimusvaltio:</p>
+<p>a) seuraa ja arvioi romani- ja saamelaislasten oikeuksien huomioon ottamista kansallisissa suunnitelmissa ja ohjelmissa;</p>
+<p>b) varmistaa, että romani- ja saamelaislapsilla, myös saamelaisalueen ulkopuolella asuvilla saamelaislapsilla, on oikeus kulttuurisensitiivisiin koulutus- ja terveydenhuoltopalveluihin omalla kielellään;</p>
+<p>c) tiivistää yhteistyötään Ruotsin ja Norjan hallitusten kanssa muun muassa asioissa, jotka koskevat koulujen opetussuunnitelmia, opettajien koulutusta, opettajien materiaalin tuottamista ja mediasisällön tuottamista saamelaislapsia varten;</p>
+<p>d)ottaa huomioon komitean yleisen huomautuksen no. 11 (2009) alkuperäiskansojen lapsista ja heidän yleissopimuksen mukaisista oikeuksistaan (CRC/C/GC/11); ja</p>
+<p>e)ratifioi ILOn yleissopimuksen no. 169 itsenäisten maiden alkuperäis- ja heimokansoista.</p>
+<p>CRC/C/FIN/CO/4</p>
+<p>Naisten syrjinnän poistamista käsittelevä komitea</p>
+<p>Kaikkinaisten naisten syrjinnän poistamista käsittelevä yleissopimu</p>
+<p>s</p>
+<p>2014</p>
+<p>37. Komitea suosittaa, että osapuoli</p>
+<p>a) varmistaa, että sukupuolinäkökulma on valtavirtaistettu kaikkiin saamelaisia koskeviin poliitikkoihin ja ohjelmiin,</p>
+<p>b) hyväksyy konkreettisia toimenpiteitä tavoitteenaan lisätä saamelaisnaisten edustusta poliittisessa ja julkisessa elämässä sekä saamelaisyhteisössä että koko yhteiskunnassa,</p>
+<p>c) ryhtyy toimenpiteisiin varmistaakseen että saamelaisnaisille tarjotaan asianmukaisia sosiaali- ja terveyspalveluja, mukaan lukien äitiyshuolto ja</p>
+<p>d) varmistaa, että kotiväkivallan uhreina olevilla saamelaisnaisilla on pääsy turvakoteihin ja palveluihin, jotka vastaavat heidän tarpeitaan</p>
+<p>CEDAW/C/FIN/CO/7</p>
+<p>ILO:n asiantuntijakomitea</p>
+<p>Ilon yleissopimus nro 111</p>
+<p>2012</p>
+<p>Saamelaisten pääsy perinteisiin elinkeinoihin</p>
+<p>Komitea pyytää Suomea tiedottamaan saamelaisten ammatillisesta koulutuksesta ja miten se on edistänyt saamelaisten perinteisten elinkeinojen harjoittamista. Komitea myös pyytää Suomea osoittamaan miten laajasti se on ottanut huomioon saamelaisten maahan perustuvat elinkeinot ja elämäntavan toimeenpannessaan erilaisia projekteja ja erilaisia toimenpiteitä saamelaiskäräjien kanssa varmistaakseen saamelaisten pääsyn perinteisiin elinkeinoihin ja millä keinoin nämä tavoitteet on saavutettu.</p>
+<p>Direct Request (CEACR) - adopted 2012, published 102nd ILC session (2013)</p>
+<p>Euroopan Neuvoston ministerikomitea</p>
+<p>Kansallisten vähemmistöjen suojelua koskeva yleissopimus</p>
+<p>2012</p>
+<p>ottaen huomioon hallituksen aikomus ratifioida ILOn yleissopimus nro 169 olisi ryhdyttävä pikaisiin toimiin, joilla käynnistetään pysähtyneet neuvottelut saamelaisten kotiseutualueen maaoikeuksista ja aloitetaan uudelleen rakentava vuoropuhelu saamelaiskäräjien kanssa, jotta asiaan liittyvä oikeudellinen epävarmuus saadaan ratkaistuksi;</p>
+<p>olisi jatkettava saamelaiskäräjien kanssa neuvotellen määrätietoisia toimia, joilla pyritään riittävän rahoituksen ja saamen kielten elvytysohjelman tehokkaan täytäntöönpanon avulla estämään saamen kieliä katoamasta julkisesta elämästä nykyistä enempää,</p>
+<p>ja olisi investoitava asianmukaisiin koulutustoimiin, joilla varmistetaan, että saamelaiset saavat nykyistä paremmin saamenkielisiä julkisia palveluja;</p>
+<p>olisi ryhdyttävä asianmukaisiin toimiin, joilla varmistetaan, että kansallisiin vähemmistöihin kuuluvia henkilöitä koskevia erilaisia kuulemisjärjestelmiä ja -menettelyjä täydennetään ja järjestetään uudelleen selkeiden viestintäkanavien tarjoamiseksi, ja olisi parannettava vähemmistöjen, myös lukumääräisesti pienimpien vähemmistöjen, edustajien mahdollisuuksia vaikuttaa tosiasiallisesti päätöksentekoprosessiin;</p>
+<p>olisi järjestettävä lisätukea vähemmistöjen joukkoviestimille, erityisesti venäjän- ja saamenkielisille viestimille, jotta kyseiset vähemmistökielet olisivat asianmukaisesti läsnä painetuissa ja sähköisissä joukkoviestimissä;</p>
+<p>olisi luotava hallintoon erityinen järjestelmä, jonka tehtävänä on olla yhteydessä saamelaiskäräjiin kaikissa saamelaisia koskevissa asioissa ja sovittaa yhteen selkeiden hallituksen kantojen kehittämistä saamelaisten kannalta merkittävissä kysymyksissä;</p>
+<p>olisi ryhdyttävä asianmukaisiin toimiin etenkin korkea-asteen koulutuksen, ammattikoulutuksen ja asianomaisten palvelukseenottokäytäntöjen muuttamisen osalta, jotta saataisiin lisätyksi kansallisiin vähemmistöihin kuuluvien henkilöiden määrää virallisilla työmarkkinoilla, valtionhallinto mukaan lukien</p>
+<p>CM/ResCMN(2012)3</p>
+<p>Euroopan Neuvoston ministerikomitea</p>
+<p>Alueellisia ja vähemmistökieliä koskeva peruskirj</p>
+<p>a</p>
+<p>2012</p>
+<p>1. vahvistavat edelleen saamenkielistä koulutusta, erityisesti kehittämällä järjestelmällisen politiikan ja pitkän aikavälin rahoitussuunnitelman,</p>
+<p>2. ryhtyvät pikaisesti toimiin suojellakseen ja edistääkseen inarin- ja koltansaamea, jotka ovat erityisenuhanalaisia kieliä, varsinkin järjestämällä pysyvästi toimivia kielipesiä,</p>
+<p>3.toteuttavat lisätoimia varmistaakseen ruotsin- ja saamenkielisten sosiaali- ja terveydenhuoltopalvelujen saatavuuden,</p>
+<p>5. ryhtyvät toimiin lisätäkseen tietoisuutta Suomen alueellisista ja vähemmistökielistä ja suvaitsevaisuutta niitä kohtaan, sekä kaikkien koulutusasteiden yleisten opetussuunnitelmien että joukkoviestinten avulla.</p>
+<p>RecChL(2012)2</p>
+<p>Euroopan neuvoston ihmisoikeuskomissaari</p>
+<p>(komissaarin tehtävänä on edistää tietämystä ja kunnioitusta ihmisoikeuksia kohtaan Euroopan neuvoston jäsenmaissa)</p>
+<p>122. Suomen perustuslaki on tunnustanut saamelaisten aseman Suomen alkuperäiskansana ja taannut heille erityiset kulttuuriset ja kielelliset oikeudet. Oikeuksien tunnustaminen ei kuitenkaan toistaiseksi ole ulottunut maanomistus- eikä poronhoito-oikeuksiin, vaikka YK:n julistus alkuperäiskansojen oikeuksista ja ILO:n sopimus nro 169 selvästi antavat oikeuksia näillä alueilla.</p>
+<p>Ihmisoikeusvaltuutettu huomauttaa, että Suomen valmistelut ILO:n sopimuksen nro 169 ratifioimiseksi ovat kestäneet jo yli 20 vuotta. Keskeinen kysymys ovat erityistoimenpiteet, joita saamelaisten taloudellisten ja kulttuuristen alkuperäiskansaoikeuksien varmistaminen edellyttää. Kansainvälisen ihmisoikeuslainsäädännön mukaan erityistoimenpiteet voivat olla perusteltuja kyseisessä tilanteessa edellyttäen, että ne ovat oikeassa suhteessa tavoiteltuihin hyväksyttäviin päämääriin nähden. Ihmisoikeusvaltuutettu korostaa, että ratifiointiprosessia ei tule pitää nollasumapelinä, jossa vain toinen osapuoli voittaa, vaan myös valtaväestön maankäyttöoikeudet ja oikeus harjoittaa elinkeinoja tulee ottaa huomioon.</p>
+<p>123. Ihmisoikeusvaltuutettu kehottaa Suomea ratifioimaan ILO:n sopimuksen nro 169 ja tunnustamaan saamelaisten maankäyttöoikeudet ja oikeuden harjoittaa perinteistä poronhoitoa. Muiden lakiuudistustarpeiden yhtenäinen käsittely edellyttää eri ministeriöiden tiivistä yhteistyötä. Tämä helpottaisi myös neuvotteluja saamelaisedustajien kanssa, joilla on oltava merkittävä rooli ratifiointiprosessissa. Ehdotus eduskunnan ja saamelaiskäräjien yhteisen ratifiointityöryhmän perustamisesta on todella harkitsemisen arvoinen. Metsähallituksen uudistaminen tarjoaa myös mahdollisuuden löytää innovatiivisia ratkaisuja esillä oleviin kysymyksiin.</p>
+<p>Meneillään olevissa neuvotteluissa pohjoismaisen saamelaissopimuksen aikaansaamiseksi painotetaan, että saamelaiskysymys ylittää valtioiden rajat, ja neuvotteluissa saatetaan korostaa myönteisiä käytäntöjä ja mahdollisuuksia yhdenmukaistettuun lähestymistapaan.</p>
+<p>CommDH(2012)27</p>
+<p>Euroopan rasismin ja suvaitsemattomuuden vastainen komissio</p>
+<p>ECRI</p>
+<p>( komissio on Euroopan Neuvoston alainen elin, jonka tehtävänä on toimia rasismia, etnistä syrjintää, muukalaisvihaa ja suvaitsemattomuutta vastaan ihmisoikeuksien edistämisen hengessä.)</p>
+<p>2013</p>
+<p>ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskulttuurin ja tämän vähemmistön merkityksen käsittelemiseksi kouluopetuksessa ja pyrkivät lisäämään tietoisuutta saamelaiskansasta enemmistön keskuudessa mm. tietoa lisäävin kampanjoin.</p>
+<p>ECRI kannustaa Suomen viranomaisia seuraamaan saamen kielilain ja saamelaisten äidinkielistä opetusta koskevan oikeuden toteutumista. ECRI suosittaa, että viranomaiset ryhtyvät tarpeellisiin toimiin varmistaakseen näiden oikeuksien tyydyttävän toteutumisen yhteistyössä saamelaisen edustajien kanssa.</p>
+<p>52. ECRI kannustaa Suomen viranomaisia jatkamaan toimintaansa saamen kielten elvyttämiseksi ja suosittaa, että tätä varten koulutetaan riittävä määrä opettajia. ECRI suosittaa, että Suomen viranomaiset ryhtyvät lisätoimiin sen varmistamiseksi, että saamen kieliä opetetaan sekä saamelaisten kotiseutualueella että sen ulkopuolella. ECRI suosittaa, että Suomen viranomaiset varaavat riittävät taloudelliset ja henkilöresurssit näihin pyrkimyksiin.</p>
+<p>106. ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskulttuurin ja tämän vähemmistön merkityksen käsittelemiseksi kouluopetuksessa hyödyntäen ECRI:n yleistä politiikkaa koskevaa suositusta n:o 10, joka koskee rasismin ja rotusyrjinnän vastustamista koulussa ja koulun avulla. Lisäksi ECRI suosittaa, että Suomen viranomaiset ryhtyvät toimenpiteisiin saamelaiskansaa koskevan yleisen tietoisuuden lisäämiseksi enemmistön piirissä esim. tälle väestölle suunnatuin tietoa lisäävin kampanjoin.</p>
+<p>(ECRI(2013)19</p>
+<p>YK:n alkuperäiskansaraportoija</p>
+<p>YK:n alkuperäiskansojen oikeuksia koskeva julistus</p>
+<p>2010</p>
+<p>75.  Erityisraportoija suosittelee, että Pohjoismaat jatkavat ja tehostavat ponnistelujaan saamelaiskansojen itsemääräämisoikeuden sekä aiempaa aidompien vaikuttamismahdollisuuksien toteuttamiseksi heitä koskevan päätöksenteon osalta. Tämä tavoite voidaan jossain määrin saavuttaa aiempaa tehokkaammilla kuulemismenettelyillä, joilla varmistetaan, että saamelaisiin välittömästi vaikuttavia päätöksiä ei tehdä ilman heidän vapaaehtoista ja tietoon perustuvaa etukäteissuostumustaan. Lisäksi valtioiden tulisi harkita yhdessä saamelaiskäräjien kanssa määrättyjen alueiden rajaamista siten, että saamelaiskäräjät toimisivat niiden puitteissa ensisijaisena tai yksinomaisena päätöksentekijöinä etenkin saamelaisia koskevissa kysymyksissä, myös saamelaisten maa-alueisiin, kieliin, perinteisiin elinkeinoihin ja kulttuureihin liittyvissä asioissa.</p>
+<p>76.  Erityisraportoija suorittelee, että Pohjoismaat ja erityisesti Ruotsi tekisivät tarvittavat uudistukset, joilla varmistetaan saamelaiskäräjien – saamelaiskansojen ylimpänä edustuselimenä – aiempaa suurempi itsenäisyys suhteessa valtion laitoksiin ja viranomaisiin. tavoitteena saamelaiskäräjien itsenäisen päätöksentekovallan kasvattaminen.</p>
+<p>77.  Pohjoismaiden tulisi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin ne voivat tehokkaasti toteuttaa itsehallinnollisia tehtäviään. Erityisesti olisi järjestettävä aiempaa enemmän rahoitusta saamelaiskäräjien itsenäisesti yksilöimille, kehittämille ja toteuttamille hakkeille ja aloitteille. Valtioiden tulisi kehittää sopivat menettelytavat yhteydenpitoon saamelaiskäräjien kanssa tämän tavoitteen toteuttamiseksi.</p>
+<p>83.  Suomen tulisi tehostaa toimiaan saamelaisten maa-alueita ja luonnonvaroja koskevien oikeuksien selvittämiseksi ja turvaamiseksi juridisessa mielessä. Suomen tulisi erityisesti varmistaa saamelaisten harjoittaman poronhoidon erityisaseman turvaaminen ottaen huomioon kyseisen elinkeinon keskeinen merkitys saamelaisten kulttuurille ja perinnölle.</p>
+<p>84.  Luonnonvarojen hyödyntämisen saamelaisalueilla mahdollistavien lainsäädännöllisten ja hallinnollisten mekanismien tulisi olla soveltuvien kansainvälisten normien mukaisia, myös silloin, kun ne koskevat näiden toimien vaikutusten kohteena olevien alkuperäisyhteisöjen asianmukaista kuulemista sekä vapaaehtoista ja tietoon perustuvaa etukäteissuostumusta, vaikutusten lieventämiseksi tarvittavia toimia, korvauksia ja hyötyjen jakamista.</p>
+<p>85.  Pohjoismaiden tulisi saamelaiskäräjien kanssa neuvotellen koordinoida toimenpiteitä, joilla pyritään hillitsemään ilmastonmuutoksen haitallisia vaikutuksia saamelaisiin. Samalla tulisi varmistaa, että uusiutuvien energianlähteiden käytön edistämiseksi tehtävillä toimenpiteillä, kuten tuulipuistojen rakentamisella, ei itsessään ole haitallista vaikutusta saamelaisten elinkeinoihin.</p>
+<p>86.  Pohjoismaiden tulee pyrkiä pitämään poronhoitoalueiden petoeläinpopulaatiot paliskuntien sietämillä tasoilla, ja petoeläinten aiheuttamat vahingot tulee korvata poronhoitajille täysimääräisesti.</p>
+<p>87.  Erityisraportoija suosittelee, että Pohjoismaat ja saamelaiskäräjät tehostavat yhteisiä ponnistelujaan saamelaiskielten elvyttämiseksi ja vahvistavat saamelaiskielten ja -kulttuurin koulutusohjelmia. Valtioiden tulee välittömästi järjestää saamelaiskäräjille riittävä rahoitus, jonka turvin näiden tavoitteiden saavuttamiseksi voidaan toteuttaa yhteisesti sovitut toimenpiteet. Valtioiden tulisi myös lisätä saamentaitoisten opettajien saatavuutta ja lukumäärää. Lisäksi valtioiden tulisi pyrkiä vahvistamaan saamelaiskielten käyttöä tuomioistuimessa ja muiden viranomaisten kanssa asioitaessa ja parantaa edelleen julkisten palvelujen saatavuutta saamelaiskielillä.</p>
+<p>88.  Valtioiden ja saamelaiskäräjien tulisi yhteistoimin kehittää ja toteuttaa toimenpiteitä yleisen tietoisuuden lisäämiseksi saamelaiskansoista mediassa ja suuren yleisön keskuudessa. Tällaista tietoisuuden lisäämistä tulisi edistää muun muassa perus- ja keskiasteen koulujen sekä yliopistojen opetusohjelmissa.</p>
+<p>SA/HRC/18/XX/Add.Y</p>
+</body></document>

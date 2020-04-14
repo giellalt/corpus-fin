@@ -1,106 +1,71 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Inarin retkeilyalueen nähtävyydet - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>368</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/inari/nahtavyydet</origFileName>
-    <parallel_text xml:lang="sme" location="oaidnamusat_15.html"/>
-    <parallel_text xml:lang="smn" location="uainamusah.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Inari</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja julkaisut</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Evo</p>
-      <p type="listitem">Inari</p>
-      <p type="listitem">Iso-Syöte</p>
-      <p type="listitem">Kylmäluoma</p>
-      <p type="listitem">Napapiiri</p>
-      <p type="listitem">Oulujärvi</p>
-      <p type="listitem">Ruunaa</p>
-    </list>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja julkaisut</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p>Inarin sivut</p>
-    <p type="title">Inari</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja julkaisut</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p type="title">Inarin nähtävyydet</p>
-    <p type="title">Siida</p>
-    <p>Saamelaismuseo ja Ylä-Lapin luontokeskus Siida (www.siida.fi) on yksi Pohjoismaiden upeimmista näyttelykeskuksista. Siellä voi tutustua saamelaiskulttuuriin ja Ylä-Lapin luontoon. Pysyvien ja vaihtuvien näyttelyiden lisäksi Siidasta saa retkeilyneuvonnan, kartat ja luvat koko Ylä-Lapin alueelle.</p>
-    <p type="title">Ukonsaari</p>
-    <p>Inarijärven Ukonselällä, noin 11 km Inarin kylältä itäkoilliseen, kohoaa oudonnäköinen ja köyryselkäinen, korkea kalliosaari. Saarta kutsutaan Ukonsaareksi, joskus lyhyesti vain Ukoksi. Saari on vain 300 metriä pitkä, 100 metriä leveä ja 30 metriä korkea. Sen olemus on kuitenkin huomiota herättävä ja siitä on tullut merkittävä luonnonnähtävyys Inarissa. Ennen kaikkea Ukonsaari on tunnettu, laajasti palvottu ja kunnioitettu saamelaisten pyhä paikka. Lue lisää Ukonsaaresta .</p>
-    <p type="title">Pielpajärven erämaakirkko</p>
-    <p>Pielpajärven erämaakirkko sijaitsee vajaan 10 km:n päässä Inarin kylästä. Kirkolle lähtee 5 km:n mittainen polku kolmen kilometrin päässä Siidasta, Sarviniementien varresta. Veneellä liikkuva voi kävellä kirkolle Pielpavuonosta, tämän reitin pituus on 3 km. Kirkko on rakennettu vuosina 1752-1760 ja se oli käytössä 1800-luvun loppuun saakka, minä aikana kirkko oli Inarin keskuspaikka. Kirkossa pidetään muutama jumalanpalvelus vuodessa ja siellä myös vihitään aviopareja.</p>
-    <p type="title">Otsamotunturi</p>
-    <p>Otsamotunturi (418 m) sijaitsee 8 km päässä Inarin kylästä. Tunturin laelta avautuu näkymä Inarijärvelle, Juutuanjoelle, Muddusjärvelle, Muotkatuntureille ja Joenkielisen tunturille. Reitti Otsamolle lähtee Siidaa vastapäätä. Myös Nuorisokeskus Vasatokan pihasta lähtee 10 km:n pituinen polku Otsamolle.</p>
-    <p type="title">Korkia-Mauran jääluola</p>
-    <p>Korkia-Mauran saari sijaitsee Inarijärven eteläosassa. Saarella olevan 15 metriä pitkän, 1–3,5 metriä leveän ja 1,5–4 metriä korkean luolan pohjan jääkerros on säilynyt sulamattomana jo satojen vuosien ajan. Viime vuosina Korkia-Mauran luolan jää on kuitenkin kesäisin sulanut entistä enemmän, sillä paikalla käyvien matkailijoiden mukana luolaan tulee lämpöä. Inarijärven kalastajat ovat käyttäneet jääluolaa aikojen saatossa kalakellarinaan. 1600-luvulla luolan kerrotaan olleen kuuluisan seitojen hävittäjä <em type="italic">Päiviö Vuolabin </em>käytössä. Nykyisin Korkia-Mauran jääluola on suosittu nähtävyys. Saarella on veneilylaituri, tulentekopaikka sekä kuivakäymälä. Kesäisin paikalle pääsee vain veneellä, talvisin hiihtäen tai moottorikelkalla. </p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Inarin retkeilyalueen nähtävyydet - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>368</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/inari/nahtavyydet</origFileName><parallel_text xml:lang="sme" location="oaidnamusat_15.html"/><parallel_text xml:lang="smn" location="uainamusah.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Inari</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja julkaisut</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Evo</p>
+<p type="listitem">Inari</p>
+<p type="listitem">Iso-Syöte</p>
+<p type="listitem">Kylmäluoma</p>
+<p type="listitem">Napapiiri</p>
+<p type="listitem">Oulujärvi</p>
+<p type="listitem">Ruunaa</p>
+</list><list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja julkaisut</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p>Inarin sivut</p>
+<p type="title">Inari</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja julkaisut</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p type="title">Inarin nähtävyydet</p>
+<p type="title">Siida</p>
+<p>Saamelaismuseo ja Ylä-Lapin luontokeskus Siida (www.siida.fi) on yksi Pohjoismaiden upeimmista näyttelykeskuksista. Siellä voi tutustua saamelaiskulttuuriin ja Ylä-Lapin luontoon. Pysyvien ja vaihtuvien näyttelyiden lisäksi Siidasta saa retkeilyneuvonnan, kartat ja luvat koko Ylä-Lapin alueelle.</p>
+<p type="title">Ukonsaari</p>
+<p>Inarijärven Ukonselällä, noin 11 km Inarin kylältä itäkoilliseen, kohoaa oudonnäköinen ja köyryselkäinen, korkea kalliosaari. Saarta kutsutaan Ukonsaareksi, joskus lyhyesti vain Ukoksi. Saari on vain 300 metriä pitkä, 100 metriä leveä ja 30 metriä korkea. Sen olemus on kuitenkin huomiota herättävä ja siitä on tullut merkittävä luonnonnähtävyys Inarissa. Ennen kaikkea Ukonsaari on tunnettu, laajasti palvottu ja kunnioitettu saamelaisten pyhä paikka. Lue lisää Ukonsaaresta .</p>
+<p type="title">Pielpajärven erämaakirkko</p>
+<p>Pielpajärven erämaakirkko sijaitsee vajaan 10 km:n päässä Inarin kylästä. Kirkolle lähtee 5 km:n mittainen polku kolmen kilometrin päässä Siidasta, Sarviniementien varresta. Veneellä liikkuva voi kävellä kirkolle Pielpavuonosta, tämän reitin pituus on 3 km. Kirkko on rakennettu vuosina 1752-1760 ja se oli käytössä 1800-luvun loppuun saakka, minä aikana kirkko oli Inarin keskuspaikka. Kirkossa pidetään muutama jumalanpalvelus vuodessa ja siellä myös vihitään aviopareja.</p>
+<p type="title">Otsamotunturi</p>
+<p>Otsamotunturi (418 m) sijaitsee 8 km päässä Inarin kylästä. Tunturin laelta avautuu näkymä Inarijärvelle, Juutuanjoelle, Muddusjärvelle, Muotkatuntureille ja Joenkielisen tunturille. Reitti Otsamolle lähtee Siidaa vastapäätä. Myös Nuorisokeskus Vasatokan pihasta lähtee 10 km:n pituinen polku Otsamolle.</p>
+<p type="title">Korkia-Mauran jääluola</p>
+<p>Korkia-Mauran saari sijaitsee Inarijärven eteläosassa. Saarella olevan 15 metriä pitkän, 1–3,5 metriä leveän ja 1,5–4 metriä korkean luolan pohjan jääkerros on säilynyt sulamattomana jo satojen vuosien ajan. Viime vuosina Korkia-Mauran luolan jää on kuitenkin kesäisin sulanut entistä enemmän, sillä paikalla käyvien matkailijoiden mukana luolaan tulee lämpöä. Inarijärven kalastajat ovat käyttäneet jääluolaa aikojen saatossa kalakellarinaan. 1600-luvulla luolan kerrotaan olleen kuuluisan seitojen hävittäjä <em type="italic">Päiviö Vuolabin </em>käytössä. Nykyisin Korkia-Mauran jääluola on suosittu nähtävyys. Saarella on veneilylaituri, tulentekopaikka sekä kuivakäymälä. Kesäisin paikalle pääsee vain veneellä, talvisin hiihtäen tai moottorikelkalla. </p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

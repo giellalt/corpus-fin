@@ -1,121 +1,93 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Veskoniemen venesatama - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>613</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/inarijarvimelojille/reittiselostus/veskoniemenvenesatama</origFileName>
-    <parallel_text xml:lang="eng" location="veskoniemiharbour.html"/>
-    <parallel_text xml:lang="sme" location="veskonjarggafanash.html"/>
-    <parallel_text xml:lang="smn" location="viaskoonjaargakarbishaamman.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Inarijärvi melojille</p>
-    <list>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p><p type="listitem">Nanguniemen venesatama</p><p type="listitem">Nellimin venesatamasta</p><p type="listitem">Partakon suunnasta</p><p type="listitem">Veskoniemen venesatama</p></list> </p>
-      <p type="listitem">Vaativuus</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Björkö-Panike 12,5 km</p>
-      <p type="listitem">Herajärven kierros 30 - 61 km</p>
-      <p type="listitem">Hetta - Pallas 55 km</p>
-      <p type="listitem">Hossan vesireitit</p>
-      <p type="listitem">Inarijärvi melojille</p>
-      <p type="listitem">Inarin alueen vesireitit</p>
-      <p type="listitem">Itärajan kesäretkeilyreitti</p>
-      <p type="listitem">Kalottireitti 800 km</p>
-      <p type="listitem">Karhunkierros 82 km</p>
-      <p type="listitem">Kevon reitti 63 km</p>
-      <p type="listitem">Nuorttin retkeilyreitti 40 km</p>
-      <p type="listitem">Petranpolku 45 km</p>
-      <p type="listitem">Peuran polku 115 km</p>
-      <p type="listitem">Pieni Karhunkierros 12 km</p>
-      <p type="listitem">Piilolan polku 35 km</p>
-      <p type="listitem">Poronpolku 30 km</p>
-      <p type="listitem">Pyhä-Luosto reitti 45 km</p>
-      <p type="listitem">Ruijanpolku 35 km</p>
-      <p type="listitem">Ruostejärvi - Liesjärven kansallispuisto 24 km</p>
-      <p type="listitem">Ruostejärvi - Saari 14 km</p>
-      <p type="listitem">Sevettijärvi - Pulmanki 60 - 70 km</p>
-      <p type="listitem">Simojoen melontareitti 178 km</p>
-      <p type="listitem">Taitajan taival 31 km</p>
-      <p type="listitem">Tapion taival 20 km</p>
-      <p type="listitem">Virvatulten polku 19 km</p>
-    </list>
-    <list>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reittiselostus</p>
-      <p type="listitem">Vaativuus</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <list>
-      <p type="listitem">Inarin kirkonkylän venesatama</p>
-      <p type="listitem">Nanguniemen venesatama</p>
-      <p type="listitem">Nellimin venesatamasta</p>
-      <p type="listitem">Partakon suunnasta</p>
-      <p type="listitem">Veskoniemen venesatama</p>
-    </list>
-    <p>Melontareitin sivut</p>
-    <p type="title">Inarijärvi melojille</p>
-    <list>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p><p type="listitem">Nanguniemen venesatama</p><p type="listitem">Nellimin venesatamasta</p><p type="listitem">Partakon suunnasta</p><p type="listitem">Veskoniemen venesatama</p></list> </p>
-      <p type="listitem">Vaativuus</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Veskoniemen venesatama</p>
-    <p type="title">Päiväretki Ivalojoen suistoon, 10 km</p>
-    <p>Tämä retki soveltuu lintuharrastajalle. Ivalojoen suiston vesilinnusto on varsin rikas. Sitä voi seurata Juurakkovuopajan lintutornista, joka sijaitsee mantereella. Linnusto näyttäytyy ja kuuluu parhaiten jäiden sulamisvaiheessa toukokuun lopulla ja kesäkuun alussa. Tuolloin jokisuistoon pysähtyy levähtämään paikallisten lintujen ohella pohjoiseen menossa olevia muuttolintuja. Kun haudonta alkaa kesäkuun puolivälissä, linnusto hiljenee ja piilottelee. Retken pituus on noin 10 kilometriä.</p>
-    <p type="title">Mahlatin kierros – kaksi päivää</p>
-    <p>Tämän retken pituus on noin 30 kilometriä ja se kiertää Inarijärven suurimman saaren Mahlatin ympäri. Esitelty reitti on varsin suojaisa lukuisien saarten takia. Maisema on karun kaunista Inarin maisemaa kalliosaarineen. Saarten luonto on lähes luonnontilaista. Männyt, joihin vuodet ovat kuhunkin piirtäneet yksilölliset leimansa, vallitsevat kasvillisuutta. Suojaisia luonnonsatamia löytyy runsaasti tauko- ja yöpymispaikoiksi. Majoittumista varten tulee olla teltta. Alueella on useita yksityismökkejä, joiden läheisyyteen rantautuminen ei ole suotavaa. Nähtävyyksistä tunnetuin on Korkia-Mauran jääluola. Sen yhteydessä on Metsähallituksen laituri, tulipaikka, puuliiteri ja kuivakäymälä. Mahlatissa on ollut II maailmansodan aikana saksalaisten vankileiri. Sen rippeitä on vielä näkyvissä Kivisalmessa. Maisemat ovat viehättävät koko matkalla. Jos haluaa nähdä kauemmaksi yli saarten, ja kuntoa riittää, voi kiivetä Vuoriaisen päälle. Vaaran laki kohoaa 130 metriä järven pinnan yläpuolelle.</p>
-    <p type="title">Reittiehdotelma</p>
-    <p type="title">Sähköiset kartat</p>
-    <p type="title">Petäjäsaaren kierros</p>
-    <p>Retken pituus on vähintään 37 kilometriä, mutta se venyy helposti pidemmäksi heti, kun mutkitellaan saarien lomitse. Retki vie vähintään kaksi päivää. Suositeltavaa on kuitenkin varata kolme päivää tai enemmänkin, jotta ehtii tutustumaan alueeseen kunnolla. Reittiehdotus kulkee järven lounaisosan viehättävässä saaristossa, jossa luonnon satamia on runsaasti. Reitti on suojaisa, mutta siinä on myös osuuksia, jossa aallokko voi yltyä kovaksi. Retken voi tehdä joko myötä- tai vastapäivään. Myötäpäivään lähdettäessä matkan voi suunnata ensin Korkia-Mauran jääluolaan. Luolan pohjalla oleva jää ei sula kesälläkään. Reitti kulkee pääosin saarten suojassa, mutta Moossinaselkä saattaa olla tuulinen. Matkaa satamasta jääluolalle on kahdeksan kilometriä. Maurasaarien jälkeen matka jatkuu kohti Hoikka ja Leveä Petäjäsaarien välistä salmea. Ensin ylitetään Jäkäläselkä. Sen lukuisat kalliosaaret kierretään suojan puolelta. Useimmat suuntaavat kulkunsa Petäjäsaaren veneilytukikohtaan. Sinne tulee matkaa jääluolalta lyhimmillään 13 kilometriä, ja lähtösatamasta Veskoniemestä 21 kilometriä. Veneilytukikohta on mainio yöpymispaikka. Siinä on kaksi pitkää laituria veneitä varten, autiotupa, tulistelukota, keittokatos (kaasu), 2 tulipaikkaa, kuivakäymälä ja puuliiteri. Telttailijoita varten on telttailualue ja puiset teltanaluset. Ne pitävät teltanpohjan kuivana ja puhtaana ja suovat tasaisen alustan nukkumiseen kivisessä maastossa. Matkaa jatkuu salmea pitkin koilliseen ja mahtavan laajan Kasariselän reunalta etelään Raesaarille. Rantaviivaa seuraten tulee ensin Raesaaret ja sitten Piekanasaaret. Moossinan jälkeen lähtösatama onkin jo lähellä. Matkaa Petäjäsaaren veneilytukikohdasta takaisin satamaan tulee 16 kilometriä.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Veskoniemen venesatama - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>613</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/inarijarvimelojille/reittiselostus/veskoniemenvenesatama</origFileName><parallel_text xml:lang="eng" location="veskoniemiharbour.html"/><parallel_text xml:lang="sme" location="veskonjarggafanash.html"/><parallel_text xml:lang="smn" location="viaskoonjaargakarbishaamman.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Inarijärvi melojille</p>
+<list><p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p>
+<p type="listitem">Nanguniemen venesatama</p>
+<p type="listitem">Nellimin venesatamasta</p>
+<p type="listitem">Partakon suunnasta</p>
+<p type="listitem">Veskoniemen venesatama</p>
+</list> </p>
+<p type="listitem">Vaativuus</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Björkö-Panike 12,5 km</p>
+<p type="listitem">Herajärven kierros 30 - 61 km</p>
+<p type="listitem">Hetta - Pallas 55 km</p>
+<p type="listitem">Hossan vesireitit</p>
+<p type="listitem">Inarijärvi melojille</p>
+<p type="listitem">Inarin alueen vesireitit</p>
+<p type="listitem">Itärajan kesäretkeilyreitti</p>
+<p type="listitem">Kalottireitti 800 km</p>
+<p type="listitem">Karhunkierros 82 km</p>
+<p type="listitem">Kevon reitti 63 km</p>
+<p type="listitem">Nuorttin retkeilyreitti 40 km</p>
+<p type="listitem">Petranpolku 45 km</p>
+<p type="listitem">Peuran polku 115 km</p>
+<p type="listitem">Pieni Karhunkierros 12 km</p>
+<p type="listitem">Piilolan polku 35 km</p>
+<p type="listitem">Poronpolku 30 km</p>
+<p type="listitem">Pyhä-Luosto reitti 45 km</p>
+<p type="listitem">Ruijanpolku 35 km</p>
+<p type="listitem">Ruostejärvi - Liesjärven kansallispuisto 24 km</p>
+<p type="listitem">Ruostejärvi - Saari 14 km</p>
+<p type="listitem">Sevettijärvi - Pulmanki 60 - 70 km</p>
+<p type="listitem">Simojoen melontareitti 178 km</p>
+<p type="listitem">Taitajan taival 31 km</p>
+<p type="listitem">Tapion taival 20 km</p>
+<p type="listitem">Virvatulten polku 19 km</p>
+</list><list><p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reittiselostus</p>
+<p type="listitem">Vaativuus</p>
+<p type="listitem">Lisätietoja</p>
+</list><list><p type="listitem">Inarin kirkonkylän venesatama</p>
+<p type="listitem">Nanguniemen venesatama</p>
+<p type="listitem">Nellimin venesatamasta</p>
+<p type="listitem">Partakon suunnasta</p>
+<p type="listitem">Veskoniemen venesatama</p>
+</list><p>Melontareitin sivut</p>
+<p type="title">Inarijärvi melojille</p>
+<list><p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p>
+<p type="listitem">Nanguniemen venesatama</p>
+<p type="listitem">Nellimin venesatamasta</p>
+<p type="listitem">Partakon suunnasta</p>
+<p type="listitem">Veskoniemen venesatama</p>
+</list> </p>
+<p type="listitem">Vaativuus</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Veskoniemen venesatama</p>
+<p type="title">Päiväretki Ivalojoen suistoon, 10 km</p>
+<p>Tämä retki soveltuu lintuharrastajalle. Ivalojoen suiston vesilinnusto on varsin rikas. Sitä voi seurata Juurakkovuopajan lintutornista, joka sijaitsee mantereella. Linnusto näyttäytyy ja kuuluu parhaiten jäiden sulamisvaiheessa toukokuun lopulla ja kesäkuun alussa. Tuolloin jokisuistoon pysähtyy levähtämään paikallisten lintujen ohella pohjoiseen menossa olevia muuttolintuja. Kun haudonta alkaa kesäkuun puolivälissä, linnusto hiljenee ja piilottelee. Retken pituus on noin 10 kilometriä.</p>
+<p type="title">Mahlatin kierros – kaksi päivää</p>
+<p>Tämän retken pituus on noin 30 kilometriä ja se kiertää Inarijärven suurimman saaren Mahlatin ympäri. Esitelty reitti on varsin suojaisa lukuisien saarten takia. Maisema on karun kaunista Inarin maisemaa kalliosaarineen. Saarten luonto on lähes luonnontilaista. Männyt, joihin vuodet ovat kuhunkin piirtäneet yksilölliset leimansa, vallitsevat kasvillisuutta. Suojaisia luonnonsatamia löytyy runsaasti tauko- ja yöpymispaikoiksi. Majoittumista varten tulee olla teltta. Alueella on useita yksityismökkejä, joiden läheisyyteen rantautuminen ei ole suotavaa. Nähtävyyksistä tunnetuin on Korkia-Mauran jääluola. Sen yhteydessä on Metsähallituksen laituri, tulipaikka, puuliiteri ja kuivakäymälä. Mahlatissa on ollut II maailmansodan aikana saksalaisten vankileiri. Sen rippeitä on vielä näkyvissä Kivisalmessa. Maisemat ovat viehättävät koko matkalla. Jos haluaa nähdä kauemmaksi yli saarten, ja kuntoa riittää, voi kiivetä Vuoriaisen päälle. Vaaran laki kohoaa 130 metriä järven pinnan yläpuolelle.</p>
+<p type="title">Reittiehdotelma</p>
+<p type="title">Sähköiset kartat</p>
+<p type="title">Petäjäsaaren kierros</p>
+<p>Retken pituus on vähintään 37 kilometriä, mutta se venyy helposti pidemmäksi heti, kun mutkitellaan saarien lomitse. Retki vie vähintään kaksi päivää. Suositeltavaa on kuitenkin varata kolme päivää tai enemmänkin, jotta ehtii tutustumaan alueeseen kunnolla. Reittiehdotus kulkee järven lounaisosan viehättävässä saaristossa, jossa luonnon satamia on runsaasti. Reitti on suojaisa, mutta siinä on myös osuuksia, jossa aallokko voi yltyä kovaksi. Retken voi tehdä joko myötä- tai vastapäivään. Myötäpäivään lähdettäessä matkan voi suunnata ensin Korkia-Mauran jääluolaan. Luolan pohjalla oleva jää ei sula kesälläkään. Reitti kulkee pääosin saarten suojassa, mutta Moossinaselkä saattaa olla tuulinen. Matkaa satamasta jääluolalle on kahdeksan kilometriä. Maurasaarien jälkeen matka jatkuu kohti Hoikka ja Leveä Petäjäsaarien välistä salmea. Ensin ylitetään Jäkäläselkä. Sen lukuisat kalliosaaret kierretään suojan puolelta. Useimmat suuntaavat kulkunsa Petäjäsaaren veneilytukikohtaan. Sinne tulee matkaa jääluolalta lyhimmillään 13 kilometriä, ja lähtösatamasta Veskoniemestä 21 kilometriä. Veneilytukikohta on mainio yöpymispaikka. Siinä on kaksi pitkää laituria veneitä varten, autiotupa, tulistelukota, keittokatos (kaasu), 2 tulipaikkaa, kuivakäymälä ja puuliiteri. Telttailijoita varten on telttailualue ja puiset teltanaluset. Ne pitävät teltanpohjan kuivana ja puhtaana ja suovat tasaisen alustan nukkumiseen kivisessä maastossa. Matkaa jatkuu salmea pitkin koilliseen ja mahtavan laajan Kasariselän reunalta etelään Raesaarille. Rantaviivaa seuraten tulee ensin Raesaaret ja sitten Piekanasaaret. Moossinan jälkeen lähtösatama onkin jo lähellä. Matkaa Petäjäsaaren veneilytukikohdasta takaisin satamaan tulee 16 kilometriä.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

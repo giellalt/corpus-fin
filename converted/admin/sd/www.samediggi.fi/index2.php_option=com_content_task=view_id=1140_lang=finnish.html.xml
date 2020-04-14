@@ -1,98 +1,53 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Giellagáldu-hanke (Sámi Giellagáldu)</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>410</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1140&amp;lang=finnish</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1140_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1140_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1140_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Giellagáldu-hanke (Sámi Giellagáldu)</p>
-    <p>
-      <em type="italic">Giellagáldu-hanke ja Sámi Giellagáldu  </em>
-    </p>
-    <p>Giellag  áldu on Suomen, Ruotsin ja Norjan Saamelaiskäräjien yhteistyöhanke, joka toimii Saamelaiskäräjien parlamentaarisen yhteistyöelimen, Saamelaisen parlamentaarisen neuvoston, alaisuudessa. Hanke käynnistyi 1.8.2015 ja päättyy 31.5.2018.  Giellag  áldu-hanke rahoittaa yhteispohjoismaisen saamen kielen ammatti- ja resurssikeskuksen Sámi Giellagáldun (Saamen Kielikaltio) toiminnan.  Hankkeen keskeinen tavoite onkin varmistaa Sámi Giellagáldun pysyvä toiminta hankkimalla pysyvä rahoitus ammatti- ja resurssikeskuksen toiminnalle.  Giellagáldu-jatkohanketta rahoittavat EU:n Interreg V Pohjoinen -ohjelman Sápmi-osa-alue, Lapin liitto, Tromssan lääni sekä Norjan, Ruotsin ja Suomen Saamelaiskäräjät. Hanketta johtaa Suomen Saamelaiskäräjät, ja hankkeen kokonaisbudjetti on 3 062 052 euroa.</p>
-    <p>
-      <em type="italic">Hankkeen tavoitteet </em>
-    </p>
-    <p>Hankkeen aikana Sámi Giellagáldu jatkaa saamen kieliyhteistyön kehittämistä, koordinointia ja vahvistamista. Sámi Giellagáldu jatkaa toimintaansa myös saamen kansan kieliasioiden korkeimpana yhteisenä päättävänä toimielimenä. Sámi Gie llagáldun  tavoitteena on säilyttää ja edistää saamen kieliin liittyvää kulttuuriperintöä ja toimia ammatillisena asiantuntijaelimenä.  Ammatti- ja resurssikeskuksella  on myös ylin vastuu kielenkäyttäjille suunnatuista saamenkielisistä kielipalveluista. Hankkeen aikana  Sámi Giellagáldun toimielimiin lisätty kielineuvosto aloittaa toimintansa ja jo aiemmin perustetut etelä-, luulajan-, pohjois-, inarin- ja koltansaamen kielijaokset jatkavat toimintaansa.  Kielityöntekijät, joita eteläsaamessa on 2, luulajansaamessa 2, pohjoissaamessa 3, inarinsaamessa 1 ja koltansaamessa 1, vastaavat käytännön kielityöstä. Hankkeen aikana Sámi Giellagáldu ja Saamelaiskäräjät vahvistavat ja kehittävät yhdessä saamen kieliä siten, että kunkin kieliryhmän yksilölliset tarpeet, haasteet ja voimavarat huomioidaan</p>
-    <p>
-      <em type="italic">Sámi Giellagáldun tehtävät </em>
-    </p>
-    <p>Ammatti- ja resurssikeskuksen  tehtäviä ovat muun muassa kielenhuolto, kielen kehittäminen, terminologiatyö, normitus ja paikannimistöpalvelu. Kielityöntekijät antavat ohjeita ja neuvoja saamen kielten käyttöön liittyvissä kysymyksissä ja valmistelevat oman kielensä asioita kielijaostojen päätettäväksi. Kielijaostot antavat suosituksia saamen kielten käyttöön liittyvistä asioista, kuten normituksesta ja uudesta terminologiasta.</p>
-    <p>Sámi Giellagáldun kotisivulta www.giella.org löytyy tarkempaa tietoa Sámi Giellagáldusta ja ajankohtaista tietoa ammatti- ja resurssikeskuksen toiminnasta, uutta terminologiaa ja normituksia. Sámi Giellagáldulla on myös FB-sivu www.facebook.com/SamiGiellagaldu , jonka kautta voi esittää saamen kielten käyttöön liittyviä kysymyksiä. Sivulla tiedotetaan myös Sámi Giellagáldun toiminnasta. Kielikysymyksiä voi lähettää myös sähköpostiosoitteeseen info(at)giellagaldu.com  tai soittaa suoraan Sámi Giellagáldun kielityöntekijöille.</p>
-    <p>
-      <em type="italic">S </em>
-      <em type="italic">ÁMI GIELLAGÁLDUN  </em>
-      <em type="italic">Y  HTEYSTIEDOT </em>
-    </p>
-    <p>Marko Marjomaa, projektipäällikkö</p>
-    <p>marko.marjomaa(at)samediggi.fi</p>
-    <p>+358 (0)10 839 3183</p>
-    <p>Mika Saijets, hallintotyöntekijä</p>
-    <p>mika.saijets(at)			samediggi.no</p>
-    <p>+47			78 47 41 48</p>
-    <p>Hannele Sieppi, projektisihteeri</p>
-    <p>hannele.sieppi(at)samediggi.fi</p>
-    <p>+358 40 574 9150</p>
-    <p>
-      <em type="bold">KIELITYÖNTEKIJÄT </em>
-    </p>
-    <p>
-      <em type="bold">Koltansaame </em>
-    </p>
-    <p>Terhi Harju</p>
-    <p>terhi.harju(at)samediggi.fi</p>
-    <p>+358			40 671 9534</p>
-    <p>
-      <em type="bold">Inarinsaame </em>
-    </p>
-    <p>Miina Seurujärvi</p>
-    <p>miina.seurujarvi(at)samediggi.fi</p>
-    <p>+358 (0)10 839 3193</p>
-    <p>Neeta Jääskö</p>
-    <p>neeta.jaasko(at)samediggi.fi</p>
-    <p>+358			40 652 6235</p>
-    <p>
-      <em type="bold">Pohjoissaame </em>
-    </p>
-    <p>Bigga-Helena Magga</p>
-    <p>bigga-helena.magga(at)samediggi.fi</p>
-    <p>+358 40 570			2786</p>
-    <p>Marja K. Partapuoli</p>
-    <p>marja.partapuoli(at)sametinget.se</p>
-    <p>+46			980 780 43</p>
-    <p>Máret</p>
-    <p>Láilá Anti</p>
-    <p>maret.laila.anti(at)samediggi.no</p>
-    <p>+47 78 47 40 87</p>
-    <p>
-      <em type="bold">Luulajansaame  </em>
-    </p>
-    <p>Gun Aira</p>
-    <p>gun.aira(at)sametinget.se</p>
-    <p>+46 980			780 53</p>
-    <p>Svenn-Egil K. Duolljá</p>
-    <p>svenn-egil.knutsen(at)samediggi.no</p>
-    <p>+47			78 47 41 74</p>
-    <p>
-      <em type="bold">Eteläsaame </em>
-    </p>
-    <p>Per-Martin Israelsson</p>
-    <p>per.martin.israelsson(at)sametinget.se</p>
-    <p>+46 980 780 27</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Giellagáldu-hanke (Sámi Giellagáldu)</title><genre code="admin"/><author><unknown/></author><wordcount>410</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1140&amp;lang=finnish</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1140_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1140_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=1140_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Giellagáldu-hanke (Sámi Giellagáldu)</p>
+<p><em type="italic">Giellagáldu-hanke ja Sámi Giellagáldu  </em></p>
+<p>Giellag  áldu on Suomen, Ruotsin ja Norjan Saamelaiskäräjien yhteistyöhanke, joka toimii Saamelaiskäräjien parlamentaarisen yhteistyöelimen, Saamelaisen parlamentaarisen neuvoston, alaisuudessa. Hanke käynnistyi 1.8.2015 ja päättyy 31.5.2018.  Giellag  áldu-hanke rahoittaa yhteispohjoismaisen saamen kielen ammatti- ja resurssikeskuksen Sámi Giellagáldun (Saamen Kielikaltio) toiminnan.  Hankkeen keskeinen tavoite onkin varmistaa Sámi Giellagáldun pysyvä toiminta hankkimalla pysyvä rahoitus ammatti- ja resurssikeskuksen toiminnalle.  Giellagáldu-jatkohanketta rahoittavat EU:n Interreg V Pohjoinen -ohjelman Sápmi-osa-alue, Lapin liitto, Tromssan lääni sekä Norjan, Ruotsin ja Suomen Saamelaiskäräjät. Hanketta johtaa Suomen Saamelaiskäräjät, ja hankkeen kokonaisbudjetti on 3 062 052 euroa.</p>
+<p><em type="italic">Hankkeen tavoitteet </em></p>
+<p>Hankkeen aikana Sámi Giellagáldu jatkaa saamen kieliyhteistyön kehittämistä, koordinointia ja vahvistamista. Sámi Giellagáldu jatkaa toimintaansa myös saamen kansan kieliasioiden korkeimpana yhteisenä päättävänä toimielimenä. Sámi Gie llagáldun  tavoitteena on säilyttää ja edistää saamen kieliin liittyvää kulttuuriperintöä ja toimia ammatillisena asiantuntijaelimenä.  Ammatti- ja resurssikeskuksella  on myös ylin vastuu kielenkäyttäjille suunnatuista saamenkielisistä kielipalveluista. Hankkeen aikana  Sámi Giellagáldun toimielimiin lisätty kielineuvosto aloittaa toimintansa ja jo aiemmin perustetut etelä-, luulajan-, pohjois-, inarin- ja koltansaamen kielijaokset jatkavat toimintaansa.  Kielityöntekijät, joita eteläsaamessa on 2, luulajansaamessa 2, pohjoissaamessa 3, inarinsaamessa 1 ja koltansaamessa 1, vastaavat käytännön kielityöstä. Hankkeen aikana Sámi Giellagáldu ja Saamelaiskäräjät vahvistavat ja kehittävät yhdessä saamen kieliä siten, että kunkin kieliryhmän yksilölliset tarpeet, haasteet ja voimavarat huomioidaan</p>
+<p><em type="italic">Sámi Giellagáldun tehtävät </em></p>
+<p>Ammatti- ja resurssikeskuksen  tehtäviä ovat muun muassa kielenhuolto, kielen kehittäminen, terminologiatyö, normitus ja paikannimistöpalvelu. Kielityöntekijät antavat ohjeita ja neuvoja saamen kielten käyttöön liittyvissä kysymyksissä ja valmistelevat oman kielensä asioita kielijaostojen päätettäväksi. Kielijaostot antavat suosituksia saamen kielten käyttöön liittyvistä asioista, kuten normituksesta ja uudesta terminologiasta.</p>
+<p>Sámi Giellagáldun kotisivulta www.giella.org löytyy tarkempaa tietoa Sámi Giellagáldusta ja ajankohtaista tietoa ammatti- ja resurssikeskuksen toiminnasta, uutta terminologiaa ja normituksia. Sámi Giellagáldulla on myös FB-sivu www.facebook.com/SamiGiellagaldu , jonka kautta voi esittää saamen kielten käyttöön liittyviä kysymyksiä. Sivulla tiedotetaan myös Sámi Giellagáldun toiminnasta. Kielikysymyksiä voi lähettää myös sähköpostiosoitteeseen info(at)giellagaldu.com  tai soittaa suoraan Sámi Giellagáldun kielityöntekijöille.</p>
+<p><em type="italic">S </em><em type="italic">ÁMI GIELLAGÁLDUN  </em><em type="italic">Y  HTEYSTIEDOT </em></p>
+<p>Marko Marjomaa, projektipäällikkö</p>
+<p>marko.marjomaa(at)samediggi.fi</p>
+<p>+358 (0)10 839 3183</p>
+<p>Mika Saijets, hallintotyöntekijä</p>
+<p>mika.saijets(at)			samediggi.no</p>
+<p>+47			78 47 41 48</p>
+<p>Hannele Sieppi, projektisihteeri</p>
+<p>hannele.sieppi(at)samediggi.fi</p>
+<p>+358 40 574 9150</p>
+<p><em type="bold">KIELITYÖNTEKIJÄT </em></p>
+<p><em type="bold">Koltansaame </em></p>
+<p>Terhi Harju</p>
+<p>terhi.harju(at)samediggi.fi</p>
+<p>+358			40 671 9534</p>
+<p><em type="bold">Inarinsaame </em></p>
+<p>Miina Seurujärvi</p>
+<p>miina.seurujarvi(at)samediggi.fi</p>
+<p>+358 (0)10 839 3193</p>
+<p>Neeta Jääskö</p>
+<p>neeta.jaasko(at)samediggi.fi</p>
+<p>+358			40 652 6235</p>
+<p><em type="bold">Pohjoissaame </em></p>
+<p>Bigga-Helena Magga</p>
+<p>bigga-helena.magga(at)samediggi.fi</p>
+<p>+358 40 570			2786</p>
+<p>Marja K. Partapuoli</p>
+<p>marja.partapuoli(at)sametinget.se</p>
+<p>+46			980 780 43</p>
+<p>Máret</p>
+<p>Láilá Anti</p>
+<p>maret.laila.anti(at)samediggi.no</p>
+<p>+47 78 47 40 87</p>
+<p><em type="bold">Luulajansaame  </em></p>
+<p>Gun Aira</p>
+<p>gun.aira(at)sametinget.se</p>
+<p>+46 980			780 53</p>
+<p>Svenn-Egil K. Duolljá</p>
+<p>svenn-egil.knutsen(at)samediggi.no</p>
+<p>+47			78 47 41 74</p>
+<p><em type="bold">Eteläsaame </em></p>
+<p>Per-Martin Israelsson</p>
+<p>per.martin.israelsson(at)sametinget.se</p>
+<p>+46 980 780 27</p>
+</body></document>

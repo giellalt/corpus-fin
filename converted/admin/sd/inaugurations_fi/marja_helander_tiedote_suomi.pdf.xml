@@ -1,42 +1,9 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Taideteokset Saamelaiskulttuurikeskus Sajoksessa</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="Marja" lastname="Helander" sex="f" born="" nationality=""/>
-    </author>
-    <year>unknown</year>
-    <wordcount>367</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1834&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="sme" location="marja_helander_tiedote_pohjoissaame.pdf"/>
-    <parallel_text xml:lang="smn" location="marja_helander_tiedote_inarinsaame.pdf"/>
-    <parallel_text xml:lang="sms" location="marja_helander_tiedote_koltansaame.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="isl">
-      <em type="bold">MARJA HELAND ER </em>
-    </p>
-    <p>
-      <em type="bold">Taideteokset S aamelaiskulttuurikeskus S ajoksessa Valtion taidekokoelma / Valtion taideteostoimikunnan tilausteokset </em>
-    </p>
-    <p xml:lang="nno">
-      <em type="bold"><span type="quote">”Tunturissa”</span>  </em>
-    </p>
-    <p>Tuulen tuivertamat, yksinäiset tunturikoivut ovat minun henkistä kotimaisemaani. Ne ovat painautuneet mieleeni jo lapsuuden hiihtoreissuilla, isäni synnyinsijoilla Utsjoella. Tunturikoivun erityisominaisuus on sen palaminen myös tuoreena tai jäisenä. Täten se on aikoinaan osaltaan mahdollistanut saamelaisen poronhoidon ja asutuksen leviämisen tunturiylängöille.   Tunturissa -valoteokseen olen halunnut siirtää tunturikoivujen muotoa, tuoda kappaleen erämaata Inarin kylille. Valoa hohtavana teos luo mielleyhtymiä myös virtaavaan jokeen ja ehkäpä jopa revontuliin.</p>
-    <p xml:lang="nno">
-      <em type="bold"><span type="quote">”Niin kaikki kukoistaa”</span> </em>
-    </p>
-    <p>Kaksiosainen teos sai alkunsa utsjokelaisen isäni koulussa 1950-luvulla keräämistä Lapin kasveista. Kasvit oli kuivattu ja kiinnitetty nimilapuin varustettuna herbaarioon eli kasvioon. Jokainen kasvi oli tarkan tieteellisesti luokiteltu omaan ryhmäänsä. Innostuin siitä ristiriidasta, mikä vallitsi kasvien kauneuden ja monimuotoisuuden sekä ihmisen luokittelu- ja lokerointitarpeen välillä. Samalla mieleeni nousivat saamelaisten historia ja yritykset luokitella saamelaisia alempaan rotuun kuuluviksi. Vielä 1930-luvulla Inarinjärven hautausmaalta oli kaivettu saamelaisten pääkalloja rotuopillisiin tutkimuksiin (kallot on sittemmin palautettu).</p>
-    <p>Tästä sain idean kerätä oma kasvioni. Se on teoksen ensimmäinen osa ja koostuu 30:sta valokuvasta nykypäivän saamelaisista. Henkilöt on kuvattu eri puolilta Suomea. Heidät on jaoteltu asuinpaikan, ikäryhmän ja äidinkielen mukaan. Tämä luokittelu perustuu Tilastokeskuksen ja Saamelaiskäräjien vaalilautakunnan vuoden 2011 tilastoon. Asuinpaikan mukaan saamelaiset on jaoteltu saamelaisten kotiseutualueella asuviin, muualla Suomessa asuviin sekä ulkomailla asuviin. Kielellinen jaottelu on vaikeampi asia: Saamelaiskäräjien mukaan tilastoja on pidettävä vain suuntaa antavina, koska alle 18-vuotiaiden äidinkielen ilmoittaminen on satunnaista ja äänioikeusikäisistäkin monet jättävät ilmoittamatta äidinkielensä. Henkilön äidinkieleksi luetteloon merkitään tällöin suomen kieli. Lisäksi monet kokevat itsensä kaksikielisiksi.</p>
-    <p>Joka tapauksessa kuvasin nämä 30 henkilöä, ja prosentuaalisesti heidän osuutensa vastaavat tämän edellä mainitun tilaston faktoja. Jokaisen henkilön vieressä on pieni <span type="quote">”kasviolappu”</span> josta käy ilmi muun  muassa  ko.  henkilön  asuinpaikka  ja  äidinkieli.  Vastaiskuna  vanhoille  rotumääritelmille jokainen  henkilö  on  yksiselitteisesti  määritelty  Homo  sapiens  -lajiin  kuuluvaksi.  Kuvissa  halusin esittää  henkilöt  arvokkaina  ja  ainutlaatuisina  yksilöinä,  ja  samalla  myös  voimissaan  olevan alkuperäiskansan  jäseninä.  Teos  ottaa  myös  hienovaraisesti  kantaa  suomessa  puhutun  kolmen saamenkielen asemaan. Optimisestikin arvioiden vain 10 - 11 henkilöä 30:sta puhuu äidinkielenään saamea,  ja  tähän  kymmenen  joukkoon  mahtuu  mukaan  vain  yksi  inarinsaamea  puhuva  ja  yksi koltansaamea puhuva. Teoksen toinen osa on iso valokuva, jossa on tunturimaiseman päälle kuvattu näitä herbaarion kasveja. Ne muodostavat ornamenttimaisen pinnan kurotellen kohti taivaita, vapautuen määrittelyn ja luokittelun ikeestä. (M arja Helander).</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Taideteokset Saamelaiskulttuurikeskus Sajoksessa</title><genre code="admin"/><author><person firstname="Marja" lastname="Helander" sex="f" born="" nationality=""/></author><year>unknown</year><wordcount>367</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1834&amp;Itemid=10</origFileName><parallel_text xml:lang="sme" location="marja_helander_tiedote_pohjoissaame.pdf"/><parallel_text xml:lang="smn" location="marja_helander_tiedote_inarinsaame.pdf"/><parallel_text xml:lang="sms" location="marja_helander_tiedote_koltansaame.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="isl"><em type="bold">MARJA HELAND ER </em></p>
+<p><em type="bold">Taideteokset S aamelaiskulttuurikeskus S ajoksessa Valtion taidekokoelma / Valtion taideteostoimikunnan tilausteokset </em></p>
+<p xml:lang="swe"><em type="bold"><span type="quote">”Tunturissa”</span>  </em></p>
+<p>Tuulen tuivertamat, yksinäiset tunturikoivut ovat minun henkistä kotimaisemaani. Ne ovat painautuneet mieleeni jo lapsuuden hiihtoreissuilla, isäni synnyinsijoilla Utsjoella. Tunturikoivun erityisominaisuus on sen palaminen myös tuoreena tai jäisenä. Täten se on aikoinaan osaltaan mahdollistanut saamelaisen poronhoidon ja asutuksen leviämisen tunturiylängöille.   Tunturissa -valoteokseen olen halunnut siirtää tunturikoivujen muotoa, tuoda kappaleen erämaata Inarin kylille. Valoa hohtavana teos luo mielleyhtymiä myös virtaavaan jokeen ja ehkäpä jopa revontuliin.</p>
+<p xml:lang="swe"><em type="bold"><span type="quote">”Niin kaikki kukoistaa”</span> </em></p>
+<p>Kaksiosainen teos sai alkunsa utsjokelaisen isäni koulussa 1950-luvulla keräämistä Lapin kasveista. Kasvit oli kuivattu ja kiinnitetty nimilapuin varustettuna herbaarioon eli kasvioon. Jokainen kasvi oli tarkan tieteellisesti luokiteltu omaan ryhmäänsä. Innostuin siitä ristiriidasta, mikä vallitsi kasvien kauneuden ja monimuotoisuuden sekä ihmisen luokittelu- ja lokerointitarpeen välillä. Samalla mieleeni nousivat saamelaisten historia ja yritykset luokitella saamelaisia alempaan rotuun kuuluviksi. Vielä 1930-luvulla Inarinjärven hautausmaalta oli kaivettu saamelaisten pääkalloja rotuopillisiin tutkimuksiin (kallot on sittemmin palautettu).</p>
+<p>Tästä sain idean kerätä oma kasvioni. Se on teoksen ensimmäinen osa ja koostuu 30:sta valokuvasta nykypäivän saamelaisista. Henkilöt on kuvattu eri puolilta Suomea. Heidät on jaoteltu asuinpaikan, ikäryhmän ja äidinkielen mukaan. Tämä luokittelu perustuu Tilastokeskuksen ja Saamelaiskäräjien vaalilautakunnan vuoden 2011 tilastoon. Asuinpaikan mukaan saamelaiset on jaoteltu saamelaisten kotiseutualueella asuviin, muualla Suomessa asuviin sekä ulkomailla asuviin. Kielellinen jaottelu on vaikeampi asia: Saamelaiskäräjien mukaan tilastoja on pidettävä vain suuntaa antavina, koska alle 18-vuotiaiden äidinkielen ilmoittaminen on satunnaista ja äänioikeusikäisistäkin monet jättävät ilmoittamatta äidinkielensä. Henkilön äidinkieleksi luetteloon merkitään tällöin suomen kieli. Lisäksi monet kokevat itsensä kaksikielisiksi.</p>
+<p>Joka tapauksessa kuvasin nämä 30 henkilöä, ja prosentuaalisesti heidän osuutensa vastaavat tämän edellä mainitun tilaston faktoja. Jokaisen henkilön vieressä on pieni <span type="quote">”kasviolappu”</span> josta käy ilmi muun  muassa  ko.  henkilön  asuinpaikka  ja  äidinkieli.  Vastaiskuna  vanhoille  rotumääritelmille jokainen  henkilö  on  yksiselitteisesti  määritelty  Homo  sapiens  -lajiin  kuuluvaksi.  Kuvissa  halusin esittää  henkilöt  arvokkaina  ja  ainutlaatuisina  yksilöinä,  ja  samalla  myös  voimissaan  olevan alkuperäiskansan  jäseninä.  Teos  ottaa  myös  hienovaraisesti  kantaa  suomessa  puhutun  kolmen saamenkielen asemaan. Optimisestikin arvioiden vain 10 - 11 henkilöä 30:sta puhuu äidinkielenään saamea,  ja  tähän  kymmenen  joukkoon  mahtuu  mukaan  vain  yksi  inarinsaamea  puhuva  ja  yksi koltansaamea puhuva. Teoksen toinen osa on iso valokuva, jossa on tunturimaiseman päälle kuvattu näitä herbaarion kasveja. Ne muodostavat ornamenttimaisen pinnan kurotellen kohti taivaita, vapautuen määrittelyn ja luokittelun ikeestä. (M arja Helander).</p>
+</body></document>

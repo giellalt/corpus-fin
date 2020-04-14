@@ -1,34 +1,10 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Sajoksen ikkunaverhojen kuvion suunnittelukilpailu ratkaistu</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>209</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=469&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=469_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=469_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=469_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sajoksen ikkunaverhojen kuvion suunnittelukilpailu ratkaistu</p>
-    <p>Inarilaisen Tytti Bräysyn ehdotus <span type="quote" xml:lang="kal">“Eloa ikkunassa”</span> ja rovaniemeläisen Anna-Leena Pyylammen ehdotus <span type="quote" xml:lang="krl">“Riskuna”</span> on valittu voittajiksi saamelaiskulttuurikeskus Sajoksen ikkunaverhojen kuvion suunnittelukilpailussa. Molemmat saavat ehdotuksestaan 500 euron suuruisen palkinnon. Tytti Bräysy opiskelee toista vuotta Saamelaisalueen koulutuskeskuksessa Inarissa, valmistuen vuoden päästä artesaaniksi.</p>
-    <p>Avoimella verhojen kuvion suunnittelukilpailulla haettiin saamelaiskulttuurikeskus Sajokseen korkealaatuinen ja kaunis, talon tunnelmaan ja ilmapiiriin sopiva uniikki paneeliverhokangaskuvio (printtikuvio), joka luo talon sisätiloille omaleimaisuutta ja tunnistettavuutta. Verhokuvion tai - kuvioiden tulee myös ilmentää Sajoksen tarkoitusta, sen toiminnan luonnetta ja saamelaista omaleimaisuutta. Verhoja tarvitaan etupäässä toimistotilojen ikkunoissa.</p>
-    <p>Suunnittelukilpailu toteutettiin helmi-maaliskuussa 2011 ja kilpailussa jätettiin yhteensä 31 ehdotusta, joista palkintolautakuntana toiminut Sajoksen käyttäjäorganisaatioista koostuva yhteistoimintaelin arkkitehtitoimiston edustajalla vahvistettuna hyväksyi arvosteltavaksi 30 ehdotusta. Lautakunta hylkäsi yhden (1) kilpailuehdotuksen, koska se oli toimitettu lautakunnalle kilpailun sääntöjen vastaisesti.</p>
-    <p>Huolellisen ja seikkaperäisen arvioinnin tuloksena palkintolautakunta päätti yksimielisesti julistaa nimimerkit <span type="quote" xml:lang="kal">”Eloa ikkunassa”</span> ja <span type="quote" xml:lang="krl">”Riskuna”</span> suunnittelukilpailun voittajiksi ja lunastaa nämä työt sääntöjen mukaisesti á 500 euroa. Kilpailun sääntöjen mukaan palkintolautakunta saattoi valita kaksi (2) kuviolle asetetut vaatimukset parhaiten täyttävää ehdotusta lunastettavaksi. Sillä oli sääntöjen mukaan myös oikeus hylätä kaikki ehdotukset tai lunastaa vain yksi työ.</p>
-    <p>Palkintolautakunta päätti samalla suositella, että kuvioehdotusta <span type="quote" xml:lang="kal">”Eloa ikkunassa”</span> käytettäisiin Sajoksen 1. kerroksen ikkunoissa ja ehdotusta <span type="quote" xml:lang="krl">”Riskuna”</span> 2. ja 3. kerroksen ikkunoissa.</p>
-    <p>Sajoksen verhojen kuvion suunnittelukilpailun lehdistötiedote.</p>
-    <p xml:lang="kal">Eloa Ikkunassa</p>
-    <p xml:lang="krl">Riskuna</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sajoksen ikkunaverhojen kuvion suunnittelukilpailu ratkaistu</title><genre code="admin"/><author><unknown/></author><wordcount>209</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=469&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=469_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=469_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=469_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sajoksen ikkunaverhojen kuvion suunnittelukilpailu ratkaistu</p>
+<p>Inarilaisen Tytti Bräysyn ehdotus <span type="quote" xml:lang="kal">“Eloa ikkunassa”</span> ja rovaniemeläisen Anna-Leena Pyylammen ehdotus <span type="quote" xml:lang="krl">“Riskuna”</span> on valittu voittajiksi saamelaiskulttuurikeskus Sajoksen ikkunaverhojen kuvion suunnittelukilpailussa. Molemmat saavat ehdotuksestaan 500 euron suuruisen palkinnon. Tytti Bräysy opiskelee toista vuotta Saamelaisalueen koulutuskeskuksessa Inarissa, valmistuen vuoden päästä artesaaniksi.</p>
+<p>Avoimella verhojen kuvion suunnittelukilpailulla haettiin saamelaiskulttuurikeskus Sajokseen korkealaatuinen ja kaunis, talon tunnelmaan ja ilmapiiriin sopiva uniikki paneeliverhokangaskuvio (printtikuvio), joka luo talon sisätiloille omaleimaisuutta ja tunnistettavuutta. Verhokuvion tai - kuvioiden tulee myös ilmentää Sajoksen tarkoitusta, sen toiminnan luonnetta ja saamelaista omaleimaisuutta. Verhoja tarvitaan etupäässä toimistotilojen ikkunoissa.</p>
+<p>Suunnittelukilpailu toteutettiin helmi-maaliskuussa 2011 ja kilpailussa jätettiin yhteensä 31 ehdotusta, joista palkintolautakuntana toiminut Sajoksen käyttäjäorganisaatioista koostuva yhteistoimintaelin arkkitehtitoimiston edustajalla vahvistettuna hyväksyi arvosteltavaksi 30 ehdotusta. Lautakunta hylkäsi yhden (1) kilpailuehdotuksen, koska se oli toimitettu lautakunnalle kilpailun sääntöjen vastaisesti.</p>
+<p>Huolellisen ja seikkaperäisen arvioinnin tuloksena palkintolautakunta päätti yksimielisesti julistaa nimimerkit <span type="quote" xml:lang="kal">”Eloa ikkunassa”</span> ja <span type="quote" xml:lang="krl">”Riskuna”</span> suunnittelukilpailun voittajiksi ja lunastaa nämä työt sääntöjen mukaisesti á 500 euroa. Kilpailun sääntöjen mukaan palkintolautakunta saattoi valita kaksi (2) kuviolle asetetut vaatimukset parhaiten täyttävää ehdotusta lunastettavaksi. Sillä oli sääntöjen mukaan myös oikeus hylätä kaikki ehdotukset tai lunastaa vain yksi työ.</p>
+<p>Palkintolautakunta päätti samalla suositella, että kuvioehdotusta <span type="quote" xml:lang="kal">”Eloa ikkunassa”</span> käytettäisiin Sajoksen 1. kerroksen ikkunoissa ja ehdotusta <span type="quote" xml:lang="krl">”Riskuna”</span> 2. ja 3. kerroksen ikkunoissa.</p>
+<p>Sajoksen verhojen kuvion suunnittelukilpailun lehdistötiedote.</p>
+<p xml:lang="kal">Eloa Ikkunassa</p>
+<p xml:lang="krl">Riskuna</p>
+</body></document>

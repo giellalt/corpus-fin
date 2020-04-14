@@ -1,58 +1,36 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Raportti Saamelaisnuorten taidetapahtumasta 2014</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="Anni" lastname="Näkkäläjärvi" sex="unknown" born="" nationality="FI"/>
-    </author>
-    <year>2014</year>
-    <wordcount>175</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2507&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="sme" location="raporta_2014_minim..pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Magreta Sara 2 kuukau</p>
-    <p>Tuupa-records.</p>
-    <p>Tapahtumaa varten laadittiin Sodankylän liikuntahallin</p>
-    <p>Osallistujat matkustivat Sodankylään linja-autoilla Uts</p>
-    <p>Osallistumis- ja pääsymaksuja ei peritty. Opetus- ja</p>
-    <p>Arla Magga Oulusta Anu Magga, Minja Maggan kanssa. TapahtuBigga Aikio. Sodankylän sivistysjohtaja</p>
-    <p>terveisten jälkeen tanhusi paikallinen tans</p>
-    <p>Jutaajat.  Raadin työskentelyn aikana tanssiterveiAnne Plosila sekä Giellagas-instituuSolja Magga, Gabriela Satokan</p>
-    <p>ja Reetta Tornensis. Tauon aikana näytettiin lyhytfilme</p>
-    <p>Čáhppes njuvččat <em type="italic">Bealdovuomis</em>. Ohj./bag. Hellin ja Rosa Pietikäinen. Foto AN. </p>
-    <p>.  Nuorimmat joko</p>
-    <p>Tapahtumaan kutsutaan kaikki saamelaislapset ja</p>
-    <p>Saamelaisnuorten taidetapahtuman päätavoit</p>
-    <p><em type="italic"> </em>-hiphopryhmän jäsenet ovat </p>
-    <p>Imaš Y -hiphopjoavkku láhtut leat</p>
-    <p>Ohj./bag. Pinja ja Alisa Pieski + dánsut / tanssijat. Foto AN.</p>
-    <p>-joavku <em type="italic">Oh</em>ohj./bag. Tarja Länsman. </p>
-    <p>Tärkeänä tavoitteena on aina ollut myös lasten ja</p>
-    <p>Taidetapahtumia on järjestetty 1970-luvun alun</p>
-    <p>Merja Leinonen sekä Bigga Aikio Norjan Kautokeinosta.</p>
-    <p>Kuvataiteilija Merja Aletta Ranttila, taideopettaja</p>
-    <p>Korinna Korström-Magga sekä va. saameTanja</p>
-    <p>kokoontuivat 6.5. Inarin Sajoksessa ja päätti</p>
-    <p>, Giđđaválsa (Kevätvalssi) <em type="bold">dánsa</em> </p>
-    <p>(Käsivarren lapset),</p>
-    <p>, hiphop,</p>
-    <p><em type="italic">Powerdancers</em>, foto AN. </p>
-    <p><em type="italic">Jutatokka</em>, foto AN.  </p>
-    <p>,<em type="italic"> </em><span type="quote">”Boazu”</span> (Poro), </p>
-    <p>, <span type="quote">”Letś have some fun”</span>,</p>
-    <p>(foto Vesa Toppari/Yle Sápmi)</p>
-    <p><em type="italic">Giehtaruohtasa mánát</em>, foto AN. </p>
-    <p>Ŋ<em type="bold">KA - MINKKI </em>     </p>
-    <p><em type="bold">dáiddagovva </em> (0-4 lk.) </p>
-    <p>Diana     Anára</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Raportti Saamelaisnuorten taidetapahtumasta 2014</title><genre code="admin"/><author><person firstname="Anni" lastname="Näkkäläjärvi" sex="unknown" born="" nationality="FI"/></author><year>2014</year><wordcount>175</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2507&amp;Itemid=10</origFileName><parallel_text xml:lang="sme" location="raporta_2014_minim..pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 134043 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Magreta Sara 2 kuukau</p>
+<p>Tuupa-records.</p>
+<p>Tapahtumaa varten laadittiin Sodankylän liikuntahallin</p>
+<p>Osallistujat matkustivat Sodankylään linja-autoilla Uts</p>
+<p>Osallistumis- ja pääsymaksuja ei peritty. Opetus- ja</p>
+<p>Arla Magga Oulusta Anu Magga, Minja Maggan kanssa. TapahtuBigga Aikio. Sodankylän sivistysjohtaja</p>
+<p>terveisten jälkeen tanhusi paikallinen tans</p>
+<p>Jutaajat.  Raadin työskentelyn aikana tanssiterveiAnne Plosila sekä Giellagas-instituuSolja Magga, Gabriela Satokan</p>
+<p>ja Reetta Tornensis. Tauon aikana näytettiin lyhytfilme</p>
+<p>Čáhppes njuvččat <em type="italic">Bealdovuomis</em>. Ohj./bag. Hellin ja Rosa Pietikäinen. Foto AN. </p>
+<p>.  Nuorimmat joko</p>
+<p>Tapahtumaan kutsutaan kaikki saamelaislapset ja</p>
+<p>Saamelaisnuorten taidetapahtuman päätavoit</p>
+<p><em type="italic"> </em>-hiphopryhmän jäsenet ovat </p>
+<p>Imaš Y -hiphopjoavkku láhtut leat</p>
+<p>Ohj./bag. Pinja ja Alisa Pieski + dánsut / tanssijat. Foto AN.</p>
+<p>-joavku <em type="italic">Oh</em>ohj./bag. Tarja Länsman. </p>
+<p>Tärkeänä tavoitteena on aina ollut myös lasten ja</p>
+<p>Taidetapahtumia on järjestetty 1970-luvun alun</p>
+<p>Merja Leinonen sekä Bigga Aikio Norjan Kautokeinosta.</p>
+<p>Kuvataiteilija Merja Aletta Ranttila, taideopettaja</p>
+<p>Korinna Korström-Magga sekä va. saameTanja</p>
+<p>kokoontuivat 6.5. Inarin Sajoksessa ja päätti</p>
+<p>, Giđđaválsa (Kevätvalssi) <em type="bold">dánsa</em> </p>
+<p>(Käsivarren lapset),</p>
+<p>, hiphop,</p>
+<p><em type="italic">Powerdancers</em>, foto AN. </p>
+<p><em type="italic">Jutatokka</em>, foto AN.  </p>
+<p>,<em type="italic"> </em><span type="quote">”Boazu”</span> (Poro), </p>
+<p>, <span type="quote">”Letś have some fun”</span>,</p>
+<p>(foto Vesa Toppari/Yle Sápmi)</p>
+<p><em type="italic">Giehtaruohtasa mánát</em>, foto AN. </p>
+<p>Ŋ<em type="bold">KA - MINKKI </em>     </p>
+<p><em type="bold">dáiddagovva </em> (0-4 lk.) </p>
+<p>Diana     Anára</p>
+</body></document>

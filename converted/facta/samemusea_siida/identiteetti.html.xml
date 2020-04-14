@@ -1,49 +1,23 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Anaras - Kieli - Kieli ja identiteetti</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Kaisu" lastname="Nikula" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>468</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/kieli/identiteetti.html</origFileName>
-    <parallel_text xml:lang="eng" location="identiteetti.html"/>
-    <parallel_text xml:lang="smn" location="identiteetti.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kirjoitustavat</p>
-    <p>Kieli ja identiteetti</p>
-    <p xml:lang="nob">Kertomaperinne</p>
-    <p>Kirjallisuus</p>
-    <p>Julkaistut teokset</p>
-    <p>Inarinsaamelaisten oma kieli, inarinsaame, on yksi uhanalaisimmista saamen kielistä. Syitä kielen uhanalaisuuteen on useita. Kieli on saamenkielistä ainoa, jota puhutaan vain Suomessa. Kaikki inarinsaamelaiset ovat siten myös suomenkielentaitoisia. Perheiden kielenvaihto suomeen on tapahtunut ehkä muita saamelaisryhmiä varhaisemmassa vaiheessa historiallisista syistä.</p>
-    <p>Suomalainen uudisasutus ja valtiolliset laitokset, esimerkiksi kirkko ja koulu, saapuivat inarinsaamenkieliselle alueelle varhaisessa vaiheessa. Pohjoismaiset rajasulut toivat alueelle myös pohjoissaamelaista vaikutusta yhä enenemässä määrin ja inarinsaamelaisten asema vähemmistön vähemmistönä muotoutui. Monikulttuurisessa ympäristössä väestöstä tuli luonnollisesti monikielinen. Kielenvaihtoon johti usein myös yleinen uudistilojen perustaminen. Tilan nimi rekisteröitiin suomenkielisenä ja suku vaihtoi nimeänsä vaikka tilan elinkeinot eivät muuttuneetkaan. Maailmansotien jälkeinen kehitys toi alueelle myös runsaasti uusia työmahdollisuuksia. Siirtyminen pois perinteisistä elinkeinoista vei mukanaan taas yhden kielenkäyttöympäristön. Inarinsaamen kielen tilanne oli 1990-luvulla sellainen, että nuorin kielenpuhuja oli jo teini-ikäinen eli käytännössä kieli oli kuolemassa muutaman sukupolven kuluessa.</p>
-    <p>Oma kieli osana etnisyyttä</p>
-    <p>Inarinsaame, kuten muutkin saamen kielet, sisältää runsaasti pohjoiseen ympäristöön ja perinteiseen elämänpiiriin liittyvää sanastoa, joka on ainutlaatuista ja suomenkieleksi kääntymätöntä. Etenkin elinkeinoihin liittyvä saamenkielinen termistö on kuitenkin vakiintunut paikalliseen suomenkielen murresanastoon jo varhaisessa vaiheessa. Kieli on kuitenkin se seikka, joka parhaiten erottaa inarinsaamelaiset muista saamelaisryhmistä.</p>
-    <p>Elinkeinot - poronhoito, kalastus ja keräilytalous - ovat yhteneväisiä muiden saamelaisryhmien kanssa. Toinenkaan tärkeä etninen tunnus, saamenpuku, ei välttämättä kerro kantajansa inarinsaamelaisuudesta, sillä varsikin Inarijärven länsi- ja pohjoispuolella suvut ovat yleisesti käyttäneet ns. Utsjoen mallin pukua. Saamelaisyhteisön modernisoituessa oma kieli ja kieleen liittyvät kulttuurituotteet saavat yhä tärkeämmän sijan etnisen identiteetin muotoutumisessa.</p>
-    <p>Kielen uudelleenelvyttäminen</p>
-    <p>Inarinsaamelaiset aktivistit ovat saaneet jarrutettua kielen puhujien vähenemistä Uuden-Seelannin maoreilta lainatulla menetelmällä. <em type="italic">Kohanga reo </em>, saameksi kielâpiervâl eli inarinsaamenkielinen kielipesä aloitti toimintansa Suomen Kulttuurirahaston avustuksella Inarissa vuonna 1997. Kielipesässä pienet lapset saavat saamenkielisen päiväkotiympäristön, vaikka heidän vanhempansa eivät kieltä puhuisikaan. Kielipesää on artikkelin kirjoitushetkellä käynyt 33 lasta. Osa heistä on koulussa jatkanut opiskelua inarinsaamenkielisellä luokalla ja siten saanut äidinkielen veroisen kielitaidon. </p>
-    <p>Kielipesän toiminta on kuitenkin vuosittain vaakalaudalla rahoituksen epävarmuuden vuoksi ja koulua taas vaivaa opettajapula. Kielipesällä on ollut suuri vaikutus niin uusien kielenpuhujien syntymiseen kuin myös lasten kautta tulleeseen kiinnostukseen inarinsaamen kieltä kohtaan. Moni vanhempi on osallistunut inarinsaamen kursseille ja kieli voi siirtyä myös kotipiiriin, varsinkin perheen sisarusten käydessä kielipesää. Kielipesän vaikutuksia tutkitaan parhaillaan käynnissä olevassa väitöstutkimuksessa.</p>
-    <p>Kieli osana saamelaisen identiteetin tulevaisuutta</p>
-    <p>Henkilökohtainen saamenkielen taito ja sen siirtäminen lapsille antaa omalle saamelaiselle identiteetille jatkuvuutta ja synnyttää optimismia kulttuurin tulevaisuuden suhteen. Identiteetin jatkuvuus voi syntyä myös muiden kulttuuripiirteiden kautta, esimerkiksi perinteisen elinkeinon siirtyessä sukupolvelta toiselle.</p>
-    <p>Monet saamelaisten perinteisiin elinkeinoihin ja elämäntapaan liittyvät etniset piirteet väistämättä muuttuvat tai häviävät. Kieli sen sijaan säilyy, mikäli vain uusia puhujia syntyy yhteisöön. Inarinsaamen kielen tukitoimenpiteet olisivat siten mahdollisesti yksinkertaisin tapa säilyttää inarinsaamelainen kulttuuri ja inarinsaamelaisten etninen identiteetti.</p>
-    <p xml:lang="smn">
-      <em type="italic">Kaisu Nikula </em>
-    </p>
-    <p>Inarinsaamen kieltä edistämään  perustetun Anarâškielâ servi ry:n aloittamispöytäkirja vuodelta 1986.</p>
-    <p>Kielipesän lasten keskellä johtaja Ritva Kangasniemi ja Matti Morottaja.</p>
-    <p xml:lang="fkv">Takaisin ylös</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Kieli - Kieli ja identiteetti</title><genre code="facta"/><author><person firstname="Kaisu" lastname="Nikula" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>468</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/kieli/identiteetti.html</origFileName><parallel_text xml:lang="eng" location="identiteetti.html"/><parallel_text xml:lang="smn" location="identiteetti.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kirjoitustavat</p>
+<p>Kieli ja identiteetti</p>
+<p xml:lang="nob">Kertomaperinne</p>
+<p>Kirjallisuus</p>
+<p>Julkaistut teokset</p>
+<p>Inarinsaamelaisten oma kieli, inarinsaame, on yksi uhanalaisimmista saamen kielistä. Syitä kielen uhanalaisuuteen on useita. Kieli on saamenkielistä ainoa, jota puhutaan vain Suomessa. Kaikki inarinsaamelaiset ovat siten myös suomenkielentaitoisia. Perheiden kielenvaihto suomeen on tapahtunut ehkä muita saamelaisryhmiä varhaisemmassa vaiheessa historiallisista syistä.</p>
+<p>Suomalainen uudisasutus ja valtiolliset laitokset, esimerkiksi kirkko ja koulu, saapuivat inarinsaamenkieliselle alueelle varhaisessa vaiheessa. Pohjoismaiset rajasulut toivat alueelle myös pohjoissaamelaista vaikutusta yhä enenemässä määrin ja inarinsaamelaisten asema vähemmistön vähemmistönä muotoutui. Monikulttuurisessa ympäristössä väestöstä tuli luonnollisesti monikielinen. Kielenvaihtoon johti usein myös yleinen uudistilojen perustaminen. Tilan nimi rekisteröitiin suomenkielisenä ja suku vaihtoi nimeänsä vaikka tilan elinkeinot eivät muuttuneetkaan. Maailmansotien jälkeinen kehitys toi alueelle myös runsaasti uusia työmahdollisuuksia. Siirtyminen pois perinteisistä elinkeinoista vei mukanaan taas yhden kielenkäyttöympäristön. Inarinsaamen kielen tilanne oli 1990-luvulla sellainen, että nuorin kielenpuhuja oli jo teini-ikäinen eli käytännössä kieli oli kuolemassa muutaman sukupolven kuluessa.</p>
+<p>Oma kieli osana etnisyyttä</p>
+<p>Inarinsaame, kuten muutkin saamen kielet, sisältää runsaasti pohjoiseen ympäristöön ja perinteiseen elämänpiiriin liittyvää sanastoa, joka on ainutlaatuista ja suomenkieleksi kääntymätöntä. Etenkin elinkeinoihin liittyvä saamenkielinen termistö on kuitenkin vakiintunut paikalliseen suomenkielen murresanastoon jo varhaisessa vaiheessa. Kieli on kuitenkin se seikka, joka parhaiten erottaa inarinsaamelaiset muista saamelaisryhmistä.</p>
+<p>Elinkeinot - poronhoito, kalastus ja keräilytalous - ovat yhteneväisiä muiden saamelaisryhmien kanssa. Toinenkaan tärkeä etninen tunnus, saamenpuku, ei välttämättä kerro kantajansa inarinsaamelaisuudesta, sillä varsikin Inarijärven länsi- ja pohjoispuolella suvut ovat yleisesti käyttäneet ns. Utsjoen mallin pukua. Saamelaisyhteisön modernisoituessa oma kieli ja kieleen liittyvät kulttuurituotteet saavat yhä tärkeämmän sijan etnisen identiteetin muotoutumisessa.</p>
+<p>Kielen uudelleenelvyttäminen</p>
+<p>Inarinsaamelaiset aktivistit ovat saaneet jarrutettua kielen puhujien vähenemistä Uuden-Seelannin maoreilta lainatulla menetelmällä. <em type="italic">Kohanga reo </em>, saameksi kielâpiervâl eli inarinsaamenkielinen kielipesä aloitti toimintansa Suomen Kulttuurirahaston avustuksella Inarissa vuonna 1997. Kielipesässä pienet lapset saavat saamenkielisen päiväkotiympäristön, vaikka heidän vanhempansa eivät kieltä puhuisikaan. Kielipesää on artikkelin kirjoitushetkellä käynyt 33 lasta. Osa heistä on koulussa jatkanut opiskelua inarinsaamenkielisellä luokalla ja siten saanut äidinkielen veroisen kielitaidon. </p>
+<p>Kielipesän toiminta on kuitenkin vuosittain vaakalaudalla rahoituksen epävarmuuden vuoksi ja koulua taas vaivaa opettajapula. Kielipesällä on ollut suuri vaikutus niin uusien kielenpuhujien syntymiseen kuin myös lasten kautta tulleeseen kiinnostukseen inarinsaamen kieltä kohtaan. Moni vanhempi on osallistunut inarinsaamen kursseille ja kieli voi siirtyä myös kotipiiriin, varsinkin perheen sisarusten käydessä kielipesää. Kielipesän vaikutuksia tutkitaan parhaillaan käynnissä olevassa väitöstutkimuksessa.</p>
+<p>Kieli osana saamelaisen identiteetin tulevaisuutta</p>
+<p>Henkilökohtainen saamenkielen taito ja sen siirtäminen lapsille antaa omalle saamelaiselle identiteetille jatkuvuutta ja synnyttää optimismia kulttuurin tulevaisuuden suhteen. Identiteetin jatkuvuus voi syntyä myös muiden kulttuuripiirteiden kautta, esimerkiksi perinteisen elinkeinon siirtyessä sukupolvelta toiselle.</p>
+<p>Monet saamelaisten perinteisiin elinkeinoihin ja elämäntapaan liittyvät etniset piirteet väistämättä muuttuvat tai häviävät. Kieli sen sijaan säilyy, mikäli vain uusia puhujia syntyy yhteisöön. Inarinsaamen kielen tukitoimenpiteet olisivat siten mahdollisesti yksinkertaisin tapa säilyttää inarinsaamelainen kulttuuri ja inarinsaamelaisten etninen identiteetti.</p>
+<p xml:lang="smn"><em type="italic">Kaisu Nikula </em></p>
+<p>Inarinsaamen kieltä edistämään  perustetun Anarâškielâ servi ry:n aloittamispöytäkirja vuodelta 1986.</p>
+<p>Kielipesän lasten keskellä johtaja Ritva Kangasniemi ja Matti Morottaja.</p>
+<p xml:lang="fkv">Takaisin ylös</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

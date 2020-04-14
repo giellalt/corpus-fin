@@ -1,47 +1,18 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Pohjoissaamenkieliset oppimateriaalit</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>44</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=156&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=156_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=156_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=156_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Pohjoissaamenkieliset oppimateriaalit</p>
-    <p/>
-    <list>
-      <p type="listitem">Pohjoissaame, äidinkieli</p>
-      <p type="listitem">Pohjoissaame, kirjallisuus</p>
-      <p type="listitem">Pohjoissaame vieraana kielenä</p>
-      <p type="listitem">Pohjoissaame, yläkoulun matematiikka</p>
-      <p type="listitem">Pohjoissaame, alakoulun matematiikka</p>
-      <p type="listitem">Pohjoissaame, fysiikka ja kemia</p>
-      <p type="listitem">Pohjoissaame, terveystieto</p>
-      <p type="listitem">Pohjoissaame, biologia</p>
-      <p type="listitem">Pohjoissaame, ympäristö- ja luonnontieto</p>
-      <p type="listitem">Pohjoissaame, maantieto</p>
-      <p type="listitem">Pohjoissaame, uskonto ja elämänkatsomus</p>
-      <p type="listitem">Pohjoissaame, historia ja yhteiskunta</p>
-      <p type="listitem">Pohjoissaame, käsityö</p>
-      <p type="listitem">Pohjoissaame, muut materiaalit</p>
-      <p type="listitem">Pohjoissaame, kotitalous</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Pohjoissaamenkieliset oppimateriaalit</title><genre code="admin"/><author><unknown/></author><wordcount>44</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=156&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=156_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=156_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=156_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pohjoissaamenkieliset oppimateriaalit</p>
+<p/>
+<list><p type="listitem">Pohjoissaame, äidinkieli</p>
+<p type="listitem">Pohjoissaame, kirjallisuus</p>
+<p type="listitem">Pohjoissaame vieraana kielenä</p>
+<p type="listitem">Pohjoissaame, yläkoulun matematiikka</p>
+<p type="listitem">Pohjoissaame, alakoulun matematiikka</p>
+<p type="listitem">Pohjoissaame, fysiikka ja kemia</p>
+<p type="listitem">Pohjoissaame, terveystieto</p>
+<p type="listitem">Pohjoissaame, biologia</p>
+<p type="listitem">Pohjoissaame, ympäristö- ja luonnontieto</p>
+<p type="listitem">Pohjoissaame, maantieto</p>
+<p type="listitem">Pohjoissaame, uskonto ja elämänkatsomus</p>
+<p type="listitem">Pohjoissaame, historia ja yhteiskunta</p>
+<p type="listitem">Pohjoissaame, käsityö</p>
+<p type="listitem">Pohjoissaame, muut materiaalit</p>
+<p type="listitem">Pohjoissaame, kotitalous</p>
+</list></body></document>

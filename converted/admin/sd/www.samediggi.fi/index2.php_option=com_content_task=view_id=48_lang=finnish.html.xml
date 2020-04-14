@@ -1,53 +1,21 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Kulttuurilautakunta</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>101</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=48&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=48_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=48_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=48_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=48_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kulttuurilautakunta</p>
-    <p>Kulttuurilautakunta on saamelaiskäräjien hallituksen alainen toimielin, joka valmistelee saamelaiskäräjien esitykset, aloitukset sekä lausunnot, jotka koskevat saamelaisten henkistä kulttuuria. Kulttuurilautakunnan tehtävänä on päättää valtionavustuksen (saamelainen kulttuurimääräraha) jakamisesta sekä seurata ja valvoa myönnettyjen avustusten käyttöä. Lautakunnan tulee laatia vuosittain saamelaiskäräjien kokoukselle selvitys saamelaisen kulttuurimäärärahan käytöstä ja laatia ehdotus valtion budjettiin vuosittaisesta saamelaisesta kulttuurimäärärahasta.</p>
-    <p>Kulttuurilautakunnan asioiden valmistelijana ja esittelijänä toimii kulttuurisihteeri.</p>
-    <p>Lautakuntaan toimikaudella 2012 - 2015 kuuluvat jäsenet:</p>
-    <p>
-      <em type="italic">Jäsenet: </em>
-    </p>
-    <p>Haltta Tauno, pj.</p>
-    <p>Ilmari Tapiola, vpj.</p>
-    <p>Näkkälä Jouni</p>
-    <p>Helander Marjukka</p>
-    <p>Hetta Martti</p>
-    <p>Paadar Outi</p>
-    <p>Orti-Berg Riitta (vapautus 7.8.2015 asti)</p>
-    <p>
-      <em type="italic">Varajäsenet: </em>
-    </p>
-    <p>Hänninen Heidi</p>
-    <p>Laiti Martti</p>
-    <p>Näkkäläjärvi Minna</p>
-    <p>Pajuranta Maarit</p>
-    <p>Portti Timo</p>
-    <p>Lehtola Raija</p>
-    <p>Länsman Sisko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Kulttuurilautakunta</title><genre code="admin"/><author><unknown/></author><wordcount>101</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=48&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=48_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=48_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=48_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=48_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kulttuurilautakunta</p>
+<p>Kulttuurilautakunta on saamelaiskäräjien hallituksen alainen toimielin, joka valmistelee saamelaiskäräjien esitykset, aloitukset sekä lausunnot, jotka koskevat saamelaisten henkistä kulttuuria. Kulttuurilautakunnan tehtävänä on päättää valtionavustuksen (saamelainen kulttuurimääräraha) jakamisesta sekä seurata ja valvoa myönnettyjen avustusten käyttöä. Lautakunnan tulee laatia vuosittain saamelaiskäräjien kokoukselle selvitys saamelaisen kulttuurimäärärahan käytöstä ja laatia ehdotus valtion budjettiin vuosittaisesta saamelaisesta kulttuurimäärärahasta.</p>
+<p>Kulttuurilautakunnan asioiden valmistelijana ja esittelijänä toimii kulttuurisihteeri.</p>
+<p>Lautakuntaan toimikaudella 2012 - 2015 kuuluvat jäsenet:</p>
+<p><em type="italic">Jäsenet: </em></p>
+<p>Haltta Tauno, pj.</p>
+<p>Ilmari Tapiola, vpj.</p>
+<p>Näkkälä Jouni</p>
+<p>Helander Marjukka</p>
+<p>Hetta Martti</p>
+<p>Paadar Outi</p>
+<p>Orti-Berg Riitta (vapautus 7.8.2015 asti)</p>
+<p><em type="italic">Varajäsenet: </em></p>
+<p>Hänninen Heidi</p>
+<p>Laiti Martti</p>
+<p>Näkkäläjärvi Minna</p>
+<p>Pajuranta Maarit</p>
+<p>Portti Timo</p>
+<p>Lehtola Raija</p>
+<p>Länsman Sisko</p>
+</body></document>

@@ -1,57 +1,29 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Saamelaiskäräjien toiminnan perusteista ja saamelaisten tämänhetkisestä asemasta suomessa</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2008</year>
-    <wordcount>194</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=129&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="sme" location="seminara_samedikki.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>4.2.2008</p>
-    <p>
-      <em type="bold">SEMINAARI </em>
-    </p>
-    <p>
-      <em type="bold">S AAMELAIS KÄRÄJIEN  TOIMINNAN  PERUS TEIS TA  JA  S AAMELAIS TEN  TÄMÄNHETKIS ES TÄ AS EMAS TA S UOMESS A </em>
-    </p>
-    <p>Seminaarin tarkoituksena on luoda yleiskatsaus Saamelaiskäräjien toiminnan perusteisiin ja saamelaisten asemaan nykypäivän Suomessa.  Aluksi tarkastellaan perusasioita Saamelaiskäräjistä kuten sen asemaa, tehtäviä, organisaatiomallia ja taloutta.  Sen jälkeen arvioidaan Saamelaiskäräjien asemaa  ja  sen  poliittisia  vaikutusmahdollisuuksia  suomalaisessa  yhteiskunnassa.   Käytännön  asioina käydään vielä läpi Saamelaiskäräjien jäsenille  ja henkilöstölle maksettavien matka- ja muiden kokouksista aiheutuvien kulujen korvausperusteet. Lopuksi käydään läpi hallinnon alojen toimintaa.</p>
-    <p><em type="bold">Aika</em>  pe 8. pnä helmikuuta 2008 alkaen klo 13.00 </p>
-    <p><em type="bold">Paikka</em> Leirikeskus Vasatokka, Riutula </p>
-    <p><em type="bold">Kohderyhmä</em>  Saamelaiskäräjien jäsenet ja varajäsenet sekä henkilöstö </p>
-    <p><em type="bold">Järjestäjä</em> Saamelaiskäräjien sihteeristö </p>
-    <p>OHJELM A</p>
-    <p>klo</p>
-    <p>12.00 M ahdollisuus ruokailuun</p>
-    <p>13.00  Seminaarin avaus</p>
-    <p>-hallintopäällikkö Juha Guttorm</p>
-    <p>13.05  Saamelaiskäräjät – saamelaisten parlamentti</p>
-    <p>-hallintopäällikkö Juha Guttorm</p>
-    <p>Keskustelua 14.00 Saamelaiskäräjien asema ja sen poliittiset vaikutusmahdollisuudet  suomalaisessa yhteiskunnassa</p>
-    <p>-va. lakimiessihteeri Aimo Guttorm</p>
-    <p>Keskustelua</p>
-    <p>15.00 Kahvi</p>
-    <p>15.30 M atka- ja muiden kokouksista aiheutuvien kulujen korvausperusteet</p>
-    <p>Saamelaiskäräjien palkkiosääntö  Valtion matkustussääntö -taloussihteeri Hilkka Kukkonen</p>
-    <p>Keskustelua</p>
-    <p>16.00 Hallinnon alojen toiminta</p>
-    <p>-Ulla Aikio-Puoskari, koulutussihteeri  -Siiri Jomppanen, kieliturvasihteeri  -Pia Ruotsala, sosiaali- ja terveyssihteeri  -M arjukka Helander, vs. kulttuurisihteeri  -Aimo Guttorm, va. lakimiessihteeri</p>
-    <p>Keskustelua</p>
-    <p>n. 17.00 Seminaari päättyy</p>
-    <p>Seminaarin puheenjohtajana toimii hallintopäällikkö Juha Guttorm.</p>
-    <p>
-      <em type="bold">TERVETULOA! </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Saamelaiskäräjien toiminnan perusteista ja saamelaisten tämänhetkisestä asemasta suomessa</title><genre code="admin"/><author><unknown/></author><year>2008</year><wordcount>194</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=129&amp;Itemid=10</origFileName><parallel_text xml:lang="sme" location="seminara_samedikki.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>4.2.2008</p>
+<p><em type="bold">SEMINAARI </em></p>
+<p><em type="bold">S AAMELAIS KÄRÄJIEN  TOIMINNAN  PERUS TEIS TA  JA  S AAMELAIS TEN  TÄMÄNHETKIS ES TÄ AS EMAS TA S UOMESS A </em></p>
+<p>Seminaarin tarkoituksena on luoda yleiskatsaus Saamelaiskäräjien toiminnan perusteisiin ja saamelaisten asemaan nykypäivän Suomessa.  Aluksi tarkastellaan perusasioita Saamelaiskäräjistä kuten sen asemaa, tehtäviä, organisaatiomallia ja taloutta.  Sen jälkeen arvioidaan Saamelaiskäräjien asemaa  ja  sen  poliittisia  vaikutusmahdollisuuksia  suomalaisessa  yhteiskunnassa.   Käytännön  asioina käydään vielä läpi Saamelaiskäräjien jäsenille  ja henkilöstölle maksettavien matka- ja muiden kokouksista aiheutuvien kulujen korvausperusteet. Lopuksi käydään läpi hallinnon alojen toimintaa.</p>
+<p><em type="bold">Aika</em>  pe 8. pnä helmikuuta 2008 alkaen klo 13.00 </p>
+<p><em type="bold">Paikka</em> Leirikeskus Vasatokka, Riutula </p>
+<p><em type="bold">Kohderyhmä</em>  Saamelaiskäräjien jäsenet ja varajäsenet sekä henkilöstö </p>
+<p><em type="bold">Järjestäjä</em> Saamelaiskäräjien sihteeristö </p>
+<p>OHJELM A</p>
+<p>klo</p>
+<p>12.00 M ahdollisuus ruokailuun</p>
+<p>13.00  Seminaarin avaus</p>
+<p>-hallintopäällikkö Juha Guttorm</p>
+<p>13.05  Saamelaiskäräjät – saamelaisten parlamentti</p>
+<p>-hallintopäällikkö Juha Guttorm</p>
+<p>Keskustelua 14.00 Saamelaiskäräjien asema ja sen poliittiset vaikutusmahdollisuudet  suomalaisessa yhteiskunnassa</p>
+<p>-va. lakimiessihteeri Aimo Guttorm</p>
+<p>Keskustelua</p>
+<p>15.00 Kahvi</p>
+<p>15.30 M atka- ja muiden kokouksista aiheutuvien kulujen korvausperusteet</p>
+<p>Saamelaiskäräjien palkkiosääntö  Valtion matkustussääntö -taloussihteeri Hilkka Kukkonen</p>
+<p>Keskustelua</p>
+<p>16.00 Hallinnon alojen toiminta</p>
+<p>-Ulla Aikio-Puoskari, koulutussihteeri  -Siiri Jomppanen, kieliturvasihteeri  -Pia Ruotsala, sosiaali- ja terveyssihteeri  -M arjukka Helander, vs. kulttuurisihteeri  -Aimo Guttorm, va. lakimiessihteeri</p>
+<p>Keskustelua</p>
+<p>n. 17.00 Seminaari päättyy</p>
+<p>Seminaarin puheenjohtajana toimii hallintopäällikkö Juha Guttorm.</p>
+<p><em type="bold">TERVETULOA! </em></p>
+</body></document>

@@ -1,38 +1,14 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisteatteri Beaivváš esiintyy Sajoksessa</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>255</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=560&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=560_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=560_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=560_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisteatteri Beaivváš esiintyy Sajoksessa</p>
-    <p>Saamelaisten kansallisteatteri Beaivváš tulee Sajokseen sunnuntaina 26. helmikuuta. Sajoksessa nähdään Marry Áilonieida Sombyn käsikirjoitukseen perustuva koko perheen näytelmä Stáinnak. Stáinnak on maahisten poro, joka tulee vahingossa laiduntamaan ihmisten maailmaan. Stáinnak joutuu seikkailuihin, joissa on paljon ajankohtaisia teemoja vaikka esitys perustuu jo kolme vuosikymmentä sitten tehtyyn tekstiin.</p>
-    <p xml:lang="sme">Kuvissa Leammuid Biret Rávdná/ Sininen serkku, Sarakka Gaup/ Punainen serkku ja Áilloš/ Kentänpään eukko. Kuvat: Beaivváš/ Stainnak/ Mienna.</p>
-    <p>Näytelmä on dramaattinen - mikä sekä pelästyttää että viihdyttää, sanoo Marry Ailonieida Somby. - Esityksen tarkoituksena on näyttää vastahakoisuutta luonnon pilaamista vastaan. Stáinnak-näytelmässä ovat mukana maahiset ja staalot sekä valkoinen maahisten onnenporo Stáinnak.</p>
-    <p>Stáinnak joutuu vahingossa ihmisten ja eläinten maailmaan ja alkaa laiduntaa väärässä paikassa ja väärään aikaan. Stáinnak tapaa Ruttopoliisin (Rohttupolitiija), joka laittaa Stáinnakin putkaan. Sininen ja Punainen serkku, Stáinnakin parhaimmat ystävät, aikovat auttaa häntä, mikä ei ole niin helppoa. Pelastaessaan Stainnakin Sininen ja Punainen serkku tapaavat sekä hyviä että pahoja hahmoja. He kuulevat myös, että jotkut ovat alkaneet rakentaa atomilaitteita ja vielä pahempia asioita. Maahiskaksikolle tulee dramaattinen matka niin oikeassa maailmassa kuin maanalaisten maailmassa. Ja tavoitteena on pelastaa Stáinnak, mutta Ruttopoliisi ja Jurratruolla (Jyrinäpaholainen) eivät tykkää siitä.</p>
-    <p>Säveltäjä ja muusikko Roger Ludvigsen on tehnyt näytelmän musiikin. Esityksen on ohjannut Victoria Kahn. Lava- ja vaatesuunnittelun on tehnyt Sara Kander, valosuunnittelun Bernt Morten Bongo.</p>
-    <p xml:lang="sme">Näyttelijät: Beaivváš - teatterin vakituiset näyttelijät Egil Keskitalo, Áilloš ja Svein B. Olsen, muina näyttelijöinä ovat Sarakka Gaup ja Leammuid Biret Ravdna.</p>
-    <p>Lue lisää tästä .</p>
-    <p>Esitys Sajoksessa sunnuntaina 26.2. alkaen klo 17.</p>
-    <p>Liput ovelta:</p>
-    <p>18 euroa/aikuinen</p>
-    <p>12 euroa/eläkeläinen tai opiskelija</p>
-    <p>8 euroa/lapset</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisteatteri Beaivváš esiintyy Sajoksessa</title><genre code="admin"/><author><unknown/></author><wordcount>255</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=560&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=560_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=560_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=560_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisteatteri Beaivváš esiintyy Sajoksessa</p>
+<p>Saamelaisten kansallisteatteri Beaivváš tulee Sajokseen sunnuntaina 26. helmikuuta. Sajoksessa nähdään Marry Áilonieida Sombyn käsikirjoitukseen perustuva koko perheen näytelmä Stáinnak. Stáinnak on maahisten poro, joka tulee vahingossa laiduntamaan ihmisten maailmaan. Stáinnak joutuu seikkailuihin, joissa on paljon ajankohtaisia teemoja vaikka esitys perustuu jo kolme vuosikymmentä sitten tehtyyn tekstiin.</p>
+<p xml:lang="sme">Kuvissa Leammuid Biret Rávdná/ Sininen serkku, Sarakka Gaup/ Punainen serkku ja Áilloš/ Kentänpään eukko. Kuvat: Beaivváš/ Stainnak/ Mienna.</p>
+<p>Näytelmä on dramaattinen - mikä sekä pelästyttää että viihdyttää, sanoo Marry Ailonieida Somby. - Esityksen tarkoituksena on näyttää vastahakoisuutta luonnon pilaamista vastaan. Stáinnak-näytelmässä ovat mukana maahiset ja staalot sekä valkoinen maahisten onnenporo Stáinnak.</p>
+<p>Stáinnak joutuu vahingossa ihmisten ja eläinten maailmaan ja alkaa laiduntaa väärässä paikassa ja väärään aikaan. Stáinnak tapaa Ruttopoliisin (Rohttupolitiija), joka laittaa Stáinnakin putkaan. Sininen ja Punainen serkku, Stáinnakin parhaimmat ystävät, aikovat auttaa häntä, mikä ei ole niin helppoa. Pelastaessaan Stainnakin Sininen ja Punainen serkku tapaavat sekä hyviä että pahoja hahmoja. He kuulevat myös, että jotkut ovat alkaneet rakentaa atomilaitteita ja vielä pahempia asioita. Maahiskaksikolle tulee dramaattinen matka niin oikeassa maailmassa kuin maanalaisten maailmassa. Ja tavoitteena on pelastaa Stáinnak, mutta Ruttopoliisi ja Jurratruolla (Jyrinäpaholainen) eivät tykkää siitä.</p>
+<p>Säveltäjä ja muusikko Roger Ludvigsen on tehnyt näytelmän musiikin. Esityksen on ohjannut Victoria Kahn. Lava- ja vaatesuunnittelun on tehnyt Sara Kander, valosuunnittelun Bernt Morten Bongo.</p>
+<p xml:lang="sme">Näyttelijät: Beaivváš - teatterin vakituiset näyttelijät Egil Keskitalo, Áilloš ja Svein B. Olsen, muina näyttelijöinä ovat Sarakka Gaup ja Leammuid Biret Ravdna.</p>
+<p>Lue lisää tästä .</p>
+<p>Esitys Sajoksessa sunnuntaina 26.2. alkaen klo 17.</p>
+<p>Liput ovelta:</p>
+<p>18 euroa/aikuinen</p>
+<p>12 euroa/eläkeläinen tai opiskelija</p>
+<p>8 euroa/lapset</p>
+</body></document>

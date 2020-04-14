@@ -1,33 +1,9 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Valtiot ja saamelaiskäräjät valmiita saamelaissopimusneuvotteluihin</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>193</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=367&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=367_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=367_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=367_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Valtiot ja saamelaiskäräjät valmiita saamelaissopimusneuvotteluihin</p>
-    <p>- Aika on kypsynyt pohjoismaista saamelaissopimusta koskevien neuvottelujen aloittamiselle. Pohjoismaiden saamelaiskäräjien puheenjohtajat ja valtioiden saamelaisasioista vastaavat ministerit kokoontuvat Oslossa toukokuun 25. päivänä sopimaan neuvottelujen aikataulusta ja menettelytavoista.</p>
-    <p>Kuvissa Suomen saamelaiskäräjien jäsenet Tuomas Aslak Juuso ja Asko Länsman sekä varapuheenjohtaja Erkki Lumisalmi. Kuvat: Sára Márjá Magga.</p>
-    <p>– Voimme iloita siitä, että saamelaissopimusta koskevat neuvottelut alkavat ja asia etenee, totesi Norjan saamelaiskäräjien varapresidentti Laila Susanne Vars saamelaisen parlamentaarisen neuvoston kokouksessa Rovaniemellä 14.4.</p>
-    <p>Saamelaisen parlamentaarisen neuvoston kokous hyväksyi julistuksen pohjoismaisen saamelaissopimuksen edistämisestä neuvottelujen alkaessa. Ehdotus Suomen, Ruotsin ja Norjan yhteiseksi pohjoismaiseksi saamelaissopimukseksi valmistui näitä valtioita ja saamelaiskäräjiä edustaneen asiantuntijatyöryhmän työn tuloksena vuonna 2005. Parlamentaarinen neuvosto edellyttää nyt, että alkaville neuvotteluille tulisi asettaa pitävä ja hyväksyttävä aikataulu.</p>
-    <p>Parlamentaarinen neuvosto korostaa julkilausumassaan sitä, että tullessaan hyväksytyksi saamelaissopimus on kuitenkin epätäydellinen niin kauan kun Venäjän saamelaiset ovat sen ulkopuolella. Parlamentaarinen neuvosto tukee Venäjän saamelaisten pyrkimyksiä oman edustuksellisen elimen perustamiseksi ja kehottaa myös Suomen, Ruotsin ja Norjan hallituksia tukemaan Venäjän saamelaisten pyrkimyksiä.</p>
-    <p>Pohjoismaisen saamelaissopimuksen tarkoituksena on mm. yhtenäistää saamelaisten oikeusasemaa valtioissaan ja lujittaa saamelaisten mahdollisuuksia toimia valtioiden rajojen yli ja säilyä yhtenä kansana.</p>
-    <p>Julistus on luettavissa suomeksi täältä: Saamelaisen parlamentaarisen neuvoston julistus pohjoismaisesta saamelaissopimuksesta 14.4.2010</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Valtiot ja saamelaiskäräjät valmiita saamelaissopimusneuvotteluihin</title><genre code="admin"/><author><unknown/></author><wordcount>193</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=367&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=367_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=367_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=367_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Valtiot ja saamelaiskäräjät valmiita saamelaissopimusneuvotteluihin</p>
+<p>- Aika on kypsynyt pohjoismaista saamelaissopimusta koskevien neuvottelujen aloittamiselle. Pohjoismaiden saamelaiskäräjien puheenjohtajat ja valtioiden saamelaisasioista vastaavat ministerit kokoontuvat Oslossa toukokuun 25. päivänä sopimaan neuvottelujen aikataulusta ja menettelytavoista.</p>
+<p>Kuvissa Suomen saamelaiskäräjien jäsenet Tuomas Aslak Juuso ja Asko Länsman sekä varapuheenjohtaja Erkki Lumisalmi. Kuvat: Sára Márjá Magga.</p>
+<p>– Voimme iloita siitä, että saamelaissopimusta koskevat neuvottelut alkavat ja asia etenee, totesi Norjan saamelaiskäräjien varapresidentti Laila Susanne Vars saamelaisen parlamentaarisen neuvoston kokouksessa Rovaniemellä 14.4.</p>
+<p>Saamelaisen parlamentaarisen neuvoston kokous hyväksyi julistuksen pohjoismaisen saamelaissopimuksen edistämisestä neuvottelujen alkaessa. Ehdotus Suomen, Ruotsin ja Norjan yhteiseksi pohjoismaiseksi saamelaissopimukseksi valmistui näitä valtioita ja saamelaiskäräjiä edustaneen asiantuntijatyöryhmän työn tuloksena vuonna 2005. Parlamentaarinen neuvosto edellyttää nyt, että alkaville neuvotteluille tulisi asettaa pitävä ja hyväksyttävä aikataulu.</p>
+<p>Parlamentaarinen neuvosto korostaa julkilausumassaan sitä, että tullessaan hyväksytyksi saamelaissopimus on kuitenkin epätäydellinen niin kauan kun Venäjän saamelaiset ovat sen ulkopuolella. Parlamentaarinen neuvosto tukee Venäjän saamelaisten pyrkimyksiä oman edustuksellisen elimen perustamiseksi ja kehottaa myös Suomen, Ruotsin ja Norjan hallituksia tukemaan Venäjän saamelaisten pyrkimyksiä.</p>
+<p>Pohjoismaisen saamelaissopimuksen tarkoituksena on mm. yhtenäistää saamelaisten oikeusasemaa valtioissaan ja lujittaa saamelaisten mahdollisuuksia toimia valtioiden rajojen yli ja säilyä yhtenä kansana.</p>
+<p>Julistus on luettavissa suomeksi täältä: Saamelaisen parlamentaarisen neuvoston julistus pohjoismaisesta saamelaissopimuksesta 14.4.2010</p>
+</body></document>

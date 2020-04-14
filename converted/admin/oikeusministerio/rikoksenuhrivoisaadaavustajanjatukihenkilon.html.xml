@@ -1,31 +1,7 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Rikoksen uhri voi saada avustajan ja tukihenkilön - 
+<document xml:lang="fin" id="no_id"><header><title>Rikoksen uhri voi saada avustajan ja tukihenkilön - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2014</year>
-    <wordcount>56</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/fi/index/esitteet/oikeusapu/rikoksenuhrivoisaadaavustajanjatukihenkilon.html</origFileName>
-    <parallel_text xml:lang="eng" location="rikoksenuhrivoisaadaavustajanjatukihenkilon.html"/>
-    <parallel_text xml:lang="sme" location="rihkkosaoaffarsahttaoauuutveahkijadoarjjaolbmo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Oikeusapu</p>
-    <p type="title">Rikoksen uhri voi saada avustajan ja tukihenkilön</p>
-    <p>Jos henkilö joutuu seksuaalirikoksen, perheväkivallan tai muun väkivaltarikoksen uhriksi, tuomioistuin voi määrätä hänelle esitutkintaa ja oikeudenkäyntiä varten tarvittaessa sekä oikeudenkäyntiavustajan että tukihenkilön. Avustaja auttaa rikoksen uhria asian oikeudellisessa käsittelyssä ja tukihenkilö on henkisenä tukena.</p>
-    <p>Avustaja ja tukihenkilö määrätään uhrin tuloista riippumatta. Heidän palkkionsa ja kulunsa maksetaan valtion varoista.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2014</year><wordcount>56</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/oikeusapu/rikoksenuhrivoisaadaavustajanjatukihenkilon.html</origFileName><parallel_text xml:lang="eng" location="rikoksenuhrivoisaadaavustajanjatukihenkilon.html"/><parallel_text xml:lang="sme" location="rihkkosaoaffarsahttaoauuutveahkijadoarjjaolbmo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Oikeusapu</p>
+<p type="title">Rikoksen uhri voi saada avustajan ja tukihenkilön</p>
+<p>Jos henkilö joutuu seksuaalirikoksen, perheväkivallan tai muun väkivaltarikoksen uhriksi, tuomioistuin voi määrätä hänelle esitutkintaa ja oikeudenkäyntiä varten tarvittaessa sekä oikeudenkäyntiavustajan että tukihenkilön. Avustaja auttaa rikoksen uhria asian oikeudellisessa käsittelyssä ja tukihenkilö on henkisenä tukena.</p>
+<p>Avustaja ja tukihenkilö määrätään uhrin tuloista riippumatta. Heidän palkkionsa ja kulunsa maksetaan valtion varoista.</p>
+</body></document>

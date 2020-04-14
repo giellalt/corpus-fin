@@ -1,80 +1,40 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>772</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/Fi/manniska-och-samhalle/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ihminen ja yhteiskunta - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem">Ihminen ja yhteiskunta</p>
-    </list>
-    <p type="title">Ihminen ja yhteiskunta</p>
-    <p>
-      <em type="italic">Lääninhallitus toimii yhdessä kuntien kanssa hyvien edellytysten luomiseksi yhteiskunnassa läänin asukkaille – sekä yksityishenkilöille että yrittäjille. Kaikille tulee tarjota samoilla ehdoilla elinympäristö, jossa on turvallista, helppoa ja vaaratonta työskennellä, asua ja elää. </em>
-    </p>
-    <p type="title">Ihmisoikeudet</p>
-    <p>Yhtäläisiä oikeuksia ja mahdollisuuksia edistävän työn tulee leimata lääninhallituksen organisaatiota ja toimintaa. Syrjintälain mukaan on kiellettyä syrjiä ihmisiä heidän sukupuolensa, etnisestä alkuperänsä, uskontonsa tai muun uskonvakaumuksensa, seksuaalisen suuntautumisensa, toimintarajoitteensa, ikänsä tai sukupuolen ilmaisunsa johdosta.</p>
-    <p type="title">Tasavertaisuus</p>
-    <p>Kansallisena tavoitteena on naisten ja miesten yhtäläinen valta muotoilla yhteiskuntaa ja omaa elämäänsä. Lääninhallituksen tehtävänä on tukea kuntia, valtion toimintoja ja muita alueellisia toimijoita niiden omien toimintojen tekemisessä tasavertaisiksi. Ruotsin lääninhallitukset toimivat miesten naisiin kohdistamaa väkivaltaa vastaan sekä prostituutiota ja seksuaaliseen hyväksikäyttöön tähtäävää ihmiskauppaa vastaan tukemalla ennalta ehkäiseviä toimenpiteitä ja vahvistamalla viranomaisten ja aatteellisten järjestöjen välistä yhteistyötä.</p>
-    <p type="title">Kansalliset vähemmistöt</p>
-    <p>Tukholman läänin lääninhallitus ja Saamelaiskäräjät ovat päävastuussa Ruotsin vähemmistöpolitiikan toteuttamisen koordinoinnista ja seurannasta. Vähemmistöpolitiikka kattaa kysymykset kansallisten vähemmistöjen ja niiden kielten suojelusta ja tuesta. Ruotsin viisi tunnustettua vähemmistöä ovat juutalaiset, romanit, saamelaiset (myös alkuperäiskansana), ruotsinsuomalaiset ja tornionjokilaaksolaiset. Kansallisia vähemmistökieliä ovat jiddiš, romani chib, saame, suomi ja meänkieli.</p>
-    <p type="title">Kansanterveys</p>
-    <p>Lääninhallituksen tehtävänä on luoda edellytykset hyvän terveyden takaamiseksi koko väestölle yhtäläisillä ehdoilla. Kansanterveydessä on kysymys ihmisten omista valinnoista ja tavoista, mutta myös ulkoisista ympäristöistä ja demokraattisista oikeuksista yhteiskunnassa. Toimimme erityisesti alueilla, kuten tasavertaisuus, integraatio, ympäristö, asuntosuunnittelu, sosiaaliset edellytykset, syrjinnän torjuminen sekä alkoholiin ja huumeisiin liittyvät kysymykset.</p>
-    <p type="title" xml:lang="swe">Integraatio</p>
-    <p>Integraatiopolitiikan yleistavoitteena ovat yhtäläiset oikeudet, velvollisuudet ja mahdollisuudet kaikille etnisestä ja kulttuurisesta taustasta riippumatta. Lääninhallituksen tulee edistää eri toimijoiden välistä yhteistyötä ja toimia itse hyvien valmiuksien ja mahdollisuuksien luomiseksi lääniin vastasaapuneiden pakolaisten ja muiden turvapaikkaa tarvitsevien vastaanottamiselle.</p>
-    <p type="title">Vaalit</p>
-    <p>Lääninhallitus on paikallinen vaaliviranomainen. Tämä merkitsee, että vastaamme yleisten vaalien valmisteluista ja toteuttamisesta, europarlamenttivaaleista sekä neuvoa-antavista kansallisista kansanäänestyksistä.</p>
-    <p>Lääninhallitus päättää ennen vaaleja muun muassa jaosta vaalipiireihin ja äänestysalueisiin ja ottaa vastaan ilmoitukset puolueiden vaalilipuissa mukana olevista ehdokkaista. Vaaliyönä eri äänestysalueet raportoivat äänestyksen tulokset lääninhallitukselle. Sen jälkeen lääninhallitus suorittaa lopullisen ääntenlaskennan.</p>
-    <p type="title">Kriisivalmius</p>
-    <p>Kriisin tai kohotetun valmiustilan aikana lääninhallituksen tehtävänä on tukea ja koordinoida läänin viranomaisia, järjestöjä ja yhteiskunnalle tärkeitä yrityksiä. Meillä on myös vastuu kriisiä koskevien tietojen koordinoinnista ja näiden tietojen välittämisestä suurelle yleisölle ja medioille. Jos ydinvoimalassa tapahtuu onnettomuus tai päästöjä, kaikilla lääninhallituksilla on pelastuspalveluvastuu omassa läänissään. Uppsalan, Kalmarin sekä Hallannin läänien lääninhallituksilla on lisäksi ylimääräisiä valmiustehtäviä.</p>
-    <p type="title">Valvonta ja luvat</p>
-    <p>Lääninhallitus myöntää eri alueita koskevia lupia tai tekee tarkastuksia varmistaakseen, ettei ihmisten terveyttä vaaranneta tai oikeuksia laiminlyödä.</p>
-    <p type="title">Hautajaiset</p>
-    <p>Lääninhallitus valitsee seurakuntien toimintaa tarkastavia asiamiehiä, jotka huolehtivat lisäksi siitä, että myös Ruotsin kirkkoon kuulumattomat voidaan haudata heille sopivalla tavalla. Voimme myös myöntää luvan levittää kuolleen henkilön tuhka sopivaan paikkaan.</p>
-    <p type="title">Rahojen talletus</p>
-    <p>Lääninhallitus voi antaa sinulle luvan tallettaa rahaa erityiselle tilille. Tämä merkitsee, että voimme ottaa vastaan ja säilyttää rahat, jotka sinä aiot maksaa jollekulle. Voit esimerkiksi tehdä tämän, jos sinulla on vuokralaisena riita vuokraisännän kanssa tai jos olet velkaa jollekin, jonka henkilöllisyyttä et tiedä. Velkasi katsotaan tällöin maksetuksi ajoissa, mikäli tietyt laissa säädetyt edellytykset on täytetty.</p>
-    <p type="title">Kameravalvonta</p>
-    <p>Lääninhallitus voi myöntää luvan sellaiselle kameravalvonnalle, jossa kamerat suunnataan alueelle, johon on yleisesti vapaa pääsy. Kameravalvontaa säätelee kameravalvontalaki (kameraövervakningslagen) ja Lääninhallitus huolehtii siitä, että lakia noudatetaan.</p>
-    <p type="title">Elintarvikevalvonta</p>
-    <p>Alkutuotanto on ensimmäinen vaihe elintarvikeketjussa, ja se kattaa muun muassa lihan, maidon, viljan ja karkearehun tuotannon sekä rehusekoitusten valmistuksen ja rehun sekä elintarvikkeiden kuljetukset. Lääninhallitus ja Ruotsin maatalousvirasto valvovat elintarvikkeiden alkutuotantoa useassa eri vaiheessa. Valvomme myös sitä, että kunnat tarkastavat hyvin ruoan valmistajien ja myyjien riittävän tietotason ja heidän toimitilojensa kelpoisuuden tuotantoon/myyntiin.</p>
-    <p type="title">Palkkatakuu</p>
-    <p>Jos olet töissä konkurssiin joutuvassa yrityksessä, kuulut palkkatakuulain piiriin. Lääninhallitus vastaa irtisanomispalkan maksamisesta läänin alueella toimivissa yrityksissä, jotka menevät konkurssiin tai jotka joutuvat yrityssaneeraukseen.</p>
-    <p type="title">Kansalaisuus</p>
-    <p>Lääninhallitus ottaa vastaan Ruotsin kansalaisuusilmoituksen Tanskan, Suomen, Norjan tai Islannin kansalaisilta. Ilmoitus on yksinkertainen tapa hakea kansalaisuutta. Jos olet jonkin muun kuin edellä mainittujen maiden kansalainen, sinun on käännyttävä Ruotsin migraaatioviraston puoleen. Jos olet jostakin syystä menettänyt kansalaisuutesi, voit tietyissä tapauksissa saada sen takaisin jättämällä ilmoituksen lääninhallitukseen.</p>
-    <p type="title">Notarius publicus (julkinen notaari)</p>
-    <p>Lääninhallitus valitsee julkiset notaarit (ns. notarius publicus). Virkanimike on latinaa ja merkitsee suunnilleen samaa kuin <span type="quote">"julkinen sihteeri"</span>. Julkisen notaarin tehtävänä on muun muassa auttaa suurta yleisöä nimikirjoitusten, kopioiden, käännösten ja muiden asiakirjojen oikeaksi todistamisessa, olla läsnä todistajana sinettien asetuksessa tai murtamisessa tai valvoa arpajaisten arvontaa.</p>
-    <p type="title">Vihkiminen</p>
-    <p>Lääninhallitus valitsee siviilivihkimisen toimittajat, ja sillä on lista läänin valituista siviilivihkimisen toimittajista. Jos olet alle 18-vuotias tai haluat mennä naimisiin alle 18-vuotiaan kanssa, tarvitset luvan lääninhallitukselta.</p>
-    <p type="title">Yliholhooja</p>
-    <p>Sairauden, iän tai jonkin muun syyn johdosta oman taloutensa hoidossa vaikeuksissa olevat voivat saada apua uskotun miehen tai edunvalvojan muodossa. Kussakin kunnassa tulee olla yliholhooja tai yliholhouslautakunta, joka huolehtii siitä, että kunnan uskotut miehet ja edunvalvojat hoitavat tehtävänsä. Lääninhallitus tekee säännöllisin väliajoin tarkastuksia yliholhoojan luona tai tarkastaa yliholhoojan toimia esimerkiksi suurelta yleisöltä tulleen ilmoituksen johdosta.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>772</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/Fi/manniska-och-samhalle/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/><parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/><parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ihminen ja yhteiskunta - Länsstyrelsen Skåne</p>
+<list><p type="listitem">Ihminen ja yhteiskunta</p>
+</list><p type="title">Ihminen ja yhteiskunta</p>
+<p><em type="italic">Lääninhallitus toimii yhdessä kuntien kanssa hyvien edellytysten luomiseksi yhteiskunnassa läänin asukkaille – sekä yksityishenkilöille että yrittäjille. Kaikille tulee tarjota samoilla ehdoilla elinympäristö, jossa on turvallista, helppoa ja vaaratonta työskennellä, asua ja elää. </em></p>
+<p type="title">Ihmisoikeudet</p>
+<p>Yhtäläisiä oikeuksia ja mahdollisuuksia edistävän työn tulee leimata lääninhallituksen organisaatiota ja toimintaa. Syrjintälain mukaan on kiellettyä syrjiä ihmisiä heidän sukupuolensa, etnisestä alkuperänsä, uskontonsa tai muun uskonvakaumuksensa, seksuaalisen suuntautumisensa, toimintarajoitteensa, ikänsä tai sukupuolen ilmaisunsa johdosta.</p>
+<p type="title">Tasavertaisuus</p>
+<p>Kansallisena tavoitteena on naisten ja miesten yhtäläinen valta muotoilla yhteiskuntaa ja omaa elämäänsä. Lääninhallituksen tehtävänä on tukea kuntia, valtion toimintoja ja muita alueellisia toimijoita niiden omien toimintojen tekemisessä tasavertaisiksi. Ruotsin lääninhallitukset toimivat miesten naisiin kohdistamaa väkivaltaa vastaan sekä prostituutiota ja seksuaaliseen hyväksikäyttöön tähtäävää ihmiskauppaa vastaan tukemalla ennalta ehkäiseviä toimenpiteitä ja vahvistamalla viranomaisten ja aatteellisten järjestöjen välistä yhteistyötä.</p>
+<p type="title">Kansalliset vähemmistöt</p>
+<p>Tukholman läänin lääninhallitus ja Saamelaiskäräjät ovat päävastuussa Ruotsin vähemmistöpolitiikan toteuttamisen koordinoinnista ja seurannasta. Vähemmistöpolitiikka kattaa kysymykset kansallisten vähemmistöjen ja niiden kielten suojelusta ja tuesta. Ruotsin viisi tunnustettua vähemmistöä ovat juutalaiset, romanit, saamelaiset (myös alkuperäiskansana), ruotsinsuomalaiset ja tornionjokilaaksolaiset. Kansallisia vähemmistökieliä ovat jiddiš, romani chib, saame, suomi ja meänkieli.</p>
+<p type="title">Kansanterveys</p>
+<p>Lääninhallituksen tehtävänä on luoda edellytykset hyvän terveyden takaamiseksi koko väestölle yhtäläisillä ehdoilla. Kansanterveydessä on kysymys ihmisten omista valinnoista ja tavoista, mutta myös ulkoisista ympäristöistä ja demokraattisista oikeuksista yhteiskunnassa. Toimimme erityisesti alueilla, kuten tasavertaisuus, integraatio, ympäristö, asuntosuunnittelu, sosiaaliset edellytykset, syrjinnän torjuminen sekä alkoholiin ja huumeisiin liittyvät kysymykset.</p>
+<p type="title" xml:lang="swe">Integraatio</p>
+<p>Integraatiopolitiikan yleistavoitteena ovat yhtäläiset oikeudet, velvollisuudet ja mahdollisuudet kaikille etnisestä ja kulttuurisesta taustasta riippumatta. Lääninhallituksen tulee edistää eri toimijoiden välistä yhteistyötä ja toimia itse hyvien valmiuksien ja mahdollisuuksien luomiseksi lääniin vastasaapuneiden pakolaisten ja muiden turvapaikkaa tarvitsevien vastaanottamiselle.</p>
+<p type="title">Vaalit</p>
+<p>Lääninhallitus on paikallinen vaaliviranomainen. Tämä merkitsee, että vastaamme yleisten vaalien valmisteluista ja toteuttamisesta, europarlamenttivaaleista sekä neuvoa-antavista kansallisista kansanäänestyksistä.</p>
+<p>Lääninhallitus päättää ennen vaaleja muun muassa jaosta vaalipiireihin ja äänestysalueisiin ja ottaa vastaan ilmoitukset puolueiden vaalilipuissa mukana olevista ehdokkaista. Vaaliyönä eri äänestysalueet raportoivat äänestyksen tulokset lääninhallitukselle. Sen jälkeen lääninhallitus suorittaa lopullisen ääntenlaskennan.</p>
+<p type="title">Kriisivalmius</p>
+<p>Kriisin tai kohotetun valmiustilan aikana lääninhallituksen tehtävänä on tukea ja koordinoida läänin viranomaisia, järjestöjä ja yhteiskunnalle tärkeitä yrityksiä. Meillä on myös vastuu kriisiä koskevien tietojen koordinoinnista ja näiden tietojen välittämisestä suurelle yleisölle ja medioille. Jos ydinvoimalassa tapahtuu onnettomuus tai päästöjä, kaikilla lääninhallituksilla on pelastuspalveluvastuu omassa läänissään. Uppsalan, Kalmarin sekä Hallannin läänien lääninhallituksilla on lisäksi ylimääräisiä valmiustehtäviä.</p>
+<p type="title">Valvonta ja luvat</p>
+<p>Lääninhallitus myöntää eri alueita koskevia lupia tai tekee tarkastuksia varmistaakseen, ettei ihmisten terveyttä vaaranneta tai oikeuksia laiminlyödä.</p>
+<p type="title">Hautajaiset</p>
+<p>Lääninhallitus valitsee seurakuntien toimintaa tarkastavia asiamiehiä, jotka huolehtivat lisäksi siitä, että myös Ruotsin kirkkoon kuulumattomat voidaan haudata heille sopivalla tavalla. Voimme myös myöntää luvan levittää kuolleen henkilön tuhka sopivaan paikkaan.</p>
+<p type="title">Rahojen talletus</p>
+<p>Lääninhallitus voi antaa sinulle luvan tallettaa rahaa erityiselle tilille. Tämä merkitsee, että voimme ottaa vastaan ja säilyttää rahat, jotka sinä aiot maksaa jollekulle. Voit esimerkiksi tehdä tämän, jos sinulla on vuokralaisena riita vuokraisännän kanssa tai jos olet velkaa jollekin, jonka henkilöllisyyttä et tiedä. Velkasi katsotaan tällöin maksetuksi ajoissa, mikäli tietyt laissa säädetyt edellytykset on täytetty.</p>
+<p type="title">Kameravalvonta</p>
+<p>Lääninhallitus voi myöntää luvan sellaiselle kameravalvonnalle, jossa kamerat suunnataan alueelle, johon on yleisesti vapaa pääsy. Kameravalvontaa säätelee kameravalvontalaki (kameraövervakningslagen) ja Lääninhallitus huolehtii siitä, että lakia noudatetaan.</p>
+<p type="title">Elintarvikevalvonta</p>
+<p>Alkutuotanto on ensimmäinen vaihe elintarvikeketjussa, ja se kattaa muun muassa lihan, maidon, viljan ja karkearehun tuotannon sekä rehusekoitusten valmistuksen ja rehun sekä elintarvikkeiden kuljetukset. Lääninhallitus ja Ruotsin maatalousvirasto valvovat elintarvikkeiden alkutuotantoa useassa eri vaiheessa. Valvomme myös sitä, että kunnat tarkastavat hyvin ruoan valmistajien ja myyjien riittävän tietotason ja heidän toimitilojensa kelpoisuuden tuotantoon/myyntiin.</p>
+<p type="title">Palkkatakuu</p>
+<p>Jos olet töissä konkurssiin joutuvassa yrityksessä, kuulut palkkatakuulain piiriin. Lääninhallitus vastaa irtisanomispalkan maksamisesta läänin alueella toimivissa yrityksissä, jotka menevät konkurssiin tai jotka joutuvat yrityssaneeraukseen.</p>
+<p type="title">Kansalaisuus</p>
+<p>Lääninhallitus ottaa vastaan Ruotsin kansalaisuusilmoituksen Tanskan, Suomen, Norjan tai Islannin kansalaisilta. Ilmoitus on yksinkertainen tapa hakea kansalaisuutta. Jos olet jonkin muun kuin edellä mainittujen maiden kansalainen, sinun on käännyttävä Ruotsin migraaatioviraston puoleen. Jos olet jostakin syystä menettänyt kansalaisuutesi, voit tietyissä tapauksissa saada sen takaisin jättämällä ilmoituksen lääninhallitukseen.</p>
+<p type="title">Notarius publicus (julkinen notaari)</p>
+<p>Lääninhallitus valitsee julkiset notaarit (ns. notarius publicus). Virkanimike on latinaa ja merkitsee suunnilleen samaa kuin <span type="quote">"julkinen sihteeri"</span>. Julkisen notaarin tehtävänä on muun muassa auttaa suurta yleisöä nimikirjoitusten, kopioiden, käännösten ja muiden asiakirjojen oikeaksi todistamisessa, olla läsnä todistajana sinettien asetuksessa tai murtamisessa tai valvoa arpajaisten arvontaa.</p>
+<p type="title">Vihkiminen</p>
+<p>Lääninhallitus valitsee siviilivihkimisen toimittajat, ja sillä on lista läänin valituista siviilivihkimisen toimittajista. Jos olet alle 18-vuotias tai haluat mennä naimisiin alle 18-vuotiaan kanssa, tarvitset luvan lääninhallitukselta.</p>
+<p type="title">Yliholhooja</p>
+<p>Sairauden, iän tai jonkin muun syyn johdosta oman taloutensa hoidossa vaikeuksissa olevat voivat saada apua uskotun miehen tai edunvalvojan muodossa. Kussakin kunnassa tulee olla yliholhooja tai yliholhouslautakunta, joka huolehtii siitä, että kunnan uskotut miehet ja edunvalvojat hoitavat tehtävänsä. Lääninhallitus tekee säännöllisin väliajoin tarkastuksia yliholhoojan luona tai tarkastaa yliholhoojan toimia esimerkiksi suurelta yleisöltä tulleen ilmoituksen johdosta.</p>
+</body></document>

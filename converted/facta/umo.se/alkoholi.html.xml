@@ -1,69 +1,27 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>556</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Finska/Alkoholi</origFileName>
-    <parallel_text xml:lang="fit" location="alkkuhooli.html"/>
-    <parallel_text xml:lang="sma" location="alkohole.html"/>
-    <parallel_text xml:lang="sme" location="alkohola.html"/>
-    <parallel_text xml:lang="smj" location="alkohola.html"/>
-    <parallel_text xml:lang="swe" location="alkohol.html"/>
-    <parallel_text location="alkohol.html" xml:lang="rmu"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmf"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Alkoholi</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Alkoholi</p>
-    <p>Alkoholijuomiin kuuluvat muun muassa olut, viini ja väkevät alkoholijuomat. Alkoholia juodaan maun vuoksi tai päihtymyksen saavuttamiseksi. Alkoholin käytöllä voi kuitenkin olla monenlaisia vakavia haittavaikutuksia. Se voi aiheuttaa vammoja ja sairauksia tai saada ajautumaan vaikeisiin tai vaarallisiin tilanteisiin. Joillekin alkoholin käyttö aiheuttaa ahdistuneisuutta ja pahoinvointia.</p>
-    <p>Nuorten terveyden suojelemiseksi alkoholin saatavuutta on rajoitettu ikärajoin: ravintolassa alkoholia saa myydä 18-vuotiaalle ja alkoholiliikkeessä 20-vuotiaalle. Vaikka alkoholia voi ostaa itselle, sen välittäminen alaikäiselle on laitonta.</p>
-    <p type="title">Miksi alkoholia juodaan?</p>
-    <p>Monet juovat alkoholia, koska heidän mielestään se on hyvää ja tuntuu mukavalta. Jotkut juovat tuntiessaan olonsa epävarmaksi. Jos alkoholia juodaan itsetunnon kohottamiseksi tai ahdistuksen tukahduttamiseksi, tai jos sitä juodaan suuria määriä, juominen voi johtaa riippuvuuteen. Juomisen aikana tai sen jälkeen voi ilmetä pahoinvointia.</p>
-    <p>Nuorena alkoholin kokeileminen voi tuntua askeleelta aikuisuuteen. Alkoholia saatetaan tarjota kotona, tai sitä kokeillaan yksin tai ystävien kanssa. Ensimmäistä kertaa kokeillessa ei välttämättä tiedä itsekään, haluaako juoda, mutta juo, koska kaikki muutkin juovat, tai koska niin <span type="quote">"pitää"</span> tehdä. Jos painostusta uskaltaa vastustaa ja odottaa, on vain voitettavaa. Mitä kauemmin alkoholin kokeilua odottaa, sitä parempi, koska riski saada vaurioita tai tulla riippuvaiseksi alkoholista vähenee.</p>
-    <p type="title">Mitä alkoholia juodessa tapahtuu?</p>
-    <p>Alkoholi heikentää aivojen ajattelua, tunteita, muistia, tasapainoa ja arvostelukykyä. Myös lihasten koordinointikyky heikkenee.</p>
-    <p>Arvostelukyvyn laskiessa tapahtumia ei ymmärrä samalla tavoin kuin selvänä. Alkoholin vaikutuksen alaisena saattaa tehdä asioita, joita ei muutoin tekisi: puhua enemmän ja useampien ihmisten kanssa, tanssia, flirttailla tai yrittää iskeä kumppania ja kokeilla uusia asioita. Arvostelukyvyn heikkenemisen vuoksi on myös vaikeampi ymmärtää, onko jokin riskialtista tai vaarallista. Päihtyneenä voi saada päähänsä tehdä asioita, joilla voi olla vakavia seurauksia.</p>
-    <p>Alkoholin käytön seurauksia:</p>
-    <list>
-      <p type="listitem">Tavaroiden kadottaminen tai hajottaminen tai ryöstetyksi joutuminen.</p>
-      <p type="listitem">Tappeluun joutuminen tai riidan haastaminen. On tavallista, että päihtyneenä aloittaa tappelun sellaisista asioista, joista ei riitelisi raittiina.</p>
-      <p type="listitem">Seksin harrastaminen tahtomattaan. Päihtyneenä voi olla vaikea sanoa ei, mikä voi johtaa seksiin, joka kaduttaa jälkeenpäin, tai joutuu seksuaalisen hyväksikäytön uhriksi.</p>
-      <p type="listitem">Suojaamattoman seksin harrastaminen, mikä lisää seksitautien tai raskauden riskiä.</p>
-      <p type="listitem">Muiden päihteiden käyttö. Useimmat ensimmäistä kertaa huumeita kokeilleet ovat olleet alkoholin vaikutuksen alaisena ja ehkä kuvitelleet, että kokeilu ei ole vaarallista.</p>
-      <p type="listitem">Onnettomuuteen joutuminen. Esimerkiksi moottoripyörä- tai auto-onnettomuus, putoaminen tai kaatuminen tai joutuminen veden varaan.</p>
-      <p type="listitem">Toisten tavaroiden ottaminen tai tuhoaminen tai päätyminen paikkoihin, joissa ei saisi olla.</p>
-      <p type="listitem">Pahoinvointi ja ahdistus juomisen jälkeen. Ahdistusta tai häpeää voivat aiheuttaa tehdyt asiat tai se voi olla elimistön aiheuttama reaktio.</p>
-      <p type="listitem">Koulun ja työn hoitaminen vaikeutuu. Päihtymyksen jälkeen elimistöön jää alkoholia, ja aivojen toiminta, kuten muisti ja oppiminen, voivat häiriintyä useamman päivän ajaksi.</p>
-    </list>
-    <p>Jotkut uskovat, että alkoholin nauttiminen harvoin, esimerkiksi vain viikonloppuisin, ei ole vaarallista, vaikka joisikin paljon. Mutta se ei pidä paikkaansa.</p>
-    <p type="title">Krapula</p>
-    <p>Alkoholin vaikutus voi jatkua seuraavana päivänä. Tämä riippuu juodusta määrästä. Esimerkiksi vahva olut poistuu elimistöstä noin kolmesta neljään tunnin kuluessa. Alkoholin poistumista ei voi nopeuttaa. Myös krapulassa arviointikyky on tavallista heikompi ja on vaikeaa hoitaa tarvittavia asioita. Mopolla tai autolla ajaminen voi olla vaarallista, ja jos veressä on alkoholia, se on laitonta.</p>
-    <p type="title">Alkoholimyrkytys</p>
-    <p>Kaikki reagoivat alkoholiin eri tavoin ja kestävät sitä erilaisia määriä, mutta jokaisen elimistön kestokyvyllä on rajansa. Alkoholimyrkytyksen oireita ovat oksentelu ja sammuminen. Tajuttomuus voi olla todella vaarallista, ja silloin on päästävä sairaalaan.</p>
-    <p>Jos on huolissaan alkoholia juoneesta kaverista, on otettava yhteyttä aikuiseen, terveydenhuollon neuvontaan, poliisiin tai mentävä sairaalaan. Jos joku on tajuton, on soitettava numeroon 112. Tajutonta ei saa yrittää saada oksentamaan tai kaataa hänen päälleen kylmää vettä, koska on olemassa riski saada muita vammoja tai vaurioita.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>551</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Finska/Alkoholi</origFileName><parallel_text xml:lang="fit" location="alkkuhooli.html"/><parallel_text xml:lang="sma" location="alkohole.html"/><parallel_text xml:lang="sme" location="alkohola.html"/><parallel_text xml:lang="smj" location="alkohola.html"/><parallel_text xml:lang="swe" location="alkohol.html"/><parallel_text location="alkohol.html" xml:lang="rmu"/><parallel_text location="alkoholi.html" xml:lang="rmf"/><parallel_text location="alkoholo.html" xml:lang="rmy-rka"/><parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/><parallel_text location="alkoholi.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Alkoholi</p>
+<p type="title">Alkoholi</p>
+<p>Alkoholijuomiin kuuluvat muun muassa olut, viini ja väkevät alkoholijuomat. Alkoholia juodaan maun vuoksi tai päihtymyksen saavuttamiseksi. Alkoholin käytöllä voi kuitenkin olla monenlaisia vakavia haittavaikutuksia. Se voi aiheuttaa vammoja ja sairauksia tai saada ajautumaan vaikeisiin tai vaarallisiin tilanteisiin. Joillekin alkoholin käyttö aiheuttaa ahdistuneisuutta ja pahoinvointia.</p>
+<p>Nuorten terveyden suojelemiseksi alkoholin saatavuutta on rajoitettu ikärajoin: ravintolassa alkoholia saa myydä 18-vuotiaalle ja alkoholiliikkeessä 20-vuotiaalle. Vaikka alkoholia voi ostaa itselle, sen välittäminen alaikäiselle on laitonta.</p>
+<p type="title">Miksi alkoholia juodaan?</p>
+<p>Monet juovat alkoholia, koska heidän mielestään se on hyvää ja tuntuu mukavalta. Jotkut juovat tuntiessaan olonsa epävarmaksi. Jos alkoholia juodaan itsetunnon kohottamiseksi tai ahdistuksen tukahduttamiseksi, tai jos sitä juodaan suuria määriä, juominen voi johtaa riippuvuuteen. Juomisen aikana tai sen jälkeen voi ilmetä pahoinvointia.</p>
+<p>Nuorena alkoholin kokeileminen voi tuntua askeleelta aikuisuuteen. Alkoholia saatetaan tarjota kotona, tai sitä kokeillaan yksin tai ystävien kanssa. Ensimmäistä kertaa kokeillessa ei välttämättä tiedä itsekään, haluaako juoda, mutta juo, koska kaikki muutkin juovat, tai koska niin <span type="quote">"pitää"</span> tehdä. Jos painostusta uskaltaa vastustaa ja odottaa, on vain voitettavaa. Mitä kauemmin alkoholin kokeilua odottaa, sitä parempi, koska riski saada vaurioita tai tulla riippuvaiseksi alkoholista vähenee.</p>
+<p type="title">Mitä alkoholia juodessa tapahtuu?</p>
+<p>Alkoholi heikentää aivojen ajattelua, tunteita, muistia, tasapainoa ja arvostelukykyä. Myös lihasten koordinointikyky heikkenee.</p>
+<p>Arvostelukyvyn laskiessa tapahtumia ei ymmärrä samalla tavoin kuin selvänä. Alkoholin vaikutuksen alaisena saattaa tehdä asioita, joita ei muutoin tekisi: puhua enemmän ja useampien ihmisten kanssa, tanssia, flirttailla tai yrittää iskeä kumppania ja kokeilla uusia asioita. Arvostelukyvyn heikkenemisen vuoksi on myös vaikeampi ymmärtää, onko jokin riskialtista tai vaarallista. Päihtyneenä voi saada päähänsä tehdä asioita, joilla voi olla vakavia seurauksia.</p>
+<p>Alkoholin käytön seurauksia:</p>
+<list><p type="listitem">Tavaroiden kadottaminen tai hajottaminen tai ryöstetyksi joutuminen.</p>
+<p type="listitem">Tappeluun joutuminen tai riidan haastaminen. On tavallista, että päihtyneenä aloittaa tappelun sellaisista asioista, joista ei riitelisi raittiina.</p>
+<p type="listitem">Seksin harrastaminen tahtomattaan. Päihtyneenä voi olla vaikea sanoa ei, mikä voi johtaa seksiin, joka kaduttaa jälkeenpäin, tai joutuu seksuaalisen hyväksikäytön uhriksi.</p>
+<p type="listitem">Suojaamattoman seksin harrastaminen, mikä lisää seksitautien tai raskauden riskiä.</p>
+<p type="listitem">Muiden päihteiden käyttö. Useimmat ensimmäistä kertaa huumeita kokeilleet ovat olleet alkoholin vaikutuksen alaisena ja ehkä kuvitelleet, että kokeilu ei ole vaarallista.</p>
+<p type="listitem">Onnettomuuteen joutuminen. Esimerkiksi moottoripyörä- tai auto-onnettomuus, putoaminen tai kaatuminen tai joutuminen veden varaan.</p>
+<p type="listitem">Toisten tavaroiden ottaminen tai tuhoaminen tai päätyminen paikkoihin, joissa ei saisi olla.</p>
+<p type="listitem">Pahoinvointi ja ahdistus juomisen jälkeen. Ahdistusta tai häpeää voivat aiheuttaa tehdyt asiat tai se voi olla elimistön aiheuttama reaktio.</p>
+<p type="listitem">Koulun ja työn hoitaminen vaikeutuu. Päihtymyksen jälkeen elimistöön jää alkoholia, ja aivojen toiminta, kuten muisti ja oppiminen, voivat häiriintyä useamman päivän ajaksi.</p>
+</list><p>Jotkut uskovat, että alkoholin nauttiminen harvoin, esimerkiksi vain viikonloppuisin, ei ole vaarallista, vaikka joisikin paljon. Mutta se ei pidä paikkaansa.</p>
+<p type="title">Krapula</p>
+<p>Alkoholin vaikutus voi jatkua seuraavana päivänä. Tämä riippuu juodusta määrästä. Esimerkiksi vahva olut poistuu elimistöstä noin kolmesta neljään tunnin kuluessa. Alkoholin poistumista ei voi nopeuttaa. Myös krapulassa arviointikyky on tavallista heikompi ja on vaikeaa hoitaa tarvittavia asioita. Mopolla tai autolla ajaminen voi olla vaarallista, ja jos veressä on alkoholia, se on laitonta.</p>
+<p type="title">Alkoholimyrkytys</p>
+<p>Kaikki reagoivat alkoholiin eri tavoin ja kestävät sitä erilaisia määriä, mutta jokaisen elimistön kestokyvyllä on rajansa. Alkoholimyrkytyksen oireita ovat oksentelu ja sammuminen. Tajuttomuus voi olla todella vaarallista, ja silloin on päästävä sairaalaan.</p>
+<p>Jos on huolissaan alkoholia juoneesta kaverista, on otettava yhteyttä aikuiseen, terveydenhuollon neuvontaan, poliisiin tai mentävä sairaalaan. Jos joku on tajuton, on soitettava numeroon 112. Tajutonta ei saa yrittää saada oksentamaan tai kaataa hänen päälleen kylmää vettä, koska on olemassa riski saada muita vammoja tai vaurioita.</p>
+</body></document>

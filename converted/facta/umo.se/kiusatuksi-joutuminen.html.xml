@@ -1,66 +1,24 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>417</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Finska/Kiusatuksi-joutuminen</origFileName>
-    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
-    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
-    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
-    <parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/>
-    <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
-    <parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/>
-    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
-    <parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kiusatuksi joutuminen</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Kiusatuksi joutuminen</p>
-    <p>Joutuessaan kiusatuksi saattaa helposti alkaa tuntea olonsa surulliseksi ja alakuloiseksi. Joskus kiusaaminen vaikuttaa elämään niin paljon, että kiusatun itsetunto heikkenee ja hän yrittää vältellä tilanteita, joissa saattaisi törmätä kiusaajiin. Kenenkään ei tarvitsisi joutua piiloutumaan kiusaamisen vuoksi.</p>
-    <p>Jotkut kiusaamisen uhrit alkavat uskoa, että heissä on jotain vikaa. He saattavat pohtia itsensä muuttamista kiusaamisen välttämiseksi. Kenenkään ei kuitenkaan tarvitsisi joutua muuttamaan harrastuksiaan tai pukeutumistaan muiden käyttäytymisen vuoksi. Kaikilla on oikeus välttyä kiusaamiselta.</p>
-    <p type="title">Milloin on kyse kiusaamisesta?</p>
-    <p>Kiusaaminen on sitä, kun joutuu toistuvasti ärsytetyksi, uhkailluksi, pilkatuksi, hakatuksi tai loukatuksi. Kiusaaminen voi olla kuiskuttelua, tuijottamista, nauramista, tönimistä, lyömistä ja ilkeitä puheita. Kiusattu voidaan jättää ryhmän ulkopuolelle tai hänestä voidaan levittää juoruja.</p>
-    <p>Kiusaamista voi olla myös ikävien tekstiviestien tai sähköpostien lähettäminen, ilkeiden kommenttien kirjoittaminen Facebookissa, blogissa tai muualla internetissä. Tai loukkaavien kuvien lataaminen nettiin.</p>
-    <p>Jos joku sanoo ilkeästi toisen pukeutumisesta, ulkonäöstä tai vammaisuudesta, sekin on kiusaamista. Jos joutuu tällaisen kohtelun uhriksi ja alkaa voida sen vuoksi huonosti, kiusaamisen loppumiseen saatetaan tarvita apua.</p>
-    <p type="title">Kiusaamisesta kertominen</p>
-    <p>Kiusaamisesta kertominen voi tuntua pelottavalta. Ehkä asiasta kertomisen uskoo pahentavan tilannetta. Ehkä ulkopuolisuus hävettää. Mutta kannattaa muistaa, että vika ei koskaan ole kiusatussa!</p>
-    <p>Jos joutuu kiusatuksi, siitä kannattaa kertoa ja hakea apua, jotta kiusaaminen saadaan loppumaan. Kiusaamisesta voi kertoa esimerkiksi opettajalle, koulukuraattorille tai koulun terveydenhoitajalle.</p>
-    <p>Voi olla hyvä idea kertoa kiusaamisesta ensin sellaiselle aikuiselle, johon luottaa, esimerkiksi perheenjäsenelle ja sen jälkeen jollekin koulussa.</p>
-    <p>Jos koulu saa tietää, että jokin heidän oppilaistaan kokee tulleensa kiusatuksi, heidän on heti otettava selville, mitä on tapahtunut. Niiden on myös tehtävä kaikkensa, jotta kiusaamista ei tapahdu uudestaan. Koulussa työskentelevien aikuisten velvollisuutena on varmistaa, että ketään oppilasta ei kiusata tai uhata. Lain mukaan koulun vastuulla on varmistaa, että ketään ei kiusata.</p>
-    <p type="title">Hyvä pitää mielessä, jos joutuu kiusatuksi:</p>
-    <list>
-      <p type="listitem">Kiusaamisesta ei koskaan pidä syyttää itseään.</p>
-      <p type="listitem">On olemassa lakeja, joiden mukaan esimerkiksi koulussa tai työpaikalla ei saa kiusata.</p>
-      <p type="listitem">Uhkaaminen esimerkiksi väkivallalla tai kuvien levittämisellä internetissä on rikos.</p>
-      <p type="listitem">Koulujen ja työnantajien vastuulla on yrittää varmistaa, että jokainen tuntee olonsa turvalliseksi.</p>
-      <p type="listitem">Asia kannattaa ottaa puheeksi sellaisen aikuisen kanssa, johon luottaa, esimerkiksi vanhemman tai jonkun muun tutun kanssa.</p>
-      <p type="listitem">Voi myös ottaa yhteyttä koulukuraattoriin tai nuorisovastaanottoon, josta voi saada neuvoja ja tukea.</p>
-      <p type="listitem">Jos koulu saa tietää, että joku oppilaista kokee tulleensa kiusatuksi, he ovat velvollisia varmistamaan, että se ei jatku.</p>
-      <p type="listitem">Jos oppilasta kiusataan koulussa eikä hän saa apua, siitä voi ilmoittaa Lapsi- ja oppilasasiamiehelle (Barn- och elevombudet).</p>
-      <p type="listitem">Jos joku levittää kuviasi luvatta, ota yhteyttä poliisiin. Se on vastoin henkilötietolakia. Loukkaaminen tai kiusaaminen verkossa on yhtä laitonta kuin koulun pihalla, kadulla tai nuorisotalolla.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>412</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Finska/Kiusatuksi-joutuminen</origFileName><parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/><parallel_text xml:lang="sma" location="jis-irhkesavva.html"/><parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/><parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/><parallel_text xml:lang="swe" location="om-man-mobbas.html"/><parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/><parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/><parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/><parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/><parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kiusatuksi joutuminen</p>
+<p type="title">Kiusatuksi joutuminen</p>
+<p>Joutuessaan kiusatuksi saattaa helposti alkaa tuntea olonsa surulliseksi ja alakuloiseksi. Joskus kiusaaminen vaikuttaa elämään niin paljon, että kiusatun itsetunto heikkenee ja hän yrittää vältellä tilanteita, joissa saattaisi törmätä kiusaajiin. Kenenkään ei tarvitsisi joutua piiloutumaan kiusaamisen vuoksi.</p>
+<p>Jotkut kiusaamisen uhrit alkavat uskoa, että heissä on jotain vikaa. He saattavat pohtia itsensä muuttamista kiusaamisen välttämiseksi. Kenenkään ei kuitenkaan tarvitsisi joutua muuttamaan harrastuksiaan tai pukeutumistaan muiden käyttäytymisen vuoksi. Kaikilla on oikeus välttyä kiusaamiselta.</p>
+<p type="title">Milloin on kyse kiusaamisesta?</p>
+<p>Kiusaaminen on sitä, kun joutuu toistuvasti ärsytetyksi, uhkailluksi, pilkatuksi, hakatuksi tai loukatuksi. Kiusaaminen voi olla kuiskuttelua, tuijottamista, nauramista, tönimistä, lyömistä ja ilkeitä puheita. Kiusattu voidaan jättää ryhmän ulkopuolelle tai hänestä voidaan levittää juoruja.</p>
+<p>Kiusaamista voi olla myös ikävien tekstiviestien tai sähköpostien lähettäminen, ilkeiden kommenttien kirjoittaminen Facebookissa, blogissa tai muualla internetissä. Tai loukkaavien kuvien lataaminen nettiin.</p>
+<p>Jos joku sanoo ilkeästi toisen pukeutumisesta, ulkonäöstä tai vammaisuudesta, sekin on kiusaamista. Jos joutuu tällaisen kohtelun uhriksi ja alkaa voida sen vuoksi huonosti, kiusaamisen loppumiseen saatetaan tarvita apua.</p>
+<p type="title">Kiusaamisesta kertominen</p>
+<p>Kiusaamisesta kertominen voi tuntua pelottavalta. Ehkä asiasta kertomisen uskoo pahentavan tilannetta. Ehkä ulkopuolisuus hävettää. Mutta kannattaa muistaa, että vika ei koskaan ole kiusatussa!</p>
+<p>Jos joutuu kiusatuksi, siitä kannattaa kertoa ja hakea apua, jotta kiusaaminen saadaan loppumaan. Kiusaamisesta voi kertoa esimerkiksi opettajalle, koulukuraattorille tai koulun terveydenhoitajalle.</p>
+<p>Voi olla hyvä idea kertoa kiusaamisesta ensin sellaiselle aikuiselle, johon luottaa, esimerkiksi perheenjäsenelle ja sen jälkeen jollekin koulussa.</p>
+<p>Jos koulu saa tietää, että jokin heidän oppilaistaan kokee tulleensa kiusatuksi, heidän on heti otettava selville, mitä on tapahtunut. Niiden on myös tehtävä kaikkensa, jotta kiusaamista ei tapahdu uudestaan. Koulussa työskentelevien aikuisten velvollisuutena on varmistaa, että ketään oppilasta ei kiusata tai uhata. Lain mukaan koulun vastuulla on varmistaa, että ketään ei kiusata.</p>
+<p type="title">Hyvä pitää mielessä, jos joutuu kiusatuksi:</p>
+<list><p type="listitem">Kiusaamisesta ei koskaan pidä syyttää itseään.</p>
+<p type="listitem">On olemassa lakeja, joiden mukaan esimerkiksi koulussa tai työpaikalla ei saa kiusata.</p>
+<p type="listitem">Uhkaaminen esimerkiksi väkivallalla tai kuvien levittämisellä internetissä on rikos.</p>
+<p type="listitem">Koulujen ja työnantajien vastuulla on yrittää varmistaa, että jokainen tuntee olonsa turvalliseksi.</p>
+<p type="listitem">Asia kannattaa ottaa puheeksi sellaisen aikuisen kanssa, johon luottaa, esimerkiksi vanhemman tai jonkun muun tutun kanssa.</p>
+<p type="listitem">Voi myös ottaa yhteyttä koulukuraattoriin tai nuorisovastaanottoon, josta voi saada neuvoja ja tukea.</p>
+<p type="listitem">Jos koulu saa tietää, että joku oppilaista kokee tulleensa kiusatuksi, he ovat velvollisia varmistamaan, että se ei jatku.</p>
+<p type="listitem">Jos oppilasta kiusataan koulussa eikä hän saa apua, siitä voi ilmoittaa Lapsi- ja oppilasasiamiehelle (Barn- och elevombudet).</p>
+<p type="listitem">Jos joku levittää kuviasi luvatta, ota yhteyttä poliisiin. Se on vastoin henkilötietolakia. Loukkaaminen tai kiusaaminen verkossa on yhtä laitonta kuin koulun pihalla, kadulla tai nuorisotalolla.</p>
+</list></body></document>

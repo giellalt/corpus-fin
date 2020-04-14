@@ -1,65 +1,48 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Makukoulu – aistit käyttöön</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>391</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-aistit-kayttoon/</origFileName>
-    <parallel_text xml:lang="sme" location="smahkkaskuvlla_aiccut_atnui.html"/>
-    <parallel_text xml:lang="swe" location="smakskolan_lat_sinnena_jobba.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">Tekemistä tunneille ja kotiin <list><p type="listitem" xml:lang="fkv">Tehtävät</p><p type="listitem" xml:lang="fkv">RuokaTutkaTube</p><p type="listitem">Testaamo</p><p type="listitem" xml:lang="fkv">RuokaTutkaPeli</p></list></p>
-      <p type="listitem">Tietoa ruuasta <list><p type="listitem">Maidosta helposti hyvää</p><p type="listitem">Kasvikset ovat superruokaa</p><p type="listitem" xml:lang="est">Ruokakasvatus</p><p type="listitem" xml:lang="fkv">Kouluruokailu</p><p type="listitem">Ruoka ja aistit <list><p type="listitem">9 askelta rohkeaan maisteluun</p><p type="listitem">Makukoulu – aistit käyttöön</p></list></p><p type="listitem" xml:lang="fkv">Luomuruoka maistuu</p><p type="listitem" xml:lang="eng">OpeTube</p></list></p>
-      <p type="listitem">Tietoa hankkeesta <list><p type="listitem">Lapset ja nuoret ruokatutkijoina</p><p type="listitem">RuokaTutka-materiaalien pedagogiset lähtökohdat</p></list></p>
-      <p type="listitem" xml:lang="est">Juliste</p>
-      <p type="listitem">RuokaTaide-kilpailu</p>
-    </list>
-    <list>
-      <p type="listitem">suomi</p>
-      <p type="listitem" xml:lang="swe">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Makukoulu – aistit käyttöön</p>
-    <p type="title">Makukoulussa opitaan ruuasta</p>
-    <p>Ruuan aistittavat ominaisuudet voivat liittyä sen makuun, hajuun, ulkonäköön, ruuasta kuuluvaan ääneen ja rakenteeseen. Ruuasta puhuessamme keskitymme useimmiten makuun ja muut aistimukset jäävät vähemmälle huomiolle. Varsinkin ne lapset, jotka ovat vastahakoisia maistamaan uusia ruoka-aineita, uskaltavat tutustua ruokiin ensin muilla aisteilla, ja maistamisen kynnys madaltuu.</p>
-    <p><em type="italic">Makukouluharjoituksia </em>voi yhdistää monen eri oppiaineen, kuten kotitalouden ja ympäristöopin tunnille. Äidinkielen tunnilla puolestaan opetellaan ilmaisemaan aistimuksia ja kuvaamataidossa käsitellään ruokamaailman värejä ja muotoja. Pieni makukoulutuokio sopii vaikkapa koululounaan yhteyteen. Näin makukoulu tukee ruokakasvatuksen mahdollisuuksia myös kouluruokailussa ja voi parantaa kouluruuan arvostusta ja suosiota. Oppilaille on hyvä korostaa, että makukoulussa ei haeta oikeita ja vääriä vastauksia, vaan jokainen saa kertoa tehtävien yhteydessä omia havaintojaan. </p>
-    <p><em type="italic">Sapere-ruokakasvatusmenetelmään </em>perustuvan makukoulun avulla lapset tutustuvat omiin aisteihinsa ja oppivat käyttämään niitä monipuolisesti. He saavat jännittäviä ruokaelämyksiä ja rohkeutta kokeilla uusia ruokia. Lapset oppivat ilmaisemaan itseään paremmin ja hyödyntämään aistiensa antamaa tietoa ruuan arvioimisessa. Makukouluharjoitukset myös opettavat arvostamaan ruokaa ja ruokakulttuuria sekä tutustuttavat ruuan kemiallisiin ja fysikaalisiin ominaisuuksiin ja niiden merkitykseen sen aistittaville ominaisuuksille. </p>
-    <p>Sapere-menetelmä painottaa tutkivaa ja kokeilevaa oppimista. Se on kehitetty Ranskassa 9-12 -vuotiaille koululaisille, mutta sitä on sovellettu kaikenikäisille, varhaiskasvatuksesta aikuisiin. Sapere-menetelmän hyödyistä on saatu lupaavia tutkimustuloksia Suomesta ja muualta Euroopasta. Makukoulu on parantanut oppilaiden kykyä tunnistaa makuja ja hajuja sekä luonnehtia ruokia. Menetelmän mukaisten aistiharjoitusten myötä lasten pelko uusia ruokia kohtaan on vähentynyt, heidän ruokavalionsa monipuolistunut, ja heikosti koulussa menestyvien lasten itsetunto on parantunut.</p>
-    <p>Makukoulumenetelmässä ruokiin tutustutaan aisti kerrallaan. Makuaisti käsitellään viimeisimpänä, sillä uteliaisuus maistamiseen syntyy parhaiten, kun lapset saavat rauhassa aistiensa avulla tutustua uusiin ruokiin.</p>
-    <p type="title">Hyödyllisiä oppaita ja lisälukemista:</p>
-    <list>
-      <p type="listitem">Sapere-työkirja</p>
-      <p type="listitem">Sapereopas kerho-ohjaajille</p>
-      <p type="listitem">Kasvisaarteen arvoitus</p>
-      <p type="listitem">Yle: materiaalia opettajille: Aistit</p>
-    </list>
-    <p>Ruokakulttuurikeskus Ruukku ry on kehittänyt Makukoulu-menetelmää ja luonut sen pohjalta opetusmateriaaleja ja tarvikepaketteja. Makukoulu on Ruukkun omistama tavaramerkki.</p>
-    <p type="title" xml:lang="est">LUE LISÄÄ:</p>
-    <p type="title">Näkö – ensin katsotaan</p>
-    <p type="title">Haju – kutittaa nenässä</p>
-    <p type="title">Tunto – miltä ruoka tuntuu</p>
-    <p type="title">Maku – maistuu kielellä</p>
-    <p type="title">Kuulo – korvatkin tykkäävät ruuasta</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Makukoulu – aistit käyttöön</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>391</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-aistit-kayttoon/</origFileName><parallel_text xml:lang="sme" location="smahkkaskuvlla_aiccut_atnui.html"/><parallel_text xml:lang="swe" location="smakskolan_lat_sinnena_jobba.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">Tekemistä tunneille ja kotiin <list><p type="listitem" xml:lang="fkv">Tehtävät</p>
+<p type="listitem">RuokaTutkaTube</p>
+<p type="listitem">Testaamo</p>
+<p type="listitem" xml:lang="fkv">RuokaTutkaPeli</p>
+</list></p>
+<p type="listitem">Tietoa ruuasta <list><p type="listitem">Maidosta helposti hyvää</p>
+<p type="listitem">Kasvikset ovat superruokaa</p>
+<p type="listitem" xml:lang="est">Ruokakasvatus</p>
+<p type="listitem" xml:lang="fkv">Kouluruokailu</p>
+<p type="listitem">Ruoka ja aistit <list><p type="listitem">9 askelta rohkeaan maisteluun</p>
+<p type="listitem">Makukoulu – aistit käyttöön</p>
+</list></p>
+<p type="listitem" xml:lang="fkv">Luomuruoka maistuu</p>
+<p type="listitem" xml:lang="eng">OpeTube</p>
+</list></p>
+<p type="listitem">Tietoa hankkeesta <list><p type="listitem">Lapset ja nuoret ruokatutkijoina</p>
+<p type="listitem">RuokaTutka-materiaalien pedagogiset lähtökohdat</p>
+</list></p>
+<p type="listitem" xml:lang="fit">Juliste</p>
+<p type="listitem">RuokaTaide-kilpailu</p>
+</list><list><p type="listitem">suomi</p>
+<p type="listitem" xml:lang="swe">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Makukoulu – aistit käyttöön</p>
+<p type="title">Makukoulussa opitaan ruuasta</p>
+<p>Ruuan aistittavat ominaisuudet voivat liittyä sen makuun, hajuun, ulkonäköön, ruuasta kuuluvaan ääneen ja rakenteeseen. Ruuasta puhuessamme keskitymme useimmiten makuun ja muut aistimukset jäävät vähemmälle huomiolle. Varsinkin ne lapset, jotka ovat vastahakoisia maistamaan uusia ruoka-aineita, uskaltavat tutustua ruokiin ensin muilla aisteilla, ja maistamisen kynnys madaltuu.</p>
+<p><em type="italic">Makukouluharjoituksia </em>voi yhdistää monen eri oppiaineen, kuten kotitalouden ja ympäristöopin tunnille. Äidinkielen tunnilla puolestaan opetellaan ilmaisemaan aistimuksia ja kuvaamataidossa käsitellään ruokamaailman värejä ja muotoja. Pieni makukoulutuokio sopii vaikkapa koululounaan yhteyteen. Näin makukoulu tukee ruokakasvatuksen mahdollisuuksia myös kouluruokailussa ja voi parantaa kouluruuan arvostusta ja suosiota. Oppilaille on hyvä korostaa, että makukoulussa ei haeta oikeita ja vääriä vastauksia, vaan jokainen saa kertoa tehtävien yhteydessä omia havaintojaan. </p>
+<p><em type="italic">Sapere-ruokakasvatusmenetelmään </em>perustuvan makukoulun avulla lapset tutustuvat omiin aisteihinsa ja oppivat käyttämään niitä monipuolisesti. He saavat jännittäviä ruokaelämyksiä ja rohkeutta kokeilla uusia ruokia. Lapset oppivat ilmaisemaan itseään paremmin ja hyödyntämään aistiensa antamaa tietoa ruuan arvioimisessa. Makukouluharjoitukset myös opettavat arvostamaan ruokaa ja ruokakulttuuria sekä tutustuttavat ruuan kemiallisiin ja fysikaalisiin ominaisuuksiin ja niiden merkitykseen sen aistittaville ominaisuuksille. </p>
+<p>Sapere-menetelmä painottaa tutkivaa ja kokeilevaa oppimista. Se on kehitetty Ranskassa 9-12 -vuotiaille koululaisille, mutta sitä on sovellettu kaikenikäisille, varhaiskasvatuksesta aikuisiin. Sapere-menetelmän hyödyistä on saatu lupaavia tutkimustuloksia Suomesta ja muualta Euroopasta. Makukoulu on parantanut oppilaiden kykyä tunnistaa makuja ja hajuja sekä luonnehtia ruokia. Menetelmän mukaisten aistiharjoitusten myötä lasten pelko uusia ruokia kohtaan on vähentynyt, heidän ruokavalionsa monipuolistunut, ja heikosti koulussa menestyvien lasten itsetunto on parantunut.</p>
+<p>Makukoulumenetelmässä ruokiin tutustutaan aisti kerrallaan. Makuaisti käsitellään viimeisimpänä, sillä uteliaisuus maistamiseen syntyy parhaiten, kun lapset saavat rauhassa aistiensa avulla tutustua uusiin ruokiin.</p>
+<p type="title">Hyödyllisiä oppaita ja lisälukemista:</p>
+<list><p type="listitem">Sapere-työkirja</p>
+<p type="listitem">Sapereopas kerho-ohjaajille</p>
+<p type="listitem">Kasvisaarteen arvoitus</p>
+<p type="listitem">Yle: materiaalia opettajille: Aistit</p>
+</list><p>Ruokakulttuurikeskus Ruukku ry on kehittänyt Makukoulu-menetelmää ja luonut sen pohjalta opetusmateriaaleja ja tarvikepaketteja. Makukoulu on Ruukkun omistama tavaramerkki.</p>
+<p type="title" xml:lang="est">LUE LISÄÄ:</p>
+<p type="title">Näkö – ensin katsotaan</p>
+<p type="title">Haju – kutittaa nenässä</p>
+<p type="title">Tunto – miltä ruoka tuntuu</p>
+<p type="title">Maku – maistuu kielellä</p>
+<p type="title">Kuulo – korvatkin tykkäävät ruuasta</p>
+</body></document>

@@ -1,25 +1,3 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät hakee toimistosihteerin sijaista</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>40</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=737&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=737_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaiskäräjät hakee toimistosihteerin sijaista</p>
-    <p>Saamelaiskäräjät hakee toimistosihteerin sijaista taloustoimistoon. Työ alkaa heti ja kestää 30.11.2013 asti, mahdollisesti pitempäänkin. Toimistosihteerin päätehtävänä on hoitaa saamelaiskäräjien maksuliikennettä ja palkanmaksua. Jos olet kiinnostunut tehtävästä, ota yhteyttä saamelaiskäräjien hallintopäällikkö Juha Guttormiin, puh. 010 839 3102.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät hakee toimistosihteerin sijaista</title><genre code="admin"/><author><unknown/></author><wordcount>40</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=737&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=737_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaiskäräjät hakee toimistosihteerin sijaista</p>
+<p>Saamelaiskäräjät hakee toimistosihteerin sijaista taloustoimistoon. Työ alkaa heti ja kestää 30.11.2013 asti, mahdollisesti pitempäänkin. Toimistosihteerin päätehtävänä on hoitaa saamelaiskäräjien maksuliikennettä ja palkanmaksua. Jos olet kiinnostunut tehtävästä, ota yhteyttä saamelaiskäräjien hallintopäällikkö Juha Guttormiin, puh. 010 839 3102.</p>
+</body></document>

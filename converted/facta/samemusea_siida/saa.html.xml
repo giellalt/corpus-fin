@@ -1,38 +1,14 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Anaras - Elämäntapa - Sään ennustaminen</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>276</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/elamantapa/saa.html</origFileName>
-    <parallel_text xml:lang="eng" location="leikit.html"/>
-    <parallel_text xml:lang="smn" location="saa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">Sananlaskut</p>
-    <p>Sään ennustaminen</p>
-    <p xml:lang="est">Leikit</p>
-    <p xml:lang="nob">Ruokaperinne</p>
-    <p>Erkinpäivänä vasa roukuu, käki kukkuu, mahla valuu, tuohi niloo ja harri kutee. Jos hanhi nähdään ennen vappua, ei talvi kestä enää kauan. Saturnuksen merkki almanakassa tietää huonoa säätä sinä päivänä, jonka kohdalla se on.</p>
-    <p>Hauen maksan verisuoni kuvaa kesän vetisyyttä. Jos on paksu suoni, sataa paljon, jos ohut tai ei ollenkaan, tulee kuivaa. Jos etupäässä on paksu suoni ja takapäässä ohut, niin alkukesä on sateinen ja loppukesä kuiva.</p>
-    <p>Jos unessa näkee varankilaisia, tulee kova pohjoistuuli. Tuulenkynnet (ohuet juovat) osoittavat tuulen suunnan seuraavana päivänä. Jos aurinko torveaa, tulee tuisku. Jos auringolla on kinnas (sateenkaaren värinen täplä), se ennustaa säänmuutosta. Jos savupiipusta loistaa ylöspäin valojuova, tulee tuisku. Jos talvella vaarat sinertävät kaukana, on huomenna lauha. Jos illalla päivä katsoo taakseen, on huomenna sade. Jos veneen vanassa on kuplia, se tietää sadetta. Jos kaakkuri huutaa, se tietää huonoa säätä. On tulossa sade, kun taivaanvuohi ääntelee. Tulee lumisade, kun aurinko on avannossa. Tähdenlento tietää lumisadetta. Jos kissa nukkuu nenä ylöspäin, tulee huono ilma. Minne päin porot kulkevat, sieltä päin alkaa tuulla seuraavana päivänä. Jos riekkoja on puiden oksilla, se tietää lumisadetta. Jos ukonilma menee pohjoiseen, niin sää kylmenee. Jos käki yökkäilee, tulee sade. Jos käki kakistelee, tulee kylmä sää. Jos savu painuu matalalle, tulee huono sää. Jos kuun ympärillä on rengas, tulee tuisku. Porot kilostelevat (ryntäilevät) ennen huonoa säätä. Korvan kutina tietää lumisadetta. Piippu korisee, sade on tulossa. Kun riekot räkättävät, tulee huono sää. Kun luita pakottaa, tulee kova tuuli. Kun pää kutiaa, alkaa tuulla. Jos poro pakkasella vapisee, sää lauhtuu. Kun poro keloo nahkaa sarvista, tulee lauha.</p>
-    <p><em type="italic">Matti Morottaja </em> </p>
-    <p xml:lang="fkv">Metsähanhi Partakossa.</p>
-    <p>Kuun kehä.</p>
-    <p xml:lang="fkv">Takaisin ylös</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Elämäntapa - Sään ennustaminen</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>276</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/elamantapa/saa.html</origFileName><parallel_text xml:lang="eng" location="leikit.html"/><parallel_text xml:lang="smn" location="saa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">Sananlaskut</p>
+<p>Sään ennustaminen</p>
+<p xml:lang="est">Leikit</p>
+<p xml:lang="nob">Ruokaperinne</p>
+<p>Erkinpäivänä vasa roukuu, käki kukkuu, mahla valuu, tuohi niloo ja harri kutee. Jos hanhi nähdään ennen vappua, ei talvi kestä enää kauan. Saturnuksen merkki almanakassa tietää huonoa säätä sinä päivänä, jonka kohdalla se on.</p>
+<p>Hauen maksan verisuoni kuvaa kesän vetisyyttä. Jos on paksu suoni, sataa paljon, jos ohut tai ei ollenkaan, tulee kuivaa. Jos etupäässä on paksu suoni ja takapäässä ohut, niin alkukesä on sateinen ja loppukesä kuiva.</p>
+<p>Jos unessa näkee varankilaisia, tulee kova pohjoistuuli. Tuulenkynnet (ohuet juovat) osoittavat tuulen suunnan seuraavana päivänä. Jos aurinko torveaa, tulee tuisku. Jos auringolla on kinnas (sateenkaaren värinen täplä), se ennustaa säänmuutosta. Jos savupiipusta loistaa ylöspäin valojuova, tulee tuisku. Jos talvella vaarat sinertävät kaukana, on huomenna lauha. Jos illalla päivä katsoo taakseen, on huomenna sade. Jos veneen vanassa on kuplia, se tietää sadetta. Jos kaakkuri huutaa, se tietää huonoa säätä. On tulossa sade, kun taivaanvuohi ääntelee. Tulee lumisade, kun aurinko on avannossa. Tähdenlento tietää lumisadetta. Jos kissa nukkuu nenä ylöspäin, tulee huono ilma. Minne päin porot kulkevat, sieltä päin alkaa tuulla seuraavana päivänä. Jos riekkoja on puiden oksilla, se tietää lumisadetta. Jos ukonilma menee pohjoiseen, niin sää kylmenee. Jos käki yökkäilee, tulee sade. Jos käki kakistelee, tulee kylmä sää. Jos savu painuu matalalle, tulee huono sää. Jos kuun ympärillä on rengas, tulee tuisku. Porot kilostelevat (ryntäilevät) ennen huonoa säätä. Korvan kutina tietää lumisadetta. Piippu korisee, sade on tulossa. Kun riekot räkättävät, tulee huono sää. Kun luita pakottaa, tulee kova tuuli. Kun pää kutiaa, alkaa tuulla. Jos poro pakkasella vapisee, sää lauhtuu. Kun poro keloo nahkaa sarvista, tulee lauha.</p>
+<p><em type="italic">Matti Morottaja </em> </p>
+<p xml:lang="fkv">Metsähanhi Partakossa.</p>
+<p>Kuun kehä.</p>
+<p xml:lang="fkv">Takaisin ylös</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

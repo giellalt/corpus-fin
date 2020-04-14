@@ -1,90 +1,47 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>982</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
-    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Jos et ole tyytyväinen hoitoon / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Jos et ole tyytyväinen hoitoonOm man inte är nöjd med vården</p>
-    <p type="title">Mitkä ovat määräykset?</p>
-    <p type="title">Sinulla on oikeus valittaa</p>
-    <p>Terveyden- ja sairaanhoidon potilaana sinulla on oikeus saada kunnioittavaa kohtelua ja ymmärrettävää tietoa terveydentilastasi ja sinulle ehdotettavista tutkimuksista ja hoidoista. Sinulla on oikeus saada hyvää, korkealaatuista hoitoa.</p>
-    <p>Jos et ole tyytyväinen saamaasi hoitoon tai jos olet tyytymätön saamaasi kohteluun, sinulla on oikeus valittaa ja antaa palautetta. Valitus voi koskea kaikkea mahdollista pienistä ongelmista sellaisiin vaikeisiin tilanteisiin, jotka ovat johtaneet pysyviin vammoihin tai kuolemantapaukseen. Voit myös tehdä ilmoituksen, jonka tarkoituksena on parantaa toiminnan laatua.</p>
-    <p>Valituksen voi tehdä useaan eri elimeen. Voi olla hyvä pyytää valitukseen kirjallinen vastaus, jotta voit lukea vastauksen rauhassa väärinkäsitysten välttämiseksi.</p>
-    <p type="title">Valita suoraan hoitohenkilöstölle</p>
-    <p>On hyvä kääntyä ensisijaisesti suoraan sen lääkärin tai muun hoitohenkilöstön puoleen, joka on suorittanut tutkimukset ja antanut hoidon. Tällä tavoin voidaan usein selvittää pelkät väärinkäsitykset ja epäselvyydet ja pienentää uusiutumisen riskiä. Voit myös aina kääntyä sen yksikön päällikön puoleen, jossa olet saanut hoidon, esimerkiksi ortopedin vastaanoton päällikön puoleen.</p>
-    <p>Kunnallisessa terveyden- ja sairaanhoidossa, kuten esimerkiksi kotisairaanhoidossa, voit kääntyä kunnan lääketieteellisesti vastuullisen sairaanhoitajan (MAS) puoleen.</p>
-    <p>Se, mikä on maakäräjien ja mikä kunnan järjestämää hoitoa, vaihtelee maan eri osissa. Voit kysyä kunnastasi tai maakäräjiltä, kuka vastaa hoidosta. Kunta vastaa useimmiten yksinkertaisesta kotisairaanhoidosta, kun taas maakäräjät vastaavat vaativammasta kotisairaanhoidosta.</p>
-    <p type="title">Potilaslautakunta (Patientnämnden)</p>
-    <p type="title">Ottaa vastaan valituksia</p>
-    <p>Yksi elin, jolle voit antaa palautetta, on potilaslautakunta. Sitä kutsutaan joskus luottamuslautakunnaksi. Potilaslautakunnan tehtävänä on lisätä terveyden- ja sairaanhoidon potilasturvallisuutta.</p>
-    <p>Tämä lautakunta pitää olla kaikissa maakäräjäkunnissa, ja se ottaa vastaan valituksia ja palautetta mm. kohtelusta, diagnooseista, lääkityksestä, maksuista, salassapitokysymyksistä ja hoitotakuusta. Lautakunnan jäsenet ovat poliitikkoja, mutta valituksia käsittelevät virkamiehet. Lautakunnan poliitikoilla ja virkamiehillä on vaitiolovelvollisuus.</p>
-    <p>Potilaslautakunta on terveyden- ja sairaanhoidon toimijoista riippumaton, eikä sen puoleen kääntyminen ja kysymyksien tai valituksien esittäminen maksa mitään.</p>
-    <p>Terveyden- ja sairaanhoidon lisäksi potilaslautakunnan toiminta-alueeseen kuuluvat myös maakäräjien järjestämä hammashoito ja yksityinen hammashoito, jonka maakäräjät maksavat kokonaan tai osittain.</p>
-    <p>Sen lisäksi siihen kuuluvat kuntien järjestämä tai kuntien kanssa tehtyjen sopimusten mukainen terveyden- ja sairaanhoito ja yleinen sosiaalipalvelulain mukainen hoito, jota annetaan sellaisen terveyden- ja sairaanhoidon yhteydessä.</p>
-    <p>Potilaslautakunnalta voi saada apua esimerkiksi</p>
-    <list>
-      <p type="listitem">saadaksesi tietoa, jota tarvitset voidaksesi valvoa etujasi terveyden- ja sairaanhoidossa</p>
-      <p type="listitem">saadaksesi yhteyden hoitohenkilöstöön</p>
-      <p type="listitem">löytääksesi oikean viranomaisen</p>
-      <p type="listitem">raportoidaksesi hoidonantajalle ja hoitoyksiköille havainnoista ja poikkeamista, joihin potilas on reagoinut.</p>
-    </list>
-    <p type="title">Sekä suulliset että kirjalliset valitukset selvitetään</p>
-    <p>Potilaslautakunnalle voi sekä soittaa että lähettää kirjallisia valituksia. Virkamiehet vastaavat siitä, että valitukset selvitetään tai että niitä selvittämään kytketään oikea elin.</p>
-    <p>Potilaslautakunnalla ei ole valtuuksia ratkaista, onko sairaanhoitohenkilöstö tehnyt jonkin virheen vai ei. Sen ratkaiseminen on sen sijaan toiminnasta vastaavien tai viranomaisten kuten Sosiaalihallituksen asia.</p>
-    <p>Potilaslautakunnan yhteystietojen tulee löytyä sieltä, missä olet saanut hoitoa sekä maakäräjien omilta verkkosivuilta.</p>
-    <p type="title">IVO (Hoidon ja hoivan tarkastuslaitos)</p>
-    <p type="title">Valvoo laatua ja turvallisuutta</p>
-    <p>Inspektionen för vård och omsorg, IVO, Hoidon ja hoivan tarkastuslaitos on terveyden- ja sairaanhoidon valvontaviranomainen. Sen tehtävänä on varmistaa, että saat turvallista ja laadukasta hoitoa, jota harjoitetaan lakeja ja määräyksiä noudattaen. Näistä tehtävistä vastasi aiemmin Sosiaalihallitus. Hyvän ja turvallisen hoidon ja hoivan harjoittamisesta ovat vastuussa hoidon esimiehet ja heidän toimintansa. IVO:lle voi tehdä ilmoituksen, jos on joutunut hoitovirheen uhriksi tai kokenut puutteita potilasturvallisuudessa terveyden- ja sairaanhoidossa tai hammashoidossa. IVO tutkii tapauksen, mutta ei tarkastele pelkästään terveyden- ja sairaanhoitohenkilöstön toimintaa vaan kokonaisuutta, ja pohtii, mikä meni pieleen ja miksi. Lisäksi se selvittää, mitä hoidon tarjoajan tulee tehdä vastaavan tapauksen toistumisen välttämiseksi.</p>
-    <p>Ilmoituksen seurauksena IVO voi kohdistaa arvostelua terveyskeskusta, sairaalaa, hammaslääkäriä, vanhusten hoitoa tai terveyden- ja sairaanhoitohenkilöstöä kohtaan. IVO voi myös vaatia hoidonantajaa suorittamaan toimia, joilla voidaan ehkäistä samankaltaiset tapahtumat. Ilmoituksen voi tehdä kaikista terveyden- ja sairaanhoidon piiriin kuuluvista henkilöistä, riippumatta siitä, työskentelevätkö he kunnan, maakäräjien vai yksityisen hoitoyrityksen palveluksessa. IVO ei tutki yleensä kahta vuotta vanhempia tapahtumia eikä IVO:n päätöksistä voi valittaa. Sekä ilmoitus IVO:lle että IVO:n päätös ovat julkisia asiakirjoja, jotka kaikki halukkaat voivat lukea. Sitä vastoin potilasasiakirjat ja muut vastaavat, selvitykseen kuuluvat asiakirjat ovat salassapitosuojan alaisia. Ilmoitus tapahtumista, jotka voivat olla rikollisia, tehdään poliisille. Kyse voi olla esimerkiksi siitä, että sairaanhoitohenkilöstöä syytetään seksuaalisesta väkivallasta tai pahoinpitelystä. Jos IVO katsoo, että terveyden- ja sairaanhoidon henkilöstöön kuuluva on osoittautunut sopimattomaksi ammattiin, siitä tehdään erityinen selvitys. Tämä voi johtaa edelleen siihen, että IVO tekee ilmoituksen hoitohenkilöstöstä Terveyden- ja sairaanhoidon vastuulautakuntaan (HSAN). IVO käsittelee myös Lex Maria -ilmoitukset, eli hoidonantajan itse ilmoittamat tapahtumat, jotka ovat johtaneet tai olisivat voineet johtaa vakavaan vaaratilanteeseen sekä Lex Sarah -ilmoitukset, eli raportit väärinkäytöksistä tai väärinkäytösten riskeistä sosiaalipalveluiden alalla.</p>
-    <p type="title">Terveyden- ja sairaanhoidon vastuulautakunta</p>
-    <p>HSAN on valtiollinen, tuomioistuintyyppinen viranomainen, joka valvoo terveyden- ja sairaanhoidon henkilöstön toimivaltakysymyksiä.</p>
-    <p type="listitem">Vain IVO, Oikeusasiamies ja Oikeuskansleri voivat tehdä ilmoituksen Terveyden- ja sairaanhoidon vastuulautakuntaan (HSAN). Ilmoituksen uudesta laillistamisesta, uudesta toimivallasta ja koeajasta voi tehdä asianosainen ammatinharjoittaja.HSAN voi käsitellä ja päättää</p>
-    <p type="listitem">peruuttaa huonosti työnsä hoitavan lääkärin tai sairaanhoitajan laillistuksen</p>
-    <p type="listitem">määrätä koeajan, mikä merkitsee, että lääkärin tai sairaanhoitajan on oltava valvonnan alaisena kolmen vuoden ajan, ja että tänä aikana laaditaan erityissuunnitelma</p>
-    <p type="listitem">rajoittaa lääkärin oikeutta määrätä lääkkeitä tai peruuttaa se.</p>
-    <p type="title">Muita tapoja valittaa</p>
-    <p type="title">Poliisi, potilasjärjestöt ja poliitikot</p>
-    <p>Jos hoidossa on mielestäsi tehty rikos, voit tehdä rikosilmoituksen. Ilmoitus voi koskea esimerkiksi kuolemantuottamusta. Ruotsissa on erittäin epätavallista, että tällaiset ilmoitukset johtavat syytteisiin ja langettavaan tuomioon, koska rikoslainsäädännössä vaaditaan ns. tahallisuus tai vakava varomattomuus, jotta rikoksesta voidaan rangaista.</p>
-    <p>Potilasjärjestöt voivat joskus auttaa valituksia koskevien asioiden käsittelyssä Ne voivat tietyissä tapauksissa arvioida, mille elimelle on parasta esittää vaatimuksensa, ja auttaa myös ilmoituksen laatimisessa.</p>
-    <p>Syrjintäasiamies (DO) työskentelee syrjinnän vastustamiseksi. Jos olet mielestäsi saanut epäasiallista erikoiskohtelua sukupuolen, sukupuoli-identiteetin, sukupuolen ilmaisemisen, iän, etniseen ryhmään kuulumisen, uskonnon tai muun uskonkäsityksen, toimintarajoitteen tai seksuaalisen suuntautumisen vuoksi, voit tehdä siitä ilmoituksen syrjintäasiamiehelle.</p>
-    <p>On aina mahdollista esittää valituksia sairaanhoidosta päättäville poliitikoille, joilla on poliittinen vastuu maakäräjillä tai kunnassa.</p>
-    <p type="title">Potilasasiamiehet</p>
-    <p>Joissakin maakäräjäkunnissa on erityisiä potilasasiamiehiä, joita joskus nimitetään myös potilasopastajiksi.</p>
-    <p>Jos esimerkiksi tunnet saaneesi huonoa kohtelua tai olet muutoin tyytymätön hoitoon, voit ottaa yhteyttä heihin. Potilasasiamies voi auttaa ja neuvoa eteenpäin, jos et ole tyytyväinen vastaukseen tai kohteluun sen jälkeen, kun olet ensin kääntynyt suoraan sairaanhoitohenkilöstön puoleen.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>978</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName><parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Jos et ole tyytyväinen hoitoon / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Jos et ole tyytyväinen hoitoonOm man inte är nöjd med vården</p>
+<p type="title">Mitkä ovat määräykset?</p>
+<p type="title">Sinulla on oikeus valittaa</p>
+<p>Terveyden- ja sairaanhoidon potilaana sinulla on oikeus saada kunnioittavaa kohtelua ja ymmärrettävää tietoa terveydentilastasi ja sinulle ehdotettavista tutkimuksista ja hoidoista. Sinulla on oikeus saada hyvää, korkealaatuista hoitoa.</p>
+<p>Jos et ole tyytyväinen saamaasi hoitoon tai jos olet tyytymätön saamaasi kohteluun, sinulla on oikeus valittaa ja antaa palautetta. Valitus voi koskea kaikkea mahdollista pienistä ongelmista sellaisiin vaikeisiin tilanteisiin, jotka ovat johtaneet pysyviin vammoihin tai kuolemantapaukseen. Voit myös tehdä ilmoituksen, jonka tarkoituksena on parantaa toiminnan laatua.</p>
+<p>Valituksen voi tehdä useaan eri elimeen. Voi olla hyvä pyytää valitukseen kirjallinen vastaus, jotta voit lukea vastauksen rauhassa väärinkäsitysten välttämiseksi.</p>
+<p type="title">Valita suoraan hoitohenkilöstölle</p>
+<p>On hyvä kääntyä ensisijaisesti suoraan sen lääkärin tai muun hoitohenkilöstön puoleen, joka on suorittanut tutkimukset ja antanut hoidon. Tällä tavoin voidaan usein selvittää pelkät väärinkäsitykset ja epäselvyydet ja pienentää uusiutumisen riskiä. Voit myös aina kääntyä sen yksikön päällikön puoleen, jossa olet saanut hoidon, esimerkiksi ortopedin vastaanoton päällikön puoleen.</p>
+<p>Kunnallisessa terveyden- ja sairaanhoidossa, kuten esimerkiksi kotisairaanhoidossa, voit kääntyä kunnan lääketieteellisesti vastuullisen sairaanhoitajan (MAS) puoleen.</p>
+<p>Se, mikä on maakäräjien ja mikä kunnan järjestämää hoitoa, vaihtelee maan eri osissa. Voit kysyä kunnastasi tai maakäräjiltä, kuka vastaa hoidosta. Kunta vastaa useimmiten yksinkertaisesta kotisairaanhoidosta, kun taas maakäräjät vastaavat vaativammasta kotisairaanhoidosta.</p>
+<p type="title">Potilaslautakunta (Patientnämnden)</p>
+<p type="title">Ottaa vastaan valituksia</p>
+<p>Yksi elin, jolle voit antaa palautetta, on potilaslautakunta. Sitä kutsutaan joskus luottamuslautakunnaksi. Potilaslautakunnan tehtävänä on lisätä terveyden- ja sairaanhoidon potilasturvallisuutta.</p>
+<p>Tämä lautakunta pitää olla kaikissa maakäräjäkunnissa, ja se ottaa vastaan valituksia ja palautetta mm. kohtelusta, diagnooseista, lääkityksestä, maksuista, salassapitokysymyksistä ja hoitotakuusta. Lautakunnan jäsenet ovat poliitikkoja, mutta valituksia käsittelevät virkamiehet. Lautakunnan poliitikoilla ja virkamiehillä on vaitiolovelvollisuus.</p>
+<p>Potilaslautakunta on terveyden- ja sairaanhoidon toimijoista riippumaton, eikä sen puoleen kääntyminen ja kysymyksien tai valituksien esittäminen maksa mitään.</p>
+<p>Terveyden- ja sairaanhoidon lisäksi potilaslautakunnan toiminta-alueeseen kuuluvat myös maakäräjien järjestämä hammashoito ja yksityinen hammashoito, jonka maakäräjät maksavat kokonaan tai osittain.</p>
+<p>Sen lisäksi siihen kuuluvat kuntien järjestämä tai kuntien kanssa tehtyjen sopimusten mukainen terveyden- ja sairaanhoito ja yleinen sosiaalipalvelulain mukainen hoito, jota annetaan sellaisen terveyden- ja sairaanhoidon yhteydessä.</p>
+<p>Potilaslautakunnalta voi saada apua esimerkiksi</p>
+<list><p type="listitem">saadaksesi tietoa, jota tarvitset voidaksesi valvoa etujasi terveyden- ja sairaanhoidossa</p>
+<p type="listitem">saadaksesi yhteyden hoitohenkilöstöön</p>
+<p type="listitem">löytääksesi oikean viranomaisen</p>
+<p type="listitem">raportoidaksesi hoidonantajalle ja hoitoyksiköille havainnoista ja poikkeamista, joihin potilas on reagoinut.</p>
+</list><p type="title">Sekä suulliset että kirjalliset valitukset selvitetään</p>
+<p>Potilaslautakunnalle voi sekä soittaa että lähettää kirjallisia valituksia. Virkamiehet vastaavat siitä, että valitukset selvitetään tai että niitä selvittämään kytketään oikea elin.</p>
+<p>Potilaslautakunnalla ei ole valtuuksia ratkaista, onko sairaanhoitohenkilöstö tehnyt jonkin virheen vai ei. Sen ratkaiseminen on sen sijaan toiminnasta vastaavien tai viranomaisten kuten Sosiaalihallituksen asia.</p>
+<p>Potilaslautakunnan yhteystietojen tulee löytyä sieltä, missä olet saanut hoitoa sekä maakäräjien omilta verkkosivuilta.</p>
+<p type="title">IVO (Hoidon ja hoivan tarkastuslaitos)</p>
+<p type="title">Valvoo laatua ja turvallisuutta</p>
+<p>Inspektionen för vård och omsorg, IVO, Hoidon ja hoivan tarkastuslaitos on terveyden- ja sairaanhoidon valvontaviranomainen. Sen tehtävänä on varmistaa, että saat turvallista ja laadukasta hoitoa, jota harjoitetaan lakeja ja määräyksiä noudattaen. Näistä tehtävistä vastasi aiemmin Sosiaalihallitus. Hyvän ja turvallisen hoidon ja hoivan harjoittamisesta ovat vastuussa hoidon esimiehet ja heidän toimintansa. IVO:lle voi tehdä ilmoituksen, jos on joutunut hoitovirheen uhriksi tai kokenut puutteita potilasturvallisuudessa terveyden- ja sairaanhoidossa tai hammashoidossa. IVO tutkii tapauksen, mutta ei tarkastele pelkästään terveyden- ja sairaanhoitohenkilöstön toimintaa vaan kokonaisuutta, ja pohtii, mikä meni pieleen ja miksi. Lisäksi se selvittää, mitä hoidon tarjoajan tulee tehdä vastaavan tapauksen toistumisen välttämiseksi.</p>
+<p>Ilmoituksen seurauksena IVO voi kohdistaa arvostelua terveyskeskusta, sairaalaa, hammaslääkäriä, vanhusten hoitoa tai terveyden- ja sairaanhoitohenkilöstöä kohtaan. IVO voi myös vaatia hoidonantajaa suorittamaan toimia, joilla voidaan ehkäistä samankaltaiset tapahtumat. Ilmoituksen voi tehdä kaikista terveyden- ja sairaanhoidon piiriin kuuluvista henkilöistä, riippumatta siitä, työskentelevätkö he kunnan, maakäräjien vai yksityisen hoitoyrityksen palveluksessa. IVO ei tutki yleensä kahta vuotta vanhempia tapahtumia eikä IVO:n päätöksistä voi valittaa. Sekä ilmoitus IVO:lle että IVO:n päätös ovat julkisia asiakirjoja, jotka kaikki halukkaat voivat lukea. Sitä vastoin potilasasiakirjat ja muut vastaavat, selvitykseen kuuluvat asiakirjat ovat salassapitosuojan alaisia. Ilmoitus tapahtumista, jotka voivat olla rikollisia, tehdään poliisille. Kyse voi olla esimerkiksi siitä, että sairaanhoitohenkilöstöä syytetään seksuaalisesta väkivallasta tai pahoinpitelystä. Jos IVO katsoo, että terveyden- ja sairaanhoidon henkilöstöön kuuluva on osoittautunut sopimattomaksi ammattiin, siitä tehdään erityinen selvitys. Tämä voi johtaa edelleen siihen, että IVO tekee ilmoituksen hoitohenkilöstöstä Terveyden- ja sairaanhoidon vastuulautakuntaan (HSAN). IVO käsittelee myös Lex Maria -ilmoitukset, eli hoidonantajan itse ilmoittamat tapahtumat, jotka ovat johtaneet tai olisivat voineet johtaa vakavaan vaaratilanteeseen sekä Lex Sarah -ilmoitukset, eli raportit väärinkäytöksistä tai väärinkäytösten riskeistä sosiaalipalveluiden alalla.</p>
+<p type="title">Terveyden- ja sairaanhoidon vastuulautakunta</p>
+<p>HSAN on valtiollinen, tuomioistuintyyppinen viranomainen, joka valvoo terveyden- ja sairaanhoidon henkilöstön toimivaltakysymyksiä.</p>
+<p type="listitem">Vain IVO, Oikeusasiamies ja Oikeuskansleri voivat tehdä ilmoituksen Terveyden- ja sairaanhoidon vastuulautakuntaan (HSAN). Ilmoituksen uudesta laillistamisesta, uudesta toimivallasta ja koeajasta voi tehdä asianosainen ammatinharjoittaja.HSAN voi käsitellä ja päättää</p>
+<p type="listitem">peruuttaa huonosti työnsä hoitavan lääkärin tai sairaanhoitajan laillistuksen</p>
+<p type="listitem">määrätä koeajan, mikä merkitsee, että lääkärin tai sairaanhoitajan on oltava valvonnan alaisena kolmen vuoden ajan, ja että tänä aikana laaditaan erityissuunnitelma</p>
+<p type="listitem">rajoittaa lääkärin oikeutta määrätä lääkkeitä tai peruuttaa se.</p>
+<p type="title">Muita tapoja valittaa</p>
+<p type="title">Poliisi, potilasjärjestöt ja poliitikot</p>
+<p>Jos hoidossa on mielestäsi tehty rikos, voit tehdä rikosilmoituksen. Ilmoitus voi koskea esimerkiksi kuolemantuottamusta. Ruotsissa on erittäin epätavallista, että tällaiset ilmoitukset johtavat syytteisiin ja langettavaan tuomioon, koska rikoslainsäädännössä vaaditaan ns. tahallisuus tai vakava varomattomuus, jotta rikoksesta voidaan rangaista.</p>
+<p>Potilasjärjestöt voivat joskus auttaa valituksia koskevien asioiden käsittelyssä Ne voivat tietyissä tapauksissa arvioida, mille elimelle on parasta esittää vaatimuksensa, ja auttaa myös ilmoituksen laatimisessa.</p>
+<p>Syrjintäasiamies (DO) työskentelee syrjinnän vastustamiseksi. Jos olet mielestäsi saanut epäasiallista erikoiskohtelua sukupuolen, sukupuoli-identiteetin, sukupuolen ilmaisemisen, iän, etniseen ryhmään kuulumisen, uskonnon tai muun uskonkäsityksen, toimintarajoitteen tai seksuaalisen suuntautumisen vuoksi, voit tehdä siitä ilmoituksen syrjintäasiamiehelle.</p>
+<p>On aina mahdollista esittää valituksia sairaanhoidosta päättäville poliitikoille, joilla on poliittinen vastuu maakäräjillä tai kunnassa.</p>
+<p type="title">Potilasasiamiehet</p>
+<p>Joissakin maakäräjäkunnissa on erityisiä potilasasiamiehiä, joita joskus nimitetään myös potilasopastajiksi.</p>
+<p>Jos esimerkiksi tunnet saaneesi huonoa kohtelua tai olet muutoin tyytymätön hoitoon, voit ottaa yhteyttä heihin. Potilasasiamies voi auttaa ja neuvoa eteenpäin, jos et ole tyytyväinen vastaukseen tai kohteluun sen jälkeen, kun olet ensin kääntynyt suoraan sairaanhoitohenkilöstön puoleen.</p>
+</body></document>

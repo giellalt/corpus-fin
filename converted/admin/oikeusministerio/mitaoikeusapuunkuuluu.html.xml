@@ -1,37 +1,13 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Mitä oikeusapuun kuuluu - 
+<document xml:lang="fin" id="no_id"><header><title>Mitä oikeusapuun kuuluu - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2014</year>
-    <wordcount>195</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/fi/index/esitteet/oikeusapu/mitaoikeusapuunkuuluu.html</origFileName>
-    <parallel_text xml:lang="eng" location="mitaoikeusapuunkuuluu.html"/>
-    <parallel_text xml:lang="sme" location="miivuoigatvuo273aveahkkaigulla.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Oikeusapu</p>
-    <p type="title">Mitä oikeusapuun kuuluu</p>
-    <p>Asian laatu ja merkitys vaikuttavat siihen, mitä palveluja oikeusapuun kussakin tapauksessa kuuluu.</p>
-    <p type="title">Oikeudenkäyntiasiat</p>
-    <p>Oikeudenkäyntiasioissa henkilö tarvitsee yleensä avukseen asiantuntevan avustajan, esimerkiksi nostamaan kanteen tai toimimaan rikoksesta syytetyn puolustajana oikeudenkäynnissä. Avustajaa ei kuitenkaan määrätä selviin asioihin, kuten riidattomiin avioeroihin tai yksinkertaisiin sakkojuttuihin. Näihin asioihin voi saada neuvontaa oikeusaputoimistossa.</p>
-    <p>Asiakas voi valita, haluaako hän oikeudenkäynnissä avustajakseen valtion oikeusaputoimistossa työskentelevän julkisen oikeusavustajan vai asianajajan tai muun lakimiehen, jolla on lupa toimia oikeudenkäyntiavustajana.</p>
-    <p>Jos henkilölle myönnetään oikeusapua, valtio maksaa oikeudenkäyntiavustajan palkkion joko kokonaan tai osittain, oikeusavun saajan käyttövaroista riippuen. Avustajan toimenpiteet korvataan <em type="bold">enintään 80 tunnilta </em>. Tuomioistuin voi kuitenkin erityistilanteissa antaa luvan tämän rajan ylittämiseen. Lisäksi oikeusavun saaja vapautuu esimerkiksi oikeudenkäyntimaksuista. Valtio ei maksa vastapuolen oikeudenkäyntikuluja siinä tapauksessa, että oikeusapua saanut häviää jutun. </p>
-    <p type="title">Muut asiat</p>
-    <p>Oikeusapua voidaan antaa myös asioissa, joita ei viedä tuomioistuimen ratkaistavaksi. Apua voi tarvita jonkin asiakirjan laadinnassa, esimerkiksi perukirjan tai ositussopimuksen tekemisessä. Jossakin oikeudellisessa ongelmassa tarvitaan vain lakimiehen neuvoja. Näissä asioissa oikeusapua antavat julkiset oikeusavustajat. Oikeusavun saaja ei siis voi valita yksityistä avustajaa.</p>
-    <p>Muissa kuin tuomioistuimessa käsiteltävissä asioissa oikeusapua voi saada korvauksetta tai omavastuuosuutta vastaan enintään 80 tunnilta asiaa kohti. Lisäksi oikeusavun saaja vapautuu viranomaisten asiakirjamaksuista sekä mahdollisista tulkkaus- ja käännöskuluista.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2014</year><wordcount>195</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/oikeusapu/mitaoikeusapuunkuuluu.html</origFileName><parallel_text xml:lang="eng" location="mitaoikeusapuunkuuluu.html"/><parallel_text xml:lang="sme" location="miivuoigatvuo273aveahkkaigulla.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Oikeusapu</p>
+<p type="title">Mitä oikeusapuun kuuluu</p>
+<p>Asian laatu ja merkitys vaikuttavat siihen, mitä palveluja oikeusapuun kussakin tapauksessa kuuluu.</p>
+<p type="title">Oikeudenkäyntiasiat</p>
+<p>Oikeudenkäyntiasioissa henkilö tarvitsee yleensä avukseen asiantuntevan avustajan, esimerkiksi nostamaan kanteen tai toimimaan rikoksesta syytetyn puolustajana oikeudenkäynnissä. Avustajaa ei kuitenkaan määrätä selviin asioihin, kuten riidattomiin avioeroihin tai yksinkertaisiin sakkojuttuihin. Näihin asioihin voi saada neuvontaa oikeusaputoimistossa.</p>
+<p>Asiakas voi valita, haluaako hän oikeudenkäynnissä avustajakseen valtion oikeusaputoimistossa työskentelevän julkisen oikeusavustajan vai asianajajan tai muun lakimiehen, jolla on lupa toimia oikeudenkäyntiavustajana.</p>
+<p>Jos henkilölle myönnetään oikeusapua, valtio maksaa oikeudenkäyntiavustajan palkkion joko kokonaan tai osittain, oikeusavun saajan käyttövaroista riippuen. Avustajan toimenpiteet korvataan <em type="bold">enintään 80 tunnilta </em>. Tuomioistuin voi kuitenkin erityistilanteissa antaa luvan tämän rajan ylittämiseen. Lisäksi oikeusavun saaja vapautuu esimerkiksi oikeudenkäyntimaksuista. Valtio ei maksa vastapuolen oikeudenkäyntikuluja siinä tapauksessa, että oikeusapua saanut häviää jutun. </p>
+<p type="title">Muut asiat</p>
+<p>Oikeusapua voidaan antaa myös asioissa, joita ei viedä tuomioistuimen ratkaistavaksi. Apua voi tarvita jonkin asiakirjan laadinnassa, esimerkiksi perukirjan tai ositussopimuksen tekemisessä. Jossakin oikeudellisessa ongelmassa tarvitaan vain lakimiehen neuvoja. Näissä asioissa oikeusapua antavat julkiset oikeusavustajat. Oikeusavun saaja ei siis voi valita yksityistä avustajaa.</p>
+<p>Muissa kuin tuomioistuimessa käsiteltävissä asioissa oikeusapua voi saada korvauksetta tai omavastuuosuutta vastaan enintään 80 tunnilta asiaa kohti. Lisäksi oikeusavun saaja vapautuu viranomaisten asiakirjamaksuista sekä mahdollisista tulkkaus- ja käännöskuluista.</p>
+</body></document>

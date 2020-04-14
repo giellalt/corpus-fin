@@ -1,47 +1,23 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Anaras - Tutkimus - Laitinen</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2006</year>
-    <wordcount>536</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/tutkimus/laitinen.html</origFileName>
-    <parallel_text xml:lang="eng" location="laitinen.html"/>
-    <parallel_text xml:lang="smn" location="laitinen.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">Elias Lönnrot</p>
-    <p xml:lang="deu">E.W. Borg</p>
-    <p xml:lang="smn">Heikki Mattus</p>
-    <p xml:lang="smn">A.V. Koskimies</p>
-    <p xml:lang="vep">Lauri Itkonen</p>
-    <p>T.I. Itkonen</p>
-    <p>Erkki Itkonen</p>
-    <p>Uula Morottaja</p>
-    <p>Matti Morottaja</p>
-    <p xml:lang="sme">Pekka Sammallahti</p>
-    <p xml:lang="vep">Lea Laitinen</p>
-    <p>Marja-Liisa Olthuis</p>
-    <p>Kirjallisuusluettelo</p>
-    <p>Savossa syntynyt, mutta jo koulupoikana Etelä-Suomen Järvenpäähän isänsä mukana muuttanut Eino Luomi ja sodankyläläinen Helmi Melamies tutustuivat sota-aikana Sallassa, avioituivat ja asettuivat asumaan Järvenpäähän. Heille syntyi neljä lasta, joista yksi sai nimekseen <em type="italic">Lea </em>. Talvella lapset kulkivat Järvenpään yhteiskoulua ja kesällä he kyläilivät Sodankylässä mummonsa ja sukulaistensa luona. Heillä oli siellä neljä enoa, joista yksi oli poromies. </p>
-    <p>Kun <em type="italic">Lea Luomi </em>lähti opiskelemaan suomen kieltä Helsingin yliopistoon, niin tehtäväksi tuli mm. murteiden keruun kenttätyö, jota hän teki kesällä 1966 Sodankylä Moskuvaarassa. Siellä hän keräsi paikannimiä, jonne eräs hänen enoistaan oli järjestänyt asuinhuoneen. Seuraavina kesinä hän jatkoi nimitöitään stipendien turvin, siirtyen sitä mukaa aina vain pohjoisemmaksi. Aluksi Vuotsoon, sitten Ivaloon ja lopuksi Inarin kirkolle. Keräilymatkoillaan hän liikkui paikasta toiseen polkupyörällä, jonka hän oli saanut lainaksi. Hän ajeli pitkiäkin päivämatkoja. Vaaraa ylös, toista alas – tuosta ajasta hän piti suuresti. </p>
-    <p>Paikannimien keräämisen yhteydessä hän törmäsi myös inarinsaamelaisiin paikannimiin, joten tuli tarve oppia inarinsaamea. Hän opetteli muutamia kesiä inarinsaamea Nellimissä 1960-70-luvun vaihteessa ja opettajiksi hän sai Elsa Vallen ja Elsa Saijetsin, jotka olivat silloin viisikymppisiä, mahtavia ja hienoja kielentaitajia. Lea nauhoitti heitä molempia ja Elsa Vallen kanssa myös monia vanhoja inarinsaamelaisia. Hän tutustui Nellimissä myös kolttasaamelaisiin Darja ja Boris Jefremoffiin, joista tuli myös hänen silloisin sulhasensa Heikki Laitisenkin ystäviä: Heikki tutki silloin kolttasaamelaisten musiikkia ja rakkaus Lappiin ja saamelaisuuteen yhdisti heitä kumpaakin monella tavalla. Lea Luomi (myöhemmin Laitinen) kirjasi noin 680 inarinsaamelaista paikannimeä.</p>
-    <p>Lea ja Heikki avioituivat 1973 ja muuttivat asumaan Kaustiselle 1974. Koska pienen lapsen kanssa ei voinut lähteä keruumatkoille, tulivat Elsa ja Heikki Tuomas Valle perheineen eräänä kesänä heidän luokseen. Siihen aikaan Elsa oli Helsingissä auttelemassa Erkki Itkosta inarinsaamen sanakirjan <span type="quote" xml:lang="deu">“Inarilappisches Wörterbuch”</span> viimeistelyssä ja asui silloin <em type="italic">Lea Laitisen </em>vanhempien luona Järvenpäässä. Vuonna 1979 Lea sai työtä em. sanakirjan toimittajana, jota hän teki Kaustisella. Sinne hänelle lähetettiin aineistot valokopioina ja koska tietokoneita ei vielä ollut, ne ladottiin tekstiksi eräässä vanhassa navetassa Kerimäellä. Vuonna 1985 Lea ja Heikki muuttivat takaisin Helsinkiin, jossa Lea jatkoi sanakirjatyötään työskennellen sen valmistumiseen saakka. Sanakirjatyö kesti yhteensä 11 vuotta, jona aikana hän oppi paljon uusia asioita kielestä. Vähän ennen Erkki Itkosen kuolemaa Lea Laitinen toimitti vielä Itkosen kielennäytekokoelman <span type="quote">“Aanaarkiela „ájttuzeh – Inarinsaamelaisia kielennäytteitä”</span>. </p>
-    <p>Nykyään Lea Laitinen toimii professorina Helsingin yliopiston suomenkielen laitoksessa ja sitä ennen hän on ollut samassa yliopistossa assistenttina ja yliassistenttina. Toimittuaan jonkun aikaa Kotimaisten kielten tutkimuskeskuksen erikoistutkijana, anoi hän Helsingin yliopiston professuuria, jonka myös sai. Sanakirjatyön hän sai siten, että kun etsittiin Raija Bartensin työn jatkajaa sanakirjan toimittajana, niin professori Mikko Korhonen-vainaja oli muistanut hänet ja niin Lea valittiin toimitustyöhön. Viime aikoina hän on tutkinut suomen kielen kirjoitetun ja puhutun kielen välisiä suhteita, mutta myös inarinsaamea, jota hän nimittääkin erikoisrakkaudekseen. Hänen puolisonsa <em type="italic">Heikki Laitinen </em>on syntynyt Ylivieskassa 1943 ja toimii nykyään Sibelius-Akatemian kansanmusiikin professorina. Heillä on kaksi poikaa: Tuomas Henrikki (s. 1974) ja Martti Elias (s. 1984), sekä yksi lapsenlapsi Ilari Aslak Andaras (s. 2003). Hänen nimessään on varmaankin joitakin muistumia Tuomaksen lapsuuden kesistä, jolloin äiti kulki <span type="quote">“töissä”</span>, Tuomaksen ja isän leikkiessä jossain Inarin rannoilla taikka vaaroilla. </p>
-    <p>Lea  Laitinen  työskentelee nykyisin suomen kielen professori Helsingin yliopistossa.</p>
-    <p xml:lang="fkv">Takaisin ylös</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Tutkimus - Laitinen</title><genre code="facta"/><author><unknown/></author><year>2006</year><wordcount>536</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/tutkimus/laitinen.html</origFileName><parallel_text xml:lang="eng" location="laitinen.html"/><parallel_text xml:lang="smn" location="laitinen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">Elias Lönnrot</p>
+<p xml:lang="deu">E.W. Borg</p>
+<p xml:lang="smn">Heikki Mattus</p>
+<p xml:lang="smn">A.V. Koskimies</p>
+<p xml:lang="vep">Lauri Itkonen</p>
+<p>T.I. Itkonen</p>
+<p>Erkki Itkonen</p>
+<p>Uula Morottaja</p>
+<p>Matti Morottaja</p>
+<p xml:lang="sme">Pekka Sammallahti</p>
+<p xml:lang="est">Lea Laitinen</p>
+<p>Marja-Liisa Olthuis</p>
+<p>Kirjallisuusluettelo</p>
+<p>Savossa syntynyt, mutta jo koulupoikana Etelä-Suomen Järvenpäähän isänsä mukana muuttanut Eino Luomi ja sodankyläläinen Helmi Melamies tutustuivat sota-aikana Sallassa, avioituivat ja asettuivat asumaan Järvenpäähän. Heille syntyi neljä lasta, joista yksi sai nimekseen <em type="italic">Lea </em>. Talvella lapset kulkivat Järvenpään yhteiskoulua ja kesällä he kyläilivät Sodankylässä mummonsa ja sukulaistensa luona. Heillä oli siellä neljä enoa, joista yksi oli poromies. </p>
+<p>Kun <em type="italic">Lea Luomi </em>lähti opiskelemaan suomen kieltä Helsingin yliopistoon, niin tehtäväksi tuli mm. murteiden keruun kenttätyö, jota hän teki kesällä 1966 Sodankylä Moskuvaarassa. Siellä hän keräsi paikannimiä, jonne eräs hänen enoistaan oli järjestänyt asuinhuoneen. Seuraavina kesinä hän jatkoi nimitöitään stipendien turvin, siirtyen sitä mukaa aina vain pohjoisemmaksi. Aluksi Vuotsoon, sitten Ivaloon ja lopuksi Inarin kirkolle. Keräilymatkoillaan hän liikkui paikasta toiseen polkupyörällä, jonka hän oli saanut lainaksi. Hän ajeli pitkiäkin päivämatkoja. Vaaraa ylös, toista alas – tuosta ajasta hän piti suuresti. </p>
+<p>Paikannimien keräämisen yhteydessä hän törmäsi myös inarinsaamelaisiin paikannimiin, joten tuli tarve oppia inarinsaamea. Hän opetteli muutamia kesiä inarinsaamea Nellimissä 1960-70-luvun vaihteessa ja opettajiksi hän sai Elsa Vallen ja Elsa Saijetsin, jotka olivat silloin viisikymppisiä, mahtavia ja hienoja kielentaitajia. Lea nauhoitti heitä molempia ja Elsa Vallen kanssa myös monia vanhoja inarinsaamelaisia. Hän tutustui Nellimissä myös kolttasaamelaisiin Darja ja Boris Jefremoffiin, joista tuli myös hänen silloisin sulhasensa Heikki Laitisenkin ystäviä: Heikki tutki silloin kolttasaamelaisten musiikkia ja rakkaus Lappiin ja saamelaisuuteen yhdisti heitä kumpaakin monella tavalla. Lea Luomi (myöhemmin Laitinen) kirjasi noin 680 inarinsaamelaista paikannimeä.</p>
+<p>Lea ja Heikki avioituivat 1973 ja muuttivat asumaan Kaustiselle 1974. Koska pienen lapsen kanssa ei voinut lähteä keruumatkoille, tulivat Elsa ja Heikki Tuomas Valle perheineen eräänä kesänä heidän luokseen. Siihen aikaan Elsa oli Helsingissä auttelemassa Erkki Itkosta inarinsaamen sanakirjan <span type="quote" xml:lang="deu">“Inarilappisches Wörterbuch”</span> viimeistelyssä ja asui silloin <em type="italic">Lea Laitisen </em>vanhempien luona Järvenpäässä. Vuonna 1979 Lea sai työtä em. sanakirjan toimittajana, jota hän teki Kaustisella. Sinne hänelle lähetettiin aineistot valokopioina ja koska tietokoneita ei vielä ollut, ne ladottiin tekstiksi eräässä vanhassa navetassa Kerimäellä. Vuonna 1985 Lea ja Heikki muuttivat takaisin Helsinkiin, jossa Lea jatkoi sanakirjatyötään työskennellen sen valmistumiseen saakka. Sanakirjatyö kesti yhteensä 11 vuotta, jona aikana hän oppi paljon uusia asioita kielestä. Vähän ennen Erkki Itkosen kuolemaa Lea Laitinen toimitti vielä Itkosen kielennäytekokoelman <span type="quote">“Aanaarkiela „ájttuzeh – Inarinsaamelaisia kielennäytteitä”</span>. </p>
+<p>Nykyään Lea Laitinen toimii professorina Helsingin yliopiston suomenkielen laitoksessa ja sitä ennen hän on ollut samassa yliopistossa assistenttina ja yliassistenttina. Toimittuaan jonkun aikaa Kotimaisten kielten tutkimuskeskuksen erikoistutkijana, anoi hän Helsingin yliopiston professuuria, jonka myös sai. Sanakirjatyön hän sai siten, että kun etsittiin Raija Bartensin työn jatkajaa sanakirjan toimittajana, niin professori Mikko Korhonen-vainaja oli muistanut hänet ja niin Lea valittiin toimitustyöhön. Viime aikoina hän on tutkinut suomen kielen kirjoitetun ja puhutun kielen välisiä suhteita, mutta myös inarinsaamea, jota hän nimittääkin erikoisrakkaudekseen. Hänen puolisonsa <em type="italic">Heikki Laitinen </em>on syntynyt Ylivieskassa 1943 ja toimii nykyään Sibelius-Akatemian kansanmusiikin professorina. Heillä on kaksi poikaa: Tuomas Henrikki (s. 1974) ja Martti Elias (s. 1984), sekä yksi lapsenlapsi Ilari Aslak Andaras (s. 2003). Hänen nimessään on varmaankin joitakin muistumia Tuomaksen lapsuuden kesistä, jolloin äiti kulki <span type="quote">“töissä”</span>, Tuomaksen ja isän leikkiessä jossain Inarin rannoilla taikka vaaroilla. </p>
+<p>Lea  Laitinen  työskentelee nykyisin suomen kielen professori Helsingin yliopistossa.</p>
+<p xml:lang="fkv">Takaisin ylös</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

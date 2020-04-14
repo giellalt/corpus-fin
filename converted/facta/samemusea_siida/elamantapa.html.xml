@@ -1,46 +1,20 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Anaras - Elämäntapa</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>476</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/elamantapa/elamantapa.html</origFileName>
-    <parallel_text xml:lang="eng" location="elamantapa.html"/>
-    <parallel_text xml:lang="smn" location="elamantapa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">Sananlaskut</p>
-    <p>Sään ennustaminen</p>
-    <p xml:lang="est">Leikit</p>
-    <p xml:lang="nob">Ruokaperinne</p>
-    <p>Inarinsaamelaista elämäntapaa kuvaavat pitkän kehityksen läpikäyneet elinkeinot ja taito selviytyä luonnonolosuhteissa. Ilmasto on asettanut tietyt rajat elämiselle ja elinkeinoille. Kylmä ilmasto ja lyhyt kasvukausi verrattuna etelämpien seutujen ilmastoon rajoittaa kasviviljelyä. Pohjoisella metsänrajalla asuminen asettaa omat ehtonsa ihmisen elämiselle. Valoisat kesäyöt sallivat jatkaa työpäivää, mutta kaamos taas rajoitti työntekoa. Valoisana aikana oli oltava toimeliaita, talvisydännä taas oli mahdollisuus ottaa rauhallisemmin. Kuitenkin myös kaamosaikana ja pimeällä saattoi tehdä paljonkin eri askareita. Poromies osasi pimeälläkin nylkeä poron. Tuskin kukaan koki kaamosaikaa ahdistavana, niinkuin etelästä tulleet ihmiset.</p>
-    <p>Perinteinen inarinsaamelainen elämänmuoto käsitti tyypillisimmillään talonpidon, jossa harjoitettiin poronhoitoa, pienimuotoista karjanhoitoa ja maanviljelystä, metsästystä, kalastusta ja marjastusta. Nämä elinkeinot olivat tiukasti sidoksissa vuodenaikojen vaihteluun. Inarinsaamelaiselle oli tyypillistä <em type="italic">varriistâllâm </em>, eli muuttaminen keväällä kesäpaikkaan ja syksyllä taas talvipaikkaan. Inarilainen elämäntapa oli siis vuorovaikutusta luonnon kanssa. </p>
-    <p>Kaikella toiminnalla oli aikansa. Työt oli tehtävä silloin kun se oli ajankohdan ja sään puolesta mahdollista. Esimerkiksi jäkälää saattoi nostaa vain ohuella tihkusateella tai sumusäällä. Liian märällä tai kuivalla säällä se ei onnistunut. Ajankohta oli tärkeä jopa kenkäheinän leikkuussa. Myös yöllä oli oltava valmiita työhön. Esim. kuivana kautena hauraaksi kuivunutta kortetta saattoi koota vain yökasteen aikana. Muina aikoina löytyi aina tekemistä, polttopuita, käsitöitä ym. Poronhoidossa vasominen, räkkä, karvan vaihtuminen, rykimäaika jne. olivat ajankohtiin liittyviä asioita, jotka määräsivät tehtävät työt.</p>
-    <p xml:lang="est">Arvoja</p>
-    <p>Inarinsaamelaisilla oli arvoja ja tapoja, joita ei ollut mihinkään kirjattu, mutta jotka otettiin huomioon elämisessä ja suhtautumisessa toisiin ihmisiin. Luonnon käytössä, kuten jäkälämailla, kalastuksessa tai hillanpoiminnassa oli talojen kesken merkitsemättömiä rajoja, joista ei välttämättä ollut edes sovittu, mutta joita ei hevillä ylitetty.</p>
-    <p>Inarinsaamelaisessa yhteisössä sai arvostusta henkilö, joka selviytyi hyvin luonnossa, osasi kulkea eksymättä. Tätä asiaa ilmaisee verbi <em type="italic">täiđiđ </em>, ja tällaisen taidon omaava henkilö on <em type="italic">taiđiš </em>. Tärkeinä pidettiin pyynti- ja poronhoitotaitoja, oli hyvä ampua tarkasti ja heittää hyvin suopungilla. Laajaa poron korvamerkkien tuntemista ja muistamista arvostettiin. Mainetta sai myös väsymätön hiihtäjä tai kävelijä. Näitä ominaisuuksia pidettiin niin tärkeinä, että niitä olisi pitänyt lapsesta saakka kehittää, niin kuin joskus vanhoina aikoina. Niinpä monikin vanhempi oli sitä mieltä, että monivuotinen koulussaolo estää kunnon poromieheksi kehittymisen. Käsityötaito ja kätevyys yleensäkin oli mm. puolison valinnassa eduksi. Naisen tuli työteliään lisäksi olla siivo, verevä ja pyöreämuotoinen. Aviomiesehdokkaalle oli eduksi, jos hän ei juopotellut eikä pelannut korttia. Puolisoehdokkaan tuli kuulua lisäksi hyvään sukuun. </p>
-    <p>Kaikkiin ihmisiin piti suhtautua kohteliaasti ja huomaavaisesti. Ei saanut puhua kenellekään sopimattomasti, pilkkaavasti tai loukkaavasti. Suomalaisiin suhtautuminen oli kahtalaista. Toisaalta annettiin arvoa esim. sivistyneisyydelle ja varakkuudelle, mutta toisaalta taas osaamattomuus saamelaisissa taidoissa johti aliarvostukseen. Saamelaisuutta pidettiin yleensäottaen arvossa, ja poromiehistä voitiin sanoa, että he vasta ovat kunnon saamelaisia.</p>
-    <p>Edellä kirjoitettu kuvaa tilannetta ennen motorisoitua ja tietoteknistä aikaa, ennen pitkiä koulutusjaksoja. Nykyiset inarinsaamelaiset ovat integroituneet hyvin nykyiseen, teknologiseen yhteiskuntaan. Saamelainen elämäntapa ja arvot eivät ole kuitenkaan kadonneet, ainakaan kaikilla, vaan niistä voi tunnistaa merkkejä nykyelämässäkin.</p>
-    <p><em type="italic">Matti Morottaja </em> </p>
-    <p>Seurujärvien kesäpaikka Käyräniemi.</p>
-    <p xml:lang="smn">Sammeli Morottaja nylkee koparaa.</p>
-    <p>
-      <em type="italic">Luontosuhde </em>
-    </p>
-    <p xml:lang="fkv">Takaisin ylös</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Elämäntapa</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>476</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/elamantapa/elamantapa.html</origFileName><parallel_text xml:lang="eng" location="elamantapa.html"/><parallel_text xml:lang="smn" location="elamantapa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">Sananlaskut</p>
+<p>Sään ennustaminen</p>
+<p xml:lang="est">Leikit</p>
+<p xml:lang="nob">Ruokaperinne</p>
+<p>Inarinsaamelaista elämäntapaa kuvaavat pitkän kehityksen läpikäyneet elinkeinot ja taito selviytyä luonnonolosuhteissa. Ilmasto on asettanut tietyt rajat elämiselle ja elinkeinoille. Kylmä ilmasto ja lyhyt kasvukausi verrattuna etelämpien seutujen ilmastoon rajoittaa kasviviljelyä. Pohjoisella metsänrajalla asuminen asettaa omat ehtonsa ihmisen elämiselle. Valoisat kesäyöt sallivat jatkaa työpäivää, mutta kaamos taas rajoitti työntekoa. Valoisana aikana oli oltava toimeliaita, talvisydännä taas oli mahdollisuus ottaa rauhallisemmin. Kuitenkin myös kaamosaikana ja pimeällä saattoi tehdä paljonkin eri askareita. Poromies osasi pimeälläkin nylkeä poron. Tuskin kukaan koki kaamosaikaa ahdistavana, niinkuin etelästä tulleet ihmiset.</p>
+<p>Perinteinen inarinsaamelainen elämänmuoto käsitti tyypillisimmillään talonpidon, jossa harjoitettiin poronhoitoa, pienimuotoista karjanhoitoa ja maanviljelystä, metsästystä, kalastusta ja marjastusta. Nämä elinkeinot olivat tiukasti sidoksissa vuodenaikojen vaihteluun. Inarinsaamelaiselle oli tyypillistä <em type="italic">varriistâllâm </em>, eli muuttaminen keväällä kesäpaikkaan ja syksyllä taas talvipaikkaan. Inarilainen elämäntapa oli siis vuorovaikutusta luonnon kanssa. </p>
+<p>Kaikella toiminnalla oli aikansa. Työt oli tehtävä silloin kun se oli ajankohdan ja sään puolesta mahdollista. Esimerkiksi jäkälää saattoi nostaa vain ohuella tihkusateella tai sumusäällä. Liian märällä tai kuivalla säällä se ei onnistunut. Ajankohta oli tärkeä jopa kenkäheinän leikkuussa. Myös yöllä oli oltava valmiita työhön. Esim. kuivana kautena hauraaksi kuivunutta kortetta saattoi koota vain yökasteen aikana. Muina aikoina löytyi aina tekemistä, polttopuita, käsitöitä ym. Poronhoidossa vasominen, räkkä, karvan vaihtuminen, rykimäaika jne. olivat ajankohtiin liittyviä asioita, jotka määräsivät tehtävät työt.</p>
+<p xml:lang="est">Arvoja</p>
+<p>Inarinsaamelaisilla oli arvoja ja tapoja, joita ei ollut mihinkään kirjattu, mutta jotka otettiin huomioon elämisessä ja suhtautumisessa toisiin ihmisiin. Luonnon käytössä, kuten jäkälämailla, kalastuksessa tai hillanpoiminnassa oli talojen kesken merkitsemättömiä rajoja, joista ei välttämättä ollut edes sovittu, mutta joita ei hevillä ylitetty.</p>
+<p>Inarinsaamelaisessa yhteisössä sai arvostusta henkilö, joka selviytyi hyvin luonnossa, osasi kulkea eksymättä. Tätä asiaa ilmaisee verbi <em type="italic">täiđiđ </em>, ja tällaisen taidon omaava henkilö on <em type="italic">taiđiš </em>. Tärkeinä pidettiin pyynti- ja poronhoitotaitoja, oli hyvä ampua tarkasti ja heittää hyvin suopungilla. Laajaa poron korvamerkkien tuntemista ja muistamista arvostettiin. Mainetta sai myös väsymätön hiihtäjä tai kävelijä. Näitä ominaisuuksia pidettiin niin tärkeinä, että niitä olisi pitänyt lapsesta saakka kehittää, niin kuin joskus vanhoina aikoina. Niinpä monikin vanhempi oli sitä mieltä, että monivuotinen koulussaolo estää kunnon poromieheksi kehittymisen. Käsityötaito ja kätevyys yleensäkin oli mm. puolison valinnassa eduksi. Naisen tuli työteliään lisäksi olla siivo, verevä ja pyöreämuotoinen. Aviomiesehdokkaalle oli eduksi, jos hän ei juopotellut eikä pelannut korttia. Puolisoehdokkaan tuli kuulua lisäksi hyvään sukuun. </p>
+<p>Kaikkiin ihmisiin piti suhtautua kohteliaasti ja huomaavaisesti. Ei saanut puhua kenellekään sopimattomasti, pilkkaavasti tai loukkaavasti. Suomalaisiin suhtautuminen oli kahtalaista. Toisaalta annettiin arvoa esim. sivistyneisyydelle ja varakkuudelle, mutta toisaalta taas osaamattomuus saamelaisissa taidoissa johti aliarvostukseen. Saamelaisuutta pidettiin yleensäottaen arvossa, ja poromiehistä voitiin sanoa, että he vasta ovat kunnon saamelaisia.</p>
+<p>Edellä kirjoitettu kuvaa tilannetta ennen motorisoitua ja tietoteknistä aikaa, ennen pitkiä koulutusjaksoja. Nykyiset inarinsaamelaiset ovat integroituneet hyvin nykyiseen, teknologiseen yhteiskuntaan. Saamelainen elämäntapa ja arvot eivät ole kuitenkaan kadonneet, ainakaan kaikilla, vaan niistä voi tunnistaa merkkejä nykyelämässäkin.</p>
+<p><em type="italic">Matti Morottaja </em> </p>
+<p>Seurujärvien kesäpaikka Käyräniemi.</p>
+<p>Sammeli Morottaja nylkee koparaa.</p>
+<p><em type="italic">Luontosuhde </em></p>
+<p xml:lang="fkv">Takaisin ylös</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

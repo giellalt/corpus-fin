@@ -1,42 +1,19 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Anaras - Elinkeinot - Vuotuismuutto</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Irja" lastname="Jefremoff" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>412</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/elinkeinot/vuotuismuutto.html</origFileName>
-    <parallel_text xml:lang="smn" location="vuotuismuutto.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vuotuismuutto</p>
-    <p xml:lang="est">Kalastus</p>
-    <p>Poronhoito</p>
-    <p>Inarinsaamelaiset ovat harjoittaneet vuotuismuuttoa (inarinsaameksi <em type="italic">varriistâllâm </em>) merkittävässä määrin <em type="italic">toiseen maailmansotaan </em>asti. Jo silloin muuttaminen oli etupäässä kahden paikan - kesä- ja talvipaikan - välillä tapahtuvaa. T.I. Itkosen, Ilmari Itkosen ja Samuli Paulaharjun muistiinpanot viime vuosisadan ensimmäisiltä vuosikymmeniltä kertovat, että monipolvisempaa vuotuiskiertoakin on harjoitettu. Joillakin kerrotaan olleen jopa kuusi eri asuinpaikkaa käsittänyt reitti. Kerrotaan tällaista reittiä muuttaneen perheen päämiehen sanoneen, että helpompaa on muuttaa suuri perhe paikasta toiseen kuin huolehtia perheen ruoan hankinnasta ja kuljettamisesta pyytöpaikoilta ja –vesiltä yhdelle asuinpaikalle. </p>
-    <p>Kesä- ja talvipaikan sijaintiin vaikuttivat tietysti <em type="italic">perinteiset sukualueet </em>Inarissa. Kesäpaikka sijaitsi Inarijärven rannalla – avoimilla niemillä tai saarissa, mutta myös muiden suurten järvien rannoilla oli perheiden kesäpaikkoja. Talvipaikka valittiin suojaiselta metsäseudulta, läheltä porojen talvilaitumia. Pettupuiden saannillakin oli merkitystä talvipaikan valinnassa. Jotkut ajattelivat myös turvallisuutta ja halusivat talvipaikan kätkeytyvän hyvin ympäröivään erämaahan. </p>
-    <p><span type="quote">”Varriminen”</span> jatkui tilojen perustamisen jälkeen</p>
-    <p>Kun perinteisiä sukualueita on haettu <em type="italic">kruununtiloiksi </em>, on näihin usein sisällytetty sekä kesä- että talvipaikka, ja vuotuismuutoa eli <span type="quote">”varrimista”</span> on jatkettu myös tilojen perustamisen jälkeen. Kesä- ja talvipaikkojen väli ei useinkaan ole ollut juuri viittä kilometriä pidempi. Ehkä käytännön syyt ovat varhemmin vaikuttaneet siihen, että kesäpaikat ovat olleet tilavia ja hyvin rakennettuja ja pihakentällä on ollut monenlaisia rakennuksia. </p>
-    <p>Kun inarinsaamelaiset jo 1800-luvulla omaksuivat suomalaisilta uudisasukkailta karjanpidon, on sekä kesä- että talvipaikkaan täytynyt rakentaa myös suojat kotieläimille. Samoin molemmat paikat oli varustettu välttämättömillä taloustarvikkeilla.</p>
-    <p>Muuttamaan lähdettiin usein viimeisillä keleillä, mutta pienimuotoisen maanviljelyksen yleistyttyä lähtöä kesäpaikalle saatettiin pitkittää niin, että peruna ennätettiin kylvää myös talvipaikalle. Viime vuosikymmeninä, 1950- ja 1960-luvuilla, kesäpaikalle päästiin muuttamaan sitten, kun lapset pääsivät koulusta kesälomalle. Jos vesireittiä voitiin käyttää muuttamisessa hyväksi, kuljetettiin veneillä raskaimpia tavaroita ja usein myös pieniä lapsia. Vaimoväki kuljetti maitse karjan yhdessä vanhempien lasten kanssa.</p>
-    <p>Apajien äärelle</p>
-    <p>Myös kesäpaikalla kasvatettiin perunaa ja juureksia kesäajan tarpeiksi. Pääasiallinen syy muuttamiseen oli pääsy veden ja <em type="italic">parempien apajapaikkojen äärelle </em>. Kevätkalaa kuivattiin tuulisilla paikoilla kun taas syyspuolella kalaa alettiin säilöä talven tarpeisiin suolaamalla. Kesäpaikasta käsin tehtiin heinät, leikattiin ja kuivattiin järvikortetta sekä nostettiin jäkälää. Talvella kelien aikana talvenvaraksi säilöttyjä ruokatavaroita samoin kuin karjan- ja poronruokaa noudettiin kesäpaikalta ja sen lähistöllä sijaitsevista varastoista tarpeen mukaan. </p>
-    <p>Inarinsaamelaiset ovat muuttaneet Partakon seudulla kesä- ja talvipaikkojen välillä aina 1970-luvulle, viimeisimmät vielä 2000-luvun alkupuolella. Asutuksen keskityttyä haja-asutusalueilta kyliin entiset asuinpaikat ovat jääneet suvuille kesäpaikkojen luonteisiksi myös nykypäivänä. <em type="italic">Irja Jefremoff </em> </p>
-    <p>Inka Sarre paistaa kakkua laakakivellä. Inarinsaamelaiset alkoivat siirtyä tupa-asujiksi 1700-luvun lopulla. Väinö Auer 1918.</p>
-    <p>Saijetsien kesäpaikka Nuoran-Juhani Inarin rannalla. T.I. Itkonen 1902.</p>
-    <p>Sammeli Sarren perheen talvipaikka Talvitupalompolo.</p>
-    <p xml:lang="fkv">Takaisin ylös</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Elinkeinot - Vuotuismuutto</title><genre code="facta"/><author><person firstname="Irja" lastname="Jefremoff" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>412</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/elinkeinot/vuotuismuutto.html</origFileName><parallel_text xml:lang="smn" location="vuotuismuutto.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vuotuismuutto</p>
+<p xml:lang="est">Kalastus</p>
+<p>Poronhoito</p>
+<p>Inarinsaamelaiset ovat harjoittaneet vuotuismuuttoa (inarinsaameksi <em type="italic">varriistâllâm </em>) merkittävässä määrin <em type="italic">toiseen maailmansotaan </em>asti. Jo silloin muuttaminen oli etupäässä kahden paikan - kesä- ja talvipaikan - välillä tapahtuvaa. T.I. Itkosen, Ilmari Itkosen ja Samuli Paulaharjun muistiinpanot viime vuosisadan ensimmäisiltä vuosikymmeniltä kertovat, että monipolvisempaa vuotuiskiertoakin on harjoitettu. Joillakin kerrotaan olleen jopa kuusi eri asuinpaikkaa käsittänyt reitti. Kerrotaan tällaista reittiä muuttaneen perheen päämiehen sanoneen, että helpompaa on muuttaa suuri perhe paikasta toiseen kuin huolehtia perheen ruoan hankinnasta ja kuljettamisesta pyytöpaikoilta ja –vesiltä yhdelle asuinpaikalle. </p>
+<p>Kesä- ja talvipaikan sijaintiin vaikuttivat tietysti <em type="italic">perinteiset sukualueet </em>Inarissa. Kesäpaikka sijaitsi Inarijärven rannalla – avoimilla niemillä tai saarissa, mutta myös muiden suurten järvien rannoilla oli perheiden kesäpaikkoja. Talvipaikka valittiin suojaiselta metsäseudulta, läheltä porojen talvilaitumia. Pettupuiden saannillakin oli merkitystä talvipaikan valinnassa. Jotkut ajattelivat myös turvallisuutta ja halusivat talvipaikan kätkeytyvän hyvin ympäröivään erämaahan. </p>
+<p><span type="quote">”Varriminen”</span> jatkui tilojen perustamisen jälkeen</p>
+<p>Kun perinteisiä sukualueita on haettu <em type="italic">kruununtiloiksi </em>, on näihin usein sisällytetty sekä kesä- että talvipaikka, ja vuotuismuutoa eli <span type="quote">”varrimista”</span> on jatkettu myös tilojen perustamisen jälkeen. Kesä- ja talvipaikkojen väli ei useinkaan ole ollut juuri viittä kilometriä pidempi. Ehkä käytännön syyt ovat varhemmin vaikuttaneet siihen, että kesäpaikat ovat olleet tilavia ja hyvin rakennettuja ja pihakentällä on ollut monenlaisia rakennuksia. </p>
+<p>Kun inarinsaamelaiset jo 1800-luvulla omaksuivat suomalaisilta uudisasukkailta karjanpidon, on sekä kesä- että talvipaikkaan täytynyt rakentaa myös suojat kotieläimille. Samoin molemmat paikat oli varustettu välttämättömillä taloustarvikkeilla.</p>
+<p>Muuttamaan lähdettiin usein viimeisillä keleillä, mutta pienimuotoisen maanviljelyksen yleistyttyä lähtöä kesäpaikalle saatettiin pitkittää niin, että peruna ennätettiin kylvää myös talvipaikalle. Viime vuosikymmeninä, 1950- ja 1960-luvuilla, kesäpaikalle päästiin muuttamaan sitten, kun lapset pääsivät koulusta kesälomalle. Jos vesireittiä voitiin käyttää muuttamisessa hyväksi, kuljetettiin veneillä raskaimpia tavaroita ja usein myös pieniä lapsia. Vaimoväki kuljetti maitse karjan yhdessä vanhempien lasten kanssa.</p>
+<p>Apajien äärelle</p>
+<p>Myös kesäpaikalla kasvatettiin perunaa ja juureksia kesäajan tarpeiksi. Pääasiallinen syy muuttamiseen oli pääsy veden ja <em type="italic">parempien apajapaikkojen äärelle </em>. Kevätkalaa kuivattiin tuulisilla paikoilla kun taas syyspuolella kalaa alettiin säilöä talven tarpeisiin suolaamalla. Kesäpaikasta käsin tehtiin heinät, leikattiin ja kuivattiin järvikortetta sekä nostettiin jäkälää. Talvella kelien aikana talvenvaraksi säilöttyjä ruokatavaroita samoin kuin karjan- ja poronruokaa noudettiin kesäpaikalta ja sen lähistöllä sijaitsevista varastoista tarpeen mukaan. </p>
+<p>Inarinsaamelaiset ovat muuttaneet Partakon seudulla kesä- ja talvipaikkojen välillä aina 1970-luvulle, viimeisimmät vielä 2000-luvun alkupuolella. Asutuksen keskityttyä haja-asutusalueilta kyliin entiset asuinpaikat ovat jääneet suvuille kesäpaikkojen luonteisiksi myös nykypäivänä. <em type="italic">Irja Jefremoff </em> </p>
+<p>Inka Sarre paistaa kakkua laakakivellä. Inarinsaamelaiset alkoivat siirtyä tupa-asujiksi 1700-luvun lopulla. Väinö Auer 1918.</p>
+<p>Saijetsien kesäpaikka Nuoran-Juhani Inarin rannalla. T.I. Itkonen 1902.</p>
+<p>Sammeli Sarren perheen talvipaikka Talvitupalompolo.</p>
+<p xml:lang="fkv">Takaisin ylös</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

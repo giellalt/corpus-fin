@@ -1,74 +1,31 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>730</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Magsjuka-hos-smabarn--vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="f12.html"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Lapsen vatsatauti – mitä voi tehdä itse? / Magsjuka hos små barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Lapsen vatsatauti – mitä voi tehdä itse?Magsjuka hos små barn – vad kan man göra själv?</p>
-    <list>
-      <p type="listitem">Lapsi tarvitsee nestettä. Joskus se onnistuu helpoiten antamalla juomaa lusikalla usein ja pieniä määriä kerralla.</p>
-    </list>
-    <p type="title">Nopeasti alkavat oireet</p>
-    <p>Lasten vatsataudin oireita ovat tavallisesti ripuli ja oksentelu. Heillä saattaa ilmetä myös kuumetta ja vatsakipuja. Vatsatauti johtuu yleensä viruksen aiheuttamasta tartunnasta. Pienillä lapsilla tarkoitetaan tässä tekstissä alle 6-vuotiaita lapsia.</p>
-    <p>Vaivat ilmenevät tavallisesti pari päivää tartunnan saamisen jälkeen ja alkavat nopeasti. Usein monet perheenjäsenistä tai esikoululaisista sairastuvat. Tavallisesti tartunta menee ohi muutamassa päivässä. Oksentelu kestää yleensä vuorokauden, mutta ripulointi saattaa kestää viikon.</p>
-    <p type="title">Lapset ovat herkkiä nestehukalle</p>
-    <p>Oksenteleva ja ripulia poteva menettää nestettä ja suoloja. Pienet lapset ovat nestehukalle paljon herkempiä kuin aikuiset. Jos pieni lapsi menettää nestettä enemmän kuin saa sisäänsä, lapsen vointi voi heikentyä nopeasti. Kovassa kuumeessa lapsi menettää nestettä vielä enemmän. Sen vuoksi lapselle tulee antaa juotavaa heti tartunnan alkuvaiheessa. Pienimmät lapset ovat erityisen herkkiä nestehukalle.</p>
-    <p type="title">Jos lasta imetetään tai syötetään pullosta</p>
-    <p>Jos lasta imetetään, imetystä voi jatkaa. Lasta kannattaa vatsataudin aikana imettää normaalia useammin. Vaikka lapsi oksentaisi, imetystä kannattaa jatkaa ja imettää useasti päivässä. Sama koskee myös lapsia, joita syötetään pullosta. Jos vauva ei ime rintaa, maitoa on pumpattava ja yritettävä tarjota lusikalla. Maitoa voi pumpata rinnasta käsin tai pumpulla. Käyttöön soveltuvia pumppuja voi ostaa apteekista.</p>
-    <p>Jos lapsella on voimakas ripuli, pelkkä rintamaito ei riitä, vaan lapsi tarvitsee myös lisänesteytystä, ts. nestekorviketta.</p>
-    <p type="title">Lisänesteytys</p>
-    <p>Jos lapsi oksentaa runsaasti, on paras antaa tälle nestekorviketta. Tätä varten voi ostaa apteekista ns. ripulijuomaa. Juoman sisältämien suolojen ansiosta kehon nestetasapaino palautuu normaaliksi.</p>
-    <p>Jos lapsi oksentaa runsaasti, hän tarvitsee noin kaksi teelusikallista nestettä joka viides minuutti. Päivittäinen nestetarve on suurempi kuin yleisesti kuvitellaan, sillä esimerkiksi yksivuotias lapsi tarvitsee nestettä reilun litran vuorokaudessa.</p>
-    <p>Joskus lapsi on helpompi saada juomaan joitain muuta juomaa. Siinä tapauksessa lapselle voi antaa sellaista juotavaa, mitä hän suostuu ottamaan. Pääasia on, että lapsi saa kehoonsa nestettä. Voimakkaasti makeutettuja juomia, kuten virvoitusjuomia ja mehuja, tulee kuitenkin välttää, sillä sokerin liiallinen saanti saattaa aiheuttaa ripulia. Älä myöskään anna lapselle kevytjuomia, koska ne eivät sisällä lainkaan sokeria.</p>
-    <p>Lapsi tarvitsee nestettä. Joskus se onnistuu helpoiten antamalla juomaa lusikalla usein ja pieniä määriä kerralla.</p>
-    <p type="title">Kun oksentelu on loppunut, mutta ripuli jatkuu</p>
-    <p>On tavallista, että oksentelu päättyy ensin, kun taas ripuli jatkuu vielä jonkin aikaa. Jos ripuloivaa lasta imetetään, imetystä voi jatkaa normaaliin tapaan. Jos lasta ei imetetä, tälle voidaan antaa äidinmaidonkorviketta ja riisi- tai maissivelliä lapsen iän mukaan. Anna aluksi pieniä määriä kerralla nähdäksesi, pysyykö ruoka sisällä.</p>
-    <p>Kun lapsi alkaa taas syödä, hänelle kannattaa antaa tavallista ruokaa, johon on sekoitettu ylimääräistä rasvaa. Jos haluaa kokeilla vatsaa kovettavaa ruokaa, yli puolivuotiaalle lapselle voi antaa porkkanasoseesta ja vedestä tehtyä keittoa. Muista, että hedelmät tekevät ulosteen löysäksi, ja että kovan ripulin aikana pitää välttää täysjyvävelliä. Älä anna runsaskuituista ruokaa ennen kuin lapsi on täysin terve.</p>
-    <p type="title">Jos oksentelu alkaa uudestaan</p>
-    <p>Jos lapsi alkaa oksennella uudestaan, anna hänelle jälleen lisänesteytystä. Tarkkaile kuitenkin samalla, että lapsi ei muutu veltoksi tai että tämän vointi ei muulla tavoin heikkene.</p>
-    <p type="title">Kuinka tartuntoja voi ehkäistä?</p>
-    <p>Koska vatsatauti tarttuu erittäin herkästi, koko perheen kannattaa pestä kätensä nestesaippualla ennen ruokailua ja aina vessassa käynnin jälkeen. On myös hyvä, jos jokainen käyttää omaa käsipyyhettä tai paperipyyhkeitä. WC-istuin kannattaa pitää puhtaana.</p>
-    <p>Jos lapsi käyttää vaippoja, vaipat on hyvä sulkea muovipussiin ennen roska-astiaan heittämistä. Puhdista hoitopöytä aina käytön jälkeen, ja pese kädet huolellisesti vaipanvaihdon jälkeen.</p>
-    <p>Oksentelevan tai ripuloivan lapsen on pysyttävä kotona. Jos lapsi on esikoulussa tai perhepäiväkodissa, hän voi mennä sinne vasta sitten, kun hän ei ole oksentanut tai ripuloinut kahteen päivään.</p>
-    <p type="title">Ehkä tarpeen ottaa yhteys sairaanhoitoon</p>
-    <p>Jos lapsi ripuloi ja oksentaa kovin usein ja kärsii selvästi nestehukasta, on ts. hyvin väsynyt ja välinpitämätön ympäristöä kohtaan, pissaa vähän tai harvoin eikä jaksa leikkiä, tulee heti hakeutua terveyskeskukseen tai akuuttivastaanotolle. Terveyskeskukseen tulee ottaa yhteyttä heti myös silloin, jos lapsella on ripulin ja oksentelun lisäksi korkea kuume tai voimakkaita vatsakipuja tai jos ripulin seassa on verta tai limaa.</p>
-    <p>On otettava yhteys sairaanhoitoneuvontaan tai terveyskeskukseen myös silloin, jos lapsen tila ei ole kohentunut vuorokauden aikana tai jos lapsi on vatsataudin jälkeen pirteä, mutta uloste on löysää yli kahden viikon ajan.</p>
-    <p>Hoitoon täytyy hakeutua aina, jos alle kuuden kuukauden ikäinen lapsi kärsii ripulista ja oksentelusta.</p>
-    <p>Jos lapsi on sairastunut ripuliin ulkomaanmatkan yhteydessä, tulee ottaa yhteyttä terveyskeskukseen tai lastenlääkärin vastaanotolle.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>726</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Magsjuka-hos-smabarn--vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="f12.html"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Lapsen vatsatauti – mitä voi tehdä itse? / Magsjuka hos små barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Lapsen vatsatauti – mitä voi tehdä itse?Magsjuka hos små barn – vad kan man göra själv?</p>
+<list><p type="listitem">Lapsi tarvitsee nestettä. Joskus se onnistuu helpoiten antamalla juomaa lusikalla usein ja pieniä määriä kerralla.</p>
+</list><p type="title">Nopeasti alkavat oireet</p>
+<p>Lasten vatsataudin oireita ovat tavallisesti ripuli ja oksentelu. Heillä saattaa ilmetä myös kuumetta ja vatsakipuja. Vatsatauti johtuu yleensä viruksen aiheuttamasta tartunnasta. Pienillä lapsilla tarkoitetaan tässä tekstissä alle 6-vuotiaita lapsia.</p>
+<p>Vaivat ilmenevät tavallisesti pari päivää tartunnan saamisen jälkeen ja alkavat nopeasti. Usein monet perheenjäsenistä tai esikoululaisista sairastuvat. Tavallisesti tartunta menee ohi muutamassa päivässä. Oksentelu kestää yleensä vuorokauden, mutta ripulointi saattaa kestää viikon.</p>
+<p type="title">Lapset ovat herkkiä nestehukalle</p>
+<p>Oksenteleva ja ripulia poteva menettää nestettä ja suoloja. Pienet lapset ovat nestehukalle paljon herkempiä kuin aikuiset. Jos pieni lapsi menettää nestettä enemmän kuin saa sisäänsä, lapsen vointi voi heikentyä nopeasti. Kovassa kuumeessa lapsi menettää nestettä vielä enemmän. Sen vuoksi lapselle tulee antaa juotavaa heti tartunnan alkuvaiheessa. Pienimmät lapset ovat erityisen herkkiä nestehukalle.</p>
+<p type="title">Jos lasta imetetään tai syötetään pullosta</p>
+<p>Jos lasta imetetään, imetystä voi jatkaa. Lasta kannattaa vatsataudin aikana imettää normaalia useammin. Vaikka lapsi oksentaisi, imetystä kannattaa jatkaa ja imettää useasti päivässä. Sama koskee myös lapsia, joita syötetään pullosta. Jos vauva ei ime rintaa, maitoa on pumpattava ja yritettävä tarjota lusikalla. Maitoa voi pumpata rinnasta käsin tai pumpulla. Käyttöön soveltuvia pumppuja voi ostaa apteekista.</p>
+<p>Jos lapsella on voimakas ripuli, pelkkä rintamaito ei riitä, vaan lapsi tarvitsee myös lisänesteytystä, ts. nestekorviketta.</p>
+<p type="title">Lisänesteytys</p>
+<p>Jos lapsi oksentaa runsaasti, on paras antaa tälle nestekorviketta. Tätä varten voi ostaa apteekista ns. ripulijuomaa. Juoman sisältämien suolojen ansiosta kehon nestetasapaino palautuu normaaliksi.</p>
+<p>Jos lapsi oksentaa runsaasti, hän tarvitsee noin kaksi teelusikallista nestettä joka viides minuutti. Päivittäinen nestetarve on suurempi kuin yleisesti kuvitellaan, sillä esimerkiksi yksivuotias lapsi tarvitsee nestettä reilun litran vuorokaudessa.</p>
+<p>Joskus lapsi on helpompi saada juomaan joitain muuta juomaa. Siinä tapauksessa lapselle voi antaa sellaista juotavaa, mitä hän suostuu ottamaan. Pääasia on, että lapsi saa kehoonsa nestettä. Voimakkaasti makeutettuja juomia, kuten virvoitusjuomia ja mehuja, tulee kuitenkin välttää, sillä sokerin liiallinen saanti saattaa aiheuttaa ripulia. Älä myöskään anna lapselle kevytjuomia, koska ne eivät sisällä lainkaan sokeria.</p>
+<p>Lapsi tarvitsee nestettä. Joskus se onnistuu helpoiten antamalla juomaa lusikalla usein ja pieniä määriä kerralla.</p>
+<p type="title">Kun oksentelu on loppunut, mutta ripuli jatkuu</p>
+<p>On tavallista, että oksentelu päättyy ensin, kun taas ripuli jatkuu vielä jonkin aikaa. Jos ripuloivaa lasta imetetään, imetystä voi jatkaa normaaliin tapaan. Jos lasta ei imetetä, tälle voidaan antaa äidinmaidonkorviketta ja riisi- tai maissivelliä lapsen iän mukaan. Anna aluksi pieniä määriä kerralla nähdäksesi, pysyykö ruoka sisällä.</p>
+<p>Kun lapsi alkaa taas syödä, hänelle kannattaa antaa tavallista ruokaa, johon on sekoitettu ylimääräistä rasvaa. Jos haluaa kokeilla vatsaa kovettavaa ruokaa, yli puolivuotiaalle lapselle voi antaa porkkanasoseesta ja vedestä tehtyä keittoa. Muista, että hedelmät tekevät ulosteen löysäksi, ja että kovan ripulin aikana pitää välttää täysjyvävelliä. Älä anna runsaskuituista ruokaa ennen kuin lapsi on täysin terve.</p>
+<p type="title">Jos oksentelu alkaa uudestaan</p>
+<p>Jos lapsi alkaa oksennella uudestaan, anna hänelle jälleen lisänesteytystä. Tarkkaile kuitenkin samalla, että lapsi ei muutu veltoksi tai että tämän vointi ei muulla tavoin heikkene.</p>
+<p type="title">Kuinka tartuntoja voi ehkäistä?</p>
+<p>Koska vatsatauti tarttuu erittäin herkästi, koko perheen kannattaa pestä kätensä nestesaippualla ennen ruokailua ja aina vessassa käynnin jälkeen. On myös hyvä, jos jokainen käyttää omaa käsipyyhettä tai paperipyyhkeitä. WC-istuin kannattaa pitää puhtaana.</p>
+<p>Jos lapsi käyttää vaippoja, vaipat on hyvä sulkea muovipussiin ennen roska-astiaan heittämistä. Puhdista hoitopöytä aina käytön jälkeen, ja pese kädet huolellisesti vaipanvaihdon jälkeen.</p>
+<p>Oksentelevan tai ripuloivan lapsen on pysyttävä kotona. Jos lapsi on esikoulussa tai perhepäiväkodissa, hän voi mennä sinne vasta sitten, kun hän ei ole oksentanut tai ripuloinut kahteen päivään.</p>
+<p type="title">Ehkä tarpeen ottaa yhteys sairaanhoitoon</p>
+<p>Jos lapsi ripuloi ja oksentaa kovin usein ja kärsii selvästi nestehukasta, on ts. hyvin väsynyt ja välinpitämätön ympäristöä kohtaan, pissaa vähän tai harvoin eikä jaksa leikkiä, tulee heti hakeutua terveyskeskukseen tai akuuttivastaanotolle. Terveyskeskukseen tulee ottaa yhteyttä heti myös silloin, jos lapsella on ripulin ja oksentelun lisäksi korkea kuume tai voimakkaita vatsakipuja tai jos ripulin seassa on verta tai limaa.</p>
+<p>On otettava yhteys sairaanhoitoneuvontaan tai terveyskeskukseen myös silloin, jos lapsen tila ei ole kohentunut vuorokauden aikana tai jos lapsi on vatsataudin jälkeen pirteä, mutta uloste on löysää yli kahden viikon ajan.</p>
+<p>Hoitoon täytyy hakeutua aina, jos alle kuuden kuukauden ikäinen lapsi kärsii ripulista ja oksentelusta.</p>
+<p>Jos lapsi on sairastunut ripuliin ulkomaanmatkan yhteydessä, tulee ottaa yhteyttä terveyskeskukseen tai lastenlääkärin vastaanotolle.</p>
+</body></document>

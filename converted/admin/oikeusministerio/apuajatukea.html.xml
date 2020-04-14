@@ -1,46 +1,22 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Apua ja tukea - 
+<document xml:lang="fin" id="no_id"><header><title>Apua ja tukea - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>406</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/fi/index/esitteet/josjoudutrikoksenuhriksi/apuajatukea.html</origFileName>
-    <parallel_text xml:lang="eng" location="apuajatukea.html"/>
-    <parallel_text xml:lang="sme" location="veahkkijadoarjja.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Jos joudut rikoksen uhriksi</p>
-    <p type="title">Apua ja tukea</p>
-    <p type="title" xml:lang="fkv">Tukipalvelut</p>
-    <p>Uhri voi tarvita lääkärin apua tai muita sosiaali- ja terveydenhuollon palveluita, kuten sosiaalipäivystystä, sairaalahoitoa sekä fyysistä ja psyykkistä kuntoutusta. Uhri voi käyttää näitä palveluja samoilla edellytyksillä kuin muut asiakkaat.</p>
-    <p>Monet järjestöt tarjoavat rikoksen uhreille tukea, neuvontaa ja ohjausta. Rikosuhripäivystys antaa kaikenlaisiin rikoksiin ja rikosprosessiin liittyvää apua sekä uhrin oikeuksien käyttämisen kannalta olennaista neuvontaa. Lähisuhdeväkivallan uhrit voivat saada suojaa ja tukea turvakodeista. Joillakin paikkakunnilla on tarjolla erityistukea seksuaalirikoksen uhreille ja maahanmuuttajataustaisille naisille. Ihmiskaupan uhreille on erillinen auttamisjärjestelmä, johon he voivat päästä tietyillä edellytyksillä.</p>
-    <p>Uhri voi ottaa tukipalveluihin yhteyttä, vaikka ei tekisikään rikosilmoitusta. Jos uhri antaa luvan, poliisi tai muu esitutkintaviranomainen voi välittää hänen yhteystietonsa tukipalveluun, josta otetaan häneen yhteyttä.</p>
-    <p>Keskeiset tukipalveluiden yhteystiedot löytyvät osoitteesta: www.oikeus.fi/tukipalvelut</p>
-    <p type="title" xml:lang="fkv">Tukihenkilö</p>
-    <p>Uhri voi käyttää tukihenkilöä rikosasian käsittelyn eri vaiheissa. Uhri voi pyytää tukihenkilöksi haluamansa henkilön. Esimerkiksi Rikosuhripäivystyksestä voi saada maksuttoman, tehtävään koulutetun tukihenkilön. Tukihenkilö saa olla läsnä kuulusteluissa ja oikeudenkäynnissä, mutta läsnäoloa voidaan joissakin tilanteissa rajoittaa.</p>
-    <p type="title">Oikeudellinen apu</p>
-    <p>Uhrilla on oikeus käyttää oikeudellista avustajaa rikosilmoituksen tekemisessä, kuulustelussa ja oikeudenkäynnissä. Avustajana saa toimia yksityinen asianajaja, valtion oikeusaputoimistossa työskentelevä julkinen oikeusavustaja tai luvan saanut oikeudenkäyntiavustaja.</p>
-    <p>Pieni- ja keskituloisilla voi olla mahdollisuus saada valtion oikeusapua. Tällöin avustajan palkkion maksaa osaksi tai kokonaan valtio. Oikeusapua voi hakea oikeusaputoimistosta tai käyttäen sähköistä asiointipalvelua www.oikeus.fi/oikeusapu . Uhri voi myös pyytää asianajo- tai lakiasiaintoimistoa hakemaan oikeusapua hänen puolestaan.</p>
-    <p>Oikeusaputoimisto selvittää hakijan taloudelliset olosuhteet. Oikeusapuun kuuluu muun muassa neuvonta ja avustaminen oikeudenkäynnissä. Oikeusapua voi saada asian kaikissa vaiheissa.</p>
-    <p>Tuomioistuin voi tietyin edellytyksin määrätä lähisuhdeväkivallan, seksuaalirikoksen taikka henkeen, terveyteen tai vapauteen kohdistuvan vakavan rikoksen uhrille tuloista riippumatta oikeudenkäyntiavustajan ja tukihenkilön. Tällöin palkkion maksaa valtio uhrin tuloista riippumatta.</p>
-    <p>Lisätietoa löytyy osoitteesta www.oikeus.fi/oikeusapu .</p>
-    <p type="title">Tulkkaus ja käännökset</p>
-    <p>Jokaisella on oikeus käyttää esitutkinnassa ja oikeudenkäynnissä suomea tai ruotsia. Saamelaisilla on kotiseutualueellaan oikeus käyttää saamen kieltä. Viranomaisen on tarvittaessa järjestettävä tulkkaus.</p>
-    <p>Muunkielisen uhrin on saatava käyttää kaikissa rikoksen selvittämiseen liittyvissä tilanteissa kieltä, jota hän osaa. Tarvittaessa viranomaisen on järjestettävä uhrille tulkkaus jollekin hänen osaamalleen kielelle. Tulkilla on vaitiolovelvollisuus. Tulkin palkkion maksaa valtio.</p>
-    <p>Uhri voi pyytää käännöstä tietyistä keskeisistä asiakirjoista. Käännös voidaan antaa suullisesti, kun oikeusturva ei vaadi asiakirjan kääntämistä kirjallisesti. Joissakin tapauksissa uhrille voidaan kääntää asiakirjan osa tai asiakirjasta tehty yhteenveto. Esitutkinnassa uhri voi saada käännöksen rikosilmoituksen kirjallisesta vahvistuksesta, päätöksestä lopettaa esitutkinta ja tarvittaessa muusta asian kannalta olennaisesta asiakirjasta. Syyttäjältä uhri voi saada käännöksen päätöksestä olla nostamatta syytettä. Tuomioistuimessa uhri voi saada käännöksen istunnon aikaa ja paikkaa koskevasta ilmoituksesta, tuomiosta ja tarvittaessa muusta asian kannalta olennaisesta asiakirjasta.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>406</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/josjoudutrikoksenuhriksi/apuajatukea.html</origFileName><parallel_text xml:lang="eng" location="apuajatukea.html"/><parallel_text xml:lang="sme" location="veahkkijadoarjja.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Jos joudut rikoksen uhriksi</p>
+<p type="title">Apua ja tukea</p>
+<p type="title">Tukipalvelut</p>
+<p>Uhri voi tarvita lääkärin apua tai muita sosiaali- ja terveydenhuollon palveluita, kuten sosiaalipäivystystä, sairaalahoitoa sekä fyysistä ja psyykkistä kuntoutusta. Uhri voi käyttää näitä palveluja samoilla edellytyksillä kuin muut asiakkaat.</p>
+<p>Monet järjestöt tarjoavat rikoksen uhreille tukea, neuvontaa ja ohjausta. Rikosuhripäivystys antaa kaikenlaisiin rikoksiin ja rikosprosessiin liittyvää apua sekä uhrin oikeuksien käyttämisen kannalta olennaista neuvontaa. Lähisuhdeväkivallan uhrit voivat saada suojaa ja tukea turvakodeista. Joillakin paikkakunnilla on tarjolla erityistukea seksuaalirikoksen uhreille ja maahanmuuttajataustaisille naisille. Ihmiskaupan uhreille on erillinen auttamisjärjestelmä, johon he voivat päästä tietyillä edellytyksillä.</p>
+<p>Uhri voi ottaa tukipalveluihin yhteyttä, vaikka ei tekisikään rikosilmoitusta. Jos uhri antaa luvan, poliisi tai muu esitutkintaviranomainen voi välittää hänen yhteystietonsa tukipalveluun, josta otetaan häneen yhteyttä.</p>
+<p>Keskeiset tukipalveluiden yhteystiedot löytyvät osoitteesta: www.oikeus.fi/tukipalvelut</p>
+<p type="title" xml:lang="fkv">Tukihenkilö</p>
+<p>Uhri voi käyttää tukihenkilöä rikosasian käsittelyn eri vaiheissa. Uhri voi pyytää tukihenkilöksi haluamansa henkilön. Esimerkiksi Rikosuhripäivystyksestä voi saada maksuttoman, tehtävään koulutetun tukihenkilön. Tukihenkilö saa olla läsnä kuulusteluissa ja oikeudenkäynnissä, mutta läsnäoloa voidaan joissakin tilanteissa rajoittaa.</p>
+<p type="title">Oikeudellinen apu</p>
+<p>Uhrilla on oikeus käyttää oikeudellista avustajaa rikosilmoituksen tekemisessä, kuulustelussa ja oikeudenkäynnissä. Avustajana saa toimia yksityinen asianajaja, valtion oikeusaputoimistossa työskentelevä julkinen oikeusavustaja tai luvan saanut oikeudenkäyntiavustaja.</p>
+<p>Pieni- ja keskituloisilla voi olla mahdollisuus saada valtion oikeusapua. Tällöin avustajan palkkion maksaa osaksi tai kokonaan valtio. Oikeusapua voi hakea oikeusaputoimistosta tai käyttäen sähköistä asiointipalvelua www.oikeus.fi/oikeusapu . Uhri voi myös pyytää asianajo- tai lakiasiaintoimistoa hakemaan oikeusapua hänen puolestaan.</p>
+<p>Oikeusaputoimisto selvittää hakijan taloudelliset olosuhteet. Oikeusapuun kuuluu muun muassa neuvonta ja avustaminen oikeudenkäynnissä. Oikeusapua voi saada asian kaikissa vaiheissa.</p>
+<p>Tuomioistuin voi tietyin edellytyksin määrätä lähisuhdeväkivallan, seksuaalirikoksen taikka henkeen, terveyteen tai vapauteen kohdistuvan vakavan rikoksen uhrille tuloista riippumatta oikeudenkäyntiavustajan ja tukihenkilön. Tällöin palkkion maksaa valtio uhrin tuloista riippumatta.</p>
+<p>Lisätietoa löytyy osoitteesta www.oikeus.fi/oikeusapu .</p>
+<p type="title">Tulkkaus ja käännökset</p>
+<p>Jokaisella on oikeus käyttää esitutkinnassa ja oikeudenkäynnissä suomea tai ruotsia. Saamelaisilla on kotiseutualueellaan oikeus käyttää saamen kieltä. Viranomaisen on tarvittaessa järjestettävä tulkkaus.</p>
+<p>Muunkielisen uhrin on saatava käyttää kaikissa rikoksen selvittämiseen liittyvissä tilanteissa kieltä, jota hän osaa. Tarvittaessa viranomaisen on järjestettävä uhrille tulkkaus jollekin hänen osaamalleen kielelle. Tulkilla on vaitiolovelvollisuus. Tulkin palkkion maksaa valtio.</p>
+<p>Uhri voi pyytää käännöstä tietyistä keskeisistä asiakirjoista. Käännös voidaan antaa suullisesti, kun oikeusturva ei vaadi asiakirjan kääntämistä kirjallisesti. Joissakin tapauksissa uhrille voidaan kääntää asiakirjan osa tai asiakirjasta tehty yhteenveto. Esitutkinnassa uhri voi saada käännöksen rikosilmoituksen kirjallisesta vahvistuksesta, päätöksestä lopettaa esitutkinta ja tarvittaessa muusta asian kannalta olennaisesta asiakirjasta. Syyttäjältä uhri voi saada käännöksen päätöksestä olla nostamatta syytettä. Tuomioistuimessa uhri voi saada käännöksen istunnon aikaa ja paikkaa koskevasta ilmoituksesta, tuomiosta ja tarvittaessa muusta asian kannalta olennaisesta asiakirjasta.</p>
+</body></document>

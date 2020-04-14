@@ -1,64 +1,30 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>522</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Tander/Brushing-childrens-teeth</origFileName>
-    <parallel_text xml:lang="eng" location="brushing-childrens-teeth.html"/>
-    <parallel_text xml:lang="rus" location="brushing-childrens-teeth.html"/>
-    <parallel_text xml:lang="swe" location="borsta-tander-pa-barn.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Lasten hampaiden harjaaminen / Borsta tänder på barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Lasten hampaiden harjaaminenBorsta tänder på barn</p>
-    <p type="title">Toimi näin</p>
-    <list>
-      <p type="listitem">Lapsi voi seisoa tai istua aikuisen polvella ja kallistaa päätään vähän taaksepäin. Näet hampaat paremmin, kun levität hieman suupieliä.</p>
-      <p type="listitem">Pidä harjaa vinossa niin, että ylemmät harjakset ulottuvat ienrajaan. Käytä pieniä, kevyitä liikkeitä.</p>
-      <p type="listitem">Pidä harjaa suoraan ulospäin etuhampaita harjatessasi.</p>
-    </list>
-    <p type="title">Totuta lapsi jo varhain</p>
-    <p>Hampaiden harjaaminen on hyvä aloittaa heti, kun lapsi on saanut ensimmäisen hampaansa. Hampaiden harjaamisesta tulee luonnollinen osa arkea, kun lapsi tottuu siihen pienestä pitäen.</p>
-    <p>Pikkulasten kohdalla tärkeintä on se, että lapsi tottuu pitämään harjaa suussaan. Kun ensimmäinen maitohammas puhkeaa, on aika aloittaa järjestelmällisempi harjaaminen. Ongelmia ei yleensä ole, jos harjaaminen aloitetaan varhain, se tehdään varovasti ja lapsi saa leikkiä harjalla. Ota tavaksi hampaiden harjaus kaksi kertaa päivässä: aamiaisen jälkeen ja illalla ennen nukkumaanmenoa.</p>
-    <p type="title">Hammasharja ja hammastahna</p>
-    <p>Käytä pientä ja pehmeää harjaa. Lapsi voi aluksi kokea hammastahnan maun voimakkaana. Voit kokeilla miedonmakuista tahnaa ja käyttää sitä vain hyvin vähän. Kun lapsi saa ensimmäiset maitohampaansa, lapsen oman pikkusormen kynnen verran tahnaa riittää. On tärkeää, että hammastahna sisältää hampaita vahvistavaa fluoria.</p>
-    <p type="title">Näin ulotut hampaisiin paremmin</p>
-    <p>Pikkulasten hampaita harjattaessa lapsi voi maata hoitopöydällä tai sängyssä, mielellään pää aikuisen polvella. Useimmat lapset avaavat suunsa automaattisesti, jos aikuinen vie sormensa varovaisesti lapsen suuhun pitkin posken sisäpintaa. Käytä vain hyvin vähän vettä. Pikkulapset eivät kykene huuhtelemaan suutaan.</p>
-    <p type="title">Hyvä asento vähän vanhemmille lapsille</p>
-    <p>Vähän vanhemmat lapset voivat seisoa ja aikuinen voi istua niin, että lapsi kallistaa hiukan päätään aikuisen olkapäätä ja käsivartta vasten. Joskus on parempi, että lapsi istuu polvella.</p>
-    <p>Näet suuhun paremmin, jos avaat hieman lapsen suupieltä yhdellä tai kahdella sormella samalla kuin viet sormet pitkin posken sisäpintaa.</p>
-    <p type="title">Myös isommat lapset tarvitsevat apua</p>
-    <p>Myös isommat lapset voivat pitää päätään aikuisen polvella. Silloin on helppo nähdä suuhun ja ulottua takimmaisiin hampaisiin ja lapsen on mukava olla.</p>
-    <p>Lapsen on hyvä opetella jo aikaisin harjaamaan hampaat itse, mutta hän tarvitsee aikuisen apua 10-12 vuoden ikään saakka.</p>
-    <p type="title">Harjaa oikein</p>
-    <p>Tartu kynäotteella harjasta. Pidä harja vinossa niin että reunaharjakset koskettavat ientä. Harjaa vaakasuoraan edestakaisin kevyellä ja pienellä liikkeellä yksi hammas kerralla. Harjaa sisäpinnat, ulkopinnat ja purupinnat.</p>
-    <p>Kun harjaat ylä- ja alaleuan hampaita, pidä harja suoraan ulospäin. Varmista, että harja ulottuu ikeniin. Älä paina harjalla liian voimakkaasti ja käytä koko ajan pieniä liikkeitä.</p>
-    <p type="title">Anna lapsen purskutella vaahtoa</p>
-    <p>Isompien lasten on hyvä lopettaa hampaiden pesu purskuttelemalla hammastahnan vaahtoa ja pientä määrää vettä hampaiden välissä.</p>
-    <p type="title">Sähköhammasharja</p>
-    <p>Myös lapset voivat käyttää sähköhammasharjaa. Useimmiten harjan painetta hampaiden pintaa vasten täytyy säädellä ja siinä lapset tarvitsevat apua 10-12-vuotiaiksi.</p>
-    <p type="title">Lasten hampaiden harjaaminen ei ole aina helppoa</p>
-    <p>Lapsen hampaiden harjaaminen voi olla hankalaa tietyissä kehitysvaiheissa. Lapsen oma tahto ja aikuisen kärsivällisyys on monta kertaa koetuksella. Kannattaa yrittää harjata niin hyvin kuin pystyy. Näissä tilanteissa voi riittää, että harjaa vain käytetään suussa. Tällaisissa vaiheissa kannattaa myös välttää turhien herkkujen tarjoamista.</p>
-    <p>Hyvä vihje on antaa lapselle oma harja, jolla hän voi harjata ja jota hän voi pureskella, kun aikuinen samalla käyttää toista harjaa varsinaiseen hampaiden pesuun. Toinen keino on auttaa lasta illalla ja antaa hänen harjata hampaat itse aamulla. Hampaiden pesu on tärkeintä illalla. Usein ongelma ratkeaa, jos hampaiden harjaukseen yhdistetään hauska leikki.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>518</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Tander/Brushing-childrens-teeth</origFileName><parallel_text xml:lang="eng" location="brushing-childrens-teeth.html"/><parallel_text xml:lang="rus" location="brushing-childrens-teeth.html"/><parallel_text xml:lang="swe" location="borsta-tander-pa-barn.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Lasten hampaiden harjaaminen / Borsta tänder på barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Lasten hampaiden harjaaminenBorsta tänder på barn</p>
+<p type="title">Toimi näin</p>
+<list><p type="listitem">Lapsi voi seisoa tai istua aikuisen polvella ja kallistaa päätään vähän taaksepäin. Näet hampaat paremmin, kun levität hieman suupieliä.</p>
+<p type="listitem">Pidä harjaa vinossa niin, että ylemmät harjakset ulottuvat ienrajaan. Käytä pieniä, kevyitä liikkeitä.</p>
+<p type="listitem">Pidä harjaa suoraan ulospäin etuhampaita harjatessasi.</p>
+</list><p type="title">Totuta lapsi jo varhain</p>
+<p>Hampaiden harjaaminen on hyvä aloittaa heti, kun lapsi on saanut ensimmäisen hampaansa. Hampaiden harjaamisesta tulee luonnollinen osa arkea, kun lapsi tottuu siihen pienestä pitäen.</p>
+<p>Pikkulasten kohdalla tärkeintä on se, että lapsi tottuu pitämään harjaa suussaan. Kun ensimmäinen maitohammas puhkeaa, on aika aloittaa järjestelmällisempi harjaaminen. Ongelmia ei yleensä ole, jos harjaaminen aloitetaan varhain, se tehdään varovasti ja lapsi saa leikkiä harjalla. Ota tavaksi hampaiden harjaus kaksi kertaa päivässä: aamiaisen jälkeen ja illalla ennen nukkumaanmenoa.</p>
+<p type="title">Hammasharja ja hammastahna</p>
+<p>Käytä pientä ja pehmeää harjaa. Lapsi voi aluksi kokea hammastahnan maun voimakkaana. Voit kokeilla miedonmakuista tahnaa ja käyttää sitä vain hyvin vähän. Kun lapsi saa ensimmäiset maitohampaansa, lapsen oman pikkusormen kynnen verran tahnaa riittää. On tärkeää, että hammastahna sisältää hampaita vahvistavaa fluoria.</p>
+<p type="title">Näin ulotut hampaisiin paremmin</p>
+<p>Pikkulasten hampaita harjattaessa lapsi voi maata hoitopöydällä tai sängyssä, mielellään pää aikuisen polvella. Useimmat lapset avaavat suunsa automaattisesti, jos aikuinen vie sormensa varovaisesti lapsen suuhun pitkin posken sisäpintaa. Käytä vain hyvin vähän vettä. Pikkulapset eivät kykene huuhtelemaan suutaan.</p>
+<p type="title">Hyvä asento vähän vanhemmille lapsille</p>
+<p>Vähän vanhemmat lapset voivat seisoa ja aikuinen voi istua niin, että lapsi kallistaa hiukan päätään aikuisen olkapäätä ja käsivartta vasten. Joskus on parempi, että lapsi istuu polvella.</p>
+<p>Näet suuhun paremmin, jos avaat hieman lapsen suupieltä yhdellä tai kahdella sormella samalla kuin viet sormet pitkin posken sisäpintaa.</p>
+<p type="title">Myös isommat lapset tarvitsevat apua</p>
+<p>Myös isommat lapset voivat pitää päätään aikuisen polvella. Silloin on helppo nähdä suuhun ja ulottua takimmaisiin hampaisiin ja lapsen on mukava olla.</p>
+<p>Lapsen on hyvä opetella jo aikaisin harjaamaan hampaat itse, mutta hän tarvitsee aikuisen apua 10-12 vuoden ikään saakka.</p>
+<p type="title">Harjaa oikein</p>
+<p>Tartu kynäotteella harjasta. Pidä harja vinossa niin että reunaharjakset koskettavat ientä. Harjaa vaakasuoraan edestakaisin kevyellä ja pienellä liikkeellä yksi hammas kerralla. Harjaa sisäpinnat, ulkopinnat ja purupinnat.</p>
+<p>Kun harjaat ylä- ja alaleuan hampaita, pidä harja suoraan ulospäin. Varmista, että harja ulottuu ikeniin. Älä paina harjalla liian voimakkaasti ja käytä koko ajan pieniä liikkeitä.</p>
+<p type="title">Anna lapsen purskutella vaahtoa</p>
+<p>Isompien lasten on hyvä lopettaa hampaiden pesu purskuttelemalla hammastahnan vaahtoa ja pientä määrää vettä hampaiden välissä.</p>
+<p type="title">Sähköhammasharja</p>
+<p>Myös lapset voivat käyttää sähköhammasharjaa. Useimmiten harjan painetta hampaiden pintaa vasten täytyy säädellä ja siinä lapset tarvitsevat apua 10-12-vuotiaiksi.</p>
+<p type="title">Lasten hampaiden harjaaminen ei ole aina helppoa</p>
+<p>Lapsen hampaiden harjaaminen voi olla hankalaa tietyissä kehitysvaiheissa. Lapsen oma tahto ja aikuisen kärsivällisyys on monta kertaa koetuksella. Kannattaa yrittää harjata niin hyvin kuin pystyy. Näissä tilanteissa voi riittää, että harjaa vain käytetään suussa. Tällaisissa vaiheissa kannattaa myös välttää turhien herkkujen tarjoamista.</p>
+<p>Hyvä vihje on antaa lapselle oma harja, jolla hän voi harjata ja jota hän voi pureskella, kun aikuinen samalla käyttää toista harjaa varsinaiseen hampaiden pesuun. Toinen keino on auttaa lasta illalla ja antaa hänen harjata hampaat itse aamulla. Hampaiden pesu on tärkeintä illalla. Usein ongelma ratkeaa, jos hampaiden harjaukseen yhdistetään hauska leikki.</p>
+</body></document>

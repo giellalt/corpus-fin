@@ -1,338 +1,98 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Metsähallituksen ohjaus - www.metsa.fi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>143</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.metsa.fi/metsahallituksenohjaus</origFileName>
-    <parallel_text xml:lang="eng" location="lawsandadministration.html"/>
-    <parallel_text xml:lang="sme" location="meahciraddehusastivren.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="nno">
-        <list>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                        </list>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-        </list>
-      </p>
-    </list>
-    <p type="title">Metsähallituksen ohjaus</p>
-    <p>Laki Metsähallituksesta määrittelee Metsähallituksen tehtäviksi sen hallinnassa olevien luonnonvarojen ja muun omaisuuden kestävän ja tuloksellisen hoidon, käytön ja suojelun. Myös biologisen monimuotoisuuden suojelu tulee ottaa huomioon yhdessä muiden tavoitteiden kanssa.</p>
-    <p>Eduskunta hyväksyy vuosittain Metsähallituksen keskeiset palvelu- ja muut toimintatavoitteet. Samalla eduskunta päättää, missä määrin Metsähallituksen maanmyyntituloja tai maa- ja vesiomaisuutta käytetään uusien luonnonsuojelualueiden hankintaan. Maa- ja metsätalousministeriö päättää eduskunnan asettamien tavoitteiden pohjalta Metsähallituksen vuotuisista tulostavoitteista.</p>
-    <p>Julkisista hallintotehtävistä sekä niiden tavoitteista ja rahoittamisesta sovitaan vuosittain ympäristöministeriön sekä maa- ja metsätalousministeriön kanssa. Näitä tehtäviä ovat muun muassa luonnonsuojelu- ja retkeilyalueiden hoito, luonnonsuojelun edistäminen valtion mailla ja vesillä, erävalvonta ja yleinen valtion maiden virkistyskäytön edistäminen. Julkisiin hallintotehtäviin käytetään myös esimerkiksi EU:n hankerahoitusta ja ELY-keskusten rahoitusta.</p>
-    <p><em type="italic">Metsähallituksesta annetut säädökset </em>(www.finlex.fi) : </p>
-    <list>
-      <p type="listitem">Laki Metsähallituksesta (234/2016)</p>
-      <p type="listitem">Asetus Metsähallituksesta (247/2016)</p>
-      <p type="listitem">Laki valtion metsätalousosakeyhtiöstä (235/2016)</p>
-    </list>
-    <p>Lisäksi Metsähallituksen toimintaa säätävät useat muut säädökset, esimerkiksi luonnonsuojelulaki, kalastuslaki, metsästyslaki, luontaiselinkeinolaki ja ulkoilulaki.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Metsähallituksen ohjaus - www.metsa.fi</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>143</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.metsa.fi/metsahallituksenohjaus</origFileName><parallel_text xml:lang="eng" location="lawsandadministration.html"/><parallel_text xml:lang="sme" location="meahciraddehusastivren.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+</list></p>
+</list><p type="title">Metsähallituksen ohjaus</p>
+<p>Laki Metsähallituksesta määrittelee Metsähallituksen tehtäviksi sen hallinnassa olevien luonnonvarojen ja muun omaisuuden kestävän ja tuloksellisen hoidon, käytön ja suojelun. Myös biologisen monimuotoisuuden suojelu tulee ottaa huomioon yhdessä muiden tavoitteiden kanssa.</p>
+<p>Eduskunta hyväksyy vuosittain Metsähallituksen keskeiset palvelu- ja muut toimintatavoitteet. Samalla eduskunta päättää, missä määrin Metsähallituksen maanmyyntituloja tai maa- ja vesiomaisuutta käytetään uusien luonnonsuojelualueiden hankintaan. Maa- ja metsätalousministeriö päättää eduskunnan asettamien tavoitteiden pohjalta Metsähallituksen vuotuisista tulostavoitteista.</p>
+<p>Julkisista hallintotehtävistä sekä niiden tavoitteista ja rahoittamisesta sovitaan vuosittain ympäristöministeriön sekä maa- ja metsätalousministeriön kanssa. Näitä tehtäviä ovat muun muassa luonnonsuojelu- ja retkeilyalueiden hoito, luonnonsuojelun edistäminen valtion mailla ja vesillä, erävalvonta ja yleinen valtion maiden virkistyskäytön edistäminen. Julkisiin hallintotehtäviin käytetään myös esimerkiksi EU:n hankerahoitusta ja ELY-keskusten rahoitusta.</p>
+<p><em type="italic">Metsähallituksesta annetut säädökset </em>(www.finlex.fi) : </p>
+<list><p type="listitem">Laki Metsähallituksesta (234/2016)</p>
+<p type="listitem">Asetus Metsähallituksesta (247/2016)</p>
+<p type="listitem">Laki valtion metsätalousosakeyhtiöstä (235/2016)</p>
+</list><p>Lisäksi Metsähallituksen toimintaa säätävät useat muut säädökset, esimerkiksi luonnonsuojelulaki, kalastuslaki, metsästyslaki, luontaiselinkeinolaki ja ulkoilulaki.</p>
+</body></document>

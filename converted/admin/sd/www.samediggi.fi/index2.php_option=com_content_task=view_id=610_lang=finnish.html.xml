@@ -1,50 +1,24 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Zoja Nosova</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>563</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=610&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=610_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=610_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Zoja Nosova</p>
-    <p type="title">Zoja Nosova – koltansaamen uranuurtaja</p>
-    <p>Zoja Nosova on koltansaamen kielen uranuurtaja. Hän asuu Venäjän puolella Ylä-Tuloman kylässä, suuren Murmanskin kaupungin ja Suomen itärajalla sijaitsevien kolttasaamelaisten asuinalueiden välissä.</p>
-    <p>Zoja on syntynyt Kuolan niemimaan pohjoisrannalla olevan Muotkavuonon rannalla, Muotkavuonon kylässä, porosaamelaiseen perheeseen. Hänen lapsuudessaan koltansaamea, joka on myös Zojan äidinkieli, puhuttiin alueella yleisesti. Zojan lapsuuden kotikylä on nykyisin suljettua aluetta, joka kuuluu Venäjän armeijalle.</p>
-    <p>Koltansaamen kielen käyttö on maailmansotien ja kolttasaamelaisen yhteisön kokemien kohtaloiden seurauksena vähentynyt. Kolttasaamelaiset elävät nykyisin kolmen valtion kansalaisina. Koltansaamen kielen asema ja käyttö on vahvinta Suomen puolella, jossa koltansaamea opetetaan koulussa kielen oppiaineena ja käytetään jonkin verran myös koulun opetuskielenä.</p>
-    <p>Norjan alueella asuvat kolttasaamelaiset eivät enää puhu kieltään, eikä koltansaamen kieltä opeteta kouluissa. Venäjän puolellakaan koltansaamen kieli ei kuulu koulun opettamiin kieliin, mutta kielen puhujia ja edistäjiä silti vielä löytyy.</p>
-    <p>Kolmen valtion alueilla asuvat kolttasaamelaiset kokoontuivat kesäkuussa 2012 koltansaamen kielen ja kulttuurin elvyttämistä sekä asemaa käsitelleeseen konferenssiin Inarin Sajokseen, jossa tapasimme koltansaamen osaajan ja kehittäjän Zoja Nosovan.</p>
-    <p>Zoja aloitti koltansaamen kielen opetuksen kotikylässään Ylä-Tulomalla vuonna 1999. Vuodet 1999-2000 ja 2003-2004 olivat Zojan mukaan koltansaamen kielen opetuksen aloittamisen vuodet Kuolan niemimaalla.</p>
-    <p>– Opetusta järjestettiin yksityisissä tiloissa kerran viikossa, joskus useamminkin. Opetusta annettiin kolmessa asutuskeskuksessa, Murmashissa, Ylä-Tulomalla ja Tulomalla ja käytimme opetuksessa arkielämän teemoja, kertoo Zoja.</p>
-    <p>Kuva koltansaamen kielen ja kulttuurin konferenssista Inarissa kesällä 2012.</p>
-    <p>- Toimin kurssien opettajana, mutta se ei ollut ihan yksinkertaista, koska koltansaamen kielellä ei ollut Venäjällä kirjakieltä. Painettuja oppimateriaaleja ei ollut lainkaan. Hankin oppimateriaaleja Suomen puolelta, jossa niitä oli jonkin verran saatavissa, kertoo Zoja.</p>
-    <p>- Sevettijärveläinen Jouni Moshnikoff oli yksi yhteistyökumppaneistamme Suomen puolella. Hän toi meille oppimateriaaleja ja olemme myös vierailleet paljon Sevettijärvellä. Opettelimme saamenkielisiä lauluja, kerroimme kolttasaamelaisia tarinoita ja viime vuosina olemme tehneet myös paljon kolttasaamelaisia käsitöitä, kertoo Zoja.</p>
-    <p>Zoja Nosova kertoo esimerkkejä käytännön kieliyhteistyöstä:</p>
-    <p>- Jouni kävi meidän vieraanamme ja huomasimme puhuvamme koltansaamea hieman eri tavalla. Jounilla oli saamenkielisiä sanoja, joihin suomen kieli oli vaikuttanut. Kerroin hänelle, mitkä sanat olivat alkuperäisiä koltansaamen sanoja ja sillä tavalla teimme omaa kielenhuoltoamme.</p>
-    <p>- Vuosina 2007-2008 opettajana toimi Irina Rudolfovna Tytsjyk ja oppitunteja pidettiin Murmashissa ja Tulomassa. Noina vuosina opetusta annettiin Norjan saamelaiskäräjien kielikomitean avustuksella ja oppilaat suorittivat tutkinnon kurssin lopussa, Zoja kertoo.</p>
-    <p>- Siirryin uudelleen opettajaksi vuosiksi 2009-2011 ja kurssilaiset olivat enimmäkseen samoja, jotka olivat mukana jo kurssien alussa.</p>
-    <p type="title">Tarinakirja koltansaameksi</p>
-    <p>Zoja Nosova on toiminut koltansaamen kielen edustajana myös kaikkia neljässä valtiossa puhuttuja saamen kieliä edustavassa saamen kielen lautakunnassa. Lautakunta toimii Pohjoismaiden saamelaiskäräjien yhteistyöelimen, Saamelaisen parlamentaarisen neuvoston alaisuudessa.</p>
-    <p>- Esitin lautakunnalle vanhojen kolttasaamelaisten, venäjän kielellä julkaistujen tarinoiden kääntämistä koltansaamen kielelle ja pyysin heiltä apua niiden julkaisemiseen. Tarinat oli alun perin kerätty jo vuonna 1977 ja julkaistu venäjänkielisenä kirjana vuonna 1990.</p>
-    <p>Zoja sanoo, että kolttasaamelaiset ovat aina olleet kovia tarinoimaan ja tarinat sisältävät paljon kolttasaamelaista historiaa ja perinnetietoa.</p>
-    <p>- Lautakunnan koltansaamen jaosto aloittikin käännöshankkeen ja rahoitti myös tarinakirjan julkaisemisen, kertoo Zoja. Kirjan toimitti ja julkaisi lopulta Suomen saamelaiskäräjien koulutus- ja oppimateriaalitoimisto. <span type="quote">"Kå´llmuõrâž"</span>-niminen vanhoja kolttasaamelaisia kertomuksia sisältävä teos ilmestyi koltansaamenkielisenä painoksena vuoden 2012 alussa.</p>
-    <p>Zoja Nosova luki teoksen kertomukset koltansaamen kielellä nauhalle, josta työryhmä Katri Fofonoff, Eino Koponen, Jouni Moshnikoff, Tiina Sanila-Aikio ja Seija Sivertsen huolehtivat kertomukset koltansaamen nykyiseen kirjoitusasuun. Zoja kertoo myös korjailleensa tekstiä aina, kun huomasi virheitä. – Esimerkiksi puiden nimiä oli käännetty väärin venäjän kielelle, kertoo Zoja.</p>
-    <p>Kuvissa venäjänkielinen alkuperäisteos ja nyt julkaistu koltansaamenkielinen teos. Kirja on saatavissa saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta, saamelaiskulttuurikeskus Sajoksesta Inarista. Teoksen uuden kuvituksen on tehnyt Merja Aletta Ranttila. Lisätietoja tästä .</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Zoja Nosova</title><genre code="admin"/><author><unknown/></author><wordcount>563</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=610&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=610_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=610_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Zoja Nosova</p>
+<p type="title">Zoja Nosova – koltansaamen uranuurtaja</p>
+<p>Zoja Nosova on koltansaamen kielen uranuurtaja. Hän asuu Venäjän puolella Ylä-Tuloman kylässä, suuren Murmanskin kaupungin ja Suomen itärajalla sijaitsevien kolttasaamelaisten asuinalueiden välissä.</p>
+<p>Zoja on syntynyt Kuolan niemimaan pohjoisrannalla olevan Muotkavuonon rannalla, Muotkavuonon kylässä, porosaamelaiseen perheeseen. Hänen lapsuudessaan koltansaamea, joka on myös Zojan äidinkieli, puhuttiin alueella yleisesti. Zojan lapsuuden kotikylä on nykyisin suljettua aluetta, joka kuuluu Venäjän armeijalle.</p>
+<p>Koltansaamen kielen käyttö on maailmansotien ja kolttasaamelaisen yhteisön kokemien kohtaloiden seurauksena vähentynyt. Kolttasaamelaiset elävät nykyisin kolmen valtion kansalaisina. Koltansaamen kielen asema ja käyttö on vahvinta Suomen puolella, jossa koltansaamea opetetaan koulussa kielen oppiaineena ja käytetään jonkin verran myös koulun opetuskielenä.</p>
+<p>Norjan alueella asuvat kolttasaamelaiset eivät enää puhu kieltään, eikä koltansaamen kieltä opeteta kouluissa. Venäjän puolellakaan koltansaamen kieli ei kuulu koulun opettamiin kieliin, mutta kielen puhujia ja edistäjiä silti vielä löytyy.</p>
+<p>Kolmen valtion alueilla asuvat kolttasaamelaiset kokoontuivat kesäkuussa 2012 koltansaamen kielen ja kulttuurin elvyttämistä sekä asemaa käsitelleeseen konferenssiin Inarin Sajokseen, jossa tapasimme koltansaamen osaajan ja kehittäjän Zoja Nosovan.</p>
+<p>Zoja aloitti koltansaamen kielen opetuksen kotikylässään Ylä-Tulomalla vuonna 1999. Vuodet 1999-2000 ja 2003-2004 olivat Zojan mukaan koltansaamen kielen opetuksen aloittamisen vuodet Kuolan niemimaalla.</p>
+<p>– Opetusta järjestettiin yksityisissä tiloissa kerran viikossa, joskus useamminkin. Opetusta annettiin kolmessa asutuskeskuksessa, Murmashissa, Ylä-Tulomalla ja Tulomalla ja käytimme opetuksessa arkielämän teemoja, kertoo Zoja.</p>
+<p>Kuva koltansaamen kielen ja kulttuurin konferenssista Inarissa kesällä 2012.</p>
+<p>- Toimin kurssien opettajana, mutta se ei ollut ihan yksinkertaista, koska koltansaamen kielellä ei ollut Venäjällä kirjakieltä. Painettuja oppimateriaaleja ei ollut lainkaan. Hankin oppimateriaaleja Suomen puolelta, jossa niitä oli jonkin verran saatavissa, kertoo Zoja.</p>
+<p>- Sevettijärveläinen Jouni Moshnikoff oli yksi yhteistyökumppaneistamme Suomen puolella. Hän toi meille oppimateriaaleja ja olemme myös vierailleet paljon Sevettijärvellä. Opettelimme saamenkielisiä lauluja, kerroimme kolttasaamelaisia tarinoita ja viime vuosina olemme tehneet myös paljon kolttasaamelaisia käsitöitä, kertoo Zoja.</p>
+<p>Zoja Nosova kertoo esimerkkejä käytännön kieliyhteistyöstä:</p>
+<p>- Jouni kävi meidän vieraanamme ja huomasimme puhuvamme koltansaamea hieman eri tavalla. Jounilla oli saamenkielisiä sanoja, joihin suomen kieli oli vaikuttanut. Kerroin hänelle, mitkä sanat olivat alkuperäisiä koltansaamen sanoja ja sillä tavalla teimme omaa kielenhuoltoamme.</p>
+<p>- Vuosina 2007-2008 opettajana toimi Irina Rudolfovna Tytsjyk ja oppitunteja pidettiin Murmashissa ja Tulomassa. Noina vuosina opetusta annettiin Norjan saamelaiskäräjien kielikomitean avustuksella ja oppilaat suorittivat tutkinnon kurssin lopussa, Zoja kertoo.</p>
+<p>- Siirryin uudelleen opettajaksi vuosiksi 2009-2011 ja kurssilaiset olivat enimmäkseen samoja, jotka olivat mukana jo kurssien alussa.</p>
+<p type="title">Tarinakirja koltansaameksi</p>
+<p>Zoja Nosova on toiminut koltansaamen kielen edustajana myös kaikkia neljässä valtiossa puhuttuja saamen kieliä edustavassa saamen kielen lautakunnassa. Lautakunta toimii Pohjoismaiden saamelaiskäräjien yhteistyöelimen, Saamelaisen parlamentaarisen neuvoston alaisuudessa.</p>
+<p>- Esitin lautakunnalle vanhojen kolttasaamelaisten, venäjän kielellä julkaistujen tarinoiden kääntämistä koltansaamen kielelle ja pyysin heiltä apua niiden julkaisemiseen. Tarinat oli alun perin kerätty jo vuonna 1977 ja julkaistu venäjänkielisenä kirjana vuonna 1990.</p>
+<p>Zoja sanoo, että kolttasaamelaiset ovat aina olleet kovia tarinoimaan ja tarinat sisältävät paljon kolttasaamelaista historiaa ja perinnetietoa.</p>
+<p>- Lautakunnan koltansaamen jaosto aloittikin käännöshankkeen ja rahoitti myös tarinakirjan julkaisemisen, kertoo Zoja. Kirjan toimitti ja julkaisi lopulta Suomen saamelaiskäräjien koulutus- ja oppimateriaalitoimisto. <span type="quote">"Kå´llmuõrâž"</span>-niminen vanhoja kolttasaamelaisia kertomuksia sisältävä teos ilmestyi koltansaamenkielisenä painoksena vuoden 2012 alussa.</p>
+<p>Zoja Nosova luki teoksen kertomukset koltansaamen kielellä nauhalle, josta työryhmä Katri Fofonoff, Eino Koponen, Jouni Moshnikoff, Tiina Sanila-Aikio ja Seija Sivertsen huolehtivat kertomukset koltansaamen nykyiseen kirjoitusasuun. Zoja kertoo myös korjailleensa tekstiä aina, kun huomasi virheitä. – Esimerkiksi puiden nimiä oli käännetty väärin venäjän kielelle, kertoo Zoja.</p>
+<p>Kuvissa venäjänkielinen alkuperäisteos ja nyt julkaistu koltansaamenkielinen teos. Kirja on saatavissa saamelaiskäräjien koulutus- ja oppimateriaalitoimistosta, saamelaiskulttuurikeskus Sajoksesta Inarista. Teoksen uuden kuvituksen on tehnyt Merja Aletta Ranttila. Lisätietoja tästä .</p>
+</body></document>

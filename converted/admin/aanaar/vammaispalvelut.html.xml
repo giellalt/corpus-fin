@@ -1,181 +1,78 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>763</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.inari.fi/fi/palvelut/sosiaali-ja-terveyspalvelut/sosiaalityo/vammaispalvelut.html</origFileName>
-    <parallel_text xml:lang="sme" location="lapmasiidbalvalusat.html"/>
-    <parallel_text xml:lang="smn" location="vadula-c2-9apalvalusah.html"/>
-    <parallel_text xml:lang="sms" location="laameskaazzkoozz.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Vammaispalvelut - INARI.FI</p>
-    <list>
-      <p type="listitem" xml:lang="nno">
-        <list>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-        </list>
-      </p>
-      <p type="listitem" xml:lang="nno">
-        <list>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-            </list>
-          </p>
-        </list>
-      </p>
-      <p type="listitem" xml:lang="nno">
-        <list>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-        </list>
-      </p>
-      <p type="listitem" xml:lang="nno">
-        <list/>
-      </p>
-      <p type="listitem" xml:lang="nno">
-        <list>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list/>
-          </p>
-        </list>
-      </p>
-      <p type="listitem" xml:lang="nno">
-        <list/>
-      </p>
-    </list>
-    <p type="title">Vammaispalvelut</p>
-    <p>Asunnon muutostyöt Asuntoon kuuluvat välineet ja laitteet Henkilökohtainen avustaja Henkilökohtainen apu Kuljetuspalvelut Palveluasuminen Palvelusuunnitelma Päivittäisistä toiminnoista suoriutumisessa tarvittavat välineet ja koneet Sopeutumisvalmennus Tulkkipalvelut Ylimääräiset erityisravintokustannukset Ylimääräiset vaatetuskustannukset Sosiaalinen tuki ja toimeentulo Linkit</p>
-    <p>Lomakkeita: Vammaispalveluhakemus</p>
-    <p xml:lang="est">Kuljetuspalveluhakemus</p>
-    <p>Vammaispalvelujen tarkoituksena on edistää vammaisten mahdollisimman omatoimista selviytymistä jokapäiväisissä toiminnoissa. Palveluilla pyritään poistamaan myös vammaisuudesta johtuvia haittoja ja esteitä. Vammaisten pitää saada elää, toimia ja harrastaa muiden ihmisten kanssa tasavertaisena ja osallistua työhön, opiskeluun tai muuhun yhteiskunnalliseen toimintaan.</p>
-    <p>Vammaispalvelulain mukaisia palveluja ja tukitoimia on mahdollisuus hakea, jos vammaisella henkilöllä on vamman tai sairauden johdosta pitkäaikaisesti (yleensä vähintään vuoden ajan) erityisiä vaikeuksia suoriutua tavanomaisista elämän toiminnoista.</p>
-    <p>Vammaispalveluissa ei ole ikärajoja eikä mitään vammaryhmää ole suljettu lain soveltamisen ulkopuolelle. Oikeus palveluihin riippuu vammaisuuden asteesta. Vammaisuus määritellään vammaispalveluasetuksessa kunkin palvelun ja tukitoimen osalta.</p>
-    <p>Avustuksiin tarvittavia hakemuslomakkeita saat sosiaalitoimiston kansliasta. Käyntiosoite on Piiskuntie 2, 99800 Ivalo. Puhelin sosiaalitoimiston kansliaan on 016-687 274, 040-534 3924.</p>
-    <p>Vammaispalveluhakemus</p>
-    <p type="title">Asunnon muutostyöt</p>
-    <p>Tukea asunnon muutostöihin voivat hakea vaikeavammaiset henkilöt, joille liikkuminen ja omatoimisuus vakituisessa asunnossaan tuottaa vamman tai sairauden vuoksi erityisiä vaikeuksia. Muutostöillä tässä yhteydessä tarkoitetaan vamman vaatimia välttämättömiä muutostöitä vammaisen asunnossa ja sen välittömässä lähiympäristössä. Välttämättömät muutostyöt ovat asiakkaalle maksuttomia. Muutostöiden arvioinnissa käytetään apuna mm terveyskeskuksen fysioterapeuttien osaamista. Korvattavia muutostöitä ovat mm. ovien leventäminen, luiskien rakentaminen, kynnysten poistaminen sekä wc- ja pesutilojen muutostyöt. Sivun alkuun</p>
-    <p type="title">Asuntoon kuuluvat välineet ja laitteet</p>
-    <p>Vammaispalvelulain mukaan kunnan on korvattava vaikeavammaiselle henkilölle vamman tai sairauden kannalta välttämättömien asuntoon kuuluvien välineiden ja laitteiden kohtuulliset kustannukset. Korvattavia laitteita ja välineitä ovat mm. nostolaitteet ja hälytyslaitteet.</p>
-    <p type="title">Henkilökohtainen apu</p>
-    <p>Taloudellinen tuki henkilökohtaisen avustajan palkkaamiseen on tarkoitettu sellaiselle vammaiselle henkilölle, joka tarvitsee runsaasti toisen henkilön apua jokapäiväisissä toimissaan. Vammainen henkilö palkkaa itse avustajansa ja toimii työnantajana. Inarin kunnassa korvaus kohdennetaan ensisijaisesti niille vaikeavammaisille, joilla on oikeus palveluasumiseen ja joilla olisi vaihtoehtona eläminen palvelutalossa tai laitoksessa. Sivun alkuun</p>
-    <p type="title" xml:lang="est">Kuljetuspalvelut</p>
-    <p>Henkilöllä on oikeus saada vammaispalvelulain mukaista kuljetuspalvelua, jos hänellä on pit-käaikaisesti erityisiä vaikeuksia liikkumisessa ja hän ei vammansa tai sairautensa vuoksi voi käyttää julkisia joukkoliikennevälineitä ilman kohtuuttoman suuria vaikeuksia. Matkoja voidaan myöntää tarpeen mukaan työssäkäyntiin, opiskeluun, asioimiseen, virkistykseen ja yhteiskunnalliseen osallistumiseen. Kuljetuspalveluista asiakkaan maksettavaksi jää matkan omavastuu. Kuljetuspalvelua ei saa käyttää sellaisiin lääkärissäkäynti ja terveydenhuollon matkoihin, joihin voi saada Kelan korvausta. Asiakkaalla voi myös olla oikeus asiointiapuun sosiaalihuoltolain perusteella, katso Vanhustyö – Tukipalvelut – Asiointipalvelu. Lisätietoja palveluohjaaja Riitta Sipola-Kellokumpu, puh. 040-779 2861.</p>
-    <p xml:lang="nob">Hakemuslomake</p>
-    <p xml:lang="fkv">
-      <em type="italic">Muutoksia kuljetuspalveluun 2017 </em>
-    </p>
-    <p>Vammaispalvelun kuljetuspalvelussa taksin tilaaminen muuttui 2.1.2017alkaen. Taksi tilataan Rovaniemen aluetaksin välityskeskuksesta numerosta 020099100. Taksin tilauksen yhteydessä pyydetään mainitsemaan erityistarpeista (esim. invataksi, saattaja mukana tai kunnan vammaispalvelun myöntämä vakiotaksioikeus).</p>
-    <p>Pidemmät matkat ( 50 km) pyydetään tilaamaan taksikeskuksesta 2-3 päivää matkaa aiemmin. Samaan suuntaan menevien asiakkaiden matkoja voidaan yhdistellä. Jos matkoja yhdistetään, matkan omavastuuosuutta ei peritä kyseiseltä matkalta.</p>
-    <p>Alla vammaispalvelun taksikyytejä koskeva ohje</p>
-    <p xml:lang="sma">Ohje</p>
-    <p type="title">Palveluasuminen</p>
-    <p>Kunnan on järjestettävä palveluasuminen vaikeavammaiselle henkilölle, joka tarvitsee vam-mansa tai sairautensa vuoksi toisen henkilön apua päivittäisissä toiminnoissa suoriutumisessa jatkuvaluontoisesti, vuorokauden eri aikoina tai muutoin erityisen runsaasti. Asunnon lisäksi asukas voi tarvita erilaisia yksilöllisiä palveluita asumisensa tueksi kuten koti- ja ateriapalvelu. Palveluasumista voidaan järjestää palvelutaloissa, mutta myös kotiin riittävien tukipalvelujen avulla, esim. kotipalvelun, omaishoidontuen ja henkilökohtaisen avustajan avulla. Sivun alkuun</p>
-    <p type="title" xml:lang="est">Palvelusuunnitelma</p>
-    <p>Vammaiselle henkilölle voidaan laatia palvelusuunnitelma. Suunnitelman laatiminen on perusteltua silloin kun yksittäinen tukitoimi tai palvelu ei ole riittävää. Palvelusuunnitelman perusteella saadaan käsitys asiakkaan ja hänen perheensä elämäntilanteesta, tarpeista ja mielipiteistä sekä saadaan kokonaiskäsitys eri tahojen palveluista ja palvelumahdollisuuksista. Palvelusuunnitelman laatii vammaispalvelujen sosiaalityöntekijä yhdessä asiakkaan ja hänen perheensä kanssa.</p>
-    <p>Suunnitelma voidaan laatia yhdessä muiden palvelutahojen kanssa tai siihen voidaan liittää tiedot jo laadituista muista suunnitelmista (kuntoutussuunnitelma, kotihoidon palvelusuunnitelma, Kelan tukitoimet jne). Suunnitelmaa tarkistetaan tarpeen mukaan.</p>
-    <p type="title">Päivittäisistä toiminnoista suoriutumisessa tarvittavat välineet, koneet ja laitteet</p>
-    <p>Vammaisella henkilöllä on mahdollisuus saada korvausta sellaisten koneiden ja laitteiden hankintakustannuksiin, joita hän tarvitsee vammansa tai sairautensa vuoksi liikkumisessa, viestinnässä tai henkilökohtaisessa jokapäiväisessä suoriutumisessa kotona tai vapaa-ajan toiminnoissa. Tukea voidaan myöntää muihin kuin lääkinnälliseen kuntoutukseen kuuluviin apuvälineisiin. Korvaukset koneista ja laitteista ovat harkinnanvaraisia. Korvaus on yleensä puolet hankintahinnasta. Kunta voi myös antaa tarvittavan koneen tai laitteen vammaisen henkilön käyttöön korvauksetta. Sivun alkuun</p>
-    <p type="title" xml:lang="est">Sopeutumisvalmennus</p>
-    <p>Sopeutumisvalmennuksen tavoitteena on vammaisen henkilön toimintakyvyn edistäminen se-kä hänen ja hänen perheensä tukeminen. Sopeutumisvalmennusta järjestetään pääasiassa erilaisten kurssien muodossa mm. Kelan ja järjestöjen toimesta. Sopeutumisvalmennus on vammaispalvelulain mukaan harkinnanvaraista.</p>
-    <p type="title" xml:lang="fkv">Tulkkipalvelut</p>
-    <p>Tulkkipalvelut on siirtyneet Kelan hoidettavaksi. Linkki Kelan sivuille</p>
-    <p type="title">Ylimääräiset erityisravintokustannukset</p>
-    <p>Henkilölle voidaan korvata vamman tai sairauden edellyttämistä, pitkäaikaisesti ja säännnöllisesti tarvittavista erityisravintovalmisteista ja erityisruokavalioista aiheutuvia ylimääräisiä kustannuksia. Korvaus on määrärahasidonnainen.</p>
-    <p type="title">Ylimääräiset vaatetuskustannukset</p>
-    <p>Henkilölle voidaan korvata ylimääräisiä vaatetuskustannuksia, jotka johtuvat vamman tai sai-rauden aiheuttamasta vaatteiden tavanomaista suuremmasta kulumisesta tai siitä, että henkilö ei vammansa vuoksi voi käyttää valmiina ostettavia vaatteita tai jalkineita. Korvaus on harkinnanvarainen. Sivun alkuun</p>
-    <p type="title" xml:lang="fkv">Linkit</p>
-    <p>Kunnan vammaisjärjestöjä Kela Kynnys ry</p>
-    <p>Sivun alkuun</p>
-    <p>Tulosta sivu</p>
-    <p xml:lang="fkv">Jaa tämä sivu :</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>763</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.inari.fi/fi/palvelut/sosiaali-ja-terveyspalvelut/sosiaalityo/vammaispalvelut.html</origFileName><parallel_text xml:lang="sme" location="lapmasiidbalvalusat.html"/><parallel_text xml:lang="smn" location="vadula-c2-9apalvalusah.html"/><parallel_text xml:lang="sms" location="laameskaazzkoozz.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Vammaispalvelut - INARI.FI</p>
+<list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list><p type="title">Vammaispalvelut</p>
+<p>Asunnon muutostyöt Asuntoon kuuluvat välineet ja laitteet Henkilökohtainen avustaja Henkilökohtainen apu Kuljetuspalvelut Palveluasuminen Palvelusuunnitelma Päivittäisistä toiminnoista suoriutumisessa tarvittavat välineet ja koneet Sopeutumisvalmennus Tulkkipalvelut Ylimääräiset erityisravintokustannukset Ylimääräiset vaatetuskustannukset Sosiaalinen tuki ja toimeentulo Linkit</p>
+<p>Lomakkeita: Vammaispalveluhakemus</p>
+<p xml:lang="est">Kuljetuspalveluhakemus</p>
+<p>Vammaispalvelujen tarkoituksena on edistää vammaisten mahdollisimman omatoimista selviytymistä jokapäiväisissä toiminnoissa. Palveluilla pyritään poistamaan myös vammaisuudesta johtuvia haittoja ja esteitä. Vammaisten pitää saada elää, toimia ja harrastaa muiden ihmisten kanssa tasavertaisena ja osallistua työhön, opiskeluun tai muuhun yhteiskunnalliseen toimintaan.</p>
+<p>Vammaispalvelulain mukaisia palveluja ja tukitoimia on mahdollisuus hakea, jos vammaisella henkilöllä on vamman tai sairauden johdosta pitkäaikaisesti (yleensä vähintään vuoden ajan) erityisiä vaikeuksia suoriutua tavanomaisista elämän toiminnoista.</p>
+<p>Vammaispalveluissa ei ole ikärajoja eikä mitään vammaryhmää ole suljettu lain soveltamisen ulkopuolelle. Oikeus palveluihin riippuu vammaisuuden asteesta. Vammaisuus määritellään vammaispalveluasetuksessa kunkin palvelun ja tukitoimen osalta.</p>
+<p>Avustuksiin tarvittavia hakemuslomakkeita saat sosiaalitoimiston kansliasta. Käyntiosoite on Piiskuntie 2, 99800 Ivalo. Puhelin sosiaalitoimiston kansliaan on 016-687 274, 040-534 3924.</p>
+<p>Vammaispalveluhakemus</p>
+<p type="title">Asunnon muutostyöt</p>
+<p>Tukea asunnon muutostöihin voivat hakea vaikeavammaiset henkilöt, joille liikkuminen ja omatoimisuus vakituisessa asunnossaan tuottaa vamman tai sairauden vuoksi erityisiä vaikeuksia. Muutostöillä tässä yhteydessä tarkoitetaan vamman vaatimia välttämättömiä muutostöitä vammaisen asunnossa ja sen välittömässä lähiympäristössä. Välttämättömät muutostyöt ovat asiakkaalle maksuttomia. Muutostöiden arvioinnissa käytetään apuna mm terveyskeskuksen fysioterapeuttien osaamista. Korvattavia muutostöitä ovat mm. ovien leventäminen, luiskien rakentaminen, kynnysten poistaminen sekä wc- ja pesutilojen muutostyöt. Sivun alkuun</p>
+<p type="title">Asuntoon kuuluvat välineet ja laitteet</p>
+<p>Vammaispalvelulain mukaan kunnan on korvattava vaikeavammaiselle henkilölle vamman tai sairauden kannalta välttämättömien asuntoon kuuluvien välineiden ja laitteiden kohtuulliset kustannukset. Korvattavia laitteita ja välineitä ovat mm. nostolaitteet ja hälytyslaitteet.</p>
+<p type="title">Henkilökohtainen apu</p>
+<p>Taloudellinen tuki henkilökohtaisen avustajan palkkaamiseen on tarkoitettu sellaiselle vammaiselle henkilölle, joka tarvitsee runsaasti toisen henkilön apua jokapäiväisissä toimissaan. Vammainen henkilö palkkaa itse avustajansa ja toimii työnantajana. Inarin kunnassa korvaus kohdennetaan ensisijaisesti niille vaikeavammaisille, joilla on oikeus palveluasumiseen ja joilla olisi vaihtoehtona eläminen palvelutalossa tai laitoksessa. Sivun alkuun</p>
+<p type="title" xml:lang="est">Kuljetuspalvelut</p>
+<p>Henkilöllä on oikeus saada vammaispalvelulain mukaista kuljetuspalvelua, jos hänellä on pit-käaikaisesti erityisiä vaikeuksia liikkumisessa ja hän ei vammansa tai sairautensa vuoksi voi käyttää julkisia joukkoliikennevälineitä ilman kohtuuttoman suuria vaikeuksia. Matkoja voidaan myöntää tarpeen mukaan työssäkäyntiin, opiskeluun, asioimiseen, virkistykseen ja yhteiskunnalliseen osallistumiseen. Kuljetuspalveluista asiakkaan maksettavaksi jää matkan omavastuu. Kuljetuspalvelua ei saa käyttää sellaisiin lääkärissäkäynti ja terveydenhuollon matkoihin, joihin voi saada Kelan korvausta. Asiakkaalla voi myös olla oikeus asiointiapuun sosiaalihuoltolain perusteella, katso Vanhustyö – Tukipalvelut – Asiointipalvelu. Lisätietoja palveluohjaaja Riitta Sipola-Kellokumpu, puh. 040-779 2861.</p>
+<p>Hakemuslomake</p>
+<p xml:lang="fkv"><em type="italic">Muutoksia kuljetuspalveluun 2017 </em></p>
+<p>Vammaispalvelun kuljetuspalvelussa taksin tilaaminen muuttui 2.1.2017alkaen. Taksi tilataan Rovaniemen aluetaksin välityskeskuksesta numerosta 020099100. Taksin tilauksen yhteydessä pyydetään mainitsemaan erityistarpeista (esim. invataksi, saattaja mukana tai kunnan vammaispalvelun myöntämä vakiotaksioikeus).</p>
+<p>Pidemmät matkat ( 50 km) pyydetään tilaamaan taksikeskuksesta 2-3 päivää matkaa aiemmin. Samaan suuntaan menevien asiakkaiden matkoja voidaan yhdistellä. Jos matkoja yhdistetään, matkan omavastuuosuutta ei peritä kyseiseltä matkalta.</p>
+<p>Alla vammaispalvelun taksikyytejä koskeva ohje</p>
+<p xml:lang="rmn">Ohje</p>
+<p type="title">Palveluasuminen</p>
+<p>Kunnan on järjestettävä palveluasuminen vaikeavammaiselle henkilölle, joka tarvitsee vam-mansa tai sairautensa vuoksi toisen henkilön apua päivittäisissä toiminnoissa suoriutumisessa jatkuvaluontoisesti, vuorokauden eri aikoina tai muutoin erityisen runsaasti. Asunnon lisäksi asukas voi tarvita erilaisia yksilöllisiä palveluita asumisensa tueksi kuten koti- ja ateriapalvelu. Palveluasumista voidaan järjestää palvelutaloissa, mutta myös kotiin riittävien tukipalvelujen avulla, esim. kotipalvelun, omaishoidontuen ja henkilökohtaisen avustajan avulla. Sivun alkuun</p>
+<p type="title" xml:lang="est">Palvelusuunnitelma</p>
+<p>Vammaiselle henkilölle voidaan laatia palvelusuunnitelma. Suunnitelman laatiminen on perusteltua silloin kun yksittäinen tukitoimi tai palvelu ei ole riittävää. Palvelusuunnitelman perusteella saadaan käsitys asiakkaan ja hänen perheensä elämäntilanteesta, tarpeista ja mielipiteistä sekä saadaan kokonaiskäsitys eri tahojen palveluista ja palvelumahdollisuuksista. Palvelusuunnitelman laatii vammaispalvelujen sosiaalityöntekijä yhdessä asiakkaan ja hänen perheensä kanssa.</p>
+<p>Suunnitelma voidaan laatia yhdessä muiden palvelutahojen kanssa tai siihen voidaan liittää tiedot jo laadituista muista suunnitelmista (kuntoutussuunnitelma, kotihoidon palvelusuunnitelma, Kelan tukitoimet jne). Suunnitelmaa tarkistetaan tarpeen mukaan.</p>
+<p type="title">Päivittäisistä toiminnoista suoriutumisessa tarvittavat välineet, koneet ja laitteet</p>
+<p>Vammaisella henkilöllä on mahdollisuus saada korvausta sellaisten koneiden ja laitteiden hankintakustannuksiin, joita hän tarvitsee vammansa tai sairautensa vuoksi liikkumisessa, viestinnässä tai henkilökohtaisessa jokapäiväisessä suoriutumisessa kotona tai vapaa-ajan toiminnoissa. Tukea voidaan myöntää muihin kuin lääkinnälliseen kuntoutukseen kuuluviin apuvälineisiin. Korvaukset koneista ja laitteista ovat harkinnanvaraisia. Korvaus on yleensä puolet hankintahinnasta. Kunta voi myös antaa tarvittavan koneen tai laitteen vammaisen henkilön käyttöön korvauksetta. Sivun alkuun</p>
+<p type="title" xml:lang="est">Sopeutumisvalmennus</p>
+<p>Sopeutumisvalmennuksen tavoitteena on vammaisen henkilön toimintakyvyn edistäminen se-kä hänen ja hänen perheensä tukeminen. Sopeutumisvalmennusta järjestetään pääasiassa erilaisten kurssien muodossa mm. Kelan ja järjestöjen toimesta. Sopeutumisvalmennus on vammaispalvelulain mukaan harkinnanvaraista.</p>
+<p type="title" xml:lang="fkv">Tulkkipalvelut</p>
+<p>Tulkkipalvelut on siirtyneet Kelan hoidettavaksi. Linkki Kelan sivuille</p>
+<p type="title">Ylimääräiset erityisravintokustannukset</p>
+<p>Henkilölle voidaan korvata vamman tai sairauden edellyttämistä, pitkäaikaisesti ja säännnöllisesti tarvittavista erityisravintovalmisteista ja erityisruokavalioista aiheutuvia ylimääräisiä kustannuksia. Korvaus on määrärahasidonnainen.</p>
+<p type="title">Ylimääräiset vaatetuskustannukset</p>
+<p>Henkilölle voidaan korvata ylimääräisiä vaatetuskustannuksia, jotka johtuvat vamman tai sai-rauden aiheuttamasta vaatteiden tavanomaista suuremmasta kulumisesta tai siitä, että henkilö ei vammansa vuoksi voi käyttää valmiina ostettavia vaatteita tai jalkineita. Korvaus on harkinnanvarainen. Sivun alkuun</p>
+<p type="title" xml:lang="fkv">Linkit</p>
+<p>Kunnan vammaisjärjestöjä Kela Kynnys ry</p>
+<p>Sivun alkuun</p>
+<p>Tulosta sivu</p>
+<p xml:lang="fkv">Jaa tämä sivu :</p>
+</body></document>

@@ -1,94 +1,56 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Inarinsaame, biologia ja maantieto</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>403</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=913&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=913_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=913_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Inarinsaame, biologia ja maantieto</p>
-    <p>Sanna Jortikka, Pirkko Lehtiö, Matti Leinonen, Teuvo Nyberg, Simo Veistola</p>
-    <p><em type="italic">Škoovlâ biologia, Sisčääsih  </em> (alkup. Koulun biologia, Sisävedet, Otava) on peruskoulun 7. luokalle tarkoitettu biologian oppikirja, joka käsittelee Suomen sisävesien eliöstöä ja elinypäristöjä. Mukana on myös Itämeri-osio, joka tutustuttaa Itämeren erityispiirteisiin ja lajistoon. Jokaisen luvun lopussa on tiivistelmä ja tehtäviä. </p>
-    <p type="title">ŠB Sisčääsih</p>
-    <p>saameksi: Ilmari Mattus</p>
-    <p>piirrokset: Jorma Happonen</p>
-    <p>sivuja 156</p>
-    <p>hinta: 22,00 €</p>
-    <p>taso: 7. lk.</p>
-    <p>ISBN 978-952-441-257-5</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2014 </em>
-    </p>
-    <p>Opiskeluvihkon avulla sovelletaan ja syvennetään opittuja tietoja. Perustehtävien lisäksi on pari- ja ryhmätyötehtäviä, joita tehdään joko luontoretkellä tai luokassa. Lisäksi opiskeluvihkossa on päättelytehtäviä, joiden tekeminen edellyttää tavallista enemmän oivallusta. Internettehtävien teko harjaannuttaa tiedon hakuun verkossa.</p>
-    <p type="title">ŠB Sisčääsih Oppâmvihko</p>
-    <p>saameksi: Ilmari Mattus</p>
-    <p>piirrokset: Jorma Happonen ja Sirkku Pitkänen</p>
-    <p>sivuja 112</p>
-    <p>hinta: 13,00 €</p>
-    <p>taso: 7. lk.</p>
-    <p>ISBN 978-952-441-258-2</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2014 </em>
-    </p>
-    <p><em type="italic">___________________________________________________________________ </em> </p>
-    <p>Sanne Jortikka, Outi Maijala, Teuvo Nyberg ja Matti Palosaari,</p>
-    <p>piirrokset Jorma Happonen, saameksi Ilmari Mattus</p>
-    <p type="title">Škoovlâ biologia ja eennâmtiätu 5</p>
-    <p>(Koulun biologia ja maantieto 5,  Otava 2007)</p>
-    <p>Koulun biologia ja maantieto -kirjasarja vie lukijansa seikkailulle maailman ihmisten, eläinten ja kasvien pariin. Samalla pohditaan, miten ihminen on sopeutunut elämään eri puolilla maapalloa ja miten ihmisten toimet ovat vaikuttaneet maapallon luontoon.</p>
-    <p>Koulun biologia ja maantieto 5 -kirjassa seikkailu alkaa niityn eliöiden opiskelulla. Eurooppa-jakson jälkeen tutustutaan maailman ja erityisesti Afrikan kasvillisuuteen ja eläimistöön.</p>
-    <p>sivuja: 203</p>
-    <p>hinta: 25,00 €</p>
-    <p>taso: 5 lk</p>
-    <p>ISBN 978-952-441-210-0</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2011 </em>
-    </p>
-    <p><em type="italic">Työkirjassa </em> sovelletaan ja syvennetään opittua. Perustehtävien lisäksi työkirja sisältää tehtäviä, joiden tekemisen edellyttää omaa pohdintaa, johtopäätösten tekoa ja opittujen asioiden soveltamista. Tarkista tietosi ja taitosi –osiossa arvioidaan omaa osaamista ja kerrataan jakson sisältöä. </p>
-    <p>sivuja: 160</p>
-    <p>hinta: 18,00 €</p>
-    <p>taso: 5 lk</p>
-    <p>ISBN 978-952-441-221-6</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2011 </em>
-    </p>
-    <p><em type="italic">___________________________________________________________________ </em> </p>
-    <p>Satu Arjanne, Matti Leinonen, Teuvo Nyberg, Matti Palosaari ja Päivi Vehmas;</p>
-    <p>piirrokset Jorma Happonen, saameksi Ilmari Mattus</p>
-    <p type="title">Škoovlâ biologia ja eennâmtiätu 6</p>
-    <p>Alkuperäisteos: Koulun biologia ja maantieto 6,  Otava 2008-2009)</p>
-    <p>Tässä oppikirjassa on biologiaa, maantietoa ja terveystietoa. Biologian jaksoissa opit metsän eliölajeja sekä saat tietoa siitä, miten metsän ravintoketjut synty-vät. Maantiedossa tutustut maapallon luontoon ja ihmisen elämään eri puolella maapalloa. Saat tietää, miten ihmiset Aasiassa ja Australiassa elävät sekä tutustut näiden maanosien eläin- ja kasvilajeihin.</p>
-    <p>sivuja: 171</p>
-    <p>hinta: 25,00 €</p>
-    <p>taso: 6 lk</p>
-    <p>ISBN 978-952-441-209-4</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2011 </em>
-    </p>
-    <p><em type="italic">Työkirjassa </em> sovelletaan ja syvennetään opittuja asioita. Perustehtävien lisäksi työkirjassa on tehtäviä, joiden tekeminen vaatii pohtimista, johtopäätösten tekemistä sekä opitun soveltamista. Tarkista tietosi ja taitosi -osassa voi arvioida omaa osaamistaan ja kerrata oppikirjan sisältöä. </p>
-    <p>sivuja: 123</p>
-    <p>hinta: 14,00 €</p>
-    <p>taso: 6 lk</p>
-    <p>ISBN 978-952-441-223-0</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2011 </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Inarinsaame, biologia ja maantieto</title><genre code="admin"/><author><unknown/></author><wordcount>403</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=913&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=913_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=913_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Inarinsaame, biologia ja maantieto</p>
+<p>Sanna Jortikka, Pirkko Lehtiö, Matti Leinonen, Teuvo Nyberg, Simo Veistola</p>
+<p><em type="italic">Škoovlâ biologia, Sisčääsih  </em> (alkup. Koulun biologia, Sisävedet, Otava) on peruskoulun 7. luokalle tarkoitettu biologian oppikirja, joka käsittelee Suomen sisävesien eliöstöä ja elinypäristöjä. Mukana on myös Itämeri-osio, joka tutustuttaa Itämeren erityispiirteisiin ja lajistoon. Jokaisen luvun lopussa on tiivistelmä ja tehtäviä. </p>
+<p type="title">ŠB Sisčääsih</p>
+<p>saameksi: Ilmari Mattus</p>
+<p>piirrokset: Jorma Happonen</p>
+<p>sivuja 156</p>
+<p>hinta: 22,00 €</p>
+<p>taso: 7. lk.</p>
+<p>ISBN 978-952-441-257-5</p>
+<p><em type="italic">Saamelaiskäräjät 2014 </em></p>
+<p>Opiskeluvihkon avulla sovelletaan ja syvennetään opittuja tietoja. Perustehtävien lisäksi on pari- ja ryhmätyötehtäviä, joita tehdään joko luontoretkellä tai luokassa. Lisäksi opiskeluvihkossa on päättelytehtäviä, joiden tekeminen edellyttää tavallista enemmän oivallusta. Internettehtävien teko harjaannuttaa tiedon hakuun verkossa.</p>
+<p type="title">ŠB Sisčääsih Oppâmvihko</p>
+<p>saameksi: Ilmari Mattus</p>
+<p>piirrokset: Jorma Happonen ja Sirkku Pitkänen</p>
+<p>sivuja 112</p>
+<p>hinta: 13,00 €</p>
+<p>taso: 7. lk.</p>
+<p>ISBN 978-952-441-258-2</p>
+<p><em type="italic">Saamelaiskäräjät 2014 </em></p>
+<p><em type="italic">___________________________________________________________________ </em> </p>
+<p>Sanne Jortikka, Outi Maijala, Teuvo Nyberg ja Matti Palosaari,</p>
+<p>piirrokset Jorma Happonen, saameksi Ilmari Mattus</p>
+<p type="title">Škoovlâ biologia ja eennâmtiätu 5</p>
+<p>(Koulun biologia ja maantieto 5,  Otava 2007)</p>
+<p>Koulun biologia ja maantieto -kirjasarja vie lukijansa seikkailulle maailman ihmisten, eläinten ja kasvien pariin. Samalla pohditaan, miten ihminen on sopeutunut elämään eri puolilla maapalloa ja miten ihmisten toimet ovat vaikuttaneet maapallon luontoon.</p>
+<p>Koulun biologia ja maantieto 5 -kirjassa seikkailu alkaa niityn eliöiden opiskelulla. Eurooppa-jakson jälkeen tutustutaan maailman ja erityisesti Afrikan kasvillisuuteen ja eläimistöön.</p>
+<p>sivuja: 203</p>
+<p>hinta: 25,00 €</p>
+<p>taso: 5 lk</p>
+<p>ISBN 978-952-441-210-0</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em></p>
+<p><em type="italic">Työkirjassa </em> sovelletaan ja syvennetään opittua. Perustehtävien lisäksi työkirja sisältää tehtäviä, joiden tekemisen edellyttää omaa pohdintaa, johtopäätösten tekoa ja opittujen asioiden soveltamista. Tarkista tietosi ja taitosi –osiossa arvioidaan omaa osaamista ja kerrataan jakson sisältöä. </p>
+<p>sivuja: 160</p>
+<p>hinta: 18,00 €</p>
+<p>taso: 5 lk</p>
+<p>ISBN 978-952-441-221-6</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em></p>
+<p><em type="italic">___________________________________________________________________ </em> </p>
+<p>Satu Arjanne, Matti Leinonen, Teuvo Nyberg, Matti Palosaari ja Päivi Vehmas;</p>
+<p>piirrokset Jorma Happonen, saameksi Ilmari Mattus</p>
+<p type="title">Škoovlâ biologia ja eennâmtiätu 6</p>
+<p>Alkuperäisteos: Koulun biologia ja maantieto 6,  Otava 2008-2009)</p>
+<p>Tässä oppikirjassa on biologiaa, maantietoa ja terveystietoa. Biologian jaksoissa opit metsän eliölajeja sekä saat tietoa siitä, miten metsän ravintoketjut synty-vät. Maantiedossa tutustut maapallon luontoon ja ihmisen elämään eri puolella maapalloa. Saat tietää, miten ihmiset Aasiassa ja Australiassa elävät sekä tutustut näiden maanosien eläin- ja kasvilajeihin.</p>
+<p>sivuja: 171</p>
+<p>hinta: 25,00 €</p>
+<p>taso: 6 lk</p>
+<p>ISBN 978-952-441-209-4</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em></p>
+<p><em type="italic">Työkirjassa </em> sovelletaan ja syvennetään opittuja asioita. Perustehtävien lisäksi työkirjassa on tehtäviä, joiden tekeminen vaatii pohtimista, johtopäätösten tekemistä sekä opitun soveltamista. Tarkista tietosi ja taitosi -osassa voi arvioida omaa osaamistaan ja kerrata oppikirjan sisältöä. </p>
+<p>sivuja: 123</p>
+<p>hinta: 14,00 €</p>
+<p>taso: 6 lk</p>
+<p>ISBN 978-952-441-223-0</p>
+<p><em type="italic">Saamelaiskäräjät 2011 </em></p>
+</body></document>

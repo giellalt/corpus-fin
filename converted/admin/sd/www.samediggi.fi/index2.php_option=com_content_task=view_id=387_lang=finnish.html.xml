@@ -1,46 +1,22 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>166</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=387&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=387_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=387_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=387_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</p>
-    <p>Saamelaiskäräjät jakoi koulujen kevätjuhlissa stipendejä saamen kielen opinnoissa hyvin menestyneille oppilaille. Stipendi annettiin yhteensä kahdelletoista saamen kielen kokeen ylioppilastutkinnossa suorittaneelle ja kolmelletoista perusopetuksen päättäneelle oppilaalle.</p>
-    <p>Saamelaiskäräjien stipendin saivat seuraavat nuoret:</p>
-    <p type="title" xml:lang="kal">Ylioppilaat:</p>
-    <p xml:lang="smn">Madetojan musiikkilukio, Oulu: Unna-Maari Pulska (pohjoissaame)</p>
-    <p>Enontekiön lukio: Rosa-Máren Magga (pohjoissaame) ja Mareena Keskitalo (pohjoissaame)</p>
-    <p>Ivalon lukio: Milla Moilanen (inarinsaame), Arla Magga (pohjoissaame) ja Essi Ranttila (pohjoissaame)</p>
-    <p>Utsjoen saamelaislukio: Anni Kaisa Koivisto (pohjoissaame)</p>
-    <p>Haukiputaan lukio: Heija Länsman (pohjoissaame)</p>
-    <p>Lyseonpuiston lukio, Rovaniemi: Inga Maaret Aikioniemi (pohjoissaame)</p>
-    <p>Sodankylän lukio: Elli-Marja Hetta (pohjoissaame), Miira Suomi (pohjoissaame) ja Roosa Nuorgam (pohjoissaame)</p>
-    <p type="title">Perusopetuksen suorittaneet oppilaat:</p>
-    <p>Hetan yläkoulu: Juhán-Tuommá Magga (pohjoissaame) ja Iina-Marja Juuso (pohjoissaame)</p>
-    <p>Inarin yläkoulu: Gabriela Satokangas (pohjoissaame) ja Tytti Kuusisto (koltansaame)</p>
-    <p>Ivalon yläkoulu: Sara Nuorgam (pohjoissaame)</p>
-    <p>Sevettijärven koulu: Anna-Katariina Feodoroff (koltansaame)</p>
-    <p>Karigasniemen koulu: Matias West (pohjoissaame) ja Nora Pieski (pohjoissaame)</p>
-    <p>Vuotson koulu: Jouni Hetta (pohjoissaame)</p>
-    <p>Aleksanteri Kenan koulu, Sodankylän kk: Teemu Hietala (pohjoissaame)</p>
-    <p>Napapiirin yläaste: Katja Anttonen (pohjoissaame), Eero Anttila (pohjoissaame) ja Jussa Rahko (pohjoissaame)</p>
-    <p>Saamelaiskäräjät toivottaa onnea ja hyvää kesälomaa kaikille!</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</title><genre code="admin"/><author><unknown/></author><wordcount>166</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=387&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=387_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=387_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=387_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaiskäräjät jakoi stipendejä saamen kielen oppilaille</p>
+<p>Saamelaiskäräjät jakoi koulujen kevätjuhlissa stipendejä saamen kielen opinnoissa hyvin menestyneille oppilaille. Stipendi annettiin yhteensä kahdelletoista saamen kielen kokeen ylioppilastutkinnossa suorittaneelle ja kolmelletoista perusopetuksen päättäneelle oppilaalle.</p>
+<p>Saamelaiskäräjien stipendin saivat seuraavat nuoret:</p>
+<p type="title" xml:lang="kal">Ylioppilaat:</p>
+<p xml:lang="smn">Madetojan musiikkilukio, Oulu: Unna-Maari Pulska (pohjoissaame)</p>
+<p>Enontekiön lukio: Rosa-Máren Magga (pohjoissaame) ja Mareena Keskitalo (pohjoissaame)</p>
+<p>Ivalon lukio: Milla Moilanen (inarinsaame), Arla Magga (pohjoissaame) ja Essi Ranttila (pohjoissaame)</p>
+<p>Utsjoen saamelaislukio: Anni Kaisa Koivisto (pohjoissaame)</p>
+<p>Haukiputaan lukio: Heija Länsman (pohjoissaame)</p>
+<p>Lyseonpuiston lukio, Rovaniemi: Inga Maaret Aikioniemi (pohjoissaame)</p>
+<p>Sodankylän lukio: Elli-Marja Hetta (pohjoissaame), Miira Suomi (pohjoissaame) ja Roosa Nuorgam (pohjoissaame)</p>
+<p type="title">Perusopetuksen suorittaneet oppilaat:</p>
+<p>Hetan yläkoulu: Juhán-Tuommá Magga (pohjoissaame) ja Iina-Marja Juuso (pohjoissaame)</p>
+<p>Inarin yläkoulu: Gabriela Satokangas (pohjoissaame) ja Tytti Kuusisto (koltansaame)</p>
+<p>Ivalon yläkoulu: Sara Nuorgam (pohjoissaame)</p>
+<p>Sevettijärven koulu: Anna-Katariina Feodoroff (koltansaame)</p>
+<p>Karigasniemen koulu: Matias West (pohjoissaame) ja Nora Pieski (pohjoissaame)</p>
+<p>Vuotson koulu: Jouni Hetta (pohjoissaame)</p>
+<p>Aleksanteri Kenan koulu, Sodankylän kk: Teemu Hietala (pohjoissaame)</p>
+<p>Napapiirin yläaste: Katja Anttonen (pohjoissaame), Eero Anttila (pohjoissaame) ja Jussa Rahko (pohjoissaame)</p>
+<p>Saamelaiskäräjät toivottaa onnea ja hyvää kesälomaa kaikille!</p>
+</body></document>

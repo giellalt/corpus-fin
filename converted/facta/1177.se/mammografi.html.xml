@@ -1,110 +1,65 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1194</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Undersokningarprover/Mammografi</origFileName>
-    <parallel_text xml:lang="eng" location="mammografi.html"/>
-    <parallel_text xml:lang="fit" location="mammografi.html"/>
-    <parallel_text xml:lang="sma" location="mammografi.html"/>
-    <parallel_text xml:lang="sme" location="mammografi.html"/>
-    <parallel_text xml:lang="smj" location="mammografi.html"/>
-    <parallel_text xml:lang="swe" location="mammografi.html"/>
-    <parallel_text location="mammografi.html" xml:lang="rmy-rka"/>
-    <parallel_text location="mammografi.html" xml:lang="rmn"/>
-    <parallel_text location="mammografi.html" xml:lang="rmu"/>
-    <parallel_text location="mammografi.html" xml:lang="yid"/>
-    <parallel_text location="mammografi.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mammografi.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Mammografia / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">MammografiaMammografi</p>
-    <p type="title">Yhteenveto</p>
-    <p type="title">Yhteenveto</p>
-    <p type="title">Yleistä</p>
-    <p>Mammografia on rintojen röntgenkuvaustutkimus erityisellä röntgentekniikalla, jolla saadaan yksityiskohtaisia kuvia.</p>
-    <p>Tutkimus voidaan tehdä ennalta ehkäisevässä tarkoituksessa terveystutkimuksena, eli ns. seulontana, tai naisen itsensä tai lääkärin huomattua rinnassa jonkin muutoksen.</p>
-    <p>Mammografiaa ei saa tehdä terveystarkastuksena, jos nainen on raskaana tai jos lääkäri epäilee, että rinnassa on märkäpesäke.</p>
-    <p type="title">Valmistelut</p>
-    <p>Mitään erityisiä valmisteluja ei tarvitse tehdä.</p>
-    <p type="title">Miten tutkimus tehdään?</p>
-    <p>Tutkimus tehdään usein mammografiayksikössä, joka voi olla erillinen yksikkö tai osa sairaalan röntgenosastoa. Mammografiatutkimuksia tehdään myös erityisillä rintavastaanotoilla ja eräissä terveyskeskuksissa.</p>
-    <p>Ensin röntgenhoitaja kysyy muun muassa, onko rinnoissa ollut vaivoja tai käyttääkö kuvattava hormoneja sisältäviä lääkkeitä.</p>
-    <p>Sitten kuvattava saa riisua ylävartalon paljaaksi ja sairaanhoitaja tutkii rinnat silmämääräisesti etsien mahdollisia näkyviä muutoksia, kuten esimerkiksi suurehkoja syntymämerkkejä tai arpia aikaisemmista leikkauksista. Ne voivat näkyä röntgenkuvissa ja vaikeuttaa arviointia.</p>
-    <p>Röntgentutkimuksen aikana seistään ja asetetaan rinta kerrallaan levylle, jossa on ns. kuvailmaisin. Rintaa puristetaan toisella levyllä niin, että rinnasta tulee melko litteä. Tällöin kuvasta tulee selkeä ja samalla säteilyannos voidaan pitää alhaisena. Käsivartta pidetään ylhäällä nojaamassa laitetta vasten sen ajan, kun otetaan kahdesta kolmeen kuvaa. Sitten sama menettely toistetaan toiselle rinnalle.</p>
-    <p>Rinnan puristaminen kasaan voi tuntua epämiellyttävältä tai sattua pienen hetken.</p>
-    <p type="title">Miltä tutkimuksen jälkeen tuntuu?</p>
-    <p>Tutkimuksen jälkeen vointi on sama kuin ennenkin.</p>
-    <p xml:lang="swe">Visa mer</p>
-    <p type="title">Miksi tutkimus on tarpeen?</p>
-    <list>
-      <p type="listitem">Kyhmyt on helpoin tuntea suihkussa, kun rinnat on saippuoitu. Nosta käsivartta ja tunnustele rinnat ja kainalokuoppa perusteellisesti suorin sormin ja kevyin painalluksin...</p>
-      <p type="listitem">...tee pieniä pyöriviä liikkeitä, kierros kierrokselta koko rinnan alueella. Aloita nännin ympäriltä ja lopeta kainalokuoppaan.</p>
-    </list>
-    <p type="title">Rintojen röntgenkuvaus</p>
-    <p>Mammografiatutkimuksessa rinnat röntgenkuvataan tekniikalla, jolla saadaan hyvin yksityiskohtaisia kuvia.</p>
-    <p>Mammografia tehdään joko ennalta ehkäisevänä terveystutkimuksena, ns. seulontana, tai siksi, että nainen itse tai lääkäri on tuntenut rinnassa uuden kyhmyn. Vuosittain Ruotsissa tehdään yli 500 000 rintaröntgentutkimusta.</p>
-    <p type="title">Menetelmä rintasyövän varhaiseen havaitsemiseen</p>
-    <p>Sosiaalihallitus suosittaa mammografiaa 40–74-vuotiaille naisille. Maakäräjät tarjoaa kaikille 50–69-vuotiaille naisille mahdollisuuden käydä mammografiatutkimuksessa. Useimmissa lääneissä tarjotaan tutkimusta lisäksi 40–74-vuotiaille, mutta tutkimusten aloittamisikä ja tutkimusajanjaksojen kesto vaihtelevat. Nuoremmille naisille tutkimuksia tehdään tavallisesti puolentoista vuoden välein. Vanhemmat naiset kutsutaan useimmiten joka toinen vuosi.</p>
-    <p>Näissä terveystarkastuksissa rintasyöpäkasvain voidaan havaita ennen kuin se aiheuttaa mitään oireita tai ennen kuin sitä edes voi tuntea rinnassa.</p>
-    <p>Tieteelliset tutkimukset ovat osoittaneet, että mammografian käsittäneisiin terveystarkastuksiin osallistuneilla naisilla kuolleisuus rintasyöpään vähenee 40 prosenttia.</p>
-    <p>Myöhään tehdyn löydöksen vaara on, että syöpä on ehtinyt levitä, ja silloin tarvitaan enemmän ja vaikeampia hoitoja kuin jos kasvain havaitaan varhain.</p>
-    <p type="title">Tunnustele rintojasi säännöllisesti</p>
-    <p>Naisen rintojen koostumus ei ole tasainen. Se johtuu siitä, että rinnoissa on sekä maitorauhasia että rasvakudosta, minkä johdosta ne tuntuvat epätasaisilta. 50 vuoden iässä rinnat pehmenevät, koska maitorauhaset taantuvat ja niiden tilalle tulee rasvakudosta.</p>
-    <p>Naisen kuukautiskierron aikana tapahtuvat hormonimuutokset vaikuttavat rintoihin, ja siksi rinnat voivat tuntua aivan erilaisilta sen mukaan, milloin niitä tutkitaan. Kuukautisten viimeisen päivän jälkeinen päivä voi olla hyvä päivä tunnustella rintoja itse, koska silloin rinnat ovat yleensä pehmeät ja helpot tutkia.</p>
-    <p>Kaikkien naisten täytyy tutkia rintojaan säännöllisesti. Kannattaa valita tietty päivä kuukaudessa, jotta voi helpommin verrata tuntemuksiaan. Hyvä tilaisuus voi olla suihkussa, koska tunnustelu on helpompaa rintojen ollessa saippuoituina. Tunnustelu tulisi tehdä sekä seisten että makuuasennossa.</p>
-    <p type="title">Hyvänlaatuiset kyhmyt tavallisia</p>
-    <p>Kyhmyn tai tiivistymän löytyminen kudoksesta saattaa aiheuttaa levottomuutta, mutta useimmiten kyseessä on hyvänlaatuinen muutos, erityisesti nuorilla naisilla. Se voi olla kysta, ts. nestetäyteinen rakkula, tai sidekudoksen hyvänlaatuinen paksunnos.</p>
-    <p type="title">Lääkärin täytyy tutkia kaikki muutokset</p>
-    <p>Muutos rintarauhasessa voi olla kuitenkin rintasyövän aiheuttama. Rintasyöpä kuuluu naisten yleisimpiin syöpämuotoihin. Ruotsissa noin 7 000 naista ja 40 miestä saa vuosittain rintasyövän. Rintasyövän riski kasvaa iän myötä.</p>
-    <p>Rintasyövän tavallinen oire on kyhmy rinnassa tai kainalokuopassa. Toinen oire on nännin tai rinnan ihon vetäytyminen sisään.</p>
-    <p>Epätavallisempia oireita ovat rinnan selittämätön punoitus tai turvotus, parantumaton haavauma tai verensekaisen nesteen vuotaminen nännistä.</p>
-    <p>Kaikkiin rinnoissa ilmeneviin muutoksiin täytyy suhtautua vakavasti ja antaa ne lääkärin tutkittavaksi. Tällöin voi hakeutua terveyskeskukseen, naisten terveyskeskukseen tai erityiselle rintavastaanotolle, joita on eräissä suurissa sairaaloissa. Lääkäri tunnustelee rintoja tarkasti ja päättää, tehdäänkö mammografiatutkimus.</p>
-    <p type="title">Näin se käy</p>
-    <list>
-      <p type="listitem">Rinta kerrallaan asetetaan levylle, joka sisältää kasetin röntgenfilmeineen. Sitten rinta puristetaan litteäksi ja otetaan kahdesta kolmeen kuvaa.</p>
-    </list>
-    <p type="title">Tarvitaan erikoisröntgenlaite</p>
-    <p>Mammografia tehdään usein mammografiayksikössä, joka voi olla erillinen yksikkö tai osa sairaalan röntgenosastoa. Tutkimuksia tehdään myös erityisillä rintavastaanotoilla ja eräissä terveyskeskuksissa.</p>
-    <p>Käytettävä röntgenlaite on erityisesti muotoiltu ottamaan hyviä kuvia rintakudoksesta heikon röntgensäteilyn avulla. Eräissä tapauksissa voidaan havaita jopa vain muutaman millimetrin kokoisia syöpäkasvaimia.</p>
-    <p type="title">Näin se käy</p>
-    <p>Mitään erityisiä valmisteluja ei tarvitse tehdä. Ensin tutkittava vastaa muutamiin kysymyksiin ja kertoo, onko rinnoissa ollut vaivoja tai käyttääkö hän hormoneja sisältäviä lääkkeitä. Sitten saa riisua ylävartalon paljaaksi ja sairaanhoitaja tutkii rinnat silmämääräisesti etsien mahdollisia näkyviä muutoksia, kuten esimerkiksi suurehkoja syntymämerkkejä tai arpia aikaisemmista leikkauksista. Ne voivat näkyä röntgenkuvissa ja voidaan virheellisesti tulkita syöpäkasvaimiksi.</p>
-    <p>Sitten kuvattava siirtyy röntgenlaitteen ääreen ja seisoo sen edessä. Rinta kerrallaan asetetaan levylle, jossa on kuvailmaisin. Rintaa puristetaan sitten läpinäkyvällä levyllä, jota painetaan rintaa vasten. Käsivartta pidetään ylhäällä nojaamassa laitetta vasten sen ajan, kun otetaan kahdesta kolmeen kuvaa. On tärkeää olla aivan liikkumatta. Sitten sama menettely toistetaan toiselle rinnalle. Koko tutkimukseen kuluu noin 15–30 minuuttia, varsinainen kuvaus kestää viidestä kymmeneen minuuttia.</p>
-    <p type="title">Miltä mammografia tuntuu?</p>
-    <p>Rinnan puristaminen litteäksi voi tuntua epämiellyttävältä tai sattua pienen hetken. Mutta se täytyy tehdä, koska siten kuvan laadusta tulee parempi ja tutkimuksesta varmempi. Lisäksi voidaan käyttää pienempää säteilyannosta kuin jos rintaa ei puristettaisi litteäksi.</p>
-    <p type="title">Joskus tarvitaan uusi tutkimus</p>
-    <p>Useimmiten mammografiakuvat tulkitsee kaksi röntgenlääkäriä toisistaan riippumatta. Tämä lisää tulkinnan varmuutta. Jos he löytävät jotakin poikkeavaa, kuvattava kutsutaan uuteen tutkimukseen. Silloin otetaan lisää mammografiakuvia ja usein kuvattava tutkitaan myös ultraäänitutkimuksella.</p>
-    <p>Lääkäri saattaa ottaa myös näytteen muutoksesta. Jos muutos on pieni ja vaikea tunnustella, näyte voidaan ottaa uuden mammografian tai ultraäänitutkimuksen yhteydessä. Muutokseen pistetään ohut neula, jolla imetään solunäyte. Näyte lähetetään mikroskooppitutkimuksiin. Kaikki tämä tehdään, jotta saadaan varmuus siitä, onko kyseessä syöpä vai ei.</p>
-    <p>Mammografiatutkimuksen vastaus lähetetään suoraan kotiin kahden viikon kuluessa, jos tutkittava on kutsuttu terveystarkastukseen. Jos tutkittava kutsutaan uudestaan mammografiaan, hän saa tiedon tutkimustuloksesta lääkäriltään.</p>
-    <p type="title">Hormonihoito voi vaikeuttaa tulkintaa</p>
-    <p>Jotkut naiset saavat vaihdevuosien aikana tai niiden jälkeen hormonihoitoa tai syövät e-pillereitä. Tällaiset hoidot vaikuttavat rintakudokseen tiivistäen sitä, mikä vaikeuttaa mammografiakuvien tulkintaa. Siksi on tärkeää kertoa, jos käyttää hormoneja sisältäviä lääkkeitä.</p>
-    <p type="title">Tutkimus ei ole vaarallinen</p>
-    <p>Säteilymäärä, jolle mammografiatutkimuksessa altistutaan, on niin pieni, ettei sen katsota aiheuttavan mitään riskejä. Lisäksi tekniikkaa kehitetään koko ajan säteilyannosten pienentämiseksi entisestään. Mammografiatutkimuksista ei siis tule jäädä pois, kun niihin on kutsuttu tai jos itse havaitsee muutoksen rinnassaan.</p>
-    <p>Mammografiatutkimus onnistuu aivan hyvin myös, vaikka tutkittavalla olisi rintaimplantti. Mitään vaaraa implantin rikkoutumisesta ei ole, mutta jos rintaa ei voida puristaa litteäksi samalla tavalla kuin ilman implanttia, voidaan tarvita yksilöllisesti sopeutettu tutkimus. Usein mammografiaa täydennetään rintojen tunnustelulla ja ultraäänitutkimuksella.</p>
-    <p type="title">Keitä ei tule tutkia mammografialla?</p>
-    <p>Kun nainen on hyvin nuori, hänet on yleensä tarpeen tutkia ultraäänellä mammografian sijasta. Se johtuu siitä, että rinnan rauhaskudos on niin tiivistä, että mammografiakuvista tulee vaikeita tulkita. Silloin ultraäänellä saadaan varmempi vastaus.</p>
-    <p>Jos lääkäri epäilee, että rinnassa on märkäpesäke, mammografiaa ei tavallisesti tehdä, koska silloin rinnan puristaminen litteäksi on kivuliasta. Sen sijaan on hyvä käydä ultraäänitutkimuksessa, jossa nähdään, onko rinnassa tyhjennystä edellyttävä paise. Kun tulehdus on hoidettu, täytyy sitä vastoin tehdä mammografiatutkimus. Se on erityisen tärkeää, jos tutkittava on iäkäs.</p>
-    <p>Raskaana olevalle naiselle ei tehdä terveystarkastuksena terveystutkimusta eli ns. seulontaa. Jos rinnasta löydetään muutos, täytyy aina ottaa yhteys terveydenhuoltoon ja antaa pikaisesti tutkia itsensä, vaikka onkin raskaana. Silloin tutkimus aloitetaan ultraäänellä ja sitä täydennetään tarvittaessa mammografialla.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1190</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Undersokningarprover/Mammografi</origFileName><parallel_text xml:lang="eng" location="mammografi.html"/><parallel_text xml:lang="fit" location="mammografi.html"/><parallel_text xml:lang="sma" location="mammografi.html"/><parallel_text xml:lang="sme" location="mammografi.html"/><parallel_text xml:lang="smj" location="mammografi.html"/><parallel_text xml:lang="swe" location="mammografi.html"/><parallel_text location="mammografi.html" xml:lang="rmy-rka"/><parallel_text location="mammografi.html" xml:lang="rmn"/><parallel_text location="mammografi.html" xml:lang="rmu"/><parallel_text location="mammografi.html" xml:lang="yid"/><parallel_text location="mammografi.html" xml:lang="rmy-rlo"/><parallel_text location="mammografi.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Mammografia / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">MammografiaMammografi</p>
+<p type="title">Yhteenveto</p>
+<p type="title">Yhteenveto</p>
+<p type="title">Yleistä</p>
+<p>Mammografia on rintojen röntgenkuvaustutkimus erityisellä röntgentekniikalla, jolla saadaan yksityiskohtaisia kuvia.</p>
+<p>Tutkimus voidaan tehdä ennalta ehkäisevässä tarkoituksessa terveystutkimuksena, eli ns. seulontana, tai naisen itsensä tai lääkärin huomattua rinnassa jonkin muutoksen.</p>
+<p>Mammografiaa ei saa tehdä terveystarkastuksena, jos nainen on raskaana tai jos lääkäri epäilee, että rinnassa on märkäpesäke.</p>
+<p type="title">Valmistelut</p>
+<p>Mitään erityisiä valmisteluja ei tarvitse tehdä.</p>
+<p type="title">Miten tutkimus tehdään?</p>
+<p>Tutkimus tehdään usein mammografiayksikössä, joka voi olla erillinen yksikkö tai osa sairaalan röntgenosastoa. Mammografiatutkimuksia tehdään myös erityisillä rintavastaanotoilla ja eräissä terveyskeskuksissa.</p>
+<p>Ensin röntgenhoitaja kysyy muun muassa, onko rinnoissa ollut vaivoja tai käyttääkö kuvattava hormoneja sisältäviä lääkkeitä.</p>
+<p>Sitten kuvattava saa riisua ylävartalon paljaaksi ja sairaanhoitaja tutkii rinnat silmämääräisesti etsien mahdollisia näkyviä muutoksia, kuten esimerkiksi suurehkoja syntymämerkkejä tai arpia aikaisemmista leikkauksista. Ne voivat näkyä röntgenkuvissa ja vaikeuttaa arviointia.</p>
+<p>Röntgentutkimuksen aikana seistään ja asetetaan rinta kerrallaan levylle, jossa on ns. kuvailmaisin. Rintaa puristetaan toisella levyllä niin, että rinnasta tulee melko litteä. Tällöin kuvasta tulee selkeä ja samalla säteilyannos voidaan pitää alhaisena. Käsivartta pidetään ylhäällä nojaamassa laitetta vasten sen ajan, kun otetaan kahdesta kolmeen kuvaa. Sitten sama menettely toistetaan toiselle rinnalle.</p>
+<p>Rinnan puristaminen kasaan voi tuntua epämiellyttävältä tai sattua pienen hetken.</p>
+<p type="title">Miltä tutkimuksen jälkeen tuntuu?</p>
+<p>Tutkimuksen jälkeen vointi on sama kuin ennenkin.</p>
+<p xml:lang="swe">Visa mer</p>
+<p type="title">Miksi tutkimus on tarpeen?</p>
+<list><p type="listitem">Kyhmyt on helpoin tuntea suihkussa, kun rinnat on saippuoitu. Nosta käsivartta ja tunnustele rinnat ja kainalokuoppa perusteellisesti suorin sormin ja kevyin painalluksin...</p>
+<p type="listitem">...tee pieniä pyöriviä liikkeitä, kierros kierrokselta koko rinnan alueella. Aloita nännin ympäriltä ja lopeta kainalokuoppaan.</p>
+</list><p type="title">Rintojen röntgenkuvaus</p>
+<p>Mammografiatutkimuksessa rinnat röntgenkuvataan tekniikalla, jolla saadaan hyvin yksityiskohtaisia kuvia.</p>
+<p>Mammografia tehdään joko ennalta ehkäisevänä terveystutkimuksena, ns. seulontana, tai siksi, että nainen itse tai lääkäri on tuntenut rinnassa uuden kyhmyn. Vuosittain Ruotsissa tehdään yli 500 000 rintaröntgentutkimusta.</p>
+<p type="title">Menetelmä rintasyövän varhaiseen havaitsemiseen</p>
+<p>Sosiaalihallitus suosittaa mammografiaa 40–74-vuotiaille naisille. Maakäräjät tarjoaa kaikille 50–69-vuotiaille naisille mahdollisuuden käydä mammografiatutkimuksessa. Useimmissa lääneissä tarjotaan tutkimusta lisäksi 40–74-vuotiaille, mutta tutkimusten aloittamisikä ja tutkimusajanjaksojen kesto vaihtelevat. Nuoremmille naisille tutkimuksia tehdään tavallisesti puolentoista vuoden välein. Vanhemmat naiset kutsutaan useimmiten joka toinen vuosi.</p>
+<p>Näissä terveystarkastuksissa rintasyöpäkasvain voidaan havaita ennen kuin se aiheuttaa mitään oireita tai ennen kuin sitä edes voi tuntea rinnassa.</p>
+<p>Tieteelliset tutkimukset ovat osoittaneet, että mammografian käsittäneisiin terveystarkastuksiin osallistuneilla naisilla kuolleisuus rintasyöpään vähenee 40 prosenttia.</p>
+<p>Myöhään tehdyn löydöksen vaara on, että syöpä on ehtinyt levitä, ja silloin tarvitaan enemmän ja vaikeampia hoitoja kuin jos kasvain havaitaan varhain.</p>
+<p type="title">Tunnustele rintojasi säännöllisesti</p>
+<p>Naisen rintojen koostumus ei ole tasainen. Se johtuu siitä, että rinnoissa on sekä maitorauhasia että rasvakudosta, minkä johdosta ne tuntuvat epätasaisilta. 50 vuoden iässä rinnat pehmenevät, koska maitorauhaset taantuvat ja niiden tilalle tulee rasvakudosta.</p>
+<p>Naisen kuukautiskierron aikana tapahtuvat hormonimuutokset vaikuttavat rintoihin, ja siksi rinnat voivat tuntua aivan erilaisilta sen mukaan, milloin niitä tutkitaan. Kuukautisten viimeisen päivän jälkeinen päivä voi olla hyvä päivä tunnustella rintoja itse, koska silloin rinnat ovat yleensä pehmeät ja helpot tutkia.</p>
+<p>Kaikkien naisten täytyy tutkia rintojaan säännöllisesti. Kannattaa valita tietty päivä kuukaudessa, jotta voi helpommin verrata tuntemuksiaan. Hyvä tilaisuus voi olla suihkussa, koska tunnustelu on helpompaa rintojen ollessa saippuoituina. Tunnustelu tulisi tehdä sekä seisten että makuuasennossa.</p>
+<p type="title">Hyvänlaatuiset kyhmyt tavallisia</p>
+<p>Kyhmyn tai tiivistymän löytyminen kudoksesta saattaa aiheuttaa levottomuutta, mutta useimmiten kyseessä on hyvänlaatuinen muutos, erityisesti nuorilla naisilla. Se voi olla kysta, ts. nestetäyteinen rakkula, tai sidekudoksen hyvänlaatuinen paksunnos.</p>
+<p type="title">Lääkärin täytyy tutkia kaikki muutokset</p>
+<p>Muutos rintarauhasessa voi olla kuitenkin rintasyövän aiheuttama. Rintasyöpä kuuluu naisten yleisimpiin syöpämuotoihin. Ruotsissa noin 7 000 naista ja 40 miestä saa vuosittain rintasyövän. Rintasyövän riski kasvaa iän myötä.</p>
+<p>Rintasyövän tavallinen oire on kyhmy rinnassa tai kainalokuopassa. Toinen oire on nännin tai rinnan ihon vetäytyminen sisään.</p>
+<p>Epätavallisempia oireita ovat rinnan selittämätön punoitus tai turvotus, parantumaton haavauma tai verensekaisen nesteen vuotaminen nännistä.</p>
+<p>Kaikkiin rinnoissa ilmeneviin muutoksiin täytyy suhtautua vakavasti ja antaa ne lääkärin tutkittavaksi. Tällöin voi hakeutua terveyskeskukseen, naisten terveyskeskukseen tai erityiselle rintavastaanotolle, joita on eräissä suurissa sairaaloissa. Lääkäri tunnustelee rintoja tarkasti ja päättää, tehdäänkö mammografiatutkimus.</p>
+<p type="title">Näin se käy</p>
+<list><p type="listitem">Rinta kerrallaan asetetaan levylle, joka sisältää kasetin röntgenfilmeineen. Sitten rinta puristetaan litteäksi ja otetaan kahdesta kolmeen kuvaa.</p>
+</list><p type="title">Tarvitaan erikoisröntgenlaite</p>
+<p>Mammografia tehdään usein mammografiayksikössä, joka voi olla erillinen yksikkö tai osa sairaalan röntgenosastoa. Tutkimuksia tehdään myös erityisillä rintavastaanotoilla ja eräissä terveyskeskuksissa.</p>
+<p>Käytettävä röntgenlaite on erityisesti muotoiltu ottamaan hyviä kuvia rintakudoksesta heikon röntgensäteilyn avulla. Eräissä tapauksissa voidaan havaita jopa vain muutaman millimetrin kokoisia syöpäkasvaimia.</p>
+<p type="title">Näin se käy</p>
+<p>Mitään erityisiä valmisteluja ei tarvitse tehdä. Ensin tutkittava vastaa muutamiin kysymyksiin ja kertoo, onko rinnoissa ollut vaivoja tai käyttääkö hän hormoneja sisältäviä lääkkeitä. Sitten saa riisua ylävartalon paljaaksi ja sairaanhoitaja tutkii rinnat silmämääräisesti etsien mahdollisia näkyviä muutoksia, kuten esimerkiksi suurehkoja syntymämerkkejä tai arpia aikaisemmista leikkauksista. Ne voivat näkyä röntgenkuvissa ja voidaan virheellisesti tulkita syöpäkasvaimiksi.</p>
+<p>Sitten kuvattava siirtyy röntgenlaitteen ääreen ja seisoo sen edessä. Rinta kerrallaan asetetaan levylle, jossa on kuvailmaisin. Rintaa puristetaan sitten läpinäkyvällä levyllä, jota painetaan rintaa vasten. Käsivartta pidetään ylhäällä nojaamassa laitetta vasten sen ajan, kun otetaan kahdesta kolmeen kuvaa. On tärkeää olla aivan liikkumatta. Sitten sama menettely toistetaan toiselle rinnalle. Koko tutkimukseen kuluu noin 15–30 minuuttia, varsinainen kuvaus kestää viidestä kymmeneen minuuttia.</p>
+<p type="title">Miltä mammografia tuntuu?</p>
+<p>Rinnan puristaminen litteäksi voi tuntua epämiellyttävältä tai sattua pienen hetken. Mutta se täytyy tehdä, koska siten kuvan laadusta tulee parempi ja tutkimuksesta varmempi. Lisäksi voidaan käyttää pienempää säteilyannosta kuin jos rintaa ei puristettaisi litteäksi.</p>
+<p type="title">Joskus tarvitaan uusi tutkimus</p>
+<p>Useimmiten mammografiakuvat tulkitsee kaksi röntgenlääkäriä toisistaan riippumatta. Tämä lisää tulkinnan varmuutta. Jos he löytävät jotakin poikkeavaa, kuvattava kutsutaan uuteen tutkimukseen. Silloin otetaan lisää mammografiakuvia ja usein kuvattava tutkitaan myös ultraäänitutkimuksella.</p>
+<p>Lääkäri saattaa ottaa myös näytteen muutoksesta. Jos muutos on pieni ja vaikea tunnustella, näyte voidaan ottaa uuden mammografian tai ultraäänitutkimuksen yhteydessä. Muutokseen pistetään ohut neula, jolla imetään solunäyte. Näyte lähetetään mikroskooppitutkimuksiin. Kaikki tämä tehdään, jotta saadaan varmuus siitä, onko kyseessä syöpä vai ei.</p>
+<p>Mammografiatutkimuksen vastaus lähetetään suoraan kotiin kahden viikon kuluessa, jos tutkittava on kutsuttu terveystarkastukseen. Jos tutkittava kutsutaan uudestaan mammografiaan, hän saa tiedon tutkimustuloksesta lääkäriltään.</p>
+<p type="title">Hormonihoito voi vaikeuttaa tulkintaa</p>
+<p>Jotkut naiset saavat vaihdevuosien aikana tai niiden jälkeen hormonihoitoa tai syövät e-pillereitä. Tällaiset hoidot vaikuttavat rintakudokseen tiivistäen sitä, mikä vaikeuttaa mammografiakuvien tulkintaa. Siksi on tärkeää kertoa, jos käyttää hormoneja sisältäviä lääkkeitä.</p>
+<p type="title">Tutkimus ei ole vaarallinen</p>
+<p>Säteilymäärä, jolle mammografiatutkimuksessa altistutaan, on niin pieni, ettei sen katsota aiheuttavan mitään riskejä. Lisäksi tekniikkaa kehitetään koko ajan säteilyannosten pienentämiseksi entisestään. Mammografiatutkimuksista ei siis tule jäädä pois, kun niihin on kutsuttu tai jos itse havaitsee muutoksen rinnassaan.</p>
+<p>Mammografiatutkimus onnistuu aivan hyvin myös, vaikka tutkittavalla olisi rintaimplantti. Mitään vaaraa implantin rikkoutumisesta ei ole, mutta jos rintaa ei voida puristaa litteäksi samalla tavalla kuin ilman implanttia, voidaan tarvita yksilöllisesti sopeutettu tutkimus. Usein mammografiaa täydennetään rintojen tunnustelulla ja ultraäänitutkimuksella.</p>
+<p type="title">Keitä ei tule tutkia mammografialla?</p>
+<p>Kun nainen on hyvin nuori, hänet on yleensä tarpeen tutkia ultraäänellä mammografian sijasta. Se johtuu siitä, että rinnan rauhaskudos on niin tiivistä, että mammografiakuvista tulee vaikeita tulkita. Silloin ultraäänellä saadaan varmempi vastaus.</p>
+<p>Jos lääkäri epäilee, että rinnassa on märkäpesäke, mammografiaa ei tavallisesti tehdä, koska silloin rinnan puristaminen litteäksi on kivuliasta. Sen sijaan on hyvä käydä ultraäänitutkimuksessa, jossa nähdään, onko rinnassa tyhjennystä edellyttävä paise. Kun tulehdus on hoidettu, täytyy sitä vastoin tehdä mammografiatutkimus. Se on erityisen tärkeää, jos tutkittava on iäkäs.</p>
+<p>Raskaana olevalle naiselle ei tehdä terveystarkastuksena terveystutkimusta eli ns. seulontaa. Jos rinnasta löydetään muutos, täytyy aina ottaa yhteys terveydenhuoltoon ja antaa pikaisesti tutkia itsensä, vaikka onkin raskaana. Silloin tutkimus aloitetaan ultraäänellä ja sitä täydennetään tarvittaessa mammografialla.</p>
+</body></document>

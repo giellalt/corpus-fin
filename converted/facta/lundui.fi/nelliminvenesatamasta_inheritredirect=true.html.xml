@@ -1,121 +1,93 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Nellimin venesatamasta - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>486</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/inarijarvimelojille/reittiselostus/nelliminvenesatamasta?inheritRedirect=true</origFileName>
-    <parallel_text xml:lang="eng" location="nellimharbour_inheritredirect=true.html"/>
-    <parallel_text xml:lang="sme" location="njellimafanash.html"/>
-    <parallel_text xml:lang="smn" location="njeellimkarbishaamman.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Inarijärvi melojille</p>
-    <list>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p><p type="listitem">Nanguniemen venesatama</p><p type="listitem">Nellimin venesatamasta</p><p type="listitem">Partakon suunnasta</p><p type="listitem">Veskoniemen venesatama</p></list> </p>
-      <p type="listitem">Vaativuus</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Björkö-Panike 12,5 km</p>
-      <p type="listitem">Herajärven kierros 30 - 61 km</p>
-      <p type="listitem">Hetta - Pallas 55 km</p>
-      <p type="listitem">Hossan vesireitit</p>
-      <p type="listitem">Inarijärvi melojille</p>
-      <p type="listitem">Inarin alueen vesireitit</p>
-      <p type="listitem">Itärajan kesäretkeilyreitti</p>
-      <p type="listitem">Kalottireitti 800 km</p>
-      <p type="listitem">Karhunkierros 82 km</p>
-      <p type="listitem">Kevon reitti 63 km</p>
-      <p type="listitem">Nuorttin retkeilyreitti 40 km</p>
-      <p type="listitem">Petranpolku 45 km</p>
-      <p type="listitem">Peuran polku 115 km</p>
-      <p type="listitem">Pieni Karhunkierros 12 km</p>
-      <p type="listitem">Piilolan polku 35 km</p>
-      <p type="listitem">Poronpolku 30 km</p>
-      <p type="listitem">Pyhä-Luosto reitti 45 km</p>
-      <p type="listitem">Ruijanpolku 35 km</p>
-      <p type="listitem">Ruostejärvi - Liesjärven kansallispuisto 24 km</p>
-      <p type="listitem">Ruostejärvi - Saari 14 km</p>
-      <p type="listitem">Sevettijärvi - Pulmanki 60 - 70 km</p>
-      <p type="listitem">Simojoen melontareitti 178 km</p>
-      <p type="listitem">Taitajan taival 31 km</p>
-      <p type="listitem">Tapion taival 20 km</p>
-      <p type="listitem">Virvatulten polku 19 km</p>
-    </list>
-    <list>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reittiselostus</p>
-      <p type="listitem">Vaativuus</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <list>
-      <p type="listitem">Inarin kirkonkylän venesatama</p>
-      <p type="listitem">Nanguniemen venesatama</p>
-      <p type="listitem">Nellimin venesatamasta</p>
-      <p type="listitem">Partakon suunnasta</p>
-      <p type="listitem">Veskoniemen venesatama</p>
-    </list>
-    <p>Melontareitin sivut</p>
-    <p type="title">Inarijärvi melojille</p>
-    <list>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p><p type="listitem">Nanguniemen venesatama</p><p type="listitem">Nellimin venesatamasta</p><p type="listitem">Partakon suunnasta</p><p type="listitem">Veskoniemen venesatama</p></list> </p>
-      <p type="listitem">Vaativuus</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Nellimin venesatamasta</p>
-    <p>Nellim on hyvä aloituspaikka melontaretkelle. Seuraavassa esitellään kaksi eri reittivaihtoehtoa, päivän retki ja kolmen päivän retki. Pidemmällä retkellä tulee varautua viettämään toinen yö omillaan, ilman rakennettuja palveluita.</p>
-    <p type="title">Päiväretki Speinniemeen</p>
-    <p>Venesatamasta tulee matkaa Peiliniemen veneilytukikohtaan (Speinniemi) reilu viisi kilometriä. Veneilytukikohdan nimen käytössä on ollut tavallista suurempaa vaihtelevuutta. On tavallista, että inarinsaamelaiset paikannimet ovat suomalaistuneet ja muuttaneet samalla merkitystään. Harvinaisempaa on, että samasta paikasta on käytössä useampia nimityksiä. Veneilytukikohdan viereisen niemen alkuperäinen nimi on "Speinnjárga". Sen lähtökohtana on ollut pohjoisnorjalainen mies Spein Sarak eli Sarak Svendsen. Vanhassa topografikartassa nimi on vääntynyt Peiliniemeksi eli merkitykseltään jo ihan muuksi (pohjoisaameksi peili on speadjal ja niemi on njárga). Inarin osoite- ja virkistyskartassa veneilytukikohta on puolestaan nimellä "Lusmanuora".</p>
-    <p>Nellimiin voi palata joko samoja jälkiä takaisin tai kiertämällä Lusmasaari. Saaren kierto kasvattaa paluumatkaa viidestä kilometristä 14 kilometriin. Päiväretken pituudeksi tulee siten joko kymmenen tai  19 kilometriä.</p>
-    <p type="title">Kartat</p>
-    <p type="title">Sähköinen kartta</p>
-    <p type="title">Kaamassaaren kierros</p>
-    <p>Kaksi päivää lisää retkeen tulee, kun jatkaa Speinniemestä Tyllylahden veneilytukikohtaan, jossa on telttailualue. Matkalla kannattaa poiketa Andreasnuoraan tutkimaan sen pohjoispuolella olevaa saksalaisten vankileiriä toisen maailmansodan ajalta. Vankileirin rakennukset ovat jo pääosin lahonneet, mutta jotakin leiristä on vielä jäljellä. Ensimmäisen päivän melonnan pituudeksi tulee 22 kilometriä. Tyllylahden ohella on mahdollisuus majoittua sitä vastapäätä olevalla Punaisella tuvalla, joka on autiotupa. Punainen tupa on Inarin osoite- ja virkistyskartalla nimellä "Kaikunuora". Kaamassaari kierretään pitkin kapeita salmia. Ei ole mahdotonta, että merikotka kaartelee taivaalla, tästä linnusta järvellä on säännöllisiä havaintoja. Matka jatkuu Kovasaaren ja Kaamassaaren väliseen salmeen, jonka jälkeen vastassa avoin Satapetäjäselkä. Täällä on tutkittava tuulen suuntaa koska selkä kannattaa kiertää suojan puolelta. Paluumatka Nellimiin joko Speinniemen kautta tai Satapetäjäselän yli Tervasaaren lounaislaitaan ja Lusmasaaren pohjoispuolelta. Matkaa Tyllylahdesta Nellimiin tulee noin 30 kilometriä.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Nellimin venesatamasta - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>486</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/inarijarvimelojille/reittiselostus/nelliminvenesatamasta?inheritRedirect=true</origFileName><parallel_text xml:lang="eng" location="nellimharbour_inheritredirect=true.html"/><parallel_text xml:lang="sme" location="njellimafanash.html"/><parallel_text xml:lang="smn" location="njeellimkarbishaamman.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Inarijärvi melojille</p>
+<list><p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p>
+<p type="listitem">Nanguniemen venesatama</p>
+<p type="listitem">Nellimin venesatamasta</p>
+<p type="listitem">Partakon suunnasta</p>
+<p type="listitem">Veskoniemen venesatama</p>
+</list> </p>
+<p type="listitem">Vaativuus</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Björkö-Panike 12,5 km</p>
+<p type="listitem">Herajärven kierros 30 - 61 km</p>
+<p type="listitem">Hetta - Pallas 55 km</p>
+<p type="listitem">Hossan vesireitit</p>
+<p type="listitem">Inarijärvi melojille</p>
+<p type="listitem">Inarin alueen vesireitit</p>
+<p type="listitem">Itärajan kesäretkeilyreitti</p>
+<p type="listitem">Kalottireitti 800 km</p>
+<p type="listitem">Karhunkierros 82 km</p>
+<p type="listitem">Kevon reitti 63 km</p>
+<p type="listitem">Nuorttin retkeilyreitti 40 km</p>
+<p type="listitem">Petranpolku 45 km</p>
+<p type="listitem">Peuran polku 115 km</p>
+<p type="listitem">Pieni Karhunkierros 12 km</p>
+<p type="listitem">Piilolan polku 35 km</p>
+<p type="listitem">Poronpolku 30 km</p>
+<p type="listitem">Pyhä-Luosto reitti 45 km</p>
+<p type="listitem">Ruijanpolku 35 km</p>
+<p type="listitem">Ruostejärvi - Liesjärven kansallispuisto 24 km</p>
+<p type="listitem">Ruostejärvi - Saari 14 km</p>
+<p type="listitem">Sevettijärvi - Pulmanki 60 - 70 km</p>
+<p type="listitem">Simojoen melontareitti 178 km</p>
+<p type="listitem">Taitajan taival 31 km</p>
+<p type="listitem">Tapion taival 20 km</p>
+<p type="listitem">Virvatulten polku 19 km</p>
+</list><list><p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reittiselostus</p>
+<p type="listitem">Vaativuus</p>
+<p type="listitem">Lisätietoja</p>
+</list><list><p type="listitem">Inarin kirkonkylän venesatama</p>
+<p type="listitem">Nanguniemen venesatama</p>
+<p type="listitem">Nellimin venesatamasta</p>
+<p type="listitem">Partakon suunnasta</p>
+<p type="listitem">Veskoniemen venesatama</p>
+</list><p>Melontareitin sivut</p>
+<p type="title">Inarijärvi melojille</p>
+<list><p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reittiselostus <list><p type="listitem">Inarin kirkonkylän venesatama</p>
+<p type="listitem">Nanguniemen venesatama</p>
+<p type="listitem">Nellimin venesatamasta</p>
+<p type="listitem">Partakon suunnasta</p>
+<p type="listitem">Veskoniemen venesatama</p>
+</list> </p>
+<p type="listitem">Vaativuus</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Nellimin venesatamasta</p>
+<p>Nellim on hyvä aloituspaikka melontaretkelle. Seuraavassa esitellään kaksi eri reittivaihtoehtoa, päivän retki ja kolmen päivän retki. Pidemmällä retkellä tulee varautua viettämään toinen yö omillaan, ilman rakennettuja palveluita.</p>
+<p type="title">Päiväretki Speinniemeen</p>
+<p>Venesatamasta tulee matkaa Peiliniemen veneilytukikohtaan (Speinniemi) reilu viisi kilometriä. Veneilytukikohdan nimen käytössä on ollut tavallista suurempaa vaihtelevuutta. On tavallista, että inarinsaamelaiset paikannimet ovat suomalaistuneet ja muuttaneet samalla merkitystään. Harvinaisempaa on, että samasta paikasta on käytössä useampia nimityksiä. Veneilytukikohdan viereisen niemen alkuperäinen nimi on "Speinnjárga". Sen lähtökohtana on ollut pohjoisnorjalainen mies Spein Sarak eli Sarak Svendsen. Vanhassa topografikartassa nimi on vääntynyt Peiliniemeksi eli merkitykseltään jo ihan muuksi (pohjoisaameksi peili on speadjal ja niemi on njárga). Inarin osoite- ja virkistyskartassa veneilytukikohta on puolestaan nimellä "Lusmanuora".</p>
+<p>Nellimiin voi palata joko samoja jälkiä takaisin tai kiertämällä Lusmasaari. Saaren kierto kasvattaa paluumatkaa viidestä kilometristä 14 kilometriin. Päiväretken pituudeksi tulee siten joko kymmenen tai  19 kilometriä.</p>
+<p type="title">Kartat</p>
+<p type="title">Sähköinen kartta</p>
+<p type="title">Kaamassaaren kierros</p>
+<p>Kaksi päivää lisää retkeen tulee, kun jatkaa Speinniemestä Tyllylahden veneilytukikohtaan, jossa on telttailualue. Matkalla kannattaa poiketa Andreasnuoraan tutkimaan sen pohjoispuolella olevaa saksalaisten vankileiriä toisen maailmansodan ajalta. Vankileirin rakennukset ovat jo pääosin lahonneet, mutta jotakin leiristä on vielä jäljellä. Ensimmäisen päivän melonnan pituudeksi tulee 22 kilometriä. Tyllylahden ohella on mahdollisuus majoittua sitä vastapäätä olevalla Punaisella tuvalla, joka on autiotupa. Punainen tupa on Inarin osoite- ja virkistyskartalla nimellä "Kaikunuora". Kaamassaari kierretään pitkin kapeita salmia. Ei ole mahdotonta, että merikotka kaartelee taivaalla, tästä linnusta järvellä on säännöllisiä havaintoja. Matka jatkuu Kovasaaren ja Kaamassaaren väliseen salmeen, jonka jälkeen vastassa avoin Satapetäjäselkä. Täällä on tutkittava tuulen suuntaa koska selkä kannattaa kiertää suojan puolelta. Paluumatka Nellimiin joko Speinniemen kautta tai Satapetäjäselän yli Tervasaaren lounaislaitaan ja Lusmasaaren pohjoispuolelta. Matkaa Tyllylahdesta Nellimiin tulee noin 30 kilometriä.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

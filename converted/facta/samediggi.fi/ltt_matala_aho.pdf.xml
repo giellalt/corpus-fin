@@ -1,188 +1,115 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1375</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2068&amp;Itemid=10</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>FT, dosentti Tapani Matala-aho, Yliopistotutkija, Matemaattisten tieteiden laitos, Oulun yliopisto</p>
-    <p>
-      <em type="bold">Asia: Asiantuntijalausunto saamelaiskäräjille mahdollisen saamelaismääritelmän muuttamisen vaikutuksista saamelaisväestön määrään Suomessa </em>
-    </p>
-    <p xml:lang="nob"><em type="bold">1.</em>  <em type="bold">JOHDANTO	
-  </em> </p>
-    <p xml:lang="est"><em type="bold">2.</em>  <em type="bold">LÄHTEET	
-  </em> </p>
-    <p xml:lang="vep"><em type="bold">3. LASKELMAN PERUSTEET	
-  </em> </p>
-    <p xml:lang="vep"><em type="bold">4. KÄYTETYT LYHENTEET	
-  </em> </p>
-    <p xml:lang="vep"><em type="bold">5.  NELJÄNNEN POLVEN POLVEUTUMISEN VAIKUTUS SAAMELAISVÄESTÖN MÄÄRÄÄN	
-  </em> </p>
-    <p><em type="italic">5.1. Malli A</em><em type="bold">	
-  </em> </p>
-    <p><em type="italic">5.2. Malli B: Etnisyyden periytymisen kasvu normaalin väestökehityksen mukaan neljännen polven polveutumisessa</em> </p>
-    <p><em type="bold">6. Loppupäätelmät mallien A ja B perusteella	
-  </em> </p>
-    <p xml:lang="vep"><em type="bold">7.	
-  MALLI	
-  B	
-  YKSINKERTAISTETTUNA	
-  </em> </p>
-    <p xml:lang="vep"><em type="bold">8. MALLIN B SOVELTAMINEN 1700-LUVULLE, 1750-LUVULLA LAPINVEROA MAKSANEET	
-  </em> </p>
-    <p>Virhe. Kuvaotsikkoluettelon hakusanoja ei löytynyt.</p>
-    <p>Taulukko 1 Malli A...........................................................................................................................................4	    Taulukko 2 Malli A alueittain...........................................................................................................................4</p>
-    <p>
-      <em type="bold">1.  Johdanto </em>
-    </p>
-    <p>Saamelaiskäräjien puheenjohtaja on pyytänyt allekirjoittaneelta asiantuntijalausuntoa saamelaiskäräjien käyttöön koskien saamelaismääritelmää. Puheenjohtaja Näkkäläjärven toimeksianto oli seuraava: a)  tehdä matemaattinen laskelma siitä, mikä olisi saamelaisväestöksi luetun populaation määrä jos saamelaismääritelmää muutettaisiin vastaamaan Norjan saamelaismääritelmää siten, että saamelaisiksi luettaisiin myös henkilöt, joiden yksi isovanhempien vanhempi (neljäs polvi) luettaisiin saamelaiseksi b)  tehdä arvio saamelaisväestöksi luetun populaation määrästä nk. verolappalaistietojen  perusteella Suomessa</p>
-    <p>
-      <em type="bold">2.  Lähteet </em>
-    </p>
-    <p>Laskelmat perustuvat seuraaviin tietolähteisiin:</p>
-    <p>
-      <em type="bold">Saamelaisväestö: </em>
-    </p>
-    <p>a)  Nickul, E. 1968: Suomen saamelaiset vuonna 1962. Selostus pohjoismaiden saamelaisneuvoston suorittamasta väestötutkimuksesta. Tilastotieteen pro-gradu tutkielma b)  Saamelaisvaltuuskunnan keräämät tilastot äänioikeutetuista saamelaisista ja saamelaisten määrästä vuosina 1972- 1991 c)  Saamelaiskäräjien keräämät tilastot äänioikeutetuista saamelaisista ja saamelaisten määrästä vuosina 1995-2011.</p>
-    <p>
-      <em type="bold">Koko väestö saamelaisten kotiseutualueella: </em>
-    </p>
-    <p>a)  Väkiluku Enontekiön, Inarin, Utsjoen ja Sodankylän kunnissa 1870-1970. Tilastokeskus, väkilukutilastot b)  Suomen virallinen tilasto 2012.  c)  Väkiluvun kehitys Lapin kunnissa ja seutukunnissa 1970-2008. Lapin liitto 17.4.2009.</p>
-    <p>
-      <em type="bold">Verolappalaiset: </em>
-    </p>
-    <p>Enbuske, M. 1998: Saamelaiset ja uudisasukkaat. Lapinmaan muutos 1700-luvulla. Esitelmä Sodankylän  yliopistopäivillä 13.10.1998. Käsikirjoitus. Halila, A. 1954: Pohjois-Pohjanmaan ja Lapin historia V. Pohjois-Pohjanmaa ja Lappi 1721-1775. Pohjois- Pohjanmaan, Kainuun ja Lapin maakuntaliittojen yhteinen historiatoimikunta, Oulu. Itkonen, T. I. 1984a: Suomen lappalaiset vuoteen 1945. Toinen painos. Kuvattu vuonna 1948 ilmestyneestä  laitoksesta. WSOY. Porvoo -  Helsinki - Juva. Korpijaakko-Labba, K. 1996: Saamelaiskäräjälain tulkintaongelmista. Lapin lääninhallitus. Rovaniemi Korpijaakko-Labba, K. 2000: Saamelaisten oikeusasemasta Suomessa. Kehityksen pääpiirteet Ruotsin vallan lopulla  itsenäisyyden ajan alkuun. Dieđut N:o 1/1999. Sámi instituhtta. Rovaniemi. Nickul, E. 1968: Suomen saamelaiset vuonna 1962. Selostus Pohjoismaiden saamelaisneuvoston suorittamasta  väestöntutkimuksesta. Julkaisematon tilastotieteen pro gradu –tutkielma. Helsinki. Näkkäläjärvi, K. 2000: Siita eli lapinkylä yhteisöelämän perustana. – Siiddastan. Siidoista kyliin:  – Pennanen, J. &amp; K. Näkkäläjärvi (toim.): Siiddastallan  – Siidoista kyliin. Luontosidonnainen saamelaiskulttuuri ja  sen muuttuminen. Inarin saamelaismuseon  julkaisuja n:o 3, s. 138 - 147. Kustannus Pohjoinen,  Jyväskylä. Teerijoki, I. 1993: Tornionlaakson asutuskehitys 1600 - 1809. - Hederyd, O. - Alamäki, Y. (toim.): Tornionlaakson</p>
-    <p>historia II. Tornionlaakson kuntien historiakirjatoimikunta.  Tegengren, H. 1952: En utdöd lappkultur i Kemi lappmark. Studier i Nord-Finlandskolonisationshistoria.Acta  Academiae Aboensis. Humaniora XIX.4. Åbo. Vahtola, J. 1991: Tornion Lapin saamelaiset. - Hedyred, O. -Alamäki, Y. - Kenttä, M. (toim.): Tornionlaakson  historia I: jääkaudelta 1600-luvulle. Torniolaakson kuntien historiatoimikunta.  Virrankoski, P. 1973: Pohjois-Pohjanmaan ja Lapin historia III. Pohjois-Pohjanmaa ja Lappi 1600-luvulla. Pohjois- Pohjanmaan, Kainuun ja Lapin maakuntaliittojen yhteinen historiatoimikunta, Oulu. Vähemmistöt Vuoden 1970 väestölaskennan julkaisu XVII 1974. Tilastokeskus. 1970 väestölaskenta. Helsinki.</p>
-    <p>
-      <em type="bold">3. Laskelman perusteet </em>
-    </p>
-    <p>Verotusluetteloihin oli merkitty vain nk. perheen pää verolappalaiseksi. Laskelmassa on käytetty tutkimuskirjallisuudessa käytössä ollutta kerrointa 5,5 selvitettäessä verolappalaiseksi luetun populaation määrää.</p>
-    <p>Laskelmassa on käytetty seuraavia periaatteita: Myöhemmin esitettävien kehitysmallien mallien A ja B lähtökohtina ovat todelliset  Ylä-Lapin  eli Enontekiön, Inarin ja Utsjoen kuntien saamelais- ja kokonaisväestömäärät 1880-luvulta.</p>
-    <p>Malli A  perustuu 1880-luvun saamelais/kokonaisväestö suhdelukuun, jonka avulla on laskettu nykyhetkelle arvio saamelaisten määrästä.  Tämän laskelman nojalla suomalaistuneita saamelaisia olisi 4610.</p>
-    <p>Mallin B lähtökohtana on  saamelaisten määrä 1880-luvulla. Tässä mallissa lasketaan arvio 4. polven jälkeläismäärälle, jonka perusteella  nykyhetkellä olisi  14718 suomalaistunutta saamelaista.</p>
-    <p>Malli B kuvaa etnisyyden periytymistä hyvin, johon liittyen luvussa 8 mallia verrataan erään tunnetun 1500-1600 lukujen vaihteessa eläneen henkilön jälkeläisluetteloon.</p>
-    <p>Edelleen, Mallia B sovelletaan arvioitaessa 1750-luvulla eläneiden henkilöiden jälkeläismääriä.</p>
-    <p>Laskelmat on tehty ristiintaulukoimalla eri arkistoissa, tilastokeskuksessa ja lähteissä olleita tietoja saamelaisten, koko väestön ja verolappalaisten määristä. Laskelmat on tehty parhaaseen tietoon pohjautuen ja antavat luotettavan arvion mahdollisista muutoksista, mitä saamelaismääritelmän muuttaminen aiheuttaisi saamelaispopulaation määrässä Suomessa.</p>
-    <p xml:lang="fkv">
-      <em type="bold">4. Käytetyt lyhenteet </em>
-    </p>
-    <p xml:lang="est">TIK= Tilastokeskus</p>
-    <p>Virrankosken mukaan väkiluvun kokoa voidaan arvioida kertoimella 5,5, jota on käytetty keskimääräisenä</p>
-    <p>lappalaisperheen jäsenlukuna (Tegengren 1952, s. 40, Virrankoski 1973, s. 106-107).</p>
-    <p>Ylä-Lappi=  Enontekiö+Inari+Utsjoki   VYL = Väestö Ylä-Lapissa S= Saamelaiset     K= kokoväestöYlä-Lapissa K/TIK= kokoväestö TIK:n mukaan Ylä-Lapissa K/Vero= 5,5x kaikki verolappalaiset S/Vero= 5,5x saamelaiset verolappalaiset S/K%= Saamelaisten osuus prosentteina kokoväestöstä  S51= 51% TIK:n kokoväestöstä SAK= Ylä-Lapin saamelaiset saamelaisvaltuuskunnan ja saamelaiskäräjien vaaliluetteloiden mukaan KS= S51-SAK=nk. Ei saamelainen väestönosa, jonka joukosta olisi mahdollista hakeutua saamelaiskäräjien vaaliluetteloon mikäli saamelaismääritelmää lavennettaisiin KS/SAK% = KS:n prosentuaalinen määrä</p>
-    <p>
-      <em type="bold">5.  Neljännen polven polveutumisen vaikutus saamelaisväestön määrään </em>
-    </p>
-    <p>
-      <em type="italic">5.1. Malli A </em>
-    </p>
-    <p>
-      <em type="bold">Taulukko 1 Malli A </em>
-    </p>
-    <p><em type="bold">Vuosi\VYL  K/TIK K/Vero S/Vero S/K %  S51=51% SAK KS KS/SAK%  </em>   51%     <em type="bold"> </em>       37.8% <em type="bold"> </em>       46.5% </p>
-    <p>Tilastokeskuksen mukaan vuonna 1880 Ylä-Lapin kokonaisväestö oli 1894. Toisaalta veroluetteloiden mukaan saamelaisten osuus kokonaisväestöstä  oli tuolloin 51%.</p>
-    <p>Vuonna 2011 Ylä-Lapin kokonaisväestö on 9941, josta 51% on 5067.   Niinpä 1880 eläneiden saamelaistenjälkeläisiä vuonna 2011 olisi siten 5067.</p>
-    <p>Tällä hetkellä näistä jälkeläisistä 3459 on jo saamelaisstatuksella.Siten potentiaalisia saamelaisiksi hakijoita Ylä-Lapissa olisi 5067-3459=1068 henkilöä eli 46.5% nykyisistä saamelaisista 3459.</p>
-    <p>Koko Suomessa nykyisiä saamelaisia on 9919-4=9915. Täten potentiaalisia saamelaisiksi hakijoita koko Suomessa olisi 46.5% määrästä 9915 eli 4610.</p>
-    <p>
-      <em type="bold">Taulukko 2 Malli A alueittain </em>
-    </p>
-    <p>
-      <em type="bold">Alue Saamelaisia 2011 1880:lta tulevat jälkeläiset Potentiaalinen lisäys Potentiaalinen lisäysprosentti </em>
-    </p>
-    <p><em type="bold">Ylä-Lappi </em>   46.5% <em type="bold">Koko Suomi </em>   46.5% </p>
-    <p>Huomattakoon, että Malli A antaa vain alarajan potentiaalisille hakijoille. Nimittäin sukulaisuuden eteneminen kasvaa nopeammin kuin väestö. Malli B vastaa tähän haasteeseen.</p>
-    <p>
-      <em type="italic">5.2. Malli B: Etnisyyden periytymisen kasvu normaalin väestökehityksen mukaan neljännen polven polveutumisessa </em>
-    </p>
-    <p>MALLI B: Esimerkiksi, jos perheessä on kahden vanhemman (A ja U) lisäksi L=6 lasta, niin sukupolvessa väestö  3-kertaistuu: v=2→6=v. Kerroin m=3, lapsia=L=2xm=6</p>
-    <p>Edelleen, jos jokaisella lapsella on parinsa kanssa on L=4 lasta, niin seuraavassa polvessa väestö</p>
-    <p>2-kertaistuu: 2→4.  Kerroin m=2, lapsia L=2xm=4.</p>
-    <p>Siten alkuperäinen väestö on 6-kertaistunut.</p>
-    <p>Tällöin henkilöllä A on kaikkiaan LxL=6x4=24=(2xm)x(2xm)  lastenlasta.</p>
-    <p>Yleisemmin:   n. polven jälkeläisten määrä yhdelle esivanhemmalle</p>
-    <p xml:lang="est">An=Lx...xLn=(2xm)x(2xm)x...x(2xmn)</p>
-    <p>Väestötilastoista saadaan kertoimet m,m,... vuosilta, joten</p>
-    <p>1880→ 1900     L=3.44     m=1.72  (tämä kerroin on Inarista)</p>
-    <p>1900→ 1930     L=2.60     m=1.30  (tästä eteenpäin kertoimet ovat koko Suomesta)</p>
-    <p xml:lang="vep">1930→1960      L=2.56     m=1.28</p>
-    <p xml:lang="vep">1960→1990      L=2.25     m=1.12</p>
-    <p>Tästä saadaan kerroin (pyöristettynä alaspäin)</p>
-    <p xml:lang="est">A=3.44x2.60x2.56x2.25=51.</p>
-    <p>Vuonna 1880 Ylä-Lapissa oli  966 saamelaista, joista saadaan 483 paria (todellisuudessa pareja on enemmänkin, koska osa saamelaisista on nainut suomalaisen). Näillä pareilla on siten</p>
-    <p>51x483=24633   4.polven jälkeläistä.</p>
-    <p>Tämä laskelma on idealistinen, sillä siinä on oletettu, ettäalkuperäisiä pareja on liian vähän ja toisaalta, että alkuperäisistä pareista lähteneet sukuhaarat eivät sekoitu. Kyseiset oletukset kumoavat osittain toisensa vaikutukset. (Tarkentamalla varsinkin kertoimia m1 ja m2 hieman alaspäin saataneen aika tarkkakin arvio.)</p>
-    <p>
-      <em type="bold">6. Loppupäätelmät mallien A ja B perusteella </em>
-    </p>
-    <p>Malli A antaa alarajan 14525 ja Malli B ylärajan 24633  nykyiselle mahdolliselle saamelaisväestölle lähtien1880 vuoden tilanteesta, joka vastaa nykyään noin 55-65 vuotiaan iso-isovanhempien syntymäaikaa.</p>
-    <p>
-      <em type="bold">Kuva 1 Saamelaisten potentiaalinen määrä neljännen polven polveutumisessa alueittain </em>
-    </p>
-    <p>Mallit&amp;A&amp;ja&amp;B:&amp;Saamelaisten&amp;poten2aalinen&amp;määrä&amp; 18808luvulta&amp;tulevien&amp;jälkeläisten&amp;perusteella&amp;</p>
-    <p xml:lang="koi">30000&amp;</p>
-    <p xml:lang="koi">25000&amp;</p>
-    <p xml:lang="koi"><em type="bold">24633%</em> </p>
-    <p xml:lang="koi">20000&amp;</p>
-    <p xml:lang="koi">14718&amp;</p>
-    <p xml:lang="koi">15000&amp;</p>
-    <p xml:lang="koi"><em type="bold">14525%</em> </p>
-    <p xml:lang="koi">4610&amp;</p>
-    <p xml:lang="koi">10000&amp;</p>
-    <p xml:lang="koi">9915&amp;9915&amp;1608&amp;</p>
-    <p xml:lang="koi">5000&amp;</p>
-    <p xml:lang="koi"><em type="bold">5067%</em> </p>
-    <p xml:lang="koi">3459&amp;</p>
-    <p xml:lang="koi">0&amp;</p>
-    <p>Ylä8Lappi,&amp; alaraja&amp; Koko&amp;Suomi,&amp; alaraja&amp; Koko&amp;Suomi,&amp; yläraja&amp; Poten2aalinen&amp;lisäys&amp; 18808luvulta&amp;tulevien&amp; jälkeläisten&amp;luvun&amp; perusteella&amp;(4.&amp;polvi)&amp; Saamelaiset&amp;2011&amp;</p>
-    <p><em type="bold">7.	
-  Malli	
-  B	
-  yksinkertaistettuna	
-  </em> </p>
-    <p>Vaikka väestö ei kasvaisi (m=m=...=1), niin jokaisessa sukupolvessa jälkeläisten määrä 2kertaistuu.  Tällöin saataisiin karkeasti:</p>
-    <p>Mallia B  voidaan soveltaa myös aikaisempiin vuosiin. Esimerkkinä voidaan käyttää Saukkosen tekemää sukututkimusta 1500-1600- luvuilla eläneen kiiminkiläisen sissipäällikkö Pekka (Juho) Vesaisen jälkeläisistä. Hänellä on noin 29 000 jälkeläistä. Luvussa on mukana jälkeläisten puolisot. Sukulaisuussuhteita osoittavat 7130 perhetaulua (Saukkonen 2001, 3-4).</p>
-    <p>Sovelletaan Mallia B 1500-1600-luvun vaihteessa eläneeseen henkilöön. Vuosisadassa on noin 4 sukupolvea. Vuosien 1625 ja 1950 välillä on siten noin 13 polvea. Tällöin saadaan seuraavat lapsilukumäärät:</p>
-    <p>Saukkonen, P. 2001: Vesaisesta nykyaikaan. Pekka Vesaisen jälkeläistauluja 1500-luvulta vuoteen 2000. Ylikiimingin</p>
-    <p>Alavesan sukuhaara. Karisto OPy:n kirjapaino. Hämeenlinna.</p>
-    <p xml:lang="koi">1625: 1</p>
-    <p xml:lang="koi">1650: 2</p>
-    <p xml:lang="koi">...</p>
-    <p xml:lang="koi">1950: 2</p>
-    <p>Yhteensä  2 -1=16 383 jälkeläistä.</p>
-    <p>Toisaalta ylläolevaa lukua voidaan verrata kiiminkiläisen Pekka (Juho) Vesaisen tunnettujen jälkeläisten, lukumäärään  14500. Edellä olevan nojalla Malli B antaa varsin hyvän suuruusluokkaarvion tarkasteltaessa aikaisempina vuosisatoina eläneiden ryhmien jälkeläislukumääriä.</p>
-    <p>
-      <em type="bold">8. Mallin B soveltaminen 1700-luvulle, 1750-luvulla Lapinveroa maksaneet </em>
-    </p>
-    <p>Soveltamalla Mallia B saadaan kertoimet:</p>
-    <p xml:lang="koi">1750:   2=1</p>
-    <p xml:lang="koi">1775:   2=2</p>
-    <p xml:lang="koi">...</p>
-    <p xml:lang="koi">2000:  2=1024</p>
-    <p>Saukkonen,	   P.	   2001.	   (Lähteessä on laskettu mukaan myös kaikkien jälkeläisten puolisot, joten karkea alaraja-arvio on</p>
-    <p>puolet  annetusta luvusta 29000.)</p>
-    <p>Väestön(luontainen(kehitys(</p>
-    <p xml:lang="koi">1750(1775(1800(1825(1850(1875(1900(1925(1950(1975(2000(2025(2050(</p>
-    <p>Siten jokaista 1750-luvulla  Lapinveron piirissä ollutta henkilöä kohti on nykyään noin 1024 hänen jälkeläistään. Siten, jos Lapinveron piirissä olisi ollut vaikka 500 henkilöä, niin nykyään heidän jälkeläisiään olisi arviolta 512 000.</p>
-    <p>Erityisesti, tämän perusteella voidaan päätellä, että nykyisistä Lapin asukkaista suurella osalla on 1700-luvulla elänyt lapinveroa maksanut esivanhempi. Lapin maakunnan koko väkiluku oli vuoden 2012 lopussa Suomen virallisen tilaston mukaan 182 844. Verolappalaisen jälkeläisiä olisi koko Suomen väestöstä vuoden 2012 lopussa 9, 4 %.</p>
-    <p>Huomautus:</p>
-    <p>Malli B sanoo yksinkertaistettuna, että etnisyys lisääntyy eksponentiaalisesti sukupolven funktiona.</p>
-    <p>
-      <em type="bold">Kuva 2 Verolappalaisten eksponentiaalinen väestönkehitys vuoden 1750 verotustietojen perusteella </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1364</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2068&amp;Itemid=10</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>FT, dosentti Tapani Matala-aho, Yliopistotutkija, Matemaattisten tieteiden laitos, Oulun yliopisto</p>
+<p><em type="bold">Asia: Asiantuntijalausunto saamelaiskäräjille mahdollisen saamelaismääritelmän muuttamisen vaikutuksista saamelaisväestön määrään Suomessa </em></p>
+<p xml:lang="nob"><em type="bold">1.</em>  <em type="bold">JOHDANTO  </em> </p>
+<p xml:lang="est"><em type="bold">2.</em>  <em type="bold">LÄHTEET  </em> </p>
+<p xml:lang="vep"><em type="bold">3. LASKELMAN PERUSTEET  </em> </p>
+<p xml:lang="vep"><em type="bold">4. KÄYTETYT LYHENTEET  </em> </p>
+<p xml:lang="vep"><em type="bold">5.  NELJÄNNEN POLVEN POLVEUTUMISEN VAIKUTUS SAAMELAISVÄESTÖN MÄÄRÄÄN  </em> </p>
+<p><em type="italic">5.1. Malli A</em><em type="bold">  </em> </p>
+<p><em type="italic">5.2. Malli B: Etnisyyden periytymisen kasvu normaalin väestökehityksen mukaan neljännen polven polveutumisessa</em> </p>
+<p><em type="bold">6. Loppupäätelmät mallien A ja B perusteella  </em> </p>
+<p xml:lang="vep"><em type="bold">7.  MALLI  B  YKSINKERTAISTETTUNA  </em> </p>
+<p xml:lang="vep"><em type="bold">8. MALLIN B SOVELTAMINEN 1700-LUVULLE, 1750-LUVULLA LAPINVEROA MAKSANEET  </em> </p>
+<p>Virhe. Kuvaotsikkoluettelon hakusanoja ei löytynyt.</p>
+<p>Taulukko 1 Malli A...........................................................................................................................................4  Taulukko 2 Malli A alueittain...........................................................................................................................4</p>
+<p><em type="bold">1.  Johdanto </em></p>
+<p>Saamelaiskäräjien puheenjohtaja on pyytänyt allekirjoittaneelta asiantuntijalausuntoa saamelaiskäräjien käyttöön koskien saamelaismääritelmää. Puheenjohtaja Näkkäläjärven toimeksianto oli seuraava: a)  tehdä matemaattinen laskelma siitä, mikä olisi saamelaisväestöksi luetun populaation määrä jos saamelaismääritelmää muutettaisiin vastaamaan Norjan saamelaismääritelmää siten, että saamelaisiksi luettaisiin myös henkilöt, joiden yksi isovanhempien vanhempi (neljäs polvi) luettaisiin saamelaiseksi b)  tehdä arvio saamelaisväestöksi luetun populaation määrästä nk. verolappalaistietojen  perusteella Suomessa</p>
+<p><em type="bold">2.  Lähteet </em></p>
+<p>Laskelmat perustuvat seuraaviin tietolähteisiin:</p>
+<p><em type="bold">Saamelaisväestö: </em></p>
+<p>a)  Nickul, E. 1968: Suomen saamelaiset vuonna 1962. Selostus pohjoismaiden saamelaisneuvoston suorittamasta väestötutkimuksesta. Tilastotieteen pro-gradu tutkielma b)  Saamelaisvaltuuskunnan keräämät tilastot äänioikeutetuista saamelaisista ja saamelaisten määrästä vuosina 1972- 1991 c)  Saamelaiskäräjien keräämät tilastot äänioikeutetuista saamelaisista ja saamelaisten määrästä vuosina 1995-2011.</p>
+<p><em type="bold">Koko väestö saamelaisten kotiseutualueella: </em></p>
+<p>a)  Väkiluku Enontekiön, Inarin, Utsjoen ja Sodankylän kunnissa 1870-1970. Tilastokeskus, väkilukutilastot b)  Suomen virallinen tilasto 2012.  c)  Väkiluvun kehitys Lapin kunnissa ja seutukunnissa 1970-2008. Lapin liitto 17.4.2009.</p>
+<p><em type="bold">Verolappalaiset: </em></p>
+<p>Enbuske, M. 1998: Saamelaiset ja uudisasukkaat. Lapinmaan muutos 1700-luvulla. Esitelmä Sodankylän  yliopistopäivillä 13.10.1998. Käsikirjoitus. Halila, A. 1954: Pohjois-Pohjanmaan ja Lapin historia V. Pohjois-Pohjanmaa ja Lappi 1721-1775. Pohjois- Pohjanmaan, Kainuun ja Lapin maakuntaliittojen yhteinen historiatoimikunta, Oulu. Itkonen, T. I. 1984a: Suomen lappalaiset vuoteen 1945. Toinen painos. Kuvattu vuonna 1948 ilmestyneestä  laitoksesta. WSOY. Porvoo -  Helsinki - Juva. Korpijaakko-Labba, K. 1996: Saamelaiskäräjälain tulkintaongelmista. Lapin lääninhallitus. Rovaniemi Korpijaakko-Labba, K. 2000: Saamelaisten oikeusasemasta Suomessa. Kehityksen pääpiirteet Ruotsin vallan lopulla  itsenäisyyden ajan alkuun. Dieđut N:o 1/1999. Sámi instituhtta. Rovaniemi. Nickul, E. 1968: Suomen saamelaiset vuonna 1962. Selostus Pohjoismaiden saamelaisneuvoston suorittamasta  väestöntutkimuksesta. Julkaisematon tilastotieteen pro gradu –tutkielma. Helsinki. Näkkäläjärvi, K. 2000: Siita eli lapinkylä yhteisöelämän perustana. – Siiddastan. Siidoista kyliin:  – Pennanen, J. &amp; K. Näkkäläjärvi (toim.): Siiddastallan  – Siidoista kyliin. Luontosidonnainen saamelaiskulttuuri ja  sen muuttuminen. Inarin saamelaismuseon  julkaisuja n:o 3, s. 138 - 147. Kustannus Pohjoinen,  Jyväskylä. Teerijoki, I. 1993: Tornionlaakson asutuskehitys 1600 - 1809. - Hederyd, O. - Alamäki, Y. (toim.): Tornionlaakson</p>
+<p>historia II. Tornionlaakson kuntien historiakirjatoimikunta.  Tegengren, H. 1952: En utdöd lappkultur i Kemi lappmark. Studier i Nord-Finlandskolonisationshistoria.Acta  Academiae Aboensis. Humaniora XIX.4. Åbo. Vahtola, J. 1991: Tornion Lapin saamelaiset. - Hedyred, O. -Alamäki, Y. - Kenttä, M. (toim.): Tornionlaakson  historia I: jääkaudelta 1600-luvulle. Torniolaakson kuntien historiatoimikunta.  Virrankoski, P. 1973: Pohjois-Pohjanmaan ja Lapin historia III. Pohjois-Pohjanmaa ja Lappi 1600-luvulla. Pohjois- Pohjanmaan, Kainuun ja Lapin maakuntaliittojen yhteinen historiatoimikunta, Oulu. Vähemmistöt Vuoden 1970 väestölaskennan julkaisu XVII 1974. Tilastokeskus. 1970 väestölaskenta. Helsinki.</p>
+<p><em type="bold">3. Laskelman perusteet </em></p>
+<p>Verotusluetteloihin oli merkitty vain nk. perheen pää verolappalaiseksi. Laskelmassa on käytetty tutkimuskirjallisuudessa käytössä ollutta kerrointa 5,5 selvitettäessä verolappalaiseksi luetun populaation määrää.</p>
+<p>Laskelmassa on käytetty seuraavia periaatteita: Myöhemmin esitettävien kehitysmallien mallien A ja B lähtökohtina ovat todelliset  Ylä-Lapin  eli Enontekiön, Inarin ja Utsjoen kuntien saamelais- ja kokonaisväestömäärät 1880-luvulta.</p>
+<p>Malli A  perustuu 1880-luvun saamelais/kokonaisväestö suhdelukuun, jonka avulla on laskettu nykyhetkelle arvio saamelaisten määrästä.  Tämän laskelman nojalla suomalaistuneita saamelaisia olisi 4610.</p>
+<p>Mallin B lähtökohtana on  saamelaisten määrä 1880-luvulla. Tässä mallissa lasketaan arvio 4. polven jälkeläismäärälle, jonka perusteella  nykyhetkellä olisi  14718 suomalaistunutta saamelaista.</p>
+<p>Malli B kuvaa etnisyyden periytymistä hyvin, johon liittyen luvussa 8 mallia verrataan erään tunnetun 1500-1600 lukujen vaihteessa eläneen henkilön jälkeläisluetteloon.</p>
+<p>Edelleen, Mallia B sovelletaan arvioitaessa 1750-luvulla eläneiden henkilöiden jälkeläismääriä.</p>
+<p>Laskelmat on tehty ristiintaulukoimalla eri arkistoissa, tilastokeskuksessa ja lähteissä olleita tietoja saamelaisten, koko väestön ja verolappalaisten määristä. Laskelmat on tehty parhaaseen tietoon pohjautuen ja antavat luotettavan arvion mahdollisista muutoksista, mitä saamelaismääritelmän muuttaminen aiheuttaisi saamelaispopulaation määrässä Suomessa.</p>
+<p xml:lang="fkv"><em type="bold">4. Käytetyt lyhenteet </em></p>
+<p xml:lang="est">TIK= Tilastokeskus</p>
+<p>Virrankosken mukaan väkiluvun kokoa voidaan arvioida kertoimella 5,5, jota on käytetty keskimääräisenä</p>
+<p>lappalaisperheen jäsenlukuna (Tegengren 1952, s. 40, Virrankoski 1973, s. 106-107).</p>
+<p>Ylä-Lappi=  Enontekiö+Inari+Utsjoki   VYL = Väestö Ylä-Lapissa S= Saamelaiset     K= kokoväestöYlä-Lapissa K/TIK= kokoväestö TIK:n mukaan Ylä-Lapissa K/Vero= 5,5x kaikki verolappalaiset S/Vero= 5,5x saamelaiset verolappalaiset S/K%= Saamelaisten osuus prosentteina kokoväestöstä  S51= 51% TIK:n kokoväestöstä SAK= Ylä-Lapin saamelaiset saamelaisvaltuuskunnan ja saamelaiskäräjien vaaliluetteloiden mukaan KS= S51-SAK=nk. Ei saamelainen väestönosa, jonka joukosta olisi mahdollista hakeutua saamelaiskäräjien vaaliluetteloon mikäli saamelaismääritelmää lavennettaisiin KS/SAK% = KS:n prosentuaalinen määrä</p>
+<p><em type="bold">5.  Neljännen polven polveutumisen vaikutus saamelaisväestön määrään </em></p>
+<p><em type="italic">5.1. Malli A </em></p>
+<p><em type="bold">Taulukko 1 Malli A </em></p>
+<p><em type="bold">Vuosi\VYL  K/TIK K/Vero S/Vero S/K %  S51=51% SAK KS KS/SAK%  </em>   51%     <em type="bold"> </em>       37.8% <em type="bold"> </em>       46.5% </p>
+<p>Tilastokeskuksen mukaan vuonna 1880 Ylä-Lapin kokonaisväestö oli 1894. Toisaalta veroluetteloiden mukaan saamelaisten osuus kokonaisväestöstä  oli tuolloin 51%.</p>
+<p>Vuonna 2011 Ylä-Lapin kokonaisväestö on 9941, josta 51% on 5067.   Niinpä 1880 eläneiden saamelaistenjälkeläisiä vuonna 2011 olisi siten 5067.</p>
+<p>Tällä hetkellä näistä jälkeläisistä 3459 on jo saamelaisstatuksella.Siten potentiaalisia saamelaisiksi hakijoita Ylä-Lapissa olisi 5067-3459=1068 henkilöä eli 46.5% nykyisistä saamelaisista 3459.</p>
+<p>Koko Suomessa nykyisiä saamelaisia on 9919-4=9915. Täten potentiaalisia saamelaisiksi hakijoita koko Suomessa olisi 46.5% määrästä 9915 eli 4610.</p>
+<p><em type="bold">Taulukko 2 Malli A alueittain </em></p>
+<p><em type="bold">Alue Saamelaisia 2011 1880:lta tulevat jälkeläiset Potentiaalinen lisäys Potentiaalinen lisäysprosentti </em></p>
+<p><em type="bold">Ylä-Lappi </em>   46.5% <em type="bold">Koko Suomi </em>   46.5% </p>
+<p>Huomattakoon, että Malli A antaa vain alarajan potentiaalisille hakijoille. Nimittäin sukulaisuuden eteneminen kasvaa nopeammin kuin väestö. Malli B vastaa tähän haasteeseen.</p>
+<p><em type="italic">5.2. Malli B: Etnisyyden periytymisen kasvu normaalin väestökehityksen mukaan neljännen polven polveutumisessa </em></p>
+<p>MALLI B: Esimerkiksi, jos perheessä on kahden vanhemman (A ja U) lisäksi L=6 lasta, niin sukupolvessa väestö  3-kertaistuu: v=2→6=v. Kerroin m=3, lapsia=L=2xm=6</p>
+<p>Edelleen, jos jokaisella lapsella on parinsa kanssa on L=4 lasta, niin seuraavassa polvessa väestö</p>
+<p>2-kertaistuu: 2→4.  Kerroin m=2, lapsia L=2xm=4.</p>
+<p>Siten alkuperäinen väestö on 6-kertaistunut.</p>
+<p>Tällöin henkilöllä A on kaikkiaan LxL=6x4=24=(2xm)x(2xm)  lastenlasta.</p>
+<p>Yleisemmin:   n. polven jälkeläisten määrä yhdelle esivanhemmalle</p>
+<p xml:lang="est">An=Lx...xLn=(2xm)x(2xm)x...x(2xmn)</p>
+<p>Väestötilastoista saadaan kertoimet m,m,... vuosilta, joten</p>
+<p>1880→ 1900     L=3.44     m=1.72  (tämä kerroin on Inarista)</p>
+<p>1900→ 1930     L=2.60     m=1.30  (tästä eteenpäin kertoimet ovat koko Suomesta)</p>
+<p xml:lang="sms">1930→1960      L=2.56     m=1.28</p>
+<p xml:lang="sms">1960→1990      L=2.25     m=1.12</p>
+<p>Tästä saadaan kerroin (pyöristettynä alaspäin)</p>
+<p xml:lang="est">A=3.44x2.60x2.56x2.25=51.</p>
+<p>Vuonna 1880 Ylä-Lapissa oli  966 saamelaista, joista saadaan 483 paria (todellisuudessa pareja on enemmänkin, koska osa saamelaisista on nainut suomalaisen). Näillä pareilla on siten</p>
+<p>51x483=24633   4.polven jälkeläistä.</p>
+<p>Tämä laskelma on idealistinen, sillä siinä on oletettu, ettäalkuperäisiä pareja on liian vähän ja toisaalta, että alkuperäisistä pareista lähteneet sukuhaarat eivät sekoitu. Kyseiset oletukset kumoavat osittain toisensa vaikutukset. (Tarkentamalla varsinkin kertoimia m1 ja m2 hieman alaspäin saataneen aika tarkkakin arvio.)</p>
+<p><em type="bold">6. Loppupäätelmät mallien A ja B perusteella </em></p>
+<p>Malli A antaa alarajan 14525 ja Malli B ylärajan 24633  nykyiselle mahdolliselle saamelaisväestölle lähtien1880 vuoden tilanteesta, joka vastaa nykyään noin 55-65 vuotiaan iso-isovanhempien syntymäaikaa.</p>
+<p><em type="bold">Kuva 1 Saamelaisten potentiaalinen määrä neljännen polven polveutumisessa alueittain </em></p>
+<p>Mallit&amp;A&amp;ja&amp;B:&amp;Saamelaisten&amp;poten2aalinen&amp;määrä&amp; 18808luvulta&amp;tulevien&amp;jälkeläisten&amp;perusteella&amp;</p>
+<p xml:lang="vep">30000&amp;</p>
+<p xml:lang="vep">25000&amp;</p>
+<p xml:lang="vep"><em type="bold">24633%</em> </p>
+<p xml:lang="vep">20000&amp;</p>
+<p xml:lang="vep">14718&amp;</p>
+<p xml:lang="vep">15000&amp;</p>
+<p xml:lang="vep"><em type="bold">14525%</em> </p>
+<p xml:lang="vep">4610&amp;</p>
+<p xml:lang="vep">10000&amp;</p>
+<p xml:lang="vep">9915&amp;9915&amp;1608&amp;</p>
+<p xml:lang="vep">5000&amp;</p>
+<p xml:lang="vep"><em type="bold">5067%</em> </p>
+<p xml:lang="vep">3459&amp;</p>
+<p xml:lang="vep">0&amp;</p>
+<p>Ylä8Lappi,&amp; alaraja&amp; Koko&amp;Suomi,&amp; alaraja&amp; Koko&amp;Suomi,&amp; yläraja&amp; Poten2aalinen&amp;lisäys&amp; 18808luvulta&amp;tulevien&amp; jälkeläisten&amp;luvun&amp; perusteella&amp;(4.&amp;polvi)&amp; Saamelaiset&amp;2011&amp;</p>
+<p><em type="bold">7.  Malli  B  yksinkertaistettuna  </em></p>
+<p>Vaikka väestö ei kasvaisi (m=m=...=1), niin jokaisessa sukupolvessa jälkeläisten määrä 2kertaistuu.  Tällöin saataisiin karkeasti:</p>
+<p>Mallia B  voidaan soveltaa myös aikaisempiin vuosiin. Esimerkkinä voidaan käyttää Saukkosen tekemää sukututkimusta 1500-1600- luvuilla eläneen kiiminkiläisen sissipäällikkö Pekka (Juho) Vesaisen jälkeläisistä. Hänellä on noin 29 000 jälkeläistä. Luvussa on mukana jälkeläisten puolisot. Sukulaisuussuhteita osoittavat 7130 perhetaulua (Saukkonen 2001, 3-4).</p>
+<p>Sovelletaan Mallia B 1500-1600-luvun vaihteessa eläneeseen henkilöön. Vuosisadassa on noin 4 sukupolvea. Vuosien 1625 ja 1950 välillä on siten noin 13 polvea. Tällöin saadaan seuraavat lapsilukumäärät:</p>
+<p>Saukkonen, P. 2001: Vesaisesta nykyaikaan. Pekka Vesaisen jälkeläistauluja 1500-luvulta vuoteen 2000. Ylikiimingin</p>
+<p>Alavesan sukuhaara. Karisto OPy:n kirjapaino. Hämeenlinna.</p>
+<p xml:lang="vep">1625: 1</p>
+<p xml:lang="vep">1650: 2</p>
+<p xml:lang="vep">...</p>
+<p xml:lang="vep">1950: 2</p>
+<p>Yhteensä  2 -1=16 383 jälkeläistä.</p>
+<p>Toisaalta ylläolevaa lukua voidaan verrata kiiminkiläisen Pekka (Juho) Vesaisen tunnettujen jälkeläisten, lukumäärään  14500. Edellä olevan nojalla Malli B antaa varsin hyvän suuruusluokkaarvion tarkasteltaessa aikaisempina vuosisatoina eläneiden ryhmien jälkeläislukumääriä.</p>
+<p><em type="bold">8. Mallin B soveltaminen 1700-luvulle, 1750-luvulla Lapinveroa maksaneet </em></p>
+<p>Soveltamalla Mallia B saadaan kertoimet:</p>
+<p xml:lang="vep">1750:   2=1</p>
+<p xml:lang="vep">1775:   2=2</p>
+<p xml:lang="vep">...</p>
+<p xml:lang="vep">2000:  2=1024</p>
+<p>Saukkonen,  P.  2001.  (Lähteessä on laskettu mukaan myös kaikkien jälkeläisten puolisot, joten karkea alaraja-arvio on</p>
+<p>puolet  annetusta luvusta 29000.)</p>
+<p>Väestön(luontainen(kehitys(</p>
+<p xml:lang="vep">1750(1775(1800(1825(1850(1875(1900(1925(1950(1975(2000(2025(2050(</p>
+<p>Siten jokaista 1750-luvulla  Lapinveron piirissä ollutta henkilöä kohti on nykyään noin 1024 hänen jälkeläistään. Siten, jos Lapinveron piirissä olisi ollut vaikka 500 henkilöä, niin nykyään heidän jälkeläisiään olisi arviolta 512 000.</p>
+<p>Erityisesti, tämän perusteella voidaan päätellä, että nykyisistä Lapin asukkaista suurella osalla on 1700-luvulla elänyt lapinveroa maksanut esivanhempi. Lapin maakunnan koko väkiluku oli vuoden 2012 lopussa Suomen virallisen tilaston mukaan 182 844. Verolappalaisen jälkeläisiä olisi koko Suomen väestöstä vuoden 2012 lopussa 9, 4 %.</p>
+<p>Huomautus:</p>
+<p>Malli B sanoo yksinkertaistettuna, että etnisyys lisääntyy eksponentiaalisesti sukupolven funktiona.</p>
+<p><em type="bold">Kuva 2 Verolappalaisten eksponentiaalinen väestönkehitys vuoden 1750 verotustietojen perusteella </em></p>
+</body></document>

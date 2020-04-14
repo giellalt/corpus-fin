@@ -1,35 +1,9 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Sámediggi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>40</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=206&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=206_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=206_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámediggi</p>
-    <p>Katso lyhytvideo saamelaisten parlamentista, Saamelaiskäräjistä!</p>
-    <p>Tamperelainen Matti tulee Saamenmaahan ja haluaa tutustua Saamelaiskäräjien toimintaan.</p>
-    <p>Matti tapaa mm. Saamelaiskäräjien puheenjohtajan.</p>
-    <p>Päähenkilöt: Matti Koivunen, Klemetti Näkkäläjärvi, Rauna Rahko, Anni Näkkäläjärvi</p>
-    <p>Ohjaus: Suvi West, kuvaus/leikkaus: Anja Ahola</p>
-    <p>Tuotanto: Saamelaiskäräjät 2008</p>
-    <p>Pituus: 3,45</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sámediggi</title><genre code="admin"/><author><unknown/></author><wordcount>40</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=206&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=206_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=206_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámediggi</p>
+<p>Katso lyhytvideo saamelaisten parlamentista, Saamelaiskäräjistä!</p>
+<p>Tamperelainen Matti tulee Saamenmaahan ja haluaa tutustua Saamelaiskäräjien toimintaan.</p>
+<p>Matti tapaa mm. Saamelaiskäräjien puheenjohtajan.</p>
+<p>Päähenkilöt: Matti Koivunen, Klemetti Näkkäläjärvi, Rauna Rahko, Anni Näkkäläjärvi</p>
+<p>Ohjaus: Suvi West, kuvaus/leikkaus: Anja Ahola</p>
+<p>Tuotanto: Saamelaiskäräjät 2008</p>
+<p>Pituus: 3,45</p>
+</body></document>

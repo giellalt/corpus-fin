@@ -1,50 +1,22 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Saamelaisen varhaiskasvatuksen arjen käytäntöjen opas</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>unknown</year>
-    <wordcount>138</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2159&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="sme" location="3_varhaiskasvatus_pohsaame.pdf"/>
-    <parallel_text xml:lang="smn" location="3_varhaiskasvatus_insaame.pdf"/>
-    <parallel_text xml:lang="sms" location="3_varhaiskasvatus_koltsaame.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tavoitteena saamenkielisten ja kulttuuriin pohjautuvien palveluiden laatu, vaikuttavuus ja saatavuus</p>
-    <p>SAAMELAISEN VARHAISKASVATUKSEN ARJEN KÄYTÄNTÖJEN OPAS  <em type="italic">- Miten toimimme arjen käytännöissä?</em> </p>
-    <p><em type="bold">Luontoyhteys</em><em type="italic">Kunnioitamme elämää, luontoa ja sen resursseja</em> </p>
-    <p><em type="bold">Monikulttuurisuus</em><em type="italic">Kunnioitamme ihmisen oikeutta olla erilainen</em> </p>
-    <p><em type="bold">Yhteisöllisyyys</em><em type="italic">Tuemme jokaisen oikeutta kuulua johonkin</em> </p>
-    <p><em type="bold">Tasa-arvo ja ihmisyys</em><em type="italic">Olemme tasa-arvoisia kohtaamisissa, päätöksenteossa ja töissä</em> </p>
-    <p><em type="bold">Yhdistävät kulttuuriset arvot</em> </p>
-    <p><em type="bold">Identiteetti</em><em type="italic">Kulttuuri-identiteettimme vahvistuu vuorovaikutuksessa oman ryhmämme kanssa</em> </p>
-    <p>
-      <em type="bold">Perinteiset elinkeinot </em>
-      <em type="italic">Yhteys elämän-, luonnon- ja vuoden kiertokulkuun säilyy perinteisten elinkeinojen kautta   </em>
-    </p>
-    <p><em type="bold">Kieli</em><em type="italic">Edistämme suullisen perimä-tiedon ja kielten siirtymistä sukupolvelta toiselle</em> </p>
-    <p><em type="bold">Kädentaidot, musiikki, kerto-musperinne, taide ja ilmaisu</em><em type="italic">Tekeminen ja luovuuden kokeminen vahvistavat yhteenkuuluvuuden tunnetta</em> </p>
-    <p><em type="bold">Miten opas toimii arjen käytännöissä?</em> </p>
-    <p type="listitem">•  Työntekijöiden perehdytyksen ja vuorovaikutuksen työvälineenä.</p>
-    <p type="listitem">•  Pohjana yksiköiden lapsiryhmien vasulle*</p>
-    <p type="listitem">•  Pohjana lapsikohtaiselle vasulle</p>
-    <p type="listitem">•  Pedagogisen johtamisen työvälineenä.</p>
-    <p type="listitem">•  Oppaaseen kirjataan päiväkodin/kielipesän toiminta</p>
-    <p type="listitem">•  Kyseessä on jatkuva prosessi, jota kehitetään henkilöstön ja   varhaiskasvatusyksikön tarpeiden mukaan</p>
-    <p>* varhaiskasvatussuunnitelma</p>
-    <p xml:lang="smn">Buorre beaivi. Mun lean AslatPyeri peivi. Mun lam Váábu</p>
-    <p xml:lang="sms">Tiõrv!</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Saamelaisen varhaiskasvatuksen arjen käytäntöjen opas</title><genre code="admin"/><author><unknown/></author><year>unknown</year><wordcount>138</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2159&amp;Itemid=10</origFileName><parallel_text xml:lang="sme" location="3_varhaiskasvatus_pohsaame.pdf"/><parallel_text xml:lang="smn" location="3_varhaiskasvatus_insaame.pdf"/><parallel_text xml:lang="sms" location="3_varhaiskasvatus_koltsaame.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tavoitteena saamenkielisten ja kulttuuriin pohjautuvien palveluiden laatu, vaikuttavuus ja saatavuus</p>
+<p>SAAMELAISEN VARHAISKASVATUKSEN ARJEN KÄYTÄNTÖJEN OPAS  <em type="italic">- Miten toimimme arjen käytännöissä?</em> </p>
+<p><em type="bold">Luontoyhteys</em><em type="italic">Kunnioitamme elämää, luontoa ja sen resursseja</em> </p>
+<p><em type="bold">Monikulttuurisuus</em><em type="italic">Kunnioitamme ihmisen oikeutta olla erilainen</em> </p>
+<p><em type="bold">Yhteisöllisyyys</em><em type="italic">Tuemme jokaisen oikeutta kuulua johonkin</em> </p>
+<p><em type="bold">Tasa-arvo ja ihmisyys</em><em type="italic">Olemme tasa-arvoisia kohtaamisissa, päätöksenteossa ja töissä</em> </p>
+<p><em type="bold">Yhdistävät kulttuuriset arvot</em> </p>
+<p><em type="bold">Identiteetti</em><em type="italic">Kulttuuri-identiteettimme vahvistuu vuorovaikutuksessa oman ryhmämme kanssa</em> </p>
+<p><em type="bold">Perinteiset elinkeinot </em><em type="italic">Yhteys elämän-, luonnon- ja vuoden kiertokulkuun säilyy perinteisten elinkeinojen kautta   </em></p>
+<p><em type="bold">Kieli</em><em type="italic">Edistämme suullisen perimä-tiedon ja kielten siirtymistä sukupolvelta toiselle</em> </p>
+<p><em type="bold">Kädentaidot, musiikki, kerto-musperinne, taide ja ilmaisu</em><em type="italic">Tekeminen ja luovuuden kokeminen vahvistavat yhteenkuuluvuuden tunnetta</em> </p>
+<p><em type="bold">Miten opas toimii arjen käytännöissä?</em> </p>
+<p type="listitem">•  Työntekijöiden perehdytyksen ja vuorovaikutuksen työvälineenä.</p>
+<p type="listitem">•  Pohjana yksiköiden lapsiryhmien vasulle*</p>
+<p type="listitem">•  Pohjana lapsikohtaiselle vasulle</p>
+<p type="listitem">•  Pedagogisen johtamisen työvälineenä.</p>
+<p type="listitem">•  Oppaaseen kirjataan päiväkodin/kielipesän toiminta</p>
+<p type="listitem">•  Kyseessä on jatkuva prosessi, jota kehitetään henkilöstön ja   varhaiskasvatusyksikön tarpeiden mukaan</p>
+<p>* varhaiskasvatussuunnitelma</p>
+<p xml:lang="sme">Buorre beaivi. Mun lean AslatPyeri peivi. Mun lam Váábu</p>
+<p xml:lang="sms">Tiõrv!</p>
+</body></document>

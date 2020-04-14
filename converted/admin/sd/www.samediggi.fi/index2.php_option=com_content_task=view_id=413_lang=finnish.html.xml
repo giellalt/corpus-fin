@@ -1,59 +1,22 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Kokoushuone Násti (isompi)</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>131</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=413&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=413_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=413_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=413_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kokoushuone Násti (isompi)</p>
-    <p>Kokoustila Násti (pohjakuvassa Kokoustila 2, isompi tila) soveltuu ryhmätyötilaksi tai pienten kokousten tarpeisiin. Kokoustila Násti sijaitsee keskuksen ensimmäisessä kerroksessa, kokousaulan yhteydessä. Kokoustila Nástin suuresta lasiseinästä on upea näkymä Juutuanjoelle ja Inarijärvelle. Kokoustila Násti on yhdistettävissä pienempään, 10 hengen kokoustila Silbaan, jolloin saadaan tilaa 25 henkilölle (50 m2). Násti on pohjoissaamea ja tarkoittaa tähteä.</p>
-    <p>
-      <em type="italic">TILAVUUS: </em>
-    </p>
-    <p>Pinta-ala: 30 m2 (n. 5,5 m x 5,5 m)</p>
-    <p>
-      <em type="italic">KAPASITEETTI: </em>
-    </p>
-    <p>Luokkamuodossa: 15 henkilölle</p>
-    <p>Diplomaattimuodossa: 15 henkilölle</p>
-    <p>U-muodossa: 15 henkilölle</p>
-    <p>Teatterimuodossa: 20 henkilölle</p>
-    <p>
-      <em type="italic">TEKNIIKKA JA VARUSTEET </em>
-    </p>
-    <p>* Dataprojektori 2500, 16:9</p>
-    <p>* Dokumenttiprojektori</p>
-    <p>* Blueray-soitin</p>
-    <p>* WLAN</p>
-    <p>* Fläppitaulu</p>
-    <p>* Kalusteet: kokouspöydät ja kokoustuolit 15 henkilölle, minikeittiövarustus (keraaminen liesi, vesipiste, astianpesukone, jääkaappi).</p>
-    <p>
-      <em type="italic">ERILLISTILAUKSESTA/LISÄMAKSUSTA: </em>
-    </p>
-    <p>* Kokoustarjoilut l ue lisää.</p>
-    <p>
-      <em type="italic">MUUTA HUOMIOITAVAA: </em>
-    </p>
-    <p>Kokoustilassa anniskeluoikeudet. Alla olevassa pohjakuvassa <em type="italic">Kokoustila 2=Násti. </em>Kokoustila 1=Silba. Kokoustila 1+2 yhdistettynä=Silbanásti. </p>
-    <p>Kokoustilaan saatavilla ruokailupalveluja etukäteistilauksesta.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Kokoushuone Násti (isompi)</title><genre code="admin"/><author><unknown/></author><wordcount>131</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=413&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=413_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=413_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=413_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kokoushuone Násti (isompi)</p>
+<p>Kokoustila Násti (pohjakuvassa Kokoustila 2, isompi tila) soveltuu ryhmätyötilaksi tai pienten kokousten tarpeisiin. Kokoustila Násti sijaitsee keskuksen ensimmäisessä kerroksessa, kokousaulan yhteydessä. Kokoustila Nástin suuresta lasiseinästä on upea näkymä Juutuanjoelle ja Inarijärvelle. Kokoustila Násti on yhdistettävissä pienempään, 10 hengen kokoustila Silbaan, jolloin saadaan tilaa 25 henkilölle (50 m2). Násti on pohjoissaamea ja tarkoittaa tähteä.</p>
+<p><em type="italic">TILAVUUS: </em></p>
+<p>Pinta-ala: 30 m2 (n. 5,5 m x 5,5 m)</p>
+<p><em type="italic">KAPASITEETTI: </em></p>
+<p>Luokkamuodossa: 15 henkilölle</p>
+<p>Diplomaattimuodossa: 15 henkilölle</p>
+<p>U-muodossa: 15 henkilölle</p>
+<p>Teatterimuodossa: 20 henkilölle</p>
+<p><em type="italic">TEKNIIKKA JA VARUSTEET </em></p>
+<p>* Dataprojektori 2500, 16:9</p>
+<p>* Dokumenttiprojektori</p>
+<p>* Blueray-soitin</p>
+<p>* WLAN</p>
+<p>* Fläppitaulu</p>
+<p>* Kalusteet: kokouspöydät ja kokoustuolit 15 henkilölle, minikeittiövarustus (keraaminen liesi, vesipiste, astianpesukone, jääkaappi).</p>
+<p><em type="italic">ERILLISTILAUKSESTA/LISÄMAKSUSTA: </em></p>
+<p>* Kokoustarjoilut l ue lisää.</p>
+<p><em type="italic">MUUTA HUOMIOITAVAA: </em></p>
+<p>Kokoustilassa anniskeluoikeudet. Alla olevassa pohjakuvassa <em type="italic">Kokoustila 2=Násti. </em>Kokoustila 1=Silba. Kokoustila 1+2 yhdistettynä=Silbanásti. </p>
+<p>Kokoustilaan saatavilla ruokailupalveluja etukäteistilauksesta.</p>
+</body></document>

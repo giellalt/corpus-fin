@@ -1,64 +1,22 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>512</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/Fi/djur-och-natur/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
-    <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
-    <parallel_text location="djur-och-natur.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Eläimet ja luonto - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem">Eläimet ja luonto</p>
-    </list>
-    <p type="title">Eläimet ja luonto</p>
-    <p>
-      <em type="italic">Lääninhallitus toimii läänin arvokkaiden kasvien, eläinten ja luonnonympäristöjen säilyttämiseksi. Tämä merkitsee muun muassa lajien ja luonnonympäristöjen inventointia, luonnonympäristöön mahdollisesti vaikuttavien toimintojen toimilupien tarkkaa harkintaa sekä luonnonsuojelualueiden perustamista ja hoitamista. Luonnonsuojelualueet ja kansallispuistot ovat käytettävissä ulkoiluun ja luontoelämysten hankkimiseen. </em>
-    </p>
-    <p>
-      <em type="italic">Lääninhallitus on vastuussa läänin eläinsuojelusta. Toimimme ennaltaehkäisevästi eläinten hyvinvoinnin takaamiseksi. Voimme päättää eläinten huostaanotosta, jos niitä kohdellaan kaltoin, tai kieltää tiettyä henkilöä pitämästä eläimiä tai tiettyä eläinlajia. </em>
-    </p>
-    <p type="title">Eläinsuojelu</p>
-    <p>Eläinsuojelulaissa on perusluonteisia määräyksiä siitä, että eläimiä tulee kohdella hyvin ja suojella sairauksilta sekä tarpeettomilta kärsimyksiltä. Lääninhallitus suorittaa eläinsuojelutarkastuksia läänin alueella. Jos jotakin eläintä on hoidettu huonosti, voimme päättää sen huostaanotosta. Jos epäilet jotakin eläintä hoidettavan huonosti, ota yhteys lääninhallitukseen.</p>
-    <p type="title">Kalastus</p>
-    <p>Lääninhallitus vastaa kalastuselinkeinon ja urheilukalastuksen kehittämisestä alueellaan. Elinvoimaisten kalakantojen luomiseksi ja säilyttämiseksi lääninhallitus tukee eri kalanhoitohankkeita. Toimimme myös hyvien kalastusedellytysten luomiseksi perustamalla kalanhoitoalueita. Lääninhallituksen tulee pitää huolta siitä, että kalastuksen säännöstelyssä otetaan huomioon alueelliset intressit.</p>
-    <p type="title">Suojeltava luonto</p>
-    <p>Lääninhallituksen vastuulla on luoda, hoitaa ja hallinnoida luonnon- ja kulttuurinsuojelualueita, kansallispuistoja ja vaellusreittejä. Luontoa voidaan suojella monilla tavoin. Kansallispuisto on tehokkain suojelumuoto. Se on suuri yhtenäinen, tietyn maisematyypin alue, jota suojellaan luonnontilassaan. Luonnonsuojelualue on taas tavallisin suojelumuoto. Se voidaan perustaa biologisen monimuotoisuuden, arvokkaiden luonnonympäristöjen säilyttämiseksi tai ulkoilualueiden tarpeen tyydyttämiseksi. Kulttuurinsuojelualue on samantapainen suojelumuoto arvokkaille kulttuurimaisemille.</p>
-    <p type="title">Ulkoilu</p>
-    <p>Lääninhallitus toimii monimuotoisen ulkoilutoiminnon ylläpitämiseksi läänissä ja kaikille vapaan pääsyn luontoon takaamiseksi. Osa hoitamistamme luonnonalueista on sopeutettu niin, että niihin on helppo päästä pyörätuolilla ja lastenvaunuilla. Ruotsissa kaikilla on mahdollisuus liikkua luonnossa ns. jokamiehenoikeuden nojalla, jossa pääsääntönä on <span type="quote">”älä häiritse - älä tuhoa”</span>. Jokamiehenoikeus on voimassa myös luonnonsuojelualueilla, mutta se voi olla tietyissä tapauksissa rajattu .</p>
-    <p type="title">Uhatut kasvit ja eläimet</p>
-    <p>Lääninhallitus toimii läänin arvokkaiden kasvien ja eläinten suojelemiseksi ja säilyttämiseksi. Laadimme toimenpideohjelmia uhanalaisten eläin- ja kasvilajien suojelemiseksi. Jos jokin kasvi- tai eläinlaji on rauhoitettu, et saa poimia, kerätä tai vahingoittaa sitä. Myös monien kasvi- ja eläinlajien elinympäristön vahingoittaminen on kielletty.</p>
-    <p type="title">Metsästys ja riista</p>
-    <p>Metsästyslaissa sanotaan, että kaikki riista, mukaan lukien munat ja pesät, ovat rauhoitettuja. Tämä merkitsee, että riistaa voi metsästää ainoastaan silloin kun metsästyslainsäädäntö sallii sen. Ruotsissa kiinteistönomistajalla on normaalisti metsästysoikeus kiinteistöön kuuluvilla mailla. Poikkeuksia tästä periaatteesta ovat kuitenkin tietyt uhanalaiset tai harvinaiset eläinlajit. Lääninhallitus tiedottaa määräyksistä metsästäjille ja maanomistajille, rekisteröi metsästysalueita, myöntää lupia sekä kerää tilastoja ja tekee yhteenvetoja niistä. Hoidamme myös riistan vahingoittumisen estämistä koskevaan suojametsästykseen liittyviä asioita.</p>
-    <p type="title">Petoeläimet</p>
-    <p>Lääninhallitus vastaa läänin suurten petoeläinten hallinnointia koskevista asioista. Tavoitteena on, että eläinten tulee elää elinvoimaisina kantoina samalla kun pyrimme minimoimaan niiden mahdollisesti aiheuttamat vahingot. Suuriin petoeläimiin kuuluvat karhu, susi, ilves, ahma ja maakotka. Lääninhallitus suorittaa inventointeja vuosittain ja päättää esimerkiksi ennaltaehkäisevistä toimenpiteistä, suoja- ja lupametsästyksistä sekä valvoo mahdollista luvatonta metsästystä. Käsittelemme lisäksi petoeläinten aiheuttamiin riistavahinkoihin liittyviä asioita.</p>
-    <p type="title">Moottoriliikenne luonnossa</p>
-    <p>Lääninhallitus sääntelee ja valvoo maastossa lumettomalla maalla suoritettavaa ajoa sekä moottorikelkka- ja vesiskootteriliikennettä. Tarkoituksena on estää moottoriliikenteen aiheuttamat häiriöt sekä maaperään, kasvillisuuteen, ulkoilutoimintaan, eläimistöön, poronhoitoon sekä maa- ja metsätalouteen kohdistuvat vahingot. Maastoajo lumettomalla maalla on kielletty koko Ruotsissa. Moottorikelkkaa saa käyttää vain lumen peittämällä maalla. Moottorikelkalla ajamista on rajoitettu tietyillä alueilla, ennen kaikkea tuntureilla, kieltämällä sen käyttö moottorikelkkareittien ulkopuolella. Vesiskootteria saa ajaa vain yleisillä väylillä ja lääninhallituksen hyväksymillä alueilla.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>512</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/Fi/djur-och-natur/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="djur-och-natur.html"/><parallel_text xml:lang="fit" location="djur-och-natur.html"/><parallel_text xml:lang="sma" location="djur-och-natur.html"/><parallel_text xml:lang="sme" location="djur-och-natur.html"/><parallel_text xml:lang="swe" location="djur-och-natur.html"/><parallel_text location="djur-och-natur.html" xml:lang="rmu"/><parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/><parallel_text location="djur-och-natur.html" xml:lang="rmf"/><parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/><parallel_text location="djur-och-natur.html" xml:lang="rmn"/><parallel_text location="djur-och-natur.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Eläimet ja luonto - Länsstyrelsen Skåne</p>
+<list><p type="listitem">Eläimet ja luonto</p>
+</list><p type="title">Eläimet ja luonto</p>
+<p><em type="italic">Lääninhallitus toimii läänin arvokkaiden kasvien, eläinten ja luonnonympäristöjen säilyttämiseksi. Tämä merkitsee muun muassa lajien ja luonnonympäristöjen inventointia, luonnonympäristöön mahdollisesti vaikuttavien toimintojen toimilupien tarkkaa harkintaa sekä luonnonsuojelualueiden perustamista ja hoitamista. Luonnonsuojelualueet ja kansallispuistot ovat käytettävissä ulkoiluun ja luontoelämysten hankkimiseen. </em></p>
+<p><em type="italic">Lääninhallitus on vastuussa läänin eläinsuojelusta. Toimimme ennaltaehkäisevästi eläinten hyvinvoinnin takaamiseksi. Voimme päättää eläinten huostaanotosta, jos niitä kohdellaan kaltoin, tai kieltää tiettyä henkilöä pitämästä eläimiä tai tiettyä eläinlajia. </em></p>
+<p type="title">Eläinsuojelu</p>
+<p>Eläinsuojelulaissa on perusluonteisia määräyksiä siitä, että eläimiä tulee kohdella hyvin ja suojella sairauksilta sekä tarpeettomilta kärsimyksiltä. Lääninhallitus suorittaa eläinsuojelutarkastuksia läänin alueella. Jos jotakin eläintä on hoidettu huonosti, voimme päättää sen huostaanotosta. Jos epäilet jotakin eläintä hoidettavan huonosti, ota yhteys lääninhallitukseen.</p>
+<p type="title">Kalastus</p>
+<p>Lääninhallitus vastaa kalastuselinkeinon ja urheilukalastuksen kehittämisestä alueellaan. Elinvoimaisten kalakantojen luomiseksi ja säilyttämiseksi lääninhallitus tukee eri kalanhoitohankkeita. Toimimme myös hyvien kalastusedellytysten luomiseksi perustamalla kalanhoitoalueita. Lääninhallituksen tulee pitää huolta siitä, että kalastuksen säännöstelyssä otetaan huomioon alueelliset intressit.</p>
+<p type="title">Suojeltava luonto</p>
+<p>Lääninhallituksen vastuulla on luoda, hoitaa ja hallinnoida luonnon- ja kulttuurinsuojelualueita, kansallispuistoja ja vaellusreittejä. Luontoa voidaan suojella monilla tavoin. Kansallispuisto on tehokkain suojelumuoto. Se on suuri yhtenäinen, tietyn maisematyypin alue, jota suojellaan luonnontilassaan. Luonnonsuojelualue on taas tavallisin suojelumuoto. Se voidaan perustaa biologisen monimuotoisuuden, arvokkaiden luonnonympäristöjen säilyttämiseksi tai ulkoilualueiden tarpeen tyydyttämiseksi. Kulttuurinsuojelualue on samantapainen suojelumuoto arvokkaille kulttuurimaisemille.</p>
+<p type="title">Ulkoilu</p>
+<p>Lääninhallitus toimii monimuotoisen ulkoilutoiminnon ylläpitämiseksi läänissä ja kaikille vapaan pääsyn luontoon takaamiseksi. Osa hoitamistamme luonnonalueista on sopeutettu niin, että niihin on helppo päästä pyörätuolilla ja lastenvaunuilla. Ruotsissa kaikilla on mahdollisuus liikkua luonnossa ns. jokamiehenoikeuden nojalla, jossa pääsääntönä on <span type="quote">”älä häiritse - älä tuhoa”</span>. Jokamiehenoikeus on voimassa myös luonnonsuojelualueilla, mutta se voi olla tietyissä tapauksissa rajattu .</p>
+<p type="title">Uhatut kasvit ja eläimet</p>
+<p>Lääninhallitus toimii läänin arvokkaiden kasvien ja eläinten suojelemiseksi ja säilyttämiseksi. Laadimme toimenpideohjelmia uhanalaisten eläin- ja kasvilajien suojelemiseksi. Jos jokin kasvi- tai eläinlaji on rauhoitettu, et saa poimia, kerätä tai vahingoittaa sitä. Myös monien kasvi- ja eläinlajien elinympäristön vahingoittaminen on kielletty.</p>
+<p type="title">Metsästys ja riista</p>
+<p>Metsästyslaissa sanotaan, että kaikki riista, mukaan lukien munat ja pesät, ovat rauhoitettuja. Tämä merkitsee, että riistaa voi metsästää ainoastaan silloin kun metsästyslainsäädäntö sallii sen. Ruotsissa kiinteistönomistajalla on normaalisti metsästysoikeus kiinteistöön kuuluvilla mailla. Poikkeuksia tästä periaatteesta ovat kuitenkin tietyt uhanalaiset tai harvinaiset eläinlajit. Lääninhallitus tiedottaa määräyksistä metsästäjille ja maanomistajille, rekisteröi metsästysalueita, myöntää lupia sekä kerää tilastoja ja tekee yhteenvetoja niistä. Hoidamme myös riistan vahingoittumisen estämistä koskevaan suojametsästykseen liittyviä asioita.</p>
+<p type="title">Petoeläimet</p>
+<p>Lääninhallitus vastaa läänin suurten petoeläinten hallinnointia koskevista asioista. Tavoitteena on, että eläinten tulee elää elinvoimaisina kantoina samalla kun pyrimme minimoimaan niiden mahdollisesti aiheuttamat vahingot. Suuriin petoeläimiin kuuluvat karhu, susi, ilves, ahma ja maakotka. Lääninhallitus suorittaa inventointeja vuosittain ja päättää esimerkiksi ennaltaehkäisevistä toimenpiteistä, suoja- ja lupametsästyksistä sekä valvoo mahdollista luvatonta metsästystä. Käsittelemme lisäksi petoeläinten aiheuttamiin riistavahinkoihin liittyviä asioita.</p>
+<p type="title">Moottoriliikenne luonnossa</p>
+<p>Lääninhallitus sääntelee ja valvoo maastossa lumettomalla maalla suoritettavaa ajoa sekä moottorikelkka- ja vesiskootteriliikennettä. Tarkoituksena on estää moottoriliikenteen aiheuttamat häiriöt sekä maaperään, kasvillisuuteen, ulkoilutoimintaan, eläimistöön, poronhoitoon sekä maa- ja metsätalouteen kohdistuvat vahingot. Maastoajo lumettomalla maalla on kielletty koko Ruotsissa. Moottorikelkkaa saa käyttää vain lumen peittämällä maalla. Moottorikelkalla ajamista on rajoitettu tietyillä alueilla, ennen kaikkea tuntureilla, kieltämällä sen käyttö moottorikelkkareittien ulkopuolella. Vesiskootteria saa ajaa vain yleisillä väylillä ja lääninhallituksen hyväksymillä alueilla.</p>
+</body></document>

@@ -1,61 +1,245 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Utsjoen kunta - Giellasiida-Hanketiivistelmä</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1104</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/giellasiida-hanketiivistelmae.php</origFileName>
-    <parallel_text xml:lang="sme" location="giellasiida-proseaktacoahkkaigeassu.php_lang=sm.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">UTSJOEN KUNTA</p>
-    <p xml:lang="vep">PL 41</p>
-    <p xml:lang="vep">99981 UTSJOKI</p>
-    <p xml:lang="smn">Puhelin 040-188 6111</p>
-    <p xml:lang="kal">Fax 016-677 339</p>
-    <p>Kunnanvirasto ja puhelinvaihde avoinna 9.00 - 15.00</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Etusivu</p>
-      <p type="listitem">Yhteystiedot <list><p type="listitem">Osoite- laskutustiedot</p><p type="listitem" xml:lang="est">Puhelinnumerot</p><p type="listitem">Kuntatietoa</p></list></p>
-      <p type="listitem">Palvelut <list><p type="listitem">Tekniset palvelut <list><p type="listitem">Kaavoitus <list><p type="listitem">Maakuntakaava</p><p type="listitem">Yleiskaava</p><p type="listitem">Ajantasa-asemakaava</p><p type="listitem">Ranta-asemakaava</p><p type="listitem">Vireillä olevat kaavat</p><p type="listitem">Kaavoituskatsaus</p><p type="listitem">Aittisuvannon asemakaava</p></list></p><p type="listitem">Rakennusvalvonta <list><p type="listitem" xml:lang="nob">Lupamenettely</p><p type="listitem" xml:lang="vep">Toimenpidelupa</p><p type="listitem" xml:lang="est">Toimenpideilmoitus</p><p type="listitem">Rakennusjärjestys</p><p type="listitem">Rakennusvalvontaviranomaisen maksut</p></list></p><p type="listitem" xml:lang="fkv">Jätehuolto</p></list></p><p type="listitem">Elinkeinotoimi <list><p type="listitem">Elinkeinotoimi yhteystiedot</p><p type="listitem">Elinkeinojen kehittäminen</p><p type="listitem">Hankkeet <list><p type="listitem" xml:lang="fkv">Saamen kielikeskus Utsjoelle</p><p type="listitem">Utsjoen matkailuimagon kehittämishanke</p><p type="listitem">Utsjoen tiede- ja taidetalohanke</p><p type="listitem">Kylät komeaksi -hanke</p><p type="listitem">Palautekysely kyläläisille kylämaisemien kehittämisestä</p><p type="listitem">Laajakaista</p><p type="listitem">Moottorikelkkailureitti-hanke</p><p type="listitem">Kylät komeaksi hankkeen yhteistyökumppanit</p><p type="listitem">Utsjoki malli -esiselvityshanke</p><p type="listitem">Čuojat Juoigga Livđuu Leud´de! Saamelaismusiikin aikuiskoulutushanke</p><p type="listitem" xml:lang="sme">Áilegas giellasiida</p><p type="listitem" xml:lang="est">VirtuálaÁilegas-VirtuaaliÁilegas</p><p type="listitem">Giellasiida-Hanketiivistelmä</p><p type="listitem">Destination Utsjoki - Utsjoen kansainvälistyminen -hanke</p></list></p><p type="listitem" xml:lang="est">Maaseutupalvelut</p><p type="listitem">Matkailu</p><p type="listitem" xml:lang="est">Ailikastalo <list><p type="listitem" xml:lang="vep">-AILIKASTALO-</p><p type="listitem">Historia</p><p type="listitem">Vuokraus</p></list></p><p type="listitem">Yhteispalvelu <list><p type="listitem" xml:lang="vep">-YHTEISPALVELU-</p><p type="listitem" xml:lang="vep">KELA</p><p type="listitem">Poliisi</p><p type="listitem">TE-toimisto</p><p type="listitem" xml:lang="fkv">Maistraatti</p><p type="listitem">Lapin oikeusaputoimisto</p></list></p><p type="listitem">Yrityspalvelut</p><p type="listitem">Yritystietojen päivityslomake</p></list></p><p type="listitem">Opetus-, vapaa-aika ja kulttuuripalvelut <list><p type="listitem">Hallinto</p><p type="listitem">Utsjokisuun koulu <list><p type="listitem">Koulun esittely</p><p type="listitem">Koulun henkilökunta</p><p type="listitem">Kerhotoiminta</p><p type="listitem">Lukuvuoden työsuunnitelma</p><p type="listitem">Järjestyssäännöt</p></list></p><p type="listitem">Karigasniemen koulu <list><p type="listitem">Koulun esittely</p><p type="listitem">Koulun henkilökunta</p><p type="listitem">Kerhotoiminta</p><p type="listitem">Lukuvuoden työsuunnitelma</p><p type="listitem">Järjestyssäännöt</p></list></p><p type="listitem">Nuorgamin koulu <list><p type="listitem">Koulun esittely</p><p type="listitem">Koulun henkilökunta</p><p type="listitem">Kerhotoiminta</p><p type="listitem">Lukuvuoden työsuunnitelma</p><p type="listitem">Järjestyssäännöt</p></list></p><p type="listitem">Utsjoen saamelaislukio <list><p type="listitem">Saamelaislukion esittely</p><p type="listitem">Saamelaislukion henkilökunta</p><p type="listitem">Saamelaislukion työsuunnitelma</p><p type="listitem">Saamelaislukion järjestyssäännöt</p><p type="listitem">Saamelaislukion oppilaskunta</p><p type="listitem">Harrastusmahdollisuuksia</p><p type="listitem">Lukioseminaari Utsjoella 10.9.2012</p></list></p><p type="listitem">Opetussuunnitelmat</p><p type="listitem">Lukuvuoden työ- ja loma-ajat</p><p type="listitem">Koulujen tilavuokrat</p><p type="listitem">Utsjoen kansalaisopisto <list><p type="listitem">Utsjoen kansalaisopisto</p><p type="listitem">Toiminta</p><p type="listitem">Utsjoen kirkonkylä</p><p type="listitem" xml:lang="sma">Karigasniemi</p><p type="listitem" xml:lang="sme">Nuorgam</p></list></p><p type="listitem">Kirjasto kulttuuri ja elokuva <list><p type="listitem" xml:lang="vep">UTSJOEN KUNNANKIRJASTO</p><p type="listitem">Aukioloajat</p><p type="listitem">Yhteystiedot</p><p type="listitem">Kirjaston käyttösäännöt</p><p type="listitem">Ajankohtaista kirjastossa</p><p type="listitem" xml:lang="deu">GIRJEBUSSE - KIRJASTOAUTO</p><p type="listitem">Kirjastoauton yhteystiedot</p><p type="listitem" xml:lang="kal">Aikataulut</p><p type="listitem">Esteettömyys</p><p type="listitem">Reittikartta</p><p type="listitem" xml:lang="vep">KULTTUURI</p><p type="listitem">Kulttuuritoimen yhteystiedot</p><p type="listitem">Kulttuurin tapahtumat</p><p type="listitem" xml:lang="vep">KUNNANKINO</p></list></p><p type="listitem">Liikuntatoimi <list><p type="listitem" xml:lang="vep">Liikuntatoimi</p><p type="listitem">Liikunta tapahtumat</p><p type="listitem">Utsjoen uimahalli</p><p type="listitem">Utsjoen kuntosali</p></list></p><p type="listitem">Nuorisotyö <list><p type="listitem">Yleistä</p><p type="listitem" xml:lang="fkv">Nuorisotila PutGi</p></list></p><p type="listitem">Teno Maraton <list><p type="listitem">Tulokset 2015</p><p type="listitem">Tulokset 2014</p><p type="listitem">Tulokset 2013</p><p type="listitem">Tulokset 2012</p><p type="listitem">Tulokset 2011</p><p type="listitem">Tulokset 2010</p><p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2014</p><p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2013</p><p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2012</p><p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2010</p></list></p><p type="listitem" xml:lang="sme">Ovttas-projekti <list><p type="listitem" xml:lang="fkv">Esittely</p><p type="listitem">Taustaa</p><p type="listitem">Ajankohtaista</p><p type="listitem">Yhteystiedot</p></list></p></list></p><p type="listitem">Sosiaali- ja terveystoimi <list><p type="listitem">Henkinen ensiapu akuuttikriiseissä</p><p type="listitem" xml:lang="sma">Jonotiedote</p><p type="listitem">Yhteystiedot</p><p type="listitem">Lasten ja perheiden palvelut <list><p type="listitem">Lastenvalvojan palvelut</p><p type="listitem">Isyyden selvittäminen</p><p type="listitem">Lasten huolto- ja tapaamisoikeusasiat</p><p type="listitem">Lapsen elatus</p><p type="listitem">Lastensuojelu</p><p type="listitem">Kriisi- ja turvakotipalvelut</p></list></p><p type="listitem">Avopalvelu <list><p type="listitem">Kuntouttava työtoiminta</p><p type="listitem">Koti- ja tukipalvelut</p><p type="listitem">Omaishoidontuki</p><p type="listitem">Ruokapalvelut</p><p type="listitem">Vammaispalvelut</p><p type="listitem">Tehostettu palveluasuminen Dorvu</p></list></p><p type="listitem">Toimeentulotuki</p><p type="listitem">Terveydenhoito ja kotisairaanhoito</p><p type="listitem">Vuodeosasto</p><p type="listitem">Sairaanhoito <list><p type="listitem" xml:lang="fkv">Tiedotteet</p><p type="listitem" xml:lang="eng">Laboratorio</p><p type="listitem" xml:lang="deu">Röntgen</p><p type="listitem">Fysioterapia</p><p type="listitem">Psykiatrinen avohoito</p><p type="listitem">Sairaankuljetus/ensihoito</p><p type="listitem" xml:lang="smn">Päihdehuolto</p><p type="listitem">Rintamaveteraanien kuntoutus</p><p type="listitem" xml:lang="kal">Asiakasmaksut</p></list></p><p type="listitem">Hammashoito</p><p type="listitem">Ympäristöterveydenhuolto ja eläinlääkintäpalvelut</p><p type="listitem" xml:lang="est">Potilasasiamies</p><p type="listitem">Sosiaali- ja kriisipäivystys</p><p type="listitem">Sosiaaliasiamiespalvelut</p><p type="listitem">Talous- ja velkaneuvonta</p><p type="listitem">Tenonlaakson sosiaali- ja terveyspalveluiden kehittämishanke <list><p type="listitem">Tietoa hankkeesta</p><p type="listitem">Rajayhteistyötä 2000-luvulla</p><p type="listitem">Rajat ylittäviä palveluita</p><p type="listitem" xml:lang="fkv">Linkkejä lisätietoon</p></list></p><p type="listitem">Etsivä nuorisotyö / työpajatoiminta</p></list></p><p type="listitem">Varhaiskasvatuspalvelut <list><p type="listitem">Yhteystiedot</p><p type="listitem">Päivähoitoon hakeminen</p><p type="listitem">Päivähoitomaksut ja hoitoajat</p><p type="listitem">Lomakkeita</p></list></p><p type="listitem">Asunnot <list><p type="listitem">Yleiset Järjestyssäännöt</p><p type="listitem">Vapaat asunnot</p></list></p><p type="listitem">Ympäristöpalvelut</p></list></p>
-      <p type="listitem">Päätöksenteko <list><p type="listitem">Luottamuselimet <list><p type="listitem">Kunnanhallitus</p><p type="listitem">Valtuusto</p><p type="listitem">Sivistyslautakunta</p><p type="listitem">Perusturvalautakunta</p><p type="listitem">Elinkeinolautakunta</p><p type="listitem">Tekninen lautakunta</p><p type="listitem">Tarkastuslautakunta</p><p type="listitem">Keskusvaalilautakunta</p><p type="listitem">Kunnan edustajat eri yhtiöissä ja yhteisöissä 2015-2016</p></list></p><p type="listitem">Pöytäkirjat <list><p type="listitem">Kunnanhallitus</p><p type="listitem">Valtuusto</p><p type="listitem">Sivistyslautakunta</p><p type="listitem">Perusturvalautakunta</p><p type="listitem">Elinkeinolautakunta</p><p type="listitem">Tekninen lautakunta</p><p type="listitem">Keskusvaalilautakunta</p><p type="listitem">Tarkastuslautakunta</p></list></p><p type="listitem">Säännöt ja määräykset <list><p type="listitem">Hallintosääntö</p></list></p><p type="listitem">Tilinpäätös ja Talousarvio</p></list></p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet</p>
-      <p type="listitem">Tapahtumat</p>
-      <p type="listitem">Matkailu <list><p type="listitem">Matkailu</p><p type="listitem">Ohjelma- ja majoituspalvelut</p><p type="listitem">Muut Palvelut</p><p type="listitem">Palveluoppaat</p><p type="listitem">Kalastus <list><p type="listitem">Kalastus muilla vesialueilla</p></list></p><p type="listitem">Joukkoliikenne</p><p type="listitem" xml:lang="fkv">Moottorikelkkailu</p></list></p>
-      <p type="listitem" xml:lang="fkv">Linkit</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fkv">Saamen kielikeskus Utsjoelle</p>
-      <p type="listitem">Utsjoen matkailuimagon kehittämishanke</p>
-      <p type="listitem">Utsjoen tiede- ja taidetalohanke</p>
-      <p type="listitem">Kylät komeaksi -hanke</p>
-      <p type="listitem">Palautekysely kyläläisille kylämaisemien kehittämisestä</p>
-      <p type="listitem">Laajakaista</p>
-      <p type="listitem">Moottorikelkkailureitti-hanke</p>
-      <p type="listitem">Kylät komeaksi hankkeen yhteistyökumppanit</p>
-      <p type="listitem">Utsjoki malli -esiselvityshanke</p>
-      <p type="listitem">Čuojat Juoigga Livđuu Leud´de! Saamelaismusiikin aikuiskoulutushanke</p>
-      <p type="listitem" xml:lang="sme">Áilegas giellasiida</p>
-      <p type="listitem" xml:lang="est">VirtuálaÁilegas-VirtuaaliÁilegas</p>
-      <p type="listitem">Giellasiida-Hanketiivistelmä</p>
-      <p type="listitem">Destination Utsjoki - Utsjoen kansainvälistyminen -hanke</p>
-    </list>
-    <p type="title">Giellasiida-Hanketiivistelmä</p>
-    <p>Hankkeen tavoitteena on kehittää Utsjoen kuntaa palveluorganisaationa ja vahvistaa työntekijöiden työhyvinvointia monikielisen ja -kulttuurisen toimintaympäristön näkökulmasta. Näiden tavoitteiden kautta parannetaan pitkällä aikavälillä saamenkielisen ja saamelaiskulttuurin mukaisen palvelutuotannon laatua, tuottavuutta sekä määrää. Saamen kielilain mukaan saamelaisten kotiseutualueella toimivien sekä valtion että kunnallisten viranomaisten velvollisuus on huolehtia siitä, että saamenkieliset palvelut turvataan.</p>
-    <p>Konkreettisena tavoitteena on Utsjoen kunnan johtavien viranhaltijoiden henkilöstöjohtamisen osaamisen parantaminen ja sen seurauksena koko henkilöstön työhyvinvoinnin ja tuottavuuden parantaminen. Johtamisen osaamisen kehittämisen lisäksi muina konkreettisina tavoitteina tuottavuuden parantamisen näkökulmasta ovat raja-alueosaamisen sekä sähköisten palvelujen ja viestinnän osaamisen kehittäminen koko organisaatiossa.</p>
-    <p>Hankkeen avulla tehtävillä toimenpiteillä tartutaan niihin ongelmakohtiin, jotka vaikuttavat työntekijöiden</p>
-    <p>työhyvinvointiin ja työssä jaksamiseen. Näitä toimenpiteitä ovat muun muassa strategisen johtamisen oppimisprosessi, työhyvinvointikyselyt, johdon koulutukset, viestintä- ja tiedotuskäytäntöjen kehittäminen, raja-alueyhteistyöhön liittyvä osaaminen sekä kielen ja kulttuurin koulutukset.</p>
-    <p>Hankkeen tuloksena Utsjoen kunnan työntekijöiden työhyvinvointi ja työssä jaksaminen ovat parantuneet, koska johtavien viranhaltijoiden henkilöstöjohtamisen osaaminen on lisääntynyt. Pitkällä aikavälillä erityisesti saamenkielinen palvelutarjonta on lisääntynyt, sen laatu ja tuottavuus ovat parantuneet.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Utsjoen kunta - Giellasiida-Hanketiivistelmä</title><genre code="admin"/><author><unknown/></author><wordcount>1104</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/giellasiida-hanketiivistelmae.php</origFileName><parallel_text xml:lang="sme" location="giellasiida-proseaktacoahkkaigeassu.php_lang=sm.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">UTSJOEN KUNTA</p>
+<p xml:lang="vep">PL 41</p>
+<p xml:lang="est">99981 UTSJOKI</p>
+<p xml:lang="smn">Puhelin 040-188 6111</p>
+<p xml:lang="kal">Fax 016-677 339</p>
+<p>Kunnanvirasto ja puhelinvaihde avoinna 9.00 - 15.00</p>
+<list><p type="listitem" xml:lang="smn">Etusivu</p>
+<p type="listitem">Yhteystiedot <list><p type="listitem">Osoite- laskutustiedot</p>
+<p type="listitem" xml:lang="est">Puhelinnumerot</p>
+<p type="listitem">Kuntatietoa</p>
+</list></p>
+<p type="listitem">Palvelut <list><p type="listitem">Tekniset palvelut <list><p type="listitem">Kaavoitus <list><p type="listitem">Maakuntakaava</p>
+<p type="listitem">Yleiskaava</p>
+<p type="listitem">Ajantasa-asemakaava</p>
+<p type="listitem">Ranta-asemakaava</p>
+<p type="listitem">Vireillä olevat kaavat</p>
+<p type="listitem">Kaavoituskatsaus</p>
+<p type="listitem">Aittisuvannon asemakaava</p>
+</list></p>
+<p type="listitem">Rakennusvalvonta <list><p type="listitem" xml:lang="fkv">Lupamenettely</p>
+<p type="listitem" xml:lang="vep">Toimenpidelupa</p>
+<p type="listitem" xml:lang="est">Toimenpideilmoitus</p>
+<p type="listitem">Rakennusjärjestys</p>
+<p type="listitem">Rakennusvalvontaviranomaisen maksut</p>
+</list></p>
+<p type="listitem" xml:lang="fkv">Jätehuolto</p>
+</list></p>
+<p type="listitem">Elinkeinotoimi <list><p type="listitem">Elinkeinotoimi yhteystiedot</p>
+<p type="listitem">Elinkeinojen kehittäminen</p>
+<p type="listitem">Hankkeet <list><p type="listitem" xml:lang="fkv">Saamen kielikeskus Utsjoelle</p>
+<p type="listitem">Utsjoen matkailuimagon kehittämishanke</p>
+<p type="listitem">Utsjoen tiede- ja taidetalohanke</p>
+<p type="listitem">Kylät komeaksi -hanke</p>
+<p type="listitem">Palautekysely kyläläisille kylämaisemien kehittämisestä</p>
+<p type="listitem">Laajakaista</p>
+<p type="listitem">Moottorikelkkailureitti-hanke</p>
+<p type="listitem">Kylät komeaksi hankkeen yhteistyökumppanit</p>
+<p type="listitem">Utsjoki malli -esiselvityshanke</p>
+<p type="listitem">Čuojat Juoigga Livđuu Leud´de! Saamelaismusiikin aikuiskoulutushanke</p>
+<p type="listitem" xml:lang="sme">Áilegas giellasiida</p>
+<p type="listitem" xml:lang="est">VirtuálaÁilegas-VirtuaaliÁilegas</p>
+<p type="listitem">Giellasiida-Hanketiivistelmä</p>
+<p type="listitem">Destination Utsjoki - Utsjoen kansainvälistyminen -hanke</p>
+</list></p>
+<p type="listitem" xml:lang="est">Maaseutupalvelut</p>
+<p type="listitem">Matkailu</p>
+<p type="listitem" xml:lang="est">Ailikastalo <list><p type="listitem" xml:lang="vep">-AILIKASTALO-</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Vuokraus</p>
+</list></p>
+<p type="listitem" xml:lang="fkv">Yhteispalvelu <list><p type="listitem" xml:lang="vep">-YHTEISPALVELU-</p>
+<p type="listitem" xml:lang="vep">KELA</p>
+<p type="listitem">Poliisi</p>
+<p type="listitem">TE-toimisto</p>
+<p type="listitem" xml:lang="fkv">Maistraatti</p>
+<p type="listitem">Lapin oikeusaputoimisto</p>
+</list></p>
+<p type="listitem">Yrityspalvelut</p>
+<p type="listitem">Yritystietojen päivityslomake</p>
+</list></p>
+<p type="listitem">Opetus-, vapaa-aika ja kulttuuripalvelut <list><p type="listitem">Hallinto</p>
+<p type="listitem">Utsjokisuun koulu <list><p type="listitem">Koulun esittely</p>
+<p type="listitem">Koulun henkilökunta</p>
+<p type="listitem">Kerhotoiminta</p>
+<p type="listitem">Lukuvuoden työsuunnitelma</p>
+<p type="listitem">Järjestyssäännöt</p>
+</list></p>
+<p type="listitem">Karigasniemen koulu <list><p type="listitem">Koulun esittely</p>
+<p type="listitem">Koulun henkilökunta</p>
+<p type="listitem">Kerhotoiminta</p>
+<p type="listitem">Lukuvuoden työsuunnitelma</p>
+<p type="listitem">Järjestyssäännöt</p>
+</list></p>
+<p type="listitem">Nuorgamin koulu <list><p type="listitem">Koulun esittely</p>
+<p type="listitem">Koulun henkilökunta</p>
+<p type="listitem">Kerhotoiminta</p>
+<p type="listitem">Lukuvuoden työsuunnitelma</p>
+<p type="listitem">Järjestyssäännöt</p>
+</list></p>
+<p type="listitem">Utsjoen saamelaislukio <list><p type="listitem">Saamelaislukion esittely</p>
+<p type="listitem">Saamelaislukion henkilökunta</p>
+<p type="listitem">Saamelaislukion työsuunnitelma</p>
+<p type="listitem">Saamelaislukion järjestyssäännöt</p>
+<p type="listitem">Saamelaislukion oppilaskunta</p>
+<p type="listitem">Harrastusmahdollisuuksia</p>
+<p type="listitem">Lukioseminaari Utsjoella 10.9.2012</p>
+</list></p>
+<p type="listitem">Opetussuunnitelmat</p>
+<p type="listitem">Lukuvuoden työ- ja loma-ajat</p>
+<p type="listitem">Koulujen tilavuokrat</p>
+<p type="listitem">Utsjoen kansalaisopisto <list><p type="listitem">Utsjoen kansalaisopisto</p>
+<p type="listitem">Toiminta</p>
+<p type="listitem">Utsjoen kirkonkylä</p>
+<p type="listitem" xml:lang="sma">Karigasniemi</p>
+<p type="listitem" xml:lang="sme">Nuorgam</p>
+</list></p>
+<p type="listitem">Kirjasto kulttuuri ja elokuva <list><p type="listitem" xml:lang="vep">UTSJOEN KUNNANKIRJASTO</p>
+<p type="listitem">Aukioloajat</p>
+<p type="listitem">Yhteystiedot</p>
+<p type="listitem">Kirjaston käyttösäännöt</p>
+<p type="listitem">Ajankohtaista kirjastossa</p>
+<p type="listitem" xml:lang="deu">GIRJEBUSSE - KIRJASTOAUTO</p>
+<p type="listitem">Kirjastoauton yhteystiedot</p>
+<p type="listitem" xml:lang="kal">Aikataulut</p>
+<p type="listitem">Esteettömyys</p>
+<p type="listitem" xml:lang="krl">Reittikartta</p>
+<p type="listitem" xml:lang="vep">KULTTUURI</p>
+<p type="listitem">Kulttuuritoimen yhteystiedot</p>
+<p type="listitem">Kulttuurin tapahtumat</p>
+<p type="listitem" xml:lang="vep">KUNNANKINO</p>
+</list></p>
+<p type="listitem">Liikuntatoimi <list><p type="listitem" xml:lang="vep">Liikuntatoimi</p>
+<p type="listitem">Liikunta tapahtumat</p>
+<p type="listitem">Utsjoen uimahalli</p>
+<p type="listitem">Utsjoen kuntosali</p>
+</list></p>
+<p type="listitem">Nuorisotyö <list><p type="listitem">Yleistä</p>
+<p type="listitem" xml:lang="fkv">Nuorisotila PutGi</p>
+</list></p>
+<p type="listitem">Teno Maraton <list><p type="listitem">Tulokset 2015</p>
+<p type="listitem">Tulokset 2014</p>
+<p type="listitem">Tulokset 2013</p>
+<p type="listitem">Tulokset 2012</p>
+<p type="listitem">Tulokset 2011</p>
+<p type="listitem">Tulokset 2010</p>
+<p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2014</p>
+<p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2013</p>
+<p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2012</p>
+<p type="listitem" xml:lang="fkv">Kuvia Teno Maratonilta 2010</p>
+</list></p>
+<p type="listitem" xml:lang="sme">Ovttas-projekti <list><p type="listitem" xml:lang="fkv">Esittely</p>
+<p type="listitem">Taustaa</p>
+<p type="listitem">Ajankohtaista</p>
+<p type="listitem">Yhteystiedot</p>
+</list></p>
+</list></p>
+<p type="listitem">Sosiaali- ja terveystoimi <list><p type="listitem">Henkinen ensiapu akuuttikriiseissä</p>
+<p type="listitem" xml:lang="sma">Jonotiedote</p>
+<p type="listitem">Yhteystiedot</p>
+<p type="listitem">Lasten ja perheiden palvelut <list><p type="listitem">Lastenvalvojan palvelut</p>
+<p type="listitem">Isyyden selvittäminen</p>
+<p type="listitem">Lasten huolto- ja tapaamisoikeusasiat</p>
+<p type="listitem">Lapsen elatus</p>
+<p type="listitem">Lastensuojelu</p>
+<p type="listitem">Kriisi- ja turvakotipalvelut</p>
+</list></p>
+<p type="listitem">Avopalvelu <list><p type="listitem">Kuntouttava työtoiminta</p>
+<p type="listitem">Koti- ja tukipalvelut</p>
+<p type="listitem">Omaishoidontuki</p>
+<p type="listitem">Ruokapalvelut</p>
+<p type="listitem">Vammaispalvelut</p>
+<p type="listitem">Tehostettu palveluasuminen Dorvu</p>
+</list></p>
+<p type="listitem">Toimeentulotuki</p>
+<p type="listitem">Terveydenhoito ja kotisairaanhoito</p>
+<p type="listitem">Vuodeosasto</p>
+<p type="listitem">Sairaanhoito <list><p type="listitem" xml:lang="fkv">Tiedotteet</p>
+<p type="listitem" xml:lang="rmy-rka">Laboratorio</p>
+<p type="listitem" xml:lang="deu">Röntgen</p>
+<p type="listitem">Fysioterapia</p>
+<p type="listitem">Psykiatrinen avohoito</p>
+<p type="listitem">Sairaankuljetus/ensihoito</p>
+<p type="listitem" xml:lang="smn">Päihdehuolto</p>
+<p type="listitem">Rintamaveteraanien kuntoutus</p>
+<p type="listitem" xml:lang="kal">Asiakasmaksut</p>
+</list></p>
+<p type="listitem" xml:lang="fit">Hammashoito</p>
+<p type="listitem">Ympäristöterveydenhuolto ja eläinlääkintäpalvelut</p>
+<p type="listitem" xml:lang="est">Potilasasiamies</p>
+<p type="listitem">Sosiaali- ja kriisipäivystys</p>
+<p type="listitem">Sosiaaliasiamiespalvelut</p>
+<p type="listitem">Talous- ja velkaneuvonta</p>
+<p type="listitem">Tenonlaakson sosiaali- ja terveyspalveluiden kehittämishanke <list><p type="listitem">Tietoa hankkeesta</p>
+<p type="listitem">Rajayhteistyötä 2000-luvulla</p>
+<p type="listitem">Rajat ylittäviä palveluita</p>
+<p type="listitem" xml:lang="fkv">Linkkejä lisätietoon</p>
+</list></p>
+<p type="listitem">Etsivä nuorisotyö / työpajatoiminta</p>
+</list></p>
+<p type="listitem">Varhaiskasvatuspalvelut <list><p type="listitem">Yhteystiedot</p>
+<p type="listitem">Päivähoitoon hakeminen</p>
+<p type="listitem">Päivähoitomaksut ja hoitoajat</p>
+<p type="listitem">Lomakkeita</p>
+</list></p>
+<p type="listitem">Asunnot <list><p type="listitem">Yleiset Järjestyssäännöt</p>
+<p type="listitem">Vapaat asunnot</p>
+</list></p>
+<p type="listitem">Ympäristöpalvelut</p>
+</list></p>
+<p type="listitem">Päätöksenteko <list><p type="listitem">Luottamuselimet <list><p type="listitem">Kunnanhallitus</p>
+<p type="listitem">Valtuusto</p>
+<p type="listitem">Sivistyslautakunta</p>
+<p type="listitem">Perusturvalautakunta</p>
+<p type="listitem">Elinkeinolautakunta</p>
+<p type="listitem">Tekninen lautakunta</p>
+<p type="listitem">Tarkastuslautakunta</p>
+<p type="listitem">Keskusvaalilautakunta</p>
+<p type="listitem">Kunnan edustajat eri yhtiöissä ja yhteisöissä 2015-2016</p>
+</list></p>
+<p type="listitem">Pöytäkirjat <list><p type="listitem">Kunnanhallitus</p>
+<p type="listitem">Valtuusto</p>
+<p type="listitem">Sivistyslautakunta</p>
+<p type="listitem">Perusturvalautakunta</p>
+<p type="listitem">Elinkeinolautakunta</p>
+<p type="listitem">Tekninen lautakunta</p>
+<p type="listitem">Keskusvaalilautakunta</p>
+<p type="listitem">Tarkastuslautakunta</p>
+</list></p>
+<p type="listitem">Säännöt ja määräykset <list><p type="listitem">Hallintosääntö</p>
+</list></p>
+<p type="listitem">Tilinpäätös ja Talousarvio</p>
+</list></p>
+<p type="listitem" xml:lang="fkv">Tiedotteet</p>
+<p type="listitem">Tapahtumat</p>
+<p type="listitem">Matkailu <list><p type="listitem">Matkailu</p>
+<p type="listitem">Ohjelma- ja majoituspalvelut</p>
+<p type="listitem">Muut Palvelut</p>
+<p type="listitem">Palveluoppaat</p>
+<p type="listitem">Kalastus <list><p type="listitem">Kalastus muilla vesialueilla</p>
+</list></p>
+<p type="listitem">Joukkoliikenne</p>
+<p type="listitem" xml:lang="fkv">Moottorikelkkailu</p>
+</list></p>
+<p type="listitem" xml:lang="fkv">Linkit</p>
+</list><list><p type="listitem" xml:lang="fkv">Saamen kielikeskus Utsjoelle</p>
+<p type="listitem">Utsjoen matkailuimagon kehittämishanke</p>
+<p type="listitem">Utsjoen tiede- ja taidetalohanke</p>
+<p type="listitem">Kylät komeaksi -hanke</p>
+<p type="listitem">Palautekysely kyläläisille kylämaisemien kehittämisestä</p>
+<p type="listitem">Laajakaista</p>
+<p type="listitem">Moottorikelkkailureitti-hanke</p>
+<p type="listitem">Kylät komeaksi hankkeen yhteistyökumppanit</p>
+<p type="listitem">Utsjoki malli -esiselvityshanke</p>
+<p type="listitem">Čuojat Juoigga Livđuu Leud´de! Saamelaismusiikin aikuiskoulutushanke</p>
+<p type="listitem" xml:lang="sme">Áilegas giellasiida</p>
+<p type="listitem" xml:lang="est">VirtuálaÁilegas-VirtuaaliÁilegas</p>
+<p type="listitem">Giellasiida-Hanketiivistelmä</p>
+<p type="listitem">Destination Utsjoki - Utsjoen kansainvälistyminen -hanke</p>
+</list><p type="title">Giellasiida-Hanketiivistelmä</p>
+<p>Hankkeen tavoitteena on kehittää Utsjoen kuntaa palveluorganisaationa ja vahvistaa työntekijöiden työhyvinvointia monikielisen ja -kulttuurisen toimintaympäristön näkökulmasta. Näiden tavoitteiden kautta parannetaan pitkällä aikavälillä saamenkielisen ja saamelaiskulttuurin mukaisen palvelutuotannon laatua, tuottavuutta sekä määrää. Saamen kielilain mukaan saamelaisten kotiseutualueella toimivien sekä valtion että kunnallisten viranomaisten velvollisuus on huolehtia siitä, että saamenkieliset palvelut turvataan.</p>
+<p>Konkreettisena tavoitteena on Utsjoen kunnan johtavien viranhaltijoiden henkilöstöjohtamisen osaamisen parantaminen ja sen seurauksena koko henkilöstön työhyvinvoinnin ja tuottavuuden parantaminen. Johtamisen osaamisen kehittämisen lisäksi muina konkreettisina tavoitteina tuottavuuden parantamisen näkökulmasta ovat raja-alueosaamisen sekä sähköisten palvelujen ja viestinnän osaamisen kehittäminen koko organisaatiossa.</p>
+<p>Hankkeen avulla tehtävillä toimenpiteillä tartutaan niihin ongelmakohtiin, jotka vaikuttavat työntekijöiden</p>
+<p>työhyvinvointiin ja työssä jaksamiseen. Näitä toimenpiteitä ovat muun muassa strategisen johtamisen oppimisprosessi, työhyvinvointikyselyt, johdon koulutukset, viestintä- ja tiedotuskäytäntöjen kehittäminen, raja-alueyhteistyöhön liittyvä osaaminen sekä kielen ja kulttuurin koulutukset.</p>
+<p>Hankkeen tuloksena Utsjoen kunnan työntekijöiden työhyvinvointi ja työssä jaksaminen ovat parantuneet, koska johtavien viranhaltijoiden henkilöstöjohtamisen osaaminen on lisääntynyt. Pitkällä aikavälillä erityisesti saamenkielinen palvelutarjonta on lisääntynyt, sen laatu ja tuottavuus ovat parantuneet.</p>
+</body></document>

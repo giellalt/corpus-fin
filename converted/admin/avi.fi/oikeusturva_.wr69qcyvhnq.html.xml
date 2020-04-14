@@ -1,70 +1,39 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>168</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.avi.fi/web/avi/oikeusturva#.WR69QcYvHNQ</origFileName>
-    <parallel_text xml:lang="eng" location="oikeusturva_.wr69j8yvhnq.html"/>
-    <parallel_text xml:lang="sme" location="9_.wr69o8yvhnq.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Oikeusturva - Aluehallintovirasto</p>
-    <p>› Graafinen versio</p>
-    <p xml:lang="fkv">Henkilöhaku</p>
-    <list>
-      <p type="listitem" xml:lang="vep">Kantelu</p>
-      <p type="listitem">Valitukset ja oikaisuvaatimukset</p>
-      <p type="listitem">Maksutalletukset</p>
-      <p type="listitem">Yhtiö- ja yhdistysasiat</p>
-      <p type="listitem" xml:lang="fkv">Asuntokaupan turva-asiakirjat</p>
-      <p type="listitem">Asukasdemokratia</p>
-      <p type="listitem">Hautaustoimi</p>
-      <p type="listitem" xml:lang="kal">Osakaskunnat</p>
-      <p type="listitem">Valtion edunvalvonta</p>
-    </list>
-    <p xml:lang="koi">2016-05-09</p>
-    <p>Aluehallintovirasto (AVI) edistää perusoikeuksien ja oikeusturvan toteutumista kaikessa toiminnassaan. AVIn oikeusturvayksikössä hoidetaan AVIlle useissa laeissa säädettyjä erityistehtäviä, jotka koskevat oikeusturvan toteutumista muun muassa kunnissa ja eri yhteisöissä.</p>
-    <p>Varsinaisia AVIn oikeusturvayksikön tehtäviä ovat muun muassa</p>
-    <list>
-      <p type="listitem">laissa erikseen säädettyjen valitusten ja oikaisupyyntöjen käsitteleminen</p>
-      <p type="listitem">kantelujen käsitteleminen</p>
-      <p type="listitem">yhteisön kokouksen koollekutsumisen oikeuttaminen</p>
-      <p type="listitem">yhteisön toiminnantarkastajan määrääminen</p>
-      <p type="listitem">erityisen tarkastuksen määrääminen laissa erikseen säädetyille yhteisöille</p>
-      <p type="listitem">maksutalletusten vastaanottaminen ja vakuuden asettaminen</p>
-      <p type="listitem">asuntokauppalain mukaisten turva-asiakirjojen säilyttäminen</p>
-      <p type="listitem">laissa erikseen säädettyjen asukasdemokratiaan liittyvien tehtävien hoitaminen</p>
-      <p type="listitem">osakaskuntien sääntöjen vahvistaminen</p>
-    </list>
-    <p type="title" xml:lang="fkv">Tiedotteita</p>
-    <list>
-      <p type="listitem">Lounais-Suomen aluehallintovirasto jakoi 55 000 euroa nuorisotiedotukseen ja -neuvontaan Satakunnassa ja Varsinais-Suomessa (Lounais-Suomi)</p>
-      <p type="listitem">Jämsän lastensuojelussa liian vähän väkeä - tilanne korjattava syksyyn mennessä (Länsi- ja Sisä-Suomi)</p>
-      <p type="listitem">Lappi monelta osin kärkimaakunta päihteiden käytön suhteen - ehkäisevään päihdetyöhön panostaminen Lapin kunnissa kuitenkin vähäistä (Lappi)</p>
-      <p type="listitem">Etsivään nuorisotyöhön 3,7 miljoonaa euroa valtionavustusta Etelä-Suomessa (Etelä-Suomi)</p>
-      <p type="listitem">Kirjastokäynnit ovat lisääntyneet Itä-Suomen yleisissä kirjastoissa (Itä-Suomi)</p>
-    </list>
-    <p xml:lang="nno">RSS  (Opens New Window)</p>
-    <p>Päivitetty</p>
-    <p>Tulosta</p>
-    <p xml:lang="fkv">Jaa</p>
-    <p type="title">Oikopolut</p>
-    <p xml:lang="koi">2013-07-09</p>
-    <list>
-      <p type="listitem">Asiointi</p>
-      <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>168</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/oikeusturva#.WR69QcYvHNQ</origFileName><parallel_text xml:lang="eng" location="oikeusturva_.wr69j8yvhnq.html"/><parallel_text xml:lang="sme" location="9_.wr69o8yvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Oikeusturva - Aluehallintovirasto</p>
+<p>› Graafinen versio</p>
+<p xml:lang="fkv">Henkilöhaku</p>
+<list><p type="listitem" xml:lang="fkv">Kantelu</p>
+<p type="listitem">Valitukset ja oikaisuvaatimukset</p>
+<p type="listitem">Maksutalletukset</p>
+<p type="listitem">Yhtiö- ja yhdistysasiat</p>
+<p type="listitem" xml:lang="fkv">Asuntokaupan turva-asiakirjat</p>
+<p type="listitem" xml:lang="est">Asukasdemokratia</p>
+<p type="listitem">Hautaustoimi</p>
+<p type="listitem" xml:lang="kal">Osakaskunnat</p>
+<p type="listitem">Valtion edunvalvonta</p>
+</list><p xml:lang="vep">2016-05-09</p>
+<p>Aluehallintovirasto (AVI) edistää perusoikeuksien ja oikeusturvan toteutumista kaikessa toiminnassaan. AVIn oikeusturvayksikössä hoidetaan AVIlle useissa laeissa säädettyjä erityistehtäviä, jotka koskevat oikeusturvan toteutumista muun muassa kunnissa ja eri yhteisöissä.</p>
+<p>Varsinaisia AVIn oikeusturvayksikön tehtäviä ovat muun muassa</p>
+<list><p type="listitem">laissa erikseen säädettyjen valitusten ja oikaisupyyntöjen käsitteleminen</p>
+<p type="listitem">kantelujen käsitteleminen</p>
+<p type="listitem">yhteisön kokouksen koollekutsumisen oikeuttaminen</p>
+<p type="listitem">yhteisön toiminnantarkastajan määrääminen</p>
+<p type="listitem">erityisen tarkastuksen määrääminen laissa erikseen säädetyille yhteisöille</p>
+<p type="listitem">maksutalletusten vastaanottaminen ja vakuuden asettaminen</p>
+<p type="listitem">asuntokauppalain mukaisten turva-asiakirjojen säilyttäminen</p>
+<p type="listitem">laissa erikseen säädettyjen asukasdemokratiaan liittyvien tehtävien hoitaminen</p>
+<p type="listitem">osakaskuntien sääntöjen vahvistaminen</p>
+</list><p type="title" xml:lang="fkv">Tiedotteita</p>
+<list><p type="listitem">Lounais-Suomen aluehallintovirasto jakoi 55 000 euroa nuorisotiedotukseen ja -neuvontaan Satakunnassa ja Varsinais-Suomessa (Lounais-Suomi)</p>
+<p type="listitem">Jämsän lastensuojelussa liian vähän väkeä - tilanne korjattava syksyyn mennessä (Länsi- ja Sisä-Suomi)</p>
+<p type="listitem">Lappi monelta osin kärkimaakunta päihteiden käytön suhteen - ehkäisevään päihdetyöhön panostaminen Lapin kunnissa kuitenkin vähäistä (Lappi)</p>
+<p type="listitem">Etsivään nuorisotyöhön 3,7 miljoonaa euroa valtionavustusta Etelä-Suomessa (Etelä-Suomi)</p>
+<p type="listitem">Kirjastokäynnit ovat lisääntyneet Itä-Suomen yleisissä kirjastoissa (Itä-Suomi)</p>
+</list><p xml:lang="nno">RSS  (Opens New Window)</p>
+<p>Päivitetty</p>
+<p>Tulosta</p>
+<p xml:lang="fit">Jaa</p>
+<p type="title">Oikopolut</p>
+<p xml:lang="vep">2013-07-09</p>
+<list><p type="listitem">Asiointi</p>
+<p type="listitem" xml:lang="fkv">Henkilöhaku</p>
+</list></body></document>

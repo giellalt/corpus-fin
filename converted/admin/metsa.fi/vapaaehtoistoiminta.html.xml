@@ -1,333 +1,95 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Vapaaehtoistoiminta - www.metsa.fi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>136</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.metsa.fi/vapaaehtoistoiminta</origFileName>
-    <parallel_text xml:lang="eng" location="volunteerwork.html"/>
-    <parallel_text xml:lang="sme" location="eaktodahtolasdoaibma.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="nno">
-        <list>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                          <p type="listitem" xml:lang="nno">
-                            <list/>
-                          </p>
-                        </list>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list>
-                      <p type="listitem" xml:lang="nno">
-                        <list/>
-                      </p>
-                    </list>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list/>
-              </p>
-            </list>
-          </p>
-          <p type="listitem" xml:lang="nno">
-            <list>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-              <p type="listitem" xml:lang="nno">
-                <list>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                  <p type="listitem" xml:lang="nno">
-                    <list/>
-                  </p>
-                </list>
-              </p>
-            </list>
-          </p>
-        </list>
-      </p>
-    </list>
-    <p type="title">Vapaaehtoistoimintaa luonnon hyväksi</p>
-    <p>Vapaaehtoiseksi?</p>
-    <p>Vapaaehtoistoiminta</p>
-    <p>Lisätietoa vapaaehtoistoiminnasta Metsähallituksen kohteissa</p>
-    <p>Kansallispuistot ja suojelualueet tarjoavat upeita vapaaehtoistoiminnan mahdollisuuksia ympäri Suomen. Tyypillistä vapaaehtoistoimintaa on luontoharrastajien osallistuminen lajien havainnointiin sekä talkooleirit, joilla hoidetaan perinnemaisemia niittämällä ja raivaamalla. Vapaaehtoiset auttavat myös arvokkaiden vanhojen rakennusten kunnostamisessa ja riista- ja kalakantojen hoidossa valtion mailla.</p>
-    <p>Tällä työllä on suuri merkitys Suomen luonnolle. Vapaaehtoiset työskentelevät kanssamme n. 20 henkilötyövuoden verran. Yhteisten luonto- ja kulttuuriaarteiden suojelu ja hoito on myös suuri ilo tekijälleen. Tapahtumissa, talkoissa tai asiantuntijavapaaehtoisena pääsee tekemään konkreettisia tekoja suojelualueiden, uhanalaisten lajien ja kulttuuriperinnön hyväksi sekä omaksi virkistykseksi. Tapahtumien ja talkoiden järjestämisessä yhteistyökumppaneina ovat erilaiset järjestöt, ystäväyhdistykset ja yritykset. Yhä useampi yhteisö on esimerkiksi mukana suomalaisen luonnon suojelussa oman kummikohteen kautta. Kansallispuistot ja suojelualueet etsivät koko ajan uusia, iloa ja hyvinvointia tuottavia vapaaehtoistoimintaideoita ja toteuttajia. Palkitsemme myös Vuoden luontovapaaehtoisen joka toinen vuosi (parittomina vuosina).</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Vapaaehtoistoiminta - www.metsa.fi</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>136</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.metsa.fi/vapaaehtoistoiminta</origFileName><parallel_text xml:lang="eng" location="volunteerwork.html"/><parallel_text xml:lang="sme" location="eaktodahtolasdoaibma.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="swe"><list><p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+<p type="listitem" xml:lang="swe"><list/></p>
+</list></p>
+</list></p>
+</list></p>
+</list><p type="title">Vapaaehtoistoimintaa luonnon hyväksi</p>
+<p>Vapaaehtoiseksi?</p>
+<p>Vapaaehtoistoiminta</p>
+<p>Lisätietoa vapaaehtoistoiminnasta Metsähallituksen kohteissa</p>
+<p>Kansallispuistot ja suojelualueet tarjoavat upeita vapaaehtoistoiminnan mahdollisuuksia ympäri Suomen. Tyypillistä vapaaehtoistoimintaa on luontoharrastajien osallistuminen lajien havainnointiin sekä talkooleirit, joilla hoidetaan perinnemaisemia niittämällä ja raivaamalla. Vapaaehtoiset auttavat myös arvokkaiden vanhojen rakennusten kunnostamisessa ja riista- ja kalakantojen hoidossa valtion mailla.</p>
+<p>Tällä työllä on suuri merkitys Suomen luonnolle. Vapaaehtoiset työskentelevät kanssamme n. 20 henkilötyövuoden verran. Yhteisten luonto- ja kulttuuriaarteiden suojelu ja hoito on myös suuri ilo tekijälleen. Tapahtumissa, talkoissa tai asiantuntijavapaaehtoisena pääsee tekemään konkreettisia tekoja suojelualueiden, uhanalaisten lajien ja kulttuuriperinnön hyväksi sekä omaksi virkistykseksi. Tapahtumien ja talkoiden järjestämisessä yhteistyökumppaneina ovat erilaiset järjestöt, ystäväyhdistykset ja yritykset. Yhä useampi yhteisö on esimerkiksi mukana suomalaisen luonnon suojelussa oman kummikohteen kautta. Kansallispuistot ja suojelualueet etsivät koko ajan uusia, iloa ja hyvinvointia tuottavia vapaaehtoistoimintaideoita ja toteuttajia. Palkitsemme myös Vuoden luontovapaaehtoisen joka toinen vuosi (parittomina vuosina).</p>
+</body></document>

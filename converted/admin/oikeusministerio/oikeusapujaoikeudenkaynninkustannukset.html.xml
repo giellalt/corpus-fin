@@ -1,33 +1,10 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Oikeusapu ja oikeudenkäynnin kustannukset - 
+<document xml:lang="fin" id="no_id"><header><title>Oikeusapu ja oikeudenkäynnin kustannukset - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2015</year>
-    <wordcount>139</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/fi/index/esitteet/oikeuslaitos/oikeusapujaoikeudenkaynninkustannukset.html</origFileName>
-    <parallel_text xml:lang="sme" location="riekteveahkkijalagasteamigolut.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Oikeuslaitos</p>
-    <p type="title">Oikeusapu ja oikeudenkäynnin kustannukset</p>
-    <p>Oikeudenkäynnin osapuolella on tuomioistuimessa yleensä lainoppinut oikeudenkäyntiavustaja. Avustajana toimii asianajaja, julkinen oikeusavustaja tai luvan saanut oikeudenkäyntiavustaja.</p>
-    <p>Jos jotakuta epäillään vakavasta rikoksesta, hän saa valtion varoilla palkatun puolustajan. Seksuaalirikoksen, perheväkivallan tai muun väkivaltarikoksen uhri voi saada valtion varoilla palkatun avustajan ja tukihenkilön.</p>
-    <p>Asianosainen kustantaa itse lainopillisen apunsa, ellei hänelle ole myönnetty oikeusapua tai valtion varoilla palkattua puolustajaa.. Pääosa kustannuksista muodostuu oikeudenkäyntiavustajan palkkiosta ja todistajille maksettavista korvauksista.</p>
-    <p>Jos asianosainen voittaa juttunsa, vastapuoli tavallisesti korvaa hänen oikeudenkäyntikulunsa. Mutta jos hän häviää jutun, hän joutuu yleensä korvaamaan voittaneelle osapuolelle tämän oikeudenkäyntikulut. Hallinto-oikeudessa edellytyksenä kulujen korvaamiselle on kuitenkin se, että olisi kohtuutonta, jos jutun voittanut osapuoli joutuisi maksamaan kulut itse.</p>
-    <p>Asian käsittelystä tuomioistuimessa peritään lisäksi oikeudenkäyntimaksuja, jotka tavallisesti maksaa jutun vireillepanija. Hallinto-oikeudessa jotkut päätökset ovat maksuttomia ja muissakin päätöksissä maksu peritään vain jos valitus hylätään. Oikeusavun saaja vapautuu oikeudenkäyntimaksuista.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2015</year><wordcount>139</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/oikeuslaitos/oikeusapujaoikeudenkaynninkustannukset.html</origFileName><parallel_text xml:lang="sme" location="riekteveahkkijalagasteamigolut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Oikeuslaitos</p>
+<p type="title">Oikeusapu ja oikeudenkäynnin kustannukset</p>
+<p>Oikeudenkäynnin osapuolella on tuomioistuimessa yleensä lainoppinut oikeudenkäyntiavustaja. Avustajana toimii asianajaja, julkinen oikeusavustaja tai luvan saanut oikeudenkäyntiavustaja.</p>
+<p>Jos jotakuta epäillään vakavasta rikoksesta, hän saa valtion varoilla palkatun puolustajan. Seksuaalirikoksen, perheväkivallan tai muun väkivaltarikoksen uhri voi saada valtion varoilla palkatun avustajan ja tukihenkilön.</p>
+<p>Asianosainen kustantaa itse lainopillisen apunsa, ellei hänelle ole myönnetty oikeusapua tai valtion varoilla palkattua puolustajaa.. Pääosa kustannuksista muodostuu oikeudenkäyntiavustajan palkkiosta ja todistajille maksettavista korvauksista.</p>
+<p>Jos asianosainen voittaa juttunsa, vastapuoli tavallisesti korvaa hänen oikeudenkäyntikulunsa. Mutta jos hän häviää jutun, hän joutuu yleensä korvaamaan voittaneelle osapuolelle tämän oikeudenkäyntikulut. Hallinto-oikeudessa edellytyksenä kulujen korvaamiselle on kuitenkin se, että olisi kohtuutonta, jos jutun voittanut osapuoli joutuisi maksamaan kulut itse.</p>
+<p>Asian käsittelystä tuomioistuimessa peritään lisäksi oikeudenkäyntimaksuja, jotka tavallisesti maksaa jutun vireillepanija. Hallinto-oikeudessa jotkut päätökset ovat maksuttomia ja muissakin päätöksissä maksu peritään vain jos valitus hylätään. Oikeusavun saaja vapautuu oikeudenkäyntimaksuista.</p>
+</body></document>

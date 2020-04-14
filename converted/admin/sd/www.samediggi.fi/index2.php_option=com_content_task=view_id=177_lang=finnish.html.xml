@@ -1,156 +1,107 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Koltansaamenkieli; muut materiaalit</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>425</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=177&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=177_lang=english.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=177_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Koltansaamenkieli; muut materiaalit</p>
-    <p><em type="italic">Julisteissa </em> </p>
-    <p>on kuvat ja nimitykset arkivaatteista ja asusteista, henkseleistä saunatakkeihin.</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2014 </em>
-    </p>
-    <p xml:lang="sms">Teäddkaart lie jurddum mätt’tõõzz tuärjjõssân ǩiõllpieʹzzid, peiʹvvhåiddpaaiʹǩid da sääʹmkiõllsaž klaassid.</p>
-    <p>Koko: A2</p>
-    <p xml:lang="isl">
-      <em type="italic">á 5,00 € </em>
-    </p>
-    <p xml:lang="smn"><em type="italic">Tiina Sanila-Aikio </em> </p>
-    <p><em type="italic">ja </em><em type="italic">Pirjo Lotvonen </em> ovat laatineet julisteiden tekstit. Valokuvat on ottanut <em type="italic">Ulla Isotalo </em> . </p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p><em type="italic">Kalevi Kasala, Päivi Kasala </em>da <em type="italic">Tarja Lehmuskoski </em> </p>
-    <p>saameksi <em type="italic">Seija Sivertsen </em> </p>
-    <p xml:lang="smn"><em type="italic">Muu ceerkav  </em>  </p>
-    <p xml:lang="sms">  Ortodokslaž åskldõkǩeʹrjj </p>
-    <p>Ortodoksinen uskonnon työkirja 5. luokalle)</p>
-    <p xml:lang="koi"><em type="italic">7,00 € </em> </p>
-    <p xml:lang="sms">ISBN 978-952-441-275-9</p>
-    <p><em type="italic">Saamelaiskäräjät </em>2012 </p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="sme"><em type="italic">Golbma skihpáračča    </em> </p>
-    <p xml:lang="smn"><em type="italic"> Kulma skipárâš   </em> </p>
-    <p xml:lang="sms"><em type="italic">Kolmm naʹzvaanaž </em>   </p>
-    <p xml:lang="smn">Kerttu Vuolab</p>
-    <p>(sanat, nuotit ja kuvitus),</p>
-    <p>koltansaameksi <em type="italic">Marja Sinikka Semenoja </em> </p>
-    <p xml:lang="koi"><em type="italic">23,00 € </em> </p>
-    <p xml:lang="sms">ISBN 978-952-441-167-7</p>
-    <p><em type="italic">Saamelaiskäräjät </em>2009 </p>
-    <p>Tämä kirja ilmestyi ensimmäisen kerran vuonna 1979. Kun saamenkielisessä alkuopetuksessa alettiin käyttää pieniä kirjaimia, oli tarvetta ottaa kirjasta uusi painos. Myös nuottien korkeutta piti tarkistaa, ja joitakin nuotteja lisätä.</p>
-    <p>Nyt kirja ilmestyy jälleen uudistuneena: siinä on käytetty kaikkia Suomessa puhuttuja saamenkieliä. Pohjoissaame on kirjoitettu sinisellä, inarinsaamenkieli vihreällä ja koltankieli punaisella.</p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="smn">
-      <em type="italic">Kerttu Vuolab  </em>
-    </p>
-    <p xml:lang="sms"><em type="italic">Kolmm naʹzvaanaž </em>     </p>
-    <p>Käännös <em type="italic">Marja Sinikka Semenoja </em> </p>
-    <p>ISBN: 951-47-1990-X</p>
-    <p xml:lang="koi"><em type="italic">3,00 € </em> </p>
-    <p xml:lang="est">
-      <em type="italic">Kouluhallitus 1989 </em>
-    </p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p><em type="italic">Anna-Maria Nuutinen, Pirkko Tolvanen   </em> </p>
-    <p xml:lang="sms"><em type="italic">Luâttǩeʹrjj 1 </em> </p>
-    <p>Kuvat:</p>
-    <p>Erkki Alanen, Hannu Virtanen</p>
-    <p>Saameksi: <em type="italic">Seija Sivertsen  </em></p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2006 </em>
-    </p>
-    <p xml:lang="koi"><em type="italic">15,00 € </em> </p>
-    <p>Luonnonkirja 1 (Wsoy) kertoo luonnon perusasioista: syntymisestä, elämästä, lajien moninaisuudesta, vuorovaikutuksesta, aineista ja maailmankaikkeudesta.</p>
-    <p>Taso: 0-3 lk</p>
-    <p xml:lang="sms">ISBN: 952-441-106-7</p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="sme"><em type="italic">Bearralat </em>   </p>
-    <p xml:lang="smn"><em type="italic">Cimcâheh </em>   </p>
-    <p xml:lang="sms"><em type="italic">Ciimʹciǩ </em>   </p>
-    <p>Kirjoituksia, runoja, kuvia ja sarjakuvia, jotka ovat olleet mukana <em type="italic">Saamelaisnuorten taidetapahtumassa </em>vuosina 2001-2007. </p>
-    <p xml:lang="koi">
-      <em type="bold">25,00 € </em>
-    </p>
-    <p>Saamelaisnuorten taideantologia <span type="quote">"Helmiä"</span> pohjois-, inarin- ja kolttasaamenkielellä</p>
-    <p>toimitus ja taitto: Anni Näkkäläjärvi</p>
-    <p xml:lang="sms">ISBN 978-952-441-150-9</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">2008 </em>
-    </p>
-    <p>Kirjassa on noin 50 lapsen ja nuoren taideteoksia. Teos on julkaistu opetusministeriön&#13; 			erityismäärärahalla.</p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="est"><em type="italic">ALIAS </em>   sanapeli </p>
-    <p>inarin-, koltan- ja pohjoissaamenkielillä Sopii peruskoulujen äidinkielen opetukseen sekä kaikenikäisille seurapeliksi.</p>
-    <p><em type="italic">Saamelaiskäräjät </em>2003 </p>
-    <p xml:lang="koi"><em type="italic">20,00 € </em> </p>
-    <p>Pelikorteissa on sekä pohjois-, inarin- että koltansaamenkielisiä sanoja, jotka eivät kuitenkaan vastaa toisiaan, joten peliä ei voi käyttää <span type="quote">”sanakirjana”</span> eri saamenkielten välillä.</p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="sms">
-      <em type="italic">Sääʹmsooǥǥ laulli  </em>
-    </p>
-    <p xml:lang="est">Laulajat     :</p>
-    <p xml:lang="sms"><em type="italic">Seija Sivertsen, Erkki Lumisalmi, Aulikki Lumisalmi, </em>   </p>
-    <p xml:lang="nno"/>
-    <p xml:lang="nno"/>
-    <p><em type="italic">Tiina Sanila </em>ja <em type="italic">Sonja Sanila </em> </p>
-    <p xml:lang="koi"><em type="italic">6,50 € </em> </p>
-    <p>Tuottajat: Sámediggi (SK, Suomi), Sámeskuvlastivra, Ruotsi (Sameskolstyrelsen) ja Sámi oahpahusráđđi, Norja (Samisk utdanningsråd).</p>
-    <p>
-      <em type="bold">Saamelaisten kansallislaulu </em>
-    </p>
-    <p>koltan-, pohjoissaamen-, inarinsaamen-, luulajansaamen-, eteläsaamen- sekä kildininsaamenkielellä.&#13; 			Äänitetty SKÁDJA –studiossa Kaarasjoella 1998.</p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="est">Toimitus:</p>
-    <p xml:lang="sms"><em type="italic">Säkre Piâtt Sinida ,  </em>  </p>
-    <p><em type="italic">Sinikka Semenoja  </em>  </p>
-    <p xml:lang="sms"><em type="italic">Toben mädd mâʹte vuäđđ  </em> </p>
-    <p xml:lang="koi"><em type="italic">6,50 € </em> </p>
-    <p>Kirjaan kuuluu 4 kasettia, joilla on Suomalaisen Kirjallisuuden Seuran ja Kotimaisten Kielten Tutkimuskeskuksen arkistojen äänitteitä.</p>
-    <p>Oulun yliopisto 1999</p>
-    <p xml:lang="sms">ISBN: 951-42-4356-0</p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="sms">
-      <em type="italic">Sääʹm ceerkavlaulli  </em>
-    </p>
-    <p>Koltansaamenkielistä kirkkolaulua</p>
-    <p xml:lang="smn">Laulajat:    <em type="italic">Erkki Lumisalmi, Aulikki Lumisalmi, Anna Lumisalmi, Katri Jefremoff, Seija Sivertsen  </em> ja   <em type="italic">Kirsti Näveri-Bogdanoff  </em> </p>
-    <p xml:lang="sme">Äänitys: Yle Sámi Radio 2001</p>
-    <p xml:lang="sme">Tuottaja: YLE Sámi Radio,</p>
-    <p><em type="italic">Saamelaiskäräjät </em>2008 </p>
-    <p><em type="italic">Vain kouluille ja kirjastoille! </em> </p>
-    <p xml:lang="fkv"><em type="italic">Ei myytävänä! </em> </p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-    <p xml:lang="sms"><em type="italic">Evvan evaŋǧeʹlium    </em> </p>
-    <p>Johanneksen evankeliumi</p>
-    <p>3 CD-äänitettä</p>
-    <p xml:lang="sms">Lukija: Erkki Lumisalmi</p>
-    <p>Tuottaja: YLE Sámi Radio <em type="italic">Saamelaiskäräjät </em>2008 </p>
-    <p xml:lang="sms">ISBN: 978-952-441-160-8</p>
-    <p>
-      <em type="italic">Vain kouluille ja kirjastoille!  </em>
-    </p>
-    <p xml:lang="nno"/>
-    <p xml:lang="fkv">
-      <em type="italic">Ei myytävänä!  </em>
-    </p>
-    <p xml:lang="koi">____________________________________________________________________________________</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Koltansaamenkieli; muut materiaalit</title><genre code="admin"/><author><unknown/></author><wordcount>425</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=177&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=177_lang=english.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=177_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Koltansaamenkieli; muut materiaalit</p>
+<p><em type="italic">Julisteissa </em> </p>
+<p>on kuvat ja nimitykset arkivaatteista ja asusteista, henkseleistä saunatakkeihin.</p>
+<p><em type="italic">Saamelaiskäräjät 2014 </em></p>
+<p xml:lang="sms">Teäddkaart lie jurddum mätt’tõõzz tuärjjõssân ǩiõllpieʹzzid, peiʹvvhåiddpaaiʹǩid da sääʹmkiõllsaž klaassid.</p>
+<p>Koko: A2</p>
+<p xml:lang="isl"><em type="italic">á 5,00 € </em></p>
+<p xml:lang="smn"><em type="italic">Tiina Sanila-Aikio </em> </p>
+<p><em type="italic">ja </em><em type="italic">Pirjo Lotvonen </em> ovat laatineet julisteiden tekstit. Valokuvat on ottanut <em type="italic">Ulla Isotalo </em> . </p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p><em type="italic">Kalevi Kasala, Päivi Kasala </em>da <em type="italic">Tarja Lehmuskoski </em> </p>
+<p>saameksi <em type="italic">Seija Sivertsen </em> </p>
+<p xml:lang="smn"><em type="italic">Muu ceerkav  </em>  </p>
+<p xml:lang="sms">  Ortodokslaž åskldõkǩeʹrjj </p>
+<p>Ortodoksinen uskonnon työkirja 5. luokalle)</p>
+<p xml:lang="vep"><em type="italic">7,00 € </em> </p>
+<p xml:lang="sms">ISBN 978-952-441-275-9</p>
+<p><em type="italic">Saamelaiskäräjät </em>2012 </p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="sme"><em type="italic">Golbma skihpáračča    </em> </p>
+<p xml:lang="smn"><em type="italic"> Kulma skipárâš   </em> </p>
+<p xml:lang="sms"><em type="italic">Kolmm naʹzvaanaž </em>   </p>
+<p xml:lang="smn">Kerttu Vuolab</p>
+<p>(sanat, nuotit ja kuvitus),</p>
+<p>koltansaameksi <em type="italic">Marja Sinikka Semenoja </em> </p>
+<p xml:lang="vep"><em type="italic">23,00 € </em> </p>
+<p xml:lang="sms">ISBN 978-952-441-167-7</p>
+<p><em type="italic">Saamelaiskäräjät </em>2009 </p>
+<p>Tämä kirja ilmestyi ensimmäisen kerran vuonna 1979. Kun saamenkielisessä alkuopetuksessa alettiin käyttää pieniä kirjaimia, oli tarvetta ottaa kirjasta uusi painos. Myös nuottien korkeutta piti tarkistaa, ja joitakin nuotteja lisätä.</p>
+<p>Nyt kirja ilmestyy jälleen uudistuneena: siinä on käytetty kaikkia Suomessa puhuttuja saamenkieliä. Pohjoissaame on kirjoitettu sinisellä, inarinsaamenkieli vihreällä ja koltankieli punaisella.</p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="smn"><em type="italic">Kerttu Vuolab  </em></p>
+<p xml:lang="sms"><em type="italic">Kolmm naʹzvaanaž </em>     </p>
+<p>Käännös <em type="italic">Marja Sinikka Semenoja </em> </p>
+<p>ISBN: 951-47-1990-X</p>
+<p xml:lang="vep"><em type="italic">3,00 € </em> </p>
+<p><em type="italic">Kouluhallitus 1989 </em></p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p><em type="italic">Anna-Maria Nuutinen, Pirkko Tolvanen   </em> </p>
+<p xml:lang="sms"><em type="italic">Luâttǩeʹrjj 1 </em> </p>
+<p>Kuvat:</p>
+<p>Erkki Alanen, Hannu Virtanen</p>
+<p>Saameksi: <em type="italic">Seija Sivertsen  </em></p>
+<p><em type="italic">Saamelaiskäräjät 2006 </em></p>
+<p xml:lang="vep"><em type="italic">15,00 € </em> </p>
+<p>Luonnonkirja 1 (Wsoy) kertoo luonnon perusasioista: syntymisestä, elämästä, lajien moninaisuudesta, vuorovaikutuksesta, aineista ja maailmankaikkeudesta.</p>
+<p>Taso: 0-3 lk</p>
+<p xml:lang="sms">ISBN: 952-441-106-7</p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="sme"><em type="italic">Bearralat </em>   </p>
+<p xml:lang="smn"><em type="italic">Cimcâheh </em>   </p>
+<p xml:lang="sms"><em type="italic">Ciimʹciǩ </em>   </p>
+<p>Kirjoituksia, runoja, kuvia ja sarjakuvia, jotka ovat olleet mukana <em type="italic">Saamelaisnuorten taidetapahtumassa </em>vuosina 2001-2007. </p>
+<p xml:lang="vep"><em type="bold">25,00 € </em></p>
+<p>Saamelaisnuorten taideantologia <span type="quote">"Helmiä"</span> pohjois-, inarin- ja kolttasaamenkielellä</p>
+<p>toimitus ja taitto: Anni Näkkäläjärvi</p>
+<p xml:lang="sms">ISBN 978-952-441-150-9</p>
+<p><em type="italic">Saamelaiskäräjät </em></p>
+<p xml:lang="vep"><em type="italic">2008 </em></p>
+<p>Kirjassa on noin 50 lapsen ja nuoren taideteoksia. Teos on julkaistu opetusministeriön&#13; 			erityismäärärahalla.</p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="est"><em type="italic">ALIAS </em>   sanapeli </p>
+<p>inarin-, koltan- ja pohjoissaamenkielillä Sopii peruskoulujen äidinkielen opetukseen sekä kaikenikäisille seurapeliksi.</p>
+<p><em type="italic">Saamelaiskäräjät </em>2003 </p>
+<p xml:lang="vep"><em type="italic">20,00 € </em> </p>
+<p>Pelikorteissa on sekä pohjois-, inarin- että koltansaamenkielisiä sanoja, jotka eivät kuitenkaan vastaa toisiaan, joten peliä ei voi käyttää <span type="quote">”sanakirjana”</span> eri saamenkielten välillä.</p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="sms"><em type="italic">Sääʹmsooǥǥ laulli  </em></p>
+<p xml:lang="est">Laulajat     :</p>
+<p xml:lang="sms"><em type="italic">Seija Sivertsen, Erkki Lumisalmi, Aulikki Lumisalmi, </em>   </p>
+<p xml:lang="swe"/>
+<p xml:lang="swe"/>
+<p><em type="italic">Tiina Sanila </em>ja <em type="italic">Sonja Sanila </em> </p>
+<p xml:lang="vep"><em type="italic">6,50 € </em> </p>
+<p>Tuottajat: Sámediggi (SK, Suomi), Sámeskuvlastivra, Ruotsi (Sameskolstyrelsen) ja Sámi oahpahusráđđi, Norja (Samisk utdanningsråd).</p>
+<p><em type="bold">Saamelaisten kansallislaulu </em></p>
+<p>koltan-, pohjoissaamen-, inarinsaamen-, luulajansaamen-, eteläsaamen- sekä kildininsaamenkielellä.&#13; 			Äänitetty SKÁDJA –studiossa Kaarasjoella 1998.</p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="est">Toimitus:</p>
+<p xml:lang="sms"><em type="italic">Säkre Piâtt Sinida ,  </em>  </p>
+<p><em type="italic">Sinikka Semenoja  </em>  </p>
+<p xml:lang="sms"><em type="italic">Toben mädd mâʹte vuäđđ  </em> </p>
+<p xml:lang="vep"><em type="italic">6,50 € </em> </p>
+<p>Kirjaan kuuluu 4 kasettia, joilla on Suomalaisen Kirjallisuuden Seuran ja Kotimaisten Kielten Tutkimuskeskuksen arkistojen äänitteitä.</p>
+<p>Oulun yliopisto 1999</p>
+<p xml:lang="sms">ISBN: 951-42-4356-0</p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="sms"><em type="italic">Sääʹm ceerkavlaulli  </em></p>
+<p>Koltansaamenkielistä kirkkolaulua</p>
+<p xml:lang="smn">Laulajat:    <em type="italic">Erkki Lumisalmi, Aulikki Lumisalmi, Anna Lumisalmi, Katri Jefremoff, Seija Sivertsen  </em> ja   <em type="italic">Kirsti Näveri-Bogdanoff  </em> </p>
+<p xml:lang="sme">Äänitys: Yle Sámi Radio 2001</p>
+<p xml:lang="sme">Tuottaja: YLE Sámi Radio,</p>
+<p><em type="italic">Saamelaiskäräjät </em>2008 </p>
+<p><em type="italic">Vain kouluille ja kirjastoille! </em> </p>
+<p xml:lang="fkv"><em type="italic">Ei myytävänä! </em> </p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+<p xml:lang="sms"><em type="italic">Evvan evaŋǧeʹlium    </em> </p>
+<p>Johanneksen evankeliumi</p>
+<p>3 CD-äänitettä</p>
+<p xml:lang="sms">Lukija: Erkki Lumisalmi</p>
+<p>Tuottaja: YLE Sámi Radio <em type="italic">Saamelaiskäräjät </em>2008 </p>
+<p xml:lang="sms">ISBN: 978-952-441-160-8</p>
+<p><em type="italic">Vain kouluille ja kirjastoille!  </em></p>
+<p xml:lang="swe"/>
+<p xml:lang="fkv"><em type="italic">Ei myytävänä!  </em></p>
+<p xml:lang="vep">____________________________________________________________________________________</p>
+</body></document>

@@ -1,49 +1,23 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Anaras - Tutkimus - Borg</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2006</year>
-    <wordcount>453</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/tutkimus/borg.html</origFileName>
-    <parallel_text xml:lang="eng" location="borg.html"/>
-    <parallel_text xml:lang="smn" location="borg.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">Elias Lönnrot</p>
-    <p xml:lang="deu">E.W. Borg</p>
-    <p xml:lang="smn">Heikki Mattus</p>
-    <p xml:lang="smn">A.V. Koskimies</p>
-    <p xml:lang="vep">Lauri Itkonen</p>
-    <p>T.I. Itkonen</p>
-    <p>Erkki Itkonen</p>
-    <p>Uula Morottaja</p>
-    <p>Matti Morottaja</p>
-    <p xml:lang="sme">Pekka Sammallahti</p>
-    <p xml:lang="vep">Lea Laitinen</p>
-    <p>Marja-Liisa Olthuis</p>
-    <p>Kirjallisuusluettelo</p>
-    <p><em type="italic">Edvard Wilhelm Borg </em>syntyi Pyhäjoella 6.1.1830, kirjoitti ylioppilaaksi 21.4.1851 ja vihittiin papiksi Kuopiossa 14.12.1853. Hän saapui 2.4.1856 Inariin hoitamaan Inarin kappalaisen väliaikaista saarnaajan virkaa, nimitettiin Inarin kappalaiseksi 3.4.1857 ja suoritti pastorin tutkinnon 17.3.1858. Kappalaisen viran lisäksi hän hoiti Utsjoen kirkkoherran sijaisuutta, jonka jälkeen siirtyi Utsjoen kirkkoherraksi 2.2.1860. Utsjoelle siirtymisensä jälkeen hän sieltä käsin hoiti Inarin kappalaisen sijaisuutta vuoden 1867 alkuun, jonka jälkeen hän omasta hakemuksestaan pääsi Raahen ja Saloisten emäseurakuntaan sijaiskirkkoherraksi, nimitettiin siellä vuonna 1868 kirkkoherran virkaan, ja viimein rovastin virkaan Pieksämäen seurakunnassa 1873. Hän toimi myös Inarin – Utsjoen virallisena rokonpanijana eli rokottajana 29.4.1856 – 1.1.1867 välisen ajan. </p>
-    <p>E.W. Borg oli siinäkin mielessä merkittävä ihminen, että hän oli ensimmäinen ihminen maailmassa, joka suoritti inarinsaamen kielen tutkinnon ja sai <span type="quote">“kiitettävän”</span> todistuksen 20.2.1858 inarinsaamen taidostaan professori Elias Lönnrotilta. Samanlaisen todistuksen hän sai myös pohjoissaamen taidostaan 4.9.1860. Muun muassa hän valmisti huoneentaulun <span type="quote" xml:lang="sme">“Andogas vuođa oppa”</span> (Autuuden oppi) joka painettiin Helsingissä 1857. Tästä taulusta ei ole muuta tietoa. Tästä näemme, että E.W. Borg oli Lapissa 11 vuotta, jona aikana hän ehti valmistaa <em type="italic"><span type="quote" xml:lang="smn">“Anar sämi kiela Aapis kirje”</span> </em>(Inarinsaamen kielen aapiskirja), jossa on 93 sivua ja joka sisälsi myös doktor Martti Lutheruksen <em type="italic"><span type="quote" xml:lang="smn">“Ucca Katkismus”</span> </em>(Vähäkatkismus). Kirja painettiin Oulussa 1859 ja sen valmistamisessa oli apulaisena ja kielimestarina Heikki Mattus (1838 – 1926). <span type="quote" xml:lang="smn">“Aapis kirje”</span> on toiseksi vanhin inarinsaamen kielinen julkaisu ja kuten näemme, ei kirjoitustapa ole suurestikaan muuttunut puolentoista sadan vuoden aikana. Ja näin E.W. Borg kirjoittaa alkusanoissaan vuonna 1857: </p>
-    <p>
-      <em type="italic">“Rakkaat lapset! Tässä annetaan teille Aapiskirja ja Vähä Katkismus kirjoitettuna teidän äitienne ja syntymäkielellänne. Kahdella kielellä on tässä tuo pantu, että saisitte nähdä, miten kukin sana on omalla kielellänne, ja siten sekä paremmin ymmärtäisitte, mitä kirjassa seisoo ja mitä Jumala teille tämän kautta puhuu, että myös oppisitte Suomen kieltä, jolla Pyhä Raamattu eli Bibbal ja monta muuta kaunista kirjaa on kirjoitettu. Jumala suokoon teille armostaan ymmärrystä, viisautta ja siunausta tätä kirjaa lukiessanne, niin että se saattaisi teille iankaikkisen autuuden Jeesuksen Kristuksen kautta. – Kirjoitettu Inarissa huhtikuussa mannadest ihä 1857 Edv. Wilh. Borg." </em>
-    </p>
-    <p>E.W. Borg vihittiin ensimmäisen kerran 20.4.1856 puolisonsa Hilma Johanna Malmbergin kanssa, jäi leskeksi 10.4.1877 ja avioitui uudelleen 13.1.1878 vaimovainajansa sisaren Wilhelmina Malmbergin kanssa. Lapsia heillä oli yhdeksän, joista kolme on syntynyt Inarissa, kolme Utsjoella ja loput Raahessa ja Vaasassa. Samana vuonna kun hän muutti Utsjoelle eli 1860, kuoli hänen Matti-poikanen, joka haudattiin Inarin Hautuumaasaareen.</p>
-    <p>E.W. Borg lyötiin <span type="quote">“Pyhän Olavin Tähdistön Ritariksi”</span> 25.1.1868. Hän toimi myös Oulun läänin eteläosien kansakoulujen tarkastajana 1.5.1868 – 1.4.1883 välisen ajan. E.W. Borg kuoli Oulussa 13.1.1910 viikon päälle 80 vuoden ikäisenä.</p>
-    <p>Edvard Wilhelm Borg Utsjoen kirkkoherrana.</p>
-    <p xml:lang="fkv">Takaisin ylös</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Tutkimus - Borg</title><genre code="facta"/><author><unknown/></author><year>2006</year><wordcount>453</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/tutkimus/borg.html</origFileName><parallel_text xml:lang="eng" location="borg.html"/><parallel_text xml:lang="smn" location="borg.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">Elias Lönnrot</p>
+<p xml:lang="deu">E.W. Borg</p>
+<p xml:lang="smn">Heikki Mattus</p>
+<p xml:lang="smn">A.V. Koskimies</p>
+<p xml:lang="vep">Lauri Itkonen</p>
+<p>T.I. Itkonen</p>
+<p>Erkki Itkonen</p>
+<p>Uula Morottaja</p>
+<p>Matti Morottaja</p>
+<p xml:lang="sme">Pekka Sammallahti</p>
+<p xml:lang="est">Lea Laitinen</p>
+<p>Marja-Liisa Olthuis</p>
+<p>Kirjallisuusluettelo</p>
+<p><em type="italic">Edvard Wilhelm Borg </em>syntyi Pyhäjoella 6.1.1830, kirjoitti ylioppilaaksi 21.4.1851 ja vihittiin papiksi Kuopiossa 14.12.1853. Hän saapui 2.4.1856 Inariin hoitamaan Inarin kappalaisen väliaikaista saarnaajan virkaa, nimitettiin Inarin kappalaiseksi 3.4.1857 ja suoritti pastorin tutkinnon 17.3.1858. Kappalaisen viran lisäksi hän hoiti Utsjoen kirkkoherran sijaisuutta, jonka jälkeen siirtyi Utsjoen kirkkoherraksi 2.2.1860. Utsjoelle siirtymisensä jälkeen hän sieltä käsin hoiti Inarin kappalaisen sijaisuutta vuoden 1867 alkuun, jonka jälkeen hän omasta hakemuksestaan pääsi Raahen ja Saloisten emäseurakuntaan sijaiskirkkoherraksi, nimitettiin siellä vuonna 1868 kirkkoherran virkaan, ja viimein rovastin virkaan Pieksämäen seurakunnassa 1873. Hän toimi myös Inarin – Utsjoen virallisena rokonpanijana eli rokottajana 29.4.1856 – 1.1.1867 välisen ajan. </p>
+<p>E.W. Borg oli siinäkin mielessä merkittävä ihminen, että hän oli ensimmäinen ihminen maailmassa, joka suoritti inarinsaamen kielen tutkinnon ja sai <span type="quote">“kiitettävän”</span> todistuksen 20.2.1858 inarinsaamen taidostaan professori Elias Lönnrotilta. Samanlaisen todistuksen hän sai myös pohjoissaamen taidostaan 4.9.1860. Muun muassa hän valmisti huoneentaulun <span type="quote" xml:lang="sme">“Andogas vuođa oppa”</span> (Autuuden oppi) joka painettiin Helsingissä 1857. Tästä taulusta ei ole muuta tietoa. Tästä näemme, että E.W. Borg oli Lapissa 11 vuotta, jona aikana hän ehti valmistaa <em type="italic"><span type="quote" xml:lang="smn">“Anar sämi kiela Aapis kirje”</span> </em>(Inarinsaamen kielen aapiskirja), jossa on 93 sivua ja joka sisälsi myös doktor Martti Lutheruksen <em type="italic"><span type="quote" xml:lang="smn">“Ucca Katkismus”</span> </em>(Vähäkatkismus). Kirja painettiin Oulussa 1859 ja sen valmistamisessa oli apulaisena ja kielimestarina Heikki Mattus (1838 – 1926). <span type="quote" xml:lang="smn">“Aapis kirje”</span> on toiseksi vanhin inarinsaamen kielinen julkaisu ja kuten näemme, ei kirjoitustapa ole suurestikaan muuttunut puolentoista sadan vuoden aikana. Ja näin E.W. Borg kirjoittaa alkusanoissaan vuonna 1857: </p>
+<p><em type="italic">“Rakkaat lapset! Tässä annetaan teille Aapiskirja ja Vähä Katkismus kirjoitettuna teidän äitienne ja syntymäkielellänne. Kahdella kielellä on tässä tuo pantu, että saisitte nähdä, miten kukin sana on omalla kielellänne, ja siten sekä paremmin ymmärtäisitte, mitä kirjassa seisoo ja mitä Jumala teille tämän kautta puhuu, että myös oppisitte Suomen kieltä, jolla Pyhä Raamattu eli Bibbal ja monta muuta kaunista kirjaa on kirjoitettu. Jumala suokoon teille armostaan ymmärrystä, viisautta ja siunausta tätä kirjaa lukiessanne, niin että se saattaisi teille iankaikkisen autuuden Jeesuksen Kristuksen kautta. – Kirjoitettu Inarissa huhtikuussa mannadest ihä 1857 Edv. Wilh. Borg." </em></p>
+<p>E.W. Borg vihittiin ensimmäisen kerran 20.4.1856 puolisonsa Hilma Johanna Malmbergin kanssa, jäi leskeksi 10.4.1877 ja avioitui uudelleen 13.1.1878 vaimovainajansa sisaren Wilhelmina Malmbergin kanssa. Lapsia heillä oli yhdeksän, joista kolme on syntynyt Inarissa, kolme Utsjoella ja loput Raahessa ja Vaasassa. Samana vuonna kun hän muutti Utsjoelle eli 1860, kuoli hänen Matti-poikanen, joka haudattiin Inarin Hautuumaasaareen.</p>
+<p>E.W. Borg lyötiin <span type="quote">“Pyhän Olavin Tähdistön Ritariksi”</span> 25.1.1868. Hän toimi myös Oulun läänin eteläosien kansakoulujen tarkastajana 1.5.1868 – 1.4.1883 välisen ajan. E.W. Borg kuoli Oulussa 13.1.1910 viikon päälle 80 vuoden ikäisenä.</p>
+<p>Edvard Wilhelm Borg Utsjoen kirkkoherrana.</p>
+<p xml:lang="fkv">Takaisin ylös</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

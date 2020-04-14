@@ -1,105 +1,68 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>530</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.avi.fi/web/avi/terveys#.WR67ysYvHNQ</origFileName>
-    <parallel_text xml:lang="eng" location="healt-care_.wr68hcyvhnq.html"/>
-    <parallel_text xml:lang="sme" location="dearvvasvuohta_.wr67xsyvhnq.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Terveys - Aluehallintovirasto</p>
-    <p>› Graafinen versio</p>
-    <p xml:lang="fkv">Henkilöhaku</p>
-    <list>
-      <p type="listitem">Terveyspalvelujen ohjaus ja valvonta</p>
-      <p type="listitem" xml:lang="est">Laatu ja potilasturvallisuus</p>
-      <p type="listitem">Potilaan asema ja oikeudet</p>
-      <p type="listitem" xml:lang="vep">Kantelu</p>
-      <p type="listitem">Lääkehoito</p>
-      <p type="listitem">Terveyden edistäminen</p>
-      <p type="listitem">Mikrobiologian luvat</p>
-      <p type="listitem">Yksityiset terveyspalvelut</p>
-      <p type="listitem">Lähisuhde- ja perheväkivallan ehkäisytyö</p>
-      <p type="listitem">Ehkäisevä päihdetyö</p>
-      <p type="listitem">Vankiterveydenhuollon ja Puolustusvoimien terveydenhuollon ohjaus ja valvonta</p>
-    </list>
-    <p xml:lang="koi">2013-05-22</p>
-    <p>Aluehallintovirasto (AVI) on terveydenhuollon ja terveyspalvelujen alueellinen lupa- ja valvontaviranomainen. Viraston tavoitteena on laadukkaiden terveyspalvelujen turvaaminen väestölle.</p>
-    <p>AVI ohjaa ja valvoo julkista terveydenhuoltoa sekä yksityisten toimijoiden tarjoamia terveydenhuollon palveluja. Virasto tukee kuntasi, kuntayhtymien ja muiden toimijoiden työtä alueesi ihmisten terveyden edistämiseksi. Sieltä saat myös neuvoja, jos saamissasi palveluissa tai niiden laadussa on mielestäsi vakavia puutteita.</p>
-    <p>Annettuja tehtäviään hoitaessaan AVI osallistuu terveydenhuollon valtakunnallisten linjausten toimeenpanoon. Viraston toimintaa terveyden saralla ohjaa lainsäädäntö, sosiaali- ja terveysministeriö sekä yhteistyö muiden toimijoiden kuten Valviran ja Terveyden ja hyvinvoinnin laitoksen kanssa.</p>
-    <p type="title">AVIn tehtäviä ovat:</p>
-    <list>
-      <p type="listitem">terveyspalvelujen ohjaus ja valvonta</p>
-      <p type="listitem">yksityisten terveyspalvelujen luvat</p>
-      <p type="listitem">terveydenhuollon ammattihenkilöiden valvonta</p>
-      <p type="listitem">laadunhallinta</p>
-      <p type="listitem">kantelut</p>
-      <p type="listitem">terveydenhuollon valtionavustukset ja –korvaukset</p>
-    </list>
-    <p type="title" xml:lang="fkv">Tiedotteita</p>
-    <list>
-      <p type="listitem">Sosiaali- ja terveydenhuollon lupa- ja rekisteröintipäätökset sekä vireille tulleet lupa-asiat huhtikuussa (Etelä-Suomi)</p>
-      <p type="listitem">Ehkäisevän päihdetyön järjestämisessä puutteita (Pohjois-Suomi)</p>
-      <p type="listitem">Lappi monelta osin kärkimaakunta päihteiden käytön suhteen - ehkäisevään päihdetyöhön panostaminen Lapin kunnissa kuitenkin vähäistä (Lappi)</p>
-      <p type="listitem">Ehkäisevän päihdetyön rakenteissa huomattavia puutteita Länsi- ja Sisä-Suomessa (Länsi- ja Sisä-Suomi)</p>
-      <p type="listitem">Haartmanin ja Malmin päivystysyksiköissä on panostettu monipuolisesti toiminnan kehittämiseen: ruuhkatilanteiden hallinta haasteena (Etelä-Suomi)</p>
-    </list>
-    <p xml:lang="nno">RSS  (Opens New Window)</p>
-    <p type="title">Tietoa alueelta</p>
-    <p type="title">Terveys  - Itä-Suomi</p>
-    <p>
-      <em type="italic">Yhteystiedot </em>
-    </p>
-    <p><em type="italic">Sähköpostiosoitteet: </em>etunimi.sukunimi@avi.fi kirjaamo.ita@avi.fi </p>
-    <p xml:lang="est"><em type="italic">Puhelinvaihde </em>: 0295 016 800 </p>
-    <p><em type="italic">Itä-Suomen aluehallintovirasto </em>Postiosoite: PL 50 50101 Mikkeli </p>
-    <p>terveydenhuollon ylitarkastaja, ryhmävastaava Marja Hyvärinen, p. 0295 016 897 - hoitoon pääsyn valvontaohjelman mukainen ohjaus ja valvonta sekä kanteluiden käsittely - jukisen terveydenhuollon ohjaus, valvonta- ja kanteluasiat - terveydenhuollon valmiusasiat</p>
-    <p>tarkastaja Eeva Eriksson, p. 0295 016 890 - lääkäreiden ja hammaslääkäreiden lisäkoulutuksesta sekä potilassiirroista aiheutuvat valtionkorvaukset - kunniamerkkiasiat STM:n hallinnonala - avustavat tehtävät terveydenhuollon kantelu- ja valvonta-asioissa</p>
-    <p>ylitarkastaja Eeva Hillukkala, p. 0295 016 811 - valvonta - oikeusturvaan liittyvät tehtävät</p>
-    <p>terveydenhuollon ylitarkastaja Anne Kejonen, p. 0295 016 908 - terveyden ja hyvinvoinnin edistämisen seuranta, ohjaus ja valvonta - lasten ja nuorten ehkäisevien terveyspalveluiden valvontaohjelman mukainen ohjaus ja valvonta sekä kanteluiden käsittely - ehkäisevän päihdetyön alueellinen koordintointi</p>
-    <p>terveydenhuollon ylitarkastaja Ritva Makkonen, p. 0295 016 923 - yksityiset terveydenhuollon lupa- ja valvonta-asiat - terveydenhuollon itsenäisten ammattiharjoittajien rekisteröinti - mikrobiologian laboratorioiden toimiluvat - yksityisen terveydenhuollon ohjaus, valvonta ja kanteluiden käsittely</p>
-    <p>osastosihteeri Aune Mäkinen, p. 0295 016 928 - terveydenhuollon yksityisten lupien toimistotehtävät - avustavat tehtävät terveydenhuollon kantelu- ja valvonta-asioissa</p>
-    <p>aluehallintoylilääkäri Paula Ollonen (virkavap. 1.8.2016 - 31.7.2017) - psykiatrian ja mielenterveystyön ohjaus, valvonta- ja kanteluasiat</p>
-    <p>terveydenhuollon ylitarkastaja Ansa Sonninen, p. 0295 016 941 - perusterveydenhuollon ohjaus, valvonta ja kanteluiden käsittely suun terveydenhuollon <em type="italic">(pois lukien kiireetön hoiton pääsy) </em>, avohoidon <em type="italic">(pois lukien kiireettömän hoitoon pääsyn valvonta ja ehkäisevein terveyspalvelujen sekä terveyden ja hyvinvoinnin edistämisen valvontaohjelman mukainen valvonta) </em>ja osastohoidon <em type="italic">(myös vanhusten pitkäaikaissairaanhoito) </em>osalta. </p>
-    <p>aluehallintoylilääkäri Tuula Tarkiainen, p. 0295 016 910 - terveysdenhuollon kantelut - terveydenhuollon ammttihenkilöstö - erikoissairaanhoito</p>
-    <p>ylitarkastaja Saara Vallivaara, p. 0295 016 852 - terveydenhuollon kantelut</p>
-    <p><em type="italic">Toimipaikkojen asiointiosoitteet ja faksinumerot </em>Mikkelin päätoimipaikka Maaherrankatu 16, 50100 Mikkeli (kirjaamo) Faksi: 015 760 0150 Joensuun toimipaikka Torikatu 36 C, 80100 Joensuu Faksi: 013 610 0260 </p>
-    <p>Kuopion toimipaikka Hallituskatu 12–14, 70100 Kuopio Faksi: 017 580 8690</p>
-    <p>Päivitetty 28.12.2016</p>
-    <p>Päivitetty</p>
-    <p>Tulosta</p>
-    <p xml:lang="fkv">Jaa</p>
-    <p type="title">Oikopolut</p>
-    <p xml:lang="koi">2015-09-03</p>
-    <list>
-      <p type="listitem">Asiointi</p>
-      <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
-      <p type="listitem">Valviran ja aluehallintovirastojen linjauksia</p>
-    </list>
-    <p type="title">Muualla verkossa</p>
-    <p xml:lang="koi">2013-02-12</p>
-    <list>
-      <p type="listitem" xml:lang="vep">STM</p>
-      <p type="listitem" xml:lang="sms">THL</p>
-      <p type="listitem" xml:lang="vep">Valvira</p>
-    </list>
-    <p type="title">Lait ja asetukset</p>
-    <p xml:lang="koi">2013-07-09</p>
-    <list>
-      <p type="listitem">Terveydenhuoltolaki</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>530</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/terveys#.WR67ysYvHNQ</origFileName><parallel_text xml:lang="eng" location="healt-care_.wr68hcyvhnq.html"/><parallel_text xml:lang="sme" location="dearvvasvuohta_.wr67xsyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Terveys - Aluehallintovirasto</p>
+<p>› Graafinen versio</p>
+<p xml:lang="fkv">Henkilöhaku</p>
+<list><p type="listitem">Terveyspalvelujen ohjaus ja valvonta</p>
+<p type="listitem" xml:lang="est">Laatu ja potilasturvallisuus</p>
+<p type="listitem">Potilaan asema ja oikeudet</p>
+<p type="listitem" xml:lang="fkv">Kantelu</p>
+<p type="listitem" xml:lang="fit">Lääkehoito</p>
+<p type="listitem">Terveyden edistäminen</p>
+<p type="listitem">Mikrobiologian luvat</p>
+<p type="listitem">Yksityiset terveyspalvelut</p>
+<p type="listitem">Lähisuhde- ja perheväkivallan ehkäisytyö</p>
+<p type="listitem">Ehkäisevä päihdetyö</p>
+<p type="listitem">Vankiterveydenhuollon ja Puolustusvoimien terveydenhuollon ohjaus ja valvonta</p>
+</list><p xml:lang="vep">2013-05-22</p>
+<p>Aluehallintovirasto (AVI) on terveydenhuollon ja terveyspalvelujen alueellinen lupa- ja valvontaviranomainen. Viraston tavoitteena on laadukkaiden terveyspalvelujen turvaaminen väestölle.</p>
+<p>AVI ohjaa ja valvoo julkista terveydenhuoltoa sekä yksityisten toimijoiden tarjoamia terveydenhuollon palveluja. Virasto tukee kuntasi, kuntayhtymien ja muiden toimijoiden työtä alueesi ihmisten terveyden edistämiseksi. Sieltä saat myös neuvoja, jos saamissasi palveluissa tai niiden laadussa on mielestäsi vakavia puutteita.</p>
+<p>Annettuja tehtäviään hoitaessaan AVI osallistuu terveydenhuollon valtakunnallisten linjausten toimeenpanoon. Viraston toimintaa terveyden saralla ohjaa lainsäädäntö, sosiaali- ja terveysministeriö sekä yhteistyö muiden toimijoiden kuten Valviran ja Terveyden ja hyvinvoinnin laitoksen kanssa.</p>
+<p type="title">AVIn tehtäviä ovat:</p>
+<list><p type="listitem">terveyspalvelujen ohjaus ja valvonta</p>
+<p type="listitem">yksityisten terveyspalvelujen luvat</p>
+<p type="listitem">terveydenhuollon ammattihenkilöiden valvonta</p>
+<p type="listitem">laadunhallinta</p>
+<p type="listitem" xml:lang="fit">kantelut</p>
+<p type="listitem">terveydenhuollon valtionavustukset ja –korvaukset</p>
+</list><p type="title" xml:lang="fkv">Tiedotteita</p>
+<list><p type="listitem">Sosiaali- ja terveydenhuollon lupa- ja rekisteröintipäätökset sekä vireille tulleet lupa-asiat huhtikuussa (Etelä-Suomi)</p>
+<p type="listitem">Ehkäisevän päihdetyön järjestämisessä puutteita (Pohjois-Suomi)</p>
+<p type="listitem">Lappi monelta osin kärkimaakunta päihteiden käytön suhteen - ehkäisevään päihdetyöhön panostaminen Lapin kunnissa kuitenkin vähäistä (Lappi)</p>
+<p type="listitem">Ehkäisevän päihdetyön rakenteissa huomattavia puutteita Länsi- ja Sisä-Suomessa (Länsi- ja Sisä-Suomi)</p>
+<p type="listitem">Haartmanin ja Malmin päivystysyksiköissä on panostettu monipuolisesti toiminnan kehittämiseen: ruuhkatilanteiden hallinta haasteena (Etelä-Suomi)</p>
+</list><p xml:lang="nno">RSS  (Opens New Window)</p>
+<p type="title">Tietoa alueelta</p>
+<p type="title">Terveys  - Itä-Suomi</p>
+<p><em type="italic">Yhteystiedot </em></p>
+<p><em type="italic">Sähköpostiosoitteet: </em>etunimi.sukunimi@avi.fi kirjaamo.ita@avi.fi </p>
+<p xml:lang="est"><em type="italic">Puhelinvaihde </em>: 0295 016 800 </p>
+<p><em type="italic">Itä-Suomen aluehallintovirasto </em>Postiosoite: PL 50 50101 Mikkeli </p>
+<p>terveydenhuollon ylitarkastaja, ryhmävastaava Marja Hyvärinen, p. 0295 016 897 - hoitoon pääsyn valvontaohjelman mukainen ohjaus ja valvonta sekä kanteluiden käsittely - jukisen terveydenhuollon ohjaus, valvonta- ja kanteluasiat - terveydenhuollon valmiusasiat</p>
+<p>tarkastaja Eeva Eriksson, p. 0295 016 890 - lääkäreiden ja hammaslääkäreiden lisäkoulutuksesta sekä potilassiirroista aiheutuvat valtionkorvaukset - kunniamerkkiasiat STM:n hallinnonala - avustavat tehtävät terveydenhuollon kantelu- ja valvonta-asioissa</p>
+<p>ylitarkastaja Eeva Hillukkala, p. 0295 016 811 - valvonta - oikeusturvaan liittyvät tehtävät</p>
+<p>terveydenhuollon ylitarkastaja Anne Kejonen, p. 0295 016 908 - terveyden ja hyvinvoinnin edistämisen seuranta, ohjaus ja valvonta - lasten ja nuorten ehkäisevien terveyspalveluiden valvontaohjelman mukainen ohjaus ja valvonta sekä kanteluiden käsittely - ehkäisevän päihdetyön alueellinen koordintointi</p>
+<p>terveydenhuollon ylitarkastaja Ritva Makkonen, p. 0295 016 923 - yksityiset terveydenhuollon lupa- ja valvonta-asiat - terveydenhuollon itsenäisten ammattiharjoittajien rekisteröinti - mikrobiologian laboratorioiden toimiluvat - yksityisen terveydenhuollon ohjaus, valvonta ja kanteluiden käsittely</p>
+<p>osastosihteeri Aune Mäkinen, p. 0295 016 928 - terveydenhuollon yksityisten lupien toimistotehtävät - avustavat tehtävät terveydenhuollon kantelu- ja valvonta-asioissa</p>
+<p>aluehallintoylilääkäri Paula Ollonen (virkavap. 1.8.2016 - 31.7.2017) - psykiatrian ja mielenterveystyön ohjaus, valvonta- ja kanteluasiat</p>
+<p>terveydenhuollon ylitarkastaja Ansa Sonninen, p. 0295 016 941 - perusterveydenhuollon ohjaus, valvonta ja kanteluiden käsittely suun terveydenhuollon <em type="italic">(pois lukien kiireetön hoiton pääsy) </em>, avohoidon <em type="italic">(pois lukien kiireettömän hoitoon pääsyn valvonta ja ehkäisevein terveyspalvelujen sekä terveyden ja hyvinvoinnin edistämisen valvontaohjelman mukainen valvonta) </em>ja osastohoidon <em type="italic">(myös vanhusten pitkäaikaissairaanhoito) </em>osalta. </p>
+<p>aluehallintoylilääkäri Tuula Tarkiainen, p. 0295 016 910 - terveysdenhuollon kantelut - terveydenhuollon ammttihenkilöstö - erikoissairaanhoito</p>
+<p>ylitarkastaja Saara Vallivaara, p. 0295 016 852 - terveydenhuollon kantelut</p>
+<p><em type="italic">Toimipaikkojen asiointiosoitteet ja faksinumerot </em>Mikkelin päätoimipaikka Maaherrankatu 16, 50100 Mikkeli (kirjaamo) Faksi: 015 760 0150 Joensuun toimipaikka Torikatu 36 C, 80100 Joensuu Faksi: 013 610 0260 </p>
+<p>Kuopion toimipaikka Hallituskatu 12–14, 70100 Kuopio Faksi: 017 580 8690</p>
+<p>Päivitetty 28.12.2016</p>
+<p>Päivitetty</p>
+<p>Tulosta</p>
+<p xml:lang="fit">Jaa</p>
+<p type="title">Oikopolut</p>
+<p xml:lang="vep">2015-09-03</p>
+<list><p type="listitem">Asiointi</p>
+<p type="listitem" xml:lang="fkv">Henkilöhaku</p>
+<p type="listitem">Valviran ja aluehallintovirastojen linjauksia</p>
+</list><p type="title">Muualla verkossa</p>
+<p xml:lang="vep">2013-02-12</p>
+<list><p type="listitem" xml:lang="vep">STM</p>
+<p type="listitem" xml:lang="sms">THL</p>
+<p type="listitem" xml:lang="vep">Valvira</p>
+</list><p type="title">Lait ja asetukset</p>
+<p xml:lang="vep">2013-07-09</p>
+<list><p type="listitem">Terveydenhuoltolaki</p>
+</list></body></document>

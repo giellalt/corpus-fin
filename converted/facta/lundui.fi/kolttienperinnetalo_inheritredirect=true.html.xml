@@ -1,177 +1,124 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Kolttien perinnetalo - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>476</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/kolttienperinnetalo?inheritRedirect=true</origFileName>
-    <parallel_text xml:lang="eng" location="skoltsamiheritagehouse_inheritredirect=true.html"/>
-    <parallel_text xml:lang="sme" location="nuortalaccaidarbevierrodallu.html"/>
-    <parallel_text xml:lang="sms" location="nuorttsaamiarbbvuottportt_1.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Kolttien perinnetalo</p>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Ailinpietin kalamaja</p>
-      <p type="listitem">Berghamnin perinneympäristö</p>
-      <p type="listitem">Gustavsvärnin linnoitus</p>
-      <p type="listitem">Hauensuolen kalliopiirrokset</p>
-      <p type="listitem">Heretyn metsätyökämppä</p>
-      <p type="listitem">Huhtalan torppa</p>
-      <p type="listitem">Hytermä</p>
-      <p type="listitem">Iso Linnamäki</p>
-      <p type="listitem">Ivalojoen Kultala</p>
-      <p type="listitem">Jyppyrän peurahaudat</p>
-      <p type="listitem">Kaapin Jounin tila</p>
-      <p type="listitem">Kajaanin rauniolinna</p>
-      <p type="listitem">Kalmosärkkä</p>
-      <p type="listitem">Kappelniityn muinaisjäännösalue</p>
-      <p type="listitem">Katanpään linnakesaari</p>
-      <p type="listitem">Kolttien perinnetalo</p>
-      <p type="listitem">Koroistenniemi</p>
-      <p type="listitem">Korteniemen perinnetila</p>
-      <p type="listitem">Koveron perinnetila</p>
-      <p type="listitem">Kuhmon vaara-asutukset</p>
-      <p type="listitem">Kurjenpolven hautausmaa</p>
-      <p type="listitem">Kuusiston piispanlinnan rauniot</p>
-      <p type="listitem">Kärnäkosken linnoitus</p>
-      <p type="listitem">Käräjämäki</p>
-      <p type="listitem">Langinkosken keisarillinen kalastusmaja</p>
-      <p type="listitem">Latvavaaran tila</p>
-      <p type="listitem">Lemmenjoen peurakuopat</p>
-      <p type="listitem">Levävaaran tila</p>
-      <p type="listitem">Liinmaan muinaislinna</p>
-      <p type="listitem">Linnansaaren torppa</p>
-      <p type="listitem">Lounatkoski</p>
-      <p type="listitem">Luttojoen kolttakentät</p>
-      <p type="listitem">Mattilan tila</p>
-      <p type="listitem">Matti Mustan tupa</p>
-      <p type="listitem">Ollilan ja Turulan tilat</p>
-      <p type="listitem">Paimensaaren perinneympäristö</p>
-      <p type="listitem">Pakasaivo ja Kirkkopahdan seitakivi</p>
-      <p type="listitem">Petkeljärven puistonvartijan maja</p>
-      <p type="listitem">Pielpajärven erämaakirkko</p>
-      <p type="listitem">Pisamalahden linnavuori</p>
-      <p type="listitem">Pitkäjärven metsätyökämppä</p>
-      <p type="listitem">Päivääniemen kalmisto</p>
-      <p type="listitem">Raappanan kammi</p>
-      <p type="listitem">Raaseporin rauniolinna</p>
-      <p type="listitem">Raja-Joosepin kenttä</p>
-      <p type="listitem">Rapolan linnavuori</p>
-      <p type="listitem">Ristinpelto</p>
-      <p type="listitem">Rumakurun vanha kämppä</p>
-      <p type="listitem">Rytivaaran kruununmetsätorppa</p>
-      <p type="listitem">Rödjanin kalastajatila</p>
-      <p type="listitem">Röytän luotsiasema</p>
-      <p type="listitem">Sallivaaran poroerotuspaikka</p>
-      <p type="listitem">Salpalinja, Änäkäinen</p>
-      <p type="listitem">Seili</p>
-      <p type="listitem">Suomujoen kolttakenttä</p>
-      <p type="listitem">Suomunruoktun vanha kämppä</p>
-      <p type="listitem">Svartholman merilinnoitus</p>
-      <p type="listitem">Söderskär</p>
-      <p type="listitem">Taatsin seita ja Taatsinkirkko</p>
-      <p type="listitem">Telkkämäen perinnetila</p>
-      <p type="listitem">Tiaisen torppa</p>
-      <p type="listitem">Tiilikanaution tila</p>
-      <p type="listitem">Täyssinän rauhan rajakivet</p>
-      <p type="listitem">Ukonsaari</p>
-      <p type="listitem">Ulko-Tammio</p>
-      <p type="listitem">Untamalan muinaisjäännösalue</p>
-      <p type="listitem">Vallisaari</p>
-      <p type="listitem">Välimaan saamelaistila</p>
-      <p type="listitem">Värikallio</p>
-      <p type="listitem">Äkässaivo ja Seitapahta</p>
-      <p type="listitem">Örön linnakesaari</p>
-    </list>
-    <p type="title">Kolttien perinnetalo</p>
-    <p>Pohjois-Lappi Inari (www.inari.fi) Sevettijärven-Näätämön alue Kolttien perinnetaloa hoitaa Saamelaismuseo Siida (www.siida.fi).</p>
-    <p>
-      <em type="italic">Kolttien perinnetalo Sevettijärven kylässä esittelee kolttasaamelaisten perinteitä ja kulttuuria. Sevettijärvi on Suomen kolttakulttuurin keskus asukasmääränsä ja kulttuurin säilymisen puolesta. </em>
-    </p>
-    <p>Kolttien perinnetalon perusnäyttelyn esineet, filmit, valokuvat ja tekstit kertovat Sevettijärvi-Näätämön alueen kolttasaamelaisten historiasta. Kolttien perinnetalo toimii vanhassa kolttatalossa. Valtio rakennutti Inarin kunnan itäosiin monia vastaavanlaisia taloja 1940-luvun lopussa, kun Petsamosta talvisodan aikana evakkoon lähteneille kolttasaamelaisille osoitettiin asuinpaikkoja Suomen puolelta. Sevettijärvelle asettui lähinnä Suonikylän kolttia, ja heitä varten alueelle rakennettiin yhteensä 52 kolttatilaa. </p>
-    <p>Perinnetalo edustaa sodanjälkeisen asuttamisen aikaista tyyppitaloa, jonka suunnittelussa huomioitiin myös kolttien rakennusperinnettä. Perinnetalona toimiva punainen tupa sijaitsi alun perin Kirakkajärvellä. Tuvan lisäksi tilaan kuului varastorakennus. Tila jäi kuitenkin asuttamatta, ja tyhjillään ollut tuparakennus siirrettiin nykyiselle paikalleen 1990-luvun alussa.</p>
-    <p>Saamelaismuseo Siida on pystyttänyt Kolttien perinnetalon pihapiiriin ulkomuseon. Ulkomuseossa on esillä Suonikylän aikaisen kesäpaikan rekonstruktio tupineen ja niliaittoineen.</p>
-    <p type="title">Aukioloajat</p>
-    <p><em type="italic">10.6. - 20.9. kello 10 - 17 </em>Perinnetaloon tutustuminen on maksutonta. Ryhmien ennakkoilmoittautuminen on suositeltavaa. </p>
-    <p type="title">Yhteystiedot</p>
-    <p>Käyntiosoite: Sevettijärventie 9041, 99930 Sevettijärvi Postiosoite: Saamelaismuseosäätiö, Inarintie 46, 99870 Inari Puhelin: Perinnetalo 0400 373 015 / Siida 0400 898 212 Sähköposti: kolttaperinnetalo(at)samimuseum.fi tai siida(at)samimuseum.fi Kotisivut: Saamelaismuseo Siida, aluetoiminta (www.siida.fi)</p>
-    <p type="title">Kulkuyhteydet</p>
-    <p>
-      <em type="italic">Autolla </em>
-    </p>
-    <list>
-      <p type="listitem">Kolttien perinnetalo sijaitsee Kaamanen - Näätämö -tien (nro 971) varrella Sevettijärvellä kirkon vieressä.</p>
-    </list>
-    <p type="title">Julkiset kulkuyhteydet</p>
-    <list>
-      <p type="listitem">Sevettijärvelle on päivittäin linja-autoyhteys Kaamasen kylästä. Aikataulut (www.matkahuolto.fi)</p>
-    </list>
-    <p type="title">Sähköiset kartat</p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Metsähallituksen </em>
-        <em type="italic">Retkikartta.fi </em>
-      </p>
-    </list>
-    <p type="title">Palvelut</p>
-    <list>
-      <p type="listitem">Tietoa kolttaperinteestä sekä Kaldoaivin ja Vätsärin erämaa-alueiden ja lähialueen luonnosta ja retkeilymahdollisuuksista. </p>
-      <p type="listitem">Myytävänä mm. kolttasaamelaisten perinteisiä käsitöitä sekä karttoja.</p>
-    </list>
-    <p type="title">Pysyvä näyttely</p>
-    <list>
-      <p type="listitem">Perinnetalossa on näyttely, joka esittelee kolttasaamelaisten historiaa ja nykypäivää esinein, valokuvin ja käsitöin. Ulkomuseossa voi tutustua kolttasaamelaiseen kesäpaikkaan.</p>
-    </list>
-    <p type="title">Piha-alue</p>
-    <list>
-      <p type="listitem">Perinnetalon pihapiiristä alkavat Sevettijärvi - Pulmanki -vaellusreitti, 60 - 70 km ja Inarinpolku, 100 km . Perinnetalo on myös yksi Saamenpolun, 90 km lähtöpisteistä.</p>
-    </list>
-    <p type="title">Liikuntaesteisten palvelut</p>
-    <list>
-      <p type="listitem">Rakennukseen ei pääse pyörätuolilla.</p>
-    </list>
-    <p>Tämän sivun osoite on www.luontoon.fi/kolttienperinnetalo</p>
-    <p type="title">Pysäköintialue</p>
-    <list>
-      <p type="listitem">Sevettijärventie 9041, Sevettijärvi</p>
-    </list>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Kolttien perinnetalo - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>476</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/kolttienperinnetalo?inheritRedirect=true</origFileName><parallel_text xml:lang="eng" location="skoltsamiheritagehouse_inheritredirect=true.html"/><parallel_text xml:lang="sme" location="nuortalaccaidarbevierrodallu.html"/><parallel_text xml:lang="sms" location="nuorttsaamiarbbvuottportt_1.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Kolttien perinnetalo</p>
+<p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Ailinpietin kalamaja</p>
+<p type="listitem">Berghamnin perinneympäristö</p>
+<p type="listitem">Gustavsvärnin linnoitus</p>
+<p type="listitem">Hauensuolen kalliopiirrokset</p>
+<p type="listitem">Heretyn metsätyökämppä</p>
+<p type="listitem">Huhtalan torppa</p>
+<p type="listitem">Hytermä</p>
+<p type="listitem">Iso Linnamäki</p>
+<p type="listitem">Ivalojoen Kultala</p>
+<p type="listitem">Jyppyrän peurahaudat</p>
+<p type="listitem">Kaapin Jounin tila</p>
+<p type="listitem">Kajaanin rauniolinna</p>
+<p type="listitem">Kalmosärkkä</p>
+<p type="listitem">Kappelniityn muinaisjäännösalue</p>
+<p type="listitem">Katanpään linnakesaari</p>
+<p type="listitem">Kolttien perinnetalo</p>
+<p type="listitem">Koroistenniemi</p>
+<p type="listitem">Korteniemen perinnetila</p>
+<p type="listitem">Koveron perinnetila</p>
+<p type="listitem">Kuhmon vaara-asutukset</p>
+<p type="listitem">Kurjenpolven hautausmaa</p>
+<p type="listitem">Kuusiston piispanlinnan rauniot</p>
+<p type="listitem">Kärnäkosken linnoitus</p>
+<p type="listitem">Käräjämäki</p>
+<p type="listitem">Langinkosken keisarillinen kalastusmaja</p>
+<p type="listitem">Latvavaaran tila</p>
+<p type="listitem">Lemmenjoen peurakuopat</p>
+<p type="listitem">Levävaaran tila</p>
+<p type="listitem">Liinmaan muinaislinna</p>
+<p type="listitem">Linnansaaren torppa</p>
+<p type="listitem">Lounatkoski</p>
+<p type="listitem">Luttojoen kolttakentät</p>
+<p type="listitem">Mattilan tila</p>
+<p type="listitem">Matti Mustan tupa</p>
+<p type="listitem">Ollilan ja Turulan tilat</p>
+<p type="listitem">Paimensaaren perinneympäristö</p>
+<p type="listitem">Pakasaivo ja Kirkkopahdan seitakivi</p>
+<p type="listitem">Petkeljärven puistonvartijan maja</p>
+<p type="listitem">Pielpajärven erämaakirkko</p>
+<p type="listitem">Pisamalahden linnavuori</p>
+<p type="listitem">Pitkäjärven metsätyökämppä</p>
+<p type="listitem">Päivääniemen kalmisto</p>
+<p type="listitem">Raappanan kammi</p>
+<p type="listitem">Raaseporin rauniolinna</p>
+<p type="listitem">Raja-Joosepin kenttä</p>
+<p type="listitem">Rapolan linnavuori</p>
+<p type="listitem">Ristinpelto</p>
+<p type="listitem">Rumakurun vanha kämppä</p>
+<p type="listitem">Rytivaaran kruununmetsätorppa</p>
+<p type="listitem">Rödjanin kalastajatila</p>
+<p type="listitem">Röytän luotsiasema</p>
+<p type="listitem">Sallivaaran poroerotuspaikka</p>
+<p type="listitem">Salpalinja, Änäkäinen</p>
+<p type="listitem">Seili</p>
+<p type="listitem">Suomujoen kolttakenttä</p>
+<p type="listitem">Suomunruoktun vanha kämppä</p>
+<p type="listitem">Svartholman merilinnoitus</p>
+<p type="listitem">Söderskär</p>
+<p type="listitem">Taatsin seita ja Taatsinkirkko</p>
+<p type="listitem">Telkkämäen perinnetila</p>
+<p type="listitem">Tiaisen torppa</p>
+<p type="listitem">Tiilikanaution tila</p>
+<p type="listitem">Täyssinän rauhan rajakivet</p>
+<p type="listitem">Ukonsaari</p>
+<p type="listitem">Ulko-Tammio</p>
+<p type="listitem">Untamalan muinaisjäännösalue</p>
+<p type="listitem">Vallisaari</p>
+<p type="listitem">Välimaan saamelaistila</p>
+<p type="listitem">Värikallio</p>
+<p type="listitem">Äkässaivo ja Seitapahta</p>
+<p type="listitem">Örön linnakesaari</p>
+</list><p type="title">Kolttien perinnetalo</p>
+<p>Pohjois-Lappi Inari (www.inari.fi) Sevettijärven-Näätämön alue Kolttien perinnetaloa hoitaa Saamelaismuseo Siida (www.siida.fi).</p>
+<p><em type="italic">Kolttien perinnetalo Sevettijärven kylässä esittelee kolttasaamelaisten perinteitä ja kulttuuria. Sevettijärvi on Suomen kolttakulttuurin keskus asukasmääränsä ja kulttuurin säilymisen puolesta. </em></p>
+<p>Kolttien perinnetalon perusnäyttelyn esineet, filmit, valokuvat ja tekstit kertovat Sevettijärvi-Näätämön alueen kolttasaamelaisten historiasta. Kolttien perinnetalo toimii vanhassa kolttatalossa. Valtio rakennutti Inarin kunnan itäosiin monia vastaavanlaisia taloja 1940-luvun lopussa, kun Petsamosta talvisodan aikana evakkoon lähteneille kolttasaamelaisille osoitettiin asuinpaikkoja Suomen puolelta. Sevettijärvelle asettui lähinnä Suonikylän kolttia, ja heitä varten alueelle rakennettiin yhteensä 52 kolttatilaa. </p>
+<p>Perinnetalo edustaa sodanjälkeisen asuttamisen aikaista tyyppitaloa, jonka suunnittelussa huomioitiin myös kolttien rakennusperinnettä. Perinnetalona toimiva punainen tupa sijaitsi alun perin Kirakkajärvellä. Tuvan lisäksi tilaan kuului varastorakennus. Tila jäi kuitenkin asuttamatta, ja tyhjillään ollut tuparakennus siirrettiin nykyiselle paikalleen 1990-luvun alussa.</p>
+<p>Saamelaismuseo Siida on pystyttänyt Kolttien perinnetalon pihapiiriin ulkomuseon. Ulkomuseossa on esillä Suonikylän aikaisen kesäpaikan rekonstruktio tupineen ja niliaittoineen.</p>
+<p type="title">Aukioloajat</p>
+<p><em type="italic">10.6. - 20.9. kello 10 - 17 </em>Perinnetaloon tutustuminen on maksutonta. Ryhmien ennakkoilmoittautuminen on suositeltavaa. </p>
+<p type="title">Yhteystiedot</p>
+<p>Käyntiosoite: Sevettijärventie 9041, 99930 Sevettijärvi Postiosoite: Saamelaismuseosäätiö, Inarintie 46, 99870 Inari Puhelin: Perinnetalo 0400 373 015 / Siida 0400 898 212 Sähköposti: kolttaperinnetalo(at)samimuseum.fi tai siida(at)samimuseum.fi Kotisivut: Saamelaismuseo Siida, aluetoiminta (www.siida.fi)</p>
+<p type="title">Kulkuyhteydet</p>
+<p><em type="italic">Autolla </em></p>
+<list><p type="listitem">Kolttien perinnetalo sijaitsee Kaamanen - Näätämö -tien (nro 971) varrella Sevettijärvellä kirkon vieressä.</p>
+</list><p type="title">Julkiset kulkuyhteydet</p>
+<list><p type="listitem">Sevettijärvelle on päivittäin linja-autoyhteys Kaamasen kylästä. Aikataulut (www.matkahuolto.fi)</p>
+</list><p type="title">Sähköiset kartat</p>
+<list><p type="listitem"><em type="italic">Metsähallituksen </em><em type="italic">Retkikartta.fi </em></p>
+</list><p type="title">Palvelut</p>
+<list><p type="listitem">Tietoa kolttaperinteestä sekä Kaldoaivin ja Vätsärin erämaa-alueiden ja lähialueen luonnosta ja retkeilymahdollisuuksista. </p>
+<p type="listitem">Myytävänä mm. kolttasaamelaisten perinteisiä käsitöitä sekä karttoja.</p>
+</list><p type="title">Pysyvä näyttely</p>
+<list><p type="listitem">Perinnetalossa on näyttely, joka esittelee kolttasaamelaisten historiaa ja nykypäivää esinein, valokuvin ja käsitöin. Ulkomuseossa voi tutustua kolttasaamelaiseen kesäpaikkaan.</p>
+</list><p type="title">Piha-alue</p>
+<list><p type="listitem">Perinnetalon pihapiiristä alkavat Sevettijärvi - Pulmanki -vaellusreitti, 60 - 70 km ja Inarinpolku, 100 km . Perinnetalo on myös yksi Saamenpolun, 90 km lähtöpisteistä.</p>
+</list><p type="title">Liikuntaesteisten palvelut</p>
+<list><p type="listitem">Rakennukseen ei pääse pyörätuolilla.</p>
+</list><p>Tämän sivun osoite on www.luontoon.fi/kolttienperinnetalo</p>
+<p type="title">Pysäköintialue</p>
+<list><p type="listitem">Sevettijärventie 9041, Sevettijärvi</p>
+</list><p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

@@ -1,70 +1,44 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Sámi duodji – saamelainen käsityö</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>620</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=235&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=235_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=235_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámi duodji – saamelainen käsityö</p>
-    <p>Sámi duodjin eli saamelaisen käsityön juuret ovat syvällä historiassa. Esineiden mallit ja koristelutyylit pohjautuvat vanhoihin käyttöesineisiin, joita aikaisemmin lähes jokaisen oli osattava tehdä. Leukuseppien, puuseppien, ompelijoiden tai kutojien ammattikuntaa ei ollut.</p>
-    <p>Nykyisin sámi duodji on usein taidekäsityötä ja siitä on tullut monille elinkeino tai elinkeinon osa. Kauniisti, koristellut puukot, naaput (poron lypsykauha), kuksat (juomakauha) ja hopea-astiat ovat monille koriste-esineitä, joita ei raskita käyttää niin kuin niiden kantamalleja on vuosituhansien ajan käytetty. Saamelaiset taiteilijat luovat kaiken aikaa perinteisiä materiaaleja, muoto- ja koristelutapoja soveltavia uusia malleja, koruja, asusteita ja käyttöesineitä.</p>
-    <p>Saamelainen käsityöesine on pohjimmiltaan funktionaalinen, käytännön tarpeisiin tehty. Silti sen tulee myös näyttää kauniilta ja miellyttää kättä. Liikkuvasta elämäntavasta ja tiiviistä luontosuhteesta johtuen turhaa mukana kannettavaa tai tarpeetonta rihkamaa ei perinteisesti tehty. Suuri osa materiaaleista on saatu ja saadaan edelleen oman asuinalueen luonnosta. Duodjin taitajat ovat oppineet hyödyntämään esimerkiksi porosta ja puusta lähes kaikki niiden osat. Koivustakin kelpaavat käsitöihin paitsi puuaines, myös parkki, tuohi ja juuret.</p>
-    <p>Duodji jäsennetään yleensä pehmeisiin ja koviin materiaaleihin. Naiset ovat tavallisesti tehneet pehmeitä töitä, joihin luetaan poronnahan, kudonnaisten ja tekstiilien työstäminen. Miehet puolestaan ovat muovanneet esineitä kovasta luusta, sarvesta, puusta ja metallista. Saamelaiselle käsityölle on ominaista, että materiaalien muokkaamista tärkeämpää on ollut materiaalien ominaisuuksiin mukautuminen. Esimerkiksi pahkasta valmistettavat kuksat ja muut käyttöastiat on koverrettu pahkan omia kasvusyitä seuraillen.</p>
-    <p>Vanhinta perinnettä sámi duodjissa edustavat sarvi-, luu-, puu- ja nahkatyöt. Tinalangan teon, nauhapunonnan ja tekstiilityön saamelaiset ovat omaksuneet osittain muilta kansoilta. Monia varsin myöhään ulkoisten kauppasuhteiden vaikutuksesta omaksuttuja materiaaleja on kuitenkin totuttu pitämään perinteisinä, niin tuttuja esimerkiksi verka, silkki ja hopea saamelaisessa käsityössä ovat. Toisaalta esimerkiksi hopeaesineissä saamelainen kulttuuri säilyttää edelleen sellaisia vanhoja itä- ja keskieurooppalaisia perinteitä, jotka ovat lähtöalueiltaan jo kauan sitten kadonneet. Hopeaa käytetään vyön koristeissa ja riskuissa, mutta myös juoma-astioissa, sormuksissa, korvakoruissa ja kaulaketjuissa.</p>
-    <p>Luu- ja sarvitöiden materiaalina käytetään poron sarviluuta, muita luuston osia ja lehmän ja hirven sarvia. Luusta ja sarvesta valmistetaan lusikoita, tiuhtoja (nauhapirta), laukun leukoja, neulakoteloita, veitsen kahvoja – nykyisin myös koruja. Lisäksi koristeellisia sarviupotuksia käytetään monissa puuesineissä, kuten kuksissa, naapuissa, ajo- ja matkasauvoissa, pulloissa ja kiisoissa (arkku). Saamelainen ornamentiikka on runsaimmillaan ja kauneimmillaan juuri sarvi- ja luutöissä. Koristekuviot kaiverretaan yleensä puukon kärjellä ja värjätään lepänkuorinesteellä tai tuhkalla.</p>
-    <p>Saamelainen muotoilu puolestaan on parhaimmillaan puisissa käyttöesineissä kuten kuksissa, naapuissa, pulloissa ja koriste-esineissä. Niitä tehdään koivun varsi- tai pajun juuripahkoista. Puusta valmistetaan myös suksia, rekiä, veneitä, ahkioita ja kiisoja (arkku).</p>
-    <p>Poron koipi- ja kallonahoista valmistetaan lämpimiä, talviaikana käytettäviä karvakenkiä ja kintaita. Vasan nahasta valmistetaan mm. lakkeja ja raavaan poron nahasta poronnahkaturkkeja eli peskejä. Karvanpoiston, parkkiliemessä käsittelyn, puhtaaksi kaapimisen ja pehmeäksi muokkaamisen jälkeen saadaan muokattua parkkinahkaa, jota kutsutaan sisnaksi. Sisna on kestävää ja kauniin väristä, ja siitä tehdään esimerkiksi laukkuja, suola- ja kahvipusseja, kenkiä, tossuja ja nykyisin mm. kännykkäkoteloita.</p>
-    <p>Saamelaisilla käsityöntekijöillä on Pohjoismaissa omat järjestönsä, jotka hoitavat mm. myynti- ja näyttelytoimintaa. Suomen puolella toimiva Sámi duodji-yhdistys järjestää näyttelyitä ja neuvontaa sekä välittää aitoja saamen käsitöitä myyntiin. Yhdistyksellä on myymälät Inarin kirkonkylässä ja Enontekiön Hetassa. Yhdistystä edelsi Inarissa vuonna 1975 perustettu Sápmelaš Duoddjárat ry, jonka tarkoituksena oli vaalia kansan käsityöperinnettä. Saamelaisen käsityön tunnuksena on tänään yhteispohjoismainen Sámi Duodji-merkki, joka on tae aidosta saamelaiskäsityöstä.</p>
-    <p type="title">Käsityösanoja pohjoissaameksi:</p>
-    <p>Niibi - puukko</p>
-    <p>Guksi - kuksa, juomakauha</p>
-    <p>Náhppi - naappu, poron lypsykauha</p>
-    <p>Silba - hopea</p>
-    <p>Golli - kulta</p>
-    <p>Láđđi - verka</p>
-    <p>Gákti - puku</p>
-    <p>Gápmagat - kengät</p>
-    <p>Goikkehat - karvakengät</p>
-    <p>Čázehat - sisnakengät</p>
-    <p>Stigat - náhkahousut</p>
-    <p>Vuoddagat - paulat</p>
-    <p>Beaska - peski, poroturkki</p>
-    <p>Miesenátgahpir - vasannahkalakki</p>
-    <p>Fáhcat - lapaset</p>
-    <p>Gistát - kintaat</p>
-    <p>Giisá - kiisa, arkku</p>
-    <p>Niesteseahkka - eväslaukku</p>
-    <p>Datneárpu - tinalanka</p>
-    <p>Boagán - vyö</p>
-    <p>Čoarvi - sarvi</p>
-    <p>Sisti - sisnanahka</p>
-    <p>Duollji - talja</p>
-    <p>Áibmi - äimä, nahkaneula</p>
-    <p type="title">Linkkejä:</p>
-    <p>Sámi duodji verkkokauppa Suomessa</p>
-    <p>Sámi duodji Ruotsissa</p>
-    <p>Sámi duodji Norjassa</p>
-    <p>Samekki – taidekäsityömyymälä Inarissa</p>
-    <p>Saamen käsityön korkeaa koulutusta Sámi allaskuvlassa</p>
-    <p>Saamen käsityön koulutusta Inarissa</p>
-    <p>Saamen käsityön koulutusta Jokkmokissa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sámi duodji – saamelainen käsityö</title><genre code="admin"/><author><unknown/></author><wordcount>620</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=235&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=235_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=235_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámi duodji – saamelainen käsityö</p>
+<p>Sámi duodjin eli saamelaisen käsityön juuret ovat syvällä historiassa. Esineiden mallit ja koristelutyylit pohjautuvat vanhoihin käyttöesineisiin, joita aikaisemmin lähes jokaisen oli osattava tehdä. Leukuseppien, puuseppien, ompelijoiden tai kutojien ammattikuntaa ei ollut.</p>
+<p>Nykyisin sámi duodji on usein taidekäsityötä ja siitä on tullut monille elinkeino tai elinkeinon osa. Kauniisti, koristellut puukot, naaput (poron lypsykauha), kuksat (juomakauha) ja hopea-astiat ovat monille koriste-esineitä, joita ei raskita käyttää niin kuin niiden kantamalleja on vuosituhansien ajan käytetty. Saamelaiset taiteilijat luovat kaiken aikaa perinteisiä materiaaleja, muoto- ja koristelutapoja soveltavia uusia malleja, koruja, asusteita ja käyttöesineitä.</p>
+<p>Saamelainen käsityöesine on pohjimmiltaan funktionaalinen, käytännön tarpeisiin tehty. Silti sen tulee myös näyttää kauniilta ja miellyttää kättä. Liikkuvasta elämäntavasta ja tiiviistä luontosuhteesta johtuen turhaa mukana kannettavaa tai tarpeetonta rihkamaa ei perinteisesti tehty. Suuri osa materiaaleista on saatu ja saadaan edelleen oman asuinalueen luonnosta. Duodjin taitajat ovat oppineet hyödyntämään esimerkiksi porosta ja puusta lähes kaikki niiden osat. Koivustakin kelpaavat käsitöihin paitsi puuaines, myös parkki, tuohi ja juuret.</p>
+<p>Duodji jäsennetään yleensä pehmeisiin ja koviin materiaaleihin. Naiset ovat tavallisesti tehneet pehmeitä töitä, joihin luetaan poronnahan, kudonnaisten ja tekstiilien työstäminen. Miehet puolestaan ovat muovanneet esineitä kovasta luusta, sarvesta, puusta ja metallista. Saamelaiselle käsityölle on ominaista, että materiaalien muokkaamista tärkeämpää on ollut materiaalien ominaisuuksiin mukautuminen. Esimerkiksi pahkasta valmistettavat kuksat ja muut käyttöastiat on koverrettu pahkan omia kasvusyitä seuraillen.</p>
+<p>Vanhinta perinnettä sámi duodjissa edustavat sarvi-, luu-, puu- ja nahkatyöt. Tinalangan teon, nauhapunonnan ja tekstiilityön saamelaiset ovat omaksuneet osittain muilta kansoilta. Monia varsin myöhään ulkoisten kauppasuhteiden vaikutuksesta omaksuttuja materiaaleja on kuitenkin totuttu pitämään perinteisinä, niin tuttuja esimerkiksi verka, silkki ja hopea saamelaisessa käsityössä ovat. Toisaalta esimerkiksi hopeaesineissä saamelainen kulttuuri säilyttää edelleen sellaisia vanhoja itä- ja keskieurooppalaisia perinteitä, jotka ovat lähtöalueiltaan jo kauan sitten kadonneet. Hopeaa käytetään vyön koristeissa ja riskuissa, mutta myös juoma-astioissa, sormuksissa, korvakoruissa ja kaulaketjuissa.</p>
+<p>Luu- ja sarvitöiden materiaalina käytetään poron sarviluuta, muita luuston osia ja lehmän ja hirven sarvia. Luusta ja sarvesta valmistetaan lusikoita, tiuhtoja (nauhapirta), laukun leukoja, neulakoteloita, veitsen kahvoja – nykyisin myös koruja. Lisäksi koristeellisia sarviupotuksia käytetään monissa puuesineissä, kuten kuksissa, naapuissa, ajo- ja matkasauvoissa, pulloissa ja kiisoissa (arkku). Saamelainen ornamentiikka on runsaimmillaan ja kauneimmillaan juuri sarvi- ja luutöissä. Koristekuviot kaiverretaan yleensä puukon kärjellä ja värjätään lepänkuorinesteellä tai tuhkalla.</p>
+<p>Saamelainen muotoilu puolestaan on parhaimmillaan puisissa käyttöesineissä kuten kuksissa, naapuissa, pulloissa ja koriste-esineissä. Niitä tehdään koivun varsi- tai pajun juuripahkoista. Puusta valmistetaan myös suksia, rekiä, veneitä, ahkioita ja kiisoja (arkku).</p>
+<p>Poron koipi- ja kallonahoista valmistetaan lämpimiä, talviaikana käytettäviä karvakenkiä ja kintaita. Vasan nahasta valmistetaan mm. lakkeja ja raavaan poron nahasta poronnahkaturkkeja eli peskejä. Karvanpoiston, parkkiliemessä käsittelyn, puhtaaksi kaapimisen ja pehmeäksi muokkaamisen jälkeen saadaan muokattua parkkinahkaa, jota kutsutaan sisnaksi. Sisna on kestävää ja kauniin väristä, ja siitä tehdään esimerkiksi laukkuja, suola- ja kahvipusseja, kenkiä, tossuja ja nykyisin mm. kännykkäkoteloita.</p>
+<p>Saamelaisilla käsityöntekijöillä on Pohjoismaissa omat järjestönsä, jotka hoitavat mm. myynti- ja näyttelytoimintaa. Suomen puolella toimiva Sámi duodji-yhdistys järjestää näyttelyitä ja neuvontaa sekä välittää aitoja saamen käsitöitä myyntiin. Yhdistyksellä on myymälät Inarin kirkonkylässä ja Enontekiön Hetassa. Yhdistystä edelsi Inarissa vuonna 1975 perustettu Sápmelaš Duoddjárat ry, jonka tarkoituksena oli vaalia kansan käsityöperinnettä. Saamelaisen käsityön tunnuksena on tänään yhteispohjoismainen Sámi Duodji-merkki, joka on tae aidosta saamelaiskäsityöstä.</p>
+<p type="title">Käsityösanoja pohjoissaameksi:</p>
+<p>Niibi - puukko</p>
+<p>Guksi - kuksa, juomakauha</p>
+<p>Náhppi - naappu, poron lypsykauha</p>
+<p>Silba - hopea</p>
+<p>Golli - kulta</p>
+<p>Láđđi - verka</p>
+<p>Gákti - puku</p>
+<p>Gápmagat - kengät</p>
+<p>Goikkehat - karvakengät</p>
+<p>Čázehat - sisnakengät</p>
+<p>Stigat - náhkahousut</p>
+<p>Vuoddagat - paulat</p>
+<p>Beaska - peski, poroturkki</p>
+<p>Miesenátgahpir - vasannahkalakki</p>
+<p>Fáhcat - lapaset</p>
+<p>Gistát - kintaat</p>
+<p>Giisá - kiisa, arkku</p>
+<p>Niesteseahkka - eväslaukku</p>
+<p>Datneárpu - tinalanka</p>
+<p>Boagán - vyö</p>
+<p>Čoarvi - sarvi</p>
+<p>Sisti - sisnanahka</p>
+<p>Duollji - talja</p>
+<p>Áibmi - äimä, nahkaneula</p>
+<p type="title">Linkkejä:</p>
+<p>Sámi duodji verkkokauppa Suomessa</p>
+<p>Sámi duodji Ruotsissa</p>
+<p>Sámi duodji Norjassa</p>
+<p>Samekki – taidekäsityömyymälä Inarissa</p>
+<p>Saamen käsityön korkeaa koulutusta Sámi allaskuvlassa</p>
+<p>Saamen käsityön koulutusta Inarissa</p>
+<p>Saamen käsityön koulutusta Jokkmokissa</p>
+</body></document>

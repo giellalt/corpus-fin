@@ -1,34 +1,10 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Eduskunta päättää valtion varoista - 
+<document xml:lang="fin" id="no_id"><header><title>Eduskunta päättää valtion varoista - 
 	Oikeusministeriö
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>77</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.oikeusministerio.fi/fi/index/julkaisut/esitteet/perustuslaki/eduskuntapaattaavaltionvaroista.html</origFileName>
-    <parallel_text xml:lang="eng" location="eduskuntapaattaavaltionvaroista.html"/>
-    <parallel_text xml:lang="sme" location="riikkabeaivvitmearridastahtaru273ain_0.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Perustuslaki</p>
-    <p type="title">Eduskunta päättää valtion varoista</p>
-    <p xml:lang="vep">7 LUKU</p>
-    <p>Valtioneuvoston on valmisteltava eduskunnalle esitys seuraavan vuoden talousarvioksi. Eduskunnan valtiovarainvaliokunta käsittelee yksityiskohtaisesti talousarviota ja kansanedustajien talousarvioon tekemiä aloitteita.</p>
-    <p>Eduskunta päättää talousarvion sisällöstä. Sen tulopuolelle on kirjattava muun muassa valtiolle perittävät verot ja maksut. Veroista päätetään lailla. Menopuolelle tulevat ne kansalaisille annettavat tuet ja palvelut, jotka eduskunta hyväksyy.</p>
-    <p>Eduskunta päättää myös valtion omaisuuden ja velkojen hoidosta. Eduskunta valvoo Suomen Pankin ja kansaneläkelaitoksen toimintaa.</p>
-    <p>Valtion varainkäyttöä valvovat eduskunnan tarkastusvaliokunta ja valtiontalouden tarkastusvirasto.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>77</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.oikeusministerio.fi/fi/index/julkaisut/esitteet/perustuslaki/eduskuntapaattaavaltionvaroista.html</origFileName><parallel_text xml:lang="eng" location="eduskuntapaattaavaltionvaroista.html"/><parallel_text xml:lang="sme" location="riikkabeaivvitmearridastahtaru273ain_0.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Perustuslaki</p>
+<p type="title">Eduskunta päättää valtion varoista</p>
+<p xml:lang="vep">7 LUKU</p>
+<p>Valtioneuvoston on valmisteltava eduskunnalle esitys seuraavan vuoden talousarvioksi. Eduskunnan valtiovarainvaliokunta käsittelee yksityiskohtaisesti talousarviota ja kansanedustajien talousarvioon tekemiä aloitteita.</p>
+<p>Eduskunta päättää talousarvion sisällöstä. Sen tulopuolelle on kirjattava muun muassa valtiolle perittävät verot ja maksut. Veroista päätetään lailla. Menopuolelle tulevat ne kansalaisille annettavat tuet ja palvelut, jotka eduskunta hyväksyy.</p>
+<p>Eduskunta päättää myös valtion omaisuuden ja velkojen hoidosta. Eduskunta valvoo Suomen Pankin ja kansaneläkelaitoksen toimintaa.</p>
+<p>Valtion varainkäyttöä valvovat eduskunnan tarkastusvaliokunta ja valtiontalouden tarkastusvirasto.</p>
+</body></document>

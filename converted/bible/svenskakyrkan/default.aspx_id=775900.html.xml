@@ -1,41 +1,13 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>385</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=775900</origFileName>
-    <parallel_text xml:lang="sma" location="nemhtie-grhkoe-datnem-maahta-daarjodh.html"/>
-    <parallel_text xml:lang="sme" location="na-sahtta-girku-doarjut-du.html"/>
-    <parallel_text xml:lang="smj" location="navti-girkko-mahtta-duv-doarjjot.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Näin kirkko voi tukea sinua - Svenska kyrkan - Om oss</p>
-    <p type="title">Näin kirkko voi tukea sinua</p>
-    <p type="title">Ruotsin kirkon sosiaalityötä kutsutaan diakoniaksi. Sen tehtävänä on osallistuvasti kohdata erilaisissa elämäntilanteissa olevia ihmisiä kunnioittavasti ja molemminpuolisen solidaarisuuden hengessä.</p>
-    <p>Ruotsin kirkko tekee sosiaalityötä yhteistyössä useimpien yhteiskunnallisten sosiaalilaitosten, muiden kirkkojen ja uskonyhteisöjen sekä aatteellisten järjestöjen kanssa. Monissa julkisissa työpaikoissa on pappi, esimerkiksi yliopistoissa, pelastuslaitoksissa, puolustusvoimissa, vankeinhoidossa ja poliisivoimissa.</p>
-    <p>Diakoneilla ja papeilla on vaitiolovelvollisuus. He käyvät vanhusten ja sairaiden luona, järjestävät sururyhmiä ja keskustelevat yksittäisten ihmisten kanssa elämän iloista ja vaikeuksista.</p>
-    <p>Kirkon sosiaalityössä annetaan tukea ja apua myös päihteiden väärinkäyttäjille ja heidän läheisilleen. Sosiaalityössä voidaan perustaa keskusteluryhmiä pahoinpidellyille naisille ja miehille sekä auttaa perheitä niin vanhempia kuin lapsiakin koettelevissa kriisitilanteissa. Joskus seurakunnat voivat myös antaa taloudellista apua sitä tarvitseville.</p>
-    <p>Ruotsissa monilla yläasteilla ja lukioissa on oppilaiden tukena koulupappeja ja diakoneja. Oppilaat voivat sekä kouluaikana että koulun jälkeen kääntyä heidän puoleensa jutellakseen mistä tahansa, kuten opinnoista, identiteetistä ja uskosta. Alla on lisätietoja siitä, minkälaisissa tilanteissa Ruotsin kirkko voi tukea sinua.</p>
-    <p><em type="italic">Sururyhmät </em>Sururyhmät ovat pieniä, viidestä kahdeksaan osanottajan ryhmiä, joissa jaetaan läheisen menettämisen synnyttämiä ajatuksia ja tunteita. Ryhmillä on tietty määrä kokoontumiskertoja sekä kokeneet vetäjät, ja ne voivat keskittyä elämänkumppanin, lapsen tai vanhempansa menettäneisiin. </p>
-    <p><em type="italic">Kirkon perheneuvonta </em>Ruotsin kirkon perheneuvonta on tarkoitettu kaikille, joilla on ongelmia läheisissä ihmissuhteissaan. Se on tarkoitettu avio- tai avoliitossa eläville, eronneille tai avioeroa harkitseville, niille, joilla on vaikeaa suhteen päättymisen jälkeen, sekä niille, joille yhteys läheisiin tuntuu vaikealta. Perheneuvonnan työntekijöillä on vaitiolovelvollisuus, eivätkä he pidä kirjaa tapaamisista. </p>
-    <p><em type="italic">Työ seksuaalista väkivaltaa vastaan </em>Ruotsin kirkko haluaa tukea lapsia, nuoria ja aikuisia, jotka ovat kohdanneet väkivaltaa kirkon piirissä. Seksuaalinen väkivalta sisältää käsitteenä kaiken eriasteisesta seksuaalisesta häirinnästä raiskaukseen sekä rikolliset ja moraalisesti paheksuttavat teot. Myös toisen henkilön tahdon vastaiset seksuaalisuuteen liittyvät kommentit ja vihjailut luetaan väkivallaksi. Aiemmin seksuaalisesta väkivallasta usein vaiettiin. Ruotsin kirkko haluaa auttaa murtamaan seksuaaliseen väkivaltaan liittyvää vaikenemista. Kirkko haluaa uskaltaa kohdata sen, mitä todellisuudessa saattaa tapahtua, ja toimia sen mukaisesti. </p>
-    <p><em type="italic">Sairaalakirkko </em>Surun kohdannut tai apua tarvitseva voi kääntyä suoraan sairaalan kirkon puoleen. Hartaustilojen ja henkilökuntansa kautta kirkko on sekä potilaiden, läheisten että sairaalan henkilökunnan tavoitettavissa, jos he haluavat keskustella, saada sielunhoitoa tai osallistua jumalanpalveluksiin ja hartauksiin. Papeilla, diakoneilla ja muilla sairaalakirkossa työskentelevillä on vaitiolovelvollisuus, eivätkä he pidä kirjaa tapaamisistaan. Ei tarvitse olla kristitty voidakseen käydä sairaalakirkossa. Jos sairauden takia ei pysty itse tulemaan hartaustiloihin, pappi voi vierailla sairaan luona. </p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>385</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.svenskakyrkan.se/default.aspx?id=775900</origFileName><parallel_text xml:lang="sma" location="nemhtie-grhkoe-datnem-maahta-daarjodh.html"/><parallel_text xml:lang="sme" location="na-sahtta-girku-doarjut-du.html"/><parallel_text xml:lang="smj" location="navti-girkko-mahtta-duv-doarjjot.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Näin kirkko voi tukea sinua - Svenska kyrkan - Om oss</p>
+<p type="title">Näin kirkko voi tukea sinua</p>
+<p type="title">Ruotsin kirkon sosiaalityötä kutsutaan diakoniaksi. Sen tehtävänä on osallistuvasti kohdata erilaisissa elämäntilanteissa olevia ihmisiä kunnioittavasti ja molemminpuolisen solidaarisuuden hengessä.</p>
+<p>Ruotsin kirkko tekee sosiaalityötä yhteistyössä useimpien yhteiskunnallisten sosiaalilaitosten, muiden kirkkojen ja uskonyhteisöjen sekä aatteellisten järjestöjen kanssa. Monissa julkisissa työpaikoissa on pappi, esimerkiksi yliopistoissa, pelastuslaitoksissa, puolustusvoimissa, vankeinhoidossa ja poliisivoimissa.</p>
+<p>Diakoneilla ja papeilla on vaitiolovelvollisuus. He käyvät vanhusten ja sairaiden luona, järjestävät sururyhmiä ja keskustelevat yksittäisten ihmisten kanssa elämän iloista ja vaikeuksista.</p>
+<p>Kirkon sosiaalityössä annetaan tukea ja apua myös päihteiden väärinkäyttäjille ja heidän läheisilleen. Sosiaalityössä voidaan perustaa keskusteluryhmiä pahoinpidellyille naisille ja miehille sekä auttaa perheitä niin vanhempia kuin lapsiakin koettelevissa kriisitilanteissa. Joskus seurakunnat voivat myös antaa taloudellista apua sitä tarvitseville.</p>
+<p>Ruotsissa monilla yläasteilla ja lukioissa on oppilaiden tukena koulupappeja ja diakoneja. Oppilaat voivat sekä kouluaikana että koulun jälkeen kääntyä heidän puoleensa jutellakseen mistä tahansa, kuten opinnoista, identiteetistä ja uskosta. Alla on lisätietoja siitä, minkälaisissa tilanteissa Ruotsin kirkko voi tukea sinua.</p>
+<p><em type="italic">Sururyhmät </em>Sururyhmät ovat pieniä, viidestä kahdeksaan osanottajan ryhmiä, joissa jaetaan läheisen menettämisen synnyttämiä ajatuksia ja tunteita. Ryhmillä on tietty määrä kokoontumiskertoja sekä kokeneet vetäjät, ja ne voivat keskittyä elämänkumppanin, lapsen tai vanhempansa menettäneisiin. </p>
+<p><em type="italic">Kirkon perheneuvonta </em>Ruotsin kirkon perheneuvonta on tarkoitettu kaikille, joilla on ongelmia läheisissä ihmissuhteissaan. Se on tarkoitettu avio- tai avoliitossa eläville, eronneille tai avioeroa harkitseville, niille, joilla on vaikeaa suhteen päättymisen jälkeen, sekä niille, joille yhteys läheisiin tuntuu vaikealta. Perheneuvonnan työntekijöillä on vaitiolovelvollisuus, eivätkä he pidä kirjaa tapaamisista. </p>
+<p><em type="italic">Työ seksuaalista väkivaltaa vastaan </em>Ruotsin kirkko haluaa tukea lapsia, nuoria ja aikuisia, jotka ovat kohdanneet väkivaltaa kirkon piirissä. Seksuaalinen väkivalta sisältää käsitteenä kaiken eriasteisesta seksuaalisesta häirinnästä raiskaukseen sekä rikolliset ja moraalisesti paheksuttavat teot. Myös toisen henkilön tahdon vastaiset seksuaalisuuteen liittyvät kommentit ja vihjailut luetaan väkivallaksi. Aiemmin seksuaalisesta väkivallasta usein vaiettiin. Ruotsin kirkko haluaa auttaa murtamaan seksuaaliseen väkivaltaan liittyvää vaikenemista. Kirkko haluaa uskaltaa kohdata sen, mitä todellisuudessa saattaa tapahtua, ja toimia sen mukaisesti. </p>
+<p><em type="italic">Sairaalakirkko </em>Surun kohdannut tai apua tarvitseva voi kääntyä suoraan sairaalan kirkon puoleen. Hartaustilojen ja henkilökuntansa kautta kirkko on sekä potilaiden, läheisten että sairaalan henkilökunnan tavoitettavissa, jos he haluavat keskustella, saada sielunhoitoa tai osallistua jumalanpalveluksiin ja hartauksiin. Papeilla, diakoneilla ja muilla sairaalakirkossa työskentelevillä on vaitiolovelvollisuus, eivätkä he pidä kirjaa tapaamisistaan. Ei tarvitse olla kristitty voidakseen käydä sairaalakirkossa. Jos sairauden takia ei pysty itse tulemaan hartaustiloihin, pappi voi vierailla sairaan luona. </p>
+<p>//</p>
+</body></document>

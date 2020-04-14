@@ -1,35 +1,11 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>248</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2722&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="sme" location="reivve_sa_ruhtadeapmi.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Pvm: 14.10.2015     D.no.: 1144/D.a.2</p>
-    <p>Opetus- ja kulttuuriministeriö  PL 29  00023 VALTIONEUVOSTO kirjaamo@minedu.fi<em type="bold"> </em></p>
-    <p>
-      <em type="bold">Asia: Pohjoismaiden ministerineuvoston aikomus tehdä muutoksia Saamelaisen korkeakoulun (Sámi University College – Sámi allaskuvlla) tutkimustoimen rahoittamisesta   </em>
-    </p>
-    <p>Saamelainen  parlamentaarinen  neuvosto  on  Suomen,  Ruotsin  ja  Norjan  saamelaisparlamenttien välinen parlamentaarinen yhteistyöelin, ja lähettää tämän vetoomuksen ministerineuvostolle sekä Suomen, Ruotsin ja Norjan hallituksille.</p>
-    <p>Saamelainen  parlamentaarinen  neuvosto  on  tietoinen  siitä,  että  Pohjoismaiden  ministerineuvosto  on arvioinut  sen  määrärahoja  viiden  Pohjoismaan  koordinointielimille  tutkimusta  varten,  tämä  koskee  myös saamelaista tutkimusta Saamelaisessa korkeakoulussa (Sámi allaskuvla  -  Sámi University College). Muutos tarkoittaa sitä,  että vuodesta  2017 lähtien Pohjoismaiden neuvosto siirtää määrärahan hoidon NordForsk elimelle. Tämä tarkoittaa sitä, että Pohjoismaiden ministerineuvoston vuotuinen määräraha saamelaiseen tutkimukseen loppuu, ja rahoja täytyy hakea ja näin kilpailla muiden kanssa rahoituksesta.</p>
-    <p>Saamelainen  parlamentaarinen  neuvosto  on  huolissaan  siitä,  että  tämä  muutos  johtaa  siihen,  että tutkimustoiminnan  edellytykset  Saamelaisessa  korkeakoulussa  (Sámi  allaskuvla  -  Sámi  University  College) huonontuvat.  Puitteet  tutkimustoiminnassa  muuttuvat  täysin,  koska  ennustettavuus  katoaa.  Osa kapasiteetista  menee  hakemusten  laatimiseen,  mikä  puolestaan  johtaa  siihen,  että  tutkimustyö  kärsii. Saamelaisen korkeakoulun (Sámi allaskuvla - Sámi University College) tutkimuspiiri on pieni ja haavoittuva – täten vakaan tutkimustoiminnan kehityksen edellytyksenä on ennustettavuus.</p>
-    <p>Saamelaisella tutkimuksella on paitsi merkitystä saamelaisten yhteisöihin Suomessa, Ruotsissa ja Norjassa, mutta  myös  valtaväestölle  Pohjoismaissa  on  hyötyä  Saamelaisen  korkeakoulun  (Sámi  allaskuvla  -  Sámi University College) tutkimuksesta.</p>
-    <p>Saamelainen parlamentaarinen neuvosto pyytää täten, että Pohjoismaiden ministerineuvosto sekä Suomen, Ruotsin  ja  Norjan  hallitukset  pitäisivat  edelleen  määrärahat  nykyisellä  tasolla  (noin  7.000.000  kruunua) saamelaiseen tutkimukseen Saamelaisessa korkeakoulussa (Sámi allaskuvla - Sámi University College).</p>
-    <p>Terveisin</p>
-    <p>Tiina Sanila-Aikio puheenjohtaja Saamelainen parlamentaarinen neuvosto +358 50 3001780</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>248</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=2722&amp;Itemid=10</origFileName><parallel_text xml:lang="sme" location="reivve_sa_ruhtadeapmi.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Pvm: 14.10.2015     D.no.: 1144/D.a.2</p>
+<p>Opetus- ja kulttuuriministeriö  PL 29  00023 VALTIONEUVOSTO kirjaamo@minedu.fi<em type="bold"> </em></p>
+<p><em type="bold">Asia: Pohjoismaiden ministerineuvoston aikomus tehdä muutoksia Saamelaisen korkeakoulun (Sámi University College – Sámi allaskuvlla) tutkimustoimen rahoittamisesta   </em></p>
+<p>Saamelainen  parlamentaarinen  neuvosto  on  Suomen,  Ruotsin  ja  Norjan  saamelaisparlamenttien välinen parlamentaarinen yhteistyöelin, ja lähettää tämän vetoomuksen ministerineuvostolle sekä Suomen, Ruotsin ja Norjan hallituksille.</p>
+<p>Saamelainen  parlamentaarinen  neuvosto  on  tietoinen  siitä,  että  Pohjoismaiden  ministerineuvosto  on arvioinut  sen  määrärahoja  viiden  Pohjoismaan  koordinointielimille  tutkimusta  varten,  tämä  koskee  myös saamelaista tutkimusta Saamelaisessa korkeakoulussa (Sámi allaskuvla  -  Sámi University College). Muutos tarkoittaa sitä,  että vuodesta  2017 lähtien Pohjoismaiden neuvosto siirtää määrärahan hoidon NordForsk elimelle. Tämä tarkoittaa sitä, että Pohjoismaiden ministerineuvoston vuotuinen määräraha saamelaiseen tutkimukseen loppuu, ja rahoja täytyy hakea ja näin kilpailla muiden kanssa rahoituksesta.</p>
+<p>Saamelainen  parlamentaarinen  neuvosto  on  huolissaan  siitä,  että  tämä  muutos  johtaa  siihen,  että tutkimustoiminnan  edellytykset  Saamelaisessa  korkeakoulussa  (Sámi  allaskuvla  -  Sámi  University  College) huonontuvat.  Puitteet  tutkimustoiminnassa  muuttuvat  täysin,  koska  ennustettavuus  katoaa.  Osa kapasiteetista  menee  hakemusten  laatimiseen,  mikä  puolestaan  johtaa  siihen,  että  tutkimustyö  kärsii. Saamelaisen korkeakoulun (Sámi allaskuvla - Sámi University College) tutkimuspiiri on pieni ja haavoittuva – täten vakaan tutkimustoiminnan kehityksen edellytyksenä on ennustettavuus.</p>
+<p>Saamelaisella tutkimuksella on paitsi merkitystä saamelaisten yhteisöihin Suomessa, Ruotsissa ja Norjassa, mutta  myös  valtaväestölle  Pohjoismaissa  on  hyötyä  Saamelaisen  korkeakoulun  (Sámi  allaskuvla  -  Sámi University College) tutkimuksesta.</p>
+<p>Saamelainen parlamentaarinen neuvosto pyytää täten, että Pohjoismaiden ministerineuvosto sekä Suomen, Ruotsin  ja  Norjan  hallitukset  pitäisivat  edelleen  määrärahat  nykyisellä  tasolla  (noin  7.000.000  kruunua) saamelaiseen tutkimukseen Saamelaisessa korkeakoulussa (Sámi allaskuvla - Sámi University College).</p>
+<p>Terveisin</p>
+<p>Tiina Sanila-Aikio puheenjohtaja Saamelainen parlamentaarinen neuvosto +358 50 3001780</p>
+</body></document>

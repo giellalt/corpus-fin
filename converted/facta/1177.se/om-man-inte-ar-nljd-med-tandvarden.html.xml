@@ -1,105 +1,66 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1379</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Om-man-inte-ar-nljd-med-tandvarden</origFileName>
-    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <parallel_text xml:lang="swe" location="om-man-ar-missnojd-med-tandvarden.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Jos olet tyytymätön hammashoitoon / Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Jos olet tyytymätön hammashoitoonOm man inte är nöjd med tandvården</p>
-    <p type="title">Kenen puoleen käännyt?</p>
-    <p type="title">On useampia eri tahoja, joiden puoleen voit kääntyä</p>
-    <p>Jos haluat tehdä valituksen hammashoidosta, voit kääntyä useamman eri tahon puoleen. Minkä tahon puoleen käännyt, riippuu siitä, mihin olet tyytymätön ja missä asiassa haluat apua. Useimmissa tapauksissa valitukset ja mahdolliset väärinkäsitykset voidaan selvittää ottamalla yhteyttä hammashoidon tehneeseen henkilöön.</p>
-    <p>Jos sopimukseen ei päästä tai jos kysymys on vääränlaisesta hoidosta tai vahingoista, voi olla tarpeen kääntyä jonkun toisen tahon, esimerkiksi maakäräjien potilaslautakuntien, yksityishammaslääkäreiden luottamuslautakuntien, Sosiaalihallituksen (Socialstyrelsen) tai Patientförsäkringen LÖF -vakuutusyhtiön puoleen.</p>
-    <p>Riippumatta siitä, kenen puoleen käännyt, voi olla hyvä pyytää kirjallinen vastaus väärinkäsitysten välttämiseksi.</p>
-    <p type="title">Valitus suoraan hammashoitohenkilöstölle</p>
-    <p>Ensisijaisesti valituksen voi esittää suoraan sille henkilölle, joka on tutkinut tai hoitanut sinua. Voi olla kysymys esimerkiksi siitä, että et ole tyytyväinen tehtyyn työhön, että sinua on kohdeltu huonosti tai olet sitä mieltä, että on joutunut maksamaan liikaa.</p>
-    <p type="title">Jos sinua on hoidettu julkisessa hammashoidossa</p>
-    <p>Jos et halua ottaa yhteyttä henkilöön, joka on hoitanut sinua tai jos sopimukseen ei päästä, voit kääntyä klinikan päällikön tai’ (muun vastuuhenkilön/)toiminnanjohtajan puoleen. Voit ottaa yhteyttä myös maakäräjien/seutukuntien julkisen hammashoidon päällikköön tai maakäräjäkunnan/alueen johonkin toiseen henkilöön, joka vastaa julkisesta hammashoidosta.</p>
-    <p>Kaikilla maakäräjäkunnilla tai seutukunnilla on myös niin kutsutut potilaslautakunnat (patientnämnd), joita kutsutaan joskus myös luottamuslautakunniksi (förtroendenämnd). Potilaslautakunnat ottavat vastaan mm. kohtelua, diagnoosia, lääkitystä, hoitoa, maksuja ja salassapitovelvollisuuteen liittyviä kysymyksiä koskevia valituksia ja muistutuksia. Lautakunnassa on poliitikkoja mutta virkamiehet käsittelevät valitukset. Potilaslautakunnan poliitikoilla ja virkamiehillä on vaitiolovelvollisuus.</p>
-    <p>Potilaslautakunnat antavat ohjeita ja tukea henkilölle, joka tekee valituksen julkisesta hammashoidosta tai maakäräjien tai seutukunnan kokonaan tai osittain maksamasta hoidosta.</p>
-    <p>Potilaslautakunnasta saa tietoa myös siitä, mihin voi kääntyä erityyppisissä asioissa.</p>
-    <p>Potilaslautakunnan puoleen kääntyminen ei maksa mitään. Ei ole myöskään mitään aikarajaa sille, kuinka vanha asia voi olla.</p>
-    <p type="title">Jos sinua on hoidettu yksityisellä vastaanotolla</p>
-    <p>Jos et halua ottaa yhteyttä henkilöön, joka on hoitanut sinua tai jos sopimukseen ei päästä, voit kääntyä vastaanoton päällikön tai muun vastuuhenkilön puoleen.</p>
-    <p>Jos olet käynyt yksityishammaslääkärillä, joka on Privattandläkarna-järjestön jäsen, voit kääntyä myös jonkin tähän organisaatioon kuuluvan luottamuslautakunnan puoleen. Voit kääntyä luottamuslautakunnan puoleen myös, jos olet käynyt hammashoitajalla tai suuhygienistillä, joka työskentelee Privattandläkarna-järjestöön kuuluvan hammaslääkärin vastaanotolla.</p>
-    <p>Järjestön luottamuslautakuntia on maassa useilla eri paikkakunnilla ja ne tekevät ehdotuksia siitä, kuinka potilas voi päästä sopimukseen hammaslääkärinsä kanssa. Jos yksityishammaslääkäri ei noudattaisi heidän suositustaan, hän ei voi kuulua Privattandläkarna-järjestöön. Luottamuslautakunnat eivät normaalisti selvitä tapahtumia, jotka ovat kahta vuotta vanhempia.</p>
-    <p>Oikeaan lautakuntaan saa yhteyden soittamalla Privattandvårdsupplysningen-neuvontaan. Jos et ole tyytyväinen luottamuslautakunnan päätökseen, voit valittaa yksityishammaslääkärien keskeiseen luottamuslautakuntaan (Privattandläkarnas centrala förtroendenämnd).</p>
-    <p>Yksityishammaslääkärien verkkopalvelusta voit saada tietoa siitä, kenen puoleen kääntyä, jos halut tehdä valituksen. Siellä voi myös tehdä haun sen selvittämiseksi, kuuluuko hammaslääkäri Privattandläkarna-järjestöön.</p>
-    <p>Jos hammaslääkäri ei ole liittynyt Privattandläkarna-järjestöön, et voi kääntyä luottamuslautakuntien puoleen. Sen sijaan voit ajaa asiaa oikeudessa, mutta silloin sinun on oltava tietoinen riskistä joutua maksamaan sekä omat että vastapuolen oikeuskulut, jos häviää.</p>
-    <p>Voit kääntyä maakäräjien potilaslautakunnan puoleen myös silloin kun olet ollut sellaisen yksityishammaslääkärin hoidossa, jonka vastaanoton toimintaa maakäräjät rahoittaa kokonaan tai osittain. Voi olla kysymys esimerkiksi lasten tai nuoren hammashoitoa antavasta vastaanotosta.</p>
-    <p>Potilaslautakunnan puoleen käännytään myös sellaisessa hammashoidossa, jota harjoitetaan yksityisesti mutta jossa hammaslääkärillä tai suuhygienistillä on maakäräjien kanssa sopimus hammashoidosta osana sairauden hoitoa rajoitettuna aikana.</p>
-    <p type="title">Jos olet sitä mieltä, että on tapahtunut virhe</p>
-    <p>Sosiaalihallitukseen voi ilmoittaa tapahtuman tai henkilön, jolta on saanut hoitoa. Sillä ei ole mitään merkitystä, työskenteleekö henkilö julkisessa hammashuollossa vai onko hänellä yksityisvastaanotto.</p>
-    <p>Ilmoitus on tehtävä kahden vuoden sisällä hoidosta ja sen on oltava kirjallinen. Ensisijaisesti ilmoituksen tekee potilas itse, mutta myös omaiset ja läheiset voivat tehdä ilmoituksen, jos potilas itse ei voi tehdä sitä itse.</p>
-    <p>Sekä ilmoitus Sosiaalihallitukseen että Sosiaalihallituksen päätös ovat julkisia asiakirjoja, jotka kaikki halukkaat voivat lukea. Sen sijaan potilastiedot ja muut vastaavat selvitykseen liittyvät asiakirjat ovat salassapitovelvollisuuden alaisia..</p>
-    <p>Sosiaalihallitus voi kohdistaa arvostelua hammashoitohenkilöstöä kohtaan ja se voi myös tehdä ilmoituksen henkilöistä Terveyden- ja sairaanhoidon vastuulautakuntaan (Hälso- och sjukvårdens ansvarsnämnd, HSAN). Näin on tehtävä. jos se on tarpeen riskialttiiden rutiinien ja työtapojen pysäyttämiseksi.</p>
-    <p>HSAN voi arvioida ja päättää</p>
-    <list>
-      <p type="listitem">peruuttaa huonosti työnsä hoitavan hammaslääkärin tai suuhygienistin toimiluvan,</p>
-      <p type="listitem">asettaa koeajan, mikä merkitsee sitä, että hammaslääkärin tai suuhygienistin on oltava valvonnan alaisina kolmen vuoden ajan, minä aikana laaditaan erityissuunnitelma</p>
-      <p type="listitem">rajoittaa hammaslääkärin oikeutta määrätä lääkkeitä tai peruuttaa se.</p>
-    </list>
-    <p>Sosiaalihallitus ja HSAN eivät ota kantaa siihen, voiko potilas saada korvausta. Jos potilas on sitä mieltä, että hänelle on aiheutunut vahinkoa hoidosta, hänen on anottava taloudellista korvausta Potilasvakuutus LÖF:stä.</p>
-    <p>Ilmoitus Sosiaalihallitukseen voidaan tehdä myös silloin kun on kysymyksessä laaja-alainen valitus. Voi olla kysymys esimerkiksi jotain organisaatiota vastaan kohdistetusta kritiikistä tai yleisistä puutteista potilasturvallisuudessa. Valitukset on laadittava avoimesti ja totuudenmukaisesti eikä laatijan tarvitse itse tietää, kuka on tehnyt jonkin virheen tai mikä ei ole toiminut hyvin.</p>
-    <p>Sosiaalihallituksen puoleen potilaan tulee kääntyä myös silloin kun hän haluaa, että hänen potilastiedoistaan poistetaan jotain.</p>
-    <p>Julkinen hammashuolto tai yksityinen vastaanotto on velvollinen ilmoittautumaan Sosiaalihallitukselle, jos sattuu vahinko tai joku on vaarassa saada vakavan henkilövahingon hammashoidon yhteydessä. Se tehdään Lex Marian mukaisesti.</p>
-    <p type="title">Korvausmahdollisuudet</p>
-    <p type="title">Voit saada korvausta, jos sinulle aiheutuu vahinkoa</p>
-    <p>Jos sinulle aiheutuu hammashoidon yhteydessä vahinkoa, voit joskus olla oikeutettu taloudelliseen korvaukseen potilasvakuutuksesta, joka on oltava kaikilla hammashoitoa antavilla vastaanotoilla. Sillä ei ole mitään merkitystä, onko vahinko tapahtunut julkisessa vai yksityisessä hammashoidossa. Korvausta voi saada myös jos vahinko on tapahtunut esimerkiksi erehdyksen johdosta, laitteiden rikkoutumisen vuoksi tai että se on virheellisen diagnoosin aiheuttama.</p>
-    <p>Muutamia esimerkkejä siitä, milloin potilasvakuutuksesta (Patienförsäkringen) voi saada korvausta:</p>
-    <list>
-      <p type="listitem">Hammaslääkäri ei ole diagnostisoinut eikä hoitanut hampaan kiinnityskudossairautta, parodontiittia, siitä huolimatta, että purenta on säännöllisesti tutkittu, mikä on johtanut hampaan tai hampaiden irtoamiseen.</p>
-      <p type="listitem">Väärä hammas on paikattu tai poistettu.</p>
-      <p type="listitem">Potilaalle on aiheutunut potilasvahinko sen johdosta, että klinikan laitteisto rikkoutuu.</p>
-    </list>
-    <p>Annettava korvaus voi koskea fyysistä ja psyykkistä kärsimystä, ylimääräisiä hammashoitokustannuksia ja matkakustannuksia, joita on syntynyt vahingon johdosta sekä menetettyä työtuloa.</p>
-    <p>Hammashoitoihin liittyy kuitenkin aina riski komplikaatioista, joita ei ole mahdollista välttää. Se, että hoito ei johda toivottuun tulokseen tai että hampaan poiston tai paikkauksen jälkeen voi olla ikävää särkyä, ovat esimerkiksi sellaista, mitä ei voida välttää. Niistä ei voi saada korvausta.</p>
-    <p>Esimerkkejä sellaisista tapauksista, joista ei saa korvausta:</p>
-    <list>
-      <p type="listitem">Jos on sitä mieltä, että lopputulos ei näytä hyvältä, esimerkiksi kruunujen ja siltojen tai täytteiden väri tai muoto on väärä.</p>
-      <p type="listitem">Jos on saanut hammasproteesin, joka ei istu tukevasti syödessä tai puhuessa.</p>
-      <p type="listitem">Jos täyte ei pysy ja hammaslääkärillä on käytävä useita kertoja sen kiinnittämiseksi uudelleen.</p>
-    </list>
-    <p>Jos vahingosta tai kärsimyksestä ei saa korvausta, se riippuu useimmiten siitä, että sitä ei ole voitu välttää.</p>
-    <p>Potilas tekee ilmoituksen itse Potilasvakuutus LÖF -vakuutuslaitokseen. Ilmoituksen voi tehdä myös omainen tai joku läheinen, jos potilas itse ei voi sitä tehdä.</p>
-    <p>Ilmoitus on tehtävä kolmen vuoden sisällä siitä kun on saanut tiedon siitä, että voi anoa taloudellista korvausta vahingosta. Vakuutuslaitoksella on myös oltava mahdollisuus arvioida, että vahinko on syntynyt. Sen vakuutusyhtiö tekee vahingon tutkineelta hammaslääkäriltä saamiensa potilaskertomuksien ja röntgenkuvien avulla.</p>
-    <p type="title">Julkisessa hammashoidossa tapahtunut vahinko</p>
-    <p>Jos haluat ilmoittaa vahingosta. joka on syntynyt julkisen hammashoidon yhteydessä, voit tehdä sen maakäräjien yhteiseen vakuutuslaitokseen, Potilasvakuutus LÖF:iin (Patientförsäkringen LÖF). LÖF:n verkkopalvelussa on lomakkeita, jotka täytetään ilmoitusta tehtäessä, ja sieltä voit lukea lisää siitä, millä ehdoilla korvausta voi saada. Potilaslautakunnasta voi myös saada tietoa ja apua ilmoituksen teossa.</p>
-    <p>Jos olet tyytymätön Potilasvakuutuksen päätökseen, voit valittaa Potilasvahinkolautakunnalle (Patientskadenämnden). Lisätietoja Potilasvahinkolautakunnasta löytyy Potilasvakuutus LÖF:n verkkopalvelusta.</p>
-    <p type="title">Yksityisvastaanotolla tapahtunut vahinko</p>
-    <p>Jos hammaslääkäri on Privattandläkarna-järjestön jäsen, voit kääntyä sen puoleen tehdäksesi ilmoituksen. Tämä koskee myös sellaista vahinkoa, joka on sattunut sellaisen suuhygienistin ja hammashoitajan vastaanotolla, joka työskentelee Privattandläkarna-järjestöön kuuluvan hammaslääkärin vastaanotolla. Privattandläkarna-järjestön kotisivulla on lisätietoja siitä, kenen puoleen kääntyä.</p>
-    <p>Jos hammaslääkäri ei ole Privattandläkarna-järjestön jäsen, on otettava selvää, mihin vakuutuslaitokseen ilmoitus lähetetään. Yksinkertaisinta on kysyä hammaslääkäriltä, mutta potilas voi myös kääntyä Potilasvakuutusyhdistyksen (Patientförsäkringsföreningen, PFF) puoleen ja kysyä, mihin ilmoitus jätetään. Tämä koskee myös yksityisellä suuhygienistillä käyntiä.</p>
-    <p type="title">Lääkkeiden aiheuttama potilasvahinko hammashoidon yhteydessä</p>
-    <p>Jos olet saanut odottamattomia sivuvaikutuksia tai vahinkoa lääkkeestä hammashoidon yhteydessä, sinulla on oikeus korvaukseen lääkevakuutuksesta (Läkemedelsförsäkringen). Lääkevakuutus on vakuutus, joka on kaikilla lääkevalmistajilla ja maahantuojilla Ruotsissa. Ilmoitus on tehtävä lääkevakuutukseen kolmen vuoden sisällä siitä, kun potilas on huomannut, että vahinko on todennäköisesti aiheutunut lääkkeestä.</p>
-    <p type="title">Jos olet tyytymätön ulkomailla tehtyyn hammashoitoon</p>
-    <p type="title">Et voi tehdä ilmoitusta Ruotsissa</p>
-    <p>Jos kohdallesi on osunut hoitovirhe tai hoitovahinko tai olet tyytymätön ulkomailla tehtyyn hammashoitoon, et voi tehdä siitä ilmoitusta Ruotsissa. Sen sijaan ilmoitus on tehtävä siinä maassa, jossa tutkimus tai hoito on tehty.</p>
-    <p>Vakuutussuoja on useimmiten huonompi muissa maissa ja mahdollisuudet saada apua ovat yleensä huonommat. Pohjoismaissa vakuutussuoja on kuitenkin samantapainen kuin Ruotsissa.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1375</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Om-man-inte-ar-nljd-med-tandvarden</origFileName><parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="swe" location="om-man-ar-missnojd-med-tandvarden.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Jos olet tyytymätön hammashoitoon / Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Jos olet tyytymätön hammashoitoonOm man inte är nöjd med tandvården</p>
+<p type="title">Kenen puoleen käännyt?</p>
+<p type="title">On useampia eri tahoja, joiden puoleen voit kääntyä</p>
+<p>Jos haluat tehdä valituksen hammashoidosta, voit kääntyä useamman eri tahon puoleen. Minkä tahon puoleen käännyt, riippuu siitä, mihin olet tyytymätön ja missä asiassa haluat apua. Useimmissa tapauksissa valitukset ja mahdolliset väärinkäsitykset voidaan selvittää ottamalla yhteyttä hammashoidon tehneeseen henkilöön.</p>
+<p>Jos sopimukseen ei päästä tai jos kysymys on vääränlaisesta hoidosta tai vahingoista, voi olla tarpeen kääntyä jonkun toisen tahon, esimerkiksi maakäräjien potilaslautakuntien, yksityishammaslääkäreiden luottamuslautakuntien, Sosiaalihallituksen (Socialstyrelsen) tai Patientförsäkringen LÖF -vakuutusyhtiön puoleen.</p>
+<p>Riippumatta siitä, kenen puoleen käännyt, voi olla hyvä pyytää kirjallinen vastaus väärinkäsitysten välttämiseksi.</p>
+<p type="title">Valitus suoraan hammashoitohenkilöstölle</p>
+<p>Ensisijaisesti valituksen voi esittää suoraan sille henkilölle, joka on tutkinut tai hoitanut sinua. Voi olla kysymys esimerkiksi siitä, että et ole tyytyväinen tehtyyn työhön, että sinua on kohdeltu huonosti tai olet sitä mieltä, että on joutunut maksamaan liikaa.</p>
+<p type="title">Jos sinua on hoidettu julkisessa hammashoidossa</p>
+<p>Jos et halua ottaa yhteyttä henkilöön, joka on hoitanut sinua tai jos sopimukseen ei päästä, voit kääntyä klinikan päällikön tai’ (muun vastuuhenkilön/)toiminnanjohtajan puoleen. Voit ottaa yhteyttä myös maakäräjien/seutukuntien julkisen hammashoidon päällikköön tai maakäräjäkunnan/alueen johonkin toiseen henkilöön, joka vastaa julkisesta hammashoidosta.</p>
+<p>Kaikilla maakäräjäkunnilla tai seutukunnilla on myös niin kutsutut potilaslautakunnat (patientnämnd), joita kutsutaan joskus myös luottamuslautakunniksi (förtroendenämnd). Potilaslautakunnat ottavat vastaan mm. kohtelua, diagnoosia, lääkitystä, hoitoa, maksuja ja salassapitovelvollisuuteen liittyviä kysymyksiä koskevia valituksia ja muistutuksia. Lautakunnassa on poliitikkoja mutta virkamiehet käsittelevät valitukset. Potilaslautakunnan poliitikoilla ja virkamiehillä on vaitiolovelvollisuus.</p>
+<p>Potilaslautakunnat antavat ohjeita ja tukea henkilölle, joka tekee valituksen julkisesta hammashoidosta tai maakäräjien tai seutukunnan kokonaan tai osittain maksamasta hoidosta.</p>
+<p>Potilaslautakunnasta saa tietoa myös siitä, mihin voi kääntyä erityyppisissä asioissa.</p>
+<p>Potilaslautakunnan puoleen kääntyminen ei maksa mitään. Ei ole myöskään mitään aikarajaa sille, kuinka vanha asia voi olla.</p>
+<p type="title">Jos sinua on hoidettu yksityisellä vastaanotolla</p>
+<p>Jos et halua ottaa yhteyttä henkilöön, joka on hoitanut sinua tai jos sopimukseen ei päästä, voit kääntyä vastaanoton päällikön tai muun vastuuhenkilön puoleen.</p>
+<p>Jos olet käynyt yksityishammaslääkärillä, joka on Privattandläkarna-järjestön jäsen, voit kääntyä myös jonkin tähän organisaatioon kuuluvan luottamuslautakunnan puoleen. Voit kääntyä luottamuslautakunnan puoleen myös, jos olet käynyt hammashoitajalla tai suuhygienistillä, joka työskentelee Privattandläkarna-järjestöön kuuluvan hammaslääkärin vastaanotolla.</p>
+<p>Järjestön luottamuslautakuntia on maassa useilla eri paikkakunnilla ja ne tekevät ehdotuksia siitä, kuinka potilas voi päästä sopimukseen hammaslääkärinsä kanssa. Jos yksityishammaslääkäri ei noudattaisi heidän suositustaan, hän ei voi kuulua Privattandläkarna-järjestöön. Luottamuslautakunnat eivät normaalisti selvitä tapahtumia, jotka ovat kahta vuotta vanhempia.</p>
+<p>Oikeaan lautakuntaan saa yhteyden soittamalla Privattandvårdsupplysningen-neuvontaan. Jos et ole tyytyväinen luottamuslautakunnan päätökseen, voit valittaa yksityishammaslääkärien keskeiseen luottamuslautakuntaan (Privattandläkarnas centrala förtroendenämnd).</p>
+<p>Yksityishammaslääkärien verkkopalvelusta voit saada tietoa siitä, kenen puoleen kääntyä, jos halut tehdä valituksen. Siellä voi myös tehdä haun sen selvittämiseksi, kuuluuko hammaslääkäri Privattandläkarna-järjestöön.</p>
+<p>Jos hammaslääkäri ei ole liittynyt Privattandläkarna-järjestöön, et voi kääntyä luottamuslautakuntien puoleen. Sen sijaan voit ajaa asiaa oikeudessa, mutta silloin sinun on oltava tietoinen riskistä joutua maksamaan sekä omat että vastapuolen oikeuskulut, jos häviää.</p>
+<p>Voit kääntyä maakäräjien potilaslautakunnan puoleen myös silloin kun olet ollut sellaisen yksityishammaslääkärin hoidossa, jonka vastaanoton toimintaa maakäräjät rahoittaa kokonaan tai osittain. Voi olla kysymys esimerkiksi lasten tai nuoren hammashoitoa antavasta vastaanotosta.</p>
+<p>Potilaslautakunnan puoleen käännytään myös sellaisessa hammashoidossa, jota harjoitetaan yksityisesti mutta jossa hammaslääkärillä tai suuhygienistillä on maakäräjien kanssa sopimus hammashoidosta osana sairauden hoitoa rajoitettuna aikana.</p>
+<p type="title">Jos olet sitä mieltä, että on tapahtunut virhe</p>
+<p>Sosiaalihallitukseen voi ilmoittaa tapahtuman tai henkilön, jolta on saanut hoitoa. Sillä ei ole mitään merkitystä, työskenteleekö henkilö julkisessa hammashuollossa vai onko hänellä yksityisvastaanotto.</p>
+<p>Ilmoitus on tehtävä kahden vuoden sisällä hoidosta ja sen on oltava kirjallinen. Ensisijaisesti ilmoituksen tekee potilas itse, mutta myös omaiset ja läheiset voivat tehdä ilmoituksen, jos potilas itse ei voi tehdä sitä itse.</p>
+<p>Sekä ilmoitus Sosiaalihallitukseen että Sosiaalihallituksen päätös ovat julkisia asiakirjoja, jotka kaikki halukkaat voivat lukea. Sen sijaan potilastiedot ja muut vastaavat selvitykseen liittyvät asiakirjat ovat salassapitovelvollisuuden alaisia..</p>
+<p>Sosiaalihallitus voi kohdistaa arvostelua hammashoitohenkilöstöä kohtaan ja se voi myös tehdä ilmoituksen henkilöistä Terveyden- ja sairaanhoidon vastuulautakuntaan (Hälso- och sjukvårdens ansvarsnämnd, HSAN). Näin on tehtävä. jos se on tarpeen riskialttiiden rutiinien ja työtapojen pysäyttämiseksi.</p>
+<p>HSAN voi arvioida ja päättää</p>
+<list><p type="listitem">peruuttaa huonosti työnsä hoitavan hammaslääkärin tai suuhygienistin toimiluvan,</p>
+<p type="listitem">asettaa koeajan, mikä merkitsee sitä, että hammaslääkärin tai suuhygienistin on oltava valvonnan alaisina kolmen vuoden ajan, minä aikana laaditaan erityissuunnitelma</p>
+<p type="listitem">rajoittaa hammaslääkärin oikeutta määrätä lääkkeitä tai peruuttaa se.</p>
+</list><p>Sosiaalihallitus ja HSAN eivät ota kantaa siihen, voiko potilas saada korvausta. Jos potilas on sitä mieltä, että hänelle on aiheutunut vahinkoa hoidosta, hänen on anottava taloudellista korvausta Potilasvakuutus LÖF:stä.</p>
+<p>Ilmoitus Sosiaalihallitukseen voidaan tehdä myös silloin kun on kysymyksessä laaja-alainen valitus. Voi olla kysymys esimerkiksi jotain organisaatiota vastaan kohdistetusta kritiikistä tai yleisistä puutteista potilasturvallisuudessa. Valitukset on laadittava avoimesti ja totuudenmukaisesti eikä laatijan tarvitse itse tietää, kuka on tehnyt jonkin virheen tai mikä ei ole toiminut hyvin.</p>
+<p>Sosiaalihallituksen puoleen potilaan tulee kääntyä myös silloin kun hän haluaa, että hänen potilastiedoistaan poistetaan jotain.</p>
+<p>Julkinen hammashuolto tai yksityinen vastaanotto on velvollinen ilmoittautumaan Sosiaalihallitukselle, jos sattuu vahinko tai joku on vaarassa saada vakavan henkilövahingon hammashoidon yhteydessä. Se tehdään Lex Marian mukaisesti.</p>
+<p type="title">Korvausmahdollisuudet</p>
+<p type="title">Voit saada korvausta, jos sinulle aiheutuu vahinkoa</p>
+<p>Jos sinulle aiheutuu hammashoidon yhteydessä vahinkoa, voit joskus olla oikeutettu taloudelliseen korvaukseen potilasvakuutuksesta, joka on oltava kaikilla hammashoitoa antavilla vastaanotoilla. Sillä ei ole mitään merkitystä, onko vahinko tapahtunut julkisessa vai yksityisessä hammashoidossa. Korvausta voi saada myös jos vahinko on tapahtunut esimerkiksi erehdyksen johdosta, laitteiden rikkoutumisen vuoksi tai että se on virheellisen diagnoosin aiheuttama.</p>
+<p>Muutamia esimerkkejä siitä, milloin potilasvakuutuksesta (Patienförsäkringen) voi saada korvausta:</p>
+<list><p type="listitem">Hammaslääkäri ei ole diagnostisoinut eikä hoitanut hampaan kiinnityskudossairautta, parodontiittia, siitä huolimatta, että purenta on säännöllisesti tutkittu, mikä on johtanut hampaan tai hampaiden irtoamiseen.</p>
+<p type="listitem">Väärä hammas on paikattu tai poistettu.</p>
+<p type="listitem">Potilaalle on aiheutunut potilasvahinko sen johdosta, että klinikan laitteisto rikkoutuu.</p>
+</list><p>Annettava korvaus voi koskea fyysistä ja psyykkistä kärsimystä, ylimääräisiä hammashoitokustannuksia ja matkakustannuksia, joita on syntynyt vahingon johdosta sekä menetettyä työtuloa.</p>
+<p>Hammashoitoihin liittyy kuitenkin aina riski komplikaatioista, joita ei ole mahdollista välttää. Se, että hoito ei johda toivottuun tulokseen tai että hampaan poiston tai paikkauksen jälkeen voi olla ikävää särkyä, ovat esimerkiksi sellaista, mitä ei voida välttää. Niistä ei voi saada korvausta.</p>
+<p>Esimerkkejä sellaisista tapauksista, joista ei saa korvausta:</p>
+<list><p type="listitem">Jos on sitä mieltä, että lopputulos ei näytä hyvältä, esimerkiksi kruunujen ja siltojen tai täytteiden väri tai muoto on väärä.</p>
+<p type="listitem">Jos on saanut hammasproteesin, joka ei istu tukevasti syödessä tai puhuessa.</p>
+<p type="listitem">Jos täyte ei pysy ja hammaslääkärillä on käytävä useita kertoja sen kiinnittämiseksi uudelleen.</p>
+</list><p>Jos vahingosta tai kärsimyksestä ei saa korvausta, se riippuu useimmiten siitä, että sitä ei ole voitu välttää.</p>
+<p>Potilas tekee ilmoituksen itse Potilasvakuutus LÖF -vakuutuslaitokseen. Ilmoituksen voi tehdä myös omainen tai joku läheinen, jos potilas itse ei voi sitä tehdä.</p>
+<p>Ilmoitus on tehtävä kolmen vuoden sisällä siitä kun on saanut tiedon siitä, että voi anoa taloudellista korvausta vahingosta. Vakuutuslaitoksella on myös oltava mahdollisuus arvioida, että vahinko on syntynyt. Sen vakuutusyhtiö tekee vahingon tutkineelta hammaslääkäriltä saamiensa potilaskertomuksien ja röntgenkuvien avulla.</p>
+<p type="title">Julkisessa hammashoidossa tapahtunut vahinko</p>
+<p>Jos haluat ilmoittaa vahingosta. joka on syntynyt julkisen hammashoidon yhteydessä, voit tehdä sen maakäräjien yhteiseen vakuutuslaitokseen, Potilasvakuutus LÖF:iin (Patientförsäkringen LÖF). LÖF:n verkkopalvelussa on lomakkeita, jotka täytetään ilmoitusta tehtäessä, ja sieltä voit lukea lisää siitä, millä ehdoilla korvausta voi saada. Potilaslautakunnasta voi myös saada tietoa ja apua ilmoituksen teossa.</p>
+<p>Jos olet tyytymätön Potilasvakuutuksen päätökseen, voit valittaa Potilasvahinkolautakunnalle (Patientskadenämnden). Lisätietoja Potilasvahinkolautakunnasta löytyy Potilasvakuutus LÖF:n verkkopalvelusta.</p>
+<p type="title">Yksityisvastaanotolla tapahtunut vahinko</p>
+<p>Jos hammaslääkäri on Privattandläkarna-järjestön jäsen, voit kääntyä sen puoleen tehdäksesi ilmoituksen. Tämä koskee myös sellaista vahinkoa, joka on sattunut sellaisen suuhygienistin ja hammashoitajan vastaanotolla, joka työskentelee Privattandläkarna-järjestöön kuuluvan hammaslääkärin vastaanotolla. Privattandläkarna-järjestön kotisivulla on lisätietoja siitä, kenen puoleen kääntyä.</p>
+<p>Jos hammaslääkäri ei ole Privattandläkarna-järjestön jäsen, on otettava selvää, mihin vakuutuslaitokseen ilmoitus lähetetään. Yksinkertaisinta on kysyä hammaslääkäriltä, mutta potilas voi myös kääntyä Potilasvakuutusyhdistyksen (Patientförsäkringsföreningen, PFF) puoleen ja kysyä, mihin ilmoitus jätetään. Tämä koskee myös yksityisellä suuhygienistillä käyntiä.</p>
+<p type="title">Lääkkeiden aiheuttama potilasvahinko hammashoidon yhteydessä</p>
+<p>Jos olet saanut odottamattomia sivuvaikutuksia tai vahinkoa lääkkeestä hammashoidon yhteydessä, sinulla on oikeus korvaukseen lääkevakuutuksesta (Läkemedelsförsäkringen). Lääkevakuutus on vakuutus, joka on kaikilla lääkevalmistajilla ja maahantuojilla Ruotsissa. Ilmoitus on tehtävä lääkevakuutukseen kolmen vuoden sisällä siitä, kun potilas on huomannut, että vahinko on todennäköisesti aiheutunut lääkkeestä.</p>
+<p type="title">Jos olet tyytymätön ulkomailla tehtyyn hammashoitoon</p>
+<p type="title">Et voi tehdä ilmoitusta Ruotsissa</p>
+<p>Jos kohdallesi on osunut hoitovirhe tai hoitovahinko tai olet tyytymätön ulkomailla tehtyyn hammashoitoon, et voi tehdä siitä ilmoitusta Ruotsissa. Sen sijaan ilmoitus on tehtävä siinä maassa, jossa tutkimus tai hoito on tehty.</p>
+<p>Vakuutussuoja on useimmiten huonompi muissa maissa ja mahdollisuudet saada apua ovat yleensä huonommat. Pohjoismaissa vakuutussuoja on kuitenkin samantapainen kuin Ruotsissa.</p>
+</body></document>

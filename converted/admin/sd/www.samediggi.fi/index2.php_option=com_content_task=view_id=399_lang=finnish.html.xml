@@ -1,39 +1,14 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Saamelaisarkisto</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>58</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=399&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=399_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=399_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=399_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=399_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Saamelaisarkisto</p>
-    <p>Saamelaisarkisto toimii saamelaiskulttuurikeskus Sajoksessa. Arkisto on osa Suomen Kansallisarkistoa.</p>
-    <p>Saamelaisarkiston tehtävänä on</p>
-    <p type="listitem">tukea ja edistää saamelaisia koskevaa tieteellistä tutkimusta</p>
-    <p type="listitem">vahvistaa saamelaiskulttuuria ja lisätä saamelaisia koskevaa historiatietoa</p>
-    <p type="listitem">huolehtia saamelaisia ja saamelaisaluetta koskevien asiakirjojen digitoinnista</p>
-    <p type="listitem">tuoda asiakirjat asiakkaiden saataville arkistolaitoksen verkkopalvelujen kautta.</p>
-    <p>Tutustu Saamelaisarkiston kotisivuihin .</p>
-    <p><em type="italic">Lisätietoja: </em>Saamelaisarkisto </p>
-    <p>arkistonhoitajana ajalla 1.8.2014-17.8.2015</p>
-    <p>toimii Inker-Anni Linkola</p>
-    <p>puh. 029 533 7042</p>
-    <p>sähköposti:</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saamelaisarkisto</title><genre code="admin"/><author><unknown/></author><wordcount>58</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=399&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=399_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=399_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=399_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=399_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Saamelaisarkisto</p>
+<p>Saamelaisarkisto toimii saamelaiskulttuurikeskus Sajoksessa. Arkisto on osa Suomen Kansallisarkistoa.</p>
+<p>Saamelaisarkiston tehtävänä on</p>
+<p type="listitem">tukea ja edistää saamelaisia koskevaa tieteellistä tutkimusta</p>
+<p type="listitem">vahvistaa saamelaiskulttuuria ja lisätä saamelaisia koskevaa historiatietoa</p>
+<p type="listitem">huolehtia saamelaisia ja saamelaisaluetta koskevien asiakirjojen digitoinnista</p>
+<p type="listitem">tuoda asiakirjat asiakkaiden saataville arkistolaitoksen verkkopalvelujen kautta.</p>
+<p>Tutustu Saamelaisarkiston kotisivuihin .</p>
+<p><em type="italic">Lisätietoja: </em>Saamelaisarkisto </p>
+<p>arkistonhoitajana ajalla 1.8.2014-17.8.2015</p>
+<p>toimii Inker-Anni Linkola</p>
+<p>puh. 029 533 7042</p>
+<p>sähköposti:</p>
+</body></document>

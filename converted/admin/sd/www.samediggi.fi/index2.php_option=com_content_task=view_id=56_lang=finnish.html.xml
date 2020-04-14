@@ -1,77 +1,37 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Koulutus- ja oppimateriaalitoimisto</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>165</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=56&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=56_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=56_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=56_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=56_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Koulutus- ja oppimateriaalitoimisto</p>
-    <p>Toimiston vakinaiset työntekijät:</p>
-    <p>
-      <em type="italic">Koulutussihteeri </em>
-    </p>
-    <p>Aikio-Puoskari Ulla (vv. 1.10.-31.12.2015)</p>
-    <p>
-      <em type="italic">Vs. koulutussihteeri 1.10.-31.12.2015 </em>
-    </p>
-    <p>Irmeli Moilanen</p>
-    <p>Puh. 010 839 3188</p>
-    <p>- toimiston esimies,</p>
-    <p>- koulutuksen lainsäädännön, hallinnon, rahoituskehityksen, arvioinnin, opetussuunnitelmanormien ja saamelaisopetuksen kehityksen seuranta,</p>
-    <p>- koulutus- ja oppimateriaalilautakunnan sihteeri ja esittelijä (koulutuspoliittiset ja yleiset koulutusasiat),</p>
-    <p>- saamelaisten koulutusasiain yhteistyöelimen sihteeri ja esittelijä,</p>
-    <p>- yhteydenpito saamelaisopetusta järjestäviin kuntiin, valtion opetushallintoon ja pohjoismaisiin sisarelimiin,</p>
-    <p>- kansainvälisen kehityksen seuranta.</p>
-    <p>
-      <em type="italic">Oppimateriaalisihteeri </em>
-    </p>
-    <p>Kangasniemi Hannu</p>
-    <p>- koulutus- ja oppimateriaalilautakunnan sihteeri ja esittelijä (oppimateriaaliasiat),</p>
-    <p>- oppimateriaalityön suunnittelu, ohjaus, valvonta ja toimitustyö,</p>
-    <p>- oppimateriaalin valmistukseen liittyvä yhteydenpito kouluihin ja opetuksen hallintoon ,</p>
-    <p>- pohjoismainen yhteistyö.</p>
-    <p>
-      <em type="italic">Oppimateriaalisuunnittelija </em>
-    </p>
-    <p>Näkkäläjärvi Anni</p>
-    <p>- oppimateriaalin suunnittelu-, toimitus- ja tiedotustyö,</p>
-    <p>- Saamelaisnuorten taidetapahtuman valmistelu, tiedotus, raportointi ja varainkäyttö,</p>
-    <p>- oppimateriaalin valmistukseen liittyvä yhteydenpito kouluihin ja pohjoismainen yhteistyö,</p>
-    <p>- oppimateriaalinäyttelyn ja –varaston ylläpito.</p>
-    <p>
-      <em type="italic">Toimistosihteeri </em>
-    </p>
-    <p>Ritva Tammela</p>
-    <p>- arkiston ja kirjaston ylläpito,</p>
-    <p>- oppimateriaalivarojen käytön seuranta,</p>
-    <p>- oppimateriaalin tiedotustyö, varastointi ja jakelu,</p>
-    <p>- kokousten käytännön järjestelyt.</p>
-    <p>
-      <em type="italic">Oppimateriaalin projektityöntekijät </em>
-    </p>
-    <p>Elen-Anne Sara , pohjoissaame</p>
-    <p>Oona Länsman, pohjoissaame</p>
-    <p>Miina Seurujärvi, inarinsaame</p>
-    <p>Neeta Jääskö, inarinsaame</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Koulutus- ja oppimateriaalitoimisto</title><genre code="admin"/><author><unknown/></author><wordcount>165</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=56&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=56_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=56_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=56_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=56_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Koulutus- ja oppimateriaalitoimisto</p>
+<p>Toimiston vakinaiset työntekijät:</p>
+<p><em type="italic">Koulutussihteeri </em></p>
+<p>Aikio-Puoskari Ulla (vv. 1.10.-31.12.2015)</p>
+<p><em type="italic">Vs. koulutussihteeri 1.10.-31.12.2015 </em></p>
+<p>Irmeli Moilanen</p>
+<p>Puh. 010 839 3188</p>
+<p>- toimiston esimies,</p>
+<p>- koulutuksen lainsäädännön, hallinnon, rahoituskehityksen, arvioinnin, opetussuunnitelmanormien ja saamelaisopetuksen kehityksen seuranta,</p>
+<p>- koulutus- ja oppimateriaalilautakunnan sihteeri ja esittelijä (koulutuspoliittiset ja yleiset koulutusasiat),</p>
+<p>- saamelaisten koulutusasiain yhteistyöelimen sihteeri ja esittelijä,</p>
+<p>- yhteydenpito saamelaisopetusta järjestäviin kuntiin, valtion opetushallintoon ja pohjoismaisiin sisarelimiin,</p>
+<p>- kansainvälisen kehityksen seuranta.</p>
+<p><em type="italic">Oppimateriaalisihteeri </em></p>
+<p>Kangasniemi Hannu</p>
+<p>- koulutus- ja oppimateriaalilautakunnan sihteeri ja esittelijä (oppimateriaaliasiat),</p>
+<p>- oppimateriaalityön suunnittelu, ohjaus, valvonta ja toimitustyö,</p>
+<p>- oppimateriaalin valmistukseen liittyvä yhteydenpito kouluihin ja opetuksen hallintoon ,</p>
+<p>- pohjoismainen yhteistyö.</p>
+<p><em type="italic">Oppimateriaalisuunnittelija </em></p>
+<p>Näkkäläjärvi Anni</p>
+<p>- oppimateriaalin suunnittelu-, toimitus- ja tiedotustyö,</p>
+<p>- Saamelaisnuorten taidetapahtuman valmistelu, tiedotus, raportointi ja varainkäyttö,</p>
+<p>- oppimateriaalin valmistukseen liittyvä yhteydenpito kouluihin ja pohjoismainen yhteistyö,</p>
+<p>- oppimateriaalinäyttelyn ja –varaston ylläpito.</p>
+<p><em type="italic">Toimistosihteeri </em></p>
+<p>Ritva Tammela</p>
+<p>- arkiston ja kirjaston ylläpito,</p>
+<p>- oppimateriaalivarojen käytön seuranta,</p>
+<p>- oppimateriaalin tiedotustyö, varastointi ja jakelu,</p>
+<p>- kokousten käytännön järjestelyt.</p>
+<p><em type="italic">Oppimateriaalin projektityöntekijät </em></p>
+<p>Elen-Anne Sara , pohjoissaame</p>
+<p>Oona Länsman, pohjoissaame</p>
+<p>Miina Seurujärvi, inarinsaame</p>
+<p>Neeta Jääskö, inarinsaame</p>
+</body></document>

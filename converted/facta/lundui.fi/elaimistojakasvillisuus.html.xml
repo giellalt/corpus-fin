@@ -1,108 +1,72 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Inarin eläimistö ja kasvillisuus - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>317</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/inari/luonto/elaimistojakasvillisuus</origFileName>
-    <parallel_text xml:lang="eng" location="theanimalsandplantsofinarihikingarea_inheritredirect=true.html"/>
-    <parallel_text xml:lang="sme" location="anaravanddardanguovllueallitjasattut.html"/>
-    <parallel_text xml:lang="smn" location="aanaarvandardemkuavluelleevaljejasadolasvuota.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Inari</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja julkaisut</p>
-      <p type="listitem">Luonto <list><p type="listitem">Eläimistö ja kasvillisuus</p></list> </p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Evo</p>
-      <p type="listitem">Inari</p>
-      <p type="listitem">Iso-Syöte</p>
-      <p type="listitem">Kylmäluoma</p>
-      <p type="listitem">Napapiiri</p>
-      <p type="listitem">Oulujärvi</p>
-      <p type="listitem">Ruunaa</p>
-    </list>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja julkaisut</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <list>
-      <p type="listitem">Eläimistö ja kasvillisuus</p>
-    </list>
-    <p>Inarin sivut</p>
-    <p type="title">Inari</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja julkaisut</p>
-      <p type="listitem">Luonto <list><p type="listitem">Eläimistö ja kasvillisuus</p></list> </p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-    </list>
-    <p type="title">Inarin eläimistö ja kasvillisuus</p>
-    <p type="title">Eläimistö</p>
-    <p>Inarijärvessä elelee luontaisesti 10 kalalajia: siika, taimen, nieriä, harjus, ahven, hauki, made, kolmipiikki, kymmenpiikki ja mutu. Istutettuja ovat harmaanieriä, muikku ja järvilohi. Järven pesimälinnusto edustaa tyypillistä karun järven lajistoa. Järvellä tavataan myös Jäämeren lajeja, kuten merimetsoa. Matkailijan kannalta Inarijärvi on miellyttävää retkeilymaastoa etenkin kesällä, sillä sääsket ja mäkärät viihtyvät järven tuulisilla saarilla huonommin kuin mantereella.</p>
-    <p>Inarijärven alueen mäntymetsät tarjoavat karun ja kivikkoisen elinympäristön. Metsissä voi tavata metson, riekon, taviokuurnan tai ampuhaukan. Järvillä pesivät tavi, kuikka, heinäsorsa ja tukkakoskelo.</p>
-    <p>Juutuanjoen sulat houkuttavat talvella paikalle koskikaran, ja kesällä sen paikoin rehevät rannat tarjoavat pesimäpaikan inarilaisittain erittäin runsaslajiselle linnustolle. Siellä voi nähdä edellisten lisäksi haapanan, uivelon, piekanan ja kalasääsken. Juutuan lehtevillä rannoilla viihtyy myös hirvi.</p>
-    <p type="title">Kasvillisuus</p>
-    <p>Erämaisen Inarijärven maaperän karuus ja ilmaston ankaruus näkyvät kasvillisuudessa. Rantametsät ovat tuulenpieksämiä männiköitä ja koivikoita, ja kenttäkerrosta hallitsevat kuivuutta kestävät varvut, kuten suopursu, variksenmarja, puolukka ja juolukka.</p>
-    <p>Juutuan kivikkoiset männiköt tarjoavat harvoja hyviä kasvupaikkoja kasveille. Paikoin kulkija voi kuitenkin yllättyä huomatessaan tulleensa epätavallisen rehevään paikkaan. Esimerkiksi Juutuanjoen rannoilla voi tavata lapinesikon, luhtakuusion tai kaarlenvaltikan. Haapalehto erottuu ympäristöstään vielä erityisen rehevänä. Siellä kasvavat mm. tesma, mesimarja ja nuokkutalvikki.</p>
-    <p>Otsamotunturin laki ulottuu metsänrajan yläpuolelle. Metsänrajaa lähestyttäessä männiköt muuttuvat tunturikoivikoiksi ja vihdoin puuttomaksi paljakaksi. Otsamotunturin erikoisuutena on harvinainen idänkeulankärki. Tunturin laella tapaa muitakin tunturikasveja. Näitä tunturipaljakan kasveja ovat sielikkö, uuvana, kurjenkanerva, vaivaispaju ja riekonmarja.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Inarin eläimistö ja kasvillisuus - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>317</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/inari/luonto/elaimistojakasvillisuus</origFileName><parallel_text xml:lang="eng" location="theanimalsandplantsofinarihikingarea_inheritredirect=true.html"/><parallel_text xml:lang="sme" location="anaravanddardanguovllueallitjasattut.html"/><parallel_text xml:lang="smn" location="aanaarvandardemkuavluelleevaljejasadolasvuota.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Inari</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja julkaisut</p>
+<p type="listitem">Luonto <list><p type="listitem">Eläimistö ja kasvillisuus</p>
+</list> </p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Evo</p>
+<p type="listitem">Inari</p>
+<p type="listitem">Iso-Syöte</p>
+<p type="listitem">Kylmäluoma</p>
+<p type="listitem">Napapiiri</p>
+<p type="listitem">Oulujärvi</p>
+<p type="listitem">Ruunaa</p>
+</list><list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja julkaisut</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><list><p type="listitem">Eläimistö ja kasvillisuus</p>
+</list><p>Inarin sivut</p>
+<p type="title">Inari</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja julkaisut</p>
+<p type="listitem">Luonto <list><p type="listitem">Eläimistö ja kasvillisuus</p>
+</list> </p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+</list><p type="title">Inarin eläimistö ja kasvillisuus</p>
+<p type="title">Eläimistö</p>
+<p>Inarijärvessä elelee luontaisesti 10 kalalajia: siika, taimen, nieriä, harjus, ahven, hauki, made, kolmipiikki, kymmenpiikki ja mutu. Istutettuja ovat harmaanieriä, muikku ja järvilohi. Järven pesimälinnusto edustaa tyypillistä karun järven lajistoa. Järvellä tavataan myös Jäämeren lajeja, kuten merimetsoa. Matkailijan kannalta Inarijärvi on miellyttävää retkeilymaastoa etenkin kesällä, sillä sääsket ja mäkärät viihtyvät järven tuulisilla saarilla huonommin kuin mantereella.</p>
+<p>Inarijärven alueen mäntymetsät tarjoavat karun ja kivikkoisen elinympäristön. Metsissä voi tavata metson, riekon, taviokuurnan tai ampuhaukan. Järvillä pesivät tavi, kuikka, heinäsorsa ja tukkakoskelo.</p>
+<p>Juutuanjoen sulat houkuttavat talvella paikalle koskikaran, ja kesällä sen paikoin rehevät rannat tarjoavat pesimäpaikan inarilaisittain erittäin runsaslajiselle linnustolle. Siellä voi nähdä edellisten lisäksi haapanan, uivelon, piekanan ja kalasääsken. Juutuan lehtevillä rannoilla viihtyy myös hirvi.</p>
+<p type="title">Kasvillisuus</p>
+<p>Erämaisen Inarijärven maaperän karuus ja ilmaston ankaruus näkyvät kasvillisuudessa. Rantametsät ovat tuulenpieksämiä männiköitä ja koivikoita, ja kenttäkerrosta hallitsevat kuivuutta kestävät varvut, kuten suopursu, variksenmarja, puolukka ja juolukka.</p>
+<p>Juutuan kivikkoiset männiköt tarjoavat harvoja hyviä kasvupaikkoja kasveille. Paikoin kulkija voi kuitenkin yllättyä huomatessaan tulleensa epätavallisen rehevään paikkaan. Esimerkiksi Juutuanjoen rannoilla voi tavata lapinesikon, luhtakuusion tai kaarlenvaltikan. Haapalehto erottuu ympäristöstään vielä erityisen rehevänä. Siellä kasvavat mm. tesma, mesimarja ja nuokkutalvikki.</p>
+<p>Otsamotunturin laki ulottuu metsänrajan yläpuolelle. Metsänrajaa lähestyttäessä männiköt muuttuvat tunturikoivikoiksi ja vihdoin puuttomaksi paljakaksi. Otsamotunturin erikoisuutena on harvinainen idänkeulankärki. Tunturin laella tapaa muitakin tunturikasveja. Näitä tunturipaljakan kasveja ovat sielikkö, uuvana, kurjenkanerva, vaivaispaju ja riekonmarja.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

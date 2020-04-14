@@ -1,227 +1,150 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Ympäristöterveys - Aluehallintovirasto</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1073</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.avi.fi/web/avi/ymparistoterveys#.WR64gMYvHNQ</origFileName>
-    <parallel_text xml:lang="eng" location="ymparistoterveys_.wr65x8yvhnq.html"/>
-    <parallel_text xml:lang="sme" location="palvelut_.wr64gsyvhnq.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>› Graafinen versio</p>
-    <p xml:lang="fkv">Henkilöhaku</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Elintarvikkeet</p>
-      <p type="listitem">Eläinten terveys ja hyvinvointi</p>
-      <p type="listitem">Kuluttajapalvelut ja kulutustavarat</p>
-      <p type="listitem">Terveydensuojelu</p>
-      <p type="listitem" xml:lang="fkv">Tupakka</p>
-    </list>
-    <p xml:lang="koi">2016-02-08</p>
-    <p>Aluehallintovirasto (AVI) on ympäristöterveydenhuollon alueellinen valvontaviranomainen. Viraston tavoitteena on turvallisen elinympäristön sekä laadukkaiden ja tasapuolisten ympäristöterveyspalvelujen turvaaminen väestölle ja toiminnanharjoittajille sekä eläinten hyvinvoinnin turvaaminen. AVI ohjaa ja arvioi ympäristöterveydenhuollon kunnallisten valvontayksiköiden toimintaa, valvoo itse sekä toimii eräiden lupien ja ilmoitusten käsittelijänä alueellaan. AVI käsittelee kunnallisten ympäristöterveydenhuollon viranomaisten toiminnasta tehdyt valitukset ja kantelut.</p>
-    <p xml:lang="sms">Lue lisää</p>
-    <p xml:lang="koi">2016-04-27</p>
-    <p type="title">Valvonnan tavoitteet</p>
-    <p>Ympäristöterveydenhuollon tehtävänä on suojata kansalaisia erilaisilta ympäristön vaaroilta. Tavoitteena on hyvälaatuinen talousvesi, terveellinen asuin- ja elinympäristö, turvalliset elintarvikkeet, terveet ja hyvinvoivat eläimet sekä toimiva eläinlääkintähuolto. Valvomalla ympäristöterveydenhuollon lakien noudattamista varmistetaan, että elinympäristöön vaikuttava toiminta on suunniteltua ja toimintaa harjoitetaan turvallisesti ja riskejä minimoiden.</p>
-    <p>Ympäristöterveydenhuoltoon kuuluvat seuraavat tehtäväkokonaisuudet:</p>
-    <list>
-      <p type="listitem" xml:lang="est">Elintarvikevalvonta</p>
-      <p type="listitem">Eläinten terveys ja hyvinvointi</p>
-      <p type="listitem">Terveydensuojeluvalvonta</p>
-      <p type="listitem">Tupakkalain valvonta</p>
-    </list>
-    <p type="title">Valvontaviranomaiset</p>
-    <p><em type="italic">Päävastuu ympäristöterveydenhuollon käytännön valvonnasta on kunnilla. </em>Valvontaviranomaisena toimii kunnissa jokin monijäseninen toimielin kuten esim. lautakunta. </p>
-    <p>Käytännön valvontaa hoitavat mm. eläinlääkärit, terveystarkastajat sekä terveys- ja ympäristöinsinöörit, joille lautakunta on delegoinut osittain päätösvaltaansa. Lainsäädäntö edellyttää kunnilta riittäviä valvontaresursseja ja valvontaa hoidetaankin yleensä yksittäistä kuntaa suuremmissa ympäristöterveydenhuollon valvontayksiköissä. Ne laativat toiminnastaan ympäristöterveydenhuollon valvontasuunnitelman ja valvontaa tehdään suunnitelmallisesti sekä valvontayksiköihin tehtyjen yhteydenottojen perusteella. <em type="italic">Kunnallisten terveystarkastajien ja eläinlääkäreiden yhteystiedot löytyvät kuntien internet-sivuilta. </em></p>
-    <p><em type="italic">AVI ohjaa </em>ympäristöterveydenhuollon kunnallisten valvontaviranomaisten toimintaa, arvioi ympäristöterveydenhuollon järjestämistä kunnissa sekä valvoo sen toteuttamista. Ohjauksella tuetaan kunnallisten valvontaviranomaisten osaamista antamalla tulkinta-apua ympäristöterveydenhuollon lakien noudattamisessa, järjestämällä työkokouksia ja koulutuksia sekä erillisiä arviointi- ja ohjauskäyntejä valvontayksiköihin. </p>
-    <p><em type="italic">AVI vastaa alueellisesti eläintautilain mukaisesta valmiudesta </em>ja kuntien ympäristöterveydenhuollon valmiussuunnittelun ohjauksesta sekä seuraa elintarvike- ja vesivälitteisiä epidemioita alueillaan. </p>
-    <p><em type="italic">AVI käsittelee kuntien ympäristöterveydenhuollon valvontaviranomaisen toiminnasta tehdyt kantelut sekä toimii eräiden ympäristöterveydenhuollon lupien ja ilmoitusten käsittelijänä </em>. Osa tehtävistä on keskitetty vain yhteen aluehallintovirastoon kuten poroteurastamojen hyväksyntä ja valvonta Lapin AVIin ja hautaamiseen liittyvät kysymykset Itä-Suomen AVIin. </p>
-    <p>Kukin AVI laatii vuosittain toiminnastaan ympäristöterveydenhuollon valvontasuunnitelman.</p>
-    <p>Siinä huomioidaan valtakunnallinen ympäristöterveydenhuollon valvontaohjelma elintarvikevalvonnan sekä eläinten terveyden ja hyvinvoinnin valvonnan osalta.</p>
-    <p>
-      <em type="italic">AVIssa ympäristöterveydenhuollon valvontaa tekevät ympäristöterveydenhuollon ylitarkastajat ja läänineläinlääkärit. </em>
-    </p>
-    <p><em type="italic">Ympäristöterveydenhuollossa on </em><em type="italic">kaksi keskusvirastoa </em>, jotka ohjaavat AVIen sekä kuntien ympäristöterveydenhuollon valvontayksiköiden toimintaa. Keskusvirastoja ovat Sosiaali- ja terveysalan lupa- ja valvontavirasto Valvira ja Elintarviketurvallisuusvirasto Evira. </p>
-    <p>Keskusvirastot laativat yhdessä valtakunnallisen ympäristöterveydenhuollon valvontaohjelman, joka kunnallisten valvontayksiköiden ja AVIen on huomioitava omassa ympäristöterveydenhuollon valvontasuunnitelmassaan.</p>
-    <p><em type="italic">Ympäristöterveydenhuollon ylin johto ja lainsäädännön valmistelu kuuluu kolmelle eri ministeriölle </em>, joita ovat sosiaali- ja terveysministeriö ( <em type="italic">STM </em>), maa- ja metsätalousministeriö ( <em type="italic">MMM </em>) ja ympäristöministeriö ( <em type="italic">YM </em>). </p>
-    <p type="title" xml:lang="fkv">Tiedotteita</p>
-    <list>
-      <p type="listitem">Koirien maahantuloedellytyksissä yhä puutteita, näyttelyyn matkaajilla tuontivaatimukset hyvin tiedossa. Tehovalvonta Helsingin satamissa (ESAVI)</p>
-      <p type="listitem">Pakolaisten sijoituspaikkoja tarvitaan nopeasti lisää - maahanmuuttotilaisuus 23.9.2015 Itä-Suomen aluehallintovirastossa (Itä-Suomi)</p>
-      <p type="listitem">Valmiusharjoitus POSA2015 Pohjois-Savossa - teemana tietojärjestelmien ja voimahuollon vakavat häiriöt (Itä-Suomi)</p>
-      <p type="listitem">Karja laitumelle ja jaloittelemaan!</p>
-      <p type="listitem">Itä-Suomen EU-talousvesilaitosten talousvesi hyvää - aluehallintovirasto tarkastanut talousveden valvonnan laatu- ja määrätiedot (Itä-Suomi)</p>
-    </list>
-    <p xml:lang="nno">RSS  (Opens New Window)</p>
-    <p type="title">Tietoa alueelta</p>
-    <p type="title">Ympäristöterveydenhuolto - Itä-Suomi</p>
-    <p>
-      <em type="italic">Yhteystiedot </em>
-    </p>
-    <p><em type="italic">Sähköpostiosoitteet: </em>etunimi.sukunimi@avi.fi kirjaamo.ita@avi.fi </p>
-    <p xml:lang="est"><em type="italic">Puhelinvaihde </em>: 0295 016 800 </p>
-    <p><em type="italic">Itä-Suomen aluehallintovirasto </em>Postiosoite: PL 50 50101 Mikkeli </p>
-    <p>Johtaja Ulla Ahonen, p. 0295 016 888 (toistaiseksi ryhmävastaavana)</p>
-    <p>
-      <em type="italic">Läänineläinlääkärit </em>
-    </p>
-    <p xml:lang="est">MIKKELI, Maaherrankatu 16</p>
-    <p xml:lang="est">Läänineläinlääkäri Paula Junnilainen, p. 0295 016 901 </p>
-    <list>
-      <p type="listitem">Eläintaudit - eläintautien vastustuksen suunnittelu, ohjaus, valvonta ja toteutus - terveysvalvontaohjelmat - zoonoosivalvonta</p>
-      <p type="listitem">Tuonti- ja vientivalvonta, laiton tuonti</p>
-      <p type="listitem">Eläinnäyttelyt (tilapäiset)</p>
-      <p type="listitem">Eläinlääkintähuollon maksatus; Etelä-Savo</p>
-      <p type="listitem">Eläintautivalmius</p>
-      <p type="listitem">Kunnaneläinlääkäreiden maksulliset suoritteet (laskutukset ja kustannusten seuranta)</p>
-    </list>
-    <p xml:lang="smn">KUOPIO, Hallituskatu 12 - 14</p>
-    <p>Läänineläinlääkäri Kaisa Honkapirtti, p. 0295 016 609</p>
-    <list>
-      <p type="listitem" xml:lang="est">Eläinjalostus</p>
-      <p type="listitem">Kuntien elintarvikevalvonnan ohjaus ml arviointi- ja ohjauskäynnit - laitosvalvonta</p>
-      <p type="listitem">Eläinlääkintähuollon ohjaus ja arviointi</p>
-      <p type="listitem">Sivutuotteet: käsittelylaitosten, hautaamisen ja haaskanpidon valvonnan koordinointi ja ohjaus</p>
-      <p type="listitem">Valvontasuunnitelman päivittäminen</p>
-      <p type="listitem" xml:lang="vep">VASU-raportointi</p>
-      <p type="listitem">Eläintautivalmius</p>
-    </list>
-    <p>Läänineläinlääkäri Hanna Rintala, p. 0295 016 810 </p>
-    <list>
-      <p type="listitem">Täydentävien ehtojen valvonta ja otantaeläinsuojelutarkastukset; Pohjois-Savo (ml Keski-Savo), Mikkelin seutu</p>
-      <p type="listitem">Eläinsuojelu Pohjois-Savo (ml. Keski-Savo) ja Mikkelin seutu: Eläinten hyvinvoinnin ohjaus ja kriittiset eläinsuojelutapaukset, eläinsuojelu/luvan- ja ilmoituksenvarainen toiminta</p>
-      <p type="listitem">Kanteluratkaisujen valmistelu ja esittely</p>
-      <p type="listitem">Lääkkeiden käytön valvonta: tuotantotilat, Pohjois-Savo (ml Keski-Savo) ja Mikkelin seutu</p>
-      <p type="listitem">Maidontuotantotilojen tarkastusten valvonta ja ohjaus, Pohjois-Savo (ml Keski-Savo ja Mikkelin seutu - eläinperäisten elintarvikkeiden alkutuotanto</p>
-      <p type="listitem">Vierasainevalvonta, myös ab+ löydokset</p>
-      <p type="listitem">Eläimistä saatavien elintarvikkeiden vierasainevalvontaohjelman mukaiset määräykset</p>
-      <p type="listitem">Eläinsuojelulain mukaiset uhkasakkoasiat</p>
-      <p type="listitem">Eläinlääkintähuollon maksatus, Pohjois-Savo (ml Keski-Savo)</p>
-      <p type="listitem">Eläinsuojelulain 44§ laskujen maksatus, Pohjois-Savo (ml Keski-Savo), Mikkelin seutu</p>
-    </list>
-    <p xml:lang="est">JOENSUU, Torikatu 36</p>
-    <p>Osa-aikaiset läänineläinlääkärit Ritva Tynkkynen, p. 0295 016 949 Pauli Sorvisto, p. 0295 016 943</p>
-    <list>
-      <p type="listitem">Merkinnän ja rekisteröinnin valvonta</p>
-      <p type="listitem">Lääkkeiden käytön valvonta: eläinlääkärit</p>
-      <p type="listitem">Kuljetusluvat ja pätevyystodistukset; Itä-Suomi</p>
-      <p type="listitem">Kelpoisuustodistukset eläinten lopetukseen</p>
-      <p type="listitem">Eläinlääkintähuollon maksatus; Pohjois-Karjala</p>
-      <p type="listitem">EU-eläinkuljetustarkastukset</p>
-    </list>
-    <p>Läänineläinlääkäri Aino Sivonen, p. 0295 016 815</p>
-    <list>
-      <p type="listitem">Täydentävien ehtojen valvonta ja otantaeläinsuojelutarkastukset; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue</p>
-      <p type="listitem">Eläinsuojelu; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue: Eläinten hyvinvoinnin valvonnan ohjaus ja kriittiset eläinsuojelutapaukset, eläinsuojelu / luvan- ja ilmoituksenvarainen toiminta</p>
-      <p type="listitem">Lääkkeiden käytön valvonta: tuotantotilat, Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue</p>
-      <p type="listitem">Maidontuotantotilojen tarkastusten valvonta ja ohjaus; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue - eläinperäisten elintarvikkeiden alkutuotanto</p>
-      <p type="listitem">Eläintautivalmius</p>
-      <p type="listitem">Vierasainevalvonta, myös ab+ löydökset;</p>
-      <p type="listitem">Eläinsuojelulain 44§:n laskujen maksatus; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue</p>
-    </list>
-    <p>
-      <em type="italic">Ympäristöterveydenhuollon ylitarkastajat </em>
-    </p>
-    <p>Ahonen Ulla, p. 0295 016 888 <em type="italic">(Peruspalvelut, oikeusturva ja luvat -vastuualueen johtaja 1.5.2017 alkaen) </em>- terveydensuojelu - tupakkalaki </p>
-    <p>Liljeroos Anneli, p. 0295 016 920 - elintarvikevalvonta</p>
-    <p>Lyytinen Anne-Kaarina. p. 0295 016 096 - terveydensuojelu <em type="italic">Ylitarkastaja </em>Koskela Matti, p. 0295 016 913 - terveydensuojelu </p>
-    <p xml:lang="est">
-      <em type="italic">Tarkastajat </em>
-    </p>
-    <p>Heinonen Maarit, p. 0295 016 892, Joensuu</p>
-    <p>Marttinen Eija, p. 0295 016 924, Mikkeli</p>
-    <p>Saarelainen Kirsti, p. 0295 016 939, Kuopio</p>
-    <p xml:lang="fkv">
-      <em type="italic">Toimipaikkojen asiointiosoitteet ja faksinumerot </em>
-    </p>
-    <p>Mikkelin päätoimipaikka Maaherrankatu 16, 50100 Mikkeli (kirjaamo) Faksi: 015 760 0150 Joensuun toimipaikka Torikatu 36 C, 80100 Joensuu Faksi: 013 610 0260</p>
-    <p>Kuopion toimipaikka Hallituskatu 12–14, 70100 Kuopio Faksi: 017 580 8690</p>
-    <list>
-      <p type="listitem">Itä-Suomen aluehallintoviraston valvontasuunnitelma elintarvikevalvonnasta, eläinten terveyden ja hyvinvoinnin valvonnasta sekä eläinlääkäripalvelujen järjestämisestä vuosille 2015 – 2019 (päivitys vuodelle 2016) (pdf, 271 kt)</p>
-    </list>
-    <p><em type="italic">Kunnalliset ympäristöterveydenhuollon valvontayksiköt Itä-Suomen aluehallintoviraston toimialueella </em>: </p>
-    <list>
-      <p type="listitem">Itä-Savon sairaanhoitopiirin kuntayhtymä Enonkoski Juva Puumala Rantasalmi Savonlinna Sulkava</p>
-      <p type="listitem">Keski-Savon ympäristötoimi Heinävesi Joroinen Leppävirta Pieksämäki Varkaus</p>
-    </list>
-    <list>
-      <p type="listitem">Kuopion kaupunki, Kaupunkiympäristön palvelualue, ympäristöterveydenhuolto</p>
-    </list>
-    <list>
-      <p type="listitem">Mikkelin seudun ympäristöpalvelut Hirvensalmi Kangasniemi Mikkeli Mäntyharju Pertunmaa</p>
-      <p type="listitem">Pohjois-Karjalan ympäristöterveys Ilomantsi Joensuu Juuka Kitee Kontiolahti Lieksa Liperi Nurmes Outokumpu Polvijärvi Rääkkylä Tohmajärvi Valtimo</p>
-    </list>
-    <list>
-      <p type="listitem">Siilinjärven ympäristöterveyspalvelut Juankoski Kaavi Lapinlahti Rautavaara Siilinjärvi Tuusniemi</p>
-    </list>
-    <list>
-      <p type="listitem">Tervon kunnan ympäristöterveyspalvelut Keitele Pielavesi Rautalampi Suonenjoki Tervo Vesanto</p>
-      <p type="listitem">Ylä-Savon SOTE kuntayhtymä Iisalmi Kiuruvesi Sonkajärvi Vieremä</p>
-    </list>
-    <p>Päivitetty 05.05.2017</p>
-    <p>Päivitetty</p>
-    <p>Tulosta</p>
-    <p xml:lang="fkv">Jaa</p>
-    <p type="title">Oikopolut</p>
-    <p xml:lang="koi">2013-07-09</p>
-    <list>
-      <p type="listitem">Asiointi</p>
-      <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
-    </list>
-    <p type="title">Muualla verkossa</p>
-    <p xml:lang="koi">2016-02-12</p>
-    <p xml:lang="est">Ministeriöt</p>
-    <list>
-      <p type="listitem">Sosiaali ja Terveysministeriö STM</p>
-      <p type="listitem">Maa- ja metsätalousministeriö MMM</p>
-      <p type="listitem">Työ- ja elinkeinoministeriö TEM</p>
-      <p type="listitem">Ympäristöministeriö YM</p>
-    </list>
-    <p>Keskusvirastot</p>
-    <list>
-      <p type="listitem">Sosiaali- ja terveysalan lupa- ja valvontavirasto Valvira</p>
-      <p type="listitem">Elintarviketurvallisuusvirasto Evira</p>
-      <p type="listitem">Turvallisuus- ja kemikaalivirasto Tukes</p>
-    </list>
-    <p>Muuta</p>
-    <list>
-      <p type="listitem">Kunnalliset elintarvikevalvontaviranomaiset</p>
-      <p type="listitem" xml:lang="fkv">Kuntaliitto</p>
-      <p type="listitem">Ympäristöterveydenhuollon valtakunnallinen valvontaohjelma</p>
-      <p type="listitem">Ympäristöterveydenhuollonerityistilanneopas</p>
-    </list>
-    <p type="title" xml:lang="fkv">Lomakkeet</p>
-    <p xml:lang="koi">2013-06-03</p>
-    <list>
-      <p type="listitem">Hallintokantelu kunnallisen ympäristöterveydenhuollon viranomaisen toiminnasta</p>
-    </list>
-    <p type="title">Lait ja asetukset</p>
-    <p xml:lang="koi">2013-05-31</p>
-    <list>
-      <p type="listitem">Laki ympäristöterveydenhuollon yhteistoiminta-alueista 410/2009</p>
-      <p type="listitem">VN:n asetus ympäristöterveydenhuollon valtakunnallisista valvontaohjelmista 78/2011</p>
-      <p type="listitem">VN:n asetus kunnan ympäristöterveydenhuollon valvontasuunnitelmasta 665/2006</p>
-      <p type="listitem">VN:n asetus elintarvikkeiden ja veden välityksellä leviävien epidemioiden selvittämisestä 1365/2011</p>
-    </list>
-    <p type="title" xml:lang="fkv">Alueelliset linkit</p>
-    <list>
-      <p type="listitem">Sisäilmaongelmien käsittely koulurakennuksissa, saate (pdf, 38 kt)</p>
-      <p type="listitem">Sisäilmaongelmien käsittely koulurakennuksissa (pdf, 55 kt)</p>
-      <p type="listitem">Arviointi- ja ohjauskäynti Pohjois-Karjalan ympäristöterveys 2015 (pdf, 936,5 kt)</p>
-      <p type="listitem">Arviointi- ja ohjauskäynti Ylä-Savon ympäristöterveydenhuolto 2016 (pdf, 1 Mt)</p>
-    </list>
-    <p>Aiheet: Ympäristöterveys  Alueet: Itä-Suomi</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Ympäristöterveys - Aluehallintovirasto</title><genre code="admin"/><author><unknown/></author><wordcount>1073</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/ymparistoterveys#.WR64gMYvHNQ</origFileName><parallel_text xml:lang="eng" location="ymparistoterveys_.wr65x8yvhnq.html"/><parallel_text xml:lang="sme" location="palvelut_.wr64gsyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>› Graafinen versio</p>
+<p xml:lang="fkv">Henkilöhaku</p>
+<list><p type="listitem" xml:lang="dan">Elintarvikkeet</p>
+<p type="listitem">Eläinten terveys ja hyvinvointi</p>
+<p type="listitem">Kuluttajapalvelut ja kulutustavarat</p>
+<p type="listitem">Terveydensuojelu</p>
+<p type="listitem" xml:lang="fkv">Tupakka</p>
+</list><p xml:lang="vep">2016-02-08</p>
+<p>Aluehallintovirasto (AVI) on ympäristöterveydenhuollon alueellinen valvontaviranomainen. Viraston tavoitteena on turvallisen elinympäristön sekä laadukkaiden ja tasapuolisten ympäristöterveyspalvelujen turvaaminen väestölle ja toiminnanharjoittajille sekä eläinten hyvinvoinnin turvaaminen. AVI ohjaa ja arvioi ympäristöterveydenhuollon kunnallisten valvontayksiköiden toimintaa, valvoo itse sekä toimii eräiden lupien ja ilmoitusten käsittelijänä alueellaan. AVI käsittelee kunnallisten ympäristöterveydenhuollon viranomaisten toiminnasta tehdyt valitukset ja kantelut.</p>
+<p xml:lang="sms">Lue lisää</p>
+<p xml:lang="vep">2016-04-27</p>
+<p type="title">Valvonnan tavoitteet</p>
+<p>Ympäristöterveydenhuollon tehtävänä on suojata kansalaisia erilaisilta ympäristön vaaroilta. Tavoitteena on hyvälaatuinen talousvesi, terveellinen asuin- ja elinympäristö, turvalliset elintarvikkeet, terveet ja hyvinvoivat eläimet sekä toimiva eläinlääkintähuolto. Valvomalla ympäristöterveydenhuollon lakien noudattamista varmistetaan, että elinympäristöön vaikuttava toiminta on suunniteltua ja toimintaa harjoitetaan turvallisesti ja riskejä minimoiden.</p>
+<p>Ympäristöterveydenhuoltoon kuuluvat seuraavat tehtäväkokonaisuudet:</p>
+<list><p type="listitem" xml:lang="est">Elintarvikevalvonta</p>
+<p type="listitem">Eläinten terveys ja hyvinvointi</p>
+<p type="listitem">Terveydensuojeluvalvonta</p>
+<p type="listitem">Tupakkalain valvonta</p>
+</list><p type="title">Valvontaviranomaiset</p>
+<p><em type="italic">Päävastuu ympäristöterveydenhuollon käytännön valvonnasta on kunnilla. </em>Valvontaviranomaisena toimii kunnissa jokin monijäseninen toimielin kuten esim. lautakunta. </p>
+<p>Käytännön valvontaa hoitavat mm. eläinlääkärit, terveystarkastajat sekä terveys- ja ympäristöinsinöörit, joille lautakunta on delegoinut osittain päätösvaltaansa. Lainsäädäntö edellyttää kunnilta riittäviä valvontaresursseja ja valvontaa hoidetaankin yleensä yksittäistä kuntaa suuremmissa ympäristöterveydenhuollon valvontayksiköissä. Ne laativat toiminnastaan ympäristöterveydenhuollon valvontasuunnitelman ja valvontaa tehdään suunnitelmallisesti sekä valvontayksiköihin tehtyjen yhteydenottojen perusteella. <em type="italic">Kunnallisten terveystarkastajien ja eläinlääkäreiden yhteystiedot löytyvät kuntien internet-sivuilta. </em></p>
+<p><em type="italic">AVI ohjaa </em>ympäristöterveydenhuollon kunnallisten valvontaviranomaisten toimintaa, arvioi ympäristöterveydenhuollon järjestämistä kunnissa sekä valvoo sen toteuttamista. Ohjauksella tuetaan kunnallisten valvontaviranomaisten osaamista antamalla tulkinta-apua ympäristöterveydenhuollon lakien noudattamisessa, järjestämällä työkokouksia ja koulutuksia sekä erillisiä arviointi- ja ohjauskäyntejä valvontayksiköihin. </p>
+<p><em type="italic">AVI vastaa alueellisesti eläintautilain mukaisesta valmiudesta </em>ja kuntien ympäristöterveydenhuollon valmiussuunnittelun ohjauksesta sekä seuraa elintarvike- ja vesivälitteisiä epidemioita alueillaan. </p>
+<p><em type="italic">AVI käsittelee kuntien ympäristöterveydenhuollon valvontaviranomaisen toiminnasta tehdyt kantelut sekä toimii eräiden ympäristöterveydenhuollon lupien ja ilmoitusten käsittelijänä </em>. Osa tehtävistä on keskitetty vain yhteen aluehallintovirastoon kuten poroteurastamojen hyväksyntä ja valvonta Lapin AVIin ja hautaamiseen liittyvät kysymykset Itä-Suomen AVIin. </p>
+<p>Kukin AVI laatii vuosittain toiminnastaan ympäristöterveydenhuollon valvontasuunnitelman.</p>
+<p>Siinä huomioidaan valtakunnallinen ympäristöterveydenhuollon valvontaohjelma elintarvikevalvonnan sekä eläinten terveyden ja hyvinvoinnin valvonnan osalta.</p>
+<p><em type="italic">AVIssa ympäristöterveydenhuollon valvontaa tekevät ympäristöterveydenhuollon ylitarkastajat ja läänineläinlääkärit. </em></p>
+<p><em type="italic">Ympäristöterveydenhuollossa on </em><em type="italic">kaksi keskusvirastoa </em>, jotka ohjaavat AVIen sekä kuntien ympäristöterveydenhuollon valvontayksiköiden toimintaa. Keskusvirastoja ovat Sosiaali- ja terveysalan lupa- ja valvontavirasto Valvira ja Elintarviketurvallisuusvirasto Evira. </p>
+<p>Keskusvirastot laativat yhdessä valtakunnallisen ympäristöterveydenhuollon valvontaohjelman, joka kunnallisten valvontayksiköiden ja AVIen on huomioitava omassa ympäristöterveydenhuollon valvontasuunnitelmassaan.</p>
+<p><em type="italic">Ympäristöterveydenhuollon ylin johto ja lainsäädännön valmistelu kuuluu kolmelle eri ministeriölle </em>, joita ovat sosiaali- ja terveysministeriö ( <em type="italic">STM </em>), maa- ja metsätalousministeriö ( <em type="italic">MMM </em>) ja ympäristöministeriö ( <em type="italic">YM </em>). </p>
+<p type="title" xml:lang="fkv">Tiedotteita</p>
+<list><p type="listitem">Koirien maahantuloedellytyksissä yhä puutteita, näyttelyyn matkaajilla tuontivaatimukset hyvin tiedossa. Tehovalvonta Helsingin satamissa (ESAVI)</p>
+<p type="listitem">Pakolaisten sijoituspaikkoja tarvitaan nopeasti lisää - maahanmuuttotilaisuus 23.9.2015 Itä-Suomen aluehallintovirastossa (Itä-Suomi)</p>
+<p type="listitem">Valmiusharjoitus POSA2015 Pohjois-Savossa - teemana tietojärjestelmien ja voimahuollon vakavat häiriöt (Itä-Suomi)</p>
+<p type="listitem">Karja laitumelle ja jaloittelemaan!</p>
+<p type="listitem">Itä-Suomen EU-talousvesilaitosten talousvesi hyvää - aluehallintovirasto tarkastanut talousveden valvonnan laatu- ja määrätiedot (Itä-Suomi)</p>
+</list><p xml:lang="nno">RSS  (Opens New Window)</p>
+<p type="title">Tietoa alueelta</p>
+<p type="title">Ympäristöterveydenhuolto - Itä-Suomi</p>
+<p><em type="italic">Yhteystiedot </em></p>
+<p><em type="italic">Sähköpostiosoitteet: </em>etunimi.sukunimi@avi.fi kirjaamo.ita@avi.fi </p>
+<p xml:lang="est"><em type="italic">Puhelinvaihde </em>: 0295 016 800 </p>
+<p><em type="italic">Itä-Suomen aluehallintovirasto </em>Postiosoite: PL 50 50101 Mikkeli </p>
+<p>Johtaja Ulla Ahonen, p. 0295 016 888 (toistaiseksi ryhmävastaavana)</p>
+<p><em type="italic">Läänineläinlääkärit </em></p>
+<p xml:lang="est">MIKKELI, Maaherrankatu 16</p>
+<p xml:lang="est">Läänineläinlääkäri Paula Junnilainen, p. 0295 016 901 </p>
+<list><p type="listitem">Eläintaudit - eläintautien vastustuksen suunnittelu, ohjaus, valvonta ja toteutus - terveysvalvontaohjelmat - zoonoosivalvonta</p>
+<p type="listitem">Tuonti- ja vientivalvonta, laiton tuonti</p>
+<p type="listitem" xml:lang="fkv">Eläinnäyttelyt (tilapäiset)</p>
+<p type="listitem">Eläinlääkintähuollon maksatus; Etelä-Savo</p>
+<p type="listitem">Eläintautivalmius</p>
+<p type="listitem">Kunnaneläinlääkäreiden maksulliset suoritteet (laskutukset ja kustannusten seuranta)</p>
+</list><p xml:lang="smn">KUOPIO, Hallituskatu 12 - 14</p>
+<p>Läänineläinlääkäri Kaisa Honkapirtti, p. 0295 016 609</p>
+<list><p type="listitem" xml:lang="est">Eläinjalostus</p>
+<p type="listitem">Kuntien elintarvikevalvonnan ohjaus ml arviointi- ja ohjauskäynnit - laitosvalvonta</p>
+<p type="listitem">Eläinlääkintähuollon ohjaus ja arviointi</p>
+<p type="listitem">Sivutuotteet: käsittelylaitosten, hautaamisen ja haaskanpidon valvonnan koordinointi ja ohjaus</p>
+<p type="listitem">Valvontasuunnitelman päivittäminen</p>
+<p type="listitem" xml:lang="vep">VASU-raportointi</p>
+<p type="listitem">Eläintautivalmius</p>
+</list><p>Läänineläinlääkäri Hanna Rintala, p. 0295 016 810 </p>
+<list><p type="listitem">Täydentävien ehtojen valvonta ja otantaeläinsuojelutarkastukset; Pohjois-Savo (ml Keski-Savo), Mikkelin seutu</p>
+<p type="listitem">Eläinsuojelu Pohjois-Savo (ml. Keski-Savo) ja Mikkelin seutu: Eläinten hyvinvoinnin ohjaus ja kriittiset eläinsuojelutapaukset, eläinsuojelu/luvan- ja ilmoituksenvarainen toiminta</p>
+<p type="listitem">Kanteluratkaisujen valmistelu ja esittely</p>
+<p type="listitem">Lääkkeiden käytön valvonta: tuotantotilat, Pohjois-Savo (ml Keski-Savo) ja Mikkelin seutu</p>
+<p type="listitem">Maidontuotantotilojen tarkastusten valvonta ja ohjaus, Pohjois-Savo (ml Keski-Savo ja Mikkelin seutu - eläinperäisten elintarvikkeiden alkutuotanto</p>
+<p type="listitem">Vierasainevalvonta, myös ab+ löydokset</p>
+<p type="listitem">Eläimistä saatavien elintarvikkeiden vierasainevalvontaohjelman mukaiset määräykset</p>
+<p type="listitem">Eläinsuojelulain mukaiset uhkasakkoasiat</p>
+<p type="listitem">Eläinlääkintähuollon maksatus, Pohjois-Savo (ml Keski-Savo)</p>
+<p type="listitem">Eläinsuojelulain 44§ laskujen maksatus, Pohjois-Savo (ml Keski-Savo), Mikkelin seutu</p>
+</list><p xml:lang="est">JOENSUU, Torikatu 36</p>
+<p>Osa-aikaiset läänineläinlääkärit Ritva Tynkkynen, p. 0295 016 949 Pauli Sorvisto, p. 0295 016 943</p>
+<list><p type="listitem">Merkinnän ja rekisteröinnin valvonta</p>
+<p type="listitem">Lääkkeiden käytön valvonta: eläinlääkärit</p>
+<p type="listitem">Kuljetusluvat ja pätevyystodistukset; Itä-Suomi</p>
+<p type="listitem">Kelpoisuustodistukset eläinten lopetukseen</p>
+<p type="listitem">Eläinlääkintähuollon maksatus; Pohjois-Karjala</p>
+<p type="listitem">EU-eläinkuljetustarkastukset</p>
+</list><p>Läänineläinlääkäri Aino Sivonen, p. 0295 016 815</p>
+<list><p type="listitem">Täydentävien ehtojen valvonta ja otantaeläinsuojelutarkastukset; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue</p>
+<p type="listitem">Eläinsuojelu; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue: Eläinten hyvinvoinnin valvonnan ohjaus ja kriittiset eläinsuojelutapaukset, eläinsuojelu / luvan- ja ilmoituksenvarainen toiminta</p>
+<p type="listitem">Lääkkeiden käytön valvonta: tuotantotilat, Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue</p>
+<p type="listitem">Maidontuotantotilojen tarkastusten valvonta ja ohjaus; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue - eläinperäisten elintarvikkeiden alkutuotanto</p>
+<p type="listitem">Eläintautivalmius</p>
+<p type="listitem">Vierasainevalvonta, myös ab+ löydökset;</p>
+<p type="listitem">Eläinsuojelulain 44§:n laskujen maksatus; Pohjois-Karjala ja Itä-Savon sairaanhoitopiirin alue</p>
+</list><p><em type="italic">Ympäristöterveydenhuollon ylitarkastajat </em></p>
+<p>Ahonen Ulla, p. 0295 016 888 <em type="italic">(Peruspalvelut, oikeusturva ja luvat -vastuualueen johtaja 1.5.2017 alkaen) </em>- terveydensuojelu - tupakkalaki </p>
+<p>Liljeroos Anneli, p. 0295 016 920 - elintarvikevalvonta</p>
+<p>Lyytinen Anne-Kaarina. p. 0295 016 096 - terveydensuojelu <em type="italic">Ylitarkastaja </em>Koskela Matti, p. 0295 016 913 - terveydensuojelu </p>
+<p xml:lang="est"><em type="italic">Tarkastajat </em></p>
+<p>Heinonen Maarit, p. 0295 016 892, Joensuu</p>
+<p>Marttinen Eija, p. 0295 016 924, Mikkeli</p>
+<p>Saarelainen Kirsti, p. 0295 016 939, Kuopio</p>
+<p xml:lang="fkv"><em type="italic">Toimipaikkojen asiointiosoitteet ja faksinumerot </em></p>
+<p>Mikkelin päätoimipaikka Maaherrankatu 16, 50100 Mikkeli (kirjaamo) Faksi: 015 760 0150 Joensuun toimipaikka Torikatu 36 C, 80100 Joensuu Faksi: 013 610 0260</p>
+<p>Kuopion toimipaikka Hallituskatu 12–14, 70100 Kuopio Faksi: 017 580 8690</p>
+<list><p type="listitem">Itä-Suomen aluehallintoviraston valvontasuunnitelma elintarvikevalvonnasta, eläinten terveyden ja hyvinvoinnin valvonnasta sekä eläinlääkäripalvelujen järjestämisestä vuosille 2015 – 2019 (päivitys vuodelle 2016) (pdf, 271 kt)</p>
+</list><p><em type="italic">Kunnalliset ympäristöterveydenhuollon valvontayksiköt Itä-Suomen aluehallintoviraston toimialueella </em>: </p>
+<list><p type="listitem">Itä-Savon sairaanhoitopiirin kuntayhtymä Enonkoski Juva Puumala Rantasalmi Savonlinna Sulkava</p>
+<p type="listitem">Keski-Savon ympäristötoimi Heinävesi Joroinen Leppävirta Pieksämäki Varkaus</p>
+</list><list><p type="listitem">Kuopion kaupunki, Kaupunkiympäristön palvelualue, ympäristöterveydenhuolto</p>
+</list><list><p type="listitem">Mikkelin seudun ympäristöpalvelut Hirvensalmi Kangasniemi Mikkeli Mäntyharju Pertunmaa</p>
+<p type="listitem">Pohjois-Karjalan ympäristöterveys Ilomantsi Joensuu Juuka Kitee Kontiolahti Lieksa Liperi Nurmes Outokumpu Polvijärvi Rääkkylä Tohmajärvi Valtimo</p>
+</list><list><p type="listitem">Siilinjärven ympäristöterveyspalvelut Juankoski Kaavi Lapinlahti Rautavaara Siilinjärvi Tuusniemi</p>
+</list><list><p type="listitem">Tervon kunnan ympäristöterveyspalvelut Keitele Pielavesi Rautalampi Suonenjoki Tervo Vesanto</p>
+<p type="listitem">Ylä-Savon SOTE kuntayhtymä Iisalmi Kiuruvesi Sonkajärvi Vieremä</p>
+</list><p>Päivitetty 05.05.2017</p>
+<p>Päivitetty</p>
+<p>Tulosta</p>
+<p xml:lang="fit">Jaa</p>
+<p type="title">Oikopolut</p>
+<p xml:lang="vep">2013-07-09</p>
+<list><p type="listitem">Asiointi</p>
+<p type="listitem" xml:lang="fkv">Henkilöhaku</p>
+</list><p type="title">Muualla verkossa</p>
+<p xml:lang="vep">2016-02-12</p>
+<p xml:lang="est">Ministeriöt</p>
+<list><p type="listitem">Sosiaali ja Terveysministeriö STM</p>
+<p type="listitem">Maa- ja metsätalousministeriö MMM</p>
+<p type="listitem">Työ- ja elinkeinoministeriö TEM</p>
+<p type="listitem">Ympäristöministeriö YM</p>
+</list><p>Keskusvirastot</p>
+<list><p type="listitem">Sosiaali- ja terveysalan lupa- ja valvontavirasto Valvira</p>
+<p type="listitem">Elintarviketurvallisuusvirasto Evira</p>
+<p type="listitem" xml:lang="est">Turvallisuus- ja kemikaalivirasto Tukes</p>
+</list><p>Muuta</p>
+<list><p type="listitem">Kunnalliset elintarvikevalvontaviranomaiset</p>
+<p type="listitem" xml:lang="fkv">Kuntaliitto</p>
+<p type="listitem">Ympäristöterveydenhuollon valtakunnallinen valvontaohjelma</p>
+<p type="listitem">Ympäristöterveydenhuollonerityistilanneopas</p>
+</list><p type="title" xml:lang="fkv">Lomakkeet</p>
+<p xml:lang="vep">2013-06-03</p>
+<list><p type="listitem">Hallintokantelu kunnallisen ympäristöterveydenhuollon viranomaisen toiminnasta</p>
+</list><p type="title">Lait ja asetukset</p>
+<p xml:lang="vep">2013-05-31</p>
+<list><p type="listitem">Laki ympäristöterveydenhuollon yhteistoiminta-alueista 410/2009</p>
+<p type="listitem">VN:n asetus ympäristöterveydenhuollon valtakunnallisista valvontaohjelmista 78/2011</p>
+<p type="listitem">VN:n asetus kunnan ympäristöterveydenhuollon valvontasuunnitelmasta 665/2006</p>
+<p type="listitem">VN:n asetus elintarvikkeiden ja veden välityksellä leviävien epidemioiden selvittämisestä 1365/2011</p>
+</list><p type="title" xml:lang="fkv">Alueelliset linkit</p>
+<list><p type="listitem">Sisäilmaongelmien käsittely koulurakennuksissa, saate (pdf, 38 kt)</p>
+<p type="listitem">Sisäilmaongelmien käsittely koulurakennuksissa (pdf, 55 kt)</p>
+<p type="listitem">Arviointi- ja ohjauskäynti Pohjois-Karjalan ympäristöterveys 2015 (pdf, 936,5 kt)</p>
+<p type="listitem">Arviointi- ja ohjauskäynti Ylä-Savon ympäristöterveydenhuolto 2016 (pdf, 1 Mt)</p>
+</list><p>Aiheet: Ympäristöterveys  Alueet: Itä-Suomi</p>
+</body></document>

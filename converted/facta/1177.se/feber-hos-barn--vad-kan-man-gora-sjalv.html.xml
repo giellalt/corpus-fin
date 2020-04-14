@@ -1,77 +1,30 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>603</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Feber-hos-barn--vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Kuume lapsella – mitä voi tehdä itse? / Feber hos barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Kuume lapsella – mitä voi tehdä itse?Feber hos barn – vad kan man göra själv?</p>
-    <p type="title">Kuume on osa kehon puolustusjärjestelmää</p>
-    <list>
-      <p type="listitem">Tee lapsen olo mahdollisimman mukavaksi. Lapselle on hyvä antaa juotavaa usein.</p>
-    </list>
-    <p>Kuumeella tarkoitetaan sitä, että ruumiinlämpö on normaalia korkeampi. Kuume ei sinänsä ole vaarallista, vaan se on kehon puolustautumiskeino tulehduksia vastaan. Lapset saavat helposti kuumetta virusten aiheuttamien tulehdusten, kuten vilustumisen, yskän ja kurkkukivun vuoksi. Lapsen ruumiinlämpö voi nousta myös vilkkaan leikin tai intensiivisen liikunnan vuoksi. Harvinaisissa tapauksissa kuumeen taustalla voi olla vakava sairaus.</p>
-    <p>Lapsella on kuumetta, jos lämpötila aamulla tai puolen tunnin levon jälkeen on yli 38 astetta.</p>
-    <p>Useimmiten kuumeen huomaa lapsen voinnista. Jos on epävarma, voi mitata lapsen lämmön. Tärkeintä on kuitenkin tarkkailla lapsen vointia. Jos olet aikeissa ottaa yhteyttä sairaanhoitoon, on hyvä mitata ensin kuume.</p>
-    <p>Ruumiinlämpö on varminta mitata peräaukosta. Saatavilla on myös korvakuumemittareita, jotka oikein käytettynä ovat hyvä vaihtoehto. Niiden käyttö saattaa olla hankala hyvin pienten lasten kuumeen mittaamiseen, sillä näiden korvakäytävä on liian ahdas.</p>
-    <p type="title">Lepoa ja paljon juotavaa</p>
-    <p>Kuumeinen lapsi tarvitsee lepoa parantuakseen ja hänen täytyy olla kotona koulusta tai esikulusta. Lapsen ei tarvitse maata sängyssä, mutta fyysistä rasitusta tulee välttää. On parasta antaa lapsen päättää itse, kuinka paljon hän jaksaa olla jalkeilla.</p>
-    <p>Kuume lisää nesteen tarvetta. Jotta lapsi saisi riittävästi nestettä, hänelle on hyvä antaa juotavaa usein. Anna lapselle sellaista ruokaa ja juomaa, josta hän pitää, esimerkiksi jäätelöä, kiisseliä tai velliä. Jos lapsen ruokahalu on huono, tavallista ruokaa ei tarvitse syödä. Ei ole vaarallista, vaikka lapsi söisi huonommin muutaman päivän ajan. Jos lapsi pissaa harvoin tai on voimaton ja väsynyt, se saattaa johtua liian vähäisestä nesteen saannista.</p>
-    <p type="title">Tee lapsen olo mahdollisimman mukavaksi</p>
-    <p>Lapsen voi antaa nukkua ohuen lakanan alla tai pelkissä alusvaatteissa, jos se tuntuu hänestä miellyttävältä. Jos lapsi kuumeen noustessa hytisee vilusta, hänet voi peitellä ylimääräisillä huovilla ja näin yrittää tehdä hänen olonsa mahdollisimman mukavaksi.</p>
-    <p type="title">Reseptittä saatavat lääkkeet</p>
-    <p>Kuumeen hoitoon tarvitaan harvoin kuumetta alentavia lääkkeitä. Lapsen kuume kestää yleensä vain muutaman päivän, eikä tavallisesti ole vakavaa. Kuumetta alentavaa lääkettä voi kuitenkin antaa, jos lapsen vointi on kuumeen vuoksi merkittävästi huonontunut, esimerkiksi jos hänellä on kipuja kehossa tai hän on ärtyisä tai jos hän syö, juo tai nukkuu huonosti tai hänen on vaikea rauhoittua iltaisin.</p>
-    <p>Alle kuuden kuukauden ikäisiä lapsia ei saa hoitaa kuumetta alentavilla lääkkeillä ennen kuin on ensin ottanut yhteyttä sairaanhoitoon.</p>
-    <p>Yli kolmen kuukauden ikäisten lasten hoitoon käytetään parasetamolia sisältäviä lääkkeitä, esimerkiksi Alvedonia tai Panodilia. Yli kuuden kuukauden ikäisille voidaan antaa Ipreniä tai Ibumetinia, jotka sisältävät ibuprofeenia. Lääkkeitä on saatavilla nestemäisenä tai peräpuikkoina, jotka sisältävät oikean annoksen pienelle lapselle. Vanhemmille lapsille on saatavilla myös tabletteja. Noudata tarkasti pakkauksen ohjeita. Älä yhdistele eri lääkkeitä. Alle 18-vuotiaille lapsille ei saa antaa asetyylisalisyylihappoa sisältäviä kuumetta alentavia lääkkeitä, kuten Magnecyliä, Treoa tai Albyliä.</p>
-    <p type="title">Ehkä tarpeen ottaa yhteys sairaanhoitoon</p>
-    <p>Hoitoon hakeutumisesta päätetään ennen kaikkea lapsen yleisvoinnin perusteella. Epävarmoissa tilanteissa voi aina soittaa sairaanhoitoneuvontaan tai terveyskeskukseen, erityisesti silloin, jos lapsella on kuumeen ohella muita vaivoja.</p>
-    <p>Kuumeinen lapsi on syytä viedä välittömästi terveyskeskukseen tai akuuttivastaanotolle, jos ilmenee jokin tai useita seuraavista vaivoista:</p>
-    <list>
-      <p type="listitem">lapseen ei saa tavanmukaista kontaktia</p>
-      <p type="listitem">lapsi vaikuttaa väsyneeltä ja uupuneelta eikä jaksa juoda</p>
-      <p type="listitem">lapselle nousee yli 41 asteen kuume.</p>
-    </list>
-    <p>Terveyskeskukseen tai päivystysvastaanottoon tulee aina ottaa yhteyttä, jos</p>
-    <list>
-      <p type="listitem">alle kolmen kuukauden ikäiselle lapselle nousee yli 38 asteen kuume</p>
-      <p type="listitem">3–6 kuukauden ikäiselle nousee yli 39 asteen kuume</p>
-    </list>
-    <p>Hoitoon täytyy hakeutua lapsen ikään katsomatta myös silloin, jos lapsen kuume on kestänyt yli neljä vuorokautta.</p>
-    <p type="title">Kysy neuvoa</p>
-    <p>Voit soittaa ympäri vuorokauden sairaanhoitajalle ja kysyä neuvoa. Soita numeroon 1177. Sieltä voidaan myös kertoa, mihin terveyskeskukseen kuulut.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>599</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Feber-hos-barn--vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Kuume lapsella – mitä voi tehdä itse? / Feber hos barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Kuume lapsella – mitä voi tehdä itse?Feber hos barn – vad kan man göra själv?</p>
+<p type="title">Kuume on osa kehon puolustusjärjestelmää</p>
+<list><p type="listitem">Tee lapsen olo mahdollisimman mukavaksi. Lapselle on hyvä antaa juotavaa usein.</p>
+</list><p>Kuumeella tarkoitetaan sitä, että ruumiinlämpö on normaalia korkeampi. Kuume ei sinänsä ole vaarallista, vaan se on kehon puolustautumiskeino tulehduksia vastaan. Lapset saavat helposti kuumetta virusten aiheuttamien tulehdusten, kuten vilustumisen, yskän ja kurkkukivun vuoksi. Lapsen ruumiinlämpö voi nousta myös vilkkaan leikin tai intensiivisen liikunnan vuoksi. Harvinaisissa tapauksissa kuumeen taustalla voi olla vakava sairaus.</p>
+<p>Lapsella on kuumetta, jos lämpötila aamulla tai puolen tunnin levon jälkeen on yli 38 astetta.</p>
+<p>Useimmiten kuumeen huomaa lapsen voinnista. Jos on epävarma, voi mitata lapsen lämmön. Tärkeintä on kuitenkin tarkkailla lapsen vointia. Jos olet aikeissa ottaa yhteyttä sairaanhoitoon, on hyvä mitata ensin kuume.</p>
+<p>Ruumiinlämpö on varminta mitata peräaukosta. Saatavilla on myös korvakuumemittareita, jotka oikein käytettynä ovat hyvä vaihtoehto. Niiden käyttö saattaa olla hankala hyvin pienten lasten kuumeen mittaamiseen, sillä näiden korvakäytävä on liian ahdas.</p>
+<p type="title">Lepoa ja paljon juotavaa</p>
+<p>Kuumeinen lapsi tarvitsee lepoa parantuakseen ja hänen täytyy olla kotona koulusta tai esikulusta. Lapsen ei tarvitse maata sängyssä, mutta fyysistä rasitusta tulee välttää. On parasta antaa lapsen päättää itse, kuinka paljon hän jaksaa olla jalkeilla.</p>
+<p>Kuume lisää nesteen tarvetta. Jotta lapsi saisi riittävästi nestettä, hänelle on hyvä antaa juotavaa usein. Anna lapselle sellaista ruokaa ja juomaa, josta hän pitää, esimerkiksi jäätelöä, kiisseliä tai velliä. Jos lapsen ruokahalu on huono, tavallista ruokaa ei tarvitse syödä. Ei ole vaarallista, vaikka lapsi söisi huonommin muutaman päivän ajan. Jos lapsi pissaa harvoin tai on voimaton ja väsynyt, se saattaa johtua liian vähäisestä nesteen saannista.</p>
+<p type="title">Tee lapsen olo mahdollisimman mukavaksi</p>
+<p>Lapsen voi antaa nukkua ohuen lakanan alla tai pelkissä alusvaatteissa, jos se tuntuu hänestä miellyttävältä. Jos lapsi kuumeen noustessa hytisee vilusta, hänet voi peitellä ylimääräisillä huovilla ja näin yrittää tehdä hänen olonsa mahdollisimman mukavaksi.</p>
+<p type="title">Reseptittä saatavat lääkkeet</p>
+<p>Kuumeen hoitoon tarvitaan harvoin kuumetta alentavia lääkkeitä. Lapsen kuume kestää yleensä vain muutaman päivän, eikä tavallisesti ole vakavaa. Kuumetta alentavaa lääkettä voi kuitenkin antaa, jos lapsen vointi on kuumeen vuoksi merkittävästi huonontunut, esimerkiksi jos hänellä on kipuja kehossa tai hän on ärtyisä tai jos hän syö, juo tai nukkuu huonosti tai hänen on vaikea rauhoittua iltaisin.</p>
+<p>Alle kuuden kuukauden ikäisiä lapsia ei saa hoitaa kuumetta alentavilla lääkkeillä ennen kuin on ensin ottanut yhteyttä sairaanhoitoon.</p>
+<p>Yli kolmen kuukauden ikäisten lasten hoitoon käytetään parasetamolia sisältäviä lääkkeitä, esimerkiksi Alvedonia tai Panodilia. Yli kuuden kuukauden ikäisille voidaan antaa Ipreniä tai Ibumetinia, jotka sisältävät ibuprofeenia. Lääkkeitä on saatavilla nestemäisenä tai peräpuikkoina, jotka sisältävät oikean annoksen pienelle lapselle. Vanhemmille lapsille on saatavilla myös tabletteja. Noudata tarkasti pakkauksen ohjeita. Älä yhdistele eri lääkkeitä. Alle 18-vuotiaille lapsille ei saa antaa asetyylisalisyylihappoa sisältäviä kuumetta alentavia lääkkeitä, kuten Magnecyliä, Treoa tai Albyliä.</p>
+<p type="title">Ehkä tarpeen ottaa yhteys sairaanhoitoon</p>
+<p>Hoitoon hakeutumisesta päätetään ennen kaikkea lapsen yleisvoinnin perusteella. Epävarmoissa tilanteissa voi aina soittaa sairaanhoitoneuvontaan tai terveyskeskukseen, erityisesti silloin, jos lapsella on kuumeen ohella muita vaivoja.</p>
+<p>Kuumeinen lapsi on syytä viedä välittömästi terveyskeskukseen tai akuuttivastaanotolle, jos ilmenee jokin tai useita seuraavista vaivoista:</p>
+<list><p type="listitem">lapseen ei saa tavanmukaista kontaktia</p>
+<p type="listitem">lapsi vaikuttaa väsyneeltä ja uupuneelta eikä jaksa juoda</p>
+<p type="listitem">lapselle nousee yli 41 asteen kuume.</p>
+</list><p>Terveyskeskukseen tai päivystysvastaanottoon tulee aina ottaa yhteyttä, jos</p>
+<list><p type="listitem">alle kolmen kuukauden ikäiselle lapselle nousee yli 38 asteen kuume</p>
+<p type="listitem">3–6 kuukauden ikäiselle nousee yli 39 asteen kuume</p>
+</list><p>Hoitoon täytyy hakeutua lapsen ikään katsomatta myös silloin, jos lapsen kuume on kestänyt yli neljä vuorokautta.</p>
+<p type="title">Kysy neuvoa</p>
+<p>Voit soittaa ympäri vuorokauden sairaanhoitajalle ja kysyä neuvoa. Soita numeroon 1177. Sieltä voidaan myös kertoa, mihin terveyskeskukseen kuulut.</p>
+</body></document>

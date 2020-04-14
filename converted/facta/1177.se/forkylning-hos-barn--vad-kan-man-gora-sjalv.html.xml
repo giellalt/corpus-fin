@@ -1,76 +1,33 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>753</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Forkylning-hos-barn--vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Lapsen flunssa – mitä voi tehdä itse? / Förkylning hos barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title" xml:lang="swe">Lapsen flunssa – mitä voi tehdä itse?Förkylning hos barn – vad kan man göra själv?</p>
-    <p type="title">Nuhaa, yskää ja joskus kuumetta</p>
-    <list>
-      <p type="listitem">Lapsen on helpompi hengittää, jos hänen pääpuoltaan kohotetaan. Sängyn pääpuolta voi kohottaa asettamalla patjan alle ylimääräisiä tyynyjä.</p>
-    </list>
-    <p>Flunssaan sairastuneet lapset ovat usein muutaman päivän voimattomia, väsyneitä tai alakuloisia ja itkuisia. Tyypillisiä oireita ovat tukkoinen tai vuotava nenä ja kurkkukipu tai korvakipu. Oireisiin voi kuulua myös yskä tai kuume.</p>
-    <p>Nenäerite on aluksi kirkasta ja läpinäkyvää. Muutaman päivän kuluttua se muuttuu paksummaksi ja väriltään joko keltaiseksi tai vihreäksi.</p>
-    <p>Flunssaisen lapsen vointi on yleensä huonoimmillaan ensimmäisinä sairauspäivinä. Flunssa menee yleensä ohi itsestään viikon tai kahden kuluessa. Tavallisen flunssan aiheuttaja on virus. Viruksia vastaan ei ole olemassa lääkkeitä, jotka voisivat nopeuttaa lapsen paranemista.</p>
-    <p type="title">Kuumeisten ja huonovointisten lasten tulee pysyä kotona</p>
-    <p>Kuumeisten, huonovointisten ja väsyneiden lasten tulee jäädä kotiin lepäämään. Tavallisesti lasten pitää myös saada olla kotona ensimmäinen kuumeeton päivä, ilman että lapsi on saanut kuumetta alentavaa lääkettä. Lasten tulee olla niin pirteitä, että heillä on riittävästi energiaa olla esikoulussa tai koulussa.</p>
-    <p type="title">Lepo on tärkeää</p>
-    <p>Lapselle tulee antaa mahdollisuus levätä, mutta tämän ei tarvitse pysytellä sängyssä. Yleensä lapsi tuntee itse, paljonko hän jaksaa olla jalkeilla.</p>
-    <p>Nukkuminen ja hengittäminen saattavat helpottua, jos pään alla on muutama lisätyyny. Tämä pätee etenkin vanhempiin lapsiin, jotka makaavat paikoillaan. Vauvoja voi päivällä pitää kantoliinassa, babysitterissä tai sylissä.</p>
-    <p type="title">Lempiruokaa ja lisäjuomaa</p>
-    <p>Monien lasten ruokahalu heikkenee flunssan aikana. Lapselle kannattaa antaa sellaista ruokaa, josta tämä pitää, esimerkiksi velliä, jogurttia tai jäätelöä. Jos lapsella on kuumetta, hänelle on hyvä antaa lisäjuomaa.</p>
-    <p type="title">Keittosuolaliuosta tai nenäsumutetta tukkoiseen nenään</p>
-    <p>Jos lapsen nenä on tukossa, tukkoista nenää voi avata sumuttamalla tai tiputtamalla nenään keittosuolaliuosta. Samalla nenästä voi hellävaraisesti myös poistaa limaa. Keittosuolaliuosta on saatavilla apteekeissa. Liuoksen voi valmistaa myös itse sekoittamalla millilitran – yhden maustemitallisen – suolaa desilitraan vettä. Keittosuolaliuosta voi tiputtaa lapsen nenään pumpulitupon avulla.</p>
-    <p>Vaikeampaan nenän tukkoisuuteen voi lapselle antaa turvotusta lievittäviä nenätippoja tai nenäsumutetta. Näitä lääkkeitä voi ostaa apteekista ilman reseptiä, ja niitä voi käyttää yhtäjaksoisesti enintään kymmenen päivää. Nenäsumutteita ja nenätippoja on tarjolla eri ikäisille lapsille. Pakkauksesta käy ilmi, minkä ikäiselle tuote on tarkoitettu.</p>
-    <p type="title">Reseptittä saatavat kuumetta alentavat lääkkeet</p>
-    <p>Kuumeen hoitoon tarvitaan harvoin kuumetta alentavia lääkkeitä. Lapsen kuume kestää yleensä vain muutaman päivän, eikä tavallisesti ole vakavaa. Kuumetta alentavia lääkkeitä voidaan kuitenkin antaa, jos lapsen vointi on kuumeen vuoksi huonontunut merkittävästi, esimerkiksi jos lapsella on kipuja kehossa tai hän on ärtyisä tai jos lapsi syö, juo tai nukkuu huonosti, tai hänen on vaikea rauhoittua iltaisin.</p>
-    <p>Alle kuuden kuukauden ikäisiä lapsia ei saa hoitaa kuumetta alentavilla lääkkeillä ennen kuin on ottanut yhteyttä sairaanhoitoon.</p>
-    <p>Yli kolmen kuukauden ikäisten lasten hoitoon voi käyttää parasetamolia sisältäviä lääkkeitä, esimerkiksi Alvedonia tai Panodilia. Yli kuuden kuukauden ikäisille voidaan antaa ibuprofeenia sisältävää Ipreniä, jota saa apteekista ilman reseptiä. Lääkkeitä on saatavilla nestemäisenä tai peräpuikkoina, jotka sisältävät oikean annoksen pienelle lapselle. Vanhemmille lapsille on saatavilla myös tabletteja. Noudata tarkasti pakkauksen ohjeita. Älä yhdistele eri lääkkeitä. Alle 18-vuotiaille lapsille ei saa antaa asetyylisalisyylihappoa sisältäviä kuumetta alentavia lääkkeitä, kuten Magnecyliä, Treoa tai Albyliä.</p>
-    <p type="title">Reseptittä saatavat yskänlääkkeet</p>
-    <p>Reseptittä saatavien yskänlääkkeiden teho ei ole kovin hyvä. Jos lapsella on yskä, on tärkeää, että lapsi yskii liman ulos keuhkoputkista. Yskää lievittävät lääkkeet vaikeuttavat liman yskimistä ulos keuhkoputkista. Limaa irrottavien lääkkeiden teho on puolestaan epävarma. Yskän lievittämiseksi voi sen sijaan kokeilla lämpimän tai viileän juotavan antamista lapselle. Alle kaksivuotiaille lapsille ei saa koskaan antaa yskänlääkettä ilman että on ensin ottanut yhteyttä lääkäriin.</p>
-    <p type="title">Miten tartunnan leviämistä voi estää?</p>
-    <p>Tartunnan leviämisen estämiseksi on hyvä opettaa lapset aivastamaan ja yskimään kyynärtaipeeseen ja käyttämään paperinenäliinoja. On hyvä pitää huoli, että lapset pesevät kätensä useamman kerran päivässä. Yritä opettaa lapsi olemaan kaivamatta nenäänsä tai hieromaan silmiään. Virus tarttuu ja leviää helpoimmin sitä kautta. Tartunnan leviämistä voi ehkäistä myös niin, että lapset eivät leiki flunssaan sairastuneiden kanssa. Anna lasten olla ulkona mahdollisimman paljon, myös talvella.</p>
-    <p>Muista, että ympäristön tupakansavulle altistuvat lapset sairastuvat flunssaan helpommin.</p>
-    <p type="title">Ehkä tarpeen ottaa yhteys sairaanhoitoon</p>
-    <p>On erittäin tärkeää tarkkailla lapsen yleisvointia. Jos lapsi vaikuttaa väsyneeltä eikä jaksa juoda, on välittömästi otettava yhteys terveyskeskukseen tai akuuttivastaanottoon. Lapsi tarvitsee hoitoa myös silloin, jos hänellä on hengitysvaikeuksia tai yskä, joka pahenee ja kuulostaa haukkuvalta.</p>
-    <p>Jos lapsen korvasta valuu nestettä, tulee ottaa yhteyttä terveyskeskukseen tai päivystykseen, jotta lapsen korvat saadaan tutkittua.</p>
-    <p>Jos lapsella on korvakipuja eivätkä nämä mene ohi, tulee vuorokauden kuluessa ottaa yhteyttä terveyskeskukseen tutkimusta varten.</p>
-    <p type="title">Kysy neuvoa</p>
-    <p>Voit soittaa ympäri vuorokauden sairaanhoitajalle ja kysyä neuvoa. Soita numeroon 1177. Sieltä voidaan kertoa, mihin terveyskeskukseen kuulut.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>749</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Barn/Forkylning-hos-barn--vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Lapsen flunssa – mitä voi tehdä itse? / Förkylning hos barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Lapsen flunssa – mitä voi tehdä itse?Förkylning hos barn – vad kan man göra själv?</p>
+<p type="title">Nuhaa, yskää ja joskus kuumetta</p>
+<list><p type="listitem">Lapsen on helpompi hengittää, jos hänen pääpuoltaan kohotetaan. Sängyn pääpuolta voi kohottaa asettamalla patjan alle ylimääräisiä tyynyjä.</p>
+</list><p>Flunssaan sairastuneet lapset ovat usein muutaman päivän voimattomia, väsyneitä tai alakuloisia ja itkuisia. Tyypillisiä oireita ovat tukkoinen tai vuotava nenä ja kurkkukipu tai korvakipu. Oireisiin voi kuulua myös yskä tai kuume.</p>
+<p>Nenäerite on aluksi kirkasta ja läpinäkyvää. Muutaman päivän kuluttua se muuttuu paksummaksi ja väriltään joko keltaiseksi tai vihreäksi.</p>
+<p>Flunssaisen lapsen vointi on yleensä huonoimmillaan ensimmäisinä sairauspäivinä. Flunssa menee yleensä ohi itsestään viikon tai kahden kuluessa. Tavallisen flunssan aiheuttaja on virus. Viruksia vastaan ei ole olemassa lääkkeitä, jotka voisivat nopeuttaa lapsen paranemista.</p>
+<p type="title">Kuumeisten ja huonovointisten lasten tulee pysyä kotona</p>
+<p>Kuumeisten, huonovointisten ja väsyneiden lasten tulee jäädä kotiin lepäämään. Tavallisesti lasten pitää myös saada olla kotona ensimmäinen kuumeeton päivä, ilman että lapsi on saanut kuumetta alentavaa lääkettä. Lasten tulee olla niin pirteitä, että heillä on riittävästi energiaa olla esikoulussa tai koulussa.</p>
+<p type="title">Lepo on tärkeää</p>
+<p>Lapselle tulee antaa mahdollisuus levätä, mutta tämän ei tarvitse pysytellä sängyssä. Yleensä lapsi tuntee itse, paljonko hän jaksaa olla jalkeilla.</p>
+<p>Nukkuminen ja hengittäminen saattavat helpottua, jos pään alla on muutama lisätyyny. Tämä pätee etenkin vanhempiin lapsiin, jotka makaavat paikoillaan. Vauvoja voi päivällä pitää kantoliinassa, babysitterissä tai sylissä.</p>
+<p type="title">Lempiruokaa ja lisäjuomaa</p>
+<p>Monien lasten ruokahalu heikkenee flunssan aikana. Lapselle kannattaa antaa sellaista ruokaa, josta tämä pitää, esimerkiksi velliä, jogurttia tai jäätelöä. Jos lapsella on kuumetta, hänelle on hyvä antaa lisäjuomaa.</p>
+<p type="title">Keittosuolaliuosta tai nenäsumutetta tukkoiseen nenään</p>
+<p>Jos lapsen nenä on tukossa, tukkoista nenää voi avata sumuttamalla tai tiputtamalla nenään keittosuolaliuosta. Samalla nenästä voi hellävaraisesti myös poistaa limaa. Keittosuolaliuosta on saatavilla apteekeissa. Liuoksen voi valmistaa myös itse sekoittamalla millilitran – yhden maustemitallisen – suolaa desilitraan vettä. Keittosuolaliuosta voi tiputtaa lapsen nenään pumpulitupon avulla.</p>
+<p>Vaikeampaan nenän tukkoisuuteen voi lapselle antaa turvotusta lievittäviä nenätippoja tai nenäsumutetta. Näitä lääkkeitä voi ostaa apteekista ilman reseptiä, ja niitä voi käyttää yhtäjaksoisesti enintään kymmenen päivää. Nenäsumutteita ja nenätippoja on tarjolla eri ikäisille lapsille. Pakkauksesta käy ilmi, minkä ikäiselle tuote on tarkoitettu.</p>
+<p type="title">Reseptittä saatavat kuumetta alentavat lääkkeet</p>
+<p>Kuumeen hoitoon tarvitaan harvoin kuumetta alentavia lääkkeitä. Lapsen kuume kestää yleensä vain muutaman päivän, eikä tavallisesti ole vakavaa. Kuumetta alentavia lääkkeitä voidaan kuitenkin antaa, jos lapsen vointi on kuumeen vuoksi huonontunut merkittävästi, esimerkiksi jos lapsella on kipuja kehossa tai hän on ärtyisä tai jos lapsi syö, juo tai nukkuu huonosti, tai hänen on vaikea rauhoittua iltaisin.</p>
+<p>Alle kuuden kuukauden ikäisiä lapsia ei saa hoitaa kuumetta alentavilla lääkkeillä ennen kuin on ottanut yhteyttä sairaanhoitoon.</p>
+<p>Yli kolmen kuukauden ikäisten lasten hoitoon voi käyttää parasetamolia sisältäviä lääkkeitä, esimerkiksi Alvedonia tai Panodilia. Yli kuuden kuukauden ikäisille voidaan antaa ibuprofeenia sisältävää Ipreniä, jota saa apteekista ilman reseptiä. Lääkkeitä on saatavilla nestemäisenä tai peräpuikkoina, jotka sisältävät oikean annoksen pienelle lapselle. Vanhemmille lapsille on saatavilla myös tabletteja. Noudata tarkasti pakkauksen ohjeita. Älä yhdistele eri lääkkeitä. Alle 18-vuotiaille lapsille ei saa antaa asetyylisalisyylihappoa sisältäviä kuumetta alentavia lääkkeitä, kuten Magnecyliä, Treoa tai Albyliä.</p>
+<p type="title">Reseptittä saatavat yskänlääkkeet</p>
+<p>Reseptittä saatavien yskänlääkkeiden teho ei ole kovin hyvä. Jos lapsella on yskä, on tärkeää, että lapsi yskii liman ulos keuhkoputkista. Yskää lievittävät lääkkeet vaikeuttavat liman yskimistä ulos keuhkoputkista. Limaa irrottavien lääkkeiden teho on puolestaan epävarma. Yskän lievittämiseksi voi sen sijaan kokeilla lämpimän tai viileän juotavan antamista lapselle. Alle kaksivuotiaille lapsille ei saa koskaan antaa yskänlääkettä ilman että on ensin ottanut yhteyttä lääkäriin.</p>
+<p type="title">Miten tartunnan leviämistä voi estää?</p>
+<p>Tartunnan leviämisen estämiseksi on hyvä opettaa lapset aivastamaan ja yskimään kyynärtaipeeseen ja käyttämään paperinenäliinoja. On hyvä pitää huoli, että lapset pesevät kätensä useamman kerran päivässä. Yritä opettaa lapsi olemaan kaivamatta nenäänsä tai hieromaan silmiään. Virus tarttuu ja leviää helpoimmin sitä kautta. Tartunnan leviämistä voi ehkäistä myös niin, että lapset eivät leiki flunssaan sairastuneiden kanssa. Anna lasten olla ulkona mahdollisimman paljon, myös talvella.</p>
+<p>Muista, että ympäristön tupakansavulle altistuvat lapset sairastuvat flunssaan helpommin.</p>
+<p type="title">Ehkä tarpeen ottaa yhteys sairaanhoitoon</p>
+<p>On erittäin tärkeää tarkkailla lapsen yleisvointia. Jos lapsi vaikuttaa väsyneeltä eikä jaksa juoda, on välittömästi otettava yhteys terveyskeskukseen tai akuuttivastaanottoon. Lapsi tarvitsee hoitoa myös silloin, jos hänellä on hengitysvaikeuksia tai yskä, joka pahenee ja kuulostaa haukkuvalta.</p>
+<p>Jos lapsen korvasta valuu nestettä, tulee ottaa yhteyttä terveyskeskukseen tai päivystykseen, jotta lapsen korvat saadaan tutkittua.</p>
+<p>Jos lapsella on korvakipuja eivätkä nämä mene ohi, tulee vuorokauden kuluessa ottaa yhteyttä terveyskeskukseen tutkimusta varten.</p>
+<p type="title">Kysy neuvoa</p>
+<p>Voit soittaa ympäri vuorokauden sairaanhoitajalle ja kysyä neuvoa. Soita numeroon 1177. Sieltä voidaan kertoa, mihin terveyskeskukseen kuulut.</p>
+</body></document>

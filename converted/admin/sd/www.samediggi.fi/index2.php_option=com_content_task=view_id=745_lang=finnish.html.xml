@@ -1,38 +1,13 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Musiikkitoiminta saamenkielisessä opetus- ja kasvatustyössä– koulutuspäivät</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>94</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=745&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=745_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=745_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Musiikkitoiminta saamenkielisessä opetus- ja kasvatustyössä– koulutuspäivät</p>
-    <p>Saamelaiskäräjät ja Saamelaisalueen koulutuskeskus järjestävät</p>
-    <p>
-      <em type="italic">Musiikkitoiminta saamenkielisessä opetus- ja kasvatustyössä– koulutuspäivät </em>
-    </p>
-    <p>Inarissa, Saamelaiskulttuurikeskus Sajoksessa 4-5.10.2013.</p>
-    <p>Koulutuspäivät antavat sekä teoriatietoa aiheesta, että käytännön kokemuksellisuutta musiikin erilaisista mahdollisuuksista kasvatus- ja opetustyössä. Osallistuja saa uusia musiikillisia eväitä oman työnsä tueksi.</p>
-    <p>Koulutuspäivät ovat suunnattu saamenkieltä työssään käyttäville kasvatus- ja opetustyön ammattilaisille. Päivien kouluttajina toimivat muusikko ja musiikintekijä FM Annukka Hirvasvuopio-Laiti sekä musiikkipedagogi Jessika Lampi. Koulutus on osallistujille maksuton. Osallistujamäärä on rajattu, ensimmäiset 16 ilmoittautunutta mahtuvat koulutukseen mukaan. Ilmoittautuminen 25.9.2013 mennessä.</p>
-    <p>Lisätietoja ja ilmoittautumisohjeet:</p>
-    <p xml:lang="smj">Anu Magga</p>
-    <p xml:lang="fkv">Suunnittelija</p>
-    <p>Saamelaismusiikkikeskus</p>
-    <p xml:lang="sme">anu.magga(at)samediggi.fi</p>
-    <p xml:lang="nno">p. 050 567 2204</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Musiikkitoiminta saamenkielisessä opetus- ja kasvatustyössä– koulutuspäivät</title><genre code="admin"/><author><unknown/></author><wordcount>94</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=745&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=745_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=745_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Musiikkitoiminta saamenkielisessä opetus- ja kasvatustyössä– koulutuspäivät</p>
+<p>Saamelaiskäräjät ja Saamelaisalueen koulutuskeskus järjestävät</p>
+<p><em type="italic">Musiikkitoiminta saamenkielisessä opetus- ja kasvatustyössä– koulutuspäivät </em></p>
+<p>Inarissa, Saamelaiskulttuurikeskus Sajoksessa 4-5.10.2013.</p>
+<p>Koulutuspäivät antavat sekä teoriatietoa aiheesta, että käytännön kokemuksellisuutta musiikin erilaisista mahdollisuuksista kasvatus- ja opetustyössä. Osallistuja saa uusia musiikillisia eväitä oman työnsä tueksi.</p>
+<p>Koulutuspäivät ovat suunnattu saamenkieltä työssään käyttäville kasvatus- ja opetustyön ammattilaisille. Päivien kouluttajina toimivat muusikko ja musiikintekijä FM Annukka Hirvasvuopio-Laiti sekä musiikkipedagogi Jessika Lampi. Koulutus on osallistujille maksuton. Osallistujamäärä on rajattu, ensimmäiset 16 ilmoittautunutta mahtuvat koulutukseen mukaan. Ilmoittautuminen 25.9.2013 mennessä.</p>
+<p>Lisätietoja ja ilmoittautumisohjeet:</p>
+<p xml:lang="smj">Anu Magga</p>
+<p xml:lang="fkv">Suunnittelija</p>
+<p>Saamelaismusiikkikeskus</p>
+<p xml:lang="sme">anu.magga(at)samediggi.fi</p>
+<p xml:lang="nno">p. 050 567 2204</p>
+</body></document>

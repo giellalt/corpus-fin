@@ -1,70 +1,33 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>564</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="fin"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Vardval</origFileName>
-    <parallel_text xml:lang="eng" location="vardvalhalsoval.html"/>
-    <parallel_text xml:lang="fit" location="vardval.html"/>
-    <parallel_text xml:lang="sme" location="vardval.html"/>
-    <parallel_text xml:lang="swe" location="valja-vardmottagning.html"/>
-    <parallel_text location="valja-vardmottagning.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="valja-vardmottagning.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Hoitopaikan valinta / Välja vårdmottagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">SuomeksiFinska</p>
-    <list>
-      <p type="listitem">Takaisin teeman aloitussivulle</p>
-    </list>
-    <p type="title">Hoitopaikan valintaVälja vårdmottagning</p>
-    <p>Avohoitoa tarvitessa saa itse valita avohoitoa antavan terveyskeskuksen tai vastaanoton. Avohoitopaikan saa valita mistä tahansa Ruotsissa.</p>
-    <p>Määrätyn terveyskeskuksen tai lääkärin vastaanoton valinnalle saattaa olla eri syitä. Hoitoa tarvitseva saattaa esimerkiksi valita kodintai työpaikan lähellä sijaitsevan hoitopaikan tai hoitopaikan, jonka henkilöstö puhuu ja antaa tietoja kielellä, jota ymmärtää.</p>
-    <p type="title">Mitä valintoja voi tehdä?</p>
-    <p>Jokainen saa itse valita</p>
-    <list>
-      <p type="listitem">terveyskeskuksen</p>
-      <p type="listitem">lastenneuvolan</p>
-      <p type="listitem">kätilön vastaanoton</p>
-      <p type="listitem">nuorisovastaanoton</p>
-      <p type="listitem">erikoissairaanhoidon vastaanoton, esimerkiksi ihotautien vastaanoton.</p>
-    </list>
-    <p>Erikoissairaanhoidon vastaanotolle tarvitaan joissakin tapauksissa lähete. Lähetteen tarvetta säätelevät maakäräjien tai alueen lähetekäytännöt. Lue lisää eri maakäräjien ja alueiden käytännöistä tästä.</p>
-    <p type="title">Terveyskeskuksen valinta</p>
-    <p>Sairauden tai vaivojen johdosta on aina mahdollista hakea apua terveyskeskuksesta. Terveyskeskus antaa hoitoa heti, ja erikoissairaanhoitoa tarvittaessa potilas ohjataan oikealle vastaanotolle. Hoitoa tarvitseva saa kääntyä valinnaisen terveyskeskuksen puoleen omien maakäräjien tai oman alueen ulkopuolella. Mahdollisuus koskee kaikkia maakäräjien tai alueiden julkisia terveyskeskuksia, tai maakäräjien tai alueiden kanssa sopimuksen solmineita yksityisiä terveyskeskuksia.</p>
-    <p>Määrätyn terveyskeskuksen saa myös valita. Sitä kutsutaan joskus terveyskeskukseen listautumiseksi. Joidenkin maakäräjien alueella potilaalle valitaan automaattisesti asuinpaikkaa lähimpänä sijaitseva terveyskeskus, jos itse ei tee aktiivista valintaa. Jos ei ole tyytyväinen valitsemaansa terveyskeskukseen tai haluaa jostain muusta syystä vaihtaa sitä, sen saa tehdä. Listautuminen valinnaiseen terveyskeskukseen on mahdollista. Vaikka on listautunut määrättyyn terveyskeskukseen, hoitoa on mahdollista hakea toisesta.</p>
-    <p type="title">Omalääkäri</p>
-    <p>Terveyskeskuksessa on mahdollista saada pysyvä yhteyslääkäri. Sen johdosta potilas tapaa saman lääkärin jokaisella käynnillä, jos se suinkin on mahdollista.</p>
-    <p type="title">Avohoidossa toimivan erikoissairaanhoidon valinta</p>
-    <p>Avohoidon erikoissairaanhoitoa saa ilman, että joutuu sairaalaan. Erikoissairaanhoito saattaa esimerkiksi kattaa ihotaudit ja silmäsairaudet. Määrätyn sairauden johdosta on mahdollista ottaa myös yhteyttä sairauteen erikoistuneeseen vastaanottoon suoraan, kuten esimerkiksi munuaistautien vastaanottoon.</p>
-    <p>Avohoidossa toimivaan erikoislääkärin hoitoon saa hakeutua koko maan alueella. Joskus vaaditaan lähetettä. Sen ratkaisee omien maakäräjien tai oman alueen lähetekäytännöt sekä, jos vastaanottavan erikoislääkärin sijaintipaikan maakäräjät tai alue vaativat lähetettä.</p>
-    <p type="title">Mitä potilaskertomukselle tapahtuu?</p>
-    <p>Uutta terveyskeskusta tai erikoislääkärin vastaanottoa valittaessa niiden henkilöstö ei automaattisesti näe edellisen hoidonantajan laatimia potilaskertomuksia. Jos haluaa uuden vastaanoton tutustuvan aiempiin potilaskertomuksiin, potilaan on hyväksyttävä se. Henkilöstö kertoo, miten se tapahtuu.</p>
-    <p type="title">Tarvitsenko lähetteen?</p>
-    <p>Lähete on viesti, jossa kerrotaan potilaan tarvitsevan määrättyä arviointia, tutkimusta tai hoitoa. Lähete sisältää myös lääketieteellisiä esimerkiksi oireita, vointia sekä aiempia sairauksia ja vammoja koskevia tietoja.</p>
-    <p>Lähetteen saamiseksi on ensin hakeuduttava terveyskeskuksen hoitoon. Jos on tarvetta avohoidossa toimivasta erikoissairaanhoidosta, terveyskeskuksen lääkäri tekee lähetteen valitulle vastaanotolle. Jotkut maakäräjät ja alueet vaativat aina lähetettä avohoidossa toimivalle erikoissairaanhoidon vastaanotoille, kun taas toiset eivät vaadi sitä. Lähetteen avulla erikoislääkärin hoitoa saa joissakin tapauksissa nopeammin kuin ilman lähetettä. Lääketieteelliset tarpeet ratkaisevat sen, miten nopeasti hoitoa saa.</p>
-    <p>Jos haluaa hakeutua toisten maakäräjien tai toisen alueen puitteissa toimivan erikoislääkärin hoitoon, on ensin selvitettävä vaativatko kotipaikan maakäräjät lähetettä. Myös hoitoa antavat muut maakäräjät saattavat vaatia lähetettä. Niissä tapauksissa sellainen on hankittava. Lue lisää eri maakäräjien ja alueiden käytännöistä tästä.</p>
-    <p type="title">Onko hoitotakuu voimassa?</p>
-    <p>Hoitotakuu merkitsee muuan muassa, että hoitoa tulee tarjota määrätyn ajan kuluessa, ja että potilasta autetaan hoitoon toisaalle, jos asuinpaikan maakäräjien alueella ei pystytä tarjoamaan hoitoa määräaikana. Takuu on voimassa vain, kun hoitoa haetaan asuinpaikan maakäräjien tai alueen piiristä tai vastaanotolta, jonka kanssa maakäräjät ovat solmineet sopimuksen.</p>
-    <p>Kun hoitoa haetaan muiden maakäräjien tai alueiden piiristä, lääketieteelliset tarpeet ratkaisevat hoitoajankohdan. Arvioinnin tekee lääkäri.</p>
-    <p type="title">Potilasmaksut ja sairausmatkat</p>
-    <p>Potilasmaksut voivat vaihdella eri maakäräjien, alueiden ja hoitojen välillä. Kun hoitoa haetaan muiden maakäräjien alueelta, on maksettava kyseisten maakäräjien vahvistamaa potilasmaksua.</p>
-    <p>Kun hoitoa haetaan muiden maakäräjien alueelta, ei ole oikeutta vastaanoton ja kodin välisen matkan, nk. sairausmatkan, kattavaan matkakorvaukseen.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>560</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Finska/Regler-och-rattigheter/Vardval</origFileName><parallel_text xml:lang="eng" location="vardvalhalsoval.html"/><parallel_text xml:lang="fit" location="vardval.html"/><parallel_text xml:lang="sme" location="vardval.html"/><parallel_text xml:lang="swe" location="valja-vardmottagning.html"/><parallel_text location="valja-vardmottagning.html" xml:lang="rmy-rlo"/><parallel_text location="valja-vardmottagning.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Hoitopaikan valinta / Välja vårdmottagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title" xml:lang="swe">Hoitopaikan valintaVälja vårdmottagning</p>
+<p>Avohoitoa tarvitessa saa itse valita avohoitoa antavan terveyskeskuksen tai vastaanoton. Avohoitopaikan saa valita mistä tahansa Ruotsissa.</p>
+<p>Määrätyn terveyskeskuksen tai lääkärin vastaanoton valinnalle saattaa olla eri syitä. Hoitoa tarvitseva saattaa esimerkiksi valita kodintai työpaikan lähellä sijaitsevan hoitopaikan tai hoitopaikan, jonka henkilöstö puhuu ja antaa tietoja kielellä, jota ymmärtää.</p>
+<p type="title">Mitä valintoja voi tehdä?</p>
+<p>Jokainen saa itse valita</p>
+<list><p type="listitem">terveyskeskuksen</p>
+<p type="listitem">lastenneuvolan</p>
+<p type="listitem">kätilön vastaanoton</p>
+<p type="listitem">nuorisovastaanoton</p>
+<p type="listitem">erikoissairaanhoidon vastaanoton, esimerkiksi ihotautien vastaanoton.</p>
+</list><p>Erikoissairaanhoidon vastaanotolle tarvitaan joissakin tapauksissa lähete. Lähetteen tarvetta säätelevät maakäräjien tai alueen lähetekäytännöt. Lue lisää eri maakäräjien ja alueiden käytännöistä tästä.</p>
+<p type="title">Terveyskeskuksen valinta</p>
+<p>Sairauden tai vaivojen johdosta on aina mahdollista hakea apua terveyskeskuksesta. Terveyskeskus antaa hoitoa heti, ja erikoissairaanhoitoa tarvittaessa potilas ohjataan oikealle vastaanotolle. Hoitoa tarvitseva saa kääntyä valinnaisen terveyskeskuksen puoleen omien maakäräjien tai oman alueen ulkopuolella. Mahdollisuus koskee kaikkia maakäräjien tai alueiden julkisia terveyskeskuksia, tai maakäräjien tai alueiden kanssa sopimuksen solmineita yksityisiä terveyskeskuksia.</p>
+<p>Määrätyn terveyskeskuksen saa myös valita. Sitä kutsutaan joskus terveyskeskukseen listautumiseksi. Joidenkin maakäräjien alueella potilaalle valitaan automaattisesti asuinpaikkaa lähimpänä sijaitseva terveyskeskus, jos itse ei tee aktiivista valintaa. Jos ei ole tyytyväinen valitsemaansa terveyskeskukseen tai haluaa jostain muusta syystä vaihtaa sitä, sen saa tehdä. Listautuminen valinnaiseen terveyskeskukseen on mahdollista. Vaikka on listautunut määrättyyn terveyskeskukseen, hoitoa on mahdollista hakea toisesta.</p>
+<p type="title">Omalääkäri</p>
+<p>Terveyskeskuksessa on mahdollista saada pysyvä yhteyslääkäri. Sen johdosta potilas tapaa saman lääkärin jokaisella käynnillä, jos se suinkin on mahdollista.</p>
+<p type="title">Avohoidossa toimivan erikoissairaanhoidon valinta</p>
+<p>Avohoidon erikoissairaanhoitoa saa ilman, että joutuu sairaalaan. Erikoissairaanhoito saattaa esimerkiksi kattaa ihotaudit ja silmäsairaudet. Määrätyn sairauden johdosta on mahdollista ottaa myös yhteyttä sairauteen erikoistuneeseen vastaanottoon suoraan, kuten esimerkiksi munuaistautien vastaanottoon.</p>
+<p>Avohoidossa toimivaan erikoislääkärin hoitoon saa hakeutua koko maan alueella. Joskus vaaditaan lähetettä. Sen ratkaisee omien maakäräjien tai oman alueen lähetekäytännöt sekä, jos vastaanottavan erikoislääkärin sijaintipaikan maakäräjät tai alue vaativat lähetettä.</p>
+<p type="title">Mitä potilaskertomukselle tapahtuu?</p>
+<p>Uutta terveyskeskusta tai erikoislääkärin vastaanottoa valittaessa niiden henkilöstö ei automaattisesti näe edellisen hoidonantajan laatimia potilaskertomuksia. Jos haluaa uuden vastaanoton tutustuvan aiempiin potilaskertomuksiin, potilaan on hyväksyttävä se. Henkilöstö kertoo, miten se tapahtuu.</p>
+<p type="title">Tarvitsenko lähetteen?</p>
+<p>Lähete on viesti, jossa kerrotaan potilaan tarvitsevan määrättyä arviointia, tutkimusta tai hoitoa. Lähete sisältää myös lääketieteellisiä esimerkiksi oireita, vointia sekä aiempia sairauksia ja vammoja koskevia tietoja.</p>
+<p>Lähetteen saamiseksi on ensin hakeuduttava terveyskeskuksen hoitoon. Jos on tarvetta avohoidossa toimivasta erikoissairaanhoidosta, terveyskeskuksen lääkäri tekee lähetteen valitulle vastaanotolle. Jotkut maakäräjät ja alueet vaativat aina lähetettä avohoidossa toimivalle erikoissairaanhoidon vastaanotoille, kun taas toiset eivät vaadi sitä. Lähetteen avulla erikoislääkärin hoitoa saa joissakin tapauksissa nopeammin kuin ilman lähetettä. Lääketieteelliset tarpeet ratkaisevat sen, miten nopeasti hoitoa saa.</p>
+<p>Jos haluaa hakeutua toisten maakäräjien tai toisen alueen puitteissa toimivan erikoislääkärin hoitoon, on ensin selvitettävä vaativatko kotipaikan maakäräjät lähetettä. Myös hoitoa antavat muut maakäräjät saattavat vaatia lähetettä. Niissä tapauksissa sellainen on hankittava. Lue lisää eri maakäräjien ja alueiden käytännöistä tästä.</p>
+<p type="title">Onko hoitotakuu voimassa?</p>
+<p>Hoitotakuu merkitsee muuan muassa, että hoitoa tulee tarjota määrätyn ajan kuluessa, ja että potilasta autetaan hoitoon toisaalle, jos asuinpaikan maakäräjien alueella ei pystytä tarjoamaan hoitoa määräaikana. Takuu on voimassa vain, kun hoitoa haetaan asuinpaikan maakäräjien tai alueen piiristä tai vastaanotolta, jonka kanssa maakäräjät ovat solmineet sopimuksen.</p>
+<p>Kun hoitoa haetaan muiden maakäräjien tai alueiden piiristä, lääketieteelliset tarpeet ratkaisevat hoitoajankohdan. Arvioinnin tekee lääkäri.</p>
+<p type="title">Potilasmaksut ja sairausmatkat</p>
+<p>Potilasmaksut voivat vaihdella eri maakäräjien, alueiden ja hoitojen välillä. Kun hoitoa haetaan muiden maakäräjien alueelta, on maksettava kyseisten maakäräjien vahvistamaa potilasmaksua.</p>
+<p>Kun hoitoa haetaan muiden maakäräjien alueelta, ei ole oikeutta vastaanoton ja kodin välisen matkan, nk. sairausmatkan, kattavaan matkakorvaukseen.</p>
+</body></document>

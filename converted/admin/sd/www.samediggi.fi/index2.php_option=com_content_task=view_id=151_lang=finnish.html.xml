@@ -1,101 +1,55 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Inarinsaame, kirjallisuus</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>185</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=151&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=151_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=151_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=151_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=151_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Inarinsaame, kirjallisuus</p>
-    <p xml:lang="smn"><em type="italic">Anni Sarre - Postâ Maati Ánná,  </em> govat ja divttat </p>
-    <p type="title" xml:lang="est">Spejâlistem – Heijastus</p>
-    <p>Inarinsaameksi kääntänyt Anni Sarre</p>
-    <p>Käännösasun tarkastus ja kielenhuolto:</p>
-    <p xml:lang="smn"><em type="italic">Ilmari Mattus, Matti Morottaja  </em>já  <em type="italic">Hannu Kangasniemi  </em></p>
-    <p>Kansikuva <em type="italic">Martti Rikkonen  </em></p>
-    <p>Runojen ja maalausten aiheet löytyvät siitä elämänpiiristä, jossa Anni &#13; 			Sarre on elänyt koko elämänsä; isolta Inarilta ja sen ympäristöstä, &#13; 			ihmisistä ja heidän elämästään.</p>
-    <p xml:lang="koi">20,00 €</p>
-    <p xml:lang="nno">isbn 978-952-441-305-3</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät </em>
-      <em type="italic">2015 </em>
-    </p>
-    <p xml:lang="koi">_____________________________________________________________________________________</p>
-    <p xml:lang="est">
-      <em type="italic">Antoine de Saint-Exupéry  </em>
-    </p>
-    <p>pohjoissaamesta kääntänyt <em type="italic">Iisakki Mattus  </em></p>
-    <p type="title" xml:lang="smn">Uccâ priinsâš</p>
-    <p>
-      <em type="italic"><span type="quote">”Tämä uusi painos Antoine de Saint-Exupéryn kirjasta ”Pikku prinssi”</span> pohjautuu … tarkoin alkuperäiseen amerikkalaiseen vuoden 1943 painokseen, ainoaan joka ilmestyi kirjailijan vielä eläessä. ” </em>
-    </p>
-    <p>Kustantajan huomautus</p>
-    <p xml:lang="koi">14,00 €</p>
-    <p>sivuja: 95</p>
-    <p xml:lang="sms">ISBN: 978-952-441-249-0</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät </em>
-    </p>
-    <p xml:lang="koi">
-      <em type="italic">2013 </em>
-    </p>
-    <p xml:lang="koi">_____________________________________________________________________________________</p>
-    <p type="title" xml:lang="est">Kollepäddi</p>
-    <p>
-      <em type="italic">Siperialaisia tarinoita  </em>
-    </p>
-    <p>Valinnut, toimittanut ja suomentanut: <em type="italic">Kirsti Siraste  </em></p>
-    <p>saamennos: <em type="italic">Iisakki Mattus  </em></p>
-    <p>kuvat: <em type="italic">Hannu Lukkarinen  </em></p>
-    <p xml:lang="koi">11,00 €</p>
-    <p>sivuja: 158</p>
-    <p xml:lang="sms">ISBN 952-441-048-6</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2001 </em>
-    </p>
-    <p xml:lang="koi">_____________________________________________________________________________________</p>
-    <p>
-      <em type="italic">Marja-Liisa Olthuis  </em>
-    </p>
-    <p type="title" xml:lang="sms">Njobžâvääri pessijâšmarkkâneh</p>
-    <p>kuvat: <em type="italic">Petra Kuuva  </em></p>
-    <p>Sopii hyvin lukukirjaksi ala-asteelle. Voidaan käyttää myös vieraan kielen opiskeluun.</p>
-    <p xml:lang="koi">6,00 €</p>
-    <p>sivuja: 48</p>
-    <p xml:lang="sms">ISBN 952-441-125-3</p>
-    <p>
-      <em type="italic">Saamelaiskäräjät 2006 </em>
-    </p>
-    <p xml:lang="koi">_____________________________________________________________________________________</p>
-    <p>Toim. Matti Morottaja, kuvitus Sylvi Rasmus</p>
-    <p type="title" xml:lang="smn">Sigá maainâs</p>
-    <p>Tarinat on valittu kirjasta</p>
-    <p xml:lang="koi"><span type="quote">”Inarinlappalaista kansantietoutta”</span>,</p>
-    <p xml:lang="smn">A.V.Koskimies 1886</p>
-    <p xml:lang="koi">4,00 €</p>
-    <p>sivuja: 158</p>
-    <p xml:lang="sms">ISBN 951-53-0385-0</p>
-    <p>
-      <em type="italic">Lapin lääninhallitus 1995 </em>
-    </p>
-    <p xml:lang="koi">_____________________________________________________________________________________</p>
-    <p xml:lang="eng">New layer...</p>
-    <p xml:lang="kal">New</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Inarinsaame, kirjallisuus</title><genre code="admin"/><author><unknown/></author><wordcount>185</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=151&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=151_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=151_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=151_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=151_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Inarinsaame, kirjallisuus</p>
+<p xml:lang="smn"><em type="italic">Anni Sarre - Postâ Maati Ánná,  </em> govat ja divttat </p>
+<p type="title" xml:lang="est">Spejâlistem – Heijastus</p>
+<p>Inarinsaameksi kääntänyt Anni Sarre</p>
+<p>Käännösasun tarkastus ja kielenhuolto:</p>
+<p xml:lang="smn"><em type="italic">Ilmari Mattus, Matti Morottaja  </em>já  <em type="italic">Hannu Kangasniemi  </em></p>
+<p>Kansikuva <em type="italic">Martti Rikkonen  </em></p>
+<p>Runojen ja maalausten aiheet löytyvät siitä elämänpiiristä, jossa Anni &#13; 			Sarre on elänyt koko elämänsä; isolta Inarilta ja sen ympäristöstä, &#13; 			ihmisistä ja heidän elämästään.</p>
+<p xml:lang="vep">20,00 €</p>
+<p xml:lang="nno">isbn 978-952-441-305-3</p>
+<p><em type="italic">Saamelaiskäräjät </em><em type="italic">2015 </em></p>
+<p xml:lang="vep">_____________________________________________________________________________________</p>
+<p xml:lang="est"><em type="italic">Antoine de Saint-Exupéry  </em></p>
+<p>pohjoissaamesta kääntänyt <em type="italic">Iisakki Mattus  </em></p>
+<p type="title" xml:lang="smn">Uccâ priinsâš</p>
+<p><em type="italic"><span type="quote">”Tämä uusi painos Antoine de Saint-Exupéryn kirjasta ”Pikku prinssi”</span> pohjautuu … tarkoin alkuperäiseen amerikkalaiseen vuoden 1943 painokseen, ainoaan joka ilmestyi kirjailijan vielä eläessä. ” </em></p>
+<p>Kustantajan huomautus</p>
+<p xml:lang="vep">14,00 €</p>
+<p>sivuja: 95</p>
+<p xml:lang="sms">ISBN: 978-952-441-249-0</p>
+<p><em type="italic">Saamelaiskäräjät </em></p>
+<p xml:lang="vep"><em type="italic">2013 </em></p>
+<p xml:lang="vep">_____________________________________________________________________________________</p>
+<p type="title" xml:lang="est">Kollepäddi</p>
+<p><em type="italic">Siperialaisia tarinoita  </em></p>
+<p>Valinnut, toimittanut ja suomentanut: <em type="italic">Kirsti Siraste  </em></p>
+<p>saamennos: <em type="italic">Iisakki Mattus  </em></p>
+<p>kuvat: <em type="italic">Hannu Lukkarinen  </em></p>
+<p xml:lang="vep">11,00 €</p>
+<p>sivuja: 158</p>
+<p xml:lang="sms">ISBN 952-441-048-6</p>
+<p><em type="italic">Saamelaiskäräjät 2001 </em></p>
+<p xml:lang="vep">_____________________________________________________________________________________</p>
+<p><em type="italic">Marja-Liisa Olthuis  </em></p>
+<p type="title" xml:lang="sms">Njobžâvääri pessijâšmarkkâneh</p>
+<p>kuvat: <em type="italic">Petra Kuuva  </em></p>
+<p>Sopii hyvin lukukirjaksi ala-asteelle. Voidaan käyttää myös vieraan kielen opiskeluun.</p>
+<p xml:lang="vep">6,00 €</p>
+<p>sivuja: 48</p>
+<p xml:lang="sms">ISBN 952-441-125-3</p>
+<p><em type="italic">Saamelaiskäräjät 2006 </em></p>
+<p xml:lang="vep">_____________________________________________________________________________________</p>
+<p>Toim. Matti Morottaja, kuvitus Sylvi Rasmus</p>
+<p type="title" xml:lang="smn">Sigá maainâs</p>
+<p>Tarinat on valittu kirjasta</p>
+<p xml:lang="vep"><span type="quote">”Inarinlappalaista kansantietoutta”</span>,</p>
+<p xml:lang="smn">A.V.Koskimies 1886</p>
+<p xml:lang="vep">4,00 €</p>
+<p>sivuja: 158</p>
+<p xml:lang="sms">ISBN 951-53-0385-0</p>
+<p><em type="italic">Lapin lääninhallitus 1995 </em></p>
+<p xml:lang="vep">_____________________________________________________________________________________</p>
+<p xml:lang="eng">New layer...</p>
+<p xml:lang="kal">New</p>
+</body></document>

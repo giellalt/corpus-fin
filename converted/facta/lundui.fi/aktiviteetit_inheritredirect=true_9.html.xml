@@ -1,181 +1,132 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Urho Kekkosen kansallispuiston aktiviteetit - Luontoon.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>788</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.luontoon.fi/urhokekkosenkansallispuisto/aktiviteetit?inheritRedirect=true</origFileName>
-    <parallel_text xml:lang="eng" location="activities_5.html"/>
-    <parallel_text xml:lang="sme" location="aktivitehtat_4.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Siirry sisältöön</p>
-    <p>Avaa Valikko</p>
-    <list>
-      <p type="listitem">In English</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p type="title">Urho Kekkosen kansallispuisto</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit <list><p type="listitem">Junior Ranger</p></list> </p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Reitit Tankavaarasta</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Retkikohteet</p>
-    <list>
-      <p type="listitem">Kansallispuistot</p>
-      <p type="listitem">Maailmanperintökohteet</p>
-      <p type="listitem">Retkeilyalueet</p>
-      <p type="listitem">Erämaa-alueet</p>
-      <p type="listitem">Muut luontokohteet</p>
-      <p type="listitem">Luontokeskukset</p>
-      <p type="listitem">Vaellusreitit</p>
-      <p type="listitem">Historiakohteet</p>
-      <p type="listitem">Tuvat</p>
-      <p type="listitem">Esteettömät kohteet</p>
-    </list>
-    <list>
-      <p type="listitem">Etelä-Konnevesi</p>
-      <p type="listitem">Helvetinjärvi</p>
-      <p type="listitem">Hiidenportti</p>
-      <p type="listitem">Isojärvi</p>
-      <p type="listitem">Itäinen Suomenlahti</p>
-      <p type="listitem">Kauhaneva - Pohjankangas</p>
-      <p type="listitem">Koli</p>
-      <p type="listitem">Kolovesi</p>
-      <p type="listitem">Kurjenrahka</p>
-      <p type="listitem">Lauhanvuori</p>
-      <p type="listitem">Leivonmäki</p>
-      <p type="listitem">Lemmenjoki</p>
-      <p type="listitem">Liesjärvi</p>
-      <p type="listitem">Linnansaari</p>
-      <p type="listitem">Nuuksio</p>
-      <p type="listitem">Oulanka</p>
-      <p type="listitem">Pallas-Yllästunturi</p>
-      <p type="listitem">Patvinsuo</p>
-      <p type="listitem">Perämeri</p>
-      <p type="listitem">Petkeljärvi</p>
-      <p type="listitem">Puurijärvi ja Isosuo</p>
-      <p type="listitem">Pyhä-Häkki</p>
-      <p type="listitem">Pyhä-Luosto</p>
-      <p type="listitem">Päijänne</p>
-      <p type="listitem">Repovesi</p>
-      <p type="listitem">Riisitunturi</p>
-      <p type="listitem">Rokua</p>
-      <p type="listitem">Saaristomeri</p>
-      <p type="listitem">Salamajärvi</p>
-      <p type="listitem">Seitseminen</p>
-      <p type="listitem">Selkämeri</p>
-      <p type="listitem">Sipoonkorpi</p>
-      <p type="listitem">Syöte</p>
-      <p type="listitem">Tammisaaren saaristo</p>
-      <p type="listitem">Teijo</p>
-      <p type="listitem">Tiilikkajärvi</p>
-      <p type="listitem">Torronsuo</p>
-      <p type="listitem">Urho Kekkosen kansallispuisto</p>
-      <p type="listitem">Valkmusa</p>
-    </list>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit</p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Reitit Tankavaarasta</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <list>
-      <p type="listitem">Junior Ranger</p>
-    </list>
-    <p>Urho Kekkosen sivut</p>
-    <p type="title">Urho Kekkosen kansallispuisto</p>
-    <list>
-      <p type="listitem">Ajankohtaista</p>
-      <p type="listitem">Aktiviteetit <list><p type="listitem">Junior Ranger</p></list> </p>
-      <p type="listitem">Historia</p>
-      <p type="listitem">Kartat ja kulkuyhteydet</p>
-      <p type="listitem">Luonto</p>
-      <p type="listitem">Nähtävyydet</p>
-      <p type="listitem">Ohjeet ja säännöt</p>
-      <p type="listitem">Palvelut</p>
-      <p type="listitem">Reitit</p>
-      <p type="listitem">Reitit Tankavaarasta</p>
-      <p type="listitem">Yleisimmät kysymykset</p>
-      <p type="listitem">Lisätietoja</p>
-    </list>
-    <p type="title">Urho Kekkosen kansallispuiston aktiviteetit</p>
-    <p>Tule nauttimaan tunturitupien rauhasta ja loputtomiin jatkuvasta avarasta tunturierämaasta. Erämaan tunteen voi kokea niin pitkillä vaelluksilla puiston laajoissa erämaaosissa kuin patikoimalla ja hiihtämällä aivan Saariselän kupeessa sijaitsevalla päiväretkeilyalueella. Kansallispuisto jakautuu päiväretkeilylle tarkoitettuun perusosaan ja eräretkeilyyn sopiviin Saariselän, Kemin-Sompion ja Nuorttin erämaaosiin. Huomaathan, että Paju-, Repo- ja Lamminaavojen  rajoitusosilla on liikkuminen kielletty lintujen pesimäaikaan 15.5.–15.7.</p>
-    <p type="title">Vaellus</p>
-    <p>Urho Kekkosen kansallispuiston laajat erämaaosat pääsee kokemaan talvella hiihtäen, sulan maan aikana jalan vaeltaen. Vaeltaminen merkittyjen reittien ulkopuolella vaatii retkeilijältä erä- ja suunnistustaitoja, ja lisähaasteita tuo talvivaellus umpihangessa. Kartta ja kompassi ovat alueella välttämättömiä, koska pelkkä GPS-paikannin ei ole riittävä erämaassa. Yösijan vaeltaja saa puiston monista polttopuilla varustetuista autio- ja varaustuvista, jotka sijaitsevat päivämatkan päässä toisistaan. Vaikka reittejä ei ole merkitty maastoon, puiston erämaaosiin on syntynyt vakiintuneita kulku-uria. Ne sijoittuvat yleensä maastoon, joka on vaativuudeltaan keskitasoa. Yksi suosituimmista merkitsemättömistä kulkuväylistä on Kiilopää–Suomuruoktu–Tuiskukuru–Luirojärvi–Lankojärvi–Kiilopää -reitti (70–80 km) .</p>
-    <p type="title">Hiihto</p>
-    <p>Saariselän, Kiilopään ja Kakslauttasen läheisyydessä hiihtäjä pääsee päiväretkillä ulkoilemaan hoidetulla latuverkostolla. Hoidettua latua on alueella 200 km:n pituudelta, josta 70 km on Urho Kekkosen kansallispuiston perusosassa. Latujen määrä vaihtelee lumitilanteen mukaan – latuverkosto on kattavimmillaan kevättalvella, kun lunta on eniten. Tarjolla on vaativuudeltaan eritasoisia latuja niin sunnuntai- kuin himohiihtäjälle. Valtaosa laduista sopii sekä perinteiselle hiihtotyylille että luisteluhiihtoon. Latujen varrella on polttopuilla varustettuja päivätupia ja laavuja evästaukoja varten.</p>
-    <p type="title">Patikointi</p>
-    <p>Urho Kekkosen kansallispuiston luonnosta voi nauttia myös merkityillä reiteillä kävellen. Saariselän, Kiilopään ja Kakslauttasen läheisyydessä on merkitty päiväretkeilyyn sopiva patikkareitistö (200 km), josta 80 km on Urho Kekkosen kansallispuiston perusosassa. Patikkareittien varrella voit levähtää polttopuilla varustetuilla päivätuvilla ja laavuilla. Reitit ovat vaativuudeltaan vaihtelevia. Kaikenikäisille ja -kuntoisille sopivilla luontopoluilla (1‒7 km) retkeilijää opastavat infotaulut, jotka kertovat paikallisesta luonnosta ja kulttuurista. Luontopolkuja on Saariselällä, Kiilopäällä ja Tankavaaran luontokeskuksen kupeessa. Talvella luontopoluilla voi lumikenkäillä.</p>
-    <p type="title">Merkittyjä useamman päivän patikointiin sopivia reittejä ovat Korvatunturin suunnalle johtava Kemihaara–Korvatunturinmurusta -retkeilyreitti (18 km yhteen suuntaan), Nuorttijoen kanjonia seuraileva Nuorttin retkeilyreitti (40 km ympyrälenkki) ja historiallinen Ruijanpolku (35 km yhteen suuntaan), joka kulkee eteläosassaan Sompion luonnonpuiston läpi. Reittien varrella on autiotupia, laavuja ja tulipaikkoja. Reitit ovat vaativuudelta eritasoisia: Kemihaara‒Korvatunturinmurusta -reitti on keskivaativa, Nuorttin reitti ja Ruijanpolku vaativia.</p>
-    <p type="title">Muut aktiviteetit</p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Kalastus: </em>
-        <list>
-          <p type="listitem">UK-puiston kalastusalueelle nro</p>
-          <p type="listitem">Nuorttijoen kalastusalueelle nro</p>
-        </list>
-      </p>
-    </list>
-    <list>
-      <p type="listitem"><em type="italic">Lintujen tarkkailu: </em>Kansallispuistossa voi nähdä esim. maakotkan, kuukkelin, riekon tai kapustarinnan. Tankavaaran luontopolkujen varrella on kaksi näkötornia, jotka sopivat hyvin lintujen tarkkailuun. </p>
-      <p type="listitem"><em type="italic">Luontokeskus: </em>Tankavaaran luontokeskuksesta , Saariselän palvelupiste Kiehisestä ja Savukosken opastuskeskus Korvatunturista saat tietoa kansallispuistosta. Kysy meiltä retkeilyvinkkejä, tee varauksia varaus- ja vuokratupiin ja osta kalastus-, metsästys- ja maastoliikennelupia. Pysyviä ja vaihtuvia näyttelyitä, AV-esityksiä, luontopuodit. </p>
-      <p type="listitem"><em type="italic">Marjastus ja sienestys: </em>Kansallispuistossa voit poimia marjoja ja sieniä. </p>
-      <p type="listitem"><em type="italic">Melonta: </em>Hyviä melontapaikkoja ovat esim. Luiro- ja Kopsusjoki. Kansallispuistossa ei ole merkittyjä melontareittejä. </p>
-      <p type="listitem"><em type="italic">Metsästys: </em>Urho Kekkosen kansallispuistossa saavat metsästää ainoastaan paikalliset asukkaat asuinkuntansa alueella metsästyslain mukaisin ehdoin. </p>
-      <p type="listitem"><em type="italic">Nähtävyydet ja näköalat: </em>Vaella erämaaosassa sijaitsevalle Luirojärvelle ja sen itäpuolella kohoavalle puiston korkeimmalle tunturille Sokostille, Paratiisikuruun tai Vongoivan räystäälle. Vieraile kirkasvetisessä Suomujokilaaksossa tai matkaa Suomen ja Venäjän rajavyöhykkeelle Korvatunturille tai Nuorttin kanjoniin. Alueen kulttuuriperintöön tutustut mm. kansallispuiston pohjoisosan kolttakentillä ja Raja-Joosepin asuinkentällä Venäjän rajan tuntumassa sekä Tankavaaran toisen maailmansodan aikaisella saksalaisten Schutzwall-puolustusasemalla. Helposti tavoitettavia näköalapaikkoja ovat Rumakuru, Kiilopään huippu sekä Kaunispää kansallispuiston rajan läheisyydessä Saariselällä. </p>
-    </list>
-    <list>
-      <p type="listitem"><em type="italic">Pyöräily: </em>Pyöräily on sallittu kansallispuistossa neljällä reitillä: Saariselkä‒Luttotupa (Moitakurun pyöräilyreitti: pitempi 22 km ja lyhyempi 10 km rengasreitti), Raja-Jooseppi‒Anteri (Anterin pyöräilyreitti: 25 km yhteen suuntaan), Kemihaara‒Mantoselkä (11 km yhteen suuntaan) ja Kemihaara–Vieriharju (10 km yhteen suuntaan). </p>
-      <p type="listitem"><em type="italic">Ratsastus: </em>Ratsastus on sallittua kansallispuistossa kahdella reitillä: Kemihaara–Mantoselkä (11 km yhteen suuntaan) ja Kemihaara-Vieriharju (10 km yhteen suuntaan). </p>
-      <p type="listitem"><em type="italic">Ryhmäopastukset: </em>Tietoa erilaisista opastuksista luontokeskuksessa ja luontopoluilla saa Tankavaaran luontokeskuksesta . Varaa luontokeskuksesta  myös opastus  ryhmällesi. </p>
-      <p type="listitem"><em type="italic">Vapaaehtoistoiminta: </em>Voit osallistua puiston toimintaan talkooleireillä, Junior Ranger -leireillä ja erilaisissa tapahtumissa. Kansallispuistossa on myös kansainvälistä vapaaehtoistoimintaa. </p>
-    </list>
-    <p>Urho Kekkosen kansallispuistossa toimivat yrittäjät tarjoavat mm. opastettuja retkiä sekä vuokraavat mm. lumikenkiä, suksia ja maastopyöriä.</p>
-    <list>
-      <p type="listitem">Urho Kekkosen kansallispuiston kalastuslupa</p>
-    </list>
-    <list>
-      <p type="listitem">Nuorttijoen kalastuslupa</p>
-    </list>
-    <p type="title">Kalastonhoitomaksu 2016</p>
-    <p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Jaa tämä sivu</p>
-    <p>Avaa Valikko</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Urho Kekkosen kansallispuiston aktiviteetit - Luontoon.fi</title><genre code="facta"/><author><unknown/></author><wordcount>788</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.luontoon.fi/urhokekkosenkansallispuisto/aktiviteetit?inheritRedirect=true</origFileName><parallel_text xml:lang="eng" location="activities_5.html"/><parallel_text xml:lang="sme" location="aktivitehtat_4.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<p>Avaa Valikko</p>
+<list><p type="listitem">In English</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p type="title">Urho Kekkosen kansallispuisto</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit <list><p type="listitem">Junior Ranger</p>
+</list> </p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Reitit Tankavaarasta</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Retkikohteet</p>
+<list><p type="listitem">Kansallispuistot</p>
+<p type="listitem">Maailmanperintökohteet</p>
+<p type="listitem">Retkeilyalueet</p>
+<p type="listitem">Erämaa-alueet</p>
+<p type="listitem">Muut luontokohteet</p>
+<p type="listitem">Luontokeskukset</p>
+<p type="listitem">Vaellusreitit</p>
+<p type="listitem">Historiakohteet</p>
+<p type="listitem">Tuvat</p>
+<p type="listitem">Esteettömät kohteet</p>
+</list><list><p type="listitem">Etelä-Konnevesi</p>
+<p type="listitem">Helvetinjärvi</p>
+<p type="listitem">Hiidenportti</p>
+<p type="listitem">Isojärvi</p>
+<p type="listitem">Itäinen Suomenlahti</p>
+<p type="listitem">Kauhaneva - Pohjankangas</p>
+<p type="listitem">Koli</p>
+<p type="listitem">Kolovesi</p>
+<p type="listitem">Kurjenrahka</p>
+<p type="listitem">Lauhanvuori</p>
+<p type="listitem">Leivonmäki</p>
+<p type="listitem">Lemmenjoki</p>
+<p type="listitem">Liesjärvi</p>
+<p type="listitem">Linnansaari</p>
+<p type="listitem">Nuuksio</p>
+<p type="listitem">Oulanka</p>
+<p type="listitem">Pallas-Yllästunturi</p>
+<p type="listitem">Patvinsuo</p>
+<p type="listitem">Perämeri</p>
+<p type="listitem">Petkeljärvi</p>
+<p type="listitem">Puurijärvi ja Isosuo</p>
+<p type="listitem">Pyhä-Häkki</p>
+<p type="listitem">Pyhä-Luosto</p>
+<p type="listitem">Päijänne</p>
+<p type="listitem">Repovesi</p>
+<p type="listitem">Riisitunturi</p>
+<p type="listitem">Rokua</p>
+<p type="listitem">Saaristomeri</p>
+<p type="listitem">Salamajärvi</p>
+<p type="listitem">Seitseminen</p>
+<p type="listitem">Selkämeri</p>
+<p type="listitem">Sipoonkorpi</p>
+<p type="listitem">Syöte</p>
+<p type="listitem">Tammisaaren saaristo</p>
+<p type="listitem">Teijo</p>
+<p type="listitem">Tiilikkajärvi</p>
+<p type="listitem">Torronsuo</p>
+<p type="listitem">Urho Kekkosen kansallispuisto</p>
+<p type="listitem">Valkmusa</p>
+</list><list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit</p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Reitit Tankavaarasta</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><list><p type="listitem">Junior Ranger</p>
+</list><p>Urho Kekkosen sivut</p>
+<p type="title">Urho Kekkosen kansallispuisto</p>
+<list><p type="listitem">Ajankohtaista</p>
+<p type="listitem">Aktiviteetit <list><p type="listitem">Junior Ranger</p>
+</list> </p>
+<p type="listitem">Historia</p>
+<p type="listitem">Kartat ja kulkuyhteydet</p>
+<p type="listitem">Luonto</p>
+<p type="listitem">Nähtävyydet</p>
+<p type="listitem">Ohjeet ja säännöt</p>
+<p type="listitem">Palvelut</p>
+<p type="listitem">Reitit</p>
+<p type="listitem">Reitit Tankavaarasta</p>
+<p type="listitem">Yleisimmät kysymykset</p>
+<p type="listitem">Lisätietoja</p>
+</list><p type="title">Urho Kekkosen kansallispuiston aktiviteetit</p>
+<p>Tule nauttimaan tunturitupien rauhasta ja loputtomiin jatkuvasta avarasta tunturierämaasta. Erämaan tunteen voi kokea niin pitkillä vaelluksilla puiston laajoissa erämaaosissa kuin patikoimalla ja hiihtämällä aivan Saariselän kupeessa sijaitsevalla päiväretkeilyalueella. Kansallispuisto jakautuu päiväretkeilylle tarkoitettuun perusosaan ja eräretkeilyyn sopiviin Saariselän, Kemin-Sompion ja Nuorttin erämaaosiin. Huomaathan, että Paju-, Repo- ja Lamminaavojen  rajoitusosilla on liikkuminen kielletty lintujen pesimäaikaan 15.5.–15.7.</p>
+<p type="title">Vaellus</p>
+<p>Urho Kekkosen kansallispuiston laajat erämaaosat pääsee kokemaan talvella hiihtäen, sulan maan aikana jalan vaeltaen. Vaeltaminen merkittyjen reittien ulkopuolella vaatii retkeilijältä erä- ja suunnistustaitoja, ja lisähaasteita tuo talvivaellus umpihangessa. Kartta ja kompassi ovat alueella välttämättömiä, koska pelkkä GPS-paikannin ei ole riittävä erämaassa. Yösijan vaeltaja saa puiston monista polttopuilla varustetuista autio- ja varaustuvista, jotka sijaitsevat päivämatkan päässä toisistaan. Vaikka reittejä ei ole merkitty maastoon, puiston erämaaosiin on syntynyt vakiintuneita kulku-uria. Ne sijoittuvat yleensä maastoon, joka on vaativuudeltaan keskitasoa. Yksi suosituimmista merkitsemättömistä kulkuväylistä on Kiilopää–Suomuruoktu–Tuiskukuru–Luirojärvi–Lankojärvi–Kiilopää -reitti (70–80 km) .</p>
+<p type="title">Hiihto</p>
+<p>Saariselän, Kiilopään ja Kakslauttasen läheisyydessä hiihtäjä pääsee päiväretkillä ulkoilemaan hoidetulla latuverkostolla. Hoidettua latua on alueella 200 km:n pituudelta, josta 70 km on Urho Kekkosen kansallispuiston perusosassa. Latujen määrä vaihtelee lumitilanteen mukaan – latuverkosto on kattavimmillaan kevättalvella, kun lunta on eniten. Tarjolla on vaativuudeltaan eritasoisia latuja niin sunnuntai- kuin himohiihtäjälle. Valtaosa laduista sopii sekä perinteiselle hiihtotyylille että luisteluhiihtoon. Latujen varrella on polttopuilla varustettuja päivätupia ja laavuja evästaukoja varten.</p>
+<p type="title">Patikointi</p>
+<p>Urho Kekkosen kansallispuiston luonnosta voi nauttia myös merkityillä reiteillä kävellen. Saariselän, Kiilopään ja Kakslauttasen läheisyydessä on merkitty päiväretkeilyyn sopiva patikkareitistö (200 km), josta 80 km on Urho Kekkosen kansallispuiston perusosassa. Patikkareittien varrella voit levähtää polttopuilla varustetuilla päivätuvilla ja laavuilla. Reitit ovat vaativuudeltaan vaihtelevia. Kaikenikäisille ja -kuntoisille sopivilla luontopoluilla (1‒7 km) retkeilijää opastavat infotaulut, jotka kertovat paikallisesta luonnosta ja kulttuurista. Luontopolkuja on Saariselällä, Kiilopäällä ja Tankavaaran luontokeskuksen kupeessa. Talvella luontopoluilla voi lumikenkäillä.</p>
+<p type="title">Merkittyjä useamman päivän patikointiin sopivia reittejä ovat Korvatunturin suunnalle johtava Kemihaara–Korvatunturinmurusta -retkeilyreitti (18 km yhteen suuntaan), Nuorttijoen kanjonia seuraileva Nuorttin retkeilyreitti (40 km ympyrälenkki) ja historiallinen Ruijanpolku (35 km yhteen suuntaan), joka kulkee eteläosassaan Sompion luonnonpuiston läpi. Reittien varrella on autiotupia, laavuja ja tulipaikkoja. Reitit ovat vaativuudelta eritasoisia: Kemihaara‒Korvatunturinmurusta -reitti on keskivaativa, Nuorttin reitti ja Ruijanpolku vaativia.</p>
+<p type="title">Muut aktiviteetit</p>
+<list><p type="listitem"><em type="italic">Kalastus: </em><list><p type="listitem">UK-puiston kalastusalueelle nro</p>
+<p type="listitem">Nuorttijoen kalastusalueelle nro</p>
+</list></p>
+</list><list><p type="listitem"><em type="italic">Lintujen tarkkailu: </em>Kansallispuistossa voi nähdä esim. maakotkan, kuukkelin, riekon tai kapustarinnan. Tankavaaran luontopolkujen varrella on kaksi näkötornia, jotka sopivat hyvin lintujen tarkkailuun. </p>
+<p type="listitem"><em type="italic">Luontokeskus: </em>Tankavaaran luontokeskuksesta , Saariselän palvelupiste Kiehisestä ja Savukosken opastuskeskus Korvatunturista saat tietoa kansallispuistosta. Kysy meiltä retkeilyvinkkejä, tee varauksia varaus- ja vuokratupiin ja osta kalastus-, metsästys- ja maastoliikennelupia. Pysyviä ja vaihtuvia näyttelyitä, AV-esityksiä, luontopuodit. </p>
+<p type="listitem"><em type="italic">Marjastus ja sienestys: </em>Kansallispuistossa voit poimia marjoja ja sieniä. </p>
+<p type="listitem"><em type="italic">Melonta: </em>Hyviä melontapaikkoja ovat esim. Luiro- ja Kopsusjoki. Kansallispuistossa ei ole merkittyjä melontareittejä. </p>
+<p type="listitem"><em type="italic">Metsästys: </em>Urho Kekkosen kansallispuistossa saavat metsästää ainoastaan paikalliset asukkaat asuinkuntansa alueella metsästyslain mukaisin ehdoin. </p>
+<p type="listitem"><em type="italic">Nähtävyydet ja näköalat: </em>Vaella erämaaosassa sijaitsevalle Luirojärvelle ja sen itäpuolella kohoavalle puiston korkeimmalle tunturille Sokostille, Paratiisikuruun tai Vongoivan räystäälle. Vieraile kirkasvetisessä Suomujokilaaksossa tai matkaa Suomen ja Venäjän rajavyöhykkeelle Korvatunturille tai Nuorttin kanjoniin. Alueen kulttuuriperintöön tutustut mm. kansallispuiston pohjoisosan kolttakentillä ja Raja-Joosepin asuinkentällä Venäjän rajan tuntumassa sekä Tankavaaran toisen maailmansodan aikaisella saksalaisten Schutzwall-puolustusasemalla. Helposti tavoitettavia näköalapaikkoja ovat Rumakuru, Kiilopään huippu sekä Kaunispää kansallispuiston rajan läheisyydessä Saariselällä. </p>
+</list><list><p type="listitem"><em type="italic">Pyöräily: </em>Pyöräily on sallittu kansallispuistossa neljällä reitillä: Saariselkä‒Luttotupa (Moitakurun pyöräilyreitti: pitempi 22 km ja lyhyempi 10 km rengasreitti), Raja-Jooseppi‒Anteri (Anterin pyöräilyreitti: 25 km yhteen suuntaan), Kemihaara‒Mantoselkä (11 km yhteen suuntaan) ja Kemihaara–Vieriharju (10 km yhteen suuntaan). </p>
+<p type="listitem"><em type="italic">Ratsastus: </em>Ratsastus on sallittua kansallispuistossa kahdella reitillä: Kemihaara–Mantoselkä (11 km yhteen suuntaan) ja Kemihaara-Vieriharju (10 km yhteen suuntaan). </p>
+<p type="listitem"><em type="italic">Ryhmäopastukset: </em>Tietoa erilaisista opastuksista luontokeskuksessa ja luontopoluilla saa Tankavaaran luontokeskuksesta . Varaa luontokeskuksesta  myös opastus  ryhmällesi. </p>
+<p type="listitem"><em type="italic">Vapaaehtoistoiminta: </em>Voit osallistua puiston toimintaan talkooleireillä, Junior Ranger -leireillä ja erilaisissa tapahtumissa. Kansallispuistossa on myös kansainvälistä vapaaehtoistoimintaa. </p>
+</list><p>Urho Kekkosen kansallispuistossa toimivat yrittäjät tarjoavat mm. opastettuja retkiä sekä vuokraavat mm. lumikenkiä, suksia ja maastopyöriä.</p>
+<list><p type="listitem">Urho Kekkosen kansallispuiston kalastuslupa</p>
+</list><list><p type="listitem">Nuorttijoen kalastuslupa</p>
+</list><p type="title">Kalastonhoitomaksu 2016</p>
+<p>Valtion kalastuksenhoitomaksu ja läänikohtaiset maksut yhdistyivät kalastonhoitomaksuksi (julkaisut.metsa.fi, pdf 4.6 MB).</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Jaa tämä sivu</p>
+<p>Avaa Valikko</p>
+</body></document>

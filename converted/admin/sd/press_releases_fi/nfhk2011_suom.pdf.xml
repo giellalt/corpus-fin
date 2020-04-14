@@ -1,44 +1,14 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Pohjoismaisen hyvinvointivaltion haasteet saamelaisnäkökulmasta</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2011</year>
-    <wordcount>220</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1623&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="eng" location="nfhk2011_eng.pdf"/>
-    <parallel_text xml:lang="sme" location="nfhk2011_saame.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 139793 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">
-      <em type="bold">10. POHJOISMAINEN KANSANTERVEYSKONFERENSSI </em>
-    </p>
-    <p>
-      <em type="bold">”Terveyden edistäminen palvelujärjestelmässä –                 Kuinka pohjoismainen hyvinvointimalli toimii tämän päivän haasteissa?”   24. - 26.8.2011 Turku, Finland </em>
-    </p>
-    <p xml:lang="est">
-      <em type="bold">POHJOISMAISEN HYVINVOINTIVALTION HAASTEET SAAMELAISNÄKÖKULMASTA -sessio </em>
-    </p>
-    <p>Keskiviikko 24.8.2011 klo 15.45 – 17.15, Turun yliopisto, Ls. 9+10</p>
-    <p>Session puheenjohtaja: Ristenrauna Magga, toiminnanjohtaja, SámiSoster ry, Finland Kielet: pohjoissaame-englanti</p>
-    <p>klo 15.45 <em type="italic">Avaussanat </em>Prof. Antti Uutela<em type="bold">,</em> Terveyden ja hyvinvoinnin laitos </p>
-    <p>15.50  <em type="italic">Kultuurisensitiivinen terveydenedistäminen ja terveyspalvelut – miksi ja miten? </em>Dr. Ole Mathis Hetta, Saamelaisen yhteisölääketieteen vanhempi neuvontantaja, Helsedirektoratet, Norja </p>
-    <p>16.15  <em type="italic">Nuorena saamelaisena Ruotsissa; elinolosuhteet, terveys ja alkoholinkäyttö </em>Lotta Omma,  Psykologi, Psykoterapeutti, Kliinisen lääketieteen laitos, Psykiatrian yksikkö, Uumajan yliopisto </p>
-    <p>16.40  <em type="italic">Hyvinvointivaltion ja nykyaikaisen elämäntavan vaikutukset saamelaisten terveyteen</em> Dr. Heidi Eriksen, LT, Vastaava terveyskeskuslääkäri, Utsjoki <em type="italic"> </em></p>
-    <p>17.05   Keskustelu  Dr. Lydia Heikkilä, Saamelaiskäräjät, Pohjois-Suomen sosiaalialan</p>
-    <p>osaamiskeskus, Saamelaisyksikkö</p>
-    <p>Session kuvaus:</p>
-    <p>Hyvinvointivaltio saapui Pohjoismaiden saamelaisalueelle verrattain myöhään ja nopealla aikataululla. Hyvinvointipalvelujen käyttöönotto yhdessä muun yhteiskunnallisen modernisaatiokehityksen kanssa ovat tuoneet suuria haasteita perinteisten saamelaisten instituutioiden toimintaan, saamelaisten elintapoihin ja kulttuurisiin käytäntöihin. Lähtökohdiltaan hyvinvointivaltioideologia rakentuu tasa-arvon periaatteelle, jonka pyrkimyksenä on tuottaa samanlaisia palveluja kaikille riippumatta henkilön taustasta. Tasa-arvon tavoite toteutuu verrattain hyvin enemmistöväestön kohdalla kun kohdejoukon tarpeet ja tausta ovat jokseenkin samankaltaisia. Vähemmistöjen ja heidän erityistarpeidensa kannalta tarkasteltuna lopputulema voi kuitenkin olla epätasa-arvoinen. Tähän liittyviä monimutkaisia kysymyksenasetteluja ei ole toistaiseksi tutkittu laajamittaisesti. Tämän istunnon esitelmät tarjoavat refleksiivisiä saamelaisnäkökulmia sekä sosiaali- ja terveyspalvelujen tuottamista, terveydenedistämistä että saamelaisten terveydentilaa koskeviin keskeisiin kysymyksenasetteluihin painottaen erityisesti kulttuurista perspektiiviä.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Pohjoismaisen hyvinvointivaltion haasteet saamelaisnäkökulmasta</title><genre code="admin"/><author><unknown/></author><year>2011</year><wordcount>220</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1623&amp;Itemid=10</origFileName><parallel_text xml:lang="eng" location="nfhk2011_eng.pdf"/><parallel_text xml:lang="sme" location="nfhk2011_saame.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 139793 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep"><em type="bold">10. POHJOISMAINEN KANSANTERVEYSKONFERENSSI </em></p>
+<p><em type="bold">”Terveyden edistäminen palvelujärjestelmässä –                 Kuinka pohjoismainen hyvinvointimalli toimii tämän päivän haasteissa?”   24. - 26.8.2011 Turku, Finland </em></p>
+<p xml:lang="est"><em type="bold">POHJOISMAISEN HYVINVOINTIVALTION HAASTEET SAAMELAISNÄKÖKULMASTA -sessio </em></p>
+<p>Keskiviikko 24.8.2011 klo 15.45 – 17.15, Turun yliopisto, Ls. 9+10</p>
+<p>Session puheenjohtaja: Ristenrauna Magga, toiminnanjohtaja, SámiSoster ry, Finland Kielet: pohjoissaame-englanti</p>
+<p>klo 15.45 <em type="italic">Avaussanat </em>Prof. Antti Uutela<em type="bold">,</em> Terveyden ja hyvinvoinnin laitos </p>
+<p>15.50  <em type="italic">Kultuurisensitiivinen terveydenedistäminen ja terveyspalvelut – miksi ja miten? </em>Dr. Ole Mathis Hetta, Saamelaisen yhteisölääketieteen vanhempi neuvontantaja, Helsedirektoratet, Norja </p>
+<p>16.15  <em type="italic">Nuorena saamelaisena Ruotsissa; elinolosuhteet, terveys ja alkoholinkäyttö </em>Lotta Omma,  Psykologi, Psykoterapeutti, Kliinisen lääketieteen laitos, Psykiatrian yksikkö, Uumajan yliopisto </p>
+<p>16.40  <em type="italic">Hyvinvointivaltion ja nykyaikaisen elämäntavan vaikutukset saamelaisten terveyteen</em> Dr. Heidi Eriksen, LT, Vastaava terveyskeskuslääkäri, Utsjoki <em type="italic"> </em></p>
+<p>17.05   Keskustelu  Dr. Lydia Heikkilä, Saamelaiskäräjät, Pohjois-Suomen sosiaalialan</p>
+<p>osaamiskeskus, Saamelaisyksikkö</p>
+<p>Session kuvaus:</p>
+<p>Hyvinvointivaltio saapui Pohjoismaiden saamelaisalueelle verrattain myöhään ja nopealla aikataululla. Hyvinvointipalvelujen käyttöönotto yhdessä muun yhteiskunnallisen modernisaatiokehityksen kanssa ovat tuoneet suuria haasteita perinteisten saamelaisten instituutioiden toimintaan, saamelaisten elintapoihin ja kulttuurisiin käytäntöihin. Lähtökohdiltaan hyvinvointivaltioideologia rakentuu tasa-arvon periaatteelle, jonka pyrkimyksenä on tuottaa samanlaisia palveluja kaikille riippumatta henkilön taustasta. Tasa-arvon tavoite toteutuu verrattain hyvin enemmistöväestön kohdalla kun kohdejoukon tarpeet ja tausta ovat jokseenkin samankaltaisia. Vähemmistöjen ja heidän erityistarpeidensa kannalta tarkasteltuna lopputulema voi kuitenkin olla epätasa-arvoinen. Tähän liittyviä monimutkaisia kysymyksenasetteluja ei ole toistaiseksi tutkittu laajamittaisesti. Tämän istunnon esitelmät tarjoavat refleksiivisiä saamelaisnäkökulmia sekä sosiaali- ja terveyspalvelujen tuottamista, terveydenedistämistä että saamelaisten terveydentilaa koskeviin keskeisiin kysymyksenasetteluihin painottaen erityisesti kulttuurista perspektiiviä.</p>
+</body></document>

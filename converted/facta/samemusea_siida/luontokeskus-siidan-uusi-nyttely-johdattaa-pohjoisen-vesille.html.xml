@@ -1,105 +1,73 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille — Siida</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2014</year>
-    <wordcount>393</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.siida.fi/sisalto/tiedotteet/luontokeskus-siidan-uusi-nyttely-johdattaa-pohjoisen-vesille</origFileName>
-    <parallel_text xml:lang="eng" location="nature-centre-siida2019s-new-exhibition-takes-us-to-the-waters-of-the-north.html"/>
-    <parallel_text xml:lang="sme" location="luondduguovdd-siidda-oaseamos-jhus-lidesta-davviguovlluid-ziide.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <list>
-      <p type="listitem" xml:lang="sme">sámegillii |</p>
-      <p type="listitem" xml:lang="eng">in English |</p>
-      <p type="listitem">suomeksi |</p>
-      <p type="listitem" xml:lang="rus">Русский</p>
-    </list>
-    <p xml:lang="nob">Hae</p>
-    <p>Laajennettu haku...</p>
-    <p>Siirry sisältöön. | Siirry navigointiin</p>
-    <p type="title" xml:lang="eng">Osiot</p>
-    <list>
-      <p type="listitem" xml:lang="smn">Pääsivu |</p>
-      <p type="listitem">Kokoelmat |</p>
-      <p type="listitem">Luontopalvelut |</p>
-      <p type="listitem">Ravintola |</p>
-      <p type="listitem">Kokoukset |</p>
-      <p type="listitem" xml:lang="fkv">Tiedotteet |</p>
-      <p type="listitem">Kolttien Perinnetalo</p>
-    </list>
-    <list>
-      <p type="listitem">Sivukartta |</p>
-      <p type="listitem">Ota yhteyttä |</p>
-      <p type="listitem" xml:lang="smj">RSS |</p>
-      <p type="listitem">Uutiskirje</p>
-    </list>
-    <p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
-    <p xml:lang="est">POHJOINEN LUONTO  Luontokeskus</p>
-    <p xml:lang="eng">Info</p>
-    <p xml:lang="smn">Pääsivu</p>
-    <p xml:lang="koi">/</p>
-    <p xml:lang="fkv">Tiedotteet /</p>
-    <p>Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille</p>
-    <p type="title">Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille</p>
-    <p>tiistai 18. Helmikuuta 2014, 08.44</p>
-    <p>Laineilla ja latvavesillä -näyttely vie katsojan retkelle pohjoisimman Lapin vesiretkeilyreiteille ja tutustuttaa samalla mielenkiintoisella tavalla alueen vedenkiertoon pikkupuroista aina Jäämerelle saakka. Näyttely on esillä Ylä-Lapin luontokeskus Siidassa 21.2.–28.9.2014.</p>
-    <p>Melojia Luttojoella. Kuva: Tapio Tynys/Metsähallitus</p>
-    <p>Ylimmän Lapin alueen vedenkierto esitellään näyttelyssä upein valokuvin ja niitä täydentävin tekstein. Vettä on sumuna ilmassa, sadepisaroissa, järvissä ja lammissa, jokien ja pikkupurojen virroissa. Lopulta sen päämäärä on aina kuitenkin meri. Sieltä vesi auringon lämmön haihduttamana kohoaa ilmaan ja aikanaan päätyy alas sateena – ja niin vesi jatkaa ikuista kiertoaan. Ylimmän Lapin vesien suuntana on Jäämeri.</p>
-    <p>Näyttelyn toisena teemana ovat Inari–Utsjoki-alueen vesiretkeilyreitit. Valokuvien ja lyhyiden esittelytekstien myötä päästään matkalle alueen tunnetuimmille melontakohteille, kuten Ivalojoelle ja Inarille, mutta myös tästä näkökulmasta tuntemattomammille helmille. Huikeat kuvat mm. Tenolta, Inarijoelta ja Nellimistä houkuttelevat kokemaan nekin kanootin tai kajakin kyydistä.</p>
-    <p>Näyttelyä elävöittävät useat videot. Taukopaikalla voi istahtaa alas tutustumaan elävän kuvan kautta Inarijärven, Ivalojoen ja Luttojoen vesiretkeilyreitteihin. Elävän kuvan antia täydentää vuonna 1966 kaitafilmille kuvattu veneretki Inarin Sikovuonosta Muddusjärven, Kettujoen ja Paadarin kautta ylös Lemmenjoelle. Filmi on saatu lahjoituksena yksityiskokoelmasta.</p>
-    <p>Tämän näyttelyn näkijän on vaikea säästyä melontakärpäsen puremalta!</p>
-    <p>Laineilla ja latvavesillä -näyttelyn on tuottanut Metsähallituksen Lapin luontopalvelut.</p>
-    <p>Metsähallituksen luontokeskus, Siida, Inarintie 46, 99870 Inari, puh. 0206 39 7740, siida@metsa.fi , www.siida.fi , www.luontoon.fi</p>
-    <p type="title">Tehdyt toimenpiteet</p>
-    <list>
-      <p type="listitem">Lähetä</p>
-      <p type="listitem">Tulosta</p>
-    </list>
-    <p xml:lang="vep">SISÄLTÖ</p>
-    <p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
-    <p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
-    <p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
-    <p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
-    <p>Saamelainen tarinaperinne ja luonto tutuksi</p>
-    <p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
-    <p>Karhuja Siidan luontoilloissa Inarissa</p>
-    <p>Siidan kesätyöpaikat 2017 auki</p>
-    <p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
-    <p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
-    <p type="title" xml:lang="vep">VIERAILIJAINFO</p>
-    <p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
-    <p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
-    <p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
-    <p>&gt; aukioloajat</p>
-    <p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
-    <p>&gt; yhteystiedot</p>
-    <p>&gt; saavutettavuus</p>
-    <p>&gt; opastukset</p>
-    <p>&gt; Siidan arkkitehtuuri</p>
-    <p>kalenteri</p>
-    <p xml:lang="koi">|</p>
-    <p>mediakuvapankki</p>
-    <p xml:lang="sme">matkailuinfo</p>
-    <p xml:lang="sme">Siida</p>
-    <p xml:lang="sms">Siida Shop</p>
-    <p>Saamelaismuseon blogi</p>
-    <p>medialle | matkanjärjestäjille</p>
-    <p xml:lang="sme">Copyright Siida 2010</p>
-    <p xml:lang="koi">|</p>
-    <p xml:lang="est">Updated 10.6.2010</p>
-    <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille — Siida</title><genre code="facta"/><author><unknown/></author><year>2014</year><wordcount>393</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/luontokeskus-siidan-uusi-nyttely-johdattaa-pohjoisen-vesille</origFileName><parallel_text xml:lang="eng" location="nature-centre-siida2019s-new-exhibition-takes-us-to-the-waters-of-the-north.html"/><parallel_text xml:lang="sme" location="luondduguovdd-siidda-oaseamos-jhus-lidesta-davviguovlluid-ziide.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<p type="listitem" xml:lang="eng">in English |</p>
+<p type="listitem">suomeksi |</p>
+<p type="listitem" xml:lang="rus">Русский</p>
+</list><p xml:lang="nob">Hae</p>
+<p>Laajennettu haku...</p>
+<p>Siirry sisältöön. | Siirry navigointiin</p>
+<p type="title" xml:lang="eng">Osiot</p>
+<list><p type="listitem" xml:lang="smn">Pääsivu |</p>
+<p type="listitem">Kokoelmat |</p>
+<p type="listitem">Luontopalvelut |</p>
+<p type="listitem">Ravintola |</p>
+<p type="listitem">Kokoukset |</p>
+<p type="listitem" xml:lang="fkv">Tiedotteet |</p>
+<p type="listitem">Kolttien Perinnetalo</p>
+</list><list><p type="listitem">Sivukartta |</p>
+<p type="listitem">Ota yhteyttä |</p>
+<p type="listitem" xml:lang="smj">RSS |</p>
+<p type="listitem">Uutiskirje</p>
+</list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
+<p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
+<p xml:lang="eng">Info</p>
+<p xml:lang="smn">Pääsivu</p>
+<p xml:lang="vep">/</p>
+<p xml:lang="fkv">Tiedotteet /</p>
+<p>Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille</p>
+<p type="title">Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille</p>
+<p>tiistai 18. Helmikuuta 2014, 08.44</p>
+<p>Laineilla ja latvavesillä -näyttely vie katsojan retkelle pohjoisimman Lapin vesiretkeilyreiteille ja tutustuttaa samalla mielenkiintoisella tavalla alueen vedenkiertoon pikkupuroista aina Jäämerelle saakka. Näyttely on esillä Ylä-Lapin luontokeskus Siidassa 21.2.–28.9.2014.</p>
+<p>Melojia Luttojoella. Kuva: Tapio Tynys/Metsähallitus</p>
+<p>Ylimmän Lapin alueen vedenkierto esitellään näyttelyssä upein valokuvin ja niitä täydentävin tekstein. Vettä on sumuna ilmassa, sadepisaroissa, järvissä ja lammissa, jokien ja pikkupurojen virroissa. Lopulta sen päämäärä on aina kuitenkin meri. Sieltä vesi auringon lämmön haihduttamana kohoaa ilmaan ja aikanaan päätyy alas sateena – ja niin vesi jatkaa ikuista kiertoaan. Ylimmän Lapin vesien suuntana on Jäämeri.</p>
+<p>Näyttelyn toisena teemana ovat Inari–Utsjoki-alueen vesiretkeilyreitit. Valokuvien ja lyhyiden esittelytekstien myötä päästään matkalle alueen tunnetuimmille melontakohteille, kuten Ivalojoelle ja Inarille, mutta myös tästä näkökulmasta tuntemattomammille helmille. Huikeat kuvat mm. Tenolta, Inarijoelta ja Nellimistä houkuttelevat kokemaan nekin kanootin tai kajakin kyydistä.</p>
+<p>Näyttelyä elävöittävät useat videot. Taukopaikalla voi istahtaa alas tutustumaan elävän kuvan kautta Inarijärven, Ivalojoen ja Luttojoen vesiretkeilyreitteihin. Elävän kuvan antia täydentää vuonna 1966 kaitafilmille kuvattu veneretki Inarin Sikovuonosta Muddusjärven, Kettujoen ja Paadarin kautta ylös Lemmenjoelle. Filmi on saatu lahjoituksena yksityiskokoelmasta.</p>
+<p>Tämän näyttelyn näkijän on vaikea säästyä melontakärpäsen puremalta!</p>
+<p>Laineilla ja latvavesillä -näyttelyn on tuottanut Metsähallituksen Lapin luontopalvelut.</p>
+<p>Metsähallituksen luontokeskus, Siida, Inarintie 46, 99870 Inari, puh. 0206 39 7740, siida@metsa.fi , www.siida.fi , www.luontoon.fi</p>
+<p type="title">Tehdyt toimenpiteet</p>
+<list><p type="listitem">Lähetä</p>
+<p type="listitem">Tulosta</p>
+</list><p xml:lang="vep">SISÄLTÖ</p>
+<p>Villiinny keväästä Lapin lintuviikon lintuhetkillä Inarissa</p>
+<p>Opinpolut–näyttely esittelee Saamelaisalueen koulutuskeskuksen koulutustarjontaa</p>
+<p>Saamelaismuseo Siida avaa kokoelmiaan Finna-palveluun</p>
+<p>Kansallismuseo lahjoittaa merkittävän saamelaiskokoelman Saamelaismuseo Siidaan</p>
+<p>Saamelainen tarinaperinne ja luonto tutuksi</p>
+<p>Valokuvaaja Jyrki Kallio-Kosken kuvateos, Raittijärvi – Kaijukan kylä julkaistaan 23.3.2017 Hetassa</p>
+<p>Karhuja Siidan luontoilloissa Inarissa</p>
+<p>Siidan kesätyöpaikat 2017 auki</p>
+<p>Saamelaisten kansallispäivää ja Suomen luonnon päivää juhlitaan Siidassa</p>
+<p>Sukelletaan talveen Vasatokassa ja Aurorassa - Suomen luonto juhlii 100-vuotiasta Suomea</p>
+<p type="title" xml:lang="deu">VIERAILIJAINFO</p>
+<p xml:lang="smn"><em type="italic">SIIDA </em>INARINTIE 46, 99870 INARI </p>
+<p xml:lang="smn">Saamelaismuseo Puh. 0400 898 212</p>
+<p>Luontokeskus, Metsähallitus Puh. 0206 39 7740</p>
+<p>&gt; aukioloajat</p>
+<p xml:lang="fkv">&gt; sisäänpääsymaksut</p>
+<p>&gt; yhteystiedot</p>
+<p>&gt; saavutettavuus</p>
+<p>&gt; opastukset</p>
+<p>&gt; Siidan arkkitehtuuri</p>
+<p>kalenteri</p>
+<p xml:lang="vep">|</p>
+<p>mediakuvapankki</p>
+<p xml:lang="sme">matkailuinfo</p>
+<p xml:lang="sme">Siida</p>
+<p xml:lang="sms">Siida Shop</p>
+<p>Saamelaismuseon blogi</p>
+<p>medialle | matkanjärjestäjille</p>
+<p xml:lang="sme">Copyright Siida 2010</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="est">Updated 10.6.2010</p>
+<p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
+</body></document>

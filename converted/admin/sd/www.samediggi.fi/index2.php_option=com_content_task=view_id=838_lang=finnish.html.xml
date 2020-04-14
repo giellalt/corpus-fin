@@ -1,39 +1,15 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Enontekiön ja Sodankylän nuoret lähtevät valtakunnalliseen tanssitapahtumaan</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>301</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=838&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=838_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=838_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=838_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Enontekiön ja Sodankylän nuoret lähtevät valtakunnalliseen tanssitapahtumaan</p>
-    <p>Showtanssiryhmä Eanodaga powerdancers ja modernia kansantanssia esittävä Jutatokka Sodankylästä edustavat saamelaisnuoria Tampereella kesäkuussa järjestettävässä valtakunnallisessa</p>
-    <p xml:lang="smn">Sottiisimoves</p>
-    <p>–tapahtumassa. Saamelaisnuorten edustajat valittiin Sodankylässä järjestetyssä saamelaisnuorten taidetapahtumassa. Tanssikilpailussa palkittiin lisäksi Käsivarren nuorten vapaan tanssin ryhmä ja karigasniemeläinen hiphop –ryhmä Gangstajuŋkkat.</p>
-    <p>Saamelaisnuorten taidetapahtuman tuomareina toimivat zumbafitness ohjaaja Bigga Aikio (kuvassa, katso video ) Koutokeinosta ja tanssinopettaja Merja Leinonen Sodankylästä. Tuomarit kiittivät Eanodaga powerdancers –ryhmää hyvin valmistellusta esityksestä (alempi kuva), joka sai yleisön mukaan. Koreografia oli monipuolinen ja erityisesti tanssijoiden asuista esityksen lopussa syntynyt Saamen lippu sai kiitosta. Esityksen oli ohjannut Rosa Pietikäinen ja siinä tanssivat Britt-Inger Ruotsala, Susan Löf, Anni-Sofia Löf,</p>
-    <p>Kristen Anne Ruotsala, Petra Ikonen ja Sofia Kallionlähde.</p>
-    <p>Sodankyläläinen Jutatokka –ryhmä (kuva alla) esitti kilpailussa tanssin nimeltään Boazu (poro).  Esitystä kiiteltiin hyvästä rytmistä, sulavista liikkeistä ja maagisesta tunnelmasta. Tanssi kuvasi tuomareiden mielestä hyvin poroa sen ollessa yksin ja tokassa. Lisäkiitosta saatiin persoonallisesta paulojen käytöstä esityksen asusteina. Esityksen oli ohjannut Riina Lindberg ja siinä tanssivat Ada Heikkilä, Nella Nikula, Elina Pulkkinen, Lotta Tervo, Eliisa Vaarala ja Laura Kaaretkoski.</p>
-    <p>Kunniamaininnan ja stipendin saanut Giehtaruohttasa mánát (Käsivarren lapset) –ryhmän(kuva alla) oli ohjannut Karesuvannon koulun opettaja Taina Syväjärvi. Esityksessä oli tekemisen meininki ja siinä näkyi saamelainen kulttuuri. Lisäksi ryhmällä oli hyvä yhteys yleisöön ja esitys oli viihdyttävä.</p>
-    <p>Kunniamaininnan ja stipendin sai myös karigasniemeläisten nuorten Gangstajunkkát hiphop-ryhmä (kuva alla) esityksellään Trift Shop. Esityksen oli ohjannut Ville Köngäs, se sai yleisön innostuneesti mukaan, tanssijoilla oli hyvä rytmi, he tanssivat hyvin yhteen ja koreografia oli sopivan haasteellinen.</p>
-    <p>Saamelaisnuorten taidetapahtuma järjestettiin ensimmäisen kerran Sodankylän kirkonkylässä. Tapahtuma kuuluu valtakunnalliseen</p>
-    <p>Nuori Kulttuuri</p>
-    <p>–tapahtumaan ja sen pääjärjestäjänä toimii saamelaiskäräjät. Sodankylän tapahtumaan osallistui yhteensä yli 400 henkeä ja kilpailuun osallistui 12 tanssiryhmää.</p>
-    <p>Vuoden 2015 saamelaisnuorten taidetapahtuma järjestetään Utsjoella ja sen valtakunnallisena teemana on musiikki. Saamelaisesta rinnakkaisteemasta tiedotetaan myöhemmin. Sodankylän tapahtumaan liittyneen kuvakilpailun palkinnot jaetaan koulujen kevätjuhlissa.</p>
-    <p>Kuvat Mika Saijets.</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Enontekiön ja Sodankylän nuoret lähtevät valtakunnalliseen tanssitapahtumaan</title><genre code="admin"/><author><unknown/></author><wordcount>301</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=838&amp;lang=finnish.html</origFileName><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=838_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=838_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=838_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Enontekiön ja Sodankylän nuoret lähtevät valtakunnalliseen tanssitapahtumaan</p>
+<p>Showtanssiryhmä Eanodaga powerdancers ja modernia kansantanssia esittävä Jutatokka Sodankylästä edustavat saamelaisnuoria Tampereella kesäkuussa järjestettävässä valtakunnallisessa</p>
+<p xml:lang="smn">Sottiisimoves</p>
+<p>–tapahtumassa. Saamelaisnuorten edustajat valittiin Sodankylässä järjestetyssä saamelaisnuorten taidetapahtumassa. Tanssikilpailussa palkittiin lisäksi Käsivarren nuorten vapaan tanssin ryhmä ja karigasniemeläinen hiphop –ryhmä Gangstajuŋkkat.</p>
+<p>Saamelaisnuorten taidetapahtuman tuomareina toimivat zumbafitness ohjaaja Bigga Aikio (kuvassa, katso video ) Koutokeinosta ja tanssinopettaja Merja Leinonen Sodankylästä. Tuomarit kiittivät Eanodaga powerdancers –ryhmää hyvin valmistellusta esityksestä (alempi kuva), joka sai yleisön mukaan. Koreografia oli monipuolinen ja erityisesti tanssijoiden asuista esityksen lopussa syntynyt Saamen lippu sai kiitosta. Esityksen oli ohjannut Rosa Pietikäinen ja siinä tanssivat Britt-Inger Ruotsala, Susan Löf, Anni-Sofia Löf,</p>
+<p>Kristen Anne Ruotsala, Petra Ikonen ja Sofia Kallionlähde.</p>
+<p>Sodankyläläinen Jutatokka –ryhmä (kuva alla) esitti kilpailussa tanssin nimeltään Boazu (poro).  Esitystä kiiteltiin hyvästä rytmistä, sulavista liikkeistä ja maagisesta tunnelmasta. Tanssi kuvasi tuomareiden mielestä hyvin poroa sen ollessa yksin ja tokassa. Lisäkiitosta saatiin persoonallisesta paulojen käytöstä esityksen asusteina. Esityksen oli ohjannut Riina Lindberg ja siinä tanssivat Ada Heikkilä, Nella Nikula, Elina Pulkkinen, Lotta Tervo, Eliisa Vaarala ja Laura Kaaretkoski.</p>
+<p>Kunniamaininnan ja stipendin saanut Giehtaruohttasa mánát (Käsivarren lapset) –ryhmän(kuva alla) oli ohjannut Karesuvannon koulun opettaja Taina Syväjärvi. Esityksessä oli tekemisen meininki ja siinä näkyi saamelainen kulttuuri. Lisäksi ryhmällä oli hyvä yhteys yleisöön ja esitys oli viihdyttävä.</p>
+<p>Kunniamaininnan ja stipendin sai myös karigasniemeläisten nuorten Gangstajunkkát hiphop-ryhmä (kuva alla) esityksellään Trift Shop. Esityksen oli ohjannut Ville Köngäs, se sai yleisön innostuneesti mukaan, tanssijoilla oli hyvä rytmi, he tanssivat hyvin yhteen ja koreografia oli sopivan haasteellinen.</p>
+<p>Saamelaisnuorten taidetapahtuma järjestettiin ensimmäisen kerran Sodankylän kirkonkylässä. Tapahtuma kuuluu valtakunnalliseen</p>
+<p>Nuori Kulttuuri</p>
+<p>–tapahtumaan ja sen pääjärjestäjänä toimii saamelaiskäräjät. Sodankylän tapahtumaan osallistui yhteensä yli 400 henkeä ja kilpailuun osallistui 12 tanssiryhmää.</p>
+<p>Vuoden 2015 saamelaisnuorten taidetapahtuma järjestetään Utsjoella ja sen valtakunnallisena teemana on musiikki. Saamelaisesta rinnakkaisteemasta tiedotetaan myöhemmin. Sodankylän tapahtumaan liittyneen kuvakilpailun palkinnot jaetaan koulujen kevätjuhlissa.</p>
+<p>Kuvat Mika Saijets.</p>
+</body></document>

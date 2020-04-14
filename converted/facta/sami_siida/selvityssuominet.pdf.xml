@@ -1,337 +1,306 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Riitta" lastname="Taipale" sex="f" born="" nationality=""/>
-    </author>
-    <year>2012</year>
-    <wordcount>6740</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samisiida.org/govat/doc/selvityssuominet.pdf</origFileName>
-    <parallel_text xml:lang="sme" location="selvityssaamenet.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Utsjoen saamenkielisten nuorten  kielenkäyttö</p>
-    <p xml:lang="smn"><em type="bold">Riitta TaipaleSámi Siida rs</em> </p>
-    <p>Utsjoen saamenkielisten nuorten kielenkäyttö</p>
-    <p><em type="bold">Riitta Taipale</em> </p>
-    <p xml:lang="sme"><em type="bold">Sámi Siida rs</em> </p>
-    <p>Julkaisija: Sámi Siida ry ja Ovttas!-hanke, Utsjoki 2012 Rahoittajat: Opetusministeriö, Suomen kulttuurirahaston Myrsky-hanke, Ovttas!-hanke (Lapin liitto, Pohjoiskalotin neuvosto, INTERREG IVA Pohjoinen Sápmi, Utsjoen kunta, Norjan Saamelaiskäräjät, Fornyings-, administrasjons- og kirkedepartementet, Taanan kunta ja Taanan saamenkielikeskus. Taitto ja kuvat: Studio Borga, Utsjoki. Kuvat ovat Sámi Siida ry:n nuorten toiminnasta ja tapahtumista 2008–2010 www.samisiida.org Waasa Graphics 2012</p>
-    <p xml:lang="eng"><em type="bold">Esipuhe</em> </p>
-    <p>Saamen kielen tilanne on parantunut monen asian suhteen Utsjoella. Saamen kieli on virallisena kielenä Utsjoen kunnassa, kuntaan on perustettu kaksi saamenkielistä päiväkotia ja saamen kieltä käytetään opetuskielenä Utsjoen peruskouluissa. Saamenkielisten lasten lukumäärä on lisääntynyt ja yhä enenevässä määrin lapsia tulee saamenkielisiin päiväkoteihin sekä koulujen saamenkielisille luokille.</p>
-    <p>Tästä positiivisesta kehityksestä huolimatta on selvinnyt, että Utsjoen saamenkieliset nuoret käyttävät saamenkieltä vähän. Halusimme saada tarkemman kuvan nuorten kielitilanteesta ja kuulla nuorilta itseltään miten saamen kielen tilannetta voidaan vahvistaa sekä lisätä saamenkielen käyttöä nuorten keskuudessa. Selvityksen toteutti FL Riitta Taipale haastattelemalla saamenkielisiä nuoria heidän kielenkäytöstään. Haastattelujen avulla on saatu runsaasti arvokasta tietoa, jota hyödynnetään poliittisiin päättäjiin vaikuttamisessa sekä nuorten vapaa-ajanpalvelujen kehittämisessä.</p>
-    <p>Tämän selvityksen julkaisijat ovat saamelaisyhdistys Sámi Siida ry ja Utsjoen ja Norjan Tanan kuntien Ovttas! Saamen kieli-, koulu- ja päiväkotitoiminnan kehittäminen Tenonlaaksossa -hanke. Sámi Siida ry on viime vuosina asettanut painopisteeksi toiminnassaan lapset ja nuoret. Ovttas!-hankkeen tavoitteena on lisätä Utsjoen ja Tanan lasten ja nuorten saamenkielen käyttöä ylirajaisen yhteistyön avulla.</p>
-    <p>Sámi Siida ry:n sekä Ovttas!-hankkeen puolesta toivomme, että selvityksestä on hyötyä myös muille yhteiskunnallisista asioista kiinnostuneille, viranomaisille sekä eri tasojen politiikoille, joiden vastuualueeseen kuuluu saamelaisnuorten elinolosuhteiden ja saamen kielen vahvistaminen sekä kehittäminen. On toivottavaa, että myös nuoret innostuvat vahvistamaan ja kehittämään omia elinolosuhteitansa ja kieltänsä.</p>
-    <p>Selvitystä varten Sámi Siida sai rahoitusta Opetusministeriöltä 4000 euroa sekä käytti Suomen kulttuurirahaston paikalliseen Myrsky-hankkeeseen saatua avustusta. Ovttas!-hanketta rahoittavat Lapin liitto, Pohjoiskalotin neuvosto, INTERREG IVA Pohjoinen Sápmi, Utsjoen kunta, Norjan Saamelaiskäräjät, Fornyings-, administrasjons- og kirkedepartementet, Taanan kunta ja Taanan saamenkielikeskus. Kiitämme rahoittajia tuesta.</p>
-    <p>Sámi Siida sekä Ovttas! -hanke</p>
-    <p xml:lang="koi"><em type="bold">3</em> </p>
-    <p xml:lang="fkv"><em type="bold">Yhteenveto</em> </p>
-    <p>Selvitys käsittelee 13–17 -vuotiaiden saamenkielisten utsjokelaisnuorten kielen käyttöä perheessä, koulussa, vapaa-aikana, mediankäytössä sekä lukemisessa ja kirjoittamisessa. Suurin osa nuorista käyttää enemmän suomen kuin saamen kieltä suurimmalla osalla domaineilla eli kielenkäyttöalueilla joka päiväisessä elämässä. He puhuvat suomen kieltä sisarustensa ja ystäviensä kanssa. Koulussakin on ainoastaan saamenkielinen opetustila saamenkielinen kielenkäyttöalue, muutoin nuoret puhuvat vain tai enimmäkseen suomen kieltä koulussa. Vapaa-ajan palvelut ovat suurimmaksi osaksi vain suomen kielellä, joten nuoret puhuvat näissäkin suomen kieltä. Ainoastaan Sámi Siida ry:n järjestämissä nuorisotoiminnoissa ja Norjan puolen tapahtumissa nuoret voivat käyttää saamen kieltä. Nuorille suunnattua saamenkielistä mediatarjontaa puuttuu ja nuoret lukevat pääasiallisesti kirjallisuutta suomen kielellä.</p>
-    <p>Selvityksestä ilmenee myös miten nuoret haluaisivat parantaa omaa saamen kielitilannettaan ja he ehdottavatkin toimenpiteitä, joihin he ovat mieltyneitä ja joilla vahvistettaisiin saamen kieltä. Kaikki he haluavat saamenkielisiä lapsia ja suurin osa heistä on jo päättänyt puhua omille lapsilleen saamen kieltä.</p>
-    <p><em type="bold">Kielenkäytön tutkija</em> </p>
-    <p>Riitta Taipale (1945) on suomalainen tutkija, joka on oppinut saamen kielen ja työnsä kautta tutustunut saamelaiskulttuuriin. Hän on työskennellyt opettajana sekä Ruotsissa että Suomessa muun muassa Utsjoella. Lisäksi hän on toiminut tulkkien ja kääntäjien kouluttajana Saamelaisessa korkeakoulussa Norjan Koutokeinossa ja opettanut Saamelaisalueen koulutuskeskuksessa Inarissa.</p>
-    <p xml:lang="koi"><em type="bold">4</em> </p>
-    <p xml:lang="sme"><em type="bold">Sisdoallu</em> </p>
-    <p>
-      <em type="italic">Esipuhe Yhteenveto Tutkimuksen lähtökohdat Miksi nuorten kieli on tärkeää? Tutkimuksen metodi </em>
-    </p>
-    <p>
-      <em type="italic">Utsjoen kielitilanne Nuorten kielellinen tausta Kielivalinnat koulussa Kielenvalinnat vapaa-aikana ja harrastuksissa Kielivalinnat Norjan puolen saamelaisnuorten kanssa </em>
-    </p>
-    <p>
-      <em type="italic">Kielet ja media Kirjoittaminen ja kirjallisuus Miten lisätä nuorten saamen kielen käyttöä? Toimet, jotka parantaisivat saamen kielen tilaa Omien lasten saamen kieli </em>
-    </p>
-    <p>
-      <em type="italic">Tulokset Loppusanat Lähteet Taulukot </em>
-    </p>
-    <p xml:lang="koi"><em type="bold">5</em> </p>
-    <p xml:lang="koi"><em type="bold">6</em> </p>
-    <p><em type="bold">Tutkimuksen lähtökohdat</em> </p>
-    <p>Sámi Siida ry on vuoden 2010 nuorisotyön yhteydessä halunnut tutkia saamen kielen käyttöä nuorten kesken ja selvittää sitä, mitkä tekijät haittaavat saamen kielen kehittymistä nuorisokulttuurin kielenä. Muissa tutkimuksissa on ilmennyt, että Utsjoen kunnan saamenkieliset nuoret käyttävät vähän saamen kieltä sekä he käyttävät yleisesti saamen kieltä vähemmän kuin muut nuoret (Alarau dan joki ja Joensuu 2002, Aikio ja Lindgren 1973, Partanen 1994, Rasmussen 2005 ja Rasmussen 2009). Sámi Siida ry toteaa kin vuosikertomuksessaan seuraavaa: Kun esimerkiksi Norjan puolen Kaarasjoen nuoret käyttävät saamen kieltä keskenään luonnollisesti ja kaikissa yhteyksissä, niin Suomen puolen nuoret käyttävät tavallisesti suomea keskenään (Sámi Siida 2009: 2).</p>
-    <p>Sámi Siida ry:n tavoitteena oli selvittää syyt siihen, miksi saamenkieliset nuoret mieluummin puhuvat suomen kieltä keskenään, sekä selvittää millä tavoin yhdistyksen nuorisotyö on vaikuttanut nuorten kielenkäyttöön. Sámi Siida ry. aikoo käyttää tämän selvityksen tuloksia oman nuorisotyönsä kehittämiseen (Sámi Siida 2009 ja 2010).</p>
-    <p><em type="bold">Miksi nuorten kieli on tärkeää?</em> </p>
-    <p>Tutkijat pitävät tärkeänä vähemmistön kielen säilyttämisessä sitä, että vanhemmat puhuvat kotonaan lapsillensa vähemmistökieltä. Lisäksi pidetään tärkeänä sitä, että on olemassa instituutioita kuten päiväkoteja ja kouluja, joissa lapset ja nuoret voivat käyttää ja kehittää omaa kieltään yhdessä muiden puhujien kanssa. Kielen kannalta kriittinen vaihe on lapsuuden muuttuminen nuoruudeksi, jolloin vähitellen siirrytään aikuisen maailmaan. Mikäli tässä iässä kaksikielinen henkilö valitsee omaksi puhekielekseen enemmistökielen vähemmistökielen tilalle, niin se heikentää vähemmistökielen selviytymismahdollisuuksia. Tällöin kielenvaihto voi jo olla käynnistynyt enemmistö kielelle. Lisäksi tutkimukset ovat osoittaneet, että lapsuudessa ja nuoruudessa omaksuttuja kielenkäyttötapoja on vaikea muuttaa myöhemmin. (Hyltenstam, Stroud ja Svonni 1999, UNESCO 2003).</p>
-    <p><em type="bold">7</em> Edellä mainittua asiaa voidaan kuvata helposti toisella tavalla: mikäli nuoret ovat tottuneet puhumaan saamen kieltä keskenään, niin he voivat jatkaa saamen kielen puhumista myös aikuisena. Kyse on nimenomaan kielen säilymisestä. Mikäli saamenkieliset nuoret ovat tottuneet puhumaan suomen kieltä keskenään, niin he helposti jatkavat suomen kielen käyttämistä myös aikuisena. Niinpä seuraava kriittinen vaihe on omien lasten syntyminen, vanhemmiksi tulo. Kumman kielen he valitsevat lapsilleen? Tähän päätökseen vaikuttavat monet tekijät. Eräinä sellaisina ovat vanhemman kielitaito, kielen asema ja mahdollisuus saada tukea kieli-instituutioilta. </p>
-    <p>Mikäli nykynuoret tullessaan vanhemmiksi eivät jaksa tai valitse saamen puhumista omille lapsillensa, niin saamen kielen puhujien määrä vähenee ja kieli on vaarassa kuolla. Tällainen kielen menetys saattaa myös vaikuttaa heidän lastensa itsetuntoon sekä heikentää heidän saamelaista identiteettiänsä.</p>
-    <p><em type="bold">Tutkimuksen metodi</em> </p>
-    <p>Selvityksen toteuttaja on laatinut selvityksen edellä mainittujen edellytysten sekä tekemiensä kysymysten perusteella siten, että kaikille haastateltaville esitettiin samanlaiset kysymykset.</p>
-    <p><em type="bold">Haastateltavien valinta</em> </p>
-    <p>Tämän tutkimuksen haastattelut tehtiin talvella 2010. Haastateltavina on ollut 11 nuorta. Heistä tyttöjä oli viisi ja poikia kuusi. He asuvat eri osissa Utsjoen kuntaa. Heistä kuusi kuuluu Karigasniemen koulupiiriin sekä viisi Utsjoen ja Nuorgamin koulupiiriin. Haastattelujen aikana he olivat 13–17-vuotiaita. Jokainen haastateltava osaa puhua saamen kieltä. Taloudelliset puitteet ovat määritelleet haastateltavien lukumäärän sekä koko selvityksen laajuuden.</p>
-    <p xml:lang="est"><em type="bold">Haastattelut</em> </p>
-    <p>Ensimmäisillä kysymyksillä selvitettiin haastateltavien kielellistä taustaa, esimerkiksi milloin ja keneltä he olivat oppineet puhumaan saamen kieltä. Sen jälkeen haastateltavilta kysyttiin muita kysymyksiä heidän kielellisestä taustastansa, esimerkiksi mitä kieliä he käyttävät perheenjäsentensä ja lähisukulaistensa muun muassa isovanhempiensa, vanhempiensa ja sisarustensa sekä serkkujensa kanssa.</p>
-    <p><em type="bold">8</em> Koulussa käytettyjä kielivalintoja selvitettiin siten, että nuorilta tiedusteltiin mitä kieltä he käyttävät saamenkielisessä opetuksessa, suomenkielisessä opetuksessa, välitunneilla, koulumatkoilla ja saamenkielisten opettajien kanssa oppituntien ulkopuolella. </p>
-    <p>Vapaa-ajan ja harrastusten kielivalinta tuli esille nuorten kertoessa vapaa-ajan vietostaan sekä osallistumisestaan erilaisiin vapaa-ajan toimiin. Selvityksessä on eritelty nuorten kielenkäyttötilanteita Sámi Siida ry:n toimissa, muun muas sa Suomen puolella sekä kielenkäyttötilanteita Norjan ja Ruotsin puolten nuorten kanssa.</p>
-    <p>Nuorten tiedotusvälineiden käyttöä tarkasteltiin siten, että selvitettiin yleisesti erikielisten tiedotusvälineiden käyttöä sekä nuoret vastasivat kysymyksiin tiedotusvälineiden lukemisen kielestä ja omasta kirjoituskielestään eri yhteyksissä. Lopuksi nuorilta vielä tiedusteltiin toimenpiteitä, joiden avulla kieli saataisiin säilymään. He esittivät erilaisia kiinnostavia toimintoja, jotka toteutuessaan lisäisivät nuorten saamen kielen käyttöä. Lisäksi he vastasivat seuraavaan kysymykseen: haluavatko he, että heidän omat lapsensa oppivat saamen kieltä, ja mikäli he haluavat, niin miten lasten tulisi oppia saamen kieltä ja minkä vuoksi?</p>
-    <p xml:lang="koi"><em type="bold">9</em> </p>
-    <p><em type="bold">Utsjoen kielitilanne</em> </p>
-    <p>Utsjoki on Suomen pohjoisin kunta ja ainoa saamelaisenemmistöinen kunta. Siitä huolimatta saamenkieliset ovat vähemmistönä, ja äidinkielisten puhujien määrä on laskenut Utsjoen kunnassa vuodesta 1985. Se voi osoittaa kielenvaihdon olevan jo käynnissä. Saamenkielisten määrä 2000-luvulla vakiintui samalle tasolle ja se voi osoittaa kielenvaihdon pysähtyneen. (Suomen tilastokeskus 2010).</p>
-    <p>On mahdollista arvioida vähemmistökielen tilannetta tiettyjen mittareiden mukaisesti, kuten monet tutkijat ovat tehneet (Aikio ja Lindgren 1973, Hyltenstam, Straud ja Svonni 1999, Partanen 1994 ja Rasmussen 2005). Tällöin tarkastellaan seuraavia kysymyksiä: onko kieltä turvaavaa lainsäädäntöä, onko vähemmistökieli virallisena kielenä tietyllä alueella, onko vähemmistökielistä mediatarjontaa tietyllä alueella, onko paikallisia instituutioita, joiden tehtävänä on edistää vähemmistökielen asemaa vai löytyykö instituutioita vain enemmistökieltä varten, sekä kuinka paljon nuoria vähemmistökielen puhujia on suhteessa vanhuksiin.</p>
-    <p>Selvityksessä huomioimme erityisesti Utsjoen kielitilanteelle tunnusomaiset piirteet, emmekä käsittele selvityksessä asioita, jotka ovat yhteisiä kaikille pohjoissaamen kielen puhujille, kuten esimerkiksi mediatarjontaa ja saamelaisten asemaa Suomessa.</p>
-    <p>Utsjoen kunnassa saamen kieli on virallisena kielenä lainsäädännön mukaan (15.12.2003/1086). Utsjoki on kaksikielinen (suomen ja saamen kielet) kunta, ja kunnan asukkailla on oikeus saada julkisia palveluita sekä suomen että saamen kielellä. Päivähoitolain sekä opetuslain mukaan asukkailla on oikeus saada päivähoitopalveluita ja perusopetusta saamen kielellä.</p>
-    <p xml:lang="koi"><em type="bold">10</em> </p>
-    <p><em type="bold">Utsjoen väestö ja kielet</em> </p>
-    <p>Utsjoen väestömäärä on 1296 henkilöä (31.12.2010). Väestöstä yli 800 on saame laisia ja 611 henkilöä on ilmoittanut väestötietojärjestelmään saamen kielen äidinkielekseen (2009).</p>
-    <p><em type="bold">Taulukko 1.</em> Utsjoen väestön väestötietojärjestelmään ilmoitettu äidinkieli 10 vuoden välein.   Suomi   Saame </p>
-    <p>0–9-v.  10–19-v.  20–29-v.  30–39-v.  40–49-v.  50–59-v.  60–69-v. 70–79-v.  yli 80-v.</p>
-    <p>Suomenkielisten ja saamenkielisten jakautuminen vuonna 2008. Suomenkielisiä on enemmistönä 10–69-vuotiaista. Lähde: Suomen tilastokeskus.</p>
-    <p>Lapsista ja nuorista on kuitenkin 80–90 prosenttia saamelaisia (Rasmussen 2009), mutta kielenvaihdon vuoksi väestötietojärjestelmään oli ilmoitettu 53 prosentin osalta 10–19-vuotiaiden äidinkieleksi suomen kieli. Ikäryhmässä 20–21-vuotiaat 62 prosenttia ilmoitti äidinkieleksi suomen kielen. Kuitenkin ilmenee merkkejä kielenvaihdon pysähtymisestä. Suomen kieli ilmoitettiin ikäryhmän 0–9-vuotiaiden äidinkieleksi vajaa 40 prosentin osalta. Myös ikäryhmässä 30–69-vuotiaat suomenkieliset olivat enemmistönä ja vasta ikäryhmässä yli 70–vuotiaat saamenkielisiä oli enemmän. (Tilastokeskuksen tilasto 31.12.2008)</p>
-    <p xml:lang="koi"><em type="bold">11</em> </p>
-    <p><em type="bold">Utsjoen päiväkodit</em> </p>
-    <p>Utsjoen kunnassa on saamenkielisiä päiväkoteja sekä Karigasniemellä että Utsjokisuussa, ja vuoden 2010 loppupuolella aloitettiin kielipesätoimintaa suomenkielisille lapsille näissä kahdessa kylässä. Utsjokisuussa ja Nuorgamissa on suomenkieliset päiväkodit, Karigasniemellä puolestaan saamenkielinen päiväkoti on ainoana päivähoitopaikkana, ja siellä myös suomenkieliset lapset saavat päivähoitoa saamen kielellä.</p>
-    <p><em type="bold">Taulukko 2.</em> Päiväkodit ja lasten määrä. </p>
-    <p><em type="bold">PäiväkotiLasten määräHuomioita</em> Karigasniemen saamenkie-linen päiväkotiNoin 15 </p>
-    <p>Utsjokisuun saamenkieli-nen päiväkotiNoin 25Lisäksi 5 lasta Sirman kylästä (Norja).</p>
-    <p>Utsjokisuun suomenkieli-nen päiväkotiNoin 15</p>
-    <p>Nuorgamin perhepäiväkoti (suomenkielinen)Alle 10Lisäksi 1 lapsi Taanan saamenkielisessä päivä-kodissa (Norja)</p>
-    <p>Utsjoen päiväkotien kielenkäyttö ja lasten määrät. Lähde: Inkinen 2011.</p>
-    <p><em type="bold">Utsjoen koulut</em> </p>
-    <p>Utsjoella on kolme peruskoulua: Nuorgam, Utsjokisuu ja Karigasniemi. Jokaisessa kolmesta koulusta on opetus eriytetty suomen- ja saamenkielisiin luokkiin. Alakoulussa opetus kokonaisuudessaan on saamen kielellä, mutta yläkoulussa osalla saamenkielisistä oppilaista on opetusta suomen kielellä. Suomenkielisillä luokilla voidaan saamen kieli valita oppiaineeksi, mutta oppilaat eivät saa opetusta saamen kielellä. Suomen kieli on kuitenkin pääkielenä esimerkiksi hallinnossa ja yhteisissä tapahtumissa. Kahdessa koulussa koulujen</p>
-    <p>apulaisjohtajat eivät pysty kommunikoimaan lasten ja opettajien kanssa saamen kielellä.</p>
-    <p>Saamelaislukiossa kaikki muu opetus paitsi saamenkieli on suomen kielellä myös saamenkielisille oppilaille, eikä rehtori osaa saamea.</p>
-    <p xml:lang="koi"><em type="bold">12</em> </p>
-    <p><em type="bold">Taulukko 3.</em> Utsjoen koulujen oppilasmäärät ja opetuskielet. </p>
-    <p><em type="bold">KouluSaamen kieli opetus kielenäSuomen kieli opetus kielenäHuomioita</em> </p>
-    <p>Karigasniemi UtsjokisuuAlakoulun 2–6- luokilla on yhteistä opetusta kaksi päi-vää viikossa Sirman koulun kanssa.</p>
-    <p>SaamelaislukioSaamen kielellä opetetaan vain saamen kieltä äidinkielenä.</p>
-    <p>Nuorgam Utsjoen koulujen oppilasmäärät eriteltynä opetuskielen mukaan. Lähde: Koulujen työ-suunnitelmat</p>
-    <p xml:lang="koi"><em type="bold">13</em> </p>
-    <p><em type="bold">Muut kielenkehittäjät</em> </p>
-    <p>Utsjoella ei ole muita instituutioita, joiden toimintaan kuuluisi saamen kielen kehittämistä, esimerkiksi kielikeskuksia, tutkimusinstituutioita, teatteria, elokuvateatteria tai sanomalehtien toimituksia. Vuonna 2012 alkoi kuitenkin Utsjoen kunnan Saamen kielikeskus Utsjoelle-hanke. Työmarkkinoilla saamen kielen taito katsotaan erityiseksi ansioksi tai saamen kielen taitoa edellytetään virantäytössä. Tällaisia työnantajia ovat Utsjoen kunta, YLE Sámi radion (Saamen radio) paikallinen toimitus, Saamelaisneuvosto, Saamelaiskäräjien kielitoimisto sekä muut julkiset työnantajat. Lisäksi kunnassa asuu kääntäjiä, tulkkeja, taiteilijoita ja käsityöntekijöitä, jotka käyttävät saamen kieltä työkielenä ja heitä löytyy myös yksityiseltä sektorilta, kuten kaupan, poronhoidon ja muiden luontaiselinkeinojen parista, joissa saamen kieltä käytetään pääkielenä tai rinnakkaisena kielenä.</p>
-    <p><em type="bold">Tulokset lyhyesti</em> </p>
-    <p>Ulkoisesti tarkasteltuna saamen kielen asema näyttää hyvältä Utsjoen kunnassa. Melkein puolet väestöstä puhuu saamen kieltä äidinkielenään, ja saamenkielisten lasten määrä jatkaa kasvuaan. Tärkeitä instituutioita, kuten saamenkielisiä päiväkoteja löytyy kahdesta eri kylästä ja kolmessa eri koulussa on saamenkielistä opetusta. Kunnassa on saamenkielisiä työmarkkinoita ja siitä syystä saamen kieli taidosta on hyötyä nuorten astuessa aikuisuuteen ja hakies saan töitä.</p>
-    <p>Nämä asiat eivät kerro kuitenkaan mitään Utsjoen väestön, sekä saamelaisten että suomalaisten, asenteista saamen kielen suhteen. Eivätkä ne kerro kielenkäytöstä. Siitä syystä kulttuurin sisäisessä tarkastelussa, kuten tässä selvityksessä, tutkitaan nuorten saamen kielen käyttöä eri domaineissa eli kielenkäyttö alueilla Utsjoen kunnassa.</p>
-    <p xml:lang="koi"><em type="bold">14</em> </p>
-    <p><em type="bold">Nuorten kielellinen tausta</em> </p>
-    <p>Selvityksen tekijä on haastatellut vain niitä nuoria, jotka osaavat puhua saamen kieltä. Kuitenkaan heistä kaikki eivät puhu saamen kieltä äidinkielenään. Kuusi nuorista oli oppinut saamen kielen ensimmäisenä kielenään kotona, mutta kaikille se ei ollut ainoa kotikieli. Yksi haastateltavista oli puhunut ensin suomen kieltä, mutta parivuotiaana alkanut käyttämään myös saamen kieltä. Kaksi nuorista oli nelivuotiaina oppinut saamen kieltä päivä kodissa. Siis yhdeksän nuorista oli oppinut saamen kielen ennen koulun aloittamista. Kaksi nuorista aloitti saamen kielen puhumisen koulunkäynnin aloituksen jälkeen 6–7- ja 7–9-vuotiaina.</p>
-    <p><em type="bold">Taulukko 4.</em> Saamen kielen puhumisen omaksuminen. </p>
-    <p>VarhaislapsuudessaÄidinkielenä kotona Ennen koulunkäynnin alkua2–4 vuotiaana Kouluiässä6–9 vuotiaana Kuviosta ilmenee ajankohta, jolloin nuoret ovat aloittaneet saamen kielen puhumisen. Mikäli he ovat aloittaneet saamen kielen puhumisen 2–4–vuotiaina, niin se ei merkitse ettei kukaan kotona ole heille puhunut saamen kieltä.</p>
-    <p>Suurin osa nuorista on oppinut saamen kielen kotonaan. Yhdeksän nuorista vastasi oppineensa saamen kielen kotonaan ja heistä kolme oppi saamen kielen isältään. Kaksi nuorista ei oppinut saamen kieltä kotonaan. He ovatkin vastanneet oppineensa saamen kielen koulussa ja alkaneet käyttää saamen kieltä vasta koulussa.</p>
-    <p><em type="bold">Perheessä käytetyt kielet</em> </p>
-    <p>Perheessä käytettyjen kielten valinta on luonnollisesti tärkeää lasten kielen omaksumisessa, ja mitä enemmän vähemmistökieltä käytetään sitä parempi kielen omaksumisen kannalta. Haastateltavilta selvitettiin mitä kieltä he käyttävät sisarustensa, vanhempiensa ja isovanhempiensa kanssa.</p>
-    <p xml:lang="koi"><em type="bold">15</em> </p>
-    <p><em type="bold">Sisarusten kanssa käytetty kieli</em> </p>
-    <p>Jokaisella haastateltavalla on sisaruksia – vähintään yksi. Myös sisarukset osaavat saamen kieltä. Kuitenkin sisarusten kanssa pääkielenä keskusteluissa on suomen kieli.</p>
-    <p><em type="bold">Taulukko 5.</em> Sisarusten kanssa käytetty kieli </p>
-    <p>Vain saamea Enimmäkseen suomea Vain suomea</p>
-    <p>Kuviossa ilmenee nuorten käyttämä kieli sisarustensa kanssa. Yksi nuorista puhuu aina saamen kieltä, kolme puhuu enimmäkseen suomen kieltä sekä myös saamen kieltä. Seitsemän nuorista ei koskaan puhu saamen kielellä sisarustensa kanssa.</p>
-    <p>Seitsemän nuorista puhuu ainoastaan suomen kieltä sisarustensa kanssa. Kolme nuorista puhuu silloin tällöin saamen kieltä sisarustensa kanssa, mutta kuitenkin enimmäkseen suomen kieltä. Yksi nuorista vastasi puhuvansa aina saamen kieltä sisarustensa kanssa.</p>
-    <p xml:lang="koi"><em type="bold">16</em> </p>
-    <p><em type="bold">Vanhempien kanssa käytetty kieli</em> </p>
-    <p>Nuorten kielenkäyttö vanhempiensa kanssa vaihtelee eri kotien välillä. Kaksi nuorista ei puhu lainkaan saamen kieltä vanhempiensa kanssa. Yksi nuorista puhuu aina saamen kieltä sekä äitinsä että isänsä kanssa. Niiden väliltä löytyy kaikenlaisia muunnelmia. Kolme nuorista puhuu aina isänsä kanssa saamen kieltä ja äitinsä kanssa suomen kieltä. Yksi nuorista puhuu isänsä kanssa aina saamen kieltä ja äitinsä kanssa sekä saamen että suomen kieltä. Neljä nuorta puhuu saamen kieltä sekä äitinsä että isänsä kanssa, mutta suomen kieli on kuitenkin pääasiallinen kieli lapsen ja vanhempien välillä.</p>
-    <p><em type="bold">Taulukko 6.</em> Vanhempien kanssa käytetty kieli </p>
-    <p>Vain saamea Enimmäkseen</p>
-    <p>suomea Vain suomea</p>
-    <p>Kuviossa ilmenee nuorten vanhempiensa kanssa käyttämä kieli. Viisi nuorista puhuu aina saamen kieltä yhden tai kummankin vanhemman kanssa. Neljä puhuu enimmäk-seen suomen kieltä, mutta käyttää myös saamen kieltä. Kaksi nuorista ei puhu lainkaan saamen kieltä vanhempiensa kanssa.</p>
-    <p>Viidellä nuorista on nähtävästi saamen kieli pääkielenä toisen tai molempien vanhempien kanssa. Neljä nuorista käyttää saamen kieltä vain vähän ja kaksi ei käytä lainkaan saamen kieltä kotonaan.</p>
-    <p xml:lang="koi"><em type="bold">17</em> </p>
-    <p><em type="bold">Isovanhempien kanssa käytetty kieli</em> </p>
-    <p>Nuoret käyttävät saamen kieltä enemmän isovanhempiensa kuin vanhempiensa kanssa ja huomattavasti enemmän kuin sisarustensa kanssa. Siitä syystä isovanhemmat näyttävät olevan tärkeänä voimavarana nuorten saamen kielen omaksumisessa. Näitä tietoja tarkasteltaessa tulee huomioida, että kaikilla nuorilla ei ollut enää isovanhempia elossa, ja muutamat isovanhemmat eivät olleet saamenkielisiä siitä syystä, että usein he eivät olleet saamelaisia.</p>
-    <p><em type="bold">Taulukko 7.</em> Isovanhempien kanssa käytetty kieli. </p>
-    <p>Saame pääkielenä Ei saamea lainkaan</p>
-    <p>Kuviossa ilmenee nuorten käyttämä kieli isovanhempiensa kanssa. Seitsemällä nuorista saamen kieli on ainoa käyttökieli yhden tai useamman isovanhemman kanssa. Neljä nuorista ei puhu lainkaan saamen kieltä isovanhempiensa kanssa.</p>
-    <p>Neljä nuorista ei puhu saamen kieltä isovanhempiensa kanssa. Seitsemän nuorista puhuu saamen kieltä joko yhden tai useamman isovanhempansa kanssa. Lisäksi nuoret kertoivat, että saamen kieli on ainoa käytetty kieli tai pääkieli isovanhempien kanssa. Lisäksi kaksi nuorista, jotka eivät puhu saamen kieltä kotonaan, puhuvat vähintään yhden isovanhemman kanssa saamen kieltä.</p>
-    <p>Merkittävää on, että eräs nuorista, joka aina vastasi suomen kielellä hänelle puhuttaessa, puhuu saamen kieltä kaikkien isovanhempiensa kanssa.</p>
-    <p xml:lang="koi"><em type="bold">18</em> </p>
-    <p><em type="bold">Mitä kieltä nuoret puhuvat sukulaisten kanssa?</em> </p>
-    <p>Epäilyksettä nuorilla on saamenkielisiä sukulaisia ja on mielenkiintoista saada selville mitä kieliä he puhuvat tavatessaan sukulaisiansa. Tässä selvityksessä olemme tarkastelleet kielenkäyttötilanteita lähisukulaisten kanssa: vanhempien sisarusten sekä serkusten kanssa. Lisäksi on huomioitava se, että kaikki sukulaisista eivät osaa saamen kieltä joko kielenvaihdon vuoksi tai siitä syystä, että toinen vanhemmista ei ole saamelainen.</p>
-    <p><em type="bold">Taulukko 8.</em> Sukulaisten kanssa käytetty kieli. </p>
-    <p>Aina saamea Ei koskaan saamea</p>
-    <p>Kuviossa ilmenee nuorten käyttämä kieli sukulaistensa kanssa. Nuoret puhuvat saamen kieltä aina vähintään yhden lähisukulaisensa kanssa. Kolme heistä ei puhu saamen kieltä lainkaan lähisukulaistensa kanssa.</p>
-    <p>Positiivisiin puoliin nuorten kielenkäytössä kuuluu, että kaikki nuorista paitsi yksi käyttävät saamen kieltä joidenkin lähisukulaistensa kanssa. Kuitenkin vaihtelu on laajaa. Jotkut nuorista käyttävät saamen kieltä vähän sukulaistensa kanssa, jotkut puolestaan näyttävät puhuvan saamen kieltä kaikkien kieltä osaavien kanssa.</p>
-    <p>Niiden joukossa, jotka puhuvat vähän saamen kieltä lähisukulaistensa kanssa on joitakin nuoria, jotka puhuvat saamen kieltä vain Norjan puolella asuvien sukulaistensa kanssa. Toisaalta taas näistä eräs nuorista puhuu aina suomen kieltä sukulaisillensa, vaikka suurin osa puhuu saamen kieltä hänelle. Eräs näistä puhuu puolestaan enimmäkseen suomen kieltä ja hieman saamea kieltä isänsä sisarten kanssa, muutoin hän puhuu suomea kaikkien muiden kanssa. Nämä nuoret näyttävän valitsevan suomen kielen puhumisen aina kuin</p>
-    <p><em type="bold">19</em> vain on mahdollista ja saamen kieltä he puhuvat vain kun heiltä sitä odotetaan tai heidän on pakko puhua. Tällaiset kielenkäyttötavat eivät edistä saamen kielen säilymistä. </p>
-    <p>Jotkut nuorista puhuvat aina saamen kieltä isänsä sukulaisten kanssa ja aina suomen kieltä äitinsä sukulaisten kanssa. Saamen kieli on tällöin ainoana käyttökielenä sekä isän sukupolven että oman sukupolven sukulaisten kanssa</p>
-    <p type="listitem">– tämä on osoitus kielenkäyttötavasta, joka edistää saamen kielen säilymistä.</p>
-    <p><em type="bold">Kielivalinnat koulussa</em> </p>
-    <p>Nuoret ovat kertoneet kielivalinnoistansa koulussa – mitä kieltä he puhuvat missäkin yhteydessä, esimerkiksi opetustilassa sekä saamenkielisessä että suomenkielisessä opetuksessa, välitunneilla, koulumatkojen aikana ja saamen kielisten opettajien kanssa opetustilojen ulkopuolella.</p>
-    <p><em type="bold">Taulukko 9.</em> Saamen kieli koulussa eri kielenkäyttöalueilla. </p>
-    <p><em type="bold">KielenkäyttöaluePääkieliHuomioita</em> Saamenkielinen opetusSaamen kieli Suomenkielinen opetusSuomen kieli VälitunnitSuomen kieliYhdeksän nuorista puhuu vain suomen kieltä. </p>
-    <p>KoulumatkatSuomen kieliYhdellä nuorista saamen kieli on pääkielenä. Muilla on ainoastaan suomen kieli tai suomen kieli, jonka li-säksi vähän saamen kieltä.</p>
-    <p>Saamenkielisten opetta jien kanssaSaamen/suomen kieliSeitsemän nuorista puhuu ainoastaan tai pääasialli-sesti saamen kieltä opetta-jien kanssa, neljä nuorista puhuu vain suomen kieltä tai enimmäkseen suomen kieltä.</p>
-    <p>Kuviossa ilmenee nuorten käyttämä kieli koulun eri kielenkäyttöalueilla: saamenkielises-sä sekä suomenkielisessä opetuksessa, välitunneilla, koulumatkojen aikana ja saamen-kielisten opettajien kanssa opetustiloissa.</p>
-    <p><em type="bold">20</em> Koulun kielenkäyttötilanteista muodostuva kokonaiskuva on selkeä. Suurin osa nuorista käyttää saamen kieltä vain saamenkielisessä opetuksessa, ja he puhuvat suomen kieltä koulussa saamenkielisen opetustilan ulkopuolella. Kaikilla kielenkäyttöalueilla, jotka ovat opetustilan ulkopuolella, on suomen kieli eniten käytetty kieli. </p>
-    <p><em type="bold">Välitunneilla ja koulumatkoilla</em> </p>
-    <p>Välitunneilla puhuu yhdeksän nuorta ainoastaan suomen kieltä. Yksi nuorista käyttää molempia kieliä suurin piirtein yhtä paljon ja yksi heistä käyttää vähän saamen kieltä.</p>
-    <p><em type="bold">Taulukko 10.</em> Välituntien kieli koulussa. </p>
-    <p xml:lang="fkv">Saamea ja suomea Enimmäkseen</p>
-    <p>suomea Vain suomea</p>
-    <p>Kuviossa ilmenee nuorten välitunneilla käyttämä kieli.</p>
-    <p><em type="bold">21</em> Nuoret kulkevat kouluun linja-autoilla, takseilla tai asuessaan koulun lähellä, kävellen. Myös tällä kielenkäyttöalueella suomen kieli on pääkielenä. </p>
-    <p xml:lang="fkv"><em type="bold">Taulukko 11.</em> Koulumatkojen kieli </p>
-    <p>Enimmäkseen saamea Saamea ja suomea Vain suomea</p>
-    <p>Kuviossa ilmenee nuorten koulumatkoilla käyttämä kieli.</p>
-    <p>Koulumatkalla puhuvat kaikki nuoret paitsi kaksi heistä, ainoastaan suomen kieltä. Yksi nuorista puhuu sekä suomen että saamen kieltä ja yksi heistä melkein kokonaan saamen kieltä. Yksi nuorista ei vastannut kysymykseen.</p>
-    <p><em type="bold">Kielenkäyttö saamenkielisten opettajien kanssa</em> </p>
-    <p>Nuorilta kysyttiin mitä kieltä he puhuvat saamenkielisten opettajien kanssa sekä saamenkielisissä opetustiloissa että niiden ulkopuolella. Opetustiloissa kaikki puhuvat saamen kieltä opettajiensa kanssa.</p>
-    <p>Kun nuoret tapaavat opettajia muualla koulussa, ruokailutiloissa, pihalla, opettajahuoneessa, eteisessä ja käytävillä, niin saamen kielen käyttö vähenee. Nuoret puhuvat enemmän saamen kieltä saamenkielisten opettajien kuin ikäistensä kanssa, mutta myös tällä kielenkäyttöalueella he käyttävät suomen kieltä vaikka puhuvat saamen kieltä osaavien sellaisten aikuisten kanssa.</p>
-    <p xml:lang="koi"><em type="bold">22</em> </p>
-    <p><em type="bold">Taulukko 12.</em> Saamenkielisten opettajien kanssa käytetty kieli opetustilojen ulkopuolella. </p>
-    <p>Vain saamea Enimmäkseen</p>
-    <p>saamea Enimmäkseen suomea Vain suomea</p>
-    <p>Kuviossa ilmenee nuorten kielenkäyttö saamenkielisten opettajien kanssa opetustilojen ulkopuolella. Kaksi nuorista puhuu aina saamen kieltä, viisi puhuu enimmäkseen saa-men kieltä, yksi puhuu enimmäkseen suomen kieltä ja kolme nuorista ei puhu lainkaan saamen kieltä opettajien kanssa.</p>
-    <p>Kaksi nuorta puhuu ainoastaan saamen kieltä opetustilojen ulkopuolella saamen kielisten opettajien kanssa. Viisi nuorta puhuu enimmäkseen saamen kieltä näiden opettajien kanssa, mutta käyttökielenä on myös suomi, yksi nuori puhuu enimmäkseen suomen kieltä, mutta myös saamen kieltä ja kolme nuorta ei puhu lainkaan saamen kieltä saamenkielisten opettajien kanssa.</p>
-    <p><em type="bold">Tulokset lyhyesti</em> </p>
-    <p>Nuorten kielenkäytön perusteella voidaan arvioida, että saamenkielisinä kielen käyttöalueita koulussa ovat ainoastaan saamenkielinen opetustila ja saamenkieliset opettajat. Muut kielenkäyttöalueet, joissa nuoret ovat yhdessä etupäässä muiden nuorten kanssa, esimerkiksi välitunnit ja koulumatkat, ovat melkein kaikille nuorille melkein puhtaasti suomenkielisiä alueita, joissa puhutaan ainoastaan tai enimmäkseen suomen kieltä.</p>
-    <p xml:lang="koi"><em type="bold">23</em> </p>
-    <p><em type="bold">Kielenvalinnat vapaa-aikana ja harrastuksissa</em> </p>
-    <p>Vapaa-ajan tarjonta ja erilaiset tapahtumat ovat tärkeitä toimintoja nuorten elämässä. Nuoret ovat haastatteluissa kertoneet omasta vapaa-ajanvietostaan ja näiden tietojen perusteella selvitetään kielenkäyttöä erilaisissa tilanteissa. Selvityksen laatija on myös erikseen kysellyt tietyistä toiminnoista, tällä varmistettiin nuorten muistaminen erilaiseen toimintaan osallistumisesta. Hän on erityisesti tiedustellut Sámi Siida ry:n toimintoja, jos haastateltavat eivät ole niitä erikseen maininneet.</p>
-    <p><em type="bold">Aktiiviset nuoret</em> </p>
-    <p>Nuoret osallistuvat sekä urheilu-, musiikki- ja muihin taidetapahtumiin. Eräät nuoret ovat mukana myös seurakunnan nuorisotyössä ja VPK:n toiminnassa. Monet ovat aktiivisia järjestäytymättömässä toiminnassa, esimerkiksi hiihdossa, luistelussa, pyöräilyssä, ratsastuksessa sekä tietokoneen parissa. Eräät ovat mukana porotaloustöissä ja kaksi on osallistunut saamenkieliseen perheleiriin.</p>
-    <p><em type="bold">Kielenkäyttö harrastuksissa</em> </p>
-    <p>Nuorten vapaa-ajantoimintojen kielenkäyttötilanteista muodostuva kokonaiskuva on selkeä. Suurin osa nuorista osallistuu melkeinpä vain suomenkielisiin harrastuksiin ja he puhuvat ainoastaan suomen kieltä niiden parissa vaikka harrastuksissa on mukana myös muita saamenkielisiä nuoria.</p>
-    <p>Muutamia selviä poikkeuksia kuitenkin ilmenee. Kaksi nuorista osallistuu kaikkiin Sámi Siida ry:n järjestämiin tapahtumiin, jotka vain järjestetään saamen kielellä sekä Norjan puolen vapaa-ajan palveluihin. Norjan puolella he käyttävät etupäässä saamen kieltä ja joskus norjan kieltä.</p>
-    <p xml:lang="smn"><em type="bold">Sámi Siida ry:n nuorisotoiminta</em> </p>
-    <p>Yhdeksän nuorta on ollut mukana Sámi Siida ry:n järjestämässä nuorisotoiminnassa, kaksi heistä ei ole osallistunut. Eräs nuorista kertoi, ettei hän tunne Sámi Siida ry:n nuorisotoimintaa, mutta haastattelussa kävi ilmi, että hän on osallistunut Sápmi Talent Deatnu 2010 -tapahtumaan. Muut nuoret tuntevat osan tai jotkut suurimman osan yhdistyksen nuorisotoiminnasta.</p>
-    <p xml:lang="koi"><em type="bold">24</em> </p>
-    <p><em type="bold">Taulukko 13.</em> Nuorten kielenkäyttö Sámi Siida ry:n nuorisotoiminnassa. </p>
-    <p>Vain saamea Saamen- ja</p>
-    <p>suomen kieltä Enimmäkseen suomea Vain suomea Ei ole</p>
-    <p>osallistunut</p>
-    <p>Kuviossa ilmenee miten paljon nuoret käyttävät saamen kieltä Sámi Siida ry:n toimin-noissa.</p>
-    <p>Sámi Siida ry:n järjestämissä toiminnoissa kaikki nuoret paitsi yksi kertovat käyttävänsä saamen kieltä. Kuusi heistä kertoo käyttävänsä ainoastaan saamen kieltä Sámi Siida ry:n toiminnoissa. Eräs nuorista on käyttänyt suurin piirtein sekä suomen että saamen kieltä yhtä paljon, ja eräs nuorista puolestaan vähän saamen kieltä ja eräs taas ei ole lainkaan puhunut saamen kieltä Sámi Siida ry:n toiminnoissa.</p>
-    <p><em type="bold">Saamen kielen käyttö lisääntynyt</em> </p>
-    <p>Tärkeänä kysymyksenä tässä tutkimuksessa on ollut selvittää lisääntyykö nuorten kielenkäyttö Sámi Siida ry:n järjestämissä toiminnoissa. Nuoret vastasivat, että suurin osa (9) heistä on osallistunut yhdistyksen järjestämiin nuorisotoimintoihin ja kaikki paitsi yksi ovat käyttäneet saamen kieltä enemmän yhdistyksen toiminnoissa kuin muissa vapaa-ajan toiminnoissa. Kuusi nuorista on käyttänyt ainoastaan saamen kieltä näissä toiminnoissa. Jotkut nuorista käyttävät myös suomen kieltä saamenkielisissä nuorisotoiminnoissa. Yksi nuorista on käyttänyt suurin piirtein yhtä paljon sekä suomen että saamen kieltä ja kaksi nuorista on käyttänyt suomen kieltä pääkielenä yhdistyksen toiminnoissa.</p>
-    <p>Ne heistä, jotka eniten käyttävät saamen kieltä vapaa-ajan toiminnoissa, ovat kuitenkin osallistuneet ainoastaan tai useimmiten Sámi Siida ry:n tai Norjan puolen vapaa-ajan harrastustoimintaan.</p>
-    <p xml:lang="koi"><em type="bold">25</em> </p>
-    <p><em type="bold">Tapahtumat</em> </p>
-    <p>Sekä Utsjoella että naapurikunnissa järjestetään kulttuuritapahtumia saamen kielellä, esimerkiksi näytelmiä, konsertteja ja erilaisia festivaaleja: Kaarasjoella pääsiäisfestivaalit, Beaivváš Sámi Teáhter (saamelaisteatteri), Skiippagurran festivaalit ja Skábmagovat sekä Ijahis Idja Inarissa. Nämä tapahtumat toimivat kohtaamispaikkoina usean kunnan saamenkielisille, ja saamen kieltä käytetään sekä esiintymislavalla että kommunikoinnissa. Yhdeksän nuorista oli osallistunut näihin tapahtumiin. Jotkut heistä osallistuivat usein tällaisiin tapahtumiin, jotkut muistavat osallistuneensa vain kerran.</p>
-    <p><em type="bold">Nuorten arvio omasta kielenkäytöstään</em> </p>
-    <p>Nuoret ovat arvioineet omaa kielenkäyttöä vapaa-aikanaan ja neljä kertoo puhuvansa vain suomen kieltä ja seitsemän sekä suomen että saamen kieltä.</p>
-    <p><em type="bold">Taulukko 14.</em> Nuorten oma arvio vapaa-ajan kielenkäytöstään. </p>
-    <p xml:lang="koi">4,5</p>
-    <p xml:lang="koi">3,5</p>
-    <p xml:lang="koi">2,5</p>
-    <p xml:lang="koi">1,5</p>
-    <p xml:lang="koi">0,5</p>
-    <p>Enimmäkseen saamea Enimmäkseen suomea Vain suomea Vaikea tulkita</p>
-    <p>Kuviossa ilmenee nuorten oma arvio vapaa-ajan kielenkäytöstään. Vaikeasti tulkittavat vastaukset on kuvattu alla olevassa tekstissä.</p>
-    <p>Kolme nuorista on sitä mieltä, että he käyttävät saamen kieltä eniten vapaaaikana. Nämä nuoret osallistuivat ahkerammin saamenkielisiin vapaa-ajan toimintoihin sekä puhuivat enemmän saamen kieltä sisarustensa kanssa kuin muut nuoret. Kaksi nuorta käyttää saamen kieltä vapaa-aikanaan, mutta enimmäkseen he käyttävät kuitenkin suomen kieltä. Neljä nuorista käyttää ainoastaan suomen kieltä vapaa-aikanaan. Kahden nuoren vastausta on vaikea tulkita. Toinen näistä nuorista osoittaa hyviä kielikäytänteitä, jotka turvaavat saa</p>
-    <p><em type="bold">26</em> men kielen säilymisen, mutta kuitenkaan ei ole mahdollista tulkita kumpaa kieltä hän puhuu enemmän vapaa-aikanaan. Puhun suomen kieltä suomenkielisten kanssa ja saamen kieltä saamenkielisten kanssa. </p>
-    <p>Toisella näistä kahdesta ei ole sellaisia kielikäytänteitä, jotka edistävät saamen kielen säilymistä. Hän puhuu ystäviensä kanssa suomen kieltä, vaikka he osaavat saamen kieltä. Aikuisten kanssa hän puhuu saamen kieltä, esimerkiksi oman isänsä kanssa. Hän kuitenkin korostaa sitä, että joissakin Sámi Siida ry:n nuorisotoiminnoissa hän puhuu saamen kieltä.</p>
-    <p xml:lang="koi"><em type="bold">27</em> </p>
-    <p><em type="bold">Kielivalinnat Norjan puolen saamelaisnuorten kanssa</em> </p>
-    <p>Nuoret ovat kertoneet yhteyksistään Norjan ja Ruotsin puolen saamelaisnuorten kanssa, ja siitä mitä kieliä he käyttävät keskenään tavatessaan muiden maiden saamelaisnuoria.</p>
-    <p><em type="bold">Taulukko 15.</em> Yhteydet Norjan puolen saamelaisnuorten kanssa. </p>
-    <p>Saameksi Saameksi ja muilla kielillä Ei ole yhteyksiä</p>
-    <p>Kuviossa ilmenee nuorten kielenkäyttöä Norjan saamelaisnuorten kanssa. Viidellä on yhteyksiä ainoastaan saamen kielellä, kolme nuorista käyttää saamen, norjan tai ruotsin kieltä ja kolmella ei lainkaan yhteyksiä Norjan puolen saamelaisnuorten kanssa.</p>
-    <p>Norjan puolet kylät ovat lähellä Utsjoen kuntaa ja oletettavaa oli, että nuorilla on enemmän yhteyksiä Norjan puolen kuin Ruotsin puolen nuorten kanssa. Onkin niin, että kenelläkään ei ole yhteyksiä Ruotsin puolen nuorten kanssa, mutta kahdeksalla on yhteyksiä Norjan puolen nuorten kanssa, kolmella taas ei ole minkäänlaisia yhteyksiä naapurimaiden saamelaisnuorten kanssa.</p>
-    <p>Saamen kieli on pääkielenä, kun nuoret tapaavat Norjan puolten nuorten kanssa, vaikka kolme nuorista kertoo käyttävänsä vähän myös norjan tai ruotsin kieltä. Muutamat nuoret ovat olleet mukana Utsjoki–Sirma -kouluyhteistyössä esikoulussa ja ala-asteella, ja he nimesivät sen sellaiseksi yhteydeksi, jonka avulla ovat tutustuneet ja puhuneet saamen kieltä Norjan puolen lasten kanssa.</p>
-    <p xml:lang="koi"><em type="bold">28</em> </p>
-    <p><em type="bold">Kielet ja media</em> </p>
-    <p><em type="bold">Mediatarjonta</em> </p>
-    <p>Saamelaista mediatarjontaa on vähän verrattuna suomenkieliseen mediatarjontaan kuten myös Suomen ruotsinkieliseen tarjontaan. Erityisesti nuorille suunnattua tarjontaa on vähän. Jotain mediatarjontaa kuitenkin on, myös nuorille. Saamenkielinen sanomalehti Ávvir ilmestyy viidesti viikossa Norjan puolella ja lehdessä on nuorille suunnattuja osia. Norjan puolella ilmestyy myös Š-nuortenlehti. Aikaisemmin Vuolle Vuojáš (Aku Ankka) ilmestyi saamen kielellä ja samoin kuin Leavedolgi-lastenlehtikin. Niitä on yhä saatavissa kirjastoista.</p>
-    <p>Kaikkialla Utsjoen kunnassa kuuluvat sekä YLE Sámi Radion että Norjan puolen NRK Sápmi -ohjelmat. Ohjelma-aikaa on yhteensä 32–35 tuntia viikossa. NRK Sápmi lähettää erillisiä nuortenohjelmia, vastaavaa tarjontaa ei ole YLE Sámi radiolla. YLE lähettää 15-minuuttiset pohjoismaiset TV-uutiset joka arkipäivä ja Unná Junná -lastenohjelmaa kerran viikossa (noin 30 ohjelmaa vuodessa). NRK Sápmi näyttää kaksi kertaa viikossa saamenkielisiä lastenohjelmia, silloin tällöin nuortenohjelmia sekä dokumentteja saamen kielellä. Näitä ohjelmia ei voi katsella Utsjoen kunnassa erilaisen lähetystekniikoiden takia, mutta ne ovat nähtävillä NRK Sápmi -nettisivuilla.</p>
-    <p><em type="bold">Nuorten medioiden käyttö</em> </p>
-    <p>Suurin osa tutkimuksessa mukana olevista nuorista ei tunne eikä käytä nuorille suunnattuja saamenkielisiä mediapalveluja.</p>
-    <p><em type="bold">TV- ja radio-ohjelmat</em> </p>
-    <p>Kymmenen nuorista ei kuuntele saamenkielisiä radio-ohjelmia eikä katso saamenkielisiä TV-ohjelmia. Eräs nuorista kuuntelee joskus saamenkielisiä nuortenohjelmia ja hän katsoo joskus saamenkielisiä TV-ohjelmia. Eräs puolestaan katsoo Unná Junná -lastenohjelmaa ja eräällä on tapana katsoa saamenkielisiä TV-uutisia.</p>
-    <p xml:lang="koi"><em type="bold">29</em> </p>
-    <p><em type="bold">Taulukko 16.</em> Saamenkielisten TV-ohjelmien katselu. </p>
-    <p>Nuorten ohj. Lasten-TV Uutiset Eivät katso sk.</p>
-    <p>TV:ta</p>
-    <p>Kuviosta ilmenee nuorten katsomat saamenkieliset TV-ohjelmat. Eräs nuorista katsoo nuortenohjelmia, toinen taas lastenohjelmia ja kolmas uutisia. Kahdeksan nuorista ei katso lainkaan saamenkielisiä ohjelmia.</p>
-    <p>Eräs nuorista tokaisi: ”Onko niitä edes olemassa?”, kun kysyttiin radion nuortenohjelmista sekä eräs totesi <span type="quote">”En tiedä mihin aikaan sellaisia näytetään”</span>, kun oli puhe nuorten TV-ohjelmista.</p>
-    <p><em type="bold">Painetun median käyttö</em> </p>
-    <p>Yhdeksän nuorista ei lainkaan lue saamenkielisiä sanomalehtiä. Eräs nuorista lukee saamenkielistä sanomalehteä kotonaan ja toinen silloin tällöin koulussa, mikäli opettaja niin vaatii. Myös kolmas tuntee lehden, mutta kertoo ettei heille tilata sitä kotiin, sillä se ei ole mielenkiintoinen lehti. Meille ei tule, ei kiinnosta.</p>
-    <p>Ainoastaan yksi nuorista tuntee saamenkielisen Š-nuortenlehden ja hän lukee sitä säännöllisesti. Muut nuoret eivät tunne lehteä, eivätkä lue sitä.</p>
-    <p><em type="bold">Tulokset lyhyesti</em> </p>
-    <p>Harva nuori käyttää nuorille suunnattuja saamenkielisiä mediapalveluja. Siihen näyttää olevan yksinkertainen selitys. He eivät tunne niitä, ja eräs nuorista suorastaan ihmettelee niiden olemassaoloa.</p>
-    <p>Mikä mahtaa olla syynä siihen, että nuoret eivät tunne nuorille suunnattuja</p>
-    <p><em type="bold">30</em> saamenkielisiä mediapalveluja, sitä on mahdotonta tietää. Voidaan vain arvioida. Voi olla niin, että mediayritykset eivät ole mainostaneet omia palvelujaan Suomen puolella. Toisena syynä saattaa olla se, että kaikki palvelut ovat tehty Norjan puolella, eivätkä Suomen puolen nuoret tunne niitä kohtaan mielenkiintoa. </p>
-    <p><em type="bold">Kirjoittaminen ja kirjallisuus</em> </p>
-    <p>Tutkimuksen tavoitteena oli myös selvittää mitä kieliä nuoret lukevat ja kirjoittavat, ja kummalla kielellä he kirjoittavat enemmän ja kummalla lukevat enemmän.</p>
-    <p><em type="bold">Taulukko 17.</em> Nuorten kielenkäyttö kirjoittamisessa. </p>
-    <p>Enimmäkseen saamea Enimmäkseen suomea Ei ole vastannut</p>
-    <p>Kuviosta ilmenee mitä, suomen vai saamen kieltä nuoret käyttävät eniten kirjoittaessaan.</p>
-    <p>Kymmenen nuorista vastasi kirjoittavansa sekä saamen että suomen kielellä. Neljä heistä kirjoittaa enimmäkseen saamen kielellä, kuusi puolestaan suomen kielellä ja yksi ei vastannut kysymykseen.</p>
-    <p>Joillakin nuorilla on ollut vaikeuksia vastata siihen, mikä vaikuttaa kirjoituskielen valintaan. Kahdeksan nuorista osasi vastata, kolme ei osannut. Kolmen nuoren mielestä media vaikuttaa kirjoituskielen valintaan, eräs nuorista mainitsee esimerkiksi oppikirjan kielen. Neljä ovat sitä mieltä, että vastaanottajan kielitaito ratkaisee sekä eräs nuorista selittää, että ”jos hän on suomenkieli</p>
-    <p><em type="bold">31</em> nen” tarkoittaen luultavasti hänen itsensä kirjoittavan tuolloin suomen kielellä. Kolme on sitä mieltä, että kirjoituksen sisältö ja kirjoitustilanne vaikuttavat kirjoituskielen valintaan ja eräs nuorista on lisännyt, että on helpompaa kirjoittaa suomen kielellä. </p>
-    <p><em type="bold">Mitä nuoret kirjoittavat saamen kielellä?</em> </p>
-    <p>Kymmenen nuorta on kertonut tekevänsä koulutehtävänsä saamen kielellä. Seitsemän nuorista kirjoittaa myös muuta saamen kielellä kuin pelkästään koulutöitä. Nämä nuoret kirjoittavat monella eri kirjoituslajilla ja -tavalla.</p>
-    <p type="listitem">•  Kolme kirjoittaa artikkeleita, kertomuksia ja/tai novelleja.</p>
-    <p type="listitem">•  Yksi kirjoittaa runoja tai rap-sanoituksia.</p>
-    <p type="listitem">•  Kolme kirjoittaa lauluntekstejä.</p>
-    <p type="listitem">•  Kolme kirjoittaa tekstiviestejä puhelimitse. Yksi näistä lisää, että hän kuitenkin kirjoittaa suurimman osan tekstiviesteistä suomen kielellä.</p>
-    <p type="listitem">•  Yksi chattaa netissä saamen kielellä.</p>
-    <p type="listitem">•  Kymmenen tekee koulutehtävänsä saamen kielellä.</p>
-    <p type="listitem">•  Yksi kirjoittaa myös jotain muuta saamen kielellä, mutta vitsailee ettei hän kerro mitä kirjoittaa.</p>
-    <p>Koulun ulkopuolella nuoret käyttävät saamen kieltä vähän kirjoituskielenä, mutta siltikin seitsemän vastasi kirjoittavansa jotain saamen kielellä. Tällöin he valitsevat monenlaisia kirjoituslajeja ja -tapoja kuten yllä olevassa tekstissä esiteltiin.</p>
-    <p><em type="bold">Saamenkielinen kirjallisuus</em> </p>
-    <p>Yhdeksän nuorista lukee saamenkielistä kirjallisuutta koulussa, kaksi ei lue lainkaan. Koulun ulkopuolella heistä kolme lukee saamenkielistä kirjallisuutta ja kahdeksan kielsi lukevansa sitä.</p>
-    <p><em type="bold">Tulokset lyhyesti</em> </p>
-    <p>Näiden nuorten saamen kielen lukeminen ja kirjoittaminen kuuluvat pääasiallisesti kouluun. Kuitenkin enemmistö käyttää enimmäkseen suomen kieltä kirjoituskielenään tarkasteltaessa sekä koulun että vapaa-ajan käyttöä kokonaisvaltaisesti. Seitsemän on kuitenkin vastannut, että he kirjoittavat jotain koulun ulkopuolella, ja sitä on pidettävä positiivisena kehityksenä ja merkkinä siitä, että jotkut nuoret valitsevat saamen kielellä kirjoittamisen, kun heille itselle annetaan mahdollisuus valita.</p>
-    <p><em type="bold">32</em> Hieman odottamatonta saattaa olla se, että useampia nuoria ei kirjoita saamen kielellä uudenaikaista teknologiaa käyttäessään, esimerkiksi tekstiviesteissä ja netin chatti-kommunikointiohjelmilla. Ainoastaan yksi nuorista chattaa saamen kielellä ja kolme nuorista viestittelee puhelimen välityksellä saamen kielellä. </p>
-    <p>Ainoastaan kolme nuorista lukee saamenkielistä kirjallisuutta vapaa-aikanaan. Syynä tähän saattaa olla puutteellinen tarjonta. Saamenkielisiä nuorten kirjoja on julkaistu vähän, ja nuoret ovat luultavasti jo lukeneet vähäisen tarjonnan koulussa. Toisena selityksenä voi olla, että nuoret eivät tunne julkaistuja kirjoja.</p>
-    <p><em type="bold">Miten lisätä nuorten saamen kielen käyttöä?</em> </p>
-    <p>Nuorilta tiedusteltiin millaisia palveluja he haluaisivat lisäämään samalla heidän saamen kielen käyttöään. Kolme nuorista ei osannut vastata kysymykseen lainkaan. Kahdeksan nuorta on etupäässä esittänyt enemmän saamenkielisiä tapahtumia ja toimintoja nuoria varten. Eräs nuorista on korostanut, että tulisi järjestää saamelaisia tapahtumia, joissa myös Norjan ja Ruotsin puolen nuoret ovat mukana ja tällöin saamen kieltä olisi pakko käyttää. Saamelaisia tapahtumia, myös norjalaisille ja ruotsalaisille saamelaisnuorille, jolloin pitää käyttää saamea.</p>
-    <p>Eräs nuorista on korostanut, että nuorille tulisi olla saamenkielinen lehti. Nuorille tarkoitettu nuoria kiinnostava saamenkielinen lehti.</p>
-    <p>Toiset nuoret viittaavat aikuisiin. Eräs on sitä mieltä, että vanhempien tulisi puhua enemmän saamen kieltä ja eräs puolestaan esittää, että nuorille tulisi kertoa saamen kielen puhumisen tärkeydestä. Vanhemmat voisivat puhua enemmän saamea. Nuorille pitäisi puhua saamen kielen tärkeydestä.</p>
-    <p xml:lang="koi"><em type="bold">33</em> </p>
-    <p><em type="bold">Tulokset lyhyesti</em> </p>
-    <p>Eräät nuoret havaitsivat, että puuttuu toimia ja tapahtumia, joissa he voivat käyttää ja/tai kehittää omaa kieltään. He ehdottavat järjestettäväksi enemmän nuorille suunnattuja saamenkielisiä tapahtumia ja vapaa-ajan toimintoja. Jotkut nuorista myös totesivat, että aikuisten tulee ottaa enemmän vastuuta. Nimen omaan aikuisten tulee puhua enemmän saamen kieltä lapsille ja aikuisten tulee puhua nuorille saamen kielen tärkeydestä ja siten muuttaa nuorten kielenkäyttöä. Kaikki ehdotuksista ovat realistisia ja mahdollisia toteuttaa.</p>
-    <p><em type="bold">Toimet, jotka parantaisivat saamen kielen tilaa</em> </p>
-    <p>Selvityksen tekijä pyysi nuoria ehdottamaan toimenpiteitä saamen kielen säilyttämiseksi ja jotta saamen kieltä käytettäisiin enemmän. Viisi nuorista vastasi. Eräät ehdotuksista liittyvät nuorten koulumaailmaan, toiset taas enemmän media- ja kulttuurimaailmaan.</p>
-    <p><em type="bold">Media ja kulttuuri</em> </p>
-    <p>Eräs nuorista kertoi, ettei hän ole ajatellut asiaa, ja että hänellä on melko vaatimaton ehdotus. Jos olisi saamenkielisiä TV-ohjelmia, niin niitä voisi katsoa. En ole ajatellut; jos olisi saamenkielisiä ohjelmia niitä voisi katsoa tv:stä.</p>
-    <p>Toinen nuorista taas haluaisi enemmän saamenkielisiä tapahtumia, musiikkia ja kirjallisuutta. Lisäksi hän näkee tarpeen vaikuttaa asenteisiin kirjallisuutta valittaessa, sillä nuoret valitsevat suomenkielistä kirjallisuutta. Saamenkielisiä tapahtumia, musiikkia, kirjallisuutta. Pitäisi vaikuttaa ennakko luuloihin kirjallisuusvalinnoissa (nuoret valitsevat suomenkielistä).</p>
-    <p><em type="bold">Koulumaailman muutokset</em> </p>
-    <p>Eräät nuorista esittävät sekä laajoja että radikaaleja muutoksia yhteiskuntaan. Eräs nuorista ehdottaa, että saamelaisten kotiseutualueella tulisi saamen kielen olla pakollinen oppiaine kaikille lapsille, esimerkiksi kolmannesta luokasta lähtien. Lapsille opetettava saamea, koulussa pakollinen saamenkielinen opetus saamelaisalueella, pakollinen kaikille esimerkiksi 3. luokalle asti.</p>
-    <p xml:lang="koi"><em type="bold">34</em> </p>
-    <p>Toinen nuorista haluaa, että kaikki koulun opetus on saamen kielellä ja että koulussa ei tulisi olla lupaa käyttää suomen kieltä. Kaikki opetus koulussa saameksi, koulussa ei saisi käyttää suomea.</p>
-    <p>Myös eräs nuorista haluaa saamenkielisen koulun sekä saamenkielisen opettajakoulutuksen, jotta saadaan opettajia. Saamenkielistä opettajakoulutusta jotta saadaan opettajia, saamenkielisiä kouluja.</p>
-    <p><em type="bold">Tulokset lyhyesti</em> </p>
-    <p>Nuoret esittävät joitakin toimenpiteitä, jotka ovat olleet esillä yhteiskuntakeskustelussa viime aikoina. He haluavat saamenkielisille omia, selviä kielenkäyttö alueita, kuten saamenkielisen koulun, TV-ohjelmia ja enemmän kulttuuritapahtumia, musiikkia ja kirjallisuutta. Ehdotusta siitä, että saamen kielen tulisi olla pakollinen oppiaine koulussa, voidaan tulkita toiveeksi käyttää saamen kieltä enemmän mikäli suomenkieliset lapset oppivat saamen kielen.</p>
-    <p xml:lang="koi"><em type="bold">35</em> </p>
-    <p><em type="bold">Omien lasten saamen kieli</em> </p>
-    <p>Suurin osa nuorista pitää itsestään selvänä sitä, että heidän lastensa tulisi oppia saamen kieltä. Yhdeksän nuorista on vastannut haluavansa ja kaksi lisäsi vielä <span type="quote">”tietysti”</span>. Eräs nuorista vastasi, ettei hän halua omien lastensa puhuvan saamea, sillä hän ei aio jäädä asumaan Utsjoen kuntaan, tosin myöhemmin hän korjasi vastaustaan todeten <span type="quote">”ehkä sittenkin”</span>. Eräs nuorista oli epävarma ja totesi sen riippuvan asuinpaikasta ja lapsen toisesta vanhemmasta. Jos hän olisi ainoa, joka lapselle puhuisi saamen kieltä, niin ei hän taitaisi jaksaa opettaa. Riippuu asuinpaikasta ja lapsen äidistä. Jos olisin ainoa joka puhuu saamea, en ehkä jaksaisi opettaa.</p>
-    <p><em type="bold">Miksi saamen kieltä lapsille?</em> </p>
-    <p>Ne nuoret, jotka varmasti aikovat puhua saamen kieltä lastensa kanssa, toivat esille tunteisiin ja käytäntöön liittyviä asioita selittäessään syytä, miksi haluavat omien lastensa oppivan saamen kielen.</p>
-    <p><em type="bold">Koska saamen kieli on äidinkieli</em> </p>
-    <p>Viisi nuorista tuntee yhteenkuuluvuutta saamen kieleen ja he pitävät saamen kieltä säilyttämisen arvoisena. He käyttävät sellaisia ilmaisuja kuten ”se on minun oma kieleni” ja <span type="quote">”se on äidinkieleni”</span>. Eräs nuorista kertoo aikovansa puhua lastensa kanssa saamen kieltä sen takia, että saamen kieli periytyy ja olemassaolo jatkuu, eikä kieli häviä. Eräs nuorista haluaa saamen välittyvän eteenpäin haluten omien lastensa opettavan sen edelleen vastaavasti omille lapsilleen.</p>
-    <p>Eräs nuorista haluaa, että hänen lapsensa myös oppivat saamen kielen, sillä hänelle on lapsuudessaan paljon puhuttu saamen kieltä ja hän pitää saamen kieltä omana kielenään. Koska minulle itselleni on lapsesta saakka puhuttu saamea ja se on minun oma kieleni. Koska se on äidinkieleni Jotta kieli periytyy ja jatkuu, eikä häviä. Haluan että kieli välittyy eteenpäin ja minun lapseni opettaa sitä omille lapsilleen.</p>
-    <p><em type="bold">Koska on hyvä osata saamen kieltä</em> </p>
-    <p>Jotkut nuorista tarkastelevat etupäässä saamen kielen säilymistä ja siirtymistä</p>
-    <p><em type="bold">36</em> lapsille käytännön asiana ja ajattelevat sen olevan hyväksi lapsille. Saamen kieli on tärkeä täällä Lapissa. Jotta lapsesta tulee kaksikielinen ja voi käydä saamenkielistä ammattikoulua; kielitaidosta yleensä hyötyä. </p>
-    <p>Eräs nuorista toivoo lasten oppivan saamen kieltä paremmin kuin hän, sillä hän pitää saamen kieltä etuna raja-alueella, eikä hän aio muuttaa muualle. Haluan että oppivat paremmin kuin minä; siitä on hyötyä täällä rajalla enkä aio muuttaa.</p>
-    <p><em type="bold">Millä tavoin lasten tulee oppia?</em> </p>
-    <p>Kaikki nuoret, myös ne, jotka eivät tiedä puhuvatko itse saamen kieltä lastensa kanssa, haluavat että lapset oppivat saamen kielen. Suurin osa sanoo olevansa varmoja, että he puhuvat saamen kieltä omien lastensa kanssa kotonaan. Yhdeksän nuorista vastasi puhuvansa itse, yksi vastasi <span type="quote" xml:lang="krl">”ehkä puhun itse”</span> ja yksi taas <span type="quote">”en ole varma”</span>.</p>
-    <p><em type="bold">Päiväkoti ja koulu</em> </p>
-    <p>Kaikki nuoret sanovat haluavan lastensa oppivan saamen kieltä päiväkodissa ja koulussa, mutta kaksi heistä näyttää olevan epävarmoja siitä, onko näitä palveluja saatavilla aikuisena asuinpaikassa. He kaksi ovat kertoneet, että lasten tulee oppia saamen kieltä päiväkodissa sekä koulussa, mikäli he jäävät Utsjoella ja mikäli saamenkielinen palvelu on saatavilla lapsille.</p>
-    <p><em type="bold">Muut tavat</em> </p>
-    <p>Nuorilta myös kysyttiin onko olemassa muita tapoja, joiden avulla lapset voivat oppia saamen kieltä ja eräs vastasi siihen, että sukulaisten ja heidän, jotka puhuvat saamen kieltä, tulisi puhua saamen kieltä hänen lastensa kanssa.</p>
-    <p><em type="bold">Tulokset lyhyesti</em> </p>
-    <p>Kaikki 11 nuorta haluaa saamenkielisiä lapsia ja melkein kaikki heistä ovat valmiita ottamaan vastuun omien lastensa saamen kielen taidon omaksumisesta. He ovat myös ajatelleet käyttää saamenkielisiä päiväkoteja ja kouluja hyödyksi. Nämä tulokset osoittavat positiivisia asenteita saamen kielen suhteen ja on huomioitava, että eräät nuorista ovat ajatelleet lisäävänsä melkoisesti omaa saamen kielen käyttöään lastensa vanhempina verrattuna nykyisyyteen.</p>
-    <p xml:lang="koi"><em type="bold">37</em> </p>
-    <p><em type="bold">Tulokset</em> </p>
-    <p>Kaikki selvityksessä haastatellut nuoret asuvat Utsjoen kunnassa. Yhdeksän heistä on oppinut saamen kielen ennen koulunkäynnin aloittamista, kaksi koulun aloittamisen jälkeen. Näiden nuorten kielenkäyttötavat ovat erilaisia. Eräät tendenssit kuitenkin ilmenevät tästä selvityksestä.</p>
-    <p><em type="bold">Huolestuttavia tuloksia</em> </p>
-    <p>Suurin osa nuorista puhuu saamen kieltä vähän sekä kotona, koulussa että vapaa -aikana. Erityisen huolestuttavaa on, että suurin osa nuorista ei käytä saamen kieltä samanikäisten ystäviensä, eikä sisarustensa kanssa.</p>
-    <p>Haastattelujen perusteella voidaan todeta, että on paljon parantamisen varaa nuorten lähiympäristössä, usein kotona ja suvun parissa. Tällä tarkoitetaan sitä, että lasten ympäristössä on saamenkielisiä ihmisiä, joiden kanssa he voivat puhua enemmän saamen kieltä.</p>
-    <p>Yhteiskunnassa on olemassa myös asioita, jotka estävät saamen kielen käyttöä. Koulu toimii vain osittain saamenkielisenä kielenkäyttöalueena. Ainoa saamen kielinen kielenkäyttöalue koulussa on saamenkielinen opetustila opettajineen. Muilla kielenkäyttöalueilla kuten välitunneilla ja koulumatkoilla nuoret puhuvat enimmäkseen suomen kieltä ikäistensä kanssa.</p>
-    <p>Nuorille on vähän saamenkielisiä vapaa-ajan ja mediapalveluja saamen kielellä, ja suurimmalla osalla nuorista suomen kieli on pääkielenä vapaa-aikana. Eivätkä monetkaan käytä olemassa olevia saamenkielisiä palveluja, kuten saamen kielistä mediaa ja Norjan puolen nuorisotoimintoja.</p>
-    <p><em type="bold">Sámi Siida ry:n toiminta</em> </p>
-    <p>Sámi Siida ry:n nuorisotoiminnot ovat ainoita saamenkielisiä vapaa-ajan toimintoja Utsjoen kunnassa. Yhdeksän nuorista on osallistunut vähintään yhteen yhdistyksen järjestämään nuorisotapahtumaan ja kuusi nuorista puhuu ainoastaan saamen kieltä näissä tapahtumissa. Nuoret käyttävät selvästi enemmän saamen kieltä Sámi Siida ry:n nuorisotoiminnoissa kuin missään muussa vapaa-ajan toiminnossa. Siltä kannalta Sámi Siida ry on saavuttanut yhden tavoitteensa – nimenomaan lisännyt nuorten saamen kielen käyttöä. Toisaalta selvityksessä kuitenkin ilmeni, että eräät nuoret käyttävät suomen kieltä pääkielenä yhdistyksenkin toiminnoissa.</p>
-    <p><em type="bold">38</em> Kuitenkin on selvää, että Sámi Siida ry on perustanut sellaisen kielenkäyttöalueen, jota ei muutoin olisi Utsjoen kunnassa – nimenomaan saamenkielisen vapaa-ajan tarjonnan saamenkielisille nuorille. Tällaisia toimintoja ei ole ollut aikaisemmin, eivätkä muut vapaa-ajan palvelujen tuottajat ole alkaneet käyttämään saamen kieltä. </p>
-    <p><em type="bold">Haluavat saamenkielisiä kielenkäyttöalueita</em> </p>
-    <p>Nuoret osoittavat kiinnostusta ja halua käyttää saamen kieltä enemmän kuin mitä he tällä hetkellä käyttävät. Kiinnostus tulee esille esimerkiksi siitä, että he itse ehdottavat toimenpiteitä saamen kielitilanteen parantamiseksi sekä saamen kielen käytön lisäämiseksi nuorten parissa. He haluavat enemmän nuorille suunnattuja saamenkielisiä toimintoja ja tapahtumia yhdessä muiden maiden nuorten kanssa, jotta saamen kielen käyttö olisi välttämätöntä. Eräät myös esittävät saamenkielistä koulua ja suomen kielen käytön kieltämistä koulussa. Eräs puolestaan ehdotti, että saamen kieli olisi pakollinen oppiaine, jotta suomenkieliset lapset oppivat saamen kieltä.</p>
-    <p><em type="bold">Lasten tulee oppia</em> </p>
-    <p>Jokainen nuori haluaa, että hänen lapsensa osaavat saamen kieltä ja suurin osa nuorista on jo päättänyt puhua saamen kieltä omien lastensa kanssa. Tällä perusteella he näyttävät arvostavan saamen kieltä ja pitävät saamen kieltä hyödyllisenä. He osoittavat myös olevansa valmiita ottamaan vastuuta kielen säilymisestä. Tätä on pidettävä hyvänä merkkinä.</p>
-    <p xml:lang="kal"><em type="bold">Loppusanat</em> </p>
-    <p>Tässä selvityksessä ei tutkittu sitä, käyttävätkö nuoret saamen kieltä enemmän nyt muissa yhteyksissä kuin Sámi Siida ry:n toiminnassa. Syynä siihen oli, ettei tässä käytetty longitudialista tutkimustapaa. Se tarkoittaa sitä, ettei nuorten kielenkäyttöä ole tutkittu ennen kuin Sámi Siida ry alkoi järjestää nuorille toimintoja. Selvityksen tuloksena on nuorten saamen kielen käyttö tutkimusajankohtana. Olisi hyvä tutkia jatkossa Sámi Siida ry:n nuorisotyön ja mahdollisesti muun saamenkielisen nuoristotyön vaikutusta.</p>
-    <p xml:lang="koi"><em type="bold">39</em> </p>
-    <p><em type="bold">Lähteet</em>Aikio, Marjut ja Lindgren, Anna-Riitta 1973: Kieliraportti. Helsinki. Komiteamietinnön </p>
-    <p>1973:46 liite. Alaraudanjoki, Arja ja Katariina Kurki-Joensuu 2002: Utsjoen saamelaisten oppilaiden kielenkäyttö vuosina 1988 ja 2001. Pro gradu –tutkielma. Lapin yliopisto 2002. Hyltenstam Kenneth, Straud Christopher ja Svonni Mikael 1999: Språkbyte, språkbevarande, revitalisering. Samiskans stälning i svenska Sapmi: I Hyltenstam, Kenneth (toim.). Teoksessa: Sveriges sju inhemska språk – et minoritetsspråks-perspektiv: Lund: Studentlitteratur: 41-97. Inkinen, Sari 2011: Utsjoen kunnan päivähoidon johtajan esittely kunnan keskustelutilaisuudessa 24.1.2011. Torkel Rasmussenin muistiinpanojen mukaan. Partanen, Minna 1994: Saamen kielen käyttö Suomen saamelaisalueella. Oulu. Oulun yliopiston maantieteen laitos. Rasmussen, Torkel 2005: Jávohuvvá ja ealáska: Davvisámegielagiid demografiija ja buolvvaidgaskasaš sirdáseapmi Norggas ja Suomas. Saamen kielen pro gradu -tutkielma. Tromsøn yliopisto. Tromsø. Rasmussen, Torkel 2009: Ohcejoga mánáid ja nuoraid gielat. Yleisöluento Sámi Siida ry:n Skápmadoalut -tapahtumassa (Kaamostapahtumassa) 3.11.2009. Sámi Siida ry 2009: Sámi Siida ry:n hakemus Suomen kulttuurirahastolle. Sámi Siida ry 2010: Sámi Siida ry:n toimintasuunnitelma 2010. Suomen tilastokeskus 2010: Suomen tilastokeskuksen tietokanta. Helsinki.  <em type="italic">http://tilastokeskus.fi/. T</em>iedot haettu 24.01.2011 UNESCO 2003: Language Vitality and Endangerment: UNESCO Intangible Cultural Heritage Unit’s Ad Hoc Expert Group on Endangered Languages. </p>
-    <p><em type="bold">Taulukot</em>Taulukko 1. Utsjoen väestön väestötietojärjestelmään ilmoitettu äidinkieli 10 vuoden </p>
-    <p>välein Taulukko 2. Päiväkodit ja lasten määrä Taulukko 3. Utsjoen koulujen oppilasmäärät ja opetuskielet Taulukko 4. Saamen kielen puhumisen omaksuminen Taulukko 5. Sisarusten kanssa käytetty kieli Taulukko 6. Vanhempien kanssa käytetty kieli Taulukko 7. Isovanhempien kanssa käytetty kieli Taulukko 8. Sukulaisten kanssa käytetty kieli Taulukko 9. Saamen kieli koulussa eri kielenkäyttöalueilla Taulukko 10. Välituntien kieli koulussa Taulukko 11. Koulumatkojen kieli Taulukko 12. Saamenkielisten opettajien kanssa käytetty kieli opetustilojen ulkopuolella Taulukko 13. Nuorten kielenkäyttö Sámi Siida ry:n nuorisotoiminnassa Taulukko 14. Nuorten oma arvio vapaa-ajan kielenkäytöstään Taulukko 15. Yhteydet Norjan puolen saamelaisnuorten kanssa Taulukko 16. Saamenkielisten TV-ohjelmien katselu Taulukko 17. Nuorten kielenkäyttö kirjoittamisessa</p>
-    <p xml:lang="koi"><em type="bold">40</em> </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Riitta" lastname="Taipale" sex="f" born="" nationality=""/></author><year>2012</year><wordcount>6740</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samisiida.org/govat/doc/selvityssuominet.pdf</origFileName><parallel_text xml:lang="sme" location="selvityssaamenet.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Utsjoen saamenkielisten nuorten  kielenkäyttö</p>
+<p xml:lang="smn"><em type="bold">Riitta TaipaleSámi Siida rs</em> </p>
+<p>Utsjoen saamenkielisten nuorten kielenkäyttö</p>
+<p><em type="bold">Riitta Taipale</em> </p>
+<p xml:lang="sme"><em type="bold">Sámi Siida rs</em> </p>
+<p>Julkaisija: Sámi Siida ry ja Ovttas!-hanke, Utsjoki 2012 Rahoittajat: Opetusministeriö, Suomen kulttuurirahaston Myrsky-hanke, Ovttas!-hanke (Lapin liitto, Pohjoiskalotin neuvosto, INTERREG IVA Pohjoinen Sápmi, Utsjoen kunta, Norjan Saamelaiskäräjät, Fornyings-, administrasjons- og kirkedepartementet, Taanan kunta ja Taanan saamenkielikeskus. Taitto ja kuvat: Studio Borga, Utsjoki. Kuvat ovat Sámi Siida ry:n nuorten toiminnasta ja tapahtumista 2008–2010 www.samisiida.org Waasa Graphics 2012</p>
+<p xml:lang="eng"><em type="bold">Esipuhe</em> </p>
+<p>Saamen kielen tilanne on parantunut monen asian suhteen Utsjoella. Saamen kieli on virallisena kielenä Utsjoen kunnassa, kuntaan on perustettu kaksi saamenkielistä päiväkotia ja saamen kieltä käytetään opetuskielenä Utsjoen peruskouluissa. Saamenkielisten lasten lukumäärä on lisääntynyt ja yhä enenevässä määrin lapsia tulee saamenkielisiin päiväkoteihin sekä koulujen saamenkielisille luokille.</p>
+<p>Tästä positiivisesta kehityksestä huolimatta on selvinnyt, että Utsjoen saamenkieliset nuoret käyttävät saamenkieltä vähän. Halusimme saada tarkemman kuvan nuorten kielitilanteesta ja kuulla nuorilta itseltään miten saamen kielen tilannetta voidaan vahvistaa sekä lisätä saamenkielen käyttöä nuorten keskuudessa. Selvityksen toteutti FL Riitta Taipale haastattelemalla saamenkielisiä nuoria heidän kielenkäytöstään. Haastattelujen avulla on saatu runsaasti arvokasta tietoa, jota hyödynnetään poliittisiin päättäjiin vaikuttamisessa sekä nuorten vapaa-ajanpalvelujen kehittämisessä.</p>
+<p>Tämän selvityksen julkaisijat ovat saamelaisyhdistys Sámi Siida ry ja Utsjoen ja Norjan Tanan kuntien Ovttas! Saamen kieli-, koulu- ja päiväkotitoiminnan kehittäminen Tenonlaaksossa -hanke. Sámi Siida ry on viime vuosina asettanut painopisteeksi toiminnassaan lapset ja nuoret. Ovttas!-hankkeen tavoitteena on lisätä Utsjoen ja Tanan lasten ja nuorten saamenkielen käyttöä ylirajaisen yhteistyön avulla.</p>
+<p>Sámi Siida ry:n sekä Ovttas!-hankkeen puolesta toivomme, että selvityksestä on hyötyä myös muille yhteiskunnallisista asioista kiinnostuneille, viranomaisille sekä eri tasojen politiikoille, joiden vastuualueeseen kuuluu saamelaisnuorten elinolosuhteiden ja saamen kielen vahvistaminen sekä kehittäminen. On toivottavaa, että myös nuoret innostuvat vahvistamaan ja kehittämään omia elinolosuhteitansa ja kieltänsä.</p>
+<p>Selvitystä varten Sámi Siida sai rahoitusta Opetusministeriöltä 4000 euroa sekä käytti Suomen kulttuurirahaston paikalliseen Myrsky-hankkeeseen saatua avustusta. Ovttas!-hanketta rahoittavat Lapin liitto, Pohjoiskalotin neuvosto, INTERREG IVA Pohjoinen Sápmi, Utsjoen kunta, Norjan Saamelaiskäräjät, Fornyings-, administrasjons- og kirkedepartementet, Taanan kunta ja Taanan saamenkielikeskus. Kiitämme rahoittajia tuesta.</p>
+<p>Sámi Siida sekä Ovttas! -hanke</p>
+<p xml:lang="vep"><em type="bold">3</em> </p>
+<p xml:lang="fkv"><em type="bold">Yhteenveto</em> </p>
+<p>Selvitys käsittelee 13–17 -vuotiaiden saamenkielisten utsjokelaisnuorten kielen käyttöä perheessä, koulussa, vapaa-aikana, mediankäytössä sekä lukemisessa ja kirjoittamisessa. Suurin osa nuorista käyttää enemmän suomen kuin saamen kieltä suurimmalla osalla domaineilla eli kielenkäyttöalueilla joka päiväisessä elämässä. He puhuvat suomen kieltä sisarustensa ja ystäviensä kanssa. Koulussakin on ainoastaan saamenkielinen opetustila saamenkielinen kielenkäyttöalue, muutoin nuoret puhuvat vain tai enimmäkseen suomen kieltä koulussa. Vapaa-ajan palvelut ovat suurimmaksi osaksi vain suomen kielellä, joten nuoret puhuvat näissäkin suomen kieltä. Ainoastaan Sámi Siida ry:n järjestämissä nuorisotoiminnoissa ja Norjan puolen tapahtumissa nuoret voivat käyttää saamen kieltä. Nuorille suunnattua saamenkielistä mediatarjontaa puuttuu ja nuoret lukevat pääasiallisesti kirjallisuutta suomen kielellä.</p>
+<p>Selvityksestä ilmenee myös miten nuoret haluaisivat parantaa omaa saamen kielitilannettaan ja he ehdottavatkin toimenpiteitä, joihin he ovat mieltyneitä ja joilla vahvistettaisiin saamen kieltä. Kaikki he haluavat saamenkielisiä lapsia ja suurin osa heistä on jo päättänyt puhua omille lapsilleen saamen kieltä.</p>
+<p><em type="bold">Kielenkäytön tutkija</em> </p>
+<p>Riitta Taipale (1945) on suomalainen tutkija, joka on oppinut saamen kielen ja työnsä kautta tutustunut saamelaiskulttuuriin. Hän on työskennellyt opettajana sekä Ruotsissa että Suomessa muun muassa Utsjoella. Lisäksi hän on toiminut tulkkien ja kääntäjien kouluttajana Saamelaisessa korkeakoulussa Norjan Koutokeinossa ja opettanut Saamelaisalueen koulutuskeskuksessa Inarissa.</p>
+<p xml:lang="vep"><em type="bold">4</em> </p>
+<p xml:lang="sme"><em type="bold">Sisdoallu</em> </p>
+<p><em type="italic">Esipuhe Yhteenveto Tutkimuksen lähtökohdat Miksi nuorten kieli on tärkeää? Tutkimuksen metodi </em></p>
+<p><em type="italic">Utsjoen kielitilanne Nuorten kielellinen tausta Kielivalinnat koulussa Kielenvalinnat vapaa-aikana ja harrastuksissa Kielivalinnat Norjan puolen saamelaisnuorten kanssa </em></p>
+<p><em type="italic">Kielet ja media Kirjoittaminen ja kirjallisuus Miten lisätä nuorten saamen kielen käyttöä? Toimet, jotka parantaisivat saamen kielen tilaa Omien lasten saamen kieli </em></p>
+<p><em type="italic">Tulokset Loppusanat Lähteet Taulukot </em></p>
+<p xml:lang="vep"><em type="bold">5</em> </p>
+<p xml:lang="vep"><em type="bold">6</em> </p>
+<p><em type="bold">Tutkimuksen lähtökohdat</em> </p>
+<p>Sámi Siida ry on vuoden 2010 nuorisotyön yhteydessä halunnut tutkia saamen kielen käyttöä nuorten kesken ja selvittää sitä, mitkä tekijät haittaavat saamen kielen kehittymistä nuorisokulttuurin kielenä. Muissa tutkimuksissa on ilmennyt, että Utsjoen kunnan saamenkieliset nuoret käyttävät vähän saamen kieltä sekä he käyttävät yleisesti saamen kieltä vähemmän kuin muut nuoret (Alarau dan joki ja Joensuu 2002, Aikio ja Lindgren 1973, Partanen 1994, Rasmussen 2005 ja Rasmussen 2009). Sámi Siida ry toteaa kin vuosikertomuksessaan seuraavaa: Kun esimerkiksi Norjan puolen Kaarasjoen nuoret käyttävät saamen kieltä keskenään luonnollisesti ja kaikissa yhteyksissä, niin Suomen puolen nuoret käyttävät tavallisesti suomea keskenään (Sámi Siida 2009: 2).</p>
+<p>Sámi Siida ry:n tavoitteena oli selvittää syyt siihen, miksi saamenkieliset nuoret mieluummin puhuvat suomen kieltä keskenään, sekä selvittää millä tavoin yhdistyksen nuorisotyö on vaikuttanut nuorten kielenkäyttöön. Sámi Siida ry. aikoo käyttää tämän selvityksen tuloksia oman nuorisotyönsä kehittämiseen (Sámi Siida 2009 ja 2010).</p>
+<p><em type="bold">Miksi nuorten kieli on tärkeää?</em> </p>
+<p>Tutkijat pitävät tärkeänä vähemmistön kielen säilyttämisessä sitä, että vanhemmat puhuvat kotonaan lapsillensa vähemmistökieltä. Lisäksi pidetään tärkeänä sitä, että on olemassa instituutioita kuten päiväkoteja ja kouluja, joissa lapset ja nuoret voivat käyttää ja kehittää omaa kieltään yhdessä muiden puhujien kanssa. Kielen kannalta kriittinen vaihe on lapsuuden muuttuminen nuoruudeksi, jolloin vähitellen siirrytään aikuisen maailmaan. Mikäli tässä iässä kaksikielinen henkilö valitsee omaksi puhekielekseen enemmistökielen vähemmistökielen tilalle, niin se heikentää vähemmistökielen selviytymismahdollisuuksia. Tällöin kielenvaihto voi jo olla käynnistynyt enemmistö kielelle. Lisäksi tutkimukset ovat osoittaneet, että lapsuudessa ja nuoruudessa omaksuttuja kielenkäyttötapoja on vaikea muuttaa myöhemmin. (Hyltenstam, Stroud ja Svonni 1999, UNESCO 2003).</p>
+<p><em type="bold">7</em> Edellä mainittua asiaa voidaan kuvata helposti toisella tavalla: mikäli nuoret ovat tottuneet puhumaan saamen kieltä keskenään, niin he voivat jatkaa saamen kielen puhumista myös aikuisena. Kyse on nimenomaan kielen säilymisestä. Mikäli saamenkieliset nuoret ovat tottuneet puhumaan suomen kieltä keskenään, niin he helposti jatkavat suomen kielen käyttämistä myös aikuisena. Niinpä seuraava kriittinen vaihe on omien lasten syntyminen, vanhemmiksi tulo. Kumman kielen he valitsevat lapsilleen? Tähän päätökseen vaikuttavat monet tekijät. Eräinä sellaisina ovat vanhemman kielitaito, kielen asema ja mahdollisuus saada tukea kieli-instituutioilta. </p>
+<p>Mikäli nykynuoret tullessaan vanhemmiksi eivät jaksa tai valitse saamen puhumista omille lapsillensa, niin saamen kielen puhujien määrä vähenee ja kieli on vaarassa kuolla. Tällainen kielen menetys saattaa myös vaikuttaa heidän lastensa itsetuntoon sekä heikentää heidän saamelaista identiteettiänsä.</p>
+<p><em type="bold">Tutkimuksen metodi</em> </p>
+<p>Selvityksen toteuttaja on laatinut selvityksen edellä mainittujen edellytysten sekä tekemiensä kysymysten perusteella siten, että kaikille haastateltaville esitettiin samanlaiset kysymykset.</p>
+<p><em type="bold">Haastateltavien valinta</em> </p>
+<p>Tämän tutkimuksen haastattelut tehtiin talvella 2010. Haastateltavina on ollut 11 nuorta. Heistä tyttöjä oli viisi ja poikia kuusi. He asuvat eri osissa Utsjoen kuntaa. Heistä kuusi kuuluu Karigasniemen koulupiiriin sekä viisi Utsjoen ja Nuorgamin koulupiiriin. Haastattelujen aikana he olivat 13–17-vuotiaita. Jokainen haastateltava osaa puhua saamen kieltä. Taloudelliset puitteet ovat määritelleet haastateltavien lukumäärän sekä koko selvityksen laajuuden.</p>
+<p xml:lang="est"><em type="bold">Haastattelut</em> </p>
+<p>Ensimmäisillä kysymyksillä selvitettiin haastateltavien kielellistä taustaa, esimerkiksi milloin ja keneltä he olivat oppineet puhumaan saamen kieltä. Sen jälkeen haastateltavilta kysyttiin muita kysymyksiä heidän kielellisestä taustastansa, esimerkiksi mitä kieliä he käyttävät perheenjäsentensä ja lähisukulaistensa muun muassa isovanhempiensa, vanhempiensa ja sisarustensa sekä serkkujensa kanssa.</p>
+<p><em type="bold">8</em> Koulussa käytettyjä kielivalintoja selvitettiin siten, että nuorilta tiedusteltiin mitä kieltä he käyttävät saamenkielisessä opetuksessa, suomenkielisessä opetuksessa, välitunneilla, koulumatkoilla ja saamenkielisten opettajien kanssa oppituntien ulkopuolella. </p>
+<p>Vapaa-ajan ja harrastusten kielivalinta tuli esille nuorten kertoessa vapaa-ajan vietostaan sekä osallistumisestaan erilaisiin vapaa-ajan toimiin. Selvityksessä on eritelty nuorten kielenkäyttötilanteita Sámi Siida ry:n toimissa, muun muas sa Suomen puolella sekä kielenkäyttötilanteita Norjan ja Ruotsin puolten nuorten kanssa.</p>
+<p>Nuorten tiedotusvälineiden käyttöä tarkasteltiin siten, että selvitettiin yleisesti erikielisten tiedotusvälineiden käyttöä sekä nuoret vastasivat kysymyksiin tiedotusvälineiden lukemisen kielestä ja omasta kirjoituskielestään eri yhteyksissä. Lopuksi nuorilta vielä tiedusteltiin toimenpiteitä, joiden avulla kieli saataisiin säilymään. He esittivät erilaisia kiinnostavia toimintoja, jotka toteutuessaan lisäisivät nuorten saamen kielen käyttöä. Lisäksi he vastasivat seuraavaan kysymykseen: haluavatko he, että heidän omat lapsensa oppivat saamen kieltä, ja mikäli he haluavat, niin miten lasten tulisi oppia saamen kieltä ja minkä vuoksi?</p>
+<p xml:lang="vep"><em type="bold">9</em> </p>
+<p><em type="bold">Utsjoen kielitilanne</em> </p>
+<p>Utsjoki on Suomen pohjoisin kunta ja ainoa saamelaisenemmistöinen kunta. Siitä huolimatta saamenkieliset ovat vähemmistönä, ja äidinkielisten puhujien määrä on laskenut Utsjoen kunnassa vuodesta 1985. Se voi osoittaa kielenvaihdon olevan jo käynnissä. Saamenkielisten määrä 2000-luvulla vakiintui samalle tasolle ja se voi osoittaa kielenvaihdon pysähtyneen. (Suomen tilastokeskus 2010).</p>
+<p>On mahdollista arvioida vähemmistökielen tilannetta tiettyjen mittareiden mukaisesti, kuten monet tutkijat ovat tehneet (Aikio ja Lindgren 1973, Hyltenstam, Straud ja Svonni 1999, Partanen 1994 ja Rasmussen 2005). Tällöin tarkastellaan seuraavia kysymyksiä: onko kieltä turvaavaa lainsäädäntöä, onko vähemmistökieli virallisena kielenä tietyllä alueella, onko vähemmistökielistä mediatarjontaa tietyllä alueella, onko paikallisia instituutioita, joiden tehtävänä on edistää vähemmistökielen asemaa vai löytyykö instituutioita vain enemmistökieltä varten, sekä kuinka paljon nuoria vähemmistökielen puhujia on suhteessa vanhuksiin.</p>
+<p>Selvityksessä huomioimme erityisesti Utsjoen kielitilanteelle tunnusomaiset piirteet, emmekä käsittele selvityksessä asioita, jotka ovat yhteisiä kaikille pohjoissaamen kielen puhujille, kuten esimerkiksi mediatarjontaa ja saamelaisten asemaa Suomessa.</p>
+<p>Utsjoen kunnassa saamen kieli on virallisena kielenä lainsäädännön mukaan (15.12.2003/1086). Utsjoki on kaksikielinen (suomen ja saamen kielet) kunta, ja kunnan asukkailla on oikeus saada julkisia palveluita sekä suomen että saamen kielellä. Päivähoitolain sekä opetuslain mukaan asukkailla on oikeus saada päivähoitopalveluita ja perusopetusta saamen kielellä.</p>
+<p xml:lang="vep"><em type="bold">10</em> </p>
+<p><em type="bold">Utsjoen väestö ja kielet</em> </p>
+<p>Utsjoen väestömäärä on 1296 henkilöä (31.12.2010). Väestöstä yli 800 on saame laisia ja 611 henkilöä on ilmoittanut väestötietojärjestelmään saamen kielen äidinkielekseen (2009).</p>
+<p><em type="bold">Taulukko 1.</em> Utsjoen väestön väestötietojärjestelmään ilmoitettu äidinkieli 10 vuoden välein.   Suomi   Saame </p>
+<p>0–9-v.  10–19-v.  20–29-v.  30–39-v.  40–49-v.  50–59-v.  60–69-v. 70–79-v.  yli 80-v.</p>
+<p>Suomenkielisten ja saamenkielisten jakautuminen vuonna 2008. Suomenkielisiä on enemmistönä 10–69-vuotiaista. Lähde: Suomen tilastokeskus.</p>
+<p>Lapsista ja nuorista on kuitenkin 80–90 prosenttia saamelaisia (Rasmussen 2009), mutta kielenvaihdon vuoksi väestötietojärjestelmään oli ilmoitettu 53 prosentin osalta 10–19-vuotiaiden äidinkieleksi suomen kieli. Ikäryhmässä 20–21-vuotiaat 62 prosenttia ilmoitti äidinkieleksi suomen kielen. Kuitenkin ilmenee merkkejä kielenvaihdon pysähtymisestä. Suomen kieli ilmoitettiin ikäryhmän 0–9-vuotiaiden äidinkieleksi vajaa 40 prosentin osalta. Myös ikäryhmässä 30–69-vuotiaat suomenkieliset olivat enemmistönä ja vasta ikäryhmässä yli 70–vuotiaat saamenkielisiä oli enemmän. (Tilastokeskuksen tilasto 31.12.2008)</p>
+<p xml:lang="vep"><em type="bold">11</em> </p>
+<p><em type="bold">Utsjoen päiväkodit</em> </p>
+<p>Utsjoen kunnassa on saamenkielisiä päiväkoteja sekä Karigasniemellä että Utsjokisuussa, ja vuoden 2010 loppupuolella aloitettiin kielipesätoimintaa suomenkielisille lapsille näissä kahdessa kylässä. Utsjokisuussa ja Nuorgamissa on suomenkieliset päiväkodit, Karigasniemellä puolestaan saamenkielinen päiväkoti on ainoana päivähoitopaikkana, ja siellä myös suomenkieliset lapset saavat päivähoitoa saamen kielellä.</p>
+<p><em type="bold">Taulukko 2.</em> Päiväkodit ja lasten määrä. </p>
+<p><em type="bold">PäiväkotiLasten määräHuomioita</em> Karigasniemen saamenkie-linen päiväkotiNoin 15 </p>
+<p>Utsjokisuun saamenkieli-nen päiväkotiNoin 25Lisäksi 5 lasta Sirman kylästä (Norja).</p>
+<p>Utsjokisuun suomenkieli-nen päiväkotiNoin 15</p>
+<p>Nuorgamin perhepäiväkoti (suomenkielinen)Alle 10Lisäksi 1 lapsi Taanan saamenkielisessä päivä-kodissa (Norja)</p>
+<p>Utsjoen päiväkotien kielenkäyttö ja lasten määrät. Lähde: Inkinen 2011.</p>
+<p><em type="bold">Utsjoen koulut</em> </p>
+<p>Utsjoella on kolme peruskoulua: Nuorgam, Utsjokisuu ja Karigasniemi. Jokaisessa kolmesta koulusta on opetus eriytetty suomen- ja saamenkielisiin luokkiin. Alakoulussa opetus kokonaisuudessaan on saamen kielellä, mutta yläkoulussa osalla saamenkielisistä oppilaista on opetusta suomen kielellä. Suomenkielisillä luokilla voidaan saamen kieli valita oppiaineeksi, mutta oppilaat eivät saa opetusta saamen kielellä. Suomen kieli on kuitenkin pääkielenä esimerkiksi hallinnossa ja yhteisissä tapahtumissa. Kahdessa koulussa koulujen</p>
+<p>apulaisjohtajat eivät pysty kommunikoimaan lasten ja opettajien kanssa saamen kielellä.</p>
+<p>Saamelaislukiossa kaikki muu opetus paitsi saamenkieli on suomen kielellä myös saamenkielisille oppilaille, eikä rehtori osaa saamea.</p>
+<p xml:lang="vep"><em type="bold">12</em> </p>
+<p><em type="bold">Taulukko 3.</em> Utsjoen koulujen oppilasmäärät ja opetuskielet. </p>
+<p><em type="bold">KouluSaamen kieli opetus kielenäSuomen kieli opetus kielenäHuomioita</em> </p>
+<p>Karigasniemi UtsjokisuuAlakoulun 2–6- luokilla on yhteistä opetusta kaksi päi-vää viikossa Sirman koulun kanssa.</p>
+<p>SaamelaislukioSaamen kielellä opetetaan vain saamen kieltä äidinkielenä.</p>
+<p>Nuorgam Utsjoen koulujen oppilasmäärät eriteltynä opetuskielen mukaan. Lähde: Koulujen työ-suunnitelmat</p>
+<p xml:lang="vep"><em type="bold">13</em> </p>
+<p><em type="bold">Muut kielenkehittäjät</em> </p>
+<p>Utsjoella ei ole muita instituutioita, joiden toimintaan kuuluisi saamen kielen kehittämistä, esimerkiksi kielikeskuksia, tutkimusinstituutioita, teatteria, elokuvateatteria tai sanomalehtien toimituksia. Vuonna 2012 alkoi kuitenkin Utsjoen kunnan Saamen kielikeskus Utsjoelle-hanke. Työmarkkinoilla saamen kielen taito katsotaan erityiseksi ansioksi tai saamen kielen taitoa edellytetään virantäytössä. Tällaisia työnantajia ovat Utsjoen kunta, YLE Sámi radion (Saamen radio) paikallinen toimitus, Saamelaisneuvosto, Saamelaiskäräjien kielitoimisto sekä muut julkiset työnantajat. Lisäksi kunnassa asuu kääntäjiä, tulkkeja, taiteilijoita ja käsityöntekijöitä, jotka käyttävät saamen kieltä työkielenä ja heitä löytyy myös yksityiseltä sektorilta, kuten kaupan, poronhoidon ja muiden luontaiselinkeinojen parista, joissa saamen kieltä käytetään pääkielenä tai rinnakkaisena kielenä.</p>
+<p><em type="bold">Tulokset lyhyesti</em> </p>
+<p>Ulkoisesti tarkasteltuna saamen kielen asema näyttää hyvältä Utsjoen kunnassa. Melkein puolet väestöstä puhuu saamen kieltä äidinkielenään, ja saamenkielisten lasten määrä jatkaa kasvuaan. Tärkeitä instituutioita, kuten saamenkielisiä päiväkoteja löytyy kahdesta eri kylästä ja kolmessa eri koulussa on saamenkielistä opetusta. Kunnassa on saamenkielisiä työmarkkinoita ja siitä syystä saamen kieli taidosta on hyötyä nuorten astuessa aikuisuuteen ja hakies saan töitä.</p>
+<p>Nämä asiat eivät kerro kuitenkaan mitään Utsjoen väestön, sekä saamelaisten että suomalaisten, asenteista saamen kielen suhteen. Eivätkä ne kerro kielenkäytöstä. Siitä syystä kulttuurin sisäisessä tarkastelussa, kuten tässä selvityksessä, tutkitaan nuorten saamen kielen käyttöä eri domaineissa eli kielenkäyttö alueilla Utsjoen kunnassa.</p>
+<p xml:lang="vep"><em type="bold">14</em> </p>
+<p><em type="bold">Nuorten kielellinen tausta</em> </p>
+<p>Selvityksen tekijä on haastatellut vain niitä nuoria, jotka osaavat puhua saamen kieltä. Kuitenkaan heistä kaikki eivät puhu saamen kieltä äidinkielenään. Kuusi nuorista oli oppinut saamen kielen ensimmäisenä kielenään kotona, mutta kaikille se ei ollut ainoa kotikieli. Yksi haastateltavista oli puhunut ensin suomen kieltä, mutta parivuotiaana alkanut käyttämään myös saamen kieltä. Kaksi nuorista oli nelivuotiaina oppinut saamen kieltä päivä kodissa. Siis yhdeksän nuorista oli oppinut saamen kielen ennen koulun aloittamista. Kaksi nuorista aloitti saamen kielen puhumisen koulunkäynnin aloituksen jälkeen 6–7- ja 7–9-vuotiaina.</p>
+<p><em type="bold">Taulukko 4.</em> Saamen kielen puhumisen omaksuminen. </p>
+<p>VarhaislapsuudessaÄidinkielenä kotona Ennen koulunkäynnin alkua2–4 vuotiaana Kouluiässä6–9 vuotiaana Kuviosta ilmenee ajankohta, jolloin nuoret ovat aloittaneet saamen kielen puhumisen. Mikäli he ovat aloittaneet saamen kielen puhumisen 2–4–vuotiaina, niin se ei merkitse ettei kukaan kotona ole heille puhunut saamen kieltä.</p>
+<p>Suurin osa nuorista on oppinut saamen kielen kotonaan. Yhdeksän nuorista vastasi oppineensa saamen kielen kotonaan ja heistä kolme oppi saamen kielen isältään. Kaksi nuorista ei oppinut saamen kieltä kotonaan. He ovatkin vastanneet oppineensa saamen kielen koulussa ja alkaneet käyttää saamen kieltä vasta koulussa.</p>
+<p><em type="bold">Perheessä käytetyt kielet</em> </p>
+<p>Perheessä käytettyjen kielten valinta on luonnollisesti tärkeää lasten kielen omaksumisessa, ja mitä enemmän vähemmistökieltä käytetään sitä parempi kielen omaksumisen kannalta. Haastateltavilta selvitettiin mitä kieltä he käyttävät sisarustensa, vanhempiensa ja isovanhempiensa kanssa.</p>
+<p xml:lang="vep"><em type="bold">15</em> </p>
+<p><em type="bold">Sisarusten kanssa käytetty kieli</em> </p>
+<p>Jokaisella haastateltavalla on sisaruksia – vähintään yksi. Myös sisarukset osaavat saamen kieltä. Kuitenkin sisarusten kanssa pääkielenä keskusteluissa on suomen kieli.</p>
+<p><em type="bold">Taulukko 5.</em> Sisarusten kanssa käytetty kieli </p>
+<p>Vain saamea Enimmäkseen suomea Vain suomea</p>
+<p>Kuviossa ilmenee nuorten käyttämä kieli sisarustensa kanssa. Yksi nuorista puhuu aina saamen kieltä, kolme puhuu enimmäkseen suomen kieltä sekä myös saamen kieltä. Seitsemän nuorista ei koskaan puhu saamen kielellä sisarustensa kanssa.</p>
+<p>Seitsemän nuorista puhuu ainoastaan suomen kieltä sisarustensa kanssa. Kolme nuorista puhuu silloin tällöin saamen kieltä sisarustensa kanssa, mutta kuitenkin enimmäkseen suomen kieltä. Yksi nuorista vastasi puhuvansa aina saamen kieltä sisarustensa kanssa.</p>
+<p xml:lang="vep"><em type="bold">16</em> </p>
+<p><em type="bold">Vanhempien kanssa käytetty kieli</em> </p>
+<p>Nuorten kielenkäyttö vanhempiensa kanssa vaihtelee eri kotien välillä. Kaksi nuorista ei puhu lainkaan saamen kieltä vanhempiensa kanssa. Yksi nuorista puhuu aina saamen kieltä sekä äitinsä että isänsä kanssa. Niiden väliltä löytyy kaikenlaisia muunnelmia. Kolme nuorista puhuu aina isänsä kanssa saamen kieltä ja äitinsä kanssa suomen kieltä. Yksi nuorista puhuu isänsä kanssa aina saamen kieltä ja äitinsä kanssa sekä saamen että suomen kieltä. Neljä nuorta puhuu saamen kieltä sekä äitinsä että isänsä kanssa, mutta suomen kieli on kuitenkin pääasiallinen kieli lapsen ja vanhempien välillä.</p>
+<p><em type="bold">Taulukko 6.</em> Vanhempien kanssa käytetty kieli </p>
+<p>Vain saamea Enimmäkseen</p>
+<p>suomea Vain suomea</p>
+<p>Kuviossa ilmenee nuorten vanhempiensa kanssa käyttämä kieli. Viisi nuorista puhuu aina saamen kieltä yhden tai kummankin vanhemman kanssa. Neljä puhuu enimmäk-seen suomen kieltä, mutta käyttää myös saamen kieltä. Kaksi nuorista ei puhu lainkaan saamen kieltä vanhempiensa kanssa.</p>
+<p>Viidellä nuorista on nähtävästi saamen kieli pääkielenä toisen tai molempien vanhempien kanssa. Neljä nuorista käyttää saamen kieltä vain vähän ja kaksi ei käytä lainkaan saamen kieltä kotonaan.</p>
+<p xml:lang="vep"><em type="bold">17</em> </p>
+<p><em type="bold">Isovanhempien kanssa käytetty kieli</em> </p>
+<p>Nuoret käyttävät saamen kieltä enemmän isovanhempiensa kuin vanhempiensa kanssa ja huomattavasti enemmän kuin sisarustensa kanssa. Siitä syystä isovanhemmat näyttävät olevan tärkeänä voimavarana nuorten saamen kielen omaksumisessa. Näitä tietoja tarkasteltaessa tulee huomioida, että kaikilla nuorilla ei ollut enää isovanhempia elossa, ja muutamat isovanhemmat eivät olleet saamenkielisiä siitä syystä, että usein he eivät olleet saamelaisia.</p>
+<p><em type="bold">Taulukko 7.</em> Isovanhempien kanssa käytetty kieli. </p>
+<p>Saame pääkielenä Ei saamea lainkaan</p>
+<p>Kuviossa ilmenee nuorten käyttämä kieli isovanhempiensa kanssa. Seitsemällä nuorista saamen kieli on ainoa käyttökieli yhden tai useamman isovanhemman kanssa. Neljä nuorista ei puhu lainkaan saamen kieltä isovanhempiensa kanssa.</p>
+<p>Neljä nuorista ei puhu saamen kieltä isovanhempiensa kanssa. Seitsemän nuorista puhuu saamen kieltä joko yhden tai useamman isovanhempansa kanssa. Lisäksi nuoret kertoivat, että saamen kieli on ainoa käytetty kieli tai pääkieli isovanhempien kanssa. Lisäksi kaksi nuorista, jotka eivät puhu saamen kieltä kotonaan, puhuvat vähintään yhden isovanhemman kanssa saamen kieltä.</p>
+<p>Merkittävää on, että eräs nuorista, joka aina vastasi suomen kielellä hänelle puhuttaessa, puhuu saamen kieltä kaikkien isovanhempiensa kanssa.</p>
+<p xml:lang="vep"><em type="bold">18</em> </p>
+<p><em type="bold">Mitä kieltä nuoret puhuvat sukulaisten kanssa?</em> </p>
+<p>Epäilyksettä nuorilla on saamenkielisiä sukulaisia ja on mielenkiintoista saada selville mitä kieliä he puhuvat tavatessaan sukulaisiansa. Tässä selvityksessä olemme tarkastelleet kielenkäyttötilanteita lähisukulaisten kanssa: vanhempien sisarusten sekä serkusten kanssa. Lisäksi on huomioitava se, että kaikki sukulaisista eivät osaa saamen kieltä joko kielenvaihdon vuoksi tai siitä syystä, että toinen vanhemmista ei ole saamelainen.</p>
+<p><em type="bold">Taulukko 8.</em> Sukulaisten kanssa käytetty kieli. </p>
+<p>Aina saamea Ei koskaan saamea</p>
+<p>Kuviossa ilmenee nuorten käyttämä kieli sukulaistensa kanssa. Nuoret puhuvat saamen kieltä aina vähintään yhden lähisukulaisensa kanssa. Kolme heistä ei puhu saamen kieltä lainkaan lähisukulaistensa kanssa.</p>
+<p>Positiivisiin puoliin nuorten kielenkäytössä kuuluu, että kaikki nuorista paitsi yksi käyttävät saamen kieltä joidenkin lähisukulaistensa kanssa. Kuitenkin vaihtelu on laajaa. Jotkut nuorista käyttävät saamen kieltä vähän sukulaistensa kanssa, jotkut puolestaan näyttävät puhuvan saamen kieltä kaikkien kieltä osaavien kanssa.</p>
+<p>Niiden joukossa, jotka puhuvat vähän saamen kieltä lähisukulaistensa kanssa on joitakin nuoria, jotka puhuvat saamen kieltä vain Norjan puolella asuvien sukulaistensa kanssa. Toisaalta taas näistä eräs nuorista puhuu aina suomen kieltä sukulaisillensa, vaikka suurin osa puhuu saamen kieltä hänelle. Eräs näistä puhuu puolestaan enimmäkseen suomen kieltä ja hieman saamea kieltä isänsä sisarten kanssa, muutoin hän puhuu suomea kaikkien muiden kanssa. Nämä nuoret näyttävän valitsevan suomen kielen puhumisen aina kuin</p>
+<p><em type="bold">19</em> vain on mahdollista ja saamen kieltä he puhuvat vain kun heiltä sitä odotetaan tai heidän on pakko puhua. Tällaiset kielenkäyttötavat eivät edistä saamen kielen säilymistä. </p>
+<p>Jotkut nuorista puhuvat aina saamen kieltä isänsä sukulaisten kanssa ja aina suomen kieltä äitinsä sukulaisten kanssa. Saamen kieli on tällöin ainoana käyttökielenä sekä isän sukupolven että oman sukupolven sukulaisten kanssa</p>
+<p type="listitem">– tämä on osoitus kielenkäyttötavasta, joka edistää saamen kielen säilymistä.</p>
+<p><em type="bold">Kielivalinnat koulussa</em> </p>
+<p>Nuoret ovat kertoneet kielivalinnoistansa koulussa – mitä kieltä he puhuvat missäkin yhteydessä, esimerkiksi opetustilassa sekä saamenkielisessä että suomenkielisessä opetuksessa, välitunneilla, koulumatkojen aikana ja saamen kielisten opettajien kanssa opetustilojen ulkopuolella.</p>
+<p><em type="bold">Taulukko 9.</em> Saamen kieli koulussa eri kielenkäyttöalueilla. </p>
+<p><em type="bold">KielenkäyttöaluePääkieliHuomioita</em> Saamenkielinen opetusSaamen kieli Suomenkielinen opetusSuomen kieli VälitunnitSuomen kieliYhdeksän nuorista puhuu vain suomen kieltä. </p>
+<p>KoulumatkatSuomen kieliYhdellä nuorista saamen kieli on pääkielenä. Muilla on ainoastaan suomen kieli tai suomen kieli, jonka li-säksi vähän saamen kieltä.</p>
+<p>Saamenkielisten opetta jien kanssaSaamen/suomen kieliSeitsemän nuorista puhuu ainoastaan tai pääasialli-sesti saamen kieltä opetta-jien kanssa, neljä nuorista puhuu vain suomen kieltä tai enimmäkseen suomen kieltä.</p>
+<p>Kuviossa ilmenee nuorten käyttämä kieli koulun eri kielenkäyttöalueilla: saamenkielises-sä sekä suomenkielisessä opetuksessa, välitunneilla, koulumatkojen aikana ja saamen-kielisten opettajien kanssa opetustiloissa.</p>
+<p><em type="bold">20</em> Koulun kielenkäyttötilanteista muodostuva kokonaiskuva on selkeä. Suurin osa nuorista käyttää saamen kieltä vain saamenkielisessä opetuksessa, ja he puhuvat suomen kieltä koulussa saamenkielisen opetustilan ulkopuolella. Kaikilla kielenkäyttöalueilla, jotka ovat opetustilan ulkopuolella, on suomen kieli eniten käytetty kieli. </p>
+<p><em type="bold">Välitunneilla ja koulumatkoilla</em> </p>
+<p>Välitunneilla puhuu yhdeksän nuorta ainoastaan suomen kieltä. Yksi nuorista käyttää molempia kieliä suurin piirtein yhtä paljon ja yksi heistä käyttää vähän saamen kieltä.</p>
+<p><em type="bold">Taulukko 10.</em> Välituntien kieli koulussa. </p>
+<p xml:lang="fkv">Saamea ja suomea Enimmäkseen</p>
+<p>suomea Vain suomea</p>
+<p>Kuviossa ilmenee nuorten välitunneilla käyttämä kieli.</p>
+<p><em type="bold">21</em> Nuoret kulkevat kouluun linja-autoilla, takseilla tai asuessaan koulun lähellä, kävellen. Myös tällä kielenkäyttöalueella suomen kieli on pääkielenä. </p>
+<p xml:lang="fkv"><em type="bold">Taulukko 11.</em> Koulumatkojen kieli </p>
+<p>Enimmäkseen saamea Saamea ja suomea Vain suomea</p>
+<p>Kuviossa ilmenee nuorten koulumatkoilla käyttämä kieli.</p>
+<p>Koulumatkalla puhuvat kaikki nuoret paitsi kaksi heistä, ainoastaan suomen kieltä. Yksi nuorista puhuu sekä suomen että saamen kieltä ja yksi heistä melkein kokonaan saamen kieltä. Yksi nuorista ei vastannut kysymykseen.</p>
+<p><em type="bold">Kielenkäyttö saamenkielisten opettajien kanssa</em> </p>
+<p>Nuorilta kysyttiin mitä kieltä he puhuvat saamenkielisten opettajien kanssa sekä saamenkielisissä opetustiloissa että niiden ulkopuolella. Opetustiloissa kaikki puhuvat saamen kieltä opettajiensa kanssa.</p>
+<p>Kun nuoret tapaavat opettajia muualla koulussa, ruokailutiloissa, pihalla, opettajahuoneessa, eteisessä ja käytävillä, niin saamen kielen käyttö vähenee. Nuoret puhuvat enemmän saamen kieltä saamenkielisten opettajien kuin ikäistensä kanssa, mutta myös tällä kielenkäyttöalueella he käyttävät suomen kieltä vaikka puhuvat saamen kieltä osaavien sellaisten aikuisten kanssa.</p>
+<p xml:lang="vep"><em type="bold">22</em> </p>
+<p><em type="bold">Taulukko 12.</em> Saamenkielisten opettajien kanssa käytetty kieli opetustilojen ulkopuolella. </p>
+<p>Vain saamea Enimmäkseen</p>
+<p>saamea Enimmäkseen suomea Vain suomea</p>
+<p>Kuviossa ilmenee nuorten kielenkäyttö saamenkielisten opettajien kanssa opetustilojen ulkopuolella. Kaksi nuorista puhuu aina saamen kieltä, viisi puhuu enimmäkseen saa-men kieltä, yksi puhuu enimmäkseen suomen kieltä ja kolme nuorista ei puhu lainkaan saamen kieltä opettajien kanssa.</p>
+<p>Kaksi nuorta puhuu ainoastaan saamen kieltä opetustilojen ulkopuolella saamen kielisten opettajien kanssa. Viisi nuorta puhuu enimmäkseen saamen kieltä näiden opettajien kanssa, mutta käyttökielenä on myös suomi, yksi nuori puhuu enimmäkseen suomen kieltä, mutta myös saamen kieltä ja kolme nuorta ei puhu lainkaan saamen kieltä saamenkielisten opettajien kanssa.</p>
+<p><em type="bold">Tulokset lyhyesti</em> </p>
+<p>Nuorten kielenkäytön perusteella voidaan arvioida, että saamenkielisinä kielen käyttöalueita koulussa ovat ainoastaan saamenkielinen opetustila ja saamenkieliset opettajat. Muut kielenkäyttöalueet, joissa nuoret ovat yhdessä etupäässä muiden nuorten kanssa, esimerkiksi välitunnit ja koulumatkat, ovat melkein kaikille nuorille melkein puhtaasti suomenkielisiä alueita, joissa puhutaan ainoastaan tai enimmäkseen suomen kieltä.</p>
+<p xml:lang="vep"><em type="bold">23</em> </p>
+<p><em type="bold">Kielenvalinnat vapaa-aikana ja harrastuksissa</em> </p>
+<p>Vapaa-ajan tarjonta ja erilaiset tapahtumat ovat tärkeitä toimintoja nuorten elämässä. Nuoret ovat haastatteluissa kertoneet omasta vapaa-ajanvietostaan ja näiden tietojen perusteella selvitetään kielenkäyttöä erilaisissa tilanteissa. Selvityksen laatija on myös erikseen kysellyt tietyistä toiminnoista, tällä varmistettiin nuorten muistaminen erilaiseen toimintaan osallistumisesta. Hän on erityisesti tiedustellut Sámi Siida ry:n toimintoja, jos haastateltavat eivät ole niitä erikseen maininneet.</p>
+<p><em type="bold">Aktiiviset nuoret</em> </p>
+<p>Nuoret osallistuvat sekä urheilu-, musiikki- ja muihin taidetapahtumiin. Eräät nuoret ovat mukana myös seurakunnan nuorisotyössä ja VPK:n toiminnassa. Monet ovat aktiivisia järjestäytymättömässä toiminnassa, esimerkiksi hiihdossa, luistelussa, pyöräilyssä, ratsastuksessa sekä tietokoneen parissa. Eräät ovat mukana porotaloustöissä ja kaksi on osallistunut saamenkieliseen perheleiriin.</p>
+<p><em type="bold">Kielenkäyttö harrastuksissa</em> </p>
+<p>Nuorten vapaa-ajantoimintojen kielenkäyttötilanteista muodostuva kokonaiskuva on selkeä. Suurin osa nuorista osallistuu melkeinpä vain suomenkielisiin harrastuksiin ja he puhuvat ainoastaan suomen kieltä niiden parissa vaikka harrastuksissa on mukana myös muita saamenkielisiä nuoria.</p>
+<p>Muutamia selviä poikkeuksia kuitenkin ilmenee. Kaksi nuorista osallistuu kaikkiin Sámi Siida ry:n järjestämiin tapahtumiin, jotka vain järjestetään saamen kielellä sekä Norjan puolen vapaa-ajan palveluihin. Norjan puolella he käyttävät etupäässä saamen kieltä ja joskus norjan kieltä.</p>
+<p xml:lang="smn"><em type="bold">Sámi Siida ry:n nuorisotoiminta</em> </p>
+<p>Yhdeksän nuorta on ollut mukana Sámi Siida ry:n järjestämässä nuorisotoiminnassa, kaksi heistä ei ole osallistunut. Eräs nuorista kertoi, ettei hän tunne Sámi Siida ry:n nuorisotoimintaa, mutta haastattelussa kävi ilmi, että hän on osallistunut Sápmi Talent Deatnu 2010 -tapahtumaan. Muut nuoret tuntevat osan tai jotkut suurimman osan yhdistyksen nuorisotoiminnasta.</p>
+<p xml:lang="vep"><em type="bold">24</em> </p>
+<p><em type="bold">Taulukko 13.</em> Nuorten kielenkäyttö Sámi Siida ry:n nuorisotoiminnassa. </p>
+<p>Vain saamea Saamen- ja</p>
+<p>suomen kieltä Enimmäkseen suomea Vain suomea Ei ole</p>
+<p>osallistunut</p>
+<p>Kuviossa ilmenee miten paljon nuoret käyttävät saamen kieltä Sámi Siida ry:n toimin-noissa.</p>
+<p>Sámi Siida ry:n järjestämissä toiminnoissa kaikki nuoret paitsi yksi kertovat käyttävänsä saamen kieltä. Kuusi heistä kertoo käyttävänsä ainoastaan saamen kieltä Sámi Siida ry:n toiminnoissa. Eräs nuorista on käyttänyt suurin piirtein sekä suomen että saamen kieltä yhtä paljon, ja eräs nuorista puolestaan vähän saamen kieltä ja eräs taas ei ole lainkaan puhunut saamen kieltä Sámi Siida ry:n toiminnoissa.</p>
+<p><em type="bold">Saamen kielen käyttö lisääntynyt</em> </p>
+<p>Tärkeänä kysymyksenä tässä tutkimuksessa on ollut selvittää lisääntyykö nuorten kielenkäyttö Sámi Siida ry:n järjestämissä toiminnoissa. Nuoret vastasivat, että suurin osa (9) heistä on osallistunut yhdistyksen järjestämiin nuorisotoimintoihin ja kaikki paitsi yksi ovat käyttäneet saamen kieltä enemmän yhdistyksen toiminnoissa kuin muissa vapaa-ajan toiminnoissa. Kuusi nuorista on käyttänyt ainoastaan saamen kieltä näissä toiminnoissa. Jotkut nuorista käyttävät myös suomen kieltä saamenkielisissä nuorisotoiminnoissa. Yksi nuorista on käyttänyt suurin piirtein yhtä paljon sekä suomen että saamen kieltä ja kaksi nuorista on käyttänyt suomen kieltä pääkielenä yhdistyksen toiminnoissa.</p>
+<p>Ne heistä, jotka eniten käyttävät saamen kieltä vapaa-ajan toiminnoissa, ovat kuitenkin osallistuneet ainoastaan tai useimmiten Sámi Siida ry:n tai Norjan puolen vapaa-ajan harrastustoimintaan.</p>
+<p xml:lang="vep"><em type="bold">25</em> </p>
+<p><em type="bold">Tapahtumat</em> </p>
+<p>Sekä Utsjoella että naapurikunnissa järjestetään kulttuuritapahtumia saamen kielellä, esimerkiksi näytelmiä, konsertteja ja erilaisia festivaaleja: Kaarasjoella pääsiäisfestivaalit, Beaivváš Sámi Teáhter (saamelaisteatteri), Skiippagurran festivaalit ja Skábmagovat sekä Ijahis Idja Inarissa. Nämä tapahtumat toimivat kohtaamispaikkoina usean kunnan saamenkielisille, ja saamen kieltä käytetään sekä esiintymislavalla että kommunikoinnissa. Yhdeksän nuorista oli osallistunut näihin tapahtumiin. Jotkut heistä osallistuivat usein tällaisiin tapahtumiin, jotkut muistavat osallistuneensa vain kerran.</p>
+<p><em type="bold">Nuorten arvio omasta kielenkäytöstään</em> </p>
+<p>Nuoret ovat arvioineet omaa kielenkäyttöä vapaa-aikanaan ja neljä kertoo puhuvansa vain suomen kieltä ja seitsemän sekä suomen että saamen kieltä.</p>
+<p><em type="bold">Taulukko 14.</em> Nuorten oma arvio vapaa-ajan kielenkäytöstään. </p>
+<p xml:lang="vep">4,5</p>
+<p xml:lang="vep">3,5</p>
+<p xml:lang="vep">2,5</p>
+<p xml:lang="vep">1,5</p>
+<p xml:lang="vep">0,5</p>
+<p>Enimmäkseen saamea Enimmäkseen suomea Vain suomea Vaikea tulkita</p>
+<p>Kuviossa ilmenee nuorten oma arvio vapaa-ajan kielenkäytöstään. Vaikeasti tulkittavat vastaukset on kuvattu alla olevassa tekstissä.</p>
+<p>Kolme nuorista on sitä mieltä, että he käyttävät saamen kieltä eniten vapaaaikana. Nämä nuoret osallistuivat ahkerammin saamenkielisiin vapaa-ajan toimintoihin sekä puhuivat enemmän saamen kieltä sisarustensa kanssa kuin muut nuoret. Kaksi nuorta käyttää saamen kieltä vapaa-aikanaan, mutta enimmäkseen he käyttävät kuitenkin suomen kieltä. Neljä nuorista käyttää ainoastaan suomen kieltä vapaa-aikanaan. Kahden nuoren vastausta on vaikea tulkita. Toinen näistä nuorista osoittaa hyviä kielikäytänteitä, jotka turvaavat saa</p>
+<p><em type="bold">26</em> men kielen säilymisen, mutta kuitenkaan ei ole mahdollista tulkita kumpaa kieltä hän puhuu enemmän vapaa-aikanaan. Puhun suomen kieltä suomenkielisten kanssa ja saamen kieltä saamenkielisten kanssa. </p>
+<p>Toisella näistä kahdesta ei ole sellaisia kielikäytänteitä, jotka edistävät saamen kielen säilymistä. Hän puhuu ystäviensä kanssa suomen kieltä, vaikka he osaavat saamen kieltä. Aikuisten kanssa hän puhuu saamen kieltä, esimerkiksi oman isänsä kanssa. Hän kuitenkin korostaa sitä, että joissakin Sámi Siida ry:n nuorisotoiminnoissa hän puhuu saamen kieltä.</p>
+<p xml:lang="vep"><em type="bold">27</em> </p>
+<p><em type="bold">Kielivalinnat Norjan puolen saamelaisnuorten kanssa</em> </p>
+<p>Nuoret ovat kertoneet yhteyksistään Norjan ja Ruotsin puolen saamelaisnuorten kanssa, ja siitä mitä kieliä he käyttävät keskenään tavatessaan muiden maiden saamelaisnuoria.</p>
+<p><em type="bold">Taulukko 15.</em> Yhteydet Norjan puolen saamelaisnuorten kanssa. </p>
+<p>Saameksi Saameksi ja muilla kielillä Ei ole yhteyksiä</p>
+<p>Kuviossa ilmenee nuorten kielenkäyttöä Norjan saamelaisnuorten kanssa. Viidellä on yhteyksiä ainoastaan saamen kielellä, kolme nuorista käyttää saamen, norjan tai ruotsin kieltä ja kolmella ei lainkaan yhteyksiä Norjan puolen saamelaisnuorten kanssa.</p>
+<p>Norjan puolet kylät ovat lähellä Utsjoen kuntaa ja oletettavaa oli, että nuorilla on enemmän yhteyksiä Norjan puolen kuin Ruotsin puolen nuorten kanssa. Onkin niin, että kenelläkään ei ole yhteyksiä Ruotsin puolen nuorten kanssa, mutta kahdeksalla on yhteyksiä Norjan puolen nuorten kanssa, kolmella taas ei ole minkäänlaisia yhteyksiä naapurimaiden saamelaisnuorten kanssa.</p>
+<p>Saamen kieli on pääkielenä, kun nuoret tapaavat Norjan puolten nuorten kanssa, vaikka kolme nuorista kertoo käyttävänsä vähän myös norjan tai ruotsin kieltä. Muutamat nuoret ovat olleet mukana Utsjoki–Sirma -kouluyhteistyössä esikoulussa ja ala-asteella, ja he nimesivät sen sellaiseksi yhteydeksi, jonka avulla ovat tutustuneet ja puhuneet saamen kieltä Norjan puolen lasten kanssa.</p>
+<p xml:lang="vep"><em type="bold">28</em> </p>
+<p><em type="bold">Kielet ja media</em> </p>
+<p><em type="bold">Mediatarjonta</em> </p>
+<p>Saamelaista mediatarjontaa on vähän verrattuna suomenkieliseen mediatarjontaan kuten myös Suomen ruotsinkieliseen tarjontaan. Erityisesti nuorille suunnattua tarjontaa on vähän. Jotain mediatarjontaa kuitenkin on, myös nuorille. Saamenkielinen sanomalehti Ávvir ilmestyy viidesti viikossa Norjan puolella ja lehdessä on nuorille suunnattuja osia. Norjan puolella ilmestyy myös Š-nuortenlehti. Aikaisemmin Vuolle Vuojáš (Aku Ankka) ilmestyi saamen kielellä ja samoin kuin Leavedolgi-lastenlehtikin. Niitä on yhä saatavissa kirjastoista.</p>
+<p>Kaikkialla Utsjoen kunnassa kuuluvat sekä YLE Sámi Radion että Norjan puolen NRK Sápmi -ohjelmat. Ohjelma-aikaa on yhteensä 32–35 tuntia viikossa. NRK Sápmi lähettää erillisiä nuortenohjelmia, vastaavaa tarjontaa ei ole YLE Sámi radiolla. YLE lähettää 15-minuuttiset pohjoismaiset TV-uutiset joka arkipäivä ja Unná Junná -lastenohjelmaa kerran viikossa (noin 30 ohjelmaa vuodessa). NRK Sápmi näyttää kaksi kertaa viikossa saamenkielisiä lastenohjelmia, silloin tällöin nuortenohjelmia sekä dokumentteja saamen kielellä. Näitä ohjelmia ei voi katsella Utsjoen kunnassa erilaisen lähetystekniikoiden takia, mutta ne ovat nähtävillä NRK Sápmi -nettisivuilla.</p>
+<p><em type="bold">Nuorten medioiden käyttö</em> </p>
+<p>Suurin osa tutkimuksessa mukana olevista nuorista ei tunne eikä käytä nuorille suunnattuja saamenkielisiä mediapalveluja.</p>
+<p><em type="bold">TV- ja radio-ohjelmat</em> </p>
+<p>Kymmenen nuorista ei kuuntele saamenkielisiä radio-ohjelmia eikä katso saamenkielisiä TV-ohjelmia. Eräs nuorista kuuntelee joskus saamenkielisiä nuortenohjelmia ja hän katsoo joskus saamenkielisiä TV-ohjelmia. Eräs puolestaan katsoo Unná Junná -lastenohjelmaa ja eräällä on tapana katsoa saamenkielisiä TV-uutisia.</p>
+<p xml:lang="vep"><em type="bold">29</em> </p>
+<p><em type="bold">Taulukko 16.</em> Saamenkielisten TV-ohjelmien katselu. </p>
+<p>Nuorten ohj. Lasten-TV Uutiset Eivät katso sk.</p>
+<p xml:lang="rmf">TV:ta</p>
+<p>Kuviosta ilmenee nuorten katsomat saamenkieliset TV-ohjelmat. Eräs nuorista katsoo nuortenohjelmia, toinen taas lastenohjelmia ja kolmas uutisia. Kahdeksan nuorista ei katso lainkaan saamenkielisiä ohjelmia.</p>
+<p>Eräs nuorista tokaisi: ”Onko niitä edes olemassa?”, kun kysyttiin radion nuortenohjelmista sekä eräs totesi <span type="quote">”En tiedä mihin aikaan sellaisia näytetään”</span>, kun oli puhe nuorten TV-ohjelmista.</p>
+<p><em type="bold">Painetun median käyttö</em> </p>
+<p>Yhdeksän nuorista ei lainkaan lue saamenkielisiä sanomalehtiä. Eräs nuorista lukee saamenkielistä sanomalehteä kotonaan ja toinen silloin tällöin koulussa, mikäli opettaja niin vaatii. Myös kolmas tuntee lehden, mutta kertoo ettei heille tilata sitä kotiin, sillä se ei ole mielenkiintoinen lehti. Meille ei tule, ei kiinnosta.</p>
+<p>Ainoastaan yksi nuorista tuntee saamenkielisen Š-nuortenlehden ja hän lukee sitä säännöllisesti. Muut nuoret eivät tunne lehteä, eivätkä lue sitä.</p>
+<p><em type="bold">Tulokset lyhyesti</em> </p>
+<p>Harva nuori käyttää nuorille suunnattuja saamenkielisiä mediapalveluja. Siihen näyttää olevan yksinkertainen selitys. He eivät tunne niitä, ja eräs nuorista suorastaan ihmettelee niiden olemassaoloa.</p>
+<p>Mikä mahtaa olla syynä siihen, että nuoret eivät tunne nuorille suunnattuja</p>
+<p><em type="bold">30</em> saamenkielisiä mediapalveluja, sitä on mahdotonta tietää. Voidaan vain arvioida. Voi olla niin, että mediayritykset eivät ole mainostaneet omia palvelujaan Suomen puolella. Toisena syynä saattaa olla se, että kaikki palvelut ovat tehty Norjan puolella, eivätkä Suomen puolen nuoret tunne niitä kohtaan mielenkiintoa. </p>
+<p><em type="bold">Kirjoittaminen ja kirjallisuus</em> </p>
+<p>Tutkimuksen tavoitteena oli myös selvittää mitä kieliä nuoret lukevat ja kirjoittavat, ja kummalla kielellä he kirjoittavat enemmän ja kummalla lukevat enemmän.</p>
+<p><em type="bold">Taulukko 17.</em> Nuorten kielenkäyttö kirjoittamisessa. </p>
+<p>Enimmäkseen saamea Enimmäkseen suomea Ei ole vastannut</p>
+<p>Kuviosta ilmenee mitä, suomen vai saamen kieltä nuoret käyttävät eniten kirjoittaessaan.</p>
+<p>Kymmenen nuorista vastasi kirjoittavansa sekä saamen että suomen kielellä. Neljä heistä kirjoittaa enimmäkseen saamen kielellä, kuusi puolestaan suomen kielellä ja yksi ei vastannut kysymykseen.</p>
+<p>Joillakin nuorilla on ollut vaikeuksia vastata siihen, mikä vaikuttaa kirjoituskielen valintaan. Kahdeksan nuorista osasi vastata, kolme ei osannut. Kolmen nuoren mielestä media vaikuttaa kirjoituskielen valintaan, eräs nuorista mainitsee esimerkiksi oppikirjan kielen. Neljä ovat sitä mieltä, että vastaanottajan kielitaito ratkaisee sekä eräs nuorista selittää, että ”jos hän on suomenkieli</p>
+<p><em type="bold">31</em> nen” tarkoittaen luultavasti hänen itsensä kirjoittavan tuolloin suomen kielellä. Kolme on sitä mieltä, että kirjoituksen sisältö ja kirjoitustilanne vaikuttavat kirjoituskielen valintaan ja eräs nuorista on lisännyt, että on helpompaa kirjoittaa suomen kielellä. </p>
+<p><em type="bold">Mitä nuoret kirjoittavat saamen kielellä?</em> </p>
+<p>Kymmenen nuorta on kertonut tekevänsä koulutehtävänsä saamen kielellä. Seitsemän nuorista kirjoittaa myös muuta saamen kielellä kuin pelkästään koulutöitä. Nämä nuoret kirjoittavat monella eri kirjoituslajilla ja -tavalla.</p>
+<p type="listitem">•  Kolme kirjoittaa artikkeleita, kertomuksia ja/tai novelleja.</p>
+<p type="listitem">•  Yksi kirjoittaa runoja tai rap-sanoituksia.</p>
+<p type="listitem">•  Kolme kirjoittaa lauluntekstejä.</p>
+<p type="listitem">•  Kolme kirjoittaa tekstiviestejä puhelimitse. Yksi näistä lisää, että hän kuitenkin kirjoittaa suurimman osan tekstiviesteistä suomen kielellä.</p>
+<p type="listitem">•  Yksi chattaa netissä saamen kielellä.</p>
+<p type="listitem">•  Kymmenen tekee koulutehtävänsä saamen kielellä.</p>
+<p type="listitem">•  Yksi kirjoittaa myös jotain muuta saamen kielellä, mutta vitsailee ettei hän kerro mitä kirjoittaa.</p>
+<p>Koulun ulkopuolella nuoret käyttävät saamen kieltä vähän kirjoituskielenä, mutta siltikin seitsemän vastasi kirjoittavansa jotain saamen kielellä. Tällöin he valitsevat monenlaisia kirjoituslajeja ja -tapoja kuten yllä olevassa tekstissä esiteltiin.</p>
+<p><em type="bold">Saamenkielinen kirjallisuus</em> </p>
+<p>Yhdeksän nuorista lukee saamenkielistä kirjallisuutta koulussa, kaksi ei lue lainkaan. Koulun ulkopuolella heistä kolme lukee saamenkielistä kirjallisuutta ja kahdeksan kielsi lukevansa sitä.</p>
+<p><em type="bold">Tulokset lyhyesti</em> </p>
+<p>Näiden nuorten saamen kielen lukeminen ja kirjoittaminen kuuluvat pääasiallisesti kouluun. Kuitenkin enemmistö käyttää enimmäkseen suomen kieltä kirjoituskielenään tarkasteltaessa sekä koulun että vapaa-ajan käyttöä kokonaisvaltaisesti. Seitsemän on kuitenkin vastannut, että he kirjoittavat jotain koulun ulkopuolella, ja sitä on pidettävä positiivisena kehityksenä ja merkkinä siitä, että jotkut nuoret valitsevat saamen kielellä kirjoittamisen, kun heille itselle annetaan mahdollisuus valita.</p>
+<p><em type="bold">32</em> Hieman odottamatonta saattaa olla se, että useampia nuoria ei kirjoita saamen kielellä uudenaikaista teknologiaa käyttäessään, esimerkiksi tekstiviesteissä ja netin chatti-kommunikointiohjelmilla. Ainoastaan yksi nuorista chattaa saamen kielellä ja kolme nuorista viestittelee puhelimen välityksellä saamen kielellä. </p>
+<p>Ainoastaan kolme nuorista lukee saamenkielistä kirjallisuutta vapaa-aikanaan. Syynä tähän saattaa olla puutteellinen tarjonta. Saamenkielisiä nuorten kirjoja on julkaistu vähän, ja nuoret ovat luultavasti jo lukeneet vähäisen tarjonnan koulussa. Toisena selityksenä voi olla, että nuoret eivät tunne julkaistuja kirjoja.</p>
+<p><em type="bold">Miten lisätä nuorten saamen kielen käyttöä?</em> </p>
+<p>Nuorilta tiedusteltiin millaisia palveluja he haluaisivat lisäämään samalla heidän saamen kielen käyttöään. Kolme nuorista ei osannut vastata kysymykseen lainkaan. Kahdeksan nuorta on etupäässä esittänyt enemmän saamenkielisiä tapahtumia ja toimintoja nuoria varten. Eräs nuorista on korostanut, että tulisi järjestää saamelaisia tapahtumia, joissa myös Norjan ja Ruotsin puolen nuoret ovat mukana ja tällöin saamen kieltä olisi pakko käyttää. Saamelaisia tapahtumia, myös norjalaisille ja ruotsalaisille saamelaisnuorille, jolloin pitää käyttää saamea.</p>
+<p>Eräs nuorista on korostanut, että nuorille tulisi olla saamenkielinen lehti. Nuorille tarkoitettu nuoria kiinnostava saamenkielinen lehti.</p>
+<p>Toiset nuoret viittaavat aikuisiin. Eräs on sitä mieltä, että vanhempien tulisi puhua enemmän saamen kieltä ja eräs puolestaan esittää, että nuorille tulisi kertoa saamen kielen puhumisen tärkeydestä. Vanhemmat voisivat puhua enemmän saamea. Nuorille pitäisi puhua saamen kielen tärkeydestä.</p>
+<p xml:lang="vep"><em type="bold">33</em> </p>
+<p><em type="bold">Tulokset lyhyesti</em> </p>
+<p>Eräät nuoret havaitsivat, että puuttuu toimia ja tapahtumia, joissa he voivat käyttää ja/tai kehittää omaa kieltään. He ehdottavat järjestettäväksi enemmän nuorille suunnattuja saamenkielisiä tapahtumia ja vapaa-ajan toimintoja. Jotkut nuorista myös totesivat, että aikuisten tulee ottaa enemmän vastuuta. Nimen omaan aikuisten tulee puhua enemmän saamen kieltä lapsille ja aikuisten tulee puhua nuorille saamen kielen tärkeydestä ja siten muuttaa nuorten kielenkäyttöä. Kaikki ehdotuksista ovat realistisia ja mahdollisia toteuttaa.</p>
+<p><em type="bold">Toimet, jotka parantaisivat saamen kielen tilaa</em> </p>
+<p>Selvityksen tekijä pyysi nuoria ehdottamaan toimenpiteitä saamen kielen säilyttämiseksi ja jotta saamen kieltä käytettäisiin enemmän. Viisi nuorista vastasi. Eräät ehdotuksista liittyvät nuorten koulumaailmaan, toiset taas enemmän media- ja kulttuurimaailmaan.</p>
+<p><em type="bold">Media ja kulttuuri</em> </p>
+<p>Eräs nuorista kertoi, ettei hän ole ajatellut asiaa, ja että hänellä on melko vaatimaton ehdotus. Jos olisi saamenkielisiä TV-ohjelmia, niin niitä voisi katsoa. En ole ajatellut; jos olisi saamenkielisiä ohjelmia niitä voisi katsoa tv:stä.</p>
+<p>Toinen nuorista taas haluaisi enemmän saamenkielisiä tapahtumia, musiikkia ja kirjallisuutta. Lisäksi hän näkee tarpeen vaikuttaa asenteisiin kirjallisuutta valittaessa, sillä nuoret valitsevat suomenkielistä kirjallisuutta. Saamenkielisiä tapahtumia, musiikkia, kirjallisuutta. Pitäisi vaikuttaa ennakko luuloihin kirjallisuusvalinnoissa (nuoret valitsevat suomenkielistä).</p>
+<p><em type="bold">Koulumaailman muutokset</em> </p>
+<p>Eräät nuorista esittävät sekä laajoja että radikaaleja muutoksia yhteiskuntaan. Eräs nuorista ehdottaa, että saamelaisten kotiseutualueella tulisi saamen kielen olla pakollinen oppiaine kaikille lapsille, esimerkiksi kolmannesta luokasta lähtien. Lapsille opetettava saamea, koulussa pakollinen saamenkielinen opetus saamelaisalueella, pakollinen kaikille esimerkiksi 3. luokalle asti.</p>
+<p xml:lang="vep"><em type="bold">34</em> </p>
+<p>Toinen nuorista haluaa, että kaikki koulun opetus on saamen kielellä ja että koulussa ei tulisi olla lupaa käyttää suomen kieltä. Kaikki opetus koulussa saameksi, koulussa ei saisi käyttää suomea.</p>
+<p>Myös eräs nuorista haluaa saamenkielisen koulun sekä saamenkielisen opettajakoulutuksen, jotta saadaan opettajia. Saamenkielistä opettajakoulutusta jotta saadaan opettajia, saamenkielisiä kouluja.</p>
+<p><em type="bold">Tulokset lyhyesti</em> </p>
+<p>Nuoret esittävät joitakin toimenpiteitä, jotka ovat olleet esillä yhteiskuntakeskustelussa viime aikoina. He haluavat saamenkielisille omia, selviä kielenkäyttö alueita, kuten saamenkielisen koulun, TV-ohjelmia ja enemmän kulttuuritapahtumia, musiikkia ja kirjallisuutta. Ehdotusta siitä, että saamen kielen tulisi olla pakollinen oppiaine koulussa, voidaan tulkita toiveeksi käyttää saamen kieltä enemmän mikäli suomenkieliset lapset oppivat saamen kielen.</p>
+<p xml:lang="vep"><em type="bold">35</em> </p>
+<p><em type="bold">Omien lasten saamen kieli</em> </p>
+<p>Suurin osa nuorista pitää itsestään selvänä sitä, että heidän lastensa tulisi oppia saamen kieltä. Yhdeksän nuorista on vastannut haluavansa ja kaksi lisäsi vielä <span type="quote">”tietysti”</span>. Eräs nuorista vastasi, ettei hän halua omien lastensa puhuvan saamea, sillä hän ei aio jäädä asumaan Utsjoen kuntaan, tosin myöhemmin hän korjasi vastaustaan todeten <span type="quote">”ehkä sittenkin”</span>. Eräs nuorista oli epävarma ja totesi sen riippuvan asuinpaikasta ja lapsen toisesta vanhemmasta. Jos hän olisi ainoa, joka lapselle puhuisi saamen kieltä, niin ei hän taitaisi jaksaa opettaa. Riippuu asuinpaikasta ja lapsen äidistä. Jos olisin ainoa joka puhuu saamea, en ehkä jaksaisi opettaa.</p>
+<p><em type="bold">Miksi saamen kieltä lapsille?</em> </p>
+<p>Ne nuoret, jotka varmasti aikovat puhua saamen kieltä lastensa kanssa, toivat esille tunteisiin ja käytäntöön liittyviä asioita selittäessään syytä, miksi haluavat omien lastensa oppivan saamen kielen.</p>
+<p><em type="bold">Koska saamen kieli on äidinkieli</em> </p>
+<p>Viisi nuorista tuntee yhteenkuuluvuutta saamen kieleen ja he pitävät saamen kieltä säilyttämisen arvoisena. He käyttävät sellaisia ilmaisuja kuten ”se on minun oma kieleni” ja <span type="quote">”se on äidinkieleni”</span>. Eräs nuorista kertoo aikovansa puhua lastensa kanssa saamen kieltä sen takia, että saamen kieli periytyy ja olemassaolo jatkuu, eikä kieli häviä. Eräs nuorista haluaa saamen välittyvän eteenpäin haluten omien lastensa opettavan sen edelleen vastaavasti omille lapsilleen.</p>
+<p>Eräs nuorista haluaa, että hänen lapsensa myös oppivat saamen kielen, sillä hänelle on lapsuudessaan paljon puhuttu saamen kieltä ja hän pitää saamen kieltä omana kielenään. Koska minulle itselleni on lapsesta saakka puhuttu saamea ja se on minun oma kieleni. Koska se on äidinkieleni Jotta kieli periytyy ja jatkuu, eikä häviä. Haluan että kieli välittyy eteenpäin ja minun lapseni opettaa sitä omille lapsilleen.</p>
+<p><em type="bold">Koska on hyvä osata saamen kieltä</em> </p>
+<p>Jotkut nuorista tarkastelevat etupäässä saamen kielen säilymistä ja siirtymistä</p>
+<p><em type="bold">36</em> lapsille käytännön asiana ja ajattelevat sen olevan hyväksi lapsille. Saamen kieli on tärkeä täällä Lapissa. Jotta lapsesta tulee kaksikielinen ja voi käydä saamenkielistä ammattikoulua; kielitaidosta yleensä hyötyä. </p>
+<p>Eräs nuorista toivoo lasten oppivan saamen kieltä paremmin kuin hän, sillä hän pitää saamen kieltä etuna raja-alueella, eikä hän aio muuttaa muualle. Haluan että oppivat paremmin kuin minä; siitä on hyötyä täällä rajalla enkä aio muuttaa.</p>
+<p><em type="bold">Millä tavoin lasten tulee oppia?</em> </p>
+<p>Kaikki nuoret, myös ne, jotka eivät tiedä puhuvatko itse saamen kieltä lastensa kanssa, haluavat että lapset oppivat saamen kielen. Suurin osa sanoo olevansa varmoja, että he puhuvat saamen kieltä omien lastensa kanssa kotonaan. Yhdeksän nuorista vastasi puhuvansa itse, yksi vastasi <span type="quote" xml:lang="krl">”ehkä puhun itse”</span> ja yksi taas <span type="quote">”en ole varma”</span>.</p>
+<p><em type="bold">Päiväkoti ja koulu</em> </p>
+<p>Kaikki nuoret sanovat haluavan lastensa oppivan saamen kieltä päiväkodissa ja koulussa, mutta kaksi heistä näyttää olevan epävarmoja siitä, onko näitä palveluja saatavilla aikuisena asuinpaikassa. He kaksi ovat kertoneet, että lasten tulee oppia saamen kieltä päiväkodissa sekä koulussa, mikäli he jäävät Utsjoella ja mikäli saamenkielinen palvelu on saatavilla lapsille.</p>
+<p><em type="bold">Muut tavat</em> </p>
+<p>Nuorilta myös kysyttiin onko olemassa muita tapoja, joiden avulla lapset voivat oppia saamen kieltä ja eräs vastasi siihen, että sukulaisten ja heidän, jotka puhuvat saamen kieltä, tulisi puhua saamen kieltä hänen lastensa kanssa.</p>
+<p><em type="bold">Tulokset lyhyesti</em> </p>
+<p>Kaikki 11 nuorta haluaa saamenkielisiä lapsia ja melkein kaikki heistä ovat valmiita ottamaan vastuun omien lastensa saamen kielen taidon omaksumisesta. He ovat myös ajatelleet käyttää saamenkielisiä päiväkoteja ja kouluja hyödyksi. Nämä tulokset osoittavat positiivisia asenteita saamen kielen suhteen ja on huomioitava, että eräät nuorista ovat ajatelleet lisäävänsä melkoisesti omaa saamen kielen käyttöään lastensa vanhempina verrattuna nykyisyyteen.</p>
+<p xml:lang="vep"><em type="bold">37</em> </p>
+<p><em type="bold">Tulokset</em> </p>
+<p>Kaikki selvityksessä haastatellut nuoret asuvat Utsjoen kunnassa. Yhdeksän heistä on oppinut saamen kielen ennen koulunkäynnin aloittamista, kaksi koulun aloittamisen jälkeen. Näiden nuorten kielenkäyttötavat ovat erilaisia. Eräät tendenssit kuitenkin ilmenevät tästä selvityksestä.</p>
+<p><em type="bold">Huolestuttavia tuloksia</em> </p>
+<p>Suurin osa nuorista puhuu saamen kieltä vähän sekä kotona, koulussa että vapaa -aikana. Erityisen huolestuttavaa on, että suurin osa nuorista ei käytä saamen kieltä samanikäisten ystäviensä, eikä sisarustensa kanssa.</p>
+<p>Haastattelujen perusteella voidaan todeta, että on paljon parantamisen varaa nuorten lähiympäristössä, usein kotona ja suvun parissa. Tällä tarkoitetaan sitä, että lasten ympäristössä on saamenkielisiä ihmisiä, joiden kanssa he voivat puhua enemmän saamen kieltä.</p>
+<p>Yhteiskunnassa on olemassa myös asioita, jotka estävät saamen kielen käyttöä. Koulu toimii vain osittain saamenkielisenä kielenkäyttöalueena. Ainoa saamen kielinen kielenkäyttöalue koulussa on saamenkielinen opetustila opettajineen. Muilla kielenkäyttöalueilla kuten välitunneilla ja koulumatkoilla nuoret puhuvat enimmäkseen suomen kieltä ikäistensä kanssa.</p>
+<p>Nuorille on vähän saamenkielisiä vapaa-ajan ja mediapalveluja saamen kielellä, ja suurimmalla osalla nuorista suomen kieli on pääkielenä vapaa-aikana. Eivätkä monetkaan käytä olemassa olevia saamenkielisiä palveluja, kuten saamen kielistä mediaa ja Norjan puolen nuorisotoimintoja.</p>
+<p><em type="bold">Sámi Siida ry:n toiminta</em> </p>
+<p>Sámi Siida ry:n nuorisotoiminnot ovat ainoita saamenkielisiä vapaa-ajan toimintoja Utsjoen kunnassa. Yhdeksän nuorista on osallistunut vähintään yhteen yhdistyksen järjestämään nuorisotapahtumaan ja kuusi nuorista puhuu ainoastaan saamen kieltä näissä tapahtumissa. Nuoret käyttävät selvästi enemmän saamen kieltä Sámi Siida ry:n nuorisotoiminnoissa kuin missään muussa vapaa-ajan toiminnossa. Siltä kannalta Sámi Siida ry on saavuttanut yhden tavoitteensa – nimenomaan lisännyt nuorten saamen kielen käyttöä. Toisaalta selvityksessä kuitenkin ilmeni, että eräät nuoret käyttävät suomen kieltä pääkielenä yhdistyksenkin toiminnoissa.</p>
+<p><em type="bold">38</em> Kuitenkin on selvää, että Sámi Siida ry on perustanut sellaisen kielenkäyttöalueen, jota ei muutoin olisi Utsjoen kunnassa – nimenomaan saamenkielisen vapaa-ajan tarjonnan saamenkielisille nuorille. Tällaisia toimintoja ei ole ollut aikaisemmin, eivätkä muut vapaa-ajan palvelujen tuottajat ole alkaneet käyttämään saamen kieltä. </p>
+<p><em type="bold">Haluavat saamenkielisiä kielenkäyttöalueita</em> </p>
+<p>Nuoret osoittavat kiinnostusta ja halua käyttää saamen kieltä enemmän kuin mitä he tällä hetkellä käyttävät. Kiinnostus tulee esille esimerkiksi siitä, että he itse ehdottavat toimenpiteitä saamen kielitilanteen parantamiseksi sekä saamen kielen käytön lisäämiseksi nuorten parissa. He haluavat enemmän nuorille suunnattuja saamenkielisiä toimintoja ja tapahtumia yhdessä muiden maiden nuorten kanssa, jotta saamen kielen käyttö olisi välttämätöntä. Eräät myös esittävät saamenkielistä koulua ja suomen kielen käytön kieltämistä koulussa. Eräs puolestaan ehdotti, että saamen kieli olisi pakollinen oppiaine, jotta suomenkieliset lapset oppivat saamen kieltä.</p>
+<p><em type="bold">Lasten tulee oppia</em> </p>
+<p>Jokainen nuori haluaa, että hänen lapsensa osaavat saamen kieltä ja suurin osa nuorista on jo päättänyt puhua saamen kieltä omien lastensa kanssa. Tällä perusteella he näyttävät arvostavan saamen kieltä ja pitävät saamen kieltä hyödyllisenä. He osoittavat myös olevansa valmiita ottamaan vastuuta kielen säilymisestä. Tätä on pidettävä hyvänä merkkinä.</p>
+<p xml:lang="kal"><em type="bold">Loppusanat</em> </p>
+<p>Tässä selvityksessä ei tutkittu sitä, käyttävätkö nuoret saamen kieltä enemmän nyt muissa yhteyksissä kuin Sámi Siida ry:n toiminnassa. Syynä siihen oli, ettei tässä käytetty longitudialista tutkimustapaa. Se tarkoittaa sitä, ettei nuorten kielenkäyttöä ole tutkittu ennen kuin Sámi Siida ry alkoi järjestää nuorille toimintoja. Selvityksen tuloksena on nuorten saamen kielen käyttö tutkimusajankohtana. Olisi hyvä tutkia jatkossa Sámi Siida ry:n nuorisotyön ja mahdollisesti muun saamenkielisen nuoristotyön vaikutusta.</p>
+<p xml:lang="vep"><em type="bold">39</em> </p>
+<p><em type="bold">Lähteet</em>Aikio, Marjut ja Lindgren, Anna-Riitta 1973: Kieliraportti. Helsinki. Komiteamietinnön </p>
+<p>1973:46 liite. Alaraudanjoki, Arja ja Katariina Kurki-Joensuu 2002: Utsjoen saamelaisten oppilaiden kielenkäyttö vuosina 1988 ja 2001. Pro gradu –tutkielma. Lapin yliopisto 2002. Hyltenstam Kenneth, Straud Christopher ja Svonni Mikael 1999: Språkbyte, språkbevarande, revitalisering. Samiskans stälning i svenska Sapmi: I Hyltenstam, Kenneth (toim.). Teoksessa: Sveriges sju inhemska språk – et minoritetsspråks-perspektiv: Lund: Studentlitteratur: 41-97. Inkinen, Sari 2011: Utsjoen kunnan päivähoidon johtajan esittely kunnan keskustelutilaisuudessa 24.1.2011. Torkel Rasmussenin muistiinpanojen mukaan. Partanen, Minna 1994: Saamen kielen käyttö Suomen saamelaisalueella. Oulu. Oulun yliopiston maantieteen laitos. Rasmussen, Torkel 2005: Jávohuvvá ja ealáska: Davvisámegielagiid demografiija ja buolvvaidgaskasaš sirdáseapmi Norggas ja Suomas. Saamen kielen pro gradu -tutkielma. Tromsøn yliopisto. Tromsø. Rasmussen, Torkel 2009: Ohcejoga mánáid ja nuoraid gielat. Yleisöluento Sámi Siida ry:n Skápmadoalut -tapahtumassa (Kaamostapahtumassa) 3.11.2009. Sámi Siida ry 2009: Sámi Siida ry:n hakemus Suomen kulttuurirahastolle. Sámi Siida ry 2010: Sámi Siida ry:n toimintasuunnitelma 2010. Suomen tilastokeskus 2010: Suomen tilastokeskuksen tietokanta. Helsinki.  <em type="italic">http://tilastokeskus.fi/. T</em>iedot haettu 24.01.2011 UNESCO 2003: Language Vitality and Endangerment: UNESCO Intangible Cultural Heritage Unit’s Ad Hoc Expert Group on Endangered Languages. </p>
+<p><em type="bold">Taulukot</em>Taulukko 1. Utsjoen väestön väestötietojärjestelmään ilmoitettu äidinkieli 10 vuoden </p>
+<p>välein Taulukko 2. Päiväkodit ja lasten määrä Taulukko 3. Utsjoen koulujen oppilasmäärät ja opetuskielet Taulukko 4. Saamen kielen puhumisen omaksuminen Taulukko 5. Sisarusten kanssa käytetty kieli Taulukko 6. Vanhempien kanssa käytetty kieli Taulukko 7. Isovanhempien kanssa käytetty kieli Taulukko 8. Sukulaisten kanssa käytetty kieli Taulukko 9. Saamen kieli koulussa eri kielenkäyttöalueilla Taulukko 10. Välituntien kieli koulussa Taulukko 11. Koulumatkojen kieli Taulukko 12. Saamenkielisten opettajien kanssa käytetty kieli opetustilojen ulkopuolella Taulukko 13. Nuorten kielenkäyttö Sámi Siida ry:n nuorisotoiminnassa Taulukko 14. Nuorten oma arvio vapaa-ajan kielenkäytöstään Taulukko 15. Yhteydet Norjan puolen saamelaisnuorten kanssa Taulukko 16. Saamenkielisten TV-ohjelmien katselu Taulukko 17. Nuorten kielenkäyttö kirjoittamisessa</p>
+<p xml:lang="vep"><em type="bold">40</em> </p>
+</body></document>

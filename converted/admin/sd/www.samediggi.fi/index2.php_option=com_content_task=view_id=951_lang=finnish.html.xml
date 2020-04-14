@@ -1,59 +1,34 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Greenland Eyes -elokuvafestivaali Sajoksessa 20.-24.11.2014</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>458</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=951&amp;lang=finnish.html</origFileName>
-    <parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=951_lang=english.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=951_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Greenland Eyes -elokuvafestivaali Sajoksessa 20.-24.11.2014</p>
-    <p>Kansainvälinen elokuvafestivaali Greenland Eyes saapuu Suomeen Pohjoismaiden kiertueellaan marraskuussa.</p>
-    <p>Greenland Eyes -elokuvafestivaali tuo Grönlannin värit, äänet ja tunnelman Inarin Sajokseen 20.–24. marraskuuta 2014. Nähtävillä on lyhytelokuvia, animaatioita, dokumentteja, musiikkivideoita, historiallisia muotokuvia ja uniikkeja kokopitkiä elokuvia sekä grönlantilaisilta että ulkomaalaisilta ohjaajilta.</p>
-    <p>Greenland Eyes on maailman suurin Grönlantiin keskittyvä festivaali. Se tuo esille elokuvia, jotka edustavat eri genrejä ja eri aikakausia. Yhteistä elokuville on se, että ne kertovat meille jotain nykypäivän Grönlannista.</p>
-    <p>Festivaali järjestetään nyt toista kertaa. Festivaalin ensimmäisenä vuonna 2012 elokuvista nautittiin Berliinissä. Tänä vuonna esitettävien elokuvien määrä on kasvanut niin paljon ja kiinnostus ollut niin laajaa, että yhden kaupungin sijaan festivaali kiertää nyt kaikki Pohjoismaat. Elokuussa Grönlannista alkanut festivaalikiertue on ennen Suomea ehtinyt jo Tanskaan, Färsaarille, Islantiin ja Ruotsiin. Suomen jälkeen viimeiset esitykset pidetään Norjassa joulukuun 18. päivä.</p>
-    <p>Elokuvat esitetään Saamelaiskulttuurikeskus Sajoksen auditoriossa. Elokuviin on englanninkielinen tekstitys.</p>
-    <p xml:lang="fkv">
-      <em type="italic">Tutustu esitettäviin elokuviin täältä .  </em>
-    </p>
-    <p><em type="italic">Ohjelma :  </em> </p>
-    <p><em type="italic">Torstai 20.11.2014 klo 18.00  </em> </p>
-    <p>Festivaalin avaussanat: festivaalin johtaja Ivalo Frank ja tuottaja Nicholas Alan.</p>
-    <p xml:lang="kal">Elokuva <em type="italic">Nuummioq </em>(Someone from Nuuk ohj. Otto Rosing ja Torben Beck)  </p>
-    <p><em type="italic">Perjantai 21.11.2014  </em> </p>
-    <p>klo 18.00 Elokuvat <em type="italic">Greenland Unrealised </em>(ohj. Dania Reymond).  </p>
-    <p xml:lang="nno">ja <em type="italic">Village at the end of the World </em>(ohj. Sarah Gavron ja David Katznelson)  </p>
-    <p>klo 20.00 Elokuvat <em type="italic">Anigaaq </em>(ohj. Jonas Cuaron)  ja </p>
-    <p xml:lang="nob"><em type="italic">Inuk </em>(ohj. Mike Magidson)  </p>
-    <p><em type="italic">Lauantai 22.11.2014  </em> </p>
-    <p>klo 11.00 Elokuvat <em type="italic">The girl and the dogs </em>(ohj. Guillaume Mainguet ja Selma Vihunen) ja <em type="italic">Souls in a room (The making of an album) </em>ohj. Mikisoq H. Lynge) sekä <em type="italic">Echoes </em>(ohj. Ivalo Frank). Viimeisen elokuvan lopussa on myös kysymys&amp;vastaus –sessio ohjaajan kanssa.  </p>
-    <p>klo 17.30 Kaamosjazz &amp; Camera Borealis -kuvakonsertti Kaukana Pohjoisessa – Matka luontoon kuvin ja Sävelin. Mukana esiintymässä grönlantilainen supertähti Simon Lynge.</p>
-    <p>klo 21.00   Camera Borealis &amp; Greenland Eyes Jam Session Hotelli Kultahovissa  . Esiintymässä mukana Simon Lynge.</p>
-    <p><em type="italic">Sunnuntai 23.11.2014  </em> </p>
-    <p>klo 18.00 Elokuva <em type="italic">Sullorsuaq </em>(The tunnel ohj. Marc Fussing Rosbach) ja <em type="italic">Hinnarik Sinnattunilu </em>(Hinnariks’s dreams ohj. Angajo Lennert Sandgreen)  </p>
-    <p>klo 20.00 Elokuva <em type="italic">Tupilaq </em>(ohj. Jakob Mage) ja <em type="italic">Aftermat </em>(Number six ohj. Martin Skinkløv ja Rune Bundgaard)  </p>
-    <p xml:lang="fkv"><em type="italic">Maanantai 24.11.2014  </em> </p>
-    <p>klo 18.00 Elokuva <em type="italic">Aulahuliat </em>(Moving Images by Uusaqqak Qujaukitsag) ja <em type="italic">Block P </em>(by Peter Jensen ja Rikke Diemer)  </p>
-    <p xml:lang="eng">klo 20.00 <em type="italic">Sooqakersuuttugut </em><em type="italic">(Why we fight ohj. Inuk Silis Hoegh) Before tomorrow (ohj Marie </em>Hélène Cousineau ja Madeline Ivalu)  </p>
-    <p>Festivaalin kotisivut .</p>
-    <p><em type="italic">Lippuja elokuviin pystyy ostamaan Sajoksen infosta Sajoksen aukioloaikoina sekä verkkokaupasta </em><em type="italic">www.lipputoimisto.fi  </em><em type="italic">. Lisäksi niitä myydään tunti ennen jokaisen elokuvan alkua ovelta. Liput 6 euroa, nuoriso (alle 17 vuotta) ja opiskelijat 3 euroa ja lapset (alle 12 vuotta) veloituksetta. </em> </p>
-    <p><em type="italic">Kaamosjazz-konsertin lippuja voi ostaa lipputoimistosta www.lipputoimisto.fi  tai Sajoksen infosta aukioloaikana. Lisäksi niitä myydään tunti ennen tapahtuman alkua ovelta. Ennakkolippu 25 e/ovelta 30 euroa. </em> </p>
-    <p><em type="italic">Festivaalien aikana Sajoksen aulassa on nähtävissä valokuvanäyttely ISI/EYE/ </em><em type="italic">ØJE, johon Pipaluk Lykke Løstrup on koonnut amatöörikuvaajien digikuvia kaikkialta maailmasta. </em> </p>
-    <p><em type="italic">Lehdistökyselyt: </em>  </p>
-    <p>Festivaalin johtaja Ivalo Frank</p>
-    <p><em type="italic">Lisätietoa lipuista: </em> </p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Greenland Eyes -elokuvafestivaali Sajoksessa 20.-24.11.2014</title><genre code="admin"/><author><unknown/></author><wordcount>458</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=951&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=951_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=951_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Greenland Eyes -elokuvafestivaali Sajoksessa 20.-24.11.2014</p>
+<p>Kansainvälinen elokuvafestivaali Greenland Eyes saapuu Suomeen Pohjoismaiden kiertueellaan marraskuussa.</p>
+<p>Greenland Eyes -elokuvafestivaali tuo Grönlannin värit, äänet ja tunnelman Inarin Sajokseen 20.–24. marraskuuta 2014. Nähtävillä on lyhytelokuvia, animaatioita, dokumentteja, musiikkivideoita, historiallisia muotokuvia ja uniikkeja kokopitkiä elokuvia sekä grönlantilaisilta että ulkomaalaisilta ohjaajilta.</p>
+<p>Greenland Eyes on maailman suurin Grönlantiin keskittyvä festivaali. Se tuo esille elokuvia, jotka edustavat eri genrejä ja eri aikakausia. Yhteistä elokuville on se, että ne kertovat meille jotain nykypäivän Grönlannista.</p>
+<p>Festivaali järjestetään nyt toista kertaa. Festivaalin ensimmäisenä vuonna 2012 elokuvista nautittiin Berliinissä. Tänä vuonna esitettävien elokuvien määrä on kasvanut niin paljon ja kiinnostus ollut niin laajaa, että yhden kaupungin sijaan festivaali kiertää nyt kaikki Pohjoismaat. Elokuussa Grönlannista alkanut festivaalikiertue on ennen Suomea ehtinyt jo Tanskaan, Färsaarille, Islantiin ja Ruotsiin. Suomen jälkeen viimeiset esitykset pidetään Norjassa joulukuun 18. päivä.</p>
+<p>Elokuvat esitetään Saamelaiskulttuurikeskus Sajoksen auditoriossa. Elokuviin on englanninkielinen tekstitys.</p>
+<p xml:lang="fkv"><em type="italic">Tutustu esitettäviin elokuviin täältä .  </em></p>
+<p><em type="italic">Ohjelma :  </em> </p>
+<p><em type="italic">Torstai 20.11.2014 klo 18.00  </em> </p>
+<p>Festivaalin avaussanat: festivaalin johtaja Ivalo Frank ja tuottaja Nicholas Alan.</p>
+<p xml:lang="kal">Elokuva <em type="italic">Nuummioq </em>(Someone from Nuuk ohj. Otto Rosing ja Torben Beck)  </p>
+<p><em type="italic">Perjantai 21.11.2014  </em> </p>
+<p>klo 18.00 Elokuvat <em type="italic">Greenland Unrealised </em>(ohj. Dania Reymond).  </p>
+<p xml:lang="nno">ja <em type="italic">Village at the end of the World </em>(ohj. Sarah Gavron ja David Katznelson)  </p>
+<p>klo 20.00 Elokuvat <em type="italic">Anigaaq </em>(ohj. Jonas Cuaron)  ja </p>
+<p xml:lang="nob"><em type="italic">Inuk </em>(ohj. Mike Magidson)  </p>
+<p><em type="italic">Lauantai 22.11.2014  </em> </p>
+<p>klo 11.00 Elokuvat <em type="italic">The girl and the dogs </em>(ohj. Guillaume Mainguet ja Selma Vihunen) ja <em type="italic">Souls in a room (The making of an album) </em>ohj. Mikisoq H. Lynge) sekä <em type="italic">Echoes </em>(ohj. Ivalo Frank). Viimeisen elokuvan lopussa on myös kysymys&amp;vastaus –sessio ohjaajan kanssa.  </p>
+<p>klo 17.30 Kaamosjazz &amp; Camera Borealis -kuvakonsertti Kaukana Pohjoisessa – Matka luontoon kuvin ja Sävelin. Mukana esiintymässä grönlantilainen supertähti Simon Lynge.</p>
+<p>klo 21.00   Camera Borealis &amp; Greenland Eyes Jam Session Hotelli Kultahovissa  . Esiintymässä mukana Simon Lynge.</p>
+<p><em type="italic">Sunnuntai 23.11.2014  </em> </p>
+<p>klo 18.00 Elokuva <em type="italic">Sullorsuaq </em>(The tunnel ohj. Marc Fussing Rosbach) ja <em type="italic">Hinnarik Sinnattunilu </em>(Hinnariks’s dreams ohj. Angajo Lennert Sandgreen)  </p>
+<p>klo 20.00 Elokuva <em type="italic">Tupilaq </em>(ohj. Jakob Mage) ja <em type="italic">Aftermat </em>(Number six ohj. Martin Skinkløv ja Rune Bundgaard)  </p>
+<p xml:lang="fkv"><em type="italic">Maanantai 24.11.2014  </em> </p>
+<p>klo 18.00 Elokuva <em type="italic">Aulahuliat </em>(Moving Images by Uusaqqak Qujaukitsag) ja <em type="italic">Block P </em>(by Peter Jensen ja Rikke Diemer)  </p>
+<p xml:lang="eng">klo 20.00 <em type="italic">Sooqakersuuttugut </em><em type="italic">(Why we fight ohj. Inuk Silis Hoegh) Before tomorrow (ohj Marie </em>Hélène Cousineau ja Madeline Ivalu)  </p>
+<p>Festivaalin kotisivut .</p>
+<p><em type="italic">Lippuja elokuviin pystyy ostamaan Sajoksen infosta Sajoksen aukioloaikoina sekä verkkokaupasta </em><em type="italic">www.lipputoimisto.fi  </em><em type="italic">. Lisäksi niitä myydään tunti ennen jokaisen elokuvan alkua ovelta. Liput 6 euroa, nuoriso (alle 17 vuotta) ja opiskelijat 3 euroa ja lapset (alle 12 vuotta) veloituksetta. </em> </p>
+<p><em type="italic">Kaamosjazz-konsertin lippuja voi ostaa lipputoimistosta www.lipputoimisto.fi  tai Sajoksen infosta aukioloaikana. Lisäksi niitä myydään tunti ennen tapahtuman alkua ovelta. Ennakkolippu 25 e/ovelta 30 euroa. </em> </p>
+<p><em type="italic">Festivaalien aikana Sajoksen aulassa on nähtävissä valokuvanäyttely ISI/EYE/ </em><em type="italic">ØJE, johon Pipaluk Lykke Løstrup on koonnut amatöörikuvaajien digikuvia kaikkialta maailmasta. </em> </p>
+<p><em type="italic">Lehdistökyselyt: </em>  </p>
+<p>Festivaalin johtaja Ivalo Frank</p>
+<p><em type="italic">Lisätietoa lipuista: </em> </p>
+</body></document>

@@ -1,31 +1,5 @@
-<document xml:lang="fin" id="no_id">
-  <header>
-    <title>Tämä on automaattinen vastaus.</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2005</year>
-    <wordcount>22</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1677&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="eng" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/>
-    <parallel_text xml:lang="sme" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/>
-    <parallel_text xml:lang="smn" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/>
-    <parallel_text xml:lang="sms" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 139793 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tämä on automaattinen vastaus. Tämä on ainoa viesti jonka saat koskien poissaoloani.</p>
-    <p>Olen seuraavan kerran tavattavissa 19.11.2011.</p>
-    <p>Parhain terveisin</p>
-    <p xml:lang="sme">Sámmol Sápmelaš, kielityöntekijä</p>
-  </body>
-</document>
+<document xml:lang="fin" id="no_id"><header><title>Tämä on automaattinen vastaus.</title><genre code="admin"/><author><unknown/></author><year>2005</year><wordcount>22</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=1677&amp;Itemid=10</origFileName><parallel_text xml:lang="eng" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/><parallel_text xml:lang="sme" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/><parallel_text xml:lang="smn" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/><parallel_text xml:lang="sms" location="ulkona-tilan_viesteja_-_mallilausekkeet_2011_su-da-an-nu-en-logov3.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 139793 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tämä on automaattinen vastaus. Tämä on ainoa viesti jonka saat koskien poissaoloani.</p>
+<p>Olen seuraavan kerran tavattavissa 19.11.2011.</p>
+<p>Parhain terveisin</p>
+<p xml:lang="sme">Sámmol Sápmelaš, kielityöntekijä</p>
+</body></document>
