@@ -1,46 +1,119 @@
-<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>417</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_finska.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/><parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/><parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">LAKI TAKAA </em></p>
-<p><em type="bold">OIKEUKSIA KANSALLISILLE VÄHEMMISTÖILLEOSATAVOITETTA </em></p>
-<p><em type="bold">Hallituksen vähemmistöpolitiikan tavoitteena on suojella kansallisia vähemmistöjä, vahvistaa niiden vaikutusmahdollisuuksia ja tukea historiallisia vähemmistökieliä niin, että ne säilyvät elävinä. SYRJINTÄ JA SUOJATTOMUUS</em> </p>
-<p><em type="bold">KANSALLISIA  VÄHEMMISTÖJÄ   VARTEN RUOTSIN KANSALLISET VÄHEMMISTÖT</em> </p>
-<p><em type="bold">Ruotsi on aina ollut monikielinen ja -kulttuurinen. Saamelaiset, suomalaiset, tornionlaaksolaiset, romanit ja juutalaiset ovat asuneet maassa vuosisatoja. Heidän kielensä ja kulttuurinsa ovat osa Ruotsin yhteiskuntaa ja yhteistä kulttuuriperintöämme.</em> </p>
-<p>Kansallisiin vähemmistöihin kuuluvien henkilöiden syrjintää, suojattomuutta ja epäoikeudenmukaista kohtelua tulee vastustaa. Heillä tulee olla samat mahdollisuudet osallistua yhteiskunnalliseen elämään kuin muullakin väestöllä.</p>
-<p>Hallintoviranomaisten on tarvittaessa sopivalla tavalla tiedotettava kansallisille vähemmistöille tämän lain mukaisista oikeuksista.</p>
-<p>SAAMELAISET: Ruotsissa asuu 20 000–35 000</p>
-<p>saamelaista, jotka puhuvat saamen eri varieteetteja. Saamelaiset ovat myös alkuperäiskansa.</p>
-<p><em type="bold"> VAIKUTUSMAHDOLLISUUDET JA OSALLISUUS</em> </p>
-<p>Kansallisten vähemmistöjen vaikutusmahdollisuuksia ja osallisuutta tulee vahvistaa, muun muassa siten, että viranomaiset toimivat yhteistyössä niiden kanssa. Vähemmistöille tulee antaa todelliset vaikutusmahdollisuudet heitä itseään koskevissa kysymyksissä.</p>
-<p>Kielilaissa (2009:600) sanotaan, että (lain suo</p>
-<p>mennoksessa: yhteiskunnalla) on erityinen vastuu suojella ja edistää kansallisia vähem</p>
-<p>RUOTSINSUOMALAISET::Ruotsissa asuu 450 000–600 000 ruotsinsuomalaista. Monet asuvat Tukhol</p>
-<p>man ja Mälarinlaakson alueella. Vähemmistökielenä on suomi.</p>
-<p>TORNIONLAAKSOLAISET: Ruotsissa asuu noin 50 000</p>
-<p><em type="bold"> KIELI JA KULTTUURI-IDENTITEETTI</em> </p>
-<p>tornionlaaksolaista,  ennen kaikkea Norrbottenissa. Heidän vähemmistökieltään kutsutaan meänkieleksi.</p>
-<p>ROMANIT::Ruotsissa asuu kaikissa maan osissa</p>
-<p>Kansallisten vähemmistöjen kieliä ja kulttuureita tulee suojella ja edistää. Kansallisiin vähemmistöihin kuuluvilla henkilöillä  on oltava mahdollisuus omaksua ja käyttää omaa äidinkieltään sekä kehittää omaa kulttuuri-identiteettiään. Kansallisten vähemmistökielten tulee olla eläviä kieliä Ruotsissa.</p>
-<p>Hallintoviranomaisten on annettava kansallisille vähemmistöille mahdollisuus vaikuttaa  heitä koskeviin kysymyksiin ja neuvoteltava</p>
-<p>50 000–100 000 romania. Heidän vähemmistökiel-enään  on romanin eri varieteetteja.</p>
-<p>JUUTALAISET:<em type="bold"> </em>Ruotsissa asuu 20 000–25 000 juutala</p>
-<p>ista. Heidän vähemmistökielensä on jiddiš.</p>
-<p><em type="bold">TIEDOTUSLEHTISEN OVAT LAATINEET</em> </p>
-<p><em type="bold">NORJA</em> </p>
-<p><em type="bold">RUOTSI</em> </p>
-<p> Kveeni  Romani  Saame</p>
-<p> Saame  Suomi  Meänkieli  Romani  Jiddiš</p>
-<p><em type="bold">ISO-BRITANNIA</em> Korni </p>
-<p><em type="bold">SUOMI</em> </p>
-<p> Romani  Venäjä  Saame  Ruotsi  Tataari  Jiddiš  Karjala</p>
-<p><em type="bold">SAKSA</em> </p>
-<p>Iiri  Manksi  Skotti  Gaeli  Ulsterin skotti  Kymri</p>
-<p> Tanska  Alasaksa  Alasorbi  Pohjoisfriisi  Romani  Itäfriisi  Yläsorbi<em type="bold">TANSKA</em> </p>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>501</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="fin"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_finska.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/><parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/><parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Hallituksen vähemmistöpolitiikan tavoitteena </em><em type="bold">on suojella kansallisia vähemmistöjä, vahvis- </em><em type="bold">taa niiden vaikutusmahdollisuuksia ja tukea </em><em type="bold">historiallisia vähemmistökieliä niin, että ne </em><em type="bold">säilyvät elävinä. </em><em type="bold">1 SYRJINTÄ JA SUOJATTOMUUS </em></p>
+<p>Kansallisiin vähemmistöihin kuuluvien henkilöiden syrjintää, suojattomuutta ja epäoikeudenmukaista kohtelua tulee vastustaa. Heillä tulee olla samat mah-dollisuudet osallistua yhteiskunnalliseen elämään kuin muullakin väestöllä. <em type="bold">2 VAIKUTUSMAHDOLLISUUDET JA OSALLISUUS </em></p>
+<p>Kansallisten vähemmistöjen vaikutusmahdollisuuk-sia ja osallisuutta tulee vahvistaa, muun muassa siten, että viranomaiset toimivat yhteistyössä niiden kanssa. Vähemmistöille tulee antaa todelliset vaikutus-mahdollisuudet heitä itseään koskevissa kysymyksissä. <em type="bold">3 KIELI JA KULTTUURI-IDENTITEETTI </em></p>
+<p>Kansallisten vähemmistöjen kieliä ja kulttuureita tulee suojella ja edistää. Kansallisiin vähemmistöi-hin kuuluvilla henkilöillä on oltava mahdollisuus omak-sua ja käyttää omaa äidinkieltään sekä kehittää omaa kulttuuri-identiteettiään. Kansallisten vähemmistökielten tulee olla eläviä kieliä Ruotsissa. <em type="bold">§ </em><em type="bold">3 </em>Hallintoviranomaisten on tarvittaessa sopi-valla tavalla tiedotettava kansallisille vähem-mistöille tämän lain mukaisista oikeuksista. <em type="bold">§ </em><em type="bold">4 </em>Kielilaissa (2009:600) sanotaan, että (lain suo-mennoksessa: yhteiskunnalla) on erityinen vastuu suojella ja edistää kansallisia vähem-mistökieliä. Yhteiskunnan on myös muutoin edistettävä kansallisten vähemmistöjen mahdollisuuksia säilyttää kulttuurinsa Ruotsissa ja kehittää sitä. Lasten kulttuuri-identiteetin kehitystä ja oman vähemmistökielen käyttöä on edistettävä erityisesti. <em type="bold">§ </em><em type="bold">5 </em>Hallintoviranomaisten on annettava kansal-lisille vähemmistöille mahdollisuus vaikuttaa heitä koskeviin kysymyksiin ja neuvoteltava näistä kysymyksistä vähemmistöedustajien kanssa mah-dollisuuksien mukaan. </p>
+<p><em type="bold">Laki kansallisista vähemmistöistä tuli voimaan </em></p>
+<p><em type="bold">Ruotsissa 1.1.2010 . Lain kolme perusturva- </em><em type="bold">pykälää takaavat kansallisille vähemmistöille </em><em type="bold">oikeuden informaatioon, kielen ja kulttuurin </em><em type="bold">suojelemiseen sekä oikeuden osallistumiseen ja </em><em type="bold">vaikuttamiseen. </em><em type="bold">§LAKI TAKAA </em></p>
+<p><em type="bold">OIKEUKSIA </em></p>
+<p><em type="bold">KANSALLISILLE </em></p>
+<p><em type="bold">VÄHEMMISTÖILLE </em><em type="bold">3OSATAVOITETTA </em></p>
+<p><em type="bold">KANSALLISIA </em></p>
+<p><em type="bold">VÄHEMMISTÖJÄ </em></p>
+<p><em type="bold">VARTEN </em><em type="bold">5 RUOTSIN </em></p>
+<p><em type="bold">KANSALLISET </em></p>
+<p><em type="bold">VÄHEMMISTÖT </em></p>
+<p>SAAMELAISET: Ruotsissa asuu 20 000–35 000 saamelaista, jotka puhuvat saamen eri varieteetteja.</p>
+<p>Saamelaiset ovat myös alkuperäiskansa.</p>
+<p>RUOTSINSUOMALAISET: Ruotsissa asuu 450 000–600 000 ruotsinsuomalaista. Monet asuvat Tukhol-man ja Mälarinlaakson alueella. Vähemmistökielenä on suomi.</p>
+<p>TORNIONLAAKSOLAISET: Ruotsissa asuu noin 50 000 tornionlaaksolaista, ennen kaikkea Norrbottenissa.</p>
+<p>Heidän vähemmistökieltään kutsutaan meänkieleksi.</p>
+<p>ROMANIT: Ruotsissa asuu kaikissa maan osissa 50 000–100 000 romania. Heidän vähemmistökiel-enään on romanin eri varieteetteja.</p>
+<p>JUUTALAISET: Ruotsissa asuu 20 000–25 000 juutala-ista. Heidän vähemmistökielensä on jiddiš. </p>
+<p><em type="bold">Ruotsi on aina ollut monikielinen ja -kult- </em><em type="bold">tuurinen. Saamelaiset, suomalaiset, torni- </em><em type="bold">onlaaksolaiset, romanit ja juutalaiset ovat </em><em type="bold">asuneet maassa vuosisatoja. Heidän kielensä </em><em type="bold">ja kulttuurinsa ovat osa Ruotsin yhteiskun- </em><em type="bold">taa ja yhteistä kulttuuriperintöämme. </em></p>
+<p><em type="bold">TIEDOTUSLEHTISEN OVAT LAATINEET </em></p>
+<p>SUOMEKSI/FINSKA</p>
+<p><em type="bold">ESPANJA </em> </p>
+<p>Arabia</p>
+<p>Aragonia</p>
+<p>Aranesia</p>
+<p>Asturia</p>
+<p>Baski</p>
+<p xml:lang="swe">Berberi</p>
+<p>Katalaani</p>
+<p xml:lang="swe">Galego</p>
+<p>Portugali</p>
+<p xml:lang="swe">Valencia</p>
+<p><em type="bold">SAKSA </em> </p>
+<p xml:lang="swe">Tanska</p>
+<p>Alasaksa</p>
+<p xml:lang="swe">Alasorbi</p>
+<p>Pohjoisfriisi</p>
+<p xml:lang="swe">Romani</p>
+<p>Itäfriisi</p>
+<p xml:lang="swe">Yläsorbi</p>
+<p>Ruotsin vähemmistöpoliti kan taustana on Euroopan neuvoston ihmisoikeus- ja vähemmistötyö. Useissa Euroopan maissa on kansal isia vähemmistöjä ja alueel isia kieliä ja vähemmistökieliä.</p>
+<p>Seuraavassa esitel ään muutamia maita ja kieliä.</p>
+<p>Valikoima kieliä Euroopan kartalta</p>
+<p><em type="bold">TANSKA </em> </p>
 <p>Saksa</p>
-<p><em type="bold">UNKARI</em> </p>
-<p> Armenia  Beas  Bulgaria  Kroatia  Saksa  Kreikka  Puola</p>
-<p><em type="bold">ALANKOMAAT</em> </p>
-<p>Friisi  Limburg  Alasaksa  Romani  Jiddiš</p>
-<p> Romania  Romani  Rusiini/Ruteeni  Serbia  Slovakki  Sloveeni  Ukraina</p>
-<p><em type="bold">ROMANIA</em> </p>
-<p><em type="bold">ESPANJA</em> </p>
-<p> Arabia  Aragonia  Aranesia  Asturia  Baski  Berberi  Katalaani  Galego  Portugali  Valencia</p>
-<p> Albania  Armenia  Bulgaria  Kroatia  Tšekki  Saksa  Kreikka  Unkari  Italia  Makedonia  Puola  Romani  Venäjä  Rusiini/Ruteeni  Serbia  Slovakki  Tataari  Turkki  Ukraina  Jiddiš</p>
+<p><em type="bold">ISO-BRITANNIA </em> </p>
+<p>Korni</p>
+<p>Iiri</p>
+<p>Manksi</p>
+<p>Skotti</p>
+<p>Gaeli</p>
+<p>Ulsterin skotti</p>
+<p>Kymri</p>
+<p><em type="bold">UNKARI </em> </p>
+<p>Armenia</p>
+<p>Beas</p>
+<p xml:lang="swe">Bulgaria</p>
+<p>Kroatia</p>
+<p>Saksa</p>
+<p>Kreikka</p>
+<p>Puola</p>
+<p>LÄ</p>
+<p>E: Database for the European Charter f or R egional or Minor ity Languages, http://languagecharter.coe.int/index.h tm on koottu Euroopan Neuvost on ja Ministry for F oreig n A ffairs of Hungary tuella.</p>
+<p><em type="bold">ALANKOMAAT </em> </p>
+<p>Friisi</p>
+<p xml:lang="swe">Limburg</p>
+<p>Alasaksa</p>
+<p xml:lang="swe">Romani </p>
+<p>Jiddiš</p>
+<p><em type="bold">NORJA </em> </p>
+<p>Kveeni</p>
+<p xml:lang="swe">Romani</p>
+<p>Saame</p>
+<p><em type="bold">RUOTSI </em> </p>
+<p>Saame</p>
+<p>Suomi</p>
+<p>Meänkieli</p>
+<p xml:lang="swe">Romani</p>
+<p>Jiddiš</p>
+<p>Romania</p>
+<p xml:lang="swe">Romani</p>
+<p>Rusiini/Ruteeni</p>
+<p>Serbia</p>
+<p>Slovakki</p>
+<p>Sloveeni</p>
+<p xml:lang="swe">Ukraina</p>
+<p><em type="bold">ROMANIA </em> </p>
+<p>Albania</p>
+<p>Armenia</p>
+<p xml:lang="swe">Bulgaria</p>
+<p>Kroatia</p>
+<p>Tšekki</p>
+<p>Saksa</p>
+<p>Kreikka</p>
+<p>Unkari</p>
+<p>Italia</p>
+<p>Makedonia</p>
+<p>Puola</p>
+<p xml:lang="swe">Romani</p>
+<p>Venäjä</p>
+<p>Rusiini/Ruteeni</p>
+<p>Serbia</p>
+<p>Slovakki</p>
+<p>Tataari</p>
+<p>Turkki</p>
+<p>Ukraina</p>
+<p>Jiddiš</p>
+<p><em type="bold">SUOMI </em> </p>
+<p xml:lang="swe">Romani</p>
+<p>Venäjä</p>
+<p>Saame</p>
+<p>Ruotsi</p>
+<p>Tataari</p>
+<p>Jiddiš</p>
+<p>Karjala</p>
 </body></document>
