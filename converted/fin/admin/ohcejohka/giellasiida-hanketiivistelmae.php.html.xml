@@ -1,8 +1,8 @@
-<document xml:lang="fin" id="no_id"><header><title>Utsjoen kunta - Giellasiida-Hanketiivistelmä</title><genre code="admin"/><author><unknown/></author><wordcount>1104</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/giellasiida-hanketiivistelmae.php</origFileName><parallel_text xml:lang="sme" location="giellasiida-proseaktacoahkkaigeassu.php_lang=sm.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">UTSJOEN KUNTA</p>
-<p xml:lang="vep">PL 41</p>
-<p xml:lang="est">99981 UTSJOKI</p>
+<document xml:lang="fin" id="no_id"><header><title>Utsjoen kunta - Giellasiida-Hanketiivistelmä</title><genre code="admin"/><author><unknown/></author><wordcount>1104</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/giellasiida-hanketiivistelmae.php</origFileName><parallel_text xml:lang="sme" location="giellasiida-proseaktacoahkkaigeassu.php_lang=sm.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="vep">UTSJOEN KUNTA</p>
+<p xml:lang="fra">PL 41</p>
+<p xml:lang="hbs">99981 UTSJOKI</p>
 <p xml:lang="smn">Puhelin 040-188 6111</p>
-<p xml:lang="kal">Fax 016-677 339</p>
+<p xml:lang="som">Fax 016-677 339</p>
 <p>Kunnanvirasto ja puhelinvaihde avoinna 9.00 - 15.00</p>
 <list><p type="listitem" xml:lang="smn">Etusivu</p>
 <p type="listitem">Yhteystiedot <list><p type="listitem">Osoite- laskutustiedot</p>
@@ -135,7 +135,7 @@
 </list></p>
 </list></p>
 <p type="listitem">Sosiaali- ja terveystoimi <list><p type="listitem">Henkinen ensiapu akuuttikriiseissä</p>
-<p type="listitem" xml:lang="sma">Jonotiedote</p>
+<p type="listitem" xml:lang="spa">Jonotiedote</p>
 <p type="listitem">Yhteystiedot</p>
 <p type="listitem">Lasten ja perheiden palvelut <list><p type="listitem">Lastenvalvojan palvelut</p>
 <p type="listitem">Isyyden selvittäminen</p>
@@ -153,7 +153,7 @@
 </list></p>
 <p type="listitem">Toimeentulotuki</p>
 <p type="listitem">Terveydenhoito ja kotisairaanhoito</p>
-<p type="listitem">Vuodeosasto</p>
+<p type="listitem" xml:lang="spa">Vuodeosasto</p>
 <p type="listitem">Sairaanhoito <list><p type="listitem" xml:lang="fkv">Tiedotteet</p>
 <p type="listitem" xml:lang="rmy-rka">Laboratorio</p>
 <p type="listitem" xml:lang="deu">Röntgen</p>

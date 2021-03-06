@@ -1,4 +1,4 @@
-<document xml:lang="fin" id="no_id"><header><title>Kasvikset ovat superruokaa</title><genre code="facta"/><author><unknown/></author><wordcount>530</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/kasvikset-ovat-superruokaa/</origFileName><parallel_text xml:lang="sme" location="sattut_leat_superborramus.html"/><parallel_text xml:lang="swe" location="gronsaker_ar_supermat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<document xml:lang="fin" id="no_id"><header><title>Kasvikset ovat superruokaa</title><genre code="facta"/><author><unknown/></author><wordcount>530</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/kasvikset-ovat-superruokaa/</origFileName><parallel_text xml:lang="sme" location="sattut_leat_superborramus.html"/><parallel_text xml:lang="swe" location="gronsaker_ar_supermat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Siirry sisältöön</p>
 <p xml:lang="fkv">RuokaTutka</p>
 <list><p type="listitem">suomi</p>
 <p type="listitem" xml:lang="swe">svenska</p>
@@ -16,7 +16,7 @@
 <p type="listitem">Makukoulu – aistit käyttöön</p>
 </list></p>
 <p type="listitem" xml:lang="fkv">Luomuruoka maistuu</p>
-<p type="listitem" xml:lang="eng">OpeTube</p>
+<p type="listitem" xml:lang="kmr">OpeTube</p>
 </list></p>
 <p type="listitem">Tietoa hankkeesta <list><p type="listitem">Lapset ja nuoret ruokatutkijoina</p>
 <p type="listitem">RuokaTutka-materiaalien pedagogiset lähtökohdat</p>

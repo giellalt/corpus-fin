@@ -1,4 +1,4 @@
-<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>530</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/terveys#.WR67ysYvHNQ</origFileName><parallel_text xml:lang="eng" location="healt-care_.wr68hcyvhnq.html"/><parallel_text xml:lang="sme" location="dearvvasvuohta_.wr67xsyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Terveys - Aluehallintovirasto</p>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>530</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/terveys#.WR67ysYvHNQ</origFileName><parallel_text xml:lang="eng" location="healt-care_.wr68hcyvhnq.html"/><parallel_text xml:lang="sme" location="dearvvasvuohta_.wr67xsyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Terveys - Aluehallintovirasto</p>
 <p>› Graafinen versio</p>
 <p xml:lang="fkv">Henkilöhaku</p>
 <list><p type="listitem">Terveyspalvelujen ohjaus ja valvonta</p>
@@ -12,7 +12,7 @@
 <p type="listitem">Lähisuhde- ja perheväkivallan ehkäisytyö</p>
 <p type="listitem">Ehkäisevä päihdetyö</p>
 <p type="listitem">Vankiterveydenhuollon ja Puolustusvoimien terveydenhuollon ohjaus ja valvonta</p>
-</list><p xml:lang="vep">2013-05-22</p>
+</list><p xml:lang="mrj">2013-05-22</p>
 <p>Aluehallintovirasto (AVI) on terveydenhuollon ja terveyspalvelujen alueellinen lupa- ja valvontaviranomainen. Viraston tavoitteena on laadukkaiden terveyspalvelujen turvaaminen väestölle.</p>
 <p>AVI ohjaa ja valvoo julkista terveydenhuoltoa sekä yksityisten toimijoiden tarjoamia terveydenhuollon palveluja. Virasto tukee kuntasi, kuntayhtymien ja muiden toimijoiden työtä alueesi ihmisten terveyden edistämiseksi. Sieltä saat myös neuvoja, jos saamissasi palveluissa tai niiden laadussa on mielestäsi vakavia puutteita.</p>
 <p>Annettuja tehtäviään hoitaessaan AVI osallistuu terveydenhuollon valtakunnallisten linjausten toimeenpanoon. Viraston toimintaa terveyden saralla ohjaa lainsäädäntö, sosiaali- ja terveysministeriö sekä yhteistyö muiden toimijoiden kuten Valviran ja Terveyden ja hyvinvoinnin laitoksen kanssa.</p>
@@ -20,7 +20,7 @@
 <list><p type="listitem">terveyspalvelujen ohjaus ja valvonta</p>
 <p type="listitem">yksityisten terveyspalvelujen luvat</p>
 <p type="listitem">terveydenhuollon ammattihenkilöiden valvonta</p>
-<p type="listitem">laadunhallinta</p>
+<p type="listitem" xml:lang="som">laadunhallinta</p>
 <p type="listitem" xml:lang="fit">kantelut</p>
 <p type="listitem">terveydenhuollon valtionavustukset ja –korvaukset</p>
 </list><p type="title" xml:lang="fkv">Tiedotteita</p>
@@ -53,16 +53,16 @@
 <p>Tulosta</p>
 <p xml:lang="fit">Jaa</p>
 <p type="title">Oikopolut</p>
-<p xml:lang="vep">2015-09-03</p>
+<p xml:lang="mrj">2015-09-03</p>
 <list><p type="listitem">Asiointi</p>
 <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
 <p type="listitem">Valviran ja aluehallintovirastojen linjauksia</p>
 </list><p type="title">Muualla verkossa</p>
-<p xml:lang="vep">2013-02-12</p>
+<p xml:lang="mrj">2013-02-12</p>
 <list><p type="listitem" xml:lang="vep">STM</p>
 <p type="listitem" xml:lang="sms">THL</p>
 <p type="listitem" xml:lang="vep">Valvira</p>
 </list><p type="title">Lait ja asetukset</p>
-<p xml:lang="vep">2013-07-09</p>
+<p xml:lang="mrj">2013-07-09</p>
 <list><p type="listitem">Terveydenhuoltolaki</p>
 </list></body></document>
