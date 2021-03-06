@@ -1,4 +1,4 @@
-<document xml:lang="fin" id="no_id"><header><title>Kouluruokailu QA</title><genre code="facta"/><author><unknown/></author><wordcount>980</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/kouluruoka/kouluruokailu-qa/</origFileName><parallel_text xml:lang="sme" location="skuvlaboradeapmi_q_a.html"/><parallel_text xml:lang="swe" location="vanliga_fragor_om_skolmaten.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Siirry sisältöön</p>
+<document xml:lang="fin" id="no_id"><header><title>Kouluruokailu QA</title><genre code="facta"/><author><unknown/></author><wordcount>980</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/kasvattajille/tietoa-ruuasta/kouluruoka/kouluruokailu-qa/</origFileName><parallel_text xml:lang="sme" location="skuvlaboradeapmi_q_a.html"/><parallel_text xml:lang="swe" location="vanliga_fragor_om_skolmaten.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Siirry sisältöön</p>
 <p xml:lang="fkv">RuokaTutka</p>
 <list><p type="listitem">suomi</p>
 <p type="listitem" xml:lang="swe">svenska</p>
@@ -56,7 +56,7 @@
 <p>Kouluruokailuun liittyvissä kysymyksissä kannattaa olla yhteydessä koulun keittiön ruokapalveluista vastaavaan tai kunnan ruokapalvelupäällikköön. Yhteystiedot voivat löytyä esimerkiksi koulun tai kunnan nettisivuilta tai koulun toimintaa esittelevästä esitteestä.</p>
 <p type="title">Voivatko oppilaat ja rehtori/opettajat osallistua kouluruokailun kehittämiseen?</p>
 <p>Kyllä voivat ja se olisi toivottavaakin! Kouluun voi perustaa ravintolatoimikunnan, ruokaraadin tai vastaavan, jos sellainen ei ole koulussa jo toiminnassa. Koko koulu voi kehittää kouluruokailua yhteistyössä, jolloin siitä tulee juuri oman koulun näköistä toimintaa. Samalla pystytään kehittämään kouluruokailuun liittyviä asioita monesta näkökulmasta. Yhteistä toimintaa voisivat olla esimerkiksi osallistuminen teemaviikkojen ja-päivien suunnitteluun ja toteutukseen (esitykset, askartelut), ruokasalin viihtyisyyteen, ruokailuajankohtiin ja ruokailun pituuteen sekä koulun omien ruokailu <span type="quote">”sääntöjen”</span> laatimiseen liittyvät asiat.</p>
-<p type="title" xml:lang="est">LUE LISÄÄ:</p>
+<p type="title" xml:lang="fra">LUE LISÄÄ:</p>
 <p type="title">Kouluruokailu on muutakin kuin ruokaa</p>
 <p type="title">Ruokapöydästä tärkeitä eväitä elämään</p>
 <p type="title">Kouluruokatesti</p>

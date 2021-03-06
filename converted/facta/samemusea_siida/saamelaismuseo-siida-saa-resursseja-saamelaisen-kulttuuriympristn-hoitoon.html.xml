@@ -1,11 +1,11 @@
-<document xml:lang="fin" id="no_id"><header><title>Saamelaismuseo Siida saa resursseja saamelaisen kulttuuriympäristön hoitoon — Siida</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>384</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/saamelaismuseo-siida-saa-resursseja-saamelaisen-kulttuuriympristn-hoitoon</origFileName><parallel_text xml:lang="sme" location="smemusea-siida-oau-resurssaid-smi-kulturbirrasa-dikumii.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<document xml:lang="fin" id="no_id"><header><title>Saamelaismuseo Siida saa resursseja saamelaisen kulttuuriympäristön hoitoon — Siida</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>384</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisalto/tiedotteet/saamelaismuseo-siida-saa-resursseja-saamelaisen-kulttuuriympristn-hoitoon</origFileName><parallel_text xml:lang="sme" location="smemusea-siida-oau-resurssaid-smi-kulturbirrasa-dikumii.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
 <p type="listitem" xml:lang="eng">in English |</p>
 <p type="listitem">suomeksi |</p>
 <p type="listitem" xml:lang="rus">Русский</p>
 </list><p xml:lang="nob">Hae</p>
 <p>Laajennettu haku...</p>
 <p>Siirry sisältöön. | Siirry navigointiin</p>
-<p type="title" xml:lang="eng">Osiot</p>
+<p type="title" xml:lang="fra">Osiot</p>
 <list><p type="listitem" xml:lang="smn">Pääsivu |</p>
 <p type="listitem">Kokoelmat |</p>
 <p type="listitem">Luontopalvelut |</p>
@@ -16,12 +16,12 @@
 </list><list><p type="listitem">Sivukartta |</p>
 <p type="listitem">Ota yhteyttä |</p>
 <p type="listitem" xml:lang="smj">RSS |</p>
-<p type="listitem">Uutiskirje</p>
+<p type="listitem" xml:lang="hbs">Uutiskirje</p>
 </list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
 <p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
 <p xml:lang="eng">Info</p>
 <p xml:lang="smn">Pääsivu</p>
-<p xml:lang="vep">/</p>
+<p xml:lang="mrj">/</p>
 <p xml:lang="fkv">Tiedotteet /</p>
 <p>Saamelaismuseo Siida saa resursseja saamelaisen kulttuuriympäristön hoitoon</p>
 <p type="title">Saamelaismuseo Siida saa resursseja saamelaisen kulttuuriympäristön hoitoon</p>
@@ -57,7 +57,7 @@
 <p>&gt; opastukset</p>
 <p>&gt; Siidan arkkitehtuuri</p>
 <p>kalenteri</p>
-<p xml:lang="vep">|</p>
+<p xml:lang="mrj">|</p>
 <p>mediakuvapankki</p>
 <p xml:lang="sme">matkailuinfo</p>
 <p xml:lang="sme">Siida</p>
@@ -65,7 +65,7 @@
 <p>Saamelaismuseon blogi</p>
 <p>medialle | matkanjärjestäjille</p>
 <p xml:lang="sme">Copyright Siida 2010</p>
-<p xml:lang="vep">|</p>
+<p xml:lang="mrj">|</p>
 <p xml:lang="est">Updated 10.6.2010</p>
 <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
 </body></document>

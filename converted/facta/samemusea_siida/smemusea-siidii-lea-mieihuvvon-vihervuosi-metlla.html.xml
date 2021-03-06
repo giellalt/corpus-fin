@@ -1,4 +1,4 @@
-<document xml:lang="fin" id="no_id"><header><title>Sámemusea Siidii lea mieđihuvvon Vihervuosi metálla — Siida</title><genre code="facta"/><author><unknown/></author><wordcount>1334</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisdoallu/diedahusat/smemusea-siidii-lea-mieihuvvon-vihervuosi-metlla</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<document xml:lang="fin" id="no_id"><header><title>Sámemusea Siidii lea mieđihuvvon Vihervuosi metálla — Siida</title><genre code="facta"/><author><unknown/></author><wordcount>1334</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/sisdoallu/diedahusat/smemusea-siidii-lea-mieihuvvon-vihervuosi-metlla</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><list><p type="listitem" xml:lang="sme">sámegillii |</p>
 <p type="listitem" xml:lang="eng">in English |</p>
 <p type="listitem">suomeksi |</p>
 <p type="listitem" xml:lang="rus">Русский</p>
@@ -9,7 +9,7 @@
 <list><p type="listitem" xml:lang="sme">Ovdasiidu |</p>
 <p type="listitem" xml:lang="sme">Čoakkáldagat |</p>
 <p type="listitem" xml:lang="sme">Luonddubálvalusat |</p>
-<p type="listitem" xml:lang="smn">Restoráŋŋa |</p>
+<p type="listitem" xml:lang="spa">Restoráŋŋa |</p>
 <p type="listitem" xml:lang="sme">Čoahkkimat |</p>
 <p type="listitem" xml:lang="deu">DIEĐÁHUSAT |</p>
 <p type="listitem" xml:lang="smj">árbevierrodállu</p>
@@ -21,7 +21,7 @@
 <p xml:lang="sme">DAVVI LUONDU  Luondduguovddáš</p>
 <p xml:lang="eng">Info</p>
 <p xml:lang="sme">Ovdasiidu</p>
-<p xml:lang="vep">/</p>
+<p xml:lang="mrj">/</p>
 <p xml:lang="deu">DIEĐÁHUSAT /</p>
 <p xml:lang="sme">Sámemusea Siidii lea mieđihuvvon Vihervuosi metálla</p>
 <p type="title" xml:lang="sme">Sámemusea Siidii lea mieđihuvvon Vihervuosi metálla</p>
@@ -38,7 +38,7 @@
 <p xml:lang="sme">Päivi Magga, dutki Sámemusea Siida, tel. +358(0) 40 180 1501</p>
 <p xml:lang="sme">Sari Valkonen, museahoavda, Sámemusea Siida, tel. +358(0) 767 1052</p>
 <p xml:lang="sme">Sámi musea, Siida, Inarintie 46, FI-99870 Anár, tel. +358 (0)400 898 212, siida@samimuseum.fi , www.siida.fi</p>
-<p type="title" xml:lang="eng">Document Actions</p>
+<p type="title" xml:lang="fra">Document Actions</p>
 <list><p type="listitem" xml:lang="sme">Sádde dán</p>
 <p type="listitem" xml:lang="sme">Čálit</p>
 </list><p xml:lang="deu">SISDOALLU</p>
@@ -206,7 +206,7 @@
 <p xml:lang="sme">&gt; čájáhusoahpisteamit</p>
 <p xml:lang="sme">&gt; Siidda arkitektuvra</p>
 <p xml:lang="rmu">kaleanddar</p>
-<p xml:lang="vep">|</p>
+<p xml:lang="mrj">|</p>
 <p xml:lang="sme">mediagovat</p>
 <p xml:lang="fkv">turismainfo</p>
 <p xml:lang="sme">Siida</p>
@@ -214,7 +214,7 @@
 <p xml:lang="sme">Sámemusea blogga</p>
 <p xml:lang="sme">mediai | mátkkilágideaddjiide</p>
 <p xml:lang="sme">Copyright Siida 2010</p>
-<p xml:lang="vep">|</p>
+<p xml:lang="mrj">|</p>
 <p xml:lang="est">Updated 10.6.2010</p>
 <p xml:lang="sme">Raba álgosturrodaga ođđa lássaráiggis</p>
 </body></document>
