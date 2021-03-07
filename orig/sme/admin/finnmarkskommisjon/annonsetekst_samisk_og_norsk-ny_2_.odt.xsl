@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'/Users/aili/Desktop/Brevtekst samisk og norsk-ny (2).docx'"/>
+    <xsl:variable name="filename" select="'/Users/aili/Desktop/Annonsetekst samisk og norsk-ny (2).docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -162,13 +162,13 @@
         <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
-        <parallel_text xml:lang="fkv" location="brevtekst_samisk_og_norsk-ny_2_.docx"/>
+        <parallel_text xml:lang="fkv" location="annonsetekst_samisk_og_norsk-ny_2_.odt"/>
         <parallel_text xml:lang="ger" location=""/>
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="brevtekst_samisk_og_norsk-ny_2_.docx"/>
+        <parallel_text xml:lang="nob" location="annonsetekst_samisk_og_norsk-ny_2_.odt"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>

@@ -164,7 +164,7 @@
         <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
-        <parallel_text xml:lang="fkv" location="brevtekst_samisk_og_norsk-ny_2_.docx"/>
+        <parallel_text xml:lang="fkv" location="brevtekst_samisk_og_norsk-ny_2_.odt"/>
         <parallel_text xml:lang="ger" location=""/>
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
@@ -173,7 +173,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="brevtekst_samisk_og_norsk-ny_2_.docx"/>
+        <parallel_text xml:lang="sme" location="brevtekst_samisk_og_norsk-ny_2_.odt"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
