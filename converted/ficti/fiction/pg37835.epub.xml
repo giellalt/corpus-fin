@@ -1,0 +1,1407 @@
+<document xml:lang="fin" id="no_id"><header><title/><genre code="ficti"/><author><unknown/></author><wordcount>23927</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>pg37835.epub</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Project Gutenberg's Kuningas Richard Kolmas, by William Shakespeare</p>
+<p xml:lang="eng">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org</p>
+<p xml:lang="est">Title: Kuningas Richard Kolmas</p>
+<p xml:lang="nob">Author: William Shakespeare</p>
+<p>Translator: Paavo Cajander</p>
+<p xml:lang="eng">Release Date: October 24, 2011 [EBook #37835]</p>
+<p xml:lang="eng">Language: Finnish</p>
+<p xml:lang="eng">*** START OF THIS PROJECT GUTENBERG EBOOK KUNINGAS RICHARD KOLMAS ***</p>
+<p>Produced by Tapio Riikonen</p>
+<p type="title" xml:lang="deu">KUNINGAS RICHARD KOLMAS</p>
+<p xml:lang="vep">Kirj.</p>
+<p xml:lang="nob">William Shakespeare</p>
+<p>Paavo Cajanderin suomennos ilmestyi v. 1897.</p>
+<p>Näytelmän henkilöt:</p>
+<p>Kuningas EDWARD NELJÄS. EDWARD, Walesin prinssi, | kuninkaan pojat. RICHARD, Yorkin herttua, | YRJÖ, Clarencen herttua, | kuninkaan veljet. RICHARD, Glosterin herttua, | Clarencen nuori poika. HENRIK, Richmondin kreivi. Kardinaali BOURCHIER, Canterburyn arkkipiispa. Yorkin arkkipiispa. Elyn piispa. BUCKINGHAMin herttua. NORFOLKin herttua. Kreivi SURREY, hänen poikansa. Kreivi RIVERS, kuningas Edwardin puolison veli. Markiisi DORSET, | kuningattaren pojat. Lord GREY. | Kreivi OXFORD. Lord HASTINGS. Lord STANLEY. Lord LOVEL. Sir THOMAS VAUGHAN. Sir RICHARD RATCLIFF. Sir WILLIAM CATESBY. Sir JAMES TYRREL. Sir JAMES BLOUNT. Sir WALTER HERBERT. Sir ROBERT BRAKENBURY, Towerin päällikkö. CHRISTOPHER URSWICK, pappi. Toinen pappi. Lontoon määri. Wiltshiren sheriffi. ELISABETH, kuningas Edward neljännen puoliso. MARGAREETA, kuningas Henrik kuudennen leski. YORKin HERTTUATAR, kuningas Edward neljännen äiti. LADY ANNA, Edwardin, Walesin prinssin leski. Clarencen nuori tytär. Loordeja ja seuralaisia; kaksi ylimystä, airut, kirjuri, porvareita, murhamiehiä, sanansaattajia, haamuja, sotureita y.m.</p>
+<p>Tapaus Englannissa.</p>
+<p type="title" xml:lang="vep">ENSIMMÄINEN NÄYTÖS.</p>
+<p>Ensimmäinen kohtaus.</p>
+<p xml:lang="olo">Lontoo. Katu.</p>
+<p>(Gloster tulee.)</p>
+<p>GLOSTER. Nyt nurpeuden talven meillä muutti Aurinko Yorkin kesäks ihanaksi; Ja pilvet, huonettamme uhkaavaiset, Syvälle meren helmaan painui kaikki. Nyt kiertää voiton seppel' otsaamme, Aseiden pirstat voitoksina riippuu, Kolea häikkä ilojuhliin vaihtuu Ja jylhä marssi vienoon tanssisoittoon. Vihainen vaino otsans' oikoo rypyt Eik' enää, rautaratsun selkään nousten, Pelota hengilt' ärjää vihamiestä, Vaan luutun suloviettelystä noutain Tepittää sieväst' impikammioon. Mut minä, — jot' ei leikintekoon luotu Eik' ilvehtimään mielaan peilin kanssa, — Tekoa raakaa, vailla lemmen hurmaa, Mill' irtaan immen eessä imarrella, — Niin, minä, viekkaan luonnon vikamuoto, Somuuden sopusuhtaa vaille jäänyt, Kuvaton, keskoinen ja ennen aikaa Puol'eräisenä henki-ilmaan tuotu, Niin muodoton ja rampa, että koirat Mua haukkuvat, kun niiden ohi liikkaan, — Minä en tähän löyhään rauhan aikaan Muull' aikaani voi huventaa kuin sillä, Ett' auringossa varjoani katson Ja omaa jolsuuttani julki laulan. Sen vuoks, kun rakastajana en saata Sukoilla tätä sulosuista aikaa, Ruveta konnaks olen päättänyt Ja ajan turhan ilon vihaajaksi. Viritin paulat, kudoin julmaa juonta, Unilla, kirjeill', ennustuksilla Kuningasta ja Clarence veljeäni Veriseen vihaan yllyttääkseni; Ja jos on Edward kuningas niin suora Kuin minä luihu, kavala ja viekas, Niin vielä tänään Clarence tyrmään joutuu. On, näet, ennustettu, että Y Edwardin suvulle on surman syy. Sukella sieluun, aatos: Clarence tulee. —</p>
+<p>(Clarence, vartijain saattamana, ja Brakenbury tulevat.)</p>
+<p>Kah! Hyvää päivää, veikko! Miksi armoll' On aseellinen vahti?</p>
+<p>CLARENCE. Majesteetti, Turvaani huolehtien, tämän seuran On pannut saattamaan mua Toweriin.</p>
+<p>GLOSTER. Ja mistä syystä?</p>
+<p>CLARENCE. Nimeni on Yrjö.</p>
+<p>GLOSTER. Ah, prinssi hyvä, tuo ei teidän syynne; Kumminne olis vangita hän voinut. Oi, varmaan majesteetilla on tuuma Uudesti kastaa teidät Towerissa. Mut mistä tämä, Clarence? Saanko tietää?</p>
+<p>CLARENCE. Miks' ei, jos itse tiedän: viel' en tiedä Niin mitään, totta vie; mut sen vaan kuulin, Ett' uniin uskoo hän ja ennustuksiin; Pois aapistost' Y-kirjaimen hän tahtoo: Povarin sanoo ennustaneen, että hänen heimoltansa vallan kettäää; Ja kun mun nimen' Yrjö alkaa Y'llä, Hän mua siitä luulee, paha kyllä. Tää, kuulemma, ja tämänlaiset oikut Hänt' yllyttivät vangitsemaan minut.</p>
+<p>GLOSTER. Noin käy, kun naiset hallitsevat miestä! Ei, kuningas sua Toweriin ei pannut, Ei, Clarence, puolisonsa, Lady Grey, Se häntä tähän turkkatuumaan työnsi. Hän, kuten tiedät, ja Antony Woodville, Tuo kunnon miesi, hänen veljyensä, Toweriin Hastingsinkin toimittivat, Jost' on hän vasta tänään irti päässyt. Meit' uhkaa vaara, Clarence, uhkaa vaara.</p>
+<p>CLARENCE. Niin, jumaliste, kaikkia se uhkaa, Pait kuningattaremme heimokuntaa Ja yötyreitä noita, jotka käyvät Kuninkaan väliä ja mistress Shoren. Kai kuulit, että täytyi Hastingsinkin Nöyrästi hältä vapauttaan kärttää.</p>
+<p>GLOSTER. Niin, kärttämällä tuota jumalaa Kamariherra vapautensa saa. Niin, mutta kuule: luulen, ett' on paras, Kuninkaan lemmiss' yhä ollaksemme, Ruveta Jaanan liveriin ja leipään. Hän ja tuo luulevainen leskikulu, He, aateliksi tultuaan, nyt ovat Jykevät kielikellot valtiossa.</p>
+<p>BRAKENBURY. Anteeksi, hyvät prinssit; mutta jyrkkään Kuningas kieltänyt on, ett'ei kukaan, Mink' ollee arvoinenkin, kahdenkesken Saa puhutella hänen veljeänsä.</p>
+<p>GLOSTER. Vai niin, lord Brakenbury! Jos suvaitsette, Niin kuulla saatte kaikki puhelumme; Maanpetost' ei se koske, ystäväni: Sanoimme vaan, ett' älykäs ja hurskas Kuningas on, ja kunnon kuningatar Ikäinen, kaunis, eikä luulevainen, Ja jalat Shoren vaimoll' ett' on kauniit Ja suu kuin kirsikka ja sirkut silmät Ja mitä makein kieli; lisäks, ett' on Kuningattaren suku aateloitu. Mit' arvelette, herra? Eikö totta?</p>
+<p>BRAKENBURY. Tuon kanss' ei mulla mitään tekemistä.</p>
+<p>GLOSTER. Ei Shoren vaimon kanssa tekemistä? Niin, keill' on hänen kanssaan tekemistä, Sen tehkööt salaa kaikki, paitse yksi.</p>
+<p>BRAKENBURY. Ja ken se yksi?</p>
+<p xml:lang="fkv">GLOSTER. Vaimon mies, sa hölmö! Mua solmiako tahdot?</p>
+<p>BRAKENBURY. Prinssi hyvä, Rukoilen anteeksi ja pyydän: älkää Enempää puhutelko herttuaa.</p>
+<p>CLARENCE. Sa tehtäväsi teet; sua tottelemme.</p>
+<p>GLOSTER. Kuningattaren hylkiminä meidän Totella täytyy. Jää hyvästi, veikko! Kuninkaan luokse käyn; mit' ikään mulle Toimeksi antanet, — niin, käske vaikka Edwardin leskeä mun siskotella, — Teen kaikki sinut vapauttaakseni. Mut tämä veljeyden syvä loukka Mua koskee syvemmin kuin aavistatkaan.</p>
+<p xml:lang="fkv">CLARENCE. Niin, meit' ei kumpaakaan se miellyttäne.</p>
+<p>GLOSTER. Sun vankeuttasi ei kauan kestä; Sun pelastan tai itse sijaas astun. Siis mieltäs malta.</p>
+<p xml:lang="fkv">CLARENCE. Täytyy. Hyvästi!</p>
+<p>(Clarence, Brakenbury ja vartijat poistuvat.)</p>
+<p>GLOSTER. Niin, mene sinne, mist' et palaa koskaan, Typerä, tuhma Clarence! — Niin sua säälin, Ett' oiti sielus taivaaseen ma laitan, Jos taivas lahjan meidän kädest' ottaa. Ken tuossa? Äsken vapautettu Hastings?</p>
+<p>(Hastings tulee.)</p>
+<p>HASTINGS. Hupaista huoment', armollinen herra!</p>
+<p>GLOSTER. Kamariherra hyvä, samaa teille. No, tervetullut taaskin taivasalle. Mut miltä loordin tuntui tyrmäss' olla?</p>
+<p>HASTINGS. Pitäähän vangill' olla kärsimystä; Mut kyllä kerran tiedän kiittää niitä, Jotk' ovat syypäät olleet vankeuteeni.</p>
+<p>GLOSTER. Tietysti, tietysti; ja samoin Clarence; Nuo teidän vainoojanne myös on hänen Ja hälle saman tehneet, minkä teille.</p>
+<p>HASTINGS. Voi sentään, että kotka kytketään, Kun haukat saa ja sääsket mielin ryöstää!</p>
+<p>GLOSTER. Mit' uutta kuuluu ulkoa?</p>
+<p>HASTINGS. Niin pahaa Ei ulkoa kuin täältä linnasta: Kuningas sairas, heikko on ja synkkä; Pahinta pelkäävät jo lääkäritkin.</p>
+<p>GLOSTER. Ikävä tieto, santta Paavali! Oo, hurjasti hän elänyt on kauan Ja vallaspersoonaansa kulutellut; Sydäntä särkee, kun sit' aatteleepi, Hän onko vuoteen omana?</p>
+<p>HASTINGS. On aivan.</p>
+<p>GLOSTER. Edellä menkää; minä tulen heti. (Hastings menee.) Ei elää voi hän, ei saa kuolla ennen Kuin Yrjö taivaaseen on passin saanut. Nyt käyn ja Clarenceen hänt' ärsytän Valeilla, joita kuvaan aimo syillä; Ja jos vaan tarkka tuumani ei petä, Niin Clarence ei näe huomispäivää. Sitten Jumala Edwardin saa armoons' ottaa, Ja mulle mailman telmäkentäks suoda. Warwickin kuopustyttären ma nain; Hält' isän tosin surmasin ja miehen, Mut paras keino lutkaa lohduttaa On isäks ruveta ja mieheks hälle. Sen teenkin, en niin paljo rakkaudesta, Kuin muiden salatarkoitusten tähden, Joit' aion tällä naimisella voittaa. Mut hevosetta lähden markkinoille: Viel' elää Clarence, Edward kuninkoipi; Kun poiss' on nuo, niin laskun tehdä voipi,</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>Toinen kohtaus.</p>
+<p>Lontoo. Toinen katu.</p>
+<p>(Kuningas Henrik kuudennen ruumista kannetaan avonaisessa arkussa; ylimyksiä vartioväkenä, tapparakeihäät kädessä; Lady Anna surupuvussa.)</p>
+<p>ANNA. Alas, alas kunniakas taakkanne, — Jos kunnian voi panna ruumisarkkuun — Ett' itkeä ma saan ja valitella Tuon hurskaan Lancasterin äkkisurmaa. — Jääkylmä hahmo pyhän kuninkaan! Sa, vaalas tuhka Lancasterin heimon! Kuninkaan veren tähde veretön! Mun salli esiin kutsua sun hahmos, Ett' Anna raukan kuulet valitukset, Edwardin, poikas lesken, poikas, jonka Se käsi tappoi, joka nuo löi haavat. Kah, noihin ikkunoihin, joista ulos Elosi lähti, voidett' avutonta Nyt poloisista silmistäni valaan: — Kirottu käsi, joka nuo tek' aukot! Kirottu sydänkin noin sydämmetön! Kirottu veri, joka veres laski! Viel' olkoon julmempi sen kurjan osa, Ken surmas kautta meidät kurjiks saattoi, Kuin mitä lukin, kyyn tai rupikonnan Tai minkä myrkkylieron osaks soisin! Jos lapsen saa hän, keskoinen se tulkoon Ja epäsikiö ja rujoluoma, Jok' inhottavall' epämuodollaan Toivoisan äitinsäkin säikäyttää! Isältään periköön se ilkeyden! Ja jos se vaimon saa, niin tämä tulkoon Polommaks vielä hänen kuoltuaan Kuin minä nuoren mieheni ja sinun! — Nyt Chertseyyn pyhä taakka tää; sen sinne Paavalin kirkosta nyt hautaan viemme. Kun väsytte, niin huotkaa; sill'aikaa Ma ruumist' itken Henrik kuninkaan.</p>
+<p>(Kantajat nostavat ruumisarkun maasta ja kulkevat eteenpäin.) (Gloster tulee.)</p>
+<p>GLOSTER. Seis, kantajat, ja ruumis maahan pankaa!</p>
+<p>ANNA. Mik' ilkinoita tänne toi tuon lemmon Ehkäämään pyhää rakkauden työtä?</p>
+<p>GLOSTER. No, ruumis maahan, konnat! Ken ei kuule, Ma siitä, santta Paavali, teen ruumiin.</p>
+<p>1. YLIMYS. Pois, arkun tieltä väistykää, mylord.</p>
+<p>GLOSTER. Hävytön koira! Seis, kun minä käsken! Pois rinnoiltani pertuskasi siirrä, Tai, kautta Paavalin, sun maahan paiskaan Ja sinut survon, korska kerjäläinen!</p>
+<p>(Kantajat laskevat arkun maahan.)</p>
+<p>ANNA. Kah! Vapisette kaikki! Pelkäättenkö? Ah! Teit' en moiti, kuolevia teitä: Pirua kuolevaisen silm' ei siedä, — Pois, sinä hirvittävä hornan airut! Vallassas oli vaan tuon kuolleen ruumis, Mut hänen sieluaan et saa; siis, poistu!</p>
+<p>GLOSTER. Sulo pyhimys, noin älä noidu, hurskas!</p>
+<p>ANNA. Ruma perkel, älä häiri, Herran tähden! Täst' onnen maasta helvetin sa teit, Kiroilla, tuskan huudoilla sen täyttäin. Jos ilo sull' on nähdä inhat työsi, Niin tuoss' on teurastustes taidon näyte. — Oi, herrat, nähkääs: Henrik vainaan haavat Suuns' avaa jäykän uuteen veren vuotoon! Punastu, häpee, rujo luodenkanto, Kun läsnäolosi saa kylmät, tyhjät Ja verettömät suonet verestämään: Tekosi luonnoton ja petomainen Tään perin luonnottoman tulvan nostaa. — Jumala, joka loit tän veren, kosta! Maa, mantu, joka joit tän veren, kosta! Murhaajan päähän nuoles iske, taivas! Maa, ratkee, niele hänet elävältä, Kuin veren nielit hyvän kuninkaankin, Tuon hornan palkkalaisen teurastaman!</p>
+<p>GLOSTER. Rakkauden ohjett' ette tunne, rouva: Hyvällä pahaa kosta; sitä siunaa, Ken sua kiroo.</p>
+<p>ANNA. Konna, sin' et tunne Lakia Jumalan etk' ihmisten; Pahinkin peto tuntee säälimystä.</p>
+<p>GLOSTER. Mut minä en, ja siis en ole peto.</p>
+<p>ANNA. Oo, ihme: perkeleetkin puhuu totta!</p>
+<p>GLOSTER. Ihmeempää, että enkelit noin raivoo. — Jumalan ihanainen naiseksi, Suvaitkaa luulluista mun synneistäni Täss' edessänne täysin puhdistaita.</p>
+<p>ANNA. Ruttoinen vihalainen mieheksi, Suvaitse tietyistä sun synneistäsi Mun täysin kirota sua, kirottua.</p>
+<p>GLOSTER. Somempi kuin voi mainitakaan kieli, Suvaitkaa hetki mulle puolustukseen.</p>
+<p>ANNA. Rumempi kuin voi aatellakaan mieli, Sill' itses puolustat, ett' astut hirteen.</p>
+<p xml:lang="fkv">GLOSTER. Mun syyhyn saattais moinen epätoivo.</p>
+<p>ANNA. Mut epätoivo tuo sua puolustaisi; Näin koston ansaitun sa itse saisit, Jok' ansiottomasti muita tapoit.</p>
+<p>GLOSTER. Mutta entä, jos en tappanutkaan heitä?</p>
+<p>ANNA. Niin eläisivät; mutta kuolleit' ovat Ja sinun kauttas, hornan palkkalainen.</p>
+<p>GLOSTER. En miestäs surmannut.</p>
+<p xml:lang="fkv">ANNA. No, siis hän elää,</p>
+<p>GLOSTER. Ei, kuollut on hän: Edward hänet tappoi.</p>
+<p>ANNA. Sen valehtelit omaan päähäs, herja: Sen verenpä sen näki Margareeta Sun murhaveitsestäsi höyryvän, Jonk' oisit hänen rintahansa syössyt, Jos iskua ei torjunut ois veljes.</p>
+<p>GLOSTER. Mua hänen herjakielens' ärrytti, Mun, syyttömän, kun päähän syyn hän syyti.</p>
+<p>ANNA. Sua oma verivimmas ärrytti, Jok' uneksi vaan aina teurastusta. Tapoithan tämän kuninkaan.</p>
+<p>GLOSTER. Sen myönnän.</p>
+<p>ANNA. Vai myönnät, mäyrä? Myöntäköön myös Luoja, Ett' ilkityöstäs kadotukseen joudut! Oi, lempeä hän oli, jalo, hurskas.</p>
+<p>GLOSTER. Siis omiansa taivaan kuninkaalle.</p>
+<p>ANNA. Hän taivaass' on, mut sinne sin' et tule.</p>
+<p>GLOSTER. Mua kiittäköön, kun autoin häntä sinne; Hän sopii sinne paremmin kuin maahan.</p>
+<p>ANNA. Ja sinä sovit parhain helvettiin.</p>
+<p>GLOSTER. Viel' yhteen paikkaan, — saanko sanoa?</p>
+<p xml:lang="fkv">ANNA. Niin, vankityrmään.</p>
+<p>GLOSTER. Teidän makuusuojaan.</p>
+<p>ANNA. Paetkoon rauha sinun makuumailtas!</p>
+<p>GLOSTER. Niin tekee, kunnes makaan teidän luona.</p>
+<p>ANNA. Ma toivon vaan.</p>
+<p>GLOSTER. Ma tiedän sen. — Mut, Anna, — Purevaa tätä sanasutka-kiistaa Kalsompaan äänitapaan vaihtaaksemme — Syy Plantagenetien äkkisurmaan, Niin Henrikin kuin Edwardin, se eikö Lie moitittavampi kuin itse teko?</p>
+<p>ANNA. Sin' olit syy ja kirottu myös teko.</p>
+<p>GLOSTER. Sulonne tähän tekoon oli syynä, Sulonne, joka unessa mua kiusas Käsiksi käymään koko mailman surmaan Vaan hetken ilost' iharinnoillanne.</p>
+<p xml:lang="fkv">ANNA. Jos uskoisin sua, murhamies, niin raastais Sen sulon poskiltani pois nää kynnet.</p>
+<p>GLOSTER. Nää silmät moist' ei sietäis sulon hukkaa; Mun nähteni sit' ette turmeleisi; Siit' elvyn niin kuin mailma auringosta; Mun päiväni se on, mun elämäni.</p>
+<p xml:lang="est">ANNA. Yö päivälles, ja surma elämällesi.</p>
+<p>GLOSTER. Äl' itseäsi kiroo, sulo luomus: Kumpikin olet.</p>
+<p>ANNA. Soisin, että oisin, Niin että sinulle ma kostaa saisin.</p>
+<p>GLOSTER. Olisi mitä luonnottomin teko Hänelle kostaa, joka sua lempii.</p>
+<p>ANNA. Olisi oikea ja viisas teko Hänelle kostaa, joka miehein tappoi.</p>
+<p>GLOSTER. Ken, armas, sulta miehen vei, sen teki Paremman miehen hankkiakseen sulle.</p>
+<p>ANNA. Parempaa miest' ei hengi päällä maan.</p>
+<p>GLOSTER. On mies, ken paremmin kuin hän sua lempii.</p>
+<p xml:lang="vep">ANNA. Ken se?</p>
+<p xml:lang="isl">GLOSTER. Plantagenet.</p>
+<p xml:lang="fkv">ANNA. Se nimi hällä.</p>
+<p>GLOSTER. Niin sama nimi, paremman vaan lainen.</p>
+<p>ANNA. Miss' on hän?</p>
+<p>GLOSTER. Tässä.</p>
+<p>(Anna sylkee häneen.)</p>
+<p>Miksi minuun syljet?</p>
+<p xml:lang="fkv">ANNA. Oo, ett' ois surman myrkkyä se sulle?</p>
+<p>GLOSTER. Noin ihanassa milloin asui myrkky?</p>
+<p>ANNA. Niin, vihatumpaan milloin osui myrkky? Pois, konna! Silmäni sa sokaiset.</p>
+<p>GLOSTER. Sun silmäs, armas, soaissut on minun.</p>
+<p>ANNA. Oo, jospa basiliskeja ne oisi Ja kuoliaaks sun löisivät!</p>
+<p>GLOSTER. Oi, jospa' Niin saisin kuolla kerrassaan; nyt minut Ne elävältä surmaavat. Nuo silmät Kiers' itkun suolaisen mun silmistäni, Lapsekkain kyynelin ne soaisten, Nää silmät, joit' ei kostuttanut sääli. Kun itkivät York isäni ja Edward Rutlandin parkuhuudon kuullessansa, Kun musta Clifford häneen miekkans' iski, Tai uljas isäsi kun lapsen lailla Isäni synkän kuolintarun kertoi Ja kymmenesti suupui nyyhkytykseen, Ett' oli kuulijainkin silmät märjät Kuin lehvät sateessa; ja näissä kauhuiss' Urokas silmän' itkun hellän hylki, Ja mit' ei surut nää siit' irti saaneet, Sen sulos sai; mun soannut on itku. En ystävää, en vihamiestä kärtä, Ei mairesanaa kielenikään tunne, Mut nyt kun sulosi ma palkaks toivon, Niin ylväs sydän kärttää, kieli mairii. (Anna katsoo häntä halveksivasti.) Äl' ivaan moiseen huuliasi säännä. Ne suuteloit' on eikä pilkkaa varten. Jos et voi kostoltasi anteeks suoda, Teräväkärkisen saat tuossa miekan: Se tähän uskolliseen poveen paina, Vapauta sua jumaloiva sielu, Sen kuoliniskulles nyt paljastan ma, Rukoillen polvillani kuolemaa. (Paljastaa rintansa; Anna tavoittaa häntä miekalla.) Äl' esty; Henrik kuninkaan ma tapoin, Vaan sulosi mua siihen houkutteli. No, joudu! Minä Edward prinssin pistin; (Anna tavoittaa häntä miekalla.) Vaan näkösi taivainen mua kiihoitti. (Anna antaa miekan vaipua.) Nyt nosta miekka, taikka minut nosta!</p>
+<p>ANNA. No, nouse, teeskelijä! Surmaas toivon, Mut en sen toimittaja tahdo olla.</p>
+<p>GLOSTER. Mun käske toimittaa se, ja sen täytän.</p>
+<p>ANNA. Sen olen tehnyt.</p>
+<p>GLOSTER. Vihoissasi teit sen. Se sano uudelleen, niin tämä käsi, Mi lemmen tähden lemmen surmas sulta, Nyt surmaa vielä taatummankin lemmen, Näin syypääks sinut tehden kahteen surmaan.</p>
+<p>ANNA. Jos mieles tuntisin ma!</p>
+<p>GLOSTER. Se kielelläni asuu.</p>
+<p>ANNA. Molemmat voivat pettää.</p>
+<p>GLOSTER. Ei silloin mikään taattu.</p>
+<p>ANNA. No, hyvä, tuppeen miekka!</p>
+<p xml:lang="est">GLOSTER. Siis rauhan mulle takaat!</p>
+<p xml:lang="fkv">ANNA. Sen saat sa tietää vasta.</p>
+<p xml:lang="est">GLOSTER. Siis toivoako saanen?</p>
+<p>ANNA. Sen kaikki saavat, toivon.</p>
+<p>GLOSTER. Tää sormus ota multa.</p>
+<p>ANNA. Ken ottaa, viel' ei anna.</p>
+<p>(Panee sormuksen sormeensa.)</p>
+<p>GLOSTER. Niin kuin tää sormus sormeasi kiertää, Poveskin sydän-raukkaseni kietoo! Kumpaakin helli, kumpikin on sinun. Ja jos suot ihastuneen orja-raukan Sun sulokädestäsi armon pyytää, Niin ijäks hänen onnensa sa turvaat.</p>
+<p>ANNA. Mik' on se?</p>
+<p>GLOSTER. Että tämän surun toimen Jätätte hälle, jolla enemmän On syytä suruun, sekä Crosby-placeen Menette oiti; Chertseyn luostariin kun Pyhillä menoill' olen haudannut Tään jalon kuninkaan ja hautansakin Katuman kyynelillä kastellut, Tapaamaan teitä riennän viipymättä. Monesta salasyystä rukoilen nyt: Luvatkaa tämä.</p>
+<p>ANNA. Sydämmestän' aivan. Ja minua se suurest' ilahduttaa, Ett' olette näin katumukseen tullut. — Tressel ja Berkley, mua seuratkaa.</p>
+<p>GLOSTER. Sanokaa jäähyväiset.</p>
+<p>ANNA. Kannattaako? Mut koska mairimaan mua opetitte, Kuvailkaa, että tein jo jäähyväiset.</p>
+<p>(Lady Anna, Tressel ja Berkley menevät.)</p>
+<p>GLOSTER. Edelleen ruumis viekää.</p>
+<p xml:lang="fkv">2. YLIMYS. Chertseyynkö, jalo herra?</p>
+<p>GLOSTER. White-Friarsiin; mua siellä vartokaa. — (Ruumissaatto lähtee.) Näin onko koskaan naista kosittu? Näin onko koskaan naista voitettu? Omata tahdon hänet, mut en kauan. Kuin? Minä, miehens', appens' surmaaja, Näin häneen isken kesken vihan vimmaa, Kirous huulillaan ja silmiss' itku Ja vihan veritodistaja läsnä. Jumala, hänen tuntonsa ja kaikki Mua vastass' on, muut auttajaa ei mulla Kuin perkele ja tekopyhä katse, Ja sentään voitan, — kaikki tyhjää vastaan! Haa! Jo unhottiko uljaan Edward prinssin, Miehensä, jonka vihapäissä tapoin Kuukautta kolme sitten, Tewksburyssä? Sulompaa, lempeämpää ylimystä, Niin luonnon ihan tuhlaamalla luomaa, Nuort', uljast', ylvää, kuninkaallist' aivan Ei avarassa maailmassa toista: Ja sentään katseens' alentaa hän minuun, Jok' armaan tämän kukantaimen taitoin Ja hälle leskivuoteen kolkon laitoin! Minuhun, epämuotoiseen ja nilkkuun, Jok' en niin puolta ole Edwardista! Ropohon panen herttuakuntani, Ett' olen erehtynyt muodostani: Hän näkee, piru vie, mit' en näe itse, Ett' olen sentään ihmeen kaunis mies. Mun täytyy ostaa itselleni peili Ja pitää tusinoittaan räätäleitä, Ruhoni saadakseni sieväks oikein. Kun näin nyt oman suosioni voitin, Niin täytyneehän siitä jotain maksaa. Mut ensin tämän veikon hautaan saatan, Ja sitten tillitellen kullan luokse. Sa armas päivyt, peilin virkaa täytä, Kuvani mulle käydessäni näytä!</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>Kolmas kohtaus.</p>
+<p>Lontoo. Huone hovilinnassa.</p>
+<p xml:lang="est">(Kuningatar Elisabeth, lord Rivers ja lord Grey tulevat.)</p>
+<p>RIVERS. Tyvetkää, rouva; pian majesteetti Takaisin entisen saa terveytensä.</p>
+<p>GREY. Tuo huolenne vaan häntä huonontaa; Siis, Herran tähden, hyvill' olkaa mielin Ja hilpein puhein häntä hauskutelkaa.</p>
+<p>ELISABETH. Jos kuolee hän, niin mikä mua kohtaa?</p>
+<p>GREY. Ei muu kuin moisen miehen tappio.</p>
+<p>ELISABETH. Mut moisen miehen tappio on kaikki.</p>
+<p>GREY. Jos kuolee miehenne, niin lohdutukseks On taivas teille suonut kelpo pojan.</p>
+<p>ELISABETH. Hän nuori on ja, kunnes ikään tulee, On hällä holhoojana Richard Gloster, Jok' ei mua helli eikä ketään teistä.</p>
+<p>RIVERS. Protektoriksi hänkö määrätty?</p>
+<p>ELISABETH. Päätetty, vaikk' ei vielä määrätty; Mut siksi käy, jos kuolee kuninkaamme.</p>
+<p>(Buckingham ja Stanley tulevat.)</p>
+<p>GREY. Kah, tuossa loordit Buckingham ja Stanley.</p>
+<p xml:lang="fkv">BUCKINGHAM. Iloista huoment', armollinen rouva!</p>
+<p>STANLEY. Jumala yhä suokoon ilonpäivää!</p>
+<p>ELISABETH. Kreivinna Richmond, hyvä herra Stanley, Rukoukseenne tuskin sanoo: aamen. Mut, Stanley, vaikka vaimonne hän onkin Ja ei mua rakasta, niin, hyvä loordi, Ma teit' en vihaa hänen ylpeydestään.</p>
+<p>STANLEY. Rukoilen teitä, älkää uskoko Kateiden parjaajien kanteluita; Ja syystäkin jos häntä syytettäisi, Niin heikkouttaan sietäkää, jonk' alku Vaan sairas oikka on eik' ehdon häijyys.</p>
+<p>ELISABETH. Kuninkaan tänään näittekö, lord Stanley?</p>
+<p>STANLEY. Me, Buckinghamin herttua ja minä, Kuninkaan luota tullaan suoraa päätä.</p>
+<p>ELISABETH. Toivetta onko parantumisesta?</p>
+<p>BUCKINGHAM. Parahat toiveet: hilpeä on mieli.</p>
+<p>ELISABETH. Jumalan kiitos! Häntä puhutitte?</p>
+<p>BUCKINGHAM. Kyll', arvo rouva: sovittaa hän soisi Glosterin herttuan ja veljienne Ja näiden sekä kamariherran välin; Pateilleen on hän heidät haastattanut.</p>
+<p>ELISABETH. Jos kaikki hyvin ois! Mut ei, ei koskaan! Alenemass' on onnemme, ma pelkään.</p>
+<p>(Gloster, Hastings Ja Dorset tulevat.)</p>
+<p>GLOSTER. Vääryyttä mulle tehdään, sit' en kärsi. — Keit' on ne, jotka kuninkaalle nurkuu, Ett' olen tyly muka, heit' en lemmi? Se häntä, santta Paavali, ei lemmi, Ken hänen korvans' ahtaa vihaa täyteen. Kun mairia en voi ja mielistellä, Sukoilla, nauraa, mataa, hännystellä Kuin marakatti taikka ranskalainen, Niin olen kohta ilkeä ja häijy. Vihoitta eikö vakaa mies saa elää, Näin joutumatta suoruudestaan pilkaks Imelän, luihun silkkinarrijoukon?</p>
+<p>GREY. Kenelle armonne nyt puhuu?</p>
+<p>GLOSTER. Sulle, Jok' armosta ja kunniast' et tiedä. Sua loukkasinko? Vääryytinkö milloin? Tai sua? — tai sua? — tai ketään joukostanne? Sen vietävät! Kuningas, — jota taivas Paremmin varjelkoon, kuin toivoisitte, — Saa tuskin hengenvuoron rauhass' olla, Niin häntä tyhjin kantein kidutatte.</p>
+<p>ELISABETH. Petytte, veli Gloster; kuningas, Omasta ylhäisestä tahdostansa Eik' armoon-pyrkijöiden yllykkeestä, Varoen sisäist' ehkä kaihelmaanne, Jot' ilmaissut on ulkokäytöksenne Mua, lapsiani, veljiäni kohtaan, On teitä kutsuttanut, tiedustaakseen Vihanne syytä ja sen poistaaksensa.</p>
+<p>GLOSTER. Vihani? Kuin? — Niin tärviöll' on mailma, Ett' öyhkää tiiti, missä arkoo kotka. Kun kaikk' on moukat tulleet aateliksi, Niin moni aatelus saa olla moukka.</p>
+<p>ELISABETH. Niin, tähtäys on selvä, veli Gloster: Teit' äimii mun ja ystäväini nousu. Kies'auta. ett'ei meidän teit' ois tarvis.</p>
+<p>GLOSTER. Mut meidän on, kies'auta, teitä tarvis: Veljemme vankina on teidän syystä, Vihoissa itse olen, ylenkatseess' On aatelisto, viroill' ylhäisillä Niit' äyriäiksi tehdään, jotka tuskin Ol' äyrin väärtit pari päivää sitten.</p>
+<p>ELISABETH. Sen kautta, joka tähän arkaan arvoon Tilasta tyytyvästä minut nosti! En koskaan kuningasta yllytellyt Clarencen herttuata vastaan, jota Päinvastoin aina innokkaasti puolsin. Katalaa vääryyttä te teette mulle, Näin syyttä saattain minut pahaan luuloon.</p>
+<p>GLOSTER. Te kyllä kieltää voitte, että syypää Olitte Hastingsinkin vankeuteen.</p>
+<p>RIVERS. Mylord, sen voi hän, sillä —</p>
+<p>GLOSTER. Vai voi, lord Rivers? Niin, ken sit' ei tiedä? Hän enemmänkin voi kuin tämän kieltää. Teit' auttaa voi hän moneen oiva virkaan Ja sitten kieltää osanottonsa, Sanoa vaan: se ansion on palkka. Mit' ei hän voi? Hän voi — niin, totta, huolla —</p>
+<p>RIVERS. Mitenkä? Huolla?</p>
+<p>GLOSTER. Mitenkä huolla? Huolla kuninkaalle, Somalle kelpo poikamiehelle. Niin hyvää kauppaa mummonne ei tehnyt.</p>
+<p>ELISABETH. Lord Gloster, liiaks sietänyt jo olen Tuot' ivaa katkeraa ja raakaa herjaa. Kuningas, jumaliste, tietää saakoon, Mit' ilkeätä pilkkaa teiltä kärsin! Olisin ennen palkkapiika maalla Kuin ylväs kuningatar näillä ehdoin, — Ivailun, kiusan, herjan hampaiss' aina. Vähä ilo Englannin on valtiaalla.</p>
+<p>(Kuningatar Margareeta ilmestyy näyttämön perälle.)</p>
+<p>MARGAREETA (syrjään). Vähetä senkin vähän suokoon Luoja! Sun arvos, vahas, istuimes on minun.</p>
+<p>GLOSTER. Kuin? Uhkaatteko kantaa kuninkaalle? Se tehkää surkomatta: minkä sanoin, Sen taata tohdin kuninkaankin kuullen, Niin, vaikka Toweriin hän minut pankoon. Puhua täytyy: työni unhoon jäävät.</p>
+<p>MARGAREETA (syrjään). Pois, perkele! Ne liian hyvin muistan! Veit hengen mieheltäni Towerissa Ja poika-pololtani Tewksburyssa.</p>
+<p>GLOSTER. Te ette vielä kuningatar ollut Ja miehenne ei kuningas, kun minä Jo hänen suurten tuumains' olin juhta, Kopeiden vainoojainsa juurittaja Ja ystäväinsä aulis hyvittäjä, Ja jalostuttaakseni hänen vertaan, Omaani vuodatin ma.</p>
+<p>MARGAREETA (syrjään). Niin, ja vielä Jalompaa vertakin kuin sun ja hänen.</p>
+<p>GLOSTER. Mut te ja puolisonne Grey sen aikaa Lancaster-suvun hyväks kapinoitte; — Te, Rivers, myöskin. — Miehennehän kaatui Saint Albansissa Margareetan väessä? Mun suokaa muistuttaa, jos unhotitte, Mit' ennen olitte ja mitä nyt, Ja mitä minä olin ja nyt olen.</p>
+<p>MARGAREETA (syrjään). Verinen konna, ja se olet yhä.</p>
+<p>GLOSTER. Sanansa Clarence-raukka söi ja petti Isänsä Warwickin, — Kies' anteeks suokoon! —</p>
+<p>MARGAREETA (syrjään). Jumala kostakoon!</p>
+<p>GLOSTER. Edwardin hyväks kruunust' otellakseen; Mut kiikkaan joutui kiihkastaan. Oi, mulla Jos sydän kivest' ois kuin Edwardilla, Tai hällä hellä, säälivä kuin mulla! Tään mailman lapseks olen liian houkka.</p>
+<p>MARGAREETA (syrjään). Siis mene helvettiin ja jätä mailma, Sa kakodaimon! Siellä sun on valtas.</p>
+<p>RIVERS. Lord Gloster, siihen levottomaan aikaan, Jost' alun vihaamme te juonnatte, Herraamme kuningasta seurasimme; Myös teitä kuninkaana seuraisimme.</p>
+<p>GLOSTER. Kuningas minä? Ennen kauppasaksa! Se aatoskin se minust' etääll' olkoon!</p>
+<p>ELISABETH. Niin pieneks ilonne kuin arvannette, Jos olisitte tään maan kuningas, Te yhtä pieneks voitte arvata Mun iloni sen kuningattarena.</p>
+<p>MARGAREETA (syrjään). Pien' ilo on maan kuningattarella: Min' olen se, ja ilost' olen tyhjä. Minulta kärsivällisyys jo loppuu. —</p>
+<p xml:lang="est">(Astuu estin.)</p>
+<p>Mua kuulkaat, rosvot, jotka riitelette Nyt saaliista, jonk' anastitte multa! Ken teist' ei vapise, kun minuun katsoo? Kumarrus nöyrä valtiaalle, taikka Vaviskaa valtaheittoa, te luopiot! Haa! maire konna, älä käänny pois!</p>
+<p xml:lang="est">GLOSTER. Miks silmissäni väikyt, noita ryytty?</p>
+<p>MARGAREETA. Ma sulle kertaan kaikki pillatyösi: Sen totta teenkin, ennen kuin sun päästän.</p>
+<p>GLOSTER. Maanpakoon surman uhall' olet pantu.</p>
+<p>MARGAREETA. Niin, mutta maanpako on tuskaisempi Kuin surma olla voi, jos täällä viivyn. Sin' olet miehen mulle, pojan velkaa, — Sinä kruunun, — alamaisuuden te kaikki; Suruni tää on oikeastaan teidän Ja ryöstämänne riemut kaikki minun.</p>
+<p>GLOSTER. Kirous, jonka isältäni sait, Kun paperilla sevit urhon otsan Ja silmäns' ivallas sait tulvimaan Ja niiden kuiveeks annoit liinan, jonka Rutlandin viattomaan vereen kastoit, — Kirous, jonka katkeroiduin mielin Hän sinuun syyti, kohdannut sua ompi; Se Jumalan on kosto, eikä meidän.</p>
+<p>ELISABETH. Vanhurskaan Jumalan, mi syytönt' auttaa.</p>
+<p>HASTINGS. Oi, teko hirmuinen tuo lapsen murha Ja armottomin, mit' on koskaan kuultu!</p>
+<p>RIVERS. Tyrannikin, sen kuullessansa, itki.</p>
+<p>DORSET. Ja kaikki ennustivat koston päivää.</p>
+<p>BUCKINGHAM. Northumberland, jok' oli läsnä, itki.</p>
+<p>MARGAREETA. Kuin? Äsken tullessani ärisitte Valmiina käymään toisienne kurkkuun, Ja vihanne nyt kaikki minuun kääntyy! Niin Yorkin kirousko taivaan valtaa, Ett' Edwardini, Henrikkini surma, Valtamme hukka, maanpakoni tuskat, Kaikk' on vaan kostoksi tuon poika houkan? Jos halki pilvein kirot taivoon tunkee, Kironi vinha, raskaat pilvet ratko! — Sotahan älköön kuninkaamme kuolko, Vaan viinaan, niinkuin murhan kautta meidän. Tehdäkseen siten hänet kuninkaaksi! Sun Edwardisi, Walesin nyky-prinssi, Kuin minun Edwardini, Walesin prinssi, Hän nuorna väkinäisen surman saakoon! Sä, kuningatar nyt, kuin ennen minä, Näe onnes loppu, niinkuin minä raukka! Eläös kauan, lapsiasi itkein! Näe toisen, niinkuin minä nyt näen sinun, Arvollas öyhkäävän, kuin sinä minun! Ilosi ennen sua menköön hautaan; Ja pitkällisten tuskain päästä kuole Miehettä, lapsetonna, kruunutonna! Rivers ja Dorset, olittehan läsnä, Ja sinä, Hastings myös, kun murhaveitsi Lävisti poikani. Jumala, kuule: Teist' älköön ykskään luonnon ikään pääskö, Vaan äkkisurma teidät temmatkoon!</p>
+<p>GLOSTER. No, joko päätit, inha noita ryytty?</p>
+<p>MARGAREETA. Sua muistamatta? Seis, mua kuule, koira. Jos taivaalla on varastossaan tuskaa Pahempaa, kuin mit' itse sulle tiedän, Niin säästäköön sen, kunnes täys on syntis; Vihansa silloin viskatkoon se sinuun, Tään mailma-raukan rauhanhäirijään! Kalutkoon tunnon mato mieltäs aina! Epäile ystävääsi petturiksi, Ja konnaa pidä helmaystävänäs! Unt' älköön kuolevaiseen silmääs tulko, Pait milloin tuskan kauhust' uneksien Näet hornan täyden hirmu-perkeleitä! Kuvaton ryhmä! Tonkivainen karju! Sa, joka syntymässäs luonnon orjaks Ja hornan pojaksi jo leimattiin! Emosi raskaan kohdun ruma tahra! Isäsi lantioiden häijy siitos! Repale kunniasta! Inhoittava —</p>
+<p type="title" xml:lang="fra">GLOSTER.</p>
+<p xml:lang="est">Margareeta.</p>
+<p xml:lang="nob">MARGAREETA. Richard!</p>
+<p xml:lang="fkv">GLOSTER. Mitä?</p>
+<p xml:lang="fkv">MARGAREETA. Se ei sulle.</p>
+<p>GLOSTER. Anteeksi suokaa; luulin että mulle Ne olivat nuo tylyt nimet kaikki.</p>
+<p>MARGAREETA. Niin olivat; mut vastaust' en pyynnyt. Oi, lopettaa mun anna kiroukseni!</p>
+<p>GLOSTER. Sen minä tein, ja loppu on — Margareeta.</p>
+<p>ELISABETH. Näin kirouksenne kääntyi itsehenne.</p>
+<p>MARGAREETA. Kuvakuningatar, vallastani varjo! Miks sokeroitset tuota lukin jolkkaa, Jok' on sun surmaseittiinsä jo saanut? Hupakko! Tappoveistäs itse hiot; Mut kerran vielä kiroomaan mua kaipaat Mujuista tuota kyssää, rupikonnaa.</p>
+<p>HASTINGS. Kirosi hurjat päätä, väärä velho; Tuhokses muuten meiltä maltin viet.</p>
+<p xml:lang="smn">MARGAREETA. Hyi, hävetkää! Te multa maltin viette.</p>
+<p>RIVERS. Hyv' oisi teidän tietää tehtävänne.</p>
+<p>MARGAREETA. Mua palvella on teidän tehtävänne. Ma kuningatar oon, te alamaiset: Se tehtävä ois teidän hyvä tietää.</p>
+<p>DORSET. Hänt' älkää härnätkö, hän ei lie viisas.</p>
+<p>MARGAREETA. Vait, herra markiisi, te nokkaviisas! Nuor' arvonne on leima, tuskin käypä. Oi, jospa tuntis tuore aatelinne, Kuink' ilman sitä olisitte kurja! Ken ylhääll' on, saa monet puuskat kestää, Ja jos hän kaatuu, murskaantuu hän aivan.</p>
+<p>GLOSTER. Hyvä neuvo! — Opiks olkoon markiisi!</p>
+<p>DORSET. Teit' yhtä hyvin koskee se kuin mua.</p>
+<p>GLOSTER. Enemmän; minä synnyin ylähällä; Pesämme rakettu on setrin latvaan, Se leikkii myrskyssä ja päivää pilkkaa.</p>
+<p>MARGAREETA. Ja varjoo päivän, voi! Mun päivänikin, Mun poikani nyt kuolon varjoss' on; Sen kirkkaan sädevalon vihas musta Ikuiseen pimeyteen on verhonnut. Te meidän pesässämme pesitte. — Näkevä Jumala, sit' älä kärsi! Verillä saatu veriin hukkukoon!</p>
+<p>BUCKINGHAM. Vait! vait! — hävystä, jos ei rakkaudesta.</p>
+<p>MARGAREETA. Häpyä, rakkautt' älä mainitsekaan: Hävyttä teurastitte multa toivon, Ja rakkaudetta mua kohtelitte. Mull' elo häpeää on, rakkaus vihaa, Ja tässä häpeässä vihan' elää.</p>
+<p xml:lang="fkv">BUCKINGHAM. Herjetkää, herjetkää!</p>
+<p>MARGAREETA. Buckingham prinssi, kättäs suutelen ma Sopuuden merkiksi ja ystävyyden: Sun hyvin käyköön ja sun jalon heimos! Sun vaippaasi ei meidän veri tahraa, Ja sinua mun kironi ei koske.</p>
+<p>BUCKINGHAM. Ei muita liioin; kirot aina jäävät Sen huulille, jok' ilmaan niitä purkaa.</p>
+<p>MARGAREETA. Ei, pilviin nousevat ne, herättäen Jumalan rauhan vienost' unestaan. Oi, Buckingham, sa varo tuota koiraa! Se liehakoidessansa sua puree, Ja kuolinhaavan syö sen myrkkyhammas. Sen miehen seuraa karta, varo häntä! Häness' on synnin, kalman, hornan leima, Ja kaikki näiden väki kuulee häntä.</p>
+<p xml:lang="fkv">GLOSTER. Mitä hän sanoo, mylord Buckingham?</p>
+<p>BUCKINGHAM. Ei mitään, prinssi, mistä huolin minä.</p>
+<p>MARGAREETA. Haa! Neuvoani pilkkaatko ja mairit Pirua tuota, josta varottelin? Oi, muista tää, kun kerran murenella Hän sydäntäsi raataa; sano silloin, Ett' oli Margareeta ennustaja. — Jok' ainut hänen vihans uhriks tulkaa Ja teidän hän ja Jumalan te kaikki!</p>
+<p xml:lang="olo">(Poistuu.)</p>
+<p>HASTINGS. Kiroista noista karvani mun nousee.</p>
+<p>RIVERS. Mun myöskin. Kuinka saa hän olla irti?</p>
+<p>GLOSTER. Ma hänt' en moiti: kautta pyhän äidin Hän kärsi liikaa vääryyttä, ja kadun, Ett' osaks' siihen mullakin on syytä.</p>
+<p>ELISABETH. Ei mitään syytä mulla, tietääkseni.</p>
+<p>GLOSTER. Te siitä vääryydestä hyödyn saitte. Erästä autoin liian tulisesti, Hän sit' on muistamaan nyt liian kylmä. Niin, Clarence, totta vie, sai kelpo palkan: Lätissä vaivastaan on lihomassa; — Sen Jumal' anteeks suokoon syyllisille!</p>
+<p>RIVERS. Hyveellist' on ja kristillistä aivan Rukoilla vahingoittajainsa eestä.</p>
+<p>GLOSTER. Niin teen ma aina; (Syrjään.) viisaus sen käskee; Kirous nyt vaan lankeis omaan päähän.</p>
+<p>(Catesby tulee.)</p>
+<p>CATESBY. Teit', arvo rouva, majesteetti kutsuu; Teit' armo, myös; ja teitä, jalot loordit.</p>
+<p xml:lang="est">ELISABETH. Ma tulen, Catesby. — Seuraatteko, loordit?</p>
+<p>RIVERS. Me teidän tahtoanne noudatamme.</p>
+<p>(Kaikki menevät paitsi Gloster.)</p>
+<p>GLOSTER. Teen pahan, ja siit' ensin itse huudan, Sen tuhon, jota salaa valmistelin, Sen raskahana muiden niskaan syydän. Clarencea, jonk' autoin varmaan kätköön, Ma itken moisten houkkioiden nähden Kuin ovat Stanley, Hastings, Buckingham; Sanon, että kuningatar puolueineen Kuningast' ärsytteli veljeheni; Sen uskovat he, kostoon yllytellen Nyt Riversille, Vaughanille, Greylle; Ma huokaan, viittaan raamattuun ja sanon: Hyvällä Herra käskee pahaa kostaa. Näin alastoman konnuuteni verhoks Räsyä vanhaa pipliasta kiskon, Pyhältä näyttäin piruimmillanikin.</p>
+<p>(Kaksi murhamiestä tulee.)</p>
+<p>Vait! Hiljaa! Tuossa ovat pyövelini. — No, pojat uljaat, rohkeat ja reippaat, Käsiksi käyttekö nyt tuohon toimeen?</p>
+<p>1. MURHAAJA. Kyll', arvo herra; valtakirja vaan, Niin että sisään päästään hänen luokseen.</p>
+<p>GLOSTER. Hyvinpä harkittu! Se täss' on valmis. (Antaa heille valtakirjan.) Kun työ on tehty, menkää Crosby-placeen. Mut liukkaat olkaa toimissanne, miehet, Karaiskaa mieltänne; hänt' älkää kuulko; Clarence on sulosuinen: sydämmenne Vois heltyä, jos häntä kuuntelette,</p>
+<p>1. MURHAAJA. Ei hätää! Meill' ei mieli jaarituksiin; Ei lörpäst' ole toimiin; kieltä emme Me käyttää aio, kättä vaan, sen takaan.</p>
+<p>GLOSTER. Te vuodatatte myllynkiviä, Kun narrin silmä tiukkuu kyyneleitä! Ma pidän teistä, pojat; joutuun toimeen! No, rientäkää!</p>
+<p xml:lang="fkv">1. MURHAAJA. Kyll', armollinen herra.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Neljäs kohtaus.</p>
+<p>Lontoo. Huone Towerissa.</p>
+<p>(Clarence ja Brakenbury tulevat.)</p>
+<p>BRAKENBURY. Miks olette niin synkkä tänään, prinssi?</p>
+<p>CLARENCE. Oi, yö se oli kauhistava, täynnä Pahoja unia ja ilkinäkyjä! Niin totta hurskas kristitty kuin olen, En moista yötä tahtois elää toista, Vaikk' iloja ma mailman täyden saisin; Niin täynnä tuskaa, kauhua se oli.</p>
+<p>BRAKENBURY. Mit' unta näitte? Sanokaa, ma pyydän.</p>
+<p>CLARENCE. Näet, karkuun olin päässyt Towerista Ja laivamatkall' olin Burgundiin, Ja seurassani oli veli Gloster. Hän kajuutasta kannelle mun kiskoi; Siit' Englantiin nyt katseltiin, ja mieleen Tuhannet johtui tuskat, joilla sota, Tuo Lancasterin välinen ja Yorkin, Meit' oli etsinyt. Mut kun me tuossa Kannella vaaruvalla astelimme, Livahti Gloster, näet, ja veti minut, Kun aioin häntä auttaa, kannelt' alas Kuohaaviin valtameren aaltoihin. Oi, mikä tuska oli veteen kuolla! Tuo häijy aallon kohu korvissani! Nuo surman hirmunäyt silmissäni! Tuhannet laivanraadot virui siellä, Tuhannet ruumiit, joita kalat nirhoi; Ankkurit, kultaharkot, helmiriitat, Juveelit verrattomat, kalliit kivet Sekaisin mätättyinä meren pohjaan. Pääkalloiss' oli jotkut; onteloissa, Miss' ennen silmät sijaitsi, nyt säihkyi, Pilkaksi silmäin, kivet kiiluvaiset, Jotk' ailakoivat meren liejupohjaa, Ivaten kuolleen luita ympärillään.</p>
+<p>BRAKENBURY. Kuink' oli teillä kuolinhetkell' aikaa Syvyyden salaisuutta tarkastella?</p>
+<p>CLARENCE. Minusta oli; henkitoreiss' olin Jo useinkin, mut kade luode aina Pidätti sielun eikä päästänyt Sit' aavaan, vapaaseen ja tyhjään ilmaan, Vaan palppaavaan sen painoi sydämmeeni, Jok' oli katkosta sen ylön antaa.</p>
+<p>BRAKENBURY. Teit' eikö kuolontuska herättänyt?</p>
+<p>CLARENCE. Ei, uni jatkui kuolemankin jälkeen. Nyt vasta alkoi sielussani myrsky! Tuo runon kuulu yrmy lautturi Mua tuonen mustan virran yli saattoi Ikuiseen pimeyden valtakuntaan. Tulokkaan sielun siellä ensin kohtas Suur' appeni, tuo kuulu Warwick, joka Huus ääneen: "Millä pattovalan kostaa Pimeyden valta Clarence petturille?" Katosi näin. Ja sitten tuli haamu, Kuin enkel' ihanainen, valkohiukset Verillä tahratut; se huusi ääneen: "Clarence on täällä, viekas, luihu Clarence, Jok' otti hengen multa Tewksburyssä; — Oi, raivottaret, piinaan hänet viekää!" Ja silloin lauma ilkiperkeleitä Mua ympäröi ja korvihini ulvoi Niin kauheasti, että niiden huutoon Heräsin vavisten, ja kauan jälkeen Viel' uskoin, että olin helvetissä; Niin kamalasti vaikutti se uni.</p>
+<p>BRAKENBURY. Ei ihme, prinssi, että kauhistuitte; Minäkin kauhistun, kun tuota kuulen.</p>
+<p>CLARENCE. Oi, Brakenbury! Minä tein tuon kaiken Mi todistaa nyt sieluani vastaan, Edwardin tähden; ja hän näin sen maksaa; Jumala, jos ei harras rukous sua Voi lepyttää, vaan kostaa tahdot työni, Vihasi käännä toki minuun yksin! Laps raukka säästä, oi, ja syytön vaimo! Jää, vartijani, luokseni, ma pyydän: On mieli raskas, nukkua ma soisin.</p>
+<p>BRAKENBURY. Jään kyllä; Luoja suokoon hyvää unta! — (Clarence nukahtaa.) Ajat ja levon hetket suru rikkoo, Yöst' aamun tekee, keskipäiväst' yön. Nimeä vaan on ruhtinasten herraus, Sisäisen vaivan ulkonainen loiste; Ja luulo-nautinnoistaan heill' on usein Vaan mailman täysi levotonta huolta. Nimestä halvast' arvo ruhtinaan Vaan tyhjäll' eroaapi kaiullaan.</p>
+<p>(Molemmat murhamiehet tulevat.)</p>
+<p>1. MURHAAJA. Hoi! Kuka siellä?</p>
+<p>BRAKENBURY. Mit' aiot, mies? Ja kuinka tulit tänne?</p>
+<p>1. MURHAAJA. Tahdon puhutella Clarencea, ja tulin tänne omin jaloin.</p>
+<p xml:lang="smn">BRAKENBURY. Mut miks noin vähin puhumin.</p>
+<p>1 MURHAAJA. Parempi vähin puhumin kuin pitkin. — Suu kiinni vaan, ja esiin valtakirja.</p>
+<p>(Antavat paperin Brakenburylle, joka lukee sen.)</p>
+<p>BRAKENBURY. Mua tässä velvoitetaan jättämään Ylevä Clarence herttua teidän käsiin. En tahdo tutkistella, mik' on mieli, Vaan tahdon siinä mieless' olla syytön. Täss' avain on ja tuossa herttua nukkuu. Vien kuninkaalle tiedon, että teille Näin olen virkani ma luovuttanut.</p>
+<p>1. MURHAAJA. Niin, tehkää se; se on viisas teko. Hyvästi vaan!</p>
+<p>(Brakenbury menee.)</p>
+<p>2. MURHAAJA. Sano, pistämmekö häntä kesken untaan?</p>
+<p>1. MURHAAJA. Älkäämme; hän sanoo, että olimme pelkureita, kun herää.</p>
+<p>2. MURHAAJA. Kun herääkö! Hän ei herää ennen kuin suurena tuomiopäivänä.</p>
+<p>1. MURHAAJA. Niin, silloin hän sanoo, että pistimme häntä kesken untaan.</p>
+<p>2. MURHAAJA. Tuo sana tuomio se minussa herättää jonkinlaista tunnonvaivaa.</p>
+<p xml:lang="fkv">1. MURHAAJA. Mitä? Pelkäätkö?</p>
+<p>2. MURHAAJA. En tappaa häntä, siihen kun on minulla valtuus, vaan joutua tuomionalaiseksi siitä taposta, ja siitä ei mikään valtuus minua varjele.</p>
+<p>1. MURHAAJA. Luulin, että olit päätöksen tehnyt.</p>
+<p>2. MURHAAJA. Niin olenkin: jättää hänet eloon.</p>
+<p>1. MURHAAJA. Minä siis palajan Glosterin herttualle sitä kertomaan.</p>
+<p>2. MURHAAJA. Älä; maltahan vähän! Toivon, että tämä hurskas tuuli vähitellen kääntyy; sitä ei tavallisesti kestä kauemmin kuin että ehtii lukea kahteenkymmeneen.</p>
+<p>1. MURHAAJA. No, miltä nyt tuntuu?</p>
+<p>2. MURHAAJA. Onhan sitä minussa vielä vähän omantunnon sakkaa.</p>
+<p>1. MURHAAJA. Muista palkkaamme, kun työ on tehty.</p>
+<p>2. MURHAAJA. Niin oikein! Hän kuolkoon! Unhotin palkan.</p>
+<p>1. MURHAAJA. Missä on nyt sinun omatuntosi?</p>
+<p>2. MURHAAJA. Glosterin herttuan kukkarossa.</p>
+<p>1. MURHAAJA. Ja kun hän avaa kukkaronsa maksaakseen palkkamme, niin lentää omatuntosi matkaan.</p>
+<p>2. MURHAAJA. Vähät siitä! Menköön vaan! Ani harva, jos kukaan, siitä huolii.</p>
+<p>1. MURHAAJA. Entä, jos se tulee takaisin sinuun.</p>
+<p>2. MURHAAJA. Minä en rupea sen kanssa tekemisiin; se tekee miehestä pelkurin. Jos varastat, niin heti se syyttää; jos vannot, niin oiti se sättii; jos makaat naapurin vaimon kanssa, niin kohta se sinut ilmaisee; se on semmoinen punastuva, kaino henki, joka panee miehen sydämmen pyörälle; se tekee jos jonkinlaisia estelyksiä; pakotti minua taannoin antamaan takaisin rahakukkaron, jonka sattumalta olin löytänyt; se tekee miehestään kerjäläisen; se on kaikista kaupungeista ja kauppaloista karkoitettu vaarallisena kapineena; ja jokaisen, joka tahtoo elää hyvin, täytyy luottaa omaan itseensä ja elää ilman sitä.</p>
+<p>1. MURHAAJA. Kas, hiisi olkoon! Nyt se on mennyt minun kyynärpäähäni ja puhuttelee minua, etten tappaisi herttuata.</p>
+<p>2. MURHAAJA. Ota pirusta vaari, äläkä usko sitä; se tahtoo vaan mielistellä sinua, että saisi sinut huokailemaan.</p>
+<p>1. MURHAAJA. Minulla on vahva luonto; minusta se ei saa urakkaa.</p>
+<p>2. MURHAAJA. Puhut niinkuin reima mies, joka on arka maineestaan. No, käymmekö työhön käsiksi?</p>
+<p>1. MURHAAJA. Anna hänelle aivokoppaan miekankahvastasi, ja paiskaa hänet sitten viiniaamiin tuonne sivuhuoneeseen.</p>
+<p>2. MURHAAJA. Oiva keksintö! Siitä tulee likopala.</p>
+<p>1. MURHAAJA. Vait! Hän herää.</p>
+<p xml:lang="nob">2. MURHAAJA. Iske!</p>
+<p>1. MURHAAJA. Ei, puhutelkaamme häntä ensin.</p>
+<p>CLARENCE (herää). Hoi, vartija! Tuo tänne viiniä!</p>
+<p>1. MURHAAJA. Viiniä saatte, herra, tarpeeksi kohta paikalla.</p>
+<p>CLARENCE. Jumalan nimessä, ken olet sinä?</p>
+<p>1. MURHAAJA. Ihminen, niinkuin tekin.</p>
+<p>CLARENCE. Mut sull' ei kuninkaallist' ole kieltä.</p>
+<p>1. MURHAAJA. Ja teill' ei kuninkaallist' ole mieltä.</p>
+<p>CLARENCE. Sull' ukkosen on ääni, katse nöyrä.</p>
+<p>1. MURHAAJA. Kuninkaan mull' on ääni, katse oma.</p>
+<p>CLARENCE. Hämärä puhees on ja kuolettava. Mua uhkaa silmänne. Miks kalpenette? Ken teidät laittoi? Asiaako teillä?</p>
+<p xml:lang="est">MOLEMMAT MURHAAJAT. On, on, on, —</p>
+<p>CLARENCE. On minut murhata?</p>
+<p xml:lang="fkv">MOLEMMAT MURHAAJAT. Niin, niin.</p>
+<p>CLARENCE. Sydäntä teill' on tuskin ilmoittaa se, Ja sydänt' ei siis ole sitä tehdä. Mill', ystävät, teit' olen loukannut?</p>
+<p>1. MURHAAJA. Meit' ette loukannut, vaan kuningasta.</p>
+<p>CLARENCE. Te mailman miehistäkö valituimmat Murhaamaan viatonta? Mitä rikoin? Ken todistajana mua syyttää tässä? Ketk' ovat valamiehet vikapääksi Mun julistaneet? Kuka Clarence raukan Tuominnut katkeraan on kuolemaan? Laitonta uhata mua kuolemalla, Ennenkuin laki mun on syypääks saanut. Jos syntivelastanne toivotte Kristuksen kalliin veren lunastusta, Niin menkää, käsin älkää käykö minuun! Kirottu työ on, jota yritätte.</p>
+<p>1. MURHAAJA. Sen, minkä teemme, teemme käskystä.</p>
+<p>2. MURHAAJA. Ja käsky kuninkaan on.</p>
+<p>CLARENCE. Sokko parka! Tuo suuri kuningasten kuningas Lain taulussansa sääsi: älä tapa! Ivata hänen käskyäänkö aiot Ja tehdä ihmismurhan? Varo itses! Hän, näet, pitää kädessänsä koston Ja lennättää sen rikkojien päähän.</p>
+<p>2. MURHAAJA. Ja saman koston lennättää hän sinuun Miestaposta ja valapattuudesta. Sa sakramentin otit, pitääksesi Sodassa Lancasterin huoneen puolta.</p>
+<p>1. MURHAAJA. Ja Herran nimen kavaltajana Valasi söit ja säiläll' ynseällä Kuninkaas pojan ruumiin teurastit.</p>
+<p>2. MURHAAJA. Jot' auttaa vannoit sekä turvata.</p>
+<p>1. MURHAAJA. Miks meihin käännät Herran jyrkän käskyn, Jot' olet rikkonut niin suurest' itse?</p>
+<p>CLARENCE. Ah! kenen tähden tein tuon ilkityön? Edwardin, oman veljen tähden. Siksi Hän teit' ei laittanut mua murhaamaan: Se synti häntä painaa niinkuin mua. Jos Jumala sen teon kostaa tahtoo, Niin tietkää, että Hän sen tekee julki. Te voiman kädest' älkää vitsaa viekö: Hän vääryyttä ja laittomuutt' ei kaipaa Vihoittajaansa täältä tuhotakseen.</p>
+<p>1. MURHAAJA. Ken sua silloin verityöhön käski, Kun Plantagenetien kevätkukan, Kuningastaimen uljaan, hengilt' otit?</p>
+<p>CLARENCE. Vihani, perkele ja veljen lempi.</p>
+<p>1. MURHAAJA. Tekosi, velvoitus ja veljes lempi Ne meitä vaativat sua murhaamaan.</p>
+<p>CLARENCE. Ken veljeäni lempii, mua ei vihaa; Ma hänen veljens' oon ja häntä lemmin. Jos työnne teette palkasta, niin menkää, Luo Gloster veljeni ma teidät laitan; Enemmän elämästäni hän maksaa Kuin Edward kuolemani sanomasta.</p>
+<p>2. MURHAAJA. Petytte aivan: Gloster vihaa teitä.</p>
+<p>CLARENCE. Ei, ei; hän mua rakastaa ja lempii. Pois hänen luokseen menkää.</p>
+<p>MOLEMMAT MURHAAJAT. Kyllä mennään.</p>
+<p>CLARENCE. Sanokaa, että jalo isämme, Kun voittokäsin siunas meidät kolme, Kehoittain meitä hellään rakkauteen, Ei aavistanut tätä veljesriitaa: Oi! sitä muistuttakaa Glosterille, Niin itkee hän.</p>
+<p xml:lang="fkv">1. MURHAAJA. Niin, myllynkiviä, Joit' itkemään hän neuvoi meitäkin.</p>
+<p>CLARENCE. Hänt' älkää panetelko, hän on hyvä.</p>
+<p>1. MURHAAJA. Kuin syksyn lumi, niin. — Te erhetytte: Hän meidät laittoi teitä surmaamaan.</p>
+<p>CLARENCE. Ei, mahdotonta! Turmaani hän itki, Mua halaili ja nyyhkytti ja vannoi Kaikk' uhraavansa minut pelastaakseen.</p>
+<p>1. MURHAAJA. Sen tekeekin: maan orjuudesta teidät Pelastaa taivaan iloon.</p>
+<p>2. MURHAAJA. Taivaan kanssa Nyt sopikaa; nyt teidän kuolla täytyy.</p>
+<p>CLARENCE. Pyhyyden tunnettako sielussasi, Kun taivaan kanssa sopimaan mua neuvot, Ja oman sielusi niin sokaat, että Soditat taivasta ja minut murhaat? Oi! muistakaa: sen vihat vielä saatte, Ken tähän teidät saattoi.</p>
+<p>2. MURHAAJA. Mitä tehdä?</p>
+<p>CLARENCE. Pelastaa sielunne ja heltyä.</p>
+<p>1. MURHAAJA. Heltyä! Pelkuri ja nainen heltyy.</p>
+<p>CLARENCE. Peto ja perkele, ne eivät helly. — Ken teistä, ruhtinaana synnyltään Ja tyrmään kytkettynä, niinkuin minä, Ei rukoilisi henkens' edestä, Jos kaksi moista murhaajaa hän kohtais? — Katseessas, ystäväni, piilee sääli; Oi! Jos ei silmäsi nyt imartele, Mua puolla, rukoile mun puolestani, Samassa kuin jos hädäss' oisit itse. Kerjäävää prinssiä kerjurikin säälii.</p>
+<p xml:lang="fkv">2. MURHAAJA. Takanne, herra, katsokaa.</p>
+<p>1. MURHAAJA. Tuon saat, ja tuon; (Pistää Clarencen kuoliaaksi.) jos se ei vielä tepsi, Niin upotan sun viiniaamiin tuonne.</p>
+<p>(Raastaa pois ruumiin.)</p>
+<p>2. MURHAAJA. Verinen teko, armottoman julma! Oi, että niinkuin Pilatus nyt voisin Tään ilkimurhan käsistäni pestä?</p>
+<p>(Ensimmäinen murhaaja palajaa.)</p>
+<p>1. MURHAAJA. No, mitä aattelet, kun et mua auta? Sun vitkautes saa vielä herttua kuulla.</p>
+<p>2. MURHAAJA. Jos kuulis, että veljensä ma säästin! Sin' ota palkka; kaikki hälle kerro. Oi! minä kadun tätä herttuan murhaa.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>1. MURHAAJA. Mut en vaan minä; mene matkaan, raukka! Johonkin läpeen ruumihin nyt kätken, Siks kunnes herttua sen hautaan laittaa. Kun palkan saan, niin olkoon täällä hiis; Kaikk' ilmi tulee; joutuun matkaan siis!</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p type="title" xml:lang="vep">TOINEN NÄYTÖS.</p>
+<p>Ensimmäinen kohtaus.</p>
+<p>Lontoo. Huone lumilinnassa.</p>
+<p>(Kuningas Edward, jota sairaana talutetaan sisään, kuningatar Elisabeth, Dorset, Rivers, Hastings, Buckingham, Grey y.m. tulevat.)</p>
+<p>EDWARD. Kas niin! — nyt hyvä päivätyö on tehty. — Pyhänä, päärit, pitäkää tää liitto! Vapahtajaltani ma joka päivä Odotan vapahduksen kutsumusta; Taivaaseen sielu rauhaisemmin astuu, Kun maassa ystävilläni on rauha. Rivers ja Hastings, kättä paiskatkaa! Pois äkä! Ystävyyden vala tehkää!</p>
+<p>RIVERS. Minussa, tottakaan, ei vihan kaunaa; Ja ystävyyttä vannon tuohon käteen.</p>
+<p>HASTINGS. Niin totta Jumal'auta, samaa minä!</p>
+<p>EDWARD. Varokaa pilaa kuninkaanne nähden! Kuningas kuningasten pian saattaa Salatun vilpin häpeään, ja hankkii Toiselle teistä toisen kautta surman.</p>
+<p>HASTINGS. Niin totta Jumala mua auttakoon, Ma ystävyyttä vannon!</p>
+<p>RIVERS. Samaa minä, Niin totta kuin on Hastings mulle rakas!</p>
+<p>EDWARD. Te, rouva, tekin saman neuvon saatte; — Poikanne Dorset myös; — myös Buckingham; — Olette riidoin olleet keskenänne; Käsi Hastingsin nyt suudeltavaks, rouva; Ja minkä teette, vilpittä se tehkää.</p>
+<p>ELISABETH. Kas tuossa, Hastings: iki-unhoon vihat, Niin totta Jumala meit' auttakoon!</p>
+<p xml:lang="nno">EDWARD. Dorset ja Hastings sopusyleilykseen!</p>
+<p>DORSET. On rikkumaton, mitä minuun tulee, Tää ystävyyden liitto, sen ma vannon.</p>
+<p>HASTINGS. Ja samaa minä vannon.</p>
+<p>(Dorset ja Hastings syleilevät toisiaan.)</p>
+<p xml:lang="olo">EDWARD. Lujita liitto, jalo Buckingham, Syleillen puolisoni heimokuntaa; Mua sovullanne onnelliseks saata.</p>
+<p>BUCKINGHAM (kuningattarelle). Jos vihaa teille kantaa Buckingham Ja alamaisen lemmen kieltää teiltä Ja omaisiltanne, niin lemmen sijaan Hän taivaan vihat rangaistukseks saakoon. Kun kipeimmin ma ystävätä kaipaan, Ja ystävyydestään kun varmin olen, Niin luihu, viekas, juonikas hän olkoon; Niin käyköön, Jumal'aut, jos jäähtyy teihin Minussa rakkaus tai omaisiinne!</p>
+<p>(Syleilee Riversiä ja toisia.)</p>
+<p>EDWARD. Suloista lääkett', oiva Buckingham, Valasi sairaalle on sydämmelle. Veljemme Gloster nyt vaan puuttuu täältä Sovinnon siunatuksi päätökseksi.</p>
+<p>BUCKINGHAM. Paraiksi herttua jo tulee tuossa.</p>
+<p>(Gloster tulee.)</p>
+<p>GLOSTER. Huomenta, armolliset majesteetit! Iloista päivää, ruhtinaiset päärit!</p>
+<p>EDWARD. Iloinen tosiaan on ollut päivä: — Olemme tehnyt kristillisen työn, Torasta sovun, vihast' ystävyyden Kopeiden pääriemme välillä.</p>
+<p>GLOSTER. Siunattu puuha, jalo majesteetti! — Jos tässä ruhtinasten seurass' ykskään Pahasta luulosta tai panetuksest' On mulle vihamielinen; Jos tietämättäni tai raivost' olen Jotakin tehnyt, josta joku tässä Minua kaunaa, pyydän hänen kanssaan Sopia rauhass', ystävyydessä; Viha on mulle surmaa, sitä kammon Ja kaikkein hyväin rakkautta kaipaan. — Teilt' ensin, rouva, tosi rauhaa anon, Jonk' alttiill' aion palveluksen' ostaa; Ja teiltä, jalo lanko Buckingham, Jos vihaa onkaan välillämme ollut; Ja teiltäkin, lord Rivers, — teiltä, Dorset, Jotk' olette mua syyttä karsastelleet; Lord Woodville, teiltä; teiltäkin, lord Scales; Kaikilta teiltä, herttuat, kreivit, loordit. En tiedä yhtään miestä Englannissa, Jon kanssa mull' ois senkään verran riitaa Kuin tänä yönä synnytetyn lapsen. Nöyryydestäni kiitän Jumalaani.</p>
+<p>ELISABETH. Tää päivä olkoon meille juhlapäivä; Jumala riidoista jo lopun suokoon! Kuningas, herrani, ma rukoilen: Veljemme Clarence armoon ottakaa.</p>
+<p>GLOSTER. Siks, rouva, teinkö teille lemmen tarjon, Ett' ivaks tässä paarein nähden joudun? Ken hyvää herttuaa ei kuolleeks tiedä?</p>
+<p>(Kaikki kauhistuvat.)</p>
+<p>Ei sovi vainaan ruumist' ilkastella.</p>
+<p>EDWARD. Ken hänt' ei kuolleeks tiedä! Ken sen tietää?</p>
+<p xml:lang="fkv">ELISABETH. Hyväinen taivas, tätä mailmaa!</p>
+<p>BUCKINGHAM. Minäkö kalvas niinkuin muut, lord Dorset?</p>
+<p>DORSET. Niin kyllä, loordi; tääll' ei ainoata, Jonk' ei nyt poskilt' oisi puna poissa.</p>
+<p>EDWARD. Clarenceko kuollut? Peruutinhan käskyn.</p>
+<p>GLOSTER. Mies parka kuoli ensi käskystänne, Perille sen vei siivekäs Mercurius; Tuo vastakäskyn tuoja oli rampa, Hän tuli parahiksi hautajaisiin. Jumala suokoon, ett'ei moniaat, Vähemmän ylevät ja taatut, mutta Enemmän veriset kuin verelliset, Pahempaa ansaitse kuin Clarence parka, Ja sentään epäluulost' ole vapaat!</p>
+<p>(Stanley tulee.)</p>
+<p>STANLEY. Hyvistä töistä, herra, pieni armo!</p>
+<p>EDWARD. Vait, vaiti! Sieluni on huolta täynnä.</p>
+<p>STANLEY. En nouse, kunnes herrani mua kuulee.</p>
+<p>EDWARD. No, sano sitten joutuun, mitä pyydät.</p>
+<p>STANLEY. Rikotun hengen palvelijalleni; Hän taannoin tappoi erään renttuherran, Jok' ennen palvellut on Norfolkilla.</p>
+<p>EDWARD. Tää kieli veljen kuolemanko lausui, Ja nytkö orjalle se armon soisi? Ol' aatos, eikä murha veljen rikos, Ja sentään siitä katkeran sai surman. Ken häntä puolsi? Raivotessani Ken polvistui ja malttumaan mua pyysi? Ken maini veljyyttä? Ken rakkautta? Ken muisti, että Clarence parka jätti Tuon ylvään Warwickin ja minuun liittyi? Ken, että, Tewksburyn kun kentäll' Oxford Mun voitti, hän mun pelasti ja lausui: <span type="quote">"Eläös, veljyt, nouse kuninkaaksi"</span>? Ken muisti, että, kentällä kun maattiin Vilusta puolikuolleina, hän kääri Mun vaippaansa ja melkein alastonna Antautui itse öisen viiman valtaan? Tuon kaiken synnillinen irstas raivo Mun mielestäni vei, ja kellään silloin Ei lempeyttä muistuttaa mua siitä. Mut jospa joku orja, palkkalainen On päissään tehnyt murhan, ryvettäen Näin rakkaan vapahtajan kalliin kuvan, Rukoillaan polvill' oiti armoa; Ja — väärin kyllä — antaa mun se täytyy. Mut veljeäni puoltanut ei ykskään, En itsekään, jok' unhotin tuon raukan, Ma kiittämätön. — Ylväimmällä teistä, Jonk' elämässä tuli kiittää häntä, Ei puolta sanaa hänen elämäkseen. — Jumala! Varon, että mulle, teille Ja omaisillemme sen syystä kostat. — Mua auta, Hastings, makuulle. Ah, Clarence parka!</p>
+<p>(Kuningas, kuningatar, Hastings, Rivers, Dorset ja Grey menevät.)</p>
+<p>GLOSTER. Sen pikaisuus saa aikaan! — Nähkääs, kuinka Kuningattaren syypäät sukulaiset Clarencen kuolemasta kalpenivat! Sit' aina kuninkaalle hokivatkin; Mut Jumala sen kostaa. Eikö mennä Nyt kuningasta lohduttamaan, loordit?</p>
+<p>BUCKINGHAM. Niin kuin vaan suvaitsette, herttua.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Toinen kohtaus.</p>
+<p>Lontoo. Huone hovilinnassa.</p>
+<p>(Yorkin herttuatar tulee Clarencen pojan ja tyttären kanssa.)</p>
+<p>POIKA. Sano, mummo hyvä, onko isä kuollut?</p>
+<p xml:lang="fkv">HERTTUATAR. Ei, lapseni.</p>
+<p>TYTTÖ. Mut miks niin usein itket, rintaas lyöt Ja huudat: "Clarence, polo poikani?"</p>
+<p>POIKA. Miks meitä katselet ja päätäs puistat Ja sanot: "hyljätyt te orpo raukat!" Jos hyvä isä vielä eloss' oisi?</p>
+<p>HERTTUATAR. Mua ymmärrätte väärin, lapsukaiset: Kuninkaan sairautt' aihkelen, ja hänen Mä pelkään kuolevan, enk' isänne! Ois hukkatyötä surra hukkunutta.</p>
+<p>POIKA. Siis, luulet, mummo, että hän on kuollut. Kuningas, setämme, on siihen syypää; Mut Jumala sen kostaa: sitä yksin Rukoilen Hältä hartain rukouksin.</p>
+<p>TYTTÖ. Ja myöskin minä.</p>
+<p>HERTTUATAR. Vait, lapset, vait! Kuningas pitää teistä. Te tyhmät, viattomat ette arvaa, Ken syypää isänne on kuolemaan.</p>
+<p>POIKA. Tiedänpäs; hyvä Gloster setä kertoi; Kuningattaren yllyst' itse keksi Kuningas kanteen hänet vangitakseen. Ja setä itki, kun hän tämän kertoi, Poskelle suuteli ja surkutteli Ja käski häneen turvaamaan kuin isään, Luvaten rakastaa mua niinkuin lastaan.</p>
+<p>HERTTUATAR. Noin kauniin muodon voiko vilppi ottaa Ja perki paheet hyveen kuoreen peittää? Mun poikan' on hän, se mun häpeäni, Mut vilppiään ei minust' imenyt.</p>
+<p>POIKA. Luuletko, mummo, sedän teeskennelleen?</p>
+<p xml:lang="fkv">HERTTUATAR. Sen luulen, lapsi.</p>
+<p xml:lang="fkv">POIKA. Mut min' en luule. Kuules; mikä melu?</p>
+<p>(Kuningatar Elisabeth tulee epätoivoisena; Rivers ja Dorset hänen jäljessään.)</p>
+<p>ELISABETH. Miks en saa itkeä ja valitella, Osaani laittaa, itseäni piestä? Teen mustan epätoivon kanssa liiton Vihollistani, itseäni vastaan.</p>
+<p>HERTTUATAR. Mut mikä kurjan tuskan kohtaus tämä?</p>
+<p>ELISABETH. Vain traagillisen raivon alkunäytös: — Kuningas, poikas, mieheni on kuollut. Elääkö oksat, kun on juuri poissa? Ja mehun puutteess' eikö lehvät kuihdu? — Ken elää mielii, itkeköön! Ken kuolla, Sen tehköön joutuun, jotta sielumme Kuninkaan sielun lennoss' ennättäisi Ja nöyrän alamaisen tavoin seurais Ikuisen levon valtakuntaan häntä!</p>
+<p>HERTTUATAR. Suruusi mull' on osaa yhtä paljon, Kuin oikeutt' ennen jaloon puolisoosi, Minäkin kunnon miehen surmaa itkin Ja kuviensa katsomisest' elin; Kaks tämän ylvään muodon kuvastinta Nyt ilkisurma pirstoiksi on lyönyt, Ja mulle lohduks jäi vaan kiero lasi, Joss' inholl' oman häpeäni näen. Sin' olet leski, mut myös äiti olet, Ja lohduks sulle lapsesi on jäänyt; Mut kuolo mun vei rinnoiltani miehen, Käsistä heikon kaksi sauvaa riisti, Clarencen, Edwardin. Oi! syytä mulla — Kun sull' on puolet vaan mun murheistani — Tukeuttaa parkuuni sun voihkinasi.</p>
+<p>POIKA. Isämme surmaa ette, täti, surrut; Kuink' itkemään me teitä auttaisimme?</p>
+<p>TYTTÖ. Ei meidän orpoin hätää surkuteltu; Siis teidänkään ei lesken huolta surra.</p>
+<p>ELISABETH. Apua voihkinaani min' en pyydä, En tyhjä minä valituksist' ole. Virtailkoot silmihini lähteet kaikki, Kuun kostean ett' ohjaamana sitten Maailman upottaisin kyyneltulvaan! Voi miestäni, voi kelpo Edwardia!</p>
+<p>LAPSET. Voi isäämme, voi kelpo Clarencea!</p>
+<p>HERTTUATAR. Voi Edwardia ja voi Clarencea!</p>
+<p>ELISABETH. Tukeni Edward oli; hän on poissa.</p>
+<p>LAPSET. Tukemme Clarence oli; hän on poissa.</p>
+<p>HERTTUATAR. Tukeni kumpikin; he ovat poissa.</p>
+<p>ELISABETH. Moist' onko tappiota leski tehnyt?</p>
+<p>LAPSET. Moist' onko tappiota orpo tehnyt?</p>
+<p>HERTTUATAR. Moist' onko tappiota äiti tehnyt? Voi! Minä äiti olen näiden tuskain: Mun yhteist' on, mut heidän osittaista. Hän itkee Edwardia, jota minäi; Min' itken Clarencea, jot' ei hän; Nuo lapset Clarencea, jota minäi; Ja minä Edwardia, jot' ei he. — Te kolme minuun, kolmin kerroin kurjaan, Nyt vuodattakaa kaikki kyyneleenne: Min' olen surujenne imettäjä, Ma niitä valituksillani ruokin.</p>
+<p>DORSET. Tyvetkää, äiti! Pahoitatte taivaan, Jos sallimuksestaan näin nurisette. Sanotaan, että kiittämätönt' ompi Hitaalla ynsyydellä maksaa velka, Jonk' ystävyydest' aulis käsi antoi; Mut kiittämättömämpää jäykistellä Taivasta vastaan, kun se lainaamansa. Kuninkaallisen velan jälleen vaatii.</p>
+<p>RIVERS. Poikaanne muistakaa kuin hellä äiti; Tuottakaa nuori prinssi, kruunattakoon Hän oiti; siitä teille lohtu koituu. Surunne kuollut Edward hautaan vieköön, Elävä Edward ilon teille tuokoon.</p>
+<p>(Gloster, Buckingham, Stanley, Hastings, Ratcliff y.m. tulevat.)</p>
+<p>GLOSTER. Rohkeutta, sisko! Syytä meill' on kaikin Tään kirkkaan tähden sammumista surra, Mut tuskaans' ei voi kenkään itkull' auttaa. — Anteeksi, äiti; armollinen rouva, En nähnyt teitä. — Nöyrään polvill' anon Nyt siunaustanne.</p>
+<p>HERTTUATAR. Siunatkoon sua Herra! Sydämmes taivuttakoon hurskauteen, Nöyryyteen, hellyyteen ja hyviin töihin!</p>
+<p>GLOSTER. Aamen? (Syrjään.) Ja kauan maassa elää suokoon! Se äidin siunauksen on loppuponsi; Kuink' armo rouva nyt sen unehutti?</p>
+<p>BUCKINGHAM. Kaihoisat prinssit, huolestuneet päärit, Joit' yhteinen tää surun taakka painaa, Sovussa rohkaiskaa nyt toisianne. Vaikk' isän luona elonteko päättyi, Uus alkaa elonteko pojan luona. Tuo paisuneiden sydämenne murto, Jok' äsken sidottiin ja lastoitettiin, On hoidettava, vaalittava tarkoin. Minusta paras pienin saatoin tuoda Ludlow'sta nuori prinssi Lontooseen Kruunattavaksi täällä kuninkaaksi.</p>
+<p>RIVERS. Miks pienin saatoin, mylord Buckingham?</p>
+<p>BUCKINGHAM. Siks, että suuri joukko repis auki Tuon vasta parannetun äkähaavan; Jok' oisi sitä vaarallisempaa, Kun nuor' on valtio ja johtajatta, Ja joka hevonen on omin valloin Ja juosta saapi, minne itse mielii. Niin vaaran pelkokin kuin itse vaara On minun mielestäni torjuttava.</p>
+<p>GLOSTER. Kuningas sopuun liitti meidät kaikki; Vakaana, vahvana sen liiton pidän.</p>
+<p>RIVERS. Niin minäkin; ja niinpä, luulen, kaikki, Mut kun se viel' on nuori, niin ei hyvä Sit' uskaltaa noin rikkumisen vaaraan; Ja niin voi käydä, jos on saatto suuri. Siis olen jalon Buckinghamin mieltä, Ett' tulee prinssi noutaa vähin joukoin.</p>
+<p>HASTINGS. Sit' olen mieltä minäkin.</p>
+<p>GLOSTER. Niin olkoon siis; ja päättämään nyt käymme, Kenenkä Ludlow'hon on rientäminen. Te, äiti, ja te rouva, suvainnette Täss' asiassa antaa lausuntonne.</p>
+<p>(Kaikki poistuvat, paitsi Buckingham ja Gloster.)</p>
+<p>BUCKINGHAM. Ken prinssin noutaneekin, Herran tähden, Me emme molemmin saa kotiin jäädä: Matkalla keinon keksin, miten alkaa Sovittu juonemme ja prinssist' eriin Kuningattaren pöyhkä suku saada.</p>
+<p>GLOSTER. Mun toinen itseni, mun neuvostoni, Oraakkeli ja profeetta! — Kuin lapsi, Ma seuraan johtoasi, armas lanko. Ludlow'hon siis! Me emme kotiin jää.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Kolmas kohtaus.</p>
+<p>Sama seutu. Katu.</p>
+<p>(Kaksi porvaria kohtaa toisensa.)</p>
+<p xml:lang="fkv">1. PORVARI. Huomenta, naapuri! No, mihin kiire?</p>
+<p>2. PORVARI. Sit' itse tuskin tiedän, totta vieköön. No, tiedättehän uutisen?</p>
+<p>1. PORVARI. Niin, ett' on Kuningas kuollut.</p>
+<p>2. PORVARI. Huono uutinen, Niin maarin, niinkin. Harvoin hyvää kuuluu. Pahoinpa pelkään, ett' on mailma nurin.</p>
+<p>(Kolmas porvari tulee.)</p>
+<p>3. PORVARI. Huomenta, miehet!</p>
+<p>1. PORVARI. Jumal' antakoon!</p>
+<p>3. PORVARI. Kuninkaan kuolemako yhä totta?</p>
+<p>2. PORVARI. On, liian totta; Herra auta meitä!</p>
+<p>3. PORVARI. Siis myrsky tulossa?</p>
+<p>1. PORVARI. Ei, poika meitä Jumalan armosta on hallitseva.</p>
+<p>3. PORVARI. Voi maata, jonka valtias on lapsi!</p>
+<p>2. PORVARI. On silloin toki toivo hallinnosta, Kun holho-ajan ensin neuvoskunta, Ja, täyteen ikään tulleena, hän itse Siks on ja silloin hallitseva hyvin.</p>
+<p>1. PORVARI. Niin oli myös, kun kuudes Henrik kruunun Yhdeksän-kuisena sai Pariisissa.</p>
+<p>3. PORVARI. Kuin? Niinkö? Ei; sen tietköön Jumala! Maa silloin syväst' oli valtataidost' Ylenkin kuuluisa; ja kuninkaalla Tukena silloin oli kunnon sedät.</p>
+<p>1. PORVARI. Niin tälläi isän puolelta ja äidin.</p>
+<p>3. PORVARI. Josp' isän puolelt' olisivat kaikki Tai isän puolelt' ei niin yhtäkään! Kilpailu ensipaikasta se meitä Käy liian liki, jos ei Herra auta. Oi! Gloster herttua on vaarallinen, Kuningattaren suku pöyhkä, röyhkä: He hallittavat ois, ei hallitsevat, Jott' entiselleen sairas maa taas toipuis.</p>
+<p>1. PORVARI. Pahinta pelkäämme; käy kaikki hyvin.</p>
+<p>3. PORVARI. Kun pilvi uhkaa, pannaan vaippa ylle; Kun lehti varisee, on talvi läsnä; Ken yöt' ei odota, kun päivä laskee? Ajaton myrsky kallist' aikaa tietää. Kaikk' ehkä hyvin käy, jos Luoja sallii, Mut sit' en toivo, sen ei olla väärtit.</p>
+<p>2. PORVARI. Niin, totta, kauhua on mielet täynnä; Jos ketä puhuttelet, kaikki ovat Niin tuskaiset ja synkän näköiset.</p>
+<p>3. PORVARI. Niin ennen suurta muutosta on aina: Taivaallisella vaistoll' ihmismieli Läheistä vaaraa varoo, niinkuin näemme, Ett' ennen myrskyilmaa meri paisuu. Kädessä kaikk' on Herran. Minne matka?</p>
+<p>2. PORVARI. He, meidät haastettu on oikeuteen.</p>
+<p>3. PORVARI. Niin minutkin; no, tehdään sitten seuraa.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Neljäs kohtaus.</p>
+<p>Lontoo. Huone hovilinnassa.</p>
+<p>(Yorkin arkkipiispa, nuori Yorkin herttua, kuningatar Elisabeth ja Yorkin herttuatar tulevat.)</p>
+<p>ARKKIPIISPA. Olivat viime yön Northamptonissa, Ja Stony-Stratfordissa ensi yön, Ja täällä huomenna tai toisena.</p>
+<p>HERTTUATAR. Sydämmestäni halaan nähdä prinssin; Lie kasvanutkin viime näkemästä.</p>
+<p>ELISABETH. Ei kaiketikaan; York, mun poikani, Mitassa, kuulen ma, jo hänet voittaa.</p>
+<p>YORK. Niin, äiti; mutta minä sit' en tahtois.</p>
+<p>HERTTUATAR. Kuin, nuori lanko? Hyväksihän kasvu.</p>
+<p>YORK. Näet, mummo, setä Rivers kerran sanoi, Kun illasteltiin, kasvuss' että voitin Jo veljeni; <span type="quote" xml:lang="fkv">"niin"</span>, sanoi setä Gloster, "On yrtti hento, mutta ruhka rento." Sen jälkeen min' en tahdo joutuun kasvaa, Kosk' yrtti viipyy, mutta ruhka rientää.</p>
+<p>HERTTUATAR. Ei, totta, sopinut se sananparsi Hänehen, joka sovitti sen sinuun! Hän oli pienest' alkain kurja raukka, Niin pitkään, vitkaan kasvoi, että hänen Pitäisi säännön mukaan olla hyvä.</p>
+<p>ARKKIPIISPA. Epäilemättä onkin, rouva hyvä.</p>
+<p>HERTTUATAR. Kenties, mut epäillä tok' äidin suokaa.</p>
+<p>YORK. Tuon hoksannut jos oisin, totta maarin, Sill' oisin setä hyvää pistellyt Ja vielä tuntuvammin kuin hän mua.</p>
+<p>HERTTUATAR. Mitenkä, pikku York? No, anna kuulla.</p>
+<p>YORK. Hän kasvoi, sanotaan, niin joutuun, että Jo kaksituntisena leipää järsi; Ma vasta kaksivuotisna sain hampaan. Purevaa pilaa, mummo, eikö totta?</p>
+<p>HERTTUATAR. Mut, hyvä York, ken tuota sulle kertoi?</p>
+<p>YORK. He, mummo, hänen imettäjänsä.</p>
+<p>HERTTUATAR. Jopa! Hän kuoli ennen kuin sa synnyit.</p>
+<p>YORK. En tiedä, ken sen kertoi, jos ei hän.</p>
+<p>ELISABETH. Ovela vesa! Mene, senkin viiso!</p>
+<p xml:lang="fkv">ARKKIPIISPA. Ei suuttumista lapseen, hyvä rouva.</p>
+<p xml:lang="vep">ELISABETH. Tyynessä kala kutee,</p>
+<p>(Sanansaattaja tulee.)</p>
+<p>ARKKIPIISPA. Kas, tuossa sanantuoja. — Mitä uutta?</p>
+<p>SANANSAATTAJA. Semmoista, jota kertoa on tuska.</p>
+<p>ELISABETH. Kuink' onpi prinssin?</p>
+<p>SANANSAATTAJA. Hyvin; hän on terve.</p>
+<p>HERTTUATAR. No, mitä tiedät uutta?</p>
+<p xml:lang="est">SANANSAATTAJA. Lord Grey, lord Rivers ja lord Thomas Vaughan Pomfretiin vankeina on lähetetty.</p>
+<p>HERTTUATAR. Ken vanginnut on heidät?</p>
+<p xml:lang="fkv">SANANSAATTAJA. Ylväät herttuat Gloster ja Buckingham.</p>
+<p>ELISABETH. Ja mistä syystä?</p>
+<p>SANANSAATTAJA. Kaikk' olen ilmoittanut, minkä tiedän. Ne herrat miks on vangittu ja mistä, Siit' olen tietämätön, armo hyvä.</p>
+<p>ELISABETH. Mua voi! Näen huoneeni jo kukistuksen. Nyt tiiker' iskenyt on hentoon hirveen; Tyrannin röyhkän sorron alle joutuu Viaton, poljeksittu valtaistuin. — Nyt terve veri, murha, teurastus! Näen hengessä jo, miten kaikki päättyy.</p>
+<p>HERTTUATAR. Kirotut, rauhattomat riidan hetket, Kuin monta teitä olenkaan ma nähnyt! Hengellään puolisoni kruunun maksoi; Nakeltiin poikiani sinne, tänne; Ilon tai itkun voitto toi tai tappio. Ja valtaan päästyään ja kansais-riidan Näin juurittuaan, voittajat nyt alkoi Sodittaa toistaan, veli veljeänsä, Veri vertaan, itse itseään; — Oi, hullu Typerä vimma, sappes heitä, tai mun Suo kuolla näkemästä uutta surmaa!</p>
+<p>ELISABETH. Pois, poikani, pyhäkköön paetkaamme. Hyvästi, rouva!</p>
+<p>HERTTUATAR. Varro, mukaan tulen. Siis. Ei teillä syytä.</p>
+<p>ARKKIPIISPA (Elisabethille). Menkää, hyvä armo; Aarteenne, tavaranne mukaan viekää. Pois tässä annan teille sinetin. Niin totta onni mulle hyvää suokoon, Kuin minä teille sekä huoneellenne. Pois tulkaa, pyhäkköön ma teidät saatan.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p type="title" xml:lang="vep">KOLMAS NÄYTÖS.</p>
+<p>Ensimmäinen kohtaus.</p>
+<p xml:lang="olo">Lontoo. Katu.</p>
+<p>(Torvet soivat; Walesin prinssi, Gloster, Buckingham, kardinaali Bourchier y.m. tulevat.)</p>
+<p>BUCKINGHAM. Lontooseen, kammioonne, terve, prinssi!</p>
+<p>GLOSTER. Niin, terve, lanko, mielikuninkaani! Lie raskas matka teitä synkistänyt.</p>
+<p>PRINSSI. Ei, setä, harmista on matka ollut Tukala, ilkeä ja kiusoittava: Setiä muita vastassani kaipaan.</p>
+<p>GLOSTER. Niin, prinssi, nuoruutenne puhdas hyve Maailman viekkautt' ei vielä tunne: Te muuta ette huomaa ihmisestä Kuin ulkokuoren, joka, herra nähköön, Sydäntä harvoin ilmaisee, jos koskaan. Nuo kaipaamanne sedät vaaraks oisi; Makeita sanojaan vaan kuulisitte, Sydämmen myrkkyisyyttä huomaamatta; Jumala teitä varjelkohon heistä Ja mokomista valheystävistä!</p>
+<p>PRINSSI. Niin, valheystävistä, mut ei heistä.</p>
+<p>GLOSTER. Tervehdyksille tulee Lontoon määri.</p>
+<p>(Määri seurueineen tulee.)</p>
+<p>MÄÄRI. Menestys, rauha teidän armollenne!</p>
+<p>PRINSSI. Ma kiitän teitä, kiitän kaikkia. —</p>
+<p>(Määri seurueineen poistuu.)</p>
+<p>Odotin, että veli York ja äiti Jo tiellä meitä vastass' olisivat! — Hyi, tuota Hastings-etanaa, kun sanaa Ei laita, tulevatko he vai eikö!</p>
+<p>(Hastings tulee.)</p>
+<p>BUCKINGHAM. Paraiksi tulee loordi hikipäissä.</p>
+<p>PRINSSI. Terveeksi, loordi! Eikö tule äiti?</p>
+<p>HASTINGS. Jumala tiesi, mut en minä, syytä, Miks ovat äitinne ja veljennekin Pyhäkköön paennehet; hellä prinssi Ois mielellään mua tänne seurannut, Mut äiti häntä esti kaikin voimin.</p>
+<p>BUCKINGHAM. Hyi, mikä mieletön ja tyhmä teko! — Kehoittaa voisitteko, kardinaali, Kuningatarta lähettämään oiti Veljensä, prinssin, luoksi Yorkin herttuan? Jos kieltää hän, niin mukaan menkää, Hastings, Ja poika käsist' äidin riistäkää.</p>
+<p>KARDINAALI. Mylord, jos heikko puhelahjani Äidiltään Yorkin herttuan voi voittaa, Tuon hänet heti; mut jos rukouksist' Ei äiti taivu, varjelkoon mua Herra Häväisemästä pyhän turvapaikan Kallista oikeutta! En moista tekis Ma syntiä, en koko Englannista.</p>
+<p>BUCKINGHAM. Olette liian mahdoton ja jyrkkä, Liiaksi tunnokas ja vanhoillinen. Tään ajan julkeudella punnittuna Pyhyytt' ei loukkaa häneen koskeminen. Pyhäkön turva aina suodaan niille, Jotk' ovat teoillaan sen ansainneet Ja joill' on ymmärrystä sitä pyytää. Mut prinssi sit' ei ansainnut, ei pyynnyt; Siis minusta sen turvaa häll' ei ole. Jos pois sen viet, mik' ei saa missä olla, Et sillä riko vapautt', oikeutta. Ma miesten kirkkoturvast' olen kuullut, Mut lasten kirkkoturvasta — en koskaan.</p>
+<p>KARDINAALI. Minusta tällä kertaa voiton saatte. — No, Hastings, tuletteko mukaan?</p>
+<p>HASTINGS. Kyllä</p>
+<p xml:lang="smn">PRINSSI. Mut rientäkäätte joutuun, hyvät herrat. —</p>
+<p>(Kardinaali ja Hastings menevät.)</p>
+<p>Sanokaa, setä, veljeni jos tulee, Miss' oleksimme kruunaukseen asti?</p>
+<p>GLOSTER. Miss' itse, ruhtinaani, suvaitsette. Minusta voisi teidän korkeutenne Levähtää päivän, pari Towerissa Ja sitten missä tahdotte ja missä On terveyteen ja mieleen nähden paras.</p>
+<p>PRINSSI. Ei mikään mua tylki niin kuin Tower. — Sen linnan rakensi kai Julius Caesar?</p>
+<p>GLOSTER. Hän alusti sen, armollinen prinssi, Mut aika ajoin sit' on uudistettu.</p>
+<p>PRINSSI. Asiakirjaanko se perustuu Vai ajast' aikaan käypään muistojuttuun?</p>
+<p>BUCKINGHAM. Asiakirjaan, armollinen prinssi.</p>
+<p>PRINSSI. Mut mitä, jos ei siitä oiskaan kirjaa; Ijäti pitäis totuuden tok' elää Ja perintönä käydä ajast' aikaan Maailman viimeisimpään päivään asti.</p>
+<p>GLOSTER (syrjään). Sanotaan, viisas laps ei elä kauan.</p>
+<p xml:lang="fkv">PRINSSI. He, mitä, setä, sanotte?</p>
+<p>GLOSTER. Ett' elää, kirjattakin, maine kauan. — (Syrjään.) Näin, niinkuin Synti paastonäytelmässä, Ma yksin sanoin lausun kaksi mieltä.</p>
+<p>PRINSSI. Se Julius Caesar oli kuulu mies; Häll' urhous rikastutti älyä Ja äly ikuistutti urhoutta: Ei sitä voittajata kuolo voita; Hän maineess' elää, vaikk' ei elämässä. — Tietkääpä mitä, lanko Buckingham?</p>
+<p>BUCKINGHAM. Mit', armollinen prinssi?</p>
+<p>PRINSSI. Jos vaan elää Saan mieheksi, niin vanhan oikeutemme Anastan Ranskaan, taikka sotilaana Ma kuolen, niinkuin elin kuninkaana.</p>
+<p>GLOSTER (syrjään). Keväästä aikaisesta lyhyt kesä.</p>
+<p>(York, Hastings ja kardinaali tulevat.)</p>
+<p>BUCKINGHAM. Paraiksi ihan tulee Yorkin herttua.</p>
+<p>PRINSSI. No, Richard York! Kuink' arvo veljyt jaksaa?</p>
+<p>YORK. Hyvin, majesteetti; se nyt nimenne.</p>
+<p>PRINSSI. Niin, veli, mulle suruksi ja sulle. Sen nimen omaaja vastikään kuoli, Ja siitä halventui sen suuruus paljon.</p>
+<p>GLOSTER. Mitenkä voitte, jalo lanko York?</p>
+<p>YORK. Suur' kiitos, setä hyvä. — Oi, mut kuulkas, Sanoitte: paha ruhka kasvaa joutuun; Mitassa veli prinssi minut voittaa.</p>
+<p>GLOSTER. Niin tekee.</p>
+<p>YORK. Senkö vuoksi hän on paha?</p>
+<p xml:lang="fkv">GLOSTER. Ei, lanko, sit' en sano.</p>
+<p>YORK. Hänen tulee Siis kiittää teitä enemmän kuin minun.</p>
+<p>GLOSTER. Hänellä minuun käskijän on valta, Mut teillä sukulaisen oikeus.</p>
+<p xml:lang="fkv">YORK. Tikari tuo siis suokaa mulle, setä.</p>
+<p xml:lang="fkv">GLOSTER. Tikari? Mielist' aivan, pikku lanko.</p>
+<p>PRINSSI. Kerjäätkö, veli?</p>
+<p>YORK. Setä hyväiseltä, Jonk' antavan ma tiedän, mitä pyydän; Ja moista joutavaa on helppo antaa.</p>
+<p>GLOSTER. Paremman lahjan annan langolleni.</p>
+<p>YORK. Paremman lahjan? Varmaan miekkanne?</p>
+<p>GLOSTER. No, kyllä, jos se oisi kyllin kevyt.</p>
+<p>YORK. Kevyitä vaanko ovat antimenne? Kun painavampaa kerjää, niin saa kiellon.</p>
+<p>GLOSTER. Se liian painava on teidän kantaa.</p>
+<p>YORK. Se kevyt on, vaikk' oiskin painavampi.</p>
+<p xml:lang="fkv">GLOSTER. Aseeni tahdotten siis, pikku lanko?</p>
+<p>YORK. Niin tahdon; ja mun kiitokseni tulee Nimeni mukainen.</p>
+<p>GLOSTER. Min moinen?</p>
+<p xml:lang="olo">YORK. Pieni.</p>
+<p>PRINSSI. York veli aina puheissaan on töykkä; Mut, setä, kantakaa se kärsimällä.</p>
+<p>YORK. Mua kärsimällä kantakaa, hän pyytää. Setä, hän ivaa minua ja teitä: Kun olen pikkuinen kuin marakatti, Mua voitte muka selässänne kantaa!</p>
+<p>BUCKINGHAM. Kuin sattuvat on sutkapuheet hällä! Ivaansa setää kohtaan lieventääkseen Somasti, sieväst' itseään hän ilkkuu. Niin nuori ja niin viekas, ihme, kumma!</p>
+<p>GLOSTER. Suvaitsetteko tulla, ruhtinaani? Me käymme, lanko Buckingham ja minä, Äitinne luokse, pyytääksemme häntä Toweriin teitä tervehyttämään.</p>
+<p>YORK. Kuin? Toweriinko aiotte, mylord?</p>
+<p>PRINSSI. Protektori sen katsoo tärkeäksi.</p>
+<p>YORK. Min' en saa rauhan unta Towerissa.</p>
+<p>GLOSTER. Ja miksi? Mikä siellä peljättää?</p>
+<p>YORK. Oi! Clarence sedän vihastunut haamu; Hän siellä murhattiin, niin sanoo mummo.</p>
+<p>PRINSSI. Setiä kuolleita en minä pelkää.</p>
+<p xml:lang="fkv">GLOSTER. Ja totta ette eläviäkään?</p>
+<p>PRINSSI. Ei, totta, elävissä pelkäämistä. Mut tule, veli; mielin raskahin Heit' aattelen, kun menen Toweriin.</p>
+<p xml:lang="nno">(Torventoitaus. Prinssi, York, Hastings, kardinaali ja seurue poistuvat.)</p>
+<p>BUCKINGHAM. Tuo pikku lörppä York, hän eikö vainen Kavalan äidin liene yllyttämä Noin ilkeästi teitä ilkkumaan?</p>
+<p>GLOSTER. On varmaan, varmaan. Vaarallinen poika, Eloisa, uljas, näppärä ja viisas Kiireestä kantapäähän niinkuin äiti!</p>
+<p>BUCKINGHAM. Jo kyllin siitä. — Tule tänne, Catesby; Vakaasti vannoit aikehemme täyttää Ja tarkoin salata, mit' ilmaisemme. Sa tiedät, mistä matkall' oli puhe: — Mit' arvelet sa? Ehkä helpostikin Taipuisi William Hastings meidän tuumaan Asettaa tämä jalo herttua Tään kuulun saaren valtaistuimelle?</p>
+<p>CATESBY. Niin isän tähden prinssiä hän lempii, Ett' ei niin mihin suostu häntä vastaan.</p>
+<p xml:lang="fkv">BUCKINGHAM. Mut' mitä luulet Stanleyst'? Eikö hänkään?</p>
+<p>CATESBY. Hän tekee kaikki niinkuin Hastings tekee.</p>
+<p>BUCKINGHAM. No, hyvä, siis vaan tämä: mene Catesby, Varoen tunnustele Hastingsilta, Kuink' ovat hälle mieleen meidän hankkeet. Toweriin huomiseksi häntä pyydä Neuvottelemaan kruunauksesta. Jos huomaat, ett' on meihin taipuvainen, Niin kehotellen kerro kaikki syymme; Jos kylm' on, tylsä hän kuin jää ja lyijy, Sin' ole samoin, keskeytä puhe, Ja meille miehen mieli tiedoks anna. Huomenna meill' on eri neuvottelu Ja siellä sua suuresti on tarvis.</p>
+<p>GLOSTER. Tervehdi Hastingsia, sano, että Vanhoista hänen verivainoojistaan Huomenna suonta lyödään Pomfretissa, Ja pyydä, että mistress Shorelle Siit' ilosta hän antaa lisäsuukon.</p>
+<p>BUCKINGHAM. Niin, mene, Catesby; toimi taitavasti.</p>
+<p>CATESBY. Kyll', arvo herrat, visusti ja tarkkaan.</p>
+<p>GLOSTER. Sult' ennen makuutako tiedon saamme?</p>
+<p>CATESBY. Kyll' arvo herra, saatte.</p>
+<p>GLOSTER. Crossby-placeen; Sa siellä tapaat meidät molemmat.</p>
+<p xml:lang="eng">(Catesby menee.)</p>
+<p>BUCKINGHAM. Mut' mit' on meidän tehtävä, jos näemme, Ett' ei lord Hastings suostu tuumaamme?</p>
+<p>GLOSTER. Pää poikki! — jotakin on päätettävä: — Ja kun min' olen kuningas, niin sinä Herefordin kreivikunnan saat ja kaiken Kuningas-vainaan irtaan omaisuuden.</p>
+<p>BUCKINGHAM. Vetoan korkeutenne lupaukseen.</p>
+<p>GLOSTER. Ja mielisuosilla se täytetään. Nyt iltaiselle; ja kun se on tehty, Niin valmiiks sulatamme tuumiamme.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Toinen kohtaus.</p>
+<p>Lord Hastingsin talon edustalla.</p>
+<p>(Sanansaattaja tulee.)</p>
+<p xml:lang="fkv">SANANSAATTAJA (kolkuttaa ovea). Mylord, mylord!</p>
+<p>HASTINGS (sisältä). Ken siellä?</p>
+<p>SANANSAATTAJA. Stanleyn viesti.</p>
+<p>HASTINGS (sisältä). Mitä on kello?</p>
+<p>SANANSAATTAJA. Neljä lyönnilleen.</p>
+<p>(Hastings tulee.)</p>
+<p>HASTINGS. Sun herras eikö saa hän unta öisin?</p>
+<p>SANANSAATTAJA. Niin, siltä näyttää, päättäin viestistäni. Ensinkin sulkeutuu hän suosioonne.</p>
+<p>HASTINGS. Ja sitten?</p>
+<p>SANANSAATTAJA. Hän ilmoittaa, ett' unessa vei karju Kypärän hänen päästään; lisäks, että On kahdet neuvottelut, joissa voidaan Toisessa moista päättyä, mikä toisess' On katumoiksi teille kummallenkin. Siis kysyy, tahdotteko, korkeutenne, Ratsaille hänen kanssaan oiti nousta Ja kiireimmittäin rientää pohjoiseen Pakohon vaaraa, jota ennustaa hän.</p>
+<p>HASTINGS. Palaja herras luo, ja sano, ettei Noit' eri neuvotteluja hän pelkäis: Hän sekä minä toisess' istumme, Ja toisess' ystäväni, kelpo Catesby; Siell' ei voi mitään tapahtua meille, Jot' en sais heti minä tiedokseni. Ajaton, tyhmä pelkons' on, niin sano. Mit' uneen tulee, ihmettelen, ett' on Niin houkka hän, ett' uskoo moiseen tyhjään Unien ilveilyyn. Jos ennen kuin Hätyyttää karju, sitä pakenemme, Niin ajoon sillä vaan sit' ärsytämme Ja päälle käymään vastoin aikomustaan. Palaja, käske herras oiti tänne; Menemme sitten kahden Toweriin, Ja nähdä saa hän, ett' on karju säisy.</p>
+<p xml:lang="fkv">SANANSAATTAJA. Sananne, herra, heti hälle saatan.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>(Catesby tulee)</p>
+<p>CATESBY. Suloista huoment', armollinen loordi!</p>
+<p>HASTINGS. Huometa, Catesby! Varhain liikkehellä. Mit' uutta hoippuvasta valtiosta?</p>
+<p>CATESBY. Niin, totta, maailma on pyöräll' aivan, Ja luulen, ett'ei pystyssä se pysy, Jos ei sen valtaseppeltä saa Richard.</p>
+<p>HASTINGS. Kuin? Valtaseppeltä? Niin, kruunuako?</p>
+<p xml:lang="fkv">CATESBY. Niin, hyvä loordi.</p>
+<p>HASTINGS. Pää multa ennen poikki lyötäköön, Kuin että moiseen päähän soisin kruunun. Mut luuletko, ett' ahnailee hän sitä.</p>
+<p>CATESBY. Niin totta kuin ma elän; toivoopa Viel' apuannekin sen voittaaksensa, Ja siksi lähettää sen ilotiedon, Ett' tänään surman saavat vainoojanne, Kuningattaren suku, Pomfretissa.</p>
+<p>HASTINGS. En, totta, tuota sanomata itke, Sill' aina pitivät he vihaa mulle; Mut siitä Richardia puoltaisinko Ja tosi perillisen syrjäyttäisin? En kuolemakseni, en jumal'auta!</p>
+<p>CATESBY. Jumala hurskait' aikeitanne kaitkoon!</p>
+<p>HASTINGS. Mut tuota minä kaiken vuotta nauran, Ett' olen niiden kaatumuksen nähnyt, Jotk' ovat parjanneet mua herralleni. Kun neljätoist' on päivää mailleen mennyt, Pois moni täält' on päässyt arvaamattaan.</p>
+<p>CATESBY. Mut ruma asia, mylord, on kuolla Noin arvaamatta, valmistumatonna.</p>
+<p>HASTINGS. Oi, julmaa, julmaa! Mutta niinhän kävi Greyn, Riversin ja Vaughanin, ja samoin Käy monen muun, jok' on nyt yhtä varma Kuin sinä sekä minä, jota suosii, Sen tiedät, Buckingham ja Richard prinssi.</p>
+<p>CATESBY. Niin, suuren arvon panevat he teihin. (Syrjään.) Niin, kaakkiin arvon hänet panisivat.</p>
+<p>HASTINGS. Sen tiedän ja sen hyvin ansaitsenkin.</p>
+<p>(Stanley tulee)</p>
+<p>Kas niin vaan! Missä, mies, on keihääsi? Sa pelkäät karjua, eik' asett' ole?</p>
+<p>STANLEY. Huomenta, loordi! Catesby, huomenta! Pilailkaa vaan; mut, kautta pyhän ristin, Noit' eri neuvostoja minä kammon.</p>
+<p>HASTINGS. Mun henken' yhtä kallis on kuin teidän, Mut koskaan elämässäni, sen vannon, Se kalliimpi kuin nyt ei mulle ollut. Näin luulisitteko mun riemuilevan, Jos tilaamme en tietäis turvatuksi?</p>
+<p>STANLEY. Lontoosta Pomfretinkin herrat läksi Hyvässä turvassa ja riemuellen, Ja syytä pelkoon heill' ei ollutkaan. Mut nähkääs, kuinka pian päivä mustuu. Tää luihu vihan isku epäilyttää. Jumala suokoon, että turhaa pelkään! Toweriin lähdetäänkö? Aika rientää.</p>
+<p>HASTINGS. Mukahan tulen. — Tietäkääs, nuo herrat, Joist' äsken puhuitte, nyt pääsee päästään.</p>
+<p>STANLEY. Sais ennen kunnot miehet pitää päänsä, Kuin monet konnat käydä hattu päässä. No, joko mennään?</p>
+<p>(Airuen palvelija tulee.)</p>
+<p>HASTINGS. Edellä te menkää, Ma ensin puhuttelen tätä miestä. (Stanley ja Catesby menevät.) No, mitä kuuluu, mies? Kuink' elät sinä?</p>
+<p>PALVELIJA. Hyvästi, kiitos arvo kysyjälle.</p>
+<p>HASTINGS. Nyt, tiedäs, mulla paremmat on päivät Kuin viimein täällä tavatessamme; Toweriin silloin vankina ma kuljin Kuningattaren joukon vehkeilystä; Nyt, tiedäs, — vaan sit' älä kelleen kerro —, Nuo vainoojani tänään surman saavat, Ja mull' on päivät paremmat kuin koskaan.</p>
+<p>PALVELIJA. Jumala suokoon niiden kauan kestää!</p>
+<p>HASTINGS. Suur' kiitos vaan! Kas, tuossa juomarahaa.</p>
+<p>(Viskaa hänelle kukkaronsa.)</p>
+<p xml:lang="est">PALVELIJA. Ma kiitän nöyrimmästi. (Menee.)</p>
+<p>(Pappi tulee.)</p>
+<p>PAPPI. Kah, mylord! Iloista nähdä teidän armoanne.</p>
+<p>HASTINGS. Sua kiitän sydämmestäni, sir John. Sinulle viime ripist' olen velkaa, Kun tulet ensi pyhänä, niin maksan.</p>
+<p>(Buckingham tulee.)</p>
+<p>BUCKINGHAM. Kamariherrallako pappi luonaan? Tuoll' olis Pomfretissa pappi tarpeen, Mut teidän viel' ei tarvis ripitystä.</p>
+<p>HASTINGS. Kun tämän pyhän miehen näin, niin juuri Noit' ajattelin, joita mainitsitte. Olette Toweriin kai matkalla?</p>
+<p>BUCKINGHAM. Niin olen, mutta kauan siell' en viivy; Ma lähden ennen teidän armoanne.</p>
+<p>HASTINGS. Niin kai; min' aion siellä lounastaa.</p>
+<p>BUCKINGHAM (syrjään). Ja illastaakin, vaikka sit' et tiedä. No, tuletteko?</p>
+<p xml:lang="vep">HASTINGS. Nöyrin palvelijanne.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Kolmas kohtaus.</p>
+<p xml:lang="olo">Pomfret. Linnan edusta.</p>
+<p>(Ratcliff tulee vartijajoukon kanssa, joka vie Riversin, Greyn ja Vaughanin mestattaviksi.)</p>
+<p>RATCLIFF. Esille tuokaa vangit.</p>
+<p>RIVERS. Sir Richard Ratcliff, kuule sanani: Sa tänään kuoloon saatat alamaisen Vakavan, uskollisen, kuuliaisen.</p>
+<p>GREY. Jumala prinssiämme kaitkoon teistä, Kirotut senkin verimadot kaikki!</p>
+<p>VAUGHAN. Te kerran tätä vielä vaikeroitte!</p>
+<p>RATCLIFF. Pois joutuun! Päivänne on päättyneet.</p>
+<p>RIVERS. Oi, Pomfret, Pomfret! Tyrmä verinen, Maan yleville tuhon, turman enne! Syntisten muuriesi kehyksessä Hakattiin kuoliaaksi toinen Richard, Ja inhaa pesääs yhä tahratakses Nyt meidänkin juot viatonta verta.</p>
+<p>GREY. Nyt meitä kohtaa Margareetan kirot Siit' että Hastings, te ja minä näimme Kuin Richard hänen poikans' otti hengen.</p>
+<p>RIVERS. Hastingsin kirosi hän, Buckinghamin kirosi hän, Richardin kirosi hän; — muista, Jumala, Se kirous täyttää heissä niinkuin meissä! Mut sisartani lapsinensa säästä, Ja tyydy meidän uskolliseen vereen, Mi, niinkuin tiedät, Herra, syyttä vuotaa.</p>
+<p>RATCLIFF. Pois joutuun! Kuolinhetkenne on tullut.</p>
+<p>RIVERS. Nyt, Grey ja Vaughan, vielä syleily: Hyvästi, kunnes taivaass' yhdytään!</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Neljäs kohtaus.</p>
+<p>Lontoo. Huone Towerissa.</p>
+<p>(Buckingham, Stanley, Hastings, Elyn piispa, Catesby, Lovel y.m. istuvat pöydän ympärillä; tuolien takana seisoo oikeudenpalvelijoita)</p>
+<p>HASTINGS. Niin, jalot päärit, kruunausta varten Olemme kokoon tulleet; Herran nimeen, Sanokaa, milloin on se riemupäivä?</p>
+<p>BUCKINGHAM. Kuninkaan juhlaan valmist' onko kaikki?</p>
+<p>STANLEY. On; päivän määrääminen yksin puuttuu.</p>
+<p>ELY. Minusta sopiva on huomispäivä.</p>
+<p>BUCKINGHAM. Ken tuntee protektorin mielen tässä? Ken on sen jalon prinssin uskotuin?</p>
+<p>ELY. Te, herttua, hänet parhain tuntenette.</p>
+<p>BUCKINGHAM. Näöstä tutut ollaan; sydäntäni Ei tunne niinkään hän kuin minä teidän, Ja min' en hänen niinkään kuin te minun. Lord Hastings hänen paras suosittunsa.</p>
+<p>HASTINGS. Suur' kiitos; hän mua suosii, sen ma tiedän Mut hänen mieltään kruunauksesta En ole kysellyt, ei hänkään liioin Armollist' ajatustaan ilmaissut. Mut mainitkaa te aika, arvo loordit, Niin minä herttuan puolest' äänestän: Hän, toivon ma, ei sitä paheksune.</p>
+<p>(Gloster tulee.)</p>
+<p>ELY. Paraiksi tässä tulee prinssi itse.</p>
+<p>GLOSTER. Huomenta, jalot langokset ja loordit! Min' olen ollut untelo, mut toivon, Ett'ei mun viipymäni tähden ole Tärkeitä asioita laiminlyöty.</p>
+<p>BUCKINGHAM. Jos ette olis viittasanaan tullut, Lord Hastings lausunut ois teidän osan, Tarkoitan, teidän äänen kruunauksesta.</p>
+<p>GLOSTER. Muut älkööt moista rohjetko kuin Hastings; Mun tuntee herttua ja mua suosii. — Näin taannoin Holbornissa, mylord Ely, Somia mansikoita puistossanne; Ma pyydän, haettakaa niitä mulle.</p>
+<p xml:lang="fkv">ELY. Kyll', armollinen herra, mielist' aivan.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>GLOSTER. Sananen teille, lanko Buckingham. (Vie hänet syrjään.) Hastingsin mieltä urkkinut on Catesby: Se niskuri niin kiivas on, ett' ennen Pääns' antaa hän, kuin herrans' antaa lapsen, — Joks arvollisimmasti poikaa kutsuu, — Menettää oikeuttaan maansa kruunuun.</p>
+<p>BUCKINGHAM. Hetkeksi poistukaatte; minä seuraan.</p>
+<p>(Gloster ja Buckingham poistuvat.)</p>
+<p>STANLEY. On riemujuhla vielä määräämättä, Huomenna liian äkkinäistä oisi; Enk' itsekään niin kunnoss' ole vielä, Kuin olisin, jos päivä lykättäisiin.</p>
+<p>(Elyn piispa palajaa.)</p>
+<p>ELY. Miss' ompi armollinen protektori? Min' olen mansikat jo toimittanut.</p>
+<p>HASTINGS. Iloinen, laupias on tänään prinssi. Mielessä häll' on jotain mielehistä, Kun meitä tervehtii niin hilpeästi. Ei toista kristikunnassa, ken voisi Vähemmin peittää rakkautta ja vihaa; Sydämmen oiti ilmaisevat kasvot.</p>
+<p>STANLEY. Mit' erityistä sydänt' ilmaisevaa Näette tänään hänen kasvoissaan?</p>
+<p>HASTINGS. Sen, ettei meistä ketäkään hän vihaa; Se muuten näkyis hänen katseestaan.</p>
+<p xml:lang="est">(Gloster ja Buckingham palajavat.)</p>
+<p>GLOSTER. Sanokaa, mikä rangaistus on sille, Ken saatanallisella noituudella Ja pirun vehkeill' etsii henkeäni Ja ruumiin hornan-taioillansa rikkoo?</p>
+<p>HASTINGS. Mun rakkauteni teitä kohtaan käskee Mun tässä prinssiseurass' ensimmäisnä Julistaa syylliselle tuomion: Ken olkoonkin, hän ansainnut on surman.</p>
+<p>GLOSTER. Siis omin silmin nyt sen tuhot nähkää: Lumottu näin, kas, olen; kätenikin On, näet, kuihtunut kuin kuiva rönsy; Edwardin vaimo hän, se ilki noita, Ja kätyrinsä Shore, tuo rietas portto, He näin mun rienanneet on taioillansa.</p>
+<p>HASTINGS. Jos tuon he ovat tehneet, jalo herttua, —</p>
+<p>GLOSTER. Jos! Sinä hoimija sen häijyn porton, Sanotko: jos? — Sin' olet kavaltaja: — Pää poikki tuolta! Santta Paavali, En ennen ruokaile kuin saan sen pään! — Lovel ja Catesby, toimeen käsky pankaa! Ken ystäväni on, mua seuratkoon.</p>
+<p>(Gloster ja Buckingham menevät, heidän jäljessään neuvoskuntaa.)</p>
+<p>HASTINGS. Voi Englantia! Mua ei hiukkaakaan, Hupelo, tämän oisin välttää voinut. Näk' unta Stanley, että karju hältä Kypärän riisti; minä tuota ilkuin, Pakoa halveksien. Kolme kertaa Kompastui tänään mieliratsuni Ja pilttoutui, Towerin kun näki, Ikäänkuin tätä teurashuonett' inhois. Nyt äskeist' olis pappia mun tarvis. Oi, kadun, mitä riemuellen kerroin Ma airuelle, että Pomfretissa Mun vainoojani tänään veriin sortuu. Ja että suosiss' olen, turvass' itse. Oi, Margareeta, raskaat kirouksesi Nyt kohtaa Hastings raukan kurjaa päätä!</p>
+<p>CATESBY. Pois joutuun! Prinssi tahtoo ruokaella; Ripitys lyhyt! Päätänne hän himoo.</p>
+<p>HASTINGS. Oi, hetkellist' on armo kuolevaisen Ja sentään mielempää kuin taivaan armo. Ken sinun sulokatsees ilmavirvaan Perustaa toivonsa, sen henki hoippuu Kuin juopunehen laivan mastossa, Jonk' uhkaa pieni noikkauskin syöstä Syvyyden turmaa tuottavaiseen kuiluun.</p>
+<p>CATESBY. Pois joutuun, joutuun! Turhaa voivotella.</p>
+<p>HASTINGS. Verinen Richard! — Maani poloinen! Ennustan sulle kamalinta aikaa, Mit' ikään inhass' ijässä on nähty. Nyt ota pääni, vie se Glosterille, Tuleepa surma pian ilkkujille.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p xml:lang="est">Viides kohtaus.</p>
+<p>Towerin muurien sisäpuolella.</p>
+<p>(Gloster ja Buckingham tulevat, ruostunut sota-asu yllä ja kovin rumannäköisinä muodoltaan.)</p>
+<p>GLOSTER. Vavista voitko, lanko, kasvos muuttaa, Ja kesken sanaa tukehuttaa henkes, Ja alkaa taas ja taaskin keskeyttää, Kuin vimmainen ja hullu kauhust' oisit?</p>
+<p>BUCKINGHAM. Oi, kelpo murhenäyttelijän lailla Puhelen, sivulle ja taakse vilkun, Vapisen, säpsähdän, jos korsi liikkuu, Ja luulevaista matkin; kauhun katse Ja pakkohymy tarjona on mulla, Ja kumpikin ne virassaan on alttiit Jok' aika suosimaan mun juoniani. Mut' onko Catesby mennyt?</p>
+<p>GLOSTER. On, on; ja kas, hän tuossa tuopi määrin.</p>
+<p>(Määri ja Catesby tulevat.)</p>
+<p xml:lang="nob">BUCKINGHAM. Lord määri, —</p>
+<p xml:lang="fkv">GLOSTER. Tähytkää nostosiltaa!</p>
+<p xml:lang="fkv">BUCKINGHAM. Mitä? Rumpu!</p>
+<p xml:lang="est">GLOSTER. Sa, Catesby, silmää valleja!</p>
+<p>BUCKINGHAM. Lord määri, Me haetimme teidät, —</p>
+<p>GLOSTER. Varuill' ole Ja pidä puoltas: vainoojia tulee.</p>
+<p>BUCKINGHAM. Meit' auta Jumala ja syyttömyys!</p>
+<p>(Lovel ja Ratcliff tuovat Hastingsin pään.)</p>
+<p xml:lang="fkv">GLOSTER. Ei hätää! Ystäviä: Ratcliff, Lovel.</p>
+<p>LOVEL. Täss' on sen ilkikavaltajan pää, Sen luihun, tekohurskaan Hastingsin.</p>
+<p>GLOSTER. Tuost' itkuun hellyn, niin ma häntä lemmin. Oi! luulin, ett'ei kristittyä luomaa Niin suoraa, vilpitöntä ollut toista; Hän oli kirja, johon sieluni Salaiset miettehensä piirsi kaikki; Vikansa niin hän hyveen kiiltoon peitti, Ett' ottamatta lukuun julki-syytään, Tarkoitan suhdettansa Shoren vaimoon, Ei moitteen tahra häneen pystynyt.</p>
+<p>BUCKINGHAM. Niin, niin, hän oli liehakoivin luikki, Kavalin mies, mik' elänyt on koskaan. Oi, voisittenko aatella tai luulla — Jos tätä kertomaan ei ihme meitä Ois pelastanut — että neuvostossa Tuo luihu pettur' aikeess' oli tänään Mun murhata ja hyvän Glosterinkin?</p>
+<p>MÄÄRI. Kuin? Eihän toki!</p>
+<p>GLOSTER. Mitä! Luulettenko, Ett' oomme turkkeja tai pakanoita Ja vastoin selvää lakia niin ruttoon Tuon konnan kuolemata joudutimme, Jos meit' ei äärimmäinen pakkotila, Englannin rauha sekä oma turva Ois väkisinkin tähän vaatineet?</p>
+<p>MÄÄRI. Onneksi teille! Ansaitsikin kuolla. Te, armot, teitte sillä kelpo työn Varoitukseksi muille pettureille.</p>
+<p>BUCKINGHAM. Siit' alkain hänestä en hyvää luullut, Kuin tuohon kehnoon rouva Shoreen ryhtyi; Olikin tuuma jättää surma siksi, Ett' ehtisitte te, mylord, sen nähdä; Mut ystäväimme kiireellinen into Meit' ennätti ja teki tyhjäks aikeen: Ol' aikomus, ett' itse kuulisitte Nulona kavaltajan tunnustavan Petoksen laadun sekä tarkoituksen, Jott' olisitte voineet kertoa Sen porvaristolle, jok' ehkä väärin Selittää työn ja miehen surmaa itkee.</p>
+<p>MÄÄRI. Sananne, herttua, on mulle yhtä Kuin omat näkemäni, kuulemani; Ja takaan teille, armolliset prinssit, Ett' uskollisen porvariston kuullen Selitän tässä oikein menetellyn.</p>
+<p>GLOSTER. Siks' teidät kutsutimmekin, mylord, Ett' ilkimysten moitteet välttäisimme.</p>
+<p>BUCKINGHAM. Mut vastoin aikomaa kun viivästyitte, Niin todistakaa vaan, min kuulitte. Ja hyvästi nyt jääkää, hyvä määri.</p>
+<p>(Määri menee.)</p>
+<p>GLOSTER. Jälessä mene, lanko Buckingham. Guildhalliin määri suoraa päätä rientää; Sun siellä tulee, milloin aikaan sopii, Edwardin lapset näyttää äpäriksi; Sano, ett' Edward tappoi kansalaisen, Kun tämä väitti, että poikans' oli Perivä kruunun, tarkoittaen sillä Taloaan, jonka kilvess' oli kruunu. Kuvaile hänen irstast' elämäänsä Ja petomaista vaihdon haluaan, Jok' etsii piiat, tyttäret ja vaimot, Mist' irstas silmä vaan ja hauras mieli Himolleen hillitönnä saaliin löysi. Lähemmä siirrä minut, jos on tarvis; Sano: tuota kylläymätönt' Edwardia Kun kantoi äitini, niin silloin York, Isäni ylvä, Ranskan sodass' oli; Ja, tarkoin aikaa laskettuaan, keksi, Ett' ei se lapsi hänen lapsens' ollut; Sen näki hänen kasvoistaankin, joiss' ei Tuon jalon herttuan piirrettäkään ollut. Mut varovasti, kaukaa siihen koske: Eläähän vielä, tiedät, äitini.</p>
+<p>BUCKINGHAM. Mylord, ei hätää; juttuilla ma taidan, Kuin kultainen se palkka, josta kiistän, Ois mulle tuleva; hyvästi jääkää.</p>
+<p>GLOSTER. Jos onnistaa, vie heidät Baynard-castleen; Mun siellä tapaat oppineiden piispain Ja pyhäin isäin ympäröimänä.</p>
+<p>BUCKINGHAM. Ma lähden; kolmen taikka neljän aikaan Te saatte Guildhallista uutta kuulla.</p>
+<p xml:lang="nob">(Buckingham menee.)</p>
+<p>GLOSTER. Shaw tohtorille sinä, Lovel, riennä, — Ja sinä (Catesbylle) veli Penkerille; — sano, Ett' tunnin päästä Baynard-castless' ovat.</p>
+<p>(Lovel ja Catesby menevät.)</p>
+<p>Nyt itse menen salaa toimittamaan Pois näkyvistä Clarence-veljen pennut, Ja kieltämään, ett' yhtäkään ei päätä Saa päästää nuorten prinssein pakinoille.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>Kuudes kohtaus.</p>
+<p>Sama seutu. Katu.</p>
+<p>(Kirjuri tulee.)</p>
+<p>KIRJURI. Täss' syyte kelpo Hastingsia vastaan On puhtaaks kirjoitettuna, ja tänään Paavalin kirkossa se kuulutetaan. Ja nähkääs, mikä hieno täss' on juoni: Tät' yksitoista tiimaa kopioitsin, — Catesbylta sain sen eilen iltamyöhään; On alustelmaan mennyt sama aika; Ja neljä tiimaa sitten Hastings eli Vapaana, puhtaana ja moitteetonna. Ihana maailma! — Ken on niin tylsä, Ett' ilmijuonta täss' ei näe? Ja kuka Niin rohkea, ett' ilmoittaa sen tohtii? Paha on aika, kaikki turmiolla, Kun moinen rikos täytyy peitoss' olla.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>Seitsemäs kohtaus.</p>
+<p xml:lang="olo">Seutu sama. Baynard-castlen linnan piha.</p>
+<p>(Gloster tulee toisesta ovesta, Buckingham toisesta.)</p>
+<p>GLOSTER. No, mitä! Mitä sanoo porvaristo?</p>
+<p>BUCKINGHAM. Nimessä pyhän äidin! porvaristo On vait, ei sano mitään.</p>
+<p>GLOSTER. Mainithan Edwardin lasten äpäryyden?</p>
+<p>BUCKINGHAM. Mainin, Ja naimaliiton lady Lucyn kanssa, Ja naimat Ranskass' edusmiehen kautta, Ja himojensa hillittömän kiiman, Ja Cityn naisten väkivaltaamisen, Ja julmuutensa joutavista syistä, Ja hänen oman äpäryytensä, Kuink' isän Ranskass' ollessa hän siittiin, Ja näkönsäkin, jok' ei isään ollut. Ja siitä teidän näköönne ma johduin, Kuink' ilmi isänne te olette Niin mielen jalouteen kuin muotoon nähden; Voittonne kaikki Skotlannissa kerroin, Sotakurinne ja rauhantoimenne, Hyveenne, hyvyytenne, nöyryytenne; En löyhäst' ajanut, en unhottanut Vähintäkäään, mik' auttais hankettamme. Puheeni lopulla ma sitten käskin Jokaisen maataan rakastavan huutaa: "Jumala varjelkohon Richardia, Englannin kuningasta!"</p>
+<p xml:lang="fkv">GLOSTER. Huusivatko?</p>
+<p>BUCKINGHAM. Ei, Jumal'auta! Hiiskaust' en kuullut; Kuin mykät kuvat, hengettömät patsaat, Toisiinsa tuijottivat kalmakkaina. Toruen heitä, kysyin määriltä, Mit' äänettyys tää itsepäinen tietää; Hän vastas, ettei kansa kuulemaan Muit' ollut tottunut kuin puhemiestään. Nyt hänen täytyi toistaa lausumani: — <span type="quote" xml:lang="fkv">"Niin herttua arvelee, niin herttua sanoo"</span>; Mut mitään vakuudeks ei itse lisää. Kun puhe päättyi, jotkut meidän miehet Ovella heiluttivat hattujansa Ja joku kymmenkunta ääntä huusi: "Kuningas Richard kauan eläköön!" Hyväksi tätä käyttäen nyt lausuin: "Suur' kiitos, ystävät ja kansalaiset! Älyä, rakkautta Richardiin Tää ylt'yleinen ilohuuto ilmaa." Ja siihen taukosin ja menin pois.</p>
+<p>GLOSTER. Ne mykät pölkyt! Ääntä eikö heissä? No, miss' on määri virkaveljineen?</p>
+<p>BUCKINGHAM. Hän tulee kohta; teeskennelkää tuskaa, Pakolla puheillenne päästäkää, Rukouskirja kädess' asettukaa Parisen kirkonmiehen väliin; siitä Saan aiheen pyhään saarnaan; hevill' älkää Pyyntöömme suostuko; kuin tytöt tehkää: Evätkää, mutta ottakaa.</p>
+<p>GLOSTER. No, hyvä. Jos sinä heidän puolestaan niin puhut, Kuin minä itse puolestani epään, Niin varmaan kaikki toivon mukaan käy.</p>
+<p>BUCKINGHAM. Pois alttaanille! Määri kolkuttaa.</p>
+<p xml:lang="nob">(Gloster menee.)</p>
+<p>(Määri, raatimiehiä ja porvareita tulee.)</p>
+<p>Terve, mylord; täss' odotella saan ma; Puheilleen ei näy herttua päästävän. —</p>
+<p>(Catesby tulee linnasta)</p>
+<p>No, Catesby, mitä herras sanoo pyyntöön?</p>
+<p>CATESBY. Hän pyytää teitä, hyvä, rakas loordi, Huomena tulemaan tai toisena. Hän tuolla kahden hurskaan isän kanssa Taivaisiin mietteisiin on vaipuneena Ja minkään maallisen ei toimen salli Nyt pyhää hartauttaan häiritä.</p>
+<p>BUCKINGHAM. Palaja, hyvä Catesby, sano, että Minä ja määri sekä raatimiehet Asiass' ylen tärkeässä, joka Ei koske vähempää kuin yhteishyvää, Tulimme tiedustamaan herttuan mieltä.</p>
+<p xml:lang="fkv">CATESBY. Sen heti hälle ilmoitan.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>BUCKINGHAM. Mylord, Se prinssi se ei ole mikään Edward, Hän hyllyvillä patjoilla ei loiju, Vaan maassa polvillansa rukouksissa; Hän porttoparin kanss' ei hurjastele, Vaan tutkii kahden hurskaan papin kanssa; Ei makaa, ruumisparkaa herkutellen, Vaan valvoo, sieluhyvää ravitakseen. Oi, onnellinen Englanti, jos ottais Noin hurskas prinssi sitä hallitakseen! Varonpa vaan, ett'ei hän suostu siihen.</p>
+<p xml:lang="fkv">MÄÄRI. Jumala suokoon, ettei vaan hän kiellä.</p>
+<p>BUCKINGHAM. Varonpa, että kieltää. Tuoss' on Catesby.</p>
+<p>(Catesby palajaa.)</p>
+<p>No, Catesby, mitä sanoo herttua?</p>
+<p>CATESBY. Hän ihmettelee, miksi tänne koonneet Olette moisen joukon porvareita, Varottamatta häntä ennakolta; Hän pelkää, ett' on pahat teillä aikeet.</p>
+<p>BUCKINGHAM. Mua surettaa, ett' arvo lanko luulee Pahoiksi aikeitani; Jumal'auta, Meill' ystävällisin on tarkoitus; Palaja, hänen armolleen se kerro. —</p>
+<p xml:lang="eng">(Catesby menee.)</p>
+<p>Kun pyhät, hartaat miehet rukousnauhaans' On tarttuneet, he sit' ei hevin päästä; Niin ihanaa on hurskas mietiskely.</p>
+<p>(Gloster ilmestyy alttaanille kahden piispan keskellä; Catesby palajaa.)</p>
+<p>MÄÄRI. Kah, prinssi, kaksi piispaa rinnallansa!</p>
+<p>BUCKINGHAM. Kaks hyveen pylväst' estämässä, ett'ei Turhuuteen kristillinen prinssi lankee. Kas, rukouskirja kädessä on hällä, Koristus, josta tuntee pyhän miehen. — Ylevä Plantagenet, kuulu prinssi, Kallista suopa korvas rukouksiimme Ja anna anteeks, että keskeytimme Sun hurskaan, kristillisen hartautesi.</p>
+<p>GLOSTER. Mylord, ei tässä estelyitä tarvis; Mun tulee teiltä pyytää anteeksi, Kun innostuin niin palvelemaan Herraa, Ett' aivan laiminlöin ma ystäväni. Se sikseen; mikä tahtonne, mylord?</p>
+<p>BUCKINGHAM. Se, mikä, toivon ma, on taivaan Herran Ja kaikkein tämän hallittoman saaren Hyvien asukasten tahto.</p>
+<p>GLOSTER. Pelkäänp', Ett' olen jonkun virheen tehnyt, joka Pahalta paistaa porvariston silmään, Ja josta nyt saan nuhtelua kuulla.</p>
+<p>BUCKINGHAM. Niin olettekin; suvaitkaatte toki Nyt pyynnöstämme korjata se virhe.</p>
+<p>GLOSTER. En turhaan elä kristityssä maassa.</p>
+<p>BUCKINGHAM. Siis, tietäkää, se virheenne on, että Ylimmän majesteetin istuimen, Es'isienne valtikan ja vallan, Sukunne oikeuden, onnen lahjan, Kuninkaallisen kunnianne perut Jätätte inhan hyötiäisen valtaan, Kun helläin aatostenne uinaillessa — Joit' etu maan nyt herättämään vaatii — Tää ylväs saari jäseniään vaill' on, Häpeän naarmuissa sen kasvot aivan, Sen ruhtinainen runko täynnä halpaa Panenta-oksaa, milt'ei liettyneenä Pimeän, syvän unheen mutakuiluun. Tät' auttaaksemme, hartaast' anomme, Ett' armollinen prinssi, vaivaksenne Kuninkaan toimen maassa ottaisitte, Ei protektorina, ei sijaisena, Ei vieraan omaisuuden hoitajana, Vaan veren, synnyn, suvun oikeudella Omaksenne ja ikiperinnöksi. Siks tässä, porvaristoon liittyneenä, Joss' alamaisin rakkaus on teihin, Ja heidän kiihkeästä vaateestaan Teen teille tämän oikeutetun pyynnön.</p>
+<p>GLOSTER. Vait ollen poistuisinko, vaiko teitä Kovasti moittisin, — en tiedä kumpaa Mun vaatis säätyni ja teidän arvo. Jos en ma vastaa, voitte luulla, että Vait'olollansa vallanhimo taipuu Kultaiseen kuninkuuden ikeesen, Jonk' alle tahdotte mun saattaa, houkot. Jos taasen teitä moitin pyynnöstänne, Jot' uskollinen rakkautenne höystää, Niin, toisaalt', ystäviäni ma loukkaan. Siis puhumalla välttääkseni toista Ja puheessani toista karttaakseni, Ma vastaan teille päättävästi näin: Hyvyydestänne kiitän, mutta halpa Mun arvoni niin suurta tointa kammoo. Vaikk' oisivatkin kaikki esteet poissa Ja tieni tasainen ja kruunu mulle Lain mukaan tuleva ja perimyksen, Niin suuri toki henkeni on köyhyys, Niin valtavat, niin monet puutteheni, Ett' ennen minä suuruuttani piilen, Venosen lailla, jok' ei tyrskää kestä, Kuin joudun oman suuruuteni piiloon Ja kunniani huuruun tukehdun. Mut, kiitos Jumalan, ei mua tarvis, Ja tarvis vaikka ois, en auttaa voisi. Kuningaspuusta meill' on hedelmä, Jok', aikain vierähtäissä kypsyneenä, Hyvinkin täyttää majesteetin paikan Ja meitä hallinnollaan onnistuttaa. Mit' aiotte te mulle, hänen on, Sen teltamoisen, perintö ja oikeus, Ja sit' en, Jumal'auta, hältä riistä.</p>
+<p>BUCKINGHAM. Olette tunnokas, mylord, sen näämme, Mut syyt on teillä joutavat ja turhat, Jos kaikki kohdat tarkoin tutkitaan. Sanotte: Edward veljenne on poika; Niin on, mut Edwardin ei puolisosta, Hän ensin Lady Lucyn kihloiss' oli, — Siit' äitinne on todistajana, — Ja sitten Bonan kihlasi hän, Ranskan Kuninkaan kälyn, edusmiehen kautta; Nää työnsi syrjään köyhä anoja, Monien lasten surunsyömä äiti, Sulonsa menettänyt, kurja leski, Jok' aivan kukkeutensa iltapuolla Sai pauloihinsa hänen silmäns' irstaan Ja arvon kukkuloilta hänet vietti Likaiseen työhön, halpaan kaksoisnaimaan. Täst' epäliitosta se Edward syntyi, Joll' armosta on prinssin arvonimi. Puhua voisin vielä katkerammin, Mut kunnioitus eläviä kohtaan Mun kieltän' armotellen hillitsee. Siis oikeutenne nimess' ottakaa Tää tarjoomamme arvopaikka vastaan, Jos ette maan ja meidän onnen tähden, Niin nostaaksenne jalon sukupuunne Tään kieron ajan turmeluksesta Taas tosiluontaiseen ja suoraan suuntaan.</p>
+<p>MÄÄRI. Niin, jalo herra, porvaristo pyytää.</p>
+<p>BUCKINGHAM. Rakkauden tarjoust' älkää hyljätkö.</p>
+<p>CATESBY. Se ilo heille tehkää: rukous kuulkaa.</p>
+<p>GLOSTER. Oi, miksi mulle tämä huolten taakka? Ei arvot, majesteetit sovi mulle. Ma pyydän, älkää pahaksenne panko: En voi, en tahdo teille mieliks olla.</p>
+<p>BUCKINGHAM. Jos rakkauden innost' estelette, Arastain lasta, tuota veljenpoikaa, — Sill' onhan tuttu sydämmenne hellyys Ja vaimokas ja herkkä säälinne, Jot' aina osoititte suvullenne Ja kaiken-säätyisille poikkeuksetta, — Niin tietäkää: jos suostutte tai ette, Nepaanne kuninkaaks ei tule koskaan; Valaistuimelle istutamme toisen Sukunne herjaksi ja turmioksi; On päätös tämä; jääkää hyvästi. — Pois, porvarit; jo riittää rukoilu.</p>
+<p>(Buckingham ja porvarit poistuvat.)</p>
+<p>CATESBY. Palauttakaa heidät, prinssi hyvä; Rukoukseen suostukaa; jos kieltäytte, Niin koko maa saa siitä kärsiä.</p>
+<p>GLOSTER. Maailman huolet mulle tyrkytätte. No, kutsu heidät: min' en kivest' ole, vaan herkkä ystävyyden pyynnölle,</p>
+<p xml:lang="eng">(Catesby menee.)</p>
+<p>Vaikk' onkin tunto sekä sielu vastaan. —</p>
+<p>(Buckingham seuralaisineen palajaa.)</p>
+<p>Buckingham lanko, — vakaat, viisaat miehet, — Kosk' onnen selkähäni sälytätte, Jos tahdon taikka en sen taakan ottaa, Niin täytynee se kärsimällä kantaa. Mut seuraus jos tästä toimestanne On ruma parjaus tai herja moite, Niin uuras pakotuksenne se puhtaaks Saa liasta ja tahrasta mun pestä; Jumala tietää, osittain myös tekin, Ett' olen tähän tuiki haluton.</p>
+<p>MÄÄRI. Jumala siunatkoon teit', armo hyvä! Sen näemme ja sen sanomme.</p>
+<p>GLOSTER. Ja silloin Sanotte totuuden.</p>
+<p>BUCKINGHAM. Siis nimellänne Nyt teitä tervehdin: — eläköön Richard, Englannin arvo kuningas!</p>
+<p xml:lang="smn">KAIKKI. Aamen.</p>
+<p>BUCKINGHAM. Huomenna mielittenkö ottaa kruunun?</p>
+<p>GLOSTER. Jos te niin mielitte; on tahto teidän.</p>
+<p>BUCKINGHAM. Tulemme huomenna siis pateillenne; Ja nyt vaan iloiset jäähyväiset.</p>
+<p>GLOSTER (piispoille). Nyt pyhään toimeen taasen ryhtykäämme. — Hyvästi, lanko; — hyväst', ystävät!</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p type="title" xml:lang="vep">NELJÄS NÄYTÖS.</p>
+<p>Ensimmäinen kohtaus.</p>
+<p>Towerin edustalla.</p>
+<p>(Toiselta puolen tulevat kuningatar Elisabeth, Yorkin herttuatar ja markiisi Dorset; toiselta Anna, Glosterin herttuatar, taluttaen kädestä Margareeta Plantagenetiä, Clarencen nuorta tytärtä.)</p>
+<p>HERTTUATAR. Ken? Plantagenet, poikaniko tytär, Taluttamana mummo Glosterin? Ja, toden totta, Toweriin on matka Sulasta rakkaudesta nuoreen prinssiin. — Terveeksi, tytär!</p>
+<p>ANNA. Iloist' onnenpäivää Jumala suokoon teidän armoillenne!</p>
+<p>ELISABETH. Sinulle samaa, sisko; minne matka?</p>
+<p>ANNA. Ei Toweria edemmä, ja, luulen, Samassa hurskaass' aikeessa kuin tekin, Tervehtimähän pikku prinssejä.</p>
+<p>ELISABETH. Sua kiitän, sisko; yhtenä nyt sisään.</p>
+<p>(Brakenbury tulee.)</p>
+<p>Paraiksi tulee tässä linnan herra. — Anteeksi, herra: teidän luvallanne, Kuin voivat York, mun poikani, ja prinssi?</p>
+<p>BRAKENBURY. Hyvinpä, rouva; mutta, suokaa anteeks, En tohdi teitä päästää heidän luokseen: Kuningas kovin on sen kieltänyt.</p>
+<p xml:lang="est">ELISABETH. Kuningas? Kuka?</p>
+<p>BRAKENBURY. Herra protektori.</p>
+<p>ELISABETH. Jumala moisest' auta kuninkaasta! Hän mun ja heidän rakkautensa väliin Paneeko sulun? Äiti olen minä; Ken estää mua lapsieni luota?</p>
+<p>HERTTUATAR. Min' olen isoäiti; sisään päästä.</p>
+<p>ANNA. Min' olen tätipuoli, lemmen puolest' Äidinkin veroinen. Mua älä estä; Ma vastaan rikoksestasi ja otan Omalla uhallani virkas sulta.</p>
+<p>BRAKENBURY. Ei, rouva, niin en virkaani ma heitä: Mua vala velvoittaa; siis anteeks suokaa.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>(Stanley tulee.)</p>
+<p>STANLEY. Hetkistä myöhäisemmin, herttuatar, Teit' oisin tervehtinyt kahden kauniin Kuningattaren äidiksi. — (Annalle.) Te, rouva, Westminsteriin mua joutuun seuratkaa, Richardin puolisona kruunattavaks.</p>
+<p>ELISABETH. Kureeni auki, että hengen tilaa Saa ahdistettu sydän, muuten pyörryn Ma tähän surmasanaan.</p>
+<p>ANNA. Kiusan sana! Vihattu viesti!</p>
+<p>DORSET. Hyväll' olkaa mielin. — Kuink', armollinen äiti, voitte?</p>
+<p>ELISABETH. Dorset, Mua älä puhuttele; joutuun pois! Tuho ja surma kantapäilläs väijyy; Emosi nimi turmioks on lasten. Jos elää tahdot, mene merten taa, Richmondin luokse, helvettiä pakoon. Oi! vältä, vältä tätä murhan majaa, Niin ett'et lisää vainajien määrää Ja minä Margareetan kiroon kuole Leskenä, lapsetonna, kruunutonna.</p>
+<p>STANLEY. Tää neuvonne on täysin viisas, rouva. — Eduksi hetket kiirein käyttäkää; Mukaanne laitan kirjeen pojalleni: Hän teitä auttaa, teill' on vastassanne; Älytön viipy tyrmään teidät saattaa.</p>
+<p xml:lang="vep">HERTTUATAR. Tuhoova surkeuden hirmumyrsky! Kirottu kohtuni, sa surman vuode! Maailmaan sinä haudoit basiliskin, Jonk' uupumaton katse viepi hengen.</p>
+<p>STANLEY. Pois tulkaa, rouva; kiire mull' on toimi.</p>
+<p>ANNA. Ma tulen, mutta vastenmielisesti. — Suo, Jumalani, että kultavirve, Jok' otsahani pannaan, tulipunaist' Olisi rautaa, joka aivot polttaa! Mua voideltakoon kuolettavin myrkyin, Ett' ehdin kuolla ennen kuin soi huuto: "Eläköön kuningatar!"</p>
+<p xml:lang="fkv">ELISABETH. Sielu parka, En onneasi karsaa; mulle mieliks Äl' itsellesi tuskaa toivo.</p>
+<p>ANNA. Enkö? Kun, viedessäni Henrikkiä hautaan, Hän tuli, joka nyt on puolisoni, Käsissä vielä veri, joka juoksi Tuost' enkelistä, ensi miehestäni, Ja tuosta pyhimyksestä, jot' itkin; Oi! Richardin kun silmiin silloin katsoin. Niin toivoin näin: kirottu sinä, joka Minusta nuoresta teit vanhan lesken! Jos nait, niin suru vuotees saartakoon, Ja vaimos olkoon — jos on ken niin hupsu — Elämäs kautta kurjempi, kuin miksi Teit minut puolisoni surman kautta! Mut kiroust' en toistaa ehtinyt, Kun äkisti naissydämeni oli Tuon mesikielen julkipauloiss' aivan Ja oman kiroukseni alainen, Jok' on mua siitä saakka valvottanut; Tuon miehen vuoteess' unen kultakastett' En koskaan tuntiakaan nauttinut, Kun havahduin jo ilkeist' unelmistaan. Lisäksi hän mua vihaa Warwickin, Isäni, tähden, ja mun pian surmaa.</p>
+<p>ELISABETH. Hyvästi, sydän parka! Sua säälin.</p>
+<p>ANNA. Ja mun on yhtä paljon teitä surku.</p>
+<p>DORSET. Hyvästi, joka tuskall' arvoon nouset!</p>
+<p>ANNA. Hyvästi, raukka, joka arvos heität!</p>
+<p>HERTTUATAR. (Dorsetille) Richmondin luo käy sinä: onnen huomaan! (Annalle) Glosterin luokse sinä: Herran turviin! (Elisabethille) ja turvapaikkaas sinä: rauha sulle! Hautaani minä, jossa lepoon pääsen. Kahdeksankymment' elin vuotta, oi, Ja hetken ilo viikon tuskat toi!</p>
+<p>ELISABETH. Seis! Katse vielä taakse Toweriin. Sa, vanha louhe, lapsuisia sääli, Jotk' ilkeys kytki muuriesi sisään! Sa, kova kehto hentoisille noille! Kolea, köntistynyt imettäjä, Ja jäykkä leikki veikko ruhtinaille! Oi, vaali heitä, sitä, houkka, anon; Kiville teille jäähyväiset sanon.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Toinen kohtaus.</p>
+<p>Valtasali hovilinnassa.</p>
+<p>(Torventoitauksia. Richard, kruunu päässä, Buckingham, Catesby, hovipoika y.m. tulee.)</p>
+<p>RICHARD. Pois kaikki syrjään! — Lanko Buckingham, —</p>
+<p>BUCKINGHAM. Kuninkaallinen majesteetti!</p>
+<p>RICHARD. Kätesi! (Richard nousee valtaistuimelle.) Apusi ja neuvos kautta Näin ylös Richard kuningas on noussut: — Mut kestääkö se päivän vaan, tää loisto, Vai kauemmin, ja iloako tuo se?</p>
+<p>BUCKINGHAM. Viel' elää se ja ijät eläköön!</p>
+<p>RICHARD. Ah, Buckingham! Nyt olen koitinkivi, Ja koitan, puhdastako olet kultaa. — Nuor' Edward elää. — Arvaa, mitä tahdon.</p>
+<p>BUCKINGHAM. Sanokaa, rakas prinssi.</p>
+<p>RICHARD. Sen ma sanon: Kuningas olla tahdon, Buckingham.</p>
+<p>BUCKINGHAM. Se olette jo, armollisin herra.</p>
+<p>RICHARD. Haa! Kuningasko olen? Niinpä olen; Mut Edward elää.</p>
+<p>BUCKINGHAM. Totta, jalo prinssi.</p>
+<p>RICHARD. Oi, mikä kirveltävä johtopäätös, Ett' Edward elää! — "Totta, jalo prinssi!" — Noin laimea et ennen ollut, lanko. — Lausunko? — Äpärille tahdon surman, Ja tahdon, että täytetään se oiti. Nyt mitä sanot? Joutuun, lyhyesti!</p>
+<p>BUCKINGHAM. Tahtonne tehkää, armollinen herra.</p>
+<p>RICHARD. Haa! Jäätä olet, lempesi jo hyytyy. No, sano, heidän surmaansako suostut?</p>
+<p>BUCKINGHAM. Oi, hengenaikaa suokaa, pieni loma, Ett' asiaa saan tarkoin ajatella. Koht' annan teidän armollenne vastuun.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>CATESBY (syrjään). Kuningas vihoissaan on: puree huultaan.</p>
+<p>RICHARD (astuu alas valtaistuimelta). Visapäät narrit, mielettömät pojat Ne mun on miehiäni; noist' en huoli, Jotk' urkkivat mua tutkivaisin silmin. Ylävä Buckingham käy juonikkaaksi. Hoi, poika!</p>
+<p>HOVIPOIKA. Herra kuningas!</p>
+<p>RICHARD. Tiedätkö miestä, jota kullan kiilto Vois salamurhan tekoon houkutella?</p>
+<p>HOVIPOIKA. Ma tunnen nurkuvaisen herrasmiehen, Jonk' ylpeyteen ei vastaa köyhyytensä; Ei kymmenkunta puhujaa voi sitä, Min kulta voi; se hänen saa jos mihin.</p>
+<p>RICHARD. Nimensä mikä?</p>
+<p>HOVIPOIKA. Nimensä on Tyrrel.</p>
+<p>RICHARD. Ma tunnen miehen; käske hänet tänne. —</p>
+<p>(Hovipoika menee.)</p>
+<p>Tuo mietteliäs, viekas Buckingham Ajuni uskotuks ei enää kelpaa. Näin kauan kestikö hän väsymättä Ja hengähtää nyt tahtoo? — Hyvä, hyvä! —</p>
+<p>(Stanley tulee.)</p>
+<p>No, mitä nyt, lord Stanley? Mitä uutta?</p>
+<p>STANLEY. Kuningas armollisin, tietäkää: Markiisi Dorset niille maille, kuulin, On paennut, miss' oleksii nyt Richmond.</p>
+<p>RICHARD. Käy tänne, Catesby. Levittele huuto, Ett' Anna, vaimoni, on pahoin sairas: Ma laitan niin, ett' alallaan hän pysyy. Ja etsi köyhä aatelinen, jolle Clarencen tyttären voin heti naittaa; — On poika typerä, en häntä pelkää. — Mit' uneksit? — Levitä, että sairas On Anna, kuningatar, kuolemallaan; No, joutuun! Poistaa täytyy kaikki toiveet, Joist' olla voisi vaaraa, jos ne kasvaa. —</p>
+<p xml:lang="eng">(Catesby menee.)</p>
+<p>Mun täytyy veljentyttäreni naida, Kuninkuuteni täpäräll' on muuten. — Ma veljet murhaan, sitten siskon nain! Peliä rohkeaa! Mut veren tie On moinen: toinen synti toiseen vie. Tää silmä säälin kyyneleit' ei tunne. —</p>
+<p>(Hovipoika palajaa Tyrrellin seurassa.)</p>
+<p xml:lang="rmy-rlo">Nimesi Tyrrel?</p>
+<p xml:lang="nob">TYRRELL. James Tyrrel, nöyrin palvelijanne.</p>
+<p>RICHARD. Oletko oikein?</p>
+<p xml:lang="olo">TYRRELL. Koitelkaa mua, armo.</p>
+<p>RICHARD. Tohditko tappaa yhden ystäväni?</p>
+<p>TYRRELL. Miks ei; mutt' ennen kaksi vihamiestä.</p>
+<p>RICHARD. Niin oikein: kaksi perivihollista Kaks unen viejää, rauhan häirijää; Mist' annan sinulle nyt tekemistä, Noist' äpäristä, näet, Towerissa.</p>
+<p>TYRRELL. Jos vaan saan vapaan pääsön heidän luokseen Niin pelostanne teidät oiti päästän.</p>
+<p>RICHARD. Säveltä somaa soitat. Tänne, Tyrrel: Kas, tässä merkki, — nouse, korva tänne: (Kuiskaa hänen korvaansa.) Ei muuta mitään; — sano: <span type="quote">"se on tehty"</span>, Niin suosioni saat ja arvoon nouset.</p>
+<p>TYRRELL. Sen heti toimitan. (Menee.)</p>
+<p xml:lang="nob">(Buckingham palajaa.)</p>
+<p>BUCKINGHAM. Tuot' olen seikkaa miettinyt, mylord, Jot' äsken tiedustitte.</p>
+<p>RICHARD. Se saa jäädä. Richmondin luo on Dorset paennut.</p>
+<p>BUCKINGHAM. Niin olen kuullut kuninkaani.</p>
+<p>RICHARD. Stanley, Hän poikapuolenne on, — huomatkaa.</p>
+<p>BUCKINGHAM. Mylord, nyt pyydän lupaamanne lahjan. Jot' arvonne ja kunnianne takaa, Herefordin kreivikunnan sekä kaiken Minulle lupaamanne irtaimiston.</p>
+<p>RICHARD. Varokaa vaimoanne, Stanley: kirjeet Käy Richmondille teidän vastuullanne.</p>
+<p>BUCKINGHAM. Mik' armollisin vastuu pyyntööni?</p>
+<p>RICHARD. Nyt muistan — ennustihan Henrik kuudes. Ett' tulis Richmondista kuningas, Kun vielä piskuinen hän oli poika. Kuningas! — ehkä —</p>
+<p xml:lang="isl">BUCKINGHAM. Mylord, —</p>
+<p>RICHARD. Mut miks ei ennustaja silloin Sanonut mulle, läsnäolevalle, Ett' olin minä hänet surmaava.</p>
+<p>BUCKINGHAM. Mylord, tuo lupaamanne kreivikunta, —</p>
+<p>RICHARD. Richmond! — Kun Exeteriss' olin taannoin, Niin nöyrä määri näytti mulle linnaa; Sen nimi — Rougemont — mua hätkähdytti: Irlannin baardi kerran taikoi, että Richmondin näkemäst' en kauan eläis.</p>
+<p xml:lang="isl">BUCKINGHAM. Mylord, —</p>
+<p>RICHARD. Niin; mit' on kello?</p>
+<p>BUCKINGHAM. Rohkenen Muistuttaa teitä lupauksestanne.</p>
+<p>RICHARD. Mut mit' on kello?</p>
+<p>BUCKINGHAM. Kuusi lyönnilleen.</p>
+<p>RICHARD. No, lyököön ensin.</p>
+<p>BUCKINGHAM. Miksi lyököön ensin?</p>
+<p>RICHARD. Siks, että sinä, niinkuin kellonkieli Mun mietteitäni vongunnallas häirit; En ole tänään antimielellä.</p>
+<p>BUCKINGHAM. Sanokaa toki, saanko vaiko en.</p>
+<p xml:lang="fkv">RICHARD. Mua häirit; nyt en sillä mielell' ole.</p>
+<p>(Kuningas Richard seurueineen poistuu.)</p>
+<p>BUCKINGHAM. Vai niin! Ivalla maksaa hartaan työni! Ma siksi teinkö hänet kuninkaaksi! Hastingsin muistan; Brecknockiin nyt vaan, Kun vielä mull' on pääni paikoillaan.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>Kolmas kohtaus.</p>
+<p xml:lang="est">Paikka sama.</p>
+<p>(Tyrrel tulee)</p>
+<p>TYRRELL. Työ verinen ja hirveä on tehty, Ilettävin ja kauhistavin murha, Mik' Englannin on syyksi koskaan tullut. Dighton ja Forrest, jotka ostin tähän Kamalaan tappotyöhön, vaikka ovat Pääkonnia ja verikoiria, sulivat säälistä ja hellyydestä, Kuin lapset itkein murhenäytelmälle. <span type="quote">"Noin"</span>, sanoi Dighton, <span type="quote">"makasivat piskut"</span> — <span type="quote">"Noin"</span>, sanoi Forrest, <span type="quote">"vyöttäin toisiansa Puhtailla alabaster-kätösillään, Ja huulet, niinkuin neljä ruusukukkaa Yhdellä varrella, ne toinen toistaan Kesäisess' upeudessaan suutelivat. Rukouskirja oli pieluksella: Tuo"</span>, sanoi Forrest, <span type="quote">"oli muuttaa mielen; Mut paholainen"</span> — siihen päätti konna. Ja Dighton jatkoi näin: "Me tukautimme Täydellisimmän taitotyön, min luonto On luomispäiväst' alkain aikaan saanut." Niin tunnonvaivoiss' olivat, ett'eivät Puhua voineet; silloin heidät jätin Ja tiedon tuon nyt verikuninkaalle.</p>
+<p xml:lang="est">(Kuningas Richard tulee.)</p>
+<p>Hän tuossa tulee. — Terve, majesteetti!</p>
+<p>RICHARD. No, onneako uutisesi tuovat?</p>
+<p>TYRRELL. Jos se, ett' teko käsketty on tehty, On onnea, niin onnellinen olkaa, Se tehty on.</p>
+<p>RICHARD. Näit heidät kuolleina?</p>
+<p>TYRRELL. Näin, herra.</p>
+<p>RICHARD. Myöskin haudattuina, mitä?</p>
+<p>TYRRELL. Towerin kappalainen heidät hautas, Mut mihin, sit' en, toden totta, tiedä.</p>
+<p>RICHARD. Tyköni tule illallisen jälkeen Ja kerro mulle heidän kuolemansa. Sill' aikaa mieti, mitä palkaks soisit, Niin toiveittesi perijäksi teen sun. Hyvästi siksi.</p>
+<p xml:lang="krl">TYRRELL. Nöyrät jäähyväiset.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>RICHARD. Clarencen pojan olen kytkyyn pannut, Ja tytön halpaan säätyyn naittanut; Aapramin helmass' Edwardin on pojat, Ja Anna jättänyt on maailman. Kun tiedän, että Richmond silmäns' iskee Elisabethiin, veljentyttäreeni, Ja sitä tietä kuninkuuteen pyrkii, Niin uljaasti nyt itse kosin häntä.</p>
+<p>(Catesby tulee.)</p>
+<p xml:lang="est">CATESBY. Kuningas, —</p>
+<p>RICHARD. Hyvääkö vai pahaa tiedät, Kun noin vaan suoraan sisään ryntäät?</p>
+<p>CATESBY. Pahaa: Richmondin luo on Morton paennut, Ja Walesin uljaat miehet Buckingham Vie taisteluun, ja joukkons' yhä kasvaa.</p>
+<p>RICHARD. Pelottavammat Ely on ja Richmond, Kuin Buckinghamin haalitut on joukot. Sen tiedän, että arka mietiskely On hidas orja vitkan viivytyksen, Jot' ohjaa kerjuun rampa raakunkulku. Nyt nosta siipes, joutu tulisin, Sa airut kuninkaan ja Merkurin! Väkeä kokoon! Nyt vaan kysyn säilää; Kun uhkaa petturit, niin miekka häilää.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Neljäs kohtaus.</p>
+<p>Hovilinnan edusta.</p>
+<p>(Kuningatar Margareeta tulee.)</p>
+<p>MARGAREETA. Nyt heidän onnens' alkaa olla kypsä Ja karistua surman mätään suuhun. Näill' olen mailla salaa väijynyt Tuhoa nähdäkseni vainoojaini. Kamalat alkajaiset näin; ja nyt Pois Ranskaan lähden toivoss', että jatko On yhtä synkkä, surkea ja musta. Pois kurja Margareeta! Joku tulee.</p>
+<p>(Kuningatar Elisabeth ja Yorkin herttuatar tulevat.)</p>
+<p>ELISABETH. Oi, prinssi raukat! hennot pisku piltit! Suloiset ummut, viel' ei puhjenneetkaan! Viel' ilmassa jos sielusenne lentää, Ijäiseen tuomioonsa kiintymättä, Liidelkää vaiheillani liihosiivin Ja kuulkaa äiti-raukan valitusta.</p>
+<p>MARGAREETA (syrjään.) Liidelkää vaiheillaan ja sanokaa: Niin vaatii koston rankaiseva haamu, Ett' ikiyöksi muuttuu nuori aamu.</p>
+<p>ELISABETH. Niin kurjuus vei mult' äänen, että kieli, Parusta uupunut, on vait ja mykkä. — Edward Plantagenet, miks olet kuollut?</p>
+<p>MARGAREETA (syrjään). Plantagenet Plantagenetin vaati, Edwardin Edwardista kuolo kaati.</p>
+<p>ELISABETH. Miks, Jumala, noin hennot vuonat hylkäät Ja suden suuhun viskaat? Milloin ennen Moisilta töiltä silmäs ummistit?</p>
+<p>MARGAREETA (syrjään). Kun poikani ja pyhä Henrik kuoli.</p>
+<p>HERTTUATAR. Sokea näkö, kuollut elämä, Manalan haamu elävitten mailla, Sa tuskan kisakenttä, mailman herja, Elämän anastama haudan oikeus, Sa pitkäin päiväin lyhyt muistikirja, Lepuuta levottuuttas Englannin Lain turvaamassa maassa, jota näin Juovuttaa laittomasti syytön veri!</p>
+<p xml:lang="est">(Istuutuu.)</p>
+<p>ELISABETH. Jos luilleni niin valeen haudan soisit, Kuin kolkon tarjoot istuimen, niin täss' en Lepuuttais niitä, tähän hautaisin ne. Ah, kell' on syytä surra, jos ei meillä?</p>
+<p xml:lang="fkv">(Istuutuu hänen viereensä.)</p>
+<p>MARGAREETA (astuu esiin). Jos vanhalla on surull' arvo suurin, Niin mun on surullani iän etuus, Ylinnä sen siis suokaa valitella. Ja jos voi suru sietää toisen seuraa, (Istuutuu heidän viereensä.) Omaanne verratkaa mun suruihini. Mull' oli Edward, vaan sen Richard tappoi; Mull' oli Henrik, senkin Richard tappoi; Sull' oli Edward, vaan sen Richard tappoi; Sull' oli Richard, senkin Richard tappoi.</p>
+<p>HERTTUATAR. Mull' oli Richard myös, sen sinä tapoit; Ja Rutland myös, ja senkin surmaa autoit.</p>
+<p>MARGAREETA. Sull' oli Clarence myös, sen Richard tappoi. Sun kohdustas se manan koira kömpi, Jok' ajaa meidät hengiltä: tuo hurtta, Jok' ennenkuin se silmät sai, sai hampaat, Mill' uuhta raataa ja sen verta nuolla, Jumalan töiden häijy pilloja, Maailman valtatyranni, jonk' alaa On kurjain raukkain itkettyneet silmät, Se sinun kohtus onkalosta pääsi Ajamaan meitä hamaan hautaan asti. Vakava oikeuden Jumala, Sua kiitän, että tämä verihurtta Emonsa kohdun hedelmää nyt raataa Ja hänet tuntemaan saa muiden tuskaa.</p>
+<p>HERTTUATAR. Tuskaani, vaimo Henrikin, äl' ilku: Sun tuskaas itkin minä, Herra tietköön.</p>
+<p>MARGAREETA. Anteeksi suo: mun kostoa on nälkä Ja kyllält' ahmin nyt sen näkemistä. Sun Edwardis on kuollut, joka tappoi Mun Edwardini; toinen Edwardisi Myös kuollut minun Edwardini kostoks; York oli korvaus vaan, kun nämä kaksi Mun suurta hukkaani ei vastanneet. On kuollut sulta Clarence, joka surmas Mun Edwardini; synkkään hautaan syösty Tään raivon näytelmän on näkijätkin, Himokas Hastings, Rivers, Vaughan, Grey. Richard vaan elää, manan musta airut, Jonk' ammatti on ostaa sieluja Ja manaan laittaa; kohta, kohta hänkin Saa surkean ja surkuttoman lopun: Maa ammottaapi ja horna hehkuu Ja rymät ulvoo ja pyhät palvoo, Ett' äkkiä hän temmattaisiin täältä. — Elämäst' irti hänet sano, Herra, Ett' eläissäni sanoa ma saisin: Se koira kuoli!</p>
+<p>ELISABETH. Ennustitpa, että Apuas vielä kaipaan kiroomaan Mujuista tuota kyssää, rupikonnaa.</p>
+<p>MARGAREETA. Ja valekuningattareks sun sanoin, Ett' olit vallastani kurja varjo, Mun olentoni pelkkä jälkikuva, Valeohjelma vaan julmaan näytelmään, Vivuttu ylös, syöstäväksi maahan, Emo, jok' ivakseen sai kauniit pojat, Unelma entuudestas, kirjolippu Jokaisen vaara-iskun maaliks pantu, Vaan korkeuden kare, kupla, kyltti, Vaan suotta-kuningatar näyttämöllä. Miss' on nyt miehesi? Ja veljes missä? Kaks poikaas missä? Missä ilon päiväs? Ken nöyrästi nyt polvistuu ja sanoo: Jumala varjelkoon kuningatarta? Miss' imarat ja pokkuroivat päärit? Miss' ympärilles tunkeilevat joukot? Oi, muista tää, ja nykyisyyttäs katso: Nyt onnen puoliso on one leski; Iloinen äiti lapseton nyt raukka; Kerjääjä nyt, jolt' äsken kerjäiltiin; Kuningatar nyt huolihuntu orja; Mun ilkkujani nyt mun ilkkumani; Nyt kaikkein pelko yhtä pelkäävä Ja kaikkivoipa nyt ei mitään voipa. Näin oikeuden on pyörähtynyt pyörä Ja jättänyt sun saaliiks ajan kouriin. Sull' on vaan muisto siitä, mitä olit Jott' enemmin sua vaivais se, mik' olet. Sa multa paikan veit ja etkö sillä Myös vienyt suruistani määräosaa? Puolt' iestäni ylvä niskas kantaa; Nyt pääni väsyneen sen alta vedän Ja taakan jätän sulle kokonaan. Hyvästi, Yorkin vaimo! Ranskan maalla Englannin tuskat vaihtuu ilohon; Hyvästi, ruhtinatar onneton!</p>
+<p>ELISABETH. Oi, viivy, kiron oppinut, ja neuvo Mua vihamiehiäni kiroomaan!</p>
+<p>MARGAREETA. Öit' älä nuku, paastoele päivät; Elävän tuskiin vertaa kuolleen onni; Suloista sulommiksi lapses kuvaa, Ja surmaajansa rumaa rumemmaksi; Katosi kanssa inhos kasvaa vaan; Sit' aattele, niin opit kiroomaan.</p>
+<p xml:lang="fkv">ELISABETH. Sä sanani voit tylsät teroittaa.</p>
+<p>MARGAREETA. Ne tuskas kyllä teräviksi saa.</p>
+<p>(Margareeta menee.)</p>
+<p>HERTTUATAR. Miks onnirikoll' on niin runsaat sanat?</p>
+<p>ELISABETH. Ilmaiset mykän tuskan apurit, Perijät välhöt perittömän riemun, Kurjuuden läähöttävät ilmituojat! Suo niille tilaa; jos ne muut' ei auta, Saa edes sydän helpon niiden kautta.</p>
+<p>HERTTUATAR. Siis kieltäs älä säästä; seuraa mua, Niin katkeroiden sanojemme katkuun Mun inhan poikani me tukautamme. Mi kauniit poikas sulta tukautti.</p>
+<p xml:lang="olo">(Torven toitaus kuuluu.)</p>
+<p>(Kuningas Richard tulee marssien seurueineen.)</p>
+<p xml:lang="olo">RICHARD. Ken kulussani mua pidättää?</p>
+<p>HERTTUATAR. Hän, jonk' ois tullut sua pidättää, Kuristamalla kohtuuns' onnettomaan, Murhista noista tekemistäs, konna.</p>
+<p>ELISABETH. Tuon otsan kultakruunullako peität, Johonka poltettavaks oikeus vaatis Sen prinssin veren, jonka kruunu oli, Ja poikaini ja veljieni hurmeet? Miss' on mun lapseni? sa konna, sano.</p>
+<p>HERTTUATAR. Sa rupikonna, miss' on veljes Clarence Ja Ned Plantagenet, sen pikku poika?</p>
+<p xml:lang="fkv">ELISABETH. Ja missä uljas Rivers, Vaughan, Grey?</p>
+<p xml:lang="fkv">HERTTUATAR. Ja missä kunnon Hastings?</p>
+<p>RICHARD. Soi, torvi, pärrää, rumpu, jotta taivas Ei kuulisi, kun Herran voideltua Herjaavat juoruämmät! Torvet soimaan! —</p>
+<p>(Torvien toitausta ja rumpujen pärinää.)</p>
+<p>Puhukaa maltilla ja kauniisti, Tai annan sodan rämisevän räikän Näin tukeuttaa teidän kirkunanne.</p>
+<p>HERTTUATAR. Mun poikaniko sinä olet?</p>
+<p>RICHARD. Olen; Luojalle, isälle ja teille kiitos.</p>
+<p>HERTTUATAR. Maltilla siis mua maltitonta kuule.</p>
+<p>RICHARD. Minuss' on hiukka teidän luonnettanne: Se moitteen äänt' ei siedä, rouvaseni.</p>
+<p xml:lang="fkv">HERTTUATAR. Oi, suo mun haastaa!</p>
+<p>RICHARD. Kyllä; olen kuuro.</p>
+<p>HERTTUATAR. Ma puhun lempeää ja hellää kieltä.</p>
+<p>RICHARD. Ja lyhytt', äiti hyvä, mull' on kiire.</p>
+<p>HERTTUATAR. Vai kiire? Minä sua, Herra tietköön, Kivulla, hengentuskall' odottelin.</p>
+<p>RICHARD. Ja enkö teille vihdoin hoivaa tuonut?</p>
+<p>HERTTUATAR. Et, kautta pyhän ristin! Maalle tullen Sa heti maan teit helvetiksi mullen. Sun syntys oli inha kohdun tuska; Lapsuutes juonikas ja itsepäinen; Kamala, raju, hurja kouluaikas; Nuoruutes rietas, hillitön ja raivo, Miehuutes korska, viekas, verinen, Maireempi vaan, ja tyyni vihassaan. Nimittää voitko yhden ilonhetken, Jonk' on sun seuras armahtanut mulle.</p>
+<p>RICHARD. Kyll' yhden, jolloin armo rouva läksi Pois seurastani muiden murkinoille. Näin vähän jos saan teiltä armoa, Mun suokaa mennä, ett'en teitä loukkais. — Hoi, rumpu soimaan!</p>
+<p xml:lang="olo">HERTTUATAR. Pyydän, mua kuule.</p>
+<p>RICHARD. Puhutte liian katkeraan.</p>
+<p>HERTTUATAR. Vaan sana; En vasta enää sua puhuttele.</p>
+<p xml:lang="fkv">RICHARD. No, hyvä!</p>
+<p>HERTTUATAR. Jos sin' et taivaan kostost' ennen kuole, Kuin tästä sodast' ehdit voittajana. Niin minä vanhuuteen ja tuskaan lannun Enk' enää koskaan kasvojasi näe. Siis tässä raskain ota äidin kirous! Se taiston päivänä sua enemmän Kuin koko rauta-asus painakoon! Sua vastaan rukouksin taistelen ma, Ja Edwardinkin lasten hennot sielut Kuiskaavat vihamiehiis innostusta Ja onnen lupaavat ja voiton heille. Verinen olit sinä, veriin nukut; Häpeäss' elit, häpeään sa hukut.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>ELISABETH. Syyt' enemmän on kiroomiseen mulla, Mut voimaa vähemmän; vaan aamen sanon.</p>
+<p>(On menemäisillään.)</p>
+<p>RICHARD. Ei, jääkää, rouva, mull' on puhumista.</p>
+<p>ELISABETH. Ei kuninkaallist' enää poikaa mulla Sun murhatakses; — tyttäreni, Richard, He rukoella saavat luostarissa, Eik' itkustella valtaistuimilla; Siis älä pyydä heidän henkeään.</p>
+<p>RICHARD. Teill' yksi tytär on: Elisabeth, Siveä, kaunis, ylevä ja hurskas.</p>
+<p>ELISABETH. Ja siksi surman saa? Suo hänen elää; Ma sulot hältä sotken, tavat tahraan, Aviorikoks itseäni herjaan, Häpeän hunnun hänen päälleen heitän: Jos sillä välttää surman verisen. Hänt' Edwardin en lapseks sano, en.</p>
+<p>RICHARD. Hänt' älä soimaa: hän on prinsessa.</p>
+<p xml:lang="fkv">ELISABETH. Sen kiellän, säästääkseni hengen hälle.</p>
+<p>RICHARD. Syntynsä yksin hengen hälle turvaa.</p>
+<p xml:lang="vep">ELISABETH. Se turva hänen veljilleen toi surman.</p>
+<p>RICHARD. He nurjan tähden alla syntyivät.</p>
+<p xml:lang="fkv">ELISABETH. Ei, nurjat ystävät heilt' otti hengen.</p>
+<p>RICHARD. Ei kohtalon voi tuomiota kääntää.</p>
+<p>ELISABETH. Ei, kohtalon jos kääntymätön määrää. Nuo piltit kauniimman ois kuolon saaneet. Jos sulle kauniimp' oisi elo suotu.</p>
+<p xml:lang="krl">RICHARD. Minäkö orvot orpanani tapoin?</p>
+<p>ELISABETH. Niin, orvot orpanasi; heiltä orvoit Vapauden, vallan, ilon, heimon, hengen. Ken sydämmet nuo hennot lävistikään, Sun pääsi ohjaton se ohjas iskun. Oli tylsä varmaan murhaveitsi, kunnes Sun kovan sydämmesi hiomana Se karitsaini sisuksissa riehui. Jos hurja tuska totunnast' ei talttuis, Niin poikiani nimiltä en ehtis Ma huutaa korviis, ennen kuin sun silmiis Jo ankkuroisi kynteni, ja minä Noin hirveässä surman poukamassa, Kuin haaksi, purjeitta ja taklingitta, Sun riuttarintahasi murskaantuisin.</p>
+<p>RICHARD. Niin totta hankkeeni kuin onnistukoot Ja tämän verisodan vaaratoimet, Niin totta hyvää enemmän suon teille, Kuin mitä pahaa olen teille tehnyt.</p>
+<p>ELISABETH. Mitäpä hyvää taivaan kasvot kätkee, Jonk' ilmisaanti hyväks olis mulle?</p>
+<p>RICHARD. Lapsenne voivat nousta, arvo rouva.</p>
+<p>ELISABETH. Pään menoksiko mestauslavalle?</p>
+<p>RICHARD. Ei, onnen korkeuteen ja valta-arvoon, Ylimpään maisen loiston kunniaan.</p>
+<p>ELISABETH. Hyväile tuolla tuskaani ja sano, Mink' arvon, kunnian ja onnen tilaan Sa yhdenkään voit lapsistani saattaa?</p>
+<p>RICHARD. Mit' omaa mull' on, itseni ja kaikki Eräälle lapsellesi lahjoitan, Vihaisen sielus Letheen hukuta Siis kaikki muistot niistä vääryyksistä, Joit' arvelet sa minun tehneen sulle.</p>
+<p>ELISABETH. Lyhemmin, muuten hyvyytesi tarjo Voi kestää kauemmin kuin itse hyvyys.</p>
+<p>RICHARD. Sydämmestäni tytärtäsi lemmin.</p>
+<p>ELISABETH. Sen äitinsäkin sydämmissään uskoo.</p>
+<p>RICHARD. Mit' uskoo?</p>
+<p>ELISABETH. Ett' tytärtäni sydämmissäs lemmit, Kuin veljiäänkin sydämmissäs lemmit, Ja siitä sydämmissäni sua kiitän.</p>
+<p>RICHARD. Noin ruttoon älä sanojani väännä; Sydämmestäni tytärtäsi lemmin, Teen hänet tään maan kuningattareksi.</p>
+<p>ELISABETH. Ken sitten tulee hänen kuninkaakseen?</p>
+<p>RICHARD. He, kuningattareksi tekijänsä.</p>
+<p xml:lang="vep">ELISABETH. Ken? Sinä?</p>
+<p xml:lang="fkv">RICHARD. Minä niin; mit' arvelette?</p>
+<p xml:lang="fkv">ELISABETH. Kuin saatat sinä häntä kosia?</p>
+<p>RICHARD. Sen juuri tahtoisin ma teiltä tietää, Te parhain tuntenette tytön mielen.</p>
+<p xml:lang="fkv">ELISABETH. Tahdotko tietää?</p>
+<p>RICHARD. Sydämmestän' aivan</p>
+<p>ELISABETH. Veljeinsä murhaajalla laita hälle Verinen sydänpari; niihin uurra Edward ja York; jos hän siit' itkuun heltyy, Niin tuo, — kuin isällesi Margareeta Rutlandin veriin kastetun toi liinan, — Sinäkin hälle liina, joka, sano, Veljeinsä ruumiist' imi rusonesteen, Se anna hälle kuiveeks silmiensä. Jos täst' ei syötistä hän lempeen taivu, Niin laita hälle lasku urotöistäsi Sano, ett' tapoit Clarence setänsä Ja Rivers enonsa, ja hänen vuokseen Teit kelpo Anna tädist' äkkilopun.</p>
+<p>RICHARD. Ivaatte, rouva; tätä tiet' en voittaa Voi tytärtänne.</p>
+<p>ELISABETH. Muut' ei ole tietä, Jos et voi pukeutua toiseen muotoon Kuin Richardin, mi tään on kaiken tehnyt.</p>
+<p>RICHARD. Mut jos tuon teinkin rakkaudesta häneen?</p>
+<p>ELISABETH. Niin silloin hän sua toden totta vihaa, Kun moisin veritöin sa rakkautt' ostat.</p>
+<p>RICHARD. Niin, mik' on tehty, sit' ei nyt voi muuttaa. Älyttä usein toimii ihminen, Katua saaden töitään ajan pitkään. Jos pojiltanne riistin valtakunnan, Niin palkkeeks tyttärellenne sen annan. Jos tapoin teiltä kohdunhedelmänne, Niin tyttärenne kohdusta ma taasen Herätän siemenenne uuteen eloon. Vähemmän ei lie mummon nimi rakas Kuin herttainen ja maire äidin nimi, Ja lapsia ne lapsenkin on lapset, Ne teidän voimaa on ja teidän verta Ja samaa vaiviota, — se vaan ero, Ett' on nyt hänellä se tuskan yö, Mik' ennen teillä hänen tähtens' oli. Nuoruuden vaivaks omat oli lapset, Vanhuuden lohduks minun ovat teille. Kuninkaaks poikaanne kun ette saanut, Kuningattareks saatte tyttärenne. En palkita voi teitä niinkuin soisin, Siis ottakaa, mit' antaa hyvä tahto. Poikanne Dorsetin, jok' ulkomailla Arkaillen kuljeksii ja nurkumielin, Tää armas liitto pian kotiin kutsuu Ylhäisiin arvo-toimiin. Kuningaskin, Mi kaunotytärtänne vaimoks sanoo, Dorsetianne veljyekseen mainii. Kuninkaan äiti teistä tulee taaskin Ja sortoajan kaikki tuskat korvaa Taas kaksinkertaisesti runsas riemu. Oi, monta ilonpäivää vielä näämme: Hereät kyynelvetenne ne vielä Palaavat Idän helmiks muuttuneina, Näin onnen voiton kymmenkertaisen Koroiksi teille tuoden lainastanne. Mene, äiti, mene tyttäresi luo: Ujoa neittä tiedoillasi rohkaa, Totuta nuorta korvaa lemmen kieleen, Kultaisen korkeuden hehkaa lietso Sydämmeen hentoon; johda prinsessa Avio-ilon helliin salaisuuksiin. Tää käsi kun tuon kapinoivan kyyssän On suistanut, tuon tyhmän Buckinghamin, Palajan, voitonseppel' otsallani. Ja urhon vuoteeseen vien tyttäresi, Hänelle voitot luovutan, hän yksin On voittajatar. Caesar Caesarin.</p>
+<p>ELISABETH. Mitenkä sanoisin? Ett' isän veli Hänt' anoo aviokseen? Vaiko setä? Vai veljien ja setäin murhaajako? Kenenkä nimeen kosisin, niin että Jumala, laki, kunnia ja lempi Sen hentuvalle tekis suotuisaksi?</p>
+<p>RICHARD. Siin' aviossa, sano, maan on rauha.</p>
+<p xml:lang="fkv">ELISABETH. Jonk' ainaisella sodalla hän ostaa.</p>
+<p>RICHARD. Kuningas, sano, käskijänä pyytää.</p>
+<p>ELISABETH. Min kieltää kuningasten kuningas.</p>
+<p>RICHARD. Sano, mahtikuningatar hänest' elpyy.</p>
+<p>ELISABETH. Nimeään itkevä, kuin äitinsäkin.</p>
+<p>RICHARD. Rakastan häntä ijät päivät, sano.</p>
+<p>ELISABETH. Kuin kauan nämä iät päivät kestää?</p>
+<p>RICHARD. Sen, minkä sulo ikä armahalla.</p>
+<p>ELISABETH. Kuin kauan armahalla sulo ikää?</p>
+<p>RICHARD. Niin kauan kuin vaan taivas suo ja luonto.</p>
+<p>ELISABETH. Niin kauvan kuin vaan horna suo ja Richard.</p>
+<p>RICHARD. Alainen hälle valtias on, sano.</p>
+<p>ELISABETH. Hän, alaisena, inhoo moista valtaa.</p>
+<p>RICHARD. Minulle hänet sulopuhein voita.</p>
+<p>ELISABETH. Totuuden sana vaatii suoraa kieltä.</p>
+<p>RICHARD. Siis suoraan hälle rakkauteni kerro.</p>
+<p>ELISABETH. Ruma on suoruus ilman totuutta.</p>
+<p>RICHARD. On syynne liian kevyet ja herkät.</p>
+<p>ELISABETH. Ei, syyni liian raskaat on ja kuolleet: — Laps raukat kuolleet raskaan mullan alla.</p>
+<p>RICHARD. Sit' älä syytä koske; se on mennyt.</p>
+<p>ELISABETH. Koskenpa, kunnes sydänsyyt ne kätkee.</p>
+<p>RICHARD. Tään ristin, polvinauhan, kruunun, kautta, —</p>
+<p>ELISABETH. Häväistyn, liatun ja anastetun!</p>
+<p xml:lang="est">RICHARD. Ma vannon.</p>
+<p>ELISABETH. Tyhjään; se ei vala kelpaa. Häväisty ristisi on pyhä kiilto, Liattu polvinauhas ritar'arvo, Ryövätty kruunus kuninkuuden loisto; Jos valan tahdot uskottavan tehdä, Johonkin vanno, jot' et häväissyt.</p>
+<p>RICHARD. No, maailmaan, —</p>
+<p>ELISABETH. Se täynn' on ilkitöitäs.</p>
+<p>RICHARD. Isäni kuoloon, —</p>
+<p>ELISABETH. Elosi sen tahras.</p>
+<p xml:lang="nno">RICHARD. No, itseeni, —</p>
+<p>ELISABETH. Häväisit itse itses,</p>
+<p xml:lang="est">RICHARD. Siis, Jumalaan, —</p>
+<p>ELISABETH. Jumalan herja pahin. Jos et ois rikkonut, min Häneen vannoit, Niin puolisoni rakentama sopu Ei rikki ois ja veljeni ei kuollut. Jos et ois rikkonut, min Häneen vannoit, Niin päätäs ympäröivä kultavanne Mun hennon Edwardini kiertäis otsaa Ja molemmat viel' eläisivät prinssit; Maan mullass' on nyt hentoisien kehto; Teit heistä madonruokaa, valarikko. Nyt mihin vannot?</p>
+<p>RICHARD. Tulevaisuuteen.</p>
+<p>ELISABETH. Sen menneisyydessä jo tahrasit. Tulevaisuuttan' kyynelin ma huuhdon, Kun tahrasit sa multa menneisyyden. Viel' elää lapset, joilta isät tapoit, Ikänsä itkein nuorta orpouttaan; Viel' elää isät, joilta lapset tapoit, Ikänsä itkein tyhjää ahteruuttaan. Tulevaisuuteen älä vanno, sen Pilasi menneisyytes verinen.</p>
+<p>RICHARD. Niin totta hyvää tarkoitan ja kadun, Kuin tämän sodan vaaratöissä hyvin Mun käyköön! Oma käsi surmatkoon mun! Taivas ja sallimus mult' ilon vieköön! Yö, rauhas kiellä, päivä, valosi! Kaikk' olkoot onnen tähdet mulle nurjat, Jos hurskain mielin, pyhäss' aikehessa, Puhtaasta tosilemmestä en kosi Suloista tytärtäsi, prinsessaa! Hänessä mun on onneni ja sinun, Hänettä kohtaa sua, mua, häntä, Ja maatakin ja monta kristittyä Kadotus, surma, hävitys ja hukka, Jota ei muulla välttää voi kuin tällä, Ja jot' ei muulla välttää saa kuin tällä. Siis, kallis äiti, — niin nyt teitä kutsun, — Puhukaa puolestani, kertokaa, Mit' aion olla, eikä mitä olen, Ei hyveitäni, vaan mit' aion hyvää; Vedotkaa ajan luonteeseen ja pakkoon Ja suuriss' älkää hankkeiss' oikutelko.</p>
+<p>ELISABETH. Näin perkeleenkö kiusata mua annan?</p>
+<p>RICHARD. Niin kyllä, perkele jos hyvään kiusaa.</p>
+<p>ELISABETH. Näin itse unhotanko itseni?</p>
+<p>RICHARD. Niin, itsenne jos muisto teitä loukkaa.</p>
+<p xml:lang="smn">ELISABETH. Mut murhasithan sinä lapseni.</p>
+<p>RICHARD. Ne tyttärenne kohtuun minä hautaan; Ja siitä höystepesäst' iloksenne He nousevat kuin Phoenix uuteen eloon.</p>
+<p>ELISABETH. Menenkö siis ja tyttäreni voitan?</p>
+<p>RICHARD. Tulette sillä äidiks onnekkaaksi.</p>
+<p>ELISABETH. No, menen. — Kirje mulle pian laita, Niin hänen mielens' ilmoitan ma sulle.</p>
+<p xml:lang="fkv">RICHARD. Tää harras lemmenmuisku hälle viekää; Hyvästi! (Suutela häntä.)</p>
+<p xml:lang="nob">(Kuningatar Elisabeth menee.)</p>
+<p>Löyhä hupsu! Heikko vaimo! — No, mitä? Mitä uutta?</p>
+<p>(Ratcliff tulee: Catesby hänen jäljissään.)</p>
+<p>RATCLIFF. Kuningas, herra! Länsirannikolle Suur' ahtaa laivasto, ja rantaan tunkee Epäiltäviä ystäviä joukoin; Aseitta ovat, veltot vastarintaan. Sen päälliköksi Richmondia luullaan. Se luovailee ja vartoo Buckinghamilt' Apua vaan, ett' astua vois maalle.</p>
+<p>RICHARD. Norfolkin luokse juoksujalkaa viesti! — Sa, Ratcliff, — taikka Catesby; missä hän on?</p>
+<p>CATESBY. Täss', armo herra.</p>
+<p>RICHARD. Herttuan luokse lennä.</p>
+<p>CATESBY. Kyll', armo herra, mitä kiiruimmin.</p>
+<p>RICHARD. He, tänne, Ratcliff; mene Salisburyyn; Kun sinne saavut, — (Catesbylle.) Mitä kuhnailet, Haluton hölmö, miks et lähde matkaan?</p>
+<p>CATESBY. Suvaitkaa, kuningas, mun ensin tietää, Mik' armonne on käsky herttualle.</p>
+<p>RICHARD. Niin, oikein, Catesby; käske, että oiti Hän kokoo voitavansa sotavoiman Ja kohtaa mua heti Salisburyssä.</p>
+<p xml:lang="vep">CATESBY. Ma lähden.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>RATCLIFF. Suvaitkaatte ilmoittaa, Mit' on mun tekeminen Salisburyssä.</p>
+<p>RICHARD. Mit' ennen mua siellä tekisit?</p>
+<p xml:lang="smn">RATCLIFF. Te käskitte mun mennä ennakolta.</p>
+<p>RICHARD. Nyt muutin mieleni. —</p>
+<p>(Stanley tulee.)</p>
+<p>Mit' uutta, Stanley?</p>
+<p>STANLEY. Niin hyvää ei, ett' ilo sit' on kuulla, Mut ei niin pahaa, ett'ei kuulla voisi.</p>
+<p>RICHARD. Hei, arvoitus! Ei hyvää, eikä pahaa! Miks siis noin monta peninkulmaa kierrät, Kun asian voit oikoteinkin ajaa? Mit' uutta, sano?</p>
+<p xml:lang="nob">STANLEY. Vetten pääll' on Richmond.</p>
+<p>RICHARD. Upotkoon sinne, vedet hänen päälleen? Se valkomaksa luopio mit' aikoo?</p>
+<p>STANLEY. En tiedä, suuri valtias, mut arvaan.</p>
+<p xml:lang="fkv">RICHARD. No, mitä arvaat?</p>
+<p>STANLEY. Että kiihtämänä Dorsetin, Mortonin ja Buckinghamin Hän tulee Englantiin ja kruunun vaatii.</p>
+<p>RICHARD. Kuin? Onko istuin tyhjä? Miekka jouten Kuningas kuollut? Valtakunta päätön? Muit' eloss' onko Yorkeja kuin minä? Englannin eikö kuninkaita Yorkit? Siis sano, miksi vesillä hän liikkuu?</p>
+<p>STANLEY. No, ell'ei siksi, niin en oikein arvaa.</p>
+<p>RICHARD. Et arvaa, miksi tulee walesiläinen, Ell'ei hän tule kuninkaaksi sulle. Mun petät kai ja hänen luokseen karkaat.</p>
+<p>STANLEY. En, hyvä kuningas; moist' älkää luulko.</p>
+<p>RICHARD. Mut missä joukkos, millä häntä häädät? Miss' seuralaisesi ja vasallisi? Eivätkö ole länsirannikolla Ja auta kapinoitsijoita maalle?</p>
+<p>STANLEY. Ei, ystäväni ovat pohjolassa.</p>
+<p>RICHARD. Jääkylmät ystävät: miks pohjolassa, Kuninkaan lännessä kun heit' on tarvis?</p>
+<p>STANLEY. He käskyä ei saaneet, majesteetti. Jos suvaitsette, herrani, niin heti Väkeni kokoan ja yhdyn teihin Miss' ikään vaan ja milloin käskette.</p>
+<p>RICHARD. Niin, niin, sa Richardiin kai yhtyisit; En sua usko.</p>
+<p>STANLEY. Suuri valtias, Te syyttä ystävyyttän' epäilette; En pettur' ole ollut enkä ole.</p>
+<p>RICHARD. Väkeä nosta siis; mut poikas Yrjö Jälkeesi jätä. Sydämmes jos horjuu, Niin, tiedä, pojan pää ei lujass' ole.</p>
+<p>STANLEY. Mun käytökseni mukaan hälle käyköön.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p>(Sanansaattaja tulee.)</p>
+<p>SANANSAATTAJA. Suur' valtias, mull' ystävilt' on tieto, Ett' aseiss' ovat Devonshiressä Sir Edward Courtney ja sen vanhin veli, Tuo pöyhkä pappi, Exeterin piispa, Ja vielä monta muuta liittolaista.</p>
+<p>(Toinen sanansaattaja tulee.)</p>
+<p>2. SANANSAATTAJA. Kentissä aseiss' ovat Guildfordit, Ja joka hetki kapinoiviin liittyy Useita lisää; niiden voima paisuu.</p>
+<p>(Kolmas sanansaattaja tulee.)</p>
+<p>3. SANANSAATTAJA. Kuningas, suuren Buckinghamin joukko —</p>
+<p>RICHARD. Pois, pöllöt! Ainaistako kuolin virttä? (Lyö häntä.) Kas tuossa, kunnes kerrot parempaa.</p>
+<p>3. SANANSAATTAJA. Kuningas, kertoa ma teille aioin. Ett' äkkitulvat sekä rankkasateet Hajoittaneet on Buckinghamin joukon, Ja ett' on yksinään hän pakoon mennyt, Ei kukaan tiedä, minne.</p>
+<p>RICHARD. Anteeks anna! Kas, tuossa kultaa vamman vaimenteeksi. Ja kukaan neuvokasko palkintoa Ei julistanut kiinni-ottajalle?</p>
+<p>3. SANANSAATTAJA. Julistus moinen annettu on, herra.</p>
+<p>(Neljäs sanansaattaja tulee.)</p>
+<p>4. SANANSAATTAJA. Markiisi Dorset ja sir Thomas Lovel Yorkshiress' aseiss' ovat, sanotaan; Mut lohduksi ma saatan tämän tiedon: Bretagnen laivat haiskannut on myrsky; Richmond on Dorsetshirest' aluksella Kysymään pannut rannan asukkailta, Ovatko hänen puoltaan vaiko ei; Buckingham, sanoivat he, laittoi heidät Avuksi hälle, hän ei uskonut, Vaan täysin purjein läksi Bretagneen.</p>
+<p>RICHARD. Mars, taisteluun, kun kerta aseiss' ollaan; Jos ulkovihollista emme voita, Niin kotikapinoitsijat me lyömme.</p>
+<p>(Catesby tulee.)</p>
+<p>CATESBY. Kuningas. Buckingham on saatu kiinni; Se paras uutiseni. Kreivi Richmond Milfordiin maatunut on suurin joukoin; Se pahemp' on, mut kerrottava sekin.</p>
+<p>RICHARD. Pois Salisburyyn! Näin tässä juorutessa Ois valtatappelu jo suoritettu, Jokunen Buckinghamin toimittakoon Salisburyyn oiti; muut mua seuratkoot.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p xml:lang="est">Viides kohtaus.</p>
+<p xml:lang="fkv">Huone Stanleyn asunnossa.</p>
+<p>(Stanley Ja Cristopher Urswick tulevat.)</p>
+<p>STANLEY. Sir Christopher, näin sano Richmondille. Tuon verta himoitsevan karjun lättiin On Yrjö poikani nyt salvattuna; Jos kapinoin, niin pojan menee pää; Se pelko pidättää nyt apuani. Niin, mene, terveiset vie herrallesi Ja sano: kuningatar hälle kernaast' Elisabethin antaa, tyttärensä. Mut sano, miss' on nyt se uljas Richmond?</p>
+<p>URSWICK. Pembrokessa tai Harford-westissa.</p>
+<p>STANLEY. Ketk' ovat mainemiehet hänen puoltaan?</p>
+<p>URSWICK. Sir Walter Herbert, kuulu soturi, Sir Gilbert Talbot ja sir William Stanley, Pelätty Pembroke, Oxford, sir James Blunt, Ja Rice ap Thomas uljain joukkoinensa Ja monta muuta arvon, maineen miestä: Ja Lontooseen he voimans' ohjaavat, Jos heidän päällensä ei tiellä käydä.</p>
+<p>STANLEY. Luo herras riennä; kättään suutelen; Miel'alani hän näkee kirjeestäni. Hyvästi!</p>
+<p>(Antaa Urswickille papereita. Menevät.)</p>
+<p type="title" xml:lang="vep">VIIDES NÄYTÖS.</p>
+<p>Ensimmäinen kohtaus.</p>
+<p>Salisbury. Aukea paikka.</p>
+<p xml:lang="olo">(Sheriffi vartijoineen vie Buckinghamin mestattavaksi.)</p>
+<p>BUCKINGHAM. Siis kuningasta ei saa puhutella?</p>
+<p>SHERIFFI. Ei, hyvä loordi; nyt vaan malttamusta.</p>
+<p>BUCKINGHAM. Edwardin lapset, Hastings, Rivers, Grey, Sa, hurskas Henrik, kaunis poikas Edward, Vaughan ja kaikki, jotka tunnottomat, Salaiset ilkijuonet surmaan syöksi, Jos synkät suuttunehet sielunne Näkevät halki pilvein tämän hetken, Niin kostoks ilkkukaa mun loppuani! Nyt henkien on päivä, eikö niin?</p>
+<p>SHERIFFI. On, hyvä herra.</p>
+<p>BUCKINGHAM. Henkien siis päivä On minun ruumihini tuomiopäivä. Tää päivä se, jot' itselleni toivoin, Kun Edward eli, jos mua lapsillensa Tai vaimons' ystäville viekkaaks löyttäis. Tää päivä, jona sortuvani toivoin Paraimman uskottuni pettämänä. Tää henkein päivä, tää se viimeinen On määräpäivä henki raukalleni. Tuo kaikki näkevä, jot' ilkailin, Kääns' omaan päähän valherukouksen Ja todest' antoi, mitä suotta pyysin; Näin jumalattomain hän miekkaa ohjaa, Sen kääntäin kärjen haltijainsa rintaan; Näin Margareetan kirot päälleni Raskaina lankee: <span type="quote">"Muista"</span>, niin hän sanoi, "Sydäntäs murehella kun hän raataa, Ett' oli Margareeta ennustaja." — Häpeäpaaluun minut viekäätten; Syy luopi syyn ja vääryys vääryyden.</p>
+<p>(Buckingham, sheriffi ja vartijat poistuvat.)</p>
+<p>Toinen kohtaus.</p>
+<p>Tasanko Tamworthin läheisyydessä.</p>
+<p xml:lang="nob">(Richmond, Oxford, sir James Blunt, sir Walter Herbert y.m. tulevat helisevin soitoin ja liehuvin lipuin, marsittaen sotajoukkojaan.)</p>
+<p>RICHMOND. Näin, rakkaat ystävät ja aseveikot, Te hirmuvallan ikeen ruhjomat, Maan sydämmeen näin kauas olemme Nyt estämättä marssineet, ja täällä Me Stanleylt', isältämme, kirjeen saamme, Mi täynn' on lohtua ja rohkaistusta. Tuo julma, ryösteliäs verikarju, Mi laihot, viinatarhat teiltä tonki, Ja ahmaa kuumaa vertanne kuin rapaa, Ruhonne raamastaen purtilokseen, Se rietas karju saaren sydämmessä Nyt Leicesteriä lähell' on, ma kuulin; Tamworthist' on vaan päivän matka sinne, Eteenpäin, Herran nimeen, uljaat veikot! Terävän sodan yksi veri-isku Ikuisen rauhan sadon meille korjaa.</p>
+<p>OXFORD. Kuin tuhat miestä hyvä omatunto Tuot' inhaa verikoiraa vastustaa.</p>
+<p>HERBERT. Varmaankin ystävänsä meihin liittyy.</p>
+<p>BLUNT. Pelosta vaan he ystäviään ovat; Hänestä luopuvat, kun kovaan ottaa.</p>
+<p>RICHMOND. Kaikk' eduksemme. Mars siis, Herran nimeen! Kuin pääsky liitää toivo: jumaluuttaa Kuninkaat, kuninkaiksi moukat muuttaa.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Kolmas kohtaus.</p>
+<p>Bosworthin kenttä.</p>
+<p>(Kuningas Richard sotajoukkoineen, Norfolkin herttua, kreivi Surrey y.m. tulevat.)</p>
+<p>RICHARD. Tää Bosworthin on kenttä; teltat pystyyn! — No, kreivi Surrey, miks on katsees synkkä?</p>
+<p xml:lang="est">SURREY. Sydän on mulla kymmenkertaisesti Katsettan' iloisempi.</p>
+<p xml:lang="nob">RICHARD. Herttua Norfolk, —</p>
+<p>NORFOLK. Täss', armollinen kuninkaani.</p>
+<p>RICHARD. Norfolk, Tääll' iskuja ei säästetä, vai kuinka?</p>
+<p>NORFOLK. Niit' annetaan ja saadaan, majesteetti.</p>
+<p>RICHARD. Telttani pystyyn! Tän yön makaan tässä; Mut missä huomenna? — No, yhtä kaikki. — Kuin suuri lienee petturien joukko?</p>
+<p>NORFOLK. Kuus-, seitsentuhansinen korkeintaan.</p>
+<p>RICHARD. Kolmasti vahvempi on meillä voima, Ja nimi kuninkaan on luja linna, Jot' ovat vailla vihollisen puolla. Telttani pystyyn! — Tulkaa, ylimykset, Nyt paikan etuisuutta tarkastamme. — Kokeneet miehet tänne neuvonpitoon. Nyt tarkka kuri vaan! Pois velttous! Huomenna kova alkaa ponnistus.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>(Kentän vastaiselta puolelta tulevat Richmond, sir William Brandon, Oxford ja muita sotaherroja. Sotamiehet pystyttävät Richmondin telttaa.)</p>
+<p>RICHMOND. Väsynyt aurinko jo kultiin laski Ja tulivaunujensa kirkkaat jäljet Lupaavat ihanata huomispäivää. — Te lippuani kannatte, sir Brandon. — Telttaani mustetta ja paperia! Ma kaavan laitan, suunnan tappelulle, Kullekin päällikölle määrään työnsä Ja tarkoin osittelen joukkosemme. Te, kreivi Oxford, — te, sir William Brandon, — Ja te, sir Walter Herbert, jäätte tänne. Rykmenttins' ohjaksiin jää kreivi Pembroke: Sir Blunt, hyv' yötä hälle sanokaa Ja että kello kahdelt' aamuisella Ma häntä teltassani nähdä toivon. — Viel' yksi pyyntö, herra kapteeni: Miss' on lord Stanleyn maja, tiedättenkö?</p>
+<p>BLUNT. Jos en lie erehtynyt lipuistaan, — Ja ett'en ole, siitä olen varma, — Niin rykmenttins' on puolen peninkulmaa Kuninkaan valtajoukost' etelään.</p>
+<p>RICHMOND. Jos vaaratta sen voitte, hyvä Blunt, Niin yrittäkää hänen puheillensa Ja viekää hälle tämä tärkki kirje.</p>
+<p>BLUNT. Sen, herra, teen, niin totta kuin ma elän. Jumala teille rauhaist' yötä suokoon!</p>
+<p>RICHMOND. Hyv' yötä, rakas Blunt! Nyt tulkaa, herrat: Neuvottelemme huomispäivän töistä; Telttaani tänne: ilm' on raakaa, kylmää.</p>
+<p>(Menevät telttaan.)</p>
+<p>(Kuningas Richard tulee teltallensa, Norfolk, Ratcliff ja Catesby hänen seurassaan.)</p>
+<p>RICHARD. Mit' on nyt kello?</p>
+<p>CATESBY. Illallisen aika: Yhdeksän lyönyt.</p>
+<p>RICHARD. Nyt en illasta. — Mustetta, paperia mulle tuokaa. — Mun onko kypärini kevennetty Ja kaikki varukseni telttaan viety?</p>
+<p>CATESBY. On, majesteetti; kunnossa on kaikki.</p>
+<p>RICHARD. Nyt, hyvä Norfolk, joutuun asemaasi. Visusti tarkkaa; taatut ota vahdit.</p>
+<p xml:lang="fkv">NORFOLK. Paikalla, herra.</p>
+<p>RICHARD. Havahdu kiurun kanssa, rakas Norfolk.</p>
+<p>NORFOLK. Sen lupaan.</p>
+<p xml:lang="fkv">(Menee.)</p>
+<p xml:lang="deu">RICHARD. Ratchff!</p>
+<p xml:lang="fkv">RATCLIFF. Armollinen herra?</p>
+<p>RICHARD. Lähetä aseairut Stanleyn luokse, Ett' ennen aamun koittoa hän tänne Väkensä laittaa, muuten poikans' Yrjö Ijäisen yön pimeeseen loukkoon sortuu. — Yökynttiläni! — Sarkkaan viiniä! Kimoni Surrey aamuks satuloitkaa! Lujatko peitseni, eik' ylen raskaat? — Ratcliff! —</p>
+<p xml:lang="fkv">RATCLIFF. Täss', armollinen herra.</p>
+<p xml:lang="eng">RICHARD. Tuon valjun lord Northumberlandin näitkö?</p>
+<p>RATCLIFF. Hämyssä kulki kreivi Surreyn kanssa Joukosta joukkoon kautta koko leirin Väkeä rohkaisten.</p>
+<p>RICHARD. Vai niin; se hyvä. — Pikari viiniä! Ei enää mulla Tuot' ole mieltä hilpeää kuin ennen, Ei samaa hengen pontta. — Laske tuohon. — Käsillä onko paperi ja muste?</p>
+<p>RATCLIFF. On, armollinen herra.</p>
+<p>RICHARD. Hereillä pidä vahdit. Menkää täältä. Telttaani tule, Ratcliff, puol'yön aikaan Ja yllen' asu auta. — Menkää, sanon.</p>
+<p>(Kuningas Richard vetäytyy telttaansa. Ratcliff ja Catesby poistuvat.)</p>
+<p>(Richmondin teltta avautuu, josta näkyy hän itse ja hänen sotamiehensä y.m.)</p>
+<p>(Stanley tulee.)</p>
+<p>STANLEY. Kypäris onni kruunatkoon ja voitto!</p>
+<p>RICHMOND. Elatus-isä jalo, sulle suokoon Yö synkkä kaiken voitavansa lohdun! Sanohan, kuinka jaksaa rakas äiti?</p>
+<p>STANLEY. Mun kauttani sun äitisi sua siunaa, Rukoillen hyvää aina Richmondilleen. Se siitä. — Hetket hiljaiset jo rientää, Idässä pimeys juovittuu ja taittuu. Lyhveen, sillä lyhyytt' aika vaatii, Varustu taistoon varhain huomenelta, Ja onnes heitä veri-iskujen Ja surmaa tuijottavan sodan varaan. Sen, minkä voin, — en voi, näet, mitä soisin, — Ma ensi tilass' aikaa koitan pettää Ja sua tässä vaaraleikiss' auttaa; Mut liiaks puoltasi en pitää tohdi, Jos nähdään se, niin nuori veljes Yrjö Isänsä nähden heti mestataan. Hyvästi! Kiireinen ja arka aika Meilt' ystävyyden juhlamenot kieltää Ja hellän haastelon ja sananvaihdon, Mi pitkäst' eroajast' olis hauskaa. Suo, Jumal', aikaa näihin lemmen juhliin! Hyvästi! — Onnea ja rohkeutta!</p>
+<p>RICHMOND. Leiriinsä hänet viekää, hyvät loordit. Nukahtaa koitan raskailt' aatoksilta, Jott' aamull' uni lyijyinen ei painais, Kun voiton siivillä mun tulee nousta. Hyv' yötä vielä kerran, hyvät loordit!</p>
+<p>(Stanley, loordit y.m. poistuvat.)</p>
+<p>Sä, jonka soturi ma olla tahdon, Oi! armon katse luo mun miehistööni; Vihasi surmarauta heille anna, Jonk' isku raskas vastustajan päästä Kypärin luvattoman pirstoaisi! Tee meidät kuritukses aseiksi, Ett' ylistää sua voitossasi saamme! Sun haltuus valppaan annan sieluni, Ennenkuin silmäin ikkunat ma suljen. Mua unessa ja valveill' aina kaitse!</p>
+<p xml:lang="kal">(Nukkuu.)</p>
+<p>(Edward prinssin, Henrik kuudennen pojan, haamu nousee maasta molempien telttain välistä.)</p>
+<p>HAAMU. (Richardille.) Huomenna mieltäs raskahana painan. Sa muista, kuinka heiteessäni kaadoit Mun Tewksburyssa: kammo siis ja kuole! — (Richmondille.) Iloitse, Richmond; murhattujen prinssein Rikotut sielut rinnallasi sotii. Aluva Henrikin sua rohkaa, Richmond.</p>
+<p>(Kuningas Henrik kuudennen haamu nousee.)</p>
+<p>HAAMU. (Richardille.) Kun olin kuolevainen, reikää monta Voideltuun pistit ruumiiseeni. Muista Mua ja Toweria; kammo ja kuole! — Ma Henrik kuudes oon: kammo ja kuole! — (Richmondille.) Pyhälle sulle, puhtahalle, voitto! Henrik, jok' ennusti sun päähäs kruunun, Unessa rohkaa sua: elä ja heidi!</p>
+<p>(Clarencen haamu nousee.)</p>
+<p>HAAMU. (Richardille.) Huomenna mieltäs raskahana painan. Ma, jonka hengilt' inha viini huuhtoi, Poloinen Clarence, jonka vilppis petti! Huomenna taistelussa mua muista! Hervotkoon kalso miekkas: kammo ja kuole! (Richmondille.) Sun puolestasi, Lancasterin taimi, Rikotut Yorkin versot rukoilevat. Hyvä enkeli sua kaitkoon! Elä ja heidi!</p>
+<p>(Riversin, Greyn ja Vaughanin haamut nousevat.)</p>
+<p>RIVERSIN HAAMU (Richardille). Huomenna mieltäs raskahana painan, Rivers, Pomfretin uhri. Kammo ja kuole!</p>
+<p>GREYN HAAMU (Richardille). Sa Greytä muista, kammo sielussa.</p>
+<p>VAUGHANIN HAAMU (Richardille). Sa Vaughania muista; peitses laske Pelolla syyllisen. Kammo ja kuole!</p>
+<p>KAIKKI (Richmondille). Herää, ja tiedä: kirouksemme tuntoon Kukistuu Richard. — Herää, voittoon nouse!</p>
+<p>(Hastingsin haamu nousee.)</p>
+<p>HAAMU. (Richardille.) Verinen syntinen, nyt syntiis herää; Verisess' ottelussa päiväs päätä! Lord Hastingsia muista. Kammo ja kuole! — (Richmondille.) Sa, tyyni, kirkas sielu, valvene! Englannin hyväks sodi, taistele!</p>
+<p>(Molempien nuorten prinssien haamut nousevat.)</p>
+<p>HAAMUT. (Richardille.) Toweriin tukehtuneet serkkus näe: Kuin lyijy sydäntäsi painamme, Häpeään, tuhoon, surmaan sinut syösten. Nepaittes sielut huutaa: kammo ja kuole! — (Richmondille.) Nuku, Richmond, henkes iloon havatkoon! Sua karjun hampaist' enkel' auttakoon! Elä ja kuninkaita sarja siitä! Edwardin poika-raukat toivoo: heidi!</p>
+<p>(Kuningatar Annan haamu nousee.)</p>
+<p>HAAMU. (Richardille.) Sun vaimos, Richard, kurja vaimos Anna, Mi levon hetkeä ei luonas saanut, Sun unesi nyt kauhistuksin täyttää. Huomenna taistelussa mua muista! Hervotkoon kalso miekkas! Kammo ja kuole! — (Richmondille.) Sa, tyyni sielu, nuku makeasti! Näe voitost', onnest' unta! Puolestasi Rukoilee vaimo vastustelijasi.</p>
+<p>(Buckinghamin haamu nousee.)</p>
+<p>HAAMU. (Richardille.) Ma ensimmäisenä sun valtaan saatoin Ja viimeisenä ko'in hirmuisuuttas. Buckinghamia taistelussa muista Ja oman syyllisyytes kauhuun kuole! Uneksi surmaa, veritöitä vaan, Käy kammoll' epätoivon kuolemaan! — (Richmondille.) Toivossa kuolin saada sua auttaa, Nyt ilon saat ja lohdun kuolleen kautta. Sua Jumal' enkeleineen auttakoon, Ja Richard pöyhkeimmillään kaatukoon!</p>
+<p>(Haamut katoavat. Kuningas Richard havahtaa unestaan.)</p>
+<p>RICHARD. Hoi, toinen ratsu! — Side haavalleni! — Kies' auttakoon! — Vait! Se vaan oli unta. — Pelokas tunto, minkä tuskan tuotat! — Kah, liekki siintää! — Sydänyö on synkkä. Pintaani kylmä kauhun hiki karmii. Pelkäänkö? Itseäni? Muit' ei täällä. Richardia Richard rakastaa; se tietää: Minä olen minä. Murhaajaako täällä? Ei, — on: min' olen täällä; pakoon siis! — Ketä? Itseäni? Hyvä; mistä syystä? He, kostaakseni. Kelle? Itselleni? Ah, rakastanhan itseäni! Mistä? Hyvästäkö, jot' itselleni tein? Ei, ei! Ma ennen itseäni vihaan Pahuuden töistä, joita tein ma muille. Min' olen konna. Valett'! Enpä ole. Älä herjaa, narri! — Älä mairi, narri! On tunnollani tuhat eri kieltä, Ja joka kielellä on eri kanne, Ja joka kanne mua konnaks syyttää. Niin, väärää, väärää valaa ylimäärät, Ja murhaa, hirmumurhaa julmat määrät, Rikosta kaikkinaista täydet määrät Lain eteen käy ja huutaa: syypää! syypää! Ma kammon. — Ei niin luotukaan mua lemmi; Jos kuolen, ei niin sielukaan mua sääli; — Ja miksi sääliskään, kun en ma itse Vähääkään omaa itseäni sääli? — Minusta kaikki murhaamani sielut Tulivat telttaani ja kaikki huutain Huomenna kostavansa Richardille.</p>
+<p>(Ratcliff tulee.)</p>
+<p xml:lang="est">RATCLIFF. Kuningas, —</p>
+<p>RICHARD. Kuka siellä?</p>
+<p>RATCLIFF. Ratcliff, herra; Kylässä valpas kukko kahdest' on jo Huomenta tervehtinyt; ystävänne On nousseet, soljittavat tamineitaan.</p>
+<p>RICHARD. Näin julmaa unta, Ratcliff. — Mitä luulet, Ovatko kaikki ystävämme taatut?</p>
+<p>RATCLIFF. Epäilemättä.</p>
+<p>RICHARD. Pelkään, Ratcliff, pelkään, —</p>
+<p xml:lang="fkv">RATCLIFF. Ei, herra, haamuissa ei pelkäämistä.</p>
+<p>RICHARD. Kautt' apostoli Paavalin, yön haamut Enemmän kammottavat sieluani Kuin kymmentuhansinen aseellinen Miesjoukko, jota johtaa tyhmä Richmond. Ei vielä päivää. Tule, mua seuraa: Ma telttain luona tahdon kuuleskella, Ajatteleeko joku minut pettää.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p xml:lang="nob">(Richmond herää. Oxford y.m. tulee)</p>
+<p xml:lang="nob">LOORDIT. Huomenta, Richmond!</p>
+<p>RICHMOND. Anteeks, valppaat loordit: Tapaatte täällä velton untelon.</p>
+<p>LOORDIT. Kuin olette te nukkunut, mylord?</p>
+<p>RICHMOND. Make'in uni, ihanimmat unet, Mit' uupuneen on päähän koskaan tullut, On mulla ollut teidän mentyänne. Richardin murhaamien sielut tänne Tulivat telttaan, huutain: ylös voittoon! Niin, totta, riemua on sydän täynnä, Näin kaunist' unta muistellessani. Mik' on nyt huomenhetki, hyvät loordit?</p>
+<p>LOORDIT. Lyönnilleen neljä kello on.</p>
+<p>RICHMOND. Siis aika On varustautua ja järjestyä. —</p>
+<p>(Astuu sotajoukkojen eteen.)</p>
+<p>Maanmiehet rakkaat, muuta kuin jo sanoin, Ei ajan lyhyys eikä kiireet salli Mun selvitellä: tää vaan muistakaa: Jumala on ja oikeus puolellamme; Pyhien, loukattujen rukoukset Kuin ylvä linnoitus on edessämme; Vastustajamme muut, pait Richard, meidän Sois ennen voittavan kuin johtajansa Ja mikä johtaja? Niin, totisesti, Verinen tyranni ja murhaaja, Mies verin noussut, verin varttunut, Juonilla ensin määrän päähän päässyt Ja sitten apurinsa surmaan syössyt; Mitätön kivi, petoksella pantu Englannin kruunun jaloon kehykseen; Ainainen taivaan Herran vihollinen. Jos taivaan vihollista vastustatte, Niin taivas teitä sotureinaan suojaa; Tyrannin sortoa jos aherratte, Niin rauhaist' unta saatte, kun hän sortuu; Maan vaivaajaa jos vastaan tappelette, Maan maiheus se teille vaivat maksaa; Jos vaimojenne turvaks taistelette, He voittajiksi teitä tervehtivät; Lapsenne miekasta jos pelastatte, Niin lastenlapsiltanne palkan saatte. Siis, nimeen Jumalan ja oikeutemme, Nyt liput liehumaan ja miekat maalle! Ma lunnahiksi tästä uhkatyöstä Kylmälle maalle kylmän ruumiin annan; Mut jos mua onnistaa, niin voiton saaliist' Osansa teistä halvinkin on saapa. Nyt rummut räikkymään ja torvet soimaan! Jumala, pyhä Yrjö! Richmond, voitto!</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>(Kuningas Richard ja Ratcliff palajavat seuralaisineen ja sotajoukkoineen.)</p>
+<p xml:lang="est">RICHARD. Kuink' arvas Richmondin Northumberland?</p>
+<p>RATCLIFF. Aseisiin sanoi tottumattomaksi.</p>
+<p>RICHARD. Hän sanoi totta. Mitä Surrey siihen?</p>
+<p>RATCLIFF. Hän naurahti ja sanoi: hyvä meille.</p>
+<p>RICHARD. Hän oli oikeassa; niinpä onkin. (Kello lyö.) Lueppa lyönnit. — Almanakka tänne! — Ken auringon on nähnyt?</p>
+<p>RATCLIFF. En vaan minä.</p>
+<p>RICHARD. Se siis ei tahdo paistaa; kirjan mukaan Idässä upeillut se on jo tunnin; Nyt tulee muutamille päivä musta. — Ratcliff, —</p>
+<p xml:lang="nob">RATCLIFF. Mylord?</p>
+<p>RICHARD. Ei päivä tahdo tänään paistaa: Karsaana taivas vaanii joukkojamme. Pois tahtoisin nuo kastehelmet maasta. Ei tänään paista! Yhtä hyvin koskee Se Richmondiin kuin minuun: sama taivas, Jok' uhkaa mua, karsaa myöskin häntä.</p>
+<p>(Norfolk tulee.)</p>
+<p>NORFOLK. Aseisiin! Vihamies jo kentäll' öyhkää.</p>
+<p>RICHARD. Ravakat liikkeet! Kuntoon ratsuni! Stanleylle sana, että yhtyy meihin. Väkeni tasangolle johtaa tahdon Ja sotarintaan näin ne järjestän: Venytän etujoukon, siihen pannen Hevos- ja jalkamiestä tasamäärin; Keskukseen jousimiehet asetan; Norfolkin herttua ja Surreyn kreivi Saa jalkaväen johtoonsa ja ratsaat. Näin järjesteltyäni, seuraan itse Pääjoukon kanssa; molemmat sen siivet Lujittaa saapi paras ratsuväki. Ja sitten auttakoon vaan santta Yrjö! — No, Norfolk, mitä tästä arvelet?</p>
+<p xml:lang="est">NORFOLK. Sotaisa majesteetti, oiva tuuma. — Tään löysin aamulla ma teltastani.</p>
+<p>(Antaa hänelle paperilapun.)</p>
+<p>RICHARD (lukee). "Norfolkin Jukka, et korskastasi hyödy, Herrasi Riku on ostettu ja myöty." Tää vihollisen keksimää on juonta. — Nyt, herrat, toimihinne joka mies. Meit' ei saa juoru-unet säikyttää; Vain pelkureit' on varten omatunto, Keksitty ensin voiman hillikkeeksi; Käs' olkoon vahva omatuntonamme Ja lakinamme miekka. Päälle käykää, Ja sekaan iskekää! Jos taivaisiin Ei tiemme vie, niin vieköön helvettiin! Mit' entist' enempää ma sanoisin? Havaitkaa, ketä vastaan taistelette; Petoja, roistoja ja kulkureita, Maamoukkia. Bretagnen hylkiöitä, Jotk' ylensyönyt maa on kakaissut Rajuhun seikkailuun ja varmaan surmaan. Nukuitte rauhassa, he rauhan vievät; Teill' oli maat ja kauniit vaimot; niitä He riistää tahtovat ja raiskata. Ja kuka heitä johtaa? Kurja kollo, Jok' ikäns' armoill' eli Bretagnessa, Lellikki, joka eläissään ei ole Lumessa käynyt kenkää syvemmässä. Takaisin merten taa nuo roistot pieskää, Survaiskaa pois nuo röyhkät Ranskan moukat, Nälkäiset, henkiheitot kerjäläiset, Jotk' oisivat jo aikaa, rotta-raukat, Ravinnon puuttehesta hirteen menneet, Jos ei tää urotyö ois mieleen tullut. Jos meistä voitto saadaan, mies sen saakoon, Eik' äpärät nuo Bretagnen, joit' ennen Isämme heidän maassa mukkiloivat Ja aikakirjain pilkaks saattoivat. Nuo maitammeko nauttia nyt saavat? Häväistä vaimot? Maata tyttäremme? — (Rummun pärrytystä etäältä.) Haa, rumpunsa jo kuulen! Taistoon, taistoon, Englannin uljaat, vapaat kansalaiset! Pään tasaan jousta pingoittakaa, miehet! Kannukset ratsuun! Verta kahlatkaa! Ja ilman kauhuks peistä pirstatkaa! — (Sanansaattaja tulee.) Mitä sanoo Stanley? Yhtyykö hän meihin?</p>
+<p>SANANSAATTAJA. Ei lupaa, herra, yhtyä.</p>
+<p>RICHARD. Siis oiti kaula poikki nuoren Stanleyn!</p>
+<p>NORFOLK. Vihollinen jo suon on tällä puolen: Tapellaan ensin, sitten tapetaan.</p>
+<p>RICHARD. Tuhannen sydänt' uhkoo povessani. Etehen sotaliput! Käykää päälle! Ja vanha tunnussana, santta Yrjö, Se lohikäärmeen vimman meihin luokoon! Eteenpäin! Kypäreillämme on voitto.</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>Neljäs kohtaus.</p>
+<p>(Toinen kohta tappelutannerta.)</p>
+<p>(Sotamelskettä. Hyökkäyksiä. Norfolk tulee joukkoineen; hänen jäljessään Catesby.)</p>
+<p>CATESBY. Lord Norfolk, apuun, apuun kuninkaalle! Hän tekee ihmeit' yli ihmisvoiman Ja vaaraa uhmaa henkeen, kuolemaan. Ratsunsa kaatui, jalan taistelee hän Ja Richmondia surman kuiluss' urkkii. Apuhun, loordi, muuten perii hukka!</p>
+<p>(Sotamelskettä. Kuningas Richard tulee.)</p>
+<p>RICHARD. Ratsu, ratsu! Valtakunta ratsusta!</p>
+<p>CATESBY. Paetkaa, herra; ratsun teille hankin.</p>
+<p>RICHARD. Vait, orja! Heiton varassa on henki, Ma tahdon nähdä, miten arpa lankee. Tääll' lienee Richmondeja kuusittain, Niit' olen tänään surmannut jo viisi. — Ratsu! Ratsu! Valtakunta ratsusta!</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p>(Sotahuutoja. Kuningas Richard ja Richmond tulevat ja poistuvat taistellen. Peräytymistä. Torventoitauksia. Kohta sen jälkeen tulevat Richmond ja Stanley, kantaen kruunua. Muita loordeja ja sotaherroja.)</p>
+<p>RICHMOND. Niin, kiitos Jumalan ja aseittemme! Te ystävät ja voittajat! Nyt meidän On päivä, nyt on verikoira kuollut.</p>
+<p>STANLEY. Hyvinpä suoriuit sa, uljas Richmond. Kas, tämän varastetun valtakorun Sen verikoiran ohimoilta riistin Ja kulmiasi koristan nyt sillä. Se ota, pidä se ja arvoon nosta.</p>
+<p>RICHMOND. Jumala taivaan, sano aamen siihen! Mut' eloss' onko Yrjö Stanley vielä?</p>
+<p xml:lang="fkv">STANLEY. Elossa, turvattuna Leicesterissä; Nyt sinne menkäämme, jos suvaitsette.</p>
+<p>RICHMOND. Mit' arvomiestä kaatui kahden puolen?</p>
+<p xml:lang="nob">STANLEY. Norfolkin herttua John, lord Walter Ferrers, Sir Robert Brakenbury ja sir William Brandon.</p>
+<p>RICHMOND. Haudatkaa heidät arvonmukaisesti, Ja armo julistakaa paenneille, Jotk' alamaisiksemme palajavat. Ja sitten, kautta pyhän sakramentin, Puna- ja valkoruusun yhdistämme: Hymyile, taivas, näiden sovinnolle, Joidenka eripuraa kauan karsoit! — Ken petturi ei tähän sano aamen? Maa mieletönnä itseänsä pieksi, Sokeesti veli valoi veljen verta, Vihoissaan oman poikans' isä surmas Ja poika pakost' oman isän tappoi. Näin Lancaster ja York on riidoin' olleet, Kirotun riidan riitaannuttamina. — Jumalan suotuisasta sallimasta Nyt yhtykööt Elisabeth ja Richmond, Kummankin heimon tosiperilliset! Ja näiden suku — jos sen sallit, Luoja — Suloisen rauhan, onnen runsauden Ja ilonpäivät jälkeisille tuokoon! Typistä, armon Herra, miekka konnan, Jok' aikoo paluuttaa nää veripäivät Ja verta itkemään taas saada maamme! Ken Englannista rauhan karkoittaa, Tään kauniin maan ei leipää maistaa saa. Lopuss' on vaino; rauha kukkikoon! Jumala siihen aamen sanokoon!</p>
+<p xml:lang="fkv">(Menevät.)</p>
+<p xml:lang="nob">End of Project Gutenberg's Kuningas Richard Kolmas, by William Shakespeare</p>
+<p xml:lang="eng">*** END OF THIS PROJECT GUTENBERG EBOOK KUNINGAS RICHARD KOLMAS ***</p>
+<p xml:lang="eng">***** This file should be named 37835-8.txt or 37835-8.zip ***** This and all associated files of various formats will be found in: http://www.gutenberg.org/3/7/8/3/37835/</p>
+<p>Produced by Tapio Riikonen</p>
+<p xml:lang="eng">Updated editions will replace the previous one—the old editions will be renamed.</p>
+<p xml:lang="eng">Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission. If you do not charge anything for copies of this eBook, complying with the rules is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. They may be modified and printed and given away—you may do practically ANYTHING with public domain eBooks. Redistribution is subject to the trademark license, especially commercial redistribution.</p>
+<p type="title" xml:lang="eng">*** START: FULL LICENSE ***</p>
+<p type="title" xml:lang="isl">THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</p>
+<p xml:lang="eng">To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase <span type="quote" xml:lang="vep">"Project Gutenberg"</span>), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.org/license).</p>
+<p type="title" xml:lang="eng">Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm electronic works</p>
+<p xml:lang="eng">1.A. By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.</p>
+<p xml:lang="eng">1.B. <span type="quote" xml:lang="vep">"Project Gutenberg"</span> is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works. See paragraph 1.E below.</p>
+<p xml:lang="eng">1.C. The Project Gutenberg Literary Archive Foundation (<span type="quote" xml:lang="eng">"the Foundation"</span> or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.</p>
+<p xml:lang="eng">1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work. The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.</p>
+<p xml:lang="eng">1.E. Unless you have removed all references to Project Gutenberg:</p>
+<p xml:lang="eng">1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase <span type="quote" xml:lang="vep">"Project Gutenberg"</span> appears, or with which the phrase <span type="quote" xml:lang="vep">"Project Gutenberg"</span> is associated) is accessed, displayed, performed, viewed, copied or distributed:</p>
+<p xml:lang="eng">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org</p>
+<p xml:lang="eng">1.E.2. If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase <span type="quote" xml:lang="vep">"Project Gutenberg"</span> associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.</p>
+<p xml:lang="eng">1.E.3. If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.</p>
+<p xml:lang="eng">1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.</p>
+<p xml:lang="eng">1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.</p>
+<p xml:lang="eng">1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than <span type="quote">"Plain Vanilla ASCII"</span> or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original <span type="quote">"Plain Vanilla ASCII"</span> or other form. Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.</p>
+<p xml:lang="eng">1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.</p>
+<p xml:lang="eng">1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that</p>
+<p xml:lang="eng">- You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg-tm works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg-tm trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, "Information about donations to the Project Gutenberg Literary Archive Foundation."</p>
+<p xml:lang="eng">- You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg-tm License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg-tm works.</p>
+<p xml:lang="eng">- You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.</p>
+<p xml:lang="eng">- You comply with all other terms of this agreement for free distribution of Project Gutenberg-tm works.</p>
+<p xml:lang="eng">1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark. Contact the Foundation as set forth in Section 3 below.</p>
+<p type="title" xml:lang="nob">1.F.</p>
+<p xml:lang="eng">1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.</p>
+<p xml:lang="eng">1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the <span type="quote" xml:lang="eng">"Right of Replacement or Refund"</span> described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.</p>
+<p xml:lang="eng">1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.</p>
+<p xml:lang="eng">1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.</p>
+<p xml:lang="eng">1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.</p>
+<p xml:lang="eng">1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.</p>
+<p type="title" xml:lang="eng">Section  2.  Information about the Mission of Project Gutenberg-tm</p>
+<p xml:lang="eng">Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.</p>
+<p xml:lang="eng">Volunteers and financial support to provide volunteers with the assistance they need, are critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.</p>
+<p type="title" xml:lang="eng">Section 3.  Information about the Project Gutenberg Literary Archive Foundation</p>
+<p xml:lang="eng">The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation's EIN or federal tax identification number is 64-6221541. Its 501(c)(3) letter is posted at http://pglaf.org/fundraising. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.</p>
+<p xml:lang="eng">The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations. Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org. Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org</p>
+<p xml:lang="eng">For additional contact information: Dr. Gregory B. Newby Chief Executive and Director gbnewby@pglaf.org</p>
+<p type="title" xml:lang="eng">Section 4.  Information about Donations to the Project Gutenberg Literary Archive Foundation</p>
+<p xml:lang="eng">Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.</p>
+<p xml:lang="eng">The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org</p>
+<p xml:lang="eng">While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.</p>
+<p xml:lang="eng">International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.</p>
+<p xml:lang="eng">Please check the Project Gutenberg Web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: http://pglaf.org/donate</p>
+<p type="title" xml:lang="eng">Section 5.  General Information About Project Gutenberg-tm electronic works.</p>
+<p xml:lang="eng">Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone. For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.</p>
+<p xml:lang="eng">Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.</p>
+<p xml:lang="eng">Most people start at our Web site which has the main PG search facility:</p>
+<p xml:lang="nno">http://www.gutenberg.org</p>
+<p xml:lang="eng">This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.</p>
+</body></document>
