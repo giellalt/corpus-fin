@@ -1,7 +1,7 @@
-<document xml:lang="fin" id="no_id"><header><title>Anaras - Tutkimus</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>550</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/tutkimus/tutkimus.html</origFileName><parallel_text xml:lang="eng" location="tutkimus.html"/><parallel_text xml:lang="smn" location="tutkimus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="vep">Elias Lönnrot</p>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Tutkimus</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="m" born="" nationality=""/></author><year>2006</year><wordcount>550</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/tutkimus/tutkimus.html</origFileName><parallel_text xml:lang="eng" location="tutkimus.html"/><parallel_text xml:lang="smn" location="tutkimus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="vep">Elias Lönnrot</p>
 <p xml:lang="deu">E.W. Borg</p>
 <p xml:lang="smn">Heikki Mattus</p>
-<p xml:lang="smn">A.V. Koskimies</p>
+<p xml:lang="est">A.V. Koskimies</p>
 <p xml:lang="vep">Lauri Itkonen</p>
 <p>T.I. Itkonen</p>
 <p>Erkki Itkonen</p>
@@ -10,7 +10,7 @@
 <p xml:lang="sme">Pekka Sammallahti</p>
 <p xml:lang="est">Lea Laitinen</p>
 <p>Marja-Liisa Olthuis</p>
-<p>Kirjallisuusluettelo</p>
+<p xml:lang="olo">Kirjallisuusluettelo</p>
 <p>Lappia ja saamelaisia on tutkittu paljon ja tutkimuksia tai tutkimuksenomaisia kuvauksia on kirjoitettu runsaasti viime vuosisatojen aikana. Inarinsaamelaista kulttuuria tai elämäntapaa ei ole tutkittu kokonaisuutena juuri ollenkaan. Joitakin piirteitä kuvataan osana yleistä, laajempaa saamelaista tutkimusta tai niitä käsitellään viittauksenomaisesti, ohimennen. Inaria kuvataan monessakin matkakertomuksessa tai -kuvauksessa, mutta silloinkin kun kerrotaan Inarin alueen saamelaisista, niputetaan inarinsaamelaiset vain saamelaisiksi yleensä. Tällaisia kirjoittajia ovat mm. Jacob Fellman, M. A. Castrén, Antti Hämäläinen ja Ilmari Hustich Inarinsaamelaiset eivät näytä olleen kovin mielenkiintoinen tutkimuskohde. Kolttia on tutkittu enemmän. On olemassa lukuisia tutkimuksia, jotka käsittelevät pelkästään kolttia. Tavallista on myös, että saamelaisia yleisesti käsittelevässä tutkimuksessa on erillinen kolttia koskeva luku, mutta ei koskaan inarinsaamelaista osuutta.</p>
 <p>Yksinomaan inarinsaamelaisia koskevia tutkimuksia on kyllä olemassa, mutta niistä kaikki tutkivat tai kuvaavat kieltä. Sellaisia aloja, joissa inarinsaamelaiset ovat mukana osana laajempaa tutkimusta, on lisäksi kansatiede, historia ja musiikki.</p>
 <p><em type="italic">1. Inarinsaamelaisia käsitteleviä tutkimusteoksia </em></p>

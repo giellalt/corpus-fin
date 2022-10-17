@@ -1,4 +1,4 @@
-<document xml:lang="fin" id="no_id"><header><title>Anaras - Elämäntapa - Leikit</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>559</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/elamantapa/leikit.html</origFileName><parallel_text xml:lang="eng" location="leikit.html"/><parallel_text xml:lang="smn" location="saa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="vep">Sananlaskut</p>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Elämäntapa - Leikit</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="m" born="" nationality=""/></author><year>2006</year><wordcount>559</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/elamantapa/leikit.html</origFileName><parallel_text xml:lang="eng" location="leikit.html"/><parallel_text xml:lang="smn" location="saa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="vep">Sananlaskut</p>
 <p>Sään ennustaminen</p>
 <p xml:lang="est">Leikit</p>
 <p xml:lang="nob">Ruokaperinne</p>
@@ -24,7 +24,7 @@
 <p>Nukkemestari Nili-Ailin, Aili Mattuksen tekemiä nukkeja viime vuosisadan puolivälistä.</p>
 <p>Nellimin koulun oppilaita välitunnilla.</p>
 <p>Tämän päivän inarinsaamelaisia leikkejä</p>
-<p xml:lang="mrj"><em type="bold">. </em></p>
+<p xml:lang="koi"><em type="bold">. </em></p>
 <p xml:lang="fkv">Takaisin ylös</p>
 <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
 <p xml:lang="sme">siida@samimuseum.fi</p>

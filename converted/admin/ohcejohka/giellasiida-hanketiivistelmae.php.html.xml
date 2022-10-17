@@ -1,12 +1,12 @@
 <document xml:lang="fin" id="no_id"><header><title>Utsjoen kunta - Giellasiida-Hanketiivistelmä</title><genre code="admin"/><author><unknown/></author><wordcount>1104</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.utsjoki.fi/fi/palvelut/elinkeinotoimi/hankkeet/giellasiida-hanketiivistelmae.php</origFileName><parallel_text xml:lang="sme" location="giellasiida-proseaktacoahkkaigeassu.php_lang=sm.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="vep">UTSJOEN KUNTA</p>
 <p xml:lang="fra">PL 41</p>
 <p xml:lang="hbs">99981 UTSJOKI</p>
-<p xml:lang="smn">Puhelin 040-188 6111</p>
+<p xml:lang="olo">Puhelin 040-188 6111</p>
 <p xml:lang="som">Fax 016-677 339</p>
 <p>Kunnanvirasto ja puhelinvaihde avoinna 9.00 - 15.00</p>
 <list><p type="listitem" xml:lang="smn">Etusivu</p>
 <p type="listitem">Yhteystiedot <list><p type="listitem">Osoite- laskutustiedot</p>
-<p type="listitem" xml:lang="est">Puhelinnumerot</p>
+<p type="listitem" xml:lang="olo">Puhelinnumerot</p>
 <p type="listitem">Kuntatietoa</p>
 </list></p>
 <p type="listitem">Palvelut <list><p type="listitem">Tekniset palvelut <list><p type="listitem">Kaavoitus <list><p type="listitem">Maakuntakaava</p>
@@ -46,7 +46,7 @@
 <p type="listitem">Matkailu</p>
 <p type="listitem" xml:lang="est">Ailikastalo <list><p type="listitem" xml:lang="vep">-AILIKASTALO-</p>
 <p type="listitem">Historia</p>
-<p type="listitem">Vuokraus</p>
+<p type="listitem" xml:lang="olo">Vuokraus</p>
 </list></p>
 <p type="listitem" xml:lang="fkv">Yhteispalvelu <list><p type="listitem" xml:lang="vep">-YHTEISPALVELU-</p>
 <p type="listitem" xml:lang="vep">KELA</p>
@@ -90,8 +90,8 @@
 <p type="listitem">Koulujen tilavuokrat</p>
 <p type="listitem">Utsjoen kansalaisopisto <list><p type="listitem">Utsjoen kansalaisopisto</p>
 <p type="listitem">Toiminta</p>
-<p type="listitem">Utsjoen kirkonkylä</p>
-<p type="listitem" xml:lang="sma">Karigasniemi</p>
+<p type="listitem" xml:lang="olo">Utsjoen kirkonkylä</p>
+<p type="listitem" xml:lang="olo">Karigasniemi</p>
 <p type="listitem" xml:lang="sme">Nuorgam</p>
 </list></p>
 <p type="listitem">Kirjasto kulttuuri ja elokuva <list><p type="listitem" xml:lang="vep">UTSJOEN KUNNANKIRJASTO</p>
@@ -160,7 +160,7 @@
 <p type="listitem">Fysioterapia</p>
 <p type="listitem">Psykiatrinen avohoito</p>
 <p type="listitem">Sairaankuljetus/ensihoito</p>
-<p type="listitem" xml:lang="smn">Päihdehuolto</p>
+<p type="listitem" xml:lang="olo">Päihdehuolto</p>
 <p type="listitem">Rintamaveteraanien kuntoutus</p>
 <p type="listitem" xml:lang="kal">Asiakasmaksut</p>
 </list></p>
@@ -188,7 +188,7 @@
 <p type="listitem">Ympäristöpalvelut</p>
 </list></p>
 <p type="listitem">Päätöksenteko <list><p type="listitem">Luottamuselimet <list><p type="listitem">Kunnanhallitus</p>
-<p type="listitem">Valtuusto</p>
+<p type="listitem" xml:lang="olo">Valtuusto</p>
 <p type="listitem">Sivistyslautakunta</p>
 <p type="listitem">Perusturvalautakunta</p>
 <p type="listitem">Elinkeinolautakunta</p>
@@ -198,7 +198,7 @@
 <p type="listitem">Kunnan edustajat eri yhtiöissä ja yhteisöissä 2015-2016</p>
 </list></p>
 <p type="listitem">Pöytäkirjat <list><p type="listitem">Kunnanhallitus</p>
-<p type="listitem">Valtuusto</p>
+<p type="listitem" xml:lang="olo">Valtuusto</p>
 <p type="listitem">Sivistyslautakunta</p>
 <p type="listitem">Perusturvalautakunta</p>
 <p type="listitem">Elinkeinolautakunta</p>

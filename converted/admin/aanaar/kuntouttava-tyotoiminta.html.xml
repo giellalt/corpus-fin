@@ -1,37 +1,37 @@
 <document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>495</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.inari.fi/fi/palvelut/sosiaali-ja-terveyspalvelut/sosiaalityo/kuntouttava-tyotoiminta.html</origFileName><parallel_text xml:lang="sme" location="veajuiduhtti-bargodoaibma.html"/><parallel_text xml:lang="smn" location="vajoidittee-pargotoima.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Kuntouttava työtoiminta - INARI.FI</p>
-<list><p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
+<list><p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
 </list></p>
-<p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-</list></p>
-</list></p>
-<p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-</list></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-</list></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
-<p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
+<p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
 </list></p>
 </list></p>
-<p type="listitem" xml:lang="mdf"><list><p type="listitem" xml:lang="mdf"><list/></p>
+<p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
 </list></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
 </list></p>
-<p type="listitem" xml:lang="mdf"><list/></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+<p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+</list></p>
+</list></p>
+<p type="listitem" xml:lang="koi"><list><p type="listitem" xml:lang="koi"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="koi"><list/></p>
+</list></p>
+<p type="listitem" xml:lang="koi"><list/></p>
 </list><p type="title">Kuntouttava työtoiminta</p>
 <p>Kenelle Kunta järjestää Työtoiminnasta laaditaan sopimus Työtoiminnasta saa taloudellista etua Työtoiminnan tehtävät ja sisältö sovitaan yksilöllisesti Työtoiminnasta saa palautetta ja työtodistuksen</p>
 <p type="title">Kenelle</p>
@@ -70,7 +70,7 @@
 <p type="listitem">siivoustyö</p>
 <p type="listitem">ympäristönhoitotyö</p>
 <p type="listitem" xml:lang="fkv">kiinteistöhuolto</p>
-<p type="listitem">kirjastotoimi</p>
+<p type="listitem" xml:lang="olo">kirjastotoimi</p>
 <p type="listitem">sosiaalialan avustavat työt ja</p>
 <p type="listitem">toimisto- ja arkistointitehtävät</p>
 </list><p>Uusia paikkoja etsitään koko ajan ja asiakkaiden esittämiä toiveita pyritään ottamaan huomioon. Kuntouttavaan työtoimintaan sovelletaan työturvallisuuslakia ja kunta järjestää työtoiminnan ajaksi tapaturmavakuutuksen. Kuntouttava työtoiminta ei ole työ- tai virkasuhde, joten sen ajalta ei kerry työsuhteen kaltaisia etuja kuten eläkettä tai vuosilomapäiviä. Se ei myöskään kartuta työttömyysturvan edellyttämää työssäoloehtoa.</p>

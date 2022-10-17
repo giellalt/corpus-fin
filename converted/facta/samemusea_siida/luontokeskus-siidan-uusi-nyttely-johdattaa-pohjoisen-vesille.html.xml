@@ -6,13 +6,13 @@
 <p>Laajennettu haku...</p>
 <p>Siirry sisältöön. | Siirry navigointiin</p>
 <p type="title" xml:lang="fra">Osiot</p>
-<list><p type="listitem" xml:lang="smn">Pääsivu |</p>
+<list><p type="listitem" xml:lang="olo">Pääsivu |</p>
 <p type="listitem">Kokoelmat |</p>
 <p type="listitem">Luontopalvelut |</p>
 <p type="listitem">Ravintola |</p>
 <p type="listitem">Kokoukset |</p>
 <p type="listitem" xml:lang="fkv">Tiedotteet |</p>
-<p type="listitem">Kolttien Perinnetalo</p>
+<p type="listitem" xml:lang="olo">Kolttien Perinnetalo</p>
 </list><list><p type="listitem">Sivukartta |</p>
 <p type="listitem">Ota yhteyttä |</p>
 <p type="listitem" xml:lang="smj">RSS |</p>
@@ -20,8 +20,8 @@
 </list><p>SAAMELAISKULTTUURI  Saamelaismuseo</p>
 <p xml:lang="vep">POHJOINEN LUONTO  Luontokeskus</p>
 <p xml:lang="eng">Info</p>
-<p xml:lang="smn">Pääsivu</p>
-<p xml:lang="mrj">/</p>
+<p xml:lang="olo">Pääsivu</p>
+<p xml:lang="koi">/</p>
 <p xml:lang="fkv">Tiedotteet /</p>
 <p>Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille</p>
 <p type="title">Luontokeskus Siidan uusi näyttely johdattaa pohjoisen vesille</p>
@@ -59,7 +59,7 @@
 <p>&gt; opastukset</p>
 <p>&gt; Siidan arkkitehtuuri</p>
 <p>kalenteri</p>
-<p xml:lang="mrj">|</p>
+<p xml:lang="koi">|</p>
 <p>mediakuvapankki</p>
 <p xml:lang="sme">matkailuinfo</p>
 <p xml:lang="sme">Siida</p>
@@ -67,7 +67,7 @@
 <p>Saamelaismuseon blogi</p>
 <p>medialle | matkanjärjestäjille</p>
 <p xml:lang="sme">Copyright Siida 2010</p>
-<p xml:lang="mrj">|</p>
+<p xml:lang="koi">|</p>
 <p xml:lang="est">Updated 10.6.2010</p>
 <p>Aukaise alkuperäinen koko uudessa ikkunassa</p>
 </body></document>

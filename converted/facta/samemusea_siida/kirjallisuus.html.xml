@@ -1,4 +1,4 @@
-<document xml:lang="fin" id="no_id"><header><title>Anaras - Kieli - Kirjallisuus</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>834</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/kieli/kirjallisuus.html</origFileName><parallel_text xml:lang="eng" location="kirjallisuus.html"/><parallel_text xml:lang="smn" location="kirjallisuus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Kirjoitustavat</p>
+<document xml:lang="fin" id="no_id"><header><title>Anaras - Kieli - Kirjallisuus</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="m" born="" nationality=""/></author><year>2006</year><wordcount>834</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/kieli/kirjallisuus.html</origFileName><parallel_text xml:lang="eng" location="kirjallisuus.html"/><parallel_text xml:lang="smn" location="kirjallisuus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Kirjoitustavat</p>
 <p>Kieli ja identiteetti</p>
 <p xml:lang="nob">Kertomaperinne</p>
 <p>Kirjallisuus</p>
@@ -34,7 +34,7 @@
 <p xml:lang="smn">Kyelisieidi maccâm já eres novelleh Toimittaneet Matti  Morottajan ja Ilmari Mattus vuodelta 2005.</p>
 <p>Petter Morottajan kirjoittama Suábi maainâs ilmestyi vuonna 1999.</p>
 <p xml:lang="smn">Aune Vesan Uáináh-uv vuodelta 1992.</p>
-<p><em type="bold">Kirjallisuusnäyte </em></p>
+<p xml:lang="olo"><em type="bold">Kirjallisuusnäyte </em></p>
 <p><em type="bold">Lastenkirjallisuus </em></p>
 <p xml:lang="fkv">Takaisin ylös</p>
 <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
