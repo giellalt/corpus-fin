@@ -1,0 +1,375 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">sanastot_ja_kielipalvelut.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastot ja kielipalvelut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giella- ja jorgalanbálvalusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátnelisttut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lakisanasto (suomi-saame) . Pohjoissaamen kieli.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Láhkasánit (suoma-sámi) – Lakisanasto (suomi-saame) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sámediggi Saamelaiskäräjät 2005.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi – Saamelaiskäräjät 2005.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastossa hakusanat ovat suomen kielellä ja vastineet pohjoissaamen, ruotsin ja norjan kielillä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcansánit leat suomagillii ja vástagat davvisáme-, ruoŧa- ja dárogillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huom!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fuobm!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkistamaton sanasto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dárkkiskeahtes láhkasánit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eduskuntasanasto (suomi-pohjoissaame) 2008. Valtioneuvosto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikabeaivesátnelistá (suomi-pohjoissaame) (suomagiella-davvisámegiella) 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valter valtioneuvoston termipankki .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Valter stáhtaráđi tearbmabáŋku .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioneuvosto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stáhtaráđđi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sámi Giellagáldu (Saamen Kielikaltio) Uusia termejä ja normeja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi Giellagáldu . Ođđa tearpmat ja normeremat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sátni – báhko – baakoe Saamenkielten sanakirja ja termipankki.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sátni – báhko – baakoe sámegiela sátnevuorká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Norjan saamelaiskäräjät.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi, Norga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ÁLGU – Saamelaiskielten etymologinen tietokanta , Kotimaisten kielten tutkimuskeskus (Kotus)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ÁLGU – Sámegielaid etymologalaš diehtovuođđu . Ruoktoeatnan gielaid dutkanguovddáš (Kotus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maiden nimet seitsemällä kielellä mm. pohjoissaamen kielellä, Kotimaisten kielten tutkimuskeskus (Kotus)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riikkaid namat čieža gillii ee. davvisámegillii. Ruoktoeatnan gielaid dutkanguovddáš (Kotus)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköinen kielitoimiston sanakirja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Elektrovnnalaš gielladoaimmahaga sátnegirji .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeinkirjoituksen lisäksi sanakirja kertoo mm. suomen kielen sanojen nykymerkitykset ja käyttöyhteydet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Riektačállinvuogi lassin sátnegirjjis gávdnojit ee. suomagiela sániid dálá mearkkašumit ja geavahanoktavuođat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kotimaisten kielten tutkimuskeskus (Kotus)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tepa-tearbmabáŋku . Sátnerádjoguovddáš TSK sátnerádju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tepa-termipankki Sanastokeskus TSK:n sanasto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jorgaleaddjit ja dulkkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntäjät ja tulkit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ráva jorgalusaid diŋgomii Sámedikki sámegiela doaimmahagas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston lista freelancer kääntäjistä ja tulkeista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela jorgaleaddjit ja dulkkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston palvelumaksut käännöspalveluista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suoma jorgaleddjiid ja dulkkaid lihttu SKTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen kääntäjien ja tulkkien liitto SKTL.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Auktoriserejuvvon jorgaleaddjit , oahpahusráđđehus OPH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sisältää hakupalvelun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rávvagan dulkomii suomagillii .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoidut kielenkääntäjät . Opetushallitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomen tulkkaus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen tulkkaus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kokokousmatkaajan käsikirja Eurooppaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokokousmatkaajan käsikirja Eurooppaan .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Euroopan komission tulkkauksen pääosaston suomenkielinen tulkkausyksikkö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan komission tulkkauksen pääosaston suomenkielinen tulkkausyksikkö.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kárttat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kartat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eanamihtidanlágáduša kártabálvalus .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maanmittaustoimiston karttapalvelu .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Báikenamat maid davvisáme-, anáraš- ja nuortalašgillii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikannimet myös pohjois-,inarin- ja koltansaamen kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellagáhtten ja sámi giellateknologiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielenhuolto ja saamen kieliteknologia</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Divvun.no sámi čállindárkkistanreaiddut (leahkku eará ruovttusiiddu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Divvun.no Saamen kielen oikolukutyökalut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellatekno, Sámi giellateknologiija guovddáš .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliteknologian keskus – Giellatekno .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellaoahpa- ja analyserenreaiddut ja giellaoahppanprográmmat, sátnegirjjit ja jorgalanreaiddut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sisältää mm. pohjois-, inarin- ja koltansaamen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mállet ja dearvvahusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielioppi- ja analyysityökalut sekä kielioppiohjelmat, sanakirjat ja käännöstyökalut.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dearvvahusat iešguđege sámegillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mallit ja tervehdykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stuđeren ja dutkosat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervehdyksiä saamen kielillä .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Auktoriserejuvvon jorgaleaddji dutkkus , oahpahusráđđehus OPH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giellagas-instituhtta , Oulu universitehta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetus ja tutkinnot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váldoávnnasin sámegiella ja sámekultuvra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoidun kielenkääntäjän tutkinto . Opetushallitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Siidoávnnasoahput ee. sámegiella vieris giellan, sámegiela dulkon ja anárašgiella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Giellagas-instituutti Oulun yliopisto.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedutkan (HuK), Suopmelaš-ugralaš gielladutkan, Helssega universitehta Sámi spesialiserenlinnjá (FM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääaineina saamen kieli ja saamelainen kulttuuri.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegiela oahput, Lappi universitehta, Pedagogihka dieđagoddi Sámegiella siidoávnnasoahppun vuođđooahput (25 oč)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivuaineopintoja mm. saamen kieli vieraana kielenä, saamen kielen tulkkaus ja inarinsaame.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>DAVVI Máŋggadieđalaš universiteahta skuvlenprošeakta 2010-2013 Lappi universihteahta lágida DAVVI oahpuid (190 oč) ovttas Sámi oahpahusguovddážin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamentutkimus (HuK), Suomalais-ugrilainen kielentutkimus, Helsingin yliopisto Saamen erikoistumislinja (FM)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámi oahpahusguovddáš .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen opinnot, Kasvatustieteiden tiedekunta, Lapin yliopisto Saamen kieltä sivuaineopintoina perusopinnot (25 op)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anár Ámmátlaš oahppolágádus Anáris, gos sáhttá studeret davvisáme-, anáraš- ja nuortalašgiela iešguđege dásis.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

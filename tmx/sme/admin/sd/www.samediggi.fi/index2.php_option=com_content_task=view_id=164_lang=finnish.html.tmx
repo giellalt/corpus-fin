@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=164_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen arkkitehtuurikilpailun kilpailutyöt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekulturguovddáža arkitektuvragilvvu barggut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen arkkitehtuurikilpailun ensimmäinen vaihe päättyi 30.6.2008.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámekulturguovddáža arkitektuvragilvvohallama vuosttaš muddu nogai 30.6.2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Määräaikana saapui yhteensä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mearreáigái bohte oktiibuot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>58 kilpailuehdotusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>58 gilvvohallanevttohusa.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

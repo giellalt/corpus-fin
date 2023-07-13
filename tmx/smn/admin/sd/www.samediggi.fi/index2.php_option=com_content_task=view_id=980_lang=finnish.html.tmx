@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=980_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät toivottaa kaikille Hyvää Joulua!</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge tuáivut puohháid Puorijd Juovlâid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pyereh juovlah já luholâš uđđâ ive!</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pyereh juovlah já luholâš uđđâ ive!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Šiõgg rosttvid da leklvaž ođđ ee´jj!</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Buriid juovllaid ja lihkolaš ođđa jagi!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

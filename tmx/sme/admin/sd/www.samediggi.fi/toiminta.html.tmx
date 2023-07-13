@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">toiminta.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toiminta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien tehtävänä on hoitaa saamelaisten omaa kieltä ja kulttuuria sekä heidän asemaansa alkuperäiskansana koskevat asiat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki bargun lea dikšut áššiid, mat gusket sámiid gillii, kultuvrii ja sajádahkii álgoálbmogin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tehtäviinsä kuuluvissa asioissa Saamelaiskäräjät voi tehdä viranomaisille aloitteita ja esityksiä sekä antaa lausuntoja.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi sáhttá dahkat eiseválddiide álgagiid ja evttohusaid ja maiddái addit cealkámušaid áššiin, mat gusket dan bargoviidodahkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näissä asioissa Saamelaiskäräjät käyttää lisäksi päätösvaltaa siten kuin sitä koskevassa laissa tai muualla lainsäädännössä säädetään.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáin áššiin Sámediggi geavaha maiddái mearridanválddi dan láhkai go dan guoski lágas dahje eará sajis láhkaaddimis mearriduvvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toimintaa säädetään saamelaiskäräjälaissa ( 974/95 myöhempine muutoksineen ) ja –asetuksessa ( 1727/95 ), saamen kielilaissa ( 1086/03 ) ja valtioneuvoston asetuksessa saamen kielilain täytäntöönpanosta ( 108/04 ) sekä muualla lainsäädännössä säädetyillä ja määrätyillä lailla ja asetuksilla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki doaimma birra mearriduvvo sámediggelágas (974/95 oktan maŋŋá boahtán rievdadusaiguin) ja láhkaásahusas (1727/95), sámi giellalágas (1086/03) ja stáhtaráđi láhkaásahusas sámi giellalága ollašuhttimis (108/04) ja maiddái eará láhkaaddimis ásahuvvon ja mearriduvvon lágaiguin ja láhkaásahusaiguin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Edellä mainittujen lisäksi toiminnassa sovelletaan Saamelaiskäräjien omaa työjärjestystä .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáid lassin doaimmas čuvvojuvvo Sámedikki iežas bargoortnet.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,30 @@
+<document xml:lang="fin" id="no_id"><header><title>Laskutusosoite - Samediggi</title><genre code="admin"/><author><unknown/></author><year>2023</year><wordcount>231</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>https://www.samediggi.fi/laskutusosoite/</origFileName><parallel_text xml:lang="eng" location="invoicing_address.html"/><parallel_text xml:lang="sme" location="rehketbearran.html"/><parallel_text xml:lang="smn" location="rekigistem.html"/><parallel_text xml:lang="sms" location="laasktos.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Laskutus</p>
+<p>Saamelaiskäräjien toiminta on valtionavustuksilla rahoitettua yleishyödyllistä toimintaa, joka pääosin ei ole liiketaloudellista toimintaa ja näin ollen on arvonlisäverotonta. Ainoastaan Saamelaiskulttuurikeskus Sajoksen toiminta on arvonlisäverollista.</p>
+<p type="title">Ostolaskut</p>
+<p type="title">Verkkolaskutuksen tekniset tiedot</p>
+<p>Nimi: Samediggi/Saamelaiskäräjät Y-tunnus: 1052535-3 Verkkolaskuosoite: 003710525353 Välittäjän tunnus: 003708599126 Välittäjä: Liaison Technologies</p>
+<p>Käytä laskujen reititykseen yllä mainittua verkkolaskuosoitetta ja välittäjän tunnusta.</p>
+<p type="title">Ostolaskut sähköpostitse</p>
+<p>Laskun voi lähettää myös PDF-muodossa sähköpostilla osoitteeseen: fennoa.FI.P.124808-7(at)docinbound.com</p>
+<list><p type="listitem">Lasku lähetetään sähköpostin liitetiedostona.</p>
+<p type="listitem">Voit lähettää useita laskuja yhdessä sähköpostiviestissä, kunhan jokainen lasku on erillisenä liitetiedostona. Kaikilla tiedostoilla tulee olla eri nimi.</p>
+<p type="listitem">Laskun liitteiden tulee olla liitettynä samaan pdf-tiedostoon itse laskun kanssa.</p>
+<p type="listitem">PDF-tiedostot eivät saa olla lukittuja tai salasanalla suojattuja.</p>
+<p type="listitem">Liitteen nimen sallitut merkit ovat tavallisia kirjoitusmerkkejä, a-z, A-Z, 0-9. Älä käytä erikoismerkkejä liitteiden nimeämiseen.</p>
+</list><p type="title">Lasku paperina postitse</p>
+<p>Jos et pysty toimittamaan laskua sähköpostitse, voit toimittaa sen paperilaskuna osoitteeseen: Samediggi/Saamelaiskäräjät, PL 57273, 01051 LASKUT</p>
+<p>Palkkio- ja matkalaskut yrityksiltä (joilla on y-tunnus) voi lähettää sähköisesti verkkolaskuna.</p>
+<p type="title">Lisätietoja verkkolaskutuksesta</p>
+<p>Laila Aikio Samediggi/Saamelaiskäräjät laila.aikio(at)samediggi.fi +358 10 839 3178</p>
+<p type="title">Palkkio- ja matkalaskut</p>
+<p>Ilman y-tunnusta palkkio- ja matkalaskut tehdään Saamelaiskäräjille M2-matkalaskuohjelman kautta. Saat tarkemmat ohjeet yhteyshenkilöltäsi Saamelaiskäräjiltä.</p>
+<p>Voit lähettää suojatun sähköpostin Saamelaiskäräjien taloustoimistoon talous(at)samediggi.fi seuraavan osoitteen kautta: https://secmail.com/send/vMJaNprX</p>
+<p>Suojatulla sähköpostilla voit lähettää esimerkiksi henkilötietolomakkeen tai verokortin turvallisesti.</p>
+<list><p type="listitem">Henkilötietolomake</p>
+<p type="listitem">Saamelaiskäräjien palkkiosääntö</p>
+<p type="listitem">Valtion matkustussääntö 2022</p>
+</list><p>Palkan- ja palkkionsaajan henkilötietolomakkeen voi täyttää sähköisenä osoitteessa: https://www.samediggi.fi/henkilotietoilmoitus/</p>
+<p>Sähköisen lomakkeen kautta voit lähettää myös verokortin.</p>
+<p type="title">Henkilötietojen käsittely</p>
+<p>Henkilö- ja työsuhdetietojen ylläpito on osa taloustoimen palkanlaskentaprosessia. Ilmoittajalla on oikeus tarkistaa itseään koskevat tiedot.</p>
+</body></document>

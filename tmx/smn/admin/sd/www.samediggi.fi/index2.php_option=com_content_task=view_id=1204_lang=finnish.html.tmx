@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1204_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige čuákkim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien järjestäytymiskokous pidetään tiistaina 23.2. kello 10 alkaen Inarissa saamelaiskulttuurikeskus Sajoksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige ornijdemčuákkim lij tuálloo majebaargâ 23.2. tme 10 rääjist Sajosist, Anarist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousta voi seurata osoitteesta: www.sogku.fi/live</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čuákkim puáhtá čuávvuđ čujottâsâst: www.sogku.fi/live</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

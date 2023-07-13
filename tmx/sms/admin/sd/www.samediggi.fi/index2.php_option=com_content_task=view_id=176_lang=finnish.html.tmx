@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=176_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõllsa mättʹtõsmateriaal Sääʹmǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamenkieli</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõll, lââʹssmateriaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamenkielen opetus, oheismateriaali</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jeeʹres</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

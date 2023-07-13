@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=653_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kielenkääntäjän virka</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanarsääʹm ǩiõlljåårǥlõõʹtti veʹrǧǧ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät julistaa haettavaksi saamen kielen toimiston vakinaisen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteʹǧǧ čõõđat ooccâmnalla sääʹmǩiõl konttâr põõšši</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamen kielenkääntäjän viran</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>aanarsääʹm ǩiõlljåårǥlõõʹtti veeʹrj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>, jonka toimipaikka sijaitsee saamelaiskäräjien sihteeristössä saamelaiskulttuurikeskus Sajoksessa Inarin kirkonkylässä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>, koon tuåimmpäiʹǩǩ lij sääʹmteeʹǧǧ piizarkååʹddest sääʹmkultturkõõskõs Sajoozzâst Aanar ceerkavsiidâst.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

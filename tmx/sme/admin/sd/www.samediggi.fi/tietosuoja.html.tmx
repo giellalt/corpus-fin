@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">tietosuoja.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilötietojen käsittely Saamelaiskäräjien palveluissa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Persovdnadieđuid gieđahallan Sámedikki bálvalusain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien asiakkaita, valtionavustuksen saajia, luottamushenkilöitä, henkilöstö- ja palkkahallintoa koskevat rekisterit.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki áššehasaid, stáhtadoarjaga oažžuid, luohttámušolbmuid, bargoveahka- ja bálkáhálddahusa ja čanusjoavkkuid guoski registarat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulunvalvonta- ja työajanseurantajärjestelmä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Johtimagohcin- ja bargoáigečuovvunvuogádat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rekisteröidyllä on oikeus tarkastaa itseään koskevat henkilörekisteriin tallennetut tiedot sekä oikeus vaatia tietojen oikaisua ja poistamista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Registrerejuvvon olbmos lea vuoigatvuohta dárkkistit iežas guoski persovdnaregistarii vurkejuvvon dieđuid sihke vuoigatvuohta gáibidit dieđuid vuigema ja eret váldima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asiaa koskevat pyynnöt tulee toimittaa henkilökohtaisesti tai kirjallisesti yhteyshenkilölle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ášši guoski bivdagiid galgá doaimmahit persovnnalaččat dahje čálalaččat oktavuođaolbmui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rekisteröidyillä on tietosuoja-asetuksen mukaisesti oikeus vastustaa tai pyytää tietojensa käsittelyn rajoittamista sekä tehdä valitus henkilötietojen käsittelystä valvontaviranomaiselle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Registrerejuvvon olbmos lea diehtosuodjeásahusa mielde vuoigatvuohta vuostálastit dahje bivdit dieđuidis gieđahallama ráddjema sihke dahkat váidalusa persovdnadieđuid gieđahallamis gohcinvirgeoapmahažžii.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,23 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=169_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten koulutusasiain yhteistyöelin asetettu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät on asettanut vaalikaudekseen 2008-2011 yhteistyöelimen kehittämään saamelaisopetusta ja edistämään tiedonkulkua saamelaiskäräjien ja opetusviranomaisten kesken.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

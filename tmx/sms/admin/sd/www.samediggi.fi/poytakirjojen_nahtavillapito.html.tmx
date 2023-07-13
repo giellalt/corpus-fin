@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">poytakirjojen_nahtavillapito.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirjojen nähtävilläpito</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Påʹrddǩiiʹrji vueiʹnnemnalla âânnmõš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien työjärjestyksen 64 §:n mukaan Saamelaiskäräjien kokouksen ja hallituksen pöytäkirjat siihen liitettyvine valitusosoituksineen pidetään tarkastamisen jälkeen yleisesti nähtävänä siten kuin siitä ennakolta on ilmoitettu.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ tuâjjriâššmõõžž 64 § mieʹldd Sääʹmteeʹǧǧ såbbar da halltõõzz påʹrddǩiiʹrjid tõõzz õhttuum vaiddlemčuäjtõõzzineez ââʹnet tääʹrǩstem mâŋŋa õlmmsânji vueiʹnnemnalla nuʹtt mâʹte tõʹst lij ouddâl iʹlmmtum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muun toimielimen pöytäkirjan nähtävillä olosta päättää asianomainen toimielin itse.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jeeʹres tuåimmorgaan påʹrddǩeeʹrj vueiʹnnemnalla ââʹnnmest tuʹmmai ääʹššvuäzzlaž tuåimmorgaan jiõčč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirja pidetään yleisesti nähtävänä Saamelaiskäräjien verkkosivuilla osoitteessa www.samediggi.fi vähintään pöytäkirjan valitusajan, jollei salassapitoa koskevista säännöksistä muuta johdu.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Påʹrddǩeeʹrj ââʹnet õlmmsânji vueiʹnnemnalla Sääʹmteeʹǧǧ neʹttseeidain addrõõzzâst www.samediggi.fi uuʹccmõsân påʹrddǩeeʹrj vaiddlemääiʹj, jõs ij peittastâânnmõõžž kuõskki šiõtlmin šõõdd jeeʹresnalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousasiakirjat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sååbbaräʹššǩeeʹrj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitusosoitus</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Läittamvuäppõs</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=225_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leammeroggi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leammeroggi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo pohjoissaamelaisesta joiusta!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča oanehisvideo davvisápmelaš luođi birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Synopsis: Lemmenjokelainen Nils Heikki Paltto joikaa Lemmenjoen kurun.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Synopsis: Leammi almmái Nils Heikki Paltto rohttesta Leammerokki luođi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joikaaja: Nils Heikki Paltto Ohjaus/leikkaus: Kirsti Länsman, kuvaus: Heli Ahola</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juoigi: Nils Heikki Paltto Bagadallan/čuohppan: Kirsti Länsman, govven: Heli Ahola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buvttadeapmi: Sámi oahpahusguovddáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 1,23</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guhkkodat: 1,23</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

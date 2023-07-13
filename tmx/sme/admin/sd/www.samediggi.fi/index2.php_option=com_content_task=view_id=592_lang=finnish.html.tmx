@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=592_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sajoksen taiteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sajosa dáidagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Marja Helander;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Marja Helander;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Marja Helander</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Marja Helander</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

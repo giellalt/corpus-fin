@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=433_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjävaalit 2011</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteʹǧǧvaal 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien seuraavat vaalit toimitetaan syyskuussa 2011.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Puõʹtti sääʹmteeʹǧǧ vaal ââʹnet čõhččmannust 2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänioikeutettuja vaaleissa ovat kaikki ne saamelaiset, jotka on merkitty saamelaiskäräjien vaaliluetteloon. (Katso vaalit)</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jiõnstemvuõiggâdvuõtt lij pukin säʹmmlain, koin lij šõddâm jiõnstemvuõiggâdvuõtt vaalin nuʹtt, što sij lie pijjum ǩeeʹrji ool sääʹmteeʹǧǧ veerjlaž vaal-loǥstõʹǩǩe.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

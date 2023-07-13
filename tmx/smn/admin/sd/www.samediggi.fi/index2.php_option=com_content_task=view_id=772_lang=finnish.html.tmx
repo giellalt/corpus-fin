@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=772_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät hakee määräaikaista projektisihteeriä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge ocá meriáigásii projektčällee Sämitigge ocá meriáigásii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät hakee määräaikaista projektisihteeriä Sáfá2- projektiin (Sámi Giellagáldu).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>projektčällee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työ alkaa 16.12.2013 ja kestää 30.6.2014 saakka.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sáfá2- projektin (Säämi Kielâkäldee).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Projektisihteerin tehtäviin kuuluvat projektin päivittäiset toimistotehtävät, kokousten järjestäminen sekä projektin kirjanpitotehtävistä huolehtiminen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pargo álgá 16.12.2013 já pištá 30.6.2014 räi.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

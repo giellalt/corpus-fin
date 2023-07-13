@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=974_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät hakee määräaikaista suunnittelijaa</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteʹǧǧ ååcc mieʹrräiggsaž plaanraajji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työ alkaa 7.1.2015 ja kestää aluksi 31.12.2015 saakka.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjj älgg 7.1.2015 peštt 31.12.2015 räjja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kelpoisuusvaatimuksena on Saamelaiskäräjistä annetun asetuksen (1727/1995) mukaisesti tehtävän edellyttämä koulutus ja saamen kielen taitoa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ââʹntemõõlǥtõssân lij Sääʹmteeʹǧǧest uvddum asetõõzz (1727/1995) mieʹlddlânji tuâi oudldem škoouljumuš da sääʹmǩiõl silttõs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>www.samediggi.fi/haettavana</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>www.samediggi.fi/haettavana</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

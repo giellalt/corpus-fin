@@ -1,0 +1,71 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">tietoa_koronaviruksesta_saamen_kielilla.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietoa koronaviruksesta saamen kielillä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Diehtu koronavirusa birra sámegillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät kokoaa tälle sivulle julkaistuja ohjeistuksia ja tiedotteita koronaviruksesta saamen kielillä:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi čohkke dán siidui almmustahtton sámegielat rávvagiid ja dieđáhusaid koronavirusa birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oletko sinä huomannut muita saamenkielisiä ohjeita tai oletko viestinyt saameksi koronavirustilanteesta?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leatgo don fuomášan eará sámegielat rávvagiid dahje leatgo dieđihan sámegillii koronavirusdili birra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähetä vinkki osoitteeseen: tiedotus(at)samediggi.fi .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Cavgil čujuhussii: tiedotus(at)samediggi.fi .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassediehtu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieliturvasihteeri Anne Kirste Aikio, 010 839 3124 / 040 707 5626, anne-kirste.aikio(at)samediggi.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gielladorvočálli Anne Kirste Aikio, 010 839 3124 / 040 707 5626, anne-kirste.aikio(at)samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sosiaali-ja terveyssihteeri Anne Länsman-Magga, 010 839 3128 / 040 182 9998, anne.lansman-magga(at)samediggi.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sosiála- ja dearvvasvuođačálli Anne Länsman-Magga, 010 839 3128 / 040 182 9998, anne.lansman-magga(at)samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Viestintäsihteeri Johanna Alatorvinen, 010 839 3140 / 040 663 4493, johanna.alatorvinen(at)samediggi.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđihančálli Johanna Alatorvinen, 010 839 3140 / 040 663 4493, johanna.alatorvinen(at)samediggi.fi</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,335 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">dokumentit.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Dokumentit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dokumeanttat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huom!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fuom!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien dokumenttipankki ei toimi Internet Explorer -selaimella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki dokumeantabáŋku ii doaimma Internet Explorer -neahttaloganiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käytäthän toista selainta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Amma geavahat man nu eará neahttalogana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloitteet, esitykset, lausunnot ja muut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álgagat, evttohusat, cealkámušat ja earát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aloitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Álgagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esitykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kehysehdotus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rámmaevttohus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lausunnot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Cealkámušat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kertomukset, ohjelmat ja suunnitelmat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čilgehusat, plánat ja prográmmat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kertomus valtioneuvostolle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Muitalus stáhtaráđđái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintakertomus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmamuitalus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimintasuunnitelma-talousarvio</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Doaibmaplána-ruhtadoalloárvalus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalikauden toimintaohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Válgabaji doaibmaprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kielipoliittinen kehittämisohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid giellapolitihkalaš ovddidanprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten koulutuspoliittinen kehittämisohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid skuvlenpolitihkalaš ovddidanprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kulttuuripoliittinen kehittämisohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid kulturpolitihkalaš ovddidanprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten oikeus-, elinkeino-, kulttuuriperintö- ja ympäristöpoliittinen toimintaohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid vuoigatvuođa, ealáhus-, kultur- ja biraspolitihkalaš doaibmaprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten sotealan kehittämisohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid sosiála- ja dearvvašvuođasuorggi ovddidanprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten nuorisopoliittinen kehittämisohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid nuoraidpolitihkalaš ovddidanprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousasiakirjat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkináššegirjjit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki čoahkkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien hallituksen kokous</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki stivrra čoahkkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirjojen nähtävilläpito</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beavdegirjjiid doallan oaidnin láhkai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuurimääräraha</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kulturmearreruhta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hakulomakkeet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ohcanskovit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Myönnetyt avustukset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juolluduvvon ohcamušat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiliselvitykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kontočielggadusat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lomakkeet Matkustusohje</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skovit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkkio- ja matkalasku</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mátkkoštannjuolggadus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkkiosääntö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálká- ja mátkerehkegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sidonnaisuusselvitys</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bálkánjuolggadus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilastoja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čatnasupmečilgehus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetustilastot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Statistihkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten lukumäärä vaaleissa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahusstatistihkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki dokumentit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid lohkomearri válggain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirjojen nähtävilläpito</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Buot dokumeanttat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien työjärjestyksen 64 §:n mukaan Saamelaiskäräjien kokouksen ja hallituksen pöytäkirjat siihen liitettyvine valitusosoituksineen pidetään tarkastamisen jälkeen yleisesti nähtävänä siten kuin siitä ennakolta on ilmoitettu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beavdegirjjiid oaidninláhkai doallan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muun toimielimen pöytäkirjan nähtävillä olosta päättää asianomainen toimielin itse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki bargoortnega 64 §:a mielde Sámedikki čoahkkima ja stivrra beavdegirjjit dasa laktojuvvon váidalančujuhusain dollojuvvojit dárkkisteami maŋŋá almmolaččat oaidninláhkai nu mo das lea ovddalgihtii almmuhuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirja pidetään yleisesti nähtävänä Saamelaiskäräjien verkkosivuilla osoitteessa www.samediggi.fi vähintään pöytäkirjan valitusajan, jollei salassapitoa koskevista säännöksistä muuta johdu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará doaibmaorgána beavdegirjji oaidninláhkai doallamis mearrida áššáigullevaš doaibmaorgána ieš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousasiakirjat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beavdegirji dollojuvvo almmolaččat oaidninláhkai Sámedikki neahttasiidduin čujuhusas www.samediggi.fi uhcimustá beavdegirjji váidalanáigge, juos ii čiegusindoallama guoski njuolggadusain eará čuovo.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

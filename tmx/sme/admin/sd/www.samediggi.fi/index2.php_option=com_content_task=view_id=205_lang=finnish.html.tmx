@@ -1,0 +1,23 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=205_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansalaisjärjestöt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámesearvvit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulossa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tulossa</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

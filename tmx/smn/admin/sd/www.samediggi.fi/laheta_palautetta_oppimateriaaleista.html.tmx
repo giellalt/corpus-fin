@@ -1,0 +1,47 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">laheta_palautetta_oppimateriaaleista.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähetä palautetta oppimateriaaleista</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuolgât macâttâs oppâmateriaalijn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Onko sinulla ideoita saamenkielisen oppimateriaalityön kehittämiseksi?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Láá-uv tust jurduuh sämikielâlii oppâmateriaalpargo ovdedem várás?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oletko huomannut korjaustarpeita Saamelaiskäräjien tuottamassa oppimateriaalissa?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lah-uv tun huámmášâm tivvoomtáárbuid Sämitige pyevtittem oppâmateriaalist?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Otamme mielellämme vastaan palautetta, jotta pystymme kehittämään oppimateriaalien sisältöä, korjaamaan mahdollisia virheitä ja tuottamaan sellaisia materiaaleja, joita saamelaisopetuksessa tarvitaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mij väldip mielâstân vuástá macâttâs, vâi pastep ovdediđ oppâmateriaalij siskáldâs, tivvoođ máhđulijd feeilâid já pyevtittiđ tagarijd materiaalijd, moh annojeh sämimáttááttâsâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Otamme vastaan ehdotuksia uusiksi oppimateriaaleiksi, ehdotuksia käsikirjoittajiksi, kuvittajiksi, graafisiksi suunnittelijoiksi, toteutustavoiksi ja ideoita saamelaisen kulttuurin sisällyttämiseksi materiaaleihin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mij väldip vuástá iävtuttâsâid uđđâ oppâmateriaalin, iävtuttâsâid kietâčällein, kuuvij sárgon, graafisii vuávájeijen, olášuttemvyehin já jurduid, ete maht siskálmittiđ sämikulttuur materiaaláid.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

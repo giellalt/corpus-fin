@@ -1,0 +1,47 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">hallitus.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stivra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät asettaa keskuudestaan hallituksen, johon kuuluvat jäseninä käräjien puheenjohtaja, kaksi varapuheenjohtajaa ja neljä muuta jäsentä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámediggi vállje gaskavuođastis stivrra, masa gullet lahttun sámedikki ságajođiheaddji, guokte várreságajođiheaddji ja njeallje eará lahtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallitus toimii saamelaiskäräjien kokouksen alaisena ja sen ensisijaisena tehtävänä on vastata poliittisesta toiminnasta ja hallinnosta sekä huolehtia käräjien kokousten valmistelusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Stivra doaibmá sámedikki čoahkkima vuollásažžan ja dan dehaleamos bargun lea vástidit politihkalaš doaimmas ja hálddahusas ja maiddái fuolahit sámedikki čoahkkimiid válmmaštallamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien hallitus 2020 – 2023:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki stivra 2020 – 2023:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Juuso Tuomas Aslak, Puheenjohtaja Koivisto Anni, I varapuheenjohtaja Aikio Leo, II varapuheenjohtaja Alakorva Juha-Petteri Feodoroff Veikko Sara Magreta Nuorgam Anne</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juuso Tuomas Aslak, ságajođiheaddji Koivisto Anni, I várreságajođiheaddji Aikio Leo, II várreságajođiheaddji Alakorva Juha-Petteri Feodoroff Veikko Sara Magreta Nuorgam Anne</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

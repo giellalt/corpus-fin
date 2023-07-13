@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=363_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen rakennustyö alkoi vanhojen rakennusten purkauksella Saamelaiskulttuurikeskuksen rakennustyö alkoi maanantaina 12.4.2010.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmkulttuurkõõskõõzz raajjâmtuâjj aaʹlji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työmaa aloitettiin purkamalla keskuksen tontilta vanhat rakennukset pois.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmkulttuurkõõskõõzz raajjâmtuâjj aaʹlji Sääʹmkulttuurkõõskõõzz raajjâmtuâjj aaʹlji vuäʹmm raajâlmi peâltumuužžin täʹbbe 12.4. Aanrest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Purku-urakointi kestää viikolle 18/2010.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjmäädd põrttsââjj, kååʹtt lij kâskka ceerkavsiid da tåʹben åårrai vuäʹmm raajâlmid aʹlǧǧeš peâltet meädda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rakennustyömaan urakoinnista vastaa Senaatti-kiinteistöt.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Peâltumuužž urkktuâjj peštt neättla 18/2010.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

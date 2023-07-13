@@ -1,0 +1,71 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">vaalilautakunta_tiedottaa.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalilautakunta tiedottaa</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vaal-luʹvddkåʹdd teâđat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Posti säilyttää kirjattuja vaaliasiakirjeitä Pohjois-Suomen postinumeroalueella 84-99 (Ylivieska-Nuorgam) torstaihin 26.9.2019 saakka , jonka jälkeen kirjeet palautetaan vaalilautakunnalle.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Pååʹšt seillat rekisterõʹsttum vaaläʹššǩiiʹrjid Tâʹvv-Lääʹddjânnam pååʹštnââmarvuuʹdest 84-99 (Ylivieska-Nuorgam) nelljdpeeiʹv 26.9.2019 räjja , koon mâŋŋa ǩiiʹrjid maacctet vaal-luʹvddkådda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkista postipisteiden aukioloajat täältä: https://beta.posti.fi/fi/palvelupisteet-kartalla</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tääʹrǩest pååʹštpaaiʹǩi äävaiåårramaaiʹjid tääiʹben: https://beta.posti.fi/fi/palvelupisteet-kartalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli et ole saanut postin lähettämää saapumisilmoitusta, ota yhteyttä vaalilautakunnan toimistoon puh. +358 10 839 3120.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs jiõk leäkku vuäǯǯam pååʹšt vuõltteem pueʹttemiʹlmmtõõzz, vääʹld õhttvuõđ vaal-luʹvddkååʹdd konttra teʹl. +358 10 839 3120.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lue lisää:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ vaal-luʹvddkåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaalien toimittaminen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmkulttuurkõõskõs Sajos Menesjärventie 2A 99870 AANAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalien ääntenlaskenta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>+358 10 839 3120 | +358 10 839 3138 vaalit(at)samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaaliasiakirjojen säilyttäminen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>www.samediggi.fi</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

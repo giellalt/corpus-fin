@@ -1,0 +1,15 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=284_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>version https://git-lfs.github.com/spec/v1 oid sha256:3774c41c3670a3b11ed46f8e1cb7dbb38fb201b05050e38883a8e85bcd95d7fb size 2935</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>version https://git-lfs.github.com/spec/v1 oid sha256:4c011147d17b3de98c65453f3a8e81346b1635d913dd987edf3d058a4b2318ce size 2945</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

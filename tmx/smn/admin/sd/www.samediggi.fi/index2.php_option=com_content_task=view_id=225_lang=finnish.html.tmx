@@ -1,0 +1,63 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=225_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Leammeroggi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lemmeerogge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso lyhytvideo pohjoissaamelaisesta joiusta!</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ uánihisvideo tavesämmilâš juáigusist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Synopsis: Lemmenjokelainen Nils Heikki Paltto joikaa Lemmenjoen kurun.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Synopsis: Lemmeelâš Nils Heikki Paltto juáigá Lemmee äävži.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Joikaaja: Nils Heikki Paltto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jyeigee: Nils Heikki Paltto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjaus/leikkaus: Kirsti Länsman, kuvaus: Heli Ahola</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Stivrim/čuoppâm: Kirsti Länsman, kuvvim: Heli Ahola Pyevtittâs:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuotanto: Saamelaisalueen koulutuskeskus 2008</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi máttááttâskuávdáš 2008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pituus: 1,23</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kukkodâh: 1,23</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

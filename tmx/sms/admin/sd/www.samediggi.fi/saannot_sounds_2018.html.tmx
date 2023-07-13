@@ -1,0 +1,383 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">saannot_sounds_2018.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SÄÄNNÖT SOUNDS 2018</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>VUÂKKÕÕZZ SOUNDS 2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. TYYLIT</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>1. NÄÄʹL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Klassinen musiikki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Klaasslaž musikk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· orkesterit</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· Orkesteeʹr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· yhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· musikkjoouk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· kuorot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· kuår</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· lauluyhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· laauljoouk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kansanmusiikki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Meermusikk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· yhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· musikkjoouk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· lauluyhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· laauljoouk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rytmimusiikki kuten rock, pop, jazz, laulelma, iskelmä, hiphop, reggae, dance</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Rytmm-musikk mâte rock, pop, jazz, lääulalmm, čââʹcǩelm, hiphop, reggae, tanss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· yhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· musikkjoouk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· lauluyhtyeet</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· laauljoouk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. ESITYKSEN PITUUS</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>2. ČUÄʹJTÕÕZZ KOOKKADVUÕTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koko esityksen pituus saa olla enintään 10 minuuttia.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Obb čuäjtõõzz kookkadvuõtt vuäǯǯ leeʹd jäänmõssân 10 minot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3. IKÄSARJAT JA RAJOITUKSET</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>3. ÂÂʹǨǨ-KLAASS DA RÄJJÕÕZZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osanottajat jaetaan kahteen ikäsarjaan:* 2003-2008 -syntyneet (10-15-vuotiaat) 1998-2002 -syntyneet (16-20-vuotiaat)</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuässõõttjid jueʹjjet kueiʹt ââʹǩǩ-klaʹsse:* 2003-2008 -šõddâm (10-15-âkksa) 1998-2002 -šõddâm (16-20-âkksa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ryhmän koko tulee olla vähintään kolme henkilöä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jooukâst âʹlǧǧe leeʹd ââinas koumm ooumžed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Enintään 1/3 ryhmän jäsenistä saa poiketa ikärajoituksesta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jäänmõssân 1/3 joouk oummin vuäǯǯ järrned ââʹǩǩ-klaassâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rajoitus ei koske esitysten eikä ryhmien ohjaajia.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Räjjõs ij kuõsk čuäjtõõzz ij ni joouki oʹhjjeeʹjid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tapahtuma on suunnattu nimenomaan nuorille taiteen harrastajille.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Šõddmõš lij plaanuum nõmmlâsan nuõrid taaid staarjõõđjid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuoret, jotka saavat pääasiallisen toimeentulonsa musiikista, ovat musiikin ammatillisessa koulutuksessa (Sibelius-Akatemia, sotilasmusiikkikoulu, musiikkioppilaitosten ammatilliset linjat) tai ovat suorittaneet musiikin ammatillisen tutkinnon, eivät voi osallistua tapahtumaan.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõr, kookk vuäǯǯa väʹlddpiʹrǧǧummuž musiikkâst, lie musiikk ämmatlaž škooultõõzzâst (Sibelius-Akatemia, sääldatmusikkškooul, musikkmättʼtõõttâmstrooitli ämmatlaž liinj) leʹbe lie čõõđtam musiikk ämmatlaž tuʹtǩǩõõzz, sij jiâ vuâǯǯ vuässõõttâd šõddmõʹšše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rajoitus ei koske Sibelius-Akatemian nuorisokoulutuksen oppilaita.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Räjjõs ij kuõsk Sibelius-Akatemia nuõriškooultõõzz mättʼtõõttjid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alue- ja valtakunnallisessa tapahtumassa sama ryhmä voi osallistua vain yhteen ryhmälajiin.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuʹvdd- da väʹlddkååddlaž šõddmõõžžâst seämma joukk vuäitt vuässõõttâd tåʹlǩ õõut joukkšlaʹjje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2/3 ryhmän jäsenistä tulee olla uusia, jotta ryhmä voidaan katsoa uudeksi kokoonpanoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>2/3 joouk oummin âʹlǧǧe leeʹd ođđ, štõ joouk vueiʹtet ǩiõččâd ođđ norrõssân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4. ALUETAPAHTUMASTA VALTAKUNNALLISEEN TAPAHTUMAAN</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>4. VOOUDLAŽ ŠÕDDMÕÕŽŽÂST VÄʹLDDKÅÅDDLAŽ ŠÕDDMÕʹŠŠE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alueellisiin musiikkitapahtumiin voivat osallistua kaikki alueella asuvat nuoret.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vooudlaž musikkšõddmõõžžid vueiʹtte vuässõõttâd puk vuuʹdest aassi nuõr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aluetapahtuman tulee olla pidettynä vuoden 2018 huhtikuun ensimmäiseen viikonloppuun mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vooudlaž šõddmõš õlgg leeʹd õnnum eeʹjj 2018 pâʹsslašttâm-mannu vuõssmõs neäʹttel-loʹppe mõõneeʹst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raadit valitsevat aluetapahtumista edustajat valtakunnalliseen Sounds 2018 -tapahtumaan, joka järjestetään Mikkelissä 25.-27.5.2018.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ärvstõõllâmjoouk vaʹlljee vooudlaž šõddmõõžžin eeʹttǩeeʹjid väʹlddkååddlaž Sounds 2018 -šõddmõʹšše, koon jäʹrjsted Mikkelist 25.-27.5.2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aluetapahtumista jatkoon päässeet ilmoittautuvat valtakunnalliseen tapahtumaan Mikkeliin viimeistään 9.4.2018 mennessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vooudlaž šõddmõõžžin mieʹldd piâssâm iʹlmmtâʹvve väʹlddkååddlaž šõddmõʹšše Mikkeliiʹje mââimõõzzâst 9.4.2018 mõõneeʹst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tämän jälkeen tulleita ilmoittautumisia ei hyväksytä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tän peeiʹv mâŋŋa puättam iʹlmmtõõttmõõžžid jeät valddu lokku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5. PALAUTE</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>5. MAACCTÕS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuori Kulttuuri -tapahtumiin kuuluu vahva koulutuksellisuus.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Puk šõddmõʹšše vuässõõttâm joouk vuäǯǯa čuäʹjtõõzzâst njäälmlaž da ǩeerjlaž maacctõõzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikki tapahtumaan osallistuneet ryhmät saavat esityksestään ammattilaisraadilta suullisen ja kirjallisen palautteen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrr Kulttuur Sounds 2018 -šõddmõõžž ärvstõõllâmjooukin teäʹddeet dialogia nuõrr musikkniiʹǩǩivuiʹm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuori Kulttuuri Sounds 2018 -tapahtuman raadeissa painotetaan dialogia nuorten muusikoiden kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ärvstõõllâmjoukk ǩiõččlâdd pââiʹded saǥstõõllmõʹšše čuäʹjtõõzz nâânasvuõđid da še aaʹššid, koivuiʹm čuäʹjteeʹjin leʹčči vueiʹttemvuõtt õuddned jiijjâs musiikk raajjmõõžžin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raati pyrkii</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ärvstõõllâmjoouk peʹjje vuâmmšummuž õuddmiârkkân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>nostamaan keskusteluun esityksen vahvuuksia ja myös asioita, joiden avulla esittäjien olisi mahdollista kehittyä omassa musiikin tekemisessään.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· čuäʹjtõõzz siiskõʹsse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Raadit kiinnittävät huomiota esimerkiksi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· laulli da soiʹttjem jiiʹjjesnallšemvuõđid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· esityksen sisältöön</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· čuäʹjteeʹji kõskksaž vuârrvaaiktemvuõʹtte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· laulun ja soiton piirteisiin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· õõlmtõõttmid kuulli aaʹššid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· esittäjien keskinäiseen vuorovaikutukseen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· kriʹlcc-čuäʹjtemoʹdde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· ilmaisullisiin seikkoihin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· čuäʹjtõõzz jiõččnallšemvuõʹtte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· lavaolemukseen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>· čuäʹjteeʹji da ǩiõččji kõskksaž vuârrvaaiktõsvuõʹtte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· esityksen omaleimaisuuteen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>*sääʹmnuõri čeäʹppvuõttpeeiʹvest lij še kuälmad ââʹǩǩ-klass:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>· esittäjien ja yleisön väliseen vuorovaikutukseen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>-vueʹll 10-ekksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>*Saamelaisnuorten taidetapahtumassa on myös kolmas ikäsarja:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>*”jeäʹled jeättõõv, håt-i iʹlmmtõõttmõš lij Sounds vuâkkõõzzi mieʹldd pâʹsslâšttâm-mannust, sijvuiʹm lij suåppum, štõ sääʹmnuõričeäʹppvuõđpeeiʹv iʹlmmtõõttmõõžžid vääʹldet vuâstta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>-alle 10-vuotiaat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>”</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,47 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=504_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaalien 2011 ehdokasasettelu on päättynyt</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ vaali 2011 võborseǩ piijjmõš lij puuttâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaalit toimitetaan 5.9. - 3.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ vaal tuåimtet 5.9. - 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10.2011.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>10.2011 äiʹǧǧen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalilautakunta on laatinut vaalikelpoisista ehdokkaista ehdokasluettelon.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vaal-luʹvddkåʹdd lij raajjâm vaalânnsain võboršeeʹǩǩin võboršeǩloǥstõõǥǥ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdokkaita on yhteensä 40. Ehdokasluettelo 2011</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Võboršeeʹǩǩ liâ õhttseʹžže 40. Võboršeǩloǧstõk 2011</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

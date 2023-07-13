@@ -1,0 +1,815 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">saamelaisen_aineettoman_kulttuuriperinnon_konferenssi_23_-24_5_2018_ohjelma.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>SAAMELAISEN AINEETTOMAN KULTTUURIPERINNÖN KONFERENSSI</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>SÁMI NJÁLMMÁLAŠ ÁRBEVIERUID KONFEREANSA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>23.-24.5.2018</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>23.-24.5.2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ALUSTAVA OHJELMA</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>GASKABODDOSAŠ PROGRÁMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>23.5.2018</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>23.5.2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:00 – 10:30 AVAUS</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:00 – 10:30 RAHPAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:00 – 10:10 Alkusanat – moderaattori</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:00 – 10:10 Álgosánit – moderáhtor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:10 – 10:15 Suomen saamelaiskäräjien presidentti – Tiina Sanila-Aikio</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:10 – 10:15 Suoma sámedikki presidenta – Tiina Sanila-Aikio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:15 – 10:20 Norjan saamelaiskäräjien presidentti – Aili Keskitalo</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:15 – 10:20 Norgga sámedikki presidenta – Aili Keskitalo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:20 – 10:25 Ruotsin saamelaiskäräjät – Marina Nilsson Ederlöv</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:20 – 10:25 Ruoŧa sámediggi – Marina Nilsson Ederlöv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:30 – 11:30 ALOITUS</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:30 – 11:30 ÁLGU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:30 – 10:50 UNESCO/WIPO – Rasul Samadov / Jon Petter Gintal</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:30 – 10:50 UNESCO/WIPO – Rasul Samadov / Jon Petter Gintal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:50 – 11:10 Aineettoman kulttuuriperinnön haasteet saamelaisten näkökulmasta – Petra Laiti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:50 – 11:10 Njálmmálaš árbevieru hástalusat sámiid geahččanguovllus – Petra Laiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11:10 – 11:30 Saamelaiskulttuurin hyväksikäyttö Suomen matkailuyrityksissä – Kirsi Suomi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11:10 – 11:30 Suoma mátkefitnodagaid ávkkástallan sámi kultuvrrain – Kirsi Suomi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. teema – Duodji eli saamenkäsityö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 fáddá: Duodji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11:30 – 11:50 Aineettoman kulttuuriperinnön haasteet duodjissa – Mari-Ann Nutti, Samesløjdstiftelsen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11:30 – 11:50 Njálmmálaš árbevieru hástalusat duojis – Mari-Ann Nutti, Samesløydstiftelsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11:50 – 12:10 Duodjin sielu – Maarit Magga</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11:50-12:10 Duoji siellu – Maarit Magga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>12:10 – 13:10 Lounas</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12:10 – 13:10 Beaivemális</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Duodjinäyttelyjen avaus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duodječájáhusaid rahpan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Fia Kaddik: Lyhytkurssi tinalangan punomisesta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fia Kaddik: Oanehiskursa datneárppu batnimis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. teema – Duodji</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1. fáddá – Duodji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13:05 – 13:25 Aineettoman kulttuuriperinnön haasteet opetuksessa – Samuli Valkeapää</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13:10 – 13:25 Njálmmálaš árbevieru hástalusat oahpahusas – Samuli Valkeapää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13:25 – 13:45 Työ käynnissä: Sámi Duodji -merkki – Ellen Berit Dalbakk, Saamelaisneuvosto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13:25 – 13:45 Duodjemearkabargu – Ellen Berit Dalbakk , Sámiráđđi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13:45 – 13:55 MIS of Sápmi osuuskunta – Marit Guttorm Graven</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13:45 – 13:55 MIS of Sápmi oasusgoddi – Marit Guttorm Graven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13:55 – 14:05 Kysymykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13:55- 14:05 Jurdagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. teema – Arkistoesineet: lähestyminen aineettomaan kulttuuriperintöön</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2. fáddá – Vuorkádávvirat: lahkoneapmi immateriála kulturárbái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14:05 – 14:25 Perintö palaa kotiin – Eeva-Kristiina Harlin (Outi Pieski)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14:05 – 14:25 Árbi joavdá ruoktot – Eeva-Kristiina Harlin (Outi Pieski)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14:25 – 14:35 Repatriaatio ja elvyttäminen – Eeva-Kristiina Harlin</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14:25 – 14:35 Repatriašuvdna ja ealáskahttin – Eeva-Kristiina Harlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14:35 – 14:50 AIDA-hanke – Hanna Helander/Sunna Valkeapää, Saamelaisarkisto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14:35 – 14:50 AIDA-fidnu – Hanna Helander/Sunna Valkeapää, Sámi arkiiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14:50 – 15:00 Kysymykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14:50-15:00 Jurdagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15:00 – 15:30: Kahvitauko</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15:00 – 15:30 Káffeboddu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3. teema – Aineettomat kulttuurimuistot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3. fáddá – Njálmmálaš árbevieru kulturmuittut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15:35 – 15:55 Saamelaisen kulttuuriperinnön suojaaminen – Klemetti Näkkäläjärvi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15:30 – 15:55 Sámi kulturárbbi suddjen – Klemetti Näkkäläjärvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15:55 – 16:15 Aineettomat kulttuurimuistot paikannimissä – Marit Myrvoll</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15:55 – 16:15 Njálmmálaš árbevierut báikenamain – Marit Myrvoll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>16:15 – 16:35 Saamelaisten pyhien paikkojen paikannimet kirjallisissa ja suullisissa lähteissä – Jelena Porsanger</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>16:15 – 16:35 Sámi bassebáikkiid báikenamat čálálaš ja njálmmálaš gálduin – Jelena Porsanger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>16:35 – 16:55 Aineeton kulttuuriperinne Rastigaisasta – Toralf Henriksen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>16:35 – 16:55 Njálmmálaš árbevierut Rástegáissá birra – Toralf Henriksen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>16:55 – 17:00 Kysymykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>16:55 – 17:00 Jurdagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ILTAOHJELMA:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>EAHKETPROGRÁMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>17:45 – 19:30 Kulttuuriohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>17:45 – 19:30 Kulturprográmma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niillas Holmberg 6. runokirjan julkaiseminen – DAT</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Niillas Holmberg 6. diktagirjji almmustahttin – DAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Niillas Holmberg: runojen lausuntaa ja joikuja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Niillas Holmberg: Divttaid lohkan ja juoigan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inga Victoria Påve: Kertomuksia kuvista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Inga Wictoria Påve: Muitaleapmi govaid birra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>20:00 – 22:00 Illallinen (omakustanteinen)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>20:00 – 22:00 Eahketmális (juohkehaš máksá ieš)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>24.5.2018</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>24.5.2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4. teema – Suullisten lauluperinteiden siirtäminen – joiku</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4. fáddá – Njálmmálaš lávlunárbevieruid sirdin – luohti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:05 – 10:25 Joiun tilanne – haasteet ja oikeudet – Biret Risten Sara</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:05 – 10:25 Luođi dilli – hástalusat ja vuoigatvuođat – Biret Risten Sara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:25 – 10:45 Saamelaiskulttuuri ja kehittyvät tekijänoikeudet – Piia Nuorgam</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:25 – 10:45 Sámekultuvra ja ovdáneaddji dahkkivuoigatvuođat – Piia Nuorgam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10:45 – 11:05 Miten ottaa livđe takaisin – Anna Morottaja</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10:45 – 11:05 Mo váldit livđe ruovttoluotta – Anna Morottaja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11:05 – 11:25 Joiun haasteet ja rekrytointi – Domna Khomjuk</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11:05 – 11:25 Luođi hástalusat ja rekryteren – Domna Khomjuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11:25 – 11:45 Saamelainen musiikkiakatemia – SAKK / Sámi Allaskuvla – Annukka Hirvasvuopio-Laiti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11:25 – 11:45 Sámi musihkkaakademiija – SOGSAKK/Sámi Allaskuvla – Annukka Hirvasvuopio-Laiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11:45 – 12:00 Kysymykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11:45 – 12:00 Jurdagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>12:00 – 13:00 Lounas</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12:00 – 13:00 Beaivemális</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5. teema – Kertomaperinteen siirtäminen: elokuva/lavataide/kirjallisuus:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5. fáddá – Muitalanárbevieruid sirdin: filbma/lávdedáidda/girjjálašvuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13:05 – 13:25 Näkökulmia suojasta – Pauliina Feodoroff</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13:05 – 13:25 Oaidninvuogit suddjemis – Pauliina Feodoroff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13:25 – 13:45 Tarinankerronta saamelaisen mytologian olentojen pohjalta – Kirsti Paltto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13:25 – 13:45 Máinnasteapmi sámi mytologiija fuobaliid vuođul – Kirsti Paltto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13:45 – 14:05 Lyhytelokuva: Eatnanvuloš lottit – Marja Helander</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13:45 – 14:05 Oanehisfilbma: Marja Helander – Eatnanvuloš lottit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14:05 – 14:25 Lavateksti saamelaistarinoiden lähtökohdissa – Sara Margrethe Oskal</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14:05 – 14:25 Lávdeteaksta sámi muitalusaid vuolggasajiin – Sara Margrethe Oskal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14:25 – 14:45 ISFI: Elokuvaeettiset säännöt ulkopuolisille elokuvantekijöille ja -yrityksille – Liisa Holmberg</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14:25 – 14:45 ISFI: Filbmaehtalaš njuolggadusat olggobeale filbmadahkkiide ja -fitnodagaide – Liisa Holmberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14:45 – 15:00 Kysymykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14:45 – 15:00 Jurdagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15:00 – 15:30 Kahvitauko</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15:00 – 15:30 Káffeboddu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>6. teema – Oikeudet ja immateriaalinen kulttuuriperintö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>6. Fáddá: Vuoigatvuođat ja njálmmálaš árbevierru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15:35 – 15:55 Tutkimuksen eettiset säännöt ja immateriaalinen kulttuuriymmärrys ulkopuolisten tahojen keskusteluun – Anni-Helena Ruotsala</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15:30 – 15:55 Dutkama ehtalaš njuolggadusat ja njálmmálaš árbevierroáddejupmi olggobeale áktevrraid gulahallamii – Anni-Helena Ruotsala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15:55 – 16:15 Onko perinteistiedolle sijaa luonnonvarojen hallinnassa?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15:55 – 16:15 Leago árbevirolaš máhttui sadji luondduvalljodagaid hálddašeamis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>– Solveig Joks, Sámi allaskuvla/Saamelainen korkeakoulu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>– Solveig Joks, Sámi allaskuvla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>16:15 – 16:35 Entä poronhoito? Perinteinen ekologinen tieto käytännössä – Berit Inga</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>16:15 – 16:35 Árbevirolaš ekologalaš máhttu boazodoalus – Berit Inga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>16:35 – 17:00 Perinteisen kalastustaidon siirtämisen haasteet – Ásllat Holmberg / Ivan Matrekhin</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>16:35 – 17:00 Hástalusat árbevirolaš guolástandáiddu sirdimis – Ásllat Holmberg / Ivan Matrekhin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>17:00 – 17:10 Kysymykset</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>17:00-17:10 Jurdagat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>17:10 – 17:30 Terveisiä Saamenmaalle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>17:10 – 17:30 Dearvvuođat Sápmái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rasul Samadov (UNESCO), Hildegunn Bjørgen (NOR), Leena Marsio (FIN).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Rasul Samadov (UNESCO); Hildegunn Bjørgen (NOR), Leena Marsio (FIN);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Marina Nilsson Ederlöv (SWE)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Marina Nilsson Ederlöv (SWE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>17:30 – 17:45 Lopetus: Kulttuuriperinnön suojaaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>17:30 – 17:45 Loahpaheapmi: Kulturárbbi suddjenčálus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paneeliskeskustelu</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Panelaságastallan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ILTAOHJELMA:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>EAHKETPROGRÁMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>20:00 – Skábmagovien elokuvailta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>20:00 – Skábmagovaid filbmaeahket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Call and response Kanada, 2014, 5’ Ohjaaja: Craig Commanda Kieli: Englanti, tekstitys englanniksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Call and response Kanada, 2014, 5’ Bagadalli: Craig Commanda Giella: Eaŋgalsgiella, teksten eaŋgalsgillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elektronisen aikakauden anishinabe-muusikko (ohjaaja itse) tapaa kansansa perinteen yöllä metsässä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Elektrovnnalaš áigodaga anishnabe-musihkkár (bagadalli ieš) deaivida álbmogis árbevieru ihkku meahcis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kummitustarina Sápmi/Suomi, 2017, 6’ Ohjaaja: Niki Rasmus Kieli: Pohjoissaame, tekstitys englanniksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gobmemainnas Sápmi/Suopma, 2017, 6’ Bagadalli: Niki Rasmus Giella: Davvisámegiella, teksten eaŋgalsgillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aslak Pieski kertoo pelottavan tarinan lapsuudestaan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Aslak Pieski muitala balddihahtti muitalusa iežas mánnávuođas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Juuret on – Under Two Skies Sápmi/Suomi, 2016, 13’ Ohjaaja: Suvi West &amp;amp; Anssi Kömi Kieli: Suomi, tekstitys englanniksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Juuret on – Under Two Skies Sápmi/Suopma, 2016, 13’ Bagadalli: Suvi West &amp;amp; Anssi Kömi Giella: Suomagiella, teksten eaŋgalsgillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lyhytelokuva juurten tärkeydestä, lähtemisestä ja rakkaudesta kahden kulttuurin välissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oanehisfilbma ruohttasiid dehálašvuođas, vuolgimis ja ráhkisvuođas guovtti kultuvrra gaskkas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Half &amp;amp; half Grönlanti/Tanska, 2015, 3’ Ohjaaja: Aka Hansen Kieli: Grönlanti, tanska, tekstitys englanniksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Half &amp;amp; half Ruonáeana/Dánmárku , 2015, 3’ Bagadalli: Aka Hansen Giella: Ruonáeatnangiella, dánskkagiella, teksten eaŋgalsgillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Identiteetit eivät ole aina niin selkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Identitehtat eai leat buot áiggiid nu čielgasat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elokuvantekijä Aka Hansen tasapainoilee grönlantilaisen ja tanskalaisen identiteettinsä välissä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Filbmadahkki Aka Hansen johtá ruonáeatnanlaš ja dánmárkulaš identitehtaidis gaskka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morit Elena Morit – Wake up Elena Wake Up Sápmi/Ruotsi, 2017, 5’ Ohjaaja/Käsikirjoittaja/Tuottaja: Inga-Wiktoria Påve &amp;amp; Anders Sunna Kieli: Pohjoissaame, tekstitys englanniksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Morit Elena Morit – Wake up Elena Wake Up Sápmi/Ruoŧŧa, 2017, 5’ Bagadalli/Giehtačálli/Buvttadeaddji: Inga-Wiktoria Påve &amp;amp; Anders Sunna Giella: Davvisámegiella, teksten eaŋgalsgillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Skábmagovilla ja imagineNATIVE Media + Arts -festivaaleilla palkittu animaatio näyttää miten kolonialismi on hiipinyt saamelaisten luokse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skábmagovain ja imagineNATIVE Media + Arts –festiváliin bálkkášuvvon animašuvdna čájeha mo koloniliasma lea njáhkan sámiid lusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Animaatio suosittelee saamelaisnuoria heräämään ja rakentamaan uuden yhteyden luontoon ja perinteisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Animašuvdna ávžžuha Sámi nuoraid morihit ja hukset ođđa oktavuođa lundui ja árbevieruide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Three thousand Kanada, 2017, 14’ Ohjaaja: Asinnajaq Kieli: Englanti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Three thousand Kanada, 2017, 14’ Bagadalli: Asinnajaq Giella: eaŋgalsgiella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inuiittiohjaajan mielenkiintoisella aikamatkalla arkistokuvat ja animaatio muodostavat hienon kokonaisuuden, jonka kautta inuiittien mennyt, nykyinen ja tuleva aika tulevat nähtäville.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Inuihtta bagadalli miellagiddevaš áigemátkkis arkiivvagovat ja animašuvdna huksejit fiinna ollisvuođa, man bokte inuihtaid vássán, dálá ja boahttevaš áigi bohtet ovdan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>”Isäni syntyi kevätigluun – puolet lunta, puolet nahkaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>’’Mu áhčči riegádii giđđaiglui – bealli muohta, bealli náhki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Minä synnyin sairaalaan, minulla keltatauti ja kaksi hammasta”.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mun riegádin buohccevissui, mus fiskesdávda ja guokte báni’’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Three thiusand voitti tämänvuotisen Skábmagovien parhaimman alkuperäiskansojen lyhytelokuvien palkinnon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Three thousand vuittii dán jagi Skábmagovain buoremus eamiálbmogiid oanehisfilmma bálkkašumi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Smoke That Travels USA, 2016, 13’ Ohjaaja: Kayla Briët Kieli: Englanti</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Smoke That Travels USA, 2016, 13’ Bagadalli: Kayla Briët Giella: Eaŋgalsgiella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kieli, tanssi, musiikki ja Potowatomien historia kietoutuvat viisaaksi kudelmaksi itseoppineen nuoren ohjaajan kunnianosoituksessa isänsä opeille ja kulttuuriperinteelle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Giella, dánsa, musihkka ja Potowatomi historjá giessasit viissis gođusin iešoahpan nuorra bagadalli čáppa gudnečájeheamis áhčis oahpuide ja kulturárbái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Heidi – Kaissi-U’lljan-Mä’rjj-U’lljan Sápmi/Suomi, 2016, 10’ Ohjaaja: Aleksi Ahlakorpi, Tuottaja: Saamelaisalueen koulutuskeskus SOGSAKK Kieli: Suomi, tekstitys englanniksi ja koltansaameksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Heidi – Kaissi-U’lljan-Mä’rjj-U’lljan Sápmi/Suopma, 2016, 10’ Bagadalli: Aleksi Ahlakorpi, Buvttadeaddji: Sámioahpahusguovddáš SOGSAKK Giella: Suomagiella, teksten eaŋgalsgillii ja nuortalašgillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lyhytelokuva koltansaamelaisesta käsityötaitajasta, Heidi Gauriloffista, joka vasta aikuisena on päässyt oppimaan sukunsa kieltä ja kulttuuria.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oanehisfilbma nuortalaš giehtaduodječeahpis, Heidi Gauriloffis, gii easkka rávisolmmožin lea beassan oahppat sogas giela ja kultuvrra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sää’nte’mes Saakk Sápmi/Suomi, 2016, 7’ Ohjaaja: SOGSAKK opiskelijaryhmä / Tuottaja: Erkki Feodoroff / Saamelaisalueen koulutuskeskus SOGSAKK Kieli: Koltansaame</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sää’nte’mes Saakk Sápmi/Suopma, 2016, 7’ Bagadalli: SOGSAKK studeantajoavku / Buvttadeaddji: Erkki Feodoroff / Sámioahpahusguovddáš SOGSAKK Giella: Nuortalašgiella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anna Lumikivi laulaa maailman ensimmäisellä koltansaamelaisleu’dd-musiikkivideolla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anna Lumisalmi lávlu máilmmi vuosttaš nuortalašleu’dd-musihkkavideos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mu nieidaskihpára áhkku – My girlfriend’s Grandma Sápmi, Suomi, 2016, 8’ Kieli: Pohjoissaame, suomi, tekstitys englanniksi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mu nieidaskihpára áhkku – My girlfriend’s Grandma Sápmi, Suopma, 2016, 8’ Giella: Davvisámegiella, suomagiella, teksten eaŋgalsgillii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>(Pikku)Tuhma tarina pojasta, joka tapaa tyttöystävänsä mummon ensimmäistä kertaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Skealbma máinnas gánddas, guhte deaivá nieidaskihpáris áhku vuosttas geardde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Löytävätkö poika ja mummo yhteisen kielen?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gávdnábago gánda ja áhkku oktasaš giela?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Entä miten dildu liittyy tähän tarinaan?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Naba mo dildu laktása dán máidnasii?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>KIITOS KAIKILLE JOTKA OVAT RAHOITTANEET TÄMÄN KONFRENSSIN!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>GIITU BUOHKAIDE GEAT LEAT RUHTADAN DÁN KONFEREANSSA!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

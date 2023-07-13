@@ -1,0 +1,87 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">anna_palautetta.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anna palautetta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Uuʹd maacctõõzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anna palautetta Saamelaiskäräjien verkkopalvelun toiminnasta alla olevalla lomakkeella.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Uuʹd maacctõõzz Sääʹmteeʹǧǧ neʹttkääzzkõõzz tuåimmjummšest vueʹlnn åårrai lomaakkin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjille voit antaa yleistä palautetta tai lähettää kysymyksiä sähköpostiosoitteeseen tiedotus(at)samediggi.fi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmtegga vuäitak uʹvdded takai maacctõõzz leʹbe vuõltteed kõõččmõõžžid neʹttpååʹštaddrõʹsse tiedotus(at)samediggi.fi .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos ilmoitat virheestä tai ongelmasta, kerro myös millä laitteella (esim. tietokone, tabletti, puhelin) ja selaimella käytät sivustoa sekä millä sivulla ongelma esiintyy.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs iʹlmmtak vââǥǥast leʹbe väʹǯǯelvuõđâst, mušttâl še koin aparaattin (ouddm. teâttmašina, tableʹtt, teʹlfon) da neʹttlookkjin âânak seiddõõzz di koon seeidast väʹǯǯelvuõtt lij.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit myös antaa palautetta oppimateriaaleista lomakkeella .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuäitak uʹvdded maacctõõzz še mättmateriaalin lomaakkin .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Otamme mielellämme vastaan palautetta, jotta pystymme kehittämään oppimateriaalien sisältöä, korjaamaan mahdollisia virheitä ja tuottamaan sellaisia materiaaleja, joita saamelaisopetuksessa tarvitaan.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Väʹlddep miõlsteen vuâstta maacctõõzz, što vueiʹttep ooudâsviikkâd mättmateriaali siiskõõzz, teevvad vueiʹtlvaž vââǥǥid da puuʹtʼted nåkam materiaal, koon sääʹm-mättʼtõõzzâst taarbšet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastaamme mielellämme palautteisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vaʹstteep miõlsteen maacctõõzzid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anna sähköpostisi tai puhelinnumerosi, jotta voimme vastata Sinulle.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Uuʹd neʹttpååʹštaddrõssad leʹbe teʹlfon-nââmrad, što vueiʹttep vaʹstteed Tuʹnne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystietoja käytetään vain palautteeseen vastaamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõtt-teâđaid ââʹnet tåʹlǩ maacctõʹsse vaʹsttummša.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kiitos palautteestasi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Späʹsseb maacctõssad peäʹlest!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

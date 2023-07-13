@@ -1,0 +1,95 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=156_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tavesämikielâlâš oppâmateriaaleh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, äidinkieli</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eenikielâ já čaabâkirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Davvisámegiella vieris giellan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame vieraana kielenä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Badjeskuvlla matematihkka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, yläkoulun matematiikka</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuolleskuvlla matematihkka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, alakoulun matematiikka</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Fysihkka ja kemiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, fysiikka ja kemia</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Deavvašvuođadiehtu Biologiija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, terveystieto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Biras- ja luonddudiehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, biologia</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eatnandiehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, ympäristö- ja luonnontieto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Oskkoldat ja eallinoaidnu Historjá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame, maantieto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Duodji Eará materiálat</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

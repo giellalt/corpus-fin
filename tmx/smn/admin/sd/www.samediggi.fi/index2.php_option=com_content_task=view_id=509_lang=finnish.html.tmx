@@ -1,0 +1,23 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=509_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen lastenkulttuurikeskus etsii uutta nimeä!</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi párnáikultturkuávdás ocá oddâ noomâ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelainen lastenkulttuurikeskus nimikilpailu</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi párnáikulttuurkuávdás nommâkišto</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

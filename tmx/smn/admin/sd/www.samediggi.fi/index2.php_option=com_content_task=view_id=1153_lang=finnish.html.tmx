@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1153_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien puhelinvaihde on suljettu 22.12.2015 – 7.1.2015</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige puhelinnummeer lii kiddâ 22.12.2015 – 7.1.2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien puhelinvaihde on suljettu 22.12.2015 – 7.1.2015.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige puhelinnummeer lii kiddâ 22.12.2015 – 7.1.2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteydenotot saamelaiskäräjien henkilöstön suoriin numeroihin, jotka löytyvät osoitteesta www.samediggi.fi &amp;gt; Yhteystiedot &amp;gt; Henkilöstö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ohtâvuođâväldimeh sämitige pargei njuálgu numeráid, moh kávnojeh čujottâsâst www.samediggi.fi &amp;gt; Ohtâvuođâtiäđuh &amp;gt; Pargojuávkku</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

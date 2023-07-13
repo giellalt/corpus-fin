@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=342_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen pohjoissaamenkielinen koulukartasto ilmestyi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš davvisámegielat skuvlla kártagirji almmuhuvvui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen saamenkielinen koulukartasto on ilmestynyt.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttaš sámegielat kártačoakkaldat skuvllaid várás lea almmuhuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>´Skuvlla kártagirji´ on oppilaan peruskartasto ja se sisältää tietoa Suomesta, Pohjoismaista ja eri maanosista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>´Skuvlla kártagirji´ lea oahppi vuođđočoakkaldat ja das gávdnojit dieđut Suomas, Davviriikkain ja sierra eatnanosiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kartasto sisältää myös luettelon itsenäisistä valtioista lippuineen ja saamenkielisen hakemiston.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kárttaid lassin girjjis lea tabealla iehčanas stáhtain ovttas iežaset leavggaiguin ja sámegielat ohcu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lue lisää</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga lasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tästä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>dás.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

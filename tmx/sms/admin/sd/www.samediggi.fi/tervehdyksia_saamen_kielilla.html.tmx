@@ -1,0 +1,439 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">tervehdyksia_saamen_kielilla.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pieni sanakirja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹnnǩeârjaž</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tällä pienellä sanakirjaisella haluamme kutsua mukavalla tavalla mukaan keskustelemaan saameksi ensitapaamisella, arkipäivässä ja juhlissa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Täin sääʹnnǩeerjain haaʹleep hääʹsǩeʹld kåččad tuu mieʹldd säämas mainsted vuõsskaaunõõttmest, arggpeeiʹvest da juuhlin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tässä ei ole raskasta kielioppia, vain muutamia hyödyllisiä sanontoja.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Täʹst ij leäkku loʹsses ǩiõllmätt, tåʹlǩ måtam särnnamnääʹl. De ij ko mainsted!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sitten ei muuta kuin puhumaan!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹnnǩeerjaž lij rajjum “Sámás muinna” -kampaanj õhttvuõđâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanakirjanen on laadittu “Sámás muinna” -kampanjan yhteydessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Buorre beaivi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää päivää!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Pyeri peivi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Buorre beaivi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tiõrv! Hyvää päivää!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pyeri peivi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mo manná?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiõrv! Miten menee?</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Maht mana?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mo manná?</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mäʹhtt mâânn?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maht mana?</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Miten menee? Tiõrvtõõzz sääʹmǩiõlin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mäʹhtt mâânn?</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Naʹzvaanpeiʹvv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervehdyksiä saamen kielillä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Ustibabeaivi / Ustitbeaivi Aanarsääʹmm: Ustevpeivi Nuõrttsääʹmm: Naʹzvaanpeiʹvv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ystävänpäivä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hyvää ystävänpäivää!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Ustibabeaivi / Ustitbeaivi Inarinsaame: Ustevpeivi Koltansaame: Naʹzvaanpeiʹvv</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Buori ustibabeaivvi/ Buori ustitvuođabeaivvi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää ystävänpäivää!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanarsääʹmm: Pyeri ustevpeivi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Buori ustibabeaivvi/ Buori ustitvuođabeaivvi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrttsääʹmm: Šiõǥǥ naʹzvaanpeeiʹv!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame: Pyeri ustevpeivi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Toivotan hyvää ystävänpäivää kaikille!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaame: Šiõǥǥ naʹzvaanpeiʹvv!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Sávan buori ustibabeaivvi buohkaide!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toivotan hyvää ystävänpäivää kaikille!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanarsääʹmm: Tuáivum šiev ustevpeeivi puohháid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Sávan buori ustibabeaivvi buohkaide!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrttsääʹmm: Tuäivtam šiõǥǥ naʹzvaanpeeiʹv pukid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame: Tuáivum šiev ustevpeeivi puohháid!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hyvää juhannusta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaame: Tuäivtam pukid šiõǥǥ naʹzvaanpeeiʹv!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Buriid mihcamáraid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää juhannusta!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>/ Buori jonssoha!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Buriid mihcamáraid!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanarsääʹmm: Pyeri jonsahpeivi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>/ Buori jonssoha!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrttsääʹmm: Šiõǥǥ evvanpeeiʹv!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame: Pyeri jonsahpeivi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hyvää kesää kaikille!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaame: Šiõǥǥ evvanpeeiʹv!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Buori geasi buohkaide!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää kesää kaikille!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanarsääʹmm: Pyeri keesi puohháid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Buori geasi buohkaide!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrttsääʹmm: Šiõǥǥ ǩieʹzz pukid!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame: Pyeri keesi puohháid!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hyvää itsenäisyyspäivää!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaame: Šiõǥǥ ǩieʹss pukid!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Buori iehčanasvuođabeaivvi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää itsenäisyyspäivää!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanarsääʹmm: Šiev jiečânâsvuođâpeivi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Buori iehčanasvuođabeaivvi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrttsääʹmm: Šiõǥǥ jiõččnažvuõttpeeiʹv!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame: Šiev jiečânâsvuođâpeivi!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hyvää joulua ja onnellista uutta vuotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaame: Šiõǥǥ jiõččnažvuõttpeiʹvv!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Buriid juovllaid ja lihkolaš ođđa jagi Aanarsääʹmm: Pyereh juovlah já luholâš uđđâ ihe Nuõrttsääʹmm: Šiõǥǥ rosttvid da leklvaž ođđ eeʹjj!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää joulua ja onnellista uutta vuotta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Saaʹmi meersažpeeiʹv tiõrvtõs 6.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Buriid juovllaid ja lihkolaš ođđa jagi Inarinsaame: Pyereh juovlah já luholâš uđđâ ihe Koltansaame: Šiõǥǥ rosttvid da leklvaž ođđ eeʹǩǩ!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hyvää saamelaisten kansallispäivää kaikille</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kansallispäivän tervehdys 6.2.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Buori sámi álbmotbeaivvi buohkaide Aanarsääʹmm: Pyeri säämi aalmugpeivi puohháid Nuõrttsääʹmm: Šiõǥǥ saaʹmi meersažpeeiʹv pukid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää saamelaisten kansallispäivää kaikille</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Saamelaisten kansallispäivä 6.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Buori sámi álbmotbeaivvi buohkaide Inarinsaame: Pyeri säämi aalmugpeivi puohháid Koltansaame: Šiõǥǥ saaʹmi meersažpeiʹvv pukid</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Sámi álbmotbeaivi Aanarsääʹmm: Säämi aalmugpeivi Nuõrttsääʹmm: Saaʹmi meersažpeiʹvv Ruõcc: Samiska nationaldagen Eŋgglõs: Sámi National Day</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kansallispäivä 6.2.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tiõrvtõõzz čõhččmannu 26. peeiʹv Euroopp ǩiõli eeʹjj peiʹvven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Sámi álbmotbeaivi Inarinsaame: Säämi aalmugpeivi Koltansaame: Saaʹmi meersažpeiʹvv Ruotsi: Samiska nationaldagen Englanti: Sámi National Day</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>syyskuuta on Euroopan kielten päivä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervehdykset 26. syyskuuta Euroopan kielten päivänä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: 26. beaivi čakčamánu lea Eurohpá gielaid beaivi Aanarsääʹmm: 26. čohčâmáánu lii Euroopkielâi peivi Nuõrttsääʹmm: Čõhččmannu 26. peeiʹv lij Euroopp ǩiõli peiʹvv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>26. syyskuuta on Euroopan kielten päivä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hyvää Euroopan kielten päivää</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: 26. beaivi čakčamánu lea Eurohpá gielaid beaivi Inarinsaame: 26. čohčâmáánu lii Euroopkielâi peivi Koltansaame: Čõhččmannu 26. peeiʹv lij Euroopp ǩiõli peiʹvv</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm: Buori Eurohpá gielaid beaivvi Aanarsääʹmm: Pyeri Euroopkielâi peivi Nuõrttsääʹmm: Šiõǥǥ Euroopp ǩiõli peeiʹv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyvää Euroopan kielten päivää</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame: Buori Eurohpá gielaid beaivvi Inarinsaame: Pyeri Euroopkielâi peivi Koltansaame: Šiõǥǥ Euroop ǩiõli peeiʹv</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Euroopp suåvtõõzz aalǥtõõzzâst Euroopp ǩiõli peiʹvv lij prääzkjum eeʹjjest 2001 ääʹljeeʹl juõʹǩǩ eeʹjj čõhččmannu 26. peeiʹv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>http://edl.ecml.at/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan neuvoston aloitteesta Euroopan kielten päivä on juhlittu vuodesta 2001 lähtien joka vuosi syyskuun 26. päivänä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jaa tämä kirjoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>http://edl.ecml.at/</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Share on Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jaa tämä kirjoitus</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Share on Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Share on Facebook</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Share on WhatsApp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Share on Twitter</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Share by Mail</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

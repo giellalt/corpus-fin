@@ -1,0 +1,111 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=158_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgielat oahppamateriálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame, äidinkieli</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiella eatnigiellan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame vieraana kielenä</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiella vieris giellan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Girjjálašvuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame, sanakirjat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Anárašgiella, sátnegirjjit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lastenkirjat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mánáidgirjjit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matematiikka</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Matematihkka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luonto ja ympäristö</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Luondu ja biras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Biologia ja maantieto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Biologiija ja eatnandiehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maantieto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>EatnandiehtuOskkoldatDuodjiEará materiálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uskonto</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eatnandiehtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käsityöt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oskkoldat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muu materiaali</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Duodji</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,223 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kaannospalvelut.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käännöspalvelut</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårǥlâʹttemkääzzkõõzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kielitoimisto ja käännöstoiminta on kiinni 10.-31.7.2023 välisen ajan.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ ǩiõllkoontâr da jåårǥlâʹttemtåimmjummuš lij ǩidd 10.-31.7.2023 kõskksaž ääiʹj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palaamme tilauksiin jälleen 1.8.2023 alkaen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mäʹccep tiʹllʼjõõzzid âʹpet 1.8.2023 ääʹljeeʹl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mikäli tarvitsette käännöksiä käännöspalvelun ollessa kiinni, löytyy freelance-kääntäjien yhteystietoja Saamelaiskäräjien kääntäjä- ja tulkkihakupalvelusta .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs taarbšeʹped jåårǥlõõzzid tâʹl, ǥu ǩiõllkonttâr jåårǥlâʹttemkääzzkõs lij ǩidd, käunnʼje freelance-jåårǥlõõʹttji õhttvuõđteâđ Sääʹmteeʹǧǧ jåårǥlõʹtti- da tulkkooccâmkääzzkõõzzâst .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston kielenkääntäjät auttavat tarvittaessa viranomaisten kanssa asioinnissa tarvittavien saamenkielisten asiakirjojen kääntämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl konttâr ǩiõlljåårǥlõõʹtti veäʹǩǩte taarbšeʹmmen veʹrǧǧniiʹǩǩivuiʹm äʹššummšest taarbšum sääʹmǩiõllsaž äʹššǩiiʹrji jåårǥlâʹttmest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimisto ei järjestä tulkkauspalveluita, mutta henkilökunta voi auttaa tulkkien löytämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl koontâr ij riâšš tuʹlǩǩeemkääzzkõõzzid, leša tuâjjlažkåʹdd vuäitt veäʹǩǩted tuulki kaunnmest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen tulkkeja voi etsiä Saamelaiskäräjien ylläpitämästä freelancer kääntäjien ja tulkkien listasta .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl tuulkid vuäitt ooccâd Sääʹmteeʹǧǧ tuõʹllʼjam freelancer jåårǥlõʹttji da tuulki liistâst .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohje käännösten tilaamiseksi saamen kielen toimistosta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuäppõõzz jåårǥlâʹttemtuâjai tiʹllʼjem vääras sääʹmǩiõl konttrest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käännöksen tilaamista varten tulee rekisteröityä/kirjautua Lingsom-palveluun .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårǥlâʹttemtuâj tiʹllʼjem vääras âlgg rekisterõõttâd/ǩeeʹrjtõõttâd Lingsom-kääzzkõʹsse .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pyydämme toimittamaan palvelun kautta lähtotekstin aina word-tiedostona.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Raukkâp tååimted kääzzkõõzz pääiʹǩ vueʹlǧǧemteeʹkst pâi word-teâttõssân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntäjät eivät tee tekstinkäsittelyä tilaajan puolesta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårǥlõõʹtti jiâ tueʹjjed teʹksttǩiõttʼtõõllmõõžžid tiʹllʼjeei peäʹlest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huomioithan, että Lingsom-järjestelmän automaattisähköpostit voivat ajautua roskapostiin.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vääʹld lokku, što Lingsom-riâžldõõǥǥ automattneʹttpååʹšt vueiʹtte mõõnnâd roskkpååšta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit estää tämän merkitsemällä Lingsomin turvalliseksi lähettäjäksi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuäitak cõggâd tän mieʹrǩǩeeʹl Lingsom staani vuõltteeʹjen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja antaa käännöstoiminnan koordinoinnista vastaava Tanja Kyrö puh. 040 676 6426, sähköposti: tanja.kyro@samediggi.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđaid õudd jåårǥlâʹttemtåimmjummuž koordinâsttmõõžžâst vaʹstteei Tanja Kyrö teʹl. 040 676 6426, neʹttpååʹšt: tanja.kyro@samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos Saamelaiskäräjien käännöstoimisto ei voi ottaa vastaa käännöstilausta, voit hakea freelancer-kääntäjiä Saamelaiskäräjien kääntäjien ja tulkkien listasta .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs Sääʹmteeʹǧǧ jåårǥlâʹttemkoontâr ij vueiʹt väʹldded vuâstta jåårǥlâʹttemtiʹllʼjõõzz, vuäitak kõõččâd freelancer-jåårǥlõõʹttjin Sääʹmteeʹǧǧ jåårǥlõõʹtti ja tuulki liistâst .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oletko epävarma saamen kielilain säädöksistä tai velvotteista?</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Leäk-a snäätnteʹmes sääʹm ǩiõll-lääʹjj šiõttõõzzin leʹbe õõlǥtõõzzin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkista täältä: https://www.finlex.fi/fi/laki/ajantasa/2003/20031086 tai ota yhteyttä Saamelaiskäräjien saamen kielen toimistoon .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tääʹrǩest tääiʹben: https://www.finlex.fi/fi/laki/ajantasa/2003/20031086 leʹbe vääʹld õhttvuõđ Sääʹmteeʹǧǧ sääʹmǩiõl konttra .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliturvasihteeri neuvoo ja ohjeistaa saamen kielilaista.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹm ǩiõllstaanpiisar vuäʹppast da raʹvvai sääʹm ǩiõll-lääʹjjest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hinnat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hââʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien käännöksien hinnat 1.2.2020 alkaen:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ jåårǥlõõzzi hââʹdd 1.5.2017 ääʹljeeʹl:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston antamasta käännöksestä peritään palkkiota kieliparista suomi – saame (pohjoissaame, inarinsaame tai koltansaame) taikka päinvastoin 85 euroa/sivu ja sivulla 1 560 merkkiä välilyönteineen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl konttâr ouddam jåårǥlõõzzâst peʹrrjet paʹlǩǩõõzz ǩiõllpaarâst lääʹdd – sääʹmm (tâʹvvsääʹmm, aanarsääʹmm leʹbe nuõrttsääʹmm) leʹbe nuʹbiooʹri 80 euʹrred/seidd da seeidast 2000 mieʹrǩǩed, ij âânn seʹst kõskkmiârkid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos käännettävä teksti on tavanomaista vaikeampi, käännöspalkkiota voidaan periä enintään 50 %:lla korotettuna samoin kuin kiireellisen työn käännöspalkkiota voidaan korottaa enintään 50%:lla.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs jåårǥlõttum teʹkstt lij takai vaiggääb, jåårǥlâʹttempaʹlǩǩõõzz vueiʹtet peʹrrjet jäänmõsân 50 % ââʹlummšin, seämmanalla ko ǩirrlâž tuâj jåårǥlâʹttempaʹlǩǩõõzz vueiʹtet ââʹleed jäänmõsân 50 %:in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos käännös sisältää päivittämistä olemassa olevaan käännökseen voidaan vastaavasti hinnasta vähentää 50 % tai käyttää vähimmäisveloitusta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jeeʹres ǩiõlʼlaž kääzzkõõzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käännöksien vähimmäisveloitus on 25 euroa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl konttâr ouddam jeeʹres ǩiõlʼlaž kääzzkõõzzin, teeʹkst taaʹrǩstummšest da tuʹlǩǩeemkääzzkõõzzin peʹrrjet 70 euʹrred juõʹǩǩ aʹlǧǧi čiâssâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut kielelliset palvelut</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuʹlǩǩõs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston antamista muista kielellisistä palveluista, tekstin tarkistamisesta ja tulkkauspalveluista peritään 70 euroa jokaiselta alkavalta tunnilta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl koontâr ij riâšš tuʹlǩǩeemkääzzkõõzzid, leša tuâjjlažkåʹdd vuäitt veäʹǩǩted tuulki kaunnmest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaus</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl tuulkid vuäitt ooccâd Sääʹmteeʹǧǧ jåårǥlõʹttji da tuulki liistâst.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

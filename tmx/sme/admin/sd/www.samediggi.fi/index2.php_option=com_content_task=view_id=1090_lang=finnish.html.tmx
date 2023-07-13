@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=1090_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki čállingoddi lea gitta 6.-31.7.2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien sihteeristö on suljettu 6.-31.7.2015 välisen ajan.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki čállingoddi lea gitta 6.-31.7.2015.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hallintopäällikön kesäloman sijaisena 1.-31.7.2015 toimii vs. lakimiessihteeri Kalle Varis, puh. 010 8393 187, gsm. 050 384 70 40.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Hálddahushoavdda geasseluomu sadjásažžan 1.-31.7.2015 bargá vs. láhkačálli Kalle Varis, tel. 010 8393 187, gsm. 050 384 70 40.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

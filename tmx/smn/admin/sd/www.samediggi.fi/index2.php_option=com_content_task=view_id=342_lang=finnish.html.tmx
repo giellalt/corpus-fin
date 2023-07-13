@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=342_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen pohjoissaamenkielinen koulukartasto ilmestyi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuossâmuš tavesämikielâlâš škoovlâ kárttákirje almostui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen saamenkielinen koulukartasto on ilmestynyt.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuossâmuš tavesämikielâlâš kárttáčuágáldâh škoovlâi várás lii almostum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>´Skuvlla kártagirji´ on oppilaan peruskartasto ja se sisältää tietoa Suomesta, Pohjoismaista ja eri maanosista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>´Skuvlla kártagirji´ lii uáppee vuáđučuágáldâh já tast kávnojeh tiäđuh Suomâst, Tave-enâmijn já sierâsnâs eennâmoosijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kartasto sisältää myös luettelon itsenäisistä valtioista lippuineen ja saamenkielisen hakemiston.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Káártái lasseen kirjeest lii luvâttâllâm jiečânâs staatâin oovtâst jieijâs lipuiguin já tavesämikielâlâš usâttâh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lue lisää</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luuvâ lase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tästä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>täst.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

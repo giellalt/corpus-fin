@@ -1,0 +1,15 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=238_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sámi vuohki ?</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säämi vyehi?</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">poytakirjojen_nahtavillapito.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirjojen nähtävilläpito</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beavdegirjjiid oaidninláhkai doallan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien työjärjestyksen 64 §:n mukaan Saamelaiskäräjien kokouksen ja hallituksen pöytäkirjat siihen liitettyvine valitusosoituksineen pidetään tarkastamisen jälkeen yleisesti nähtävänä siten kuin siitä ennakolta on ilmoitettu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki bargoortnega 64 §:a mielde Sámedikki čoahkkima ja stivrra beavdegirjjit dasa laktojuvvon váidalančujuhusain dollojuvvojit dárkkisteami maŋŋá almmolaččat oaidninláhkai nu mo das lea ovddalgihtii almmuhuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muun toimielimen pöytäkirjan nähtävillä olosta päättää asianomainen toimielin itse.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eará doaibmaorgána beavdegirjji oaidninláhkai doallamis mearrida áššáigullevaš doaibmaorgána ieš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pöytäkirja pidetään yleisesti nähtävänä Saamelaiskäräjien verkkosivuilla osoitteessa www.samediggi.fi vähintään pöytäkirjan valitusajan, jollei salassapitoa koskevista säännöksistä muuta johdu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Beavdegirji dollojuvvo almmolaččat oaidninláhkai Sámedikki neahttasiidduin čujuhusas www.samediggi.fi uhcimustá beavdegirjji váidalanáigge, juos ii čiegusindoallama guoski njuolggadusain eará čuovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousasiakirjat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkimat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitusosoitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Váidalančujuhus</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

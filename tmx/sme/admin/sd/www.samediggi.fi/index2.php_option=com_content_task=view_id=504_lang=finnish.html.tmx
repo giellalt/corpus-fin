@@ -1,0 +1,47 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=504_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaalien 2011 ehdokasasettelu on päättynyt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki válggaid 2011 evttohasásaheapmi lea nohkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaalit toimitetaan 5.9. - 3.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki válggat doaimmahuvvojit 5.9. - 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10.2011.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10.2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalilautakunta on laatinut vaalikelpoisista ehdokkaista ehdokasluettelon.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Válgalávdegoddi lea ráhkadan válgadohkálaš evttohasain evttohaslogahallama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdokkaita on yhteensä 40. Ehdokasluettelo 2011</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Evttohasat leat oktiibuot 40. Evttohaslogahallan 2011</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,255 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">laskutusosoite.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laskutus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Rekigistem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien toiminta on valtionavustuksilla rahoitettua yleishyödyllistä toimintaa, joka pääosin ei ole liiketaloudellista toimintaa ja näin ollen on arvonlisäverotonta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uásturekigeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ainoastaan Saamelaiskulttuurikeskus Sajoksen toiminta on arvonlisäverollista.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Viermirekigistem teknisiih tiäđuh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ostolaskut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nommâ: Samediggi/Saamelaiskäräjät Y-tubdâldâh:1052535-3 Viermireekkigčujottâs:003710525353 Sirdee tubdâldâh:003708599126 Sirdee: Liaison Technologies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Verkkolaskutuksen tekniset tiedot</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keevti rekigij sirdemân paajaabeln mainâšum viermireekkigčujottâs já sirdee tubdâlduv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nimi: Samediggi/Saamelaiskäräjät Y-tunnus: 1052535-3 Verkkolaskuosoite: 003710525353 Välittäjän tunnus: 003708599126 Välittäjä: Liaison Technologies</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uásturekigeh šleđgâpoostâ peht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käytä laskujen reititykseen yllä mainittua verkkolaskuosoitetta ja välittäjän tunnusta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puávtáh vuolgâttiđ reekkig meid PDF-häämist šleđgâpoostâ peht čujottâsân: fennoa.FI.P.124808-7(at)docinbound.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ostolaskut sähköpostitse</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vuolgât reekkig šleđgâpoostâ labdostiätuvuárkkán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laskun voi lähettää myös PDF-muodossa sähköpostilla osoitteeseen: fennoa.FI.P.124808-7(at)docinbound.com</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Puávtáh vuolgâttiđ maaŋgâid rekigijd oovtâ šleđgâpostâviestâst, mutâ jyehi reekkig ferttee leđe sierâ tiätuvuárkkán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasku lähetetään sähköpostin liitetiedostona.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jyehi tiätuvuárhást ferttee leđe eres nommâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit lähettää useita laskuja yhdessä sähköpostiviestissä, kunhan jokainen lasku on erillisenä liitetiedostona.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Labde reekkig labdosijd siämmáá pdf-tiätuvuárkkán jieš rekigáin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaikilla tiedostoilla tulee olla eri nimi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ele lukkâd teikkâ suoijii PDF-tiätuvuárháid syelisaanijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laskun liitteiden tulee olla liitettynä samaan pdf-tiedostoon itse laskun kanssa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Labdos noomâ meerhah pyehtih leđe táválâš čäällimmeerhah, a-z, A-Z, 0-9. Ele keevti eromâšmeerhâid, ko adelah noomâ labdosijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>PDF-tiedostot eivät saa olla lukittuja tai salasanalla suojattuja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Reekkig pävirin poostâ peht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liitteen nimen sallitut merkit ovat tavallisia kirjoitusmerkkejä, a-z, A-Z, 0-9. Älä käytä erikoismerkkejä liitteiden nimeämiseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jis jieh pyevti toimâttiđ reekkig šleđgâpoostâ peht, te puávtáh vuolgâttiđ tom poostâ peht čujottâsân: Sämitigge/Saamelaiskäräjät, PL 57273, 01051 LASKUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lasku paperina postitse</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pälkki- já mätkirekigijd irâttâsâin (main lii y-tubdâldâh) puáhtá vuolgâttiđ šleđgâlávt viermirekigin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos et pysty toimittamaan laskua sähköpostitse, voit toimittaa sen paperilaskuna osoitteeseen: Samediggi/Saamelaiskäräjät, PL 57273, 01051 LASKUT</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasetiäđuh viermirekigistmist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkkio- ja matkalaskut yrityksiltä (joilla on y-tunnus) voi lähettää sähköisesti verkkolaskuna.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Irmeli Moilanen Sämitigge/Saamelaiskäräjät irmeli.moilanen(at)samediggi.fi +358 10 839 3130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja verkkolaskutuksesta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pälkki- já mätkirekigeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Laila Aikio Samediggi/Saamelaiskäräjät laila.aikio(at)samediggi.fi +358 10 839 3178</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Pälkki- já mätkirekigeh y-tubdâlduvttáá ráhtojeh Sämitiigán M2-mätkireekkigohjelm peht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkkio- ja matkalaskut</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Uážuh tärhibijd ravvuid tuu ohtâvuotâulmust Sämitiggeest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilman y-tunnusta palkkio- ja matkalaskut tehdään Saamelaiskäräjille M2-matkalaskuohjelman kautta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Päälhi- já máávsu-uážžoo persovntiätuluámáttuv puáhtá tevdiđ šleđgâlâžžân čujottâsâst:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saat tarkemmat ohjeet yhteyshenkilöltäsi Saamelaiskäräjiltä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>https://www.samediggi.fi/persontiatualmottaas/?lang=an</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit lähettää suojatun sähköpostin Saamelaiskäräjien taloustoimistoon talous(at)samediggi.fi seuraavan osoitteen kautta: https://secmail.com/send/vMJaNprX</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tun puávtáh vuolgâttiđ syeijejum šleđgâpoostâ Sämitige ruttâtuálutoimâttâhân talous(at)samediggi.fi čuávuváá čujottâs peht: https://secmail.com/send/vMJaNprX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suojatulla sähköpostilla voit lähettää esimerkiksi henkilötietolomakkeen tai verokortin turvallisesti.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Syeijejum šleđgâpoostâ peht tun puávtáh vuolgâttiđ ovdâmerkkân persovntiätuluámáttuv tâi viärukoortâ torvolávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilötietolomake</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Persovntiätuluámáttâh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien palkkiosääntö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige pälkkinjuolgâdus (suomâkielân)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtion matkustussääntö 2022</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Staatâ mađhâšemnjuolgâdus 2022 (suomâkielân)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Palkan- ja palkkionsaajan henkilötietolomakkeen voi täyttää sähköisenä osoitteessa: https://www.samediggi.fi/henkilotietoilmoitus/</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Persovntiäđui kieđâvuššâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköisen lomakkeen kautta voit lähettää myös verokortin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Persovn- já pargokoskâvuotâtiäđui paijeentoollâm lii uási ruttâtuálutooimâ päälhirekinistemproosees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Henkilötietojen käsittely</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almotteijest lii vuoigâdvuotâ tärhistiđ jieijâs kyeskee tiäđuid.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=176_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuortalašgielat oahppamateriálat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamenkieli</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuortalašgiella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamenkielen opetus, oheismateriaali</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Nuortalašgiela oahpahus, lassemateriála</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Muut</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Earát</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

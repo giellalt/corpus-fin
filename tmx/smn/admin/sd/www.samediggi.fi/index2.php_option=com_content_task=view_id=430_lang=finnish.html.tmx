@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=430_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kulttuuriavustusten hakeminen 2011</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige kulttuurtorjui uuccâm 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät julistaa saamenkielisen kulttuurin edistämiseen ja saamelaisjärjetöjen toimintaan osoitetusta määrärahasta (Saamelainen kulttuurimääräraha) myönnettävät avustukset haettaviksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitigge almoot uuccâmnáál torjuid, moh mieđettuvvojeh sämikielâlâš kulttuur oovdedmân já sämiseervij tooimân čujottum meriruuđâst (Säämi kulttuurmeriruttâ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso ilmoitus, lomakkeet ja hakuohjeet.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Keejâ almottâs, luámáttuvah já uuccâmravvuuh.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

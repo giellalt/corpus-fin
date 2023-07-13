@@ -1,0 +1,247 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">saamelaiskarajien_vaalien_aantenlaskenta.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien vaalien ääntenlaskenta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämitige vaaljâi jienâirekinistem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalilautakunta aloittaa ääntenlaskennan vaalitoimituksen jälkeisenä maanantaina 2.10.2023 kello 18 Sajoksessa Inarissa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Valjâlävdikodde aalgât jienâirekinistem valjâtoimâttâs maŋa vuossaargâ 2.10.2023 tijme 18 Sajosist Anarist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ääntenlaskennan aloittamisen jälkeen saapuneet lähetekuoret jätetään avaamattomina huomioon ottamatta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâirekinistem maŋa puáttám vuolgâttâskovertijd kyeđih leehâsthánnáá já huámmášumán väldihánnáá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Toimituksessa pidetään pöytäkirjaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toimâttâsâst tuálloo pevdikirje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valitsijayhdistyksen asiamiehellä tai vara-asiamiehellä on oikeus olla läsnä ääntenlaskennassa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Väljejeijeeseervi äššiulmust tâi väriäššiulmust lii vuoigâdvuotâ leđe mieldi jienâirekinistmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Merkintä vaaliluetteloon</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Merkkim valjâluvâttâlmân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ääntenlaskenta aloitetaan avaamalla kaikki postin välityksellä määräajassa saapuneet ja vaalilautakunnan toimistoon palautetut palautuskuoret.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâirekinistem algâttuvvoo tienuuvt, ete lehâsteh puoh poostâ peht meriääigi siste puáttám já valjâlävdikode toimâttâhân macâttum macâttemkovertijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaalilautakunta merkitsee kaikki äänestäneet lähetekirjeen mukaisesti vaaliluetteloon.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Valjâlävdikodde merkkee puoh ulmuid, kiäh láá jienâstâm, vuolgâttâskooveert miäldásávt valjâluvâttâlmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestys on jätettävä huomioon ottamatta:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâstem kalga kyeđđiđ huámmášumán väldihánnáá:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1) jos äänestänyttä henkilöä ei ole merkitty vaaliluetteloon äänioikeutetuksi tai jos käy ilmi, että hän on kuollut ennen vaalitoimituksen aloittamista;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1) jis jienâstâm olmooš ij lah merkkejum valjâluvâttâlmân jienâvuoigâdvuođâlâžžân tâi jis itá, ete sun lii jáámmám ovdil valjâtoimâttâs algâttem;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2) jos lähetekirje on niin puutteellinen, ettei varmasti voida todeta, kuka henkilö on äänestänyt;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2) jis vuolgâttâsreivâ lii nuuvt vááijuvlâš, ete ij vissásávt pyevti pahudiđ, ete kii lii jienâstâm;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tai</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>tâi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3) jos vaalikuoreen on tehty äänestäjää tai ehdokasta koskeva tai muu asiaton merkintä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3) jis valjâkovertân lii rahtum jienâsteijei tâi iävtukkâsân kyeskee tâi eres äšittes merkkim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun kaikki äänestäneet on merkitty vaaliluetteloon ja äänestyksessä huomioon ottamatta jätetyt vaalikuoret lähetekuorissaan on erotettu erilleen hyväksytyistä, pannaan hyväksytyt vaalikuoret avaamattomina vaaliuurnaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko puoh jienâstâm ulmuuh láá merkkejum valjâluvâttâlmân já jienâstmist huámmášumán väldihánnáá kuođđum valjâkoverteh vuolgâttâskovertijguin láá sierrejum tuhhiittum kovertijn, te tuhhiittum valjâkoverteh piäijojeh leehâsthánnáá valjâuurnán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyslippujen ryhmittely</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâstemliipui jyehim juávhoid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun kaikki hyväksytyt vaalikuoret ovat vaaliuurnassa, avataan kaikki vaaliuurnat ja vaalikuoret.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ko puoh tuhhiittum valjâkoverteh láá valjâurnáást, te lehâsteh puoh valjâurnáid já valjâkovertijd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänten laskemiseksi äänestysliput ryhmitellään siten, että kunkin ehdokkaan hyväksi annetut äänet ovat omana ryhmänään.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâi rekinistem várás jienâstemliipuh juáhhojeh juávhoid tienuuvt, ete jieškote-uv iävtukkâs pyerrin adelum jienah láá jieijâs juávkkun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitättömät äänestysliput erotetaan omaksi ryhmäkseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Hilgum jienâstemliipuh sierrejuvvojeh jieijâs juávkkun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kussakin ryhmässä olevien äänestyslippujen lukumäärä lasketaan.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jieškote-uv juávhust orroo jienâstemliipui lohomeeri rekinistoo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ääntenlaskennasta pidetään erillistä pöytäkirjaa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâirekinistmist tuálloo sierâ pevdikirje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyslipun mitättömyys</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâstemliipu hilgom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Äänestyslippu on mitätön:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Jienâstemlippu lii hilgum:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1) jos vaalikuoressa on muutakin kuin yksi äänestyslippu;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>1) jis valjâkovertist lii eres-uv ko ohtâ jienâstemlippu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2) jos äänestys on jätetty huomioon ottamatta 35 §:ssä säädetyllä perusteella;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>2) jis jienâstem lii kuođđum huámmášumán väldihánnáá 35 §:st asâttum vuáđustâssáin;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3) jos äänestyslippuna on käytetty muuta kuin vaalilautakunnan painattamaa leimattua äänestyslippua;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>3) jis jienâstemlippun lii kevttum eres ko valjâlävdikode teddilem stemppâlistum jienâstemlippu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4) jos ehdokkaan numero on merkitty siten, että ei selvästi ilmene kenelle ääni on tarkoitettu;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>4) jis iävtukkâs nummeer lii merkkejum tienuuvt, ete ij čielgâsávt uáini ete kiäs jienâ lii uáivildum;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ja</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>já</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5) jos äänestyslippuun on kirjoitettu äänestäjän nimi tai siihen on tehty erityinen tuntomerkki tai muu asiaton merkintä;</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>5) jis jienâstemliipun lii čallum jienâsteijee nommâ tâi toos lii rahtum eromâš tobdomerkkâ tâi eres äšittes merkkim;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>asiattomana ei pidetä merkintää, joka ainoastaan selventää, ketä ehdokasta äänestäjä on tahtonut äänestää.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>äšitteemmin ij annoo merkkim, mii tuše čielgâsmit, ete mon iävtukkâs jienâsteijee lii halijdâm jienâstiđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähde: Laki saamelaiskäräjistä 17.7.1995/974</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Käldee: Laahâ sämitiggeest 17.7.1995/974</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

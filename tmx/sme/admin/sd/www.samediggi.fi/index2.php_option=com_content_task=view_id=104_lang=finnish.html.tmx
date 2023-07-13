@@ -1,0 +1,47 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=104_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskulttuurikeskuksen arkkitehtuurikilpailu käynnistynyt</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Arkitektuvragilvvu Sámekulturguovddáža plánemis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Senaatti-kiinteistöt järjestää yleisen, kaksivaiheisen arkkitehtuurikilpailun Saamelaiskulttuurikeskuksen suunnittelusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Senáhtta-giddodagat ordne almmolaš, guovtteoasát arkitektuvragilvvu Sámekulturguovddáža plánemis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen vaihe alkaa 14.4.2008 ja päättyy 30.6.2008.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuosttas muddu álgá 14.4.2008 ja nohká 30.6. 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailun toinen vaihe alkaa 1.9.2008 ja päättyy 3.10.2008.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gilvvu nubbi muddu álgá 1.9.2008 ja nohká 3.10.2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kilpailuohjelman liitteineen löydät täältä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Loga eambbo...</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

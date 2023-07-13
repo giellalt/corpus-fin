@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">uusi_koltansaamenkielinen_oppikirja_on_ilmestynyt.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi koltansaamenkielinen oppikirja on ilmestynyt</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ođđ nuõrttsääʹmǩiõllsaž mättǩeʹrjj lij õlmstõttum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutus- ja oppimateriaalitoimisto on julkaissut uuden koltansaamenkielisen 2. luokan oppikirjan.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Škooultõs -da mättmateriaalkoontâr lij õlmstâttam ođđ nuõrttsääʹmǩiõllsa 2. klaass mättʹǩeerj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oppikirja on koltansaamen kieleen käännetty pohjoissaamen kielen GEA 2 -kirjasta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõčč 2 Kåʹllmeäʹcc Mättǩeʹrjj lij vuõssmättʼtõõzz nuuʹbb klaass veeʹresǩiõl lookkji mättʼtõʹsse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjan tekijät ovat Oona Länsman, kuvituksen tekijä Nora Bäck, taitto Katja Lettinen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mättǩeʹrjj lij nuõrttsääʹmǩiõʹlle jåårǥlõttum da čiõttʼtõllum tâʹvvsäämǩiõllsaž GEA 2 -ǩeeʹrj vuâđald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamen kielelle oppikirjan on kääntänyt Raija Lehtola.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩeʹrjjraalij liâ Oona Länsman, kaartid lij pirstam Nora Bäck, tuäjjam Katja Lettinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjoja voi tilata Saamelaiskäräjien verkkokaupasta: ǨIÕČČ 2 Kåʹllmeäʹcc mättǩeʹrjj .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrttsääʹmǩiõʹlle ǩeeʹrj lij čiõttääm da jåårǥlâttam Raija Lehtola.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

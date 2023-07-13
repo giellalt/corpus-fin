@@ -1,0 +1,319 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">ilmoittaudu_videoiden_editointi_koulutuksiin.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittaudu videoiden editointi koulutuksiin</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almottât videoi editistem škovliittâssáid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huomio: videoiden viimeinen palautuspäivä on siirretty 10.5. asti!</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Huámmáš: videoi majemuš macâttempeivi lii sirdum 10.5. räi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuma järjestää yhteistyössä Arktista pedagogiikkaa II -hankkeen kanssa avoimia etäkoulutuksia videoiden editoimisesta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säminuorâi taaiđâtábáhtus uárnee oovtâstpargoost Arktâsâš pedagogiik II -havváin ávus káidusškovliittâsâid videoi editistmist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisäksi olemme tuottaneet ohjeistuksen videoiden suunnitteluun ja toteuttamiseen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Toos lasseen mij lep pyevtittâm ravvuid videoi vuáváámân já olášutmân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järjestämme kaksi etäkoulutusta, minkä lisäksi koulutuksien tallenteet on mahdollista katsoa jälkikäteen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mij ornip kyehti káidusškovliittâs, mon lasseen lii máhđulâš keččâđ vyerkkejum škovliittâsâid maŋeláá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Linkin tallenteisiin saa koulutusten jälkeen taidetapahtumatyöntekijältä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Liiŋkâ vuárháid finnee škovliittâsâi maŋa taaiđâtábáhtuspargest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hankkeen työntekijät tarjoavat teknistä tukea ohjelmien käytöstä myös koulutusten jälkeen.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Haavâ pargeeh fäälih teknisii torjuu ohjelmij kiävtust meid škovliittâsâi maŋa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järjestämme koulutusta kahdesta järjestelmästä: Windows 10:n videoiden editointiohjelmasta sekä puhelimelle ladattavasti FilmoraGo:sta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mij ornip škovliittâs kyevti vuáháduvâst: Windows 10 videoi editistemohjelmist sehe puhelimân luođimnáál FilmoraGo:st.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>FilmoraGo on sopiva niin Androidille ja iOS:lle.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>FilmoraGo heivee sehe Androidân já iOS:ân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutukset järjestetään suomeksi.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Škovliittâsah uárnejuvvojeh suomâkielân.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Molemmat koulutukset alkavat kello 12.30 ja loppuvat kello 14.00.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kuohtuuh škovliittâsah älgih tme 12.30 já noheh tme 14.00.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Välissä pidetään 15min tauko.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kooskâst lii 15 min puddâ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutusten sisältö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Škovliittâsâi siskáldâs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alku- ja lopputekstien lisääminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Algâ- já loppâteevstâi lasettem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Videon rajaaminen ja leikkaaminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Videoi raijim já čuoppâm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Taustamusiikin, kuvatekstien ja muiden tehosteiden lisääminen</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tuáváášmuusik, koveteevstâi já eres pehtilittei lasettem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Editoidun videon tallennus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Editistum video vuorkkim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>20.4. koulutus Windows 10 järjestelmän videoiden editointiohjelmasta</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>20.4. kovliittâs Windows 10 vuáháduv videoi editistemohjelmist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietoa sovelluksesta: Microsoftin Videoeditori-sovellus on ilmainen Windows-järjestelmän työpöytäsovellus.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tiäđuh heiviittâsâst: Microsoft Videoeditori-heiviittâs lii nuuvtá Windows-vuáháduv pargopevdiheiviittâs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se sopii hyvin aloittelijoille, sillä sen avulla voi helposti ja nopeasti rajata ja leikata videoita, mutta se on editointiominaisuuksiltaan kuitenkin erittäin suppea.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tot heivee pyereest algâttelleid, já ton vievâst puáhtá älkkeht ja jotelávt raijiđ já čuoppâđ videoid, mutâ ton editistemjiešvuođah láá kuittâg kääržih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>27.4. koulutus FilmoraGo editointiohjelmasta (koulutus perustuu Android käyttöjärjestelmään, mutta sovellus löytyy myös iOS-järjestelmälle)</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>27.4. škovliittâs FilmoraGo editistemohjelmist (škovliittâs vuáđđud Android kevttimvuáhádâhân, mutâ heiviittâs kávnoo meid iOS-vuáhádâhân)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietoa sovelluksesta: FilmoraGo on mobiilisovellus, joka on ladattavissa ilmaiseksi Android-mobiililaitteeseen Google Play –kaupasta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tiäđuh heiviittâsâst: FilmoraGo lii moobiilheiviittâs, mon puáhtá luođiđ nuuvtá Android-moobiilpiergâsân Google Play –käävpist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Videoiden kuvaaminen ja editointi on nopeaa ja helppoa, sillä kaikki toiminnot voidaan toteuttaa samalla laitteella.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Videoi kuvvim já editistem lii jotteel já älkkee, tastko puoh tooimâid puáhtá olášuttiđ siämmáin piergâsijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutukset järjestetään Microsoft Teams -sovelluksessa.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Škovliittâsah uárnejuvvojeh Microsoft Teams -heiviittâsâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suosittelemme, että sinulla koulutukseen tullessa valmiiksi kuvattua materiaalia käytettävänä, jotta pystyt tutustumaan ohjelmien ominaisuuksiin käytännössä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Mij avžuuttep, ete tust lii kovvejum materiaal valmâšin, ko puáđáh škovliittâsân, vâi pastah uápásmuđ ohjelmij jiešvuođáid keevâtlávt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varmistathan myös, että tarvittavat ohjelmat ovat asennettuina sekä laitteiden järjestelmäpäivitykset ovat ajan tasalla ennen koulutuksia!</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Visásmit meid, ete tárbuliih ohjelmeh láá stellejum já et piergâsij vuáhádâhpeividmeh láá ääigi tääsist ovdil škovliittâsâi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Videot toimitetaan taidetapahtumatyöryhmälle WeTransfer ohjelmalla ( ohjeet ).</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Videoh toimâttuvvojeh taaiđâtábáhtus pargojuávkun WeTransfer ohjelmijn ( ravvuuh ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoittauduthan koulutuksiin 16.4.2021 mennessä sähköpostitse anni-sofia.niittyvuopio@samediggi.fi tai puhelimitse +358 40 620 1917.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almottât škovliittâssáid 16.4.2021 räi šleđgâpostáin anni-sofia.niittyvuopio@samediggi.fi teikâ puhelimáin +358 40 620 1917.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoita kumpaan koulutukseen ilmoittaudut, yhteystietosi sekä osallistujien määrä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almoot, ete kuábbáá-uv škovliittâsân tun almottâđah, tuu ohtâvuotâtiäđuid sehe uásálistei mere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmoita myös ehdittekö Teamsiin vai tarvitsetteko pelkästään linkin tallenteisiin.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Almoot meid, ete ostâvetteđ-uv Teamsân vâi taarbâšvetteđ-uv tuš liiŋkâ vuárháid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisnuorten taidetapahtuman 2021 ohjeita</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Säminuorâi taaiđâtábáhtus 2021 ravvuuh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja:</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasediäđuh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anni-Sofia Niittyvuopio</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anni-Sofia Niittyvuopio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>anni-sofia.niittyvuopio(at)samediggi.fi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>anni-sofia.niittyvuopio(at)samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>+358 40 620 191</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>+358 40 620 191</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Johanna Laakso</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Johanna Laakso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arktista pedagogiikkaa II, saamelaisopetuksen digiverkosto -hanke</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Arktâsâš pedagogiik II, sämimáttááttâs digiviärmádâh -haahâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>johanna.laakso(at)sogsakk.fi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>johanna.laakso(at)sogsakk.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>+358 40 549 7429</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>+358 40 549 7429</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

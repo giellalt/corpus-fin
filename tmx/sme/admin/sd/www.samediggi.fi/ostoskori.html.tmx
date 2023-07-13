@@ -1,0 +1,87 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">ostoskori.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>OSTOSKORI</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oasttuskore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjatilausten toimitus ajalla 9.6-2.7. sekä 10.-28.7.2023</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Girjediŋgojumiid doaimmaheapmi áigodagas 9.6-2.7. ja 10.-28.7.2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjatilauksia ei toimiteta ajalla 9.6.-2.7.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Girjediŋgojumit eai doaimmahuvvo luomu geažil áigodagas 9.6.-2.7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ja ajalla 10.-28.7.2023 loma-ajan vuoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>ja 10.-28.7.2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilaukset, jotka on tehty 5.7.2023 mennessä, ehditään laskuttaa ja pakata.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Diŋgojumit, mat leat joavdan 5.7.2023 rádjai, páhkkejuvvojit ja dain sáddejuvvojit rehkegat diŋgojeaddjái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tilaus toimitetaan, kun lasku on maksettu.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Diŋgojupmi doaimmahuvvo, go rehket leat máksojuvvon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maksettujen kirjatilausten sekä oppilaitosten ja saamenkielisten varhaiskasvatusyksikköjen maksuttomien kirjatilausten nouto on mahdollista myös kyseisenä aikana.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Máksojuvvon girjediŋgojumiid sihke skuvllaid ja árrabajásgeassinovttadagaid nuvttá girjediŋgojumiid sáhttá viežžat maiddái dán áigodagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähetettäviä kirjoja voi tilata myös Duodji Shopista: https://duodjishop.fi/tuote-osasto/kirjat/</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Girjjiid sáhttá diŋgot maiddái Duodji Shop -fierbmegávppis: https://duodjishop.fi/se/tuote-osasto/kirjat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>English</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oasttuskore lea guorus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Bookorders will not be delivered by mail between 9.6.-2.7.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ruovttoluotta gávpái</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

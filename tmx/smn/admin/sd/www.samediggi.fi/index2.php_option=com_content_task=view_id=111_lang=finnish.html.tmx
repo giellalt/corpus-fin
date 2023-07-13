@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=111_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Gollegiella - kielipalkinto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kollekielâ – Tave-eennâmlâš säämi kielâpalhâšume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Gollegiella - Pohjoismainen saamen kielen kielipalkinto jaetaan syksyllä 2008.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kollekielâ – Tave-eennâmlâš säämi kielâpalhâšume juáhhoo čohčuv 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ehdotus palkinnon saajaksi ja korkeintaan 1–2 sivun kirjallinen perustelu tulee toimittaa viimeistään 13. kesäkuuta 2008.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Iävtuttâs palhâšume uážžost já enâmustáá 1-2 siijđo kukkosâš kirjálâš vuáđustâllâm kalga toimâttiđ majemustáá 13. kesimáánu 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja ..</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasetiäđuh..</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

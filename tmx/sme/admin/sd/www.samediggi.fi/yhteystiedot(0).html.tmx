@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">yhteystiedot(0).html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuođadieđut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien ma. kielipesäohjaaja Niina Aikio-Siltala niina.aikio-siltala(at)samediggi.fi +358 40 487 5414 / +358 10 839 3115 Saamen kielen toimisto, Saamelaiskäräjät, Sajos, 99870 Inari</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki má. giellabeassejođiheaddji Niina Aikio-Siltala niina.aikio-siltala(at)samediggi.fi +358 40 487 5414 / +358 10 839 3115 Sámegiela doaimmahat, Sámediggi, Sajos, 99870 Anár</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kieliturvasihteeri Anne Kirste Aikio anne-kirste.aikio(at)samediggi.fi +358 40 707 5626 / +358 10 839 3124 Saamen kielen toimisto, Saamelaiskäräjät, Sajos, 99870 Inari</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki gielladorvočálli Anne Kirste Aikio anne-kirste.aikio@samediggi.fi +358 40 707 5626 / +358 10 839 3124 Sámegiela doaimmahat, Sámediggi, Sajos, 99870 Anár</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

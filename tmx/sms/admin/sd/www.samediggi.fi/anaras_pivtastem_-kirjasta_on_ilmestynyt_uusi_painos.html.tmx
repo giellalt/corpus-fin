@@ -1,0 +1,39 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">anaras_pivtastem_-kirjasta_on_ilmestynyt_uusi_painos.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anarâš pivtâstem -kirjasta on ilmestynyt uusi painos</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Anaraš pivtastem -ǩeeʹrjest lij õlmstõttum ođđ teädldõk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ella Sarren kirjasta Anarâš pivtâstem on ilmestynyt uusi painos.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ella Sarre ǩeeʹrjtem ǩeeʹrjest Anaraš pivtastem lij õlmstõttum ođđ teädldõk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uuteen painokseen on lisätty vasannahkalakkiin pienemmät kaavat ja joitakin ohjeita on täydennetty tai korjattu.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ođđ teädldõʹǩǩe lie lââʹzztum vueʹssčõuddkeäʹpper diõtt uuʹccab vââj da motam vuäʹpstõõzz lie tiudduum leʹbe tivvum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirja on saatavilla Duodji shopista ja Saamelaiskäräjien oppimateriaalin nettikaupasta: Anarâš pivtâstem .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩeʹrjj lji vuäʹsttemnalla Duodji shop kaaupâst da tiʹllʼjemnalla Sääʹmteeʹǧǧ mättmateriaal nettkaaupâst Ánarâš pivtâstem .</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=359_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedotustilaisuus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđihandilálašvuohta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Senaatti-kiinteistöt ja Saamelaiskäräjät järjestävät tiedotustilaisuuden Saamelaiskulttuurikeskushankkeen tämän hetkisestä tilasta tiistaina 30.3.2010 kello 17.00 Siidan auditoriossa Inarin kirkonkylässä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Senaatti-giddodagat ja Sámediggi ordnejit dieđihandilálašvuođa Sámekulturguovddáš-fidnu dálá dilis maŋŋebárgga njukčamánu 30. beaivve 2010 dmu 17 Siidda auditorios Anára kirkosiiddas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervetuloa!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bures boahtin</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

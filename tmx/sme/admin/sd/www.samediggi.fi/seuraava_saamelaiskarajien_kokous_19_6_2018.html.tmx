@@ -1,0 +1,303 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">seuraava_saamelaiskarajien_kokous_19_6_2018.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seuraava Saamelaiskäräjien kokous (2/2018) Saamelaiskulttuurikeskus Sajoksessa Inarissa tiistaina 19.6.2018 klo 10 alkaen .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čuovvovaš Sámedikki čoahkkin (2/2018) Sámekulturguovddáš Sajosis, Anáris maŋŋebárgga 19.6.2018 dmu 10 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousta pystyy seuraamaan paikan päällä parlamenttisalissa tai live striimin kautta osoitteessa www.sogku.fi/live .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čoahkkima sáhttá čuovvut báikki alde parlameantasáles dahje live stream bokte čujuhusas www.sogku.fi/live .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Parlamenttisalissa tulkkauslaitteet ovat yleisön käytössä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Parlameantasáles tulkonrusttegat leat guldaleaddjiid anus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähetyksessä kuullaan kokoussalissa puhuttua kieltä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sáddagis gullo čoahkkinsáles hállojuvvon giella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokousasiakirjat löytyvät dokumenteista täältä ja tämän artikkelin lopusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššelistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esityslista</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>1 Čoahkkima álggaheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1 Kokouksen avaus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>2 Čoahkkima lágalašvuođa ja mearridanválddi gávnnaheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2 Kokouksen laillisuuden ja päätösvaltaisuuden toteaminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>3 Beavdegirjjidárkkisteaddjiid ja jienaidrehkenastiid válljen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3 Pöytäkirjantarkastajien ja ääntenlaskijoiden valinta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>4 Aitosaš čoahkkináššiid gieđahallanortnega dohkkeheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4 Varsinaisten kokousasioiden käsittelyjärjestyksen hyväksyminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>5 Ságajođiheaddjiid ja Sámedikki ovddastan lahtuid oppalašgeahčastat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5 Puheenjohtajien ja Saamelaiskäräjiä edustaneiden jäsenten katsaus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>6 Sámedikki jagi 2017 ruhtadoalloloahpaheami dohkkeheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>6 Saamelaiskäräjien vuoden 2017 tilinpäätöksen hyväksyminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>7 Evttohus sámi kulturmearreruhtan stáhta bušeahtas jagi 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>7 Esitys saamelaiseksi kulttuurimäärärahaksi valtion talousarviossa vuonna 2020</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>8 Evttohus sámeoahpahusa ovddideami dihte ja sámegielat oahppamateriálamearreruđa sihkkarastima dihte stáhta bušeahtas jagi 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>8 Esitys saamelaisopetuksen kehittämiseksi ja saamenkielisen oppimateriaalimäärärahan turvaamiseksi valtion talousarviossa vuonna 2020</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>9 Evttohus sámegielat árrabajásgeassinbálvalusaid sihkkarastima ja ovddideami dihte stáhta bušeahtas jagi 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>9 Esitys saamenkielisten varhaiskasvatuspalvelujen turvaamiseksi ja kehittämiseksi valtion talousarviossa vuonna 2020</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>10 Evttohus sámegielat sosiála- ja dearvvasvuođabálvalusaid sihkkarastima ja ovddideami dihte stáhta bušeahtas jagi 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>10 Esitys saamenkielisten sosiaali- ja terveyspalvelujen turvaamiseksi ja kehittämiseksi valtion talousarviossa vuonna 2020</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>11 Jiekŋameara ruovdegeaidnofidnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>11 Jäämeren ratahanke</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>12 Anu Avaskari ja Kari Kyrö váidalus várreságajođiheaddjiid bálkkámáksima guoski áššis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>12 Anu Avaskarin ja Kari Kyrön valitus varapuheenjohtajien palkkausta koskevassa asiassa</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>13 Eará ovdanboahtti áššit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>13 Muut esille tulevat asiat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>14 Almmuhanáššit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>14 Ilmoitusasiat</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>15 Čoahkkima loahpaheapmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>15 Kokouksen päättäminen</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mildosat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liitteet</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Áššelistu 2/2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esityslista 2/2018</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 1: Tilintarkastuskertomus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 1: Tilintarkastuskertomus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 2, osa 1: Saamelaiskäräjien toimintakertomus vuodelta 2017</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 2, osa 1: Saamelaiskäräjien toimintakertomus vuodelta 2017</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 2, osa 2: Saamelaiskäräjien tilinpäätös vuodelta 1.1.-31.12.2017</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 2, osa 2: Saamelaiskäräjien tilinpäätös vuodelta 1.1.-31.12.2017</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 3: Saamelaiskäräjien esitys saamelaiseksi kulttuurimäärärahaksi valtion vuoden 2020 talousarvioon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 3: Saamelaiskäräjien esitys saamelaiseksi kulttuurimäärärahaksi valtion vuoden 2020 talousarvioon</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 4: Esitys saamenkielisen oppimateriaalin valmistamiseksi, saamelaisen opetussuunnitelman kehittämiseksi ja saamelaistiedon lisäämiseksi opetuksessa osoitettaviksi valtionavustuksiksi valtion talousarviossa 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 4: Esitys saamenkielisen oppimateriaalin valmistamiseksi, saamelaisen opetussuunnitelman kehittämiseksi ja saamelaistiedon lisäämiseksi opetuksessa osoitettaviksi valtionavustuksiksi valtion talousarviossa 2020</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 5: Esitys saamelaisten varhaiskasvatuspalveluiden turvaamiseksi ja kehitettämiseksi osoitettavaksi valtionavustuksiksi valtion talousarviossa 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 5: Esitys saamelaisten varhaiskasvatuspalveluiden turvaamiseksi ja kehitettämiseksi osoitettavaksi valtionavustuksiksi valtion talousarviossa 2020</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 6: Esitys saamenkielisten sosiaali- ja terveuspalvelujen turvaamiseksi ja kehittämiseksi valtion talousarviossa vuonna 2020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 6: Esitys saamenkielisten sosiaali- ja terveuspalvelujen turvaamiseksi ja kehittämiseksi valtion talousarviossa vuonna 2020</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 7: Saamelaisen parlamentaarisen neuvoston julkilausuma Jäämeren ratahankkeesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 7: Saamelaisen parlamentaarisen neuvoston julkilausuma Jäämeren ratahankkeesta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 8: Saamelaiskäräjien vastaus liikenne- ja viestintäministeriölle nimeämispyyntöön Suomen ja Norjan väliseen työryhmään Jäämeren radan jatkoselvittämistä varten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 8: Saamelaiskäräjien vastaus liikenne- ja viestintäministeriölle nimeämispyyntöön Suomen ja Norjan väliseen työryhmään Jäämeren radan jatkoselvittämistä varten</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Liite 9: Valitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Liite 9: Valitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Jaa tämä kirjoitus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jaa tämä kirjoitus</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Share on Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Share on Facebook</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Share on Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Share on Twitter</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Share on WhatsApp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Share on WhatsApp</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Share by Mail</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

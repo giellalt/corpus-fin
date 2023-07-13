@@ -1,0 +1,55 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=342_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen pohjoissaamenkielinen koulukartasto ilmestyi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuõssmõs tâʹvvsääʹmǩiõllsaž škooul karttǩeʹrjj očandõõđi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ensimmäinen saamenkielinen koulukartasto on ilmestynyt.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuõssmõs sääʹmǩiõllsaž škooul karttǩeʹrjj lij očndõõttâm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>´Skuvlla kártagirji´ on oppilaan peruskartasto ja se sisältää tietoa Suomesta, Pohjoismaista ja eri maanosista.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>ʹSkuvlla kártagirjiʹ lij škooulneeʹǩǩ vuâđđkarttǩeʹrjj da tõt âânn seʹst teâđaid Lääʹddjânnmest, Tâʹvvjânnmin da jeeʹres mäddvuäʹzzin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kartasto sisältää myös luettelon itsenäisistä valtioista lippuineen ja saamenkielisen hakemiston.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Karttǩeʹrjj ââʹnn seʹst še looǥǥtõõzz pååʹđväʹlddsaž valdiain liippeesvuiʹm da sääʹmǩiõllsa ooccâmpääiʹǩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lue lisää</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Looǥ lââʹzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>tästä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>täʹst.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,23 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=877_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Dokumentit</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Dokumenteh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tästä osiosta löydät vaalikauden 2012-2015 dokumentit.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Taan uásist kaavnah vaaljâpaje 2012-2015 dokumentijd.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

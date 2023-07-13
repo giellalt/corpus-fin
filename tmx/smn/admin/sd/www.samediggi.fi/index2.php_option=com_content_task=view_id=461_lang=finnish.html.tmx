@@ -1,0 +1,47 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=461_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eduskuntavaalit pidetään joka neljäs vuosi</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ovdâskoddevaaljah tuállojeh jyehi niäljád ive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vaaleilla valitaan 200 kansanedustajaa päättämään yhteisistä asioistamme.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Vaaljâin väljejuvvojeh 200 aalmugovdâsteijed meridiđ mii ohtsijn aašijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuoden 2011 eduskuntavaalit järjestetään sunnuntaina 17.4.2011.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Ive 2011 ovdâskoddevaaljah uárnejuvvojeh pasepeeiivi 17.4.2011.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja www.vaalit.fi -sivulta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Lasetiäđuh vaalit.fi -siijđost paječálusist tâi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietoa eduskuntavaaleista myös pohjois-, inarin- ja koltansaamenkielillä.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>taam njuálguliiŋkâst</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

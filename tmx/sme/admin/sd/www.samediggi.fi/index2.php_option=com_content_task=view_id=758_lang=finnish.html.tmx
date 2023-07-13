@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=758_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sajoksen infopiste ja Saamelaiskäräjien puhelinvaihde suljettuina 24.10.2013 klo 9 -13</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sajosa info ja Sámedikki telefonguovddáš gittá 24.10.2013 dmu 9-13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sajoksen infopiste ja Saamelaiskäräjien puhelinvaihde ovat suljettuina torstaina 24.10.2013 klo 9 - 13 välisenä aikana henkilöstön koulutustilaisuuden vuoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sajosa infoguovddáš ja Sámedikki telefonguovddáš leat gittá duorastaga 24.10.2013 dmu 9-13 bargiid skuvlendilálašvuođa dihtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja Pia Ruotsala 040-7262688.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lássedieđut Pia Ruotsala 040-7262688.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

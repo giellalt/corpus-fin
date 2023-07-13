@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=430_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kulttuuriavustusten hakeminen 2011</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki kulturdoarjagiid ohcan 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät julistaa saamenkielisen kulttuurin edistämiseen ja saamelaisjärjetöjen toimintaan osoitetusta määrärahasta (Saamelainen kulttuurimääräraha) myönnettävät avustukset haettaviksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki almmuha ohcanlahkái doarjagiid, mat mieđihuvvojit sámegielat kultuvrra ovddideapmái ja sámeservviid doaibmamii čujuhuvvon mearreruđas (Sápmelaš kulturmearreruhta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso ilmoitus, lomakkeet ja hakuohjeet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Geahča almmuhusa, skoviid ja ohcanrávvagiid.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

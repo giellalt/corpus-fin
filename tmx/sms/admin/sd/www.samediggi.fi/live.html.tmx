@@ -1,0 +1,255 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">live.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva: Ville Fofonoff</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Snimldõk: Ville Fofonoff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien kokous 19.6.2023 klo 9</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ sååbbar 19.6.2023 čiâss 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääset seuraamaan Saamelaiskäräjien kokousta Zoom-webinaarin kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ såbbar piâzzak seuʹrrjed Zoom webinaar pääiʹǩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Et tarvitse erillistä sovellusta, vaan voit seurata kokousta nettiselaimesi kautta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jiõk taarbâž jeeʹres Zoom-suåvldõõzz, pâi vuäitak nääiʹt seuʹrrjed såbbar neʹttplaađânj pääiʹǩ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Voit kuitenkin halutessasi ladata sovelluksen Zoomin sivuilta .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuäitak kuuitâǥ haaʹleen laaddâd suåvldõõzz Zoom seeidain .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Täältä löydät ohjeet Zoomin lataamiseksi .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tääiʹben kaaunak vuäppõõzzid Zoom laaddâm vääras .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Webinaarin linkki: https://us06web.zoom.us/j/83690109152</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Såbbar liŋkk: https://us06web.zoom.us/j/83690109152</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Webinaarin ID-numero: 836 9010 9152</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Webinaar ID-nââmar: 836 9010 9152</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esityslista liitteineen löytyy Saamelaiskäräjien dokumenttipankista .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sååbbaräʹššǩeeʹrj käunnʼje dokumeeʹntin tääiʹben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näin seuraat kokousta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nääiʹt piâzzak såbbra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilman Zoom-sovellusta nettiselaimen kautta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Zoom-suåvldõõzztää neʹttplaađânj pääiʹǩ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. Ohita sovelluksen asentaminen ja liity selaimesta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>1. Rääjat suåvldõõzz serddmõš da mõõn plaađnjest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. Syötä nimesi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>2. Ǩeeʹrjet nõõm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3. Hyväksy käyttöehdot ja tietosuojalausunto.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>3. Priim ââʹnem-määin da teâttsuõjjciâlkâlm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>4. Syötä sähköpostiosoitteesi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>4. Ǩeeʹrjet neʹttpååʹštaddrõs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos et halua käyttää omaa sähköpostiosoitettasi, voit käyttää a@oma.fi osoitetta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs jiõk haaʹled ââʹnned jiijjad neʹttpååʹštaddrõõzz, vuäitak ââʹnned a@oma.fi addrõõzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>5. Liity kokoukseen vielä valitsemalla ääni Join audio by Computer .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>5. Mõõn såbbra võl vaalšeeʹl jiõn Join audio by Computer .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos kuulet webinaarissa ääntä ja näet jaetun kuvan, pääset nyt seuraamaan kokousta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs kuulak webinaarâst jiõn da vuäinak juõkkum kaart, piâzzak ååʹn seuʹrrjed såbbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>6. Jos et kuule ääntä, tarkista, että käytössäsi on oikea äänilaite.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>6. Jõs ij jiõnn kullu, tääʹrǩest, što âânnmõõžžâst lij suåppi jiõnnaparaatt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Zoom-sovelluksen kautta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Zoom neʹttlookki pääiʹǩ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kun olet ladannut Zoom-sovelluksen puhelimelle tai tietokoneelle, linkkiä klikatessa avautuu nettisivu, joka kysyy osallistujalta luvan avata linkki Zoom-ohjelmassa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǥu čuålkklak såbbar liiŋk, jååʹđad teâttmašina aaibšemneʹttlookki ääʹveed ođđ kõskklõõst leʹbe ikkân. Täʹst kuâsttjõõzzâst âlgg čuålkkled Join from my browser , koon mâŋŋa Zoom kââčč nõõmad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hyväksy linkin avaaminen sovelluksessa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõčč vuäppõõzzâst mäʹhtt laaddak Zoom-suåvldõõzz da mõõnak såbbra .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Katso ohje kuinka lataat Zoom-sovelluksen ja liityt kokoukseen .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Såbbar poodd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokouksen aikana</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>1. Tuʹlǩǩõõzz vuäitak vaʹlljed Interpretation teäʹddõõzzâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>1. Tulkkauksen voit valita Interpretation painikkeesta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sååbbar tuʹlǩǩeet tâʹvvsääʹmǩiõʹlle, aanarsääʹmǩiõʹlle, nuõrttsääʹmǩiõʹlle da lääʹddǩiõʹlle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokous tulkataan pohjoissaameksi, inarinsaameksi, koltansaameksi ja suomeksi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>2. Čuålkkal Interpretation vaʹlljõõǥǥâst Mute Original Audio ǥu kuvddlak tuʹlǩǩõõzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>2. Klikkaa Interpretation valikosta Mute Original Audio, kun kuuntelet tulkkausta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tõt câgg alggveärla jiõn häiʹttjeʹmmen tuʹlǩǩõõzz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Se estää alkuperäisen äänen sotkemasta tulkkausta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>3. Jõs haaʹlääk kuvddled såbbrest mainstem ǩiõl, tâʹl ääʹved Interpretation vaʹlljõõǥǥ da vaalâž Off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>3. Jos haluat kuunnella kokouksessa käytettävää kieltä, niin avaa Interpretation valikko ja valitse Off .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jõs tuʹst liâ vaiggâdvuõđ seuʹrrjed såbbar, leäkku õhttvuõđâst:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jos sinulla on ongelmia seurata kokousta, ole yhteydessä:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mikko Meskanen Riâžldõkäʹšštobddi 040 154 4030 mikko.meskanen@samediggi.fi</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,31 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=122_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Projektit</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Projekteh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Täältä voit käydä katsomassa Saamelaiskäräjien käynnissä olevia projekteja.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Tääbbin puávtáh eelliđ keččâmin projektijd, moh láá Sämitiggeest joođoost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Päättyneiden projektin loppuraportit löydät dokumenttipankista PROJEKTIT-kansiosta.</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Nuuhâm projektij loppâraportijd kaavnah dokumentpaaŋkist PROJEKTEH-maapist.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

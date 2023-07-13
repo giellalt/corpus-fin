@@ -1,0 +1,511 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">opetus-_ja_kasvatusalan_tietovajeita_saamelaisista_paikkaava_ihmisoikeuskasvatusmateriaali_julkaistu_.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetus- ja kasvatusalan tietovajeita saamelaisista paikkaava ihmisoikeuskasvatusmateriaali julkaistu!</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriekteoahppamateriála lea almmustahtton oahpahus- ja bajásgeassinsuorggi diehtovádjitvuođa deavdima várás!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiedätkö, mikä alkuperäiskansa on?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dieđátgo, maid dárkkuha eamiálbmot?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mitä tiedät saamelaisista?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maid dieđát sámiid birra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomessa on suuri tietovaje saamelaisista, heidän kulttuuristaan ja alkuperäiskansaoikeuksista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suomas lea diehtovádjitvuohta sámiid, sin kultuvrra ja eamiálbmotvuoigatvuođaid birra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi ihmisoikeuskasvatusmateriaali kokoaa tietoa ja vinkkejä opetus- ja kasvatusalalle sekä saamelaisten haastatteluja aiheen ottamiseksi osaksi opetusta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa olmmošriekteoahppamateriála čohkke dieđuid ja neavvagiid oahpahus- ja bajásgeassinsuorgái sihke sápmelaččaid jearahallamiid fáttá oahpahusa oassin váldima várás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aiheina ovat muun muassa ihmisoikeusperusta, alkuperäiskansa, historia ja pakkosuomalaistaminen, kielelliset ja kulttuuriset ihmisoikeudet, ilmastonmuutoksen vaikutukset ja viestit kasvatusalalle.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fáddán leat earret eará olmmošriektevuođustus, eamiálbmot, historjá ja bággosuomaiduhttin, gielalaš ja kultuvrralaš olmmošvuoigatvuođat, dálkkádatnuppástusa váikkuhusat ja ovdanboahtimat bajásgeassinsuorgái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Materiaali on tehty Helsingin yliopiston kasvatustieteellisen tiedekunnan, saamelaiskäräjien ja Ihmisoikeuskeskuksen yhteistyössä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Materiála lea dahkkon Helssega universitehta pedagogihka dieđagotti, sámedikki ja Olmmošriekteguovddáža oktasašbargun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuuli Miettunen toteutti opetus- ja kulttuuriministeriön tilaaman selvityksen saamelaistiedosta oppimateriaaleissa vuonna 2020 ja havaitsi, että tietoa on vähän ja jos sitä oli, se on esihistoriaan jäänyttä ja rasistista stereotypiaa toistavaa (Miettunen 2020).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tuuli Miettunen barggai oahpahus- ja kulturministeriija diŋgon čilgehusa sámedieđus oahppamateriálain jagi 2020 ja gávnnahii, ahte dieđut leat uhcán ja juos dat ledje, dat ledje ovdahistorjái báhcán ja geardduhedje rasisttalaš stereotypiijaid (Miettunen 2020).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien ylläpitämä Oktavuohta -sivusto tarjoaa saamelaistietoa ja aineistoja opetuksen tueksi, mutta laajasti katsottuna koulutusjärjestelmässä – ja tätä kautta koko suomalaisessa yhteiskunnassa – tiedetään saamelaisista todella vähän.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki bajásdoallan Oktavuohta -siiddut fállet sámedieđuid ja materiálaid oahpahusa doarjjan, muhto viidát geahčadettiin skuvlamáilmmis – ja dan bokte olles suopmelaš servodagas – dihtet sápmelaččaid birra duođaige uhc��n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien puheenjohtaja Tuomas Aslak Juuso painottaa, että Suomessa tulisi toimeenpanna myös alemmalla lainsäädännön tasolla perustuslain (17 §:n) takaama oikeus saamelaisille ylläpitää ja kehittää alkuperäiskansana omaa kieltään ja kulttuuriaan, itsemääräämisoikeus sekä perustuslain takaama itsehallinto saamelaisalueella (121 §).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámedikki ságajođiheaddji Tuomas Aslak Juuso deattuha, ahte Suomas galggašii ollašuhttit maiddái vuolit láhkaásaheami dásis vuođđolága (17 §:a) dáhkidan vuoigatvuođa sápmelaččaide doalahit ja ovddidit eamiálbmogin iežaset giela ja kultuvrra, iešmearridanvuoigatvuođa sihke vuođđolága dáhkidan iešráđđema sámeguovllus (121 §).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alkuperäiskansan oikeudet on määritelty myös kansainvälisessä oikeudessa, joten kysymystä ei pitäisi pelkästään politisoida.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Eamiálbmoga vuoigatvuođat leat meroštallon maiddái riikkaidgaskasaš rievttis, nu ahte gažaldaga ii galggašii dušše politiseret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeuskasvatus on toteutunut Suomessa riittämättömästi opettajankoulutuksessa (Ihmisoikeuskeskus 2014;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriektebajásgeassin lea ollašuvvan Suomas váilevaččat oahpaheaddjiidskuvlemis (Olmmošriekteguovddáš 2014;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kasa ym., 2021).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kasa jne. , 2021).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tietämättömyydellä ihmisoikeuksista ja saamelaisista on laajoja vaikutuksia saamelaisten ihmisoikeuksien toteutumiseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Diehtemeahttunvuođas, mii guoská olmmošvuoigatvuođaid ja sámiid, leat viiddes váikkuhusat sámiid olmmošvuoigatvuođaid ollašuvvamii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi saamelaisten asemaa alkuperäiskansana ei ymmärretä, vaikka Suomen perustuslaki sen tunnustaa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkan sámiid sajádat eamiálbmogin ii áddejuvvo, vaikke Suoma vuođđoláhka dan dovddasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perustuslain takaamat kielelliset oikeudetkaan eivät toteudu riittävästi tämän vuoksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vuođđolága dáhkidan gielalaš vuoigatvuođatge eai ollašuva doarvái dan dihtii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Esimerkiksi oikeus omakielisiin sosiaali- ja terveyspalveluihin tai saamen kielen käyttämiseen viranomaisissa toteutuu puutteellisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ovdamearkan vuoigatvuohta iežasgielat sosiála- ja dearvvasvuođabálvalusaide dahje sámegiela geavaheapmái virgeoapmahaččain ollašuvvá váilevaččat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielten ja saamenkielinen opetus tavoittaa edelleen vain osan saamelaisoppilaista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámegielaid ja sámegielat oahpahus juksá ain dušše oasi sápmelašoahppiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomelle toistuvasti huomautuksia ihmisoikeusvalvontaelimiltä saamelaisten kohtelusta</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Supmii jeavddalaččat cuigemat olmmošriektegohcinorgánain sámiide guoski meannudemiin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomi on saanut toistuvasti moitteita ihmisoikeusvalvontaelimiltä mm. alkuperäiskansan itsemääräämisoikeuteen puuttumisesta ja oikeuksien puutteellisesta toteutumisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Suopma lea jeavddalaččat ožžon moaitámušaid olmmošriektegohcinorgánain ee. eamiálbmoga iešmearridanvuoigatvuhtii guoskamis ja vuoigatvuođaid váilevaš ollašuvvamis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Onkin korkea aika, että Suomen valtio ryhtyy toimiin saamelaisten ihmisoikeuksien toteuttamiseksi mm. tuomalla julkisuuteen oikeaa tietoa, tunnustamalla oikeuksien velvoittavuuden sekä puuttumalla saamelaisten kohtaamaan syrjintään ja vihapuheeseen.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Leage juo áigi, ahte Suoma stáhta álgá doaimmaide sámiid olmmošvuoigatvuođaid ollašuvvama várás ee. buktimiin almmolašvuhtii rivttes dieđuid, dovddastemiin vuoigatvuođaid geatnegahttivuođa sihke darvánemiin sámiid deaividan vealaheapmái ja vaššisáhkii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kulttuurisia oikeuksia uhkaa tietämättömyyteen pohjaavien hankkeiden lisäksi ilmastonmuutos</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid kultuvrralaš vuoigatvuođaid uhkida diehtemeahttunvuhtii vuođđudeaddji doaimmaid lassin dálkkádatnuppástus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tiina Sanila-Aikio muistuttaa, että ”ilmastonmuutos tulee muuttamaan kaiken”.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tiina Sanila-Aikio muittuha, ahte ”dálkkádatnuppástus boahtá rievdadit buot”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanila-Aikion puheenvuorossa tuodaan esiin, kuinka sään ääri-ilmiöt ovat jo lisääntyneet.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sanila-Aikio sáhkavuorus buktojuvvo ovdan, man láhkai garrasut dálkeroasut leat juo lassánan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ilmastonmuutos näkyy erityisesti arktisella alueella.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dálkkádatnuppástus oidno erenomážit árktalaš guovllus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pelkästään ilmastonmuutos ei uhkaa saamelaisten elinoloja vaan myös tietämättömyys johtaa moniin hankkeisiin, jotka tuhoavat elinkeinon ja kulttuurin jatkamisen edellytyksiä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dušše dálkkádatnuppástus ii áitte sámiid eallindiliid muhto maiddái diehtemeahttunvuohta doalvu máŋggaid doaimmaide, mat duššadit ealáhusa ja kultuvrra joatkima eavttuid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaisten kulttuuriset oikeudet ovatkin kiinteästi yhteydessä maaoikeuksiin.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sámiid kultuvrralaš vuoigatvuođat leatge lávga oktavuođas eanavuoigatvuođaide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeuskoulutusaineisto on vapaasti ladattavissa ja lisäksi se tulee osaksi Demokratia- ja ihmisoikeuskasvatus opetus- ja kasvatustyössä -erikoiskurssia.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriekteoahppamateriála oažžu friija luđet ja lassin dat boahtá Demokratiija- ja olmmošriektebajásgeassin oahpahus- ja bajásgeassinbarggus – spesiálakurssa oassin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kurssin osana näytetään myös Suvi Westin Eatnameamet – Hiljainen taistelumme -dokumenttielokuva, joka on tärkeä puheenvuoro saamelaisten näkökulmasta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kurssas čájehuvvo maiddái Suvi West Eatnameamet – Hiljainen taistelumme -dokumeantafilbma, mii lea dehálaš sáhkavuorru sámiid perspektiivvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Elokuva on julkaistu Koulukino -palvelussa ja syksyllä 2021 on tulossa lisää oppimateriaalia Koulukinoon oppilaitosten hyödynnettäväksi.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Filbma lea olggosaddon Koulukino – bálvalusas ja čakčat 2021 lea boahtimin lasi oahppamateriála Koulukinoi oahppolágádusaid atnui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uusi oppimateriaali on suunnattu tueksi opettajille ja tiedoksi laajalle yleisölle</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ođđa oahppamateriála lea dárkkuhuvvon veahkkin oahpaheaddjiide ja viidát diehtun álbmogii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Arviolta yli 70 % saamelaisista asuu saamelaisalueen ulkopuolella (ks. Keva 2020 ), ja tämä on tärkeää jokaisen opettajan tiedostaa;</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Árvvu mielde badjel 70 % sápmelaččain ássá sámeguovllu olggobealde (gč. Keva 2020 ), ja dán lea juohke oahpaheaddji dehálaš diehtit;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>saako oppilas tietoa omasta kulttuuristaan ja demokratiakasvatuksen kannalta relevanttia tietoa esimerkiksi saamelaiskäräjistä yhteiskunnassa toimimiseen?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>oažžugo oahppi dieđuid iežas kultuvrra birra ja demokratiijabajásgeassima dáfus relevánta dieđuid ovdamearkan sámedikki birra servodagas doaibmamii ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ja toisaalta, millaista tietoa suomalainen oppilas saa saamelaisuudesta?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ja nuppe dáfus, makkár dieđuid suopmelaš oahppi oažžu sápmelašvuođas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nyt julkaistu ihmisoikeuskasvatusmateriaali tarjoaa tietoa muun muassa saamelaisista, alkuperäiskansan ja itsemääräämisoikeuden ihmisoikeusperustasta, historiasta ja koulun roolista, kielellisistä ja kulttuurisista ihmisoikeuksista, ilmastonmuutoksen vaikutuksista saamelaisiin ja vinkkejä opettajille ja kasvattajille.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dál olggosaddon olmmošriekteoahppamateriála fállá dieđuid earret eará sámiin, eamiálbmoga ja iešmearridanvuoigatvuođa olmmošriektevuođustusas, historjjás ja skuvlla rollas, gielalaš ja kultuvrralaš olmmošvuoigatvuođain, dálkkádatnuppástusa váikkuhusain sápmelaččaide ja neavvagiid oahpaheaddjiide ja bajásgeassiide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Keskeinen näkökulma on myös saamelaiset yhtenä kansana Saamenmaalla, joka ylittää valtioiden rajat.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Guovddáš perspektiiva lea maiddái sápmelaččat oktan álbmogin Sámeeatnamis, mii ollá rájáid badjel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mukana on saamelaisten puheenvuoroja itsemääräämisoikeudesta, elinkeinosta, suhteesta luontoon ja opetusmateriaaleista.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Mielde leat sápmelaččaid sáhkavuorut iešmearridanvuoigatvuođas, ealáhusas, gaskavuođas lundui ja oahppomateriálain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutusaineisto on tehty Helsingin yliopiston kasvatustieteellisen tiedekunnan, saamelaiskäräjien ja Ihmisoikeuskeskuksen yhteistyössä.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahppamateriála lea dahkkon Helssega universitehta pedagogihka dieđagotti, sámedikki ja Olmmošriekteguovddáža oktasašbargun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työ toteutettiin osana Ihmisoikeudet, demokratia, arvot ja dialogi kasvatuksessa -hanketta 2018-2021 , jonka tarkoitus on ollut parantaa ihmisoikeustietoisuutta kasvatusalalla.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Bargu ollašuhttui Olmmošvuoigatvuođat, demokratiija, árvvut ja dialogiija bajásgeassimis – prošeavtta 2018-2021 oassin, man dárkkuhussan lea leamaš buoridit olmmošriektediđolašvuođa bajásgeassinsuorggis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hanketta ovat rahoittaneet vuonna 2020-2021 Ihmisoikeuskeskus , oikeusministeriö ja Helsingin yliopisto .</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Prošeavtta leat ruhtadan jagiid 2020-2021 Olmmošriekteguovddáš , vuoigatvuođaministeriija ja Hels sega universitehta .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Lassidieđut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tuija Kasa, asiantuntija (osa-aikainen), Ihmisoikeuskeskus / väitöskirjatutkija, Helsingin yliopisto, +358(0)29 412 0665, tuija.kasa(at)helsinki.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Tuija Kasa, áššedovdi (oasseáigásaš), Olmmošriekteguovddáš / nákkosgirjedutki, Helssega universitehta, +358(0)29 412 0665, tuija.kasa@helsinki.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ulla Aikio-Puoskari, koulutussihteeri, saamelaiskäräjät, +358(0)10 839 3112, ulla.aikio-puoskari(at)samediggi.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ulla Aikio-Puoskari, skuvlenčálli, sámediggi, +358(0)10 839 3112, ulla.aikio-puoskari@samediggi.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sirpa Rautio, johtaja, Ihmisoikeuskeskus, +358(0)9 432 3780, sirpa.rautio(at)ihmisoikeuskeskus.fi</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Sirpa Rautio, hoavda, Olmmošriekteguovddáš, +358(0)9 432 3780, sirpa.rautio@ihmisoikeuskeskus.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lähteitä:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Gáldut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeuskeskus (2014): Ihmisoikeuskasvatus- ja koulutus Suomessa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriekteguovddáš (2014): Ihmisoikeuskasvatus- ja koulutus Suomessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ihmisoikeuskeskus.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Olmmošriekteguovddáš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osoitteessa: https://ihmisoikeuskeskus-fi-bin.directo.fi/@Bin/47503f796d0d0a236e19344592dd9215/1525775690/application/pdf/272052/IOK-Ihmisoikeuskasvatus-%20ja%20-koulutusselvitys.pdf</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čujuhusas: https://ihmisoikeuskeskus-fi-bin.directo.fi/@Bin/47503f796d0d0a236e19344592dd9215/1525775690/application/pdf/272052/IOK-Ihmisoikeuskasvatus-%20ja%20-koulutusselvitys.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kasa, T., Rautiainen, M., Malama, M., &amp;amp; Kallioniemi, A. (2021).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Kasa, T., Rautiainen, M., Malama, M., &amp;amp; Kallioniemi, A. (2021).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>‘Human rights and democracy are not self-evident’: Finnish student teachers’ perceptions on democracy and human rights education.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>‘Human rights and democracy are not self-evident’: Finnish student teachers’ perceptions on democracy and human rights education.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Human Rights Education Review , 4 (2), 69–84.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Human Rights Education Review , 4 (2), 69–84.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>https://doi.org/10.7577/hrer.3937</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>https://doi.org/10.7577/hrer.3937</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Miettunen, T (2020).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Miettunen, T (2020).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaistietoa vai puuttuvaa tietoa saamelaisista?</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Saamelaistietoa vai puuttuvaa tietoa saamelaisista?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>: Selvitys saamelaistiedosta peruskoulun suomen- ja ruotsinkielisissä oppimateriaaleissa.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>: Selvitys saamelaistiedosta peruskoulun suomen- ja ruotsinkielisissä oppimateriaaleissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetus- ja kulttuuriministeriön julkaisuja 2020:29.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oahpahus- ja kulturministeriija olggosaddimat 2020:29.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>https://julkaisut.valtioneuvosto.fi/handle/10024/162566 (17.6.2021)</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>https://julkaisut.valtioneuvosto.fi/handle/10024/162566 (17.6.2021)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oktavuohta – saamelaistietoa opetukseen: https://www.oktavuohta.com/</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuohta – sámediehtu oahpahusa várás: https://www.oktavuohta.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ranta, K. &amp;amp; Kanninen, J. 2019.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Ranta, K. &amp;amp; Kanninen, J. 2019.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vastatuuleen: Saamen kansan pakkosuomalaistamisesta.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Vastatuuleen: Saamen kansan pakkosuomalaistamisesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Helsinki: Kustantamo S &amp;amp; S.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Helsinki: Kustantamo S &amp;amp; S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valmiuksia saamelais- ja romaninuorten kohtaamiseen – maksuton koulutus opettajille: https://www.nuortenakatemia.fi/hankkeet/kulttuurien-koulu/</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Dáiddut sáme- ja románanuoraid deaivideapmái – nuvttá skuvlen oahpaheaddjiide: https://www.nuortenakatemia.fi/hankkeet/kulttuurien-koulu/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kuva: Kevin Francett</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Govva: Kevin Francett</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

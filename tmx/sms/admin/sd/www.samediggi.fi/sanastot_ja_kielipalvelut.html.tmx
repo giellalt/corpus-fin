@@ -1,0 +1,351 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">sanastot_ja_kielipalvelut.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastot ja kielipalvelut</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõll- da jåårǥlâʹttemkääzzkõõzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Saʹnnõs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lakisanasto (suomi-saame) . Pohjoissaamen kieli.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>ÁLGU – Sääʹmǩiõli etymologiilaž ATR –teâttnorldõk (ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sámediggi Saamelaiskäräjät 2005.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Liâdggsaž ǩiõllkonttâr sääʹnnǩeʹrjj .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanastossa hakusanat ovat suomen kielellä ja vastineet pohjoissaamen, ruotsin ja norjan kielillä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuõiʹǧǧestǩeeʹrjtumuužž lââʹssen sääʹnnǩeeʹrjest käunnʼje jm. lääʹddǩiõl saaʹni ânnʼjõžmiârkktõõzz da ââʹnnemõhttvuõđ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huom!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>(ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tarkistamaton sanasto.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårglõõʹtti da tuulk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Eduskuntasanasto (suomi-pohjoissaame) 2008.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõll konttâr jåårglõõʹtti da tuulk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioneuvosto. Valter valtioneuvoston termipankki .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõllkonttâr kääzzkâʹsttem-määus jåårǥlâʹttemkääzzkõõzzin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valtioneuvosto.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lääʹddjânnam ǩiõlljåårǥlõõʹttji da tuulki lett Ooccâmkääzzkõs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sámi Giellagáldu (Saamen Kielikaltio) Uusia termejä ja normeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>(ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sátni – báhko – baakoe Saamenkielten sanakirja ja termipankki.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Veerjlaž ǩiõlljåårǥlõõʹtti .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Norjan saamelaiskäräjät.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mättʼtõshalltõs OPH (ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>ÁLGU – Saamelaiskielten etymologinen tietokanta , Kotimaisten kielten tutkimuskeskus (Kotus)</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Suomen tulkkaus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maiden nimet seitsemällä kielellä mm. pohjoissaamen kielellä, Kotimaisten kielten tutkimuskeskus (Kotus)</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Kokokousmatkaajan käsikirja Eurooppaan . Euroopan komission tulkkauksen pääosaston suomenkielinen tulkkausyksikkö.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköinen kielitoimiston sanakirja.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>(ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oikeinkirjoituksen lisäksi sanakirja kertoo mm. suomen kielen sanojen nykymerkitykset ja käyttöyhteydet.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Kaart Mäddmetteemkonttâr karttkääzzkõs .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kotimaisten kielten tutkimuskeskus (Kotus)</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Pääiʹǩnõõm še tâʹvv-, aanar- da nuõrttsääʹmǩiõlin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tepa-termipankki Sanastokeskus TSK:n sanasto</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>(ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntäjät ja tulkit</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõllhuõll da sääʹm ǩiõllterminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston lista freelancer kääntäjistä ja tulkeista</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Divvun.no Sääʹmǩiõl vuõigglookkâmtuâjjneäv (ävvne ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimiston palvelumaksut käännöspalveluista</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹm ǩiõllteknologia kõõskõs – Giellatekno .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen kääntäjien ja tulkkien liitto SKTL.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Âânn seʹst jm. tâʹvv-, aanar- da nuõrttsääʹmǩiõl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sisältää hakupalvelun. Auktorisoidut kielenkääntäjät .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõllmätt- da analyystuâjjneäv ǩiõllmättprograamm, sääʹnnǩeeʹrj da jåårǥlâʹttemtuâjjneäv (ävvne ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetushallitus</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mall da tiõrvtumuš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suomen tulkkaus. Kokokousmatkaajan käsikirja Eurooppaan .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Šiõǥǥ naʹzvaanpeeiʹv 14.2. – tâʹvv-, aanar- da nuõrttsäämas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Euroopan komission tulkkauksen pääosaston suomenkielinen tulkkausyksikkö.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mallceâlkki meäddaåårrmõõžžâst neʹttpååʹšt vääras jm. tâʹvv-, aanar- da nuõrttsäämas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kartat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Saaʹmi meersažpeiʹvv 6.2. jm. tâʹvv-, aanar- da nuõrttsäämas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maanmittaustoimiston karttapalvelu .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Šiõǥǥ evvanpeeiʹv jm. tâʹvv-, aanar- da nuõrttsäämas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paikannimet myös pohjois-,inarin- ja koltansaamen kielellä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Šiõǥǥ Rosttvid da Leklvaž Ođđ eeʹjj jm. tâʹvv-, aanar- da nuõrttsäämas (ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielenhuolto ja saamen kieliteknologia</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Čõhččmannu 26. peeiʹv lij Euroop ǩiõli peiʹvv jm. tâʹvv-, aanar- da nuõrttsäämas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Divvun.no Saamen kielen oikolukutyökalut</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mättʼtõõzz da tuʹtǩǩõõzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kieliteknologian keskus – Giellatekno . Sisältää mm. pohjois-, inarin- ja koltansaamen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Veerjlaž ǩiõlljåårǥlõõʹtti tuʹtǩǩõs .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielioppi- ja analyysityökalut sekä kielioppiohjelmat, sanakirjat ja käännöstyökalut.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mättʼtõshalltõs OPH (ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mallit ja tervehdykset</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Giellagas-institutt, Oulu universitett .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervehdyksiä saamen kielillä .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Väʹlddaunnsen sääʹmǩiõll da sääʹmkulttur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjät</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Čårraaunâsmättjumuužž jm. sääʹmǩiõll veeʹres ǩiõllân, sääʹmǩiõl tuʹlǩǩumuš da aanarsääʹm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetus ja tutkinnot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>(ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoidun kielenkääntäjän tutkinto .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmtuʹtǩǩumuš (HuK), Lääʹdd-Ugrlaž ǩiõltuʹtǩǩumuš, Heʹlssen universitett Sääʹm pååđmättjemlinnj (FM) (ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetushallitus</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl vuâđđmättjumuužž, Pedagogtiõđi tiõđkåʹddlaž, Sääʹmjânnam universitett Sääʹmǩiõl čårraaunâsmättjumuužž Vuâđđmättjumuužž (25 mc) (ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Giellagas-instituutti Oulun yliopisto.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmvuuʹd škoouʹlʼjemkõõskõs .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pääaineina saamen kieli ja saamelainen kulttuuri.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ämmatlaž mättʼtemstrooiteʹl, koʹst mättʼtõõzz liâ še säämas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivuaineopintoja mm. saamen kieli vieraana kielenä, saamen kielen tulkkaus ja inarinsaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>(ävvan ođđ ikkna)</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

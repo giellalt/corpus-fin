@@ -1,0 +1,4999 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">kaantajat_ja_tulkit.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntäjät ja tulkit</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårǥlõʹtti da tuulk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tervetuloa Saamelaiskäräjien kääntäjä- ja tulkkihakupalveluun!</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Pueʹtted tiõrvân Sääʹmteeʹǧǧ jåårǥlõʹtti- da tulkkooccâmkääzzkõʹsse!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Etsitkö saamenkielistä kääntäjää tai tulkkia?</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ooʒʒak-a sääʹmǩiõllsa jåårǥlõʹtti leʹbe tuulk?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hakupalvelun avulla löydät Saamelaiskäräjien ylläpitämistä tiedoista pohjoissaamen, inarinsaamen ja koltansaamen freelancer-kääntäjiä ja -tulkkeja.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ooccâmkääzzkõõzz veäkka kaaunak Sääʹmteeʹǧǧ tuõʹllʼjem teâđain tâʹvvsääʹm, aanarsääʹm da nuõrttsääʹm freelancer-jåårǥlõʹttjid da tuulkid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamelaiskäräjien saamen kielen toimiston kielenkääntäjät auttavat tarvittaessa viranomaisten kanssa asioinnissa tarvittavien saamenkielisten asiakirjojen kääntämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmteeʹǧǧ sääʹmǩiõl konttâr ǩiõlljåårǥlõʹtti vieʹǩǩte taarb mieʹldd veʹrǧǧniiʹǩǩivuiʹm äʹššummšest taarbšum sääʹmǩiõllsaž äʹššǩiiʹrji jåårǥlâttmõõžžâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen toimisto ei tarjoa tulkkauspalveluita, mutta ylläpitää listaa freelancertulkeista ja auttaa saamenkielisen tulkkauksien järjestämisessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sää ʹ mǩiõl koontâr ij taʹrjjed tuʹlǩǩeemkääzzkõõzzid, leša tuõʹllai liist freelancer-tuulkin da vieʹǩǩat sääʹmǩiõllsaž tuʹlǩǩõõzzi jäʹrjstummšest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Avuksi:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Veäʹǩǩen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjeita tilaajalle</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuäppõõzz tiʹllʼjeeja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamenkieliset kääntäjät ja tulkit:</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõllsa jåårǥlõʹtti da tuulk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ovatko tietosi muuttuneet tai haluatko ilmoittaa omat tietosi Saamelaiskäräjien kääntäjä- ja tulkkihakupalveluun?</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lie-ko tuʹst teâđ mottjam leʹbe haaʹlääk-a iʹlmmted teâđääd Sääʹmteeʹǧǧ jåårǥlõʹtti- da tulkkooccâmkääzzkõʹsse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Täytä lomake .</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tiuddâd lomaakk .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntäjä- ja tulkkihakupalvelu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårǥlõʹtti- da tulkkooccâmkääzzkõs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielestä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõlâst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kielelle</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõʹlle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tyyppi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tyypp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aikio, Áile</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aikio, Áile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisosaaminen kulttuuriperintöön liittyvissä kysymyksissä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Spesiaalsilttummuš kulttuurärbba õhttneei kõõččmõõžžin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: aile.aikio@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: aile.aikio@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Valle, Ailu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Valle, Ailu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: ailuv85@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: ailuv85@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morottaja, Anna</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Morottaja, Anna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 41 443 8278</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 41 443 8278</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: anna.morottaja@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: anna.morottaja@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kalla, Anne-Marie</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Kalla, Anne-Marie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: annemarie.kalla@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: annemarie.kalla@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Nuorgam, Anne</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuorgam, Anne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Perehtynyt hallinto- ja oikeuskieleen, koulutukseltani oikeustieteiden maisteri.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Harjjnam vaaldâšm- da vuõiǥâsǩiõʹlle, škooultõssân lij vuõiggâdvuõtt-tiõttji maister.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä, suomi-pohjoissaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti, lääʹdd-tâʹvvsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoki / Rovaniemi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ohcejohka/Roavvenjárga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 534 3316</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 534 3316</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: anuorgam@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: anuorgam@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Länsman, Anni-Siiri</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Länsman, Anni-Siiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: anni-siiri.lansman@oulu.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: anni-siiri.lansman@oulu.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aikio, Ante</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aikio, Ante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: anaikio1977@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: anaikio1977@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi, pohjoissaame - englanti, englanti - pohjoissaame</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll, tâʹvvsääʹmǩiõll - eŋgglõsǩiõll, eŋgglõsǩiõll - tâʹvvsääʹmǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Magga, Arla</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Magga, Arla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen koulutukseltani FM, pääaineena pohjoissaamen kieli.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Leäm škooultõsân peäʹlest FM, väʹlddaunnsen tâʹvvsääʹmǩiõl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työ- ja käännöskokemusta erityisesti koulutuksen alalta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjast da jåårǥlâʹttemtuâjain leäm härjjnam jeäʹrben škooultõs-suârgga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käännöskokemusta myös mm. viranomaisten kuulutuksista, ilmoituksista sekä museoiden esittelyteksteistä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Leäm še jåårǥlâttam jm. veʹrǧǧniiʹǩǩi kuultõõzzid, iʹlmmtõõzzid di museoi čuäjtõsteeʹkstid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä kieliparissa suomi-pohjoissaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti ǩiõllpaarâst läʹdd-tâʹvvsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkauskokemusta eniten simultaanitulkkaamisessa konferensseissa, kokouksissa ja seminaareissa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuʹlǩǩõõzzin leäm härjjnam jäänmõsân simultaantuʹlǩǩõõzzid konfereeʹnsin, såbbrin da seminaarin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oulu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Oulu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 45 888 8728</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 45 888 8728</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: arlakristiina@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: arlakristiina@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sara, Elen Anne</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sara, Elen Anne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: elenannesara@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: elenannesara@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pautamo, Ellen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Pautamo, Ellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: 044 333 5221</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: 044 333 5221</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: ellen.pautamo@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: ellen.pautamo@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>etätyö Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lumisalmi, Erkki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lumisalmi, Erkki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koltansaamen taitoinen myös luen ja kirjoitan.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Nuõrttsääʹm täiddsaž di looǥǥam da ǩeeʹrjtam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Hämeenlinna</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Hämeenlinna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 400 396 326</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: erkki.lumisalmi@outlook.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 400 396 326</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: erkki.lumisalmi@outlook.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kangasniemi, Hannu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Kangasniemi, Hannu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Normaalit kokoukset (Saamelaiskäräjät, hallitus, ym. vastaavat) onnistuvat.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erikoisalojen tulkkaukset täytyy harkita aina tapauskohtaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Noʹrmaal såbbar (Sääʹmteʹǧǧ, halltõs, odm. Vaʹstteei) oʹnnste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Varsinaista tulkkikoulutusta ei tällä hetkellä ole.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Spesiaalsueʹrji tuʹlǩǩõõzz feʹrttje smiõttâd pâi ääʹšš/šõddmõõžž mieʹldd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuõttlaž tuʹlǩǩõs-škooultõs ij leäkku. Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 50 364 1385</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 50 364 1385</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: hannu.kangasniemi@kotiposti.net</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: hannu.kangasniemi@kotiposti.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi, suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll, lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi, suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll, lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Huovinen, Heli</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Huovinen, Heli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 506 9354</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 506 9354</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: helian.huovinen@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: helian.huovinen@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Haataja, Helmi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Haataja, Helmi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 578 8857</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 578 8857</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: haatajahelmi@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: haatajahelmi@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Guttorm, Inga</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Guttorm, Inga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>FM saamen kielessä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>FM sääʹmǩiõlâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä suomi - saame, saame - suomi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti läʹdd - sääʹmm, sääʹmm - läʹdd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamennan monenlaisia tekstejä. Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårǥlââttam säämas määŋgnallšem teeʹkstid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Uccjokk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: oahptii@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: oahptii@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>etätyö Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aikio, Jouni</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä, pohjoissaame-suomi-pohjoissaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aikio, Jouni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 50 4366 432</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti, tâʹvvsääʹmm-lääʹdd-tâʹvvsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 50 4366 432</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Anttonen, Kaija</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kaamanen</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Anttonen, Kaija</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 748 4846</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Kaamâs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: kaija.anttonen@clarinet.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 748 4846</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>pohjoissaame - suomi, suomi - englanti, englanti - suomi, pohjoissaame - englanti</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: kaija.anttonen@clarinet.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - englanti, englanti - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tâʹvvsääʹmǩiõll - lääʹddǩiõll, lääʹddǩiõll - eŋgglõsǩiõll, eŋgglõsǩiõll - lääʹddǩiõll, tâʹvvsääʹmǩiõll - eŋgglõsǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näkkäläjärvi, Klemetti</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - eŋgglõsǩiõll, eŋgglõsǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>FT kulttuuriantropologia, FL saamen kieli ja saamelaiskulttuuri, yli 30 vuoden kokemus oikeastaan kaikista aihepiireistä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Näkkäläjärvi, Klemetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä suomi-pohjoissaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>FT kulttuurantropologia, FL sääʹmǩiõll da sääʹmkulttuur, pâiʹl 30 eeʹjj vuäinnmõš nuʹt säärneeʹl pukin äʹšškruuggin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuontisjärvi, Enontekiö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti lääʹdd-tâʹvvsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 537 1584</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuontisjäuʹrr, Jeänõk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: dierpmis@pp.inet.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 537 1584</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: dierpmis@pp.inet.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat arkisin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aikio, Maria Sofia</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: sofe76@hotmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aikio, Maria Sofia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Uccjokk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: sofe76@hotmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sara, Marjinga</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 404 131 255</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: marjingasara@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sara, Marjinga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 404 131 255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: marjingasara@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Alajärvi, Martta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Osaan inarinsaamen lisäksi myös pohjoissaamea, joskaan sillä kielellä en ole tulkannut kuin hyvin vähän.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>En ole opiskellut tulkkaamista, mutta minulla on alempi korkeakoulututkinto Oulun yliopiston saamen kielen pääaineesta, pääaineenani inarinsaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen tulkannut enimmäkseen Saamelaiskäräjien kokouksissa, joten aihepiirit ovat painottuneet niihin asioihin, joita siellä käsitellään.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Alajärvi, Martta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Rovaniemi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Silttääm aanarsääʹm lââʹssen še tâʹvvsääʹm, pâi tõin ǩiõlin jiõm leäkku tuʹlǩǩääm jiânnai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 843 5438</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jiõm leäkku mättʼtõõttâm tuʹlǩǩummuž, leša muʹst lij vueʹllǥab õllškooultuʹtǩǩõs Oulu universiteeʹtt sääʹmǩiõl väʹlddaunnsest, väʹlddaunnsen aanarsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: martta.alajarvi@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Leäm tuʹlǩǩääm jäänmõsân Sääʹmteeʹǧǧ såbbrin, de nuʹt äʹšškruugg liâ teäʹddõõvvâm tõid aaʹššid, koid toʹb ǩiõttʼtõõlât. Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ruäʹvnjargg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 843 5438</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: martta.alajarvi@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Fofonoff, Merja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä suomi-koltansaame</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 400 532 323</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Fofonoff, Merja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: merjaffff@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti lääʹdd-nuõrttsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Näkkäläjärvi, Minna</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 400 532 323</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: merjaffff@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Koulutukseltani olen saamenkielinen luokanopettaja ja olen käynyt tulkin toimeen lukuvuoden pituisen kurssituksen SOGSAKK:issa 2020-21.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Enontekiö, Hetta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Näkkäläjärvi, Minna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 400 850 080</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Škooultõõzz beäʹlnn leäm sääʹmǩiõllsaž klassuʹčteeʹl da leäm jeällam tuulk toimmu lookkâmeeʹjj kuʹǩes kuurs SOGSAKK:ist 2020-21.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: edaminna@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Eanodat, Heahttá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 400 850 080</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: edaminna@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Jääskö, Neeta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä suomi-inarinsaame (2017-22), parhaat aihepiirit koulutus ja ympäristö.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokemusta myös oikeustulkkaamisesta sekä -kääntämisestä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jääskö, Neeta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oulu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti lääʹdd-aanarsääʹmm (2017-22), pueʹrmõõzz äʹšškruugg škooultõs da pirrõs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 596 9230</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõččlâsttmõš še vuõiǥâstuʹlǩǩõõzzâst di -jåårǥlâttmõõžžâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: neeta@neetainari.fi , neetainari@icloud.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Oulu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 596 9230</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi, suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: neeta@neetainari.fi , neetainari@icloud.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi, suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi, suomi - pohjoissaame, pohjoissaame - suomi Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll, lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi, suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa oikeusasioita suomi - inarinsaame, inarinsaame - suomi, suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll, lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Järvensivu, Oula</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll, lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oulu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll, lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 647 7148</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>vuõiǥâstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: oulajarvensivu@hotmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll, lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Järvensivu, Oula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Oulu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 647 7148</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: oulajarvensivu@hotmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Paadar, Outi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pohjoissaame äidinkieli.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sivutoiminen kääntäjä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käännän pääosin iltaisin ja viikonloppuisin.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Saamen kielen ja saamelaiskulttuurin opinnot.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Erityisosaaminen: saamelainen käsityö, kielisosiologia ja kielenelvytys, kansalaisjärjestötoiminta, kansainvälinen toiminta ja pohjoismainen yhteistyö sekä rakennerahasto-osaaminen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Paadar, Outi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 565 6255</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tâʹvvsääʹmm jieʹnnǩiõll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: outi.paadar@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Čårrtåimmsaž jåårǥlõʹtti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Jåårǥlââttam vuõss-sââʹjest jeäʹǩǩääi da neäʹttel-looppi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>etätyö Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sääʹmǩiõl da sääʹmkulttuur määtt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Spesiaalsilttummuš: sääʹmǩiõtt-tuâjj, ǩiõllsosiologia da ǩiõlljeälltummuš, meerorganisaatiotoimmjummuš, meeraikõskksaž toimmjummuš da tâʹvvjânnmallaš õhttsažtuâjj di raajõsfonddsilttummuš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 565 6255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pieski, Pentti</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: tmi.outi.paadar@gmail.com , outi.paadar@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matkustaminen tulkkaustehtävissä ei ole ongelma.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 522 9990</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: pentti@tenolle.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Pieski, Pentti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Leäm vaalmâš jååʹtted tuʹlǩǩeemtuâjai diõtt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Uccjokk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 522 9990</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: pentti@tenolle.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa oikeusasioita suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morottaja, Petter</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Filosofian maisteri, pääaineena inarinsaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Usean vuoden kokemus moninaisten aihepiirien kääntämisestä inarinsaameksi sekä käännösten oikolukemisesta ja arvioinnista.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kokemusta simultaanitulkkauksesta konferensseissa ja kokouksissa.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vantaa</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>vuõiǥâstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 45 235 5395</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: petter.morottaja@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Morottaja, Petter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Filosofia maister, väʹlddaunnsen aanarsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Määŋg eeʹjj ǩiõččlâsttmõš määŋgnallšem äʹšškruuggi jåårǥlâttmõõžžâst aanrõšǩiõʹlle di jåårǥlõõzzi vuõigglookkmõõžžâst da ärvvtõõllmõõžžâst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ǩiõččlâsttmõš simultaantuʹlǩǩõõzzâst konfereensin da såbbrin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vantaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 45 235 5395</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: petter.morottaja@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa oikeusasioita</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Triumf, Rauna</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Opetus- ja kulttuurialan koulutus.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 653 5638</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: raunat@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>vuõiǥâstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Triumf, Rauna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mättʼtõs- da kulttuursueʹrj škooultõs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 653 5638</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Orti-Berg, Riitta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: raunat@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Talous, kulttuuri, maankäyttö- sekä ympäristö ja kalastus, opetustoimi, kunnallispolitiikka ja hanke aihepiirit tuttuja.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asioimistulkkauksessa terveyspalvelut, toimeentulo ja perheasiat.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Olen valmis ottamaan tulkkaustoimeksiantoja laaja-alaisesti, kunhan vaan on tarpeeksi aikaa valmistella tulkkaukseen.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 50 343 1319</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: ortibergriitta@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Orti-Berg, Riitta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tällõs, kulttuur, mäddâânnmõš- di pirrõs da kueʹllšeellmõš, mättʼtemtåimm, kååddlažpolitikk da haʹŋǩǩõs äʹšškruugg tobddâz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Äʹššeemtuʹlǩǩõõzzâst tiõrvâsvuõttkääzzkõõzz, piʹrǧǧummuš da piârääʹšš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Leäm vaalmâš väʹldded tuʹlǩǩeemtuâjjânouddmõšõžžid vaaidâs-sueʹrji mieʹldd, ko pâi lij äiʹǧǧ uvddum valmštõõllâd tuʹlǩǩõʹsse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Uccjokk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 50 343 1319</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: ortibergriitta@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa oikeusasioita</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Morottaja, Saammal</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: saammal.morottaja@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Morottaja, Saammal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: saammal.morottaja@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seipiharju, Sáárá</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 50 355 9546</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: saara.seipi@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Seipiharju, Sáárá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>etätyö Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - inarinsaame, inarinsaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 50 355 9546</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Mäkelä, Sari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: saara.seipi@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Asioimistulkkaus, Koltansaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sogsakk, Diak, OU/Giellagas.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ivalo</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - aanrõšǩiõll, aanrõšǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 45 110 2902</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Mäkelä, Sari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: sari.makela@inari.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Äʹššeemtuʹlǩǩõs, Nuõrttsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sogsakk, Diak, OU/Giellagas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Âʹvvel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 45 110 2902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt : sari.makela@inari.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Somby, Seija Risten</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>FM saamen kieli ja saamelaiskulttuuri.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 580 5513</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: seijasomby@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Somby, Seija Risten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Fofonoff, Sisko Hilkka</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>FM sääʹmǩiõll da sääʹmkulttuur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ivalo</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 580 5513</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 45 266 3272</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: seijasomby@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: sisko.fofonoff@hotmail.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Fofonoff, Sisko Hilkka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat arkisin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Âʹvvel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 45 266 3272</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: sisko.fofonoff@hotmail.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Länsman, Sunná</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Oulu</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: sunna.lansman@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Länsman, Sunná</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sara-Tornensis, Sunnamaarit</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Oulu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 732 3896</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: sunna.lansman@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: sunna.saratornensis@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sara-Tornensis, Sunnamaarit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 732 3896</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: sunna.saratornensis@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ljetoff, Tauno</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 589 3249</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: tauno.ljetoff@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Harju, Terhi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Teen tulkkausta sivutyönä.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä suomi-koltansaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Ljetoff, Tauno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sevettijärvi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 589 3249</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: tauno.ljetoff@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 40 828 5710</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: terhimarjj@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Harju, Terhi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuejjääm tuʹlǩǩõõzz čårrtuâjjan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti lääʹdd-nuõrttsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Čeʹvetjäuʹrr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 40 828 5710</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: terhimarjj@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sanila-Aikio, Tiina</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä suomi-koltansaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: tiina@sanila.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Sanila-Aikio, Tiina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arkisin, arki-iltaisin, viikonloput</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti lääʹdd-nuõrttsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi, inarinsaame - koltansaame, pohjoissaame - koltansaame</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi, inarinsaame - koltansaame, pohjoissaame - koltansaame</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: tiina@sanila.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi, inarinsaame - koltansaame, pohjoissaame - koltansaame</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - koltansaame, koltansaame - suomi, inarinsaame - koltansaame, pohjoissaame - koltansaame</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Pulska, Unna-Maari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggpeeiʹvin, arggjeäʹǩǩääi, neäʹttel-looppin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä kieliparissa suomi-pohjoissaame.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll, aanrõšǩiõll - nuõrttsääʹmǩiõll, tâʹvvsääʹmǩiõll - nuõrttsääʹmǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Filosofian maisteri, Oulun yliopisto, pääaine pohjoissaamen kieli.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Suorittanut 25 op tulkin opintoja.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll, aanrõšǩiõll - nuõrttsääʹmǩiõll, tâʹvvsääʹmǩiõll - nuõrttsääʹmǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Vuotso</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll, aanrõšǩiõll - nuõrttsääʹmǩiõll, tâʹvvsääʹmǩiõll - nuõrttsääʹmǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 44 555 38 97</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - nuõrttsääʹmǩiõll, nuõrttsääʹmǩiõll - lääʹddǩiõll, aanrõšǩiõll - nuõrttsääʹmǩiõll, tâʹvvsääʹmǩiõll - nuõrttsääʹmǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: unnamp@gmail.com</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Pulska, Unna-Maari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työskentely</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>lähityö, etätyö</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Auktorisõsttum jåårǥlõʹtti lääʹdd-tâʹvvsääʹmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Työajat</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Filosofia maister, Oulu universiteʹtt, väʹlddaaunâs tâʹvvsääʹmǩiõll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>arki-iltaisin</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Spraavâm 25 mc tuulk määttaid. Päiʹǩǩ-kåʹdd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Vuâčč</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Õhttvuõđteâđ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Teʹlfon-nââmar: +358 44 555 38 97</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Neʹttpååʹšt: unnamp@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa asiointeja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lij tuâjast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>âʹlddtuâjj, ougglõstuâjj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Tulkkaa konferensseja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Tuâjjääiʹj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>arggjeäʹǩǩääi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Holmberg, Veikko</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>jåårǥlâtt ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lisätietoja</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Auktorisoitu kääntäjä, pohjoissaame-suomi.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>tuʹlǩǩad ǩiõlid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kunta</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjoki</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>äʹššeemtuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Puhelinnumero: +358 45 267 8911</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>konferensstuʹlǩǩad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Sähköposti: veikko.holmberg@pp.inet.fi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>lääʹddǩiõll - tâʹvvsääʹmǩiõll, tâʹvvsääʹmǩiõll - lääʹddǩiõll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kääntää kieliä</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Holmberg, Veikko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>suomi - pohjoissaame, pohjoissaame - suomi</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Lââʹssteâđ</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

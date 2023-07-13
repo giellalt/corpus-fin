@@ -1,0 +1,47 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=656_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kulttuuriseminaari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Kultturseminar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>26.11.2012, alkaen klo 9.45, Saamelaiskulttuurikeskus Sajos, Inari</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>26.11.2012, ääʹljeeʹl čiâss 9.45, Sääʹmkultturkõõskõs Sajos, Aanar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kutsumme kaikki saamelaistoimijat pohtimaan tulevaisuuden painopisteitä ja kehittämään apurahojen kohdentamista yhteisölle tärkeisiin hankkeisiin.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Kåččap pukid sääʹmtuåimmjeeʹjid smiõttâd puõʹttiääiʹj teäddceäkldõõzzid da ooudâsviikkâd veäʹǩǩtieʹǧǧi tillõõvvmõõžž õhttsažkååʹdd vääžnai haʹŋǩǩõõzzid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Seminaarin aamupäivä käytetään hakumenettelyn sekä kulttuurimäärärahan teknisten ohjeiden parissa sekä kuullaan eri rahoituslähteistä ja iltapäivällä aloitamme alustuksella Saamelaiskäräjien "taide-, käsityö ja kulttuuripoliittisesta"-ohjelmaluonnoksesta.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Seminaar tueʹlespeiʹvv ouddan čeäppneeʹǩǩid vääžnai ooccâm-mõõntõõllmõõžž di kultturmieʹrrtieʹǧǧ teknlaž vuäʹpstõõzzi pirr di lââʹssen kuulât jeeʹres teäggtemkruuggi pirr da jeäʹǩǩespeeiʹv altteep valštõõllâm vueʹlnn åårrai Sääʹmteeʹǧǧ "čeäppõs-, ǩiõtt-tuâjj da kultturpolitiikklaž "-programmhämmsest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Ohjelma</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>Programm</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

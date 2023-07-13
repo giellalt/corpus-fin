@@ -1,0 +1,103 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=158_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaamenkieliset oppimateriaalit</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Anarâškielâlâš oppâmateriaaleh Eenikielâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame, äidinkieli</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Sämikielâ vieres kielân</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame vieraana kielenä</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Čaabâkirjálâšvuotâ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Kirjallisuus</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Párnáikirjeh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Inarinsaame, sanakirjat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Matematiik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Lastenkirjat</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Luándu já piirâs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Matematiikka</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Biologia já eennâmtiätu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Luonto ja ympäristö</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eennâmtiätu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Biologia ja maantieto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>OskoldâhKietâtyejiEres materiaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Maantieto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Oskoldâh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Uskonto</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Kietâtyeji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Käsityöt</seg>
+      </tuv>
+      <tuv xml:lang="smn">
+        <seg>Eres materiaal</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,23 @@
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="fin" datatype="plaintext">
+    <prop type="x-filename">index2.php_option=com_content_task=view_id=144_lang=finnish.html</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Aimo Guttorm valittiin lakimiessihteerin virkaan</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="fin">
+        <seg>Utsjokelainen oikeustieteen kandidaatti/ varatuomari Aimo Guttorm valittiin Saamelaiskäräjien avoinna olleeseen lakimiessihteerin vakituiseen virkaan.</seg>
+      </tuv>
+      <tuv xml:lang="sms">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
