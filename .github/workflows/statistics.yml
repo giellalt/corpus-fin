@@ -21,7 +21,7 @@ jobs:
         run: |
           mkdir artifacts/
           ccat -l fin ${{ github.workspace }}/converted |\
-          bash giella-core/devtools/cheap-tokeniser.bash |\
+          bash ${{ github.workspace }}/giella-core/devtools/cheap-tokeniser.bash |\
           sort | uniq -c | sort -nr |\
           head -n 100 | tee artifacts/corpus-fin.freqs
       - name: store frequencies
