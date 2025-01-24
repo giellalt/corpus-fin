@@ -22,12 +22,9 @@ jobs:
       - name: calculate frequencies
         run: |
           mkdir artifacts/
-          pwd
-          ls -lR *
           ccat -l fin ${{ github.workspace }}/corpus-fin/converted |\
           bash ${{ github.workspace }}/giella-core/devtools/cheap-tokeniser.bash |\
-          sort | uniq -c | sort -nr |\
-          head -n 100 | tee artifacts/corpus-fin.freqs
+          sort | uniq -c | sort -nr > artifacts/corpus-fin.freqs
       - name: store frequencies
         uses: actions/upload-artifact@v4
         with:
