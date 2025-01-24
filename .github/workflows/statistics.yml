@@ -1,0 +1,31 @@
+---
+name: Stats
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  count-frequencies:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: giellalt/giella-core
+          path: giella-core
+      - uses: actions/checkout@v4
+      - name: Install ccat
+        run: |
+          sudo apt-get install -qfy pipx
+          pipx install --force git+https://github.com/giellalt/CorpusTools.git
+      - name: calculate frequencies
+        run: |
+          mkdir artifacts/
+          ccat -l fin ${{ github.workspace }}/converted |\
+          bash giella-core/devtools/cheap-tokeniser.bash |\
+          sort | uniq -c | sort -nr |\
+          head -n 100 | tee artifacts/corpus-fin.freqs
+      - name: store frequencies
+        uses: actions/upload-artifact@v4
+        with:
+          name: corpus-fin.latest.freqs
+          path: artifacts/corpus-fin.freqs
