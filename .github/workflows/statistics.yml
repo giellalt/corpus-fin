@@ -20,6 +20,8 @@ jobs:
       - name: calculate frequencies
         run: |
           mkdir artifacts/
+          pwd
+          ls -lR *
           ccat -l fin ${{ github.workspace }}/converted |\
           bash ${{ github.workspace }}/giella-core/devtools/cheap-tokeniser.bash |\
           sort | uniq -c | sort -nr |\
