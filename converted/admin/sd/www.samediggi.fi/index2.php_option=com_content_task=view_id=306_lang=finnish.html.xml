@@ -1,4 +1,6 @@
-<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Hanketoiminta</title><genre code="admin"/><author><unknown/></author><wordcount>291</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=306&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=306_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=306_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=306_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=306_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Hanketoiminta</p>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Hanketoiminta</title><genre code="admin"/><author><unknown/></author><wordcount>291</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=306&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=306_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=306_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=306_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=306_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Hanketoiminta</p>
 <p>Saamelaiskulttuurikeskuksen suunnittelun, rakentamisen ja toiminnan käyntiinsaattamisen puolesta toimi kaksi EU-rahoitteista projektia; a) Saamelaiskulttuurikeskuksen toteuttamisprojekti ja b) Saamelaiskulttuurikeskus Sajoksen liiketoiminta-, markkinointi- ja tuotekehitysprojekti. Saamelaiskulttuurikeskus Sajoksen arkkitehtisuunnittelun takana olivat oululaisen HALO-arkkitehdit Oy:n arkkitehti SAFA Janne Laukka, arkkit.yo Tuomas Niemelä ja arkkit.yo Milla Parkkali. Sisustussuunnittelusta vastasi myös Halo-Arkkitehdit Oy.</p>
 <p><em type="italic">Saamelaiskulttuurikeskuksen toteuttamishanke </em> </p>
 <p>Saamelaiskulttuurikeskuksen toteuttamishankke toimi 10/2008 - 3/2012. Sajos valmistui käyttöön 1.1.2012 ja avautui yleisölle maanantaina 9.1.2012.</p>
@@ -18,16 +20,16 @@
 <p type="listitem">eri osatoiminnot yhdessä muodostavat toimivan ja ehjän kokonaisuuden</p>
 <p xml:lang="vep"><em type="bold">AIKATAULU: </em></p>
 <p xml:lang="vep"><em type="bold">TOIMINTA: </em></p>
-<p xml:lang="koi"/>
-<p xml:lang="koi">10/2007</p>
+<p xml:lang="tur"/>
+<p xml:lang="vep">10/2007</p>
 <p>Hankkeen alkaminen</p>
-<p xml:lang="koi">2008</p>
+<p xml:lang="vep">2008</p>
 <p>Arkkitehtuurikilpailu</p>
-<p xml:lang="koi">2009</p>
+<p xml:lang="vep">2009</p>
 <p xml:lang="fkv">Suunnittelu</p>
-<p xml:lang="koi">2010-2011</p>
+<p xml:lang="vep">2010-2011</p>
 <p>Rakentaminen</p>
-<p xml:lang="koi">2012</p>
+<p xml:lang="vep">2012</p>
 <p>Muutto, käyttöönotto, toiminta</p>
 <p xml:lang="olo">VKO 15-18/2010</p>
 <p>Vanhojen rekennuksien purkutyö; purku-urakoitsija Rakennuspalvelu PPJ Oy</p>
@@ -41,27 +43,27 @@
 <p xml:lang="fkv">vko 1/2012</p>
 <p>Saamelaiskulttuurikeskus valmis käyttöönotettavaksi</p>
 <p xml:lang="vep"><em type="bold">TÄRKEITÄ PÄIVÄMÄÄRIÄ: </em></p>
-<p xml:lang="koi">12.5.2010</p>
+<p xml:lang="vep">12.5.2010</p>
 <p>Nimikilpailun julkistamistilaisuus Siidassa; nimeksi valittiin SAJOS</p>
-<p xml:lang="koi">10.6.2010</p>
+<p xml:lang="vep">10.6.2010</p>
 <p>Peruskiven muuraustilaisuus</p>
-<p xml:lang="koi">14.4.2011</p>
+<p xml:lang="vep">14.4.2011</p>
 <p>Harjannostajaiset.</p>
 <p xml:lang="fra">Lue lehdistötiedote.</p>
-<p xml:lang="koi">14.4.-31.5.2011</p>
+<p xml:lang="vep">14.4.-31.5.2011</p>
 <p xml:lang="olo">Kaustehankinnan tarjouskilpailuaika</p>
-<p xml:lang="koi">1.-30.6.2011</p>
+<p xml:lang="vep">1.-30.6.2011</p>
 <p>Tekstiilihankinnan tarjouskilpailuaika</p>
 <p xml:lang="fkv">Viikko 49/2011</p>
 <p>Sajoksen kalusteet asennetaan paikoilleen;</p>
 <p>Martela Oy, Isku Oy, ADI Kaluste Oy, INNO oy,</p>
 <p xml:lang="fkv">Viikko 50/2011</p>
 <p>Sajoksen tekstiilit asennetaan paikoilleen; Vallila Interior Oy</p>
-<p xml:lang="koi">1.1.2012</p>
+<p xml:lang="vep">1.1.2012</p>
 <p>Sajoksen toimijat aloittivat toimintansa Sajoksessa</p>
-<p xml:lang="koi">9.1.2012</p>
+<p xml:lang="vep">9.1.2012</p>
 <p>Sajos avautui Sajoksessa asioiville</p>
-<p xml:lang="koi">31.3. 2012</p>
+<p xml:lang="vep">31.3. 2012</p>
 <p>Saamelaiskulttuurikeskuksen toteuttamishanke päättyy</p>
 <p xml:lang="fra"><em type="italic">LIITETIEDOSTOJA: </em></p>
 <p xml:lang="sms">Arkkitehtikilpailu. Lue lisää</p>

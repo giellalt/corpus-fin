@@ -1,4 +1,6 @@
-<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>192</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/turvallisuus#.WR67KsYvHNQ</origFileName><parallel_text xml:lang="eng" location="turvallisuus_.wr67mcyvhnq.html"/><parallel_text xml:lang="sme" location="dorvvolasvuohta_.wr67j8yvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Turvallisuus - Aluehallintovirasto</p>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>192</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/turvallisuus#.WR67KsYvHNQ</origFileName><parallel_text xml:lang="eng" location="turvallisuus_.wr67mcyvhnq.html"/><parallel_text xml:lang="sme" location="dorvvolasvuohta_.wr67j8yvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Turvallisuus - Aluehallintovirasto</p>
 <p>› Graafinen versio</p>
 <p xml:lang="fkv">Henkilöhaku</p>
 <p type="title">Sisällytetyt portletit</p>
@@ -9,7 +11,7 @@
 <p type="listitem">Luvat</p>
 <p type="listitem" xml:lang="olo">Palosuojelurahasto</p>
 <p type="listitem" xml:lang="kal">Kunniamerkit</p>
-</list><p xml:lang="koi">2016-12-15</p>
+</list><p xml:lang="vep">2016-12-15</p>
 <p>Aluehallintoviraston (AVIn) tavoitteena on parantaa sinunkin asuin-, työ- ja elinympäristösi terveellisyyttä ja turvallisuutta. AVI toteuttaa alueellista yhdenvertaisuutta edistämällä kansalaisten oikeusturvaa, hyvinvointia ja turvallisuutta yhteistyössä muiden tahojen kanssa.</p>
 <p>AVI osallistuu turvallisen yhteiskunnan rakentamiseen monin eri tavoin:</p>
 <list><p type="listitem">Aluehallintovirastot koordinoivat toimialueellaan sisäisen turvallisuuden alueellista yhteistyötä ja normaaliolojen häiriötilanteisiin varautumista laajassa yhteistyössä muiden alueviranomaisten, maakunnan liittojen, kuntien, alueen järjestöjen ja kylätoiminnan sekä elinkeinoelämän edustajien kanssa.</p>
@@ -28,18 +30,18 @@
 <p>Tulosta</p>
 <p xml:lang="fit">Jaa</p>
 <p type="title">Oikopolut</p>
-<p xml:lang="koi">2013-07-09</p>
+<p xml:lang="vep">2013-07-09</p>
 <list><p type="listitem">Asiointi</p>
 <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
 </list><p type="title">Muualla verkossa</p>
-<p xml:lang="koi">2015-02-04</p>
+<p xml:lang="vep">2015-02-04</p>
 <list><p type="listitem">Hätäkeskuslaitos</p>
 <p type="listitem">Pelastusopisto</p>
 <p type="listitem">Poliisi</p>
 <p type="listitem">Puolustusvoimat</p>
 <p type="listitem">Sisäministeriö</p>
 </list><p type="title">Lait ja asetukset</p>
-<p xml:lang="koi">2013-03-12</p>
+<p xml:lang="vep">2013-03-12</p>
 <list><p type="listitem">Laki aluehallintovirastosta 896/2009</p>
 <p type="listitem" xml:lang="est">Pelastuslaki 379/2011</p>
 <p type="listitem">Valtioneuvoston asetus pelastustoimesta 407/2011</p>

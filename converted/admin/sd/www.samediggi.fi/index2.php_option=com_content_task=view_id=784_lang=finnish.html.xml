@@ -1,4 +1,6 @@
-<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Inarinsaame, maantieto</title><genre code="admin"/><author><unknown/></author><wordcount>106</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=784&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=784_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=784_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=784_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Inarinsaame, maantieto</p>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Inarinsaame, maantieto</title><genre code="admin"/><author><unknown/></author><wordcount>106</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=784&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=784_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=784_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=784_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Inarinsaame, maantieto</p>
 <p>Matti Leinonen, Teuvo Nyberg, Simo Veistola ja Sanna Jortikka;   saameksi: Ilmari Mattus, piirrokset: Jorma Happonen</p>
 <p type="title" xml:lang="smn">Škoovlâ eennâmtiätu Amerik</p>
 <p>(KM Koulun maatieto Amerikka) on peruskoulun yläluokille tarkoitettu maantiedon oppimateriaali. Oppikirja käsittelee selkeästi kahta maanosaa, Etelä- ja Pohjois-Amerikkaa. Oppikirjan kunkin luvun lopussa on tiivistelmä ja tehtäviä.</p>
@@ -7,7 +9,7 @@
 <p>taso: 7-9. lk</p>
 <p xml:lang="sms">ISBN 978-952-441-259-9</p>
 <p><em type="italic">Saamelaiskäräjät 2013 </em></p>
-<p xml:lang="koi">________________________________________________________________</p>
+<p xml:lang="vep">________________________________________________________________</p>
 <p type="title" xml:lang="smn">Škoovlâ eennâmtiätu Amerik Oppâmvihko</p>
 <p>sivuja:111</p>
 <p xml:lang="som">hinta: 12,00 €</p>
@@ -15,5 +17,5 @@
 <p xml:lang="sms">ISBN 978-952-441-260-5</p>
 <p><em type="italic">Saamelaiskäräjät 2013 </em></p>
 <p>Opiskeluvihko ohjaa käytännön maantieteellisten taitojen, kartan käytön, tilastojen, diagrammien ja ajankohtaismateriaalin ymmärtämiseen ja soveltamiseen. Opiskeluvihossa on pari- ja ryhmätyötehtäviä sekä vihkotyötehtäviä, jotka edellyttävät erilaisten tietolähteiden käyttöä. Lisäksi opiskeluvihossa on päättelytehtäviä ja internet-tehtäviä.</p>
-<p xml:lang="koi">________________________________________________________________</p>
+<p xml:lang="vep">________________________________________________________________</p>
 </body></document>

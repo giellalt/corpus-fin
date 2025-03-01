@@ -1,4 +1,6 @@
-<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>168</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/oikeusturva#.WR69QcYvHNQ</origFileName><parallel_text xml:lang="eng" location="oikeusturva_.wr69j8yvhnq.html"/><parallel_text xml:lang="sme" location="9_.wr69o8yvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Oikeusturva - Aluehallintovirasto</p>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>168</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/oikeusturva#.WR69QcYvHNQ</origFileName><parallel_text xml:lang="eng" location="oikeusturva_.wr69j8yvhnq.html"/><parallel_text xml:lang="sme" location="9_.wr69o8yvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Oikeusturva - Aluehallintovirasto</p>
 <p>› Graafinen versio</p>
 <p xml:lang="fkv">Henkilöhaku</p>
 <list><p type="listitem" xml:lang="olo">Kantelu</p>
@@ -10,7 +12,7 @@
 <p type="listitem">Hautaustoimi</p>
 <p type="listitem" xml:lang="kal">Osakaskunnat</p>
 <p type="listitem">Valtion edunvalvonta</p>
-</list><p xml:lang="koi">2016-05-09</p>
+</list><p xml:lang="vep">2016-05-09</p>
 <p>Aluehallintovirasto (AVI) edistää perusoikeuksien ja oikeusturvan toteutumista kaikessa toiminnassaan. AVIn oikeusturvayksikössä hoidetaan AVIlle useissa laeissa säädettyjä erityistehtäviä, jotka koskevat oikeusturvan toteutumista muun muassa kunnissa ja eri yhteisöissä.</p>
 <p>Varsinaisia AVIn oikeusturvayksikön tehtäviä ovat muun muassa</p>
 <list><p type="listitem">laissa erikseen säädettyjen valitusten ja oikaisupyyntöjen käsitteleminen</p>
@@ -33,7 +35,7 @@
 <p>Tulosta</p>
 <p xml:lang="fit">Jaa</p>
 <p type="title">Oikopolut</p>
-<p xml:lang="koi">2013-07-09</p>
+<p xml:lang="vep">2013-07-09</p>
 <list><p type="listitem">Asiointi</p>
 <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
 </list></body></document>

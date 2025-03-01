@@ -1,6 +1,8 @@
 <document xml:lang="fin" id="no_id"><header><title>Tuomioistuimet - 
 	Oikeus.fi
-</title><genre code="admin"/><author><unknown/></author><year>2015</year><wordcount>121</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/oikeuslaitos/tuomioistuimet.html</origFileName><parallel_text xml:lang="sme" location="duopmostuolut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Oikeuslaitos</p>
+</title><genre code="admin"/><author><unknown/></author><year>2015</year><wordcount>121</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/fi/index/esitteet/oikeuslaitos/tuomioistuimet.html</origFileName><parallel_text xml:lang="sme" location="duopmostuolut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p type="title">Oikeuslaitos</p>
 <p type="title">Tuomioistuimet</p>
 <p>Tuomioistuimet voidaan jaotella yleisiin tuomioistuimiin, hallintotuomioistuimiin ja erityistuomioistuimiin.</p>
 <p><em type="bold">Yleisiä tuomioistuimia </em>ovat käräjäoikeudet, hovioikeudet ja korkein oikeus (KKO). Käräjäoikeudet käsittelevät riita- ja rikosasioita. Kunkin käräjäoikeuden tuomiopiiriin kuuluu yleensä useita kuntia. Käräjäoikeuden tuomiosta voi valittaa hovioikeuteen. </p>

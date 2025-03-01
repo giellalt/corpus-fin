@@ -1,4 +1,6 @@
-<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>230</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/elinkeinot#.WR69wMYvHNQ</origFileName><parallel_text xml:lang="eng" location="elinkeinot_.wr69ucyvhnq.html"/><parallel_text xml:lang="sme" location="fidnut_.wr69ssyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Elinkeinot - Aluehallintovirasto</p>
+<document xml:lang="fin" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>230</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.avi.fi/web/avi/elinkeinot#.WR69wMYvHNQ</origFileName><parallel_text xml:lang="eng" location="elinkeinot_.wr69ucyvhnq.html"/><parallel_text xml:lang="sme" location="fidnut_.wr69ssyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Elinkeinot - Aluehallintovirasto</p>
 <p>› Graafinen versio</p>
 <p xml:lang="fkv">Henkilöhaku</p>
 <list><p type="listitem">Alkoholi</p>
@@ -9,7 +11,7 @@
 <p type="listitem">Rahanpesulain valvonta</p>
 <p type="listitem">Talous- ja velkaneuvonta</p>
 <p type="listitem" xml:lang="vep">Tekijänoikeus</p>
-</list><p xml:lang="koi">2016-02-16</p>
+</list><p xml:lang="vep">2016-02-16</p>
 <p>Aluehallintovirasto (AVI) on elinkeinoasioissa muun muassa alkoholielinkeinon sekä kilpailu- ja kuluttaja-asioiden alueellinen asiantuntija-, lupa- ja valvontaviranomainen.</p>
 <p>Alkoholihallinnon tavoitteena on ehkäistä alkoholipitoisista aineista aiheutuvia yhteiskunnallisia, sosiaalisia ja terveydellisiä haittoja kulutusta ohjaamalla. AVIt myöntävät alkoholijuomien anniskelu- ja vähittäismyyntiluvat alueillaan sekä valvovat luvanhaltijoiden toimintaa.</p>
 <p>Kilpailu- ja kuluttajahallinnossa sekä elinkeinovalvonnassa tavoitteena on edistää tervettä ja toimivaa taloudellista kilpailua, kuluttajansuojan ja kansalaisten taloudellisen turvallisuuden toteutumista sekä elinkeinonharjoittajien tasapuolisia toimintaedellytyksiä. AVIn tehtävät vaihtelevat perintätoimistojen, luotonantajien sekä kiinteistönvälitysliikkeiden valvonta- ja lupatehtävistä hintojen ilmoittamisen valvontaan.</p>
@@ -31,7 +33,7 @@
 <p>Tulosta</p>
 <p xml:lang="fit">Jaa</p>
 <p type="title">Oikopolut</p>
-<p xml:lang="koi">2015-03-31</p>
+<p xml:lang="vep">2015-03-31</p>
 <list><p type="listitem">Yksityiset sosiaalipalvelut</p>
 <p type="listitem">Yksityiset terveyspalvelut</p>
 <p type="listitem">Vesitalousluvat</p>
@@ -39,7 +41,7 @@
 <p type="listitem">Asiointi</p>
 <p type="listitem" xml:lang="fkv">Henkilöhaku</p>
 </list><p type="title">Muualla verkossa</p>
-<p xml:lang="koi">2013-05-20</p>
+<p xml:lang="vep">2013-05-20</p>
 <list><p type="listitem">Kilpailu- ja kuluttajavirasto</p>
 </list><p type="title" xml:lang="fkv">Alueelliset linkit</p>
 <p xml:lang="sms">Alueet: Lappi</p>

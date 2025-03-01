@@ -1,4 +1,6 @@
-<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Pohjoissaame, alakoulun matematiikka</title><genre code="admin"/><author><unknown/></author><wordcount>787</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=133&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=133_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=133_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Pohjoissaame, alakoulun matematiikka</p>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Pohjoissaame, alakoulun matematiikka</title><genre code="admin"/><author><unknown/></author><wordcount>787</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=133&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=133_lang=english.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=133_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Pohjoissaame, alakoulun matematiikka</p>
 <p type="title" xml:lang="sme">Lohkoleaika</p>
 <p><em type="italic">- </em>oppimateriaali on käännetty saamenkielelle WSOY:n sarjasta <em type="italic">Matikka. </em> </p>
 <p><em type="italic">Lohkoleaika 3-6 koepaketteja </em> sekä  <em type="italic">oppikirjan tehtävien ratkaisut  </em>     </p>
@@ -7,26 +9,26 @@
 <p><em type="italic">Päivi Okkonen-Sotka, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em>saameksi    <em type="italic">Merja Nillukka    </em></p>
 <p type="title">čakčaoassi (syyskirja)</p>
 <p>sivuja: 180</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em> </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em> </p>
 <p xml:lang="sms">ISBN 978-952-441-207-0</p>
 <p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
 <p type="title">giđđaoassi (kevätkirja)</p>
 <p>sivuja: 192</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-231-5</p>
 <p><em type="italic">Saamelaiskäräjät 2012 </em> </p>
 <p type="title" xml:lang="sme">Lohkoleaika 2</p>
 <p type="title">taso: 2 lk</p>
 <p><em type="italic">Päivi Okkonen-Sotka, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em> saameksi    <em type="italic">Merja Nillukka    </em>  </p>
 <p type="title">čakčaoassi (syyskirja)</p>
-<p xml:lang="koi"/>
+<p xml:lang="tur"/>
 <p>sivuja: 194</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-226-1</p>
 <p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
 <p type="title">giđđaoassi (kevätkirja)</p>
 <p>sivuja: 191</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-232-2</p>
 <p><em type="italic">Saamelaiskäräjät 2012  </em></p>
 <p type="title" xml:lang="sme">Lohkoleaika 3</p>
@@ -34,14 +36,14 @@
 <p><em type="italic">Sari Rinne, Ann-Mari Sintonen ja Tuula Uus-Leponiemi,  </em> </p>
 <p>saameksi <em type="italic">Jovnna-Ánde Vest    </em> </p>
 <p type="title">čakčaoassi (syyskirja)</p>
-<p xml:lang="koi"><em type="bold"> </em></p>
+<p xml:lang="tur"><em type="bold"> </em></p>
 <p>sivuja: 204</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-224-7</p>
 <p><em type="italic">Saamelaiskäräjät 2011 </em> </p>
 <p type="title">giđđaoassi (kevätkirja)</p>
 <p>sivuja: 210</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-222-3</p>
 <p><em type="italic">Saamelaiskäräjät 2012 </em> </p>
 <p type="title" xml:lang="sme">Lohkoleaika 4</p>
@@ -51,12 +53,12 @@
 <p><em type="bold">Jovnna-Ánde Vest    </em></p>
 <p type="title">čakčaoassi (syyskirja)</p>
 <p>sivuja: 200</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-225-4</p>
 <p><em type="italic">Saamelaiskäräjät 2011 </em></p>
 <p><em type="italic">giđđaoassi (kevätkirja) </em>  </p>
 <p>sivuja: 210</p>
-<p xml:lang="koi"><em type="italic">17,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">17,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-230-8</p>
 <p>Saamelaiskäräjät 2012</p>
 <p type="title" xml:lang="sme">Lohkoleaika 5</p>
@@ -66,12 +68,12 @@
 <p><em type="bold">Jovnna-Ánde Vest    </em></p>
 <p type="title">čakčaoassi (syyskirja)</p>
 <p>sivuja: 203</p>
-<p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-237-7</p>
 <p><em type="italic">Saamelaiskäräjät 2012 </em></p>
 <p xml:lang="est">g  <em type="italic">iđđaoassi (kevätkirja) </em>  </p>
 <p>sivuja: 211</p>
-<p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-238-4</p>
 <p>Saamelaiskäräjät 2012</p>
 <p type="title" xml:lang="sme">Lohkoleaika 6</p>
@@ -81,15 +83,15 @@
 <p><em type="bold">Jovnna-Ánde Vest    </em></p>
 <p type="title">čakčaoassi (syyskirja)</p>
 <p>sivuja: 203</p>
-<p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-242-1</p>
 <p>Saamelaiskäräjät 2012</p>
 <p type="title">giđđaoassi (kevätkirja)</p>
 <p>sivuja: 211</p>
-<p xml:lang="koi"><em type="italic">20,00 €    </em>   </p>
+<p xml:lang="vep"><em type="italic">20,00 €    </em>   </p>
 <p xml:lang="sms">ISBN 978-952-441-243-8</p>
 <p>Saamelaiskäräjät 2012</p>
-<p xml:lang="koi"><em type="bold">______________________________  ___________   ___________________________________  </em></p>
+<p xml:lang="vep"><em type="bold">______________________________  ___________   ___________________________________  </em></p>
 <p type="title" xml:lang="sme">Oahpa rehkenastit</p>
 <p xml:lang="rmn"><em type="bold">O </em></p>
 <p>ppimateriaali käännetty saamenkielelle WSOY:n sarjasta</p>

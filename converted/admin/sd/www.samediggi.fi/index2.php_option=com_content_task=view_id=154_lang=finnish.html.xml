@@ -1,29 +1,31 @@
-<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Inarinsaame, lastenkirjat</title><genre code="admin"/><author><unknown/></author><wordcount>253</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=154&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=154_lang=english.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=154_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Inarinsaame, lastenkirjat</p>
+<document xml:lang="fin" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Inarinsaame, lastenkirjat</title><genre code="admin"/><author><unknown/></author><wordcount>253</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=154&amp;lang=finnish.html</origFileName><parallel_text xml:lang="eng" location="index2.php_option=com_content_task=view_id=154_lang=english.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=154_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Inarinsaame, lastenkirjat</p>
 <p type="title" xml:lang="smn">Puppâ</p>
 <p>Äidinkielen oheismateriaali 0-6 luokille Teksti ja kuvat Inga Borg</p>
 <p>Pohjoissaamesta kääntänyt Henna Lehtola, kielentarkistus Ilmari Mattus. Saamelaiskäräjät 2015</p>
 <p>Puppâ on pieni olento, jota ihminen ei voi nähdä – ellei lue tätä kirjaa! Pupân kota on piilossa Sinijärven rannassa jossakin Saamenmaan tunturien keskellä. Hänen kanssaan voit tutustua Saamenmaan luontoon ja eläimiin.</p>
 <p type="title" xml:lang="smn">Puppâ já koddesäpligeh</p>
-<p xml:lang="koi"><span type="quote" xml:lang="swe">"Plupp och lämlarna"</span>, 1960</p>
-<p xml:lang="koi">15,00 €</p>
+<p xml:lang="vep"><span type="quote" xml:lang="swe">"Plupp och lämlarna"</span>, 1960</p>
+<p xml:lang="vep">15,00 €</p>
 <p xml:lang="sms">ISBN: 978-952-441-300-8</p>
 <p type="title" xml:lang="smn">Puppâ já iilvâs</p>
-<p xml:lang="koi"><span type="quote" xml:lang="swe">"Plupp och lodjuret"</span>, 2005</p>
-<p xml:lang="koi">10,00 €</p>
+<p xml:lang="vep"><span type="quote" xml:lang="swe">"Plupp och lodjuret"</span>, 2005</p>
+<p xml:lang="vep">10,00 €</p>
 <p xml:lang="sms">ISBN: 978-952-441-301-5</p>
 <p type="title" xml:lang="smn">Puupâ máláseh</p>
-<p xml:lang="koi"><span type="quote" xml:lang="olo">"Kalas hos Plupp"</span>, 1996</p>
-<p xml:lang="koi">10,00 €</p>
+<p xml:lang="vep"><span type="quote" xml:lang="olo">"Kalas hos Plupp"</span>, 1996</p>
+<p xml:lang="vep">10,00 €</p>
 <p xml:lang="sms">ISBN: 978-952-441-298-8</p>
 <p type="title" xml:lang="smn">Puppâ já soorvah</p>
-<p xml:lang="koi"><span type="quote" xml:lang="swe">"Plupp och älgen"</span>, 1998</p>
-<p xml:lang="koi">10,00 €</p>
+<p xml:lang="vep"><span type="quote" xml:lang="swe">"Plupp och älgen"</span>, 1998</p>
+<p xml:lang="vep">10,00 €</p>
 <p xml:lang="sms">ISBN: 978-952-441-299-5</p>
 <p type="title" xml:lang="smn">Puppâ já kuobžâčiivgah</p>
-<p xml:lang="koi"><span type="quote" xml:lang="swe">"Plupp och björnungarna"</span>, 1983</p>
-<p xml:lang="koi">10,00 €</p>
+<p xml:lang="vep"><span type="quote" xml:lang="swe">"Plupp och björnungarna"</span>, 1983</p>
+<p xml:lang="vep">10,00 €</p>
 <p xml:lang="sms">ISBN: 978-952-441-302-2</p>
-<p xml:lang="koi">_____________________________________________________________________________________</p>
+<p xml:lang="vep">_____________________________________________________________________________________</p>
 <p type="title" xml:lang="smn">Puppâ</p>
 <p>Äidinkielen oheismateriaali 0-6 luokille</p>
 <p>Teksti ja kuvat Inga Borg</p>
@@ -32,46 +34,46 @@
 <p xml:lang="smn">Marja-Liisa Olthuis (Puppâ já vyesi).</p>
 <p>Saamelaiskäräjät 1996-1997</p>
 <p type="title" xml:lang="smn">Puppâ já vyesi</p>
-<p xml:lang="koi">5,00 €</p>
+<p xml:lang="vep">5,00 €</p>
 <p xml:lang="sms">ISBN: 952-441-009-5</p>
 <p type="title" xml:lang="smn">Puppâ ja kiđđatulve</p>
-<p xml:lang="koi">5,00 €</p>
+<p xml:lang="vep">5,00 €</p>
 <p xml:lang="sms">ISBN: 952-441-007-9</p>
 <p type="title" xml:lang="smn">Tälvi Puupâ kuvlân</p>
-<p xml:lang="koi">5,00 €</p>
+<p xml:lang="vep">5,00 €</p>
 <p xml:lang="sms">ISBN: 951-53-0984-0</p>
 <p type="title" xml:lang="smn">Puppâ pääihist</p>
-<p xml:lang="koi">5,00 €</p>
+<p xml:lang="vep">5,00 €</p>
 <p xml:lang="sms">ISBN: 952-441-007-9</p>
 <p type="title" xml:lang="smn">Puppâ Puáris Vyevdist</p>
-<p xml:lang="koi">5,00 €</p>
+<p xml:lang="vep">5,00 €</p>
 <p xml:lang="sms">ISBN: 952-441-008-7</p>
-<p xml:lang="koi">_____________________________________________________________________________________</p>
+<p xml:lang="vep">_____________________________________________________________________________________</p>
 <p>Gösta Knutsson, teksti</p>
 <p>(Pekka Töpöhäntä saa ystävän)</p>
 <p>Harald Soneson, kuvat</p>
 <p type="title" xml:lang="smn">Pieinis-Piäká ustev</p>
 <p>inarinsaameksi: Ilmari Mattus</p>
 <p>taso: sopii hyvin lukukirjaksi ala-asteelle sekä vieraan kielen opiskeluun</p>
-<p xml:lang="koi">15,00 €</p>
+<p xml:lang="vep">15,00 €</p>
 <p xml:lang="sms">ISBN: 978-952-441-122-6</p>
 <p>Saamelaiskäräjät 2006</p>
-<p xml:lang="koi">_________________________________________________________________________</p>
+<p xml:lang="vep">_________________________________________________________________________</p>
 <p xml:lang="sme">Ellen Marie Vars, kuvitus Berit Marit Hætta</p>
 <p type="title" xml:lang="kmr">Uábbi</p>
 <p>pohjoissaamesta kääntäneet:</p>
 <p xml:lang="smn">Kaarina Mattus já Matti Morottaja</p>
 <p>taso: esiopetus - 3 lk</p>
-<p xml:lang="koi">3,00 €</p>
+<p xml:lang="vep">3,00 €</p>
 <p xml:lang="sms">ISBN: 951-47-9912-7</p>
 <p>Lapin lääninhallitus 1994</p>
-<p xml:lang="koi">_________________________________________________________________________</p>
+<p xml:lang="vep">_________________________________________________________________________</p>
 <p xml:lang="sme">Inger Haldis Halvari, kuvitus Berit Marit Hætta</p>
 <p type="title" xml:lang="smn">Čiivšâ čivgâ čii</p>
 <p>pohjoissaamesta kääntäneet:</p>
 <p xml:lang="smn">Kaarina Mattus já Matti Morottaja</p>
 <p>taso: esiopetus - 3 lk</p>
-<p xml:lang="koi">3,00 €</p>
+<p xml:lang="vep">3,00 €</p>
 <p xml:lang="sms">ISBN: 951-47-9914-3</p>
 <p>Lapin lääninhallitus 1996</p>
 </body></document>
